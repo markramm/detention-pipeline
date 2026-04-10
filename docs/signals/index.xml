@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signals on Detention Pipeline</title>
+    <link>http://localhost:8787/signals/</link>
+    <description>Recent content in Signals on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:8787/signals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis</title>
+      <link>http://localhost:8787/signals/analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contract</title>
+      <link>http://localhost:8787/signals/contract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/contract/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contractor</title>
+      <link>http://localhost:8787/signals/contractor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/contractor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>County-Fight</title>
+      <link>http://localhost:8787/signals/county-fight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/county-fight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>http://localhost:8787/signals/event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/event/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Facility</title>
+      <link>http://localhost:8787/signals/facility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/facility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Igsa</title>
+      <link>http://localhost:8787/signals/igsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/igsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Note</title>
+      <link>http://localhost:8787/signals/note/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/note/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organization</title>
+      <link>http://localhost:8787/signals/organization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/organization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Person</title>
+      <link>http://localhost:8787/signals/person/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/signals/person/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

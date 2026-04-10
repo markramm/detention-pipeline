@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{ $repoURL := site.Params.repoURL }}
+{{ $repoPath := .Params.repo_path }}
+
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>
+  {{ with .Params.fips }}<a href="/county/{{ . }}/">County</a><span class="sep">/</span>{{ end }}
+  {{ .Title }}
+</div>
+
+<div class="page-content">
+  <div style="padding-top:24px; max-width:720px;">
+    <div style="margin-bottom:6px;">
+      <span class="signal-badge">
+        <span class="signal-dot" style="background:{{ .Params.signal_color }};"></span>
+        {{ .Params.signal_label }}
+      </span>
+    </div>
+    <h1 class="serif" style="font-size:26px; font-weight:400; letter-spacing:-0.01em; margin-bottom:8px;">{{ .Title }}</h1>
+    <div class="mono dim small" style="margin-bottom:20px;">
+      {{ with .Params.county }}{{ . }} · {{ end }}{{ .Params.state }}
+      {{ with .Params.fips }} · FIPS {{ . }}{{ end }}
+    </div>
+
+    <div style="font-size:14px; color:var(--text-secondary); line-height:1.75; margin-bottom:32px; white-space:pre-line;">
+      {{ .Content }}
+    </div>
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap; padding-top:16px; border-top:1px solid var(--border);">
+      {{ with $repoPath }}
+      <a href="{{ $repoURL }}/edit/main/{{ . }}" class="btn btn-sm" target="_blank" rel="noopener">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064l6.286-6.286Z"/></svg>
+        Edit this entry
+      </a>
+      {{ end }}
+      <a href="{{ $repoURL }}/issues/new?template=data-correction.yml&county={{ .Params.county | default .Title | urlquery }}" class="btn btn-sm" target="_blank" rel="noopener">
+        Report an issue
+      </a>
+      {{ with .Params.fips }}
+      <a href="/county/{{ . }}/" class="btn btn-sm">County profile</a>
+      {{ end }}
+    </div>
+
+    {{/* Related entries: same FIPS, different entry */}}
+    {{ with .Params.fips }}
+    {{ $fips := . }}
+    {{ $current := $.RelPermalink }}
+    {{ $related := where site.RegularPages "Params.fips" $fips }}
+    {{ $related = where $related "RelPermalink" "!=" $current }}
+    {{ if $related }}
+    <div style="margin-top:32px;">
+      <h3 class="mono dim" style="font-size:9px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:10px; padding-bottom:6px; border-bottom:1px solid var(--border);">
+        Other signals in this county
+      </h3>
+      {{ range first 10 $related }}
+      <div class="card">
+        <a href="{{ .RelPermalink }}">
+          <div style="display:flex; align-items:center; gap:6px;">
+            <span class="signal-dot" style="background:{{ .Params.signal_color }};"></span>
+            <span class="card-title" style="margin:0;">{{ .Title }}</span>
+          </div>
+        </a>
+      </div>
+      {{ end }}
+      {{ if gt (len $related) 10 }}
+      <a href="/county/{{ $fips }}/" class="btn btn-sm" style="margin-top:8px;">View all {{ len $related | add 1 }} entries →</a>
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,84 @@
+{{ define "main" }}
+{{ $repoURL := site.Params.repoURL }}
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>Contribute
+</div>
+<div class="page-content">
+  <div style="max-width:720px; padding-top:24px;">
+    <h1 class="serif" style="font-size:32px; font-weight:400; margin-bottom:8px;">Contribute</h1>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:32px;">
+      Every verified signal makes this early-warning system more effective. There are three ways to contribute.
+    </p>
+
+    <div style="display:grid; gap:16px; margin-bottom:32px;">
+
+      <div class="card" style="padding:20px 24px; border-left:3px solid var(--accent);">
+        <h3 style="font-size:16px; font-weight:500; margin-bottom:6px;">Submit a tip</h3>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:12px;">
+          Spotted a county commission agenda item about detention? A job posting from a detention consultant?
+          A warehouse sale near a county jail? File a tip and we'll research it.
+        </p>
+        <p style="font-size:12px; color:var(--text-dim); margin-bottom:12px;">
+          Good tips include a county and state, a source URL, and a date. We verify every tip before adding it to the system.
+        </p>
+        <a href="{{ $repoURL }}/issues/new?template=tip.yml" class="btn btn-accent" target="_blank" rel="noopener">Submit a tip →</a>
+      </div>
+
+      <div class="card" style="padding:20px 24px; border-left:3px solid var(--accent-warm);">
+        <h3 style="font-size:16px; font-weight:500; margin-bottom:6px;">Add data directly</h3>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:12px;">
+          Know your way around markdown and git? Fork the repo, add entries, and submit a pull request.
+          Every entry is a markdown file with YAML frontmatter.
+        </p>
+        <p style="font-size:12px; color:var(--text-dim); margin-bottom:12px;">
+          Each entry needs: a title, county, state, FIPS code, signal type, and at least one source.
+          See <a href="{{ $repoURL }}/blob/main/kb/kb.yaml" style="color:var(--accent-warm)">kb.yaml</a> for the full schema.
+        </p>
+        <a href="{{ $repoURL }}/fork" class="btn" target="_blank" rel="noopener">Fork the repo →</a>
+      </div>
+
+      <div class="card" style="padding:20px 24px; border-left:3px solid #5f6a7a;">
+        <h3 style="font-size:16px; font-weight:500; margin-bottom:6px;">Improve the methodology</h3>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:12px;">
+          Think a signal should be weighted differently? Want to propose a new signal type?
+          Disagree with how convergence bonuses work? Open a methodology discussion.
+        </p>
+        <a href="{{ $repoURL }}/issues/new?template=methodology.yml" class="btn" target="_blank" rel="noopener">Propose a change →</a>
+      </div>
+
+    </div>
+
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      What makes a good tip
+    </h2>
+    <div style="font-size:13px; color:var(--text-secondary); line-height:1.8; margin-bottom:24px;">
+      <p style="margin-bottom:8px;"><strong>Strong tips</strong> (Tier 1 sources):</p>
+      <ul style="padding-left:20px; margin-bottom:12px;">
+        <li>County commission meeting minutes mentioning ICE, detention, or IGSA</li>
+        <li>Government contract awards (USAspending.gov)</li>
+        <li>Court filings or FOIA releases</li>
+        <li>Official job postings from detention contractors</li>
+      </ul>
+      <p style="margin-bottom:8px;"><strong>Good tips</strong> (Tier 2):</p>
+      <ul style="padding-left:20px; margin-bottom:12px;">
+        <li>Local newspaper coverage of detention proposals</li>
+        <li>Investigative journalism or advocacy org reports</li>
+      </ul>
+      <p style="margin-bottom:8px;"><strong>Leads</strong> (Tier 3 — we'll investigate):</p>
+      <ul style="padding-left:20px;">
+        <li>Social media posts from county officials</li>
+        <li>Word of mouth from community members</li>
+      </ul>
+    </div>
+
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      Report an error
+    </h2>
+    <p style="font-size:13px; color:var(--text-secondary); line-height:1.7; margin-bottom:12px;">
+      Found incorrect data? Every entry page has an "Edit" button that links to the GitHub editor
+      and a "Report an issue" button for flagging errors.
+    </p>
+    <a href="{{ $repoURL }}/issues/new?template=data-correction.yml" class="btn btn-sm" target="_blank" rel="noopener">Report a data correction →</a>
+  </div>
+</div>
+{{ end }}

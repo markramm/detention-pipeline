@@ -1,0 +1,24 @@
+---
+title: "287(g) TFM: Damascus Township Constable (PA)"
+type: entry
+layout: single
+entry_type: "287g-agreement"
+signal_label: "287(g) Agreement"
+signal_color: "#d46a2f"
+fips: ""
+state: "PA"
+county: ""
+repo_path: "kb/287g/287-g-tfm-damascus-township-constable-pa.md"
+signals: ["287g-agreement"]
+states: ["PA"]
+---
+
+287(g) agreement between ICE and Damascus Township Constable.
+
+Model: TFM
+Signed: April 29, 2025
+County: 
+State: PA
+FIPS: unresolved
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

@@ -1,0 +1,26 @@
+---
+title: "Presidio County, TX — USDA Distress Profile (3 indicators)"
+type: entry
+layout: single
+entry_type: "budget-distress"
+signal_label: "Budget Distress"
+signal_color: "#9a4fb5"
+fips: "48377"
+state: "TX"
+county: "Presidio"
+repo_path: "kb/budget/presidio-county-tx-usda-distress-profile-3-indicators.md"
+signals: ["budget-distress"]
+states: ["TX"]
+---
+
+USDA Economic Research Service county typology flags Presidio County, TX with 3 distress indicators:
+
+government/corrections-dependent economy; persistent poverty (20%+ poverty rate for 30+ years); housing stress
+
+Full flags: Government, Housing Stress, Persistent Poverty
+
+This county already has an IGSA detention facility. The combination of existing federal detention relationship + economic distress = high vulnerability to expansion pitch.
+
+Nonmetro: nonmetro
+
+Source: USDA ERS County Typology Codes, 2025 edition

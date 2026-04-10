@@ -1,0 +1,23 @@
+---
+title: "INGENESIS INC — ICE BEXAR, TX $37,566,995"
+type: entry
+layout: single
+entry_type: "anc-contract"
+signal_label: "ANC Contract"
+signal_color: "#c49025"
+fips: "48029"
+state: "TX"
+county: "BEXAR"
+repo_path: "kb/anc/ingenesis-inc-ice-bexar-tx-37566995.md"
+signals: ["anc-contract"]
+states: ["TX"]
+---
+
+ICE contract.
+
+Recipient: INGENESIS INC
+Award ID: 70CDCR24FR0000032
+Amount: $37,566,994.86
+Description: MEDICAL STAFFING SERVICES FOR THE ICE HEALTH SERVICE CORPS (IHSC) TASK ORDER 3
+Period: 2024-09-23 to 2026-09-22
+Location: BEXAR, TX (FIPS: 48029)

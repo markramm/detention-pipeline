@@ -1,0 +1,24 @@
+---
+title: "287(g) TFM: Calhoun County Sheriff’s Office (AR)"
+type: entry
+layout: single
+entry_type: "287g-agreement"
+signal_label: "287(g) Agreement"
+signal_color: "#d46a2f"
+fips: "05013"
+state: "AR"
+county: "Calhoun County"
+repo_path: "kb/287g/287-g-tfm-calhoun-county-sheriff-s-office-ar.md"
+signals: ["287g-agreement"]
+states: ["AR"]
+---
+
+287(g) agreement between ICE and Calhoun County Sheriff’s Office.
+
+Model: TFM
+Signed: January 7, 2026
+County: Calhoun County
+State: AR
+FIPS: 05013
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

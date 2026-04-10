@@ -1,0 +1,23 @@
+---
+title: "THE GEO GROUP, INC. — ICE BROWARD, FL $39,209,370"
+type: entry
+layout: single
+entry_type: "anc-contract"
+signal_label: "ANC Contract"
+signal_color: "#c49025"
+fips: "12011"
+state: "FL"
+county: "BROWARD"
+repo_path: "kb/anc/the-geo-group-inc-ice-broward-fl-39209370.md"
+signals: ["anc-contract"]
+states: ["FL"]
+---
+
+ICE contract.
+
+Recipient: THE GEO GROUP, INC.
+Award ID: 70CDCR20FR0000039
+Amount: $39,209,369.78
+Description: SERVICES AT BROWARD TRANSITIONAL CENTER
+Period: 2020-06-17 to 2024-01-25
+Location: BROWARD, FL (FIPS: 12011)

@@ -1,0 +1,47 @@
+{
+  "287g-agreement": {
+    "label": "287(g) Agreement",
+    "weight": 7,
+    "color": "#d46a2f"
+  },
+  "anc-contract": {
+    "label": "ANC Contract",
+    "weight": 8,
+    "color": "#c49025"
+  },
+  "budget-distress": {
+    "label": "Budget Distress",
+    "weight": 5,
+    "color": "#9a4fb5"
+  },
+  "commission-activity": {
+    "label": "Commission Activity",
+    "weight": 7,
+    "color": "#8a9f2a"
+  },
+  "comms-discipline": {
+    "label": "Comms Discipline",
+    "weight": 6,
+    "color": "#6a5fb5"
+  },
+  "job-posting": {
+    "label": "Job Posting",
+    "weight": 7,
+    "color": "#2a9f6f"
+  },
+  "legislative-trace": {
+    "label": "Legislative Trace",
+    "weight": 1,
+    "color": "#5f6a7a"
+  },
+  "real-estate-trace": {
+    "label": "Real Estate Trace",
+    "weight": 2,
+    "color": "#b54f8a"
+  },
+  "sheriff-network": {
+    "label": "Sheriff Network",
+    "weight": 6,
+    "color": "#2a7fb5"
+  }
+}

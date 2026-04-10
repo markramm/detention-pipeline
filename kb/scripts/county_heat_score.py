@@ -234,8 +234,15 @@ def main():
     parser.add_argument("--min-score", type=int, default=0, help="Minimum score to display")
     parser.add_argument("--output", type=str, default="table", choices=["table", "csv", "json"], help="Output format")
     parser.add_argument("--with-legistar", action="store_true", help="Include Legistar client ID guesses")
-    parser.add_argument("--igsa-path", type=str, default="/Users/markr/tcp-kb-internal/igsa-holders")
-    parser.add_argument("--pipeline-path", type=str, default="/Users/markr/tcp-kb-internal/detention-pipeline-research")
+    # Default paths: in-repo structure (kb/facilities, kb/) or legacy tcp-kb-internal paths
+    default_igsa = os.path.join(os.path.dirname(__file__), "..", "facilities")
+    if not os.path.isdir(default_igsa):
+        default_igsa = "/Users/markr/tcp-kb-internal/igsa-holders"
+    default_pipeline = os.path.join(os.path.dirname(__file__), "..")
+    if not os.path.isdir(default_pipeline):
+        default_pipeline = "/Users/markr/tcp-kb-internal/detention-pipeline-research"
+    parser.add_argument("--igsa-path", type=str, default=default_igsa)
+    parser.add_argument("--pipeline-path", type=str, default=default_pipeline)
     args = parser.parse_args()
 
     load_fips_lookup()

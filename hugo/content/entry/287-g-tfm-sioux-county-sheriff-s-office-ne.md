@@ -1,0 +1,24 @@
+---
+title: "287(g) TFM: Sioux County Sheriff’s Office (NE)"
+type: entry
+layout: single
+entry_type: "287g-agreement"
+signal_label: "287(g) Agreement"
+signal_color: "#d46a2f"
+fips: "31165"
+state: "NE"
+county: "Sioux County"
+repo_path: "kb/287g/287-g-tfm-sioux-county-sheriff-s-office-ne.md"
+signals: ["287g-agreement"]
+states: ["NE"]
+---
+
+287(g) agreement between ICE and Sioux County Sheriff’s Office.
+
+Model: TFM
+Signed: September 9, 2025
+County: Sioux County
+State: NE
+FIPS: 31165
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

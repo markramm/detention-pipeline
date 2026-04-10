@@ -1,0 +1,43 @@
+---
+id: delaney-hall-newark-nj
+title: "Delaney Hall — Newark NJ GEO Group ICE Facility"
+type: facility
+facility_type: private-prison
+location: "Newark, NJ"
+county: "Essex"
+state: "New Jersey"
+capacity: "1,000"
+operator: "GEO Group"
+contract_type: private-contract
+status: operational
+importance: 7
+tags: [private-prison, geo-group, new-jersey, newark, reactivated, billion-dollar-contract]
+research_status: stub
+---
+
+# Delaney Hall — Newark NJ GEO Group ICE Facility
+
+## Overview
+
+The **Delaney Hall Facility** in Newark, New Jersey is a **1,000-bed** [[geo-group|GEO Group]]-operated ICE detention center. It was reactivated with an ICE contract valued at approximately **$1 billion**, making it one of the largest single-facility contracts in the detention expansion.
+
+## Key Details
+
+- **Capacity**: 1,000 beds
+- **Operator**: [[geo-group|GEO Group]]
+- **Contract value**: ~$1 billion
+- **Status**: Operational (reactivated 2025)
+
+## Context
+
+Delaney Hall is one of four [[geo-group|GEO Group]] facilities reactivated in 2025, together adding approximately 6,000 beds to GEO's ICE capacity (from ~20,000 to ~26,000 beds). The facility was prominently covered by The City NYC as part of GEO Group's "unprecedented" revenue expectations.
+
+## Financial Context
+
+[[geo-group|GEO Group]] reported **$254 million in profit** in 2025 (a ~700% increase over 2024) and projects **~$3 billion in 2026 revenue**. The Delaney Hall contract is a significant contributor.
+
+## Sources
+
+- [Prison Company Foresees 'Unprecedented' Revenue, Announces Massive Newark ICE Lock-Up — The City](https://www.thecity.nyc/2025/02/27/ice-immigrant-detention-newark-geo-group/)
+- [GEO Group Reports Fourth Quarter and Full Year 2025 Results — GEO Group](https://investors.geogroup.com/news-releases/news-release-details/geo-group-reports-fourth-quarter-and-full-year-2025-results)
+- [ICE's Largest Prison Contractors Post Record Revenue — Time](https://time.com/7378284/ice-immigration-detention-contractors-record-revenue/)

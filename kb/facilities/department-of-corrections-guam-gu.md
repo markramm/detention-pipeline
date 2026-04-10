@@ -1,0 +1,20 @@
+---
+id: department-of-corrections-guam-gu
+title: "Department Of Corrections — Guam, GU"
+type: igsa
+county: "Guam"
+state: "GU"
+fips: "66010"
+facility_name: "Department Of Corrections"
+operator: ""
+status: "active"
+source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
+tags:
+- igsa
+- gu
+importance: 5
+---
+
+IGSA detention facility: Department Of Corrections in Guam County, GU.
+
+Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)

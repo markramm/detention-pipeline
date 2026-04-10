@@ -1,0 +1,35 @@
+---
+title: "Rockefeller Group (Mitsubishi Estate) — Surprise AZ Warehouse Seller"
+type: entry
+layout: single
+entry_type: "organization"
+signal_label: "organization"
+signal_color: "#666"
+fips: ""
+state: ""
+county: ""
+repo_path: "kb/industry/organizations/rockefeller-group.md"
+signals: ["organization"]
+states: [""]
+---
+
+# Rockefeller Group (Mitsubishi Estate)
+
+## Overview
+
+Rockefeller Group, a subsidiary of Japan's Mitsubishi Estate, sold the Surprise, Arizona warehouse to DHS for **$70 million** — a property that cost approximately **$12 million in 2023**, representing a **~483% markup**.
+
+## The Surprise Sale
+
+- **Seller entity**: RG Surprise AZ LLC
+- **Purchase price**: $70 million
+- **2023 cost basis**: ~$12 million
+- **Markup**: ~483%
+- **Planned capacity**: ~1,500 beds
+- City of Surprise passed a 5-year ban on detention facilities (unenforceable due to federal preemption)
+- Contractor awarded the facility (GardaWorld, $313.4M) has no background in detention work
+
+## Sources
+
+- [KJZZ: Company awarded Surprise ICE warehouse contract doesn't have background in detention](https://www.kjzz.org/politics/2026-04-01/the-company-awarded-surprise-ice-warehouse-contract-doesnt-have-background-in-detention-work)
+- [Bisnow: ICE warehouse buying spree](https://www.bisnow.com/national/news/industrial/ice-warehouses-38-billion-trammell-crow-blue-owl-rockefeller-group-133346)

@@ -1,0 +1,101 @@
+{{ define "main" }}
+{{ $fips := .Params.fips }}
+{{ $state := .Params.state }}
+{{ $score := .Params.score }}
+{{ $rank := .Params.rank }}
+{{ $total := .Params.total_counties }}
+{{ $pct := .Params.percentile }}
+{{ $sigTypes := .Params.signal_types }}
+{{ $repoURL := site.Params.repoURL }}
+
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>
+  <a href="/county/">Counties</a><span class="sep">/</span>
+  {{ .Title }}
+</div>
+
+<div class="page-content">
+  <div style="padding-top: 24px; margin-bottom: 32px;">
+    <div style="display:flex; align-items:baseline; gap:16px; flex-wrap:wrap;">
+      <h1 class="serif" style="font-size:32px; font-weight:400; letter-spacing:-0.02em;">{{ .Title }}</h1>
+      <span class="mono dim" style="font-size:12px;">FIPS {{ $fips }}</span>
+    </div>
+
+    <div style="display:flex; gap:24px; margin-top:12px; flex-wrap:wrap; align-items:center;">
+      <div>
+        <div class="mono" style="font-size:42px; font-weight:500; line-height:1; color:{{ cond (ge $score 70) "var(--accent-hot)" (cond (ge $score 40) "var(--accent-warm)" "var(--text-secondary)") }};">{{ $score }}</div>
+        <div class="mono dim" style="font-size:9px; letter-spacing:0.1em; text-transform:uppercase; margin-top:2px;">Heat Score</div>
+      </div>
+      <div style="font-size:13px; color:var(--text-secondary); line-height:1.6; max-width:500px;">
+        {{ if ge $pct 95 }}
+        This county has <strong>{{ $sigTypes }} independent signal types</strong>, placing it in the <strong>top {{ sub 100 $pct }}%</strong> nationally (#{{ $rank }} of {{ $total }} tracked counties). Multiple converging indicators suggest active pipeline activity.
+        {{ else if ge $pct 75 }}
+        This county has <strong>{{ $sigTypes }} signal types</strong>, ranking #{{ $rank }} of {{ $total }} tracked counties. The convergence of multiple independent signals warrants attention.
+        {{ else if ge $pct 50 }}
+        This county has <strong>{{ $sigTypes }} signal types</strong>, ranking #{{ $rank }} of {{ $total }} tracked counties.
+        {{ else }}
+        This county has signals detected but ranks in the lower half of tracked counties.
+        {{ end }}
+      </div>
+    </div>
+
+    <div style="display:flex; gap:8px; margin-top:16px; flex-wrap:wrap;">
+      <a href="{{ $repoURL }}/issues/new?template=tip.yml&county={{ .Title | urlquery }}&state={{ $state }}" class="btn btn-accent btn-sm">Report a tip about this county</a>
+      <a href="/" class="btn btn-sm">View on map</a>
+      {{ with $state }}<a href="/state/{{ lower . }}/" class="btn btn-sm">All {{ . }} counties</a>{{ end }}
+    </div>
+  </div>
+
+  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+    Signal Breakdown
+  </h2>
+
+  {{/* Get all entries for this county's FIPS */}}
+  {{ $entries := where site.RegularPages "Params.fips" $fips }}
+  {{ $types := slice "igsa" "287g-agreement" "anc-contract" "commission-activity" "job-posting" "sheriff-network" "comms-discipline" "budget-distress" "real-estate-trace" "legislative-trace" }}
+
+  {{ range $stype := $types }}
+    {{ $typeEntries := where $entries "Params.entry_type" $stype }}
+    {{ if $typeEntries }}
+    {{ $meta := index (dict
+      "igsa" (dict "label" "IGSA Facility" "color" "var(--signal-igsa)")
+      "287g-agreement" (dict "label" "287(g) Agreement" "color" "var(--signal-287g)")
+      "anc-contract" (dict "label" "ANC Contract" "color" "var(--signal-anc)")
+      "commission-activity" (dict "label" "Commission Activity" "color" "var(--signal-commission)")
+      "job-posting" (dict "label" "Job Posting" "color" "var(--signal-job)")
+      "sheriff-network" (dict "label" "Sheriff Network" "color" "var(--signal-sheriff)")
+      "comms-discipline" (dict "label" "Comms Discipline" "color" "var(--signal-comms)")
+      "budget-distress" (dict "label" "Budget Distress" "color" "var(--signal-budget)")
+      "real-estate-trace" (dict "label" "Real Estate Trace" "color" "var(--signal-realestate)")
+      "legislative-trace" (dict "label" "Legislative Trace" "color" "var(--signal-legislative)")
+    ) $stype }}
+
+    <div style="margin-bottom:20px;">
+      <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+        <span class="signal-dot" style="background:{{ $meta.color }};"></span>
+        <span style="font-size:14px; font-weight:500;">{{ $meta.label }}</span>
+        <span class="mono dim" style="font-size:11px;">{{ len $typeEntries }} {{ if eq (len $typeEntries) 1 }}entry{{ else }}entries{{ end }}</span>
+      </div>
+
+      {{ range $typeEntries }}
+      <div class="card">
+        <a href="{{ .RelPermalink }}">
+          <div class="card-title">{{ .Title }}</div>
+          <div class="card-meta">
+            {{ with .Params.county }}{{ . }} · {{ end }}{{ .Params.state }}
+            {{ with .Params.fips }} · FIPS {{ . }}{{ end }}
+          </div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  {{ end }}
+
+  {{ if not $entries }}
+  <p style="color:var(--text-dim); font-style:italic; padding:20px 0;">
+    No individual entries found for this county. The heat score may be derived from state-level signals.
+  </p>
+  {{ end }}
+</div>
+{{ end }}

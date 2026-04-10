@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8787&amp;path=livereload" data-no-instant defer></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Comprehensive Conflict-of-Interest Map: 11 ICE Warehouse Sellers × Trump Administration Officials · Detention Pipeline</title>
+<meta name="description" content="Early-warning system for ICE detention facility expansion">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg-deep: #0a0a0f;
+  --bg-panel: #111118;
+  --bg-surface: #161620;
+  --bg-elevated: #1e1e2a;
+  --bg-content: #f6f5f1;
+  --bg-content-alt: #edece8;
+  --text-primary: #1a1a1f;
+  --text-secondary: #4a4952;
+  --text-dim: #7a7882;
+  --text-light: #e8e6e1;
+  --border: #dddbd6;
+  --border-dark: #2a2a35;
+  --accent: #c93b3b;
+  --accent-hot: #e84545;
+  --accent-warm: #d46a2f;
+  --signal-igsa: #c93b3b;
+  --signal-287g: #d46a2f;
+  --signal-anc: #c49025;
+  --signal-commission: #6a8a1a;
+  --signal-job: #1a8a5a;
+  --signal-sheriff: #1a6a9a;
+  --signal-comms: #5a4fa5;
+  --signal-budget: #8a3fa5;
+  --signal-realestate: #a53f7a;
+  --signal-legislative: #4f5a6a;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  color: var(--text-primary);
+  background: var(--bg-content);
+  -webkit-font-smoothing: antialiased;
+}
+
+ 
+.site-header {
+  background: var(--bg-deep);
+  color: var(--text-light);
+  padding: 0;
+  position: sticky; top: 0; z-index: 100;
+}
+.site-header-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.site-brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; }
+.site-brand h1 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 18px; font-weight: 400; color: var(--text-light);
+  letter-spacing: -0.01em;
+}
+.site-brand .brand-tag {
+  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--accent);
+  background: rgba(201,59,59,0.12); padding: 2px 6px;
+  border: 1px solid rgba(201,59,59,0.2); border-radius: 2px;
+}
+.site-nav { display: flex; gap: 4px; align-items: center; }
+.site-nav a {
+  font-size: 12px; color: rgba(232,230,225,0.5); text-decoration: none;
+  padding: 6px 10px; border-radius: 3px; transition: all 0.12s;
+  font-weight: 400;
+}
+.site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.site-nav a.active { color: var(--text-light); background: rgba(255,255,255,0.08); }
+
+ 
+.breadcrumb {
+  max-width: 1200px; margin: 0 auto; padding: 14px 24px 0;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; color: var(--text-dim);
+}
+.breadcrumb a { color: var(--text-dim); text-decoration: none; }
+.breadcrumb a:hover { color: var(--text-secondary); }
+.breadcrumb .sep { margin: 0 6px; opacity: 0.4; }
+
+ 
+.page-content {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 60px;
+}
+
+ 
+.site-footer {
+  background: var(--bg-deep); color: rgba(232,230,225,0.4);
+  padding: 32px 24px; text-align: center;
+  font-size: 11px; line-height: 1.8;
+}
+.site-footer a { color: rgba(232,230,225,0.5); text-decoration: none; }
+.site-footer a:hover { color: var(--text-light); }
+.footer-inner { max-width: 1200px; margin: 0 auto; }
+.footer-links { display: flex; gap: 16px; justify-content: center; margin-bottom: 8px; }
+
+ 
+.signal-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  flex-shrink: 0; vertical-align: middle;
+}
+.signal-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; padding: 3px 8px;
+  border-radius: 3px; background: rgba(0,0,0,0.04);
+  border: 1px solid var(--border); color: var(--text-secondary);
+}
+.score-pill {
+  font-family: 'DM Mono', monospace; font-weight: 500;
+  display: inline-block; padding: 2px 8px; border-radius: 3px;
+  font-size: 13px;
+}
+.score-hot { color: var(--accent-hot); background: rgba(232,69,69,0.08); }
+.score-warm { color: var(--accent-warm); background: rgba(212,106,47,0.08); }
+.score-mid { color: var(--text-secondary); background: rgba(0,0,0,0.04); }
+.score-low { color: var(--text-dim); background: rgba(0,0,0,0.03); }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500; padding: 8px 16px;
+  border-radius: 4px; text-decoration: none; cursor: pointer;
+  border: 1px solid var(--border); color: var(--text-secondary);
+  background: white; transition: all 0.12s;
+}
+.btn:hover { border-color: var(--text-dim); color: var(--text-primary); }
+.btn-accent {
+  background: var(--accent); color: white; border-color: var(--accent);
+}
+.btn-accent:hover { background: var(--accent-hot); border-color: var(--accent-hot); color: white; }
+.btn-sm { font-size: 11px; padding: 5px 10px; }
+.btn svg { width: 14px; height: 14px; }
+
+.mono { font-family: 'DM Mono', monospace; }
+.serif { font-family: 'Instrument Serif', Georgia, serif; }
+.dim { color: var(--text-dim); }
+.small { font-size: 11px; }
+
+ 
+.data-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+.data-table th {
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--text-dim); text-align: left;
+  padding: 8px 10px; border-bottom: 2px solid var(--border);
+}
+.data-table td {
+  padding: 8px 10px; border-bottom: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.data-table tr:hover td { background: rgba(0,0,0,0.02); }
+.data-table a { color: var(--text-primary); text-decoration: none; }
+.data-table a:hover { text-decoration: underline; }
+
+ 
+.card {
+  background: white; border: 1px solid var(--border); border-radius: 5px;
+  padding: 16px 20px; margin-bottom: 12px; transition: border-color 0.12s;
+}
+.card:hover { border-color: var(--text-dim); }
+.card a { text-decoration: none; color: inherit; }
+.card-title { font-size: 14px; font-weight: 500; margin-bottom: 4px; }
+.card-meta { font-size: 11px; color: var(--text-dim); }
+
+@media (max-width: 768px) {
+  .site-header-inner { padding: 10px 16px; }
+  .site-nav a { font-size: 11px; padding: 4px 6px; }
+  .page-content { padding: 0 16px 40px; }
+  .breadcrumb { padding: 10px 16px 0; }
+  .data-table { font-size: 11px; }
+}
+</style>
+
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="site-brand">
+      <h1>Detention Pipeline</h1>
+      <span class="brand-tag">Early Warning</span>
+    </a>
+    <nav class="site-nav">
+      <a href="/" >Map</a>
+      <a href="/county/" >Counties</a>
+      <a href="/signals/" >Signals</a>
+      <a href="/state/" >States</a>
+      <a href="/methodology/" >Methodology</a>
+      <a href="/contribute/" >Contribute</a>
+    </nav>
+  </div>
+</header>
+
+
+
+
+
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>
+  
+  Comprehensive Conflict-of-Interest Map: 11 ICE Warehouse Sellers × Trump Administration Officials
+</div>
+
+<div class="page-content">
+  <div style="padding-top:24px; max-width:720px;">
+    <div style="margin-bottom:6px;">
+      <span class="signal-badge">
+        <span class="signal-dot" style="background:#666;"></span>
+        analysis
+      </span>
+    </div>
+    <h1 class="serif" style="font-size:26px; font-weight:400; letter-spacing:-0.01em; margin-bottom:8px;">Comprehensive Conflict-of-Interest Map: 11 ICE Warehouse Sellers × Trump Administration Officials</h1>
+    <div class="mono dim small" style="margin-bottom:20px;">
+      
+      
+    </div>
+
+    <div style="font-size:14px; color:var(--text-secondary); line-height:1.75; margin-bottom:32px; white-space:pre-line;">
+      <h1 id="comprehensive-conflict-of-interest-map">Comprehensive Conflict-of-Interest Map</h1>
+<p>Source: ProPublica Trump Team Financial Disclosures, cross-referenced against all 11 confirmed ICE warehouse sellers. Compiled April 8, 2026.</p>
+<h2 id="tier-1-critical-conflicts-direct-decision-making-authority--financial-tie-to-seller">Tier 1: Critical Conflicts (Direct Decision-Making Authority + Financial Tie to Seller)</h2>
+<h3 id="edward-forst--gsa-administrator">Edward Forst — GSA Administrator</h3>
+<ul>
+<li><strong>Former employer</strong>: Goldman Sachs AND Deutsche Bank (employment agreements disclosed)</li>
+<li><strong>Holds</strong>: Deutsche Bank defined benefit plan</li>
+<li>Goldman Sachs sold Roxbury NJ to ICE ($129.3M, 137% over value)</li>
+<li>Deutsche Bank sold Salt Lake City UT to ICE ($145.4M, 49% over assessment)</li>
+<li><strong>Forst oversees the agency whose procurement role was bypassed</strong> — the purchases went through WEXMAC-TITUS instead of GSA&rsquo;s normal process</li>
+<li>Combined seller proceeds from Forst&rsquo;s former employers: <strong>$274.7 million</strong></li>
+</ul>
+<h3 id="donald-j-trump--president">Donald J. Trump — President</h3>
+<ul>
+<li><strong>Holds</strong>: Blue Owl Capital Inc. Class A stock ($5M+)</li>
+<li>Blue Owl sold Tremont PA to ICE ($119.5M, ~100% markup)</li>
+<li>The president benefits financially from his own administration&rsquo;s purchase decisions</li>
+<li>Also holds Goldman Sachs stock and bonds (Goldman sold Roxbury NJ)</li>
+</ul>
+<h3 id="john-phelan--secretary-of-the-navy-791m-total">John Phelan — Secretary of the Navy ($791M total)</h3>
+<ul>
+<li><strong>Holds</strong>: Blue Owl Capital stock + Blue Owl Healthcare Opportunities III LP (illiquid fund)</li>
+<li><strong>His department (NAVSUP) administers WEXMAC-TITUS</strong> — the contract vehicle through which ALL warehouse purchases flow</li>
+<li>Blue Owl sold Tremont PA ($119.5M)</li>
+</ul>
+<h2 id="tier-2-high-conflicts-significant-financial-ties--relevant-oversight-role">Tier 2: High Conflicts (Significant Financial Ties + Relevant Oversight Role)</h2>
+<h3 id="john-russell-mcgranahan--general-counsel-gsa">John Russell McGranahan — General Counsel, GSA</h3>
+<ul>
+<li><strong>Transacted in</strong>: Mitsubishi Estate ADR (parent of Rockefeller Group)</li>
+<li><strong>Also transacted in</strong>: Blue Owl Capital</li>
+<li>Rockefeller Group sold Surprise AZ ($70M, 483% markup)</li>
+<li>GSA&rsquo;s own top lawyer traded stock in a seller&rsquo;s parent company</li>
+</ul>
+<h3 id="david-e-shapiro--special-advisor-commerce-us-investment-accelerator">David E. Shapiro — Special Advisor, Commerce (US Investment Accelerator)</h3>
+<ul>
+<li><strong>Compensated by</strong>: Rockefeller Capital Management</li>
+<li>Rockefeller Group (same family) sold Surprise AZ ($70M, 483% markup)</li>
+</ul>
+<h3 id="brendan-rogers--asst-secretary-of-the-navy-for-installations--environment-22m">Brendan Rogers — Asst Secretary of the Navy for Installations &amp; Environment ($22M)</h3>
+<ul>
+<li><strong>Holds</strong>: Blue Owl Cap Inc. (OWL)</li>
+<li>Directly oversees Navy installations — the physical infrastructure side of the command running WEXMAC-TITUS</li>
+<li>Blue Owl sold Tremont PA ($119.5M)</li>
+</ul>
+<h3 id="elbridge-colby--under-secretary-for-defense-policy-89m">Elbridge Colby — Under Secretary for Defense Policy ($8.9M)</h3>
+<ul>
+<li><strong>Holds</strong>: Carlyle Partners V fund</li>
+<li>DOD administers WEXMAC-TITUS; Colby oversees defense policy including military role in immigration enforcement</li>
+<li>Carlyle sold Oakwood GA ($68.2M)</li>
+</ul>
+<h3 id="jonathan-gould--comptroller-of-the-currency-33m">Jonathan Gould — Comptroller of the Currency ($3.3M)</h3>
+<ul>
+<li><strong>Holds</strong>: Blue Owl RE NLP Fund P LP (real estate fund)</li>
+<li><strong>Former</strong>: Goldman Sachs compensation</li>
+<li>Regulates national banks including Deutsche Bank&rsquo;s US operations</li>
+<li>Blue Owl sold Tremont PA; Goldman sold Roxbury NJ; Deutsche Bank sold SLC</li>
+</ul>
+<h3 id="todd-newnam--special-advisor-treasury-26m">Todd Newnam — Special Advisor, Treasury ($26M)</h3>
+<ul>
+<li><strong>Former Carlyle Group employee</strong>: Holds Carlyle 401(k), carried interest, Realty Coinvestment VI</li>
+<li>Carlyle sold Oakwood GA ($68.2M)</li>
+</ul>
+<h3 id="stephen-feinberg--deputy-secretary-of-defense">Stephen Feinberg — Deputy Secretary of Defense</h3>
+<ul>
+<li><strong>Holds</strong>: Multiple Deutsche Bank AG assets and Deutsche Bank commercial mortgage-backed securities</li>
+<li>DOD administers WEXMAC-TITUS</li>
+<li>Deutsche Bank sold SLC ($145.4M)</li>
+</ul>
+<h2 id="tier-3-elevated-conflicts-financial-ties-indirect-oversight">Tier 3: Elevated Conflicts (Financial Ties, Indirect Oversight)</h2>
+<h3 id="thomas-d-homan--border-czar-dhs-12m">Thomas D. Homan — Border Czar, DHS ($1.2M)</h3>
+<ul>
+<li><strong>Compensated by</strong>: GEO Care (GEO Group subsidiary)</li>
+<li>GEO Group has $520M+ in new/expanded contracts and is pre-qualified for WEXMAC-TITUS</li>
+<li>Raskin/Warren letter names Homan as having &ldquo;helped contractors secure contracts for personal profit&rdquo;</li>
+</ul>
+<h3 id="paul-atkins--sec-chairman-324m">Paul Atkins — SEC Chairman ($324M)</h3>
+<ul>
+<li><strong>Holds</strong>: Goldman Sachs compensation, Carlyle Finance LLC bonds, Deutsche Bank AG compensation</li>
+<li>Financial ties to THREE sellers&rsquo; parent companies while chairing the securities regulator</li>
+</ul>
+<h3 id="david-r-fitzgerald--acting-under-secretary-of-the-army-530k">David R. Fitzgerald — Acting Under Secretary of the Army ($530K)</h3>
+<ul>
+<li><strong>Holds</strong>: Blue Owl Credit Inc. Corp AND Carlyle Tactical Private Credit Fund</li>
+<li>DOD role; investments in two warehouse sellers</li>
+</ul>
+<h2 id="multi-seller-exposure-officials-invested-in-2-sellers">Multi-Seller Exposure (Officials Invested in 2+ Sellers)</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Official</th>
+          <th>Role</th>
+          <th>Blue Owl</th>
+          <th>Carlyle</th>
+          <th>Goldman</th>
+          <th>Deutsche Bank</th>
+          <th>GEO</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Edward Forst</strong></td>
+          <td>GSA Admin</td>
+          <td></td>
+          <td></td>
+          <td>✓ (former employer)</td>
+          <td>✓ (former employer)</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>Donald J. Trump</strong></td>
+          <td>President</td>
+          <td>✓ ($5M+)</td>
+          <td></td>
+          <td>✓ (stock/bonds)</td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>Paul Atkins</strong></td>
+          <td>SEC Chair</td>
+          <td></td>
+          <td>✓ (bonds)</td>
+          <td>✓ (compensation)</td>
+          <td>✓ (compensation)</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>Jonathan Gould</strong></td>
+          <td>OCC</td>
+          <td>✓ (RE fund)</td>
+          <td></td>
+          <td>✓ (compensation)</td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>David R. Fitzgerald</strong></td>
+          <td>Army</td>
+          <td>✓ (credit)</td>
+          <td>✓ (credit)</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>Joseph Popolo</strong></td>
+          <td>Netherlands</td>
+          <td>✓ (diversified)</td>
+          <td>✓ (CLO)</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>Arjun Mody</strong></td>
+          <td>SSA</td>
+          <td>✓ (credit)</td>
+          <td>✓ (stock)</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>Stacey Feinberg</strong></td>
+          <td>Luxembourg</td>
+          <td>✓ (stock)</td>
+          <td>✓ (3 funds)</td>
+          <td></td>
+          <td></td>
+          <td>✓ (stock)</td>
+      </tr>
+      <tr>
+          <td><strong>Benjamin Black</strong></td>
+          <td>DFC</td>
+          <td>✓ (stock)</td>
+          <td>✓ (stock)</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>Somers Farkas</strong></td>
+          <td>Malta</td>
+          <td>✓ (stock)</td>
+          <td>✓ (stock)</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td><strong>Christopher Danley</strong></td>
+          <td>Interior</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>✓ (active trading)</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="the-complete-conflict-architecture">The Complete Conflict Architecture</h2>
+<p>Across all 11 warehouse sellers:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Seller</th>
+          <th>Warehouse</th>
+          <th>Price</th>
+          <th>Markup</th>
+          <th>Admin Officials with Financial Ties</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Rockefeller (Mitsubishi)</td>
+          <td>Surprise AZ</td>
+          <td>$70M</td>
+          <td>483%</td>
+          <td>5 (McGranahan/GSA, Shapiro/Commerce, Berkowitz/DOD)</td>
+      </tr>
+      <tr>
+          <td>Fundrise (Goldman refi)</td>
+          <td>Williamsport MD</td>
+          <td>$102.4M</td>
+          <td>33%</td>
+          <td>3 direct + 206 Goldman results</td>
+      </tr>
+      <tr>
+          <td><strong>PNK Group</strong></td>
+          <td>Social Circle GA</td>
+          <td>$128.6M</td>
+          <td>333%</td>
+          <td>0 (Russia-founded, not in disclosures)</td>
+      </tr>
+      <tr>
+          <td><strong>Blue Owl</strong></td>
+          <td>Tremont PA</td>
+          <td>$119.5M</td>
+          <td>~100%</td>
+          <td><strong>33</strong> (Trump, Phelan/SecNav, Rogers/Navy, Gould/OCC)</td>
+      </tr>
+      <tr>
+          <td>Flint Development</td>
+          <td>Socorro TX</td>
+          <td>$122.8M</td>
+          <td>55%</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>PCCP</td>
+          <td>Upper Bern PA</td>
+          <td>$87.4M</td>
+          <td>52%</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td><strong>Goldman Sachs</strong></td>
+          <td>Roxbury NJ</td>
+          <td>$129.3M</td>
+          <td>137%</td>
+          <td><strong>206</strong> results (Forst/GSA Admin, Bessent/Treasury, Feinberg/DOD)</td>
+      </tr>
+      <tr>
+          <td><strong>Deutsche Bank</strong></td>
+          <td>Salt Lake City UT</td>
+          <td>$145.4M</td>
+          <td>49%</td>
+          <td><strong>34</strong> (Forst/GSA Admin, Feinberg/DOD, Atkins/SEC)</td>
+      </tr>
+      <tr>
+          <td><strong>Carlyle</strong></td>
+          <td>Oakwood GA</td>
+          <td>$68.2M</td>
+          <td>?</td>
+          <td><strong>22</strong> (Newnam/Treasury ex-Carlyle, Colby/DOD Policy)</td>
+      </tr>
+      <tr>
+          <td>Crestlight</td>
+          <td>Romulus MI</td>
+          <td>~$104M</td>
+          <td>?</td>
+          <td>0</td>
+      </tr>
+      <tr>
+          <td>Oakmont</td>
+          <td>San Antonio TX</td>
+          <td>$66.1M</td>
+          <td>?</td>
+          <td>0</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="the-key-finding">The Key Finding</h2>
+<p><strong>Edward Forst, the GSA Administrator, previously worked at both Goldman Sachs and Deutsche Bank.</strong> His agency&rsquo;s normal procurement role was bypassed via WEXMAC-TITUS. His two former employers sold $274.7 million in warehouses to ICE through that bypass. Whether the bypass was designed to avoid the process his agency would have applied — including independent appraisals, competitive bidding, and public transparency — is the central question.</p>
+<h2 id="caveats">Caveats</h2>
+<ul>
+<li>Disclosures reflect filings at nomination/entry plus periodic updates; may not capture all current holdings</li>
+<li>Financial ties do not prove direct involvement in approving specific transactions</li>
+<li>Establishing formal conflict requires showing both financial tie AND direct decision-making authority over the specific transaction</li>
+<li>These findings identify relationships warranting ethics review or IG investigation</li>
+</ul>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>ProPublica Trump Team Financial Disclosures Database (1,582 appointees, 3,219 documents, 117K assets)</li>
+<li>Cross-referenced against all 11 confirmed ICE warehouse purchases and their institutional sellers</li>
+</ul>
+
+    </div>
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap; padding-top:16px; border-top:1px solid var(--border);">
+      
+      <a href="https://github.com/markramm/detention-pipeline/edit/main/kb/industry/financial-flows/comprehensive-conflict-of-interest-map.md" class="btn btn-sm" target="_blank" rel="noopener">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064l6.286-6.286Z"/></svg>
+        Edit this entry
+      </a>
+      
+      <a href="https://github.com/markramm/detention-pipeline/issues/new?template=data-correction.yml&county=Comprehensive&#43;Conflict-of-Interest&#43;Map%3A&#43;11&#43;ICE&#43;Warehouse&#43;Sellers&#43;%C3%97&#43;Trump&#43;Administration&#43;Officials" class="btn btn-sm" target="_blank" rel="noopener">
+        Report an issue
+      </a>
+      
+    </div>
+
+    
+    
+  </div>
+</div>
+
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
+      <a href="/methodology/">Methodology</a>
+      <a href="/contribute/">Contribute</a>
+      <a href="https://theramm.substack.com">The RAMM</a>
+    </div>
+    <div>CC-BY-SA 4.0 · Data as of Feb 2026 · Built by <a href="https://theramm.substack.com">The RAMM</a></div>
+  </div>
+</footer>
+
+</body>
+</html>

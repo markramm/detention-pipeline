@@ -1,0 +1,24 @@
+---
+title: "287(g) JEM: Arkansas Department of Corrections (AR)"
+type: entry
+layout: single
+entry_type: "287g-agreement"
+signal_label: "287(g) Agreement"
+signal_color: "#d46a2f"
+fips: ""
+state: "AR"
+county: "Pulaksi County"
+repo_path: "kb/287g/287-g-jem-arkansas-department-of-corrections-ar.md"
+signals: ["287g-agreement"]
+states: ["AR"]
+---
+
+287(g) agreement between ICE and Arkansas Department of Corrections.
+
+Model: JEM
+Signed: December 2, 2025
+County: Pulaksi County
+State: AR
+FIPS: unresolved
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

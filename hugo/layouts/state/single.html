@@ -1,0 +1,50 @@
+{{ define "main" }}
+{{ $abbr := .Params.state_abbr }}
+
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>
+  <a href="/state/">States</a><span class="sep">/</span>
+  {{ .Title }}
+</div>
+
+<div class="page-content">
+  <div style="padding-top:24px; margin-bottom:24px;">
+    <h1 class="serif" style="font-size:28px; font-weight:400;">{{ .Title }}</h1>
+    <p style="font-size:13px; color:var(--text-secondary);">
+      {{ .Params.county_count }} counties with signals · {{ .Params.entry_count }} total entries
+    </p>
+  </div>
+
+  {{/* Get county pages for this state, sorted by score */}}
+  {{ $counties := where (where site.RegularPages "Type" "county") "Params.state" $abbr }}
+
+  {{ if $counties }}
+  <table class="data-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>County</th>
+        <th style="width:70px">Score</th>
+        <th style="width:60px">Signals</th>
+      </tr>
+    </thead>
+    <tbody>
+    {{ range $i, $p := sort $counties ".Params.score" "desc" }}
+      <tr>
+        <td class="mono dim">{{ add $i 1 }}</td>
+        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td>
+          <span class="score-pill {{ cond (ge .Params.score 70.0) "score-hot" (cond (ge .Params.score 40.0) "score-warm" (cond (ge .Params.score 15.0) "score-mid" "score-low")) }}">
+            {{ .Params.score }}
+          </span>
+        </td>
+        <td class="mono dim">{{ .Params.signal_types }}</td>
+      </tr>
+    {{ end }}
+    </tbody>
+  </table>
+  {{ else }}
+  <p style="color:var(--text-dim); font-style:italic;">No tracked counties in this state.</p>
+  {{ end }}
+</div>
+{{ end }}

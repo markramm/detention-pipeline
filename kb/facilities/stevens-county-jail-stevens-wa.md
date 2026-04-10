@@ -1,0 +1,20 @@
+---
+id: stevens-county-jail-stevens-wa
+title: "Stevens County Jail — Stevens, WA"
+type: igsa
+county: "Stevens"
+state: "WA"
+fips: "53065"
+facility_name: "Stevens County Jail"
+operator: ""
+status: "active"
+source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
+tags:
+- igsa
+- wa
+importance: 5
+---
+
+IGSA detention facility: Stevens County Jail in Stevens County, WA.
+
+Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)

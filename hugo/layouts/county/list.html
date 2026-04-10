@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>Counties
+</div>
+<div class="page-content">
+  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">All Tracked Counties</h1>
+  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:20px;">
+    {{ len .Pages }} counties with at least one pipeline signal, ranked by convergence score.
+  </p>
+
+  <table class="data-table">
+    <thead>
+      <tr>
+        <th style="width:40px">#</th>
+        <th>County</th>
+        <th style="width:50px">State</th>
+        <th style="width:70px">Score</th>
+        <th style="width:60px">Signals</th>
+      </tr>
+    </thead>
+    <tbody>
+    {{ range $i, $p := sort .Pages ".Params.score" "desc" }}
+      <tr>
+        <td class="mono dim">{{ add $i 1 }}</td>
+        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td class="mono">{{ .Params.state }}</td>
+        <td>
+          <span class="score-pill {{ cond (ge .Params.score 70.0) "score-hot" (cond (ge .Params.score 40.0) "score-warm" (cond (ge .Params.score 15.0) "score-mid" "score-low")) }}">
+            {{ .Params.score }}
+          </span>
+        </td>
+        <td class="mono dim">{{ .Params.signal_types }}</td>
+      </tr>
+    {{ end }}
+    </tbody>
+  </table>
+</div>
+{{ end }}

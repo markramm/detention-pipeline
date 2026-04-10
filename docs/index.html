@@ -1,988 +1,420 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<meta name="generator" content="Hugo 0.151.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8787&amp;path=livereload" data-no-instant defer></script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Detention Pipeline Heat Map</title>
+<title>Detention Pipeline</title>
+<meta name="description" content="Early-warning system for ICE detention facility expansion">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
 <style>
 :root {
   --bg-deep: #0a0a0f;
   --bg-panel: #111118;
-  --bg-surface: #1a1a24;
-  --bg-elevated: #22222f;
-  --text-primary: #e8e6e1;
-  --text-secondary: #8a8892;
-  --text-dim: #55535e;
-  --border: #2a2a35;
-  --border-light: #353542;
+  --bg-surface: #161620;
+  --bg-elevated: #1e1e2a;
+  --bg-content: #f6f5f1;
+  --bg-content-alt: #edece8;
+  --text-primary: #1a1a1f;
+  --text-secondary: #4a4952;
+  --text-dim: #7a7882;
+  --text-light: #e8e6e1;
+  --border: #dddbd6;
+  --border-dark: #2a2a35;
   --accent: #c93b3b;
   --accent-hot: #e84545;
   --accent-warm: #d46a2f;
-  --heat-0: #12121a;
-  --signal-igsa: #e84545;
+  --signal-igsa: #c93b3b;
   --signal-287g: #d46a2f;
   --signal-anc: #c49025;
-  --signal-commission: #8a9f2a;
-  --signal-job: #2a9f6f;
-  --signal-sheriff: #2a7fb5;
-  --signal-comms: #6a5fb5;
-  --signal-budget: #9a4fb5;
-  --signal-realestate: #b54f8a;
-  --signal-legislative: #5f6a7a;
+  --signal-commission: #6a8a1a;
+  --signal-job: #1a8a5a;
+  --signal-sheriff: #1a6a9a;
+  --signal-comms: #5a4fa5;
+  --signal-budget: #8a3fa5;
+  --signal-realestate: #a53f7a;
+  --signal-legislative: #4f5a6a;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
-  background: var(--bg-deep);
-  color: var(--text-primary);
   font-family: 'IBM Plex Sans', -apple-system, sans-serif;
-  overflow: hidden;
-  height: 100vh;
-  width: 100vw;
+  color: var(--text-primary);
+  background: var(--bg-content);
+  -webkit-font-smoothing: antialiased;
 }
 
-/* ── Header ── */
-#header {
-  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
-  background: linear-gradient(180deg, var(--bg-deep) 0%, var(--bg-deep) 60%, transparent 100%);
-  padding: 14px 24px 28px;
-  pointer-events: none;
+ 
+.site-header {
+  background: var(--bg-deep);
+  color: var(--text-light);
+  padding: 0;
+  position: sticky; top: 0; z-index: 100;
 }
-#header > * { pointer-events: auto; }
-.header-top { display: flex; align-items: baseline; gap: 14px; margin-bottom: 3px; }
-h1 {
+.site-header-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.site-brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; }
+.site-brand h1 {
   font-family: 'Instrument Serif', Georgia, serif;
-  font-weight: 400; font-size: 22px; letter-spacing: -0.02em;
+  font-size: 18px; font-weight: 400; color: var(--text-light);
+  letter-spacing: -0.01em;
 }
-.header-tag {
-  font-family: 'DM Mono', monospace; font-size: 9px; font-weight: 400;
-  letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent);
-  background: rgba(201,59,59,0.1); padding: 2px 7px;
+.site-brand .brand-tag {
+  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--accent);
+  background: rgba(201,59,59,0.12); padding: 2px 6px;
   border: 1px solid rgba(201,59,59,0.2); border-radius: 2px;
 }
-.header-sub { font-size: 11.5px; color: var(--text-secondary); font-weight: 300; }
-.header-sub span { color: var(--text-dim); }
-#about-btn {
-  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
-  text-transform: uppercase; color: var(--text-dim); background: var(--bg-panel);
-  border: 1px solid var(--border); border-radius: 3px; padding: 3px 10px;
-  cursor: pointer; transition: all 0.15s;
+.site-nav { display: flex; gap: 4px; align-items: center; }
+.site-nav a {
+  font-size: 12px; color: rgba(232,230,225,0.5); text-decoration: none;
+  padding: 6px 10px; border-radius: 3px; transition: all 0.12s;
+  font-weight: 400;
 }
-#about-btn:hover { color: var(--text-primary); border-color: var(--border-light); }
+.site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.site-nav a.active { color: var(--text-light); background: rgba(255,255,255,0.08); }
 
-/* ── Map ── */
-#map-container { width: 100vw; height: 100vh; cursor: grab; }
-#map-container:active { cursor: grabbing; }
-#map-container svg { width: 100%; height: 100%; }
-.county {
-  stroke: rgba(42,42,53,0.6); stroke-width: 0.25;
-  transition: stroke-width 0.1s ease;
-  cursor: pointer;
+ 
+.breadcrumb {
+  max-width: 1200px; margin: 0 auto; padding: 14px 24px 0;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; color: var(--text-dim);
 }
-.county:hover { stroke: var(--text-secondary); stroke-width: 1; }
-.county.active { stroke: var(--text-primary); stroke-width: 1.5; }
-.county.dim { opacity: 0.15; }
-.state-boundary { fill: none; stroke: var(--border-light); stroke-width: 0.6; pointer-events: none; }
-.nation-boundary { fill: none; stroke: var(--text-dim); stroke-width: 0.8; pointer-events: none; }
+.breadcrumb a { color: var(--text-dim); text-decoration: none; }
+.breadcrumb a:hover { color: var(--text-secondary); }
+.breadcrumb .sep { margin: 0 6px; opacity: 0.4; }
 
-/* ── Legend ── */
-#legend {
-  position: fixed; bottom: 16px; left: 24px; z-index: 100;
-  background: var(--bg-panel); border: 1px solid var(--border);
-  border-radius: 4px; padding: 10px 14px;
-  display: flex; align-items: center; gap: 10px;
-}
-.legend-label {
-  font-family: 'DM Mono', monospace; font-size: 9px;
-  letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-dim);
-}
-.legend-bar { display: flex; gap: 1px; }
-.legend-cell { width: 16px; height: 10px; border-radius: 1px; }
-.legend-range { display: flex; justify-content: space-between; margin-top: 2px; }
-.legend-range span { font-family: 'DM Mono', monospace; font-size: 8px; color: var(--text-dim); }
-
-/* ── Stats ── */
-#stats-bar {
-  position: fixed; bottom: 16px; right: 24px; z-index: 100;
-  display: flex; gap: 12px;
-}
-.stat-chip {
-  background: var(--bg-panel); border: 1px solid var(--border);
-  border-radius: 4px; padding: 6px 12px; text-align: center;
-}
-.stat-value { font-family: 'DM Mono', monospace; font-size: 15px; font-weight: 500; line-height: 1; }
-.stat-label {
-  font-family: 'DM Mono', monospace; font-size: 7.5px;
-  letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-dim); margin-top: 2px;
+ 
+.page-content {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 60px;
 }
 
-/* ── Zoom ── */
-#zoom-controls {
-  position: fixed; top: 50%; right: 20px; transform: translateY(-50%);
-  z-index: 100; display: flex; flex-direction: column; gap: 1px;
+ 
+.site-footer {
+  background: var(--bg-deep); color: rgba(232,230,225,0.4);
+  padding: 32px 24px; text-align: center;
+  font-size: 11px; line-height: 1.8;
 }
-.zoom-btn {
-  width: 32px; height: 32px; background: var(--bg-panel); border: 1px solid var(--border);
-  color: var(--text-secondary); font-family: 'DM Mono', monospace; font-size: 15px;
-  cursor: pointer; display: flex; align-items: center; justify-content: center;
-  transition: all 0.1s;
-}
-.zoom-btn:first-child { border-radius: 4px 4px 0 0; }
-.zoom-btn:nth-child(2) { border-radius: 0 0 4px 4px; }
-.zoom-btn:hover { background: var(--bg-elevated); color: var(--text-primary); }
-.zoom-btn-reset {
-  margin-top: 4px; border-radius: 4px; font-size: 10px;
-  width: 32px; height: 24px;
-}
+.site-footer a { color: rgba(232,230,225,0.5); text-decoration: none; }
+.site-footer a:hover { color: var(--text-light); }
+.footer-inner { max-width: 1200px; margin: 0 auto; }
+.footer-links { display: flex; gap: 16px; justify-content: center; margin-bottom: 8px; }
 
-/* ── Tooltip ── */
-#tooltip {
-  position: fixed; z-index: 200; pointer-events: none;
-  opacity: 0; transition: opacity 0.1s ease; max-width: 370px;
+ 
+.signal-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  flex-shrink: 0; vertical-align: middle;
 }
-#tooltip.visible { opacity: 1; }
-.tooltip-inner {
-  background: var(--bg-panel); border: 1px solid var(--border-light);
-  border-radius: 5px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.5), 0 1px 4px rgba(0,0,0,0.3);
-  overflow: hidden;
+.signal-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; padding: 3px 8px;
+  border-radius: 3px; background: rgba(0,0,0,0.04);
+  border: 1px solid var(--border); color: var(--text-secondary);
 }
-.tooltip-header {
-  padding: 10px 14px 8px; border-bottom: 1px solid var(--border);
-  display: flex; justify-content: space-between; align-items: baseline;
+.score-pill {
+  font-family: 'DM Mono', monospace; font-weight: 500;
+  display: inline-block; padding: 2px 8px; border-radius: 3px;
+  font-size: 13px;
 }
-.tooltip-county { font-family: 'Instrument Serif', serif; font-size: 17px; line-height: 1.1; }
-.tooltip-score { font-family: 'DM Mono', monospace; font-size: 20px; font-weight: 500; line-height: 1; margin-left: 12px; }
-.tooltip-fips { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text-dim); margin-top: 1px; }
-.tooltip-signals { padding: 8px 14px 10px; }
-.signal-row { display: flex; align-items: center; gap: 7px; padding: 2px 0; }
-.signal-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
-.signal-name { font-size: 10.5px; color: var(--text-secondary); flex: 1; }
-.signal-count { font-family: 'DM Mono', monospace; font-size: 10.5px; font-weight: 500; }
-.signal-entries { padding: 0 14px 1px 21px; }
-.signal-entry {
-  font-size: 9.5px; color: var(--text-dim); line-height: 1.5;
-  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 300px;
-}
-.tooltip-footer {
-  padding: 6px 14px; border-top: 1px solid var(--border);
-  display: flex; justify-content: space-between; align-items: center;
-}
-.signal-types-label {
-  font-family: 'DM Mono', monospace; font-size: 8px;
-  letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-dim);
-}
-.signal-types-dots { display: flex; gap: 3px; }
-.st-dot { width: 4px; height: 4px; border-radius: 50%; background: var(--border); }
-.st-dot.active { background: var(--accent); }
-.tooltip-empty { padding: 10px 14px; }
-.tooltip-empty p { font-size: 10px; color: var(--text-dim); font-style: italic; margin-top: 3px; }
+.score-hot { color: var(--accent-hot); background: rgba(232,69,69,0.08); }
+.score-warm { color: var(--accent-warm); background: rgba(212,106,47,0.08); }
+.score-mid { color: var(--text-secondary); background: rgba(0,0,0,0.04); }
+.score-low { color: var(--text-dim); background: rgba(0,0,0,0.03); }
 
-/* ── Detail Panel ── */
-#detail-panel {
-  position: fixed; top: 72px; left: 24px; z-index: 150;
-  width: 350px; max-height: calc(100vh - 100px); overflow-y: auto;
-  background: var(--bg-panel); border: 1px solid var(--border-light);
-  border-radius: 5px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);
-  display: none;
+.btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500; padding: 8px 16px;
+  border-radius: 4px; text-decoration: none; cursor: pointer;
+  border: 1px solid var(--border); color: var(--text-secondary);
+  background: white; transition: all 0.12s;
 }
-#detail-panel.visible { display: block; }
-.panel-close {
-  position: absolute; top: 8px; right: 8px; width: 26px; height: 26px;
-  background: var(--bg-surface); border: 1px solid var(--border); border-radius: 3px;
-  color: var(--text-secondary); font-size: 13px; cursor: pointer;
-  display: flex; align-items: center; justify-content: center; z-index: 10;
+.btn:hover { border-color: var(--text-dim); color: var(--text-primary); }
+.btn-accent {
+  background: var(--accent); color: white; border-color: var(--accent);
 }
-.panel-close:hover { background: var(--bg-elevated); color: var(--text-primary); }
-.panel-header { padding: 14px 18px 10px; border-bottom: 1px solid var(--border); }
-.panel-county {
-  font-family: 'Instrument Serif', serif; font-size: 20px; padding-right: 30px;
-}
-.panel-meta { display: flex; gap: 12px; margin-top: 4px; align-items: baseline; }
-.panel-score { font-family: 'DM Mono', monospace; font-size: 26px; font-weight: 500; line-height: 1; }
-.panel-score-label {
-  font-family: 'DM Mono', monospace; font-size: 8px;
-  letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-dim);
-}
-.panel-fips { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text-dim); }
-.panel-signals { padding: 10px 18px 14px; }
-.panel-signal-group { margin-bottom: 8px; }
-.panel-signal-header { display: flex; align-items: center; gap: 7px; margin-bottom: 3px; }
-.panel-signal-dot { width: 7px; height: 7px; border-radius: 50%; }
-.panel-signal-name { font-size: 11.5px; font-weight: 500; flex: 1; }
-.panel-signal-count { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--text-secondary); }
-.panel-entry-list { padding-left: 14px; border-left: 1px solid var(--border); margin-left: 3px; }
-.panel-entry { font-size: 10.5px; color: var(--text-secondary); line-height: 1.65; padding-left: 7px; }
+.btn-accent:hover { background: var(--accent-hot); border-color: var(--accent-hot); color: white; }
+.btn-sm { font-size: 11px; padding: 5px 10px; }
+.btn svg { width: 14px; height: 14px; }
 
-/* ── Search ── */
-#search-container { position: fixed; top: 14px; right: 68px; z-index: 100; }
-#search-input {
-  width: 180px; height: 30px; background: var(--bg-panel); border: 1px solid var(--border);
-  border-radius: 4px; padding: 0 10px; font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 11.5px; color: var(--text-primary); outline: none;
-  transition: border-color 0.15s, width 0.2s;
-}
-#search-input::placeholder { color: var(--text-dim); }
-#search-input:focus { border-color: var(--border-light); width: 260px; }
-#search-results {
-  position: absolute; top: 34px; right: 0; width: 260px;
-  background: var(--bg-panel); border: 1px solid var(--border-light);
-  border-radius: 4px; max-height: 220px; overflow-y: auto; display: none;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.4);
-}
-.search-result {
-  padding: 6px 10px; cursor: pointer;
-  display: flex; justify-content: space-between; align-items: baseline;
-  border-bottom: 1px solid var(--border); transition: background 0.08s;
-}
-.search-result:last-child { border-bottom: none; }
-.search-result:hover { background: var(--bg-surface); }
-.search-result-name { font-size: 11.5px; }
-.search-result-score { font-family: 'DM Mono', monospace; font-size: 10.5px; color: var(--text-secondary); }
+.mono { font-family: 'DM Mono', monospace; }
+.serif { font-family: 'Instrument Serif', Georgia, serif; }
+.dim { color: var(--text-dim); }
+.small { font-size: 11px; }
 
-/* ── Signal Filter Chips ── */
-#filter-bar {
-  position: fixed; top: 54px; left: 24px; z-index: 100;
-  display: flex; gap: 4px; flex-wrap: wrap; max-width: 600px;
-  pointer-events: auto;
-}
-.filter-chip {
-  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.06em;
-  text-transform: uppercase; padding: 3px 8px; border-radius: 2px;
-  border: 1px solid var(--border); background: var(--bg-panel);
-  color: var(--text-dim); cursor: pointer; transition: all 0.12s;
-  display: flex; align-items: center; gap: 4px;
-}
-.filter-chip .chip-dot { width: 5px; height: 5px; border-radius: 50%; }
-.filter-chip:hover { border-color: var(--border-light); color: var(--text-secondary); }
-.filter-chip.active { color: var(--text-primary); border-color: var(--border-light); background: var(--bg-surface); }
-
-/* ── Methodology Modal ── */
-#methodology-overlay {
-  position: fixed; inset: 0; z-index: 500;
-  background: rgba(0,0,0,0.7); backdrop-filter: blur(4px);
-  display: none; align-items: center; justify-content: center;
-}
-#methodology-overlay.visible { display: flex; }
-#methodology-panel {
-  background: var(--bg-panel); border: 1px solid var(--border-light);
-  border-radius: 6px; width: 90vw; max-width: 680px; max-height: 85vh;
-  overflow-y: auto; box-shadow: 0 16px 64px rgba(0,0,0,0.6);
-  padding: 28px 32px 24px;
-}
-.meth-close {
-  float: right; width: 28px; height: 28px; background: var(--bg-surface);
-  border: 1px solid var(--border); border-radius: 3px; color: var(--text-secondary);
-  font-size: 14px; cursor: pointer; display: flex; align-items: center;
-  justify-content: center;
-}
-.meth-close:hover { background: var(--bg-elevated); color: var(--text-primary); }
-.meth-title {
-  font-family: 'Instrument Serif', serif; font-size: 24px; margin-bottom: 4px;
-}
-.meth-subtitle { font-size: 12px; color: var(--text-secondary); margin-bottom: 20px; line-height: 1.5; }
-.meth-section {
-  margin-bottom: 18px; padding-bottom: 16px; border-bottom: 1px solid var(--border);
-}
-.meth-section:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
-.meth-section h3 {
-  font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em;
-  text-transform: uppercase; color: var(--text-dim); margin-bottom: 8px;
-}
-.meth-section p { font-size: 12.5px; color: var(--text-secondary); line-height: 1.6; margin-bottom: 8px; }
-.meth-section p:last-child { margin-bottom: 0; }
-.meth-signal-table { width: 100%; border-collapse: collapse; font-size: 11.5px; }
-.meth-signal-table th {
+ 
+.data-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+.data-table th {
   font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
   text-transform: uppercase; color: var(--text-dim); text-align: left;
-  padding: 4px 8px 6px; border-bottom: 1px solid var(--border);
+  padding: 8px 10px; border-bottom: 2px solid var(--border);
 }
-.meth-signal-table td { padding: 5px 8px; border-bottom: 1px solid var(--border); color: var(--text-secondary); }
-.meth-signal-table td:first-child { display: flex; align-items: center; gap: 6px; }
-.meth-signal-table .sig-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
-.meth-signal-table td:nth-child(2) { font-family: 'DM Mono', monospace; font-size: 11px; text-align: center; }
-.meth-signal-table td:nth-child(3) { font-family: 'DM Mono', monospace; font-size: 11px; text-align: center; }
-.meth-source { display: flex; gap: 8px; margin-bottom: 6px; align-items: baseline; }
-.meth-source-label { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text-dim); min-width: 80px; }
-.meth-source-val { font-size: 12px; color: var(--text-secondary); }
-.meth-source-val a { color: var(--accent-warm); text-decoration: none; }
-.meth-source-val a:hover { text-decoration: underline; }
+.data-table td {
+  padding: 8px 10px; border-bottom: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.data-table tr:hover td { background: rgba(0,0,0,0.02); }
+.data-table a { color: var(--text-primary); text-decoration: none; }
+.data-table a:hover { text-decoration: underline; }
 
-/* ── Ranking Drawer ── */
-#ranking-toggle {
-  position: fixed; top: 50%; left: 0; z-index: 120;
-  transform: translateY(-50%) rotate(-90deg) translateX(-50%);
-  transform-origin: left center;
-  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
-  text-transform: uppercase; color: var(--text-dim); background: var(--bg-panel);
-  border: 1px solid var(--border); border-top: none;
-  border-radius: 0 0 3px 3px; padding: 4px 12px; cursor: pointer;
-  transition: color 0.1s;
+ 
+.card {
+  background: white; border: 1px solid var(--border); border-radius: 5px;
+  padding: 16px 20px; margin-bottom: 12px; transition: border-color 0.12s;
 }
-#ranking-toggle:hover { color: var(--text-secondary); }
-#ranking-drawer {
-  position: fixed; top: 72px; left: -320px; z-index: 110;
-  width: 310px; max-height: calc(100vh - 100px); overflow-y: auto;
-  background: var(--bg-panel); border: 1px solid var(--border-light);
-  border-left: none; border-radius: 0 5px 5px 0;
-  box-shadow: 4px 0 20px rgba(0,0,0,0.3);
-  transition: left 0.25s ease;
-  padding: 12px 0;
-}
-#ranking-drawer.open { left: 0; }
-.rank-header {
-  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em;
-  text-transform: uppercase; color: var(--text-dim); padding: 4px 14px 8px;
-  border-bottom: 1px solid var(--border); margin-bottom: 4px;
-  display: flex; justify-content: space-between;
-}
-.rank-item {
-  display: flex; align-items: baseline; padding: 4px 14px;
-  cursor: pointer; transition: background 0.08s; gap: 8px;
-}
-.rank-item:hover { background: var(--bg-surface); }
-.rank-num { font-family: 'DM Mono', monospace; font-size: 9px; color: var(--text-dim); width: 20px; text-align: right; }
-.rank-name { font-size: 11px; color: var(--text-secondary); flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.rank-score { font-family: 'DM Mono', monospace; font-size: 11px; font-weight: 500; }
-.rank-dots { display: flex; gap: 2px; margin-left: 4px; }
-.rank-dot { width: 3px; height: 3px; border-radius: 50%; }
-
-/* ── Loading ── */
-#loading {
-  position: fixed; inset: 0; z-index: 1000; background: var(--bg-deep);
-  display: flex; align-items: center; justify-content: center;
-  flex-direction: column; gap: 14px; transition: opacity 0.4s;
-}
-#loading.done { opacity: 0; pointer-events: none; }
-.loading-text {
-  font-family: 'DM Mono', monospace; font-size: 10px;
-  letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-dim);
-}
-.loading-bar { width: 180px; height: 2px; background: var(--border); border-radius: 1px; overflow: hidden; }
-.loading-bar-inner {
-  height: 100%; width: 30%; background: var(--accent); border-radius: 1px;
-  animation: loadSlide 1.2s ease-in-out infinite;
-}
-@keyframes loadSlide { 0% { transform: translateX(-100%); } 100% { transform: translateX(400%); } }
-
-::-webkit-scrollbar { width: 4px; }
-::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: var(--border-light); border-radius: 2px; }
+.card:hover { border-color: var(--text-dim); }
+.card a { text-decoration: none; color: inherit; }
+.card-title { font-size: 14px; font-weight: 500; margin-bottom: 4px; }
+.card-meta { font-size: 11px; color: var(--text-dim); }
 
 @media (max-width: 768px) {
-  h1 { font-size: 17px; }
-  #header { padding: 10px 14px 22px; }
-  #filter-bar { top: 48px; left: 14px; }
-  #legend { left: 10px; bottom: 10px; }
-  #stats-bar { right: 10px; bottom: 10px; gap: 6px; }
-  #detail-panel { left: 6px; right: 6px; width: auto; top: auto; bottom: 0; max-height: 50vh; border-radius: 10px 10px 0 0; }
-  #search-container { right: 14px; }
-  #search-input { width: 130px; }
-  #search-input:focus { width: 180px; }
-  #zoom-controls { right: 10px; }
-  #ranking-toggle { display: none; }
-  #methodology-panel { padding: 20px; width: 95vw; }
+  .site-header-inner { padding: 10px 16px; }
+  .site-nav a { font-size: 11px; padding: 4px 6px; }
+  .page-content { padding: 0 16px 40px; }
+  .breadcrumb { padding: 10px 16px 0; }
+  .data-table { font-size: 11px; }
 }
 </style>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<style>
+   
+  body { background: #0a0a0f; }
+  .site-footer { display: none; }
+  .page-content { max-width: none; padding: 0; }
+
+  #map-wrap { width: 100vw; height: calc(100vh - 42px); position: relative; overflow: hidden; cursor: grab; }
+  #map-wrap:active { cursor: grabbing; }
+  #map-wrap svg { width: 100%; height: 100%; }
+  .county { stroke: rgba(42,42,53,0.5); stroke-width: 0.25; cursor: pointer; transition: stroke-width 0.1s; }
+  .county:hover { stroke: #8a8892; stroke-width: 1; }
+  .county.active { stroke: #e8e6e1; stroke-width: 1.5; }
+  .state-boundary { fill: none; stroke: #353542; stroke-width: 0.6; pointer-events: none; }
+  .nation-boundary { fill: none; stroke: #55535e; stroke-width: 0.8; pointer-events: none; }
+
+  .map-overlay {
+    position: absolute; z-index: 50; pointer-events: none;
+  }
+  .map-overlay > * { pointer-events: auto; }
+
+  #map-header {
+    top: 0; left: 0; right: 0;
+    background: linear-gradient(180deg, #0a0a0f 0%, #0a0a0f 50%, transparent 100%);
+    padding: 14px 24px 28px; color: #e8e6e1;
+  }
+  .map-title { font-family: 'Instrument Serif', serif; font-size: 22px; font-weight: 400; margin-bottom: 2px; }
+  .map-sub { font-size: 11px; color: #8a8892; }
+  .map-actions { display: flex; gap: 8px; margin-top: 8px; }
+  .map-actions a {
+    font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.06em;
+    text-transform: uppercase; color: #55535e; padding: 3px 8px; border-radius: 2px;
+    border: 1px solid #2a2a35; text-decoration: none; transition: all 0.12s;
+  }
+  .map-actions a:hover { color: #e8e6e1; border-color: #353542; }
+
+  #map-legend {
+    bottom: 16px; left: 24px;
+    background: #111118; border: 1px solid #2a2a35; border-radius: 4px;
+    padding: 10px 14px; display: flex; align-items: center; gap: 10px;
+  }
+  .legend-label { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: #55535e; }
+  .legend-bar { display: flex; gap: 1px; }
+  .legend-cell { width: 16px; height: 10px; border-radius: 1px; }
+
+  #map-stats {
+    bottom: 16px; right: 24px;
+    display: flex; gap: 10px;
+  }
+  .m-stat { background: #111118; border: 1px solid #2a2a35; border-radius: 4px; padding: 6px 12px; text-align: center; }
+  .m-stat-val { font-family: 'DM Mono', monospace; font-size: 14px; font-weight: 500; color: #e8e6e1; line-height: 1; }
+  .m-stat-label { font-family: 'DM Mono', monospace; font-size: 7px; letter-spacing: 0.1em; text-transform: uppercase; color: #55535e; margin-top: 2px; }
+
+  #map-zoom {
+    top: 50%; right: 20px; transform: translateY(-50%);
+    display: flex; flex-direction: column; gap: 1px;
+  }
+  .z-btn {
+    width: 30px; height: 30px; background: #111118; border: 1px solid #2a2a35;
+    color: #8a8892; font-family: 'DM Mono', monospace; font-size: 14px;
+    cursor: pointer; display: flex; align-items: center; justify-content: center;
+    transition: all 0.1s;
+  }
+  .z-btn:hover { background: #22222f; color: #e8e6e1; }
+  .z-btn:first-child { border-radius: 4px 4px 0 0; }
+  .z-btn:last-child { border-radius: 0 0 4px 4px; }
+
+   
+  #tip { position: fixed; z-index: 200; pointer-events: none; opacity: 0; transition: opacity 0.1s; max-width: 360px; }
+  #tip.vis { opacity: 1; }
+  .tip-in {
+    background: #111118; border: 1px solid #353542; border-radius: 5px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5); overflow: hidden; color: #e8e6e1;
+  }
+  .tip-head { padding: 10px 14px 8px; border-bottom: 1px solid #2a2a35; display: flex; justify-content: space-between; align-items: baseline; }
+  .tip-county { font-family: 'Instrument Serif', serif; font-size: 16px; }
+  .tip-score { font-family: 'DM Mono', monospace; font-size: 18px; font-weight: 500; margin-left: 12px; }
+  .tip-fips { font-family: 'DM Mono', monospace; font-size: 9px; color: #55535e; margin-top: 1px; }
+  .tip-sigs { padding: 8px 14px 10px; }
+  .tip-row { display: flex; align-items: center; gap: 6px; padding: 2px 0; font-size: 10.5px; color: #8a8892; }
+  .tip-row .signal-dot { width: 5px; height: 5px; }
+  .tip-cnt { font-family: 'DM Mono', monospace; font-weight: 500; color: #e8e6e1; margin-left: auto; }
+  .tip-empty { padding: 10px 14px; }
+  .tip-empty p { font-size: 10px; color: #55535e; font-style: italic; margin-top: 2px; }
+  .tip-link {
+    display: block; padding: 6px 14px; border-top: 1px solid #2a2a35;
+    font-family: 'DM Mono', monospace; font-size: 9px; color: #55535e;
+    text-decoration: none; text-align: center; letter-spacing: 0.06em;
+    text-transform: uppercase; transition: all 0.1s;
+  }
+  .tip-link:hover { color: #e8e6e1; background: rgba(255,255,255,0.03); }
+
+  @media (max-width: 768px) {
+    #map-header { padding: 10px 14px 20px; }
+    .map-title { font-size: 17px; }
+    #map-legend { left: 10px; bottom: 10px; }
+    #map-stats { right: 10px; bottom: 10px; }
+  }
+</style>
+
 </head>
 <body>
 
-<div id="loading">
-  <div class="loading-text">Loading county data</div>
-  <div class="loading-bar"><div class="loading-bar-inner"></div></div>
-</div>
-
-<div id="header">
-  <div class="header-top">
-    <h1>Detention Pipeline Heat Map</h1>
-    <span class="header-tag">Live</span>
-    <button id="about-btn">Methodology</button>
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="site-brand">
+      <h1>Detention Pipeline</h1>
+      <span class="brand-tag">Early Warning</span>
+    </a>
+    <nav class="site-nav">
+      <a href="/" class="active">Map</a>
+      <a href="/county/" >Counties</a>
+      <a href="/signals/" >Signals</a>
+      <a href="/state/" >States</a>
+      <a href="/methodology/" >Methodology</a>
+      <a href="/contribute/" >Contribute</a>
+    </nav>
   </div>
-  <div class="header-sub">
-    Multi-signal convergence scoring across U.S. counties <span>·</span> Data as of Feb 2026
-  </div>
-</div>
+</header>
 
-<div id="filter-bar"></div>
 
-<div id="search-container">
-  <input type="text" id="search-input" placeholder="Search county… ( / )" autocomplete="off" spellcheck="false">
-  <div id="search-results"></div>
-</div>
+<div class="page-content">
+<div id="map-wrap">
 
-<div id="map-container"></div>
-
-<div id="legend">
-  <span class="legend-label">Heat</span>
-  <div>
-    <div class="legend-bar" id="legend-bar"></div>
-    <div class="legend-range"><span>0</span><span id="legend-max">100</span></div>
-  </div>
-</div>
-
-<div id="stats-bar">
-  <div class="stat-chip">
-    <span class="stat-value" id="stat-counties">—</span>
-    <span class="stat-label">Counties</span>
-  </div>
-  <div class="stat-chip">
-    <span class="stat-value" id="stat-max">—</span>
-    <span class="stat-label">Max Score</span>
-  </div>
-  <div class="stat-chip">
-    <span class="stat-value" id="stat-signals">—</span>
-    <span class="stat-label">Signal Types</span>
-  </div>
-</div>
-
-<div id="zoom-controls">
-  <button class="zoom-btn" id="zoom-in">+</button>
-  <button class="zoom-btn" id="zoom-out">−</button>
-  <button class="zoom-btn zoom-btn-reset" id="zoom-reset">⌂</button>
-</div>
-
-<div id="ranking-toggle">Top Counties ▸</div>
-<div id="ranking-drawer"></div>
-
-<div id="tooltip"><div class="tooltip-inner" id="tooltip-inner"></div></div>
-
-<div id="detail-panel">
-  <button class="panel-close" id="panel-close">×</button>
-  <div id="panel-content"></div>
-</div>
-
-<div id="methodology-overlay">
-  <div id="methodology-panel">
-    <button class="meth-close" id="meth-close">×</button>
-    <div class="meth-title">Methodology</div>
-    <div class="meth-subtitle">
-      This map visualizes <em>signal convergence</em> — the overlap of multiple independent
-      indicators that a county is being targeted for ICE detention facility expansion. A single
-      signal means little; multiple signal types in the same county indicate a pattern.
-    </div>
-
-    <div class="meth-section">
-      <h3>How the score works</h3>
-      <p>Each county receives a <strong>heat score</strong> based on the number and type of signals detected.
-      Signals are weighted by predictive value: an existing IGSA scores higher than a real estate listing.
-      Each signal type is capped to prevent one category from dominating.</p>
-      <p>A <strong>convergence bonus</strong> rewards diversity: +10 points per signal type beyond 2,
-      and +15 more if 5 or more types are present. Three different signal types in one county is
-      far more predictive than ten entries of the same type.</p>
-    </div>
-
-    <div class="meth-section">
-      <h3>Signal types and weights</h3>
-      <table class="meth-signal-table">
-        <tr><th>Signal</th><th>Weight</th><th>Cap</th><th>What it means</th></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-igsa)"></span> IGSA Facility</td><td>10</td><td>5</td><td>Existing Intergovernmental Service Agreement for ICE detention</td></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-anc)"></span> ANC Contract</td><td>8</td><td>3</td><td>Alaska Native Corp federal contract in detention/security space</td></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-287g)"></span> 287(g) Agreement</td><td>7</td><td>3</td><td>Local law enforcement deputized for immigration enforcement</td></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-commission)"></span> Commission Activity</td><td>7</td><td>5</td><td>County commission agenda, vote, or hearing on detention</td></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-job)"></span> Job Posting</td><td>7</td><td>3</td><td>Detention consultant or contractor recruiting for this area</td></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-sheriff)"></span> Sheriff Network</td><td>6</td><td>3</td><td>Sheriff conference activity or pitch to commissioners</td></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-comms)"></span> Comms Discipline</td><td>6</td><td>3</td><td>Polished messaging, NDA use, or opposition framing</td></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-budget)"></span> Budget Distress</td><td>5</td><td>2</td><td>County budget shortfall making it vulnerable to the pitch</td></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-realestate)"></span> Real Estate</td><td>2</td><td>2</td><td>Warehouse or county building that could be converted</td></tr>
-        <tr><td><span class="sig-dot" style="background:var(--signal-legislative)"></span> Legislative</td><td>1</td><td>2</td><td>State legislation to block or enable detention agreements</td></tr>
-      </table>
-    </div>
-
-    <div class="meth-section">
-      <h3>The thesis</h3>
-      <p>Detention consultants like Sabot Consulting target counties with budget distress,
-      cooperative sheriffs, and existing infrastructure. The pitch follows a playbook:
-      sheriff conference recruitment, closed-session presentations, NDA-protected negotiations,
-      then a commission vote framed as fiscal salvation. By the time the public knows,
-      the deal is nearly done.</p>
-      <p>This map aims to surface the signals early — when multiple independent indicators
-      converge on the same county, that county is likely being pitched. Early detection
-      enables democratic response.</p>
-    </div>
-
-    <div class="meth-section">
-      <h3>Data sources</h3>
-      <div class="meth-source">
-        <span class="meth-source-label">IGSA data</span>
-        <span class="meth-source-val">Vera Institute of Justice (438 facilities, FIPS-coded)</span>
-      </div>
-      <div class="meth-source">
-        <span class="meth-source-label">287(g)</span>
-        <span class="meth-source-val"><a href="https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/" target="_blank" rel="noopener">Prison Policy Initiative</a> (1,200+ agreements, compiled from ICE data Feb 2026)</span>
-      </div>
-      <div class="meth-source">
-        <span class="meth-source-label">ANC contracts</span>
-        <span class="meth-source-val"><a href="https://www.usaspending.gov" target="_blank" rel="noopener">USAspending.gov</a> API — Alaska Native Corporation subsidiary contracts</span>
-      </div>
-      <div class="meth-source">
-        <span class="meth-source-label">Commission</span>
-        <span class="meth-source-val">Legistar API (county commission agendas and minutes)</span>
-      </div>
-      <div class="meth-source">
-        <span class="meth-source-label">Jobs</span>
-        <span class="meth-source-val">Indeed, LinkedIn — Sabot Consulting and detention contractor postings</span>
-      </div>
-      <div class="meth-source">
-        <span class="meth-source-label">Other signals</span>
-        <span class="meth-source-val">Manual research — local news, FOIA, court records, Census economic data</span>
-      </div>
-      <div class="meth-source">
-        <span class="meth-source-label">Geography</span>
-        <span class="meth-source-val">U.S. Census Bureau county FIPS codes (2020)</span>
-      </div>
-    </div>
-
-    <div class="meth-section">
-      <h3>Limitations</h3>
-      <p>This is an <em>early-warning system</em>, not a confirmed list. A high score means
-      multiple independent signals converge — it does not mean a detention facility deal is
-      confirmed or inevitable. False positives are expected. Some counties with active pipeline
-      work may score low if their signals haven't been captured yet.</p>
-      <p>287(g) FIPS resolution covers ~79% of agencies. Municipal police departments (as opposed
-      to county sheriffs) often can't be reliably mapped to counties without geocoding.</p>
+  <div id="map-header" class="map-overlay">
+    <div class="map-title">Detention Pipeline Heat Map</div>
+    <div class="map-sub">Multi-signal convergence scoring across 986 U.S. counties · Data as of Feb 2026</div>
+    <div class="map-actions">
+      <a href="/county/">Browse counties</a>
+      <a href="/signals/">By signal type</a>
+      <a href="/methodology/">Methodology</a>
     </div>
   </div>
+
+  <div id="map-legend" class="map-overlay">
+    <span class="legend-label">Heat</span>
+    <div><div class="legend-bar" id="legend-bar"></div></div>
+  </div>
+
+  <div id="map-stats" class="map-overlay">
+    <div class="m-stat"><div class="m-stat-val" id="s-counties">—</div><div class="m-stat-label">Counties</div></div>
+    <div class="m-stat"><div class="m-stat-val" id="s-max">—</div><div class="m-stat-label">Max Score</div></div>
+  </div>
+
+  <div id="map-zoom" class="map-overlay">
+    <button class="z-btn" id="zi">+</button>
+    <button class="z-btn" id="zo">−</button>
+  </div>
+
+</div>
+
+<div id="tip"><div class="tip-in" id="tip-in"></div></div>
 </div>
 
 <script>
-const SIGNAL_META = {
-  'igsa':               { label: 'IGSA Facility',        color: 'var(--signal-igsa)',       short: 'IGSA' },
-  '287g-agreement':     { label: '287(g) Agreement',     color: 'var(--signal-287g)',       short: '287(g)' },
-  'anc-contract':       { label: 'ANC Contract',         color: 'var(--signal-anc)',        short: 'ANC' },
-  'commission-activity': { label: 'Commission Activity', color: 'var(--signal-commission)', short: 'Commission' },
-  'job-posting':        { label: 'Job Posting',          color: 'var(--signal-job)',        short: 'Jobs' },
-  'sheriff-network':    { label: 'Sheriff Network',      color: 'var(--signal-sheriff)',    short: 'Sheriff' },
-  'comms-discipline':   { label: 'Comms Discipline',     color: 'var(--signal-comms)',      short: 'Comms' },
-  'budget-distress':    { label: 'Budget Distress',      color: 'var(--signal-budget)',     short: 'Budget' },
-  'real-estate-trace':  { label: 'Real Estate Trace',    color: 'var(--signal-realestate)', short: 'Real Estate' },
-  'legislative-trace':  { label: 'Legislative Trace',    color: 'var(--signal-legislative)',short: 'Legislative' },
+const SIG = {
+  'igsa':               {l:'IGSA',       c:'var(--signal-igsa)'},
+  '287g-agreement':     {l:'287(g)',     c:'var(--signal-287g)'},
+  'anc-contract':       {l:'ANC',        c:'var(--signal-anc)'},
+  'commission-activity':{l:'Commission', c:'var(--signal-commission)'},
+  'job-posting':        {l:'Jobs',       c:'var(--signal-job)'},
+  'sheriff-network':    {l:'Sheriff',    c:'var(--signal-sheriff)'},
+  'comms-discipline':   {l:'Comms',      c:'var(--signal-comms)'},
+  'budget-distress':    {l:'Budget',     c:'var(--signal-budget)'},
+  'real-estate-trace':  {l:'Real Estate',c:'var(--signal-realestate)'},
+  'legislative-trace':  {l:'Legislative',c:'var(--signal-legislative)'},
 };
-const SIGNAL_ORDER = [
-  'igsa', '287g-agreement', 'anc-contract', 'commission-activity',
-  'job-posting', 'sheriff-network', 'comms-discipline',
-  'budget-distress', 'real-estate-trace', 'legislative-trace'
-];
+const SO = Object.keys(SIG);
+let H={}, FN={}, mx=1, all=[];
 
-let heatData = {};
-let fipsNames = {};
-let maxScore = 1;
-let allCountyData = [];
-let activeFilters = new Set();
-let svgRef, zoomRef, gRef;
+function hc(s){if(!s||s<=0)return'#12121a';const t=Math.min(s/mx,1);return`rgb(${18+t*237|0},${18+Math.pow(t,2.2)*50|0},${26-t*10|0})`}
+function sc(s){return s>=70?'var(--accent-hot)':s>=40?'var(--accent-warm)':s>=15?'#8a8892':'#55535e'}
+function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
 
-function heatColor(score) {
-  if (!score || score <= 0) return 'var(--heat-0)';
-  const t = Math.min(score / maxScore, 1);
-  const r = Math.round(18 + t * 237);
-  const g = Math.round(18 + Math.pow(t, 2.2) * 50);
-  const b = Math.round(26 - t * 10);
-  return `rgb(${r},${g},${b})`;
+async function init(){
+  const[topo,heat,names]=await Promise.all([d3.json('/counties-albers-10m.json'),d3.json('/heat_data.json'),d3.json('/fips_names.json')]);
+  FN=names;all=heat;heat.forEach(d=>{H[d.fips]=d});mx=d3.max(heat,d=>d.score)||1;
+  document.getElementById('s-counties').textContent=heat.length;
+  document.getElementById('s-max').textContent=mx;
+  const lb=document.getElementById('legend-bar');
+  for(let i=0;i<=10;i++){const c=document.createElement('div');c.className='legend-cell';c.style.background=hc(i/10*mx);lb.appendChild(c)}
+
+  const el=document.getElementById('map-wrap'),w=el.clientWidth,h=el.clientHeight;
+  const svg=d3.select('#map-wrap').append('svg').attr('width',w).attr('height',h);
+  const g=svg.append('g');
+  const mW=1016,mH=594,s0=Math.min(w/mW,h/mH)*0.92;
+  const tx=(w-mW*s0)/2-(-58)*s0,ty=(h-mH*s0)/2-13*s0;
+  const it=d3.zoomIdentity.translate(tx,ty).scale(s0);
+  const zm=d3.zoom().scaleExtent([s0*0.8,s0*16]).on('zoom',e=>g.attr('transform',e.transform));
+  svg.call(zm).call(zm.transform,it);
+  document.getElementById('zi').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1.5);
+  document.getElementById('zo').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1/1.5);
+
+  const counties=topojson.feature(topo,topo.objects.counties);
+  g.selectAll('.county').data(counties.features).join('path').attr('class','county').attr('d',d3.geoPath())
+    .attr('fill',d=>{const f=d.id.toString().padStart(5,'0');const dd=H[f];return dd?hc(dd.score):'#12121a'})
+    .on('mouseenter',(e,d)=>showTip(e,d)).on('mousemove',e=>moveTip(e)).on('mouseleave',hideTip)
+    .on('click',(e,d)=>{const f=d.id.toString().padStart(5,'0');if(H[f])window.location.href='/county/'+f+'/'});
+  g.append('path').datum(topojson.mesh(topo,topo.objects.states,(a,b)=>a!==b)).attr('class','state-boundary').attr('d',d3.geoPath());
+  g.append('path').datum(topojson.mesh(topo,topo.objects.nation)).attr('class','nation-boundary').attr('d',d3.geoPath());
 }
 
-function scoreColor(score) {
-  if (score >= 70) return 'var(--accent-hot)';
-  if (score >= 40) return 'var(--accent-warm)';
-  if (score >= 15) return 'var(--text-secondary)';
-  return 'var(--text-dim)';
-}
-
-function countyPassesFilter(data) {
-  if (activeFilters.size === 0) return true;
-  if (!data) return false;
-  for (const f of activeFilters) {
-    if (data.signals[f]) return true;
-  }
-  return false;
-}
-
-function updateMapColors() {
-  d3.selectAll('.county').each(function(d) {
-    const fips = d.id.toString().padStart(5, '0');
-    const data = heatData[fips];
-    const passes = countyPassesFilter(data);
-    d3.select(this)
-      .classed('dim', activeFilters.size > 0 && !passes)
-      .attr('fill', data ? heatColor(data.score) : 'var(--heat-0)');
-  });
-}
-
-async function init() {
-  const [topoData, heatRaw, namesRaw] = await Promise.all([
-    d3.json('counties-albers-10m.json'),
-    d3.json('heat_data.json'),
-    d3.json('fips_names.json'),
-  ]);
-
-  fipsNames = namesRaw;
-  allCountyData = heatRaw;
-  allCountyData.forEach(d => { heatData[d.fips] = d; });
-  maxScore = d3.max(allCountyData, d => d.score) || 1;
-
-  // Stats
-  document.getElementById('stat-counties').textContent = allCountyData.length.toLocaleString();
-  document.getElementById('stat-max').textContent = maxScore;
-  const allSignalTypes = new Set();
-  allCountyData.forEach(d => Object.keys(d.signals).forEach(s => allSignalTypes.add(s)));
-  document.getElementById('stat-signals').textContent = allSignalTypes.size;
-  document.getElementById('legend-max').textContent = maxScore;
-
-  // Legend
-  const legendBar = document.getElementById('legend-bar');
-  for (let i = 0; i <= 10; i++) {
-    const cell = document.createElement('div');
-    cell.className = 'legend-cell';
-    cell.style.background = heatColor((i / 10) * maxScore);
-    legendBar.appendChild(cell);
-  }
-
-  // Filter chips
-  buildFilterChips(allSignalTypes);
-
-  // SVG — fit the Albers projection (bbox ~960×600) to the viewport
-  const container = document.getElementById('map-container');
-  const width = container.clientWidth;
-  const height = container.clientHeight;
-
-  const svg = d3.select('#map-container').append('svg').attr('width', width).attr('height', height);
-  svgRef = svg;
-  const g = svg.append('g');
-  gRef = g;
-
-  // Compute initial transform to center the map
-  // The Albers TopoJSON bbox is roughly [−58, 13] to [958, 607]
-  const mapW = 1016, mapH = 594;
-  const scale0 = Math.min(width / mapW, height / mapH) * 0.92;
-  const tx = (width - mapW * scale0) / 2 - (-58) * scale0;
-  const ty = (height - mapH * scale0) / 2 - 13 * scale0;
-  const initialTransform = d3.zoomIdentity.translate(tx, ty).scale(scale0);
-
-  const zoom = d3.zoom()
-    .scaleExtent([scale0 * 0.8, scale0 * 16])
-    .on('zoom', (event) => { g.attr('transform', event.transform); });
-  zoomRef = zoom;
-
-  svg.call(zoom);
-  svg.call(zoom.transform, initialTransform);
-
-  document.getElementById('zoom-in').addEventListener('click', () => svg.transition().duration(250).call(zoom.scaleBy, 1.5));
-  document.getElementById('zoom-out').addEventListener('click', () => svg.transition().duration(250).call(zoom.scaleBy, 1/1.5));
-  document.getElementById('zoom-reset').addEventListener('click', () => svg.transition().duration(500).call(zoom.transform, initialTransform));
-
-  // Counties
-  const counties = topojson.feature(topoData, topoData.objects.counties);
-  const states = topojson.mesh(topoData, topoData.objects.states, (a, b) => a !== b);
-  const nation = topojson.mesh(topoData, topoData.objects.nation);
-
-  g.selectAll('.county')
-    .data(counties.features).join('path')
-    .attr('class', 'county')
-    .attr('d', d3.geoPath())
-    .attr('fill', d => {
-      const fips = d.id.toString().padStart(5, '0');
-      const data = heatData[fips];
-      return data ? heatColor(data.score) : 'var(--heat-0)';
-    })
-    .on('mouseenter', function(event, d) { showTooltip(event, d); })
-    .on('mousemove', function(event) { positionTooltip(event); })
-    .on('mouseleave', function() { hideTooltip(); })
-    .on('click', function(event, d) {
-      event.stopPropagation();
-      showDetailPanel(d);
-    });
-
-  // Touch
-  let touchTimer;
-  g.selectAll('.county')
-    .on('touchstart', function(event, d) { event.preventDefault(); touchTimer = setTimeout(() => showDetailPanel(d), 400); })
-    .on('touchend', function() { clearTimeout(touchTimer); });
-
-  g.append('path').datum(states).attr('class', 'state-boundary').attr('d', d3.geoPath());
-  g.append('path').datum(nation).attr('class', 'nation-boundary').attr('d', d3.geoPath());
-
-  setupSearch();
-  buildRanking();
-  setupMethodology();
-
-  // URL hash: #fips=26163
-  const hash = window.location.hash;
-  if (hash.startsWith('#fips=')) {
-    const fips = hash.slice(6);
-    setTimeout(() => zoomToCounty(fips), 600);
-  }
-
-  setTimeout(() => document.getElementById('loading').classList.add('done'), 300);
-}
-
-// ── Filter Chips ──
-function buildFilterChips(activeTypes) {
-  const bar = document.getElementById('filter-bar');
-  SIGNAL_ORDER.forEach(stype => {
-    if (!activeTypes.has(stype)) return;
-    const meta = SIGNAL_META[stype];
-    const count = allCountyData.filter(d => d.signals[stype]).length;
-    const chip = document.createElement('button');
-    chip.className = 'filter-chip';
-    chip.innerHTML = `<span class="chip-dot" style="background:${meta.color}"></span>${meta.short} <span style="color:var(--text-dim)">${count}</span>`;
-    chip.addEventListener('click', () => {
-      if (activeFilters.has(stype)) {
-        activeFilters.delete(stype);
-        chip.classList.remove('active');
-      } else {
-        activeFilters.add(stype);
-        chip.classList.add('active');
-      }
-      updateMapColors();
-    });
-    bar.appendChild(chip);
-  });
-}
-
-// ── Tooltip ──
-const tooltip = document.getElementById('tooltip');
-const tooltipInner = document.getElementById('tooltip-inner');
-
-function showTooltip(event, d) {
-  const fips = d.id.toString().padStart(5, '0');
-  const data = heatData[fips];
-  const countyName = data ? data.county : (fipsNames[fips] || `County ${fips}`);
-
-  if (data) {
-    const signalsHTML = SIGNAL_ORDER.filter(s => data.signals[s]).map(s => {
-      const meta = SIGNAL_META[s];
-      const sig = data.signals[s];
-      const entriesHTML = sig.entries.slice(0, 2).map(e =>
-        `<div class="signal-entry">${escapeHTML(e)}</div>`
-      ).join('');
-      return `
-        <div class="signal-row">
-          <div class="signal-dot" style="background:${meta.color}"></div>
-          <span class="signal-name">${meta.label}</span>
-          <span class="signal-count">${sig.count}</span>
-        </div>
-        ${entriesHTML ? `<div class="signal-entries">${entriesHTML}</div>` : ''}
-      `;
-    }).join('');
-
-    const dotsHTML = SIGNAL_ORDER.map(stype => {
-      const active = data.signals[stype];
-      return `<div class="st-dot${active ? ' active' : ''}" ${active ? `style="background:${SIGNAL_META[stype].color}"` : ''}></div>`;
-    }).join('');
-
-    tooltipInner.innerHTML = `
-      <div class="tooltip-header">
-        <div>
-          <div class="tooltip-county">${escapeHTML(countyName)}</div>
-          <div class="tooltip-fips">FIPS ${fips}</div>
-        </div>
-        <div class="tooltip-score" style="color:${scoreColor(data.score)}">${data.score}</div>
-      </div>
-      <div class="tooltip-signals">${signalsHTML}</div>
-      <div class="tooltip-footer">
-        <span class="signal-types-label">${data.signal_types} signal type${data.signal_types !== 1 ? 's' : ''}</span>
-        <div class="signal-types-dots">${dotsHTML}</div>
-      </div>
-    `;
+const tip=document.getElementById('tip'),tipIn=document.getElementById('tip-in');
+function showTip(ev,d){
+  const f=d.id.toString().padStart(5,'0'),dd=H[f],nm=dd?dd.county:(FN[f]||'County '+f);
+  if(dd){
+    const rows=SO.filter(s=>dd.signals[s]).map(s=>`<div class="tip-row"><span class="signal-dot" style="background:${SIG[s].c}"></span>${SIG[s].l}<span class="tip-cnt">${dd.signals[s].count}</span></div>`).join('');
+    tipIn.innerHTML=`<div class="tip-head"><div><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div></div><div class="tip-score" style="color:${sc(dd.score)}">${dd.score}</div></div><div class="tip-sigs">${rows}</div><a href="/county/${f}/" class="tip-link">View county profile →</a>`;
   } else {
-    tooltipInner.innerHTML = `
-      <div class="tooltip-empty">
-        <div class="tooltip-county">${escapeHTML(countyName)}</div>
-        <div class="tooltip-fips">FIPS ${fips}</div>
-        <p>No pipeline signals detected</p>
-      </div>
-    `;
+    tipIn.innerHTML=`<div class="tip-empty"><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div><p>No pipeline signals detected</p></div>`;
   }
-  positionTooltip(event);
-  tooltip.classList.add('visible');
+  moveTip(ev);tip.classList.add('vis');
 }
-
-function positionTooltip(event) {
-  const pad = 14;
-  const tw = tooltip.offsetWidth, th = tooltip.offsetHeight;
-  let x = event.clientX + pad, y = event.clientY + pad;
-  if (x + tw > window.innerWidth - pad) x = event.clientX - tw - pad;
-  if (y + th > window.innerHeight - pad) y = event.clientY - th - pad;
-  tooltip.style.left = x + 'px';
-  tooltip.style.top = y + 'px';
+function moveTip(ev){
+  let x=ev.clientX+14,y=ev.clientY+14;
+  if(x+tip.offsetWidth>window.innerWidth-14)x=ev.clientX-tip.offsetWidth-14;
+  if(y+tip.offsetHeight>window.innerHeight-14)y=ev.clientY-tip.offsetHeight-14;
+  tip.style.left=x+'px';tip.style.top=y+'px';
 }
-
-function hideTooltip() { tooltip.classList.remove('visible'); }
-
-// ── Detail Panel ──
-const detailPanel = document.getElementById('detail-panel');
-const panelContent = document.getElementById('panel-content');
-
-function showDetailPanel(d) {
-  const fips = d.id.toString().padStart(5, '0');
-  const data = heatData[fips];
-  if (!data) return;
-
-  d3.selectAll('.county.active').classed('active', false);
-  d3.selectAll('.county').filter(dd => dd === d).classed('active', true);
-
-  // Update URL hash
-  history.replaceState(null, '', `#fips=${fips}`);
-
-  const signalGroupsHTML = SIGNAL_ORDER.filter(s => data.signals[s]).map(s => {
-    const meta = SIGNAL_META[s];
-    const sig = data.signals[s];
-    const entriesHTML = sig.entries.map(e =>
-      `<div class="panel-entry">${escapeHTML(e)}</div>`
-    ).join('');
-    return `
-      <div class="panel-signal-group">
-        <div class="panel-signal-header">
-          <div class="panel-signal-dot" style="background:${meta.color}"></div>
-          <span class="panel-signal-name">${meta.label}</span>
-          <span class="panel-signal-count">${sig.count} entr${sig.count === 1 ? 'y' : 'ies'}</span>
-        </div>
-        <div class="panel-entry-list">${entriesHTML}</div>
-      </div>
-    `;
-  }).join('');
-
-  panelContent.innerHTML = `
-    <div class="panel-header">
-      <div class="panel-county">${escapeHTML(data.county)}</div>
-      <div class="panel-meta">
-        <div>
-          <div class="panel-score" style="color:${scoreColor(data.score)}">${data.score}</div>
-          <div class="panel-score-label">Heat Score</div>
-        </div>
-        <div>
-          <div class="panel-fips">FIPS ${fips} · ${data.signal_types} signal type${data.signal_types !== 1 ? 's' : ''}</div>
-        </div>
-      </div>
-    </div>
-    <div class="panel-signals">${signalGroupsHTML}</div>
-  `;
-  detailPanel.classList.add('visible');
-  hideTooltip();
-}
-
-document.getElementById('panel-close').addEventListener('click', () => {
-  detailPanel.classList.remove('visible');
-  d3.selectAll('.county.active').classed('active', false);
-  history.replaceState(null, '', window.location.pathname);
-});
-
-document.getElementById('map-container').addEventListener('click', (e) => {
-  if (e.target.tagName === 'svg') {
-    detailPanel.classList.remove('visible');
-    d3.selectAll('.county.active').classed('active', false);
-    history.replaceState(null, '', window.location.pathname);
-  }
-});
-
-// ── Search ──
-function setupSearch() {
-  const input = document.getElementById('search-input');
-  const results = document.getElementById('search-results');
-
-  input.addEventListener('input', () => {
-    const q = input.value.toLowerCase().trim();
-    if (q.length < 2) { results.style.display = 'none'; return; }
-
-    const matches = allCountyData
-      .filter(d => d.county.toLowerCase().includes(q) || d.fips.includes(q) || d.state.toLowerCase() === q)
-      .sort((a, b) => b.score - a.score)
-      .slice(0, 15);
-
-    if (!matches.length) { results.style.display = 'none'; return; }
-
-    results.innerHTML = matches.map(d => `
-      <div class="search-result" data-fips="${d.fips}">
-        <span class="search-result-name">${escapeHTML(d.county)}</span>
-        <span class="search-result-score" style="color:${scoreColor(d.score)}">${d.score}</span>
-      </div>
-    `).join('');
-    results.style.display = 'block';
-    results.querySelectorAll('.search-result').forEach(el => {
-      el.addEventListener('click', () => { zoomToCounty(el.dataset.fips); results.style.display = 'none'; input.value = ''; });
-    });
-  });
-
-  input.addEventListener('blur', () => { setTimeout(() => { results.style.display = 'none'; }, 200); });
-
-  document.addEventListener('keydown', (e) => {
-    if (e.key === '/' && document.activeElement !== input) { e.preventDefault(); input.focus(); }
-    if (e.key === 'Escape') {
-      input.blur(); results.style.display = 'none';
-      detailPanel.classList.remove('visible');
-      d3.selectAll('.county.active').classed('active', false);
-    }
-  });
-}
-
-function zoomToCounty(fips) {
-  const countyPath = d3.selectAll('.county').filter(d => d.id.toString().padStart(5, '0') === fips);
-  if (countyPath.empty()) return;
-  const d = countyPath.datum();
-  const [[x0, y0], [x1, y1]] = d3.geoPath().bounds(d);
-  const dx = x1 - x0, dy = y1 - y0;
-  const x = (x0 + x1) / 2, y = (y0 + y1) / 2;
-  const width = svgRef.node().clientWidth, height = svgRef.node().clientHeight;
-  const scale = Math.min(8, 0.9 / Math.max(dx / width, dy / height));
-  const translate = [width / 2 - scale * x, height / 2 - scale * y];
-  svgRef.transition().duration(700).call(zoomRef.transform, d3.zoomIdentity.translate(translate[0], translate[1]).scale(scale));
-  showDetailPanel(d);
-}
-
-// ── Ranking ──
-function buildRanking() {
-  const drawer = document.getElementById('ranking-drawer');
-  const toggle = document.getElementById('ranking-toggle');
-
-  toggle.addEventListener('click', () => {
-    drawer.classList.toggle('open');
-    toggle.textContent = drawer.classList.contains('open') ? '◂ Close' : 'Top Counties ▸';
-  });
-
-  drawer.innerHTML = `
-    <div class="rank-header"><span>Top 50 Counties</span><span>Score</span></div>
-    ${allCountyData.slice(0, 50).map((d, i) => {
-      const dots = SIGNAL_ORDER
-        .filter(s => d.signals[s])
-        .map(s => `<span class="rank-dot" style="background:${SIGNAL_META[s].color}"></span>`)
-        .join('');
-      return `
-        <div class="rank-item" data-fips="${d.fips}">
-          <span class="rank-num">${i + 1}</span>
-          <span class="rank-name">${escapeHTML(d.county)}</span>
-          <div class="rank-dots">${dots}</div>
-          <span class="rank-score" style="color:${scoreColor(d.score)}">${d.score}</span>
-        </div>
-      `;
-    }).join('')}
-  `;
-
-  drawer.querySelectorAll('.rank-item').forEach(el => {
-    el.addEventListener('click', () => {
-      zoomToCounty(el.dataset.fips);
-      drawer.classList.remove('open');
-      toggle.textContent = 'Top Counties ▸';
-    });
-  });
-}
-
-// ── Methodology ──
-function setupMethodology() {
-  const overlay = document.getElementById('methodology-overlay');
-  document.getElementById('about-btn').addEventListener('click', () => overlay.classList.add('visible'));
-  document.getElementById('meth-close').addEventListener('click', () => overlay.classList.remove('visible'));
-  overlay.addEventListener('click', (e) => { if (e.target === overlay) overlay.classList.remove('visible'); });
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') overlay.classList.remove('visible'); });
-}
-
-function escapeHTML(str) {
-  const div = document.createElement('div');
-  div.textContent = str;
-  return div.innerHTML;
-}
-
+function hideTip(){tip.classList.remove('vis')}
 init();
 </script>
+
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
+      <a href="/methodology/">Methodology</a>
+      <a href="/contribute/">Contribute</a>
+      <a href="https://theramm.substack.com">The RAMM</a>
+    </div>
+    <div>CC-BY-SA 4.0 · Data as of Feb 2026 · Built by <a href="https://theramm.substack.com">The RAMM</a></div>
+  </div>
+</footer>
+
 </body>
 </html>

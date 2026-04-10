@@ -1,0 +1,206 @@
+{{ define "head" }}
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<style>
+  /* Override base styles for full-bleed map */
+  body { background: #0a0a0f; }
+  .site-footer { display: none; }
+  .page-content { max-width: none; padding: 0; }
+
+  #map-wrap { width: 100vw; height: calc(100vh - 42px); position: relative; overflow: hidden; cursor: grab; }
+  #map-wrap:active { cursor: grabbing; }
+  #map-wrap svg { width: 100%; height: 100%; }
+  .county { stroke: rgba(42,42,53,0.5); stroke-width: 0.25; cursor: pointer; transition: stroke-width 0.1s; }
+  .county:hover { stroke: #8a8892; stroke-width: 1; }
+  .county.active { stroke: #e8e6e1; stroke-width: 1.5; }
+  .state-boundary { fill: none; stroke: #353542; stroke-width: 0.6; pointer-events: none; }
+  .nation-boundary { fill: none; stroke: #55535e; stroke-width: 0.8; pointer-events: none; }
+
+  .map-overlay {
+    position: absolute; z-index: 50; pointer-events: none;
+  }
+  .map-overlay > * { pointer-events: auto; }
+
+  #map-header {
+    top: 0; left: 0; right: 0;
+    background: linear-gradient(180deg, #0a0a0f 0%, #0a0a0f 50%, transparent 100%);
+    padding: 14px 24px 28px; color: #e8e6e1;
+  }
+  .map-title { font-family: 'Instrument Serif', serif; font-size: 22px; font-weight: 400; margin-bottom: 2px; }
+  .map-sub { font-size: 11px; color: #8a8892; }
+  .map-actions { display: flex; gap: 8px; margin-top: 8px; }
+  .map-actions a {
+    font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.06em;
+    text-transform: uppercase; color: #55535e; padding: 3px 8px; border-radius: 2px;
+    border: 1px solid #2a2a35; text-decoration: none; transition: all 0.12s;
+  }
+  .map-actions a:hover { color: #e8e6e1; border-color: #353542; }
+
+  #map-legend {
+    bottom: 16px; left: 24px;
+    background: #111118; border: 1px solid #2a2a35; border-radius: 4px;
+    padding: 10px 14px; display: flex; align-items: center; gap: 10px;
+  }
+  .legend-label { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: #55535e; }
+  .legend-bar { display: flex; gap: 1px; }
+  .legend-cell { width: 16px; height: 10px; border-radius: 1px; }
+
+  #map-stats {
+    bottom: 16px; right: 24px;
+    display: flex; gap: 10px;
+  }
+  .m-stat { background: #111118; border: 1px solid #2a2a35; border-radius: 4px; padding: 6px 12px; text-align: center; }
+  .m-stat-val { font-family: 'DM Mono', monospace; font-size: 14px; font-weight: 500; color: #e8e6e1; line-height: 1; }
+  .m-stat-label { font-family: 'DM Mono', monospace; font-size: 7px; letter-spacing: 0.1em; text-transform: uppercase; color: #55535e; margin-top: 2px; }
+
+  #map-zoom {
+    top: 50%; right: 20px; transform: translateY(-50%);
+    display: flex; flex-direction: column; gap: 1px;
+  }
+  .z-btn {
+    width: 30px; height: 30px; background: #111118; border: 1px solid #2a2a35;
+    color: #8a8892; font-family: 'DM Mono', monospace; font-size: 14px;
+    cursor: pointer; display: flex; align-items: center; justify-content: center;
+    transition: all 0.1s;
+  }
+  .z-btn:hover { background: #22222f; color: #e8e6e1; }
+  .z-btn:first-child { border-radius: 4px 4px 0 0; }
+  .z-btn:last-child { border-radius: 0 0 4px 4px; }
+
+  /* Tooltip */
+  #tip { position: fixed; z-index: 200; pointer-events: none; opacity: 0; transition: opacity 0.1s; max-width: 360px; }
+  #tip.vis { opacity: 1; }
+  .tip-in {
+    background: #111118; border: 1px solid #353542; border-radius: 5px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5); overflow: hidden; color: #e8e6e1;
+  }
+  .tip-head { padding: 10px 14px 8px; border-bottom: 1px solid #2a2a35; display: flex; justify-content: space-between; align-items: baseline; }
+  .tip-county { font-family: 'Instrument Serif', serif; font-size: 16px; }
+  .tip-score { font-family: 'DM Mono', monospace; font-size: 18px; font-weight: 500; margin-left: 12px; }
+  .tip-fips { font-family: 'DM Mono', monospace; font-size: 9px; color: #55535e; margin-top: 1px; }
+  .tip-sigs { padding: 8px 14px 10px; }
+  .tip-row { display: flex; align-items: center; gap: 6px; padding: 2px 0; font-size: 10.5px; color: #8a8892; }
+  .tip-row .signal-dot { width: 5px; height: 5px; }
+  .tip-cnt { font-family: 'DM Mono', monospace; font-weight: 500; color: #e8e6e1; margin-left: auto; }
+  .tip-empty { padding: 10px 14px; }
+  .tip-empty p { font-size: 10px; color: #55535e; font-style: italic; margin-top: 2px; }
+  .tip-link {
+    display: block; padding: 6px 14px; border-top: 1px solid #2a2a35;
+    font-family: 'DM Mono', monospace; font-size: 9px; color: #55535e;
+    text-decoration: none; text-align: center; letter-spacing: 0.06em;
+    text-transform: uppercase; transition: all 0.1s;
+  }
+  .tip-link:hover { color: #e8e6e1; background: rgba(255,255,255,0.03); }
+
+  @media (max-width: 768px) {
+    #map-header { padding: 10px 14px 20px; }
+    .map-title { font-size: 17px; }
+    #map-legend { left: 10px; bottom: 10px; }
+    #map-stats { right: 10px; bottom: 10px; }
+  }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="page-content">
+<div id="map-wrap">
+
+  <div id="map-header" class="map-overlay">
+    <div class="map-title">Detention Pipeline Heat Map</div>
+    <div class="map-sub">Multi-signal convergence scoring across {{ .Params.total_counties }} U.S. counties · Data as of Feb 2026</div>
+    <div class="map-actions">
+      <a href="/county/">Browse counties</a>
+      <a href="/signals/">By signal type</a>
+      <a href="/methodology/">Methodology</a>
+    </div>
+  </div>
+
+  <div id="map-legend" class="map-overlay">
+    <span class="legend-label">Heat</span>
+    <div><div class="legend-bar" id="legend-bar"></div></div>
+  </div>
+
+  <div id="map-stats" class="map-overlay">
+    <div class="m-stat"><div class="m-stat-val" id="s-counties">—</div><div class="m-stat-label">Counties</div></div>
+    <div class="m-stat"><div class="m-stat-val" id="s-max">—</div><div class="m-stat-label">Max Score</div></div>
+  </div>
+
+  <div id="map-zoom" class="map-overlay">
+    <button class="z-btn" id="zi">+</button>
+    <button class="z-btn" id="zo">−</button>
+  </div>
+
+</div>
+
+<div id="tip"><div class="tip-in" id="tip-in"></div></div>
+</div>
+
+<script>
+const SIG = {
+  'igsa':               {l:'IGSA',       c:'var(--signal-igsa)'},
+  '287g-agreement':     {l:'287(g)',     c:'var(--signal-287g)'},
+  'anc-contract':       {l:'ANC',        c:'var(--signal-anc)'},
+  'commission-activity':{l:'Commission', c:'var(--signal-commission)'},
+  'job-posting':        {l:'Jobs',       c:'var(--signal-job)'},
+  'sheriff-network':    {l:'Sheriff',    c:'var(--signal-sheriff)'},
+  'comms-discipline':   {l:'Comms',      c:'var(--signal-comms)'},
+  'budget-distress':    {l:'Budget',     c:'var(--signal-budget)'},
+  'real-estate-trace':  {l:'Real Estate',c:'var(--signal-realestate)'},
+  'legislative-trace':  {l:'Legislative',c:'var(--signal-legislative)'},
+};
+const SO = Object.keys(SIG);
+let H={}, FN={}, mx=1, all=[];
+
+function hc(s){if(!s||s<=0)return'#12121a';const t=Math.min(s/mx,1);return`rgb(${18+t*237|0},${18+Math.pow(t,2.2)*50|0},${26-t*10|0})`}
+function sc(s){return s>=70?'var(--accent-hot)':s>=40?'var(--accent-warm)':s>=15?'#8a8892':'#55535e'}
+function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+
+async function init(){
+  const[topo,heat,names]=await Promise.all([d3.json('/counties-albers-10m.json'),d3.json('/heat_data.json'),d3.json('/fips_names.json')]);
+  FN=names;all=heat;heat.forEach(d=>{H[d.fips]=d});mx=d3.max(heat,d=>d.score)||1;
+  document.getElementById('s-counties').textContent=heat.length;
+  document.getElementById('s-max').textContent=mx;
+  const lb=document.getElementById('legend-bar');
+  for(let i=0;i<=10;i++){const c=document.createElement('div');c.className='legend-cell';c.style.background=hc(i/10*mx);lb.appendChild(c)}
+
+  const el=document.getElementById('map-wrap'),w=el.clientWidth,h=el.clientHeight;
+  const svg=d3.select('#map-wrap').append('svg').attr('width',w).attr('height',h);
+  const g=svg.append('g');
+  const mW=1016,mH=594,s0=Math.min(w/mW,h/mH)*0.92;
+  const tx=(w-mW*s0)/2-(-58)*s0,ty=(h-mH*s0)/2-13*s0;
+  const it=d3.zoomIdentity.translate(tx,ty).scale(s0);
+  const zm=d3.zoom().scaleExtent([s0*0.8,s0*16]).on('zoom',e=>g.attr('transform',e.transform));
+  svg.call(zm).call(zm.transform,it);
+  document.getElementById('zi').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1.5);
+  document.getElementById('zo').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1/1.5);
+
+  const counties=topojson.feature(topo,topo.objects.counties);
+  g.selectAll('.county').data(counties.features).join('path').attr('class','county').attr('d',d3.geoPath())
+    .attr('fill',d=>{const f=d.id.toString().padStart(5,'0');const dd=H[f];return dd?hc(dd.score):'#12121a'})
+    .on('mouseenter',(e,d)=>showTip(e,d)).on('mousemove',e=>moveTip(e)).on('mouseleave',hideTip)
+    .on('click',(e,d)=>{const f=d.id.toString().padStart(5,'0');if(H[f])window.location.href='/county/'+f+'/'});
+  g.append('path').datum(topojson.mesh(topo,topo.objects.states,(a,b)=>a!==b)).attr('class','state-boundary').attr('d',d3.geoPath());
+  g.append('path').datum(topojson.mesh(topo,topo.objects.nation)).attr('class','nation-boundary').attr('d',d3.geoPath());
+}
+
+const tip=document.getElementById('tip'),tipIn=document.getElementById('tip-in');
+function showTip(ev,d){
+  const f=d.id.toString().padStart(5,'0'),dd=H[f],nm=dd?dd.county:(FN[f]||'County '+f);
+  if(dd){
+    const rows=SO.filter(s=>dd.signals[s]).map(s=>`<div class="tip-row"><span class="signal-dot" style="background:${SIG[s].c}"></span>${SIG[s].l}<span class="tip-cnt">${dd.signals[s].count}</span></div>`).join('');
+    tipIn.innerHTML=`<div class="tip-head"><div><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div></div><div class="tip-score" style="color:${sc(dd.score)}">${dd.score}</div></div><div class="tip-sigs">${rows}</div><a href="/county/${f}/" class="tip-link">View county profile →</a>`;
+  } else {
+    tipIn.innerHTML=`<div class="tip-empty"><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div><p>No pipeline signals detected</p></div>`;
+  }
+  moveTip(ev);tip.classList.add('vis');
+}
+function moveTip(ev){
+  let x=ev.clientX+14,y=ev.clientY+14;
+  if(x+tip.offsetWidth>window.innerWidth-14)x=ev.clientX-tip.offsetWidth-14;
+  if(y+tip.offsetHeight>window.innerHeight-14)y=ev.clientY-tip.offsetHeight-14;
+  tip.style.left=x+'px';tip.style.top=y+'px';
+}
+function hideTip(){tip.classList.remove('vis')}
+init();
+</script>
+{{ end }}

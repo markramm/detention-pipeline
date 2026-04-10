@@ -1,0 +1,24 @@
+---
+title: "287(g) TFM: Lyon County Sheriff’s Office (KY)"
+type: entry
+layout: single
+entry_type: "287g-agreement"
+signal_label: "287(g) Agreement"
+signal_color: "#d46a2f"
+fips: "21143"
+state: "KY"
+county: "Lyon County"
+repo_path: "kb/287g/287-g-tfm-lyon-county-sheriff-s-office-ky.md"
+signals: ["287g-agreement"]
+states: ["KY"]
+---
+
+287(g) agreement between ICE and Lyon County Sheriff’s Office.
+
+Model: TFM
+Signed: May 8, 2025
+County: Lyon County
+State: KY
+FIPS: 21143
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

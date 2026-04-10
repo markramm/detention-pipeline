@@ -1,0 +1,24 @@
+---
+title: "287(g) TFM: Georgetown County Sheriff’s Office (SC)"
+type: entry
+layout: single
+entry_type: "287g-agreement"
+signal_label: "287(g) Agreement"
+signal_color: "#d46a2f"
+fips: "45043"
+state: "SC"
+county: "Georgetown County"
+repo_path: "kb/287g/287-g-tfm-georgetown-county-sheriff-s-office-sc.md"
+signals: ["287g-agreement"]
+states: ["SC"]
+---
+
+287(g) agreement between ICE and Georgetown County Sheriff’s Office.
+
+Model: TFM
+Signed: July 15, 2025
+County: Georgetown County
+State: SC
+FIPS: 45043
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

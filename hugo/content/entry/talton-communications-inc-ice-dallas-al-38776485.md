@@ -1,0 +1,23 @@
+---
+title: "TALTON COMMUNICATIONS INC — ICE DALLAS, AL $38,776,485"
+type: entry
+layout: single
+entry_type: "anc-contract"
+signal_label: "ANC Contract"
+signal_color: "#c49025"
+fips: "01047"
+state: "AL"
+county: "DALLAS"
+repo_path: "kb/anc/talton-communications-inc-ice-dallas-al-38776485.md"
+signals: ["anc-contract"]
+states: ["AL"]
+---
+
+ICE contract.
+
+Recipient: TALTON COMMUNICATIONS INC
+Award ID: 70CDCR23FR0000044
+Amount: $38,776,485.02
+Description: NON-CITIZEN COMMUNICATIONS SERVICES
+Period: 2023-08-01 to 2025-04-08
+Location: DALLAS, AL (FIPS: 01047)

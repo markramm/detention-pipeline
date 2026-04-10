@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ME on Detention Pipeline</title>
+    <link>http://localhost:8787/states/me/</link>
+    <description>Recent content in ME on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:8787/states/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Somerset County Jail — Somerset, ME</title>
+      <link>http://localhost:8787/entry/somerset-county-jail-somerset-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/entry/somerset-county-jail-somerset-me/</guid>
+      <description>&lt;p&gt;IGSA detention facility: Somerset County Jail in Somerset County, ME.&lt;/p&gt;&#xA;&lt;p&gt;Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Somerset County, ME</title>
+      <link>http://localhost:8787/county/23025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/23025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Washington County Jail — Washington, ME</title>
+      <link>http://localhost:8787/entry/washington-county-jail-washington-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/entry/washington-county-jail-washington-me/</guid>
+      <description>&lt;p&gt;IGSA detention facility: Washington County Jail in Washington County, ME.&lt;/p&gt;&#xA;&lt;p&gt;Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Washington County, ME</title>
+      <link>http://localhost:8787/county/23029/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/23029/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>York County Jail — York, ME</title>
+      <link>http://localhost:8787/entry/york-county-jail-york-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/entry/york-county-jail-york-me/</guid>
+      <description>&lt;p&gt;IGSA detention facility: York County Jail in York County, ME.&lt;/p&gt;&#xA;&lt;p&gt;Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>York County, ME</title>
+      <link>http://localhost:8787/county/23031/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/23031/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+---
+title: "287(g) TFM: Itasca County Sheriff’s Office (MN)"
+type: entry
+layout: single
+entry_type: "287g-agreement"
+signal_label: "287(g) Agreement"
+signal_color: "#d46a2f"
+fips: "27061"
+state: "MN"
+county: "Itasca County"
+repo_path: "kb/287g/287-g-tfm-itasca-county-sheriff-s-office-mn.md"
+signals: ["287g-agreement"]
+states: ["MN"]
+---
+
+287(g) agreement between ICE and Itasca County Sheriff’s Office.
+
+Model: TFM
+Signed: February 27, 2025
+County: Itasca County
+State: MN
+FIPS: 27061
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

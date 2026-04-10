@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Louisiana on Detention Pipeline</title>
+    <link>http://localhost:8787/states/louisiana/</link>
+    <description>Recent content in Louisiana on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:8787/states/louisiana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alexandria Staging Facility — ICE&#39;s Deportation Flight Cornerstone</title>
+      <link>http://localhost:8787/entry/alexandria-la-staging-facility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/entry/alexandria-la-staging-facility/</guid>
+      <description>&lt;h1 id=&#34;alexandria-staging-facility&#34;&gt;Alexandria Staging Facility&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Alexandria Staging Facility is a 400-bed short-term holding center on the tarmac of a former military airfield (England Air Force Base) in Alexandria, Louisiana. It is the &lt;strong&gt;cornerstone of ICE&amp;rsquo;s deportation flight operations&lt;/strong&gt; — approximately 1,000 people move through the facility every week, either immediately deported via adjacent airstrip or transferred to other detention facilities.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-it-matters&#34;&gt;Why It Matters&lt;/h2&gt;&#xA;&lt;p&gt;Alexandria is not a detention center in the traditional sense. It&amp;rsquo;s a &lt;strong&gt;logistics hub&lt;/strong&gt; — the point where the detention system converts into the deportation system. Its location on an airport tarmac means detainees can be moved from holding cell to aircraft without ever entering public space. The facility&amp;rsquo;s design is optimized for throughput, not long-term housing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Central Louisiana ICE Processing Center, Jena LA</title>
+      <link>http://localhost:8787/entry/jena-la-central-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/entry/jena-la-central-processing/</guid>
+      <description>&lt;h1 id=&#34;central-louisiana-ice-processing-center&#34;&gt;Central Louisiana ICE Processing Center&lt;/h1&gt;&#xA;&lt;p&gt;1,160-bed ICE processing center in Jena, Louisiana, operated by [[geo-group|GEO Group]]. Part of the Louisiana detention cluster alongside the [[alexandria-la-staging-facility|Alexandria Staging Facility]]. Notable for holding detained college students including Mahmoud Khalil (Columbia University) and Badar Khan Suri.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sources&#34;&gt;Sources&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.ice.gov/node/69624&#34;&gt;ICE: 2026 Central Louisiana ICE Processing Center inspection&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.cnn.com/2025/03/26/us/mahmoud-khalil-badar-khan-suri/index.html&#34;&gt;CNN: Complaints inside Louisiana and Texas ICE detention centers (Mar 2025)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.theadvocate.com/acadiana/news/what-you-need-to-know-about-the-ice-facility-in-jena/article_08ed8d4d-ecca-487a-a46f-3636aae707e6.html&#34;&gt;The Advocate: What to know about the ICE facility in Jena&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

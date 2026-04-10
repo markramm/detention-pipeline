@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>Signals
+</div>
+<div class="page-content">
+  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">Signal Types</h1>
+  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:24px;">
+    Each signal type represents an independent indicator of detention pipeline activity.
+    Higher-weight signals are more predictive.
+  </p>
+
+  {{ range sort .Pages ".Params.weight_score" "desc" }}
+  <div class="card">
+    <a href="{{ .RelPermalink }}" style="display:flex; align-items:center; gap:10px;">
+      <span class="signal-dot" style="width:9px; height:9px; background:{{ .Params.signal_color }};"></span>
+      <div style="flex:1;">
+        <div class="card-title">{{ .Title }}</div>
+        <div class="card-meta">Weight: {{ .Params.weight_score }} · {{ len (where site.RegularPages "Params.entry_type" .Params.signal_type) }} entries</div>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

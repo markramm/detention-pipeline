@@ -1,0 +1,51 @@
+name: igsa-holders
+description: >
+  Counties and facilities with active Intergovernmental Service Agreements
+  (IGSAs) for ICE detention. Sourced from NIJC transparency project, ICE
+  facility lists, and county commission records. Every entry carries a county
+  FIPS code for geographic cross-referencing against warehouse-candidates
+  and other geospatial KBs.
+
+kb_type: investigative-research
+
+guidelines:
+  contributing: |
+    Each entry represents one IGSA agreement or facility. Source from NIJC
+    transparency project, ICE FOIA releases, county commission minutes, and
+    usaspending.gov contract data.
+  quality: |
+    Every entry must have: facility name, county, state, FIPS code, and at
+    least one source. Operator and bed count are strongly preferred.
+
+policies:
+  qa_on_write: false
+
+types:
+  igsa:
+    description: "An IGSA agreement between a county/facility and ICE"
+    subdirectory: ""
+    required: [title, county, state, fips]
+    optional: [facility_name, operator, bed_count, agreement_date, source, status, tags, importance]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      facility_name:
+        type: string
+      operator:
+        type: string
+      bed_count:
+        type: string
+      agreement_date:
+        type: string
+      source:
+        type: string
+      status:
+        type: select
+        values: [active, expired, proposed, terminated, unknown]
+    ai_instructions: >
+      An IGSA detention agreement. Lead with county, state, facility name,
+      and operator. The FIPS code is critical for cross-referencing.

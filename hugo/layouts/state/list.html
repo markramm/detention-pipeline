@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>States
+</div>
+<div class="page-content">
+  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">States</h1>
+  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:20px;">Browse by state.</p>
+
+  <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:8px;">
+  {{ range sort .Pages ".Params.entry_count" "desc" }}
+    <div class="card">
+      <a href="{{ .RelPermalink }}">
+        <div class="card-title">{{ .Title }}</div>
+        <div class="card-meta">{{ .Params.county_count }} counties · {{ .Params.entry_count }} entries</div>
+      </a>
+    </div>
+  {{ end }}
+  </div>
+</div>
+{{ end }}

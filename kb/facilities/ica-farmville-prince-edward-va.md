@@ -1,0 +1,20 @@
+---
+id: ica-farmville-prince-edward-va
+title: "ICA - Farmville — Prince Edward, VA"
+type: igsa
+county: "Prince Edward"
+state: "VA"
+fips: "51147"
+facility_name: "ICA - Farmville"
+operator: ""
+status: "active"
+source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
+tags:
+- igsa
+- va
+importance: 5
+---
+
+IGSA detention facility: ICA - Farmville in Prince Edward County, VA.
+
+Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)

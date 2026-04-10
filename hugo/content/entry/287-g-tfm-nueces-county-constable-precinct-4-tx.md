@@ -1,0 +1,24 @@
+---
+title: "287(g) TFM: Nueces County Constable Precinct 4 (TX)"
+type: entry
+layout: single
+entry_type: "287g-agreement"
+signal_label: "287(g) Agreement"
+signal_color: "#d46a2f"
+fips: "48355"
+state: "TX"
+county: "Nueces County"
+repo_path: "kb/287g/287-g-tfm-nueces-county-constable-precinct-4-tx.md"
+signals: ["287g-agreement"]
+states: ["TX"]
+---
+
+287(g) agreement between ICE and Nueces County Constable Precinct 4.
+
+Model: TFM
+Signed: January 26, 2026
+County: Nueces County
+State: TX
+FIPS: 48355
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

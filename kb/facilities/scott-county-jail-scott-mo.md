@@ -1,0 +1,20 @@
+---
+id: scott-county-jail-scott-mo
+title: "Scott County Jail — Scott, MO"
+type: igsa
+county: "Scott"
+state: "MO"
+fips: "29201"
+facility_name: "Scott County Jail"
+operator: ""
+status: "active"
+source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
+tags:
+- igsa
+- mo
+importance: 5
+---
+
+IGSA detention facility: Scott County Jail in Scott County, MO.
+
+Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)

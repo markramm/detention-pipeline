@@ -1,0 +1,18 @@
+baseURL = "https://detention-pipeline.transparencycascade.org/"
+languageCode = "en-us"
+title = "Detention Pipeline"
+publishDir = "../docs"
+
+[params]
+  description = "Early-warning system for ICE detention facility expansion"
+  repoURL = "https://github.com/markramm/detention-pipeline"
+  kbPath = "kb"
+
+[taxonomies]
+  signal = "signals"
+  state = "states"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

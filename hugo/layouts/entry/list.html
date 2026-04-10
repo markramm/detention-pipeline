@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>Entries
+</div>
+<div class="page-content">
+  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">All Entries</h1>
+  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:20px;">
+    {{ len .Pages }} KB entries. Browse by <a href="/signals/" style="color:var(--accent-warm)">signal type</a> or <a href="/state/" style="color:var(--accent-warm)">state</a> for a focused view.
+  </p>
+</div>
+{{ end }}

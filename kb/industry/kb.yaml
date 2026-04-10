@@ -1,0 +1,316 @@
+name: detention-industrial
+description: >
+  The immigration enforcement industrial complex — the full ecosystem of
+  ICE/CBP/ERO contractors from targeting to deportation. Tracks not just
+  detention facilities but the entire pipeline: data brokers who identify
+  targets, surveillance tech that tracks them (Palantir ImmigrationOS,
+  EAGLE/FALCON), bounty hunters who find them, transportation companies
+  that move them, ankle monitor firms that control them, detention
+  operators who hold them, and charter airlines that deport them.
+  Follows the money through every contract category — per-bed-day rates,
+  data broker subscriptions, surveillance platform licenses, skip-tracing
+  bounties, charter flight costs, and the WEXMAC-TITUS bypass that routes
+  $45B through military procurement. Tracks the revolving door, the
+  county-by-county resistance, and the financial architecture that makes
+  mass enforcement self-sustaining. Part of the Cascade Series research
+  ecosystem alongside cascade-timeline, cascade-research,
+  surveillance-industrial-complex, and the After the Arrest investigation.
+
+kb_type: investigative-research
+
+guidelines:
+  contributing: |
+    This KB documents the detention-industrial complex as INFRASTRUCTURE —
+    the physical facilities, financial models, contractual relationships,
+    and personnel pipelines that constitute the system. Every entry must
+    be grounded in documented evidence: government contracts (usaspending.gov),
+    corporate filings, county commission minutes, court records, FOIA
+    releases, inspection reports, or investigative journalism.
+
+    Boundary rules with sibling KBs:
+    - cascade-timeline: Major inflection-point events go there (the $38.3B
+      expansion plan, Alligator Alcatraz opening). Facility-specific events
+      (a county commission vote, a specific IGSA execution, an inspection
+      failure) go HERE.
+    - cascade-research: Capture mechanisms and actor profiles stay there.
+      The companies, contracts, and facilities that constitute the detention
+      industry live here.
+    - surveillance-industrial-complex: Surveillance technology vendors
+      (Palantir, BI Incorporated, Clearview) stay there. Where detention
+      meets surveillance (ELITE system, ankle monitors, facial recognition
+      at facilities) should cross-reference both KBs.
+
+  quality: |
+    Sourcing tiers:
+    - Tier 1: Government contracts (usaspending.gov, FPDS), county commission
+      minutes and agendas, court records, ICE inspection reports, congressional
+      testimony, FOIA releases, investigative journalism (ProPublica, Marshall
+      Project, The Intercept, PBS, WUFT, local outlets)
+    - Tier 2: Academic research, advocacy organizations (ACLU, Human Rights
+      Watch, American Immigration Council, WWALS), specialized outlets
+      (Immigration Impact, Bolts Magazine)
+    - Tier 3: Wikipedia (basic facts only), opinion journalism, Substack
+      investigations (including The RAMM, Jenn Budd)
+
+    Every entry must have:
+    - Sources with enough detail to verify (URLs, dates, outlets)
+    - Cross-references to related entries and sibling KBs via [[wikilinks]]
+    - A research_status indicating completeness
+
+  voice: |
+    Investigative journalism — precise, sourced, geographically specific.
+    The subject is the SYSTEM, not individual villainy. Follow the money
+    and the contracts. Name the county, name the sheriff, name the
+    contractor, cite the per-bed-day rate.
+
+goals:
+  primary: |
+    Document the detention-industrial complex county by county — tracking
+    which facilities exist, who operates them, what they cost, who profits,
+    what the conditions are, and where local resistance has succeeded or
+    failed.
+  core_thesis: |
+    Mass detention is not an emergency response — it is revenue-generating
+    infrastructure with structural incentives to expand. The per-bed-day
+    payment model means empty beds are lost revenue, creating pressure to
+    fill capacity. The county-led IGSA model routes federal detention
+    through local democratic processes, making sheriffs into detention
+    entrepreneurs and cash-strapped rural counties into willing hosts.
+
+policies:
+  qa_on_write: true
+
+relationship_types:
+  - name: operated_by
+    description: "Facility operated by contractor or sheriff's office"
+  - name: contracted_by
+    description: "Contractor contracted by ICE or county"
+  - name: personnel_from
+    description: "Personnel flow from government to private sector"
+  - name: consulted_by
+    description: "County or sheriff advised by consulting firm"
+  - name: resisted_by
+    description: "Facility proposal resisted by community or legal challenge"
+
+types:
+  facility:
+    description: "An immigration detention facility — existing, proposed, or closed"
+    subdirectory: facilities
+    required: [title]
+    optional: [facility_type, location, county, state, capacity, operator, contract_type, per_bed_day_rate, annual_value, status, opened, conditions_record, oversight_structure, evidence_grade, research_status, importance, tags]
+    fields:
+      facility_type:
+        type: select
+        values: [warehouse-conversion, military-base, purpose-built, county-jail, private-prison, tent-facility, processing-center, proposed, unknown]
+      location:
+        type: string
+      county:
+        type: string
+      state:
+        type: string
+      capacity:
+        type: string
+      operator:
+        type: string
+      contract_type:
+        type: select
+        values: [IGSA, federal-purchase, military-jurisdiction, private-contract, state-contract, proposed, unknown]
+      per_bed_day_rate:
+        type: string
+      annual_value:
+        type: string
+      status:
+        type: select
+        values: [operational, under-construction, proposed, approved, paused, closed, contested]
+      opened:
+        type: string
+      conditions_record:
+        type: text
+      oversight_structure:
+        type: text
+    ai_instructions: >
+      An immigration detention facility. Lead with location, capacity, and
+      who operates it. The geographic specificity matters — name the county,
+      name the sheriff, name the street address.
+
+  contractor:
+    description: "A company that operates, builds, or consults on detention facilities"
+    subdirectory: contractors
+    required: [title]
+    optional: [contractor_type, headquarters, founded, founder, status, key_facilities, annual_revenue, personnel_pipeline, evidence_grade, research_status, importance, tags]
+    fields:
+      contractor_type:
+        type: select
+        values: [private-prison, facility-operator, consulting, construction, medical-services, transportation, charter-airline, monitoring, ankle-monitor, food-services, data-broker, surveillance-platform, skip-tracing, bounty-hunting, legal-services, staffing, technology, hybrid]
+      headquarters:
+        type: string
+      founded:
+        type: string
+      founder:
+        type: string
+      status:
+        type: select
+        values: [active, acquired, dissolved, renamed]
+      key_facilities:
+        type: list
+      annual_revenue:
+        type: string
+      personnel_pipeline:
+        type: text
+    ai_instructions: >
+      A company in the detention industry. Lead with what they do and how
+      much they make from it.
+
+  contract:
+    description: "A specific detention contract — IGSA, federal purchase, or service agreement"
+    subdirectory: contracts
+    required: [title]
+    optional: [contract_type, awarding_entity, contractor, facility, value, per_bed_day_rate, period, beds, county_commission_vote, evidence_grade, research_status, importance, tags]
+    fields:
+      contract_type:
+        type: select
+        values: [IGSA, federal-purchase, service-agreement, sole-source, competitive, construction, consulting, data-broker, surveillance-tech, transportation, charter-flights, monitoring, skip-tracing, medical-services, food-services, legal-services, unknown]
+      awarding_entity:
+        type: string
+      contractor:
+        type: string
+      facility:
+        type: string
+      value:
+        type: string
+      per_bed_day_rate:
+        type: string
+      period:
+        type: string
+      beds:
+        type: string
+      county_commission_vote:
+        type: string
+    ai_instructions: >
+      A detention contract. Lead with the money: who pays whom, how much,
+      for how many beds, at what per-bed-day rate.
+
+  county-fight:
+    description: "A local battle over a proposed or existing detention facility"
+    subdirectory: county-fights
+    required: [title]
+    optional: [county, state, facility, status, timeline, arguments_for, arguments_against, vote_tally, key_actors, outcome, tactics_used, environmental_issues, evidence_grade, research_status, importance, tags]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      facility:
+        type: string
+      status:
+        type: select
+        values: [proposed, contested, approved, blocked, litigation, operational-despite-opposition, withdrawn]
+      timeline:
+        type: text
+      arguments_for:
+        type: text
+      arguments_against:
+        type: text
+      vote_tally:
+        type: string
+      key_actors:
+        type: list
+      outcome:
+        type: text
+      tactics_used:
+        type: text
+      environmental_issues:
+        type: text
+    ai_instructions: >
+      A local battle over detention infrastructure. These entries are
+      designed to be useful to OTHER communities facing similar fights.
+      Document what was proposed, who supported and opposed it, what
+      tactics both sides used, and the outcome.
+
+  person:
+    description: "An individual significant to the detention industry"
+    subdirectory: people
+    required: [title]
+    optional: [role, government_service, private_role, cooling_off_compliance, affiliations, evidence_grade, research_status, importance, tags]
+    fields:
+      role:
+        type: select
+        values: [ice-official, ero-official, bop-official, sheriff, county-commissioner, contractor-executive, consultant, reformer, whistleblower, advocate, journalist, detainee, legislator]
+      government_service:
+        type: text
+      private_role:
+        type: text
+      cooling_off_compliance:
+        type: text
+      affiliations:
+        type: list
+    ai_instructions: >
+      An individual in the detention system. For revolving-door figures,
+      lead with the government role, then the private role, then the
+      cooling-off compliance question.
+
+  personnel-flow:
+    description: "A revolving-door movement between government and detention industry"
+    subdirectory: personnel-flows
+    required: [title]
+    optional: [person, flow_direction, government_role, private_role, date, cooling_off_period, conflict_vector, evidence_grade, research_status, tags]
+    fields:
+      person:
+        type: string
+      flow_direction:
+        type: select
+        values: [government-to-private, private-to-government, revolving]
+      government_role:
+        type: string
+      private_role:
+        type: string
+      date:
+        type: string
+      cooling_off_period:
+        type: text
+      conflict_vector:
+        type: text
+
+  financial-flow:
+    description: "Money flowing through the detention system"
+    subdirectory: financial-flows
+    required: [title]
+    optional: [source_entity, destination_entity, amount, date_range, flow_type, per_bed_day_rate, beds, evidence_grade, research_status, importance, tags]
+    fields:
+      source_entity:
+        type: string
+      destination_entity:
+        type: string
+      amount:
+        type: string
+      date_range:
+        type: string
+      flow_type:
+        type: select
+        values: [per-bed-day, contract, construction, consulting-fee, county-cost-recovery, lobbying, campaign-contribution, settlement, appropriation, unknown]
+      per_bed_day_rate:
+        type: string
+      beds:
+        type: string
+
+  note:
+    description: "Research note, tip, or working hypothesis"
+    subdirectory: notes
+    required: [title]
+    optional: [research_status, tags]
+
+  event:
+    description: "A detention-industry event too granular for cascade-timeline"
+    subdirectory: events
+    required: [title, date]
+    optional: [facility, contractor, evidence_grade, research_status, tags]
+    fields:
+      date:
+        type: date
+      facility:
+        type: string
+      contractor:
+        type: string
+
+validation:
+  enforce: true

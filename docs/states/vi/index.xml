@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VI on Detention Pipeline</title>
+    <link>http://localhost:8787/states/vi/</link>
+    <description>Recent content in VI on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:8787/states/vi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>St T Criminal Just Complx — St. Thomas, VI</title>
+      <link>http://localhost:8787/entry/st-t-criminal-just-complx-st-thomas-vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/entry/st-t-criminal-just-complx-st-thomas-vi/</guid>
+      <description>&lt;p&gt;IGSA detention facility: St T Criminal Just Complx in St. Thomas County, VI.&lt;/p&gt;&#xA;&lt;p&gt;Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>St. Thomas Island, VI</title>
+      <link>http://localhost:8787/county/78030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/78030/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

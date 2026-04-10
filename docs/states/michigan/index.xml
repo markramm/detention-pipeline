@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michigan on Detention Pipeline</title>
+    <link>http://localhost:8787/states/michigan/</link>
+    <description>Recent content in Michigan on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:8787/states/michigan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>North Lake Processing Center — Baldwin MI (GEO Group)</title>
+      <link>http://localhost:8787/entry/north-lake-baldwin-mi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/entry/north-lake-baldwin-mi/</guid>
+      <description>&lt;h1 id=&#34;north-lake-processing-center--baldwin-mi-geo-group&#34;&gt;North Lake Processing Center — Baldwin MI (GEO Group)&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;North Lake Processing Center&lt;/strong&gt; in Baldwin, Michigan is a &lt;strong&gt;1,800-bed&lt;/strong&gt; [[geo-group|GEO Group]]-operated ICE detention facility that was reactivated in 2025. It has been described as &amp;ldquo;notorious&amp;rdquo; in reporting on ICE detention conditions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-details&#34;&gt;Key Details&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Capacity&lt;/strong&gt;: 1,800 beds&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operator&lt;/strong&gt;: [[geo-group|GEO Group]]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Status&lt;/strong&gt;: Operational (reactivated 2025)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Baldwin, Lake County, Michigan&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;One of four [[geo-group|GEO Group]] facilities reactivated in 2025 as part of the company&amp;rsquo;s expansion from ~20,000 to ~26,000 ICE beds. Michigan now hosts both the North Lake Processing Center (private) and the contested [[romulus-mi-warehouse|Romulus warehouse]] (federal), making it a significant node in the detention network.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Romulus MI — State AG and City Sue to Block ICE Warehouse Near Schools</title>
+      <link>http://localhost:8787/entry/romulus-mi-warehouse-fight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/entry/romulus-mi-warehouse-fight/</guid>
+      <description>&lt;h1 id=&#34;romulus-michigan-suing-the-federal-government&#34;&gt;Romulus, Michigan: Suing the Federal Government&lt;/h1&gt;&#xA;&lt;h2 id=&#34;the-fight&#34;&gt;The Fight&lt;/h2&gt;&#xA;&lt;p&gt;ICE purchased a warehouse at 7525 Cogswell Street in Romulus, Michigan (see [[romulus-mi-warehouse]]) in February 2026 &lt;strong&gt;without notifying&lt;/strong&gt; the state, city, or public. Michigan AG Dana Nessel and the City of Romulus filed suit March 24, 2026 to block the conversion.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-this-fight-matters&#34;&gt;Why This Fight Matters&lt;/h2&gt;&#xA;&lt;p&gt;Romulus demonstrates the federal purchase model&amp;rsquo;s core vulnerability: it bypasses local democratic processes entirely, which generates &lt;em&gt;more&lt;/em&gt; intense backlash than the IGSA model (which at least goes through a county commission vote). The 700-800 person protest at City Hall and the AG lawsuit represent a level of opposition that the IGSA model is specifically designed to avoid.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Romulus MI Warehouse — ICE Regional Processing Center</title>
+      <link>http://localhost:8787/entry/romulus-mi-warehouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/entry/romulus-mi-warehouse/</guid>
+      <description>&lt;h1 id=&#34;romulus-mi-warehouse--ice-regional-processing-center&#34;&gt;Romulus MI Warehouse — ICE Regional Processing Center&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In February 2026, ICE purchased a commercial warehouse at &lt;strong&gt;7525 Cogswell Street in Romulus, Michigan&lt;/strong&gt; (Wayne County) without notice to the state, city, or public. The facility is planned to detain approximately &lt;strong&gt;500 migrants&lt;/strong&gt; and ICE claims it will bring 1,458 jobs and $33 million in tax revenue.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-details&#34;&gt;Key Details&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Address&lt;/strong&gt;: 7525 Cogswell Street, Romulus, MI&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Purchase date&lt;/strong&gt;: February 2026&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Planned capacity&lt;/strong&gt;: ~500 beds&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Facility type&lt;/strong&gt;: Regional processing center&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Claimed economic impact&lt;/strong&gt;: 1,458 jobs, $33M tax revenue&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;legal-fight&#34;&gt;Legal Fight&lt;/h2&gt;&#xA;&lt;p&gt;The Romulus facility is one of the most actively contested warehouse purchases (see [[romulus-mi-warehouse-fight]]):&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

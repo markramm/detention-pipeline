@@ -1,0 +1,41 @@
+---
+title: "Alexandria Staging Facility — ICE's Deportation Flight Cornerstone"
+type: entry
+layout: single
+entry_type: "facility"
+signal_label: "facility"
+signal_color: "#666"
+fips: ""
+state: "Louisiana"
+county: "Rapides"
+repo_path: "kb/industry/facilities/alexandria-la-staging-facility.md"
+signals: ["facility"]
+states: ["Louisiana"]
+---
+
+# Alexandria Staging Facility
+
+## Overview
+
+The Alexandria Staging Facility is a 400-bed short-term holding center on the tarmac of a former military airfield (England Air Force Base) in Alexandria, Louisiana. It is the **cornerstone of ICE's deportation flight operations** — approximately 1,000 people move through the facility every week, either immediately deported via adjacent airstrip or transferred to other detention facilities.
+
+## Why It Matters
+
+Alexandria is not a detention center in the traditional sense. It's a **logistics hub** — the point where the detention system converts into the deportation system. Its location on an airport tarmac means detainees can be moved from holding cell to aircraft without ever entering public space. The facility's design is optimized for throughput, not long-term housing.
+
+This is one of five ICE Air Operations locations: San Antonio TX, Brownsville TX, Alexandria LA, Miami FL, and Mesa AZ. Alexandria handles the largest volume.
+
+## Operator
+
+[[geo-group|GEO Group]] operates the facility under contract to ICE.
+
+## Connection to Military Infrastructure
+
+The facility sits on a former Air Force base, illustrating how decommissioned military infrastructure becomes detention infrastructure. The airstrip, hangars, and security perimeter were built for military purposes and repurposed for immigration enforcement — bypassing the need to build new facilities in civilian communities where opposition would arise.
+
+## Sources
+
+- [GEO Group: Alexandria Staging Facility](https://www.geogroup.com/facilities/alexandria-staging-facility/)
+- [ICE: 2025 Alexandria Staging Facility inspection](https://www.ice.gov/node/68153)
+- [PBS News: Trump admin seeks to turn deportations into business 'like Amazon'](https://www.pbs.org/newshour/politics/trump-administration-seeks-to-turn-mass-deportations-into-an-efficient-business-like-amazon)
+- [Louisiana Illuminator: Civil rights advocates tour Louisiana ICE facilities (Aug 2025)](https://lailluminator.com/2025/08/11/louisiana-ice-4/)

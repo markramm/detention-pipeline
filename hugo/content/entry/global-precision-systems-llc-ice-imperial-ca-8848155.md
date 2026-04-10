@@ -1,0 +1,23 @@
+---
+title: "GLOBAL PRECISION SYSTEMS, LLC — ICE IMPERIAL, CA $8,848,155"
+type: entry
+layout: single
+entry_type: "anc-contract"
+signal_label: "ANC Contract"
+signal_color: "#c49025"
+fips: "06025"
+state: "CA"
+county: "IMPERIAL"
+repo_path: "kb/anc/global-precision-systems-llc-ice-imperial-ca-8848155.md"
+signals: ["anc-contract"]
+states: ["CA"]
+---
+
+ICE contract.
+
+Recipient: GLOBAL PRECISION SYSTEMS, LLC
+Award ID: 70CMSW20FR0000034
+Amount: $8,848,155.20
+Description: PROVIDE O&M FOR EL CENTRO, CALIFORNIA SPC
+Period: 2020-05-18 to 2026-06-09
+Location: IMPERIAL, CA (FIPS: 06025)
