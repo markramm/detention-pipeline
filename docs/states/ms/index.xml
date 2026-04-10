@@ -1,1 +1,95 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MS on Detention Pipeline</title><link>https://detention-pipeline.transparencycascade.org/states/ms/</link><description>Recent content in MS on Detention Pipeline</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://detention-pipeline.transparencycascade.org/states/ms/index.xml" rel="self" type="application/rss+xml"/><item><title>Adams County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28001/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28001/</guid><description/></item><item><title>Hancock County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28045/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28045/</guid><description/></item><item><title>Harrison County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28047/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28047/</guid><description/></item><item><title>Hinds County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28049/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28049/</guid><description/></item><item><title>Lamar County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28073/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28073/</guid><description/></item><item><title>Leake County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28079/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28079/</guid><description/></item><item><title>Madison County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28089/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28089/</guid><description/></item><item><title>Neshoba County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28099/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28099/</guid><description/></item><item><title>Newton County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28101/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28101/</guid><description/></item><item><title>Rankin County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28121/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28121/</guid><description/></item><item><title>Stone County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28131/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28131/</guid><description/></item><item><title>Wayne County, MS</title><link>https://detention-pipeline.transparencycascade.org/county/28153/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/28153/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MS on Detention Pipeline</title>
+    <link>http://localhost:8787/states/ms/</link>
+    <description>Recent content in MS on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:8787/states/ms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adams County, MS</title>
+      <link>http://localhost:8787/county/28001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hancock County, MS</title>
+      <link>http://localhost:8787/county/28045/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28045/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Harrison County, MS</title>
+      <link>http://localhost:8787/county/28047/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28047/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hinds County, MS</title>
+      <link>http://localhost:8787/county/28049/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28049/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lamar County, MS</title>
+      <link>http://localhost:8787/county/28073/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28073/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leake County, MS</title>
+      <link>http://localhost:8787/county/28079/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28079/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Madison County, MS</title>
+      <link>http://localhost:8787/county/28089/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28089/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neshoba County, MS</title>
+      <link>http://localhost:8787/county/28099/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28099/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Newton County, MS</title>
+      <link>http://localhost:8787/county/28101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28101/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rankin County, MS</title>
+      <link>http://localhost:8787/county/28121/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28121/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stone County, MS</title>
+      <link>http://localhost:8787/county/28131/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28131/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wayne County, MS</title>
+      <link>http://localhost:8787/county/28153/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/28153/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

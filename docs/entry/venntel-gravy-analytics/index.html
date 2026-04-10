@@ -1,14 +1,296 @@
-<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Venntel / Gravy Analytics — Ad-Tech Location Data for ICE · Detention Pipeline</title><meta name=description content="Early-warning system for ICE detention facility expansion"><link rel=preconnect href=https://fonts.googleapis.com><link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel=stylesheet><style>:root{--bg-deep:#0a0a0f;--bg-panel:#111118;--bg-surface:#161620;--bg-elevated:#1e1e2a;--bg-content:#f6f5f1;--bg-content-alt:#edece8;--text-primary:#1a1a1f;--text-secondary:#4a4952;--text-dim:#7a7882;--text-light:#e8e6e1;--border:#dddbd6;--border-dark:#2a2a35;--accent:#c93b3b;--accent-hot:#e84545;--accent-warm:#d46a2f;--signal-igsa:#c93b3b;--signal-287g:#d46a2f;--signal-anc:#c49025;--signal-commission:#6a8a1a;--signal-job:#1a8a5a;--signal-sheriff:#1a6a9a;--signal-comms:#5a4fa5;--signal-budget:#8a3fa5;--signal-realestate:#a53f7a;--signal-legislative:#4f5a6a}*{margin:0;padding:0;box-sizing:border-box}body{font-family:ibm plex sans,-apple-system,sans-serif;color:var(--text-primary);background:var(--bg-content);-webkit-font-smoothing:antialiased}.site-header{background:var(--bg-deep);color:var(--text-light);padding:0;position:sticky;top:0;z-index:100}.site-header-inner{max-width:1200px;margin:0 auto;padding:12px 24px;display:flex;align-items:center;justify-content:space-between}.site-brand{display:flex;align-items:baseline;gap:10px;text-decoration:none}.site-brand h1{font-family:instrument serif,Georgia,serif;font-size:18px;font-weight:400;color:var(--text-light);letter-spacing:-.01em}.site-brand .brand-tag{font-family:dm mono,monospace;font-size:8px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);background:rgba(201,59,59,.12);padding:2px 6px;border:1px solid rgba(201,59,59,.2);border-radius:2px}.site-nav{display:flex;gap:4px;align-items:center}.site-nav a{font-size:12px;color:rgba(232,230,225,.5);text-decoration:none;padding:6px 10px;border-radius:3px;transition:all .12s;font-weight:400}.site-nav a:hover{color:var(--text-light);background:rgba(255,255,255,6%)}.site-nav a.active{color:var(--text-light);background:rgba(255,255,255,8%)}.breadcrumb{max-width:1200px;margin:0 auto;padding:14px 24px 0;font-family:dm mono,monospace;font-size:10px;letter-spacing:.04em;color:var(--text-dim)}.breadcrumb a{color:var(--text-dim);text-decoration:none}.breadcrumb a:hover{color:var(--text-secondary)}.breadcrumb .sep{margin:0 6px;opacity:.4}.page-content{max-width:1200px;margin:0 auto;padding:0 24px 60px}.site-footer{background:var(--bg-deep);color:rgba(232,230,225,.4);padding:32px 24px;text-align:center;font-size:11px;line-height:1.8}.site-footer a{color:rgba(232,230,225,.5);text-decoration:none}.site-footer a:hover{color:var(--text-light)}.footer-inner{max-width:1200px;margin:0 auto}.footer-links{display:flex;gap:16px;justify-content:center;margin-bottom:8px}.signal-dot{display:inline-block;width:7px;height:7px;border-radius:50%;flex-shrink:0;vertical-align:middle}.signal-badge{display:inline-flex;align-items:center;gap:5px;font-family:dm mono,monospace;font-size:10px;letter-spacing:.04em;padding:3px 8px;border-radius:3px;background:rgba(0,0,0,4%);border:1px solid var(--border);color:var(--text-secondary)}.score-pill{font-family:dm mono,monospace;font-weight:500;display:inline-block;padding:2px 8px;border-radius:3px;font-size:13px}.score-hot{color:var(--accent-hot);background:rgba(232,69,69,8%)}.score-warm{color:var(--accent-warm);background:rgba(212,106,47,8%)}.score-mid{color:var(--text-secondary);background:rgba(0,0,0,4%)}.score-low{color:var(--text-dim);background:rgba(0,0,0,3%)}.btn{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:500;padding:8px 16px;border-radius:4px;text-decoration:none;cursor:pointer;border:1px solid var(--border);color:var(--text-secondary);background:#fff;transition:all .12s}.btn:hover{border-color:var(--text-dim);color:var(--text-primary)}.btn-accent{background:var(--accent);color:#fff;border-color:var(--accent)}.btn-accent:hover{background:var(--accent-hot);border-color:var(--accent-hot);color:#fff}.btn-sm{font-size:11px;padding:5px 10px}.btn svg{width:14px;height:14px}.mono{font-family:dm mono,monospace}.serif{font-family:instrument serif,Georgia,serif}.dim{color:var(--text-dim)}.small{font-size:11px}.data-table{width:100%;border-collapse:collapse;font-size:12.5px}.data-table th{font-family:dm mono,monospace;font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:var(--text-dim);text-align:left;padding:8px 10px;border-bottom:2px solid var(--border)}.data-table td{padding:8px 10px;border-bottom:1px solid var(--border);color:var(--text-secondary)}.data-table tr:hover td{background:rgba(0,0,0,2%)}.data-table a{color:var(--text-primary);text-decoration:none}.data-table a:hover{text-decoration:underline}.card{background:#fff;border:1px solid var(--border);border-radius:5px;padding:16px 20px;margin-bottom:12px;transition:border-color .12s}.card:hover{border-color:var(--text-dim)}.card a{text-decoration:none;color:inherit}.card-title{font-size:14px;font-weight:500;margin-bottom:4px}.card-meta{font-size:11px;color:var(--text-dim)}@media(max-width:768px){.site-header-inner{padding:10px 16px}.site-nav a{font-size:11px;padding:4px 6px}.page-content{padding:0 16px 40px}.breadcrumb{padding:10px 16px 0}.data-table{font-size:11px}}</style></head><body><header class=site-header><div class=site-header-inner><a href=/ class=site-brand><h1>Detention Pipeline</h1><span class=brand-tag>Early Warning</span></a><nav class=site-nav><a href=/map/>Map</a>
-<a href=/fights/>Fights</a>
-<a href=/county/>Counties</a>
-<a href=/players/>Players</a>
-<a href=/facilities/>Facilities</a>
-<a href=/methodology/>Methodology</a>
-<a href=/contribute/>Contribute</a></nav></div></header><div class=breadcrumb><a href=/>Map</a><span class=sep>/</span>
-Venntel / Gravy Analytics — Ad-Tech Location Data for ICE</div><div class=page-content><div style=padding-top:24px;max-width:720px><div style=margin-bottom:6px><span class=signal-badge><span class=signal-dot style=background:#8a5a2a></span>
-Contractor</span></div><h1 class=serif style=font-size:26px;font-weight:400;letter-spacing:-.01em;margin-bottom:8px>Venntel / Gravy Analytics — Ad-Tech Location Data for ICE</h1><div class="mono dim small" style=margin-bottom:20px></div><div style=font-size:14px;color:var(--text-secondary);line-height:1.75;margin-bottom:32px;white-space:pre-line><h1 id=venntel--gravy-analytics>Venntel / Gravy Analytics</h1><p>Venntel, a subsidiary of Gravy Analytics, sells precise cell phone location data to ICE harvested from the advertising technology (&ldquo;ad-tech&rdquo;) ecosystem. Through Venntel, ICE can track people&rsquo;s movements &ndash; home, church, medical appointments, school, protests &ndash; without a warrant, using only a purchase order.</p><h2 id=how-it-works>How It Works</h2><p>When mobile apps request location permissions for advertising purposes, the phone&rsquo;s GPS coordinates enter the &ldquo;bid-stream&rdquo; &ndash; the real-time advertising auction system. Venntel intercepts and aggregates this data, repackaging it for government clients. The data is precise enough to identify:</p><ul><li>Where a person lives</li><li>Where they work</li><li>Where they worship</li><li>Where their children go to school</li><li>Whether they attended a protest</li></ul><h2 id=ice-spending>ICE Spending</h2><p>ICE spent <strong>$60+ million</strong> from 2025-2026 on location data contracts through data brokers including Venntel and [[babel-street|Babel Street]].</p><h2 id=ftc-enforcement-december-2024>FTC Enforcement (December 2024)</h2><p>The Federal Trade Commission filed a complaint against Gravy Analytics and Venntel for knowingly collecting and selling user location data without consent, including for sensitive locations relating to medical conditions, religious affiliation, and political activities. However, this enforcement action has not stopped ICE from continuing to explore and expand the ad-tech surveillance market.</p><h2 id=2026-expansion>2026 Expansion</h2><p>In January 2026, ICE posted a request for information explicitly referencing &ldquo;ad tech&rdquo; and &ldquo;big data tools&rdquo; &ndash; the first time ICE has used the term &ldquo;ad tech&rdquo; in federal procurement documents. This signals ICE intends to further institutionalize the ad-tech-to-surveillance pipeline.</p><h2 id=sources>Sources</h2><ul><li><a href=https://www.vice.com/en/article/ice-dhs-fbi-location-data-venntel-apps/>Vice: How ICE contractor tracks phones around the world</a></li><li><a href=https://www.theregister.com/2026/01/27/ice_data_advertising_tech_firms/>The Register: ICE takes aim at ad-tech data (Jan 2026)</a></li><li><a href=https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use>Biometric Update: ICE seeks ad tech location data (Feb 2026)</a></li><li><a href=https://prismreports.org/2025/01/30/ice-surveillance-immigrants/>Prism Reports: ICE surveillance apparatus expanding (Jan 2025)</a></li><li><a href=https://en.wikipedia.org/wiki/Gravy_Analytics>Wikipedia: Gravy Analytics</a></li><li><a href=https://stateofsurveillance.org/news/ice-85-billion-surveillance-arsenal-complete-guide-2026/>State of Surveillance: ICE $85B surveillance arsenal</a></li></ul></div><div style="display:flex;gap:8px;flex-wrap:wrap;padding-top:16px;border-top:1px solid var(--border)"><a href=https://github.com/markramm/detention-pipeline/edit/main/kb/industry/contractors/venntel-gravy-analytics.md class="btn btn-sm" target=_blank rel=noopener><svg viewBox="0 0 16 16" fill="currentColor"><path d="M11.013 1.427a1.75 1.75.0 012.474.0l1.086 1.086a1.75 1.75.0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75.0 01-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253.0 00-.064.108l-.558 1.953 1.953-.558a.253.253.0 00.108-.064l6.286-6.286z"/></svg>
-Edit this entry
-</a><a href="https://github.com/markramm/detention-pipeline/issues/new?template=data-correction.yml&county=Venntel+%2F+Gravy+Analytics+%E2%80%94+Ad-Tech+Location+Data+for+ICE" class="btn btn-sm" target=_blank rel=noopener>Report an issue</a></div></div></div><footer class=site-footer><div class=footer-inner><div class=footer-links><a href=https://github.com/markramm/detention-pipeline>GitHub</a>
-<a href=/methodology/>Methodology</a>
-<a href=/contribute/>Contribute</a>
-<a href=https://theramm.substack.com>The RAMM</a></div><div>CC-BY-SA 4.0 · Data as of Feb 2026 · Built by <a href=https://theramm.substack.com>The RAMM</a></div></div></footer></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8787&amp;path=livereload" data-no-instant defer></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Venntel / Gravy Analytics — Ad-Tech Location Data for ICE · Detention Pipeline</title><meta name="description" content="Venntel / Gravy Analytics — Ad-Tech Location Data for ICE — Contractor signal in the detention pipeline">
+<meta property="og:title" content="Venntel / Gravy Analytics — Ad-Tech Location Data for ICE · Detention Pipeline">
+<meta property="og:description" content="Venntel / Gravy Analytics — Ad-Tech Location Data for ICE — Contractor signal in the detention pipeline">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://localhost:8787/entry/venntel-gravy-analytics/">
+<meta property="og:site_name" content="Detention Pipeline">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Venntel / Gravy Analytics — Ad-Tech Location Data for ICE · Detention Pipeline">
+<meta name="twitter:description" content="Venntel / Gravy Analytics — Ad-Tech Location Data for ICE — Contractor signal in the detention pipeline">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg-deep: #0a0a0f;
+  --bg-panel: #111118;
+  --bg-surface: #161620;
+  --bg-elevated: #1e1e2a;
+  --bg-content: #f6f5f1;
+  --bg-content-alt: #edece8;
+  --text-primary: #1a1a1f;
+  --text-secondary: #4a4952;
+  --text-dim: #7a7882;
+  --text-light: #e8e6e1;
+  --border: #dddbd6;
+  --border-dark: #2a2a35;
+  --accent: #c93b3b;
+  --accent-hot: #e84545;
+  --accent-warm: #d46a2f;
+  --signal-igsa: #c93b3b;
+  --signal-287g: #d46a2f;
+  --signal-anc: #c49025;
+  --signal-commission: #6a8a1a;
+  --signal-job: #1a8a5a;
+  --signal-sheriff: #1a6a9a;
+  --signal-comms: #5a4fa5;
+  --signal-budget: #8a3fa5;
+  --signal-realestate: #a53f7a;
+  --signal-legislative: #4f5a6a;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-size: 15px;
+  color: var(--text-primary);
+  background: var(--bg-content);
+  -webkit-font-smoothing: antialiased;
+}
+
+ 
+.site-header {
+  background: var(--bg-deep);
+  color: var(--text-light);
+  padding: 0;
+  position: sticky; top: 0; z-index: 100;
+}
+.site-header-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.site-brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; }
+.site-brand h1 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 18px; font-weight: 400; color: var(--text-light);
+  letter-spacing: -0.01em;
+}
+.site-brand .brand-tag {
+  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--accent);
+  background: rgba(201,59,59,0.12); padding: 2px 6px;
+  border: 1px solid rgba(201,59,59,0.2); border-radius: 2px;
+}
+.site-nav { display: flex; gap: 4px; align-items: center; }
+.site-nav a {
+  font-size: 13px; color: rgba(232,230,225,0.5); text-decoration: none;
+  padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
+  font-weight: 400;
+}
+.site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.site-nav a.active { color: var(--text-light); background: rgba(255,255,255,0.08); }
+
+ 
+.breadcrumb {
+  max-width: 1200px; margin: 0 auto; padding: 14px 24px 0;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; color: var(--text-dim);
+}
+.breadcrumb a { color: var(--text-dim); text-decoration: none; }
+.breadcrumb a:hover { color: var(--text-secondary); }
+.breadcrumb .sep { margin: 0 6px; opacity: 0.4; }
+
+ 
+.page-content {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 60px;
+}
+
+ 
+.site-footer {
+  background: var(--bg-deep); color: rgba(232,230,225,0.4);
+  padding: 32px 24px; text-align: center;
+  font-size: 11px; line-height: 1.8;
+}
+.site-footer a { color: rgba(232,230,225,0.5); text-decoration: none; }
+.site-footer a:hover { color: var(--text-light); }
+.footer-inner { max-width: 1200px; margin: 0 auto; }
+.footer-links { display: flex; gap: 16px; justify-content: center; margin-bottom: 8px; }
+
+ 
+.signal-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  flex-shrink: 0; vertical-align: middle;
+}
+.signal-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; padding: 3px 8px;
+  border-radius: 3px; background: rgba(0,0,0,0.04);
+  border: 1px solid var(--border); color: var(--text-secondary);
+}
+.score-pill {
+  font-family: 'DM Mono', monospace; font-weight: 500;
+  display: inline-block; padding: 2px 8px; border-radius: 3px;
+  font-size: 13px;
+}
+.score-hot { color: var(--accent-hot); background: rgba(232,69,69,0.08); }
+.score-warm { color: var(--accent-warm); background: rgba(212,106,47,0.08); }
+.score-mid { color: var(--text-secondary); background: rgba(0,0,0,0.04); }
+.score-low { color: var(--text-dim); background: rgba(0,0,0,0.03); }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500; padding: 8px 16px;
+  border-radius: 4px; text-decoration: none; cursor: pointer;
+  border: 1px solid var(--border); color: var(--text-secondary);
+  background: white; transition: all 0.12s;
+}
+.btn:hover { border-color: var(--text-dim); color: var(--text-primary); }
+.btn-accent {
+  background: var(--accent); color: white; border-color: var(--accent);
+}
+.btn-accent:hover { background: var(--accent-hot); border-color: var(--accent-hot); color: white; }
+.btn-sm { font-size: 11px; padding: 5px 10px; }
+.btn svg { width: 14px; height: 14px; }
+
+.mono { font-family: 'DM Mono', monospace; }
+.serif { font-family: 'Instrument Serif', Georgia, serif; }
+.dim { color: var(--text-dim); }
+.small { font-size: 11px; }
+
+ 
+.data-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.data-table th {
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--text-dim); text-align: left;
+  padding: 8px 10px; border-bottom: 2px solid var(--border);
+}
+.data-table td {
+  padding: 8px 10px; border-bottom: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.data-table tr:hover td { background: rgba(0,0,0,0.02); }
+.data-table a { color: var(--text-primary); text-decoration: none; }
+.data-table a:hover { text-decoration: underline; }
+
+ 
+.card {
+  background: white; border: 1px solid var(--border); border-radius: 5px;
+  padding: 16px 20px; margin-bottom: 12px; transition: border-color 0.12s;
+}
+.card:hover { border-color: var(--text-dim); }
+.card a { text-decoration: none; color: inherit; }
+.card-title { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
+.card-meta { font-size: 12px; color: var(--text-dim); }
+
+@media (max-width: 768px) {
+  .site-header-inner { padding: 10px 16px; }
+  .site-nav a { font-size: 11px; padding: 4px 6px; }
+  .page-content { padding: 0 16px 40px; }
+  .breadcrumb { padding: 10px 16px 0; }
+  .data-table { font-size: 11px; }
+}
+</style>
+
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="site-brand">
+      <h1>Detention Pipeline</h1>
+      <span class="brand-tag">Early Warning</span>
+    </a>
+    <nav class="site-nav">
+      <a href="/map/" >Map</a>
+      <a href="/fights/" >Fights</a>
+      <a href="/county/" >Counties</a>
+      <a href="/players/" >Players</a>
+      <a href="/facilities/" >Facilities</a>
+      <a href="/methodology/" >Methodology</a>
+      <a href="/contribute/" >Contribute</a>
+    </nav>
+  </div>
+</header>
+
+
+
+
+
+<div class="breadcrumb">
+  <a href="/">Map</a><span class="sep">/</span>
+  
+  Venntel / Gravy Analytics — Ad-Tech Location Data for ICE
+</div>
+
+<div class="page-content">
+  <div style="padding-top:24px; max-width:720px;">
+    <div style="margin-bottom:6px;">
+      <span class="signal-badge">
+        <span class="signal-dot" style="background:#8a5a2a;"></span>
+        Contractor
+      </span>
+    </div>
+    <h1 class="serif" style="font-size:26px; font-weight:400; letter-spacing:-0.01em; margin-bottom:8px;">Venntel / Gravy Analytics — Ad-Tech Location Data for ICE</h1>
+    <div class="mono dim small" style="margin-bottom:20px;">
+      
+      
+    </div>
+
+    <div style="font-size:14px; color:var(--text-secondary); line-height:1.75; margin-bottom:32px; white-space:pre-line;">
+      <h1 id="venntel--gravy-analytics">Venntel / Gravy Analytics</h1>
+<p>Venntel, a subsidiary of Gravy Analytics, sells precise cell phone location data to ICE harvested from the advertising technology (&ldquo;ad-tech&rdquo;) ecosystem. Through Venntel, ICE can track people&rsquo;s movements &ndash; home, church, medical appointments, school, protests &ndash; without a warrant, using only a purchase order.</p>
+<h2 id="how-it-works">How It Works</h2>
+<p>When mobile apps request location permissions for advertising purposes, the phone&rsquo;s GPS coordinates enter the &ldquo;bid-stream&rdquo; &ndash; the real-time advertising auction system. Venntel intercepts and aggregates this data, repackaging it for government clients. The data is precise enough to identify:</p>
+<ul>
+<li>Where a person lives</li>
+<li>Where they work</li>
+<li>Where they worship</li>
+<li>Where their children go to school</li>
+<li>Whether they attended a protest</li>
+</ul>
+<h2 id="ice-spending">ICE Spending</h2>
+<p>ICE spent <strong>$60+ million</strong> from 2025-2026 on location data contracts through data brokers including Venntel and [[babel-street|Babel Street]].</p>
+<h2 id="ftc-enforcement-december-2024">FTC Enforcement (December 2024)</h2>
+<p>The Federal Trade Commission filed a complaint against Gravy Analytics and Venntel for knowingly collecting and selling user location data without consent, including for sensitive locations relating to medical conditions, religious affiliation, and political activities. However, this enforcement action has not stopped ICE from continuing to explore and expand the ad-tech surveillance market.</p>
+<h2 id="2026-expansion">2026 Expansion</h2>
+<p>In January 2026, ICE posted a request for information explicitly referencing &ldquo;ad tech&rdquo; and &ldquo;big data tools&rdquo; &ndash; the first time ICE has used the term &ldquo;ad tech&rdquo; in federal procurement documents. This signals ICE intends to further institutionalize the ad-tech-to-surveillance pipeline.</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://www.vice.com/en/article/ice-dhs-fbi-location-data-venntel-apps/">Vice: How ICE contractor tracks phones around the world</a></li>
+<li><a href="https://www.theregister.com/2026/01/27/ice_data_advertising_tech_firms/">The Register: ICE takes aim at ad-tech data (Jan 2026)</a></li>
+<li><a href="https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use">Biometric Update: ICE seeks ad tech location data (Feb 2026)</a></li>
+<li><a href="https://prismreports.org/2025/01/30/ice-surveillance-immigrants/">Prism Reports: ICE surveillance apparatus expanding (Jan 2025)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gravy_Analytics">Wikipedia: Gravy Analytics</a></li>
+<li><a href="https://stateofsurveillance.org/news/ice-85-billion-surveillance-arsenal-complete-guide-2026/">State of Surveillance: ICE $85B surveillance arsenal</a></li>
+</ul>
+
+    </div>
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap; padding-top:16px; border-top:1px solid var(--border);">
+      
+      <a href="https://github.com/markramm/detention-pipeline/edit/main/kb/industry/contractors/venntel-gravy-analytics.md" class="btn btn-sm" target="_blank" rel="noopener">
+        <svg viewBox="0 0 16 16" fill="currentColor"><path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064l6.286-6.286Z"/></svg>
+        Edit this entry
+      </a>
+      
+      <a href="https://github.com/markramm/detention-pipeline/issues/new?template=data-correction.yml&county=Venntel&#43;%2F&#43;Gravy&#43;Analytics&#43;%E2%80%94&#43;Ad-Tech&#43;Location&#43;Data&#43;for&#43;ICE" class="btn btn-sm" target="_blank" rel="noopener">
+        Report an issue
+      </a>
+      
+    </div>
+
+    
+    
+  </div>
+</div>
+
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
+      <a href="/methodology/">Methodology</a>
+      <a href="/contribute/">Contribute</a>
+      <a href="https://theramm.substack.com">The RAMM</a>
+    </div>
+    <div>CC-BY-SA 4.0 · Data as of Feb 2026 · Built by <a href="https://theramm.substack.com">The RAMM</a></div>
+  </div>
+</footer>
+
+</body>
+</html>

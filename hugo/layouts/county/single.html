@@ -68,8 +68,12 @@
       <li>Check local news for "detention" + your county name</li>
       <li>Look up your sheriff's public statements on immigration enforcement</li>
       <li>Check for closed-session items about "real estate" or "economic development"</li>
+      <li>File a public records request for communications with detention consultants</li>
     </ul>
-    <a href="{{ $repoURL }}/issues/new?template=tip.yml&county={{ .Title | urlquery }}&state={{ $state }}" class="btn btn-sm">Submit what you find →</a>
+    <div style="display:flex; gap:8px; flex-wrap:wrap;">
+      <a href="/foia/" class="btn btn-sm">Generate a FOIA request →</a>
+      <a href="{{ $repoURL }}/issues/new?template=tip.yml&county={{ .Title | urlquery }}&state={{ $state }}" class="btn btn-sm">Submit what you find</a>
+    </div>
   </div>
   {{ end }}
 

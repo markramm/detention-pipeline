@@ -1,14 +1,358 @@
-<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Heat Map · Detention Pipeline</title><meta name=description content="Early-warning system for ICE detention facility expansion"><link rel=preconnect href=https://fonts.googleapis.com><link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel=stylesheet><style>:root{--bg-deep:#0a0a0f;--bg-panel:#111118;--bg-surface:#161620;--bg-elevated:#1e1e2a;--bg-content:#f6f5f1;--bg-content-alt:#edece8;--text-primary:#1a1a1f;--text-secondary:#4a4952;--text-dim:#7a7882;--text-light:#e8e6e1;--border:#dddbd6;--border-dark:#2a2a35;--accent:#c93b3b;--accent-hot:#e84545;--accent-warm:#d46a2f;--signal-igsa:#c93b3b;--signal-287g:#d46a2f;--signal-anc:#c49025;--signal-commission:#6a8a1a;--signal-job:#1a8a5a;--signal-sheriff:#1a6a9a;--signal-comms:#5a4fa5;--signal-budget:#8a3fa5;--signal-realestate:#a53f7a;--signal-legislative:#4f5a6a}*{margin:0;padding:0;box-sizing:border-box}body{font-family:ibm plex sans,-apple-system,sans-serif;color:var(--text-primary);background:var(--bg-content);-webkit-font-smoothing:antialiased}.site-header{background:var(--bg-deep);color:var(--text-light);padding:0;position:sticky;top:0;z-index:100}.site-header-inner{max-width:1200px;margin:0 auto;padding:12px 24px;display:flex;align-items:center;justify-content:space-between}.site-brand{display:flex;align-items:baseline;gap:10px;text-decoration:none}.site-brand h1{font-family:instrument serif,Georgia,serif;font-size:18px;font-weight:400;color:var(--text-light);letter-spacing:-.01em}.site-brand .brand-tag{font-family:dm mono,monospace;font-size:8px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);background:rgba(201,59,59,.12);padding:2px 6px;border:1px solid rgba(201,59,59,.2);border-radius:2px}.site-nav{display:flex;gap:4px;align-items:center}.site-nav a{font-size:12px;color:rgba(232,230,225,.5);text-decoration:none;padding:6px 10px;border-radius:3px;transition:all .12s;font-weight:400}.site-nav a:hover{color:var(--text-light);background:rgba(255,255,255,6%)}.site-nav a.active{color:var(--text-light);background:rgba(255,255,255,8%)}.breadcrumb{max-width:1200px;margin:0 auto;padding:14px 24px 0;font-family:dm mono,monospace;font-size:10px;letter-spacing:.04em;color:var(--text-dim)}.breadcrumb a{color:var(--text-dim);text-decoration:none}.breadcrumb a:hover{color:var(--text-secondary)}.breadcrumb .sep{margin:0 6px;opacity:.4}.page-content{max-width:1200px;margin:0 auto;padding:0 24px 60px}.site-footer{background:var(--bg-deep);color:rgba(232,230,225,.4);padding:32px 24px;text-align:center;font-size:11px;line-height:1.8}.site-footer a{color:rgba(232,230,225,.5);text-decoration:none}.site-footer a:hover{color:var(--text-light)}.footer-inner{max-width:1200px;margin:0 auto}.footer-links{display:flex;gap:16px;justify-content:center;margin-bottom:8px}.signal-dot{display:inline-block;width:7px;height:7px;border-radius:50%;flex-shrink:0;vertical-align:middle}.signal-badge{display:inline-flex;align-items:center;gap:5px;font-family:dm mono,monospace;font-size:10px;letter-spacing:.04em;padding:3px 8px;border-radius:3px;background:rgba(0,0,0,4%);border:1px solid var(--border);color:var(--text-secondary)}.score-pill{font-family:dm mono,monospace;font-weight:500;display:inline-block;padding:2px 8px;border-radius:3px;font-size:13px}.score-hot{color:var(--accent-hot);background:rgba(232,69,69,8%)}.score-warm{color:var(--accent-warm);background:rgba(212,106,47,8%)}.score-mid{color:var(--text-secondary);background:rgba(0,0,0,4%)}.score-low{color:var(--text-dim);background:rgba(0,0,0,3%)}.btn{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:500;padding:8px 16px;border-radius:4px;text-decoration:none;cursor:pointer;border:1px solid var(--border);color:var(--text-secondary);background:#fff;transition:all .12s}.btn:hover{border-color:var(--text-dim);color:var(--text-primary)}.btn-accent{background:var(--accent);color:#fff;border-color:var(--accent)}.btn-accent:hover{background:var(--accent-hot);border-color:var(--accent-hot);color:#fff}.btn-sm{font-size:11px;padding:5px 10px}.btn svg{width:14px;height:14px}.mono{font-family:dm mono,monospace}.serif{font-family:instrument serif,Georgia,serif}.dim{color:var(--text-dim)}.small{font-size:11px}.data-table{width:100%;border-collapse:collapse;font-size:12.5px}.data-table th{font-family:dm mono,monospace;font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:var(--text-dim);text-align:left;padding:8px 10px;border-bottom:2px solid var(--border)}.data-table td{padding:8px 10px;border-bottom:1px solid var(--border);color:var(--text-secondary)}.data-table tr:hover td{background:rgba(0,0,0,2%)}.data-table a{color:var(--text-primary);text-decoration:none}.data-table a:hover{text-decoration:underline}.card{background:#fff;border:1px solid var(--border);border-radius:5px;padding:16px 20px;margin-bottom:12px;transition:border-color .12s}.card:hover{border-color:var(--text-dim)}.card a{text-decoration:none;color:inherit}.card-title{font-size:14px;font-weight:500;margin-bottom:4px}.card-meta{font-size:11px;color:var(--text-dim)}@media(max-width:768px){.site-header-inner{padding:10px 16px}.site-nav a{font-size:11px;padding:4px 6px}.page-content{padding:0 16px 40px}.breadcrumb{padding:10px 16px 0}.data-table{font-size:11px}}</style><script src=https://d3js.org/d3.v7.min.js></script><script src=https://cdn.jsdelivr.net/npm/topojson-client@3></script><style>body{background:#0a0a0f}.site-footer{display:none}.page-content{max-width:none;padding:0}#map-wrap{width:100vw;height:calc(100vh - 42px);position:relative;overflow:hidden;cursor:grab}#map-wrap:active{cursor:grabbing}#map-wrap svg{width:100%;height:100%}.county{stroke:rgba(42,42,53,.5);stroke-width:.25;cursor:pointer;transition:stroke-width .1s}.county:hover{stroke:#8a8892;stroke-width:1}.state-boundary{fill:none;stroke:#353542;stroke-width:.6;pointer-events:none}.nation-boundary{fill:none;stroke:#55535e;stroke-width:.8;pointer-events:none}.map-overlay{position:absolute;z-index:50;pointer-events:none}.map-overlay>*{pointer-events:auto}#map-header{top:0;left:0;right:0;background:linear-gradient(180deg,#0a0a0f 0%,#0a0a0f 50%,transparent 100%);padding:14px 24px 28px;color:#e8e6e1}.map-title{font-family:instrument serif,serif;font-size:22px;font-weight:400;margin-bottom:2px}.map-sub{font-size:11px;color:#8a8892}.map-actions{display:flex;gap:8px;margin-top:8px}.map-actions a{font-family:dm mono,monospace;font-size:9px;letter-spacing:.06em;text-transform:uppercase;color:#55535e;padding:3px 8px;border-radius:2px;border:1px solid #2a2a35;text-decoration:none;transition:all .12s}.map-actions a:hover{color:#e8e6e1;border-color:#353542}#map-legend{bottom:16px;left:24px;background:#111118;border:1px solid #2a2a35;border-radius:4px;padding:10px 14px;display:flex;align-items:center;gap:10px}.legend-label{font-family:dm mono,monospace;font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:#55535e}.legend-bar{display:flex;gap:1px}.legend-cell{width:16px;height:10px;border-radius:1px}#map-stats{bottom:16px;right:24px;display:flex;gap:10px}.m-stat{background:#111118;border:1px solid #2a2a35;border-radius:4px;padding:6px 12px;text-align:center}.m-stat-val{font-family:dm mono,monospace;font-size:14px;font-weight:500;color:#e8e6e1;line-height:1}.m-stat-label{font-family:dm mono,monospace;font-size:7px;letter-spacing:.1em;text-transform:uppercase;color:#55535e;margin-top:2px}#map-zoom{top:50%;right:20px;transform:translateY(-50%);display:flex;flex-direction:column;gap:1px}.z-btn{width:30px;height:30px;background:#111118;border:1px solid #2a2a35;color:#8a8892;font-family:dm mono,monospace;font-size:14px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .1s}.z-btn:hover{background:#22222f;color:#e8e6e1}.z-btn:first-child{border-radius:4px 4px 0 0}.z-btn:last-child{border-radius:0 0 4px 4px}#tip{position:fixed;z-index:200;pointer-events:none;opacity:0;transition:opacity .1s;max-width:360px}#tip.vis{opacity:1}.tip-in{background:#111118;border:1px solid #353542;border-radius:5px;box-shadow:0 4px 20px rgba(0,0,0,.5);overflow:hidden;color:#e8e6e1}.tip-head{padding:10px 14px 8px;border-bottom:1px solid #2a2a35;display:flex;justify-content:space-between;align-items:baseline}.tip-county{font-family:instrument serif,serif;font-size:16px}.tip-score{font-family:dm mono,monospace;font-size:18px;font-weight:500;margin-left:12px}.tip-fips{font-family:dm mono,monospace;font-size:9px;color:#55535e;margin-top:1px}.tip-sigs{padding:8px 14px 10px}.tip-row{display:flex;align-items:center;gap:6px;padding:2px 0;font-size:10.5px;color:#8a8892}.tip-row .signal-dot{width:5px;height:5px}.tip-cnt{font-family:dm mono,monospace;font-weight:500;color:#e8e6e1;margin-left:auto}.tip-empty{padding:10px 14px}.tip-empty p{font-size:10px;color:#55535e;font-style:italic;margin-top:2px}.tip-link{display:block;padding:6px 14px;border-top:1px solid #2a2a35;font-family:dm mono,monospace;font-size:9px;color:#55535e;text-decoration:none;text-align:center;letter-spacing:.06em;text-transform:uppercase;transition:all .1s}.tip-link:hover{color:#e8e6e1;background:rgba(255,255,255,3%)}</style></head><body><header class=site-header><div class=site-header-inner><a href=/ class=site-brand><h1>Detention Pipeline</h1><span class=brand-tag>Early Warning</span></a><nav class=site-nav><a href=/map/ class=active>Map</a>
-<a href=/fights/>Fights</a>
-<a href=/county/>Counties</a>
-<a href=/players/>Players</a>
-<a href=/facilities/>Facilities</a>
-<a href=/methodology/>Methodology</a>
-<a href=/contribute/>Contribute</a></nav></div></header><div class=page-content><div id=map-wrap><div id=map-header class=map-overlay><div class=map-title>Detention Pipeline Heat Map</div><div class=map-sub>Multi-signal convergence scoring across U.S. counties · Data as of Feb 2026</div><div class=map-actions><a href=/fights/>County fights</a>
-<a href=/county/>Browse counties</a>
-<a href=/players/>The players</a>
-<a href=/methodology/>Methodology</a></div></div><div id=map-legend class=map-overlay><span class=legend-label>Heat</span><div><div class=legend-bar id=legend-bar></div></div></div><div id=map-stats class=map-overlay><div class=m-stat><div class=m-stat-val id=s-counties>—</div><div class=m-stat-label>Counties</div></div><div class=m-stat><div class=m-stat-val id=s-max>—</div><div class=m-stat-label>Max Score</div></div></div><div id=map-zoom class=map-overlay><button class=z-btn id=zi>+</button>
-<button class=z-btn id=zo>−</button></div></div><div id=tip><div class=tip-in id=tip-in></div></div></div><script>const SIG={igsa:{l:"IGSA",c:"#c93b3b"},"287g-agreement":{l:"287(g)",c:"#d46a2f"},"anc-contract":{l:"ANC",c:"#c49025"},"commission-activity":{l:"Commission",c:"#8a9f2a"},"job-posting":{l:"Jobs",c:"#2a9f6f"},"sheriff-network":{l:"Sheriff",c:"#2a7fb5"},"comms-discipline":{l:"Comms",c:"#6a5fb5"},"budget-distress":{l:"Budget",c:"#9a4fb5"},"real-estate-trace":{l:"Real Estate",c:"#b54f8a"},"legislative-trace":{l:"Legislative",c:"#5f6a7a"}},SO=Object.keys(SIG);let H={},FN={},mx=1;function hc(e){if(!e||e<=0)return"#12121a";const t=Math.min(e/mx,1);return`rgb(${18+t*237|0},${18+t**2.2*50|0},${26-t*10|0})`}function sc(e){return e>=70?"#e84545":e>=40?"#d46a2f":e>=15?"#8a8892":"#55535e"}function esc(e){const t=document.createElement("div");return t.textContent=e,t.innerHTML}async function init(){const[t,i,p]=await Promise.all([d3.json("/counties-albers-10m.json"),d3.json("/heat_data.json"),d3.json("/fips_names.json")]);FN=p,i.forEach(e=>{H[e.fips]=e}),mx=d3.max(i,e=>e.score)||1,document.getElementById("s-counties").textContent=i.length,document.getElementById("s-max").textContent=mx;const u=document.getElementById("legend-bar");for(let e=0;e<=10;e++){const t=document.createElement("div");t.className="legend-cell",t.style.background=hc(e/10*mx),u.appendChild(t)}const c=document.getElementById("map-wrap"),a=c.clientWidth,r=c.clientHeight,o=d3.select("#map-wrap").append("svg").attr("width",a).attr("height",r),n=o.append("g"),l=1016,d=594,e=Math.min(a/l,r/d)*.92,h=(a-l*e)/2- -58*e,m=(r-d*e)/2-13*e,f=d3.zoomIdentity.translate(h,m).scale(e),s=d3.zoom().scaleExtent([e*.8,e*16]).on("zoom",e=>n.attr("transform",e.transform));o.call(s).call(s.transform,f),document.getElementById("zi").onclick=()=>o.transition().duration(250).call(s.scaleBy,1.5),document.getElementById("zo").onclick=()=>o.transition().duration(250).call(s.scaleBy,1/1.5);const g=topojson.feature(t,t.objects.counties);n.selectAll(".county").data(g.features).join("path").attr("class","county").attr("d",d3.geoPath()).attr("fill",e=>{const n=e.id.toString().padStart(5,"0"),t=H[n];return t?hc(t.score):"#12121a"}).on("mouseenter",(e,t)=>showTip(e,t)).on("mousemove",e=>moveTip(e)).on("mouseleave",hideTip).on("click",(e,t)=>{const n=t.id.toString().padStart(5,"0");H[n]&&(window.location.href="/county/"+n+"/")}),n.append("path").datum(topojson.mesh(t,t.objects.states,(e,t)=>e!==t)).attr("class","state-boundary").attr("d",d3.geoPath()),n.append("path").datum(topojson.mesh(t,t.objects.nation)).attr("class","nation-boundary").attr("d",d3.geoPath())}const tip=document.getElementById("tip"),tipIn=document.getElementById("tip-in");function showTip(e,t){const s=t.id.toString().padStart(5,"0"),n=H[s],o=n?n.county:FN[s]||"County "+s;if(n){const e=SO.filter(e=>n.signals[e]).map(e=>`<div class="tip-row"><span class="signal-dot" style="background:${SIG[e].c}"></span>${SIG[e].l}<span class="tip-cnt">${n.signals[e].count}</span></div>`).join("");tipIn.innerHTML=`<div class="tip-head"><div><div class="tip-county">${esc(o)}</div><div class="tip-fips">FIPS ${s}</div></div><div class="tip-score" style="color:${sc(n.score)}">${n.score}</div></div><div class="tip-sigs">${e}</div><a href="/county/${s}/" class="tip-link">View county profile →</a>`}else tipIn.innerHTML=`<div class="tip-empty"><div class="tip-county">${esc(o)}</div><div class="tip-fips">FIPS ${s}</div><p>No pipeline signals detected</p></div>`;moveTip(e),tip.classList.add("vis")}function moveTip(e){let t=e.clientX+14,n=e.clientY+14;t+tip.offsetWidth>window.innerWidth-14&&(t=e.clientX-tip.offsetWidth-14),n+tip.offsetHeight>window.innerHeight-14&&(n=e.clientY-tip.offsetHeight-14),tip.style.left=t+"px",tip.style.top=n+"px"}function hideTip(){tip.classList.remove("vis")}init()</script><footer class=site-footer><div class=footer-inner><div class=footer-links><a href=https://github.com/markramm/detention-pipeline>GitHub</a>
-<a href=/methodology/>Methodology</a>
-<a href=/contribute/>Contribute</a>
-<a href=https://theramm.substack.com>The RAMM</a></div><div>CC-BY-SA 4.0 · Data as of Feb 2026 · Built by <a href=https://theramm.substack.com>The RAMM</a></div></div></footer></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8787&amp;path=livereload" data-no-instant defer></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Heat Map · Detention Pipeline</title><meta name="description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:title" content="Heat Map · Detention Pipeline">
+<meta property="og:description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://localhost:8787/map/">
+<meta property="og:site_name" content="Detention Pipeline">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Heat Map · Detention Pipeline">
+<meta name="twitter:description" content="Early-warning system for ICE detention facility expansion">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg-deep: #0a0a0f;
+  --bg-panel: #111118;
+  --bg-surface: #161620;
+  --bg-elevated: #1e1e2a;
+  --bg-content: #f6f5f1;
+  --bg-content-alt: #edece8;
+  --text-primary: #1a1a1f;
+  --text-secondary: #4a4952;
+  --text-dim: #7a7882;
+  --text-light: #e8e6e1;
+  --border: #dddbd6;
+  --border-dark: #2a2a35;
+  --accent: #c93b3b;
+  --accent-hot: #e84545;
+  --accent-warm: #d46a2f;
+  --signal-igsa: #c93b3b;
+  --signal-287g: #d46a2f;
+  --signal-anc: #c49025;
+  --signal-commission: #6a8a1a;
+  --signal-job: #1a8a5a;
+  --signal-sheriff: #1a6a9a;
+  --signal-comms: #5a4fa5;
+  --signal-budget: #8a3fa5;
+  --signal-realestate: #a53f7a;
+  --signal-legislative: #4f5a6a;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-size: 15px;
+  color: var(--text-primary);
+  background: var(--bg-content);
+  -webkit-font-smoothing: antialiased;
+}
+
+ 
+.site-header {
+  background: var(--bg-deep);
+  color: var(--text-light);
+  padding: 0;
+  position: sticky; top: 0; z-index: 100;
+}
+.site-header-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.site-brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; }
+.site-brand h1 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 18px; font-weight: 400; color: var(--text-light);
+  letter-spacing: -0.01em;
+}
+.site-brand .brand-tag {
+  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--accent);
+  background: rgba(201,59,59,0.12); padding: 2px 6px;
+  border: 1px solid rgba(201,59,59,0.2); border-radius: 2px;
+}
+.site-nav { display: flex; gap: 4px; align-items: center; }
+.site-nav a {
+  font-size: 13px; color: rgba(232,230,225,0.5); text-decoration: none;
+  padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
+  font-weight: 400;
+}
+.site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.site-nav a.active { color: var(--text-light); background: rgba(255,255,255,0.08); }
+
+ 
+.breadcrumb {
+  max-width: 1200px; margin: 0 auto; padding: 14px 24px 0;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; color: var(--text-dim);
+}
+.breadcrumb a { color: var(--text-dim); text-decoration: none; }
+.breadcrumb a:hover { color: var(--text-secondary); }
+.breadcrumb .sep { margin: 0 6px; opacity: 0.4; }
+
+ 
+.page-content {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 60px;
+}
+
+ 
+.site-footer {
+  background: var(--bg-deep); color: rgba(232,230,225,0.4);
+  padding: 32px 24px; text-align: center;
+  font-size: 11px; line-height: 1.8;
+}
+.site-footer a { color: rgba(232,230,225,0.5); text-decoration: none; }
+.site-footer a:hover { color: var(--text-light); }
+.footer-inner { max-width: 1200px; margin: 0 auto; }
+.footer-links { display: flex; gap: 16px; justify-content: center; margin-bottom: 8px; }
+
+ 
+.signal-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  flex-shrink: 0; vertical-align: middle;
+}
+.signal-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; padding: 3px 8px;
+  border-radius: 3px; background: rgba(0,0,0,0.04);
+  border: 1px solid var(--border); color: var(--text-secondary);
+}
+.score-pill {
+  font-family: 'DM Mono', monospace; font-weight: 500;
+  display: inline-block; padding: 2px 8px; border-radius: 3px;
+  font-size: 13px;
+}
+.score-hot { color: var(--accent-hot); background: rgba(232,69,69,0.08); }
+.score-warm { color: var(--accent-warm); background: rgba(212,106,47,0.08); }
+.score-mid { color: var(--text-secondary); background: rgba(0,0,0,0.04); }
+.score-low { color: var(--text-dim); background: rgba(0,0,0,0.03); }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500; padding: 8px 16px;
+  border-radius: 4px; text-decoration: none; cursor: pointer;
+  border: 1px solid var(--border); color: var(--text-secondary);
+  background: white; transition: all 0.12s;
+}
+.btn:hover { border-color: var(--text-dim); color: var(--text-primary); }
+.btn-accent {
+  background: var(--accent); color: white; border-color: var(--accent);
+}
+.btn-accent:hover { background: var(--accent-hot); border-color: var(--accent-hot); color: white; }
+.btn-sm { font-size: 11px; padding: 5px 10px; }
+.btn svg { width: 14px; height: 14px; }
+
+.mono { font-family: 'DM Mono', monospace; }
+.serif { font-family: 'Instrument Serif', Georgia, serif; }
+.dim { color: var(--text-dim); }
+.small { font-size: 11px; }
+
+ 
+.data-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.data-table th {
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--text-dim); text-align: left;
+  padding: 8px 10px; border-bottom: 2px solid var(--border);
+}
+.data-table td {
+  padding: 8px 10px; border-bottom: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.data-table tr:hover td { background: rgba(0,0,0,0.02); }
+.data-table a { color: var(--text-primary); text-decoration: none; }
+.data-table a:hover { text-decoration: underline; }
+
+ 
+.card {
+  background: white; border: 1px solid var(--border); border-radius: 5px;
+  padding: 16px 20px; margin-bottom: 12px; transition: border-color 0.12s;
+}
+.card:hover { border-color: var(--text-dim); }
+.card a { text-decoration: none; color: inherit; }
+.card-title { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
+.card-meta { font-size: 12px; color: var(--text-dim); }
+
+@media (max-width: 768px) {
+  .site-header-inner { padding: 10px 16px; }
+  .site-nav a { font-size: 11px; padding: 4px 6px; }
+  .page-content { padding: 0 16px 40px; }
+  .breadcrumb { padding: 10px 16px 0; }
+  .data-table { font-size: 11px; }
+}
+</style>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<style>
+  body { background: #0a0a0f; }
+  .site-footer { display: none; }
+  .page-content { max-width: none; padding: 0; }
+  #map-wrap { width: 100vw; height: calc(100vh - 42px); position: relative; overflow: hidden; cursor: grab; }
+  #map-wrap:active { cursor: grabbing; }
+  #map-wrap svg { width: 100%; height: 100%; }
+  .county { stroke: rgba(42,42,53,0.5); stroke-width: 0.25; cursor: pointer; transition: stroke-width 0.1s; }
+  .county:hover { stroke: #8a8892; stroke-width: 1; }
+  .state-boundary { fill: none; stroke: #353542; stroke-width: 0.6; pointer-events: none; }
+  .nation-boundary { fill: none; stroke: #55535e; stroke-width: 0.8; pointer-events: none; }
+  .map-overlay { position: absolute; z-index: 50; pointer-events: none; }
+  .map-overlay > * { pointer-events: auto; }
+  #map-header { top: 0; left: 0; right: 0; background: linear-gradient(180deg, #0a0a0f 0%, #0a0a0f 50%, transparent 100%); padding: 14px 24px 28px; color: #e8e6e1; }
+  .map-title { font-family: 'Instrument Serif', serif; font-size: 22px; font-weight: 400; margin-bottom: 2px; }
+  .map-sub { font-size: 11px; color: #8a8892; }
+  .map-actions { display: flex; gap: 8px; margin-top: 8px; }
+  .map-actions a { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.06em; text-transform: uppercase; color: #55535e; padding: 3px 8px; border-radius: 2px; border: 1px solid #2a2a35; text-decoration: none; transition: all 0.12s; }
+  .map-actions a:hover { color: #e8e6e1; border-color: #353542; }
+  #map-legend { bottom: 16px; left: 24px; background: #111118; border: 1px solid #2a2a35; border-radius: 4px; padding: 10px 14px; display: flex; align-items: center; gap: 10px; }
+  .legend-label { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: #55535e; }
+  .legend-bar { display: flex; gap: 1px; }
+  .legend-cell { width: 16px; height: 10px; border-radius: 1px; }
+  #map-stats { bottom: 16px; right: 24px; display: flex; gap: 10px; }
+  .m-stat { background: #111118; border: 1px solid #2a2a35; border-radius: 4px; padding: 6px 12px; text-align: center; }
+  .m-stat-val { font-family: 'DM Mono', monospace; font-size: 14px; font-weight: 500; color: #e8e6e1; line-height: 1; }
+  .m-stat-label { font-family: 'DM Mono', monospace; font-size: 7px; letter-spacing: 0.1em; text-transform: uppercase; color: #55535e; margin-top: 2px; }
+  #map-zoom { top: 50%; right: 20px; transform: translateY(-50%); display: flex; flex-direction: column; gap: 1px; }
+  .z-btn { width: 30px; height: 30px; background: #111118; border: 1px solid #2a2a35; color: #8a8892; font-family: 'DM Mono', monospace; font-size: 14px; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.1s; }
+  .z-btn:hover { background: #22222f; color: #e8e6e1; }
+  .z-btn:first-child { border-radius: 4px 4px 0 0; }
+  .z-btn:last-child { border-radius: 0 0 4px 4px; }
+  #tip { position: fixed; z-index: 200; pointer-events: none; opacity: 0; transition: opacity 0.1s; max-width: 360px; }
+  #tip.vis { opacity: 1; }
+  .tip-in { background: #111118; border: 1px solid #353542; border-radius: 5px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); overflow: hidden; color: #e8e6e1; }
+  .tip-head { padding: 10px 14px 8px; border-bottom: 1px solid #2a2a35; display: flex; justify-content: space-between; align-items: baseline; }
+  .tip-county { font-family: 'Instrument Serif', serif; font-size: 16px; }
+  .tip-score { font-family: 'DM Mono', monospace; font-size: 18px; font-weight: 500; margin-left: 12px; }
+  .tip-fips { font-family: 'DM Mono', monospace; font-size: 9px; color: #55535e; margin-top: 1px; }
+  .tip-sigs { padding: 8px 14px 10px; }
+  .tip-row { display: flex; align-items: center; gap: 6px; padding: 2px 0; font-size: 10.5px; color: #8a8892; }
+  .tip-row .signal-dot { width: 5px; height: 5px; }
+  .tip-cnt { font-family: 'DM Mono', monospace; font-weight: 500; color: #e8e6e1; margin-left: auto; }
+  .tip-empty { padding: 10px 14px; }
+  .tip-empty p { font-size: 10px; color: #55535e; font-style: italic; margin-top: 2px; }
+  .tip-link { display: block; padding: 6px 14px; border-top: 1px solid #2a2a35; font-family: 'DM Mono', monospace; font-size: 9px; color: #55535e; text-decoration: none; text-align: center; letter-spacing: 0.06em; text-transform: uppercase; transition: all 0.1s; }
+  .tip-link:hover { color: #e8e6e1; background: rgba(255,255,255,0.03); }
+</style>
+
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="site-brand">
+      <h1>Detention Pipeline</h1>
+      <span class="brand-tag">Early Warning</span>
+    </a>
+    <nav class="site-nav">
+      <a href="/map/" class="active">Map</a>
+      <a href="/fights/" >Fights</a>
+      <a href="/county/" >Counties</a>
+      <a href="/players/" >Players</a>
+      <a href="/facilities/" >Facilities</a>
+      <a href="/methodology/" >Methodology</a>
+      <a href="/contribute/" >Contribute</a>
+    </nav>
+  </div>
+</header>
+
+
+<div class="page-content">
+<div id="map-wrap">
+  <div id="map-header" class="map-overlay">
+    <div class="map-title">Detention Pipeline Heat Map</div>
+    <div class="map-sub">Multi-signal convergence scoring across U.S. counties · Data as of Feb 2026</div>
+    <div class="map-actions">
+      <a href="/fights/">County fights</a>
+      <a href="/county/">Browse counties</a>
+      <a href="/players/">The players</a>
+      <a href="/methodology/">Methodology</a>
+    </div>
+  </div>
+  <div id="map-legend" class="map-overlay">
+    <span class="legend-label">Heat</span>
+    <div><div class="legend-bar" id="legend-bar"></div></div>
+  </div>
+  <div id="map-stats" class="map-overlay">
+    <div class="m-stat"><div class="m-stat-val" id="s-counties">—</div><div class="m-stat-label">Counties</div></div>
+    <div class="m-stat"><div class="m-stat-val" id="s-max">—</div><div class="m-stat-label">Max Score</div></div>
+  </div>
+  <div id="map-zoom" class="map-overlay">
+    <button class="z-btn" id="zi">+</button>
+    <button class="z-btn" id="zo">−</button>
+  </div>
+</div>
+<div id="tip"><div class="tip-in" id="tip-in"></div></div>
+</div>
+
+<script>
+const SIG={
+  'igsa':{l:'IGSA',c:'#c93b3b'},'287g-agreement':{l:'287(g)',c:'#d46a2f'},'anc-contract':{l:'ANC',c:'#c49025'},
+  'commission-activity':{l:'Commission',c:'#8a9f2a'},'job-posting':{l:'Jobs',c:'#2a9f6f'},
+  'sheriff-network':{l:'Sheriff',c:'#2a7fb5'},'comms-discipline':{l:'Comms',c:'#6a5fb5'},
+  'budget-distress':{l:'Budget',c:'#9a4fb5'},'real-estate-trace':{l:'Real Estate',c:'#b54f8a'},
+  'legislative-trace':{l:'Legislative',c:'#5f6a7a'}
+};
+const SO=Object.keys(SIG);
+let H={},FN={},mx=1;
+function hc(s){if(!s||s<=0)return'#12121a';const t=Math.min(s/mx,1);return`rgb(${18+t*237|0},${18+Math.pow(t,2.2)*50|0},${26-t*10|0})`}
+function sc(s){return s>=70?'#e84545':s>=40?'#d46a2f':s>=15?'#8a8892':'#55535e'}
+function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+async function init(){
+  const[topo,heat,names]=await Promise.all([d3.json('/counties-albers-10m.json'),d3.json('/heat_data.json'),d3.json('/fips_names.json')]);
+  FN=names;heat.forEach(d=>{H[d.fips]=d});mx=d3.max(heat,d=>d.score)||1;
+  document.getElementById('s-counties').textContent=heat.length;
+  document.getElementById('s-max').textContent=mx;
+  const lb=document.getElementById('legend-bar');
+  for(let i=0;i<=10;i++){const c=document.createElement('div');c.className='legend-cell';c.style.background=hc(i/10*mx);lb.appendChild(c)}
+  const el=document.getElementById('map-wrap'),w=el.clientWidth,h=el.clientHeight;
+  const svg=d3.select('#map-wrap').append('svg').attr('width',w).attr('height',h);
+  const g=svg.append('g');
+  const mW=1016,mH=594,s0=Math.min(w/mW,h/mH)*0.92;
+  const tx=(w-mW*s0)/2-(-58)*s0,ty=(h-mH*s0)/2-13*s0;
+  const it=d3.zoomIdentity.translate(tx,ty).scale(s0);
+  const zm=d3.zoom().scaleExtent([s0*0.8,s0*16]).on('zoom',e=>g.attr('transform',e.transform));
+  svg.call(zm).call(zm.transform,it);
+  document.getElementById('zi').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1.5);
+  document.getElementById('zo').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1/1.5);
+  const counties=topojson.feature(topo,topo.objects.counties);
+  g.selectAll('.county').data(counties.features).join('path').attr('class','county').attr('d',d3.geoPath())
+    .attr('fill',d=>{const f=d.id.toString().padStart(5,'0');const dd=H[f];return dd?hc(dd.score):'#12121a'})
+    .on('mouseenter',(e,d)=>showTip(e,d)).on('mousemove',e=>moveTip(e)).on('mouseleave',hideTip)
+    .on('click',(e,d)=>{const f=d.id.toString().padStart(5,'0');if(H[f])window.location.href='/county/'+f+'/'});
+  g.append('path').datum(topojson.mesh(topo,topo.objects.states,(a,b)=>a!==b)).attr('class','state-boundary').attr('d',d3.geoPath());
+  g.append('path').datum(topojson.mesh(topo,topo.objects.nation)).attr('class','nation-boundary').attr('d',d3.geoPath());
+}
+const tip=document.getElementById('tip'),tipIn=document.getElementById('tip-in');
+function showTip(ev,d){
+  const f=d.id.toString().padStart(5,'0'),dd=H[f],nm=dd?dd.county:(FN[f]||'County '+f);
+  if(dd){
+    const rows=SO.filter(s=>dd.signals[s]).map(s=>`<div class="tip-row"><span class="signal-dot" style="background:${SIG[s].c}"></span>${SIG[s].l}<span class="tip-cnt">${dd.signals[s].count}</span></div>`).join('');
+    tipIn.innerHTML=`<div class="tip-head"><div><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div></div><div class="tip-score" style="color:${sc(dd.score)}">${dd.score}</div></div><div class="tip-sigs">${rows}</div><a href="/county/${f}/" class="tip-link">View county profile →</a>`;
+  } else {
+    tipIn.innerHTML=`<div class="tip-empty"><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div><p>No pipeline signals detected</p></div>`;
+  }
+  moveTip(ev);tip.classList.add('vis');
+}
+function moveTip(ev){let x=ev.clientX+14,y=ev.clientY+14;if(x+tip.offsetWidth>window.innerWidth-14)x=ev.clientX-tip.offsetWidth-14;if(y+tip.offsetHeight>window.innerHeight-14)y=ev.clientY-tip.offsetHeight-14;tip.style.left=x+'px';tip.style.top=y+'px'}
+function hideTip(){tip.classList.remove('vis')}
+init();
+</script>
+
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
+      <a href="/methodology/">Methodology</a>
+      <a href="/contribute/">Contribute</a>
+      <a href="https://theramm.substack.com">The RAMM</a>
+    </div>
+    <div>CC-BY-SA 4.0 · Data as of Feb 2026 · Built by <a href="https://theramm.substack.com">The RAMM</a></div>
+  </div>
+</footer>
+
+</body>
+</html>

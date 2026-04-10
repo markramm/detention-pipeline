@@ -4,7 +4,31 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline</title>
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}Early-warning system for ICE detention facility expansion{{ end }}">
+{{- $desc := "Early-warning system for ICE detention facility expansion" -}}
+{{- if eq .Type "county" -}}
+  {{- $desc = printf "%s — Heat Score: %v with %v signal types converging. Ranked #%v of %v tracked counties." .Title .Params.score .Params.signal_types .Params.rank .Params.total_counties -}}
+{{- else if eq .Type "fights" -}}
+  {{- if .IsPage -}}
+    {{- $desc = printf "%s — %s" .Title (.Params.outcome | default "Community fight against detention facility expansion") -}}
+  {{- else -}}
+    {{- $desc = "Communities fighting detention facility proposals — what worked, what didn't, and what you can learn" -}}
+  {{- end -}}
+{{- else if eq .Type "players" -}}
+  {{- $desc = printf "%s — Detention industry profile" .Title -}}
+{{- else if .Params.signal_label -}}
+  {{- $desc = printf "%s — %s signal in the detention pipeline" .Title .Params.signal_label -}}
+{{- else if .Description -}}
+  {{- $desc = .Description -}}
+{{- end -}}
+<meta name="description" content="{{ $desc }}">
+<meta property="og:title" content="{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:type" content="{{ cond .IsHome "website" "article" }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="Detention Pipeline">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline">
+<meta name="twitter:description" content="{{ $desc }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -38,6 +62,7 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
   font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-size: 15px;
   color: var(--text-primary);
   background: var(--bg-content);
   -webkit-font-smoothing: antialiased;
@@ -69,8 +94,8 @@ body {
 }
 .site-nav { display: flex; gap: 4px; align-items: center; }
 .site-nav a {
-  font-size: 12px; color: rgba(232,230,225,0.5); text-decoration: none;
-  padding: 6px 10px; border-radius: 3px; transition: all 0.12s;
+  font-size: 13px; color: rgba(232,230,225,0.5); text-decoration: none;
+  padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
   font-weight: 400;
 }
 .site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
@@ -145,7 +170,7 @@ body {
 .small { font-size: 11px; }
 
 /* ── Tables ── */
-.data-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+.data-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
 .data-table th {
   font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
   text-transform: uppercase; color: var(--text-dim); text-align: left;
@@ -166,8 +191,8 @@ body {
 }
 .card:hover { border-color: var(--text-dim); }
 .card a { text-decoration: none; color: inherit; }
-.card-title { font-size: 14px; font-weight: 500; margin-bottom: 4px; }
-.card-meta { font-size: 11px; color: var(--text-dim); }
+.card-title { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
+.card-meta { font-size: 12px; color: var(--text-dim); }
 
 @media (max-width: 768px) {
   .site-header-inner { padding: 10px 16px; }

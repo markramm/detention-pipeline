@@ -2,30 +2,89 @@
 {{ $abbr := .Params.state_abbr }}
 
 <div class="breadcrumb">
-  <a href="/">Map</a><span class="sep">/</span>
+  <a href="/">Home</a><span class="sep">/</span>
   <a href="/state/">States</a><span class="sep">/</span>
   {{ .Title }}
 </div>
 
 <div class="page-content">
   <div style="padding-top:24px; margin-bottom:24px;">
-    <h1 class="serif" style="font-size:28px; font-weight:400;">{{ .Title }}</h1>
-    <p style="font-size:13px; color:var(--text-secondary);">
-      {{ .Params.county_count }} counties with signals · {{ .Params.entry_count }} total entries
-    </p>
+    <h1 class="serif" style="font-size:30px; font-weight:400;">{{ .Title }}</h1>
+
+    {{/* Compute state-level stats */}}
+    {{ $counties := where (where site.RegularPages "Type" "county") "Params.state" $abbr }}
+    {{ $allEntries := where site.RegularPages "Params.state" $abbr }}
+    {{ $fights := where $allEntries "Params.entry_type" "county-fight" }}
+    {{ $agreements287g := where $allEntries "Params.entry_type" "287g-agreement" }}
+    {{ $facilities := where $allEntries "Params.entry_type" "igsa" }}
+    {{ $ancContracts := where $allEntries "Params.entry_type" "anc-contract" }}
+
+    {{/* Stats bar */}}
+    <div style="display:flex; gap:12px; margin:14px 0 20px; flex-wrap:wrap;">
+      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+        <div class="mono" style="font-size:22px; font-weight:500; line-height:1;">{{ len $counties }}</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">Counties tracked</div>
+      </div>
+      {{ if $agreements287g }}
+      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+        <div class="mono" style="font-size:22px; font-weight:500; line-height:1; color:var(--signal-287g);">{{ len $agreements287g }}</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">287(g) agreements</div>
+      </div>
+      {{ end }}
+      {{ if $facilities }}
+      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+        <div class="mono" style="font-size:22px; font-weight:500; line-height:1; color:var(--signal-igsa);">{{ len $facilities }}</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">IGSA facilities</div>
+      </div>
+      {{ end }}
+      {{ if $ancContracts }}
+      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+        <div class="mono" style="font-size:22px; font-weight:500; line-height:1; color:var(--signal-anc);">{{ len $ancContracts }}</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">ANC contracts</div>
+      </div>
+      {{ end }}
+      {{ if $fights }}
+      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+        <div class="mono" style="font-size:22px; font-weight:500; line-height:1; color:#2a8a5a;">{{ len $fights }}</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">County fights</div>
+      </div>
+      {{ end }}
+      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+        <div class="mono" style="font-size:22px; font-weight:500; line-height:1;">{{ .Params.entry_count }}</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">Total entries</div>
+      </div>
+    </div>
+
+    {{/* Active fights in this state */}}
+    {{ if $fights }}
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:10px; padding-bottom:6px; border-bottom:2px solid var(--border);">
+      County Fights in {{ .Title }}
+    </h2>
+    {{ range $fights }}
+    <div class="card" style="border-left:3px solid {{ cond (eq .Params.status "contested") "var(--accent)" "#2a8a5a" }}; margin-bottom:8px;">
+      <a href="{{ .RelPermalink }}">
+        <div class="card-title" style="font-size:13px;">{{ .Title }}</div>
+        <div class="card-meta">{{ with .Params.status }}{{ . | title }}{{ end }}{{ with .Params.outcome }} — {{ . }}{{ end }}</div>
+      </a>
+    </div>
+    {{ end }}
+    <div style="margin-bottom:20px;"></div>
+    {{ end }}
   </div>
 
-  {{/* Get county pages for this state, sorted by score */}}
-  {{ $counties := where (where site.RegularPages "Type" "county") "Params.state" $abbr }}
-
+  {{/* County ranking table */}}
   {{ if $counties }}
+  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:10px; padding-bottom:6px; border-bottom:2px solid var(--border);">
+    Counties ranked by heat score
+  </h2>
   <table class="data-table">
     <thead>
       <tr>
-        <th>#</th>
+        <th style="width:40px">#</th>
         <th>County</th>
         <th style="width:70px">Score</th>
         <th style="width:60px">Signals</th>
+        <th style="width:100px">Coverage</th>
       </tr>
     </thead>
     <tbody>
@@ -39,6 +98,16 @@
           </span>
         </td>
         <td class="mono dim">{{ .Params.signal_types }}</td>
+        <td>
+          {{ $cov := .Params.coverage | default "unresearched" }}
+          {{ if eq $cov "well-researched" }}
+          <span class="signal-badge" style="font-size:8px; background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">Researched</span>
+          {{ else if eq $cov "partially-researched" }}
+          <span class="signal-badge" style="font-size:8px; background:rgba(196,144,37,0.08); border-color:rgba(196,144,37,0.2); color:#c49025;">Partial</span>
+          {{ else }}
+          <span class="signal-badge" style="font-size:8px;">Auto only</span>
+          {{ end }}
+        </td>
       </tr>
     {{ end }}
     </tbody>
@@ -46,5 +115,10 @@
   {{ else }}
   <p style="color:var(--text-dim); font-style:italic;">No tracked counties in this state.</p>
   {{ end }}
+
+  <div style="margin-top:24px; padding-top:14px; border-top:1px solid var(--border);">
+    <a href="https://github.com/markramm/detention-pipeline/issues/new?template=tip.yml&state={{ $abbr }}" class="btn btn-accent btn-sm">Report a tip in {{ .Title }} →</a>
+    <a href="/map/" class="btn btn-sm" style="margin-left:6px;">View on map</a>
+  </div>
 </div>
 {{ end }}

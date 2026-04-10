@@ -511,7 +511,7 @@ layout: list
 
 def generate_static_pages():
     """Generate methodology and contribute pages."""
-    for name, layout in [("methodology", "methodology"), ("contribute", "contribute")]:
+    for name, layout in [("methodology", "methodology"), ("contribute", "contribute"), ("foia", "foia")]:
         with open(CONTENT_PATH / f"{name}.md", "w") as f:
             f.write(f"""---
 title: "{name.title()}"
