@@ -1,0 +1,81 @@
+name: Submit a Tip
+description: Report a signal that a county may be targeted for detention expansion
+title: "[TIP] "
+labels: ["tip", "unverified"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing. Every verified tip makes this early-warning system stronger.
+        Provide as much detail as you can — source URLs are especially valuable.
+
+  - type: input
+    id: county
+    attributes:
+      label: County
+      description: County name (e.g. "Bradford County")
+      placeholder: County name
+    validations:
+      required: true
+
+  - type: input
+    id: state
+    attributes:
+      label: State
+      description: Two-letter state abbreviation
+      placeholder: FL
+    validations:
+      required: true
+
+  - type: dropdown
+    id: signal_type
+    attributes:
+      label: Signal type
+      description: What kind of signal is this?
+      options:
+        - Commission activity (agenda item, vote, hearing)
+        - Real estate (property purchase, warehouse assessment)
+        - Job posting (detention consultant or contractor)
+        - Sheriff network (conference pitch, federal partnership talk)
+        - Budget distress (shortfall, failed levy)
+        - 287(g) agreement (new or expanded)
+        - ANC/contractor activity (new contract or subcontract)
+        - Communications discipline (polished messaging, NDA use)
+        - Legislative (state bill to block or enable)
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What did you find?
+      description: Describe the signal. Include dates, names of officials acting in public capacity, and any relevant context.
+      placeholder: "On [date], the [county] commission held a closed session to discuss..."
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: Link to the source (news article, government minutes, job listing, etc.)
+      placeholder: https://
+
+  - type: dropdown
+    id: source_tier
+    attributes:
+      label: Source type
+      options:
+        - Government record (commission minutes, contracts, court filings)
+        - Local news coverage
+        - Investigative journalism / advocacy report
+        - Job board or career page
+        - Social media or word of mouth
+        - Other
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Anything else that helps — related counties, timeline, who's involved.

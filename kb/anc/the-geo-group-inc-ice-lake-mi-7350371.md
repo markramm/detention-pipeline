@@ -1,0 +1,30 @@
+---
+id: the-geo-group-inc-ice-lake-mi-7350371
+title: "THE GEO GROUP, INC. — ICE LAKE, MI $7,350,371"
+type: anc-contract
+county: "LAKE"
+state: "MI"
+fips: "26085"
+contractor: "THE GEO GROUP, INC."
+parent_anc: ""
+contract_value: "$7,350,371.31"
+contract_type: "federal-contract"
+award_date: "2025-04-01"
+usaspending_id: "70CDCR25FR0000037"
+source: "USAspending.gov"
+signal_strength: "strong"
+notes: "THE PURPOSE OF THIS TASK ORDER IS TO ESTABLISH A DETENTION FACILITY WITHIN THE NORTH LAKE CORRECTIONAL FACILITY IN SUPPORT OF THE PRESIDENT'S DECLARATION OF A NATIONAL EMERGENCY AT THE SOUTHERN BORDER"
+tags:
+- ice-contract
+- mi
+importance: 7
+---
+
+ICE contract.
+
+Recipient: THE GEO GROUP, INC.
+Award ID: 70CDCR25FR0000037
+Amount: $7,350,371.31
+Description: THE PURPOSE OF THIS TASK ORDER IS TO ESTABLISH A DETENTION FACILITY WITHIN THE NORTH LAKE CORRECTIONAL FACILITY IN SUPPORT OF THE PRESIDENT'S DECLARATION OF A NATIONAL EMERGENCY AT THE SOUTHERN BORDER.
+Period: 2025-04-01 to 2025-09-30
+Location: LAKE, MI (FIPS: 26085)

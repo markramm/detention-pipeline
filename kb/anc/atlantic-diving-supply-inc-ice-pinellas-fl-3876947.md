@@ -1,0 +1,30 @@
+---
+id: atlantic-diving-supply-inc-ice-pinellas-fl-3876947
+title: "ATLANTIC DIVING SUPPLY, INC. — ICE PINELLAS, FL $3,876,947"
+type: anc-contract
+county: "PINELLAS"
+state: "FL"
+fips: "12103"
+contractor: "ATLANTIC DIVING SUPPLY, INC."
+parent_anc: ""
+contract_value: "$3,876,947.47"
+contract_type: "federal-contract"
+award_date: "2025-09-29"
+usaspending_id: "70CMSW25FC0000132"
+source: "USAspending.gov"
+signal_strength: "strong"
+notes: "THE AWARD PROVIDES LAW ENFORCEMENT EQUIPMENT (DOUBLE PISTOL MAG POUCH, CHAIN HANDCUFFS, POLYTAC X-FLASHLIGHT) FOR ICE AGENTS TO SUPPORT THE ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS."
+tags:
+- ice-contract
+- fl
+importance: 7
+---
+
+ICE contract.
+
+Recipient: ATLANTIC DIVING SUPPLY, INC.
+Award ID: 70CMSW25FC0000132
+Amount: $3,876,947.47
+Description: THE AWARD PROVIDES LAW ENFORCEMENT EQUIPMENT (DOUBLE PISTOL MAG POUCH, CHAIN HANDCUFFS, POLYTAC X-FLASHLIGHT) FOR ICE AGENTS TO SUPPORT THE ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.
+Period: 2025-09-29 to 2026-03-28
+Location: PINELLAS, FL (FIPS: 12103)

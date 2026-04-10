@@ -1,0 +1,20 @@
+---
+id: 287-g-tfm-eatonville-police-department-fl
+title: '287(g) TFM: Eatonville Police Department (FL)'
+type: 287g-agreement
+tags:
+- 287g
+- tfm
+- fl
+importance: 5
+---
+
+287(g) agreement between ICE and Eatonville Police Department.
+
+Model: TFM
+Signed: June 18, 2025
+County: 
+State: FL
+FIPS: unresolved
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

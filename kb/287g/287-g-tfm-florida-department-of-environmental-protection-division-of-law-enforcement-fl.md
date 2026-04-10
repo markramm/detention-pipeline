@@ -1,0 +1,20 @@
+---
+id: 287-g-tfm-florida-department-of-environmental-protection-division-of-law-enforcement-fl
+title: '287(g) TFM: Florida Department of Environmental Protection, Division of Law Enforcement (FL)'
+type: 287g-agreement
+tags:
+- 287g
+- tfm
+- fl
+importance: 5
+---
+
+287(g) agreement between ICE and Florida Department of Environmental Protection, Division of Law Enforcement.
+
+Model: TFM
+Signed: April 24, 2025
+County: 
+State: FL
+FIPS: unresolved
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

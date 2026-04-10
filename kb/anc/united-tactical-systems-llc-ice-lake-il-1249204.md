@@ -1,0 +1,30 @@
+---
+id: united-tactical-systems-llc-ice-lake-il-1249204
+title: "UNITED TACTICAL SYSTEMS, LLC — ICE LAKE, IL $1,249,204"
+type: anc-contract
+county: "LAKE"
+state: "IL"
+fips: "17097"
+contractor: "UNITED TACTICAL SYSTEMS, LLC"
+parent_anc: ""
+contract_value: "$1,249,203.75"
+contract_type: "federal-contract"
+award_date: "2026-02-23"
+usaspending_id: "70CMSW26FR0000014"
+source: "USAspending.gov"
+signal_strength: "strong"
+notes: "THE DELIVERY AWARD PROVIDES LESS-LETHAL WEAPON OPTIONS TO ARMED AGENTS FOR CONTROL CROWD DEMONSTRATIONS FOR THE ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS AT FORT BENNING, GA."
+tags:
+- ice-contract
+- il
+importance: 7
+---
+
+ICE contract.
+
+Recipient: UNITED TACTICAL SYSTEMS, LLC
+Award ID: 70CMSW26FR0000014
+Amount: $1,249,203.75
+Description: THE DELIVERY AWARD PROVIDES LESS-LETHAL WEAPON OPTIONS TO ARMED AGENTS FOR CONTROL CROWD DEMONSTRATIONS FOR THE ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS AT FORT BENNING, GA.
+Period: 2026-02-23 to 2026-06-22
+Location: LAKE, IL (FIPS: 17097)

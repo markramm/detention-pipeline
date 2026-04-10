@@ -1,0 +1,20 @@
+---
+id: 287-g-tfm-stockdale-marshal-s-office-tx
+title: '287(g) TFM: Stockdale Marshal’s Office (TX)'
+type: 287g-agreement
+tags:
+- 287g
+- tfm
+- tx
+importance: 5
+---
+
+287(g) agreement between ICE and Stockdale Marshal’s Office.
+
+Model: TFM
+Signed: December 11, 2025
+County: Wilson County
+State: TX
+FIPS: 48493
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

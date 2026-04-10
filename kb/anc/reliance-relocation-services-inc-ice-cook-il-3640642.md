@@ -1,0 +1,30 @@
+---
+id: reliance-relocation-services-inc-ice-cook-il-3640642
+title: "RELIANCE RELOCATION SERVICES, INC — ICE COOK, IL $3,640,642"
+type: anc-contract
+county: "COOK"
+state: "IL"
+fips: "17031"
+contractor: "RELIANCE RELOCATION SERVICES, INC"
+parent_anc: ""
+contract_value: "$3,640,641.86"
+contract_type: "federal-contract"
+award_date: "2025-09-01"
+usaspending_id: "70CMSW26FCL000001"
+source: "USAspending.gov"
+signal_strength: "strong"
+notes: "THIS AWARD IS TO DOCUMENT THE ORDER PLACED BY THE OFFICE OF FINANCIAL MANAGEMENT TO PROCURE RELOCATION SERVICES FOR IMMIGRATION AND CUSTOMS ENFORCEMENT EMPLOYEES."
+tags:
+- ice-contract
+- il
+importance: 7
+---
+
+ICE contract.
+
+Recipient: RELIANCE RELOCATION SERVICES, INC
+Award ID: 70CMSW26FCL000001
+Amount: $3,640,641.86
+Description: THIS AWARD IS TO DOCUMENT THE ORDER PLACED BY THE OFFICE OF FINANCIAL MANAGEMENT TO PROCURE RELOCATION SERVICES FOR IMMIGRATION AND CUSTOMS ENFORCEMENT EMPLOYEES.
+Period: 2025-09-01 to 2025-12-09
+Location: COOK, IL (FIPS: 17031)

@@ -1,0 +1,20 @@
+---
+id: 287-g-tfm-washburn-police-department-mo
+title: '287(g) TFM: Washburn Police Department (MO)'
+type: 287g-agreement
+tags:
+- 287g
+- tfm
+- mo
+importance: 5
+---
+
+287(g) agreement between ICE and Washburn Police Department.
+
+Model: TFM
+Signed: November 4, 2025
+County: Barry County
+State: MO
+FIPS: 29009
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

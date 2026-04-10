@@ -1,0 +1,30 @@
+---
+id: ardent-group-llc-ice-summit-co-9296000
+title: "ARDENT GROUP, LLC — ICE SUMMIT, CO $9,296,000"
+type: anc-contract
+county: "SUMMIT"
+state: "CO"
+fips: "08117"
+contractor: "ARDENT GROUP, LLC"
+parent_anc: ""
+contract_value: "$9,296,000.00"
+contract_type: "federal-contract"
+award_date: "2025-10-25"
+usaspending_id: "70CDCR26C00000003"
+source: "USAspending.gov"
+signal_strength: "strong"
+notes: "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE ICE HEALTH SERVICE CORPS WITH A PHARMACY BENEFIT MANAGER TO MANAGE FORMULARY, CLAIMS PROCESSING, PHARMACY NETWORK ADMINISTRATION, AND BENEFIT PLAN DESIGN."
+tags:
+- ice-contract
+- co
+importance: 7
+---
+
+ICE contract.
+
+Recipient: ARDENT GROUP, LLC
+Award ID: 70CDCR26C00000003
+Amount: $9,296,000.00
+Description: THE PURPOSE OF THIS CONTRACT IS TO PROVIDE ICE HEALTH SERVICE CORPS WITH A PHARMACY BENEFIT MANAGER TO MANAGE FORMULARY, CLAIMS PROCESSING, PHARMACY NETWORK ADMINISTRATION, AND BENEFIT PLAN DESIGN.
+Period: 2025-10-25 to 2026-04-24
+Location: SUMMIT, CO (FIPS: 08117)

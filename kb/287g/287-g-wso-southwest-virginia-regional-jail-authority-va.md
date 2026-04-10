@@ -1,0 +1,20 @@
+---
+id: 287-g-wso-southwest-virginia-regional-jail-authority-va
+title: '287(g) WSO: Southwest Virginia Regional Jail Authority (VA)'
+type: 287g-agreement
+tags:
+- 287g
+- wso
+- va
+importance: 5
+---
+
+287(g) agreement between ICE and Southwest Virginia Regional Jail Authority.
+
+Model: WSO
+Signed: May 8, 2025
+County: 
+State: VA
+FIPS: unresolved
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

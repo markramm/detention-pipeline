@@ -1,0 +1,20 @@
+---
+id: 287-g-wso-carbon-county-sheriff-s-office-wy
+title: '287(g) WSO: Carbon County Sheriff’s Office (WY)'
+type: 287g-agreement
+tags:
+- 287g
+- wso
+- wy
+importance: 5
+---
+
+287(g) agreement between ICE and Carbon County Sheriff’s Office.
+
+Model: WSO
+Signed: June 11, 2025
+County: Carbon County
+State: WY
+FIPS: 56007
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

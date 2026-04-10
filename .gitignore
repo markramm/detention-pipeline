@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.pyrite/
+.DS_Store
+/tmp/

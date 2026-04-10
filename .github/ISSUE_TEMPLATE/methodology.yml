@@ -1,0 +1,23 @@
+name: Methodology Discussion
+description: Propose changes to scoring weights, signal types, or analysis approach
+title: "[METHODOLOGY] "
+labels: ["methodology"]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you change?
+      description: |
+        Describe the proposed change to scoring, weights, signal types, or analysis.
+        If suggesting a new signal type, include: what it detects, proposed weight,
+        and where the data comes from.
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why?
+      description: What evidence or reasoning supports this change?
+    validations:
+      required: true

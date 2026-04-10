@@ -1,0 +1,27 @@
+name: Data Correction
+description: Report an error in existing data or scoring
+title: "[CORRECTION] "
+labels: ["correction"]
+body:
+  - type: input
+    id: county
+    attributes:
+      label: County / Entry
+      description: Which county or entry has the error?
+      placeholder: "County name or entry filename"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What's wrong?
+      description: Describe the error and what the correct information is.
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source for correction
+      placeholder: https://

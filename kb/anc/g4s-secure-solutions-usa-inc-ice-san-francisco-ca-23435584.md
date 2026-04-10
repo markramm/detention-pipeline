@@ -1,0 +1,30 @@
+---
+id: g4s-secure-solutions-usa-inc-ice-san-francisco-ca-23435584
+title: "G4S SECURE SOLUTIONS (USA) INC. — ICE SAN FRANCISCO, CA $23,435,584"
+type: anc-contract
+county: "SAN FRANCISCO"
+state: "CA"
+fips: "06075"
+contractor: "G4S SECURE SOLUTIONS (USA) INC."
+parent_anc: ""
+contract_value: "$23,435,583.99"
+contract_type: "federal-contract"
+award_date: "2025-09-30"
+usaspending_id: "70CDCR25FR0000120"
+source: "USAspending.gov"
+signal_strength: "strong"
+notes: "THE PURPOSE OF THIS AWARD IS TO PROVIDE GROUND TRANSPORTATION SERVICES IN SUPPORT OF ENFORCEMENT AND REMOVAL OPERATIONS (ERO) IN THE SAN FRANCISCO (SFR) AREA OF RESPONSIBILITY (AOR)."
+tags:
+- ice-contract
+- ca
+importance: 7
+---
+
+ICE contract.
+
+Recipient: G4S SECURE SOLUTIONS (USA) INC.
+Award ID: 70CDCR25FR0000120
+Amount: $23,435,583.99
+Description: THE PURPOSE OF THIS AWARD IS TO PROVIDE GROUND TRANSPORTATION SERVICES IN SUPPORT OF ENFORCEMENT AND REMOVAL OPERATIONS (ERO) IN THE SAN FRANCISCO (SFR) AREA OF RESPONSIBILITY (AOR).
+Period: 2025-09-30 to 2026-09-29
+Location: SAN FRANCISCO, CA (FIPS: 06075)

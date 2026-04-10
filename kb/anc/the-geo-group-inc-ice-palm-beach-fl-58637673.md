@@ -1,0 +1,30 @@
+---
+id: the-geo-group-inc-ice-palm-beach-fl-58637673
+title: "THE GEO GROUP, INC. — ICE PALM BEACH, FL $58,637,673"
+type: anc-contract
+county: "PALM BEACH"
+state: "FL"
+fips: "12099"
+contractor: "THE GEO GROUP, INC."
+parent_anc: ""
+contract_value: "$58,637,673.24"
+contract_type: "federal-contract"
+award_date: "2025-03-01"
+usaspending_id: "70CDCR25FR0000029"
+source: "USAspending.gov"
+signal_strength: "strong"
+notes: "THE PURPOSE OF THIS NEW TASK ORDER IS TO PROVIDE THE FUNDING NECESSARY FOR TRANSITION, DETENTION, AND TRANSPORTATION SERVICES FOR HOUSING ICE ALIENS AT THE DELANEY HALL CONTRACT DETENTION FACILITY IN "
+tags:
+- ice-contract
+- fl
+importance: 7
+---
+
+ICE contract.
+
+Recipient: THE GEO GROUP, INC.
+Award ID: 70CDCR25FR0000029
+Amount: $58,637,673.24
+Description: THE PURPOSE OF THIS NEW TASK ORDER IS TO PROVIDE THE FUNDING NECESSARY FOR TRANSITION, DETENTION, AND TRANSPORTATION SERVICES FOR HOUSING ICE ALIENS AT THE DELANEY HALL CONTRACT DETENTION FACILITY IN NEWARK NEW JERSEY.
+Period: 2025-03-01 to 2026-02-28
+Location: PALM BEACH, FL (FIPS: 12099)

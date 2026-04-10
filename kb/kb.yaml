@@ -1,0 +1,421 @@
+name: detention-pipeline-research
+description: >
+  Early-warning intelligence on the detention facility expansion pipeline.
+  Tracks the full spectrum of signals that a county is being pitched for
+  ICE detention: county commission activity, budget distress, real estate
+  traces, consultant job postings, sheriff conference networks, Alaska
+  Native Corporation contract activity, 287(g) agreements with local law
+  enforcement, communications discipline patterns, and state legislative
+  responses. Every entry carries a county FIPS code
+  for cross-referencing against igsa-holders. The Sabot Consulting playbook
+  — target distressed rural counties, monetize county-owned buildings,
+  route through IGSA agreements — is the primary pattern being tracked.
+
+kb_type: investigative-research
+
+guidelines:
+  contributing: |
+    This KB tracks forward indicators of detention facility expansion.
+    Each entry represents one signal — a commission agenda item, a budget
+    shortfall, a warehouse assessment, a job posting, a contract award.
+    The goal is pattern detection: when multiple signal types converge on
+    the same county, that county is likely being pitched.
+
+    Every entry MUST have county, state, and FIPS code. The FIPS code is
+    the join key that makes cross-referencing work.
+
+    Source everything. County commission minutes, local news coverage,
+    USAspending.gov, job boards, sheriff association newsletters, court
+    records. Tier 1 sources (government records, FOIA) preferred.
+
+  quality: |
+    Sourcing tiers:
+    - Tier 1: County commission minutes/agendas, government contracts
+      (USAspending.gov), court records, FOIA releases, official job postings
+    - Tier 2: Local newspaper coverage, investigative journalism, advocacy
+      org reports (ACLU, NIJC, Freedom for Immigrants)
+    - Tier 3: Social media, opinion journalism, anonymous tips
+
+    Every entry must have:
+    - County, state, and FIPS code
+    - At least one source with date and URL where possible
+    - Signal strength assessment (weak/moderate/strong)
+
+  voice: |
+    Investigative — precise, sourced, geographically specific. The subject
+    is the PIPELINE, not individual villainy. Track the pattern: who pitched,
+    what building, what vote, what budget gap.
+
+goals:
+  primary: |
+    Detect counties being pitched for ICE detention BEFORE the deal closes.
+    Build enough signal density per county to warn communities and journalists
+    while there is still time for democratic response.
+  core_thesis: |
+    Detention consultants like Sabot target counties with budget distress,
+    cooperative sheriffs, and existing infrastructure (vacant warehouses,
+    county-owned buildings). The pitch follows a playbook: sheriff conference
+    recruitment, closed-session presentations, NDA-protected negotiations,
+    then a commission vote framed as fiscal salvation. By the time the public
+    knows, the deal is nearly done. This KB aims to surface the signals early.
+
+policies:
+  qa_on_write: false
+
+relationship_types:
+  - name: targets_county
+    description: "Signal targets or involves this county"
+  - name: pitched_by
+    description: "County pitched by this consultant/contractor"
+  - name: operated_by
+    description: "Facility would be operated by this entity"
+  - name: funded_by
+    description: "Backed by this funding mechanism (bonds, federal contract, etc.)"
+  - name: resisted_by
+    description: "Opposed by this community group or legal challenge"
+  - name: cross_references
+    description: "Related entry in igsa-holders or detention-industrial KB"
+
+types:
+  commission-activity:
+    description: "County commission agenda item, meeting minute, or vote related to detention"
+    subdirectory: commission
+    required: [title, county, state, fips, date]
+    optional: [agenda_item, meeting_type, vote_result, key_actors, source, signal_strength, notes, tags, importance]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      date:
+        type: date
+      agenda_item:
+        type: string
+      meeting_type:
+        type: select
+        values: [regular-session, closed-session, special-session, workshop, public-hearing, unknown]
+      vote_result:
+        type: string
+      key_actors:
+        type: list
+      source:
+        type: string
+      signal_strength:
+        type: select
+        values: [weak, moderate, strong]
+      notes:
+        type: text
+    ai_instructions: >
+      A county commission meeting signal. Lead with county, date, and what
+      was discussed. Keywords: ICE, detention, IGSA, intergovernmental
+      service agreement, bed capacity, Sabot. Closed-session items about
+      "real estate" or "economic development" are often the first trace.
+
+  budget-distress:
+    description: "County budget shortfall, failed tax levy, or economic distress signal"
+    subdirectory: budget
+    required: [title, county, state, fips]
+    optional: [shortfall_amount, tax_action, population_trend, major_employer_loss, existing_corrections, source, signal_strength, notes, tags, importance]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      shortfall_amount:
+        type: string
+      tax_action:
+        type: select
+        values: [failed-levy, narrow-pass, proposed-increase, millage-cap, none]
+      population_trend:
+        type: select
+        values: [declining, stagnant, growing, unknown]
+      major_employer_loss:
+        type: string
+      existing_corrections:
+        type: text
+      source:
+        type: string
+      signal_strength:
+        type: select
+        values: [weak, moderate, strong]
+      notes:
+        type: text
+    ai_instructions: >
+      A budget distress signal. Sabot targets counties with shortfalls.
+      Bradford County FL had a $5.25-5.5M shortfall. Kemmerer WY was
+      near a closing coal plant. Lead with the county, the gap, and what
+      infrastructure already exists.
+
+  real-estate-trace:
+    description: "Warehouse, industrial property, or county-owned building that could be converted to detention"
+    subdirectory: real-estate
+    required: [title, county, state, fips]
+    optional: [address, sqft, owner, owner_type, property_type, bond_activity, assessment_activity, source, status, signal_strength, notes, tags, importance]
+    fields:
+      address:
+        type: string
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      sqft:
+        type: string
+      owner:
+        type: string
+      owner_type:
+        type: select
+        values: [private, corporate, government, county-owned, reit, unknown]
+      property_type:
+        type: select
+        values: [warehouse, distribution-center, manufacturing, industrial-flex, cold-storage, logistics, county-building, vacant-lot, unknown]
+      bond_activity:
+        type: text
+      assessment_activity:
+        type: text
+      source:
+        type: string
+      status:
+        type: select
+        values: [available, leased, vacant, for-sale, county-owned, under-assessment, unknown]
+      signal_strength:
+        type: select
+        values: [weak, moderate, strong]
+      notes:
+        type: text
+    ai_instructions: >
+      A real estate signal. The Bradford County "Douglas Building" was
+      already county property — Sabot helps counties monetize what they
+      own. County-owned vacant buildings are the strongest signal. Bond
+      issuance discussions for jail/detention construction are early traces.
+
+  job-posting:
+    description: "Sabot or contractor job posting indicating active pipeline work"
+    subdirectory: jobs
+    required: [title, state]
+    optional: [county, fips, employer, position_title, location, requirements, posting_date, posting_url, source, signal_strength, notes, tags, importance]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      employer:
+        type: string
+      position_title:
+        type: string
+      location:
+        type: string
+      requirements:
+        type: text
+      posting_date:
+        type: date
+      posting_url:
+        type: string
+      source:
+        type: string
+      signal_strength:
+        type: select
+        values: [weak, moderate, strong]
+      notes:
+        type: text
+    ai_instructions: >
+      A job posting signal. "ICE Detention Compliance Operations Consultant"
+      in a new state means a new pitch. Requirements mentioning "NDS 2025"
+      (National Detention Standards) are specific to ICE work. Geographic
+      specificity in postings reveals where the pipeline is active.
+
+  sheriff-network:
+    description: "Sheriff conference attendance, NSA network activity, or sheriff-to-commission pitch"
+    subdirectory: sheriff
+    required: [title, county, state, fips]
+    optional: [sheriff_name, conference, date, pitch_language, model_counties_cited, source, signal_strength, notes, tags, importance]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      sheriff_name:
+        type: string
+      conference:
+        type: string
+      date:
+        type: date
+      pitch_language:
+        type: text
+      model_counties_cited:
+        type: list
+      source:
+        type: string
+      signal_strength:
+        type: select
+        values: [weak, moderate, strong]
+      notes:
+        type: text
+    ai_instructions: >
+      A sheriff network signal. Sabot recruits at NSA conferences and state
+      sheriffs' association meetings. Sheriffs citing Baker County FL or
+      Glades County FL as models are using Sabot's pitch deck. Sheriffs
+      raising "detention revenue" or "federal partnerships" after conference
+      attendance is a strong signal.
+
+  anc-contract:
+    description: "Alaska Native Corporation contract activity — Akima/Nana or other ANC subsidiary"
+    subdirectory: anc
+    required: [title, county, state, fips]
+    optional: [contractor, parent_anc, contract_value, contract_type, award_date, usaspending_id, source, signal_strength, notes, tags, importance]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      contractor:
+        type: string
+      parent_anc:
+        type: string
+      contract_value:
+        type: string
+      contract_type:
+        type: string
+      award_date:
+        type: date
+      usaspending_id:
+        type: string
+      source:
+        type: string
+      signal_strength:
+        type: select
+        values: [weak, moderate, strong]
+      notes:
+        type: text
+    ai_instructions: >
+      An ANC contract signal. Alaska Native corporations get sole-source
+      federal contracts under SBA 8(a). In Kemmerer WY, the operating
+      partner was Akima (Nana Regional Corporation subsidiary). ANC
+      subsidiaries appearing in rural counties with no prior federal
+      contracting activity is a strong signal.
+
+  comms-discipline:
+    description: "Communications discipline indicator — polished messaging, NDA citations, opposition framing"
+    subdirectory: comms
+    required: [title, county, state, fips]
+    optional: [indicator_type, speaker, language_sample, date, source, signal_strength, notes, tags, importance]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      indicator_type:
+        type: select
+        values: [polished-messaging, nda-citation, opposition-framing, premature-plans, information-withholding, unknown]
+      speaker:
+        type: string
+      language_sample:
+        type: text
+      date:
+        type: date
+      source:
+        type: string
+      signal_strength:
+        type: select
+        values: [weak, moderate, strong]
+      notes:
+        type: text
+    ai_instructions: >
+      A communications discipline signal. When officials suddenly use
+      polished language about "public safety mission" and "fiscal
+      sustainability," that's consulting output. NDAs cited to withhold
+      public information (Social Circle GA precedent). Opposition framed
+      as "NGO pressure." Detailed architectural plans at "information-
+      gathering stage" meetings.
+
+  287g-agreement:
+    description: "287(g) agreement between ICE and a local law enforcement agency"
+    subdirectory: 287g
+    required: [title, state]
+    optional: [county, fips, agency, agency_type, model, signed_date, source, signal_strength, notes, tags, importance]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      agency:
+        type: string
+      agency_type:
+        type: select
+        values: [county-sheriff, municipal-pd, state-agency, tribal, unknown]
+      model:
+        type: select
+        values: [JEM, TFM, WSO]
+      signed_date:
+        type: date
+      source:
+        type: string
+      signal_strength:
+        type: select
+        values: [weak, moderate, strong]
+      notes:
+        type: text
+    ai_instructions: >
+      A 287(g) agreement signal. Section 287(g) of the INA authorizes ICE
+      to delegate immigration enforcement to local law enforcement. These
+      agreements indicate institutional willingness to cooperate with ICE.
+      County sheriffs with 287(g) are strong signals — they have jail access
+      and county-wide jurisdiction. Three models: JEM (Jail Enforcement),
+      TFM (Task Force — patrol-level enforcement), WSO (Warrant Service
+      Officer — detainer execution). Counties with both 287(g) and IGSA
+      show deep institutional buy-in to immigration enforcement.
+
+  legislative-trace:
+    description: "State legislation to block or enable detention agreements"
+    subdirectory: legislative
+    required: [title, state]
+    optional: [county, fips, bill_number, bill_title, status, sponsor, effect, source, signal_strength, notes, tags, importance]
+    fields:
+      county:
+        type: string
+      state:
+        type: string
+      fips:
+        type: string
+      bill_number:
+        type: string
+      bill_title:
+        type: string
+      status:
+        type: select
+        values: [introduced, committee, passed-one-chamber, passed, signed, vetoed, failed, unknown]
+      sponsor:
+        type: string
+      effect:
+        type: select
+        values: [blocks-igsa, enables-igsa, restricts-igsa, transparency-requirement, unknown]
+      source:
+        type: string
+      signal_strength:
+        type: select
+        values: [weak, moderate, strong]
+      notes:
+        type: text
+    ai_instructions: >
+      A state legislative signal. NM advanced HB 9 (Immigrant Safety Act)
+      banning public bodies from entering ICE detention agreements. States
+      introducing similar legislation are states where the pitch is active.
+      States WITHOUT such protections are the open field.
+
+validation:
+  enforce: true
