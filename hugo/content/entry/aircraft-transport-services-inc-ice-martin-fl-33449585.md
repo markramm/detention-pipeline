@@ -1,7 +1,5 @@
 ---
 title: "AIRCRAFT TRANSPORT SERVICES, INC. — ICE MARTIN, FL $33,449,585"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "12085"
 state: "FL"
 county: "MARTIN"
 repo_path: "kb/anc/aircraft-transport-services-inc-ice-martin-fl-33449585.md"
-signals: ["anc-contract"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,16 +1,19 @@
 ---
 title: "Pike County Jail — Pike, PA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "42103"
 state: "PA"
 county: "Pike"
 repo_path: "kb/facilities/pike-county-jail-pike-pa.md"
-signals: ["igsa"]
-states: ["PA"]
+type: "entry"
+layout: "single"
+facility_name: "Pike County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/pike-county-jail-pike-pa/"
 ---
 
 IGSA detention facility: Pike County Jail in Pike County, PA.

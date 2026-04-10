@@ -1,7 +1,5 @@
 ---
 title: "Hudspeth County, TX — USDA Distress Profile (5 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "48229"
 state: "TX"
 county: "Hudspeth"
 repo_path: "kb/budget/hudspeth-county-tx-usda-distress-profile-5-indicators.md"
-signals: ["budget-distress"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Hudspeth County, TX with 5 distress indicators:

@@ -1,16 +1,20 @@
 ---
 title: "CoreCivic, Inc. (formerly CCA)"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/corecivic.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "private-prison"
+headquarters: "Brentwood, Tennessee"
+founded: "1983"
+status: "active"
+canonical: "/players/contractors/corecivic/"
 ---
 
 # CoreCivic, Inc.

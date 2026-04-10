@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Hughes County Sheriff’s Office (SD)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "46065"
 state: "SD"
 county: "Hughes County"
 repo_path: "kb/287g/287-g-wso-hughes-county-sheriff-s-office-sd.md"
-signals: ["287g-agreement"]
-states: ["SD"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Hughes County Sheriff’s Office.

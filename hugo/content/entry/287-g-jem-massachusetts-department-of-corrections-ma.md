@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Massachusetts Department of Corrections (MA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "MA"
 county: ""
 repo_path: "kb/287g/287-g-jem-massachusetts-department-of-corrections-ma.md"
-signals: ["287g-agreement"]
-states: ["MA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Massachusetts Department of Corrections.

@@ -1,7 +1,5 @@
 ---
 title: "HENDRICK MOTORSPORTS LLC — ICE CABARRUS, NC $1,468,500"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "37025"
 state: "NC"
 county: "CABARRUS"
 repo_path: "kb/anc/hendrick-motorsports-llc-ice-cabarrus-nc-1468500.md"
-signals: ["anc-contract"]
-states: ["NC"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,7 +1,5 @@
 ---
 title: "KCORP RELIANCE COMPANY, INC. — ICE MUSCOGEE, GA $4,939,517"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "13215"
 state: "GA"
 county: "MUSCOGEE"
 repo_path: "kb/anc/kcorp-reliance-company-inc-ice-muscogee-ga-4939517.md"
-signals: ["anc-contract"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

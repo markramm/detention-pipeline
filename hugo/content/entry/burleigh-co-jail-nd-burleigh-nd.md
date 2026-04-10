@@ -1,16 +1,19 @@
 ---
 title: "Burleigh Co. Jail, ND — Burleigh, ND"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "38015"
 state: "ND"
 county: "Burleigh"
 repo_path: "kb/facilities/burleigh-co-jail-nd-burleigh-nd.md"
-signals: ["igsa"]
-states: ["ND"]
+type: "entry"
+layout: "single"
+facility_name: "Burleigh Co. Jail, ND"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/burleigh-co-jail-nd-burleigh-nd/"
 ---
 
 IGSA detention facility: Burleigh Co. Jail, ND in Burleigh County, ND.

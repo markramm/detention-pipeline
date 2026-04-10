@@ -1,16 +1,14 @@
 ---
 title: "LexisNexis LEIDS — $22.1M ICE + $15.9M CBP database subscription"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/lexisnexis-leids-ice.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # LexisNexis LEIDS Contracts

@@ -1,16 +1,14 @@
 ---
 title: "The IGSA Model Shift — How the Warehouse Pause Accelerates County-Led Detention"
-type: entry
-layout: single
 entry_type: "note"
-signal_label: "note"
-signal_color: "#666"
+signal_label: "Research Note"
+signal_color: "#6a6a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/igsa-model-shift-warehouse-pause-accelerant.md"
-signals: ["note"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # The IGSA Model Shift

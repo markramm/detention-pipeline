@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Mississippi Office of the State Auditor (MS)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "28049"
 state: "MS"
 county: "Hinds County"
 repo_path: "kb/287g/287-g-tfm-mississippi-office-of-the-state-auditor-ms.md"
-signals: ["287g-agreement"]
-states: ["MS"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Mississippi Office of the State Auditor.

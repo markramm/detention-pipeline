@@ -1,16 +1,19 @@
 ---
 title: "Yavapai County Jail — Yavapai, AZ"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "04025"
 state: "AZ"
 county: "Yavapai"
 repo_path: "kb/facilities/yavapai-county-jail-yavapai-az.md"
-signals: ["igsa"]
-states: ["AZ"]
+type: "entry"
+layout: "single"
+facility_name: "Yavapai County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/yavapai-county-jail-yavapai-az/"
 ---
 
 IGSA detention facility: Yavapai County Jail in Yavapai County, AZ.

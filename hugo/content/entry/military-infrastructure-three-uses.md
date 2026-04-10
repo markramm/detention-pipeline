@@ -1,16 +1,14 @@
 ---
 title: "Military Infrastructure in the Detention System — Three Distinct Uses"
-type: entry
-layout: single
 entry_type: "note"
-signal_label: "note"
-signal_color: "#666"
+signal_label: "Research Note"
+signal_color: "#6a6a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/military-infrastructure-three-uses.md"
-signals: ["note"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Military Infrastructure in the Detention System

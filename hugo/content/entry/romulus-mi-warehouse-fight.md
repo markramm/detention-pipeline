@@ -1,16 +1,19 @@
 ---
 title: "Romulus MI — State AG and City Sue to Block ICE Warehouse Near Schools"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "Michigan"
 county: "Wayne"
 repo_path: "kb/industry/county-fights/romulus-mi-warehouse.md"
-signals: ["county-fight"]
-states: ["Michigan"]
+type: "entry"
+layout: "single"
+status: "litigation"
+outcome: "Ongoing litigation. AG Nessel and City of Romulus filed suit March 24, 2026."
+vote_tally: "N/A — federal purchase, no local vote"
+facility: "romulus-mi-warehouse"
+canonical: "/fights/romulus-mi-warehouse-fight/"
 ---
 
 # Romulus, Michigan: Suing the Federal Government

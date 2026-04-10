@@ -1,7 +1,5 @@
 ---
 title: "ACCENTURE FEDERAL SERVICES LLC — ICE ALEXANDRIA CITY, VA $41,441,112"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: ""
 state: "VA"
 county: "ALEXANDRIA CITY"
 repo_path: "kb/anc/accenture-federal-services-llc-ice-alexandria-city-va-41441112.md"
-signals: ["anc-contract"]
-states: ["VA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

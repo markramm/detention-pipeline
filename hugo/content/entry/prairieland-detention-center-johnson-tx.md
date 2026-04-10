@@ -1,16 +1,19 @@
 ---
 title: "Prairieland Detention Center — Johnson, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48251"
 state: "TX"
 county: "Johnson"
 repo_path: "kb/facilities/prairieland-detention-center-johnson-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Prairieland Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/prairieland-detention-center-johnson-tx/"
 ---
 
 IGSA detention facility: Prairieland Detention Center in Johnson County, TX.

@@ -1,7 +1,5 @@
 ---
 title: "PALANTIR TECHNOLOGIES INC. — ICE ARLINGTON, VA $150,703,825"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "51013"
 state: "VA"
 county: "ARLINGTON"
 repo_path: "kb/anc/palantir-technologies-inc-ice-arlington-va-150703825.md"
-signals: ["anc-contract"]
-states: ["VA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

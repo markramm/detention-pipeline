@@ -1,16 +1,19 @@
 ---
 title: "Washakie County Jail — Washakie, WY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "56043"
 state: "WY"
 county: "Washakie"
 repo_path: "kb/facilities/washakie-county-jail-washakie-wy.md"
-signals: ["igsa"]
-states: ["WY"]
+type: "entry"
+layout: "single"
+facility_name: "Washakie County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/washakie-county-jail-washakie-wy/"
 ---
 
 IGSA detention facility: Washakie County Jail in Washakie County, WY.

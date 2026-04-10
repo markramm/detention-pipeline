@@ -1,16 +1,19 @@
 ---
 title: "Nassau County Jail — Nassau, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12089"
 state: "FL"
 county: "Nassau"
 repo_path: "kb/facilities/nassau-county-jail-nassau-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Nassau County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/nassau-county-jail-nassau-fl/"
 ---
 
 IGSA detention facility: Nassau County Jail in Nassau County, FL.

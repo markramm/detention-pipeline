@@ -1,16 +1,19 @@
 ---
 title: "Niagara County Jail — Niagara, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36063"
 state: "NY"
 county: "Niagara"
 repo_path: "kb/facilities/niagara-county-jail-niagara-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Niagara County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/niagara-county-jail-niagara-ny/"
 ---
 
 IGSA detention facility: Niagara County Jail in Niagara County, NY.

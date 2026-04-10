@@ -1,16 +1,19 @@
 ---
 title: "Park County Det Center — Park, MT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "30067"
 state: "MT"
 county: "Park"
 repo_path: "kb/facilities/park-county-det-center-park-mt.md"
-signals: ["igsa"]
-states: ["MT"]
+type: "entry"
+layout: "single"
+facility_name: "Park County Det Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/park-county-det-center-park-mt/"
 ---
 
 IGSA detention facility: Park County Det Center in Park County, MT.

@@ -188,10 +188,11 @@ body {
       <span class="brand-tag">Early Warning</span>
     </a>
     <nav class="site-nav">
-      <a href="/" {{ if eq .RelPermalink "/" }}class="active"{{ end }}>Map</a>
+      <a href="/map/" {{ if hasPrefix .RelPermalink "/map" }}class="active"{{ end }}>Map</a>
+      <a href="/fights/" {{ if hasPrefix .RelPermalink "/fights" }}class="active"{{ end }}>Fights</a>
       <a href="/county/" {{ if hasPrefix .RelPermalink "/county" }}class="active"{{ end }}>Counties</a>
-      <a href="/signals/" {{ if hasPrefix .RelPermalink "/signals" }}class="active"{{ end }}>Signals</a>
-      <a href="/state/" {{ if hasPrefix .RelPermalink "/state" }}class="active"{{ end }}>States</a>
+      <a href="/players/" {{ if hasPrefix .RelPermalink "/players" }}class="active"{{ end }}>Players</a>
+      <a href="/facilities/" {{ if hasPrefix .RelPermalink "/facilities" }}class="active"{{ end }}>Facilities</a>
       <a href="/methodology/" {{ if eq .RelPermalink "/methodology/" }}class="active"{{ end }}>Methodology</a>
       <a href="/contribute/" {{ if eq .RelPermalink "/contribute/" }}class="active"{{ end }}>Contribute</a>
     </nav>

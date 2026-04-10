@@ -1,7 +1,5 @@
 ---
 title: "Mississippi County, MO — USDA Distress Profile (4 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "29133"
 state: "MO"
 county: "Mississippi"
 repo_path: "kb/budget/mississippi-county-mo-usda-distress-profile-4-indicators.md"
-signals: ["budget-distress"]
-states: ["MO"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Mississippi County, MO with 4 distress indicators:

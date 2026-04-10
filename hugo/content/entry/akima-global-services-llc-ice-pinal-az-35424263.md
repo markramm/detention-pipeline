@@ -1,7 +1,5 @@
 ---
 title: "AKIMA GLOBAL SERVICES, LLC — ICE PINAL, AZ $35,424,263"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "04021"
 state: "AZ"
 county: "PINAL"
 repo_path: "kb/anc/akima-global-services-llc-ice-pinal-az-35424263.md"
-signals: ["anc-contract"]
-states: ["AZ"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

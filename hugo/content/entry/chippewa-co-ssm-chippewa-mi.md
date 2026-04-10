@@ -1,16 +1,19 @@
 ---
 title: "Chippewa Co., SSM — Chippewa, MI"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "26033"
 state: "MI"
 county: "Chippewa"
 repo_path: "kb/facilities/chippewa-co-ssm-chippewa-mi.md"
-signals: ["igsa"]
-states: ["MI"]
+type: "entry"
+layout: "single"
+facility_name: "Chippewa Co., SSM"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/chippewa-co-ssm-chippewa-mi/"
 ---
 
 IGSA detention facility: Chippewa Co., SSM in Chippewa County, MI.

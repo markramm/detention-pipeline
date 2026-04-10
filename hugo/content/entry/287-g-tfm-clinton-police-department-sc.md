@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Clinton Police Department (SC)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "45059"
 state: "SC"
 county: "Laurens County"
 repo_path: "kb/287g/287-g-tfm-clinton-police-department-sc.md"
-signals: ["287g-agreement"]
-states: ["SC"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Clinton Police Department.

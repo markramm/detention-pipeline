@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Broome County Sheriff’s Office (NY)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "36007"
 state: "NY"
 county: "Broome County"
 repo_path: "kb/287g/287-g-wso-broome-county-sheriff-s-office-ny.md"
-signals: ["287g-agreement"]
-states: ["NY"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Broome County Sheriff’s Office.

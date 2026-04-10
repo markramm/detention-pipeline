@@ -1,7 +1,5 @@
 ---
 title: "G4S SECURE SOLUTIONS (USA) INC. — ICE BEXAR, TX $32,216,731"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "48029"
 state: "TX"
 county: "BEXAR"
 repo_path: "kb/anc/g4s-secure-solutions-usa-inc-ice-bexar-tx-32216731.md"
-signals: ["anc-contract"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

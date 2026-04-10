@@ -1,16 +1,19 @@
 ---
 title: "Bedford County Jail — Bedford, PA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "42009"
 state: "PA"
 county: "Bedford"
 repo_path: "kb/facilities/bedford-county-jail-bedford-pa.md"
-signals: ["igsa"]
-states: ["PA"]
+type: "entry"
+layout: "single"
+facility_name: "Bedford County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/bedford-county-jail-bedford-pa/"
 ---
 
 IGSA detention facility: Bedford County Jail in Bedford County, PA.

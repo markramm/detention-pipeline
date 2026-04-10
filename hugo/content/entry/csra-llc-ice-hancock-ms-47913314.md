@@ -1,7 +1,5 @@
 ---
 title: "CSRA LLC — ICE HANCOCK, MS $47,913,314"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "28045"
 state: "MS"
 county: "HANCOCK"
 repo_path: "kb/anc/csra-llc-ice-hancock-ms-47913314.md"
-signals: ["anc-contract"]
-states: ["MS"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,16 +1,20 @@
 ---
 title: "MVM, Inc."
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/mvm-inc.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "transportation"
+headquarters: "Ashburn, Virginia"
+founded: "1979"
+status: "active"
+canonical: "/players/contractors/mvm-inc/"
 ---
 
 # MVM, Inc.

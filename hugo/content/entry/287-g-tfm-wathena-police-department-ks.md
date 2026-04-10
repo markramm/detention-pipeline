@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Wathena Police Department (KS)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "20043"
 state: "KS"
 county: "Doniphan County"
 repo_path: "kb/287g/287-g-tfm-wathena-police-department-ks.md"
-signals: ["287g-agreement"]
-states: ["KS"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Wathena Police Department.

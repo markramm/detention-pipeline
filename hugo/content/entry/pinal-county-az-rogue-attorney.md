@@ -1,16 +1,19 @@
 ---
 title: "Pinal County AZ — County Attorney Signs Rogue 287(g), Board Declares It Illegal"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "Arizona"
 county: "Pinal"
 repo_path: "kb/industry/county-fights/pinal-county-az-rogue-attorney.md"
-signals: ["county-fight"]
-states: ["Arizona"]
+type: "entry"
+layout: "single"
+status: "litigation"
+outcome: "Active litigation in Maricopa County Superior Court (transferred from Pinal). TRO expired when venue transferred; Board seeking preliminary injunction. Status conference April 9, 2026. Miller's top investigator (Richard 'Hank' Mueller) is on Arizona's Brady list."
+vote_tally: "Board of Supervisors unanimously declared agreement illegal and void"
+facility: "null"
+canonical: "/fights/pinal-county-az-rogue-attorney/"
 ---
 
 # Pinal County: When the County Attorney Goes Rogue

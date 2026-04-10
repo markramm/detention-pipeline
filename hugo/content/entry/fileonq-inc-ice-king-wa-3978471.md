@@ -1,7 +1,5 @@
 ---
 title: "FILEONQ, INC — ICE KING, WA $3,978,471"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "53033"
 state: "WA"
 county: "KING"
 repo_path: "kb/anc/fileonq-inc-ice-king-wa-3978471.md"
-signals: ["anc-contract"]
-states: ["WA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

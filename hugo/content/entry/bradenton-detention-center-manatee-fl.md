@@ -1,16 +1,19 @@
 ---
 title: "Bradenton Detention Center — Manatee, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12081"
 state: "FL"
 county: "Manatee"
 repo_path: "kb/facilities/bradenton-detention-center-manatee-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Bradenton Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/bradenton-detention-center-manatee-fl/"
 ---
 
 IGSA detention facility: Bradenton Detention Center in Manatee County, FL.

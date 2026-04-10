@@ -1,16 +1,19 @@
 ---
 title: "Monroe County Jail — Monroe, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36055"
 state: "NY"
 county: "Monroe"
 repo_path: "kb/facilities/monroe-county-jail-monroe-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Monroe County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/monroe-county-jail-monroe-ny/"
 ---
 
 IGSA detention facility: Monroe County Jail in Monroe County, NY.

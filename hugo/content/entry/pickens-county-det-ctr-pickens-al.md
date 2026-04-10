@@ -1,16 +1,19 @@
 ---
 title: "Pickens County Det Ctr — Pickens, AL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "01107"
 state: "AL"
 county: "Pickens"
 repo_path: "kb/facilities/pickens-county-det-ctr-pickens-al.md"
-signals: ["igsa"]
-states: ["AL"]
+type: "entry"
+layout: "single"
+facility_name: "Pickens County Det Ctr"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/pickens-county-det-ctr-pickens-al/"
 ---
 
 IGSA detention facility: Pickens County Det Ctr in Pickens County, AL.

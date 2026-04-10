@@ -1,16 +1,19 @@
 ---
 title: "Broadwater County Jail — Broadwater, MT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "30007"
 state: "MT"
 county: "Broadwater"
 repo_path: "kb/facilities/broadwater-county-jail-broadwater-mt.md"
-signals: ["igsa"]
-states: ["MT"]
+type: "entry"
+layout: "single"
+facility_name: "Broadwater County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/broadwater-county-jail-broadwater-mt/"
 ---
 
 IGSA detention facility: Broadwater County Jail in Broadwater County, MT.

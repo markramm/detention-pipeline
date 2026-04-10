@@ -1,7 +1,5 @@
 ---
 title: "Adams County, MS — USDA Distress Profile (3 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "28001"
 state: "MS"
 county: "Adams"
 repo_path: "kb/budget/adams-county-ms-usda-distress-profile-3-indicators.md"
-signals: ["budget-distress"]
-states: ["MS"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Adams County, MS with 3 distress indicators:

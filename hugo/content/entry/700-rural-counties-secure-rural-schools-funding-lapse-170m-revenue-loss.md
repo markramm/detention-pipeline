@@ -1,7 +1,5 @@
 ---
 title: "700+ Rural Counties — Secure Rural Schools Funding Lapse ($170M+ Revenue Loss)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/budget/700-rural-counties-secure-rural-schools-funding-lapse-170m-revenue-loss.md"
-signals: ["budget-distress"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 The Secure Rural Schools program lapsed after FY2023, reducing revenue sharing by $170M+ for 700+ counties in 41 states. Most counties saw 80% reduction in funding. Teachers laid off, schools cut, roads unrepaired.

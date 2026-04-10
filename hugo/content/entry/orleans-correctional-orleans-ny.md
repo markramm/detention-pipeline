@@ -1,16 +1,19 @@
 ---
 title: "Orleans Correctional — Orleans, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36073"
 state: "NY"
 county: "Orleans"
 repo_path: "kb/facilities/orleans-correctional-orleans-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Orleans Correctional"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/orleans-correctional-orleans-ny/"
 ---
 
 IGSA detention facility: Orleans Correctional in Orleans County, NY.

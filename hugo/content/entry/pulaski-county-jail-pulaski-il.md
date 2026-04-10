@@ -1,16 +1,19 @@
 ---
 title: "Pulaski County Jail — Pulaski, IL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "17153"
 state: "IL"
 county: "Pulaski"
 repo_path: "kb/facilities/pulaski-county-jail-pulaski-il.md"
-signals: ["igsa"]
-states: ["IL"]
+type: "entry"
+layout: "single"
+facility_name: "Pulaski County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/pulaski-county-jail-pulaski-il/"
 ---
 
 IGSA detention facility: Pulaski County Jail in Pulaski County, IL.

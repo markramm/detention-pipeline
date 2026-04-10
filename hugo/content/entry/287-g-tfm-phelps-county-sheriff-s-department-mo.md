@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Phelps County Sheriff’s Department (MO)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "29161"
 state: "MO"
 county: "Phelps County"
 repo_path: "kb/287g/287-g-tfm-phelps-county-sheriff-s-department-mo.md"
-signals: ["287g-agreement"]
-states: ["MO"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Phelps County Sheriff’s Department.

@@ -1,16 +1,19 @@
 ---
 title: "Tremont PA Warehouse — ICE Mega Detention Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Pennsylvania"
 county: "Schuylkill"
 repo_path: "kb/industry/facilities/tremont-pa-mega-center.md"
-signals: ["facility"]
-states: ["Pennsylvania"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "under-construction"
+bed_count: "7,500-10,000"
+canonical: "/facilities/tremont-pa-mega-center/"
 ---
 
 # Tremont PA Warehouse — ICE Mega Detention Center

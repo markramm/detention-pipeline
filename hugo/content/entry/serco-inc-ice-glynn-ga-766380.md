@@ -1,7 +1,5 @@
 ---
 title: "SERCO INC — ICE GLYNN, GA $766,380"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "13127"
 state: "GA"
 county: "GLYNN"
 repo_path: "kb/anc/serco-inc-ice-glynn-ga-766380.md"
-signals: ["anc-contract"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

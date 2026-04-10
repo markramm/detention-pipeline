@@ -1,16 +1,20 @@
 ---
 title: "Venntel / Gravy Analytics — Ad-Tech Location Data for ICE"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/venntel-gravy-analytics.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "data-broker"
+headquarters: "Tysons Corner, Virginia"
+founded: ""
+status: "active"
+canonical: "/players/contractors/venntel-gravy-analytics/"
 ---
 
 # Venntel / Gravy Analytics

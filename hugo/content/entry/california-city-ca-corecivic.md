@@ -1,16 +1,19 @@
 ---
 title: "California City Immigration Processing Center (CoreCivic)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "California"
 county: "Kern"
 repo_path: "kb/industry/facilities/california-city-ca-corecivic.md"
-signals: ["facility"]
-states: ["California"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "CoreCivic"
+status: "operational"
+bed_count: "2,560"
+canonical: "/facilities/california-city-ca-corecivic/"
 ---
 
 # California City Immigration Processing Center (CoreCivic)

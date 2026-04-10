@@ -1,16 +1,19 @@
 ---
 title: "El Paso County Jail (CO) — El Paso, CO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "08041"
 state: "CO"
 county: "El Paso"
 repo_path: "kb/facilities/el-paso-county-jail-co-el-paso-co.md"
-signals: ["igsa"]
-states: ["CO"]
+type: "entry"
+layout: "single"
+facility_name: "El Paso County Jail (CO)"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/el-paso-county-jail-co-el-paso-co/"
 ---
 
 IGSA detention facility: El Paso County Jail (CO) in El Paso County, CO.

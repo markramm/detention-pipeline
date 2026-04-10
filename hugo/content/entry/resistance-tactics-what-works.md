@@ -1,16 +1,14 @@
 ---
 title: "Resistance Tactics — What Works, What Doesn't, and When to Use Each"
-type: entry
-layout: single
 entry_type: "note"
-signal_label: "note"
-signal_color: "#666"
+signal_label: "Research Note"
+signal_color: "#6a6a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/resistance-tactics-what-works.md"
-signals: ["note"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Resistance Tactics: What Works

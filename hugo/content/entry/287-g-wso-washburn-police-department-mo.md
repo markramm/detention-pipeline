@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Washburn Police Department (MO)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "29009"
 state: "MO"
 county: "Barry County"
 repo_path: "kb/287g/287-g-wso-washburn-police-department-mo.md"
-signals: ["287g-agreement"]
-states: ["MO"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Washburn Police Department.

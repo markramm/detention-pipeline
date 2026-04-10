@@ -1,16 +1,16 @@
 ---
 title: "142 Trump Administration Officials with Palantir Financial Ties"
-type: entry
-layout: single
 entry_type: "analysis"
-signal_label: "analysis"
-signal_color: "#666"
+signal_label: "Analysis"
+signal_color: "#5a6a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/palantir-admin-financial-ties.md"
-signals: ["analysis"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "money"
+canonical: "/players/money/palantir-admin-financial-ties/"
 ---
 
 # Palantir Financial Ties to Trump Administration

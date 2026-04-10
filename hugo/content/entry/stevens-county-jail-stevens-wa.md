@@ -1,16 +1,19 @@
 ---
 title: "Stevens County Jail — Stevens, WA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "53065"
 state: "WA"
 county: "Stevens"
 repo_path: "kb/facilities/stevens-county-jail-stevens-wa.md"
-signals: ["igsa"]
-states: ["WA"]
+type: "entry"
+layout: "single"
+facility_name: "Stevens County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/stevens-county-jail-stevens-wa/"
 ---
 
 IGSA detention facility: Stevens County Jail in Stevens County, WA.

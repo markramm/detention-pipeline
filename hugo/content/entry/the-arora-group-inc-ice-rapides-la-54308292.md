@@ -1,7 +1,5 @@
 ---
 title: "THE ARORA GROUP, INC. — ICE RAPIDES, LA $54,308,292"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "22079"
 state: "LA"
 county: "RAPIDES"
 repo_path: "kb/anc/the-arora-group-inc-ice-rapides-la-54308292.md"
-signals: ["anc-contract"]
-states: ["LA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

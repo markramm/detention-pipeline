@@ -1,16 +1,19 @@
 ---
 title: "Delaney Hall — Newark NJ GEO Group ICE Facility"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "New Jersey"
 county: "Essex"
 repo_path: "kb/industry/facilities/delaney-hall-newark-nj.md"
-signals: ["facility"]
-states: ["New Jersey"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "GEO Group"
+status: "operational"
+bed_count: "1,000"
+canonical: "/facilities/delaney-hall-newark-nj/"
 ---
 
 # Delaney Hall — Newark NJ GEO Group ICE Facility

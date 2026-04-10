@@ -1,16 +1,19 @@
 ---
 title: "Franklin County Detention Center — Franklin, NC"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "37069"
 state: "NC"
 county: "Franklin"
 repo_path: "kb/facilities/franklin-county-detention-center-franklin-nc.md"
-signals: ["igsa"]
-states: ["NC"]
+type: "entry"
+layout: "single"
+facility_name: "Franklin County Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/franklin-county-detention-center-franklin-nc/"
 ---
 
 IGSA detention facility: Franklin County Detention Center in Franklin County, NC.

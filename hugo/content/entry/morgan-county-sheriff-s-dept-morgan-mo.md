@@ -1,16 +1,19 @@
 ---
 title: "Morgan County Sheriff's Dept — Morgan, MO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/facilities/morgan-county-sheriff-s-dept-morgan-mo.md"
-signals: ["igsa"]
-states: [""]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: ""
+status: ""
+bed_count: ""
+canonical: "/facilities/morgan-county-sheriff-s-dept-morgan-mo/"
 ---
 
 IGSA detention facility: Morgan County Sheriff's Dept in Morgan County, MO.

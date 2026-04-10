@@ -1,16 +1,20 @@
 ---
 title: "Constellis Holdings (Blackwater successor)"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/constellis-holdings.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "skip-tracing"
+headquarters: "Reston, Virginia"
+founded: "2014 (formed from merger of Academi/Blackwater and Triple Canopy)"
+status: "active"
+canonical: "/players/contractors/constellis-holdings/"
 ---
 
 # Constellis Holdings

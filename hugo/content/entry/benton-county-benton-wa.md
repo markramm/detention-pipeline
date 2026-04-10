@@ -1,16 +1,19 @@
 ---
 title: "Benton County — Benton, WA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "53005"
 state: "WA"
 county: "Benton"
 repo_path: "kb/facilities/benton-county-benton-wa.md"
-signals: ["igsa"]
-states: ["WA"]
+type: "entry"
+layout: "single"
+facility_name: "Benton County"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/benton-county-benton-wa/"
 ---
 
 IGSA detention facility: Benton County in Benton County, WA.

@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Virginia Department of Corrections (VA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "VA"
 county: ""
 repo_path: "kb/287g/287-g-jem-virginia-department-of-corrections-va.md"
-signals: ["287g-agreement"]
-states: ["VA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Virginia Department of Corrections.

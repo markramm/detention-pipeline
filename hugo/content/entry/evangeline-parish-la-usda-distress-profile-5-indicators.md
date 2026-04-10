@@ -1,7 +1,5 @@
 ---
 title: "Evangeline Parish, LA — USDA Distress Profile (5 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "22039"
 state: "LA"
 county: "Evangeline"
 repo_path: "kb/budget/evangeline-parish-la-usda-distress-profile-5-indicators.md"
-signals: ["budget-distress"]
-states: ["LA"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Evangeline Parish, LA with 5 distress indicators:

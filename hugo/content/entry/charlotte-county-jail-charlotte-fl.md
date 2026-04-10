@@ -1,16 +1,19 @@
 ---
 title: "Charlotte County Jail — Charlotte, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12015"
 state: "FL"
 county: "Charlotte"
 repo_path: "kb/facilities/charlotte-county-jail-charlotte-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Charlotte County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/charlotte-county-jail-charlotte-fl/"
 ---
 
 IGSA detention facility: Charlotte County Jail in Charlotte County, FL.

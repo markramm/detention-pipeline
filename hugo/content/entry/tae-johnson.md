@@ -1,16 +1,19 @@
 ---
 title: "Tae D. Johnson — Former ICE Acting Director, Now Sabot Consulting"
-type: entry
-layout: single
 entry_type: "person"
-signal_label: "person"
-signal_color: "#666"
+signal_label: "Person"
+signal_color: "#5a2a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/tae-johnson.md"
-signals: ["person"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "person"
+role: "revolving"
+government_service: "Acting ICE Director Jan 2021-July 2023; Deputy Executive Associate Director for ERO ($4.4B budget, 7,900 employees); Assistant Director for ERO Custody Management (oversaw ~40,000 daily detainees across ~250 facilities). 31 years ICE/INS."
+private_role: "Criminal Justice team member at Sabot Consulting (Sabot Technologies Inc.), advising counties on ICE detention facility development through IGSAs."
+canonical: "/players/people/tae-johnson/"
 ---
 
 # Tae D. Johnson — The ICE Director Selling Detention Back to ICE

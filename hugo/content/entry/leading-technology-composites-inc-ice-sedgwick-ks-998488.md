@@ -1,7 +1,5 @@
 ---
 title: "LEADING TECHNOLOGY COMPOSITES INC — ICE SEDGWICK, KS $998,488"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "20173"
 state: "KS"
 county: "SEDGWICK"
 repo_path: "kb/anc/leading-technology-composites-inc-ice-sedgwick-ks-998488.md"
-signals: ["anc-contract"]
-states: ["KS"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

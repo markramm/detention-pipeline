@@ -1,16 +1,19 @@
 ---
 title: "Allegany County Jail — Allegany, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36003"
 state: "NY"
 county: "Allegany"
 repo_path: "kb/facilities/allegany-county-jail-allegany-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Allegany County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/allegany-county-jail-allegany-ny/"
 ---
 
 IGSA detention facility: Allegany County Jail in Allegany County, NY.

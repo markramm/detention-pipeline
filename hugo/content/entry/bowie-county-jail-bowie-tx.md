@@ -1,16 +1,19 @@
 ---
 title: "Bowie County Jail — Bowie, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48037"
 state: "TX"
 county: "Bowie"
 repo_path: "kb/facilities/bowie-county-jail-bowie-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Bowie County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/bowie-county-jail-bowie-tx/"
 ---
 
 IGSA detention facility: Bowie County Jail in Bowie County, TX.

@@ -1,16 +1,19 @@
 ---
 title: "Calhoun Co., Battle Cr,MI — Calhoun, MI"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "26025"
 state: "MI"
 county: "Calhoun"
 repo_path: "kb/facilities/calhoun-co-battle-crmi-calhoun-mi.md"
-signals: ["igsa"]
-states: ["MI"]
+type: "entry"
+layout: "single"
+facility_name: "Calhoun Co., Battle Cr,MI"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/calhoun-co-battle-crmi-calhoun-mi/"
 ---
 
 IGSA detention facility: Calhoun Co., Battle Cr,MI in Calhoun County, MI.

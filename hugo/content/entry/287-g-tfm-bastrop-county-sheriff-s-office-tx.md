@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Bastrop County Sheriff’s Office (TX)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "48021"
 state: "TX"
 county: "Bastrop County"
 repo_path: "kb/287g/287-g-tfm-bastrop-county-sheriff-s-office-tx.md"
-signals: ["287g-agreement"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Bastrop County Sheriff’s Office.

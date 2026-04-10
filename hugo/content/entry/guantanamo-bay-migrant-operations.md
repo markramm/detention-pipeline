@@ -1,16 +1,19 @@
 ---
 title: "Guantanamo Bay Migrant Operations Center (GMOC)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Cuba (US Naval Base)"
 county: "N/A"
 repo_path: "kb/industry/facilities/guantanamo-bay-migrant-operations.md"
-signals: ["facility"]
-states: ["Cuba (US Naval Base)"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "Department of Defense / DHS"
+status: "operational"
+bed_count: "30,000 (planned) — currently minimal occupancy"
+canonical: "/facilities/guantanamo-bay-migrant-operations/"
 ---
 
 # Guantanamo Bay Migrant Operations Center (GMOC)

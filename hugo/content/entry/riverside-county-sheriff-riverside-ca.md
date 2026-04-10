@@ -1,16 +1,19 @@
 ---
 title: "Riverside County Sheriff — Riverside, CA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "06065"
 state: "CA"
 county: "Riverside"
 repo_path: "kb/facilities/riverside-county-sheriff-riverside-ca.md"
-signals: ["igsa"]
-states: ["CA"]
+type: "entry"
+layout: "single"
+facility_name: "Riverside County Sheriff"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/riverside-county-sheriff-riverside-ca/"
 ---
 
 IGSA detention facility: Riverside County Sheriff in Riverside County, CA.

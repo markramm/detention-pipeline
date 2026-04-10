@@ -1,7 +1,5 @@
 ---
 title: "ACUITY-CHS, LLC — ICE BUCKS, PA $551,947"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "42017"
 state: "PA"
 county: "BUCKS"
 repo_path: "kb/anc/acuity-chs-llc-ice-bucks-pa-551947.md"
-signals: ["anc-contract"]
-states: ["PA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

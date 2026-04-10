@@ -1,16 +1,19 @@
 ---
 title: "Chemung County Jail — Chemung, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36015"
 state: "NY"
 county: "Chemung"
 repo_path: "kb/facilities/chemung-county-jail-chemung-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Chemung County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/chemung-county-jail-chemung-ny/"
 ---
 
 IGSA detention facility: Chemung County Jail in Chemung County, NY.

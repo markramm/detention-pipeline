@@ -1,16 +1,19 @@
 ---
 title: "Barnstable County — Barnstable, MA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "25001"
 state: "MA"
 county: "Barnstable"
 repo_path: "kb/facilities/barnstable-county-barnstable-ma.md"
-signals: ["igsa"]
-states: ["MA"]
+type: "entry"
+layout: "single"
+facility_name: "Barnstable County"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/barnstable-county-barnstable-ma/"
 ---
 
 IGSA detention facility: Barnstable County in Barnstable County, MA.

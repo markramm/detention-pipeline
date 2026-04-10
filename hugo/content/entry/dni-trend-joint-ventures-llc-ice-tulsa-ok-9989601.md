@@ -1,7 +1,5 @@
 ---
 title: "DNI TREND JOINT VENTURES, LLC — ICE TULSA, OK $9,989,601"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "40143"
 state: "OK"
 county: "TULSA"
 repo_path: "kb/anc/dni-trend-joint-ventures-llc-ice-tulsa-ok-9989601.md"
-signals: ["anc-contract"]
-states: ["OK"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

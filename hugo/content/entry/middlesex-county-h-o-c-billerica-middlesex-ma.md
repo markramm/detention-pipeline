@@ -1,16 +1,19 @@
 ---
 title: "Middlesex County H.O.C.-Billerica — Middlesex, MA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/facilities/middlesex-county-h-o-c-billerica-middlesex-ma.md"
-signals: ["igsa"]
-states: [""]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: ""
+status: ""
+bed_count: ""
+canonical: "/facilities/middlesex-county-h-o-c-billerica-middlesex-ma/"
 ---
 
 IGSA detention facility: Middlesex County H.O.C.-Billerica in Middlesex County, MA.

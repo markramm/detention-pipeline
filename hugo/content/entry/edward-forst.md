@@ -1,16 +1,19 @@
 ---
 title: "Edward Forst — GSA Administrator, Former Goldman Sachs AND Deutsche Bank Employee"
-type: entry
-layout: single
 entry_type: "person"
-signal_label: "person"
-signal_color: "#666"
+signal_label: "Person"
+signal_color: "#5a2a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/edward-forst.md"
-signals: ["person"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "person"
+role: "Administrator, General Services Administration"
+government_service: ""
+private_role: ""
+canonical: "/players/people/edward-forst/"
 ---
 
 # Edward Forst — GSA Administrator

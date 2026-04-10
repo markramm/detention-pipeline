@@ -1,7 +1,5 @@
 ---
 title: "GLOCK, INC. — ICE GA $748,296"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: ""
 state: "GA"
 county: ""
 repo_path: "kb/anc/glock-inc-ice-ga-748296.md"
-signals: ["anc-contract"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

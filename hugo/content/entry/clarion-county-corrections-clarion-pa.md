@@ -1,16 +1,19 @@
 ---
 title: "Clarion  County Corrections — Clarion, PA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "42031"
 state: "PA"
 county: "Clarion"
 repo_path: "kb/facilities/clarion-county-corrections-clarion-pa.md"
-signals: ["igsa"]
-states: ["PA"]
+type: "entry"
+layout: "single"
+facility_name: "Clarion  County Corrections"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/clarion-county-corrections-clarion-pa/"
 ---
 
 IGSA detention facility: Clarion  County Corrections in Clarion County, PA.

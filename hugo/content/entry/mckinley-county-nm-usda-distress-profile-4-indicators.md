@@ -1,7 +1,5 @@
 ---
 title: "McKinley County, NM — USDA Distress Profile (4 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "35031"
 state: "NM"
 county: "McKinley"
 repo_path: "kb/budget/mckinley-county-nm-usda-distress-profile-4-indicators.md"
-signals: ["budget-distress"]
-states: ["NM"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags McKinley County, NM with 4 distress indicators:

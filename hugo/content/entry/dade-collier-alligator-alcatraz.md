@@ -1,16 +1,19 @@
 ---
 title: "Alligator Alcatraz — South Florida Detention Facility (Dade-Collier)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Florida"
 county: "Miami-Dade/Collier"
 repo_path: "kb/industry/facilities/dade-collier-alligator-alcatraz.md"
-signals: ["facility"]
-states: ["Florida"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "Florida Division of Emergency Management"
+status: "operational"
+bed_count: "3,000-5,000"
+canonical: "/facilities/dade-collier-alligator-alcatraz/"
 ---
 
 # Alligator Alcatraz — South Florida Detention Facility (Dade-Collier)

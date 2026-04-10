@@ -1,0 +1,86 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>County Fights
+</div>
+<div class="page-content">
+  <div style="padding-top:24px; margin-bottom:24px;">
+    <h1 class="serif" style="font-size:32px; font-weight:400; margin-bottom:6px;">County Fights</h1>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.6; max-width:600px;">
+      Communities across the country are fighting detention facility proposals.
+      These are their stories — what worked, what didn't, and what you can learn from them.
+    </p>
+  </div>
+
+  {{ $fights := where .Pages "Params.entry_type" "county-fight" }}
+
+  {{/* Group by status */}}
+  {{ $contested := where $fights "Params.status" "contested" }}
+  {{ $blocked := where $fights "Params.status" "blocked" }}
+  {{ $notContested := where $fights "Params.status" "!=" "contested" }}
+  {{ $other := where $notContested "Params.status" "!=" "blocked" }}
+
+  {{ if $contested }}
+  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+    Active Fights
+  </h2>
+  {{ range $contested }}
+  <div class="card" style="border-left:3px solid var(--accent);">
+    <a href="{{ .RelPermalink }}">
+      <div style="display:flex; justify-content:space-between; align-items:baseline;">
+        <div class="card-title" style="font-size:15px;">{{ .Title }}</div>
+        <span class="signal-badge" style="background:rgba(201,59,59,0.08); border-color:rgba(201,59,59,0.2); color:var(--accent);">Contested</span>
+      </div>
+      <div class="card-meta" style="margin-top:4px;">
+        {{ with .Params.county }}{{ . }}, {{ end }}{{ .Params.state }}
+        {{ with .Params.vote_tally }} · Vote: {{ . }}{{ end }}
+      </div>
+      {{ with .Params.outcome }}
+      <div style="font-size:12px; color:var(--text-secondary); margin-top:6px; line-height:1.5;">{{ . }}</div>
+      {{ end }}
+    </a>
+  </div>
+  {{ end }}
+  {{ end }}
+
+  {{ if $blocked }}
+  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin:24px 0 12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+    Successfully Blocked
+  </h2>
+  {{ range $blocked }}
+  <div class="card" style="border-left:3px solid #2a8a5a;">
+    <a href="{{ .RelPermalink }}">
+      <div style="display:flex; justify-content:space-between; align-items:baseline;">
+        <div class="card-title" style="font-size:15px;">{{ .Title }}</div>
+        <span class="signal-badge" style="background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">Blocked</span>
+      </div>
+      <div class="card-meta" style="margin-top:4px;">
+        {{ with .Params.county }}{{ . }}, {{ end }}{{ .Params.state }}
+      </div>
+      {{ with .Params.outcome }}
+      <div style="font-size:12px; color:var(--text-secondary); margin-top:6px; line-height:1.5;">{{ . }}</div>
+      {{ end }}
+    </a>
+  </div>
+  {{ end }}
+  {{ end }}
+
+  {{ if $other }}
+  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin:24px 0 12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+    Other
+  </h2>
+  {{ range $other }}
+  <div class="card">
+    <a href="{{ .RelPermalink }}">
+      <div class="card-title">{{ .Title }}</div>
+      <div class="card-meta">{{ with .Params.county }}{{ . }}, {{ end }}{{ .Params.state }}{{ with .Params.status }} · {{ . }}{{ end }}</div>
+    </a>
+  </div>
+  {{ end }}
+  {{ end }}
+
+  <div style="margin-top:32px; padding-top:16px; border-top:1px solid var(--border);">
+    <p style="font-size:13px; color:var(--text-secondary); margin-bottom:8px;">Is your community facing a detention facility proposal?</p>
+    <a href="{{ site.Params.repoURL }}/issues/new?template=tip.yml" class="btn btn-accent">Report what's happening →</a>
+  </div>
+</div>
+{{ end }}

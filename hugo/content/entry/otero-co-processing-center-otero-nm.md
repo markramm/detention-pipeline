@@ -1,16 +1,19 @@
 ---
 title: "Otero Co Processing Center — Otero, NM"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "35035"
 state: "NM"
 county: "Otero"
 repo_path: "kb/facilities/otero-co-processing-center-otero-nm.md"
-signals: ["igsa"]
-states: ["NM"]
+type: "entry"
+layout: "single"
+facility_name: "Otero Co Processing Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/otero-co-processing-center-otero-nm/"
 ---
 
 IGSA detention facility: Otero Co Processing Center in Otero County, NM.

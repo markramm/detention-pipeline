@@ -1,7 +1,5 @@
 ---
 title: "LABORATORY CORPORATION OF AMERICA — ICE ALAMANCE, NC $4,756,549"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "37001"
 state: "NC"
 county: "ALAMANCE"
 repo_path: "kb/anc/laboratory-corporation-of-america-ice-alamance-nc-4756549.md"
-signals: ["anc-contract"]
-states: ["NC"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

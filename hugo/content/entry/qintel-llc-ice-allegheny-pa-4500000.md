@@ -1,7 +1,5 @@
 ---
 title: "QINTEL LLC — ICE ALLEGHENY, PA $4,500,000"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "42003"
 state: "PA"
 county: "ALLEGHENY"
 repo_path: "kb/anc/qintel-llc-ice-allegheny-pa-4500000.md"
-signals: ["anc-contract"]
-states: ["PA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

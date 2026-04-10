@@ -1,16 +1,19 @@
 ---
 title: "Okmulgee County Jail — Okmulgee, OK"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "40111"
 state: "OK"
 county: "Okmulgee"
 repo_path: "kb/facilities/okmulgee-county-jail-okmulgee-ok.md"
-signals: ["igsa"]
-states: ["OK"]
+type: "entry"
+layout: "single"
+facility_name: "Okmulgee County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/okmulgee-county-jail-okmulgee-ok/"
 ---
 
 IGSA detention facility: Okmulgee County Jail in Okmulgee County, OK.

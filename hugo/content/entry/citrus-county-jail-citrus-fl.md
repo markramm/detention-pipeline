@@ -1,16 +1,19 @@
 ---
 title: "Citrus County Jail — Citrus, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12017"
 state: "FL"
 county: "Citrus"
 repo_path: "kb/facilities/citrus-county-jail-citrus-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Citrus County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/citrus-county-jail-citrus-fl/"
 ---
 
 IGSA detention facility: Citrus County Jail in Citrus County, FL.

@@ -1,16 +1,19 @@
 ---
 title: "Mclennan County Jail — Mclennan, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48309"
 state: "TX"
 county: "Mclennan"
 repo_path: "kb/facilities/mclennan-county-jail-mclennan-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Mclennan County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/mclennan-county-jail-mclennan-tx/"
 ---
 
 IGSA detention facility: Mclennan County Jail in Mclennan County, TX.

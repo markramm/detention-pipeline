@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Teller County Sheriff’s Office (CO)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "08119"
 state: "CO"
 county: "Teller County"
 repo_path: "kb/287g/287-g-jem-teller-county-sheriff-s-office-co.md"
-signals: ["287g-agreement"]
-states: ["CO"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Teller County Sheriff’s Office.

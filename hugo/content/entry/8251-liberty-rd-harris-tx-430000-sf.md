@@ -1,7 +1,5 @@
 ---
 title: "8251 Liberty Rd — Harris, TX (430000 SF)"
-type: entry
-layout: single
 entry_type: "real-estate-trace"
 signal_label: "Real Estate Trace"
 signal_color: "#b54f8a"
@@ -9,8 +7,8 @@ fips: "48201"
 state: "TX"
 county: "Harris"
 repo_path: "kb/real-estate/8251-liberty-rd-harris-tx-430000-sf.md"
-signals: ["real-estate-trace"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 Industrial/warehouse property at 8251 Liberty Rd, Houston, Harris County, TX. 430000 sq ft. Owner: First Industrial Realty Trust. Status: available.

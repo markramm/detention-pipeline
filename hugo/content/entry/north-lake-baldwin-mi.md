@@ -1,16 +1,19 @@
 ---
 title: "North Lake Processing Center — Baldwin MI (GEO Group)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Michigan"
 county: "Lake"
 repo_path: "kb/industry/facilities/north-lake-baldwin-mi.md"
-signals: ["facility"]
-states: ["Michigan"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "GEO Group"
+status: "operational"
+bed_count: "1,800"
+canonical: "/facilities/north-lake-baldwin-mi/"
 ---
 
 # North Lake Processing Center — Baldwin MI (GEO Group)

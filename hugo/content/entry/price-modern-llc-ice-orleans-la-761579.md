@@ -1,7 +1,5 @@
 ---
 title: "PRICE MODERN LLC — ICE ORLEANS, LA $761,579"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "22071"
 state: "LA"
 county: "ORLEANS"
 repo_path: "kb/anc/price-modern-llc-ice-orleans-la-761579.md"
-signals: ["anc-contract"]
-states: ["LA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,16 +1,19 @@
 ---
 title: "Virginia Beach — Virginia Beach City, VA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "51810"
 state: "VA"
 county: "Virginia Beach City"
 repo_path: "kb/facilities/virginia-beach-virginia-beach-city-va.md"
-signals: ["igsa"]
-states: ["VA"]
+type: "entry"
+layout: "single"
+facility_name: "Virginia Beach"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/virginia-beach-virginia-beach-city-va/"
 ---
 
 IGSA detention facility: Virginia Beach in Virginia Beach City County, VA.

@@ -1,7 +1,5 @@
 ---
 title: "CORECIVIC, INC. — ICE HARRIS, TX $43,343,653"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "48201"
 state: "TX"
 county: "HARRIS"
 repo_path: "kb/anc/corecivic-inc-ice-harris-tx-43343653.md"
-signals: ["anc-contract"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

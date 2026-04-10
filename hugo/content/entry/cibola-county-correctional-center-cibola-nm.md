@@ -1,16 +1,19 @@
 ---
 title: "Cibola County Correctional Center — Cibola, NM"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "35006"
 state: "NM"
 county: "Cibola"
 repo_path: "kb/facilities/cibola-county-correctional-center-cibola-nm.md"
-signals: ["igsa"]
-states: ["NM"]
+type: "entry"
+layout: "single"
+facility_name: "Cibola County Correctional Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/cibola-county-correctional-center-cibola-nm/"
 ---
 
 IGSA detention facility: Cibola County Correctional Center in Cibola County, NM.

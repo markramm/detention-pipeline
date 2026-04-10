@@ -1,16 +1,19 @@
 ---
 title: "Romulus MI Warehouse — ICE Regional Processing Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Michigan"
 county: "Wayne"
 repo_path: "kb/industry/facilities/romulus-mi-warehouse.md"
-signals: ["facility"]
-states: ["Michigan"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "contested"
+bed_count: "500"
+canonical: "/facilities/romulus-mi-warehouse/"
 ---
 
 # Romulus MI Warehouse — ICE Regional Processing Center

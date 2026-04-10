@@ -1,16 +1,19 @@
 ---
 title: "Fremont County Jail, WY — Fremont, WY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "56013"
 state: "WY"
 county: "Fremont"
 repo_path: "kb/facilities/fremont-county-jail-wy-fremont-wy.md"
-signals: ["igsa"]
-states: ["WY"]
+type: "entry"
+layout: "single"
+facility_name: "Fremont County Jail, WY"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/fremont-county-jail-wy-fremont-wy/"
 ---
 
 IGSA detention facility: Fremont County Jail, WY in Fremont County, WY.

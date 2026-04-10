@@ -1,16 +1,19 @@
 ---
 title: "Linn Co Jail — Linn, OR"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "41043"
 state: "OR"
 county: "Linn"
 repo_path: "kb/facilities/linn-co-jail-linn-or.md"
-signals: ["igsa"]
-states: ["OR"]
+type: "entry"
+layout: "single"
+facility_name: "Linn Co Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/linn-co-jail-linn-or/"
 ---
 
 IGSA detention facility: Linn Co Jail in Linn County, OR.

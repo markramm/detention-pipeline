@@ -1,16 +1,19 @@
 ---
 title: "Bedford City Jail — Tarrant, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48439"
 state: "TX"
 county: "Tarrant"
 repo_path: "kb/facilities/bedford-city-jail-tarrant-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Bedford City Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/bedford-city-jail-tarrant-tx/"
 ---
 
 IGSA detention facility: Bedford City Jail in Tarrant County, TX.

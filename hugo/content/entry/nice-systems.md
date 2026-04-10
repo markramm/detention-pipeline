@@ -1,16 +1,20 @@
 ---
 title: "NICE Systems — Call Recording & Video Surveillance"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/nice-systems.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "surveillance-platform"
+headquarters: "Ra'anana, Israel (US: Hoboken, New Jersey)"
+founded: ""
+status: "active"
+canonical: "/players/contractors/nice-systems/"
 ---
 
 # NICE Systems

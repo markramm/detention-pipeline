@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Arnaudville Police Department (LA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "LA"
 county: "Saint Landry County"
 repo_path: "kb/287g/287-g-tfm-arnaudville-police-department-la.md"
-signals: ["287g-agreement"]
-states: ["LA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Arnaudville Police Department.

@@ -1,16 +1,19 @@
 ---
 title: "Palm Beach County Jail — Palm Beach, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12099"
 state: "FL"
 county: "Palm Beach"
 repo_path: "kb/facilities/palm-beach-county-jail-palm-beach-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Palm Beach County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/palm-beach-county-jail-palm-beach-fl/"
 ---
 
 IGSA detention facility: Palm Beach County Jail in Palm Beach County, FL.

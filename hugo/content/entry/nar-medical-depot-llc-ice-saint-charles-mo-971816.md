@@ -1,7 +1,5 @@
 ---
 title: "NAR MEDICAL DEPOT, LLC — ICE SAINT CHARLES, MO $971,816"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: ""
 state: "MO"
 county: "SAINT CHARLES"
 repo_path: "kb/anc/nar-medical-depot-llc-ice-saint-charles-mo-971816.md"
-signals: ["anc-contract"]
-states: ["MO"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

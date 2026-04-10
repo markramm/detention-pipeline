@@ -1,16 +1,19 @@
 ---
 title: "Northwest Reg. Adult Det. — Winchester City, VA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "51840"
 state: "VA"
 county: "Winchester City"
 repo_path: "kb/facilities/northwest-reg-adult-det-winchester-city-va.md"
-signals: ["igsa"]
-states: ["VA"]
+type: "entry"
+layout: "single"
+facility_name: "Northwest Reg. Adult Det."
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/northwest-reg-adult-det-winchester-city-va/"
 ---
 
 IGSA detention facility: Northwest Reg. Adult Det. in Winchester City County, VA.

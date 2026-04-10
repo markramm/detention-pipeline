@@ -1,16 +1,19 @@
 ---
 title: "Broward Transitional Center — Pompano Beach FL (GEO Group)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Florida"
 county: "Broward"
 repo_path: "kb/industry/facilities/broward-transitional-center-fl.md"
-signals: ["facility"]
-states: ["Florida"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "GEO Group"
+status: "operational"
+bed_count: "600"
+canonical: "/facilities/broward-transitional-center-fl/"
 ---
 
 # Broward Transitional Center — Pompano Beach FL (GEO Group)

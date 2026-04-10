@@ -1,16 +1,14 @@
 ---
 title: "Bradford County FL — Sabot Consulting IGSA Proposal ($239M/year at full capacity)"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/bradford-county-igsa-proposal.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Bradford County IGSA Proposal

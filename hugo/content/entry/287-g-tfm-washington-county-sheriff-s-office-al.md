@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Washington County Sheriff’s Office (AL)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "01129"
 state: "AL"
 county: "Washington County"
 repo_path: "kb/287g/287-g-tfm-washington-county-sheriff-s-office-al.md"
-signals: ["287g-agreement"]
-states: ["AL"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Washington County Sheriff’s Office.

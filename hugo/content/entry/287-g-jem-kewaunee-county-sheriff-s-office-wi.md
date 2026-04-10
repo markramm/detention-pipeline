@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Kewaunee County Sheriff’s Office (WI)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "55061"
 state: "WI"
 county: "Kewaunee County"
 repo_path: "kb/287g/287-g-jem-kewaunee-county-sheriff-s-office-wi.md"
-signals: ["287g-agreement"]
-states: ["WI"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Kewaunee County Sheriff’s Office.

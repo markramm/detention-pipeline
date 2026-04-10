@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Craighead County Sheriff’s Office (AR)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "05031"
 state: "AR"
 county: "Craighead County"
 repo_path: "kb/287g/287-g-jem-craighead-county-sheriff-s-office-ar.md"
-signals: ["287g-agreement"]
-states: ["AR"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Craighead County Sheriff’s Office.

@@ -1,7 +1,5 @@
 ---
 title: "THE GEO GROUP, INC. — ICE KERN, CA $66,190,763"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "06029"
 state: "CA"
 county: "KERN"
 repo_path: "kb/anc/the-geo-group-inc-ice-kern-ca-66190763.md"
-signals: ["anc-contract"]
-states: ["CA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,16 +1,19 @@
 ---
 title: "Cabarrus County Jail — Cabarrus, NC"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "37025"
 state: "NC"
 county: "Cabarrus"
 repo_path: "kb/facilities/cabarrus-county-jail-cabarrus-nc.md"
-signals: ["igsa"]
-states: ["NC"]
+type: "entry"
+layout: "single"
+facility_name: "Cabarrus County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/cabarrus-county-jail-cabarrus-nc/"
 ---
 
 IGSA detention facility: Cabarrus County Jail in Cabarrus County, NC.

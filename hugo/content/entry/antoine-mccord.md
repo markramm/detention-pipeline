@@ -1,16 +1,19 @@
 ---
 title: "Antoine McCord — DHS CIO, Former Anduril Employee with Active Equity"
-type: entry
-layout: single
 entry_type: "person"
-signal_label: "person"
-signal_color: "#666"
+signal_label: "Person"
+signal_color: "#5a2a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/antoine-mccord.md"
-signals: ["person"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "person"
+role: "Chief Information Officer, Department of Homeland Security"
+government_service: ""
+private_role: ""
+canonical: "/players/people/antoine-mccord/"
 ---
 
 # Antoine McCord — DHS CIO

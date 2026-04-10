@@ -1,16 +1,19 @@
 ---
 title: "Albemarle-Charlottesville — Albemarle, VA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "51003"
 state: "VA"
 county: "Albemarle"
 repo_path: "kb/facilities/albemarle-charlottesville-albemarle-va.md"
-signals: ["igsa"]
-states: ["VA"]
+type: "entry"
+layout: "single"
+facility_name: "Albemarle-Charlottesville"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/albemarle-charlottesville-albemarle-va/"
 ---
 
 IGSA detention facility: Albemarle-Charlottesville in Albemarle County, VA.

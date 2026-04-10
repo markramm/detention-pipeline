@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Scranton Police Department (SC)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "45041"
 state: "SC"
 county: "Florence County"
 repo_path: "kb/287g/287-g-tfm-scranton-police-department-sc.md"
-signals: ["287g-agreement"]
-states: ["SC"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Scranton Police Department.

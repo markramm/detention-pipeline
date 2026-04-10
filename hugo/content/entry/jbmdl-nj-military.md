@@ -1,16 +1,19 @@
 ---
 title: "Joint Base McGuire-Dix-Lakehurst NJ — Military ICE Detention"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "New Jersey"
 county: "Burlington/Ocean"
 repo_path: "kb/industry/facilities/jbmdl-nj-military.md"
-signals: ["facility"]
-states: ["New Jersey"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "Department of Defense / DHS"
+status: "proposed"
+bed_count: "1,000 (planned)"
+canonical: "/facilities/jbmdl-nj-military/"
 ---
 
 # Joint Base McGuire-Dix-Lakehurst NJ — Military ICE Detention

@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Pittsburgh Police Department (NH)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "NH"
 county: ""
 repo_path: "kb/287g/287-g-tfm-pittsburgh-police-department-nh.md"
-signals: ["287g-agreement"]
-states: ["NH"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Pittsburgh Police Department.

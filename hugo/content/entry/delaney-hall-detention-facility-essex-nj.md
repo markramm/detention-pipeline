@@ -1,16 +1,19 @@
 ---
 title: "Delaney Hall Detention Facility — Essex, NJ"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "34013"
 state: "NJ"
 county: "Essex"
 repo_path: "kb/facilities/delaney-hall-detention-facility-essex-nj.md"
-signals: ["igsa"]
-states: ["NJ"]
+type: "entry"
+layout: "single"
+facility_name: "Delaney Hall Detention Facility"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/delaney-hall-detention-facility-essex-nj/"
 ---
 
 IGSA detention facility: Delaney Hall Detention Facility in Essex County, NJ.

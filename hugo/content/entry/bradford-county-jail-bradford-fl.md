@@ -1,16 +1,19 @@
 ---
 title: "Bradford County Jail — Bradford, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12007"
 state: "FL"
 county: "Bradford"
 repo_path: "kb/facilities/bradford-county-jail-bradford-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Bradford County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/bradford-county-jail-bradford-fl/"
 ---
 
 IGSA detention facility: Bradford County Jail in Bradford County, FL.

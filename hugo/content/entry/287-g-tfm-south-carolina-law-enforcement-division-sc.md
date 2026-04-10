@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: South Carolina Law Enforcement Division (SC)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "SC"
 county: ""
 repo_path: "kb/287g/287-g-tfm-south-carolina-law-enforcement-division-sc.md"
-signals: ["287g-agreement"]
-states: ["SC"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and South Carolina Law Enforcement Division.

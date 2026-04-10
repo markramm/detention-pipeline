@@ -1,16 +1,19 @@
 ---
 title: "Camp Atterbury IN — Military ICE Detention"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Indiana"
 county: "Johnson/Bartholomew"
 repo_path: "kb/industry/facilities/camp-atterbury-in-military.md"
-signals: ["facility"]
-states: ["Indiana"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "Department of Defense / DHS"
+status: "proposed"
+bed_count: "1,000 (planned)"
+canonical: "/facilities/camp-atterbury-in-military/"
 ---
 
 # Camp Atterbury IN — Military ICE Detention

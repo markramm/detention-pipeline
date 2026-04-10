@@ -1,16 +1,19 @@
 ---
 title: "Glades County Detention Center — Glades, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12043"
 state: "FL"
 county: "Glades"
 repo_path: "kb/facilities/glades-county-detention-center-glades-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Glades County Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/glades-county-detention-center-glades-fl/"
 ---
 
 IGSA detention facility: Glades County Detention Center in Glades County, FL.

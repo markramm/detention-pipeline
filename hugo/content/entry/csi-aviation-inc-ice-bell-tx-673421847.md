@@ -1,7 +1,5 @@
 ---
 title: "CSI AVIATION, INC — ICE BELL, TX $673,421,847"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "48027"
 state: "TX"
 county: "BELL"
 repo_path: "kb/anc/csi-aviation-inc-ice-bell-tx-673421847.md"
-signals: ["anc-contract"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

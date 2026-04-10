@@ -1,16 +1,19 @@
 ---
 title: "Luna County Jail — Luna, NM"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "35029"
 state: "NM"
 county: "Luna"
 repo_path: "kb/facilities/luna-county-jail-luna-nm.md"
-signals: ["igsa"]
-states: ["NM"]
+type: "entry"
+layout: "single"
+facility_name: "Luna County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/luna-county-jail-luna-nm/"
 ---
 
 IGSA detention facility: Luna County Jail in Luna County, NM.

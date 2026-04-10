@@ -1,16 +1,19 @@
 ---
 title: "Okanogan Co. Jail — Okanogan, WA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "53047"
 state: "WA"
 county: "Okanogan"
 repo_path: "kb/facilities/okanogan-co-jail-okanogan-wa.md"
-signals: ["igsa"]
-states: ["WA"]
+type: "entry"
+layout: "single"
+facility_name: "Okanogan Co. Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/okanogan-co-jail-okanogan-wa/"
 ---
 
 IGSA detention facility: Okanogan Co. Jail in Okanogan County, WA.

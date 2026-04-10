@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Hernando County Sheriff’s Office (FL)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "12053"
 state: "FL"
 county: "Hernando County"
 repo_path: "kb/287g/287-g-jem-hernando-county-sheriff-s-office-fl.md"
-signals: ["287g-agreement"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Hernando County Sheriff’s Office.

@@ -1,7 +1,5 @@
 ---
 title: "10801 NW 97th St — Miami-Dade, FL (162000 SF)"
-type: entry
-layout: single
 entry_type: "real-estate-trace"
 signal_label: "Real Estate Trace"
 signal_color: "#b54f8a"
@@ -9,8 +7,8 @@ fips: "12086"
 state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/10801-nw-97th-st-miami-dade-fl-162000-sf.md"
-signals: ["real-estate-trace"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 Industrial/warehouse property at 10801 NW 97th St, Miami, Miami-Dade County, FL. 162000 sq ft. Owner: AEW Capital Management. Status: leased.

@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Iowa Department of Public Safety (IA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "IA"
 county: "N/A"
 repo_path: "kb/287g/287-g-tfm-iowa-department-of-public-safety-ia.md"
-signals: ["287g-agreement"]
-states: ["IA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Iowa Department of Public Safety.

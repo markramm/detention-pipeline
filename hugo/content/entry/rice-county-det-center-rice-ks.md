@@ -1,16 +1,19 @@
 ---
 title: "Rice County Det Center — Rice, KS"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "20159"
 state: "KS"
 county: "Rice"
 repo_path: "kb/facilities/rice-county-det-center-rice-ks.md"
-signals: ["igsa"]
-states: ["KS"]
+type: "entry"
+layout: "single"
+facility_name: "Rice County Det Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/rice-county-det-center-rice-ks/"
 ---
 
 IGSA detention facility: Rice County Det Center in Rice County, KS.

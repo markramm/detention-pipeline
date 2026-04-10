@@ -1,16 +1,19 @@
 ---
 title: "Concordia Parish C C — Concordia, LA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "22029"
 state: "LA"
 county: "Concordia"
 repo_path: "kb/facilities/concordia-parish-c-c-concordia-la.md"
-signals: ["igsa"]
-states: ["LA"]
+type: "entry"
+layout: "single"
+facility_name: "Concordia Parish C C"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/concordia-parish-c-c-concordia-la/"
 ---
 
 IGSA detention facility: Concordia Parish C C in Concordia County, LA.

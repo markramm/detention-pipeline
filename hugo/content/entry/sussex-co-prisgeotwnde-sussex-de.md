@@ -1,16 +1,19 @@
 ---
 title: "Sussex Co Pris,Geotwn,DE — Sussex, DE"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "10005"
 state: "DE"
 county: "Sussex"
 repo_path: "kb/facilities/sussex-co-prisgeotwnde-sussex-de.md"
-signals: ["igsa"]
-states: ["DE"]
+type: "entry"
+layout: "single"
+facility_name: "Sussex Co Pris,Geotwn,DE"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/sussex-co-prisgeotwnde-sussex-de/"
 ---
 
 IGSA detention facility: Sussex Co Pris,Geotwn,DE in Sussex County, DE.

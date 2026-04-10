@@ -1,16 +1,20 @@
 ---
 title: "Thomson Reuters — CLEAR Data Broker for ICE"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/thomson-reuters.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "data-broker"
+headquarters: "Toronto, Ontario (US operations: Eagan, Minnesota)"
+founded: ""
+status: "active"
+canonical: "/players/contractors/thomson-reuters/"
 ---
 
 # Thomson Reuters / CLEAR

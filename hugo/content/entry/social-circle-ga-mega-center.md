@@ -1,16 +1,19 @@
 ---
 title: "Social Circle GA Warehouse — ICE Mega Detention Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Georgia"
 county: "Walton"
 repo_path: "kb/industry/facilities/social-circle-ga-mega-center.md"
-signals: ["facility"]
-states: ["Georgia"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "contested"
+bed_count: "7,500-10,000"
+canonical: "/facilities/social-circle-ga-mega-center/"
 ---
 
 # Social Circle GA Warehouse — ICE Mega Detention Center

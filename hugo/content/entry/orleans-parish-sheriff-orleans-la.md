@@ -1,16 +1,19 @@
 ---
 title: "Orleans Parish Sheriff — Orleans, LA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "22071"
 state: "LA"
 county: "Orleans"
 repo_path: "kb/facilities/orleans-parish-sheriff-orleans-la.md"
-signals: ["igsa"]
-states: ["LA"]
+type: "entry"
+layout: "single"
+facility_name: "Orleans Parish Sheriff"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/orleans-parish-sheriff-orleans-la/"
 ---
 
 IGSA detention facility: Orleans Parish Sheriff in Orleans County, LA.

@@ -1,16 +1,19 @@
 ---
 title: "St Lawrence County Jail — St. Lawrence, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36089"
 state: "NY"
 county: "St. Lawrence"
 repo_path: "kb/facilities/st-lawrence-county-jail-st-lawrence-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "St Lawrence County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/st-lawrence-county-jail-st-lawrence-ny/"
 ---
 
 IGSA detention facility: St Lawrence County Jail in St. Lawrence County, NY.

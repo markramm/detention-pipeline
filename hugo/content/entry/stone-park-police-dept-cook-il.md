@@ -1,16 +1,19 @@
 ---
 title: "Stone Park Police Dept. — Cook, IL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "17031"
 state: "IL"
 county: "Cook"
 repo_path: "kb/facilities/stone-park-police-dept-cook-il.md"
-signals: ["igsa"]
-states: ["IL"]
+type: "entry"
+layout: "single"
+facility_name: "Stone Park Police Dept."
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/stone-park-police-dept-cook-il/"
 ---
 
 IGSA detention facility: Stone Park Police Dept. in Cook County, IL.

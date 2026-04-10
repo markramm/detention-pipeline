@@ -1,7 +1,5 @@
 ---
 title: "5601 NW 72nd Ave — Miami-Dade, FL (364600 SF)"
-type: entry
-layout: single
 entry_type: "real-estate-trace"
 signal_label: "Real Estate Trace"
 signal_color: "#b54f8a"
@@ -9,8 +7,8 @@ fips: "12086"
 state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/5601-nw-72nd-ave-miami-dade-fl-364600-sf.md"
-signals: ["real-estate-trace"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 Industrial/warehouse property at 5601 NW 72nd Ave, Miami, Miami-Dade County, FL. 364600 sq ft. Owner: Clarion Partners. Status: leased.

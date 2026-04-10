@@ -1,7 +1,5 @@
 ---
 title: "KPB SERVICES LLC — ICE JACKSON, KS $29,914,916"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "20085"
 state: "KS"
 county: "JACKSON"
 repo_path: "kb/anc/kpb-services-llc-ice-jackson-ks-29914916.md"
-signals: ["anc-contract"]
-states: ["KS"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

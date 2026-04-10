@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Sewickley Township Constable’s Office (PA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "PA"
 county: ""
 repo_path: "kb/287g/287-g-tfm-sewickley-township-constable-s-office-pa.md"
-signals: ["287g-agreement"]
-states: ["PA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Sewickley Township Constable’s Office.

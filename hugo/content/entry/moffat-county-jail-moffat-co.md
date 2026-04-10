@@ -1,16 +1,19 @@
 ---
 title: "Moffat County Jail — Moffat, CO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "08081"
 state: "CO"
 county: "Moffat"
 repo_path: "kb/facilities/moffat-county-jail-moffat-co.md"
-signals: ["igsa"]
-states: ["CO"]
+type: "entry"
+layout: "single"
+facility_name: "Moffat County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/moffat-county-jail-moffat-co/"
 ---
 
 IGSA detention facility: Moffat County Jail in Moffat County, CO.

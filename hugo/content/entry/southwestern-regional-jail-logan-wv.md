@@ -1,16 +1,19 @@
 ---
 title: "Southwestern Regional Jail — Logan, WV"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "54045"
 state: "WV"
 county: "Logan"
 repo_path: "kb/facilities/southwestern-regional-jail-logan-wv.md"
-signals: ["igsa"]
-states: ["WV"]
+type: "entry"
+layout: "single"
+facility_name: "Southwestern Regional Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/southwestern-regional-jail-logan-wv/"
 ---
 
 IGSA detention facility: Southwestern Regional Jail in Logan County, WV.

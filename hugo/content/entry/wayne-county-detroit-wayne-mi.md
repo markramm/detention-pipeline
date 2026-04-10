@@ -1,16 +1,19 @@
 ---
 title: "Wayne County, Detroit — Wayne, MI"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "26163"
 state: "MI"
 county: "Wayne"
 repo_path: "kb/facilities/wayne-county-detroit-wayne-mi.md"
-signals: ["igsa"]
-states: ["MI"]
+type: "entry"
+layout: "single"
+facility_name: "Wayne County, Detroit"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/wayne-county-detroit-wayne-mi/"
 ---
 
 IGSA detention facility: Wayne County, Detroit in Wayne County, MI.

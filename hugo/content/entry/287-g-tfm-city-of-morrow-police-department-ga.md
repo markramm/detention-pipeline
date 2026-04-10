@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: City of Morrow Police Department (GA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "13063"
 state: "GA"
 county: "Clayton County"
 repo_path: "kb/287g/287-g-tfm-city-of-morrow-police-department-ga.md"
-signals: ["287g-agreement"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and City of Morrow Police Department.

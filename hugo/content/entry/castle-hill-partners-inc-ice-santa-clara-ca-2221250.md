@@ -1,7 +1,5 @@
 ---
 title: "CASTLE HILL PARTNERS, INC — ICE SANTA CLARA, CA $2,221,250"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "06085"
 state: "CA"
 county: "SANTA CLARA"
 repo_path: "kb/anc/castle-hill-partners-inc-ice-santa-clara-ca-2221250.md"
-signals: ["anc-contract"]
-states: ["CA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

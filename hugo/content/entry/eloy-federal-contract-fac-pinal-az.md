@@ -1,16 +1,19 @@
 ---
 title: "Eloy Federal Contract Fac — Pinal, AZ"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "04021"
 state: "AZ"
 county: "Pinal"
 repo_path: "kb/facilities/eloy-federal-contract-fac-pinal-az.md"
-signals: ["igsa"]
-states: ["AZ"]
+type: "entry"
+layout: "single"
+facility_name: "Eloy Federal Contract Fac"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/eloy-federal-contract-fac-pinal-az/"
 ---
 
 IGSA detention facility: Eloy Federal Contract Fac in Pinal County, AZ.

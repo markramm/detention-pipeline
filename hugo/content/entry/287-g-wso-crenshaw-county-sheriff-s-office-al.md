@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Crenshaw County Sheriff’s Office (AL)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "01041"
 state: "AL"
 county: "Crenshaw County"
 repo_path: "kb/287g/287-g-wso-crenshaw-county-sheriff-s-office-al.md"
-signals: ["287g-agreement"]
-states: ["AL"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Crenshaw County Sheriff’s Office.

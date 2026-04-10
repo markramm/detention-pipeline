@@ -1,16 +1,19 @@
 ---
 title: "Nye County Sheriff-Pahrump — Nye, NV"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "32023"
 state: "NV"
 county: "Nye"
 repo_path: "kb/facilities/nye-county-sheriff-pahrump-nye-nv.md"
-signals: ["igsa"]
-states: ["NV"]
+type: "entry"
+layout: "single"
+facility_name: "Nye County Sheriff-Pahrump"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/nye-county-sheriff-pahrump-nye-nv/"
 ---
 
 IGSA detention facility: Nye County Sheriff-Pahrump in Nye County, NV.

@@ -1,16 +1,19 @@
 ---
 title: "Ada County Jail — Ada, ID"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "16001"
 state: "ID"
 county: "Ada"
 repo_path: "kb/facilities/ada-county-jail-ada-id.md"
-signals: ["igsa"]
-states: ["ID"]
+type: "entry"
+layout: "single"
+facility_name: "Ada County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/ada-county-jail-ada-id/"
 ---
 
 IGSA detention facility: Ada County Jail in Ada County, ID.

@@ -1,16 +1,20 @@
 ---
 title: "G4S Secure Solutions (Allied Universal subsidiary)"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/g4s-secure-solutions.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "transportation"
+headquarters: "Jupiter, Florida (Allied Universal HQ: Conshohocken, Pennsylvania)"
+founded: "2003 (ICE contract); acquired by Allied Universal 2021"
+status: "active"
+canonical: "/players/contractors/g4s-secure-solutions/"
 ---
 
 # G4S Secure Solutions

@@ -1,7 +1,5 @@
 ---
 title: "MICROSOFT CORPORATION — ICE KING, WA $1,441,004"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "53033"
 state: "WA"
 county: "KING"
 repo_path: "kb/anc/microsoft-corporation-ice-king-wa-1441004.md"
-signals: ["anc-contract"]
-states: ["WA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

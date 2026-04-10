@@ -1,16 +1,19 @@
 ---
 title: "Sunnyside Jail — Yakima, WA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "53077"
 state: "WA"
 county: "Yakima"
 repo_path: "kb/facilities/sunnyside-jail-yakima-wa.md"
-signals: ["igsa"]
-states: ["WA"]
+type: "entry"
+layout: "single"
+facility_name: "Sunnyside Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/sunnyside-jail-yakima-wa/"
 ---
 
 IGSA detention facility: Sunnyside Jail in Yakima County, WA.

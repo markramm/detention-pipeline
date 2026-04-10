@@ -1,16 +1,19 @@
 ---
 title: "Aurora City Jail — Arapahoe, CO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "08005"
 state: "CO"
 county: "Arapahoe"
 repo_path: "kb/facilities/aurora-city-jail-arapahoe-co.md"
-signals: ["igsa"]
-states: ["CO"]
+type: "entry"
+layout: "single"
+facility_name: "Aurora City Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/aurora-city-jail-arapahoe-co/"
 ---
 
 IGSA detention facility: Aurora City Jail in Arapahoe County, CO.

@@ -1,16 +1,19 @@
 ---
 title: "Uintah County Jail — Uintah, UT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "49047"
 state: "UT"
 county: "Uintah"
 repo_path: "kb/facilities/uintah-county-jail-uintah-ut.md"
-signals: ["igsa"]
-states: ["UT"]
+type: "entry"
+layout: "single"
+facility_name: "Uintah County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/uintah-county-jail-uintah-ut/"
 ---
 
 IGSA detention facility: Uintah County Jail in Uintah County, UT.

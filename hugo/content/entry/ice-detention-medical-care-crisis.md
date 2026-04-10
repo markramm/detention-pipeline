@@ -1,16 +1,14 @@
 ---
 title: "ICE Detention Medical Care Crisis (2025-2026)"
-type: entry
-layout: single
 entry_type: "note"
-signal_label: "note"
-signal_color: "#666"
+signal_label: "Research Note"
+signal_color: "#6a6a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/ice-detention-medical-care-crisis.md"
-signals: ["note"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # ICE Detention Medical Care Crisis

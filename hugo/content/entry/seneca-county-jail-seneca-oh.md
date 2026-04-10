@@ -1,16 +1,19 @@
 ---
 title: "Seneca County Jail — Seneca, OH"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "39147"
 state: "OH"
 county: "Seneca"
 repo_path: "kb/facilities/seneca-county-jail-seneca-oh.md"
-signals: ["igsa"]
-states: ["OH"]
+type: "entry"
+layout: "single"
+facility_name: "Seneca County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/seneca-county-jail-seneca-oh/"
 ---
 
 IGSA detention facility: Seneca County Jail in Seneca County, OH.

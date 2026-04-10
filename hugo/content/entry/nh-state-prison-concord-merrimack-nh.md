@@ -1,16 +1,19 @@
 ---
 title: "NH State Prison, Concord — Merrimack, NH"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "33013"
 state: "NH"
 county: "Merrimack"
 repo_path: "kb/facilities/nh-state-prison-concord-merrimack-nh.md"
-signals: ["igsa"]
-states: ["NH"]
+type: "entry"
+layout: "single"
+facility_name: "NH State Prison, Concord"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/nh-state-prison-concord-merrimack-nh/"
 ---
 
 IGSA detention facility: NH State Prison, Concord in Merrimack County, NH.

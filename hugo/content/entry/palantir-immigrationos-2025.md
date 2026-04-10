@@ -1,16 +1,14 @@
 ---
 title: "Palantir ImmigrationOS — $30M prototype + $29.9M maintenance (2025-2027)"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/palantir-immigrationos-2025.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Palantir ImmigrationOS Contracts (2025)

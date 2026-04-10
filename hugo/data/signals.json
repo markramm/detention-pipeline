@@ -1,47 +1,56 @@
 {
   "287g-agreement": {
     "label": "287(g) Agreement",
+    "color": "#d46a2f",
     "weight": 7,
-    "color": "#d46a2f"
+    "section": "signals"
   },
   "anc-contract": {
     "label": "ANC Contract",
+    "color": "#c49025",
     "weight": 8,
-    "color": "#c49025"
+    "section": "signals"
   },
   "budget-distress": {
     "label": "Budget Distress",
+    "color": "#9a4fb5",
     "weight": 5,
-    "color": "#9a4fb5"
+    "section": "signals"
   },
   "commission-activity": {
     "label": "Commission Activity",
+    "color": "#8a9f2a",
     "weight": 7,
-    "color": "#8a9f2a"
+    "section": "signals"
   },
   "comms-discipline": {
     "label": "Comms Discipline",
+    "color": "#6a5fb5",
     "weight": 6,
-    "color": "#6a5fb5"
+    "section": "signals"
   },
   "job-posting": {
     "label": "Job Posting",
+    "color": "#2a9f6f",
     "weight": 7,
-    "color": "#2a9f6f"
+    "section": "signals"
   },
   "legislative-trace": {
     "label": "Legislative Trace",
+    "color": "#5f6a7a",
     "weight": 1,
-    "color": "#5f6a7a"
+    "section": "signals"
   },
   "real-estate-trace": {
     "label": "Real Estate Trace",
+    "color": "#b54f8a",
     "weight": 2,
-    "color": "#b54f8a"
+    "section": "signals"
   },
   "sheriff-network": {
     "label": "Sheriff Network",
+    "color": "#2a7fb5",
     "weight": 6,
-    "color": "#2a7fb5"
+    "section": "signals"
   }
 }

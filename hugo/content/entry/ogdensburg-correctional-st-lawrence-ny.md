@@ -1,16 +1,19 @@
 ---
 title: "Ogdensburg Correctional — St. Lawrence, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36089"
 state: "NY"
 county: "St. Lawrence"
 repo_path: "kb/facilities/ogdensburg-correctional-st-lawrence-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Ogdensburg Correctional"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/ogdensburg-correctional-st-lawrence-ny/"
 ---
 
 IGSA detention facility: Ogdensburg Correctional in St. Lawrence County, NY.

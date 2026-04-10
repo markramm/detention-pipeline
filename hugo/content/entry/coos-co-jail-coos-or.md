@@ -1,16 +1,19 @@
 ---
 title: "Coos Co. Jail — Coos, OR"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "41011"
 state: "OR"
 county: "Coos"
 repo_path: "kb/facilities/coos-co-jail-coos-or.md"
-signals: ["igsa"]
-states: ["OR"]
+type: "entry"
+layout: "single"
+facility_name: "Coos Co. Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/coos-co-jail-coos-or/"
 ---
 
 IGSA detention facility: Coos Co. Jail in Coos County, OR.

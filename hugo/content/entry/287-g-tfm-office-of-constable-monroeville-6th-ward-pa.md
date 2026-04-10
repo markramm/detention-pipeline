@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Office of Constable Monroeville 6th Ward (PA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "PA"
 county: "Alleghany County"
 repo_path: "kb/287g/287-g-tfm-office-of-constable-monroeville-6th-ward-pa.md"
-signals: ["287g-agreement"]
-states: ["PA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Office of Constable Monroeville 6th Ward.

@@ -1,16 +1,19 @@
 ---
 title: "Walworth County Jail — Walworth, WI"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "55127"
 state: "WI"
 county: "Walworth"
 repo_path: "kb/facilities/walworth-county-jail-walworth-wi.md"
-signals: ["igsa"]
-states: ["WI"]
+type: "entry"
+layout: "single"
+facility_name: "Walworth County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/walworth-county-jail-walworth-wi/"
 ---
 
 IGSA detention facility: Walworth County Jail in Walworth County, WI.

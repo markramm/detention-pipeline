@@ -1,16 +1,19 @@
 ---
 title: "Utah County Jail — Utah, UT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "49049"
 state: "UT"
 county: "Utah"
 repo_path: "kb/facilities/utah-county-jail-utah-ut.md"
-signals: ["igsa"]
-states: ["UT"]
+type: "entry"
+layout: "single"
+facility_name: "Utah County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/utah-county-jail-utah-ut/"
 ---
 
 IGSA detention facility: Utah County Jail in Utah County, UT.

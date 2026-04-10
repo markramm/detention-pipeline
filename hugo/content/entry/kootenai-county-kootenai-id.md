@@ -1,16 +1,19 @@
 ---
 title: "Kootenai County — Kootenai, ID"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "16055"
 state: "ID"
 county: "Kootenai"
 repo_path: "kb/facilities/kootenai-county-kootenai-id.md"
-signals: ["igsa"]
-states: ["ID"]
+type: "entry"
+layout: "single"
+facility_name: "Kootenai County"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/kootenai-county-kootenai-id/"
 ---
 
 IGSA detention facility: Kootenai County in Kootenai County, ID.

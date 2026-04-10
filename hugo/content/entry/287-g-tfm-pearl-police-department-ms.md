@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Pearl Police Department (MS)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "28121"
 state: "MS"
 county: "Rankin County"
 repo_path: "kb/287g/287-g-tfm-pearl-police-department-ms.md"
-signals: ["287g-agreement"]
-states: ["MS"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Pearl Police Department.

@@ -1,16 +1,19 @@
 ---
 title: "Fairfax Co. Adult Detention Center — Fairfax City, VA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "51600"
 state: "VA"
 county: "Fairfax City"
 repo_path: "kb/facilities/fairfax-co-adult-detention-center-fairfax-city-va.md"
-signals: ["igsa"]
-states: ["VA"]
+type: "entry"
+layout: "single"
+facility_name: "Fairfax Co. Adult Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/fairfax-co-adult-detention-center-fairfax-city-va/"
 ---
 
 IGSA detention facility: Fairfax Co. Adult Detention Center in Fairfax City County, VA.

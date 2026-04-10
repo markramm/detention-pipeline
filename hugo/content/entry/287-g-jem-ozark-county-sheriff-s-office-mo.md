@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Ozark County Sheriff’s Office (MO)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "29153"
 state: "MO"
 county: "Ozark County"
 repo_path: "kb/287g/287-g-jem-ozark-county-sheriff-s-office-mo.md"
-signals: ["287g-agreement"]
-states: ["MO"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Ozark County Sheriff’s Office.

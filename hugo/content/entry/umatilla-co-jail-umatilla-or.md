@@ -1,16 +1,19 @@
 ---
 title: "Umatilla Co Jail — Umatilla, OR"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "41059"
 state: "OR"
 county: "Umatilla"
 repo_path: "kb/facilities/umatilla-co-jail-umatilla-or.md"
-signals: ["igsa"]
-states: ["OR"]
+type: "entry"
+layout: "single"
+facility_name: "Umatilla Co Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/umatilla-co-jail-umatilla-or/"
 ---
 
 IGSA detention facility: Umatilla Co Jail in Umatilla County, OR.

@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Flathead County Sheriff’s Office (MT)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "30029"
 state: "MT"
 county: "Flathead County"
 repo_path: "kb/287g/287-g-wso-flathead-county-sheriff-s-office-mt.md"
-signals: ["287g-agreement"]
-states: ["MT"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Flathead County Sheriff’s Office.

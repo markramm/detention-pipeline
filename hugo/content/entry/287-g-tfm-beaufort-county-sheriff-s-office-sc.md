@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Beaufort County Sheriff’s Office (SC)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "45013"
 state: "SC"
 county: "Beaufort County"
 repo_path: "kb/287g/287-g-tfm-beaufort-county-sheriff-s-office-sc.md"
-signals: ["287g-agreement"]
-states: ["SC"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Beaufort County Sheriff’s Office.

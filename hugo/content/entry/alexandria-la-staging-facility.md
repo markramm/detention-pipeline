@@ -1,16 +1,19 @@
 ---
 title: "Alexandria Staging Facility — ICE's Deportation Flight Cornerstone"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Louisiana"
 county: "Rapides"
 repo_path: "kb/industry/facilities/alexandria-la-staging-facility.md"
-signals: ["facility"]
-states: ["Louisiana"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "GEO Group"
+status: "operational"
+bed_count: "400 beds (1,000+ people cycle through weekly)"
+canonical: "/facilities/alexandria-la-staging-facility/"
 ---
 
 # Alexandria Staging Facility

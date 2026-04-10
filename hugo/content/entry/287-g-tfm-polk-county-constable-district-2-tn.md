@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Polk County Constable District 2 (TN)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "47139"
 state: "TN"
 county: "Polk County"
 repo_path: "kb/287g/287-g-tfm-polk-county-constable-district-2-tn.md"
-signals: ["287g-agreement"]
-states: ["TN"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Polk County Constable District 2.

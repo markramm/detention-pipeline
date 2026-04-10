@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Beggs Police Department (OK)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "40111"
 state: "OK"
 county: "Okmulgee County"
 repo_path: "kb/287g/287-g-tfm-beggs-police-department-ok.md"
-signals: ["287g-agreement"]
-states: ["OK"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Beggs Police Department.

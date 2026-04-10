@@ -1,7 +1,5 @@
 ---
 title: "TACTICAL & SURVIVAL SPECIALTIES, LLC — ICE MUSCOGEE, GA $576,391"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "13215"
 state: "GA"
 county: "MUSCOGEE"
 repo_path: "kb/anc/tactical-survival-specialties-llc-ice-muscogee-ga-576391.md"
-signals: ["anc-contract"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

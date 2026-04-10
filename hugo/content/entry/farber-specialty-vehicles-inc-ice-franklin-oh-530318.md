@@ -1,7 +1,5 @@
 ---
 title: "FARBER SPECIALTY VEHICLES, INC — ICE FRANKLIN, OH $530,318"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "39049"
 state: "OH"
 county: "FRANKLIN"
 repo_path: "kb/anc/farber-specialty-vehicles-inc-ice-franklin-oh-530318.md"
-signals: ["anc-contract"]
-states: ["OH"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Sparta Police Department (MO)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "29043"
 state: "MO"
 county: "Christian County"
 repo_path: "kb/287g/287-g-tfm-sparta-police-department-mo.md"
-signals: ["287g-agreement"]
-states: ["MO"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Sparta Police Department.

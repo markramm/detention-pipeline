@@ -1,16 +1,19 @@
 ---
 title: "Kansas City MO — Platform Ventures Warehouse Deal Blocked by Community Pressure"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "Missouri"
 county: "Jackson"
 repo_path: "kb/industry/county-fights/kansas-city-mo-platform-ventures.md"
-signals: ["county-fight"]
-states: ["Missouri"]
+type: "entry"
+layout: "single"
+status: "blocked"
+outcome: "Platform Ventures withdrew from sale after weeks of mass protests, student walkouts, business shutdowns, and national general strike participation. Port KC severed all ties with the developer."
+vote_tally: "City Council blocked permits unanimously after ICE tour"
+facility: "kansas-city-mo-mega-center"
+canonical: "/fights/kansas-city-mo-platform-ventures/"
 ---
 
 # Kansas City: How Community Pressure Killed an ICE Mega Center

@@ -1,16 +1,19 @@
 ---
 title: "Cook Inlet Pretrial, Anch — Anchorage, AK"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "02020"
 state: "AK"
 county: "Anchorage"
 repo_path: "kb/facilities/cook-inlet-pretrial-anch-anchorage-ak.md"
-signals: ["igsa"]
-states: ["AK"]
+type: "entry"
+layout: "single"
+facility_name: "Cook Inlet Pretrial, Anch"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/cook-inlet-pretrial-anch-anchorage-ak/"
 ---
 
 IGSA detention facility: Cook Inlet Pretrial, Anch in Anchorage County, AK.

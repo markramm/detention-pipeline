@@ -1,7 +1,5 @@
 ---
 title: "B.I. INCORPORATED — ICE BOULDER, CO $300,396,839"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "08013"
 state: "CO"
 county: "BOULDER"
 repo_path: "kb/anc/bi-incorporated-ice-boulder-co-300396839.md"
-signals: ["anc-contract"]
-states: ["CO"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

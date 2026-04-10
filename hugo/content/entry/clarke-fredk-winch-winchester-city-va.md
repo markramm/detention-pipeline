@@ -1,16 +1,19 @@
 ---
 title: "Clarke Fred'k Winch. — Winchester City, VA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "51840"
 state: "VA"
 county: "Winchester City"
 repo_path: "kb/facilities/clarke-fredk-winch-winchester-city-va.md"
-signals: ["igsa"]
-states: ["VA"]
+type: "entry"
+layout: "single"
+facility_name: "Clarke Fred'k Winch."
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/clarke-fredk-winch-winchester-city-va/"
 ---
 
 IGSA detention facility: Clarke Fred'k Winch. in Winchester City County, VA.

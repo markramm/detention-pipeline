@@ -1,7 +1,5 @@
 ---
 title: "THE GEO GROUP, INC. — ICE MONTGOMERY, TX $55,018,504"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "48339"
 state: "TX"
 county: "MONTGOMERY"
 repo_path: "kb/anc/the-geo-group-inc-ice-montgomery-tx-55018504.md"
-signals: ["anc-contract"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

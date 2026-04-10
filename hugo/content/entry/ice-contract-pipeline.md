@@ -1,16 +1,14 @@
 ---
 title: "The ICE Contract Pipeline — From Targeting to Deportation"
-type: entry
-layout: single
 entry_type: "note"
-signal_label: "note"
-signal_color: "#666"
+signal_label: "Research Note"
+signal_color: "#6a6a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/ice-contract-pipeline.md"
-signals: ["note"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # The ICE Contract Pipeline

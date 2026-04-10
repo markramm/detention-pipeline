@@ -1,7 +1,5 @@
 ---
 title: "CONCUR TECHNOLOGIES, INC. — ICE WISE, TX $10,426,145"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "48497"
 state: "TX"
 county: "WISE"
 repo_path: "kb/anc/concur-technologies-inc-ice-wise-tx-10426145.md"
-signals: ["anc-contract"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,16 +1,19 @@
 ---
 title: "Montgomery County Jail — Montgomery, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48339"
 state: "TX"
 county: "Montgomery"
 repo_path: "kb/facilities/montgomery-county-jail-montgomery-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Montgomery County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/montgomery-county-jail-montgomery-tx/"
 ---
 
 IGSA detention facility: Montgomery County Jail in Montgomery County, TX.

@@ -1,206 +1,145 @@
-{{ define "head" }}
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
-<style>
-  /* Override base styles for full-bleed map */
-  body { background: #0a0a0f; }
-  .site-footer { display: none; }
-  .page-content { max-width: none; padding: 0; }
-
-  #map-wrap { width: 100vw; height: calc(100vh - 42px); position: relative; overflow: hidden; cursor: grab; }
-  #map-wrap:active { cursor: grabbing; }
-  #map-wrap svg { width: 100%; height: 100%; }
-  .county { stroke: rgba(42,42,53,0.5); stroke-width: 0.25; cursor: pointer; transition: stroke-width 0.1s; }
-  .county:hover { stroke: #8a8892; stroke-width: 1; }
-  .county.active { stroke: #e8e6e1; stroke-width: 1.5; }
-  .state-boundary { fill: none; stroke: #353542; stroke-width: 0.6; pointer-events: none; }
-  .nation-boundary { fill: none; stroke: #55535e; stroke-width: 0.8; pointer-events: none; }
-
-  .map-overlay {
-    position: absolute; z-index: 50; pointer-events: none;
-  }
-  .map-overlay > * { pointer-events: auto; }
-
-  #map-header {
-    top: 0; left: 0; right: 0;
-    background: linear-gradient(180deg, #0a0a0f 0%, #0a0a0f 50%, transparent 100%);
-    padding: 14px 24px 28px; color: #e8e6e1;
-  }
-  .map-title { font-family: 'Instrument Serif', serif; font-size: 22px; font-weight: 400; margin-bottom: 2px; }
-  .map-sub { font-size: 11px; color: #8a8892; }
-  .map-actions { display: flex; gap: 8px; margin-top: 8px; }
-  .map-actions a {
-    font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.06em;
-    text-transform: uppercase; color: #55535e; padding: 3px 8px; border-radius: 2px;
-    border: 1px solid #2a2a35; text-decoration: none; transition: all 0.12s;
-  }
-  .map-actions a:hover { color: #e8e6e1; border-color: #353542; }
-
-  #map-legend {
-    bottom: 16px; left: 24px;
-    background: #111118; border: 1px solid #2a2a35; border-radius: 4px;
-    padding: 10px 14px; display: flex; align-items: center; gap: 10px;
-  }
-  .legend-label { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: #55535e; }
-  .legend-bar { display: flex; gap: 1px; }
-  .legend-cell { width: 16px; height: 10px; border-radius: 1px; }
-
-  #map-stats {
-    bottom: 16px; right: 24px;
-    display: flex; gap: 10px;
-  }
-  .m-stat { background: #111118; border: 1px solid #2a2a35; border-radius: 4px; padding: 6px 12px; text-align: center; }
-  .m-stat-val { font-family: 'DM Mono', monospace; font-size: 14px; font-weight: 500; color: #e8e6e1; line-height: 1; }
-  .m-stat-label { font-family: 'DM Mono', monospace; font-size: 7px; letter-spacing: 0.1em; text-transform: uppercase; color: #55535e; margin-top: 2px; }
-
-  #map-zoom {
-    top: 50%; right: 20px; transform: translateY(-50%);
-    display: flex; flex-direction: column; gap: 1px;
-  }
-  .z-btn {
-    width: 30px; height: 30px; background: #111118; border: 1px solid #2a2a35;
-    color: #8a8892; font-family: 'DM Mono', monospace; font-size: 14px;
-    cursor: pointer; display: flex; align-items: center; justify-content: center;
-    transition: all 0.1s;
-  }
-  .z-btn:hover { background: #22222f; color: #e8e6e1; }
-  .z-btn:first-child { border-radius: 4px 4px 0 0; }
-  .z-btn:last-child { border-radius: 0 0 4px 4px; }
-
-  /* Tooltip */
-  #tip { position: fixed; z-index: 200; pointer-events: none; opacity: 0; transition: opacity 0.1s; max-width: 360px; }
-  #tip.vis { opacity: 1; }
-  .tip-in {
-    background: #111118; border: 1px solid #353542; border-radius: 5px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.5); overflow: hidden; color: #e8e6e1;
-  }
-  .tip-head { padding: 10px 14px 8px; border-bottom: 1px solid #2a2a35; display: flex; justify-content: space-between; align-items: baseline; }
-  .tip-county { font-family: 'Instrument Serif', serif; font-size: 16px; }
-  .tip-score { font-family: 'DM Mono', monospace; font-size: 18px; font-weight: 500; margin-left: 12px; }
-  .tip-fips { font-family: 'DM Mono', monospace; font-size: 9px; color: #55535e; margin-top: 1px; }
-  .tip-sigs { padding: 8px 14px 10px; }
-  .tip-row { display: flex; align-items: center; gap: 6px; padding: 2px 0; font-size: 10.5px; color: #8a8892; }
-  .tip-row .signal-dot { width: 5px; height: 5px; }
-  .tip-cnt { font-family: 'DM Mono', monospace; font-weight: 500; color: #e8e6e1; margin-left: auto; }
-  .tip-empty { padding: 10px 14px; }
-  .tip-empty p { font-size: 10px; color: #55535e; font-style: italic; margin-top: 2px; }
-  .tip-link {
-    display: block; padding: 6px 14px; border-top: 1px solid #2a2a35;
-    font-family: 'DM Mono', monospace; font-size: 9px; color: #55535e;
-    text-decoration: none; text-align: center; letter-spacing: 0.06em;
-    text-transform: uppercase; transition: all 0.1s;
-  }
-  .tip-link:hover { color: #e8e6e1; background: rgba(255,255,255,0.03); }
-
-  @media (max-width: 768px) {
-    #map-header { padding: 10px 14px 20px; }
-    .map-title { font-size: 17px; }
-    #map-legend { left: 10px; bottom: 10px; }
-    #map-stats { right: 10px; bottom: 10px; }
-  }
-</style>
-{{ end }}
-
 {{ define "main" }}
-<div class="page-content">
-<div id="map-wrap">
+<div class="page-content" style="max-width:none; padding:0;">
 
-  <div id="map-header" class="map-overlay">
-    <div class="map-title">Detention Pipeline Heat Map</div>
-    <div class="map-sub">Multi-signal convergence scoring across {{ .Params.total_counties }} U.S. counties · Data as of Feb 2026</div>
-    <div class="map-actions">
-      <a href="/county/">Browse counties</a>
-      <a href="/signals/">By signal type</a>
-      <a href="/methodology/">Methodology</a>
+  {{/* ── Hero ── */}}
+  <div style="background:var(--bg-deep); color:var(--text-light); padding:40px 24px 48px; text-align:center;">
+    <h2 class="serif" style="font-size:36px; font-weight:400; letter-spacing:-0.02em; margin-bottom:8px; max-width:700px; margin-left:auto; margin-right:auto;">
+      Is your county being pitched for ICE detention?
+    </h2>
+    <p style="font-size:14px; color:#8a8892; max-width:560px; margin:0 auto 20px; line-height:1.6;">
+      Tracking {{ .Params.total_entries | default 2232 }} signals across {{ .Params.total_counties | default 986 }} counties.
+      When multiple independent indicators converge, a county is likely being targeted.
+    </p>
+    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+      <a href="/map/" class="btn" style="background:var(--accent); color:white; border-color:var(--accent); font-size:13px; padding:10px 20px;">
+        Explore the heat map →
+      </a>
+      <a href="/county/" class="btn" style="background:transparent; color:#8a8892; border-color:#353542; font-size:13px; padding:10px 20px;">
+        Search by county
+      </a>
     </div>
   </div>
 
-  <div id="map-legend" class="map-overlay">
-    <span class="legend-label">Heat</span>
-    <div><div class="legend-bar" id="legend-bar"></div></div>
+  {{/* ── Key Numbers ── */}}
+  <div style="max-width:1200px; margin:-24px auto 0; padding:0 24px; position:relative; z-index:10;">
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(140px, 1fr)); gap:10px;">
+      {{ $stats := slice
+        (dict "val" (.Params.total_counties | default 986) "label" "Counties tracked" "href" "/county/")
+        (dict "val" (.Params.total_facilities | default 495) "label" "IGSA Facilities" "href" "/facilities/")
+        (dict "val" (.Params.total_fights | default 13) "label" "County fights" "href" "/fights/")
+        (dict "val" (.Params.total_contractors | default 25) "label" "Contractors profiled" "href" "/players/contractors/")
+        (dict "val" (.Params.max_score | default 129) "label" "Highest heat score" "href" "/county/")
+      }}
+      {{ range $stats }}
+      <a href="{{ .href }}" class="card" style="text-align:center; padding:14px; text-decoration:none;">
+        <div class="mono" style="font-size:24px; font-weight:500; line-height:1; color:var(--text-primary);">{{ .val }}</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:4px;">{{ .label }}</div>
+      </a>
+      {{ end }}
+    </div>
   </div>
 
-  <div id="map-stats" class="map-overlay">
-    <div class="m-stat"><div class="m-stat-val" id="s-counties">—</div><div class="m-stat-label">Counties</div></div>
-    <div class="m-stat"><div class="m-stat-val" id="s-max">—</div><div class="m-stat-label">Max Score</div></div>
-  </div>
+  <div style="max-width:1200px; margin:0 auto; padding:32px 24px 48px;">
 
-  <div id="map-zoom" class="map-overlay">
-    <button class="z-btn" id="zi">+</button>
-    <button class="z-btn" id="zo">−</button>
-  </div>
+    {{/* ── Active County Fights ── */}}
+    <div style="margin-bottom:40px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:12px;">
+        <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase;">Active County Fights</h2>
+        <a href="/fights/" style="font-size:11px; color:var(--accent-warm); text-decoration:none;">View all →</a>
+      </div>
 
+      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:10px;">
+        {{ range first 4 (where site.RegularPages "Params.entry_type" "county-fight") }}
+        <div class="card" style="border-left:3px solid {{ cond (eq .Params.status "contested") "var(--accent)" "#2a8a5a" }};">
+          <a href="{{ .RelPermalink }}">
+            <div class="card-title" style="font-size:13px;">{{ .Title }}</div>
+            <div class="card-meta">
+              {{ with .Params.status }}{{ . | title }}{{ end }}
+              {{ with .Params.county }} · {{ . }}, {{ end }}{{ .Params.state }}
+            </div>
+          </a>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+    {{/* ── How the Pipeline Works ── */}}
+    <div style="margin-bottom:40px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px;">How the Pipeline Works</h2>
+      <div style="padding:20px 24px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border);">
+        <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.7; margin-bottom:12px;">
+          Detention consultants target counties with <strong>budget distress</strong>, cooperative <strong>sheriffs</strong>,
+          and existing <strong>infrastructure</strong>. The pitch follows a playbook: sheriff conference recruitment,
+          closed-session presentations, NDA-protected negotiations, then a commission vote framed as fiscal salvation.
+        </p>
+        <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.7; margin-bottom:12px;">
+          This site tracks the <strong>signals</strong> that appear at each stage — 287(g) agreements,
+          commission activity, job postings, ANC contracts, real estate traces — and scores counties
+          by how many independent indicators <strong>converge</strong>.
+        </p>
+        <a href="/methodology/" style="font-size:12px; color:var(--accent-warm); text-decoration:none;">Read the full methodology →</a>
+      </div>
+    </div>
+
+    {{/* ── Two-column: Top Counties + Key Players ── */}}
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-bottom:40px;">
+
+      <div>
+        <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:12px;">
+          <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase;">Hottest Counties</h2>
+          <a href="/county/" style="font-size:11px; color:var(--accent-warm); text-decoration:none;">View all →</a>
+        </div>
+        {{ range first 8 (sort (where site.RegularPages "Type" "county") ".Params.score" "desc") }}
+        <div style="display:flex; align-items:baseline; gap:8px; padding:6px 0; border-bottom:1px solid var(--border);">
+          <span class="score-pill {{ cond (ge .Params.score 70.0) "score-hot" "score-warm" }}" style="font-size:12px; min-width:36px; text-align:center;">{{ .Params.score }}</span>
+          <a href="{{ .RelPermalink }}" style="font-size:12.5px; color:var(--text-primary); text-decoration:none; flex:1;">{{ .Title }}</a>
+          <span class="mono dim" style="font-size:10px;">{{ .Params.signal_types }} signals</span>
+        </div>
+        {{ end }}
+      </div>
+
+      <div>
+        <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:12px;">
+          <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase;">Key Players</h2>
+          <a href="/players/" style="font-size:11px; color:var(--accent-warm); text-decoration:none;">View all →</a>
+        </div>
+        {{ range first 6 (where site.RegularPages "Params.entry_type" "contractor") }}
+        <div class="card" style="padding:8px 12px; margin-bottom:6px;">
+          <a href="{{ .RelPermalink }}">
+            <div style="display:flex; align-items:center; gap:6px;">
+              <span class="signal-dot" style="background:#8a5a2a;"></span>
+              <span class="card-title" style="font-size:12.5px; margin:0;">{{ .Title }}</span>
+            </div>
+          </a>
+        </div>
+        {{ end }}
+        {{ range first 3 (where site.RegularPages "Params.entry_type" "person") }}
+        <div class="card" style="padding:8px 12px; margin-bottom:6px;">
+          <a href="{{ .RelPermalink }}">
+            <div style="display:flex; align-items:center; gap:6px;">
+              <span class="signal-dot" style="background:#5a2a8a;"></span>
+              <span class="card-title" style="font-size:12.5px; margin:0;">{{ .Title }}</span>
+            </div>
+          </a>
+        </div>
+        {{ end }}
+      </div>
+
+    </div>
+
+    {{/* ── Call to Action ── */}}
+    <div style="text-align:center; padding:32px 24px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border);">
+      <h2 class="serif" style="font-size:22px; font-weight:400; margin-bottom:6px;">Help build the early warning system</h2>
+      <p style="font-size:13px; color:var(--text-secondary); margin-bottom:16px; max-width:500px; margin-left:auto; margin-right:auto;">
+        Most counties have only automated signals. Local knowledge makes the difference.
+        Submit tips, investigate your county, or contribute data directly.
+      </p>
+      <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+        <a href="/contribute/" class="btn btn-accent">How to contribute →</a>
+        <a href="https://github.com/markramm/detention-pipeline" class="btn" target="_blank" rel="noopener">View on GitHub</a>
+      </div>
+    </div>
+
+  </div>
 </div>
-
-<div id="tip"><div class="tip-in" id="tip-in"></div></div>
-</div>
-
-<script>
-const SIG = {
-  'igsa':               {l:'IGSA',       c:'var(--signal-igsa)'},
-  '287g-agreement':     {l:'287(g)',     c:'var(--signal-287g)'},
-  'anc-contract':       {l:'ANC',        c:'var(--signal-anc)'},
-  'commission-activity':{l:'Commission', c:'var(--signal-commission)'},
-  'job-posting':        {l:'Jobs',       c:'var(--signal-job)'},
-  'sheriff-network':    {l:'Sheriff',    c:'var(--signal-sheriff)'},
-  'comms-discipline':   {l:'Comms',      c:'var(--signal-comms)'},
-  'budget-distress':    {l:'Budget',     c:'var(--signal-budget)'},
-  'real-estate-trace':  {l:'Real Estate',c:'var(--signal-realestate)'},
-  'legislative-trace':  {l:'Legislative',c:'var(--signal-legislative)'},
-};
-const SO = Object.keys(SIG);
-let H={}, FN={}, mx=1, all=[];
-
-function hc(s){if(!s||s<=0)return'#12121a';const t=Math.min(s/mx,1);return`rgb(${18+t*237|0},${18+Math.pow(t,2.2)*50|0},${26-t*10|0})`}
-function sc(s){return s>=70?'var(--accent-hot)':s>=40?'var(--accent-warm)':s>=15?'#8a8892':'#55535e'}
-function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
-
-async function init(){
-  const[topo,heat,names]=await Promise.all([d3.json('/counties-albers-10m.json'),d3.json('/heat_data.json'),d3.json('/fips_names.json')]);
-  FN=names;all=heat;heat.forEach(d=>{H[d.fips]=d});mx=d3.max(heat,d=>d.score)||1;
-  document.getElementById('s-counties').textContent=heat.length;
-  document.getElementById('s-max').textContent=mx;
-  const lb=document.getElementById('legend-bar');
-  for(let i=0;i<=10;i++){const c=document.createElement('div');c.className='legend-cell';c.style.background=hc(i/10*mx);lb.appendChild(c)}
-
-  const el=document.getElementById('map-wrap'),w=el.clientWidth,h=el.clientHeight;
-  const svg=d3.select('#map-wrap').append('svg').attr('width',w).attr('height',h);
-  const g=svg.append('g');
-  const mW=1016,mH=594,s0=Math.min(w/mW,h/mH)*0.92;
-  const tx=(w-mW*s0)/2-(-58)*s0,ty=(h-mH*s0)/2-13*s0;
-  const it=d3.zoomIdentity.translate(tx,ty).scale(s0);
-  const zm=d3.zoom().scaleExtent([s0*0.8,s0*16]).on('zoom',e=>g.attr('transform',e.transform));
-  svg.call(zm).call(zm.transform,it);
-  document.getElementById('zi').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1.5);
-  document.getElementById('zo').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1/1.5);
-
-  const counties=topojson.feature(topo,topo.objects.counties);
-  g.selectAll('.county').data(counties.features).join('path').attr('class','county').attr('d',d3.geoPath())
-    .attr('fill',d=>{const f=d.id.toString().padStart(5,'0');const dd=H[f];return dd?hc(dd.score):'#12121a'})
-    .on('mouseenter',(e,d)=>showTip(e,d)).on('mousemove',e=>moveTip(e)).on('mouseleave',hideTip)
-    .on('click',(e,d)=>{const f=d.id.toString().padStart(5,'0');if(H[f])window.location.href='/county/'+f+'/'});
-  g.append('path').datum(topojson.mesh(topo,topo.objects.states,(a,b)=>a!==b)).attr('class','state-boundary').attr('d',d3.geoPath());
-  g.append('path').datum(topojson.mesh(topo,topo.objects.nation)).attr('class','nation-boundary').attr('d',d3.geoPath());
-}
-
-const tip=document.getElementById('tip'),tipIn=document.getElementById('tip-in');
-function showTip(ev,d){
-  const f=d.id.toString().padStart(5,'0'),dd=H[f],nm=dd?dd.county:(FN[f]||'County '+f);
-  if(dd){
-    const rows=SO.filter(s=>dd.signals[s]).map(s=>`<div class="tip-row"><span class="signal-dot" style="background:${SIG[s].c}"></span>${SIG[s].l}<span class="tip-cnt">${dd.signals[s].count}</span></div>`).join('');
-    tipIn.innerHTML=`<div class="tip-head"><div><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div></div><div class="tip-score" style="color:${sc(dd.score)}">${dd.score}</div></div><div class="tip-sigs">${rows}</div><a href="/county/${f}/" class="tip-link">View county profile →</a>`;
-  } else {
-    tipIn.innerHTML=`<div class="tip-empty"><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div><p>No pipeline signals detected</p></div>`;
-  }
-  moveTip(ev);tip.classList.add('vis');
-}
-function moveTip(ev){
-  let x=ev.clientX+14,y=ev.clientY+14;
-  if(x+tip.offsetWidth>window.innerWidth-14)x=ev.clientX-tip.offsetWidth-14;
-  if(y+tip.offsetHeight>window.innerHeight-14)y=ev.clientY-tip.offsetHeight-14;
-  tip.style.left=x+'px';tip.style.top=y+'px';
-}
-function hideTip(){tip.classList.remove('vis')}
-init();
-</script>
 {{ end }}

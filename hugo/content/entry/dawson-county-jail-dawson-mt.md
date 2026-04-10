@@ -1,16 +1,19 @@
 ---
 title: "Dawson County Jail — Dawson, MT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "30021"
 state: "MT"
 county: "Dawson"
 repo_path: "kb/facilities/dawson-county-jail-dawson-mt.md"
-signals: ["igsa"]
-states: ["MT"]
+type: "entry"
+layout: "single"
+facility_name: "Dawson County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/dawson-county-jail-dawson-mt/"
 ---
 
 IGSA detention facility: Dawson County Jail in Dawson County, MT.

@@ -1,16 +1,19 @@
 ---
 title: "Monroe County Detention-Dorm — Monroe, MI"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "26115"
 state: "MI"
 county: "Monroe"
 repo_path: "kb/facilities/monroe-county-detention-dorm-monroe-mi.md"
-signals: ["igsa"]
-states: ["MI"]
+type: "entry"
+layout: "single"
+facility_name: "Monroe County Detention-Dorm"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/monroe-county-detention-dorm-monroe-mi/"
 ---
 
 IGSA detention facility: Monroe County Detention-Dorm in Monroe County, MI.

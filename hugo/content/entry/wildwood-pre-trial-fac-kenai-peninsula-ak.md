@@ -1,16 +1,19 @@
 ---
 title: "Wildwood Pre-Trial Fac. — Kenai Peninsula, AK"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "02122"
 state: "AK"
 county: "Kenai Peninsula"
 repo_path: "kb/facilities/wildwood-pre-trial-fac-kenai-peninsula-ak.md"
-signals: ["igsa"]
-states: ["AK"]
+type: "entry"
+layout: "single"
+facility_name: "Wildwood Pre-Trial Fac."
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/wildwood-pre-trial-fac-kenai-peninsula-ak/"
 ---
 
 IGSA detention facility: Wildwood Pre-Trial Fac. in Kenai Peninsula County, AK.

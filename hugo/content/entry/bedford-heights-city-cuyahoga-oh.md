@@ -1,16 +1,19 @@
 ---
 title: "Bedford Heights City — Cuyahoga, OH"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "39035"
 state: "OH"
 county: "Cuyahoga"
 repo_path: "kb/facilities/bedford-heights-city-cuyahoga-oh.md"
-signals: ["igsa"]
-states: ["OH"]
+type: "entry"
+layout: "single"
+facility_name: "Bedford Heights City"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/bedford-heights-city-cuyahoga-oh/"
 ---
 
 IGSA detention facility: Bedford Heights City in Cuyahoga County, OH.

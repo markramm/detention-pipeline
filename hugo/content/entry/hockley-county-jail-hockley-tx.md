@@ -1,16 +1,19 @@
 ---
 title: "Hockley County Jail — Hockley, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48219"
 state: "TX"
 county: "Hockley"
 repo_path: "kb/facilities/hockley-county-jail-hockley-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Hockley County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/hockley-county-jail-hockley-tx/"
 ---
 
 IGSA detention facility: Hockley County Jail in Hockley County, TX.

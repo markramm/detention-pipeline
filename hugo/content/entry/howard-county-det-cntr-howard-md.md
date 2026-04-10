@@ -1,16 +1,19 @@
 ---
 title: "Howard County Det Cntr — Howard, MD"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "24027"
 state: "MD"
 county: "Howard"
 repo_path: "kb/facilities/howard-county-det-cntr-howard-md.md"
-signals: ["igsa"]
-states: ["MD"]
+type: "entry"
+layout: "single"
+facility_name: "Howard County Det Cntr"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/howard-county-det-cntr-howard-md/"
 ---
 
 IGSA detention facility: Howard County Det Cntr in Howard County, MD.

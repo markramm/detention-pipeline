@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Indiana Department of Corrections (IN)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "18133"
 state: "IN"
 county: "Putnam County"
 repo_path: "kb/287g/287-g-jem-indiana-department-of-corrections-in.md"
-signals: ["287g-agreement"]
-states: ["IN"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Indiana Department of Corrections.

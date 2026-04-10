@@ -1,16 +1,19 @@
 ---
 title: "Travis County Jail — Travis, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48453"
 state: "TX"
 county: "Travis"
 repo_path: "kb/facilities/travis-county-jail-travis-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Travis County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/travis-county-jail-travis-tx/"
 ---
 
 IGSA detention facility: Travis County Jail in Travis County, TX.

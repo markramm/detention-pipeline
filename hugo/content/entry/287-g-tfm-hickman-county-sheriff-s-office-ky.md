@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Hickman County Sheriff’s Office (KY)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "21105"
 state: "KY"
 county: "Hickman County"
 repo_path: "kb/287g/287-g-tfm-hickman-county-sheriff-s-office-ky.md"
-signals: ["287g-agreement"]
-states: ["KY"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Hickman County Sheriff’s Office.

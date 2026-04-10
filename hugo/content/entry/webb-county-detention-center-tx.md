@@ -1,16 +1,19 @@
 ---
 title: "Webb County Detention Center — Laredo TX (CoreCivic)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Texas"
 county: "Webb"
 repo_path: "kb/industry/facilities/webb-county-detention-center-tx.md"
-signals: ["facility"]
-states: ["Texas"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "CoreCivic"
+status: "operational"
+bed_count: "unknown"
+canonical: "/facilities/webb-county-detention-center-tx/"
 ---
 
 # Webb County Detention Center — Laredo TX (CoreCivic)

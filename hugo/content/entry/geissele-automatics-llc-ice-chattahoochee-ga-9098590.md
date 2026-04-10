@@ -1,7 +1,5 @@
 ---
 title: "GEISSELE AUTOMATICS LLC — ICE CHATTAHOOCHEE, GA $9,098,590"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "13053"
 state: "GA"
 county: "CHATTAHOOCHEE"
 repo_path: "kb/anc/geissele-automatics-llc-ice-chattahoochee-ga-9098590.md"
-signals: ["anc-contract"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,16 +1,19 @@
 ---
 title: "Missoula County — Missoula, MT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "30063"
 state: "MT"
 county: "Missoula"
 repo_path: "kb/facilities/missoula-county-missoula-mt.md"
-signals: ["igsa"]
-states: ["MT"]
+type: "entry"
+layout: "single"
+facility_name: "Missoula County"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/missoula-county-missoula-mt/"
 ---
 
 IGSA detention facility: Missoula County in Missoula County, MT.

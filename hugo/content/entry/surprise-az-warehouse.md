@@ -1,16 +1,19 @@
 ---
 title: "Surprise AZ Warehouse — ICE Regional Processing Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Arizona"
 county: "Maricopa"
 repo_path: "kb/industry/facilities/surprise-az-warehouse.md"
-signals: ["facility"]
-states: ["Arizona"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal) — contractor lacks detention background"
+status: "under-construction"
+bed_count: "550"
+canonical: "/facilities/surprise-az-warehouse/"
 ---
 
 # Surprise AZ Warehouse — ICE Regional Processing Center

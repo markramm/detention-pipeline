@@ -1,16 +1,19 @@
 ---
 title: "St. Mary's Co Det Cntr — St. Mary's, MD"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/facilities/st-mary-s-co-det-cntr-st-mary-s-md.md"
-signals: ["igsa"]
-states: [""]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: ""
+status: ""
+bed_count: ""
+canonical: "/facilities/st-mary-s-co-det-cntr-st-mary-s-md/"
 ---
 
 IGSA detention facility: St. Mary's Co Det Cntr in St. Mary's County, MD.

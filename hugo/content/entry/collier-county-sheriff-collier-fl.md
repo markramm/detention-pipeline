@@ -1,16 +1,19 @@
 ---
 title: "Collier County Sheriff — Collier, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12021"
 state: "FL"
 county: "Collier"
 repo_path: "kb/facilities/collier-county-sheriff-collier-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Collier County Sheriff"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/collier-county-sheriff-collier-fl/"
 ---
 
 IGSA detention facility: Collier County Sheriff in Collier County, FL.

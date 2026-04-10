@@ -1,16 +1,19 @@
 ---
 title: "Elbert County Jail — Elbert, CO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "08039"
 state: "CO"
 county: "Elbert"
 repo_path: "kb/facilities/elbert-county-jail-elbert-co.md"
-signals: ["igsa"]
-states: ["CO"]
+type: "entry"
+layout: "single"
+facility_name: "Elbert County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/elbert-county-jail-elbert-co/"
 ---
 
 IGSA detention facility: Elbert County Jail in Elbert County, CO.

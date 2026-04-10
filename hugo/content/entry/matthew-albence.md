@@ -1,16 +1,19 @@
 ---
 title: "Matthew T. Albence"
-type: entry
-layout: single
 entry_type: "person"
-signal_label: "person"
-signal_color: "#666"
+signal_label: "Person"
+signal_color: "#5a2a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/matthew-albence.md"
-signals: ["person"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "person"
+role: "SVP Client Relations, GEO Group / Former Acting ICE Director"
+government_service: ""
+private_role: ""
+canonical: "/players/people/matthew-albence/"
 ---
 
 # Matthew T. Albence

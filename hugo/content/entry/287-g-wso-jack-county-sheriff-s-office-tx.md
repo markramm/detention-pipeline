@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Jack County Sheriff’s Office (TX)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "48237"
 state: "TX"
 county: "Jack County"
 repo_path: "kb/287g/287-g-wso-jack-county-sheriff-s-office-tx.md"
-signals: ["287g-agreement"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Jack County Sheriff’s Office.

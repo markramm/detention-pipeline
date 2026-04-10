@@ -1,7 +1,5 @@
 ---
 title: "MVM, INC. — ICE LOUDOUN, VA $8,628,945"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "51107"
 state: "VA"
 county: "LOUDOUN"
 repo_path: "kb/anc/mvm-inc-ice-loudoun-va-8628945.md"
-signals: ["anc-contract"]
-states: ["VA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

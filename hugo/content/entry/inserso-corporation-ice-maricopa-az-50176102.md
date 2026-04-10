@@ -1,7 +1,5 @@
 ---
 title: "INSERSO CORPORATION — ICE MARICOPA, AZ $50,176,102"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "04013"
 state: "AZ"
 county: "MARICOPA"
 repo_path: "kb/anc/inserso-corporation-ice-maricopa-az-50176102.md"
-signals: ["anc-contract"]
-states: ["AZ"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

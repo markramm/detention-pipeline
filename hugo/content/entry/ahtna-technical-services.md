@@ -1,16 +1,20 @@
 ---
 title: "Ahtna Technical Services (Ahtna, Inc.)"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/ahtna-technical-services.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "facility-operator"
+headquarters: "Glennallen, Alaska"
+founded: "1972"
+status: "active"
+canonical: "/players/contractors/ahtna-technical-services/"
 ---
 
 # Ahtna Technical Services

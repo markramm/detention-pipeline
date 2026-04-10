@@ -1,16 +1,19 @@
 ---
 title: "Butler County Jail — Butler, OH"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "39017"
 state: "OH"
 county: "Butler"
 repo_path: "kb/facilities/butler-county-jail-butler-oh.md"
-signals: ["igsa"]
-states: ["OH"]
+type: "entry"
+layout: "single"
+facility_name: "Butler County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/butler-county-jail-butler-oh/"
 ---
 
 IGSA detention facility: Butler County Jail in Butler County, OH.

@@ -1,16 +1,19 @@
 ---
 title: "Blount County Justice Ctr — Blount, TN"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "47009"
 state: "TN"
 county: "Blount"
 repo_path: "kb/facilities/blount-county-justice-ctr-blount-tn.md"
-signals: ["igsa"]
-states: ["TN"]
+type: "entry"
+layout: "single"
+facility_name: "Blount County Justice Ctr"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/blount-county-justice-ctr-blount-tn/"
 ---
 
 IGSA detention facility: Blount County Justice Ctr in Blount County, TN.

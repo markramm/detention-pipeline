@@ -1,7 +1,5 @@
 ---
 title: "Broward County FL — $190M Budget Overspend (FL CFO Finding, Oct 2025)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "12011"
 state: "FL"
 county: "Broward"
 repo_path: "kb/budget/broward-county-fl-190m-budget-overspend-fl-cfo-finding-oct-2025.md"
-signals: ["budget-distress"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 Florida CFO found Broward County overspent its budget by $190 million. This creates fiscal vulnerability even in a large urban county.

@@ -1,16 +1,19 @@
 ---
 title: "Toole County Jail — Toole, MT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "30101"
 state: "MT"
 county: "Toole"
 repo_path: "kb/facilities/toole-county-jail-toole-mt.md"
-signals: ["igsa"]
-states: ["MT"]
+type: "entry"
+layout: "single"
+facility_name: "Toole County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/toole-county-jail-toole-mt/"
 ---
 
 IGSA detention facility: Toole County Jail in Toole County, MT.

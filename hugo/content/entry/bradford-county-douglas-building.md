@@ -1,16 +1,19 @@
 ---
 title: "Bradford County ICE Detention Campus (Douglas Building)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Florida"
 county: "Bradford County"
 repo_path: "kb/industry/facilities/bradford-county-douglas-building.md"
-signals: ["facility"]
-states: ["Florida"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "Bradford County Sheriff's Office (Sheriff Gordon Smith) / prime contractor TBD"
+status: "contested"
+bed_count: "3,000 beds (phased: 1,000 → 2,000 → 3,000)"
+canonical: "/facilities/bradford-county-douglas-building/"
 ---
 
 # Bradford County ICE Detention Campus (Douglas Building)

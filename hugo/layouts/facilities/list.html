@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>Facilities
+</div>
+<div class="page-content">
+  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">Detention Facilities</h1>
+  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:20px;">
+    {{ .Params.facility_count }} facilities with Intergovernmental Service Agreements (IGSAs) for ICE detention.
+  </p>
+
+  <table class="data-table">
+    <thead>
+      <tr>
+        <th>Facility</th>
+        <th>County</th>
+        <th style="width:50px">State</th>
+        <th style="width:70px">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+    {{ range sort .Pages ".Title" "asc" }}
+      <tr>
+        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td>{{ .Params.county }}</td>
+        <td class="mono">{{ .Params.state }}</td>
+        <td>
+          {{ with .Params.status }}
+          <span class="signal-badge" style="font-size:9px;">{{ . }}</span>
+          {{ end }}
+        </td>
+      </tr>
+    {{ end }}
+    </tbody>
+  </table>
+</div>
+{{ end }}

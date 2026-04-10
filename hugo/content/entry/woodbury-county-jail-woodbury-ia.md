@@ -1,16 +1,19 @@
 ---
 title: "Woodbury County Jail — Woodbury, IA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "19193"
 state: "IA"
 county: "Woodbury"
 repo_path: "kb/facilities/woodbury-county-jail-woodbury-ia.md"
-signals: ["igsa"]
-states: ["IA"]
+type: "entry"
+layout: "single"
+facility_name: "Woodbury County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/woodbury-county-jail-woodbury-ia/"
 ---
 
 IGSA detention facility: Woodbury County Jail in Woodbury County, IA.

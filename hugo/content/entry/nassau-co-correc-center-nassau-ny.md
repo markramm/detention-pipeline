@@ -1,16 +1,19 @@
 ---
 title: "Nassau Co Correc Center — Nassau, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36059"
 state: "NY"
 county: "Nassau"
 repo_path: "kb/facilities/nassau-co-correc-center-nassau-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Nassau Co Correc Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/nassau-co-correc-center-nassau-ny/"
 ---
 
 IGSA detention facility: Nassau Co Correc Center in Nassau County, NY.

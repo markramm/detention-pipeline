@@ -1,16 +1,19 @@
 ---
 title: "Socorro TX Warehouse — ICE Processing Center (~1000% Markup)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Texas"
 county: "El Paso"
 repo_path: "kb/industry/facilities/socorro-tx-warehouse.md"
-signals: ["facility"]
-states: ["Texas"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "purchased"
+bed_count: "unknown"
+canonical: "/facilities/socorro-tx-warehouse/"
 ---
 
 # Socorro TX Warehouse — ICE Processing Center

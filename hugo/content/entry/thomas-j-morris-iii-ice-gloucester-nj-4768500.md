@@ -1,7 +1,5 @@
 ---
 title: "THOMAS J. MORRIS III — ICE GLOUCESTER, NJ $4,768,500"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "34015"
 state: "NJ"
 county: "GLOUCESTER"
 repo_path: "kb/anc/thomas-j-morris-iii-ice-gloucester-nj-4768500.md"
-signals: ["anc-contract"]
-states: ["NJ"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

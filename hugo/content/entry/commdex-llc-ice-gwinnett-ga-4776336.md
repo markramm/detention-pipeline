@@ -1,7 +1,5 @@
 ---
 title: "COMMDEX, LLC — ICE GWINNETT, GA $4,776,336"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "13135"
 state: "GA"
 county: "GWINNETT"
 repo_path: "kb/anc/commdex-llc-ice-gwinnett-ga-4776336.md"
-signals: ["anc-contract"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

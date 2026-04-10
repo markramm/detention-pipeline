@@ -1,16 +1,19 @@
 ---
 title: "Marion Co Jail — Marion, OR"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "41047"
 state: "OR"
 county: "Marion"
 repo_path: "kb/facilities/marion-co-jail-marion-or.md"
-signals: ["igsa"]
-states: ["OR"]
+type: "entry"
+layout: "single"
+facility_name: "Marion Co Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/marion-co-jail-marion-or/"
 ---
 
 IGSA detention facility: Marion Co Jail in Marion County, OR.

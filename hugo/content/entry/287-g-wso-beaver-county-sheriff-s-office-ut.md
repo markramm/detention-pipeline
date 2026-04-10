@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Beaver County Sheriff’s Office (UT)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "49001"
 state: "UT"
 county: "Beaver County"
 repo_path: "kb/287g/287-g-wso-beaver-county-sheriff-s-office-ut.md"
-signals: ["287g-agreement"]
-states: ["UT"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Beaver County Sheriff’s Office.

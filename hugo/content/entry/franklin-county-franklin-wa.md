@@ -1,16 +1,19 @@
 ---
 title: "Franklin County — Franklin, WA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "53021"
 state: "WA"
 county: "Franklin"
 repo_path: "kb/facilities/franklin-county-franklin-wa.md"
-signals: ["igsa"]
-states: ["WA"]
+type: "entry"
+layout: "single"
+facility_name: "Franklin County"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/franklin-county-franklin-wa/"
 ---
 
 IGSA detention facility: Franklin County in Franklin County, WA.

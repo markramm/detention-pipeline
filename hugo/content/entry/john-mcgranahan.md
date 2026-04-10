@@ -1,16 +1,19 @@
 ---
 title: "John Russell McGranahan — Former GSA General Counsel with Blue Owl Investments"
-type: entry
-layout: single
 entry_type: "person"
-signal_label: "person"
-signal_color: "#666"
+signal_label: "Person"
+signal_color: "#5a2a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/john-mcgranahan.md"
-signals: ["person"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "person"
+role: "Former General Counsel, General Services Administration"
+government_service: ""
+private_role: ""
+canonical: "/players/people/john-mcgranahan/"
 ---
 
 # John Russell McGranahan

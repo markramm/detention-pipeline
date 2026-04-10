@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Louisiana Office of the State Fire Marshal (LA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "LA"
 county: ""
 repo_path: "kb/287g/287-g-tfm-louisiana-office-of-the-state-fire-marshal-la.md"
-signals: ["287g-agreement"]
-states: ["LA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Louisiana Office of the State Fire Marshal.

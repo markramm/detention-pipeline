@@ -1,7 +1,5 @@
 ---
 title: "PRICE MODERN LLC — ICE GA $717,125"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: ""
 state: "GA"
 county: ""
 repo_path: "kb/anc/price-modern-llc-ice-ga-717125.md"
-signals: ["anc-contract"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

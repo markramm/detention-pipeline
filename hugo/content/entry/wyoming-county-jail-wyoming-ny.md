@@ -1,16 +1,19 @@
 ---
 title: "Wyoming County Jail — Wyoming, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36121"
 state: "NY"
 county: "Wyoming"
 repo_path: "kb/facilities/wyoming-county-jail-wyoming-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Wyoming County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/wyoming-county-jail-wyoming-ny/"
 ---
 
 IGSA detention facility: Wyoming County Jail in Wyoming County, NY.

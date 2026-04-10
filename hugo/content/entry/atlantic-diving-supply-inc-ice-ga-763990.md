@@ -1,7 +1,5 @@
 ---
 title: "ATLANTIC DIVING SUPPLY, INC. — ICE GA $763,990"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: ""
 state: "GA"
 county: ""
 repo_path: "kb/anc/atlantic-diving-supply-inc-ice-ga-763990.md"
-signals: ["anc-contract"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

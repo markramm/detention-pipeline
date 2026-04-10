@@ -1,16 +1,20 @@
 ---
 title: "Sabot Consulting (Sabot Technologies Inc.)"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/sabot-consulting.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "consulting"
+headquarters: "Folsom, California"
+founded: "2000"
+status: "active"
+canonical: "/players/contractors/sabot-consulting/"
 ---
 
 # Sabot Consulting

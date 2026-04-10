@@ -1,7 +1,5 @@
 ---
 title: "FAMILY ENDEAVORS, INC. — ICE BEXAR, TX $131,385,875"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "48029"
 state: "TX"
 county: "BEXAR"
 repo_path: "kb/anc/family-endeavors-inc-ice-bexar-tx-131385875.md"
-signals: ["anc-contract"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

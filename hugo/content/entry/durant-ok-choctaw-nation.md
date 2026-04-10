@@ -1,16 +1,19 @@
 ---
 title: "Durant OK — Choctaw Nation Purchases Warehouse to Block ICE Detention Facility"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "Oklahoma"
 county: ""
 repo_path: "kb/industry/county-fights/durant-ok-choctaw-nation.md"
-signals: ["county-fight"]
-states: ["Oklahoma"]
+type: "entry"
+layout: "single"
+status: ""
+outcome: "blocked"
+vote_tally: ""
+facility: ""
+canonical: "/fights/durant-ok-choctaw-nation/"
 ---
 
 # Durant OK — Choctaw Nation Blocks ICE Warehouse

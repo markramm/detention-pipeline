@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Taylor Police Department (MI)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "MI"
 county: ""
 repo_path: "kb/287g/287-g-tfm-taylor-police-department-mi.md"
-signals: ["287g-agreement"]
-states: ["MI"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Taylor Police Department.

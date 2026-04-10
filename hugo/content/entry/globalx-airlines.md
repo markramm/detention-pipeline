@@ -1,16 +1,20 @@
 ---
 title: "GlobalX Airlines (Global Crossing Airlines)"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/globalx-airlines.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "charter-airline"
+headquarters: "Miami, Florida"
+founded: "2018"
+status: "active"
+canonical: "/players/contractors/globalx-airlines/"
 ---
 
 # GlobalX Airlines

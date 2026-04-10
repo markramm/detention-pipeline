@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Ouachita Parish Sheriff’s Office (LA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "22073"
 state: "LA"
 county: "Ouachita Parish"
 repo_path: "kb/287g/287-g-tfm-ouachita-parish-sheriff-s-office-la.md"
-signals: ["287g-agreement"]
-states: ["LA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Ouachita Parish Sheriff’s Office.

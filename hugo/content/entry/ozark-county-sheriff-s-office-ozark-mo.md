@@ -1,16 +1,19 @@
 ---
 title: "Ozark County Sheriff'S Office — Ozark, MO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/facilities/ozark-county-sheriff-s-office-ozark-mo.md"
-signals: ["igsa"]
-states: [""]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: ""
+status: ""
+bed_count: ""
+canonical: "/facilities/ozark-county-sheriff-s-office-ozark-mo/"
 ---
 
 IGSA detention facility: Ozark County Sheriff'S Office in Ozark County, MO.

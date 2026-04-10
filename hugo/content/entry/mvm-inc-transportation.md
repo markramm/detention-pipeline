@@ -1,16 +1,14 @@
 ---
 title: "MVM Inc. — ICE Detainee Transportation Contract ($1.1B cumulative)"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/mvm-inc-transportation.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # MVM Inc. — ICE Transportation Contract

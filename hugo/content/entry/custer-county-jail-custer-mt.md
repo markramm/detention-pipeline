@@ -1,16 +1,19 @@
 ---
 title: "Custer County Jail — Custer, MT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "30017"
 state: "MT"
 county: "Custer"
 repo_path: "kb/facilities/custer-county-jail-custer-mt.md"
-signals: ["igsa"]
-states: ["MT"]
+type: "entry"
+layout: "single"
+facility_name: "Custer County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/custer-county-jail-custer-mt/"
 ---
 
 IGSA detention facility: Custer County Jail in Custer County, MT.

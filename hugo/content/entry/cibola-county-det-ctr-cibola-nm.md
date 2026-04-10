@@ -1,16 +1,19 @@
 ---
 title: "Cibola County Det Ctr — Cibola, NM"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "35006"
 state: "NM"
 county: "Cibola"
 repo_path: "kb/facilities/cibola-county-det-ctr-cibola-nm.md"
-signals: ["igsa"]
-states: ["NM"]
+type: "entry"
+layout: "single"
+facility_name: "Cibola County Det Ctr"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/cibola-county-det-ctr-cibola-nm/"
 ---
 
 IGSA detention facility: Cibola County Det Ctr in Cibola County, NM.

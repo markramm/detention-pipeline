@@ -1,16 +1,19 @@
 ---
 title: "Douglas Co. Jail — Douglas, OR"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "41019"
 state: "OR"
 county: "Douglas"
 repo_path: "kb/facilities/douglas-co-jail-douglas-or.md"
-signals: ["igsa"]
-states: ["OR"]
+type: "entry"
+layout: "single"
+facility_name: "Douglas Co. Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/douglas-co-jail-douglas-or/"
 ---
 
 IGSA detention facility: Douglas Co. Jail in Douglas County, OR.

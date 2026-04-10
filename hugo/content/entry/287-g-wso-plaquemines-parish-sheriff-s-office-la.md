@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Plaquemines Parish Sheriff’s Office (LA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "22075"
 state: "LA"
 county: "Plaquemines Parish"
 repo_path: "kb/287g/287-g-wso-plaquemines-parish-sheriff-s-office-la.md"
-signals: ["287g-agreement"]
-states: ["LA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Plaquemines Parish Sheriff’s Office.

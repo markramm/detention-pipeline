@@ -1,16 +1,19 @@
 ---
 title: "Sussex County Jail — Sussex, NJ"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "34037"
 state: "NJ"
 county: "Sussex"
 repo_path: "kb/facilities/sussex-county-jail-sussex-nj.md"
-signals: ["igsa"]
-states: ["NJ"]
+type: "entry"
+layout: "single"
+facility_name: "Sussex County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/sussex-county-jail-sussex-nj/"
 ---
 
 IGSA detention facility: Sussex County Jail in Sussex County, NJ.

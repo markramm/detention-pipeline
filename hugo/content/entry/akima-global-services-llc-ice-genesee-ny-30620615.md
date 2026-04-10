@@ -1,7 +1,5 @@
 ---
 title: "AKIMA GLOBAL SERVICES, LLC — ICE GENESEE, NY $30,620,615"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "36037"
 state: "NY"
 county: "GENESEE"
 repo_path: "kb/anc/akima-global-services-llc-ice-genesee-ny-30620615.md"
-signals: ["anc-contract"]
-states: ["NY"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

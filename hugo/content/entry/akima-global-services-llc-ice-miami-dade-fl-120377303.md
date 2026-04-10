@@ -1,7 +1,5 @@
 ---
 title: "AKIMA GLOBAL SERVICES, LLC — ICE MIAMI-DADE, FL $120,377,303"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "12086"
 state: "FL"
 county: "MIAMI-DADE"
 repo_path: "kb/anc/akima-global-services-llc-ice-miami-dade-fl-120377303.md"
-signals: ["anc-contract"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

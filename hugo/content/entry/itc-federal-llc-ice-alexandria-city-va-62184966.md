@@ -1,7 +1,5 @@
 ---
 title: "ITC FEDERAL, LLC — ICE ALEXANDRIA CITY, VA $62,184,966"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: ""
 state: "VA"
 county: "ALEXANDRIA CITY"
 repo_path: "kb/anc/itc-federal-llc-ice-alexandria-city-va-62184966.md"
-signals: ["anc-contract"]
-states: ["VA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

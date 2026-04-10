@@ -1,16 +1,19 @@
 ---
 title: "Merrimack NH Warehouse — ICE Regional Processing Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "New Hampshire"
 county: "Hillsborough"
 repo_path: "kb/industry/facilities/merrimack-nh-warehouse.md"
-signals: ["facility"]
-states: ["New Hampshire"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "paused"
+bed_count: "500-1,500"
+canonical: "/facilities/merrimack-nh-warehouse/"
 ---
 
 # Merrimack NH Warehouse — ICE Regional Processing Center

@@ -1,16 +1,19 @@
 ---
 title: "Montgomery County Jail — Montgomery, MO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "29139"
 state: "MO"
 county: "Montgomery"
 repo_path: "kb/facilities/montgomery-county-jail-montgomery-mo.md"
-signals: ["igsa"]
-states: ["MO"]
+type: "entry"
+layout: "single"
+facility_name: "Montgomery County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/montgomery-county-jail-montgomery-mo/"
 ---
 
 IGSA detention facility: Montgomery County Jail in Montgomery County, MO.

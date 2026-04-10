@@ -1,7 +1,5 @@
 ---
 title: "PRICE MODERN LLC — ICE SARATOGA, NY $577,940"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "36091"
 state: "NY"
 county: "SARATOGA"
 repo_path: "kb/anc/price-modern-llc-ice-saratoga-ny-577940.md"
-signals: ["anc-contract"]
-states: ["NY"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

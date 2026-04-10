@@ -1,16 +1,19 @@
 ---
 title: "Hagerstown MD Warehouse — ICE Regional Processing Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Maryland"
 county: "Washington"
 repo_path: "kb/industry/facilities/hagerstown-md-warehouse.md"
-signals: ["facility"]
-states: ["Maryland"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "under-construction"
+bed_count: "500-1,500"
+canonical: "/facilities/hagerstown-md-warehouse/"
 ---
 
 # Hagerstown MD Warehouse — ICE Regional Processing Center

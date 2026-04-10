@@ -1,16 +1,19 @@
 ---
 title: "New Hanover Co Det Center — New Hanover, NC"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "37129"
 state: "NC"
 county: "New Hanover"
 repo_path: "kb/facilities/new-hanover-co-det-center-new-hanover-nc.md"
-signals: ["igsa"]
-states: ["NC"]
+type: "entry"
+layout: "single"
+facility_name: "New Hanover Co Det Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/new-hanover-co-det-center-new-hanover-nc/"
 ---
 
 IGSA detention facility: New Hanover Co Det Center in New Hanover County, NC.

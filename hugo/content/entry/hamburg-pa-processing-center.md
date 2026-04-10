@@ -1,16 +1,19 @@
 ---
 title: "Hamburg PA — ICE Processing Center (warehouse purchase)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Pennsylvania"
 county: "Berks"
 repo_path: "kb/industry/facilities/hamburg-pa-processing-center.md"
-signals: ["facility"]
-states: ["Pennsylvania"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "approved"
+bed_count: "1,000-1,500 beds (processing center)"
+canonical: "/facilities/hamburg-pa-processing-center/"
 ---
 
 # Hamburg PA ICE Processing Center

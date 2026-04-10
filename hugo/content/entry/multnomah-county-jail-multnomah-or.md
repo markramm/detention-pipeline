@@ -1,16 +1,19 @@
 ---
 title: "Multnomah County Jail — Multnomah, OR"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "41051"
 state: "OR"
 county: "Multnomah"
 repo_path: "kb/facilities/multnomah-county-jail-multnomah-or.md"
-signals: ["igsa"]
-states: ["OR"]
+type: "entry"
+layout: "single"
+facility_name: "Multnomah County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/multnomah-county-jail-multnomah-or/"
 ---
 
 IGSA detention facility: Multnomah County Jail in Multnomah County, OR.

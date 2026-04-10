@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Centerville Police Department (SD)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "46125"
 state: "SD"
 county: "Turner County"
 repo_path: "kb/287g/287-g-tfm-centerville-police-department-sd.md"
-signals: ["287g-agreement"]
-states: ["SD"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Centerville Police Department.

@@ -1,16 +1,19 @@
 ---
 title: "Roseau County Jail — Roseau, MN"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "27135"
 state: "MN"
 county: "Roseau"
 repo_path: "kb/facilities/roseau-county-jail-roseau-mn.md"
-signals: ["igsa"]
-states: ["MN"]
+type: "entry"
+layout: "single"
+facility_name: "Roseau County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/roseau-county-jail-roseau-mn/"
 ---
 
 IGSA detention facility: Roseau County Jail in Roseau County, MN.

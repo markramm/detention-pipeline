@@ -1,16 +1,19 @@
 ---
 title: "Addison County Jail — Addison, VT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "50001"
 state: "VT"
 county: "Addison"
 repo_path: "kb/facilities/addison-county-jail-addison-vt.md"
-signals: ["igsa"]
-states: ["VT"]
+type: "entry"
+layout: "single"
+facility_name: "Addison County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/addison-county-jail-addison-vt/"
 ---
 
 IGSA detention facility: Addison County Jail in Addison County, VT.

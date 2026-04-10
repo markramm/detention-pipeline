@@ -1,16 +1,19 @@
 ---
 title: "Camp Blanding FL — 'Deportation Depot' ICE Detention Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Florida"
 county: "Clay"
 repo_path: "kb/industry/facilities/camp-blanding-fl.md"
-signals: ["facility"]
-states: ["Florida"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "Florida Division of Emergency Management / National Guard"
+status: "paused"
+bed_count: "2,000"
+canonical: "/facilities/camp-blanding-fl/"
 ---
 
 # Camp Blanding FL — "Deportation Depot" ICE Detention Center

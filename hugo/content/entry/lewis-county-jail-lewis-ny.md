@@ -1,16 +1,19 @@
 ---
 title: "Lewis County Jail — Lewis, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36049"
 state: "NY"
 county: "Lewis"
 repo_path: "kb/facilities/lewis-county-jail-lewis-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Lewis County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/lewis-county-jail-lewis-ny/"
 ---
 
 IGSA detention facility: Lewis County Jail in Lewis County, NY.

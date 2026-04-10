@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Hardeman County Sheriff’s Office (TX)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "48197"
 state: "TX"
 county: "Hardeman County"
 repo_path: "kb/287g/287-g-wso-hardeman-county-sheriff-s-office-tx.md"
-signals: ["287g-agreement"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Hardeman County Sheriff’s Office.

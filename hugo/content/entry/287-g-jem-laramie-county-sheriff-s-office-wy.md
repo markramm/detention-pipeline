@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Laramie County Sheriff’s Office (WY)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "56021"
 state: "WY"
 county: "Laramie County"
 repo_path: "kb/287g/287-g-jem-laramie-county-sheriff-s-office-wy.md"
-signals: ["287g-agreement"]
-states: ["WY"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Laramie County Sheriff’s Office.

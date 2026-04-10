@@ -1,16 +1,20 @@
 ---
 title: "Capgemini Government Solutions"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/capgemini-government-solutions.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "skip-tracing"
+headquarters: "McLean, Virginia (parent: Paris, France)"
+founded: "1967 (parent company)"
+status: "active"
+canonical: "/players/contractors/capgemini-government-solutions/"
 ---
 
 # Capgemini Government Solutions

@@ -1,7 +1,5 @@
 ---
 title: "TALTON COMMUNICATIONS INC — ICE DALLAS, AL $38,776,485"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "01047"
 state: "AL"
 county: "DALLAS"
 repo_path: "kb/anc/talton-communications-inc-ice-dallas-al-38776485.md"
-signals: ["anc-contract"]
-states: ["AL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

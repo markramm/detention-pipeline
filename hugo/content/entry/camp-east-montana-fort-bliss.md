@@ -1,16 +1,19 @@
 ---
 title: "Camp East Montana — Fort Bliss ICE Tent Detention Camp"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Texas"
 county: "El Paso"
 repo_path: "kb/industry/facilities/camp-east-montana-fort-bliss.md"
-signals: ["facility"]
-states: ["Texas"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (contractor operated — operator being replaced as of March 2026)"
+status: "operational"
+bed_count: "3,000+"
+canonical: "/facilities/camp-east-montana-fort-bliss/"
 ---
 
 # Camp East Montana — Fort Bliss ICE Tent Detention Camp

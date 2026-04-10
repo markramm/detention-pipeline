@@ -1,16 +1,19 @@
 ---
 title: "Davidson Co. Sheriff Dept — Davidson, TN"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "47037"
 state: "TN"
 county: "Davidson"
 repo_path: "kb/facilities/davidson-co-sheriff-dept-davidson-tn.md"
-signals: ["igsa"]
-states: ["TN"]
+type: "entry"
+layout: "single"
+facility_name: "Davidson Co. Sheriff Dept"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/davidson-co-sheriff-dept-davidson-tn/"
 ---
 
 IGSA detention facility: Davidson Co. Sheriff Dept in Davidson County, TN.

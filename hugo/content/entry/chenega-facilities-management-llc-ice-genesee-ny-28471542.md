@@ -1,7 +1,5 @@
 ---
 title: "CHENEGA FACILITIES MANAGEMENT LLC — ICE GENESEE, NY $28,471,542"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "36037"
 state: "NY"
 county: "GENESEE"
 repo_path: "kb/anc/chenega-facilities-management-llc-ice-genesee-ny-28471542.md"
-signals: ["anc-contract"]
-states: ["NY"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,7 +1,5 @@
 ---
 title: "ALL POINTS LOGISTICS, LLC — ICE BREVARD, FL $6,172,000"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "12009"
 state: "FL"
 county: "BREVARD"
 repo_path: "kb/anc/all-points-logistics-llc-ice-brevard-fl-6172000.md"
-signals: ["anc-contract"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

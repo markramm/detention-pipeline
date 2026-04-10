@@ -1,16 +1,19 @@
 ---
 title: "Madison County Jail — Madison, ID"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "16065"
 state: "ID"
 county: "Madison"
 repo_path: "kb/facilities/madison-county-jail-madison-id.md"
-signals: ["igsa"]
-states: ["ID"]
+type: "entry"
+layout: "single"
+facility_name: "Madison County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/madison-county-jail-madison-id/"
 ---
 
 IGSA detention facility: Madison County Jail in Madison County, ID.

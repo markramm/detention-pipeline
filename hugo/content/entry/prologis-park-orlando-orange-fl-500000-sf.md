@@ -1,7 +1,5 @@
 ---
 title: "Prologis Park Orlando — Orange, FL (500000 SF)"
-type: entry
-layout: single
 entry_type: "real-estate-trace"
 signal_label: "Real Estate Trace"
 signal_color: "#b54f8a"
@@ -9,8 +7,8 @@ fips: "12095"
 state: "FL"
 county: "Orange"
 repo_path: "kb/real-estate/prologis-park-orlando-orange-fl-500000-sf.md"
-signals: ["real-estate-trace"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 Industrial/warehouse property at Prologis Park Orlando, Orlando, Orange County, FL. 500000 sq ft. Owner: Prologis. Status: available.

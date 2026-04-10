@@ -1,16 +1,19 @@
 ---
 title: "Crow Wing County Jail — Crow Wing, MN"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "27035"
 state: "MN"
 county: "Crow Wing"
 repo_path: "kb/facilities/crow-wing-county-jail-crow-wing-mn.md"
-signals: ["igsa"]
-states: ["MN"]
+type: "entry"
+layout: "single"
+facility_name: "Crow Wing County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/crow-wing-county-jail-crow-wing-mn/"
 ---
 
 IGSA detention facility: Crow Wing County Jail in Crow Wing County, MN.

@@ -1,16 +1,19 @@
 ---
 title: "Tioga County Jail — Tioga, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36107"
 state: "NY"
 county: "Tioga"
 repo_path: "kb/facilities/tioga-county-jail-tioga-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Tioga County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/tioga-county-jail-tioga-ny/"
 ---
 
 IGSA detention facility: Tioga County Jail in Tioga County, NY.

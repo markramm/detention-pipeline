@@ -1,16 +1,19 @@
 ---
 title: "Roxbury NJ Warehouse — ICE Regional Processing Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "New Jersey"
 county: "Morris"
 repo_path: "kb/industry/facilities/roxbury-nj-warehouse.md"
-signals: ["facility"]
-states: ["New Jersey"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "contested"
+bed_count: "500-1,500"
+canonical: "/facilities/roxbury-nj-warehouse/"
 ---
 
 # Roxbury NJ Warehouse — ICE Regional Processing Center

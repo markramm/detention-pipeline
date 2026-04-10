@@ -1,16 +1,19 @@
 ---
 title: "Washington County Jail — Washington, ME"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "23029"
 state: "ME"
 county: "Washington"
 repo_path: "kb/facilities/washington-county-jail-washington-me.md"
-signals: ["igsa"]
-states: ["ME"]
+type: "entry"
+layout: "single"
+facility_name: "Washington County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/washington-county-jail-washington-me/"
 ---
 
 IGSA detention facility: Washington County Jail in Washington County, ME.

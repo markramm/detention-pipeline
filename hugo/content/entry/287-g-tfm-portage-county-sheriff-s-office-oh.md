@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Portage County Sheriff’s Office (OH)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "39133"
 state: "OH"
 county: "Portage County"
 repo_path: "kb/287g/287-g-tfm-portage-county-sheriff-s-office-oh.md"
-signals: ["287g-agreement"]
-states: ["OH"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Portage County Sheriff’s Office.

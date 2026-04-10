@@ -1,16 +1,19 @@
 ---
 title: "Ector County Correction Center — Ector, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48135"
 state: "TX"
 county: "Ector"
 repo_path: "kb/facilities/ector-county-correction-center-ector-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Ector County Correction Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/ector-county-correction-center-ector-tx/"
 ---
 
 IGSA detention facility: Ector County Correction Center in Ector County, TX.

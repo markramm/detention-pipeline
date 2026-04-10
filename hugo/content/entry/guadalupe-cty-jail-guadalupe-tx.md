@@ -1,16 +1,19 @@
 ---
 title: "Guadalupe Cty Jail — Guadalupe, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48187"
 state: "TX"
 county: "Guadalupe"
 repo_path: "kb/facilities/guadalupe-cty-jail-guadalupe-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Guadalupe Cty Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/guadalupe-cty-jail-guadalupe-tx/"
 ---
 
 IGSA detention facility: Guadalupe Cty Jail in Guadalupe County, TX.

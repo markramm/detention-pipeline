@@ -1,7 +1,5 @@
 ---
 title: "New Mexico HB 9 (Immigrant Safety Act) — Bill to Ban Public IGSA Agreements"
-type: entry
-layout: single
 entry_type: "legislative-trace"
 signal_label: "Legislative Trace"
 signal_color: "#5f6a7a"
@@ -9,8 +7,8 @@ fips: ""
 state: "NM"
 county: ""
 repo_path: "kb/legislative/new-mexico-hb-9-immigrant-safety-act-bill-to-ban-public-igsa-agreements.md"
-signals: ["legislative-trace"]
-states: ["NM"]
+type: "entry"
+layout: "single"
 ---
 
 New Mexico advanced HB 9 (Immigrant Safety Act) which would ban public bodies from entering ICE detention agreements (IGSAs). This is preemptive legislation responding to the detention expansion pipeline.

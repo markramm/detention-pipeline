@@ -1,7 +1,5 @@
 ---
 title: "RELIANCE RELOCATION SERVICES, INC — ICE COOK, IL $3,008,845"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "17031"
 state: "IL"
 county: "COOK"
 repo_path: "kb/anc/reliance-relocation-services-inc-ice-cook-il-3008845.md"
-signals: ["anc-contract"]
-states: ["IL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

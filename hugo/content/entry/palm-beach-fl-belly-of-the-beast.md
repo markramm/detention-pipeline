@@ -1,16 +1,19 @@
 ---
 title: "Palm Beach County FL — 'Belly of the Beast' Immigration Enforcement and Community Resistance"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "Florida"
 county: "Palm Beach"
 repo_path: "kb/industry/county-fights/palm-beach-fl-belly-of-the-beast.md"
-signals: ["county-fight"]
-states: ["Florida"]
+type: "entry"
+layout: "single"
+status: "operational-despite-opposition"
+outcome: ""
+vote_tally: ""
+facility: "null"
+canonical: "/fights/palm-beach-fl-belly-of-the-beast/"
 ---
 
 # Palm Beach County: "The Belly of the Beast"

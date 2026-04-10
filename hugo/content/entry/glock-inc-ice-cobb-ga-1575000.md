@@ -1,7 +1,5 @@
 ---
 title: "GLOCK, INC. — ICE COBB, GA $1,575,000"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "13067"
 state: "GA"
 county: "COBB"
 repo_path: "kb/anc/glock-inc-ice-cobb-ga-1575000.md"
-signals: ["anc-contract"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

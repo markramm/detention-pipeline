@@ -1,16 +1,14 @@
 ---
 title: "Camp East Montana — $1.2B Army Contract for ICE Tent Detention Camp"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/camp-east-montana-1-2b-contract.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Camp East Montana $1.2B Contract

@@ -1,16 +1,19 @@
 ---
 title: "Alamance Co. Det. Facility — Alamance, NC"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "37001"
 state: "NC"
 county: "Alamance"
 repo_path: "kb/facilities/alamance-co-det-facility-alamance-nc.md"
-signals: ["igsa"]
-states: ["NC"]
+type: "entry"
+layout: "single"
+facility_name: "Alamance Co. Det. Facility"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/alamance-co-det-facility-alamance-nc/"
 ---
 
 IGSA detention facility: Alamance Co. Det. Facility in Alamance County, NC.

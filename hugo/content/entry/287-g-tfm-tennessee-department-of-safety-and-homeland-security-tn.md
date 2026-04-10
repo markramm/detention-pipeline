@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Tennessee Department of Safety and Homeland Security (TN)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "TN"
 county: ""
 repo_path: "kb/287g/287-g-tfm-tennessee-department-of-safety-and-homeland-security-tn.md"
-signals: ["287g-agreement"]
-states: ["TN"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Tennessee Department of Safety and Homeland Security.

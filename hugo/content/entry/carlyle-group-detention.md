@@ -1,16 +1,14 @@
 ---
 title: "Carlyle Group — Oakwood GA Warehouse Seller, 22 Admin Officials Hold Investments"
-type: entry
-layout: single
 entry_type: "organization"
-signal_label: "organization"
-signal_color: "#666"
+signal_label: "Organization"
+signal_color: "#4a7ab5"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/organizations/carlyle-group-detention.md"
-signals: ["organization"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Carlyle Group — ICE Warehouse Seller

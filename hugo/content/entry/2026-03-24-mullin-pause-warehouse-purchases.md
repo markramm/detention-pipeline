@@ -1,16 +1,14 @@
 ---
 title: "DHS Secretary Mullin Pauses ICE Warehouse Purchases, Reviews All Noem-Era Contracts"
-type: entry
-layout: single
 entry_type: "event"
-signal_label: "event"
-signal_color: "#666"
+signal_label: "Event"
+signal_color: "#5a7a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/events/2026-03-24-mullin-pause-warehouse-purchases.md"
-signals: ["event"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Mullin Pause on ICE Warehouse Purchases

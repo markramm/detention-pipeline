@@ -1,7 +1,5 @@
 ---
 title: "Toole County, MT — USDA Distress Profile (3 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "30101"
 state: "MT"
 county: "Toole"
 repo_path: "kb/budget/toole-county-mt-usda-distress-profile-3-indicators.md"
-signals: ["budget-distress"]
-states: ["MT"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Toole County, MT with 3 distress indicators:

@@ -1,7 +1,5 @@
 ---
 title: "G4S SECURE SOLUTIONS (USA) INC. — ICE SAN FRANCISCO, CA $23,435,584"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "06075"
 state: "CA"
 county: "SAN FRANCISCO"
 repo_path: "kb/anc/g4s-secure-solutions-usa-inc-ice-san-francisco-ca-23435584.md"
-signals: ["anc-contract"]
-states: ["CA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

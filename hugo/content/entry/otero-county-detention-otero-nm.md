@@ -1,16 +1,19 @@
 ---
 title: "Otero County Detention — Otero, NM"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "35035"
 state: "NM"
 county: "Otero"
 repo_path: "kb/facilities/otero-county-detention-otero-nm.md"
-signals: ["igsa"]
-states: ["NM"]
+type: "entry"
+layout: "single"
+facility_name: "Otero County Detention"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/otero-county-detention-otero-nm/"
 ---
 
 IGSA detention facility: Otero County Detention in Otero County, NM.

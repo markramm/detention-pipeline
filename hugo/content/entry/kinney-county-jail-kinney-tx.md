@@ -1,16 +1,19 @@
 ---
 title: "Kinney County Jail — Kinney, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48271"
 state: "TX"
 county: "Kinney"
 repo_path: "kb/facilities/kinney-county-jail-kinney-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Kinney County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/kinney-county-jail-kinney-tx/"
 ---
 
 IGSA detention facility: Kinney County Jail in Kinney County, TX.

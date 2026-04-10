@@ -1,7 +1,5 @@
 ---
 title: "287(g) JEM: Bullitt County Detention Center (KY)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "21029"
 state: "KY"
 county: "Bullitt County"
 repo_path: "kb/287g/287-g-jem-bullitt-county-detention-center-ky.md"
-signals: ["287g-agreement"]
-states: ["KY"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Bullitt County Detention Center.

@@ -1,16 +1,19 @@
 ---
 title: "Madison Co. Jail, MS. — Madison, MS"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "28089"
 state: "MS"
 county: "Madison"
 repo_path: "kb/facilities/madison-co-jail-ms-madison-ms.md"
-signals: ["igsa"]
-states: ["MS"]
+type: "entry"
+layout: "single"
+facility_name: "Madison Co. Jail, MS."
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/madison-co-jail-ms-madison-ms/"
 ---
 
 IGSA detention facility: Madison Co. Jail, MS. in Madison County, MS.

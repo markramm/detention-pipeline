@@ -1,16 +1,19 @@
 ---
 title: "Eloy Detention Center — Pinal County AZ (CoreCivic)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Arizona"
 county: "Pinal"
 repo_path: "kb/industry/facilities/eloy-detention-center-pinal-az.md"
-signals: ["facility"]
-states: ["Arizona"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "CoreCivic"
+status: "operational"
+bed_count: "1,550"
+canonical: "/facilities/eloy-detention-center-pinal-az/"
 ---
 
 # Eloy Detention Center — "Deadliest Immigration Detention Center in the U.S."

@@ -1,16 +1,19 @@
 ---
 title: "Glendale Police Dept — Los Angeles, CA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "06037"
 state: "CA"
 county: "Los Angeles"
 repo_path: "kb/facilities/glendale-police-dept-los-angeles-ca.md"
-signals: ["igsa"]
-states: ["CA"]
+type: "entry"
+layout: "single"
+facility_name: "Glendale Police Dept"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/glendale-police-dept-los-angeles-ca/"
 ---
 
 IGSA detention facility: Glendale Police Dept in Los Angeles County, CA.

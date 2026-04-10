@@ -1,16 +1,16 @@
 ---
 title: "Goldman Sachs $352.7M Fundrise Refinancing — 12-Property Portfolio Analysis"
-type: entry
-layout: single
 entry_type: "analysis"
-signal_label: "analysis"
-signal_color: "#666"
+signal_label: "Analysis"
+signal_color: "#5a6a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/goldman-352m-loan-portfolio.md"
-signals: ["analysis"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "money"
+canonical: "/players/money/goldman-352m-loan-portfolio/"
 ---
 
 # Goldman Sachs $352.7M Fundrise Industrial Portfolio Refinancing

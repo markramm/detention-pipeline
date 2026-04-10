@@ -1,0 +1,60 @@
+{{ define "main" }}
+{{ $repoURL := site.Params.repoURL }}
+
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>
+  <a href="/fights/">Fights</a><span class="sep">/</span>
+  {{ .Title }}
+</div>
+
+<div class="page-content">
+  <div style="padding-top:24px; max-width:760px;">
+    <div style="display:flex; gap:8px; margin-bottom:8px; flex-wrap:wrap;">
+      <span class="signal-badge" style="background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2);">
+        <span class="signal-dot" style="background:#2a8a5a;"></span>
+        County Fight
+      </span>
+      {{ with .Params.status }}
+      <span class="signal-badge">{{ . | title }}</span>
+      {{ end }}
+    </div>
+
+    <h1 class="serif" style="font-size:28px; font-weight:400; letter-spacing:-0.01em; margin-bottom:8px;">{{ .Title }}</h1>
+
+    <div style="display:flex; gap:16px; flex-wrap:wrap; margin-bottom:8px;">
+      {{ with .Params.county }}<span class="mono dim small">{{ . }}, {{ $.Params.state }}</span>{{ end }}
+      {{ with .Params.fips }}<span class="mono dim small">FIPS {{ . }}</span>{{ end }}
+    </div>
+
+    {{ with .Params.vote_tally }}
+    <div style="font-size:13px; color:var(--text-secondary); margin-bottom:4px;">
+      <strong>Vote:</strong> {{ . }}
+    </div>
+    {{ end }}
+
+    {{ with .Params.outcome }}
+    <div style="font-size:13px; color:var(--text-secondary); margin-bottom:16px; padding:10px 14px; background:var(--bg-content-alt); border-radius:4px; border-left:3px solid var(--accent);">
+      <strong>Current status:</strong> {{ . }}
+    </div>
+    {{ end }}
+
+    <div style="font-size:14.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:32px;">
+      {{ .Content }}
+    </div>
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap; padding-top:16px; border-top:1px solid var(--border);">
+      {{ with .Params.repo_path }}
+      <a href="{{ $repoURL }}/edit/main/{{ . }}" class="btn btn-sm" target="_blank" rel="noopener">
+        <svg viewBox="0 0 16 16" fill="currentColor" style="width:14px;height:14px;"><path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064l6.286-6.286Z"/></svg>
+        Edit
+      </a>
+      {{ end }}
+      <a href="{{ $repoURL }}/issues/new?template=data-correction.yml&county={{ .Params.county | default .Title | urlquery }}" class="btn btn-sm" target="_blank" rel="noopener">Report issue</a>
+      {{ with .Params.fips }}
+      <a href="/county/{{ . }}/" class="btn btn-sm">County profile</a>
+      {{ end }}
+      <a href="{{ $repoURL }}/issues/new?template=tip.yml&county={{ .Params.county | urlquery }}&state={{ .Params.state }}" class="btn btn-accent btn-sm">Add a tip about this fight</a>
+    </div>
+  </div>
+</div>
+{{ end }}

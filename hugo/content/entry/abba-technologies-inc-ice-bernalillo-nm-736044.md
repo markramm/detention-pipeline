@@ -1,7 +1,5 @@
 ---
 title: "ABBA TECHNOLOGIES, INC. — ICE BERNALILLO, NM $736,044"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "35001"
 state: "NM"
 county: "BERNALILLO"
 repo_path: "kb/anc/abba-technologies-inc-ice-bernalillo-nm-736044.md"
-signals: ["anc-contract"]
-states: ["NM"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

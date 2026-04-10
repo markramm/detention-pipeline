@@ -1,16 +1,20 @@
 ---
 title: "World Atlantic Airways"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/world-atlantic-airways.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "charter-airline"
+headquarters: "Miami, Florida"
+founded: "2002"
+status: "active"
+canonical: "/players/contractors/world-atlantic-airways/"
 ---
 
 # World Atlantic Airways

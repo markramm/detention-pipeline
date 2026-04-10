@@ -1,7 +1,5 @@
 ---
 title: "THE GEO GROUP, INC. — ICE PALM BEACH, FL $58,637,673"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "12099"
 state: "FL"
 county: "PALM BEACH"
 repo_path: "kb/anc/the-geo-group-inc-ice-palm-beach-fl-58637673.md"
-signals: ["anc-contract"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

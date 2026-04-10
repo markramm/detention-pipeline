@@ -1,16 +1,19 @@
 ---
 title: "Minn.C.F, Oak Park Hgts — Washington, MN"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "27163"
 state: "MN"
 county: "Washington"
 repo_path: "kb/facilities/minncf-oak-park-hgts-washington-mn.md"
-signals: ["igsa"]
-states: ["MN"]
+type: "entry"
+layout: "single"
+facility_name: "Minn.C.F, Oak Park Hgts"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/minncf-oak-park-hgts-washington-mn/"
 ---
 
 IGSA detention facility: Minn.C.F, Oak Park Hgts in Washington County, MN.

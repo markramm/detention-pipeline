@@ -1,16 +1,19 @@
 ---
 title: "Cayuga County Jail — Cayuga, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36011"
 state: "NY"
 county: "Cayuga"
 repo_path: "kb/facilities/cayuga-county-jail-cayuga-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Cayuga County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/cayuga-county-jail-cayuga-ny/"
 ---
 
 IGSA detention facility: Cayuga County Jail in Cayuga County, NY.

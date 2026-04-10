@@ -1,7 +1,5 @@
 ---
 title: "PERATON RISK DECISION INC. — ICE LARIMER, CO $3,338,374"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "08069"
 state: "CO"
 county: "LARIMER"
 repo_path: "kb/anc/peraton-risk-decision-inc-ice-larimer-co-3338374.md"
-signals: ["anc-contract"]
-states: ["CO"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

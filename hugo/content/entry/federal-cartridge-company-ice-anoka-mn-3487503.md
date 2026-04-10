@@ -1,7 +1,5 @@
 ---
 title: "FEDERAL CARTRIDGE COMPANY — ICE ANOKA, MN $3,487,503"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "27003"
 state: "MN"
 county: "ANOKA"
 repo_path: "kb/anc/federal-cartridge-company-ice-anoka-mn-3487503.md"
-signals: ["anc-contract"]
-states: ["MN"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

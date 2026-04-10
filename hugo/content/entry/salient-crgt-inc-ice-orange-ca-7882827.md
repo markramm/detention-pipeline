@@ -1,7 +1,5 @@
 ---
 title: "SALIENT CRGT, INC. — ICE ORANGE, CA $7,882,827"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "06059"
 state: "CA"
 county: "ORANGE"
 repo_path: "kb/anc/salient-crgt-inc-ice-orange-ca-7882827.md"
-signals: ["anc-contract"]
-states: ["CA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

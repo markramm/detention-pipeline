@@ -1,16 +1,19 @@
 ---
 title: "Manatee County Detention-Annex — Manatee, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12081"
 state: "FL"
 county: "Manatee"
 repo_path: "kb/facilities/manatee-county-detention-annex-manatee-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Manatee County Detention-Annex"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/manatee-county-detention-annex-manatee-fl/"
 ---
 
 IGSA detention facility: Manatee County Detention-Annex in Manatee County, FL.

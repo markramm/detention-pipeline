@@ -1,7 +1,5 @@
 ---
 title: "GEM TECHNOLOGY INTERNATIONAL, CORP — ICE DALLAS, TX $21,148,906"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "48113"
 state: "TX"
 county: "DALLAS"
 repo_path: "kb/anc/gem-technology-international-corp-ice-dallas-tx-21148906.md"
-signals: ["anc-contract"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

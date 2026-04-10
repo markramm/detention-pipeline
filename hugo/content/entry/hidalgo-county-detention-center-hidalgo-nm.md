@@ -1,16 +1,19 @@
 ---
 title: "Hidalgo County Detention Center — Hidalgo, NM"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "35023"
 state: "NM"
 county: "Hidalgo"
 repo_path: "kb/facilities/hidalgo-county-detention-center-hidalgo-nm.md"
-signals: ["igsa"]
-states: ["NM"]
+type: "entry"
+layout: "single"
+facility_name: "Hidalgo County Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/hidalgo-county-detention-center-hidalgo-nm/"
 ---
 
 IGSA detention facility: Hidalgo County Detention Center in Hidalgo County, NM.

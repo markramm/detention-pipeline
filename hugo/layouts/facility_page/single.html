@@ -1,0 +1,46 @@
+{{ define "main" }}
+{{ $repoURL := site.Params.repoURL }}
+
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>
+  <a href="/facilities/">Facilities</a><span class="sep">/</span>
+  {{ .Title }}
+</div>
+
+<div class="page-content">
+  <div style="padding-top:24px; max-width:760px;">
+    <div style="margin-bottom:6px;">
+      <span class="signal-badge">
+        <span class="signal-dot" style="background:var(--signal-igsa);"></span>
+        {{ .Params.signal_label }}
+      </span>
+      {{ with .Params.status }}
+      <span class="signal-badge">{{ . | title }}</span>
+      {{ end }}
+    </div>
+
+    <h1 class="serif" style="font-size:26px; font-weight:400; margin-bottom:8px;">{{ .Title }}</h1>
+
+    <div class="mono dim small" style="margin-bottom:16px;">
+      {{ with .Params.county }}{{ . }} · {{ end }}{{ .Params.state }}
+      {{ with .Params.fips }} · FIPS {{ . }}{{ end }}
+      {{ with .Params.operator }} · Operator: {{ . }}{{ end }}
+      {{ with .Params.bed_count }} · {{ . }} beds{{ end }}
+    </div>
+
+    <article style="font-size:14.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:32px; white-space:pre-line;">
+      {{ .Content }}
+    </article>
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap; padding-top:16px; border-top:1px solid var(--border);">
+      {{ with .Params.repo_path }}
+      <a href="{{ $repoURL }}/edit/main/{{ . }}" class="btn btn-sm" target="_blank" rel="noopener">Edit</a>
+      {{ end }}
+      <a href="{{ $repoURL }}/issues/new?template=data-correction.yml&county={{ .Params.county | default .Title | urlquery }}" class="btn btn-sm" target="_blank" rel="noopener">Report issue</a>
+      {{ with .Params.fips }}
+      <a href="/county/{{ . }}/" class="btn btn-sm">County profile</a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

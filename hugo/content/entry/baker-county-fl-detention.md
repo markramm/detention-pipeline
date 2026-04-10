@@ -1,16 +1,19 @@
 ---
 title: "Baker County Detention Facility — North Florida 'Deportation Depot"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Florida"
 county: "Baker"
 repo_path: "kb/industry/facilities/baker-county-fl-detention.md"
-signals: ["facility"]
-states: ["Florida"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "GEO Group (joint venture management) / Baker County"
+status: "operational"
+bed_count: "1,300+"
+canonical: "/facilities/baker-county-fl-detention/"
 ---
 
 # Baker County Detention Facility — North Florida "Deportation Depot"

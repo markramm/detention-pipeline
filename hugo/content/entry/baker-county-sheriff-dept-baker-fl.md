@@ -1,16 +1,19 @@
 ---
 title: "Baker County Sheriff Dept. — Baker, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12003"
 state: "FL"
 county: "Baker"
 repo_path: "kb/facilities/baker-county-sheriff-dept-baker-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Baker County Sheriff Dept."
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/baker-county-sheriff-dept-baker-fl/"
 ---
 
 IGSA detention facility: Baker County Sheriff Dept. in Baker County, FL.

@@ -1,7 +1,5 @@
 ---
 title: "Hidalgo County, NM — USDA Distress Profile (3 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "35023"
 state: "NM"
 county: "Hidalgo"
 repo_path: "kb/budget/hidalgo-county-nm-usda-distress-profile-3-indicators.md"
-signals: ["budget-distress"]
-states: ["NM"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Hidalgo County, NM with 3 distress indicators:

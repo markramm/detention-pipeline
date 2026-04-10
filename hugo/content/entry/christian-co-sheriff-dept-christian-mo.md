@@ -1,16 +1,19 @@
 ---
 title: "Christian Co Sheriff Dept — Christian, MO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "29043"
 state: "MO"
 county: "Christian"
 repo_path: "kb/facilities/christian-co-sheriff-dept-christian-mo.md"
-signals: ["igsa"]
-states: ["MO"]
+type: "entry"
+layout: "single"
+facility_name: "Christian Co Sheriff Dept"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/christian-co-sheriff-dept-christian-mo/"
 ---
 
 IGSA detention facility: Christian Co Sheriff Dept in Christian County, MO.

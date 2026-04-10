@@ -1,16 +1,19 @@
 ---
 title: "Faulkner County Jail — Faulkner, AR"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "05045"
 state: "AR"
 county: "Faulkner"
 repo_path: "kb/facilities/faulkner-county-jail-faulkner-ar.md"
-signals: ["igsa"]
-states: ["AR"]
+type: "entry"
+layout: "single"
+facility_name: "Faulkner County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/faulkner-county-jail-faulkner-ar/"
 ---
 
 IGSA detention facility: Faulkner County Jail in Faulkner County, AR.

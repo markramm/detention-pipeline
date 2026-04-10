@@ -1,16 +1,14 @@
 ---
 title: "Coast Guard Aircraft Diverted to ICE Detainee Transport (2025)"
-type: entry
-layout: single
 entry_type: "note"
-signal_label: "note"
-signal_color: "#666"
+signal_label: "Research Note"
+signal_color: "#6a6a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/coast-guard-ice-flights.md"
-signals: ["note"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Coast Guard Aircraft Diverted to ICE Operations

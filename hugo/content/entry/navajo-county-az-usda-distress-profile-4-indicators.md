@@ -1,7 +1,5 @@
 ---
 title: "Navajo County, AZ — USDA Distress Profile (4 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "04017"
 state: "AZ"
 county: "Navajo"
 repo_path: "kb/budget/navajo-county-az-usda-distress-profile-4-indicators.md"
-signals: ["budget-distress"]
-states: ["AZ"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Navajo County, AZ with 4 distress indicators:

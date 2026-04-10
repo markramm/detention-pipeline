@@ -1,7 +1,5 @@
 ---
 title: "GARDAWORLD FEDERAL SERVICES LLC — ICE ARLINGTON, VA $313,357,612"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "51013"
 state: "VA"
 county: "ARLINGTON"
 repo_path: "kb/anc/gardaworld-federal-services-llc-ice-arlington-va-313357612.md"
-signals: ["anc-contract"]
-states: ["VA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

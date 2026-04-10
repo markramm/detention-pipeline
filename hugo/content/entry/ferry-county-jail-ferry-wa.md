@@ -1,16 +1,19 @@
 ---
 title: "Ferry County Jail — Ferry, WA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "53019"
 state: "WA"
 county: "Ferry"
 repo_path: "kb/facilities/ferry-county-jail-ferry-wa.md"
-signals: ["igsa"]
-states: ["WA"]
+type: "entry"
+layout: "single"
+facility_name: "Ferry County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/ferry-county-jail-ferry-wa/"
 ---
 
 IGSA detention facility: Ferry County Jail in Ferry County, WA.

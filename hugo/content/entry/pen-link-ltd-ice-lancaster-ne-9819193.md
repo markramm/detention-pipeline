@@ -1,7 +1,5 @@
 ---
 title: "PEN-LINK, LTD — ICE LANCASTER, NE $9,819,193"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "31109"
 state: "NE"
 county: "LANCASTER"
 repo_path: "kb/anc/pen-link-ltd-ice-lancaster-ne-9819193.md"
-signals: ["anc-contract"]
-states: ["NE"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

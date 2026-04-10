@@ -1,16 +1,19 @@
 ---
 title: "Annex Folkston IPC — Charlton, GA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "13049"
 state: "GA"
 county: "Charlton"
 repo_path: "kb/facilities/annex-folkston-ipc-charlton-ga.md"
-signals: ["igsa"]
-states: ["GA"]
+type: "entry"
+layout: "single"
+facility_name: "Annex Folkston IPC"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/annex-folkston-ipc-charlton-ga/"
 ---
 
 IGSA detention facility: Annex Folkston IPC in Charlton County, GA.

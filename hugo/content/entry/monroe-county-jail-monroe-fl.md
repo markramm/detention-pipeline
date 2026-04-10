@@ -1,16 +1,19 @@
 ---
 title: "Monroe County Jail — Monroe, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12087"
 state: "FL"
 county: "Monroe"
 repo_path: "kb/facilities/monroe-county-jail-monroe-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Monroe County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/monroe-county-jail-monroe-fl/"
 ---
 
 IGSA detention facility: Monroe County Jail in Monroe County, FL.

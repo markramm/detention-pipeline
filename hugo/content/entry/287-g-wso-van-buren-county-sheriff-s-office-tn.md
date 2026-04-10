@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Van Buren County Sheriff’s Office (TN)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "47175"
 state: "TN"
 county: "Van Buren County"
 repo_path: "kb/287g/287-g-wso-van-buren-county-sheriff-s-office-tn.md"
-signals: ["287g-agreement"]
-states: ["TN"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Van Buren County Sheriff’s Office.

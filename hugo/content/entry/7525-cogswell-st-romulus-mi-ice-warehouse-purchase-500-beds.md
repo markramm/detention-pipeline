@@ -1,7 +1,5 @@
 ---
 title: "7525 Cogswell St, Romulus MI — ICE Warehouse Purchase (500 beds)"
-type: entry
-layout: single
 entry_type: "real-estate-trace"
 signal_label: "Real Estate Trace"
 signal_color: "#b54f8a"
@@ -9,8 +7,8 @@ fips: "26163"
 state: "MI"
 county: "Wayne"
 repo_path: "kb/real-estate/7525-cogswell-st-romulus-mi-ice-warehouse-purchase-500-beds.md"
-signals: ["real-estate-trace"]
-states: ["MI"]
+type: "entry"
+layout: "single"
 ---
 
 ICE purchased this commercial warehouse in February 2026 without notice to state, city, or public. Planned as a Regional Processing Center for ~500 migrants. ICE claims 1,458 jobs and $33M tax revenue.

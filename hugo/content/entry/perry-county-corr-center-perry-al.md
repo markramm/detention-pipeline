@@ -1,16 +1,19 @@
 ---
 title: "Perry County Corr. Center — Perry, AL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "01105"
 state: "AL"
 county: "Perry"
 repo_path: "kb/facilities/perry-county-corr-center-perry-al.md"
-signals: ["igsa"]
-states: ["AL"]
+type: "entry"
+layout: "single"
+facility_name: "Perry County Corr. Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/perry-county-corr-center-perry-al/"
 ---
 
 IGSA detention facility: Perry County Corr. Center in Perry County, AL.

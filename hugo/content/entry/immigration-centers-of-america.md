@@ -1,16 +1,20 @@
 ---
 title: "Immigration Centers of America (ICA)"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/immigration-centers-of-america.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "facility-operator"
+headquarters: "Farmville, Virginia"
+founded: "~2008"
+status: "active"
+canonical: "/players/contractors/immigration-centers-of-america/"
 ---
 
 # Immigration Centers of America (ICA)

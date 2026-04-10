@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: County of Franklin / Franklin County Jail (PA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "42055"
 state: "PA"
 county: "Franklin County"
 repo_path: "kb/287g/287-g-wso-county-of-franklin-franklin-county-jail-pa.md"
-signals: ["287g-agreement"]
-states: ["PA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and County of Franklin / Franklin County Jail.

@@ -1,16 +1,14 @@
 ---
 title: "BI Incorporated — ISAP V IDIQ Contract (Ankle Monitors & Surveillance)"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/bi-incorporated-isap-v.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # BI Incorporated — ISAP V Contract

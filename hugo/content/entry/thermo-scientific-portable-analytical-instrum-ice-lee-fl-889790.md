@@ -1,7 +1,5 @@
 ---
 title: "THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUM — ICE LEE, FL $889,790"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "12071"
 state: "FL"
 county: "LEE"
 repo_path: "kb/anc/thermo-scientific-portable-analytical-instrum-ice-lee-fl-889790.md"
-signals: ["anc-contract"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,16 +1,19 @@
 ---
 title: "Salt Lake City UT — ICE Mega Center (833,000 sq ft warehouse)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Utah"
 county: "Salt Lake"
 repo_path: "kb/industry/facilities/salt-lake-city-ut-mega-center.md"
-signals: ["facility"]
-states: ["Utah"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "contested"
+bed_count: "7,500-10,000 beds (mega center)"
+canonical: "/facilities/salt-lake-city-ut-mega-center/"
 ---
 
 # Salt Lake City ICE Mega Center

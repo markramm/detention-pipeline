@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Jackson County Sheriff’s Office (KS)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "20085"
 state: "KS"
 county: "Jackson County"
 repo_path: "kb/287g/287-g-wso-jackson-county-sheriff-s-office-ks.md"
-signals: ["287g-agreement"]
-states: ["KS"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Jackson County Sheriff’s Office.

@@ -1,7 +1,5 @@
 ---
 title: "Frio County, TX — USDA Distress Profile (4 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "48163"
 state: "TX"
 county: "Frio"
 repo_path: "kb/budget/frio-county-tx-usda-distress-profile-4-indicators.md"
-signals: ["budget-distress"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Frio County, TX with 4 distress indicators:

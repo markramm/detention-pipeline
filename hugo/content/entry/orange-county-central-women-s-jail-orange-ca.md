@@ -1,16 +1,19 @@
 ---
 title: "Orange County Central Women's Jail — Orange, CA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/facilities/orange-county-central-women-s-jail-orange-ca.md"
-signals: ["igsa"]
-states: [""]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: ""
+status: ""
+bed_count: ""
+canonical: "/facilities/orange-county-central-women-s-jail-orange-ca/"
 ---
 
 IGSA detention facility: Orange County Central Women's Jail in Orange County, CA.

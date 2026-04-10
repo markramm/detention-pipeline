@@ -1,7 +1,5 @@
 ---
 title: "Stewart County, GA — USDA Distress Profile (4 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "13259"
 state: "GA"
 county: "Stewart"
 repo_path: "kb/budget/stewart-county-ga-usda-distress-profile-4-indicators.md"
-signals: ["budget-distress"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Stewart County, GA with 4 distress indicators:

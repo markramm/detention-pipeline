@@ -1,16 +1,19 @@
 ---
 title: "Yates County Jail — Yates, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36123"
 state: "NY"
 county: "Yates"
 repo_path: "kb/facilities/yates-county-jail-yates-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Yates County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/yates-county-jail-yates-ny/"
 ---
 
 IGSA detention facility: Yates County Jail in Yates County, NY.

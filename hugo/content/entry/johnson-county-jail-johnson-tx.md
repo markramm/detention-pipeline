@@ -1,16 +1,19 @@
 ---
 title: "Johnson County Jail — Johnson, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48251"
 state: "TX"
 county: "Johnson"
 repo_path: "kb/facilities/johnson-county-jail-johnson-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Johnson County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/johnson-county-jail-johnson-tx/"
 ---
 
 IGSA detention facility: Johnson County Jail in Johnson County, TX.

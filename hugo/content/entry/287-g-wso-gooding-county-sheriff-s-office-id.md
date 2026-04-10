@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Gooding County Sheriff’s Office (ID)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "16047"
 state: "ID"
 county: "Gooding County"
 repo_path: "kb/287g/287-g-wso-gooding-county-sheriff-s-office-id.md"
-signals: ["287g-agreement"]
-states: ["ID"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Gooding County Sheriff’s Office.

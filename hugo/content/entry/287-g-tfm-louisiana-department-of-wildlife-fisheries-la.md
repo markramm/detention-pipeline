@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Louisiana Department of Wildlife & Fisheries (LA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "LA"
 county: ""
 repo_path: "kb/287g/287-g-tfm-louisiana-department-of-wildlife-fisheries-la.md"
-signals: ["287g-agreement"]
-states: ["LA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Louisiana Department of Wildlife & Fisheries.

@@ -1,16 +1,19 @@
 ---
 title: "Salt Lake City UT — Protests, Water Restrictions, and Mayor Opposition to 10,000-Bed Mega Center"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "Utah"
 county: "Salt Lake"
 repo_path: "kb/industry/county-fights/salt-lake-city-ut-mega-center-fight.md"
-signals: ["county-fight"]
-states: ["Utah"]
+type: "entry"
+layout: "single"
+status: "contested"
+outcome: "Ongoing. City imposed water use restrictions (following Social Circle model). Hundreds protested, 3 arrested. Mayor vowed to 'use every tool at the City's disposal.' $145.4M purchase completed — federal preemption limits city options."
+vote_tally: ""
+facility: "salt-lake-city-ut-mega-center"
+canonical: "/fights/salt-lake-city-ut-mega-center-fight/"
 ---
 
 # Salt Lake City: Fighting a $145M Federal Purchase

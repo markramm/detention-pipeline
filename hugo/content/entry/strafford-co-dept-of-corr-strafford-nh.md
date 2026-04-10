@@ -1,16 +1,19 @@
 ---
 title: "Strafford Co Dept Of Corr — Strafford, NH"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "33017"
 state: "NH"
 county: "Strafford"
 repo_path: "kb/facilities/strafford-co-dept-of-corr-strafford-nh.md"
-signals: ["igsa"]
-states: ["NH"]
+type: "entry"
+layout: "single"
+facility_name: "Strafford Co Dept Of Corr"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/strafford-co-dept-of-corr-strafford-nh/"
 ---
 
 IGSA detention facility: Strafford Co Dept Of Corr in Strafford County, NH.

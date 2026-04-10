@@ -1,16 +1,14 @@
 ---
 title: "DHS Inspector General Launches Investigation into Noem/Lewandowski Contract Handling"
-type: entry
-layout: single
 entry_type: "event"
-signal_label: "event"
-signal_color: "#666"
+signal_label: "Event"
+signal_color: "#5a7a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/events/2026-03-26-dhs-ig-investigation-noem-lewandowski.md"
-signals: ["event"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # DHS Inspector General Investigation

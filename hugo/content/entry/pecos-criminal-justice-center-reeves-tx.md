@@ -1,16 +1,19 @@
 ---
 title: "Pecos Criminal Justice Center — Reeves, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48389"
 state: "TX"
 county: "Reeves"
 repo_path: "kb/facilities/pecos-criminal-justice-center-reeves-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Pecos Criminal Justice Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/pecos-criminal-justice-center-reeves-tx/"
 ---
 
 IGSA detention facility: Pecos Criminal Justice Center in Reeves County, TX.

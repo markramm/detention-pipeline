@@ -1,16 +1,19 @@
 ---
 title: "Las Colinas Women Det Fac — San Diego, CA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "06073"
 state: "CA"
 county: "San Diego"
 repo_path: "kb/facilities/las-colinas-women-det-fac-san-diego-ca.md"
-signals: ["igsa"]
-states: ["CA"]
+type: "entry"
+layout: "single"
+facility_name: "Las Colinas Women Det Fac"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/las-colinas-women-det-fac-san-diego-ca/"
 ---
 
 IGSA detention facility: Las Colinas Women Det Fac in San Diego County, CA.

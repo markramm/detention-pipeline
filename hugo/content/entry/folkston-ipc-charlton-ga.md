@@ -1,16 +1,19 @@
 ---
 title: "Folkston ICE Processing Center — Charlton County GA (ICA / D. Ray James Merger)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Georgia"
 county: "Charlton"
 repo_path: "kb/industry/facilities/folkston-ipc-charlton-ga.md"
-signals: ["facility"]
-states: ["Georgia"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "GEO Group"
+status: "operational"
+bed_count: "3,000 (post-merger)"
+canonical: "/facilities/folkston-ipc-charlton-ga/"
 ---
 
 # Folkston ICE Processing Center — Nation's Largest Detention Facility

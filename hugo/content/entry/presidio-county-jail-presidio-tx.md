@@ -1,16 +1,19 @@
 ---
 title: "Presidio County Jail — Presidio, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48377"
 state: "TX"
 county: "Presidio"
 repo_path: "kb/facilities/presidio-county-jail-presidio-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Presidio County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/presidio-county-jail-presidio-tx/"
 ---
 
 IGSA detention facility: Presidio County Jail in Presidio County, TX.

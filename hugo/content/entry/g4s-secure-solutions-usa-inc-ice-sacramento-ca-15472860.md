@@ -1,7 +1,5 @@
 ---
 title: "G4S SECURE SOLUTIONS (USA) INC. — ICE SACRAMENTO, CA $15,472,860"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "06067"
 state: "CA"
 county: "SACRAMENTO"
 repo_path: "kb/anc/g4s-secure-solutions-usa-inc-ice-sacramento-ca-15472860.md"
-signals: ["anc-contract"]
-states: ["CA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

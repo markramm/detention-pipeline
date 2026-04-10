@@ -1,16 +1,19 @@
 ---
 title: "Wake County Sheriff Dept. — Wake, NC"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "37183"
 state: "NC"
 county: "Wake"
 repo_path: "kb/facilities/wake-county-sheriff-dept-wake-nc.md"
-signals: ["igsa"]
-states: ["NC"]
+type: "entry"
+layout: "single"
+facility_name: "Wake County Sheriff Dept."
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/wake-county-sheriff-dept-wake-nc/"
 ---
 
 IGSA detention facility: Wake County Sheriff Dept. in Wake County, NC.

@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>
+  <a href="/players/">Players</a><span class="sep">/</span>People
+</div>
+<div class="page-content">
+  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">People</h1>
+  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:20px;">
+    {{ .Params.count }} individuals at the intersection of government and the detention industry.
+  </p>
+
+  {{ range .Pages }}
+  <div class="card">
+    <a href="{{ .RelPermalink }}">
+      <div style="display:flex; align-items:center; gap:8px;">
+        <span class="signal-dot" style="background:#5a2a8a;"></span>
+        <div>
+          <div class="card-title">{{ .Title }}</div>
+          <div class="card-meta">
+            {{ with .Params.role }}{{ . }}{{ end }}
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

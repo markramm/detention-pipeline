@@ -1,16 +1,19 @@
 ---
 title: "Seneca County Jail — Steuben, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36101"
 state: "NY"
 county: "Steuben"
 repo_path: "kb/facilities/seneca-county-jail-steuben-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Seneca County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/seneca-county-jail-steuben-ny/"
 ---
 
 IGSA detention facility: Seneca County Jail in Steuben County, NY.

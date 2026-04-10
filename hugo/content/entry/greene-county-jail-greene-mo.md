@@ -1,16 +1,19 @@
 ---
 title: "Greene County Jail — Greene, MO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "29077"
 state: "MO"
 county: "Greene"
 repo_path: "kb/facilities/greene-county-jail-greene-mo.md"
-signals: ["igsa"]
-states: ["MO"]
+type: "entry"
+layout: "single"
+facility_name: "Greene County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/greene-county-jail-greene-mo/"
 ---
 
 IGSA detention facility: Greene County Jail in Greene County, MO.

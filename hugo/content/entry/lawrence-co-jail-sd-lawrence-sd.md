@@ -1,16 +1,19 @@
 ---
 title: "Lawrence Co. Jail, SD — Lawrence, SD"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "46081"
 state: "SD"
 county: "Lawrence"
 repo_path: "kb/facilities/lawrence-co-jail-sd-lawrence-sd.md"
-signals: ["igsa"]
-states: ["SD"]
+type: "entry"
+layout: "single"
+facility_name: "Lawrence Co. Jail, SD"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/lawrence-co-jail-sd-lawrence-sd/"
 ---
 
 IGSA detention facility: Lawrence Co. Jail, SD in Lawrence County, SD.

@@ -1,16 +1,14 @@
 ---
 title: "Palantir ICM (Investigative Case Management) — $139.3M (2022-2026)"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/palantir-icm-2022.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Palantir ICM Contract (2022)

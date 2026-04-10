@@ -1,7 +1,5 @@
 ---
 title: "Doddridge County, WV — USDA Distress Profile (3 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "54017"
 state: "WV"
 county: "Doddridge"
 repo_path: "kb/budget/doddridge-county-wv-usda-distress-profile-3-indicators.md"
-signals: ["budget-distress"]
-states: ["WV"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Doddridge County, WV with 3 distress indicators:

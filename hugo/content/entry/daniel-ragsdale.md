@@ -1,16 +1,19 @@
 ---
 title: "Daniel H. Ragsdale"
-type: entry
-layout: single
 entry_type: "person"
-signal_label: "person"
-signal_color: "#666"
+signal_label: "Person"
+signal_color: "#5a2a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/daniel-ragsdale.md"
-signals: ["person"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "person"
+role: "SVP Contract Administration & Compliance, GEO Group / Former ICE Deputy Director"
+government_service: ""
+private_role: ""
+canonical: "/players/people/daniel-ragsdale/"
 ---
 
 # Daniel H. Ragsdale

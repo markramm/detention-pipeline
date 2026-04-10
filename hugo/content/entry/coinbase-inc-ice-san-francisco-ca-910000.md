@@ -1,7 +1,5 @@
 ---
 title: "COINBASE INC — ICE SAN FRANCISCO, CA $910,000"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "06075"
 state: "CA"
 county: "SAN FRANCISCO"
 repo_path: "kb/anc/coinbase-inc-ice-san-francisco-ca-910000.md"
-signals: ["anc-contract"]
-states: ["CA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,16 +1,19 @@
 ---
 title: "Whitfield County Jail — Whitfield, GA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "13313"
 state: "GA"
 county: "Whitfield"
 repo_path: "kb/facilities/whitfield-county-jail-whitfield-ga.md"
-signals: ["igsa"]
-states: ["GA"]
+type: "entry"
+layout: "single"
+facility_name: "Whitfield County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/whitfield-county-jail-whitfield-ga/"
 ---
 
 IGSA detention facility: Whitfield County Jail in Whitfield County, GA.

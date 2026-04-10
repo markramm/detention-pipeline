@@ -1,16 +1,19 @@
 ---
 title: "Oakdale Fed. Det. Center — Allen, LA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "22003"
 state: "LA"
 county: "Allen"
 repo_path: "kb/facilities/oakdale-fed-det-center-allen-la.md"
-signals: ["igsa"]
-states: ["LA"]
+type: "entry"
+layout: "single"
+facility_name: "Oakdale Fed. Det. Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/oakdale-fed-det-center-allen-la/"
 ---
 
 IGSA detention facility: Oakdale Fed. Det. Center in Allen County, LA.

@@ -1,16 +1,19 @@
 ---
 title: "Webb County Detention Center (CCA) — Webb, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48479"
 state: "TX"
 county: "Webb"
 repo_path: "kb/facilities/webb-county-detention-center-cca-webb-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Webb County Detention Center (CCA)"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/webb-county-detention-center-cca-webb-tx/"
 ---
 
 IGSA detention facility: Webb County Detention Center (CCA) in Webb County, TX.

@@ -1,16 +1,14 @@
 ---
 title: "FOIA and Open Records Requests Needed — Warehouse Profiteering Investigation"
-type: entry
-layout: single
 entry_type: "note"
-signal_label: "note"
-signal_color: "#666"
+signal_label: "Research Note"
+signal_color: "#6a6a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/foia-requests-needed.md"
-signals: ["note"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # FOIA and Open Records Requests Needed

@@ -1,16 +1,14 @@
 ---
 title: "G4S Secure Solutions — ICE Ground Transportation & Custody Contracts"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/g4s-ground-transportation.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # G4S Secure Solutions — ICE Ground Transportation

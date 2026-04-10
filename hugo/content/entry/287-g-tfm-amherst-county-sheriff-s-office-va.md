@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Amherst County Sheriff’s Office (VA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "51009"
 state: "VA"
 county: "Amherst County"
 repo_path: "kb/287g/287-g-tfm-amherst-county-sheriff-s-office-va.md"
-signals: ["287g-agreement"]
-states: ["VA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Amherst County Sheriff’s Office.

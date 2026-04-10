@@ -1,16 +1,19 @@
 ---
 title: "Brown County Jail — Brown, SD"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "46013"
 state: "SD"
 county: "Brown"
 repo_path: "kb/facilities/brown-county-jail-brown-sd.md"
-signals: ["igsa"]
-states: ["SD"]
+type: "entry"
+layout: "single"
+facility_name: "Brown County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/brown-county-jail-brown-sd/"
 ---
 
 IGSA detention facility: Brown County Jail in Brown County, SD.

@@ -1,7 +1,5 @@
 ---
 title: "THE GEO GROUP, INC. — ICE PIERCE, WA $69,539,507"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "53053"
 state: "WA"
 county: "PIERCE"
 repo_path: "kb/anc/the-geo-group-inc-ice-pierce-wa-69539507.md"
-signals: ["anc-contract"]
-states: ["WA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

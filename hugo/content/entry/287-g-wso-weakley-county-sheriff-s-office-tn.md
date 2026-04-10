@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Weakley County Sheriff’s Office (TN)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "47183"
 state: "TN"
 county: "Weakley County"
 repo_path: "kb/287g/287-g-wso-weakley-county-sheriff-s-office-tn.md"
-signals: ["287g-agreement"]
-states: ["TN"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Weakley County Sheriff’s Office.

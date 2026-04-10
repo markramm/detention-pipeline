@@ -1,16 +1,19 @@
 ---
 title: "Northern Neck Reg. Jail — Richmond, VA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "51760"
 state: "VA"
 county: "Richmond"
 repo_path: "kb/facilities/northern-neck-reg-jail-richmond-va.md"
-signals: ["igsa"]
-states: ["VA"]
+type: "entry"
+layout: "single"
+facility_name: "Northern Neck Reg. Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/northern-neck-reg-jail-richmond-va/"
 ---
 
 IGSA detention facility: Northern Neck Reg. Jail in Richmond County, VA.

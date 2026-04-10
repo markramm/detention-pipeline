@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Phillips County Sheriff’s Department (KS)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "20147"
 state: "KS"
 county: "Phillips County"
 repo_path: "kb/287g/287-g-wso-phillips-county-sheriff-s-department-ks.md"
-signals: ["287g-agreement"]
-states: ["KS"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Phillips County Sheriff’s Department.

@@ -1,16 +1,19 @@
 ---
 title: "Central Louisiana ICE Processing Center, Jena LA"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Louisiana"
 county: "LaSalle"
 repo_path: "kb/industry/facilities/jena-la-central-processing.md"
-signals: ["facility"]
-states: ["Louisiana"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "GEO Group"
+status: "operational"
+bed_count: "1,160 beds"
+canonical: "/facilities/jena-la-central-processing/"
 ---
 
 # Central Louisiana ICE Processing Center

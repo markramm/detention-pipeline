@@ -1,7 +1,5 @@
 ---
 title: "THE GEO GROUP, INC. — ICE LAKE, MI $69,900,421"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "26085"
 state: "MI"
 county: "LAKE"
 repo_path: "kb/anc/the-geo-group-inc-ice-lake-mi-69900421.md"
-signals: ["anc-contract"]
-states: ["MI"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

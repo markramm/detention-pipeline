@@ -1,16 +1,19 @@
 ---
 title: "Hartford Corr Center — Hartford, CT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "09003"
 state: "CT"
 county: "Hartford"
 repo_path: "kb/facilities/hartford-corr-center-hartford-ct.md"
-signals: ["igsa"]
-states: ["CT"]
+type: "entry"
+layout: "single"
+facility_name: "Hartford Corr Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/hartford-corr-center-hartford-ct/"
 ---
 
 IGSA detention facility: Hartford Corr Center in Hartford County, CT.

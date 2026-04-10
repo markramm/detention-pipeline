@@ -1,16 +1,14 @@
 ---
 title: "Glades County FL — Reinstated IGSA (up to 500 beds, April 2025)"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/glades-county-igsa-2025.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Glades County IGSA

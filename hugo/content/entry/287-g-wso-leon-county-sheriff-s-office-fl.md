@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Leon County Sheriff’s Office (FL)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "12073"
 state: "FL"
 county: "Leon County"
 repo_path: "kb/287g/287-g-wso-leon-county-sheriff-s-office-fl.md"
-signals: ["287g-agreement"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Leon County Sheriff’s Office.

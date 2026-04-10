@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Mississippi Department of Public Safety (MS)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "28049"
 state: "MS"
 county: "Hinds County"
 repo_path: "kb/287g/287-g-tfm-mississippi-department-of-public-safety-ms.md"
-signals: ["287g-agreement"]
-states: ["MS"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Mississippi Department of Public Safety.

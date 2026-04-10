@@ -1,7 +1,5 @@
 ---
 title: "PCI GUIDEHOUSE JV LLC — ICE ESCAMBIA, AL $1,806,496"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "01053"
 state: "AL"
 county: "ESCAMBIA"
 repo_path: "kb/anc/pci-guidehouse-jv-llc-ice-escambia-al-1806496.md"
-signals: ["anc-contract"]
-states: ["AL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

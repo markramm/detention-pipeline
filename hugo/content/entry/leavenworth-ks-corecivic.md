@@ -1,16 +1,19 @@
 ---
 title: "Midwest Regional Reception Center — Leavenworth KS (CoreCivic)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Kansas"
 county: "Leavenworth"
 repo_path: "kb/industry/facilities/leavenworth-ks-corecivic.md"
-signals: ["facility"]
-states: ["Kansas"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "CoreCivic"
+status: "contested"
+bed_count: "1,033"
+canonical: "/facilities/leavenworth-ks-corecivic/"
 ---
 
 # Midwest Regional Reception Center — Leavenworth KS (CoreCivic)

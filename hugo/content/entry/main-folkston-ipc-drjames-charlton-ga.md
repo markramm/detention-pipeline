@@ -1,16 +1,19 @@
 ---
 title: "Main Folkston IPC Drjames — Charlton, GA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "13049"
 state: "GA"
 county: "Charlton"
 repo_path: "kb/facilities/main-folkston-ipc-drjames-charlton-ga.md"
-signals: ["igsa"]
-states: ["GA"]
+type: "entry"
+layout: "single"
+facility_name: "Main Folkston IPC Drjames"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/main-folkston-ipc-drjames-charlton-ga/"
 ---
 
 IGSA detention facility: Main Folkston IPC Drjames in Charlton County, GA.

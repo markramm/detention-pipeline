@@ -1,16 +1,19 @@
 ---
 title: "Phillips County Jail, MT — Phillips, MT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "30071"
 state: "MT"
 county: "Phillips"
 repo_path: "kb/facilities/phillips-county-jail-mt-phillips-mt.md"
-signals: ["igsa"]
-states: ["MT"]
+type: "entry"
+layout: "single"
+facility_name: "Phillips County Jail, MT"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/phillips-county-jail-mt-phillips-mt/"
 ---
 
 IGSA detention facility: Phillips County Jail, MT in Phillips County, MT.

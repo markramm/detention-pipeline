@@ -1,7 +1,5 @@
 ---
 title: "Project Manager - Detention & Corrections"
-type: entry
-layout: single
 entry_type: "job-posting"
 signal_label: "Job Posting"
 signal_color: "#2a9f6f"
@@ -9,8 +7,8 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/jobs/project-manager-detention-corrections.md"
-signals: ["job-posting"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 Job posting: Project Manager - Detention & Corrections

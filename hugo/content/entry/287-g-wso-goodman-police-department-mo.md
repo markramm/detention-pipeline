@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Goodman Police Department (MO)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "29119"
 state: "MO"
 county: "McDonald County"
 repo_path: "kb/287g/287-g-wso-goodman-police-department-mo.md"
-signals: ["287g-agreement"]
-states: ["MO"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Goodman Police Department.

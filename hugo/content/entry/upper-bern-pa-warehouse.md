@@ -1,16 +1,19 @@
 ---
 title: "Upper Bern Township PA Warehouse — ICE Processing Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Pennsylvania"
 county: "Berks"
 repo_path: "kb/industry/facilities/upper-bern-pa-warehouse.md"
-signals: ["facility"]
-states: ["Pennsylvania"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "under-construction"
+bed_count: "500-1,500"
+canonical: "/facilities/upper-bern-pa-warehouse/"
 ---
 
 # Upper Bern Township PA Warehouse — ICE Processing Center

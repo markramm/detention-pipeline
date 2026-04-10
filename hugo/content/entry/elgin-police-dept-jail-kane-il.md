@@ -1,16 +1,19 @@
 ---
 title: "Elgin Police Dept. Jail — Kane, IL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "17089"
 state: "IL"
 county: "Kane"
 repo_path: "kb/facilities/elgin-police-dept-jail-kane-il.md"
-signals: ["igsa"]
-states: ["IL"]
+type: "entry"
+layout: "single"
+facility_name: "Elgin Police Dept. Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/elgin-police-dept-jail-kane-il/"
 ---
 
 IGSA detention facility: Elgin Police Dept. Jail in Kane County, IL.

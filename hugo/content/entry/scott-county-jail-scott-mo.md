@@ -1,16 +1,19 @@
 ---
 title: "Scott County Jail — Scott, MO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "29201"
 state: "MO"
 county: "Scott"
 repo_path: "kb/facilities/scott-county-jail-scott-mo.md"
-signals: ["igsa"]
-states: ["MO"]
+type: "entry"
+layout: "single"
+facility_name: "Scott County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/scott-county-jail-scott-mo/"
 ---
 
 IGSA detention facility: Scott County Jail in Scott County, MO.

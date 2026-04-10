@@ -1,16 +1,19 @@
 ---
 title: "Chatham Co Jail — Chatham, GA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "13051"
 state: "GA"
 county: "Chatham"
 repo_path: "kb/facilities/chatham-co-jail-chatham-ga.md"
-signals: ["igsa"]
-states: ["GA"]
+type: "entry"
+layout: "single"
+facility_name: "Chatham Co Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/chatham-co-jail-chatham-ga/"
 ---
 
 IGSA detention facility: Chatham Co Jail in Chatham County, GA.

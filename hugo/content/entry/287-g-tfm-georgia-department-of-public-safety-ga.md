@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Georgia Department of Public Safety (GA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "GA"
 county: ""
 repo_path: "kb/287g/287-g-tfm-georgia-department-of-public-safety-ga.md"
-signals: ["287g-agreement"]
-states: ["GA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Georgia Department of Public Safety.

@@ -1,16 +1,19 @@
 ---
 title: "Adams County Jail — Adams, CO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "08001"
 state: "CO"
 county: "Adams"
 repo_path: "kb/facilities/adams-county-jail-adams-co.md"
-signals: ["igsa"]
-states: ["CO"]
+type: "entry"
+layout: "single"
+facility_name: "Adams County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/adams-county-jail-adams-co/"
 ---
 
 IGSA detention facility: Adams County Jail in Adams County, CO.

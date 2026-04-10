@@ -1,16 +1,19 @@
 ---
 title: "Baldwin County Cor. Center — Baldwin, AL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "01003"
 state: "AL"
 county: "Baldwin"
 repo_path: "kb/facilities/baldwin-county-cor-center-baldwin-al.md"
-signals: ["igsa"]
-states: ["AL"]
+type: "entry"
+layout: "single"
+facility_name: "Baldwin County Cor. Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/baldwin-county-cor-center-baldwin-al/"
 ---
 
 IGSA detention facility: Baldwin County Cor. Center in Baldwin County, AL.

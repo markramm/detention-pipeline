@@ -1,16 +1,19 @@
 ---
 title: "Central Regional Jail — Braxton, WV"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "54007"
 state: "WV"
 county: "Braxton"
 repo_path: "kb/facilities/central-regional-jail-braxton-wv.md"
-signals: ["igsa"]
-states: ["WV"]
+type: "entry"
+layout: "single"
+facility_name: "Central Regional Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/central-regional-jail-braxton-wv/"
 ---
 
 IGSA detention facility: Central Regional Jail in Braxton County, WV.

@@ -1,7 +1,5 @@
 ---
 title: "Bradford County, FL — USDA Distress Profile (4 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "12007"
 state: "FL"
 county: "Bradford"
 repo_path: "kb/budget/bradford-county-fl-usda-distress-profile-4-indicators.md"
-signals: ["budget-distress"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Bradford County, FL with 4 distress indicators:

@@ -1,16 +1,20 @@
 ---
 title: "BI Incorporated"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/bi-incorporated.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "monitoring"
+headquarters: "Boulder, Colorado"
+founded: "1978"
+status: "active"
+canonical: "/players/contractors/bi-incorporated/"
 ---
 
 # BI Incorporated

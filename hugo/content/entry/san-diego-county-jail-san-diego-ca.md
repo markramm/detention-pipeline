@@ -1,16 +1,19 @@
 ---
 title: "San Diego County Jail — San Diego, CA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "06073"
 state: "CA"
 county: "San Diego"
 repo_path: "kb/facilities/san-diego-county-jail-san-diego-ca.md"
-signals: ["igsa"]
-states: ["CA"]
+type: "entry"
+layout: "single"
+facility_name: "San Diego County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/san-diego-county-jail-san-diego-ca/"
 ---
 
 IGSA detention facility: San Diego County Jail in San Diego County, CA.

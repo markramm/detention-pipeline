@@ -1,16 +1,19 @@
 ---
 title: "York Corr Inst — New London, CT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "09011"
 state: "CT"
 county: "New London"
 repo_path: "kb/facilities/york-corr-inst-new-london-ct.md"
-signals: ["igsa"]
-states: ["CT"]
+type: "entry"
+layout: "single"
+facility_name: "York Corr Inst"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/york-corr-inst-new-london-ct/"
 ---
 
 IGSA detention facility: York Corr Inst in New London County, CT.

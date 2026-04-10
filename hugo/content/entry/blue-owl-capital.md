@@ -1,16 +1,14 @@
 ---
 title: "Blue Owl Capital — Private Equity Firm Profiting from ICE Warehouse Purchases"
-type: entry
-layout: single
 entry_type: "organization"
-signal_label: "organization"
-signal_color: "#666"
+signal_label: "Organization"
+signal_color: "#4a7ab5"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/organizations/blue-owl-capital.md"
-signals: ["organization"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Blue Owl Capital

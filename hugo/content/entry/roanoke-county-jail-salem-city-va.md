@@ -1,16 +1,19 @@
 ---
 title: "Roanoke County Jail — Salem City, VA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "51775"
 state: "VA"
 county: "Salem City"
 repo_path: "kb/facilities/roanoke-county-jail-salem-city-va.md"
-signals: ["igsa"]
-states: ["VA"]
+type: "entry"
+layout: "single"
+facility_name: "Roanoke County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/roanoke-county-jail-salem-city-va/"
 ---
 
 IGSA detention facility: Roanoke County Jail in Salem City County, VA.

@@ -1,16 +1,19 @@
 ---
 title: "David Venturella"
-type: entry
-layout: single
 entry_type: "person"
-signal_label: "person"
-signal_color: "#666"
+signal_label: "Person"
+signal_color: "#5a2a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/david-venturella.md"
-signals: ["person"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "person"
+role: "DHS Senior Adviser / Former GEO Group Executive / Former ICE Assistant Director"
+government_service: ""
+private_role: ""
+canonical: "/players/people/david-venturella/"
 ---
 
 # David Venturella

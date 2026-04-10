@@ -1,16 +1,19 @@
 ---
 title: "Fresno County Jail — Fresno, CA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "06019"
 state: "CA"
 county: "Fresno"
 repo_path: "kb/facilities/fresno-county-jail-fresno-ca.md"
-signals: ["igsa"]
-states: ["CA"]
+type: "entry"
+layout: "single"
+facility_name: "Fresno County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/fresno-county-jail-fresno-ca/"
 ---
 
 IGSA detention facility: Fresno County Jail in Fresno County, CA.

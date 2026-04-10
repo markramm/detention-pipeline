@@ -1,7 +1,5 @@
 ---
 title: "OLIN WINCHESTER LLC — ICE MADISON, IL $533,036"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "17119"
 state: "IL"
 county: "MADISON"
 repo_path: "kb/anc/olin-winchester-llc-ice-madison-il-533036.md"
-signals: ["anc-contract"]
-states: ["IL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

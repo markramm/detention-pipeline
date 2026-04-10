@@ -1,16 +1,19 @@
 ---
 title: "Dekalb County Jail — Dekalb, GA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "13089"
 state: "GA"
 county: "Dekalb"
 repo_path: "kb/facilities/dekalb-county-jail-dekalb-ga.md"
-signals: ["igsa"]
-states: ["GA"]
+type: "entry"
+layout: "single"
+facility_name: "Dekalb County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/dekalb-county-jail-dekalb-ga/"
 ---
 
 IGSA detention facility: Dekalb County Jail in Dekalb County, GA.

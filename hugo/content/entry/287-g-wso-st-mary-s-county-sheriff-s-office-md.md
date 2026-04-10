@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: St. Mary’s County Sheriff’s Office (MD)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "MD"
 county: "St. Mary’s County"
 repo_path: "kb/287g/287-g-wso-st-mary-s-county-sheriff-s-office-md.md"
-signals: ["287g-agreement"]
-states: ["MD"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and St. Mary’s County Sheriff’s Office.

@@ -1,16 +1,20 @@
 ---
 title: "Vigilant Solutions (Motorola Solutions) — License Plate Reader Network for ICE"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/vigilant-solutions-motorola.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "surveillance-platform"
+headquarters: "Livermore, California (parent: Chicago, Illinois)"
+founded: ""
+status: "active"
+canonical: "/players/contractors/vigilant-solutions-motorola/"
 ---
 
 # Vigilant Solutions (Motorola Solutions)

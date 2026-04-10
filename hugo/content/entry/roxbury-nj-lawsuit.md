@@ -1,16 +1,19 @@
 ---
 title: "Roxbury NJ — Governor, AG, and Township Sue to Block ICE Processing Center"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "New Jersey"
 county: "Morris"
 repo_path: "kb/industry/county-fights/roxbury-nj-lawsuit.md"
-signals: ["county-fight"]
-states: ["New Jersey"]
+type: "entry"
+layout: "single"
+status: "litigation"
+outcome: "Ongoing litigation. Governor Murphy, AG Platkin, and Roxbury Township filed suit. No Ice North Jersey Alliance (Project NINJA) organized 1,500+ community members."
+vote_tally: ""
+facility: "roxbury-nj-warehouse"
+canonical: "/fights/roxbury-nj-lawsuit/"
 ---
 
 # Roxbury, New Jersey: Multi-Level Legal Fight

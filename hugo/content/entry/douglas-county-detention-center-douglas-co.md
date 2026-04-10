@@ -1,16 +1,19 @@
 ---
 title: "Douglas County Detention Center — Douglas, CO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "08035"
 state: "CO"
 county: "Douglas"
 repo_path: "kb/facilities/douglas-county-detention-center-douglas-co.md"
-signals: ["igsa"]
-states: ["CO"]
+type: "entry"
+layout: "single"
+facility_name: "Douglas County Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/douglas-county-detention-center-douglas-co/"
 ---
 
 IGSA detention facility: Douglas County Detention Center in Douglas County, CO.

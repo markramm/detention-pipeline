@@ -1,16 +1,19 @@
 ---
 title: "Navajo County Sheriff — Navajo, AZ"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "04017"
 state: "AZ"
 county: "Navajo"
 repo_path: "kb/facilities/navajo-county-sheriff-navajo-az.md"
-signals: ["igsa"]
-states: ["AZ"]
+type: "entry"
+layout: "single"
+facility_name: "Navajo County Sheriff"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/navajo-county-sheriff-navajo-az/"
 ---
 
 IGSA detention facility: Navajo County Sheriff in Navajo County, AZ.

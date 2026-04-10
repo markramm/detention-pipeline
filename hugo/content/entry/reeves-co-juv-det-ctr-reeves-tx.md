@@ -1,16 +1,19 @@
 ---
 title: "Reeves Co. Juv. Det. Ctr. — Reeves, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48389"
 state: "TX"
 county: "Reeves"
 repo_path: "kb/facilities/reeves-co-juv-det-ctr-reeves-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Reeves Co. Juv. Det. Ctr."
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/reeves-co-juv-det-ctr-reeves-tx/"
 ---
 
 IGSA detention facility: Reeves Co. Juv. Det. Ctr. in Reeves County, TX.

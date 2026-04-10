@@ -1,16 +1,19 @@
 ---
 title: "Stutsman Co. Jail, ND — Stutsman, ND"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "38093"
 state: "ND"
 county: "Stutsman"
 repo_path: "kb/facilities/stutsman-co-jail-nd-stutsman-nd.md"
-signals: ["igsa"]
-states: ["ND"]
+type: "entry"
+layout: "single"
+facility_name: "Stutsman Co. Jail, ND"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/stutsman-co-jail-nd-stutsman-nd/"
 ---
 
 IGSA detention facility: Stutsman Co. Jail, ND in Stutsman County, ND.

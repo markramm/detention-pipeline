@@ -1,7 +1,5 @@
 ---
 title: "Sabot Consulting — Project Manager - DOJ (Remote)"
-type: entry
-layout: single
 entry_type: "job-posting"
 signal_label: "Job Posting"
 signal_color: "#2a9f6f"
@@ -9,8 +7,8 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/jobs/sabot-project-manager-doj-remote.md"
-signals: ["job-posting"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Sabot Consulting — Project Manager - DOJ (Remote)

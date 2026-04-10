@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Lanett Police Department (AL)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "01017"
 state: "AL"
 county: "Chambers County"
 repo_path: "kb/287g/287-g-tfm-lanett-police-department-al.md"
-signals: ["287g-agreement"]
-states: ["AL"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Lanett Police Department.

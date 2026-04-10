@@ -1,16 +1,19 @@
 ---
 title: "Grand Forks County Correc — Grand Forks, ND"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "38035"
 state: "ND"
 county: "Grand Forks"
 repo_path: "kb/facilities/grand-forks-county-correc-grand-forks-nd.md"
-signals: ["igsa"]
-states: ["ND"]
+type: "entry"
+layout: "single"
+facility_name: "Grand Forks County Correc"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/grand-forks-county-correc-grand-forks-nd/"
 ---
 
 IGSA detention facility: Grand Forks County Correc in Grand Forks County, ND.

@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: McIntosh County Sheriff’s Office (OK)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "40091"
 state: "OK"
 county: "McIntosh County"
 repo_path: "kb/287g/287-g-tfm-mcintosh-county-sheriff-s-office-ok.md"
-signals: ["287g-agreement"]
-states: ["OK"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and McIntosh County Sheriff’s Office.

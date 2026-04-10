@@ -1,16 +1,19 @@
 ---
 title: "El Paso TX Eastwind Logistics Center — ICE Mega Detention Center"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Texas"
 county: "El Paso"
 repo_path: "kb/industry/facilities/el-paso-tx-eastwind-mega-center.md"
-signals: ["facility"]
-states: ["Texas"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "under-construction"
+bed_count: "8,500"
+canonical: "/facilities/el-paso-tx-eastwind-mega-center/"
 ---
 
 # El Paso TX Eastwind Logistics Center — ICE Mega Detention Center

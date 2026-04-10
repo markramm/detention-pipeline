@@ -1,16 +1,19 @@
 ---
 title: "North Georgia Detention Center — Hall, GA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "13139"
 state: "GA"
 county: "Hall"
 repo_path: "kb/facilities/north-georgia-detention-center-hall-ga.md"
-signals: ["igsa"]
-states: ["GA"]
+type: "entry"
+layout: "single"
+facility_name: "North Georgia Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/north-georgia-detention-center-hall-ga/"
 ---
 
 IGSA detention facility: North Georgia Detention Center in Hall County, GA.

@@ -1,16 +1,19 @@
 ---
 title: "Vega Alta Det. Facility — Vega Alta, PR"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "72143"
 state: "PR"
 county: "Vega Alta"
 repo_path: "kb/facilities/vega-alta-det-facility-vega-alta-pr.md"
-signals: ["igsa"]
-states: ["PR"]
+type: "entry"
+layout: "single"
+facility_name: "Vega Alta Det. Facility"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/vega-alta-det-facility-vega-alta-pr/"
 ---
 
 IGSA detention facility: Vega Alta Det. Facility in Vega Alta County, PR.

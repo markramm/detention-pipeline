@@ -1,7 +1,5 @@
 ---
 title: "PRICE MODERN LLC — ICE ORANGE, FL $857,871"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "12095"
 state: "FL"
 county: "ORANGE"
 repo_path: "kb/anc/price-modern-llc-ice-orange-fl-857871.md"
-signals: ["anc-contract"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

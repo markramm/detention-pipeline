@@ -1,7 +1,5 @@
 ---
 title: "NET DIRECT SYSTEMS, LLC — ICE WAKE, NC $10,119,092"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "37183"
 state: "NC"
 county: "WAKE"
 repo_path: "kb/anc/net-direct-systems-llc-ice-wake-nc-10119092.md"
-signals: ["anc-contract"]
-states: ["NC"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

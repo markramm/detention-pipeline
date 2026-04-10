@@ -1,16 +1,19 @@
 ---
 title: "Carroll County Detention Center — Carroll, MD"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "24013"
 state: "MD"
 county: "Carroll"
 repo_path: "kb/facilities/carroll-county-detention-center-carroll-md.md"
-signals: ["igsa"]
-states: ["MD"]
+type: "entry"
+layout: "single"
+facility_name: "Carroll County Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/carroll-county-detention-center-carroll-md/"
 ---
 
 IGSA detention facility: Carroll County Detention Center in Carroll County, MD.

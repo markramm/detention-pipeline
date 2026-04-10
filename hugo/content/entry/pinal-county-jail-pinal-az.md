@@ -1,16 +1,19 @@
 ---
 title: "Pinal County Jail — Pinal, AZ"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "04021"
 state: "AZ"
 county: "Pinal"
 repo_path: "kb/facilities/pinal-county-jail-pinal-az.md"
-signals: ["igsa"]
-states: ["AZ"]
+type: "entry"
+layout: "single"
+facility_name: "Pinal County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/pinal-county-jail-pinal-az/"
 ---
 
 IGSA detention facility: Pinal County Jail in Pinal County, AZ.

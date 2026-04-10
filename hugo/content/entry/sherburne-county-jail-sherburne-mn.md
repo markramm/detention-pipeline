@@ -1,16 +1,19 @@
 ---
 title: "Sherburne County Jail — Sherburne, MN"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "27141"
 state: "MN"
 county: "Sherburne"
 repo_path: "kb/facilities/sherburne-county-jail-sherburne-mn.md"
-signals: ["igsa"]
-states: ["MN"]
+type: "entry"
+layout: "single"
+facility_name: "Sherburne County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/sherburne-county-jail-sherburne-mn/"
 ---
 
 IGSA detention facility: Sherburne County Jail in Sherburne County, MN.

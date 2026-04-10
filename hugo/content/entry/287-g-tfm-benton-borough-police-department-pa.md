@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Benton Borough Police Department (PA)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "42037"
 state: "PA"
 county: "Columbia County"
 repo_path: "kb/287g/287-g-tfm-benton-borough-police-department-pa.md"
-signals: ["287g-agreement"]
-states: ["PA"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Benton Borough Police Department.

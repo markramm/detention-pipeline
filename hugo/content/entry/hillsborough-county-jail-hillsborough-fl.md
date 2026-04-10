@@ -1,16 +1,19 @@
 ---
 title: "Hillsborough County Jail — Hillsborough, FL"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "12057"
 state: "FL"
 county: "Hillsborough"
 repo_path: "kb/facilities/hillsborough-county-jail-hillsborough-fl.md"
-signals: ["igsa"]
-states: ["FL"]
+type: "entry"
+layout: "single"
+facility_name: "Hillsborough County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/hillsborough-county-jail-hillsborough-fl/"
 ---
 
 IGSA detention facility: Hillsborough County Jail in Hillsborough County, FL.

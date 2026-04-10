@@ -1,7 +1,5 @@
 ---
 title: "ADC LTD NM — ICE DALLAS, TX $12,240,377"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "48113"
 state: "TX"
 county: "DALLAS"
 repo_path: "kb/anc/adc-ltd-nm-ice-dallas-tx-12240377.md"
-signals: ["anc-contract"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

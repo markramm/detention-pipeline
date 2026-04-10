@@ -1,16 +1,19 @@
 ---
 title: "Freestone County Jail — Freestone, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48161"
 state: "TX"
 county: "Freestone"
 repo_path: "kb/facilities/freestone-county-jail-freestone-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Freestone County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/freestone-county-jail-freestone-tx/"
 ---
 
 IGSA detention facility: Freestone County Jail in Freestone County, TX.

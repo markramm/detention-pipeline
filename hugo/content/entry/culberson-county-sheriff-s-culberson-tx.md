@@ -1,16 +1,19 @@
 ---
 title: "Culberson County Sheriff's — Culberson, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/facilities/culberson-county-sheriff-s-culberson-tx.md"
-signals: ["igsa"]
-states: [""]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: ""
+status: ""
+bed_count: ""
+canonical: "/facilities/culberson-county-sheriff-s-culberson-tx/"
 ---
 
 IGSA detention facility: Culberson County Sheriff's in Culberson County, TX.

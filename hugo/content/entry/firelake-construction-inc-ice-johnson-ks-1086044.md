@@ -1,7 +1,5 @@
 ---
 title: "FIRELAKE CONSTRUCTION INC — ICE JOHNSON, KS $1,086,044"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "20091"
 state: "KS"
 county: "JOHNSON"
 repo_path: "kb/anc/firelake-construction-inc-ice-johnson-ks-1086044.md"
-signals: ["anc-contract"]
-states: ["KS"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

@@ -1,16 +1,19 @@
 ---
 title: "Surprise AZ — City Passed 5-Year Ban on Detention Facilities (Unenforceable Due to Federal Preemption)"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "Arizona"
 county: "Maricopa"
 repo_path: "kb/industry/county-fights/surprise-az-ban.md"
-signals: ["county-fight"]
-states: ["Arizona"]
+type: "entry"
+layout: "single"
+status: "operational-despite-opposition"
+outcome: "City passed 5-year ban, but federal preemption makes it unenforceable. ICE purchased the warehouse ($70M+) regardless. DHS later scaled back planned capacity."
+vote_tally: ""
+facility: "surprise-az-warehouse"
+canonical: "/fights/surprise-az-ban/"
 ---
 
 # Surprise, Arizona: The Limits of Local Bans

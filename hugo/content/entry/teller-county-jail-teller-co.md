@@ -1,16 +1,19 @@
 ---
 title: "Teller County Jail — Teller, CO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "08119"
 state: "CO"
 county: "Teller"
 repo_path: "kb/facilities/teller-county-jail-teller-co.md"
-signals: ["igsa"]
-states: ["CO"]
+type: "entry"
+layout: "single"
+facility_name: "Teller County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/teller-county-jail-teller-co/"
 ---
 
 IGSA detention facility: Teller County Jail in Teller County, CO.

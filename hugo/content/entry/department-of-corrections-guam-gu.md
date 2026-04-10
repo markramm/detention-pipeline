@@ -1,16 +1,19 @@
 ---
 title: "Department Of Corrections — Guam, GU"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "66010"
 state: "GU"
 county: "Guam"
 repo_path: "kb/facilities/department-of-corrections-guam-gu.md"
-signals: ["igsa"]
-states: ["GU"]
+type: "entry"
+layout: "single"
+facility_name: "Department Of Corrections"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/department-of-corrections-guam-gu/"
 ---
 
 IGSA detention facility: Department Of Corrections in Guam County, GU.

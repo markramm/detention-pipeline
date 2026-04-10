@@ -1,16 +1,19 @@
 ---
 title: "Gloucester County Jail — Gloucester, NJ"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "34015"
 state: "NJ"
 county: "Gloucester"
 repo_path: "kb/facilities/gloucester-county-jail-gloucester-nj.md"
-signals: ["igsa"]
-states: ["NJ"]
+type: "entry"
+layout: "single"
+facility_name: "Gloucester County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/gloucester-county-jail-gloucester-nj/"
 ---
 
 IGSA detention facility: Gloucester County Jail in Gloucester County, NJ.

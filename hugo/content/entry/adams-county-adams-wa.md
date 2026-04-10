@@ -1,16 +1,19 @@
 ---
 title: "Adams County — Adams, WA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "53001"
 state: "WA"
 county: "Adams"
 repo_path: "kb/facilities/adams-county-adams-wa.md"
-signals: ["igsa"]
-states: ["WA"]
+type: "entry"
+layout: "single"
+facility_name: "Adams County"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/adams-county-adams-wa/"
 ---
 
 IGSA detention facility: Adams County in Adams County, WA.

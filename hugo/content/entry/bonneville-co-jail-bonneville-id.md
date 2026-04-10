@@ -1,16 +1,19 @@
 ---
 title: "Bonneville Co. Jail — Bonneville, ID"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "16019"
 state: "ID"
 county: "Bonneville"
 repo_path: "kb/facilities/bonneville-co-jail-bonneville-id.md"
-signals: ["igsa"]
-states: ["ID"]
+type: "entry"
+layout: "single"
+facility_name: "Bonneville Co. Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/bonneville-co-jail-bonneville-id/"
 ---
 
 IGSA detention facility: Bonneville Co. Jail in Bonneville County, ID.

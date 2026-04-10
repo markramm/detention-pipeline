@@ -1,7 +1,5 @@
 ---
 title: "CONCUR TECHNOLOGIES, INC. — ICE KING, WA $5,683,908"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "53033"
 state: "WA"
 county: "KING"
 repo_path: "kb/anc/concur-technologies-inc-ice-king-wa-5683908.md"
-signals: ["anc-contract"]
-states: ["WA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

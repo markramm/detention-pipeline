@@ -1,16 +1,19 @@
 ---
 title: "Irwin County Detention Center — Irwin, GA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "13155"
 state: "GA"
 county: "Irwin"
 repo_path: "kb/facilities/irwin-county-detention-center-irwin-ga.md"
-signals: ["igsa"]
-states: ["GA"]
+type: "entry"
+layout: "single"
+facility_name: "Irwin County Detention Center"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/irwin-county-detention-center-irwin-ga/"
 ---
 
 IGSA detention facility: Irwin County Detention Center in Irwin County, GA.

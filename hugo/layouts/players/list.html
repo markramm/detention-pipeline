@@ -1,0 +1,60 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>The Players
+</div>
+<div class="page-content">
+  <div style="padding-top:24px; margin-bottom:28px;">
+    <h1 class="serif" style="font-size:32px; font-weight:400; margin-bottom:6px;">The Players</h1>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.6; max-width:600px;">
+      The companies that operate detention, the officials who move between government and industry,
+      and the money that flows through the system.
+    </p>
+  </div>
+
+  <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:16px;">
+
+    <div class="card" style="padding:20px 24px; border-top:3px solid #8a5a2a;">
+      <a href="/players/contractors/">
+        <div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
+          <span class="signal-dot" style="width:9px; height:9px; background:#8a5a2a;"></span>
+          <h2 style="font-size:18px; font-weight:500;">Contractors</h2>
+        </div>
+        <div class="card-meta" style="margin-bottom:8px;">{{ .Params.contractor_count }} profiles</div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5;">
+          Private prison operators, consulting firms, surveillance companies,
+          and service providers in the detention industry.
+        </p>
+      </a>
+    </div>
+
+    <div class="card" style="padding:20px 24px; border-top:3px solid #5a2a8a;">
+      <a href="/players/people/">
+        <div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
+          <span class="signal-dot" style="width:9px; height:9px; background:#5a2a8a;"></span>
+          <h2 style="font-size:18px; font-weight:500;">People</h2>
+        </div>
+        <div class="card-meta" style="margin-bottom:8px;">{{ .Params.people_count }} profiles</div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5;">
+          The revolving door — officials who moved from government to the detention
+          industry, and the conflicts of interest they carry.
+        </p>
+      </a>
+    </div>
+
+    <div class="card" style="padding:20px 24px; border-top:3px solid #8a2a5a;">
+      <a href="/players/money/">
+        <div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
+          <span class="signal-dot" style="width:9px; height:9px; background:#8a2a5a;"></span>
+          <h2 style="font-size:18px; font-weight:500;">Financial Flows</h2>
+        </div>
+        <div class="card-meta" style="margin-bottom:8px;">{{ .Params.money_count }} entries</div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5;">
+          Follow the money — loan portfolios, contract values, warehouse markups,
+          and the financial incentives driving detention expansion.
+        </p>
+      </a>
+    </div>
+
+  </div>
+</div>
+{{ end }}

@@ -1,7 +1,5 @@
 ---
 title: "TELCO SOLUTIONS, INC. — ICE BERGEN, NJ $1,969,354"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "34003"
 state: "NJ"
 county: "BERGEN"
 repo_path: "kb/anc/telco-solutions-inc-ice-bergen-nj-1969354.md"
-signals: ["anc-contract"]
-states: ["NJ"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

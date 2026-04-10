@@ -1,7 +1,5 @@
 ---
 title: "ICE Detention Compliance Operations Consultant — Florida (hybrid)"
-type: entry
-layout: single
 entry_type: "job-posting"
 signal_label: "Job Posting"
 signal_color: "#2a9f6f"
@@ -9,8 +7,8 @@ fips: ""
 state: "FL"
 county: ""
 repo_path: "kb/jobs/ice-detention-compliance-operations-consultant-florida-hybrid.md"
-signals: ["job-posting"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 Job posting: ICE Detention Compliance Operations Consultant

@@ -1,16 +1,19 @@
 ---
 title: "Williamsport MD — 1,500-Bed ICE Detention Center (Goldman Sachs / Fundrise)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Maryland"
 county: "Washington"
 repo_path: "kb/industry/facilities/williamsport-md-warehouse.md"
-signals: ["facility"]
-states: ["Maryland"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal)"
+status: "contested"
+bed_count: "1,500"
+canonical: "/facilities/williamsport-md-warehouse/"
 ---
 
 # Williamsport MD — 1,500-Bed ICE Detention Center

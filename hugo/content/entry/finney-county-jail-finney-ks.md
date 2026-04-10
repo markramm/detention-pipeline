@@ -1,16 +1,19 @@
 ---
 title: "Finney County Jail — Finney, KS"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "20055"
 state: "KS"
 county: "Finney"
 repo_path: "kb/facilities/finney-county-jail-finney-ks.md"
-signals: ["igsa"]
-states: ["KS"]
+type: "entry"
+layout: "single"
+facility_name: "Finney County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/finney-county-jail-finney-ks/"
 ---
 
 IGSA detention facility: Finney County Jail in Finney County, KS.

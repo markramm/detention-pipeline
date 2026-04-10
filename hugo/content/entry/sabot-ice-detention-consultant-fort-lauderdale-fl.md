@@ -1,7 +1,5 @@
 ---
 title: "Sabot Consulting — ICE Detention Compliance Operations Consultant (Fort Lauderdale, FL)"
-type: entry
-layout: single
 entry_type: "job-posting"
 signal_label: "Job Posting"
 signal_color: "#2a9f6f"
@@ -9,8 +7,8 @@ fips: "12011"
 state: "FL"
 county: "Broward"
 repo_path: "kb/jobs/sabot-ice-detention-consultant-fort-lauderdale-fl.md"
-signals: ["job-posting"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 # Sabot Consulting — ICE Detention Compliance Operations Consultant (Fort Lauderdale, FL)

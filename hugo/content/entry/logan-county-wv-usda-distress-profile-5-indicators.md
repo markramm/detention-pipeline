@@ -1,7 +1,5 @@
 ---
 title: "Logan County, WV — USDA Distress Profile (5 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "54045"
 state: "WV"
 county: "Logan"
 repo_path: "kb/budget/logan-county-wv-usda-distress-profile-5-indicators.md"
-signals: ["budget-distress"]
-states: ["WV"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Logan County, WV with 5 distress indicators:

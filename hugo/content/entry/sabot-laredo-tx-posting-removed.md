@@ -1,7 +1,5 @@
 ---
 title: "Sabot Consulting — Laredo TX Posting Removed from Career Page (possible fill)"
-type: entry
-layout: single
 entry_type: "job-posting"
 signal_label: "Job Posting"
 signal_color: "#2a9f6f"
@@ -9,8 +7,8 @@ fips: "48479"
 state: "TX"
 county: "Webb"
 repo_path: "kb/jobs/sabot-laredo-tx-posting-removed.md"
-signals: ["job-posting"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 # Sabot Consulting — Laredo TX Posting Removed (Possible Fill)

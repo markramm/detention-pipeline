@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Arkansas Department of Corrections (AR)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: ""
 state: "AR"
 county: "Pulaksi County"
 repo_path: "kb/287g/287-g-wso-arkansas-department-of-corrections-ar.md"
-signals: ["287g-agreement"]
-states: ["AR"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Arkansas Department of Corrections.

@@ -1,7 +1,5 @@
 ---
 title: "CORECIVIC, INC. — ICE ESSEX, NJ $12,799,094"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "34013"
 state: "NJ"
 county: "ESSEX"
 repo_path: "kb/anc/corecivic-inc-ice-essex-nj-12799094.md"
-signals: ["anc-contract"]
-states: ["NJ"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

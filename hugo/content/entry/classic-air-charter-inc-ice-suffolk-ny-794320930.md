@@ -1,7 +1,5 @@
 ---
 title: "CLASSIC AIR CHARTER INC. — ICE SUFFOLK, NY $794,320,930"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "36103"
 state: "NY"
 county: "SUFFOLK"
 repo_path: "kb/anc/classic-air-charter-inc-ice-suffolk-ny-794320930.md"
-signals: ["anc-contract"]
-states: ["NY"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

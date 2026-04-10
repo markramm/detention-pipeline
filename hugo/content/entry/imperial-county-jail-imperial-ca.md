@@ -1,16 +1,19 @@
 ---
 title: "Imperial County Jail — Imperial, CA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "06025"
 state: "CA"
 county: "Imperial"
 repo_path: "kb/facilities/imperial-county-jail-imperial-ca.md"
-signals: ["igsa"]
-states: ["CA"]
+type: "entry"
+layout: "single"
+facility_name: "Imperial County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/imperial-county-jail-imperial-ca/"
 ---
 
 IGSA detention facility: Imperial County Jail in Imperial County, CA.

@@ -1,7 +1,5 @@
 ---
 title: "10GFEDSUPPLY, LLC — ICE MECKLENBURG, NC $704,997"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "37119"
 state: "NC"
 county: "MECKLENBURG"
 repo_path: "kb/anc/10gfedsupply-llc-ice-mecklenburg-nc-704997.md"
-signals: ["anc-contract"]
-states: ["NC"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

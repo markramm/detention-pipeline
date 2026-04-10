@@ -1,16 +1,19 @@
 ---
 title: "Westmoreland County Jail — Westmoreland, PA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "42129"
 state: "PA"
 county: "Westmoreland"
 repo_path: "kb/facilities/westmoreland-county-jail-westmoreland-pa.md"
-signals: ["igsa"]
-states: ["PA"]
+type: "entry"
+layout: "single"
+facility_name: "Westmoreland County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/westmoreland-county-jail-westmoreland-pa/"
 ---
 
 IGSA detention facility: Westmoreland County Jail in Westmoreland County, PA.

@@ -1,16 +1,14 @@
 ---
 title: "Thomson Reuters CLEAR — $22.8M DHS/ICE database subscription (through 2026)"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/thomson-reuters-clear-ice.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Thomson Reuters CLEAR — ICE Database Subscription

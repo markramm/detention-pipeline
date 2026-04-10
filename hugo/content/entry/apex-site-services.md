@@ -1,16 +1,20 @@
 ---
 title: "Apex Site Services"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/apex-site-services.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "construction"
+headquarters: "North Texas"
+founded: "~2010s"
+status: "active"
+canonical: "/players/contractors/apex-site-services/"
 ---
 
 # Apex Site Services

@@ -1,16 +1,19 @@
 ---
 title: "Moshannon Valley Correctional — Clearfield, PA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "42033"
 state: "PA"
 county: "Clearfield"
 repo_path: "kb/facilities/moshannon-valley-correctional-clearfield-pa.md"
-signals: ["igsa"]
-states: ["PA"]
+type: "entry"
+layout: "single"
+facility_name: "Moshannon Valley Correctional"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/moshannon-valley-correctional-clearfield-pa/"
 ---
 
 IGSA detention facility: Moshannon Valley Correctional in Clearfield County, PA.

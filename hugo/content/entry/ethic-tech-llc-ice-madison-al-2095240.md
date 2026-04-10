@@ -1,7 +1,5 @@
 ---
 title: "ETHIC TECH, LLC — ICE MADISON, AL $2,095,240"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "01089"
 state: "AL"
 county: "MADISON"
 repo_path: "kb/anc/ethic-tech-llc-ice-madison-al-2095240.md"
-signals: ["anc-contract"]
-states: ["AL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

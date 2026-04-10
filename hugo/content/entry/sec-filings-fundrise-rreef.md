@@ -1,16 +1,16 @@
 ---
 title: "SEC Filing Analysis — Fundrise East Coast REIT and RREEF Core Plus Industrial Fund"
-type: entry
-layout: single
 entry_type: "analysis"
-signal_label: "analysis"
-signal_color: "#666"
+signal_label: "Analysis"
+signal_color: "#5a6a8a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/sec-filings-fundrise-rreef.md"
-signals: ["analysis"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "money"
+canonical: "/players/money/sec-filings-fundrise-rreef/"
 ---
 
 # SEC Filing Analysis: Fundrise and RREEF

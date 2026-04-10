@@ -1,16 +1,19 @@
 ---
 title: "Torrance/Estancia, NM — Torrance, NM"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "35057"
 state: "NM"
 county: "Torrance"
 repo_path: "kb/facilities/torranceestancia-nm-torrance-nm.md"
-signals: ["igsa"]
-states: ["NM"]
+type: "entry"
+layout: "single"
+facility_name: "Torrance/Estancia, NM"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/torranceestancia-nm-torrance-nm/"
 ---
 
 IGSA detention facility: Torrance/Estancia, NM in Torrance County, NM.

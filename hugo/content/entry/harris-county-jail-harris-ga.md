@@ -1,16 +1,19 @@
 ---
 title: "Harris County Jail — Harris, GA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "13145"
 state: "GA"
 county: "Harris"
 repo_path: "kb/facilities/harris-county-jail-harris-ga.md"
-signals: ["igsa"]
-states: ["GA"]
+type: "entry"
+layout: "single"
+facility_name: "Harris County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/harris-county-jail-harris-ga/"
 ---
 
 IGSA detention facility: Harris County Jail in Harris County, GA.

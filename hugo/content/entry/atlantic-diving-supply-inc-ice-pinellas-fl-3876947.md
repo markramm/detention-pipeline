@@ -1,7 +1,5 @@
 ---
 title: "ATLANTIC DIVING SUPPLY, INC. — ICE PINELLAS, FL $3,876,947"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "12103"
 state: "FL"
 county: "PINELLAS"
 repo_path: "kb/anc/atlantic-diving-supply-inc-ice-pinellas-fl-3876947.md"
-signals: ["anc-contract"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

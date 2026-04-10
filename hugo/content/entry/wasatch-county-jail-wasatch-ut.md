@@ -1,16 +1,19 @@
 ---
 title: "Wasatch County Jail — Wasatch, UT"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "49051"
 state: "UT"
 county: "Wasatch"
 repo_path: "kb/facilities/wasatch-county-jail-wasatch-ut.md"
-signals: ["igsa"]
-states: ["UT"]
+type: "entry"
+layout: "single"
+facility_name: "Wasatch County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/wasatch-county-jail-wasatch-ut/"
 ---
 
 IGSA detention facility: Wasatch County Jail in Wasatch County, UT.

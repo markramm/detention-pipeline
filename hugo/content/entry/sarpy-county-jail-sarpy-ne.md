@@ -1,16 +1,19 @@
 ---
 title: "Sarpy County Jail — Sarpy, NE"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "31153"
 state: "NE"
 county: "Sarpy"
 repo_path: "kb/facilities/sarpy-county-jail-sarpy-ne.md"
-signals: ["igsa"]
-states: ["NE"]
+type: "entry"
+layout: "single"
+facility_name: "Sarpy County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/sarpy-county-jail-sarpy-ne/"
 ---
 
 IGSA detention facility: Sarpy County Jail in Sarpy County, NE.

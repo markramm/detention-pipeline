@@ -1,16 +1,19 @@
 ---
 title: "Folkston Main IPC — Charlton, GA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "13049"
 state: "GA"
 county: "Charlton"
 repo_path: "kb/facilities/folkston-main-ipc-charlton-ga.md"
-signals: ["igsa"]
-states: ["GA"]
+type: "entry"
+layout: "single"
+facility_name: "Folkston Main IPC"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/folkston-main-ipc-charlton-ga/"
 ---
 
 IGSA detention facility: Folkston Main IPC in Charlton County, GA.

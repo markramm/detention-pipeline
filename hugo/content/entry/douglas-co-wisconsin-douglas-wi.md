@@ -1,16 +1,19 @@
 ---
 title: "Douglas Co. Wisconsin — Douglas, WI"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "55031"
 state: "WI"
 county: "Douglas"
 repo_path: "kb/facilities/douglas-co-wisconsin-douglas-wi.md"
-signals: ["igsa"]
-states: ["WI"]
+type: "entry"
+layout: "single"
+facility_name: "Douglas Co. Wisconsin"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/douglas-co-wisconsin-douglas-wi/"
 ---
 
 IGSA detention facility: Douglas Co. Wisconsin in Douglas County, WI.

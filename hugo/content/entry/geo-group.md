@@ -1,16 +1,20 @@
 ---
 title: "The GEO Group, Inc."
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/geo-group.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "hybrid"
+headquarters: "Boca Raton, Florida"
+founded: "1984"
+status: "active"
+canonical: "/players/contractors/geo-group/"
 ---
 
 # The GEO Group, Inc.

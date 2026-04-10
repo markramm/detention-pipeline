@@ -1,16 +1,19 @@
 ---
 title: "Jefferson County Jail — Jefferson, ID"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "16051"
 state: "ID"
 county: "Jefferson"
 repo_path: "kb/facilities/jefferson-county-jail-jefferson-id.md"
-signals: ["igsa"]
-states: ["ID"]
+type: "entry"
+layout: "single"
+facility_name: "Jefferson County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/jefferson-county-jail-jefferson-id/"
 ---
 
 IGSA detention facility: Jefferson County Jail in Jefferson County, ID.

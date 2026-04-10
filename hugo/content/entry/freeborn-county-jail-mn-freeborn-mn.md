@@ -1,16 +1,19 @@
 ---
 title: "Freeborn County Jail, MN — Freeborn, MN"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "27047"
 state: "MN"
 county: "Freeborn"
 repo_path: "kb/facilities/freeborn-county-jail-mn-freeborn-mn.md"
-signals: ["igsa"]
-states: ["MN"]
+type: "entry"
+layout: "single"
+facility_name: "Freeborn County Jail, MN"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/freeborn-county-jail-mn-freeborn-mn/"
 ---
 
 IGSA detention facility: Freeborn County Jail, MN in Freeborn County, MN.

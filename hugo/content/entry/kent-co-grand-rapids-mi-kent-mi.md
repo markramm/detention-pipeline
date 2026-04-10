@@ -1,16 +1,19 @@
 ---
 title: "Kent Co.,Grand Rapids,MI — Kent, MI"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/facilities/kent-co-grand-rapids-mi-kent-mi.md"
-signals: ["igsa"]
-states: [""]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: ""
+status: ""
+bed_count: ""
+canonical: "/facilities/kent-co-grand-rapids-mi-kent-mi/"
 ---
 
 IGSA detention facility: Kent Co.,Grand Rapids,MI in Kent County, MI.

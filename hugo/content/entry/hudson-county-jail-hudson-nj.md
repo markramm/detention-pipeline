@@ -1,16 +1,19 @@
 ---
 title: "Hudson County Jail — Hudson, NJ"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "34017"
 state: "NJ"
 county: "Hudson"
 repo_path: "kb/facilities/hudson-county-jail-hudson-nj.md"
-signals: ["igsa"]
-states: ["NJ"]
+type: "entry"
+layout: "single"
+facility_name: "Hudson County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/hudson-county-jail-hudson-nj/"
 ---
 
 IGSA detention facility: Hudson County Jail in Hudson County, NJ.

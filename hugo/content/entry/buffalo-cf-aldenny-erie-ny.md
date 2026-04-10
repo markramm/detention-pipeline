@@ -1,16 +1,19 @@
 ---
 title: "Buffalo CF, Alden,Ny — Erie, NY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "36029"
 state: "NY"
 county: "Erie"
 repo_path: "kb/facilities/buffalo-cf-aldenny-erie-ny.md"
-signals: ["igsa"]
-states: ["NY"]
+type: "entry"
+layout: "single"
+facility_name: "Buffalo CF, Alden,Ny"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/buffalo-cf-aldenny-erie-ny/"
 ---
 
 IGSA detention facility: Buffalo CF, Alden,Ny in Erie County, NY.

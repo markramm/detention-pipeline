@@ -1,7 +1,5 @@
 ---
 title: "MOTOROLA SOLUTIONS, INC. — ICE KANE, IL $39,371,926"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "17089"
 state: "IL"
 county: "KANE"
 repo_path: "kb/anc/motorola-solutions-inc-ice-kane-il-39371926.md"
-signals: ["anc-contract"]
-states: ["IL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

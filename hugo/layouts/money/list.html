@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>
+  <a href="/players/">Players</a><span class="sep">/</span>Financial Flows
+</div>
+<div class="page-content">
+  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">Financial Flows</h1>
+  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:20px;">
+    {{ .Params.count }} entries tracking the money — loan portfolios, contract values, warehouse markups, and conflicts of interest.
+  </p>
+
+  {{ range .Pages }}
+  <div class="card">
+    <a href="{{ .RelPermalink }}">
+      <div style="display:flex; align-items:center; gap:8px;">
+        <span class="signal-dot" style="background:#8a2a5a;"></span>
+        <div>
+          <div class="card-title">{{ .Title }}</div>
+          <div class="card-meta">{{ .Params.entry_type }}</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

@@ -1,7 +1,5 @@
 ---
 title: "San Miguel County, NM — USDA Distress Profile (4 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "35047"
 state: "NM"
 county: "San Miguel"
 repo_path: "kb/budget/san-miguel-county-nm-usda-distress-profile-4-indicators.md"
-signals: ["budget-distress"]
-states: ["NM"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags San Miguel County, NM with 4 distress indicators:

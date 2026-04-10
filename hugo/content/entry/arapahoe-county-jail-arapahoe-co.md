@@ -1,16 +1,19 @@
 ---
 title: "Arapahoe County Jail — Arapahoe, CO"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "08005"
 state: "CO"
 county: "Arapahoe"
 repo_path: "kb/facilities/arapahoe-county-jail-arapahoe-co.md"
-signals: ["igsa"]
-states: ["CO"]
+type: "entry"
+layout: "single"
+facility_name: "Arapahoe County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/arapahoe-county-jail-arapahoe-co/"
 ---
 
 IGSA detention facility: Arapahoe County Jail in Arapahoe County, CO.

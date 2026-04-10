@@ -1,7 +1,5 @@
 ---
 title: "MVM, INC. — ICE HIDALGO, TX $787,784,042"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "48215"
 state: "TX"
 county: "HIDALGO"
 repo_path: "kb/anc/mvm-inc-ice-hidalgo-tx-787784042.md"
-signals: ["anc-contract"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

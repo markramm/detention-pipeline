@@ -1,16 +1,19 @@
 ---
 title: "Essex Co. Jail, Middleton — Essex, MA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "25009"
 state: "MA"
 county: "Essex"
 repo_path: "kb/facilities/essex-co-jail-middleton-essex-ma.md"
-signals: ["igsa"]
-states: ["MA"]
+type: "entry"
+layout: "single"
+facility_name: "Essex Co. Jail, Middleton"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/essex-co-jail-middleton-essex-ma/"
 ---
 
 IGSA detention facility: Essex Co. Jail, Middleton in Essex County, MA.

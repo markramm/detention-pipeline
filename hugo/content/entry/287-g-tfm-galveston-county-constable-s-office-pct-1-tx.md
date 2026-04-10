@@ -1,7 +1,5 @@
 ---
 title: "287(g) TFM: Galveston County Constable’s Office Pct.1 (TX)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "48167"
 state: "TX"
 county: "Galveston County"
 repo_path: "kb/287g/287-g-tfm-galveston-county-constable-s-office-pct-1-tx.md"
-signals: ["287g-agreement"]
-states: ["TX"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Galveston County Constable’s Office Pct.1.

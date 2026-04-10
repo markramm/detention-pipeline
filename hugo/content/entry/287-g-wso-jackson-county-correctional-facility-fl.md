@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Jackson County Correctional Facility (FL)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "12063"
 state: "FL"
 county: "Jackson County"
 repo_path: "kb/287g/287-g-wso-jackson-county-correctional-facility-fl.md"
-signals: ["287g-agreement"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Jackson County Correctional Facility.

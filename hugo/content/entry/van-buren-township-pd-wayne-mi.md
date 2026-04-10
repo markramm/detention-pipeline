@@ -1,16 +1,19 @@
 ---
 title: "Van Buren Township PD — Wayne, MI"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "26163"
 state: "MI"
 county: "Wayne"
 repo_path: "kb/facilities/van-buren-township-pd-wayne-mi.md"
-signals: ["igsa"]
-states: ["MI"]
+type: "entry"
+layout: "single"
+facility_name: "Van Buren Township PD"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/van-buren-township-pd-wayne-mi/"
 ---
 
 IGSA detention facility: Van Buren Township PD in Wayne County, MI.

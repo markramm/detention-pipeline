@@ -1,16 +1,19 @@
 ---
 title: "Sandoval County Det Ctr — Sandoval, NM"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "35043"
 state: "NM"
 county: "Sandoval"
 repo_path: "kb/facilities/sandoval-county-det-ctr-sandoval-nm.md"
-signals: ["igsa"]
-states: ["NM"]
+type: "entry"
+layout: "single"
+facility_name: "Sandoval County Det Ctr"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/sandoval-county-det-ctr-sandoval-nm/"
 ---
 
 IGSA detention facility: Sandoval County Det Ctr in Sandoval County, NM.

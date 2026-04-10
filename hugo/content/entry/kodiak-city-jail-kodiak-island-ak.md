@@ -1,16 +1,19 @@
 ---
 title: "Kodiak City Jail — Kodiak Island, AK"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "02150"
 state: "AK"
 county: "Kodiak Island"
 repo_path: "kb/facilities/kodiak-city-jail-kodiak-island-ak.md"
-signals: ["igsa"]
-states: ["AK"]
+type: "entry"
+layout: "single"
+facility_name: "Kodiak City Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/kodiak-city-jail-kodiak-island-ak/"
 ---
 
 IGSA detention facility: Kodiak City Jail in Kodiak Island County, AK.

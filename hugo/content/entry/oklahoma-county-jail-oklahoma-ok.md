@@ -1,16 +1,19 @@
 ---
 title: "Oklahoma County Jail — Oklahoma, OK"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "40109"
 state: "OK"
 county: "Oklahoma"
 repo_path: "kb/facilities/oklahoma-county-jail-oklahoma-ok.md"
-signals: ["igsa"]
-states: ["OK"]
+type: "entry"
+layout: "single"
+facility_name: "Oklahoma County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/oklahoma-county-jail-oklahoma-ok/"
 ---
 
 IGSA detention facility: Oklahoma County Jail in Oklahoma County, OK.

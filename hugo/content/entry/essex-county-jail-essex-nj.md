@@ -1,16 +1,19 @@
 ---
 title: "Essex County Jail — Essex, NJ"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "34013"
 state: "NJ"
 county: "Essex"
 repo_path: "kb/facilities/essex-county-jail-essex-nj.md"
-signals: ["igsa"]
-states: ["NJ"]
+type: "entry"
+layout: "single"
+facility_name: "Essex County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/essex-county-jail-essex-nj/"
 ---
 
 IGSA detention facility: Essex County Jail in Essex County, NJ.

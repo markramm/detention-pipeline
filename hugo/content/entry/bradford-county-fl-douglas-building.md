@@ -1,16 +1,19 @@
 ---
 title: "Bradford County FL — 3,000-Bed IGSA Facility on Contaminated Site"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "Florida"
 county: "Bradford"
 repo_path: "kb/industry/county-fights/bradford-county-fl-douglas-building.md"
-signals: ["county-fight"]
-states: ["Florida"]
+type: "entry"
+layout: "single"
+status: "contested"
+outcome: "Ongoing. April 7, 2026 BOCC agenda includes both FDEP environmental monitoring agreement AND lease for 'temporary ICE detainment facility' — lease before studies complete."
+vote_tally: "3-2 (Jan 15, 2026) to advance proposal"
+facility: "bradford-county-douglas-building"
+canonical: "/fights/bradford-county-fl-douglas-building/"
 ---
 
 # Bradford County: The IGSA Blueprint

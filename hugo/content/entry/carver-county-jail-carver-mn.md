@@ -1,16 +1,19 @@
 ---
 title: "Carver County Jail — Carver, MN"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "27019"
 state: "MN"
 county: "Carver"
 repo_path: "kb/facilities/carver-county-jail-carver-mn.md"
-signals: ["igsa"]
-states: ["MN"]
+type: "entry"
+layout: "single"
+facility_name: "Carver County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/carver-county-jail-carver-mn/"
 ---
 
 IGSA detention facility: Carver County Jail in Carver County, MN.

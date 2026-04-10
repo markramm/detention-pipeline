@@ -1,16 +1,19 @@
 ---
 title: "Williamson County Jail — Williamson, TN"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "47187"
 state: "TN"
 county: "Williamson"
 repo_path: "kb/facilities/williamson-county-jail-williamson-tn.md"
-signals: ["igsa"]
-states: ["TN"]
+type: "entry"
+layout: "single"
+facility_name: "Williamson County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/williamson-county-jail-williamson-tn/"
 ---
 
 IGSA detention facility: Williamson County Jail in Williamson County, TN.

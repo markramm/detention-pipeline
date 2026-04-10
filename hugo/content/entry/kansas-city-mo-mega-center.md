@@ -1,16 +1,19 @@
 ---
 title: "Kansas City MO — ICE Mega Center (BLOCKED by community pressure)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Missouri"
 county: "Jackson"
 repo_path: "kb/industry/facilities/kansas-city-mo-mega-center.md"
-signals: ["facility"]
-states: ["Missouri"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (federal) — never operational"
+status: "blocked"
+bed_count: "7,500 beds planned"
+canonical: "/facilities/kansas-city-mo-mega-center/"
 ---
 
 # Kansas City ICE Mega Center (BLOCKED)

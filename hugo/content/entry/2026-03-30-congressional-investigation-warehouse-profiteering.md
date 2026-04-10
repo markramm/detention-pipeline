@@ -1,16 +1,14 @@
 ---
 title: "54 Congressional Democrats Launch Investigation into ICE Warehouse Profiteering"
-type: entry
-layout: single
 entry_type: "event"
-signal_label: "event"
-signal_color: "#666"
+signal_label: "Event"
+signal_color: "#5a7a6a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/events/2026-03-30-congressional-investigation-warehouse-profiteering.md"
-signals: ["event"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Congressional Investigation into ICE Warehouse Profiteering

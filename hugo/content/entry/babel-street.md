@@ -1,16 +1,20 @@
 ---
 title: "Babel Street — Location Data & Social Media Surveillance for ICE"
-type: entry
-layout: single
 entry_type: "contractor"
-signal_label: "contractor"
-signal_color: "#666"
+signal_label: "Contractor"
+signal_color: "#8a5a2a"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/babel-street.md"
-signals: ["contractor"]
-states: [""]
+type: "entry"
+layout: "single"
+player_type: "contractor"
+contractor_type: "surveillance-platform"
+headquarters: "Reston, Virginia"
+founded: ""
+status: "active"
+canonical: "/players/contractors/babel-street/"
 ---
 
 # Babel Street

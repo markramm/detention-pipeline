@@ -1,16 +1,19 @@
 ---
 title: "Bottineau Co. ND Jail — Bottineau, ND"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "38009"
 state: "ND"
 county: "Bottineau"
 repo_path: "kb/facilities/bottineau-co-nd-jail-bottineau-nd.md"
-signals: ["igsa"]
-states: ["ND"]
+type: "entry"
+layout: "single"
+facility_name: "Bottineau Co. ND Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/bottineau-co-nd-jail-bottineau-nd/"
 ---
 
 IGSA detention facility: Bottineau Co. ND Jail in Bottineau County, ND.

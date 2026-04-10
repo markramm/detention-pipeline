@@ -1,0 +1,116 @@
+{
+  "287g-agreement": {
+    "label": "287(g) Agreement",
+    "color": "#d46a2f",
+    "weight": 7,
+    "section": "signals"
+  },
+  "anc-contract": {
+    "label": "ANC Contract",
+    "color": "#c49025",
+    "weight": 8,
+    "section": "signals"
+  },
+  "budget-distress": {
+    "label": "Budget Distress",
+    "color": "#9a4fb5",
+    "weight": 5,
+    "section": "signals"
+  },
+  "commission-activity": {
+    "label": "Commission Activity",
+    "color": "#8a9f2a",
+    "weight": 7,
+    "section": "signals"
+  },
+  "comms-discipline": {
+    "label": "Comms Discipline",
+    "color": "#6a5fb5",
+    "weight": 6,
+    "section": "signals"
+  },
+  "job-posting": {
+    "label": "Job Posting",
+    "color": "#2a9f6f",
+    "weight": 7,
+    "section": "signals"
+  },
+  "legislative-trace": {
+    "label": "Legislative Trace",
+    "color": "#5f6a7a",
+    "weight": 1,
+    "section": "signals"
+  },
+  "real-estate-trace": {
+    "label": "Real Estate Trace",
+    "color": "#b54f8a",
+    "weight": 2,
+    "section": "signals"
+  },
+  "sheriff-network": {
+    "label": "Sheriff Network",
+    "color": "#2a7fb5",
+    "weight": 6,
+    "section": "signals"
+  },
+  "contractor": {
+    "label": "Contractor",
+    "color": "#8a5a2a",
+    "section": "players"
+  },
+  "person": {
+    "label": "Person",
+    "color": "#5a2a8a",
+    "section": "players"
+  },
+  "financial-flow": {
+    "label": "Financial Flow",
+    "color": "#8a2a5a",
+    "section": "players"
+  },
+  "analysis": {
+    "label": "Analysis",
+    "color": "#5a6a8a",
+    "section": "players"
+  },
+  "contract": {
+    "label": "Contract",
+    "color": "#c49025",
+    "section": "players"
+  },
+  "organization": {
+    "label": "Organization",
+    "color": "#4a7ab5",
+    "section": "players"
+  },
+  "personnel-flow": {
+    "label": "Personnel Flow",
+    "color": "#7a4ab5",
+    "section": "players"
+  },
+  "county-fight": {
+    "label": "County Fight",
+    "color": "#2a8a5a",
+    "section": "fights"
+  },
+  "event": {
+    "label": "Event",
+    "color": "#5a7a6a",
+    "section": "players"
+  },
+  "note": {
+    "label": "Research Note",
+    "color": "#6a6a6a",
+    "section": "entry"
+  },
+  "igsa": {
+    "label": "IGSA Facility",
+    "color": "#c93b3b",
+    "section": "facilities"
+  },
+  "facility": {
+    "label": "Facility",
+    "color": "#c93b3b",
+    "section": "facilities"
+  }
+}

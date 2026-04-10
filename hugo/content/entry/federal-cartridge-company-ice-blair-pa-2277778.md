@@ -1,7 +1,5 @@
 ---
 title: "FEDERAL CARTRIDGE COMPANY — ICE BLAIR, PA $2,277,778"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "42013"
 state: "PA"
 county: "BLAIR"
 repo_path: "kb/anc/federal-cartridge-company-ice-blair-pa-2277778.md"
-signals: ["anc-contract"]
-states: ["PA"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

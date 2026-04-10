@@ -1,16 +1,19 @@
 ---
 title: "Douglas County Correction — Douglas, NE"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "31055"
 state: "NE"
 county: "Douglas"
 repo_path: "kb/facilities/douglas-county-correction-douglas-ne.md"
-signals: ["igsa"]
-states: ["NE"]
+type: "entry"
+layout: "single"
+facility_name: "Douglas County Correction"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/douglas-county-correction-douglas-ne/"
 ---
 
 IGSA detention facility: Douglas County Correction in Douglas County, NE.

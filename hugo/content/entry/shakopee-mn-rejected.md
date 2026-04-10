@@ -1,16 +1,19 @@
 ---
 title: "Shakopee MN — Warehouse Owner Declined ICE Deal"
-type: entry
-layout: single
 entry_type: "county-fight"
-signal_label: "county-fight"
-signal_color: "#666"
+signal_label: "County Fight"
+signal_color: "#2a8a5a"
 fips: ""
 state: "Minnesota"
 county: "Scott"
 repo_path: "kb/industry/county-fights/shakopee-mn-rejected.md"
-signals: ["county-fight"]
-states: ["Minnesota"]
+type: "entry"
+layout: "single"
+status: "blocked"
+outcome: "Warehouse owner declined to sell to ICE. Community opposition made the deal politically toxic for the seller."
+vote_tally: ""
+facility: ""
+canonical: "/fights/shakopee-mn-rejected/"
 ---
 
 # Shakopee, Minnesota: Owner Declined

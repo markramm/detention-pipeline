@@ -1,16 +1,19 @@
 ---
 title: "Cameron County Jail — Cameron, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48061"
 state: "TX"
 county: "Cameron"
 repo_path: "kb/facilities/cameron-county-jail-cameron-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "Cameron County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/cameron-county-jail-cameron-tx/"
 ---
 
 IGSA detention facility: Cameron County Jail in Cameron County, TX.

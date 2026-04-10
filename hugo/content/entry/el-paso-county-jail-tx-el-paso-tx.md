@@ -1,16 +1,19 @@
 ---
 title: "El Paso County Jail (TX) — El Paso, TX"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "48141"
 state: "TX"
 county: "El Paso"
 repo_path: "kb/facilities/el-paso-county-jail-tx-el-paso-tx.md"
-signals: ["igsa"]
-states: ["TX"]
+type: "entry"
+layout: "single"
+facility_name: "El Paso County Jail (TX)"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/el-paso-county-jail-tx-el-paso-tx/"
 ---
 
 IGSA detention facility: El Paso County Jail (TX) in El Paso County, TX.

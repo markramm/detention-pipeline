@@ -1,16 +1,14 @@
 ---
 title: "Goldman Sachs — Double Exposure in ICE Warehouse Profiteering"
-type: entry
-layout: single
 entry_type: "organization"
-signal_label: "organization"
-signal_color: "#666"
+signal_label: "Organization"
+signal_color: "#4a7ab5"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/organizations/goldman-sachs-detention.md"
-signals: ["organization"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Goldman Sachs — ICE Warehouse Double Exposure

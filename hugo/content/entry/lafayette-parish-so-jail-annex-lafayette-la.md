@@ -1,16 +1,19 @@
 ---
 title: "Lafayette Parish So Jail Annex — Lafayette, LA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "22055"
 state: "LA"
 county: "Lafayette"
 repo_path: "kb/facilities/lafayette-parish-so-jail-annex-lafayette-la.md"
-signals: ["igsa"]
-states: ["LA"]
+type: "entry"
+layout: "single"
+facility_name: "Lafayette Parish So Jail Annex"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/lafayette-parish-so-jail-annex-lafayette-la/"
 ---
 
 IGSA detention facility: Lafayette Parish So Jail Annex in Lafayette County, LA.

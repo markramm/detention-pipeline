@@ -1,16 +1,19 @@
 ---
 title: "Carbon County Jail — Carbon, WY"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "56007"
 state: "WY"
 county: "Carbon"
 repo_path: "kb/facilities/carbon-county-jail-carbon-wy.md"
-signals: ["igsa"]
-states: ["WY"]
+type: "entry"
+layout: "single"
+facility_name: "Carbon County Jail"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/carbon-county-jail-carbon-wy/"
 ---
 
 IGSA detention facility: Carbon County Jail in Carbon County, WY.

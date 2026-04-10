@@ -1,16 +1,19 @@
 ---
 title: "Florence Service Processing Center — Pinal County AZ (ICE / Akima Global Services)"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Arizona"
 county: "Pinal"
 repo_path: "kb/industry/facilities/florence-spc-pinal-az.md"
-signals: ["facility"]
-states: ["Arizona"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "ICE (guard/food/transport by Akima Global Services)"
+status: "operational"
+bed_count: "unknown"
+canonical: "/facilities/florence-spc-pinal-az/"
 ---
 
 # Florence Service Processing Center — ANC Sole-Source Pipeline

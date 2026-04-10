@@ -1,16 +1,19 @@
 ---
 title: "Glades County Detention Center — Moore Haven FL"
-type: entry
-layout: single
 entry_type: "facility"
-signal_label: "facility"
-signal_color: "#666"
+signal_label: "Facility"
+signal_color: "#c93b3b"
 fips: ""
 state: "Florida"
 county: "Glades"
 repo_path: "kb/industry/facilities/glades-county-fl-detention.md"
-signals: ["facility"]
-states: ["Florida"]
+type: "entry"
+layout: "single"
+facility_name: ""
+operator: "Glades County Board of County Commissioners"
+status: "operational"
+bed_count: "500"
+canonical: "/facilities/glades-county-fl-detention/"
 ---
 
 # Glades County Detention Center — Moore Haven FL

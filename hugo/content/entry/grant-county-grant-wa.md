@@ -1,16 +1,19 @@
 ---
 title: "Grant County — Grant, WA"
-type: entry
-layout: single
 entry_type: "igsa"
-signal_label: "igsa"
-signal_color: "#666"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
 fips: "53025"
 state: "WA"
 county: "Grant"
 repo_path: "kb/facilities/grant-county-grant-wa.md"
-signals: ["igsa"]
-states: ["WA"]
+type: "entry"
+layout: "single"
+facility_name: "Grant County"
+operator: ""
+status: "active"
+bed_count: ""
+canonical: "/facilities/grant-county-grant-wa/"
 ---
 
 IGSA detention facility: Grant County in Grant County, WA.

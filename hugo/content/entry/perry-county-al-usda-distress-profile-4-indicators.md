@@ -1,7 +1,5 @@
 ---
 title: "Perry County, AL — USDA Distress Profile (4 indicators)"
-type: entry
-layout: single
 entry_type: "budget-distress"
 signal_label: "Budget Distress"
 signal_color: "#9a4fb5"
@@ -9,8 +7,8 @@ fips: "01105"
 state: "AL"
 county: "Perry"
 repo_path: "kb/budget/perry-county-al-usda-distress-profile-4-indicators.md"
-signals: ["budget-distress"]
-states: ["AL"]
+type: "entry"
+layout: "single"
 ---
 
 USDA Economic Research Service county typology flags Perry County, AL with 4 distress indicators:

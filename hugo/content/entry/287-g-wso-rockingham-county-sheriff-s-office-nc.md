@@ -1,7 +1,5 @@
 ---
 title: "287(g) WSO: Rockingham County Sheriff’s Office (NC)"
-type: entry
-layout: single
 entry_type: "287g-agreement"
 signal_label: "287(g) Agreement"
 signal_color: "#d46a2f"
@@ -9,8 +7,8 @@ fips: "37157"
 state: "NC"
 county: "Rockingham County"
 repo_path: "kb/287g/287-g-wso-rockingham-county-sheriff-s-office-nc.md"
-signals: ["287g-agreement"]
-states: ["NC"]
+type: "entry"
+layout: "single"
 ---
 
 287(g) agreement between ICE and Rockingham County Sheriff’s Office.

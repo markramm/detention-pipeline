@@ -1,16 +1,14 @@
 ---
 title: "Vigilant Solutions (Motorola) — $22.8M ICE ALPR database access (through 2026)"
-type: entry
-layout: single
 entry_type: "contract"
-signal_label: "contract"
-signal_color: "#666"
+signal_label: "Contract"
+signal_color: "#c49025"
 fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/vigilant-alpr-ice.md"
-signals: ["contract"]
-states: [""]
+type: "entry"
+layout: "single"
 ---
 
 # Vigilant Solutions ALPR Database — ICE Contract

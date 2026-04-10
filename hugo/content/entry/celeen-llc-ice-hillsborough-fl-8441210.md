@@ -1,7 +1,5 @@
 ---
 title: "CELEEN LLC — ICE HILLSBOROUGH, FL $8,441,210"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "12057"
 state: "FL"
 county: "HILLSBOROUGH"
 repo_path: "kb/anc/celeen-llc-ice-hillsborough-fl-8441210.md"
-signals: ["anc-contract"]
-states: ["FL"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.

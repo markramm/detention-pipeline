@@ -1,7 +1,5 @@
 ---
 title: "GLOBAL TEL*LINK CORPORATION — ICE ORANGE, NY $732,634"
-type: entry
-layout: single
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,8 +7,8 @@ fips: "36071"
 state: "NY"
 county: "ORANGE"
 repo_path: "kb/anc/global-tellink-corporation-ice-orange-ny-732634.md"
-signals: ["anc-contract"]
-states: ["NY"]
+type: "entry"
+layout: "single"
 ---
 
 ICE contract.
