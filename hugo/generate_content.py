@@ -753,7 +753,7 @@ def generate_static_pages():
     STATIC_TITLES = {
         "tactics": "Playbook & Counter-Playbook",
     }
-    for name, layout in [("methodology", "methodology"), ("contribute", "contribute"), ("foia", "foia"), ("tactics", "tactics"), ("coverage", "coverage")]:
+    for name, layout in [("methodology", "methodology"), ("contribute", "contribute"), ("foia", "foia"), ("tactics", "tactics"), ("coverage", "coverage"), ("pipeline", "pipeline")]:
         title = STATIC_TITLES.get(name, name.title())
         with open(CONTENT_PATH / f"{name}.md", "w") as f:
             f.write(f"""---

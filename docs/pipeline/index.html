@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pipeline · Detention Pipeline</title><meta name="description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:title" content="Pipeline · Detention Pipeline">
+<meta property="og:description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://detention-pipeline.transparencycascade.org/pipeline/">
+<meta property="og:site_name" content="Detention Pipeline">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Pipeline · Detention Pipeline">
+<meta name="twitter:description" content="Early-warning system for ICE detention facility expansion">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg-deep: #0a0a0f;
+  --bg-panel: #111118;
+  --bg-surface: #161620;
+  --bg-elevated: #1e1e2a;
+  --bg-content: #f6f5f1;
+  --bg-content-alt: #edece8;
+  --text-primary: #1a1a1f;
+  --text-secondary: #4a4952;
+  --text-dim: #7a7882;
+  --text-light: #e8e6e1;
+  --border: #dddbd6;
+  --border-dark: #2a2a35;
+  --accent: #c93b3b;
+  --accent-hot: #e84545;
+  --accent-warm: #d46a2f;
+  --signal-igsa: #c93b3b;
+  --signal-287g: #d46a2f;
+  --signal-anc: #c49025;
+  --signal-commission: #6a8a1a;
+  --signal-job: #1a8a5a;
+  --signal-sheriff: #1a6a9a;
+  --signal-comms: #5a4fa5;
+  --signal-budget: #8a3fa5;
+  --signal-realestate: #a53f7a;
+  --signal-legislative: #4f5a6a;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-size: 15px;
+  color: var(--text-primary);
+  background: var(--bg-content);
+  -webkit-font-smoothing: antialiased;
+}
+
+ 
+.site-header {
+  background: var(--bg-deep);
+  color: var(--text-light);
+  padding: 0;
+  position: sticky; top: 0; z-index: 100;
+}
+.site-header-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.site-brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; }
+.site-brand h1 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 18px; font-weight: 400; color: var(--text-light);
+  letter-spacing: -0.01em;
+}
+.site-brand .brand-tag {
+  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--accent);
+  background: rgba(201,59,59,0.12); padding: 2px 6px;
+  border: 1px solid rgba(201,59,59,0.2); border-radius: 2px;
+}
+.site-nav { display: flex; gap: 4px; align-items: center; }
+.site-nav a {
+  font-size: 13px; color: rgba(232,230,225,0.5); text-decoration: none;
+  padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
+  font-weight: 400;
+}
+.site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.site-nav a.active { color: var(--text-light); background: rgba(255,255,255,0.08); }
+
+ 
+.breadcrumb {
+  max-width: 1200px; margin: 0 auto; padding: 14px 24px 0;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; color: var(--text-dim);
+}
+.breadcrumb a { color: var(--text-dim); text-decoration: none; }
+.breadcrumb a:hover { color: var(--text-secondary); }
+.breadcrumb .sep { margin: 0 6px; opacity: 0.4; }
+
+ 
+.page-content {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 60px;
+}
+
+ 
+.site-footer {
+  background: var(--bg-deep); color: rgba(232,230,225,0.4);
+  padding: 32px 24px; text-align: center;
+  font-size: 11px; line-height: 1.8;
+}
+.site-footer a { color: rgba(232,230,225,0.5); text-decoration: none; }
+.site-footer a:hover { color: var(--text-light); }
+.footer-inner { max-width: 1200px; margin: 0 auto; }
+.footer-links { display: flex; gap: 16px; justify-content: center; margin-bottom: 8px; }
+
+ 
+.signal-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  flex-shrink: 0; vertical-align: middle;
+}
+.signal-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; padding: 3px 8px;
+  border-radius: 3px; background: rgba(0,0,0,0.04);
+  border: 1px solid var(--border); color: var(--text-secondary);
+}
+.score-pill {
+  font-family: 'DM Mono', monospace; font-weight: 500;
+  display: inline-block; padding: 2px 8px; border-radius: 3px;
+  font-size: 13px;
+}
+.score-hot { color: var(--accent-hot); background: rgba(232,69,69,0.08); }
+.score-warm { color: var(--accent-warm); background: rgba(212,106,47,0.08); }
+.score-mid { color: var(--text-secondary); background: rgba(0,0,0,0.04); }
+.score-low { color: var(--text-dim); background: rgba(0,0,0,0.03); }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500; padding: 8px 16px;
+  border-radius: 4px; text-decoration: none; cursor: pointer;
+  border: 1px solid var(--border); color: var(--text-secondary);
+  background: white; transition: all 0.12s;
+}
+.btn:hover { border-color: var(--text-dim); color: var(--text-primary); }
+.btn-accent {
+  background: var(--accent); color: white; border-color: var(--accent);
+}
+.btn-accent:hover { background: var(--accent-hot); border-color: var(--accent-hot); color: white; }
+.btn-sm { font-size: 11px; padding: 5px 10px; }
+.btn svg { width: 14px; height: 14px; }
+
+.mono { font-family: 'DM Mono', monospace; }
+.serif { font-family: 'Instrument Serif', Georgia, serif; }
+.dim { color: var(--text-dim); }
+.small { font-size: 11px; }
+
+ 
+.data-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.data-table th {
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--text-dim); text-align: left;
+  padding: 8px 10px; border-bottom: 2px solid var(--border);
+}
+.data-table td {
+  padding: 8px 10px; border-bottom: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.data-table tr:hover td { background: rgba(0,0,0,0.02); }
+.data-table a { color: var(--text-primary); text-decoration: none; }
+.data-table a:hover { text-decoration: underline; }
+
+ 
+.card {
+  background: white; border: 1px solid var(--border); border-radius: 5px;
+  padding: 16px 20px; margin-bottom: 12px; transition: border-color 0.12s;
+}
+.card:hover { border-color: var(--text-dim); }
+.card a { text-decoration: none; color: inherit; }
+.card-title { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
+.card-meta { font-size: 12px; color: var(--text-dim); }
+
+ 
+.nav-group { position: relative; }
+.nav-group-trigger {
+  cursor: pointer; display: inline-flex; align-items: center; gap: 3px;
+  font-size: 13px; color: rgba(232,230,225,0.5); padding: 6px 12px;
+  border-radius: 3px; transition: all 0.12s; background: none; border: none;
+  font-family: inherit; font-weight: 400;
+}
+.nav-group-trigger:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.nav-group-trigger::after {
+  content: ''; display: inline-block; width: 0; height: 0;
+  border-left: 3.5px solid transparent; border-right: 3.5px solid transparent;
+  border-top: 4px solid currentColor; margin-left: 2px; opacity: 0.5;
+}
+.nav-dropdown {
+  display: none; position: absolute; top: calc(100% + 4px); left: 0;
+  background: var(--bg-panel); border: 1px solid var(--border-dark);
+  border-radius: 5px; padding: 6px 0; min-width: 190px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5); z-index: 110;
+}
+.nav-group:hover .nav-dropdown { display: block; }
+.nav-dropdown a {
+  display: block; padding: 7px 16px; font-size: 13px;
+  color: rgba(232,230,225,0.55); white-space: nowrap; text-decoration: none;
+  transition: all 0.1s;
+}
+.nav-dropdown a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+
+ 
+.nav-start {
+  background: var(--accent) !important; color: white !important;
+  border-radius: 3px; font-weight: 500; font-size: 12px !important;
+  padding: 5px 12px !important; letter-spacing: 0.01em;
+}
+.nav-start:hover { background: var(--accent-hot) !important; }
+
+ 
+.hamburger { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+.hamburger span { display: block; width: 20px; height: 2px; background: var(--text-light); margin: 4px 0; }
+.mobile-nav { display: none; background: var(--bg-deep); padding: 8px 24px 16px; border-bottom: 1px solid var(--border-dark); }
+.mobile-nav.open { display: block; }
+.mobile-nav a { display: block; padding: 8px 0; color: rgba(232,230,225,0.6); text-decoration: none; font-size: 14px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.mobile-nav a:hover { color: var(--text-light); }
+.mobile-nav-group-label {
+  display: block; padding: 10px 0 4px; color: rgba(232,230,225,0.3);
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em;
+  text-transform: uppercase; border-bottom: none; cursor: default;
+}
+.mobile-nav .nav-start-mobile {
+  display: inline-block; margin-top: 10px; padding: 10px 20px;
+  background: var(--accent); color: white; border-radius: 4px;
+  font-weight: 500; font-size: 14px; border-bottom: none;
+}
+
+@media (max-width: 768px) {
+  .hamburger { display: block; }
+  .site-nav { display: none; }
+  .site-header-inner { padding: 10px 16px; }
+  .page-content { padding: 0 16px 40px; }
+  .breadcrumb { padding: 10px 16px 0; }
+  .data-table { font-size: 11px; }
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Detention Pipeline",
+  "url": "https://detention-pipeline.transparencycascade.org/",
+  "description": "Early-warning system for ICE detention facility expansion"
+}
+</script>
+
+
+<style>
+  .pipe-page { max-width:none; padding:0; }
+
+   
+  .pipe-hero {
+    background: var(--bg-deep); color: var(--text-light);
+    padding: 80px 24px 48px; text-align: center;
+  }
+  .pipe-hero h1 {
+    font-family: 'Instrument Serif', serif; font-size: 42px; font-weight: 400;
+    letter-spacing: -0.03em; margin-bottom: 12px; max-width: 700px; margin-left: auto; margin-right: auto;
+  }
+  .pipe-hero .sub {
+    font-size: 15px; color: #8a8892; max-width: 560px; margin: 0 auto 24px; line-height: 1.7;
+  }
+  .pipe-hero .byline {
+    font-family: 'DM Mono', monospace; font-size: 10px; color: #55535e;
+    letter-spacing: 0.06em; text-transform: uppercase;
+  }
+  .pipe-hero .byline a { color: var(--accent-warm); text-decoration: none; }
+
+   
+  .pipe-section {
+    position: relative;
+    padding: 48px 24px 64px;
+    border-bottom: 1px solid var(--border);
+  }
+  .pipe-section:last-of-type { border-bottom: none; }
+  .pipe-inner { max-width: 720px; margin: 0 auto; }
+
+   
+  .pipe-stage {
+    display: flex; align-items: baseline; gap: 14px; margin-bottom: 6px;
+  }
+  .pipe-num {
+    font-family: 'DM Mono', monospace; font-size: 48px; font-weight: 500;
+    line-height: 1; color: var(--accent); opacity: 0.25;
+  }
+  .pipe-title {
+    font-family: 'Instrument Serif', serif; font-size: 28px; font-weight: 400;
+    letter-spacing: -0.02em;
+  }
+  .pipe-subtitle {
+    font-size: 13px; color: var(--text-dim); margin-bottom: 24px;
+    font-family: 'DM Mono', monospace; letter-spacing: 0.02em;
+  }
+
+   
+  .pipe-prose {
+    font-size: 15px; color: var(--text-secondary); line-height: 1.8;
+  }
+  .pipe-prose p { margin-bottom: 16px; }
+  .pipe-prose strong { color: var(--text-primary); font-weight: 600; }
+  .pipe-prose a { color: var(--accent-warm); text-decoration: none; border-bottom: 1px solid rgba(212,106,47,0.3); }
+  .pipe-prose a:hover { border-bottom-color: var(--accent-warm); }
+
+   
+  .pipe-evidence {
+    margin: 24px 0; padding: 16px 20px;
+    background: var(--bg-content-alt); border-radius: 5px;
+    border-left: 3px solid var(--accent-warm);
+  }
+  .pipe-evidence-label {
+    font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--text-dim); margin-bottom: 6px;
+  }
+  .pipe-evidence p {
+    font-size: 13.5px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 6px;
+  }
+  .pipe-evidence p:last-child { margin-bottom: 0; }
+  .pipe-evidence .mono { font-family: 'DM Mono', monospace; }
+
+   
+  .pipe-signals {
+    display: flex; gap: 8px; flex-wrap: wrap; margin: 20px 0 4px;
+  }
+  .pipe-signal {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    padding: 3px 8px; border-radius: 3px;
+    background: rgba(0,0,0,0.04); border: 1px solid var(--border);
+    color: var(--text-secondary);
+  }
+
+   
+  .pipe-stat {
+    display: inline-block; font-family: 'DM Mono', monospace;
+    font-size: 20px; font-weight: 500; color: var(--accent);
+    margin: 0 2px; vertical-align: baseline;
+  }
+
+   
+  .pipe-figure {
+    margin: 24px 0; padding: 16px 20px;
+    background: white; border: 1px solid var(--border); border-radius: 5px;
+  }
+  .pipe-figure-name {
+    font-size: 14px; font-weight: 600; margin-bottom: 2px;
+  }
+  .pipe-figure-role {
+    font-family: 'DM Mono', monospace; font-size: 11px; color: var(--text-dim); margin-bottom: 8px;
+  }
+  .pipe-figure-detail {
+    font-size: 13px; color: var(--text-secondary); line-height: 1.6;
+  }
+
+   
+  .pipe-models {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 12px;
+    margin: 24px 0;
+  }
+  .pipe-model {
+    padding: 16px 18px; border-radius: 5px; border: 1px solid var(--border);
+  }
+  .pipe-model h4 {
+    font-size: 13px; font-weight: 600; margin-bottom: 8px;
+    font-family: 'DM Mono', monospace; text-transform: uppercase; letter-spacing: 0.04em;
+  }
+  .pipe-model ul {
+    font-size: 12.5px; color: var(--text-secondary); line-height: 1.7;
+    padding-left: 16px;
+  }
+
+   
+  .pipe-cta {
+    background: var(--bg-deep); color: var(--text-light);
+    padding: 48px 24px; text-align: center;
+  }
+  .pipe-cta h2 {
+    font-family: 'Instrument Serif', serif; font-size: 26px; font-weight: 400;
+    margin-bottom: 10px;
+  }
+  .pipe-cta p { font-size: 14px; color: #8a8892; max-width: 500px; margin: 0 auto 20px; line-height: 1.6; }
+  .pipe-cta .btn { margin: 0 4px; }
+
+   
+  .pipe-reveal { opacity: 0; transform: translateY(20px); transition: opacity 0.5s ease, transform 0.5s ease; }
+  .pipe-reveal.visible { opacity: 1; transform: translateY(0); }
+
+  @media (max-width: 768px) {
+    .pipe-hero h1 { font-size: 28px; }
+    .pipe-num { font-size: 36px; }
+    .pipe-title { font-size: 22px; }
+    .pipe-models { grid-template-columns: 1fr; }
+  }
+</style>
+
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="site-brand">
+      <h1>Detention Pipeline</h1>
+      <span class="brand-tag">Early Warning</span>
+    </a>
+    <nav class="site-nav">
+      <a href="/map/" >Map</a>
+      <a href="/fights/" >Fights</a>
+      <a href="/pipeline/" class="active">Pipeline</a>
+      <div class="nav-group">
+        <button class="nav-group-trigger ">Investigate</button>
+        <div class="nav-dropdown">
+          <a href="/county/">Counties</a>
+          <a href="/state/">By State</a>
+          <a href="/signals/">By Signal Type</a>
+          <a href="/players/">Players</a>
+          <a href="/network/">Network</a>
+          <a href="/facilities/">Facilities</a>
+          <a href="/foia/">FOIA Generator</a>
+        </div>
+      </div>
+      <a href="/tactics/" >Tactics</a>
+      <div class="nav-group">
+        <button class="nav-group-trigger ">Help Build</button>
+        <div class="nav-dropdown">
+          <a href="/contribute/">Contribute</a>
+          <a href="/coverage/">Coverage Gaps</a>
+          <a href="/methodology/">Methodology</a>
+        </div>
+      </div>
+      <a href="/start/" class="nav-start">Start Here</a>
+    </nav>
+    <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+<div class="mobile-nav" id="mobile-nav">
+  <a href="/start/" class="nav-start-mobile">Start Here →</a>
+  <a href="/map/">Map</a>
+  <a href="/fights/">Fights</a>
+  <a href="/pipeline/">Pipeline</a>
+  <a href="/tactics/">Tactics</a>
+  <span class="mobile-nav-group-label">Investigate</span>
+  <a href="/county/" style="padding-left:12px;">Counties</a>
+  <a href="/state/" style="padding-left:12px;">By State</a>
+  <a href="/signals/" style="padding-left:12px;">By Signal Type</a>
+  <a href="/players/" style="padding-left:12px;">Players</a>
+  <a href="/network/" style="padding-left:12px;">Network</a>
+  <a href="/facilities/" style="padding-left:12px;">Facilities</a>
+  <a href="/foia/" style="padding-left:12px;">FOIA Generator</a>
+  <span class="mobile-nav-group-label">Help Build</span>
+  <a href="/contribute/" style="padding-left:12px;">Contribute</a>
+  <a href="/coverage/" style="padding-left:12px;">Coverage Gaps</a>
+  <a href="/methodology/" style="padding-left:12px;">Methodology</a>
+</div>
+
+
+<div class="pipe-page">
+
+  
+  <div class="pipe-hero">
+    <h1>How the Detention Pipeline Works</h1>
+    <p class="sub">
+      From sheriff recruitment to warehouse purchase to facility activation —
+      how former ICE officials, private equity firms, and rural budget crises
+      combine to build America's detention expansion.
+    </p>
+    <p class="byline">
+      Based on the investigation by <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation">The RAMM</a>
+      &middot; Data from <a href="/">Detention Pipeline</a>
+    </p>
+  </div>
+
+  
+  <div class="pipe-section">
+    <div class="pipe-inner pipe-reveal">
+      <div class="pipe-stage">
+        <span class="pipe-num">1</span>
+        <h2 class="pipe-title">The Demand Machine</h2>
+      </div>
+      <p class="pipe-subtitle">287(g) agreements create the arrest volume that fills beds</p>
+
+      <div class="pipe-signals">
+        <span class="pipe-signal"><span class="signal-dot" style="background:var(--signal-287g);"></span> 287(g) Agreement</span>
+        <span class="pipe-signal"><span class="signal-dot" style="background:var(--signal-budget);"></span> Budget Distress</span>
+      </div>
+
+      <div class="pipe-prose">
+        <p>
+          The pipeline starts with demand. Under Section 287(g) of the Immigration and Nationality Act,
+          ICE can deputize local law enforcement to act as immigration agents. Since January 2025,
+          these agreements have exploded — from <span class="pipe-stat">135</span> to over
+          <span class="pipe-stat">1,637</span>, a 641% increase. Nearly a thousand of these are
+          Task Force Model agreements, which put street-level officers in the deportation business.
+        </p>
+        <p>
+          The agreements are concentrated in specific states — <strong>Texas, Florida, Georgia, North Carolina</strong> —
+          and they create a structural demand for detention beds. Every arrest requires a bed. Every bed
+          requires a facility. And every facility requires a county willing to build one.
+        </p>
+      </div>
+
+      <div class="pipe-evidence">
+        <div class="pipe-evidence-label">From the data</div>
+        <p>
+          This site tracks <strong><a href="/signals/287g-agreement/">1,311 287(g) agreements</a></strong>
+          across the country. <a href="/county/12099/">Palm Beach County, FL</a> alone has 118 deputized
+          immigration officers across 19 of 20 police agencies, producing over 1,400 arrests since August 2025.
+        </p>
+        <p>
+          The arrests flow to regional detention facilities — <a href="/facilities/">Baker County</a>,
+          <a href="/facilities/glades-county-fl-detention/">Glades County</a>, Krome —
+          creating the "belly of the beast" hub-and-spoke pattern
+          documented in <a href="/fights/palm-beach-fl-belly-of-the-beast/">Palm Beach's county fight page</a>.
+        </p>
+      </div>
+
+      <div class="pipe-prose">
+        <p>
+          Performance incentives accelerate the cycle. Arrest bounty systems tie bonuses to immigration
+          enforcement volume — an estimated $1.4 to $2 billion in potential 2026 distributions.
+          The more arrests, the more beds needed. The more beds, the more facilities.
+          The more facilities, the more contracts. The machine feeds itself.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="pipe-section">
+    <div class="pipe-inner pipe-reveal">
+      <div class="pipe-stage">
+        <span class="pipe-num">2</span>
+        <h2 class="pipe-title">The Warehouse Blitz</h2>
+      </div>
+      <p class="pipe-subtitle">$1 billion+ in federal warehouse purchases at massive markups</p>
+
+      <div class="pipe-signals">
+        <span class="pipe-signal"><span class="signal-dot" style="background:var(--signal-realestate);"></span> Real Estate Trace</span>
+        <span class="pipe-signal"><span class="signal-dot" style="background:var(--signal-igsa);"></span> IGSA Facility</span>
+      </div>
+
+      <div class="pipe-prose">
+        <p>
+          To house the arrests, DHS launched a stealth purchasing spree. Beginning in late 2024,
+          the federal government began buying warehouses — empty distribution centers, bankrupt
+          retail hubs, industrial parks — and converting them into detention facilities.
+          No local votes. No public hearings. Often no advance notice.
+        </p>
+        <p>
+          The purchases followed a pattern: <strong>distressed commercial real estate</strong>,
+          owned by institutional investors, sold to the government at enormous markups.
+          The federal purchase extinguishes bank debt on otherwise underwater assets, generating
+          windfall profits for Wall Street.
+        </p>
+      </div>
+
+      <div class="pipe-evidence">
+        <div class="pipe-evidence-label">The money trail</div>
+        <p>
+          <strong><a href="/organizations/blue-owl-capital/">Blue Owl Capital</a></strong> sold the
+          Tremont, PA mega-center to DHS for <strong>$119.5 million</strong> — double estimated market
+          value — three months after its tenant went bankrupt. 33 Trump administration members hold
+          Blue Owl investments, including the President himself (over $5 million).
+        </p>
+        <p>
+          <strong><a href="/organizations/goldman-sachs-detention/">Goldman Sachs</a></strong> has double
+          exposure: direct seller of the Roxbury, NJ warehouse ($129.3M, 137% markup) and lender
+          on the Williamsport, MD portfolio ($352.7M refinancing).
+        </p>
+        <p>
+          <strong><a href="/organizations/carlyle-group-detention/">Carlyle Group</a></strong> sold the
+          Oakwood, GA warehouse for $68.2M. 22 Trump officials hold Carlyle investments.
+        </p>
+        <p>
+          Total spent on 11 warehouses as of early 2026: <strong>over $1.074 billion</strong>.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="pipe-section">
+    <div class="pipe-inner pipe-reveal">
+      <div class="pipe-stage">
+        <span class="pipe-num">3</span>
+        <h2 class="pipe-title">The Backlash</h2>
+      </div>
+      <p class="pipe-subtitle">Communities fight back — and 13 warehouse purchases are canceled</p>
+
+      <div class="pipe-prose">
+        <p>
+          The warehouse blitz provoked immediate, visceral opposition. Communities that had no
+          voice in the purchase — no vote, no hearing, no notice — organized rapidly.
+        </p>
+        <p>
+          In <strong><a href="/fights/romulus-mi-warehouse/">Romulus, Michigan</a></strong>,
+          700 to 800 people packed City Hall after ICE quietly purchased a warehouse near
+          schools and in a floodplain. The state attorney general filed a lawsuit. The
+          facility sat near a site that had flooded the previous year.
+        </p>
+        <p>
+          <strong><a href="/fights/surprise-az-warehouse/">Surprise, Arizona</a></strong> passed a
+          five-year ban on federal detention warehouses. The city had been told nothing before
+          DHS purchased a property. (<a href="/fights/surprise-az-warehouse/">The ban may be
+          legally unenforceable</a> under federal preemption — but it sent a signal.)
+        </p>
+        <p>
+          Maryland passed the <strong>Dignity Not Detention Act</strong>. Congressional members
+          were denied access to facilities despite valid court orders.
+          <a href="/fights/social-circle-ga-walton-county/">Social Circle, Georgia</a> threatened
+          to cut water service to a planned facility.
+        </p>
+        <p>
+          By April 2026, <strong>13 planned warehouse purchases were canceled</strong>
+          and 11 more were under review. The direct federal purchase model — stealth, fast,
+          no local buy-in — had generated too much resistance.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="pipe-section">
+    <div class="pipe-inner pipe-reveal">
+      <div class="pipe-stage">
+        <span class="pipe-num">4</span>
+        <h2 class="pipe-title">The Pivot</h2>
+      </div>
+      <p class="pipe-subtitle">Route through the sheriffs — and make it look locally controlled</p>
+
+      <div class="pipe-signals">
+        <span class="pipe-signal"><span class="signal-dot" style="background:var(--signal-sheriff);"></span> Sheriff Network</span>
+        <span class="pipe-signal"><span class="signal-dot" style="background:var(--signal-job);"></span> Job Posting</span>
+      </div>
+
+      <div class="pipe-prose">
+        <p>
+          With the warehouse model stalling, the system pivoted. Former Border Patrol agent
+          and whistleblower <strong>Jenn Budd</strong> flagged the shift:
+        </p>
+      </div>
+
+      <div class="pipe-evidence" style="border-left-color:var(--accent);">
+        <p style="font-style:italic; font-size:14px; color:var(--text-primary);">
+          "Seeing lots of articles about how DHS/ICE is pausing the warehouse plan. This is not true.
+          They are transitioning to having local sheriff departments hold warehouse leases. So,
+          technically they are pausing 'buying' warehouses but they are still creating warehouse camps."
+        </p>
+      </div>
+
+      <div class="pipe-prose">
+        <p>
+          The new model: instead of the federal government buying property directly, a
+          <strong>consulting firm staffed by former ICE officials</strong> pitches rural sheriffs
+          on building detention facilities as economic development. The county votes. The county
+          owns the land. A private operator manages the facility. ICE pays for beds.
+          It looks like a local decision. It's designed to.
+        </p>
+      </div>
+
+      <div class="pipe-models">
+        <div class="pipe-model" style="border-left:3px solid var(--text-dim);">
+          <h4>Federal Warehouse (Paused)</h4>
+          <ul>
+            <li>DHS buys property directly</li>
+            <li>No local vote or notice</li>
+            <li>Fast, stealth deployment</li>
+            <li>Federal preemption after purchase</li>
+            <li>Generates massive opposition</li>
+          </ul>
+        </div>
+        <div class="pipe-model" style="border-left:3px solid var(--accent);">
+          <h4>County-Led IGSA (Accelerating)</h4>
+          <ul>
+            <li>County commission votes</li>
+            <li>County retains land ownership</li>
+            <li>Private operator (GEO/CoreCivic)</li>
+            <li>Consultant "manages the noise"</li>
+            <li>Appears locally controlled</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pipe-prose">
+        <p>
+          The company driving this pivot is <strong><a href="/players/contractors/sabot-consulting/">Sabot Consulting</a></strong>,
+          a former IT firm that reinvented itself as the "only dedicated Criminal Justice Compliance
+          and ICE Integration practice in the country." They attended the National Sheriffs' Association
+          conference in Fort Lauderdale in July 2025. They claim "several counties have already enlisted Sabot."
+        </p>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="pipe-section">
+    <div class="pipe-inner pipe-reveal">
+      <div class="pipe-stage">
+        <span class="pipe-num">5</span>
+        <h2 class="pipe-title">The Playbook</h2>
+      </div>
+      <p class="pipe-subtitle">Bradford County, FL — the documented case study</p>
+
+      <div class="pipe-signals">
+        <span class="pipe-signal"><span class="signal-dot" style="background:var(--signal-commission);"></span> Commission Activity</span>
+        <span class="pipe-signal"><span class="signal-dot" style="background:var(--signal-comms);"></span> Comms Discipline</span>
+      </div>
+
+      <div class="pipe-prose">
+        <p>
+          <strong><a href="/fights/bradford-county-fl-douglas-building/">Bradford County, Florida</a></strong>
+          is the documented case study of the intermediary model — the one county where a leaked
+          briefing package reveals the full playbook. Population 28,000. A $5.5 million tax shortfall.
+          And a 30-acre site with a contaminated warehouse.
+        </p>
+        <p>
+          A leaked <strong>Sabot Consulting briefing package</strong>, dated December 16, 2025 and
+          marked DRAFT, outlines a 3,000-bed detention campus to be built in three phases over 38 weeks:
+        </p>
+      </div>
+
+      <div class="pipe-evidence">
+        <div class="pipe-evidence-label">From the Sabot briefing package</div>
+        <p>
+          <strong>Phase 1</strong> (weeks 7-18): Convert existing warehouse to 1,000 beds.
+          Monthly cost to ICE: <span class="mono">$8.08M</span>. Per-bed-day rate: <span class="mono">$269</span>.
+        </p>
+        <p>
+          <strong>Phase 2</strong> (weeks 19-28): Four modular pods add 1,000 beds (total 2,000).
+          Rate drops to <span class="mono">$236/day</span>.
+        </p>
+        <p>
+          <strong>Phase 3</strong> (weeks 29-38): Four more pods (total 3,000 beds).
+          Annual cost: <span class="mono">$239 million</span>. Rate: <span class="mono">$221/day</span>.
+        </p>
+        <p>
+          The design specifies "opaque fencing approach and muted external signage, reducing visual prominence."
+          The facility is designed to not look like a detention facility.
+        </p>
+      </div>
+
+      <div class="pipe-prose">
+        <p>
+          The timeline shows how the playbook unfolds:
+        </p>
+        <p>
+          <strong>July 2025:</strong> Sheriff Gordon Smith is approached by a former Osceola County
+          chief deputy working with Sabot.<br>
+          <strong>December 16, 2025:</strong> Sabot delivers the briefing package to commissioners.<br>
+          <strong>January 15, 2026:</strong> Commission votes <strong>3-2 to advance</strong> the proposal.<br>
+          <strong>February 28, 2026:</strong> WUFT reports groundwater contamination — volatile organic
+          compounds have spread to 30 surrounding properties, monitored by Florida DEP for 15 years.<br>
+          <strong>March 3, 2026:</strong> Sheriff dismisses opposition as "hate-filled vigor," personally
+          attacks critics by name.<br>
+          <strong>April 7, 2026:</strong> Commission agenda includes both a DEP environmental monitoring
+          agreement <em>and</em> a lease for "temporary ICE detainment facility" — <strong>the lease before
+          the environmental studies are complete</strong>.
+        </p>
+        <p>
+          Sabot's ongoing role: "Office of ICE Integration" — compliance coordination, communications
+          discipline, issue tracking, and "County-ICE-operator alignment." The service they advertise
+          is <strong>"managing the noise"</strong> — handling NGO scrutiny and press inquiries so agencies
+          can "focus on the mission."
+        </p>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="pipe-section">
+    <div class="pipe-inner pipe-reveal">
+      <div class="pipe-stage">
+        <span class="pipe-num">6</span>
+        <h2 class="pipe-title">The Revolving Door</h2>
+      </div>
+      <p class="pipe-subtitle">The officials who built the system now profit from it</p>
+
+      <div class="pipe-prose">
+        <p>
+          The intermediary model works because the consultants <em>are</em> the former system.
+          The people pitching counties on detention were, until recently, the people running
+          federal detention. They know the contracts, the compliance requirements, the political
+          pressure points — because they designed them.
+        </p>
+      </div>
+
+      <div class="pipe-figure">
+        <div class="pipe-figure-name"><a href="/players/people/tae-d-johnson/" style="color:var(--accent-warm); text-decoration:none;">Tae D. Johnson</a></div>
+        <div class="pipe-figure-role">Former Acting ICE Director &rarr; Sabot Consulting</div>
+        <div class="pipe-figure-detail">
+          31 years at ICE/INS. Oversaw Enforcement and Removal Operations (~$4.4B budget, 7,900 employees).
+          As head of Custody Management, supervised ~40,000 daily detainees across ~250 facilities.
+          Acting ICE Director from January 2021 to July 2023.
+          Now listed on Sabot's Criminal Justice team, facilitating "County-ICE-operator alignment."
+          A GAO finding concluded his service as Acting Director after November 2021 violated the
+          Federal Vacancies Reform Act.
+        </div>
+      </div>
+
+      <div class="pipe-prose">
+        <p>
+          Johnson isn't alone. The <a href="/network/">network visualization</a> documents the
+          full revolving door:
+        </p>
+        <p>
+          <strong>Daniel Bible</strong>, Deputy Executive Associate Director for ERO, left ICE in October 2024
+          — directly to <a href="/players/contractors/geo-group/">GEO Group</a>, the largest private detention
+          operator. <strong>David Venturella</strong>, former ICE Assistant Director, now advises both GEO and
+          DHS simultaneously via an ethics waiver. <strong>Matthew Albence</strong>, former Acting ICE Director,
+          went to GEO. <strong>Daniel Ragsdale</strong>, former ICE Deputy Director, went to GEO.
+        </p>
+        <p>
+          The <a href="/network/">conflict matrix</a> shows the financial ties: at least 15 senior officials
+          with stock holdings, pension interests, or prior compensation from the companies now receiving
+          billions in detention contracts.
+        </p>
+      </div>
+
+      <div class="pipe-evidence">
+        <div class="pipe-evidence-label">The legal question</div>
+        <p>
+          18 U.S.C. &sect; 207 imposes a lifetime ban on former senior officials communicating with
+          their former agency on matters they "participated personally and substantially" in.
+          Johnson oversaw the entire ICE detention apparatus. Sabot's core service is facilitating
+          "County-ICE-operator alignment." When does the intermediary become the principal?
+        </p>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="pipe-section" style="border-bottom:none;">
+    <div class="pipe-inner pipe-reveal">
+      <div class="pipe-stage">
+        <span class="pipe-num">7</span>
+        <h2 class="pipe-title">Where It's Heading</h2>
+      </div>
+      <p class="pipe-subtitle">886 counties with signals — and no one has looked</p>
+
+      <div class="pipe-prose">
+        <p>
+          The warehouse pause doesn't mean the pipeline stopped. It means the pipeline changed shape.
+          With 13 direct federal purchases canceled and 11 under review, expect the intermediary
+          model to accelerate. Sabot claims "several counties have already enlisted" beyond Bradford.
+          The question is which ones.
+        </p>
+        <p>
+          This site tracks <strong><a href="/county/">986 counties</a></strong> with at least one
+          pipeline signal. Of those, <strong><a href="/coverage/">886 have only automated data</a></strong>
+          — no one has checked commission agendas, searched local news, or filed a FOIA request.
+          Some of those unresearched counties score as high as <span class="pipe-stat">110</span>.
+        </p>
+        <p>
+          The early warning system works only if people use it. A high heat score with automated-only
+          signals is a flag, not a finding. The <a href="/coverage/">coverage gaps dashboard</a> shows
+          where investigation is needed most. The <a href="/foia/">FOIA generator</a> produces
+          ready-to-send public records requests. The <a href="/contribute/">contribution guide</a>
+          explains how to feed findings back into the system.
+        </p>
+        <p>
+          The pipeline depends on silence — closed sessions, NDAs, "managing the noise."
+          The counter is transparency. Early detection. Democratic response.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="pipe-cta">
+    <h2>What you can do</h2>
+    <p>
+      Investigate your county. File a FOIA request. Show up at commission meetings.
+      The playbook works because it happens in the dark.
+    </p>
+    <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
+      <a href="/coverage/" class="btn" style="background:var(--accent); color:white; border-color:var(--accent);">Find coverage gaps</a>
+      <a href="/map/" class="btn" style="background:transparent; color:#8a8892; border-color:#353542;">Explore the heat map</a>
+      <a href="/foia/" class="btn" style="background:transparent; color:#8a8892; border-color:#353542;">Generate a FOIA request</a>
+      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" class="btn" style="background:transparent; color:var(--accent-warm); border-color:rgba(212,106,47,0.4);" target="_blank" rel="noopener">Read the full investigation</a>
+    </div>
+  </div>
+
+</div>
+
+<script>
+
+(function() {
+  const els = document.querySelectorAll('.pipe-reveal');
+  if (!('IntersectionObserver' in window)) {
+    els.forEach(el => el.classList.add('visible'));
+    return;
+  }
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        obs.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.15 });
+  els.forEach(el => obs.observe(el));
+})();
+</script>
+
+
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div style="margin-bottom:10px;">
+      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm); font-size:12px; font-weight:500;">Read the investigation at The RAMM →</a>
+    </div>
+    <div class="footer-links">
+      <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
+      <a href="/methodology/">Methodology</a>
+      <a href="/contribute/">Contribute</a>
+      <a href="https://theramm.substack.com">The RAMM</a>
+    </div>
+    <div>CC-BY-SA 4.0 · Built by <a href="https://theramm.substack.com">The RAMM</a></div>
+  </div>
+</footer>
+
+<script>document.getElementById('hamburger').onclick=function(){document.getElementById('mobile-nav').classList.toggle('open')};</script>
+</body>
+</html>

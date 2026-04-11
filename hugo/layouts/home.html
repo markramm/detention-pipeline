@@ -8,7 +8,7 @@
     </h2>
     <p style="font-size:14px; color:#8a8892; max-width:560px; margin:0 auto 20px; line-height:1.6;">
       Tracking {{ .Params.total_entries | default 2232 }} signals across {{ .Params.total_counties | default 986 }} counties.
-      When multiple independent indicators converge, a county is likely being targeted.
+      Data for activists, journalists, researchers, and policymakers.
     </p>
     <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
       <a href="/map/" class="btn" style="background:var(--accent); color:white; border-color:var(--accent); font-size:13px; padding:10px 20px;">
@@ -16,6 +16,26 @@
       </a>
       <a href="/county/" class="btn" style="background:transparent; color:#8a8892; border-color:#353542; font-size:13px; padding:10px 20px;">
         Search by county
+      </a>
+    </div>
+
+    {{/* ── Audience Routing ── */}}
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:8px; max-width:860px; margin:20px auto 0;">
+      <a href="/start/" style="display:block; padding:12px 16px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.08); border-radius:4px; text-decoration:none; transition:all 0.12s;">
+        <div style="font-size:13px; color:var(--text-light); font-weight:500; margin-bottom:2px;">Fighting a proposal?</div>
+        <div style="font-size:11px; color:#6a6878;">5-step action guide for your community</div>
+      </a>
+      <a href="/players/" style="display:block; padding:12px 16px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.08); border-radius:4px; text-decoration:none; transition:all 0.12s;">
+        <div style="font-size:13px; color:var(--text-light); font-weight:500; margin-bottom:2px;">Investigating the industry?</div>
+        <div style="font-size:11px; color:#6a6878;">Contractors, revolving door, money flows</div>
+      </a>
+      <a href="/network/" style="display:block; padding:12px 16px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.08); border-radius:4px; text-decoration:none; transition:all 0.12s;">
+        <div style="font-size:13px; color:var(--text-light); font-weight:500; margin-bottom:2px;">Reporting on detention?</div>
+        <div style="font-size:11px; color:#6a6878;">Network maps, sourced data, conflict matrix</div>
+      </a>
+      <a href="/coverage/" style="display:block; padding:12px 16px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.08); border-radius:4px; text-decoration:none; transition:all 0.12s;">
+        <div style="font-size:13px; color:var(--text-light); font-weight:500; margin-bottom:2px;">Extending the data?</div>
+        <div style="font-size:11px; color:#6a6878;">Coverage gaps, methodology, contribute</div>
       </a>
     </div>
   </div>
@@ -63,21 +83,34 @@
       </div>
     </div>
 
-    {{/* ── How the Pipeline Works ── */}}
+    {{/* ── What This Site Does ── */}}
     <div style="margin-bottom:40px;">
-      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px;">How the Pipeline Works</h2>
-      <div style="padding:20px 24px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border);">
-        <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.7; margin-bottom:12px;">
-          Detention consultants target counties with <strong>budget distress</strong>, cooperative <strong>sheriffs</strong>,
-          and existing <strong>infrastructure</strong>. The pitch follows a playbook: sheriff conference recruitment,
-          closed-session presentations, NDA-protected negotiations, then a commission vote framed as fiscal salvation.
-        </p>
-        <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.7; margin-bottom:12px;">
-          This site tracks the <strong>signals</strong> that appear at each stage — 287(g) agreements,
-          commission activity, job postings, ANC contracts, real estate traces — and scores counties
-          by how many independent indicators <strong>converge</strong>.
-        </p>
-        <a href="/methodology/" style="font-size:12px; color:var(--accent-warm); text-decoration:none;">Read the full methodology →</a>
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px;">What This Site Does</h2>
+      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:10px;">
+        <a href="/map/" class="card" style="border-left:3px solid var(--accent); text-decoration:none; padding:14px 18px;">
+          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Heat Map</div>
+          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">{{ .Params.total_counties | default 986 }} counties scored by signal convergence. Interactive, zoomable, with facility overlay.</div>
+        </a>
+        <a href="/tactics/" class="card" style="border-left:3px solid var(--accent-warm); text-decoration:none; padding:14px 18px;">
+          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Playbook &amp; Counter-Playbook</div>
+          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">10 consultant tactics and 9 community counter-tactics, sourced from 13 real fights.</div>
+        </a>
+        <a href="/foia/" class="card" style="border-left:3px solid var(--signal-commission); text-decoration:none; padding:14px 18px;">
+          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">FOIA Generator</div>
+          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">Ready-to-send public records requests targeting detention pipeline activity in your county.</div>
+        </a>
+        <a href="/facilities/" class="card" style="border-left:3px solid var(--signal-igsa); text-decoration:none; padding:14px 18px;">
+          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Facilities Directory</div>
+          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">{{ .Params.total_facilities | default 495 }} IGSA facilities with operators, contract types, and conditions records.</div>
+        </a>
+        <a href="/network/" class="card" style="border-left:3px solid var(--signal-comms); text-decoration:none; padding:14px 18px;">
+          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Network Visualization</div>
+          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">Revolving door between government and private detention industry. Conflict-of-interest matrix.</div>
+        </a>
+        <a href="/coverage/" class="card" style="border-left:3px solid var(--signal-budget); text-decoration:none; padding:14px 18px;">
+          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Coverage Gaps</div>
+          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">Where investigation is most needed. Adopt a county and help fill the gaps.</div>
+        </a>
       </div>
     </div>
 
@@ -162,6 +195,7 @@
       </p>
       <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
         <a href="/contribute/" class="btn btn-accent">How to contribute →</a>
+        <a href="/foia/" class="btn">FOIA Generator</a>
         <a href="https://github.com/markramm/detention-pipeline" class="btn" target="_blank" rel="noopener">View on GitHub</a>
       </div>
     </div>

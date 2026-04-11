@@ -81,7 +81,7 @@
   "organization": {
     "label": "Organization",
     "color": "#4a7ab5",
-    "section": "players"
+    "section": "organizations"
   },
   "personnel-flow": {
     "label": "Personnel Flow",

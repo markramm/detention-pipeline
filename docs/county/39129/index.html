@@ -179,12 +179,58 @@ body {
 .card-meta { font-size: 12px; color: var(--text-dim); }
 
  
+.nav-group { position: relative; }
+.nav-group-trigger {
+  cursor: pointer; display: inline-flex; align-items: center; gap: 3px;
+  font-size: 13px; color: rgba(232,230,225,0.5); padding: 6px 12px;
+  border-radius: 3px; transition: all 0.12s; background: none; border: none;
+  font-family: inherit; font-weight: 400;
+}
+.nav-group-trigger:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.nav-group-trigger::after {
+  content: ''; display: inline-block; width: 0; height: 0;
+  border-left: 3.5px solid transparent; border-right: 3.5px solid transparent;
+  border-top: 4px solid currentColor; margin-left: 2px; opacity: 0.5;
+}
+.nav-dropdown {
+  display: none; position: absolute; top: calc(100% + 4px); left: 0;
+  background: var(--bg-panel); border: 1px solid var(--border-dark);
+  border-radius: 5px; padding: 6px 0; min-width: 190px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5); z-index: 110;
+}
+.nav-group:hover .nav-dropdown { display: block; }
+.nav-dropdown a {
+  display: block; padding: 7px 16px; font-size: 13px;
+  color: rgba(232,230,225,0.55); white-space: nowrap; text-decoration: none;
+  transition: all 0.1s;
+}
+.nav-dropdown a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+
+ 
+.nav-start {
+  background: var(--accent) !important; color: white !important;
+  border-radius: 3px; font-weight: 500; font-size: 12px !important;
+  padding: 5px 12px !important; letter-spacing: 0.01em;
+}
+.nav-start:hover { background: var(--accent-hot) !important; }
+
+ 
 .hamburger { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
 .hamburger span { display: block; width: 20px; height: 2px; background: var(--text-light); margin: 4px 0; }
 .mobile-nav { display: none; background: var(--bg-deep); padding: 8px 24px 16px; border-bottom: 1px solid var(--border-dark); }
 .mobile-nav.open { display: block; }
 .mobile-nav a { display: block; padding: 8px 0; color: rgba(232,230,225,0.6); text-decoration: none; font-size: 14px; border-bottom: 1px solid rgba(255,255,255,0.05); }
 .mobile-nav a:hover { color: var(--text-light); }
+.mobile-nav-group-label {
+  display: block; padding: 10px 0 4px; color: rgba(232,230,225,0.3);
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em;
+  text-transform: uppercase; border-bottom: none; cursor: default;
+}
+.mobile-nav .nav-start-mobile {
+  display: inline-block; margin-top: 10px; padding: 10px 20px;
+  background: var(--accent); color: white; border-radius: 4px;
+  font-weight: 500; font-size: 14px; border-bottom: none;
+}
 
 @media (max-width: 768px) {
   .hamburger { display: block; }
@@ -232,29 +278,51 @@ body {
     <nav class="site-nav">
       <a href="/map/" >Map</a>
       <a href="/fights/" >Fights</a>
+      <a href="/pipeline/" >Pipeline</a>
+      <div class="nav-group">
+        <button class="nav-group-trigger active">Investigate</button>
+        <div class="nav-dropdown">
+          <a href="/county/">Counties</a>
+          <a href="/state/">By State</a>
+          <a href="/signals/">By Signal Type</a>
+          <a href="/players/">Players</a>
+          <a href="/network/">Network</a>
+          <a href="/facilities/">Facilities</a>
+          <a href="/foia/">FOIA Generator</a>
+        </div>
+      </div>
       <a href="/tactics/" >Tactics</a>
-      <a href="/county/" class="active">Counties</a>
-      <a href="/players/" >Players</a>
-      <a href="/network/" >Network</a>
-      <a href="/facilities/" >Facilities</a>
-      <a href="/methodology/" >Methodology</a>
-      <a href="/coverage/" >Gaps</a>
-      <a href="/contribute/" >Contribute</a>
+      <div class="nav-group">
+        <button class="nav-group-trigger ">Help Build</button>
+        <div class="nav-dropdown">
+          <a href="/contribute/">Contribute</a>
+          <a href="/coverage/">Coverage Gaps</a>
+          <a href="/methodology/">Methodology</a>
+        </div>
+      </div>
+      <a href="/start/" class="nav-start">Start Here</a>
     </nav>
     <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
   </div>
 </header>
 <div class="mobile-nav" id="mobile-nav">
+  <a href="/start/" class="nav-start-mobile">Start Here →</a>
   <a href="/map/">Map</a>
   <a href="/fights/">Fights</a>
+  <a href="/pipeline/">Pipeline</a>
   <a href="/tactics/">Tactics</a>
-  <a href="/county/">Counties</a>
-  <a href="/players/">Players</a>
-  <a href="/network/">Network</a>
-  <a href="/facilities/">Facilities</a>
-  <a href="/methodology/">Methodology</a>
-  <a href="/coverage/">Gaps</a>
-  <a href="/contribute/">Contribute</a>
+  <span class="mobile-nav-group-label">Investigate</span>
+  <a href="/county/" style="padding-left:12px;">Counties</a>
+  <a href="/state/" style="padding-left:12px;">By State</a>
+  <a href="/signals/" style="padding-left:12px;">By Signal Type</a>
+  <a href="/players/" style="padding-left:12px;">Players</a>
+  <a href="/network/" style="padding-left:12px;">Network</a>
+  <a href="/facilities/" style="padding-left:12px;">Facilities</a>
+  <a href="/foia/" style="padding-left:12px;">FOIA Generator</a>
+  <span class="mobile-nav-group-label">Help Build</span>
+  <a href="/contribute/" style="padding-left:12px;">Contribute</a>
+  <a href="/coverage/" style="padding-left:12px;">Coverage Gaps</a>
+  <a href="/methodology/" style="padding-left:12px;">Methodology</a>
 </div>
 
 
