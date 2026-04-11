@@ -9,7 +9,12 @@
     Higher-weight signals are more predictive.
   </p>
 
-  {{ range sort .Pages ".Params.weight_score" "desc" }}
+  {{ $signalPages := where .RegularPages "Params.signal_type" "!=" "" }}
+  {{ if not $signalPages }}
+    {{ $signalPages = where site.RegularPages "Params.signal_type" "!=" "" }}
+    {{ $signalPages = where $signalPages "Params.weight_score" "!=" nil }}
+  {{ end }}
+  {{ range sort $signalPages ".Params.weight_score" "desc" }}
   <div class="card">
     <a href="{{ .RelPermalink }}" style="display:flex; align-items:center; gap:10px;">
       <span class="signal-dot" style="width:9px; height:9px; background:{{ .Params.signal_color }};"></span>

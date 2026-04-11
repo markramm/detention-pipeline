@@ -234,12 +234,9 @@ body {
 }
 .nav-dropdown {
   display: none; position: absolute; top: 100%; left: 0;
-  padding-top: 6px; z-index: 110;
+  padding-top: 4px; z-index: 110;
 }
-.nav-dropdown::before {
-  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 6px;
-}
-.nav-group:hover .nav-dropdown { display: block; }
+.nav-group.open .nav-dropdown { display: block; }
 .nav-dropdown a {
   display: block; padding: 7px 16px; font-size: 13px;
   color: rgba(232,230,225,0.55); white-space: nowrap; text-decoration: none;
@@ -410,6 +407,23 @@ body {
   </div>
 </footer>
 
-<script>document.getElementById('hamburger').onclick=function(){document.getElementById('mobile-nav').classList.toggle('open')};</script>
+<script>
+document.getElementById('hamburger').onclick=function(){document.getElementById('mobile-nav').classList.toggle('open')};
+// Dropdown nav: open on hover with close delay so diagonal mouse movement works
+document.querySelectorAll('.nav-group').forEach(function(group){
+  var timer=null;
+  group.addEventListener('mouseenter',function(){clearTimeout(timer);group.classList.add('open')});
+  group.addEventListener('mouseleave',function(){timer=setTimeout(function(){group.classList.remove('open')},250)});
+  // Also support click/tap for touch devices
+  group.querySelector('.nav-group-trigger').addEventListener('click',function(e){
+    e.preventDefault();
+    var wasOpen=group.classList.contains('open');
+    document.querySelectorAll('.nav-group').forEach(function(g){g.classList.remove('open')});
+    if(!wasOpen)group.classList.add('open');
+  });
+});
+// Close dropdowns when clicking outside
+document.addEventListener('click',function(e){if(!e.target.closest('.nav-group'))document.querySelectorAll('.nav-group').forEach(function(g){g.classList.remove('open')})});
+</script>
 </body>
 </html>

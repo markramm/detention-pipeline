@@ -55,7 +55,7 @@ ENTRY_TYPE_META = {
     "event":               {"label": "Event",               "color": "#5a7a6a", "section": "players"},
     "note":                {"label": "Research Note",       "color": "#6a6a6a", "section": "entry"},
     # Facilities
-    "igsa":                {"label": "IGSA Facility",       "color": "#c93b3b", "section": "facilities"},
+    "igsa":                {"label": "IGSA Facility",       "color": "#c93b3b", "weight": 10, "section": "facilities"},
     "facility":            {"label": "Facility",            "color": "#c93b3b", "section": "facilities"},
 }
 
@@ -662,6 +662,7 @@ facility_count: {facility_count}
     with open(CONTENT_PATH / "signals" / "_index.md", "w") as f:
         f.write("""---
 title: "Signal Types"
+type: signals
 layout: list
 ---
 """)
