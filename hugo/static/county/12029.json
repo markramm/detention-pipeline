@@ -2,14 +2,15 @@
   "fips": "12029",
   "county": "Dixie County, FL",
   "state": "FL",
-  "score": 28,
-  "signal_types": 2,
-  "rank": 453,
-  "total_counties": 1181,
-  "percentile": 62,
+  "score": 85,
+  "signal_types": 5,
+  "rank": 146,
+  "total_counties": 1991,
+  "percentile": 93,
   "coverage": "unresearched",
-  "auto_summary": "Dixie County, FL shows 3 287(g) agreements.",
+  "auto_summary": "Dixie County, FL shows 3 287(g) agreements, and budget distress.",
   "entry_types": {
-    "287g-agreement": 3
+    "287g-agreement": 3,
+    "budget-distress": 1
   }
 }

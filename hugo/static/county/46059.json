@@ -1,0 +1,15 @@
+{
+  "fips": "46059",
+  "county": "Hand County, SD",
+  "state": "SD",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1944,
+  "total_counties": 1991,
+  "percentile": 2,
+  "coverage": "unresearched",
+  "auto_summary": "Hand County, SD shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

@@ -2,14 +2,15 @@
   "fips": "42009",
   "county": "Bedford County, PA",
   "state": "PA",
-  "score": 41,
-  "signal_types": 2,
-  "rank": 274,
-  "total_counties": 1181,
-  "percentile": 77,
+  "score": 69,
+  "signal_types": 4,
+  "rank": 183,
+  "total_counties": 1991,
+  "percentile": 91,
   "coverage": "unresearched",
-  "auto_summary": "Bedford County, PA shows 1 existing IGSA facility.",
+  "auto_summary": "Bedford County, PA shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

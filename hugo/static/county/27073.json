@@ -1,0 +1,15 @@
+{
+  "fips": "27073",
+  "county": "Lac qui Parle County, MN",
+  "state": "MN",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1275,
+  "total_counties": 1991,
+  "percentile": 36,
+  "coverage": "unresearched",
+  "auto_summary": "Lac qui Parle County, MN shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

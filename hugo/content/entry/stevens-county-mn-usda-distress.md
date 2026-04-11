@@ -1,0 +1,24 @@
+---
+title: "Stevens County, MN — Budget Distress (score 3/10)"
+entry_type: "budget-distress"
+signal_label: "Budget Distress"
+signal_color: "#9a4fb5"
+fips: "27149"
+state: "MN"
+county: "Stevens County"
+repo_path: "kb/budget/stevens-county-mn-usda-distress.md"
+lastmod: "2026-04-11"
+summary: "Budget distress indicators for Stevens County, MN."
+source_count: 1
+type: "entry"
+layout: "single"
+---
+
+County-level fiscal distress indicators for Stevens County, MN.
+
+Distress score: 3/10
+Indicators: population loss, non-metro (rural)
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

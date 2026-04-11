@@ -2,14 +2,15 @@
   "fips": "20125",
   "county": "Montgomery County, KS",
   "state": "KS",
-  "score": 14,
-  "signal_types": 1,
-  "rank": 890,
-  "total_counties": 1181,
-  "percentile": 25,
+  "score": 30,
+  "signal_types": 3,
+  "rank": 561,
+  "total_counties": 1991,
+  "percentile": 72,
   "coverage": "unresearched",
-  "auto_summary": "Montgomery County, KS shows 2 287(g) agreements.",
+  "auto_summary": "Montgomery County, KS shows 2 287(g) agreements, and budget distress.",
   "entry_types": {
-    "287g-agreement": 2
+    "287g-agreement": 2,
+    "budget-distress": 1
   }
 }

@@ -1,0 +1,15 @@
+{
+  "fips": "48101",
+  "county": "Cottle County, TX",
+  "state": "TX",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1913,
+  "total_counties": 1991,
+  "percentile": 4,
+  "coverage": "unresearched",
+  "auto_summary": "Cottle County, TX shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

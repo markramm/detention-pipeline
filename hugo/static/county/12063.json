@@ -2,15 +2,16 @@
   "fips": "12063",
   "county": "Jackson County, FL",
   "state": "FL",
-  "score": 40,
-  "signal_types": 3,
-  "rank": 317,
-  "total_counties": 1181,
-  "percentile": 73,
+  "score": 97,
+  "signal_types": 6,
+  "rank": 98,
+  "total_counties": 1991,
+  "percentile": 95,
   "coverage": "partially-researched",
-  "auto_summary": "Jackson County, FL shows 1 287(g) agreement, and 1 real estate trace.",
+  "auto_summary": "Jackson County, FL shows 1 287(g) agreement, budget distress, and 1 real estate trace.",
   "entry_types": {
     "287g-agreement": 1,
+    "budget-distress": 1,
     "real-estate-trace": 1
   }
 }

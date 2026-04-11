@@ -2,14 +2,15 @@
   "fips": "51083",
   "county": "Halifax County, VA",
   "state": "VA",
-  "score": 10,
-  "signal_types": 1,
-  "rank": 1071,
-  "total_counties": 1181,
-  "percentile": 9,
+  "score": 15,
+  "signal_types": 2,
+  "rank": 923,
+  "total_counties": 1991,
+  "percentile": 54,
   "coverage": "unresearched",
-  "auto_summary": "Halifax County, VA shows 1 existing IGSA facility.",
+  "auto_summary": "Halifax County, VA shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

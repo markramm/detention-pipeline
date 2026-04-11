@@ -1,0 +1,15 @@
+{
+  "fips": "37147",
+  "county": "Pitt County, NC",
+  "state": "NC",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1446,
+  "total_counties": 1991,
+  "percentile": 27,
+  "coverage": "unresearched",
+  "auto_summary": "Pitt County, NC shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

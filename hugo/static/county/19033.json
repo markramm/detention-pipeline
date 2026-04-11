@@ -1,0 +1,15 @@
+{
+  "fips": "19033",
+  "county": "Cerro Gordo County, IA",
+  "state": "IA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1701,
+  "total_counties": 1991,
+  "percentile": 15,
+  "coverage": "unresearched",
+  "auto_summary": "Cerro Gordo County, IA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

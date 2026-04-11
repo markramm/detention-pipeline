@@ -1,0 +1,15 @@
+{
+  "fips": "19005",
+  "county": "Allamakee County, IA",
+  "state": "IA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1840,
+  "total_counties": 1991,
+  "percentile": 8,
+  "coverage": "unresearched",
+  "auto_summary": "Allamakee County, IA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

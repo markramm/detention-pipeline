@@ -2,14 +2,15 @@
   "fips": "16039",
   "county": "Elmore County, ID",
   "state": "ID",
-  "score": 10,
-  "signal_types": 1,
-  "rank": 942,
-  "total_counties": 1181,
-  "percentile": 20,
+  "score": 15,
+  "signal_types": 2,
+  "rank": 901,
+  "total_counties": 1991,
+  "percentile": 55,
   "coverage": "unresearched",
-  "auto_summary": "Elmore County, ID shows 1 existing IGSA facility.",
+  "auto_summary": "Elmore County, ID shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

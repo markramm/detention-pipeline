@@ -1,0 +1,15 @@
+{
+  "fips": "19041",
+  "county": "Clay County, IA",
+  "state": "IA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1287,
+  "total_counties": 1991,
+  "percentile": 35,
+  "coverage": "unresearched",
+  "auto_summary": "Clay County, IA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

@@ -2,15 +2,16 @@
   "fips": "48255",
   "county": "Karnes County, TX",
   "state": "TX",
-  "score": 51,
-  "signal_types": 2,
-  "rank": 171,
-  "total_counties": 1181,
-  "percentile": 86,
+  "score": 81,
+  "signal_types": 4,
+  "rank": 158,
+  "total_counties": 1991,
+  "percentile": 92,
   "coverage": "unresearched",
-  "auto_summary": "Karnes County, TX shows 3 existing IGSA facilities, and 1 287(g) agreement.",
+  "auto_summary": "Karnes County, TX shows 3 existing IGSA facilities, 1 287(g) agreement, and budget distress.",
   "entry_types": {
     "287g-agreement": 1,
+    "budget-distress": 1,
     "igsa": 3
   }
 }

@@ -2,14 +2,15 @@
   "fips": "41023",
   "county": "Grant County, OR",
   "state": "OR",
-  "score": 20,
-  "signal_types": 1,
-  "rank": 761,
-  "total_counties": 1181,
-  "percentile": 36,
+  "score": 25,
+  "signal_types": 2,
+  "rank": 698,
+  "total_counties": 1991,
+  "percentile": 65,
   "coverage": "unresearched",
-  "auto_summary": "Grant County, OR shows 1 existing IGSA facility.",
+  "auto_summary": "Grant County, OR shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

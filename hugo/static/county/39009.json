@@ -1,0 +1,15 @@
+{
+  "fips": "39009",
+  "county": "Athens County, OH",
+  "state": "OH",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1973,
+  "total_counties": 1991,
+  "percentile": 1,
+  "coverage": "unresearched",
+  "auto_summary": "Athens County, OH shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

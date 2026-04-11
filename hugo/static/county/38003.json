@@ -1,0 +1,15 @@
+{
+  "fips": "38003",
+  "county": "Barnes County, ND",
+  "state": "ND",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1970,
+  "total_counties": 1991,
+  "percentile": 1,
+  "coverage": "unresearched",
+  "auto_summary": "Barnes County, ND shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fips": "48087",
+  "county": "Collingsworth County, TX",
+  "state": "TX",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1513,
+  "total_counties": 1991,
+  "percentile": 24,
+  "coverage": "unresearched",
+  "auto_summary": "Collingsworth County, TX shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

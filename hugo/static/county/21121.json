@@ -1,0 +1,15 @@
+{
+  "fips": "21121",
+  "county": "Knox County, KY",
+  "state": "KY",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1562,
+  "total_counties": 1991,
+  "percentile": 22,
+  "coverage": "unresearched",
+  "auto_summary": "Knox County, KY shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

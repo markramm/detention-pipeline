@@ -2,14 +2,15 @@
   "fips": "08021",
   "county": "Conejos County, CO",
   "state": "CO",
-  "score": 20,
-  "signal_types": 1,
-  "rank": 754,
-  "total_counties": 1181,
-  "percentile": 36,
+  "score": 25,
+  "signal_types": 2,
+  "rank": 696,
+  "total_counties": 1991,
+  "percentile": 65,
   "coverage": "unresearched",
-  "auto_summary": "Conejos County, CO shows 1 existing IGSA facility.",
+  "auto_summary": "Conejos County, CO shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

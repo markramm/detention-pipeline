@@ -1,0 +1,15 @@
+{
+  "fips": "26063",
+  "county": "Huron County, MI",
+  "state": "MI",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1217,
+  "total_counties": 1991,
+  "percentile": 39,
+  "coverage": "unresearched",
+  "auto_summary": "Huron County, MI shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

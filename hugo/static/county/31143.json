@@ -1,0 +1,15 @@
+{
+  "fips": "31143",
+  "county": "Polk County, NE",
+  "state": "NE",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1344,
+  "total_counties": 1991,
+  "percentile": 32,
+  "coverage": "unresearched",
+  "auto_summary": "Polk County, NE shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

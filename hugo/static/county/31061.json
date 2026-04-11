@@ -1,0 +1,15 @@
+{
+  "fips": "31061",
+  "county": "Franklin County, NE",
+  "state": "NE",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1574,
+  "total_counties": 1991,
+  "percentile": 21,
+  "coverage": "unresearched",
+  "auto_summary": "Franklin County, NE shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

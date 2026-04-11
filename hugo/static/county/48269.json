@@ -1,0 +1,15 @@
+{
+  "fips": "48269",
+  "county": "King County, TX",
+  "state": "TX",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1359,
+  "total_counties": 1991,
+  "percentile": 32,
+  "coverage": "unresearched",
+  "auto_summary": "King County, TX shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fips": "35021",
+  "county": "Harding County, NM",
+  "state": "NM",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1752,
+  "total_counties": 1991,
+  "percentile": 12,
+  "coverage": "unresearched",
+  "auto_summary": "Harding County, NM shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

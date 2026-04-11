@@ -1,0 +1,15 @@
+{
+  "fips": "28029",
+  "county": "Copiah County, MS",
+  "state": "MS",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1537,
+  "total_counties": 1991,
+  "percentile": 23,
+  "coverage": "unresearched",
+  "auto_summary": "Copiah County, MS shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

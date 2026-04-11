@@ -1,0 +1,15 @@
+{
+  "fips": "30089",
+  "county": "Sanders County, MT",
+  "state": "MT",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1363,
+  "total_counties": 1991,
+  "percentile": 32,
+  "coverage": "unresearched",
+  "auto_summary": "Sanders County, MT shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

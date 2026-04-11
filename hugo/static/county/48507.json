@@ -2,14 +2,15 @@
   "fips": "48507",
   "county": "Zavala County, TX",
   "state": "TX",
-  "score": 51,
-  "signal_types": 2,
-  "rank": 170,
-  "total_counties": 1181,
-  "percentile": 86,
+  "score": 81,
+  "signal_types": 4,
+  "rank": 156,
+  "total_counties": 1991,
+  "percentile": 92,
   "coverage": "unresearched",
-  "auto_summary": "Zavala County, TX shows 2 existing IGSA facilities.",
+  "auto_summary": "Zavala County, TX shows 2 existing IGSA facilities, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 2
   }
 }

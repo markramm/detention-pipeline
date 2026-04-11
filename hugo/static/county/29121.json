@@ -1,0 +1,15 @@
+{
+  "fips": "29121",
+  "county": "Macon County, MO",
+  "state": "MO",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1463,
+  "total_counties": 1991,
+  "percentile": 27,
+  "coverage": "unresearched",
+  "auto_summary": "Macon County, MO shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

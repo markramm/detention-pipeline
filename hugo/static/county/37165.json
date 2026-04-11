@@ -1,0 +1,15 @@
+{
+  "fips": "37165",
+  "county": "Scotland County, NC",
+  "state": "NC",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1259,
+  "total_counties": 1991,
+  "percentile": 37,
+  "coverage": "unresearched",
+  "auto_summary": "Scotland County, NC shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

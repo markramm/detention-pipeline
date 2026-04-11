@@ -3,6 +3,6 @@ title: "Montana"
 type: state
 layout: single
 state_abbr: "MT"
-county_count: 23
-entry_count: 31
+county_count: 37
+entry_count: 49
 ---

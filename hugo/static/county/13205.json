@@ -1,0 +1,15 @@
+{
+  "fips": "13205",
+  "county": "Mitchell County, GA",
+  "state": "GA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1827,
+  "total_counties": 1991,
+  "percentile": 8,
+  "coverage": "unresearched",
+  "auto_summary": "Mitchell County, GA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

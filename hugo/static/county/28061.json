@@ -1,0 +1,15 @@
+{
+  "fips": "28061",
+  "county": "Jasper County, MS",
+  "state": "MS",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1633,
+  "total_counties": 1991,
+  "percentile": 18,
+  "coverage": "unresearched",
+  "auto_summary": "Jasper County, MS shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

@@ -2,14 +2,15 @@
   "fips": "42107",
   "county": "Schuylkill County, PA",
   "state": "PA",
-  "score": 21,
-  "signal_types": 1,
-  "rank": 600,
-  "total_counties": 1181,
-  "percentile": 49,
+  "score": 39,
+  "signal_types": 3,
+  "rank": 482,
+  "total_counties": 1991,
+  "percentile": 76,
   "coverage": "unresearched",
-  "auto_summary": "Schuylkill County, PA shows 2 287(g) agreements.",
+  "auto_summary": "Schuylkill County, PA shows 2 287(g) agreements, and budget distress.",
   "entry_types": {
-    "287g-agreement": 2
+    "287g-agreement": 2,
+    "budget-distress": 1
   }
 }

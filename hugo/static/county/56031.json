@@ -2,14 +2,15 @@
   "fips": "56031",
   "county": "Platte County, WY",
   "state": "WY",
-  "score": 10,
-  "signal_types": 1,
-  "rank": 1066,
-  "total_counties": 1181,
-  "percentile": 10,
+  "score": 15,
+  "signal_types": 2,
+  "rank": 921,
+  "total_counties": 1991,
+  "percentile": 54,
   "coverage": "unresearched",
-  "auto_summary": "Platte County, WY shows 1 existing IGSA facility.",
+  "auto_summary": "Platte County, WY shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

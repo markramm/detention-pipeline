@@ -1,0 +1,15 @@
+{
+  "fips": "55047",
+  "county": "Green Lake County, WI",
+  "state": "WI",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1722,
+  "total_counties": 1991,
+  "percentile": 14,
+  "coverage": "unresearched",
+  "auto_summary": "Green Lake County, WI shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

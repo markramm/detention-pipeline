@@ -1,0 +1,15 @@
+{
+  "fips": "05107",
+  "county": "Phillips County, AR",
+  "state": "AR",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1640,
+  "total_counties": 1991,
+  "percentile": 18,
+  "coverage": "unresearched",
+  "auto_summary": "Phillips County, AR shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

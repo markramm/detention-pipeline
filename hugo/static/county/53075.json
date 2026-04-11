@@ -1,0 +1,15 @@
+{
+  "fips": "53075",
+  "county": "Whitman County, WA",
+  "state": "WA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1333,
+  "total_counties": 1991,
+  "percentile": 33,
+  "coverage": "unresearched",
+  "auto_summary": "Whitman County, WA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

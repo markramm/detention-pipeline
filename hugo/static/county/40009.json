@@ -1,0 +1,15 @@
+{
+  "fips": "40009",
+  "county": "Beckham County, OK",
+  "state": "OK",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1835,
+  "total_counties": 1991,
+  "percentile": 8,
+  "coverage": "unresearched",
+  "auto_summary": "Beckham County, OK shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

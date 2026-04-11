@@ -1,0 +1,15 @@
+{
+  "fips": "29005",
+  "county": "Atchison County, MO",
+  "state": "MO",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1886,
+  "total_counties": 1991,
+  "percentile": 5,
+  "coverage": "unresearched",
+  "auto_summary": "Atchison County, MO shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

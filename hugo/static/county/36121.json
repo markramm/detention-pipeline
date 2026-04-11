@@ -2,14 +2,15 @@
   "fips": "36121",
   "county": "Wyoming County, NY",
   "state": "NY",
-  "score": 27,
-  "signal_types": 2,
-  "rank": 506,
-  "total_counties": 1181,
-  "percentile": 57,
+  "score": 42,
+  "signal_types": 3,
+  "rank": 398,
+  "total_counties": 1991,
+  "percentile": 80,
   "coverage": "unresearched",
-  "auto_summary": "Wyoming County, NY shows 1 existing IGSA facility.",
+  "auto_summary": "Wyoming County, NY shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

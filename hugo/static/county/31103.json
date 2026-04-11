@@ -1,0 +1,15 @@
+{
+  "fips": "31103",
+  "county": "Keya Paha County, NE",
+  "state": "NE",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1979,
+  "total_counties": 1991,
+  "percentile": 1,
+  "coverage": "unresearched",
+  "auto_summary": "Keya Paha County, NE shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

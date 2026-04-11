@@ -1,0 +1,15 @@
+{
+  "fips": "19159",
+  "county": "Ringgold County, IA",
+  "state": "IA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1266,
+  "total_counties": 1991,
+  "percentile": 36,
+  "coverage": "unresearched",
+  "auto_summary": "Ringgold County, IA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

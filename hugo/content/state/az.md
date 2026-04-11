@@ -4,5 +4,5 @@ type: state
 layout: single
 state_abbr: "AZ"
 county_count: 14
-entry_count: 65
+entry_count: 68
 ---

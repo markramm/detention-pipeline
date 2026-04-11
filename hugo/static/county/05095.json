@@ -1,0 +1,15 @@
+{
+  "fips": "05095",
+  "county": "Monroe County, AR",
+  "state": "AR",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1681,
+  "total_counties": 1991,
+  "percentile": 16,
+  "coverage": "unresearched",
+  "auto_summary": "Monroe County, AR shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

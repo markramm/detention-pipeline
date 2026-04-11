@@ -2,14 +2,15 @@
   "fips": "16065",
   "county": "Madison County, ID",
   "state": "ID",
-  "score": 20,
-  "signal_types": 1,
-  "rank": 743,
-  "total_counties": 1181,
-  "percentile": 37,
+  "score": 25,
+  "signal_types": 2,
+  "rank": 695,
+  "total_counties": 1991,
+  "percentile": 65,
   "coverage": "unresearched",
-  "auto_summary": "Madison County, ID shows 1 existing IGSA facility.",
+  "auto_summary": "Madison County, ID shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

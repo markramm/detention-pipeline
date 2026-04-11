@@ -1,0 +1,15 @@
+{
+  "fips": "55041",
+  "county": "Forest County, WI",
+  "state": "WI",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1549,
+  "total_counties": 1991,
+  "percentile": 22,
+  "coverage": "unresearched",
+  "auto_summary": "Forest County, WI shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fips": "37017",
+  "county": "Bladen County, NC",
+  "state": "NC",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1615,
+  "total_counties": 1991,
+  "percentile": 19,
+  "coverage": "unresearched",
+  "auto_summary": "Bladen County, NC shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

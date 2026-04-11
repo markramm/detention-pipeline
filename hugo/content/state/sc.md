@@ -3,6 +3,6 @@ title: "South Carolina"
 type: state
 layout: single
 state_abbr: "SC"
-county_count: 21
-entry_count: 40
+county_count: 31
+entry_count: 52
 ---

@@ -1,0 +1,15 @@
+{
+  "fips": "13005",
+  "county": "Bacon County, GA",
+  "state": "GA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1473,
+  "total_counties": 1991,
+  "percentile": 26,
+  "coverage": "unresearched",
+  "auto_summary": "Bacon County, GA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

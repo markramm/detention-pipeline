@@ -1,0 +1,15 @@
+{
+  "fips": "22045",
+  "county": "Iberia Parish, LA",
+  "state": "LA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1931,
+  "total_counties": 1991,
+  "percentile": 3,
+  "coverage": "unresearched",
+  "auto_summary": "Iberia Parish, LA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

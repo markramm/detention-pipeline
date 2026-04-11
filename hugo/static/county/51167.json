@@ -1,0 +1,15 @@
+{
+  "fips": "51167",
+  "county": "Russell County, VA",
+  "state": "VA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1846,
+  "total_counties": 1991,
+  "percentile": 7,
+  "coverage": "unresearched",
+  "auto_summary": "Russell County, VA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

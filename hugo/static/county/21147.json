@@ -2,14 +2,15 @@
   "fips": "21147",
   "county": "McCreary County, KY",
   "state": "KY",
-  "score": 10,
-  "signal_types": 1,
-  "rank": 982,
-  "total_counties": 1181,
-  "percentile": 17,
+  "score": 15,
+  "signal_types": 2,
+  "rank": 908,
+  "total_counties": 1991,
+  "percentile": 54,
   "coverage": "unresearched",
-  "auto_summary": "McCreary County, KY shows 1 existing IGSA facility.",
+  "auto_summary": "McCreary County, KY shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

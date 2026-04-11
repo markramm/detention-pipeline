@@ -2,14 +2,15 @@
   "fips": "21105",
   "county": "Hickman County, KY",
   "state": "KY",
-  "score": 7,
-  "signal_types": 1,
-  "rank": 1178,
-  "total_counties": 1181,
-  "percentile": 0,
+  "score": 12,
+  "signal_types": 2,
+  "rank": 985,
+  "total_counties": 1991,
+  "percentile": 51,
   "coverage": "unresearched",
-  "auto_summary": "Hickman County, KY shows 1 287(g) agreement.",
+  "auto_summary": "Hickman County, KY shows 1 287(g) agreement, and budget distress.",
   "entry_types": {
-    "287g-agreement": 1
+    "287g-agreement": 1,
+    "budget-distress": 1
   }
 }

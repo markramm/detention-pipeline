@@ -1,0 +1,15 @@
+{
+  "fips": "45069",
+  "county": "Marlboro County, SC",
+  "state": "SC",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1256,
+  "total_counties": 1991,
+  "percentile": 37,
+  "coverage": "unresearched",
+  "auto_summary": "Marlboro County, SC shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

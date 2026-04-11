@@ -1,0 +1,15 @@
+{
+  "fips": "51141",
+  "county": "Patrick County, VA",
+  "state": "VA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1364,
+  "total_counties": 1991,
+  "percentile": 31,
+  "coverage": "unresearched",
+  "auto_summary": "Patrick County, VA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

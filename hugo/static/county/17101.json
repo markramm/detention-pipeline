@@ -1,0 +1,15 @@
+{
+  "fips": "17101",
+  "county": "Lawrence County, IL",
+  "state": "IL",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1692,
+  "total_counties": 1991,
+  "percentile": 15,
+  "coverage": "unresearched",
+  "auto_summary": "Lawrence County, IL shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

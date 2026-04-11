@@ -1,0 +1,15 @@
+{
+  "fips": "55023",
+  "county": "Crawford County, WI",
+  "state": "WI",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1653,
+  "total_counties": 1991,
+  "percentile": 17,
+  "coverage": "unresearched",
+  "auto_summary": "Crawford County, WI shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

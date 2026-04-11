@@ -1,0 +1,15 @@
+{
+  "fips": "13055",
+  "county": "Chattooga County, GA",
+  "state": "GA",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1924,
+  "total_counties": 1991,
+  "percentile": 3,
+  "coverage": "unresearched",
+  "auto_summary": "Chattooga County, GA shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

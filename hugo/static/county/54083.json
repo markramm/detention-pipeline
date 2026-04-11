@@ -1,0 +1,15 @@
+{
+  "fips": "54083",
+  "county": "Randolph County, WV",
+  "state": "WV",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1362,
+  "total_counties": 1991,
+  "percentile": 32,
+  "coverage": "unresearched",
+  "auto_summary": "Randolph County, WV shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

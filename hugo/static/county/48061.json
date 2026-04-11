@@ -2,16 +2,17 @@
   "fips": "48061",
   "county": "Cameron County, TX",
   "state": "TX",
-  "score": 105,
-  "signal_types": 3,
-  "rank": 18,
-  "total_counties": 1181,
-  "percentile": 98,
+  "score": 150,
+  "signal_types": 5,
+  "rank": 9,
+  "total_counties": 1991,
+  "percentile": 100,
   "coverage": "unresearched",
-  "auto_summary": "Cameron County, TX shows 14 existing IGSA facilities, 1 287(g) agreement, and 3 ANC contracts.",
+  "auto_summary": "Cameron County, TX shows 14 existing IGSA facilities, 1 287(g) agreement, 3 ANC contracts, and budget distress.",
   "entry_types": {
     "287g-agreement": 1,
     "anc-contract": 3,
+    "budget-distress": 1,
     "igsa": 14
   }
 }

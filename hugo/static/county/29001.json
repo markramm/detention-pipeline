@@ -1,0 +1,15 @@
+{
+  "fips": "29001",
+  "county": "Adair County, MO",
+  "state": "MO",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1825,
+  "total_counties": 1991,
+  "percentile": 8,
+  "coverage": "unresearched",
+  "auto_summary": "Adair County, MO shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

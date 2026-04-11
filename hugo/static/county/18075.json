@@ -1,0 +1,15 @@
+{
+  "fips": "18075",
+  "county": "Jay County, IN",
+  "state": "IN",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1844,
+  "total_counties": 1991,
+  "percentile": 7,
+  "coverage": "unresearched",
+  "auto_summary": "Jay County, IN shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

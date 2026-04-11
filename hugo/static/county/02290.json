@@ -1,0 +1,15 @@
+{
+  "fips": "02290",
+  "county": "Yukon-Koyukuk Census Area, AK",
+  "state": "AK",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1823,
+  "total_counties": 1991,
+  "percentile": 8,
+  "coverage": "unresearched",
+  "auto_summary": "Yukon-Koyukuk Census Area, AK shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

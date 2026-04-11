@@ -3,6 +3,6 @@ title: "Nevada"
 type: state
 layout: single
 state_abbr: "NV"
-county_count: 6
-entry_count: 11
+county_count: 11
+entry_count: 17
 ---

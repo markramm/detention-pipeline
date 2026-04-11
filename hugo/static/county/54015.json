@@ -1,0 +1,15 @@
+{
+  "fips": "54015",
+  "county": "Clay County, WV",
+  "state": "WV",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1991,
+  "total_counties": 1991,
+  "percentile": 0,
+  "coverage": "unresearched",
+  "auto_summary": "Clay County, WV shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

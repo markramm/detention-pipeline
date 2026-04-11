@@ -1,0 +1,15 @@
+{
+  "fips": "31175",
+  "county": "Valley County, NE",
+  "state": "NE",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1313,
+  "total_counties": 1991,
+  "percentile": 34,
+  "coverage": "unresearched",
+  "auto_summary": "Valley County, NE shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

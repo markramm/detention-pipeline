@@ -1,0 +1,15 @@
+{
+  "fips": "31101",
+  "county": "Keith County, NE",
+  "state": "NE",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1641,
+  "total_counties": 1991,
+  "percentile": 18,
+  "coverage": "unresearched",
+  "auto_summary": "Keith County, NE shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

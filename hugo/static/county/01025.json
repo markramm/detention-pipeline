@@ -2,14 +2,15 @@
   "fips": "01025",
   "county": "Clarke County, AL",
   "state": "AL",
-  "score": 14,
-  "signal_types": 1,
-  "rank": 906,
-  "total_counties": 1181,
-  "percentile": 23,
+  "score": 19,
+  "signal_types": 2,
+  "rank": 877,
+  "total_counties": 1991,
+  "percentile": 56,
   "coverage": "unresearched",
-  "auto_summary": "Clarke County, AL shows 2 287(g) agreements.",
+  "auto_summary": "Clarke County, AL shows 2 287(g) agreements, and budget distress.",
   "entry_types": {
-    "287g-agreement": 2
+    "287g-agreement": 2,
+    "budget-distress": 1
   }
 }

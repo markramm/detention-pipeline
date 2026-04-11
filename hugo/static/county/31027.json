@@ -1,0 +1,15 @@
+{
+  "fips": "31027",
+  "county": "Cedar County, NE",
+  "state": "NE",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1906,
+  "total_counties": 1991,
+  "percentile": 4,
+  "coverage": "unresearched",
+  "auto_summary": "Cedar County, NE shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

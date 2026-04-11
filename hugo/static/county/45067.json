@@ -1,0 +1,15 @@
+{
+  "fips": "45067",
+  "county": "Marion County, SC",
+  "state": "SC",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1260,
+  "total_counties": 1991,
+  "percentile": 37,
+  "coverage": "unresearched",
+  "auto_summary": "Marion County, SC shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

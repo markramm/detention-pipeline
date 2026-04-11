@@ -2,14 +2,15 @@
   "fips": "42085",
   "county": "Mercer County, PA",
   "state": "PA",
-  "score": 14,
-  "signal_types": 1,
-  "rank": 916,
-  "total_counties": 1181,
-  "percentile": 22,
+  "score": 32,
+  "signal_types": 3,
+  "rank": 534,
+  "total_counties": 1991,
+  "percentile": 73,
   "coverage": "unresearched",
-  "auto_summary": "Mercer County, PA shows 2 287(g) agreements.",
+  "auto_summary": "Mercer County, PA shows 2 287(g) agreements, and budget distress.",
   "entry_types": {
-    "287g-agreement": 2
+    "287g-agreement": 2,
+    "budget-distress": 1
   }
 }

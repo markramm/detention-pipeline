@@ -4,5 +4,5 @@ type: state
 layout: single
 state_abbr: "NH"
 county_count: 7
-entry_count: 21
+entry_count: 22
 ---

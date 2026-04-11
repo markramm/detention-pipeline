@@ -1,0 +1,15 @@
+{
+  "fips": "26151",
+  "county": "Sanilac County, MI",
+  "state": "MI",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1669,
+  "total_counties": 1991,
+  "percentile": 16,
+  "coverage": "unresearched",
+  "auto_summary": "Sanilac County, MI shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

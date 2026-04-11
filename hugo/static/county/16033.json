@@ -1,0 +1,15 @@
+{
+  "fips": "16033",
+  "county": "Clark County, ID",
+  "state": "ID",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1401,
+  "total_counties": 1991,
+  "percentile": 30,
+  "coverage": "unresearched",
+  "auto_summary": "Clark County, ID shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

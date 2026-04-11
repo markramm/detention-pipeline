@@ -1,0 +1,15 @@
+{
+  "fips": "38091",
+  "county": "Steele County, ND",
+  "state": "ND",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1706,
+  "total_counties": 1991,
+  "percentile": 14,
+  "coverage": "unresearched",
+  "auto_summary": "Steele County, ND shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

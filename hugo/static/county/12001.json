@@ -2,14 +2,15 @@
   "fips": "12001",
   "county": "Alachua County, FL",
   "state": "FL",
-  "score": 28,
-  "signal_types": 2,
-  "rank": 459,
-  "total_counties": 1181,
-  "percentile": 61,
+  "score": 85,
+  "signal_types": 5,
+  "rank": 148,
+  "total_counties": 1991,
+  "percentile": 93,
   "coverage": "unresearched",
-  "auto_summary": "Alachua County, FL shows 4 287(g) agreements.",
+  "auto_summary": "Alachua County, FL shows 4 287(g) agreements, and budget distress.",
   "entry_types": {
-    "287g-agreement": 4
+    "287g-agreement": 4,
+    "budget-distress": 1
   }
 }

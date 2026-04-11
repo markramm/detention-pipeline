@@ -1,0 +1,15 @@
+{
+  "fips": "39039",
+  "county": "Defiance County, OH",
+  "state": "OH",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1550,
+  "total_counties": 1991,
+  "percentile": 22,
+  "coverage": "unresearched",
+  "auto_summary": "Defiance County, OH shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}

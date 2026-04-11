@@ -1,0 +1,15 @@
+{
+  "fips": "01023",
+  "county": "Choctaw County, AL",
+  "state": "AL",
+  "score": 5,
+  "signal_types": 1,
+  "rank": 1383,
+  "total_counties": 1991,
+  "percentile": 31,
+  "coverage": "unresearched",
+  "auto_summary": "Choctaw County, AL shows budget distress.",
+  "entry_types": {
+    "budget-distress": 1
+  }
+}
