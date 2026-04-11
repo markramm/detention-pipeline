@@ -40,26 +40,75 @@
   </div>
   <div id="state-tip"><div class="st-tip-in" id="st-tip-in"></div></div>
 
-  <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(240px, 1fr)); gap:8px;">
+  <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); gap:10px;">
   {{ range sort .Pages ".Params.entry_count" "desc" }}
     {{ $abbr := .Params.state_abbr }}
     {{ $counties := where (where site.RegularPages "Type" "county") "Params.state" $abbr }}
-    {{ $maxScore := 0 }}
-    {{ range $counties }}{{ if gt .Params.score $maxScore }}{{ $maxScore = .Params.score }}{{ end }}{{ end }}
-    {{ $fights := where (where site.RegularPages "Params.entry_type" "county-fight") "Params.state" (cond (eq $abbr "Florida") "FL" $abbr) }}
-    <div class="card" style="padding:12px 16px;">
-      <a href="{{ .RelPermalink }}">
-        <div style="display:flex; justify-content:space-between; align-items:baseline;">
-          <div class="card-title" style="font-size:14px;">{{ .Title }}</div>
-          <span class="mono" style="font-size:10px; color:var(--text-dim);">{{ $abbr }}</span>
-        </div>
-        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
-          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">{{ .Params.county_count }}</span> counties</span>
-          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">{{ .Params.entry_count }}</span> entries</span>
+    {{ $allEntries := where site.RegularPages "Params.state" $abbr }}
+    {{ $fights := where $allEntries "Params.entry_type" "county-fight" }}
+    {{ $igsa := where $allEntries "Params.entry_type" "igsa" }}
+    {{ $a287g := where $allEntries "Params.entry_type" "287g-agreement" }}
+    {{ $anc := where $allEntries "Params.entry_type" "anc-contract" }}
+
+    {{/* Find max score and top county */}}
+    {{ $maxScore := 0 }}{{ $topCounty := "" }}
+    {{ $unresearched := 0 }}
+    {{ range $counties }}
+      {{ if gt .Params.score $maxScore }}{{ $maxScore = .Params.score }}{{ $topCounty = .Title }}{{ end }}
+      {{ if eq (.Params.coverage | default "unresearched") "unresearched" }}{{ $unresearched = add $unresearched 1 }}{{ end }}
+    {{ end }}
+
+    <div class="card" style="padding:14px 18px;">
+      <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">
+        {{/* Header: name + score */}}
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+          <div style="display:flex; align-items:baseline; gap:8px;">
+            <span style="font-size:15px; font-weight:600;">{{ .Title }}</span>
+            <span class="mono dim" style="font-size:10px;">{{ $abbr }}</span>
+          </div>
           {{ if gt $maxScore 0 }}
-          <span>max <span class="score-pill {{ cond (ge $maxScore 70.0) "score-hot" (cond (ge $maxScore 40.0) "score-warm" "score-mid") }}" style="font-size:10px; padding:1px 5px;">{{ $maxScore }}</span></span>
+          <span class="score-pill {{ cond (ge $maxScore 70.0) "score-hot" (cond (ge $maxScore 40.0) "score-warm" "score-mid") }}" style="font-size:12px;">{{ $maxScore }}</span>
           {{ end }}
         </div>
+
+        {{/* Signal dots row */}}
+        <div style="display:flex; gap:6px; flex-wrap:wrap; margin-bottom:8px;">
+          {{ if $igsa }}
+          <span class="signal-badge" style="font-size:8px; padding:2px 6px;">
+            <span class="signal-dot" style="background:var(--signal-igsa);"></span>{{ len $igsa }} IGSA
+          </span>
+          {{ end }}
+          {{ if $a287g }}
+          <span class="signal-badge" style="font-size:8px; padding:2px 6px;">
+            <span class="signal-dot" style="background:var(--signal-287g);"></span>{{ len $a287g }} 287(g)
+          </span>
+          {{ end }}
+          {{ if $anc }}
+          <span class="signal-badge" style="font-size:8px; padding:2px 6px;">
+            <span class="signal-dot" style="background:var(--signal-anc);"></span>{{ len $anc }} ANC
+          </span>
+          {{ end }}
+          {{ if $fights }}
+          <span class="signal-badge" style="font-size:8px; padding:2px 6px; background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">
+            {{ len $fights }} {{ if eq (len $fights) 1 }}fight{{ else }}fights{{ end }}
+          </span>
+          {{ end }}
+        </div>
+
+        {{/* Stats row */}}
+        <div style="display:flex; gap:14px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary);">{{ len $counties }}</span> counties</span>
+          {{ if gt $unresearched 0 }}
+          <span style="color:var(--accent);"><span class="mono">{{ $unresearched }}</span> unresearched</span>
+          {{ end }}
+        </div>
+
+        {{/* Top county */}}
+        {{ if $topCounty }}
+        <div style="margin-top:6px; font-size:10.5px; color:var(--text-dim);">
+          Hottest: {{ $topCounty }}
+        </div>
+        {{ end }}
       </a>
     </div>
   {{ end }}
