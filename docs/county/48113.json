@@ -1,0 +1,16 @@
+{
+  "fips": "48113",
+  "county": "Dallas County, TX",
+  "state": "TX",
+  "score": 57,
+  "signal_types": 3,
+  "rank": 68,
+  "total_counties": 986,
+  "percentile": 93,
+  "coverage": "partially-researched",
+  "auto_summary": "Dallas County, TX shows 3 ANC contracts, and 1 real estate trace.",
+  "entry_types": {
+    "anc-contract": 3,
+    "real-estate-trace": 1
+  }
+}

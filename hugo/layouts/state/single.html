@@ -1,3 +1,24 @@
+{{ define "head" }}
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<style>
+  .state-map-wrap { width:100%; height:380px; position:relative; overflow:hidden; background:#0a0a0f; border-radius:5px; border:1px solid var(--border); margin-bottom:20px; }
+  .state-map-wrap svg { width:100%; height:100%; }
+  .sc-county { stroke:rgba(42,42,53,0.6); stroke-width:0.4; cursor:pointer; transition:stroke-width 0.1s; }
+  .sc-county:hover { stroke:#e8e6e1; stroke-width:1.5; }
+  .sc-state-border { fill:none; stroke:#55535e; stroke-width:1; pointer-events:none; }
+  #sc-tip { position:fixed; z-index:200; pointer-events:none; opacity:0; transition:opacity 0.1s; }
+  #sc-tip.vis { opacity:1; }
+  .sc-tip-in { background:#111118; border:1px solid #353542; border-radius:5px; box-shadow:0 4px 20px rgba(0,0,0,0.5); color:#e8e6e1; padding:10px 14px; }
+  .sc-tip-name { font-family:'Instrument Serif',serif; font-size:15px; margin-bottom:2px; }
+  .sc-tip-meta { font-family:'DM Mono',monospace; font-size:10px; color:#8a8892; }
+  #sc-legend { position:absolute; bottom:10px; left:10px; background:#111118; border:1px solid #2a2a35; border-radius:3px; padding:6px 10px; display:flex; align-items:center; gap:8px; }
+  .scl-label { font-family:'DM Mono',monospace; font-size:8px; letter-spacing:0.08em; text-transform:uppercase; color:#55535e; }
+  .scl-bar { display:flex; gap:1px; }
+  .scl-cell { width:14px; height:8px; border-radius:1px; }
+</style>
+{{ end }}
+
 {{ define "main" }}
 {{ $abbr := .Params.state_abbr }}
 
@@ -7,9 +28,12 @@
   {{ .Title }}
 </div>
 
-<div class="page-content">
-  <div style="padding-top:24px; margin-bottom:24px;">
-    <h1 class="serif" style="font-size:30px; font-weight:400;">{{ .Title }}</h1>
+<div class="page-content" style="max-width:1200px;">
+  <div style="padding-top:24px; margin-bottom:16px;">
+    <div style="display:flex; align-items:baseline; gap:12px; flex-wrap:wrap;">
+      <h1 class="serif" style="font-size:30px; font-weight:400;">{{ .Title }}</h1>
+      <span class="mono dim" style="font-size:12px;">{{ $abbr }}</span>
+    </div>
 
     {{/* Compute state-level stats */}}
     {{ $counties := where (where site.RegularPages "Type" "county") "Params.state" $abbr }}
@@ -20,57 +44,66 @@
     {{ $ancContracts := where $allEntries "Params.entry_type" "anc-contract" }}
 
     {{/* Stats bar */}}
-    <div style="display:flex; gap:12px; margin:14px 0 20px; flex-wrap:wrap;">
-      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+    <div style="display:flex; gap:10px; margin:14px 0 18px; flex-wrap:wrap;">
+      <div class="card" style="padding:10px 14px; text-align:center; min-width:90px;">
         <div class="mono" style="font-size:22px; font-weight:500; line-height:1;">{{ len $counties }}</div>
-        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">Counties tracked</div>
+        <div class="mono dim" style="font-size:7px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">Counties</div>
       </div>
       {{ if $agreements287g }}
-      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+      <div class="card" style="padding:10px 14px; text-align:center; min-width:90px;">
         <div class="mono" style="font-size:22px; font-weight:500; line-height:1; color:var(--signal-287g);">{{ len $agreements287g }}</div>
-        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">287(g) agreements</div>
+        <div class="mono dim" style="font-size:7px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">287(g)</div>
       </div>
       {{ end }}
       {{ if $facilities }}
-      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+      <div class="card" style="padding:10px 14px; text-align:center; min-width:90px;">
         <div class="mono" style="font-size:22px; font-weight:500; line-height:1; color:var(--signal-igsa);">{{ len $facilities }}</div>
-        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">IGSA facilities</div>
+        <div class="mono dim" style="font-size:7px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">IGSA facilities</div>
       </div>
       {{ end }}
       {{ if $ancContracts }}
-      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+      <div class="card" style="padding:10px 14px; text-align:center; min-width:90px;">
         <div class="mono" style="font-size:22px; font-weight:500; line-height:1; color:var(--signal-anc);">{{ len $ancContracts }}</div>
-        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">ANC contracts</div>
+        <div class="mono dim" style="font-size:7px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">ANC contracts</div>
       </div>
       {{ end }}
       {{ if $fights }}
-      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+      <div class="card" style="padding:10px 14px; text-align:center; min-width:90px;">
         <div class="mono" style="font-size:22px; font-weight:500; line-height:1; color:#2a8a5a;">{{ len $fights }}</div>
-        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">County fights</div>
+        <div class="mono dim" style="font-size:7px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">Fights</div>
       </div>
       {{ end }}
-      <div class="card" style="padding:10px 16px; text-align:center; min-width:100px;">
+      <div class="card" style="padding:10px 14px; text-align:center; min-width:90px;">
         <div class="mono" style="font-size:22px; font-weight:500; line-height:1;">{{ .Params.entry_count }}</div>
-        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">Total entries</div>
+        <div class="mono dim" style="font-size:7px; letter-spacing:0.08em; text-transform:uppercase; margin-top:2px;">Entries</div>
       </div>
     </div>
-
-    {{/* Active fights in this state */}}
-    {{ if $fights }}
-    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:10px; padding-bottom:6px; border-bottom:2px solid var(--border);">
-      County Fights in {{ .Title }}
-    </h2>
-    {{ range $fights }}
-    <div class="card" style="border-left:3px solid {{ cond (eq .Params.status "contested") "var(--accent)" "#2a8a5a" }}; margin-bottom:8px;">
-      <a href="{{ .RelPermalink }}">
-        <div class="card-title" style="font-size:13px;">{{ .Title }}</div>
-        <div class="card-meta">{{ with .Params.status }}{{ . | title }}{{ end }}{{ with .Params.outcome }} — {{ . }}{{ end }}</div>
-      </a>
-    </div>
-    {{ end }}
-    <div style="margin-bottom:20px;"></div>
-    {{ end }}
   </div>
+
+  {{/* County heat map for this state */}}
+  <div class="state-map-wrap" id="state-map-wrap" data-state-fips="{{ substr $abbr 0 0 }}">
+    <div id="sc-legend">
+      <span class="scl-label">Heat</span>
+      <div class="scl-bar" id="scl-bar"></div>
+    </div>
+  </div>
+  <div id="sc-tip"><div class="sc-tip-in" id="sc-tip-in"></div></div>
+
+  {{/* Active fights */}}
+  {{ if $fights }}
+  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:10px; padding-bottom:6px; border-bottom:2px solid var(--border);">
+    County Fights in {{ .Title }}
+  </h2>
+  {{ range $fights }}
+  <div class="card" style="border-left:3px solid {{ cond (eq .Params.status "contested") "var(--accent)" "#2a8a5a" }}; margin-bottom:8px;">
+    <a href="{{ .RelPermalink }}">
+      <div class="card-title" style="font-size:13px;">{{ .Title }}</div>
+      <div class="card-meta">{{ with .Params.status }}{{ . | title }}{{ end }}{{ with .Params.outcome }} — {{ . }}{{ end }}</div>
+    </a>
+  </div>
+  {{ end }}
+  <div style="margin-bottom:20px;"></div>
+  {{ end }}
 
   {{/* County ranking table */}}
   {{ if $counties }}
@@ -93,11 +126,9 @@
         <td class="mono dim">{{ add $i 1 }}</td>
         <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
         <td>
-          <a href="/methodology/#how-the-score-works" style="text-decoration:none;" title="How scores are calculated">
           <span class="score-pill {{ cond (ge .Params.score 70.0) "score-hot" (cond (ge .Params.score 40.0) "score-warm" (cond (ge .Params.score 15.0) "score-mid" "score-low")) }}">
             {{ .Params.score }}
           </span>
-          </a>
         </td>
         <td class="mono dim">{{ .Params.signal_types }}</td>
         <td>
@@ -118,9 +149,127 @@
   <p style="color:var(--text-dim); font-style:italic;">No tracked counties in this state.</p>
   {{ end }}
 
-  <div style="margin-top:24px; padding-top:14px; border-top:1px solid var(--border);">
-    <a href="https://github.com/markramm/detention-pipeline/issues/new?template=tip.yml&state={{ $abbr }}" class="btn btn-accent btn-sm">Report a tip in {{ .Title }} →</a>
-    <a href="/map/" class="btn btn-sm" style="margin-left:6px;">View on map</a>
+  <div style="margin-top:24px; padding-top:14px; border-top:1px solid var(--border); display:flex; gap:8px; flex-wrap:wrap;">
+    <a href="https://github.com/markramm/detention-pipeline/issues/new?template=tip.yml&state={{ $abbr }}" class="btn btn-accent btn-sm" target="_blank" rel="noopener">Report a tip in {{ .Title }} →</a>
+    <a href="/map/" class="btn btn-sm">View full map</a>
+    <a href="/coverage/" class="btn btn-sm">Coverage gaps</a>
   </div>
 </div>
+
+<script>
+(function(){
+  // State abbreviation → 2-digit FIPS
+  const ABBR_TO_FIPS = {"AL":"01","AK":"02","AZ":"04","AR":"05","CA":"06","CO":"08","CT":"09","DE":"10","DC":"11","FL":"12","GA":"13","HI":"15","ID":"16","IL":"17","IN":"18","IA":"19","KS":"20","KY":"21","LA":"22","ME":"23","MD":"24","MA":"25","MI":"26","MN":"27","MS":"28","MO":"29","MT":"30","NE":"31","NV":"32","NH":"33","NJ":"34","NM":"35","NY":"36","NC":"37","ND":"38","OH":"39","OK":"40","OR":"41","PA":"42","RI":"44","SC":"45","SD":"46","TN":"47","TX":"48","UT":"49","VT":"50","VA":"51","WA":"53","WV":"54","WI":"55","WY":"56"};
+  const SIG={
+    'igsa':{l:'IGSA',c:'#c93b3b'},'287g-agreement':{l:'287(g)',c:'#d46a2f'},'anc-contract':{l:'ANC',c:'#c49025'},
+    'commission-activity':{l:'Commission',c:'#8a9f2a'},'job-posting':{l:'Jobs',c:'#2a9f6f'},
+    'sheriff-network':{l:'Sheriff',c:'#2a7fb5'},'comms-discipline':{l:'Comms',c:'#6a5fb5'},
+    'budget-distress':{l:'Budget',c:'#9a4fb5'},'real-estate-trace':{l:'Real Estate',c:'#b54f8a'},
+    'legislative-trace':{l:'Legislative',c:'#5f6a7a'}
+  };
+  const SO = Object.keys(SIG);
+
+  const STATE_ABBR = '{{ .Params.state_abbr }}';
+  const stateFips = ABBR_TO_FIPS[STATE_ABBR];
+
+  if(!stateFips) return;
+
+  async function init(){
+    const [topo, heat, names] = await Promise.all([
+      d3.json('/counties-albers-10m.json'),
+      d3.json('/heat_data.json'),
+      d3.json('/fips_names.json')
+    ]);
+
+    const H = {};
+    let mx = 1;
+    heat.forEach(d => { H[d.fips] = d; });
+    // Max score for this state
+    const stateCounties = heat.filter(d => d.state === STATE_ABBR);
+    mx = d3.max(stateCounties, d => d.score) || 1;
+
+    function hc(s){ if(!s||s<=0) return '#12121a'; const t=Math.min(s/mx,1); return 'rgb('+(18+t*237|0)+','+(18+Math.pow(t,2.2)*50|0)+','+(26-t*10|0)+')'; }
+    function sc(s){ return s>=70?'#e84545':s>=40?'#d46a2f':s>=15?'#8a8892':'#55535e'; }
+    function esc(s){ const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
+
+    // Legend
+    const lb = document.getElementById('scl-bar');
+    for(let i=0;i<=8;i++){ const c=document.createElement('div'); c.className='scl-cell'; c.style.background=hc(i/8*mx); lb.appendChild(c); }
+
+    // Filter counties to this state
+    const allCounties = topojson.feature(topo, topo.objects.counties);
+    const stateFeatures = allCounties.features.filter(f => {
+      const fips = f.id.toString().padStart(5,'0');
+      return fips.substring(0,2) === stateFips;
+    });
+
+    // Get state boundary
+    const allStates = topojson.feature(topo, topo.objects.states);
+    const stateFeature = allStates.features.find(f => f.id.toString().padStart(2,'0') === stateFips);
+
+    const el = document.getElementById('state-map-wrap');
+    const w = el.clientWidth, h = el.clientHeight;
+    const svg = d3.select('#state-map-wrap').append('svg').attr('width',w).attr('height',h);
+    const g = svg.append('g');
+    const path = d3.geoPath();
+
+    // Compute bounding box of state counties and fit
+    const bounds = path.bounds({type:'FeatureCollection', features:stateFeatures});
+    const dx = bounds[1][0]-bounds[0][0], dy = bounds[1][1]-bounds[0][1];
+    const cx = (bounds[0][0]+bounds[1][0])/2, cy = (bounds[0][1]+bounds[1][1])/2;
+    const scale = 0.85 / Math.max(dx/w, dy/h);
+    const tx = w/2 - cx*scale, ty = h/2 - cy*scale;
+    g.attr('transform','translate('+tx+','+ty+') scale('+scale+')');
+
+    const tip = document.getElementById('sc-tip');
+    const tipIn = document.getElementById('sc-tip-in');
+
+    // Draw counties
+    g.selectAll('.sc-county').data(stateFeatures).join('path')
+      .attr('class','sc-county').attr('d',path)
+      .attr('fill', d => {
+        const fips = d.id.toString().padStart(5,'0');
+        const dd = H[fips];
+        return dd ? hc(dd.score) : '#12121a';
+      })
+      .on('mouseenter',(e,d) => {
+        const fips = d.id.toString().padStart(5,'0');
+        const dd = H[fips];
+        const nm = dd ? dd.county : (names[fips] || 'County '+fips);
+        if(dd){
+          const rows = SO.filter(s=>dd.signals[s]).map(s=>
+            '<div style="display:flex;align-items:center;gap:5px;padding:1px 0;font-size:10px;color:#8a8892;">'+
+            '<span style="display:inline-block;width:5px;height:5px;border-radius:50%;background:'+SIG[s].c+';"></span>'+
+            SIG[s].l+'<span style="margin-left:auto;font-family:DM Mono,monospace;color:#e8e6e1;">'+dd.signals[s].count+'</span></div>'
+          ).join('');
+          tipIn.innerHTML='<div class="sc-tip-name">'+esc(nm)+'</div>'+
+            '<div class="sc-tip-meta">Score <span style="color:'+sc(dd.score)+';font-weight:500;">'+dd.score+'</span> · FIPS '+fips+'</div>'+
+            '<div style="margin-top:4px;">'+rows+'</div>';
+        } else {
+          tipIn.innerHTML='<div class="sc-tip-name">'+esc(nm)+'</div><div class="sc-tip-meta">No signals</div>';
+        }
+        moveTip(e); tip.classList.add('vis');
+      })
+      .on('mousemove', e => moveTip(e))
+      .on('mouseleave', () => tip.classList.remove('vis'))
+      .on('click',(e,d) => {
+        const fips = d.id.toString().padStart(5,'0');
+        window.location.href = '/county/'+fips+'/';
+      });
+
+    // State outline
+    if(stateFeature){
+      g.append('path').datum(stateFeature).attr('class','sc-state-border').attr('d',path);
+    }
+
+    function moveTip(ev){
+      let x=ev.clientX+12,y=ev.clientY+12;
+      if(x+tip.offsetWidth>window.innerWidth-12) x=ev.clientX-tip.offsetWidth-12;
+      if(y+tip.offsetHeight>window.innerHeight-12) y=ev.clientY-tip.offsetHeight-12;
+      tip.style.left=x+'px';tip.style.top=y+'px';
+    }
+  }
+  init();
+})();
+</script>
 {{ end }}

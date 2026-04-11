@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NH on Detention Pipeline</title>
+    <link>https://detention-pipeline.transparencycascade.org/states/nh/</link>
+    <description>Recent content in NH on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://detention-pipeline.transparencycascade.org/states/nh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belknap County, NH</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/33001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/33001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grafton County, NH</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/33009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/33009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Merrimack County, NH</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/33013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/33013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rockingham County, NH</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/33015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/33015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strafford County, NH</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/33017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/33017/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

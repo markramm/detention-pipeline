@@ -1,0 +1,15 @@
+{
+  "fips": "20091",
+  "county": "Johnson County, KS",
+  "state": "KS",
+  "score": 8,
+  "signal_types": 1,
+  "rank": 867,
+  "total_counties": 986,
+  "percentile": 12,
+  "coverage": "unresearched",
+  "auto_summary": "Johnson County, KS shows 1 ANC contract.",
+  "entry_types": {
+    "anc-contract": 1
+  }
+}

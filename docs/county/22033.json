@@ -1,0 +1,15 @@
+{
+  "fips": "22033",
+  "county": "East Baton Rouge Parish, LA",
+  "state": "LA",
+  "score": 41,
+  "signal_types": 3,
+  "rank": 156,
+  "total_counties": 986,
+  "percentile": 84,
+  "coverage": "partially-researched",
+  "auto_summary": "East Baton Rouge Parish, LA shows 1 real estate trace.",
+  "entry_types": {
+    "real-estate-trace": 1
+  }
+}

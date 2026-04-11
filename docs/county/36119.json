@@ -1,0 +1,15 @@
+{
+  "fips": "36119",
+  "county": "Westchester County, NY",
+  "state": "NY",
+  "score": 8,
+  "signal_types": 1,
+  "rank": 862,
+  "total_counties": 986,
+  "percentile": 13,
+  "coverage": "unresearched",
+  "auto_summary": "Westchester County, NY shows 1 ANC contract.",
+  "entry_types": {
+    "anc-contract": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fips": "13211",
+  "county": "Morgan County, GA",
+  "state": "GA",
+  "score": 45,
+  "signal_types": 2,
+  "rank": 111,
+  "total_counties": 986,
+  "percentile": 89,
+  "coverage": "unresearched",
+  "auto_summary": "Morgan County, GA shows 1 287(g) agreement.",
+  "entry_types": {
+    "287g-agreement": 1
+  }
+}

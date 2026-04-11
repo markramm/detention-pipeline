@@ -1,0 +1,16 @@
+{
+  "fips": "36055",
+  "county": "Monroe County, NY",
+  "state": "NY",
+  "score": 35,
+  "signal_types": 3,
+  "rank": 184,
+  "total_counties": 986,
+  "percentile": 81,
+  "coverage": "unresearched",
+  "auto_summary": "Monroe County, NY shows 1 existing IGSA facility, and 1 ANC contract.",
+  "entry_types": {
+    "anc-contract": 1,
+    "igsa": 1
+  }
+}

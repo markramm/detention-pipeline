@@ -1,0 +1,16 @@
+{
+  "fips": "13051",
+  "county": "Chatham County, GA",
+  "state": "GA",
+  "score": 79,
+  "signal_types": 4,
+  "rank": 11,
+  "total_counties": 986,
+  "percentile": 99,
+  "coverage": "partially-researched",
+  "auto_summary": "Chatham County, GA shows 1 existing IGSA facility, and 2 real estate traces.",
+  "entry_types": {
+    "igsa": 1,
+    "real-estate-trace": 2
+  }
+}

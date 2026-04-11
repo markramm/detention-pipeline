@@ -1,0 +1,15 @@
+{
+  "fips": "27053",
+  "county": "Hennepin County, MN",
+  "state": "MN",
+  "score": 16,
+  "signal_types": 1,
+  "rank": 666,
+  "total_counties": 986,
+  "percentile": 32,
+  "coverage": "unresearched",
+  "auto_summary": "Hennepin County, MN shows 2 ANC contracts.",
+  "entry_types": {
+    "anc-contract": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fips": "47055",
+  "county": "Giles County, TN",
+  "state": "TN",
+  "score": 7,
+  "signal_types": 1,
+  "rank": 934,
+  "total_counties": 986,
+  "percentile": 5,
+  "coverage": "unresearched",
+  "auto_summary": "Giles County, TN shows 1 287(g) agreement.",
+  "entry_types": {
+    "287g-agreement": 1
+  }
+}

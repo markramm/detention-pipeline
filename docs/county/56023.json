@@ -1,0 +1,16 @@
+{
+  "fips": "56023",
+  "county": "Lincoln County, WY",
+  "state": "WY",
+  "score": 12,
+  "signal_types": 2,
+  "rank": 764,
+  "total_counties": 986,
+  "percentile": 23,
+  "coverage": "partially-researched",
+  "auto_summary": "Lincoln County, WY shows commission activity, and budget distress.",
+  "entry_types": {
+    "budget-distress": 1,
+    "commission-activity": 1
+  }
+}

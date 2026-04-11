@@ -1,20 +1,166 @@
+{{ define "head" }}
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<style>
+  .states-map-wrap { width:100%; height:420px; position:relative; overflow:hidden; background:#0a0a0f; border-radius:5px; border:1px solid var(--border); margin-bottom:24px; }
+  .states-map-wrap svg { width:100%; height:100%; }
+  .state-shape { stroke:rgba(42,42,53,0.8); stroke-width:0.6; cursor:pointer; transition:stroke-width 0.1s, fill 0.15s; }
+  .state-shape:hover { stroke:#e8e6e1; stroke-width:1.5; }
+  .nation-border { fill:none; stroke:#55535e; stroke-width:0.8; pointer-events:none; }
+  #state-tip { position:fixed; z-index:200; pointer-events:none; opacity:0; transition:opacity 0.1s; }
+  #state-tip.vis { opacity:1; }
+  .st-tip-in { background:#111118; border:1px solid #353542; border-radius:5px; box-shadow:0 4px 20px rgba(0,0,0,0.5); color:#e8e6e1; padding:10px 14px; min-width:160px; }
+  .st-tip-name { font-family:'Instrument Serif',serif; font-size:16px; margin-bottom:3px; }
+  .st-tip-meta { font-family:'DM Mono',monospace; font-size:10px; color:#8a8892; line-height:1.6; }
+  .st-tip-stat { color:#e8e6e1; font-weight:500; }
+  #state-map-legend { position:absolute; bottom:10px; left:10px; background:#111118; border:1px solid #2a2a35; border-radius:3px; padding:6px 10px; display:flex; align-items:center; gap:8px; }
+  .sml-label { font-family:'DM Mono',monospace; font-size:8px; letter-spacing:0.08em; text-transform:uppercase; color:#55535e; }
+  .sml-bar { display:flex; gap:1px; }
+  .sml-cell { width:14px; height:8px; border-radius:1px; }
+</style>
+{{ end }}
+
 {{ define "main" }}
 <div class="breadcrumb">
   <a href="/">Home</a><span class="sep">/</span>States
 </div>
-<div class="page-content">
-  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">States</h1>
-  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:20px;">Browse by state.</p>
+<div class="page-content" style="max-width:1200px;">
+  <div style="padding-top:24px; margin-bottom:16px;">
+    <h1 class="serif" style="font-size:30px; font-weight:400; margin-bottom:4px;">By State</h1>
+    <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.5;">
+      Signal density across {{ len .Pages }} states. Click a state to see its county breakdown.
+    </p>
+  </div>
 
-  <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:8px;">
+  <div class="states-map-wrap" id="states-map-wrap">
+    <div id="state-map-legend">
+      <span class="sml-label">Entries</span>
+      <div class="sml-bar" id="sml-bar"></div>
+    </div>
+  </div>
+  <div id="state-tip"><div class="st-tip-in" id="st-tip-in"></div></div>
+
+  <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(240px, 1fr)); gap:8px;">
   {{ range sort .Pages ".Params.entry_count" "desc" }}
-    <div class="card">
+    {{ $abbr := .Params.state_abbr }}
+    {{ $counties := where (where site.RegularPages "Type" "county") "Params.state" $abbr }}
+    {{ $maxScore := 0 }}
+    {{ range $counties }}{{ if gt .Params.score $maxScore }}{{ $maxScore = .Params.score }}{{ end }}{{ end }}
+    {{ $fights := where (where site.RegularPages "Params.entry_type" "county-fight") "Params.state" (cond (eq $abbr "Florida") "FL" $abbr) }}
+    <div class="card" style="padding:12px 16px;">
       <a href="{{ .RelPermalink }}">
-        <div class="card-title">{{ .Title }}</div>
-        <div class="card-meta">{{ .Params.county_count }} counties · {{ .Params.entry_count }} entries</div>
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">{{ .Title }}</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">{{ $abbr }}</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">{{ .Params.county_count }}</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">{{ .Params.entry_count }}</span> entries</span>
+          {{ if gt $maxScore 0 }}
+          <span>max <span class="score-pill {{ cond (ge $maxScore 70.0) "score-hot" (cond (ge $maxScore 40.0) "score-warm" "score-mid") }}" style="font-size:10px; padding:1px 5px;">{{ $maxScore }}</span></span>
+          {{ end }}
+        </div>
       </a>
     </div>
   {{ end }}
   </div>
 </div>
+
+<script>
+(function(){
+  // State FIPS → abbreviation lookup
+  const SFIPS = {"01":"AL","02":"AK","04":"AZ","05":"AR","06":"CA","08":"CO","09":"CT","10":"DE","11":"DC","12":"FL","13":"GA","15":"HI","16":"ID","17":"IL","18":"IN","19":"IA","20":"KS","21":"KY","22":"LA","23":"ME","24":"MD","25":"MA","26":"MI","27":"MN","28":"MS","29":"MO","30":"MT","31":"NE","32":"NV","33":"NH","34":"NJ","35":"NM","36":"NY","37":"NC","38":"ND","39":"OH","40":"OK","41":"OR","42":"PA","44":"RI","45":"SC","46":"SD","47":"TN","48":"TX","49":"UT","50":"VT","51":"VA","53":"WA","54":"WV","55":"WI","56":"WY","72":"PR"};
+  const SNAMES = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut","DE":"Delaware","DC":"District of Columbia","FL":"Florida","GA":"Georgia","HI":"Hawaii","ID":"Idaho","IL":"Illinois","IN":"Indiana","IA":"Iowa","KS":"Kansas","KY":"Kentucky","LA":"Louisiana","ME":"Maine","MD":"Maryland","MA":"Massachusetts","MI":"Michigan","MN":"Minnesota","MS":"Mississippi","MO":"Missouri","MT":"Montana","NE":"Nebraska","NV":"Nevada","NH":"New Hampshire","NJ":"New Jersey","NM":"New Mexico","NY":"New York","NC":"North Carolina","ND":"North Dakota","OH":"Ohio","OK":"Oklahoma","OR":"Oregon","PA":"Pennsylvania","RI":"Rhode Island","SC":"South Carolina","SD":"South Dakota","TN":"Tennessee","TX":"Texas","UT":"Utah","VT":"Vermont","VA":"Virginia","WA":"Washington","WV":"West Virginia","WI":"Wisconsin","WY":"Wyoming"};
+
+  async function init(){
+    const [topo, heat] = await Promise.all([
+      d3.json('/counties-albers-10m.json'),
+      d3.json('/heat_data.json')
+    ]);
+
+    // Aggregate by state
+    const byState = {};
+    heat.forEach(c => {
+      if(!byState[c.state]) byState[c.state] = {entries:0, counties:0, maxScore:0, fights:0};
+      byState[c.state].counties++;
+      const eCnt = Object.values(c.signals).reduce((s,v) => s + v.count, 0);
+      byState[c.state].entries += eCnt;
+      if(c.score > byState[c.state].maxScore) byState[c.state].maxScore = c.score;
+    });
+
+    const maxEntries = d3.max(Object.values(byState), d => d.entries) || 1;
+
+    function fillColor(st) {
+      const d = byState[st];
+      if(!d || d.entries === 0) return '#12121a';
+      const t = Math.pow(d.entries / maxEntries, 0.4);
+      return d3.interpolateRgb('#1a1520', '#c93b3b')(t);
+    }
+
+    // Legend
+    const lb = document.getElementById('sml-bar');
+    for(let i=0;i<=8;i++){
+      const c=document.createElement('div');
+      c.className='sml-cell';
+      c.style.background = d3.interpolateRgb('#1a1520','#c93b3b')(i/8);
+      lb.appendChild(c);
+    }
+
+    // Map
+    const el = document.getElementById('states-map-wrap');
+    const w = el.clientWidth, h = el.clientHeight;
+    const svg = d3.select('#states-map-wrap').append('svg').attr('width',w).attr('height',h);
+    const g = svg.append('g');
+    const mW=1016,mH=594,s0=Math.min(w/mW,h/mH)*0.92;
+    const tx=(w-mW*s0)/2-(-58)*s0,ty=(h-mH*s0)/2-13*s0;
+    g.attr('transform', `translate(${tx},${ty}) scale(${s0})`);
+
+    const states = topojson.feature(topo, topo.objects.states);
+    const path = d3.geoPath();
+    const tip = document.getElementById('state-tip');
+    const tipIn = document.getElementById('st-tip-in');
+
+    g.selectAll('.state-shape').data(states.features).join('path')
+      .attr('class','state-shape').attr('d',path)
+      .attr('fill', d => {
+        const sfips = d.id.toString().padStart(2,'0');
+        const abbr = SFIPS[sfips];
+        return fillColor(abbr);
+      })
+      .on('mouseenter',(e,d) => {
+        const sfips = d.id.toString().padStart(2,'0');
+        const abbr = SFIPS[sfips];
+        const name = SNAMES[abbr] || abbr;
+        const info = byState[abbr];
+        if(info){
+          tipIn.innerHTML = '<div class="st-tip-name">'+name+'</div>'+
+            '<div class="st-tip-meta">'+
+            '<span class="st-tip-stat">'+info.counties+'</span> counties tracked<br>'+
+            '<span class="st-tip-stat">'+info.entries+'</span> entries<br>'+
+            'Max score: <span class="st-tip-stat">'+info.maxScore+'</span></div>';
+        } else {
+          tipIn.innerHTML = '<div class="st-tip-name">'+name+'</div><div class="st-tip-meta">No signals tracked</div>';
+        }
+        moveTip(e); tip.classList.add('vis');
+      })
+      .on('mousemove', e => moveTip(e))
+      .on('mouseleave', () => tip.classList.remove('vis'))
+      .on('click',(e,d) => {
+        const sfips = d.id.toString().padStart(2,'0');
+        const abbr = SFIPS[sfips];
+        if(abbr && SNAMES[abbr]) window.location.href = '/state/' + abbr.toLowerCase() + '/';
+      });
+
+    g.append('path').datum(topojson.mesh(topo,topo.objects.nation)).attr('class','nation-border').attr('d',path);
+
+    function moveTip(ev){
+      let x=ev.clientX+12,y=ev.clientY+12;
+      if(x+tip.offsetWidth>window.innerWidth-12) x=ev.clientX-tip.offsetWidth-12;
+      if(y+tip.offsetHeight>window.innerHeight-12) y=ev.clientY-tip.offsetHeight-12;
+      tip.style.left=x+'px';tip.style.top=y+'px';
+    }
+  }
+  init();
+})();
+</script>
 {{ end }}

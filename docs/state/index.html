@@ -1,0 +1,1952 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>States · Detention Pipeline</title><meta name="description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:title" content="States · Detention Pipeline">
+<meta property="og:description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://detention-pipeline.transparencycascade.org/state/">
+<meta property="og:site_name" content="Detention Pipeline">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="States · Detention Pipeline">
+<meta name="twitter:description" content="Early-warning system for ICE detention facility expansion">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg-deep: #0a0a0f;
+  --bg-panel: #111118;
+  --bg-surface: #161620;
+  --bg-elevated: #1e1e2a;
+  --bg-content: #f6f5f1;
+  --bg-content-alt: #edece8;
+  --text-primary: #1a1a1f;
+  --text-secondary: #4a4952;
+  --text-dim: #7a7882;
+  --text-light: #e8e6e1;
+  --border: #dddbd6;
+  --border-dark: #2a2a35;
+  --accent: #c93b3b;
+  --accent-hot: #e84545;
+  --accent-warm: #d46a2f;
+  --signal-igsa: #c93b3b;
+  --signal-287g: #d46a2f;
+  --signal-anc: #c49025;
+  --signal-commission: #6a8a1a;
+  --signal-job: #1a8a5a;
+  --signal-sheriff: #1a6a9a;
+  --signal-comms: #5a4fa5;
+  --signal-budget: #8a3fa5;
+  --signal-realestate: #a53f7a;
+  --signal-legislative: #4f5a6a;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-size: 15px;
+  color: var(--text-primary);
+  background: var(--bg-content);
+  -webkit-font-smoothing: antialiased;
+}
+
+ 
+.site-header {
+  background: var(--bg-deep);
+  color: var(--text-light);
+  padding: 0;
+  position: sticky; top: 0; z-index: 100;
+}
+.site-header-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.site-brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; }
+.site-brand h1 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 18px; font-weight: 400; color: var(--text-light);
+  letter-spacing: -0.01em;
+}
+.site-brand .brand-tag {
+  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--accent);
+  background: rgba(201,59,59,0.12); padding: 2px 6px;
+  border: 1px solid rgba(201,59,59,0.2); border-radius: 2px;
+}
+.site-nav { display: flex; gap: 4px; align-items: center; }
+.site-nav a {
+  font-size: 13px; color: rgba(232,230,225,0.5); text-decoration: none;
+  padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
+  font-weight: 400;
+}
+.site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.site-nav a.active { color: var(--text-light); background: rgba(255,255,255,0.08); }
+
+ 
+.breadcrumb {
+  max-width: 1200px; margin: 0 auto; padding: 14px 24px 0;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; color: var(--text-dim);
+}
+.breadcrumb a { color: var(--text-dim); text-decoration: none; }
+.breadcrumb a:hover { color: var(--text-secondary); }
+.breadcrumb .sep { margin: 0 6px; opacity: 0.4; }
+
+ 
+.page-content {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 60px;
+}
+
+ 
+.site-footer {
+  background: var(--bg-deep); color: rgba(232,230,225,0.4);
+  padding: 32px 24px; text-align: center;
+  font-size: 11px; line-height: 1.8;
+}
+.site-footer a { color: rgba(232,230,225,0.5); text-decoration: none; }
+.site-footer a:hover { color: var(--text-light); }
+.footer-inner { max-width: 1200px; margin: 0 auto; }
+.footer-links { display: flex; gap: 16px; justify-content: center; margin-bottom: 8px; }
+
+ 
+.signal-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  flex-shrink: 0; vertical-align: middle;
+}
+.signal-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; padding: 3px 8px;
+  border-radius: 3px; background: rgba(0,0,0,0.04);
+  border: 1px solid var(--border); color: var(--text-secondary);
+}
+.score-pill {
+  font-family: 'DM Mono', monospace; font-weight: 500;
+  display: inline-block; padding: 2px 8px; border-radius: 3px;
+  font-size: 13px;
+}
+.score-hot { color: var(--accent-hot); background: rgba(232,69,69,0.08); }
+.score-warm { color: var(--accent-warm); background: rgba(212,106,47,0.08); }
+.score-mid { color: var(--text-secondary); background: rgba(0,0,0,0.04); }
+.score-low { color: var(--text-dim); background: rgba(0,0,0,0.03); }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500; padding: 8px 16px;
+  border-radius: 4px; text-decoration: none; cursor: pointer;
+  border: 1px solid var(--border); color: var(--text-secondary);
+  background: white; transition: all 0.12s;
+}
+.btn:hover { border-color: var(--text-dim); color: var(--text-primary); }
+.btn-accent {
+  background: var(--accent); color: white; border-color: var(--accent);
+}
+.btn-accent:hover { background: var(--accent-hot); border-color: var(--accent-hot); color: white; }
+.btn-sm { font-size: 11px; padding: 5px 10px; }
+.btn svg { width: 14px; height: 14px; }
+
+.mono { font-family: 'DM Mono', monospace; }
+.serif { font-family: 'Instrument Serif', Georgia, serif; }
+.dim { color: var(--text-dim); }
+.small { font-size: 11px; }
+
+ 
+.data-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.data-table th {
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--text-dim); text-align: left;
+  padding: 8px 10px; border-bottom: 2px solid var(--border);
+}
+.data-table td {
+  padding: 8px 10px; border-bottom: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.data-table tr:hover td { background: rgba(0,0,0,0.02); }
+.data-table a { color: var(--text-primary); text-decoration: none; }
+.data-table a:hover { text-decoration: underline; }
+
+ 
+.card {
+  background: white; border: 1px solid var(--border); border-radius: 5px;
+  padding: 16px 20px; margin-bottom: 12px; transition: border-color 0.12s;
+}
+.card:hover { border-color: var(--text-dim); }
+.card a { text-decoration: none; color: inherit; }
+.card-title { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
+.card-meta { font-size: 12px; color: var(--text-dim); }
+
+ 
+.nav-group { position: relative; }
+.nav-group-trigger {
+  cursor: pointer; display: inline-flex; align-items: center; gap: 3px;
+  font-size: 13px; color: rgba(232,230,225,0.5); padding: 6px 12px;
+  border-radius: 3px; transition: all 0.12s; background: none; border: none;
+  font-family: inherit; font-weight: 400;
+}
+.nav-group-trigger:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.nav-group-trigger::after {
+  content: ''; display: inline-block; width: 0; height: 0;
+  border-left: 3.5px solid transparent; border-right: 3.5px solid transparent;
+  border-top: 4px solid currentColor; margin-left: 2px; opacity: 0.5;
+}
+.nav-dropdown {
+  display: none; position: absolute; top: calc(100% + 4px); left: 0;
+  background: var(--bg-panel); border: 1px solid var(--border-dark);
+  border-radius: 5px; padding: 6px 0; min-width: 190px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5); z-index: 110;
+}
+.nav-group:hover .nav-dropdown { display: block; }
+.nav-dropdown a {
+  display: block; padding: 7px 16px; font-size: 13px;
+  color: rgba(232,230,225,0.55); white-space: nowrap; text-decoration: none;
+  transition: all 0.1s;
+}
+.nav-dropdown a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+
+ 
+.nav-start {
+  background: var(--accent) !important; color: white !important;
+  border-radius: 3px; font-weight: 500; font-size: 12px !important;
+  padding: 5px 12px !important; letter-spacing: 0.01em;
+}
+.nav-start:hover { background: var(--accent-hot) !important; }
+
+ 
+.hamburger { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+.hamburger span { display: block; width: 20px; height: 2px; background: var(--text-light); margin: 4px 0; }
+.mobile-nav { display: none; background: var(--bg-deep); padding: 8px 24px 16px; border-bottom: 1px solid var(--border-dark); }
+.mobile-nav.open { display: block; }
+.mobile-nav a { display: block; padding: 8px 0; color: rgba(232,230,225,0.6); text-decoration: none; font-size: 14px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.mobile-nav a:hover { color: var(--text-light); }
+.mobile-nav-group-label {
+  display: block; padding: 10px 0 4px; color: rgba(232,230,225,0.3);
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em;
+  text-transform: uppercase; border-bottom: none; cursor: default;
+}
+.mobile-nav .nav-start-mobile {
+  display: inline-block; margin-top: 10px; padding: 10px 20px;
+  background: var(--accent); color: white; border-radius: 4px;
+  font-weight: 500; font-size: 14px; border-bottom: none;
+}
+
+@media (max-width: 768px) {
+  .hamburger { display: block; }
+  .site-nav { display: none; }
+  .site-header-inner { padding: 10px 16px; }
+  .page-content { padding: 0 16px 40px; }
+  .breadcrumb { padding: 10px 16px 0; }
+  .data-table { font-size: 11px; }
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Detention Pipeline",
+  "url": "https://detention-pipeline.transparencycascade.org/",
+  "description": "Early-warning system for ICE detention facility expansion"
+}
+</script>
+
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<style>
+  .states-map-wrap { width:100%; height:420px; position:relative; overflow:hidden; background:#0a0a0f; border-radius:5px; border:1px solid var(--border); margin-bottom:24px; }
+  .states-map-wrap svg { width:100%; height:100%; }
+  .state-shape { stroke:rgba(42,42,53,0.8); stroke-width:0.6; cursor:pointer; transition:stroke-width 0.1s, fill 0.15s; }
+  .state-shape:hover { stroke:#e8e6e1; stroke-width:1.5; }
+  .nation-border { fill:none; stroke:#55535e; stroke-width:0.8; pointer-events:none; }
+  #state-tip { position:fixed; z-index:200; pointer-events:none; opacity:0; transition:opacity 0.1s; }
+  #state-tip.vis { opacity:1; }
+  .st-tip-in { background:#111118; border:1px solid #353542; border-radius:5px; box-shadow:0 4px 20px rgba(0,0,0,0.5); color:#e8e6e1; padding:10px 14px; min-width:160px; }
+  .st-tip-name { font-family:'Instrument Serif',serif; font-size:16px; margin-bottom:3px; }
+  .st-tip-meta { font-family:'DM Mono',monospace; font-size:10px; color:#8a8892; line-height:1.6; }
+  .st-tip-stat { color:#e8e6e1; font-weight:500; }
+  #state-map-legend { position:absolute; bottom:10px; left:10px; background:#111118; border:1px solid #2a2a35; border-radius:3px; padding:6px 10px; display:flex; align-items:center; gap:8px; }
+  .sml-label { font-family:'DM Mono',monospace; font-size:8px; letter-spacing:0.08em; text-transform:uppercase; color:#55535e; }
+  .sml-bar { display:flex; gap:1px; }
+  .sml-cell { width:14px; height:8px; border-radius:1px; }
+</style>
+
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="site-brand">
+      <h1>Detention Pipeline</h1>
+      <span class="brand-tag">Early Warning</span>
+    </a>
+    <nav class="site-nav">
+      <a href="/map/" >Map</a>
+      <a href="/fights/" >Fights</a>
+      <a href="/pipeline/" >Pipeline</a>
+      <div class="nav-group">
+        <button class="nav-group-trigger active">Investigate</button>
+        <div class="nav-dropdown">
+          <a href="/county/">Counties</a>
+          <a href="/state/">By State</a>
+          <a href="/signals/">By Signal Type</a>
+          <a href="/timeline/">Timeline</a>
+          <a href="/players/">Players</a>
+          <a href="/network/">Network</a>
+          <a href="/facilities/">Facilities</a>
+          <a href="/foia/">FOIA Generator</a>
+        </div>
+      </div>
+      <a href="/tactics/" >Tactics</a>
+      <div class="nav-group">
+        <button class="nav-group-trigger ">Help Build</button>
+        <div class="nav-dropdown">
+          <a href="/contribute/">Contribute</a>
+          <a href="/resources/">Resources</a>
+          <a href="/coverage/">Coverage Gaps</a>
+          <a href="/methodology/">Methodology</a>
+        </div>
+      </div>
+      <a href="/start/" class="nav-start">Start Here</a>
+    </nav>
+    <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+<div class="mobile-nav" id="mobile-nav">
+  <a href="/start/" class="nav-start-mobile">Start Here →</a>
+  <a href="/map/">Map</a>
+  <a href="/fights/">Fights</a>
+  <a href="/pipeline/">Pipeline</a>
+  <a href="/tactics/">Tactics</a>
+  <span class="mobile-nav-group-label">Investigate</span>
+  <a href="/county/" style="padding-left:12px;">Counties</a>
+  <a href="/state/" style="padding-left:12px;">By State</a>
+  <a href="/signals/" style="padding-left:12px;">By Signal Type</a>
+  <a href="/timeline/" style="padding-left:12px;">Timeline</a>
+  <a href="/players/" style="padding-left:12px;">Players</a>
+  <a href="/network/" style="padding-left:12px;">Network</a>
+  <a href="/facilities/" style="padding-left:12px;">Facilities</a>
+  <a href="/foia/" style="padding-left:12px;">FOIA Generator</a>
+  <span class="mobile-nav-group-label">Help Build</span>
+  <a href="/contribute/" style="padding-left:12px;">Contribute</a>
+  <a href="/resources/" style="padding-left:12px;">Resources</a>
+  <a href="/coverage/" style="padding-left:12px;">Coverage Gaps</a>
+  <a href="/methodology/" style="padding-left:12px;">Methodology</a>
+</div>
+
+
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>States
+</div>
+<div class="page-content" style="max-width:1200px;">
+  <div style="padding-top:24px; margin-bottom:16px;">
+    <h1 class="serif" style="font-size:30px; font-weight:400; margin-bottom:4px;">By State</h1>
+    <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.5;">
+      Signal density across 72 states. Click a state to see its county breakdown.
+    </p>
+  </div>
+
+  <div class="states-map-wrap" id="states-map-wrap">
+    <div id="state-map-legend">
+      <span class="sml-label">Entries</span>
+      <div class="sml-bar" id="sml-bar"></div>
+    </div>
+  </div>
+  <div id="state-tip"><div class="st-tip-in" id="st-tip-in"></div></div>
+
+  <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(240px, 1fr)); gap:8px;">
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/fl/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Florida</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">FL</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">63</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">396</span> entries</span>
+          
+          <span>max <span class="score-pill score-hot" style="font-size:10px; padding:1px 5px;">129</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/tx/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Texas</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">TX</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">186</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">369</span> entries</span>
+          
+          <span>max <span class="score-pill score-hot" style="font-size:10px; padding:1px 5px;">99</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ga/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Georgia</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">GA</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">52</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">97</span> entries</span>
+          
+          <span>max <span class="score-pill score-hot" style="font-size:10px; padding:1px 5px;">110</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/pa/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Pennsylvania</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">PA</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">35</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">77</span> entries</span>
+          
+          <span>max <span class="score-pill score-warm" style="font-size:10px; padding:1px 5px;">41</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/al/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Alabama</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">AL</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">31</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">65</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">32</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ca/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">California</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">CA</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">15</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">61</span> entries</span>
+          
+          <span>max <span class="score-pill score-hot" style="font-size:10px; padding:1px 5px;">74</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/la/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Louisiana</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">LA</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">24</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">59</span> entries</span>
+          
+          <span>max <span class="score-pill score-hot" style="font-size:10px; padding:1px 5px;">74</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/mo/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Missouri</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">MO</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">27</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">56</span> entries</span>
+          
+          <span>max <span class="score-pill score-warm" style="font-size:10px; padding:1px 5px;">65</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/tn/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Tennessee</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">TN</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">41</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">53</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">24</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ny/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">New York</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">NY</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">31</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">51</span> entries</span>
+          
+          <span>max <span class="score-pill score-warm" style="font-size:10px; padding:1px 5px;">41</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/va/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Virginia</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">VA</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">30</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">51</span> entries</span>
+          
+          <span>max <span class="score-pill score-hot" style="font-size:10px; padding:1px 5px;">75</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ar/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Arkansas</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">AR</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">24</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">43</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">31</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/nc/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">North Carolina</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">NC</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">26</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">43</span> entries</span>
+          
+          <span>max <span class="score-pill score-warm" style="font-size:10px; padding:1px 5px;">58</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ok/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Oklahoma</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">OK</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">18</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">38</span> entries</span>
+          
+          <span>max <span class="score-pill score-warm" style="font-size:10px; padding:1px 5px;">49</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/az/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Arizona</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">AZ</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">9</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">36</span> entries</span>
+          
+          <span>max <span class="score-pill score-hot" style="font-size:10px; padding:1px 5px;">107</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ks/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Kansas</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">KS</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">24</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">36</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">31</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/co/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Colorado</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">CO</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">23</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">34</span> entries</span>
+          
+          <span>max <span class="score-pill score-warm" style="font-size:10px; padding:1px 5px;">44</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/sc/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">South Carolina</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">SC</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">19</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">32</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">21</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ky/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Kentucky</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">KY</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">20</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">31</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">31</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/nm/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">New Mexico</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">NM</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">15</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">27</span> entries</span>
+          
+          <span>max <span class="score-pill score-warm" style="font-size:10px; padding:1px 5px;">45</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/mt/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Montana</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">MT</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">19</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">25</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">32</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/wy/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Wyoming</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">WY</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">16</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">25</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">21</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/w.-va./">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">W. Va.</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">W. Va.</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">24</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/mi/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Michigan</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">MI</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">11</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">23</span> entries</span>
+          
+          <span>max <span class="score-pill score-hot" style="font-size:10px; padding:1px 5px;">122</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ut/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Utah</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">UT</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">14</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">23</span> entries</span>
+          
+          <span>max <span class="score-pill score-warm" style="font-size:10px; padding:1px 5px;">49</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/mn/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Minnesota</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">MN</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">13</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">22</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">24</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/wi/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Wisconsin</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">WI</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">19</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">22</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">14</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ms/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Mississippi</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">MS</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">12</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">20</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">35</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/oh/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Ohio</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">OH</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">14</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">20</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">24</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/in/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Indiana</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">IN</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">11</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">19</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">31</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/nd/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">North Dakota</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">ND</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">15</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">19</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">21</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/id/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Idaho</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">ID</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">13</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">17</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">24</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/nj/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">New Jersey</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">NJ</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">10</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">17</span> entries</span>
+          
+          <span>max <span class="score-pill score-warm" style="font-size:10px; padding:1px 5px;">44</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/wa/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Washington</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">WA</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">13</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">17</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">24</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/nh/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">New Hampshire</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">NH</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">5</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">16</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">31</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/il/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Illinois</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">IL</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">7</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">14</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">34</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/md/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Maryland</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">MD</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">12</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">14</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">24</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ne/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Nebraska</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">NE</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">10</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">14</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">24</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ak/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Alaska</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">AK</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">8</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">12</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">34</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/sd/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">South Dakota</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">SD</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">8</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">12</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">31</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/or/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Oregon</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">OR</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">10</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">11</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">20</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/florida/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Florida</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Florida</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">8</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ma/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Massachusetts</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">MA</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">7</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">8</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">17</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/wv/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">West Virginia</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">WV</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">5</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">8</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">15</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/arizona/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Arizona</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Arizona</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">6</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/nv/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Nevada</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">NV</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">5</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">5</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">10</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/texas/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Texas</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Texas</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">5</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/new-jersey/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">New Jersey</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">New Jersey</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">4</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/vt/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Vermont</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">VT</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">4</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">4</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">10</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/georgia/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Georgia</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Georgia</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">3</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ia/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Iowa</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">IA</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">2</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">3</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">17</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/me/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Maine</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">ME</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">3</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">3</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">10</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/michigan/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Michigan</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Michigan</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">3</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/pennsylvania/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Pennsylvania</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Pennsylvania</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">3</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ct/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Connecticut</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">CT</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">2</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">2</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">10</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/louisiana/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Louisiana</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Louisiana</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">2</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/maryland/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Maryland</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Maryland</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">2</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/missouri/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Missouri</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Missouri</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">2</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/new-hampshire/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">New Hampshire</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">New Hampshire</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">2</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/utah/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Utah</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Utah</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">2</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/california/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">California</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">California</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/cuba-us-naval-base/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Cuba (US Naval Base)</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Cuba (US Naval Base)</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/de/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Delaware</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">DE</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">10</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/gu/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">GU</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">GU</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">10</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/indiana/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Indiana</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Indiana</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/kansas/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Kansas</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Kansas</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/minnesota/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Minnesota</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Minnesota</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/oklahoma/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Oklahoma</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Oklahoma</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/pr/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">PR</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">PR</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">10</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/ri/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Rhode Island</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">RI</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">10</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/vi/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">VI</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">VI</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+          <span>max <span class="score-pill score-mid" style="font-size:10px; padding:1px 5px;">10</span></span>
+          
+        </div>
+      </a>
+    </div>
+  
+    
+    
+    
+    
+    
+    <div class="card" style="padding:12px 16px;">
+      <a href="/state/virginia/">
+        <div style="display:flex; justify-content:space-between; align-items:baseline;">
+          <div class="card-title" style="font-size:14px;">Virginia</div>
+          <span class="mono" style="font-size:10px; color:var(--text-dim);">Virginia</span>
+        </div>
+        <div style="display:flex; gap:12px; margin-top:6px; font-size:11px; color:var(--text-dim);">
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">0</span> counties</span>
+          <span><span class="mono" style="color:var(--text-secondary); font-weight:500;">1</span> entries</span>
+          
+        </div>
+      </a>
+    </div>
+  
+  </div>
+</div>
+
+<script>
+(function(){
+  
+  const SFIPS = {"01":"AL","02":"AK","04":"AZ","05":"AR","06":"CA","08":"CO","09":"CT","10":"DE","11":"DC","12":"FL","13":"GA","15":"HI","16":"ID","17":"IL","18":"IN","19":"IA","20":"KS","21":"KY","22":"LA","23":"ME","24":"MD","25":"MA","26":"MI","27":"MN","28":"MS","29":"MO","30":"MT","31":"NE","32":"NV","33":"NH","34":"NJ","35":"NM","36":"NY","37":"NC","38":"ND","39":"OH","40":"OK","41":"OR","42":"PA","44":"RI","45":"SC","46":"SD","47":"TN","48":"TX","49":"UT","50":"VT","51":"VA","53":"WA","54":"WV","55":"WI","56":"WY","72":"PR"};
+  const SNAMES = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut","DE":"Delaware","DC":"District of Columbia","FL":"Florida","GA":"Georgia","HI":"Hawaii","ID":"Idaho","IL":"Illinois","IN":"Indiana","IA":"Iowa","KS":"Kansas","KY":"Kentucky","LA":"Louisiana","ME":"Maine","MD":"Maryland","MA":"Massachusetts","MI":"Michigan","MN":"Minnesota","MS":"Mississippi","MO":"Missouri","MT":"Montana","NE":"Nebraska","NV":"Nevada","NH":"New Hampshire","NJ":"New Jersey","NM":"New Mexico","NY":"New York","NC":"North Carolina","ND":"North Dakota","OH":"Ohio","OK":"Oklahoma","OR":"Oregon","PA":"Pennsylvania","RI":"Rhode Island","SC":"South Carolina","SD":"South Dakota","TN":"Tennessee","TX":"Texas","UT":"Utah","VT":"Vermont","VA":"Virginia","WA":"Washington","WV":"West Virginia","WI":"Wisconsin","WY":"Wyoming"};
+
+  async function init(){
+    const [topo, heat] = await Promise.all([
+      d3.json('/counties-albers-10m.json'),
+      d3.json('/heat_data.json')
+    ]);
+
+    
+    const byState = {};
+    heat.forEach(c => {
+      if(!byState[c.state]) byState[c.state] = {entries:0, counties:0, maxScore:0, fights:0};
+      byState[c.state].counties++;
+      const eCnt = Object.values(c.signals).reduce((s,v) => s + v.count, 0);
+      byState[c.state].entries += eCnt;
+      if(c.score > byState[c.state].maxScore) byState[c.state].maxScore = c.score;
+    });
+
+    const maxEntries = d3.max(Object.values(byState), d => d.entries) || 1;
+
+    function fillColor(st) {
+      const d = byState[st];
+      if(!d || d.entries === 0) return '#12121a';
+      const t = Math.pow(d.entries / maxEntries, 0.4);
+      return d3.interpolateRgb('#1a1520', '#c93b3b')(t);
+    }
+
+    
+    const lb = document.getElementById('sml-bar');
+    for(let i=0;i<=8;i++){
+      const c=document.createElement('div');
+      c.className='sml-cell';
+      c.style.background = d3.interpolateRgb('#1a1520','#c93b3b')(i/8);
+      lb.appendChild(c);
+    }
+
+    
+    const el = document.getElementById('states-map-wrap');
+    const w = el.clientWidth, h = el.clientHeight;
+    const svg = d3.select('#states-map-wrap').append('svg').attr('width',w).attr('height',h);
+    const g = svg.append('g');
+    const mW=1016,mH=594,s0=Math.min(w/mW,h/mH)*0.92;
+    const tx=(w-mW*s0)/2-(-58)*s0,ty=(h-mH*s0)/2-13*s0;
+    g.attr('transform', `translate(${tx},${ty}) scale(${s0})`);
+
+    const states = topojson.feature(topo, topo.objects.states);
+    const path = d3.geoPath();
+    const tip = document.getElementById('state-tip');
+    const tipIn = document.getElementById('st-tip-in');
+
+    g.selectAll('.state-shape').data(states.features).join('path')
+      .attr('class','state-shape').attr('d',path)
+      .attr('fill', d => {
+        const sfips = d.id.toString().padStart(2,'0');
+        const abbr = SFIPS[sfips];
+        return fillColor(abbr);
+      })
+      .on('mouseenter',(e,d) => {
+        const sfips = d.id.toString().padStart(2,'0');
+        const abbr = SFIPS[sfips];
+        const name = SNAMES[abbr] || abbr;
+        const info = byState[abbr];
+        if(info){
+          tipIn.innerHTML = '<div class="st-tip-name">'+name+'</div>'+
+            '<div class="st-tip-meta">'+
+            '<span class="st-tip-stat">'+info.counties+'</span> counties tracked<br>'+
+            '<span class="st-tip-stat">'+info.entries+'</span> entries<br>'+
+            'Max score: <span class="st-tip-stat">'+info.maxScore+'</span></div>';
+        } else {
+          tipIn.innerHTML = '<div class="st-tip-name">'+name+'</div><div class="st-tip-meta">No signals tracked</div>';
+        }
+        moveTip(e); tip.classList.add('vis');
+      })
+      .on('mousemove', e => moveTip(e))
+      .on('mouseleave', () => tip.classList.remove('vis'))
+      .on('click',(e,d) => {
+        const sfips = d.id.toString().padStart(2,'0');
+        const abbr = SFIPS[sfips];
+        if(abbr && SNAMES[abbr]) window.location.href = '/state/' + abbr.toLowerCase() + '/';
+      });
+
+    g.append('path').datum(topojson.mesh(topo,topo.objects.nation)).attr('class','nation-border').attr('d',path);
+
+    function moveTip(ev){
+      let x=ev.clientX+12,y=ev.clientY+12;
+      if(x+tip.offsetWidth>window.innerWidth-12) x=ev.clientX-tip.offsetWidth-12;
+      if(y+tip.offsetHeight>window.innerHeight-12) y=ev.clientY-tip.offsetHeight-12;
+      tip.style.left=x+'px';tip.style.top=y+'px';
+    }
+  }
+  init();
+})();
+</script>
+
+
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div style="margin-bottom:10px;">
+      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm); font-size:12px; font-weight:500;">Read the investigation at The RAMM →</a>
+    </div>
+    <div class="footer-links">
+      <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
+      <a href="/methodology/">Methodology</a>
+      <a href="/contribute/">Contribute</a>
+      <a href="https://theramm.substack.com">The RAMM</a>
+    </div>
+    <div>CC-BY-SA 4.0 · Built by <a href="https://theramm.substack.com">The RAMM</a></div>
+  </div>
+</footer>
+
+<script>document.getElementById('hamburger').onclick=function(){document.getElementById('mobile-nav').classList.toggle('open')};</script>
+</body>
+</html>

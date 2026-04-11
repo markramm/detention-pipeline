@@ -1,0 +1,16 @@
+{
+  "fips": "06059",
+  "county": "Orange County, CA",
+  "state": "CA",
+  "score": 74,
+  "signal_types": 2,
+  "rank": 19,
+  "total_counties": 986,
+  "percentile": 98,
+  "coverage": "unresearched",
+  "auto_summary": "Orange County, CA shows 6 existing IGSA facilities, and 3 ANC contracts.",
+  "entry_types": {
+    "anc-contract": 3,
+    "igsa": 6
+  }
+}

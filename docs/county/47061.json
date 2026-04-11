@@ -1,0 +1,15 @@
+{
+  "fips": "47061",
+  "county": "Grundy County, TN",
+  "state": "TN",
+  "score": 14,
+  "signal_types": 1,
+  "rank": 744,
+  "total_counties": 986,
+  "percentile": 25,
+  "coverage": "unresearched",
+  "auto_summary": "Grundy County, TN shows 2 287(g) agreements.",
+  "entry_types": {
+    "287g-agreement": 2
+  }
+}
