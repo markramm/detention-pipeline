@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>{{ .Title }}
+</div>
+<div class="page-content">
+  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 16px;">{{ .Title }}</h1>
+  {{ range .Pages }}
+  <div class="card">
+    <a href="{{ .RelPermalink }}">
+      <div class="card-title">{{ .Title }}</div>
+    </a>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

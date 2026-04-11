@@ -411,11 +411,13 @@ def generate_all_pages(parsed_entries, heat_data):
             fm["type"] = "entry"
             fm["layout"] = "single"
 
-        # Clean body: strip leading H1 (title is rendered by template) and resolve wikilinks
+        # Clean body: strip ALL H1 lines (title is rendered by template) and resolve wikilinks
         clean_body = body
-        # Remove leading H1 lines (# Title)
         lines = clean_body.split("\n")
-        while lines and (lines[0].startswith("# ") or lines[0].strip() == ""):
+        # Remove all lines that are H1 headings (# Title)
+        lines = [l for l in lines if not (l.startswith("# ") and not l.startswith("## "))]
+        # Also strip leading blank lines
+        while lines and lines[0].strip() == "":
             lines.pop(0)
         clean_body = "\n".join(lines)
         resolved_body = resolve_wikilinks(clean_body)

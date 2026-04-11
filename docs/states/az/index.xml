@@ -1,1 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AZ on Detention Pipeline</title><link>https://detention-pipeline.transparencycascade.org/states/az/</link><description>Recent content in AZ on Detention Pipeline</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://detention-pipeline.transparencycascade.org/states/az/index.xml" rel="self" type="application/rss+xml"/><item><title>Cochise County, AZ</title><link>https://detention-pipeline.transparencycascade.org/county/04003/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/04003/</guid><description/></item><item><title>La Paz County, AZ</title><link>https://detention-pipeline.transparencycascade.org/county/04012/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/04012/</guid><description/></item><item><title>Maricopa County, AZ</title><link>https://detention-pipeline.transparencycascade.org/county/04013/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/04013/</guid><description/></item><item><title>Mohave County, AZ</title><link>https://detention-pipeline.transparencycascade.org/county/04015/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/04015/</guid><description/></item><item><title>Navajo County, AZ</title><link>https://detention-pipeline.transparencycascade.org/county/04017/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/04017/</guid><description/></item><item><title>Pima County, AZ</title><link>https://detention-pipeline.transparencycascade.org/county/04019/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/04019/</guid><description/></item><item><title>Pinal County, AZ</title><link>https://detention-pipeline.transparencycascade.org/county/04021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/04021/</guid><description/></item><item><title>Yavapai County, AZ</title><link>https://detention-pipeline.transparencycascade.org/county/04025/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/04025/</guid><description/></item><item><title>Yuma County, AZ</title><link>https://detention-pipeline.transparencycascade.org/county/04027/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/04027/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AZ on Detention Pipeline</title>
+    <link>https://detention-pipeline.transparencycascade.org/states/az/</link>
+    <description>Recent content in AZ on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://detention-pipeline.transparencycascade.org/states/az/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cochise County, AZ</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/04003/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/04003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La Paz County, AZ</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/04012/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/04012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maricopa County, AZ</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/04013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/04013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mohave County, AZ</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/04015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/04015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Navajo County, AZ</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/04017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/04017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pima County, AZ</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/04019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/04019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pinal County, AZ</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/04021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/04021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yavapai County, AZ</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/04025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/04025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuma County, AZ</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/04027/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/04027/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

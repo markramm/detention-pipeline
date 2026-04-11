@@ -1,1 +1,116 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NM on Detention Pipeline</title><link>https://detention-pipeline.transparencycascade.org/states/nm/</link><description>Recent content in NM on Detention Pipeline</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://detention-pipeline.transparencycascade.org/states/nm/index.xml" rel="self" type="application/rss+xml"/><item><title>Bernalillo County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35001/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35001/</guid><description/></item><item><title>Chaves County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35005/</guid><description/></item><item><title>Cibola County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35006/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35006/</guid><description/></item><item><title>Curry County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35009/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35009/</guid><description/></item><item><title>Doña Ana County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35013/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35013/</guid><description/></item><item><title>Eddy County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35015/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35015/</guid><description/></item><item><title>Hidalgo County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35023/</guid><description/></item><item><title>Luna County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35029/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35029/</guid><description/></item><item><title>McKinley County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35031/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35031/</guid><description/></item><item><title>Otero County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35035/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35035/</guid><description/></item><item><title>San Miguel County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35047/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35047/</guid><description/></item><item><title>Sandoval County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35043/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35043/</guid><description/></item><item><title>Santa Fe County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35049/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35049/</guid><description/></item><item><title>Torrance County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35057/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35057/</guid><description/></item><item><title>Union County, NM</title><link>https://detention-pipeline.transparencycascade.org/county/35059/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/35059/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NM on Detention Pipeline</title>
+    <link>https://detention-pipeline.transparencycascade.org/states/nm/</link>
+    <description>Recent content in NM on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://detention-pipeline.transparencycascade.org/states/nm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bernalillo County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chaves County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35005/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cibola County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35006/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35006/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curry County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Doña Ana County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eddy County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hidalgo County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Luna County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35029/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35029/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>McKinley County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35031/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35031/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Otero County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35035/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35035/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>San Miguel County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35047/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35047/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sandoval County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35043/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35043/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Santa Fe County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35049/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35049/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Torrance County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35057/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35057/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Union County, NM</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/35059/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/35059/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

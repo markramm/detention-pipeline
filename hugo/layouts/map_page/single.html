@@ -132,7 +132,7 @@ function showTip(ev,d){
   const f=d.id.toString().padStart(5,'0'),dd=H[f],nm=dd?dd.county:(FN[f]||'County '+f);
   if(dd){
     const rows=SO.filter(s=>dd.signals[s]).map(s=>`<div class="tip-row"><span class="signal-dot" style="background:${SIG[s].c}"></span>${SIG[s].l}<span class="tip-cnt">${dd.signals[s].count}</span></div>`).join('');
-    tipIn.innerHTML=`<div class="tip-head"><div><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div></div><div class="tip-score" style="color:${sc(dd.score)}">${dd.score}</div></div><div class="tip-sigs">${rows}</div><a href="/county/${f}/" class="tip-link">View county profile →</a>`;
+    tipIn.innerHTML=`<div class="tip-head"><div><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f} · Click to view</div></div><div class="tip-score" style="color:${sc(dd.score)}">${dd.score}</div></div><div class="tip-sigs">${rows}</div>`;
   } else {
     tipIn.innerHTML=`<div class="tip-empty"><div class="tip-county">${esc(nm)}</div><div class="tip-fips">FIPS ${f}</div><p>No pipeline signals detected</p></div>`;
   }

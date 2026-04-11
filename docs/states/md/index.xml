@@ -1,1 +1,95 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MD on Detention Pipeline</title><link>https://detention-pipeline.transparencycascade.org/states/md/</link><description>Recent content in MD on Detention Pipeline</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://detention-pipeline.transparencycascade.org/states/md/index.xml" rel="self" type="application/rss+xml"/><item><title>Allegany County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24001/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24001/</guid><description/></item><item><title>Anne Arundel County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24003/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24003/</guid><description/></item><item><title>Carroll County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24013/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24013/</guid><description/></item><item><title>Cecil County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24015/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24015/</guid><description/></item><item><title>Dorchester County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24019/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24019/</guid><description/></item><item><title>Frederick County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24021/</guid><description/></item><item><title>Garrett County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24023/</guid><description/></item><item><title>Harford County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24025/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24025/</guid><description/></item><item><title>Howard County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24027/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24027/</guid><description/></item><item><title>St. Mary's County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24037/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24037/</guid><description/></item><item><title>Wicomico County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24045/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24045/</guid><description/></item><item><title>Worcester County, MD</title><link>https://detention-pipeline.transparencycascade.org/county/24047/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/24047/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MD on Detention Pipeline</title>
+    <link>https://detention-pipeline.transparencycascade.org/states/md/</link>
+    <description>Recent content in MD on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://detention-pipeline.transparencycascade.org/states/md/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allegany County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anne Arundel County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24003/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Carroll County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cecil County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dorchester County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frederick County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Garrett County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Harford County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Howard County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24027/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24027/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>St. Mary&#39;s County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24037/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24037/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wicomico County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24045/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24045/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Worcester County, MD</title>
+      <link>https://detention-pipeline.transparencycascade.org/county/24047/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://detention-pipeline.transparencycascade.org/county/24047/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

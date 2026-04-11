@@ -232,8 +232,9 @@ function drawRevolvingDoor(data) {
     g.append('text').attr('x', n.x).attr('y', n.y - 12).attr('text-anchor', 'middle')
       .attr('class', 'rd-person-label').text(n.label);
     if (n.role) {
+      const roleText = n.role.length > 40 ? n.role.slice(0, 38) + '…' : n.role;
       g.append('text').attr('x', n.x).attr('y', n.y + 18).attr('text-anchor', 'middle')
-        .attr('class', 'rd-role-label').text(n.role);
+        .attr('class', 'rd-role-label').text(roleText);
     }
     g.on('mouseover', (e) => {
       showTip(e, `<div class="net-tip-title">${n.label}</div><div class="net-tip-meta">${n.role || ''}</div>`);
