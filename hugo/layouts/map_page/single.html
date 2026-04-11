@@ -114,14 +114,14 @@ async function init(){
   g.selectAll('.county').data(counties.features).join('path').attr('class','county').attr('d',d3.geoPath())
     .attr('fill',d=>{const f=d.id.toString().padStart(5,'0');const dd=H[f];return dd?hc(dd.score):'#12121a'})
     .on('mouseenter',(e,d)=>showTip(e,d)).on('mousemove',e=>moveTip(e)).on('mouseleave',hideTip)
-    .on('mousedown',function(){this._clickStart={x:event.clientX,y:event.clientY}})
+    .on('mousedown',function(e){this._clickStart={x:e.clientX,y:e.clientY}})
     .on('mouseup',function(e,d){
       const s=this._clickStart;
       if(!s)return;
-      const dx=e.clientX-s.x, dy=e.clientY-s.y;
-      if(Math.abs(dx)<5 && Math.abs(dy)<5){
+      const dx=Math.abs(e.clientX-s.x), dy=Math.abs(e.clientY-s.y);
+      if(dx<5 && dy<5){
         const f=d.id.toString().padStart(5,'0');
-        if(H[f]) window.location.href='/county/'+f+'/';
+        window.location.href='/county/'+f+'/';
       }
     });
   g.append('path').datum(topojson.mesh(topo,topo.objects.states,(a,b)=>a!==b)).attr('class','state-boundary').attr('d',d3.geoPath());
