@@ -177,8 +177,48 @@ function drawRevolvingDoor(data) {
     return linkedIds.has(nodeIdx);
   });
 
-  // Position nodes vertically — DHS on top (most officials), ICE below (Tae Johnson)
+  // Position nodes vertically — DHS on top (most officials), ICE below
   activeGov.sort((a, b) => (a.id === 'dhs' ? -1 : b.id === 'dhs' ? 1 : a.label.localeCompare(b.label)));
+
+  // Sort person nodes by which gov agency they connect to (minimizes line crossings)
+  const personGovMap = {};
+  data.links.forEach(link => {
+    if (link.type === 'government-service') {
+      const govNode = data.nodes[link.source];
+      const personNode = data.nodes[link.target];
+      // Map person to their gov agency's position in activeGov
+      const govIdx = activeGov.findIndex(g => g === govNode);
+      if (govIdx >= 0) personGovMap[personNode.id] = govIdx;
+    }
+  });
+  personNodes.sort((a, b) => {
+    const aGov = personGovMap[a.id] ?? 99;
+    const bGov = personGovMap[b.id] ?? 99;
+    if (aGov !== bGov) return aGov - bGov;
+    return a.label.localeCompare(b.label);
+  });
+
+  // Sort private sector nodes by where their incoming links come from (center column position)
+  const privPersonMap = {};
+  data.links.forEach(link => {
+    if (link.type === 'revolving-door') {
+      const personNode = data.nodes[link.source];
+      const privNode = data.nodes[link.target];
+      const personIdx = personNodes.findIndex(p => p === personNode);
+      if (personIdx >= 0) {
+        if (!(privNode.id in privPersonMap) || personIdx < privPersonMap[privNode.id]) {
+          privPersonMap[privNode.id] = personIdx;
+        }
+      }
+    }
+  });
+  activePriv.sort((a, b) => {
+    const aPos = privPersonMap[a.id] ?? 99;
+    const bPos = privPersonMap[b.id] ?? 99;
+    if (aPos !== bPos) return aPos - bPos;
+    return a.label.localeCompare(b.label);
+  });
+
   const usableH = H - padTop - padBottom;
   activeGov.forEach((n, i) => { n.x = colGov; n.y = padTop + (i + 0.5) * usableH / activeGov.length; });
   personNodes.forEach((n, i) => { n.x = colPerson; n.y = padTop + (i + 0.5) * usableH / personNodes.length; });
