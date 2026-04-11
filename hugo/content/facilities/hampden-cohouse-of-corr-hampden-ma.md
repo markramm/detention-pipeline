@@ -9,6 +9,7 @@ county: "Hampden"
 repo_path: "kb/facilities/hampden-cohouse-of-corr-hampden-ma.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hampden, MA."
+source_count: 1
 layout: "single"
 facility_name: "Hampden Co.House Of Corr."
 operator: ""

@@ -9,6 +9,7 @@ county: "Yavapai"
 repo_path: "kb/facilities/yavapai-county-jail-yavapai-az.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Yavapai, AZ."
+source_count: 1
 layout: "single"
 facility_name: "Yavapai County Jail"
 operator: ""

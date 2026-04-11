@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/people/tae-johnson.md"
 lastmod: "2026-04-10"
 summary: "Former Acting ICE Director (31 years ICE/INS) now at Sabot Consulting, advising counties on building IGSA detention facilities. GAO found his service violated the Federal Vacancies Reform Act."
+source_count: 3
 layout: "single"
 player_type: "person"
 role: "revolving"

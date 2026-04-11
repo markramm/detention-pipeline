@@ -9,6 +9,7 @@ county: "Lafayette County"
 repo_path: "kb/287g/287-g-wso-lafayette-county-sheriff-s-office-ar.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Lafayette County Sheriff’s Office, signed July 11, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

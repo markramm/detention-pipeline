@@ -1,5 +1,5 @@
 ---
-title: "Response Ai Solutions, Llc — Ice Hennepin, Mn $2,561,242"
+title: "Response Ai Solutions, LLC — ICE Hennepin, MN $2,561,242"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "HENNEPIN"
 repo_path: "kb/anc/response-ai-solutions-llc-ice-hennepin-mn-2561242.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to RESPONSE AI SOLUTIONS, LLC in MN ($2,561,242.44)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "West Baton Rouge"
 repo_path: "kb/facilities/west-baton-rouge-det-ctr-west-baton-rouge-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in West Baton Rouge, LA."
+source_count: 1
 layout: "single"
 facility_name: "West Baton Rouge Det Ctr"
 operator: ""

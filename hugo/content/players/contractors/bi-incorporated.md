@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/bi-incorporated.md"
 lastmod: "2026-04-06"
 summary: "BI Incorporated (GEO Group subsidiary) runs ICE's ankle monitor and SmartLINK surveillance program for 180,000+ people, plus a $121M skip-tracing contract to hunt non-compliant targets."
+source_count: 7
 layout: "single"
 player_type: "contractor"
 contractor_type: "monitoring"

@@ -9,6 +9,7 @@ county: "Reeves"
 repo_path: "kb/facilities/pecos-criminal-justice-center-reeves-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Reeves, TX."
+source_count: 1
 layout: "single"
 facility_name: "Pecos Criminal Justice Center"
 operator: ""

@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-florida-fish-wildlife-conservation-commission-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Florida Fish & Wildlife Conservation Commission, signed February 14, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

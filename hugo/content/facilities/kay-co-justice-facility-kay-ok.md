@@ -9,6 +9,7 @@ county: "Kay"
 repo_path: "kb/facilities/kay-co-justice-facility-kay-ok.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Kay, OK."
+source_count: 1
 layout: "single"
 facility_name: "Kay Co Justice Facility"
 operator: ""

@@ -9,6 +9,7 @@ county: "Maricopa"
 repo_path: "kb/industry/county-fights/surprise-az-ban.md"
 lastmod: "2026-04-06"
 summary: "Surprise AZ passed a 5-year ban on detention facilities after DHS bought a $70M+ warehouse without notice. Ban is unenforceable due to federal preemption -- illustrates limits of post-purchase resistance."
+source_count: 1
 type: "fights"
 layout: "single"
 status: "operational-despite-opposition"

@@ -1,5 +1,5 @@
 ---
-title: "Silas Frazier Realty, Llc — Ice Muscogee, Ga $563,333"
+title: "Silas Frazier Realty, LLC — ICE Muscogee, GA $563,333"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MUSCOGEE"
 repo_path: "kb/anc/silas-frazier-realty-llc-ice-muscogee-ga-563333.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to SILAS FRAZIER REALTY, LLC in GA ($563,333.29)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

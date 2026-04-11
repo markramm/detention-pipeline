@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/camp-east-montana-1-2b-contract.md"
 lastmod: "2026-04-06"
 summary: "$1.2B Army contract for a tent detention camp at Fort Bliss TX, awarded to a no-experience contractor at a Virginia residential address. Three deaths in first five months."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

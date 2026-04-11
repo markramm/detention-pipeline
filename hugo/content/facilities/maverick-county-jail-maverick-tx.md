@@ -9,6 +9,7 @@ county: "Maverick"
 repo_path: "kb/facilities/maverick-county-jail-maverick-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Maverick, TX."
+source_count: 1
 layout: "single"
 facility_name: "Maverick County Jail"
 operator: ""

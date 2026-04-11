@@ -9,6 +9,7 @@ county: "Pembina"
 repo_path: "kb/facilities/pembina-county-jail-pembina-nd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Pembina, ND."
+source_count: 1
 layout: "single"
 facility_name: "Pembina County Jail"
 operator: ""

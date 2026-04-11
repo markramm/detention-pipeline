@@ -9,6 +9,7 @@ county: "Walton"
 repo_path: "kb/industry/county-fights/social-circle-ga-water-shutoff.md"
 lastmod: "2026-04-06"
 summary: "Social Circle GA locked the water meter on a planned 10,000-bed mega center because its 1M gal/day sewage demand exceeded the city's 660K gal/day capacity. Tactic replicated in Salt Lake City."
+source_count: 1
 type: "fights"
 layout: "single"
 status: "blocked"

@@ -9,6 +9,7 @@ county: "Portage County"
 repo_path: "kb/287g/287-g-tfm-portage-county-sheriff-s-office-oh.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Portage County Sheriff’s Office, signed March 17, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

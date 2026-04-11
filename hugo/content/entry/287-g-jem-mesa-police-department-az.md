@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-jem-mesa-police-department-az.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Mesa Police Department, signed June 8, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

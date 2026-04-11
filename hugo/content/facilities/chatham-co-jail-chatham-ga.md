@@ -9,6 +9,7 @@ county: "Chatham"
 repo_path: "kb/facilities/chatham-co-jail-chatham-ga.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Chatham, GA."
+source_count: 1
 layout: "single"
 facility_name: "Chatham Co Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Duval"
 repo_path: "kb/real-estate/4300-bulls-bay-hwy-duval-fl-262750-sf.md"
 lastmod: "2026-04-10"
 summary: "263K SF available FDA-registered food-grade warehouse in Jacksonville, Duval FL. Owned by Total Distribution Inc."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

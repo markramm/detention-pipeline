@@ -9,6 +9,7 @@ county: "Montague County"
 repo_path: "kb/287g/287-g-wso-montague-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Montague County Sheriff’s Office, signed February 14, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

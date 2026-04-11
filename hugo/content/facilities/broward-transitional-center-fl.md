@@ -9,6 +9,7 @@ county: "Broward"
 repo_path: "kb/industry/facilities/broward-transitional-center-fl.md"
 lastmod: "2026-04-10"
 summary: "600-bed GEO Group facility in Pompano Beach FL running at 105-108% capacity with $42.9M/year contract. 911 calls doubled in 2025; one death in custody; 80% of detainees have no criminal record."
+source_count: 6
 layout: "single"
 facility_name: ""
 operator: "GEO Group"

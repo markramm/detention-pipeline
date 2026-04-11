@@ -9,6 +9,7 @@ county: "Kodiak Island"
 repo_path: "kb/facilities/kodiak-city-jail-kodiak-island-ak.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Kodiak Island, AK."
+source_count: 1
 layout: "single"
 facility_name: "Kodiak City Jail"
 operator: ""

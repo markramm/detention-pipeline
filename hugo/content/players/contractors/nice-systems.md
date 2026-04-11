@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/nice-systems.md"
 lastmod: "2026-04-06"
 summary: "NICE Systems is an Israeli company providing phone recording, keyword search, and video surveillance to US prisons and jails. Specific ICE contract not yet confirmed."
+source_count: 2
 layout: "single"
 player_type: "contractor"
 contractor_type: "surveillance-platform"

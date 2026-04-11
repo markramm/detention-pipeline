@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/anc/glock-inc-ice-ga-748296.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to GLOCK, INC. in GA ($748,296.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

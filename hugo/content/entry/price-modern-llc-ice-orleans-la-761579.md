@@ -1,5 +1,5 @@
 ---
-title: "Price Modern Llc — Ice Orleans, La $761,579"
+title: "Price Modern LLC — ICE Orleans, LA $761,579"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ORLEANS"
 repo_path: "kb/anc/price-modern-llc-ice-orleans-la-761579.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to PRICE MODERN LLC in LA ($761,578.61)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

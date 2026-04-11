@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/palantir-technologies.md"
 lastmod: "2026-04-06"
 summary: "Palantir builds ICE's core surveillance infrastructure: ImmigrationOS deportation pipeline, ELITE targeting app, and ICM case management. Total ICE contracts ~$287M."
+source_count: 9
 layout: "single"
 player_type: "contractor"
 contractor_type: "surveillance-platform"

@@ -9,6 +9,7 @@ county: "Tulsa"
 repo_path: "kb/facilities/tulsa-county-jail-tulsa-ok.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Tulsa, OK."
+source_count: 1
 layout: "single"
 facility_name: "Tulsa County Jail"
 operator: ""

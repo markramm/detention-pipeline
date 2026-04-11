@@ -9,6 +9,7 @@ county: "Kern"
 repo_path: "kb/industry/facilities/california-city-ca-corecivic.md"
 lastmod: "2026-04-06"
 summary: "2,560-bed CoreCivic facility in Kern County CA generating ~$100M/year under a two-year ICE contract. One of the largest private detention centers in the country, reactivated Aug 2025."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "CoreCivic"

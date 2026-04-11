@@ -1,5 +1,5 @@
 ---
-title: "Summome Native Ventures Llc — Ice Escambia, Al $3,852,258"
+title: "Summome Native Ventures LLC — ICE Escambia, AL $3,852,258"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ESCAMBIA"
 repo_path: "kb/anc/summome-native-ventures-llc-ice-escambia-al-3852258.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to SUMMOME NATIVE VENTURES LLC in AL ($3,852,257.74)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Jackson"
 repo_path: "kb/facilities/jackson-parish-correctional-center-jackson-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Jackson, LA."
+source_count: 1
 layout: "single"
 facility_name: "Jackson Parish Correctional Center"
 operator: ""

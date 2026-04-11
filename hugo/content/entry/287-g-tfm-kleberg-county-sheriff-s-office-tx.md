@@ -9,6 +9,7 @@ county: "Kleberg County"
 repo_path: "kb/287g/287-g-tfm-kleberg-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Kleberg County Sheriff’s Office, signed December 18, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

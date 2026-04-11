@@ -9,6 +9,7 @@ county: "Anchorage"
 repo_path: "kb/facilities/cook-inlet-pretrial-anch-anchorage-ak.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Anchorage, AK."
+source_count: 1
 layout: "single"
 facility_name: "Cook Inlet Pretrial, Anch"
 operator: ""

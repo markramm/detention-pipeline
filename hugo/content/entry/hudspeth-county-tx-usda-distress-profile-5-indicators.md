@@ -9,6 +9,7 @@ county: "Hudspeth"
 repo_path: "kb/budget/hudspeth-county-tx-usda-distress-profile-5-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Hudspeth, TX."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

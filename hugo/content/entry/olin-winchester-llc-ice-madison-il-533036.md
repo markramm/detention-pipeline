@@ -1,5 +1,5 @@
 ---
-title: "Olin Winchester Llc — Ice Madison, Il $533,036"
+title: "Olin Winchester LLC — ICE Madison, IL $533,036"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MADISON"
 repo_path: "kb/anc/olin-winchester-llc-ice-madison-il-533036.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to OLIN WINCHESTER LLC in IL ($533,036.16)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Ouachita"
 repo_path: "kb/facilities/richwood-cor-center-ouachita-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Ouachita, LA."
+source_count: 1
 layout: "single"
 facility_name: "Richwood Cor Center"
 operator: ""

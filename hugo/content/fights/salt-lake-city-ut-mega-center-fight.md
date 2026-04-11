@@ -9,6 +9,7 @@ county: "Salt Lake"
 repo_path: "kb/industry/county-fights/salt-lake-city-ut-mega-center-fight.md"
 lastmod: "2026-04-06"
 summary: "Community in Salt Lake City contested a $145.4M mega center for 7,500-10,000 beds. City imposed water restrictions following Social Circle model; purchase already completed limits options."
+source_count: 4
 type: "fights"
 layout: "single"
 status: "contested"

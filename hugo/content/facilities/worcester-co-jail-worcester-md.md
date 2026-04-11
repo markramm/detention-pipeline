@@ -9,6 +9,7 @@ county: "Worcester"
 repo_path: "kb/facilities/worcester-co-jail-worcester-md.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Worcester, MD."
+source_count: 1
 layout: "single"
 facility_name: "Worcester Co. Jail"
 operator: ""

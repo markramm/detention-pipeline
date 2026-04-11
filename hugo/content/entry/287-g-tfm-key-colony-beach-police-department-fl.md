@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-key-colony-beach-police-department-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Key Colony Beach Police Department, signed April 10, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

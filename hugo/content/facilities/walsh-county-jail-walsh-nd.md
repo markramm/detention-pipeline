@@ -9,6 +9,7 @@ county: "Walsh"
 repo_path: "kb/facilities/walsh-county-jail-walsh-nd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Walsh, ND."
+source_count: 1
 layout: "single"
 facility_name: "Walsh County Jail"
 operator: ""

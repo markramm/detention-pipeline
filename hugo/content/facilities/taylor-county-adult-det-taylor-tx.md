@@ -9,6 +9,7 @@ county: "Taylor"
 repo_path: "kb/facilities/taylor-county-adult-det-taylor-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Taylor, TX."
+source_count: 1
 layout: "single"
 facility_name: "Taylor County Adult Det."
 operator: ""

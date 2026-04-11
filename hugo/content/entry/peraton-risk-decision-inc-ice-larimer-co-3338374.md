@@ -1,5 +1,5 @@
 ---
-title: "Peraton Risk Decision Inc. — Ice Larimer, Co $3,338,374"
+title: "Peraton Risk Decision INC. — ICE Larimer, CO $3,338,374"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "LARIMER"
 repo_path: "kb/anc/peraton-risk-decision-inc-ice-larimer-co-3338374.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to PERATON RISK DECISION INC. in CO ($3,338,374.27)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

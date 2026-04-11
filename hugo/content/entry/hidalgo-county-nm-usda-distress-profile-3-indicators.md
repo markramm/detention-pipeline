@@ -9,6 +9,7 @@ county: "Hidalgo"
 repo_path: "kb/budget/hidalgo-county-nm-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Hidalgo, NM."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

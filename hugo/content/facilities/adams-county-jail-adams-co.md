@@ -9,6 +9,7 @@ county: "Adams"
 repo_path: "kb/facilities/adams-county-jail-adams-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Adams, CO."
+source_count: 1
 layout: "single"
 facility_name: "Adams County Jail"
 operator: ""

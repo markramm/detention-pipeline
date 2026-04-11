@@ -9,6 +9,7 @@ county: "Mohave"
 repo_path: "kb/facilities/mohave-co-corr-center-mohave-az.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Mohave, AZ."
+source_count: 1
 layout: "single"
 facility_name: "Mohave Co Corr Center"
 operator: ""

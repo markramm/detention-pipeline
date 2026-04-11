@@ -9,6 +9,7 @@ county: "Charlton"
 repo_path: "kb/facilities/folkston-d-ray-ice-processing-ctr-charlton-ga.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Charlton, GA."
+source_count: 1
 layout: "single"
 facility_name: "Folkston D Ray ICE Processing Ctr"
 operator: ""

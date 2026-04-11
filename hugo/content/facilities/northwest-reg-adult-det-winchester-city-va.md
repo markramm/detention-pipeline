@@ -9,6 +9,7 @@ county: "Winchester City"
 repo_path: "kb/facilities/northwest-reg-adult-det-winchester-city-va.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Winchester City, VA."
+source_count: 1
 layout: "single"
 facility_name: "Northwest Reg. Adult Det."
 operator: ""

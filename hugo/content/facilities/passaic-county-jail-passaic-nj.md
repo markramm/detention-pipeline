@@ -9,6 +9,7 @@ county: "Passaic"
 repo_path: "kb/facilities/passaic-county-jail-passaic-nj.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Passaic, NJ."
+source_count: 1
 layout: "single"
 facility_name: "Passaic County Jail"
 operator: ""

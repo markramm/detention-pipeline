@@ -9,6 +9,7 @@ county: "Stevens"
 repo_path: "kb/facilities/stevens-county-jail-stevens-wa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Stevens, WA."
+source_count: 1
 layout: "single"
 facility_name: "Stevens County Jail"
 operator: ""

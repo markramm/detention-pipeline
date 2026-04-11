@@ -9,6 +9,7 @@ county: "Union"
 repo_path: "kb/facilities/union-county-detention-center-union-nm.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Union, NM."
+source_count: 1
 layout: "single"
 facility_name: "Union County Detention Center"
 operator: ""

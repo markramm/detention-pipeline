@@ -9,6 +9,7 @@ county: "Sumner County"
 repo_path: "kb/287g/287-g-wso-sumner-county-sheriff-s-office-tn.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Sumner County Sheriff’s Office, signed April 29, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

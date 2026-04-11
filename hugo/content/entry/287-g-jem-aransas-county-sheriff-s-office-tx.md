@@ -9,6 +9,7 @@ county: "Aransas County"
 repo_path: "kb/287g/287-g-jem-aransas-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Aransas County Sheriff’s Office, signed June 8, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Rice"
 repo_path: "kb/facilities/rice-county-det-center-rice-ks.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Rice, KS."
+source_count: 1
 layout: "single"
 facility_name: "Rice County Det Center"
 operator: ""

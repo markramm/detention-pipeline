@@ -9,6 +9,7 @@ county: "Pima"
 repo_path: "kb/facilities/pima-county-jail-pima-az.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Pima, AZ."
+source_count: 1
 layout: "single"
 facility_name: "Pima County Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Pickens County"
 repo_path: "kb/287g/287-g-wso-pickens-county-sheriff-s-office-sc.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Pickens County Sheriff’s Office, signed May 22, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Armstrong County"
 repo_path: "kb/287g/287-g-tfm-east-franklin-township-police-department-pa.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and East Franklin Township Police Department, signed January 7, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Lake County"
 repo_path: "kb/287g/287-g-wso-lake-county-sheriff-s-office-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Lake County Sheriff’s Office, signed October 15, 2019."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

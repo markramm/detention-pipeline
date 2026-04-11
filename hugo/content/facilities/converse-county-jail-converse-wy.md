@@ -9,6 +9,7 @@ county: "Converse"
 repo_path: "kb/facilities/converse-county-jail-converse-wy.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Converse, WY."
+source_count: 1
 layout: "single"
 facility_name: "Converse County Jail"
 operator: ""

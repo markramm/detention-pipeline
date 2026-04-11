@@ -9,6 +9,7 @@ county: "Musselshell"
 repo_path: "kb/facilities/musselshell-county-jail-musselshell-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Musselshell, MT."
+source_count: 1
 layout: "single"
 facility_name: "Musselshell County Jail"
 operator: ""

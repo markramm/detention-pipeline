@@ -9,6 +9,7 @@ county: "Whitfield"
 repo_path: "kb/facilities/whitfield-county-jail-whitfield-ga.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Whitfield, GA."
+source_count: 1
 layout: "single"
 facility_name: "Whitfield County Jail"
 operator: ""

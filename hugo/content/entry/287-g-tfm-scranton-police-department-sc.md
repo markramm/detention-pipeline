@@ -9,6 +9,7 @@ county: "Florence County"
 repo_path: "kb/287g/287-g-tfm-scranton-police-department-sc.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Scranton Police Department, signed July 31, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

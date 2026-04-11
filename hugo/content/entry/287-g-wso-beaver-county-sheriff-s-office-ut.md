@@ -9,6 +9,7 @@ county: "Beaver County"
 repo_path: "kb/287g/287-g-wso-beaver-county-sheriff-s-office-ut.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Beaver County Sheriff’s Office, signed July 11, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

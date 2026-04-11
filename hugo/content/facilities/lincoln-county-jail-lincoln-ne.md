@@ -9,6 +9,7 @@ county: "Lincoln"
 repo_path: "kb/facilities/lincoln-county-jail-lincoln-ne.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Lincoln, NE."
+source_count: 1
 layout: "single"
 facility_name: "Lincoln County Jail"
 operator: ""

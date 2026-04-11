@@ -9,6 +9,7 @@ county: "Howard"
 repo_path: "kb/facilities/howard-county-det-cntr-howard-md.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Howard, MD."
+source_count: 1
 layout: "single"
 facility_name: "Howard County Det Cntr"
 operator: ""

@@ -9,6 +9,7 @@ county: "Broward"
 repo_path: "kb/facilities/broward-county-jail-broward-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Broward, FL."
+source_count: 1
 layout: "single"
 facility_name: "Broward County Jail"
 operator: ""

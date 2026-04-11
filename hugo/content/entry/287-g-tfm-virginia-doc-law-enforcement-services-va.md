@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-virginia-doc-law-enforcement-services-va.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Virginia DOC Law Enforcement Services, signed June 11, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

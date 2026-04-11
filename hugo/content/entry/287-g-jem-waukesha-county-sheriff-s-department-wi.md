@@ -9,6 +9,7 @@ county: "Waukesha County"
 repo_path: "kb/287g/287-g-jem-waukesha-county-sheriff-s-department-wi.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Waukesha County Sheriff’s Department, signed June 10, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

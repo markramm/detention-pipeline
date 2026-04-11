@@ -9,6 +9,7 @@ county: "Webb"
 repo_path: "kb/facilities/laredo-processing-center-webb-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Webb, TX."
+source_count: 1
 layout: "single"
 facility_name: "Laredo Processing Center"
 operator: ""

@@ -9,6 +9,7 @@ county: "Grayson County"
 repo_path: "kb/287g/287-g-tfm-grayson-county-sheriff-s-office-ky.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Grayson County Sheriff’s Office, signed March 5, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

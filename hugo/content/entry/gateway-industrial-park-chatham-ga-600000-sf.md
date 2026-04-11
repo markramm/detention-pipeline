@@ -9,6 +9,7 @@ county: "Chatham"
 repo_path: "kb/real-estate/gateway-industrial-park-chatham-ga-600000-sf.md"
 lastmod: "2026-04-10"
 summary: "600K SF available logistics property adjacent to Port of Savannah in Chatham County GA, owned by Stonemont Financial."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Harris"
 repo_path: "kb/real-estate/8251-liberty-rd-harris-tx-430000-sf.md"
 lastmod: "2026-04-10"
 summary: "430K SF spec warehouse in Houston, Harris County TX, completed 2025, $25M investment by First Industrial Realty Trust. Currently available."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Guam"
 repo_path: "kb/facilities/department-of-corrections-guam-gu.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Guam, GU."
+source_count: 1
 layout: "single"
 facility_name: "Department Of Corrections"
 operator: ""

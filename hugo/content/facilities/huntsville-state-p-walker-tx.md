@@ -9,6 +9,7 @@ county: "Walker"
 repo_path: "kb/facilities/huntsville-state-p-walker-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Walker, TX."
+source_count: 1
 layout: "single"
 facility_name: "Huntsville State P."
 operator: ""

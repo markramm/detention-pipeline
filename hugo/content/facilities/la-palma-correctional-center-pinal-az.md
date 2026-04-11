@@ -9,6 +9,7 @@ county: "Pinal"
 repo_path: "kb/facilities/la-palma-correctional-center-pinal-az.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Pinal, AZ."
+source_count: 1
 layout: "single"
 facility_name: "La Palma Correctional Center"
 operator: ""

@@ -1,5 +1,5 @@
 ---
-title: "L3Harris Technologies, Inc. — Ice Brevard, Fl $4,386,500"
+title: "L3Harris Technologies, INC. — ICE Brevard, FL $4,386,500"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BREVARD"
 repo_path: "kb/anc/l3harris-technologies-inc-ice-brevard-fl-4386500.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to L3HARRIS TECHNOLOGIES, INC. in FL ($4,386,500.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/financial-flows/palantir-admin-financial-ties.md"
 lastmod: "2026-04-08"
 summary: "142 Trump officials have Palantir financial ties, the largest conflict footprint of any detention contractor. Includes revolving-door hires at HHS, State, DOD, and both OMB procurement chiefs."
+source_count: 1
 layout: "single"
 player_type: "money"
 ---

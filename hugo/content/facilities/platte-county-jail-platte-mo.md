@@ -9,6 +9,7 @@ county: "Platte"
 repo_path: "kb/facilities/platte-county-jail-platte-mo.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Platte, MO."
+source_count: 1
 layout: "single"
 facility_name: "Platte County Jail"
 operator: ""

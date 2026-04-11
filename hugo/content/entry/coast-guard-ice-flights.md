@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/notes/coast-guard-ice-flights.md"
 lastmod: "2026-04-06"
 summary: "At least 324 Coast Guard flights diverted to ICE detainee transport in 2025, using C-27J Spartans and C-130s as feeders for Air Force deportation flights from hub airports."
+source_count: 5
 type: "entry"
 layout: "single"
 ---

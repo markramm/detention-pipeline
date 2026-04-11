@@ -9,6 +9,7 @@ county: "Broward"
 repo_path: "kb/jobs/sabot-ice-detention-consultant-fort-lauderdale-fl.md"
 lastmod: "2026-04-10"
 summary: "Sabot Consulting posting for ICE detention consultant in Fort Lauderdale (Broward County), with 'facility activation' language indicating a facility is being prepared for ICE use."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

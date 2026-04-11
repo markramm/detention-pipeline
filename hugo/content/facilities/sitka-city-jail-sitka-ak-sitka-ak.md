@@ -9,6 +9,7 @@ county: "Sitka"
 repo_path: "kb/facilities/sitka-city-jail-sitka-ak-sitka-ak.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Sitka, AK."
+source_count: 1
 layout: "single"
 facility_name: "Sitka City Jail, Sitka AK"
 operator: ""

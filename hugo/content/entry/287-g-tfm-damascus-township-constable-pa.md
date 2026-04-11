@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-damascus-township-constable-pa.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Damascus Township Constable, signed April 29, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

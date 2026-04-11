@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/clearview-ai.md"
 lastmod: "2026-04-06"
 summary: "Clearview AI provides ICE with facial recognition from a 50B+ image database via a $9.2M sole-source contract. Used with 'little apparent oversight' per WBEZ."
+source_count: 8
 layout: "single"
 player_type: "contractor"
 contractor_type: "surveillance-platform"

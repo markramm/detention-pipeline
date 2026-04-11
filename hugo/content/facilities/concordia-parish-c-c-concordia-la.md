@@ -9,6 +9,7 @@ county: "Concordia"
 repo_path: "kb/facilities/concordia-parish-c-c-concordia-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Concordia, LA."
+source_count: 1
 layout: "single"
 facility_name: "Concordia Parish C C"
 operator: ""

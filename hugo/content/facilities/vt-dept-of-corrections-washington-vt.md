@@ -9,6 +9,7 @@ county: "Washington"
 repo_path: "kb/facilities/vt-dept-of-corrections-washington-vt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Washington, VT."
+source_count: 1
 layout: "single"
 facility_name: "VT. Dept. Of Corrections"
 operator: ""

@@ -9,6 +9,7 @@ county: "Crook County"
 repo_path: "kb/287g/287-g-tfm-crook-county-sheriff-s-office-wy.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Crook County Sheriff’s Office, signed January 7, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Cabarrus"
 repo_path: "kb/facilities/cabarrus-county-jail-cabarrus-nc.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Cabarrus, NC."
+source_count: 1
 layout: "single"
 facility_name: "Cabarrus County Jail"
 operator: ""

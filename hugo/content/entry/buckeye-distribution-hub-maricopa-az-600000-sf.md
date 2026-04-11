@@ -9,6 +9,7 @@ county: "Maricopa"
 repo_path: "kb/real-estate/buckeye-distribution-hub-maricopa-az-600000-sf.md"
 lastmod: "2026-04-10"
 summary: "600K SF available logistics hub in Buckeye, Maricopa County AZ on I-10 corridor, owned by Trammell Crow. West Valley industrial area."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

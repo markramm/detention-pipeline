@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/notes/wexmac-titus-military-procurement-bypass.md"
 lastmod: "2026-04-08"
 summary: "WEXMAC-TITUS is a Navy contracting vehicle repurposed for ICE detention, expanded from $10B to $65B ceiling. Bypasses competitive bidding, appraisals, and transparency required under normal GSA procurement."
+source_count: 5
 type: "entry"
 layout: "single"
 ---

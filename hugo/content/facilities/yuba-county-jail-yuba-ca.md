@@ -9,6 +9,7 @@ county: "Yuba"
 repo_path: "kb/facilities/yuba-county-jail-yuba-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Yuba, CA."
+source_count: 1
 layout: "single"
 facility_name: "Yuba County Jail"
 operator: ""

@@ -1,5 +1,5 @@
 ---
-title: "Price Modern Llc — Ice Wayne, Mi $2,290,405"
+title: "Price Modern LLC — ICE Wayne, MI $2,290,405"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "WAYNE"
 repo_path: "kb/anc/price-modern-llc-ice-wayne-mi-2290405.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to PRICE MODERN LLC in MI ($2,290,405.45)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

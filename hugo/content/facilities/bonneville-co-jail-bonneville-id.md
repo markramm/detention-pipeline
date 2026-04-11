@@ -9,6 +9,7 @@ county: "Bonneville"
 repo_path: "kb/facilities/bonneville-co-jail-bonneville-id.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Bonneville, ID."
+source_count: 1
 layout: "single"
 facility_name: "Bonneville Co. Jail"
 operator: ""

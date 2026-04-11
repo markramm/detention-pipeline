@@ -1,5 +1,5 @@
 ---
-title: "Akima Infrastructure Protection Llc — Ice Cameron, Tx $45,072,574"
+title: "Akima Infrastructure Protection LLC — ICE Cameron, TX $45,072,574"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "CAMERON"
 repo_path: "kb/anc/akima-infrastructure-protection-llc-ice-cameron-tx-45072574.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to AKIMA INFRASTRUCTURE PROTECTION LLC in TX ($45,072,574.15)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

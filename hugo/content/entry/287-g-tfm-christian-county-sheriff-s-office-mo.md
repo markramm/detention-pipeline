@@ -9,6 +9,7 @@ county: "Christian County"
 repo_path: "kb/287g/287-g-tfm-christian-county-sheriff-s-office-mo.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Christian County Sheriff’s Office, signed July 7, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

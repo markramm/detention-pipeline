@@ -9,6 +9,7 @@ county: "Uinta"
 repo_path: "kb/sheriff/evanston-wy-uinta-county-repeated-detention-facility-pitches-2017-2020.md"
 lastmod: "2026-04-10"
 summary: "Uinta County WY hosted divisive detention facility pitches from MTC and CoreCivic 2017-2020; both withdrew after opposition. Same distressed corridor as Kemmerer."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

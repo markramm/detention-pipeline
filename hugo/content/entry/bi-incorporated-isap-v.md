@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/bi-incorporated-isap-v.md"
 lastmod: "2026-04-06"
 summary: "$1B sole-source contract for BI Inc (GEO subsidiary) to run ICE's ISAP V ankle monitor and SmartLINK surveillance program. ICE targets 180,000 on GPS monitors by 2026."
+source_count: 7
 type: "entry"
 layout: "single"
 ---

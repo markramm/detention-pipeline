@@ -1,5 +1,5 @@
 ---
-title: "Tli Construction, Inc. — Ice Talbot, Ga $3,067,675"
+title: "Tli Construction, INC. — ICE Talbot, GA $3,067,675"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "TALBOT"
 repo_path: "kb/anc/tli-construction-inc-ice-talbot-ga-3067675.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to TLI CONSTRUCTION, INC. in GA ($3,067,675.42)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

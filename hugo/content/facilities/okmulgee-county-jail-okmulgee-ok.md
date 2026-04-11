@@ -9,6 +9,7 @@ county: "Okmulgee"
 repo_path: "kb/facilities/okmulgee-county-jail-okmulgee-ok.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Okmulgee, OK."
+source_count: 1
 layout: "single"
 facility_name: "Okmulgee County Jail"
 operator: ""

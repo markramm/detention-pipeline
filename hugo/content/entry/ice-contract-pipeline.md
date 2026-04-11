@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/notes/ice-contract-pipeline.md"
 lastmod: "2026-04-06"
 summary: "Framework mapping the 7-stage ICE enforcement pipeline from targeting to deportation, each served by different contractors. GEO Group operates a closed loop across surveillance, skip-tracing, and detention."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

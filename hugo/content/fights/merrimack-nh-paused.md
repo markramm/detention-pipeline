@@ -9,6 +9,7 @@ county: "Hillsborough"
 repo_path: "kb/industry/county-fights/merrimack-nh-paused.md"
 lastmod: "2026-04-06"
 summary: "Community in Merrimack NH blocked an ICE processing center. The fight produced leaked ICE planning documents revealing the 34-facility Detention Reengineering Initiative for the first time."
+source_count: 2
 type: "fights"
 layout: "single"
 status: "blocked"

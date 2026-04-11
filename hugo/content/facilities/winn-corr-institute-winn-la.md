@@ -9,6 +9,7 @@ county: "Winn"
 repo_path: "kb/facilities/winn-corr-institute-winn-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Winn, LA."
+source_count: 1
 layout: "single"
 facility_name: "Winn Corr Institute"
 operator: ""

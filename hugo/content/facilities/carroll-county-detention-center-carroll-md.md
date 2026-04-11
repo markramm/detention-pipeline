@@ -9,6 +9,7 @@ county: "Carroll"
 repo_path: "kb/facilities/carroll-county-detention-center-carroll-md.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Carroll, MD."
+source_count: 1
 layout: "single"
 facility_name: "Carroll County Detention Center"
 operator: ""

@@ -9,6 +9,7 @@ county: "Wasco"
 repo_path: "kb/facilities/northern-oregon-corrfac-wasco-or.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Wasco, OR."
+source_count: 1
 layout: "single"
 facility_name: "Northern Oregon Corr.Fac."
 operator: ""

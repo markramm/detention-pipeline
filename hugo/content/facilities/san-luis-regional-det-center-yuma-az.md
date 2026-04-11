@@ -9,6 +9,7 @@ county: "Yuma"
 repo_path: "kb/facilities/san-luis-regional-det-center-yuma-az.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Yuma, AZ."
+source_count: 1
 layout: "single"
 facility_name: "San Luis Regional Det Center"
 operator: ""

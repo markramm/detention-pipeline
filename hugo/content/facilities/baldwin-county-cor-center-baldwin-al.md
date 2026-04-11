@@ -9,6 +9,7 @@ county: "Baldwin"
 repo_path: "kb/facilities/baldwin-county-cor-center-baldwin-al.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Baldwin, AL."
+source_count: 1
 layout: "single"
 facility_name: "Baldwin County Cor. Center"
 operator: ""

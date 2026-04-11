@@ -9,6 +9,7 @@ county: "Carroll County"
 repo_path: "kb/287g/287-g-wso-carroll-county-sheriff-s-office-md.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Carroll County Sheriff’s Office, signed March 3, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The Geo Group, Inc. — Ice Webb, Tx $6,796,406"
+title: "The Geo Group, INC. — ICE Webb, TX $6,796,406"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "WEBB"
 repo_path: "kb/anc/the-geo-group-inc-ice-webb-tx-6796406.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in TX ($6,796,406.43)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

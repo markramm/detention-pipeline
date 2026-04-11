@@ -1,5 +1,5 @@
 ---
-title: "Guardian Centers Of Georgia, Llc — Ice Houston, Ga $905,862"
+title: "Guardian Centers Of Georgia, LLC — ICE Houston, GA $905,862"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "HOUSTON"
 repo_path: "kb/anc/guardian-centers-of-georgia-llc-ice-houston-ga-905862.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to GUARDIAN CENTERS OF GEORGIA, LLC in GA ($905,862.30)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Ada"
 repo_path: "kb/facilities/ada-county-jail-ada-id.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Ada, ID."
+source_count: 1
 layout: "single"
 facility_name: "Ada County Jail"
 operator: ""

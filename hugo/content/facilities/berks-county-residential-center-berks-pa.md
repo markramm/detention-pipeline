@@ -9,6 +9,7 @@ county: "Berks"
 repo_path: "kb/facilities/berks-county-residential-center-berks-pa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Berks, PA."
+source_count: 1
 layout: "single"
 facility_name: "Berks County Residential Center"
 operator: ""

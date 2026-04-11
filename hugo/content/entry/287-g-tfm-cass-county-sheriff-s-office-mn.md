@@ -9,6 +9,7 @@ county: "Cass County"
 repo_path: "kb/287g/287-g-tfm-cass-county-sheriff-s-office-mn.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Cass County Sheriff’s Office, signed February 28, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

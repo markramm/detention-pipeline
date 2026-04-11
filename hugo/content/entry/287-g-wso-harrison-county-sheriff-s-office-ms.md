@@ -9,6 +9,7 @@ county: "Harrison County"
 repo_path: "kb/287g/287-g-wso-harrison-county-sheriff-s-office-ms.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Harrison County Sheriff’s Office, signed July 2, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

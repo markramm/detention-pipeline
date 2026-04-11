@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/organizations/carlyle-group-detention.md"
 lastmod: "2026-04-08"
 summary: "Carlyle Group sold the Oakwood, GA warehouse to DHS for $68.2M. 22 Trump officials hold Carlyle investments, including former Carlyle employee Todd Newnam now at Treasury."
+source_count: 2
 type: "entry"
 layout: "single"
 ---

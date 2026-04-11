@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-oklahoma-bureau-of-narcotics-ok.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Oklahoma Bureau of Narcotics, signed February 18, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

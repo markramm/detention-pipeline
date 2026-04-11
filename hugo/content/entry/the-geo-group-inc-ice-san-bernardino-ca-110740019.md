@@ -1,5 +1,5 @@
 ---
-title: "The Geo Group, Inc. — Ice San Bernardino, Ca $110,740,019"
+title: "The Geo Group, INC. — ICE San Bernardino, CA $110,740,019"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "SAN BERNARDINO"
 repo_path: "kb/anc/the-geo-group-inc-ice-san-bernardino-ca-110740019.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in CA ($110,740,019.25)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

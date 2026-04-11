@@ -9,6 +9,7 @@ county: "Winn"
 repo_path: "kb/budget/winn-parish-la-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Winn, LA."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

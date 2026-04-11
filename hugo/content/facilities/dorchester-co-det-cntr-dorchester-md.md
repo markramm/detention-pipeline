@@ -9,6 +9,7 @@ county: "Dorchester"
 repo_path: "kb/facilities/dorchester-co-det-cntr-dorchester-md.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Dorchester, MD."
+source_count: 1
 layout: "single"
 facility_name: "Dorchester Co Det Cntr"
 operator: ""

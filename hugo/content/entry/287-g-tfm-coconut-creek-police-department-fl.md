@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-coconut-creek-police-department-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Coconut Creek Police Department, signed June 13, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

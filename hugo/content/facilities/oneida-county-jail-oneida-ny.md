@@ -9,6 +9,7 @@ county: "Oneida"
 repo_path: "kb/facilities/oneida-county-jail-oneida-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Oneida, NY."
+source_count: 1
 layout: "single"
 facility_name: "Oneida County Jail"
 operator: ""

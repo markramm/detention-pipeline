@@ -9,6 +9,7 @@ county: "Walton"
 repo_path: "kb/comms/social-circle-ga-walton-county-nda-cited-to-withhold-detention-info-from-public.md"
 lastmod: "2026-04-10"
 summary: "Walton County GA officials cited NDAs to withhold detention facility plans from the public. Matches Sabot's 'managing the noise' playbook."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

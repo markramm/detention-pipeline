@@ -9,6 +9,7 @@ county: "Madison"
 repo_path: "kb/facilities/madison-co-jail-ms-madison-ms.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Madison, MS."
+source_count: 1
 layout: "single"
 facility_name: "Madison Co. Jail, MS."
 operator: ""

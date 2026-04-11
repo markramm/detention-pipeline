@@ -9,6 +9,7 @@ county: "Bradford County"
 repo_path: "kb/industry/facilities/bradford-county-douglas-building.md"
 lastmod: "2026-04-06"
 summary: "Proposed 3,000-bed IGSA facility in Starke FL on a contaminated 30-acre site, phased from 1,000 to 3,000 beds at $221-269/bed/day. Pitched by Sabot Consulting as county-led economic development."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "Bradford County Sheriff's Office (Sheriff Gordon Smith) / prime contractor TBD"

@@ -9,6 +9,7 @@ county: "Kleberg County"
 repo_path: "kb/287g/287-g-jem-kleberg-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Kleberg County Sheriff’s Office, signed July 31, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

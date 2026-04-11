@@ -9,6 +9,7 @@ county: "Brevard County"
 repo_path: "kb/287g/287-g-tfm-palm-bay-police-department-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Palm Bay Police Department, signed July 15, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

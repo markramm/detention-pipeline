@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/financial-flows/goldman-352m-loan-portfolio.md"
 lastmod: "2026-04-08"
 summary: "Goldman Sachs and TPG refinanced Fundrise's 12-property industrial portfolio for $352.7M in June 2025. Only Williamsport, MD was sold to DHS; remaining properties fit future ICE targets."
+source_count: 3
 layout: "single"
 player_type: "money"
 ---

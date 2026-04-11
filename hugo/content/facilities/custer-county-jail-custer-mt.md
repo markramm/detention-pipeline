@@ -9,6 +9,7 @@ county: "Custer"
 repo_path: "kb/facilities/custer-county-jail-custer-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Custer, MT."
+source_count: 1
 layout: "single"
 facility_name: "Custer County Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Logan County"
 repo_path: "kb/287g/287-g-jem-logan-county-sheriff-s-office-ok.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Logan County Sheriff’s Office, signed February 28, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

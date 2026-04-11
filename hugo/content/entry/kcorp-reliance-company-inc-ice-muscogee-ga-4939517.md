@@ -1,5 +1,5 @@
 ---
-title: "Kcorp Reliance Company, Inc. — Ice Muscogee, Ga $4,939,517"
+title: "Kcorp Reliance Company, INC. — ICE Muscogee, GA $4,939,517"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MUSCOGEE"
 repo_path: "kb/anc/kcorp-reliance-company-inc-ice-muscogee-ga-4939517.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to KCORP RELIANCE COMPANY, INC. in GA ($4,939,517.34)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

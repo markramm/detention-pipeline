@@ -9,6 +9,7 @@ county: "Calhoun"
 repo_path: "kb/facilities/calhoun-co-battle-crmi-calhoun-mi.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Calhoun, MI."
+source_count: 1
 layout: "single"
 facility_name: "Calhoun Co., Battle Cr,MI"
 operator: ""

@@ -9,6 +9,7 @@ county: "Travis"
 repo_path: "kb/facilities/travis-county-jail-travis-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Travis, TX."
+source_count: 1
 layout: "single"
 facility_name: "Travis County Jail"
 operator: ""

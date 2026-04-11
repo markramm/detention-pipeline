@@ -9,6 +9,7 @@ county: "Osage County"
 repo_path: "kb/287g/287-g-wso-osage-county-sheriff-s-office-ks.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Osage County Sheriff’s Office, signed December 8, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

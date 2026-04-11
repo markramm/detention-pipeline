@@ -9,6 +9,7 @@ county: "York"
 repo_path: "kb/facilities/york-county-jail-pa-york-pa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in York, PA."
+source_count: 1
 layout: "single"
 facility_name: "York County Jail, PA"
 operator: ""

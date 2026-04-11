@@ -9,6 +9,7 @@ county: "Wyoming"
 repo_path: "kb/facilities/wyoming-county-jail-wyoming-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Wyoming, NY."
+source_count: 1
 layout: "single"
 facility_name: "Wyoming County Jail"
 operator: ""

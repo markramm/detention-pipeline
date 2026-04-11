@@ -1,5 +1,5 @@
 ---
-title: "Nar Medical Depot, Llc — Ice Saint Charles, Mo $971,816"
+title: "Nar Medical Depot, LLC — ICE Saint Charles, MO $971,816"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "SAINT CHARLES"
 repo_path: "kb/anc/nar-medical-depot-llc-ice-saint-charles-mo-971816.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to NAR MEDICAL DEPOT, LLC in MO ($971,816.06)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

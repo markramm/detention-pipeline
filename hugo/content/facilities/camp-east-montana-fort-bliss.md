@@ -9,6 +9,7 @@ county: "El Paso"
 repo_path: "kb/industry/facilities/camp-east-montana-fort-bliss.md"
 lastmod: "2026-04-06"
 summary: "3,000+ bed tent camp on Fort Bliss in El Paso TX, opened Aug 2025 under a $1.2B Army contract. Three deaths in custody, tuberculosis cases, and documented abuse; operator being replaced."
+source_count: 4
 layout: "single"
 facility_name: ""
 operator: "ICE (contractor operated — operator being replaced as of March 2026)"

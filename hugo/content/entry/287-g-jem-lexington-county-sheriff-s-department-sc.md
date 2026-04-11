@@ -9,6 +9,7 @@ county: "Lexington County"
 repo_path: "kb/287g/287-g-jem-lexington-county-sheriff-s-department-sc.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Lexington County Sheriff’s Department, signed June 8, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

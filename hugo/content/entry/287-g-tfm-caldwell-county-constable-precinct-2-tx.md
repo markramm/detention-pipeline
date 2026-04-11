@@ -9,6 +9,7 @@ county: "Caldwell County"
 repo_path: "kb/287g/287-g-tfm-caldwell-county-constable-precinct-2-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Caldwell County Constable Precinct 2, signed February 10, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Johnson/Bartholomew"
 repo_path: "kb/industry/facilities/camp-atterbury-in-military.md"
 lastmod: "2026-04-06"
 summary: "Indiana National Guard base ~40 miles south of Indianapolis designated for up to 1,000 ICE detainees. Named in Defense Secretary Hegseth's July 2025 letter; still in planning phase."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "Department of Defense / DHS"

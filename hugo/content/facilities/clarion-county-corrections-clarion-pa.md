@@ -9,6 +9,7 @@ county: "Clarion"
 repo_path: "kb/facilities/clarion-county-corrections-clarion-pa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Clarion, PA."
+source_count: 1
 layout: "single"
 facility_name: "Clarion  County Corrections"
 operator: ""

@@ -9,6 +9,7 @@ county: "Jackson"
 repo_path: "kb/real-estate/braselton-logistics-center-jackson-ga-500000-sf.md"
 lastmod: "2026-04-10"
 summary: "500K SF available distribution center on I-85 corridor in Jackson County GA, owned by Duke Realty/Prologis. Spec logistics property."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

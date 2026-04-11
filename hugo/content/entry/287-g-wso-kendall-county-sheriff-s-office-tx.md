@@ -9,6 +9,7 @@ county: "Kendall County"
 repo_path: "kb/287g/287-g-wso-kendall-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Kendall County Sheriff’s Office, signed December 23, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

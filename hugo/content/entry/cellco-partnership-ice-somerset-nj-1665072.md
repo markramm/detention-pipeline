@@ -1,5 +1,5 @@
 ---
-title: "Cellco Partnership — Ice Somerset, Nj $1,665,072"
+title: "Cellco Partnership — ICE Somerset, NJ $1,665,072"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "SOMERSET"
 repo_path: "kb/anc/cellco-partnership-ice-somerset-nj-1665072.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to CELLCO PARTNERSHIP in NJ ($1,665,071.60)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

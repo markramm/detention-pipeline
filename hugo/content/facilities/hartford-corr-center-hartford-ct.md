@@ -9,6 +9,7 @@ county: "Hartford"
 repo_path: "kb/facilities/hartford-corr-center-hartford-ct.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hartford, CT."
+source_count: 1
 layout: "single"
 facility_name: "Hartford Corr Center"
 operator: ""

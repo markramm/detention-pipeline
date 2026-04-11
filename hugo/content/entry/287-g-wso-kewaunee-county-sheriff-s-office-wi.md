@@ -9,6 +9,7 @@ county: "Kewaunee County"
 repo_path: "kb/287g/287-g-wso-kewaunee-county-sheriff-s-office-wi.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Kewaunee County Sheriff’s Office, signed June 11, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

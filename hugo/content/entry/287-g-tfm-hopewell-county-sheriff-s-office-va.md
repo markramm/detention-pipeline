@@ -9,6 +9,7 @@ county: "Hopewell County"
 repo_path: "kb/287g/287-g-tfm-hopewell-county-sheriff-s-office-va.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Hopewell County Sheriff’s Office, signed June 30, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

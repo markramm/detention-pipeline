@@ -9,6 +9,7 @@ county: "Chemung"
 repo_path: "kb/facilities/chemung-county-jail-chemung-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Chemung, NY."
+source_count: 1
 layout: "single"
 facility_name: "Chemung County Jail"
 operator: ""

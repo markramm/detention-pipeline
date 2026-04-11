@@ -9,6 +9,7 @@ county: "Person County"
 repo_path: "kb/287g/287-g-jem-person-county-sheriff-s-office-nc.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Person County Sheriff’s Office, signed February 10, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

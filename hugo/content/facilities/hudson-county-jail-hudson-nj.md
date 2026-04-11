@@ -9,6 +9,7 @@ county: "Hudson"
 repo_path: "kb/facilities/hudson-county-jail-hudson-nj.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hudson, NJ."
+source_count: 1
 layout: "single"
 facility_name: "Hudson County Jail"
 operator: ""

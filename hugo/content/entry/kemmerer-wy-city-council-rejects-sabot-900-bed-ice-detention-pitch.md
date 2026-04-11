@@ -9,6 +9,7 @@ county: "Lincoln"
 repo_path: "kb/commission/kemmerer-wy-city-council-rejects-sabot-900-bed-ice-detention-pitch.md"
 lastmod: "2026-04-10"
 summary: "Kemmerer WY city council rejected Sabot Consulting's 900-bed ICE detention pitch with Akima as operator. Community reaction was 'overwhelmingly no.'"
+source_count: 1
 type: "entry"
 layout: "single"
 ---

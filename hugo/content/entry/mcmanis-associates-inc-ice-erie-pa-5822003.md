@@ -1,5 +1,5 @@
 ---
-title: "Mcmanis Associates Inc — Ice Erie, Pa $5,822,003"
+title: "Mcmanis Associates INC — ICE Erie, PA $5,822,003"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ERIE"
 repo_path: "kb/anc/mcmanis-associates-inc-ice-erie-pa-5822003.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to MCMANIS ASSOCIATES INC in PA ($5,822,002.74)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

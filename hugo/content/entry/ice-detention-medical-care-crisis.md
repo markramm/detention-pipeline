@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/notes/ice-detention-medical-care-crisis.md"
 lastmod: "2026-04-06"
 summary: "32 people died in ICE custody in 2025, the deadliest year in two decades. ICE stopped paying medical providers in Oct 2025, creating a ~$300M gap as detained population surged 82%."
+source_count: 8
 type: "entry"
 layout: "single"
 ---

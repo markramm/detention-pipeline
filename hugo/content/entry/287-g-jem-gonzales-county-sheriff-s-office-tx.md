@@ -9,6 +9,7 @@ county: "Gonzales County"
 repo_path: "kb/287g/287-g-jem-gonzales-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Gonzales County Sheriff’s Office, signed February 10, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

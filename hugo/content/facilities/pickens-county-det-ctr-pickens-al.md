@@ -9,6 +9,7 @@ county: "Pickens"
 repo_path: "kb/facilities/pickens-county-det-ctr-pickens-al.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Pickens, AL."
+source_count: 1
 layout: "single"
 facility_name: "Pickens County Det Ctr"
 operator: ""

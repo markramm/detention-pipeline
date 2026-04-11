@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/events/2026-03-26-dhs-ig-investigation-noem-lewandowski.md"
 lastmod: "2026-04-08"
 summary: "DHS IG launched investigation into Noem/Lewandowski contract handling on March 26, 2026. Lewandowski allegedly solicited success fees from GEO Group; contract corruption was a catalyst for Noem's firing."
+source_count: 4
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Taylor County"
 repo_path: "kb/287g/287-g-wso-taylor-county-sheriff-s-office-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Taylor County Sheriff’s Office, signed October 15, 2019."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

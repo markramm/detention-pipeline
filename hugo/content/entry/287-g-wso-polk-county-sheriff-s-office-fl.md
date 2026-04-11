@@ -9,6 +9,7 @@ county: "Polk County"
 repo_path: "kb/287g/287-g-wso-polk-county-sheriff-s-office-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Polk County Sheriff’s Office, signed May 6, 2019."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

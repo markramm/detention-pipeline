@@ -9,6 +9,7 @@ county: "Alleghany County"
 repo_path: "kb/287g/287-g-tfm-office-of-constable-monroeville-6th-ward-pa.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Office of Constable Monroeville 6th Ward, signed July 15, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

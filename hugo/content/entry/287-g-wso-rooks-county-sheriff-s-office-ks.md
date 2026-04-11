@@ -9,6 +9,7 @@ county: "Rooks County"
 repo_path: "kb/287g/287-g-wso-rooks-county-sheriff-s-office-ks.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Rooks County Sheriff’s Office, signed September 9, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

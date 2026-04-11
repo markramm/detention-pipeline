@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/ice-air-csi-aviation-fy2025.md"
 lastmod: "2026-04-06"
 summary: "CSI Aviation's ICE Air contract surged from $364M (FY2024) to $1.1B (FY2025). Domestic transfer flights jumped 132% as new remote detention facilities opened."
+source_count: 5
 type: "entry"
 layout: "single"
 ---

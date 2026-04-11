@@ -1,5 +1,5 @@
 ---
-title: "Corecivic, Inc. — Ice Leavenworth, Ks $18,478,836"
+title: "Corecivic, INC. — ICE Leavenworth, KS $18,478,836"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "LEAVENWORTH"
 repo_path: "kb/anc/corecivic-inc-ice-leavenworth-ks-18478836.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to CORECIVIC, INC. in KS ($18,478,836.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Lawrence"
 repo_path: "kb/facilities/lawrence-co-jail-sd-lawrence-sd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Lawrence, SD."
+source_count: 1
 layout: "single"
 facility_name: "Lawrence Co. Jail, SD"
 operator: ""

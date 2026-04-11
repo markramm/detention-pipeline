@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/financial-flows/comprehensive-conflict-of-interest-map.md"
 lastmod: "2026-04-08"
 summary: "Cross-reference of all 11 ICE warehouse sellers against Trump official financial disclosures. GSA Admin Forst's former employers Goldman and Deutsche Bank sold $274.7M in warehouses."
+source_count: 1
 layout: "single"
 player_type: "money"
 ---

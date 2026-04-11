@@ -9,6 +9,7 @@ county: "Providence"
 repo_path: "kb/facilities/aci-cranston-ri-providence-ri.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Providence, RI."
+source_count: 1
 layout: "single"
 facility_name: "ACI, Cranston RI"
 operator: ""

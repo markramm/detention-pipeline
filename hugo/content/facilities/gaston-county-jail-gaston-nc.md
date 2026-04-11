@@ -9,6 +9,7 @@ county: "Gaston"
 repo_path: "kb/facilities/gaston-county-jail-gaston-nc.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Gaston, NC."
+source_count: 1
 layout: "single"
 facility_name: "Gaston County Jail"
 operator: ""

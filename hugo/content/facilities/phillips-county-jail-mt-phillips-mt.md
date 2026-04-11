@@ -9,6 +9,7 @@ county: "Phillips"
 repo_path: "kb/facilities/phillips-county-jail-mt-phillips-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Phillips, MT."
+source_count: 1
 layout: "single"
 facility_name: "Phillips County Jail, MT"
 operator: ""

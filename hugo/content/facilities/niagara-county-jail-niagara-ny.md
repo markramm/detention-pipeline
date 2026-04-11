@@ -9,6 +9,7 @@ county: "Niagara"
 repo_path: "kb/facilities/niagara-county-jail-niagara-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Niagara, NY."
+source_count: 1
 layout: "single"
 facility_name: "Niagara County Jail"
 operator: ""

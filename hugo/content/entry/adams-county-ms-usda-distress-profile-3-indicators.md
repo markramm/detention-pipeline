@@ -9,6 +9,7 @@ county: "Adams"
 repo_path: "kb/budget/adams-county-ms-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Adams, MS."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

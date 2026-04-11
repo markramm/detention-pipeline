@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/csi-aviation.md"
 lastmod: "2026-04-06"
 summary: "CSI Aviation manages ICE Air deportation flights, tripling to $1.1B in FY2025. Founded by Republican donor Allen Weh; subcontracts to GlobalX and World Atlantic."
+source_count: 6
 layout: "single"
 player_type: "contractor"
 contractor_type: "charter-airline"

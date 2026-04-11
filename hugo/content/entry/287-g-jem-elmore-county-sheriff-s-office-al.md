@@ -9,6 +9,7 @@ county: "Elmore County"
 repo_path: "kb/287g/287-g-jem-elmore-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Elmore County Sheriff’s Office, signed March 17, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

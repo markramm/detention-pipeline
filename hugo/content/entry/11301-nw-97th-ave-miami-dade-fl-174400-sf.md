@@ -9,6 +9,7 @@ county: "Miami-Dade"
 repo_path: "kb/real-estate/11301-nw-97th-ave-miami-dade-fl-174400-sf.md"
 lastmod: "2026-04-10"
 summary: "174K SF warehouse in Medley, Miami-Dade, owned by Hilco Redevelopment Partners, leased to Garland Food. Standard industrial property."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

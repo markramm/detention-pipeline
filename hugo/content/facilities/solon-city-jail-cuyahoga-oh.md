@@ -9,6 +9,7 @@ county: "Cuyahoga"
 repo_path: "kb/facilities/solon-city-jail-cuyahoga-oh.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Cuyahoga, OH."
+source_count: 1
 layout: "single"
 facility_name: "Solon City Jail"
 operator: ""

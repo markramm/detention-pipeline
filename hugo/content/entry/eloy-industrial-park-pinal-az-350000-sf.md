@@ -9,6 +9,7 @@ county: "Pinal"
 repo_path: "kb/real-estate/eloy-industrial-park-pinal-az-350000-sf.md"
 lastmod: "2026-04-10"
 summary: "350K SF available industrial land in Eloy, Pinal County AZ on I-10 corridor. Owned by Pinal County IDA."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

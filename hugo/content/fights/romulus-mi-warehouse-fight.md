@@ -9,6 +9,7 @@ county: "Wayne"
 repo_path: "kb/industry/county-fights/romulus-mi-warehouse.md"
 lastmod: "2026-04-06"
 summary: "Michigan AG Nessel and City of Romulus sued to block an ICE warehouse purchased without notice near schools and in a floodplain. 700+ protesters rallied; Gov. Whitmer notably silent."
+source_count: 4
 type: "fights"
 layout: "single"
 status: "litigation"

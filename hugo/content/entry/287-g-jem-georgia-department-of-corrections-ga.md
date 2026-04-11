@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-jem-georgia-department-of-corrections-ga.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Georgia Department of Corrections, signed June 9, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

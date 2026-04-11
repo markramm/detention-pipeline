@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-winter-haven-police-department-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Winter Haven Police Department, signed July 2, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

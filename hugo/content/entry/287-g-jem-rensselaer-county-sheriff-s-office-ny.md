@@ -9,6 +9,7 @@ county: "Rensselaer County"
 repo_path: "kb/287g/287-g-jem-rensselaer-county-sheriff-s-office-ny.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Rensselaer County Sheriff’s Office, signed June 10, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

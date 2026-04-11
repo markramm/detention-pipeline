@@ -9,6 +9,7 @@ county: "Hillsborough"
 repo_path: "kb/facilities/hillsborough-county-jail-hillsborough-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hillsborough, FL."
+source_count: 1
 layout: "single"
 facility_name: "Hillsborough County Jail"
 operator: ""

@@ -1,5 +1,5 @@
 ---
-title: "Akima Global Services, Llc — Ice Miami-Dade, Fl $120,377,303"
+title: "Akima Global Services, LLC — ICE Miami-Dade, FL $120,377,303"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MIAMI-DADE"
 repo_path: "kb/anc/akima-global-services-llc-ice-miami-dade-fl-120377303.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to AKIMA GLOBAL SERVICES, LLC in FL ($120,377,302.86)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

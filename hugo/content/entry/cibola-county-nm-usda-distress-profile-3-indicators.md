@@ -9,6 +9,7 @@ county: "Cibola"
 repo_path: "kb/budget/cibola-county-nm-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Cibola, NM."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

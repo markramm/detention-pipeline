@@ -9,6 +9,7 @@ county: "Florence County"
 repo_path: "kb/287g/287-g-tfm-olanta-police-department-sc.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Olanta Police Department, signed September 22, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Csi Aviation, Inc — Ice Maricopa, Az $324,216,616"
+title: "Csi Aviation, INC — ICE Maricopa, AZ $324,216,616"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MARICOPA"
 repo_path: "kb/anc/csi-aviation-inc-ice-maricopa-az-324216616.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to CSI AVIATION, INC in AZ ($324,216,615.92)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

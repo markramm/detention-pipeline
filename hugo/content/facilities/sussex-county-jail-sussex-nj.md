@@ -9,6 +9,7 @@ county: "Sussex"
 repo_path: "kb/facilities/sussex-county-jail-sussex-nj.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Sussex, NJ."
+source_count: 1
 layout: "single"
 facility_name: "Sussex County Jail"
 operator: ""

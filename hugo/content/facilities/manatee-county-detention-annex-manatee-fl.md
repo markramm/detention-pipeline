@@ -9,6 +9,7 @@ county: "Manatee"
 repo_path: "kb/facilities/manatee-county-detention-annex-manatee-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Manatee, FL."
+source_count: 1
 layout: "single"
 facility_name: "Manatee County Detention-Annex"
 operator: ""

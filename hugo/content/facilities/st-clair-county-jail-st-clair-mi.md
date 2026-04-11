@@ -9,6 +9,7 @@ county: "St. Clair"
 repo_path: "kb/facilities/st-clair-county-jail-st-clair-mi.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in St. Clair, MI."
+source_count: 1
 layout: "single"
 facility_name: "St. Clair County Jail"
 operator: ""

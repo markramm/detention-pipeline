@@ -9,6 +9,7 @@ county: "Blount County"
 repo_path: "kb/287g/287-g-tfm-blount-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Blount County Sheriff’s Office, signed January 26, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

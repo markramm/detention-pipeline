@@ -9,6 +9,7 @@ county: "Davidson"
 repo_path: "kb/facilities/davidson-co-sheriff-dept-davidson-tn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Davidson, TN."
+source_count: 1
 layout: "single"
 facility_name: "Davidson Co. Sheriff Dept"
 operator: ""

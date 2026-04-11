@@ -9,6 +9,7 @@ county: "St. Mary’s County"
 repo_path: "kb/287g/287-g-wso-st-mary-s-county-sheriff-s-office-md.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and St. Mary’s County Sheriff’s Office, signed March 26, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

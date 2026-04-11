@@ -9,6 +9,7 @@ county: "Chatham"
 repo_path: "kb/real-estate/interstate-west-industrial-park-chatham-ga-2057067-sf.md"
 lastmod: "2026-04-10"
 summary: "2.1M SF distribution center in Savannah, Chatham County GA, owned by VanTrust, leased to Burlington Stores. Major port logistics."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

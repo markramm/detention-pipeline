@@ -9,6 +9,7 @@ county: "Guadalupe County"
 repo_path: "kb/287g/287-g-jem-guadalupe-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Guadalupe County Sheriff’s Office, signed December 2, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

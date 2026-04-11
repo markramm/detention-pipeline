@@ -9,6 +9,7 @@ county: "Bexar"
 repo_path: "kb/real-estate/prologis-park-san-antonio-bexar-tx-350000-sf.md"
 lastmod: "2026-04-10"
 summary: "350K SF available Prologis logistics property in San Antonio, Bexar County TX. Part of Prologis TX portfolio."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

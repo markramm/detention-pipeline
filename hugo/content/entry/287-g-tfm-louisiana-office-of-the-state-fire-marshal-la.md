@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-louisiana-office-of-the-state-fire-marshal-la.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Louisiana Office of the State Fire Marshal, signed May 20, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

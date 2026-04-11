@@ -9,6 +9,7 @@ county: "Jefferson"
 repo_path: "kb/real-estate/prologis-park-new-orleans-jefferson-la-300000-sf.md"
 lastmod: "2026-04-10"
 summary: "300K SF available Prologis logistics property in New Orleans, Jefferson Parish LA near Port of New Orleans."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

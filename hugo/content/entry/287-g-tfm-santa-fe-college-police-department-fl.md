@@ -9,6 +9,7 @@ county: "Alachua County"
 repo_path: "kb/287g/287-g-tfm-santa-fe-college-police-department-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Santa Fe College Police Department, signed July 24, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

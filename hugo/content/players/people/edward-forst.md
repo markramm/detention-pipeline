@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/people/edward-forst.md"
 lastmod: "2026-04-08"
 summary: "GSA Administrator and former Goldman Sachs partner whose agency's procurement role was bypassed via WEXMAC-TITUS. All $1.074B in warehouse purchases closed after his Dec 2025 swearing-in."
+source_count: 2
 layout: "single"
 player_type: "person"
 role: "Administrator, General Services Administration"

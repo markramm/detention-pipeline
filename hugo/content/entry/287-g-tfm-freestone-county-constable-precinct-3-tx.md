@@ -9,6 +9,7 @@ county: "Freestone County"
 repo_path: "kb/287g/287-g-tfm-freestone-county-constable-precinct-3-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Freestone County Constable Precinct 3, signed January 26, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

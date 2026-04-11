@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-florida-department-of-financial-services-criminal-investigation-division-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Florida Department of Financial Services, Criminal Investigation Division, signed July 24, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

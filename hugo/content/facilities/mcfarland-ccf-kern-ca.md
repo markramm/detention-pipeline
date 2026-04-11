@@ -9,6 +9,7 @@ county: "Kern"
 repo_path: "kb/facilities/mcfarland-ccf-kern-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Kern, CA."
+source_count: 1
 layout: "single"
 facility_name: "Mcfarland CCF"
 operator: ""

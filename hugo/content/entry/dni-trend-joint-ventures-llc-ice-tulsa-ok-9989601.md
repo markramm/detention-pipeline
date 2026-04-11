@@ -1,5 +1,5 @@
 ---
-title: "Dni Trend Joint Ventures, Llc — Ice Tulsa, Ok $9,989,601"
+title: "Dni Trend Joint Ventures, LLC — ICE Tulsa, OK $9,989,601"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "TULSA"
 repo_path: "kb/anc/dni-trend-joint-ventures-llc-ice-tulsa-ok-9989601.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to DNI TREND JOINT VENTURES, LLC in OK ($9,989,601.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

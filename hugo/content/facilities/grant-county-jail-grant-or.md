@@ -9,6 +9,7 @@ county: "Grant"
 repo_path: "kb/facilities/grant-county-jail-grant-or.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Grant, OR."
+source_count: 1
 layout: "single"
 facility_name: "Grant County Jail"
 operator: ""

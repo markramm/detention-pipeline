@@ -9,6 +9,7 @@ county: "Evangeline"
 repo_path: "kb/budget/evangeline-parish-la-usda-distress-profile-5-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Evangeline, LA."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

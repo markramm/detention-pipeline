@@ -9,6 +9,7 @@ county: "Mineral County"
 repo_path: "kb/287g/287-g-tfm-mineral-county-sheriff-s-office-w-va.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Mineral County Sheriff’s Office, signed December 8, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

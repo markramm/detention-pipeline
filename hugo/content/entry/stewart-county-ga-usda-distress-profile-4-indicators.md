@@ -9,6 +9,7 @@ county: "Stewart"
 repo_path: "kb/budget/stewart-county-ga-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Stewart, GA."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/geo-group.md"
 lastmod: "2026-04-06"
 summary: "GEO Group is the largest private detention company ($2.6B revenue, $254M profit in 2025) operating a closed loop: surveillance via BI, skip tracing, and 75,000 detention beds."
+source_count: 9
 layout: "single"
 player_type: "contractor"
 contractor_type: "hybrid"

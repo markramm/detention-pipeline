@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/facilities/torrance-estancia-nm-torrance-nm.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in ."
+source_count: 1
 layout: "single"
 facility_name: ""
 operator: ""

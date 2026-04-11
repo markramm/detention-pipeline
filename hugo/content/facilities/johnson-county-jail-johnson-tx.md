@@ -9,6 +9,7 @@ county: "Johnson"
 repo_path: "kb/facilities/johnson-county-jail-johnson-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Johnson, TX."
+source_count: 1
 layout: "single"
 facility_name: "Johnson County Jail"
 operator: ""

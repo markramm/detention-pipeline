@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/palantir-immigrationos-2025.md"
 lastmod: "2026-04-06"
 summary: "$59.9M sole-source Palantir contracts to build ImmigrationOS, ICE's deportation pipeline platform with AI targeting, confidence scoring, and self-deportation tracking."
+source_count: 3
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/apex-site-services.md"
 lastmod: "2026-04-06"
 summary: "Apex Site Services is a North Texas construction firm that pivoted from COVID testing sites to proposing soft-sided ICE detention facilities, including in Walsenburg CO."
+source_count: 3
 layout: "single"
 player_type: "contractor"
 contractor_type: "construction"

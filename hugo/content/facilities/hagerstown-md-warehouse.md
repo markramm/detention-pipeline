@@ -9,6 +9,7 @@ county: "Washington"
 repo_path: "kb/industry/facilities/hagerstown-md-warehouse.md"
 lastmod: "2026-04-06"
 summary: "ICE purchased a Hagerstown MD warehouse for $100M+ in Jan 2026 as one of 16 regional processing centers. Part of the $38.3B Detention Reengineering Initiative targeting FY2026 completion."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "ICE (federal)"

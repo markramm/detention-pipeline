@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/financial-flows/geo-group-admin-financial-ties.md"
 lastmod: "2026-04-08"
 summary: "GEO Group ties to Trump officials: Homan received GEO Care consulting fees as Border Czar, Venturella went from 12 years at GEO to running ICE detention contracting with ethics waiver."
+source_count: 3
 layout: "single"
 player_type: "money"
 ---

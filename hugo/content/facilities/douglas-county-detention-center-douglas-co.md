@@ -9,6 +9,7 @@ county: "Douglas"
 repo_path: "kb/facilities/douglas-county-detention-center-douglas-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Douglas, CO."
+source_count: 1
 layout: "single"
 facility_name: "Douglas County Detention Center"
 operator: ""

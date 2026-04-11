@@ -9,6 +9,7 @@ county: "Nobles"
 repo_path: "kb/facilities/nobles-co-jail-nobles-mn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Nobles, MN."
+source_count: 1
 layout: "single"
 facility_name: "Nobles Co. Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Virginia Beach City"
 repo_path: "kb/facilities/virginia-beach-virginia-beach-city-va.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Virginia Beach City, VA."
+source_count: 1
 layout: "single"
 facility_name: "Virginia Beach"
 operator: ""

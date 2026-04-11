@@ -9,6 +9,7 @@ county: "Guadalupe Conty"
 repo_path: "kb/287g/287-g-tfm-new-berlin-marshal-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and New Berlin Marshal’s Office, signed November 20, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

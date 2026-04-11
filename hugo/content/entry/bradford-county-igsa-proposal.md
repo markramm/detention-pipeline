@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/bradford-county-igsa-proposal.md"
 lastmod: "2026-04-06"
 summary: "Sabot Consulting proposed a 3,000-bed phased IGSA detention facility in Bradford County FL worth $239M/year at full capacity. County commission voted 3-2 to advance."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

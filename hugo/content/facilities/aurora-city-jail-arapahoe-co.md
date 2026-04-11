@@ -9,6 +9,7 @@ county: "Arapahoe"
 repo_path: "kb/facilities/aurora-city-jail-arapahoe-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Arapahoe, CO."
+source_count: 1
 layout: "single"
 facility_name: "Aurora City Jail"
 operator: ""

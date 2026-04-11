@@ -1,5 +1,5 @@
 ---
-title: "Thomas J. Morris Iii — Ice Gloucester, Nj $4,768,500"
+title: "Thomas J. Morris Iii — ICE Gloucester, NJ $4,768,500"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "GLOUCESTER"
 repo_path: "kb/anc/thomas-j-morris-iii-ice-gloucester-nj-4768500.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to THOMAS J. MORRIS III in NJ ($4,768,500.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

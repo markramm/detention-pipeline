@@ -9,6 +9,7 @@ county: "Zavala"
 repo_path: "kb/facilities/zavala-county-jail-zavala-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Zavala, TX."
+source_count: 1
 layout: "single"
 facility_name: "Zavala County Jail"
 operator: ""

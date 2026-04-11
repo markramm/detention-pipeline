@@ -9,6 +9,7 @@ county: "Baker"
 repo_path: "kb/industry/facilities/baker-county-fl-detention.md"
 lastmod: "2026-04-06"
 summary: "1,300+ bed county jail in Sanderson FL (former state prison), opened Aug 2025 with GEO Group management. Part of Florida's IGSA detention network; dubbed 'Deportation Depot' by protesters."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "GEO Group (joint venture management) / Baker County"

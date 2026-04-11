@@ -9,6 +9,7 @@ county: "Montgomery"
 repo_path: "kb/facilities/montgomery-city-jail-montgomery-al.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Montgomery, AL."
+source_count: 1
 layout: "single"
 facility_name: "Montgomery City Jail"
 operator: ""

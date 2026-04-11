@@ -1,5 +1,5 @@
 ---
-title: "The Geo Group, Inc. — Ice Pierce, Wa $72,727,938"
+title: "The Geo Group, INC. — ICE Pierce, WA $72,727,938"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "PIERCE"
 repo_path: "kb/anc/the-geo-group-inc-ice-pierce-wa-72727938.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in WA ($72,727,938.31)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

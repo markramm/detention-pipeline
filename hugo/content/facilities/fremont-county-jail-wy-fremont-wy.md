@@ -9,6 +9,7 @@ county: "Fremont"
 repo_path: "kb/facilities/fremont-county-jail-wy-fremont-wy.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Fremont, WY."
+source_count: 1
 layout: "single"
 facility_name: "Fremont County Jail, WY"
 operator: ""

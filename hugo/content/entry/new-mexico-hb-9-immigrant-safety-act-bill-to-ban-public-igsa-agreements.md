@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/legislative/new-mexico-hb-9-immigrant-safety-act-bill-to-ban-public-igsa-agreements.md"
 lastmod: "2026-04-10"
 summary: "New Mexico HB 9 would ban public bodies from entering ICE detention IGSAs. NM has 18 IGSA facilities, third highest nationally; bill signals active pipeline."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Data Systems Analysts Inc — Ice Bucks, Pa $8,356,199"
+title: "Data Systems Analysts INC — ICE Bucks, PA $8,356,199"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BUCKS"
 repo_path: "kb/anc/data-systems-analysts-inc-ice-bucks-pa-8356199.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to DATA SYSTEMS ANALYSTS INC in PA ($8,356,199.19)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "All Points Logistics, Llc — Ice Brevard, Fl $6,172,000"
+title: "All Points Logistics, LLC — ICE Brevard, FL $6,172,000"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BREVARD"
 repo_path: "kb/anc/all-points-logistics-llc-ice-brevard-fl-6172000.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to ALL POINTS LOGISTICS, LLC in FL ($6,172,000.41)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

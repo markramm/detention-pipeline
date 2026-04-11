@@ -9,6 +9,7 @@ county: "Mineral"
 repo_path: "kb/facilities/mineral-county-jail-mineral-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Mineral, MT."
+source_count: 1
 layout: "single"
 facility_name: "Mineral County Jail"
 operator: ""

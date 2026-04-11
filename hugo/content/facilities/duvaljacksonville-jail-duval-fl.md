@@ -9,6 +9,7 @@ county: "Duval"
 repo_path: "kb/facilities/duvaljacksonville-jail-duval-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Duval, FL."
+source_count: 1
 layout: "single"
 facility_name: "Duval/Jacksonville Jail"
 operator: ""

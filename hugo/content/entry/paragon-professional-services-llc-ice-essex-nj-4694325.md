@@ -1,5 +1,5 @@
 ---
-title: "Paragon Professional Services Llc — Ice Essex, Nj $4,694,325"
+title: "Paragon Professional Services LLC — ICE Essex, NJ $4,694,325"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ESSEX"
 repo_path: "kb/anc/paragon-professional-services-llc-ice-essex-nj-4694325.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to PARAGON PROFESSIONAL SERVICES LLC in NJ ($4,694,325.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

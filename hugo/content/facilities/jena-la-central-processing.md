@@ -9,6 +9,7 @@ county: "LaSalle"
 repo_path: "kb/industry/facilities/jena-la-central-processing.md"
 lastmod: "2026-04-06"
 summary: "1,160-bed GEO Group processing center in Jena LA, part of the Louisiana detention hub with Alexandria Staging Facility. Notable for holding detained college students including Mahmoud Khalil."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "GEO Group"

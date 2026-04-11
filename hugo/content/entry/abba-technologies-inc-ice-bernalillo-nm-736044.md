@@ -1,5 +1,5 @@
 ---
-title: "Abba Technologies, Inc. — Ice Bernalillo, Nm $736,044"
+title: "Abba Technologies, INC. — ICE Bernalillo, NM $736,044"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BERNALILLO"
 repo_path: "kb/anc/abba-technologies-inc-ice-bernalillo-nm-736044.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to ABBA TECHNOLOGIES, INC. in NM ($736,043.86)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

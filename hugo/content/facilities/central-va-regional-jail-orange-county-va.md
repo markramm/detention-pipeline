@@ -9,6 +9,7 @@ county: "Orange County"
 repo_path: "kb/facilities/central-va-regional-jail-orange-county-va.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Orange County, VA."
+source_count: 1
 layout: "single"
 facility_name: "Central VA Regional Jail"
 operator: ""

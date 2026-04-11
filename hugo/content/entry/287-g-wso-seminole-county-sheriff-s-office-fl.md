@@ -9,6 +9,7 @@ county: "Seminole County"
 repo_path: "kb/287g/287-g-wso-seminole-county-sheriff-s-office-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Seminole County Sheriff’s Office, signed September 4, 2019."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

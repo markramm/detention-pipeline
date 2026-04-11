@@ -9,6 +9,7 @@ county: "Brooks County"
 repo_path: "kb/287g/287-g-jem-brooks-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Brooks County Sheriff’s Office, signed June 11, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Leavenworth"
 repo_path: "kb/industry/facilities/leavenworth-ks-corecivic.md"
 lastmod: "2026-04-06"
 summary: "1,033-bed former federal prison in Leavenworth KS awarded to CoreCivic via no-bid contract. Delayed by zoning challenge; excluded from CoreCivic's 2026 financial projections due to uncertainty."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "CoreCivic"

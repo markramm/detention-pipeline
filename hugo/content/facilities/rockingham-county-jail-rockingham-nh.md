@@ -9,6 +9,7 @@ county: "Rockingham"
 repo_path: "kb/facilities/rockingham-county-jail-rockingham-nh.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Rockingham, NH."
+source_count: 1
 layout: "single"
 facility_name: "Rockingham County Jail"
 operator: ""

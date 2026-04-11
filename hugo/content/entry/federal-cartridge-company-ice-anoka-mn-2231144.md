@@ -1,5 +1,5 @@
 ---
-title: "Federal Cartridge Company — Ice Anoka, Mn $2,231,144"
+title: "Federal Cartridge Company — ICE Anoka, MN $2,231,144"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ANOKA"
 repo_path: "kb/anc/federal-cartridge-company-ice-anoka-mn-2231144.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to FEDERAL CARTRIDGE COMPANY in MN ($2,231,144.04)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

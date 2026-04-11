@@ -9,6 +9,7 @@ county: "Allen"
 repo_path: "kb/facilities/allen-parish-public-safety-complex-allen-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Allen, LA."
+source_count: 1
 layout: "single"
 facility_name: "Allen Parish Public Safety Complex"
 operator: ""

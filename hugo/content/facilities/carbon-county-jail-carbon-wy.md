@@ -9,6 +9,7 @@ county: "Carbon"
 repo_path: "kb/facilities/carbon-county-jail-carbon-wy.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Carbon, WY."
+source_count: 1
 layout: "single"
 facility_name: "Carbon County Jail"
 operator: ""

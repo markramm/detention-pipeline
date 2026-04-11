@@ -9,6 +9,7 @@ county: "Doddridge"
 repo_path: "kb/budget/doddridge-county-wv-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Doddridge, WV."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

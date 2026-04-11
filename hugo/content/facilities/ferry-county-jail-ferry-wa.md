@@ -9,6 +9,7 @@ county: "Ferry"
 repo_path: "kb/facilities/ferry-county-jail-ferry-wa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Ferry, WA."
+source_count: 1
 layout: "single"
 facility_name: "Ferry County Jail"
 operator: ""

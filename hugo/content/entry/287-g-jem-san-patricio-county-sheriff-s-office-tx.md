@@ -9,6 +9,7 @@ county: "San Patricio County"
 repo_path: "kb/287g/287-g-jem-san-patricio-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and San Patricio County Sheriff’s Office, signed September 3, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

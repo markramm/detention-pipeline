@@ -9,6 +9,7 @@ county: "Canyon"
 repo_path: "kb/facilities/haile-det-center-canyon-id.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Canyon, ID."
+source_count: 1
 layout: "single"
 facility_name: "Haile Det. Center"
 operator: ""

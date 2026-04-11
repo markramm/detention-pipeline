@@ -9,6 +9,7 @@ county: "Prowers"
 repo_path: "kb/facilities/prowers-county-jail-prowers-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Prowers, CO."
+source_count: 1
 layout: "single"
 facility_name: "Prowers County Jail"
 operator: ""

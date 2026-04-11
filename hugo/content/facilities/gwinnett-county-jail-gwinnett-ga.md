@@ -9,6 +9,7 @@ county: "Gwinnett"
 repo_path: "kb/facilities/gwinnett-county-jail-gwinnett-ga.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Gwinnett, GA."
+source_count: 1
 layout: "single"
 facility_name: "Gwinnett County Jail"
 operator: ""

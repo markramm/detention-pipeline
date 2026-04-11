@@ -9,6 +9,7 @@ county: "El Paso"
 repo_path: "kb/facilities/el-paso-county-jail-co-el-paso-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in El Paso, CO."
+source_count: 1
 layout: "single"
 facility_name: "El Paso County Jail (CO)"
 operator: ""

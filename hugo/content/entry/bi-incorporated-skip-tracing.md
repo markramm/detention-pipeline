@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/bi-incorporated-skip-tracing.md"
 lastmod: "2026-04-06"
 summary: "$121M contract for BI Inc to hunt immigrants who missed check-ins using its own ISAP surveillance data. Completes GEO Group's monitor-hunt-detain closed loop."
+source_count: 3
 type: "entry"
 layout: "single"
 ---

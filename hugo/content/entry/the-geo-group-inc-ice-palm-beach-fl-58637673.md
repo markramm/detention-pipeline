@@ -1,5 +1,5 @@
 ---
-title: "The Geo Group, Inc. — Ice Palm Beach, Fl $58,637,673"
+title: "The Geo Group, INC. — ICE Palm Beach, FL $58,637,673"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "PALM BEACH"
 repo_path: "kb/anc/the-geo-group-inc-ice-palm-beach-fl-58637673.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in FL ($58,637,673.24)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

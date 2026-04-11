@@ -9,6 +9,7 @@ county: "McDonald County"
 repo_path: "kb/287g/287-g-wso-goodman-police-department-mo.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Goodman Police Department, signed September 22, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

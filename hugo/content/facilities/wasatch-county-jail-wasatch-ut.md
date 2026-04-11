@@ -9,6 +9,7 @@ county: "Wasatch"
 repo_path: "kb/facilities/wasatch-county-jail-wasatch-ut.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Wasatch, UT."
+source_count: 1
 layout: "single"
 facility_name: "Wasatch County Jail"
 operator: ""

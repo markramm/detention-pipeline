@@ -9,6 +9,7 @@ county: "Mahoning"
 repo_path: "kb/facilities/mahoning-county-jail-mahoning-oh.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Mahoning, OH."
+source_count: 1
 layout: "single"
 facility_name: "Mahoning County Jail"
 operator: ""

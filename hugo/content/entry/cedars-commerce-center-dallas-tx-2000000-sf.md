@@ -9,6 +9,7 @@ county: "Dallas"
 repo_path: "kb/real-estate/cedars-commerce-center-dallas-tx-2000000-sf.md"
 lastmod: "2026-04-10"
 summary: "2M SF available warehouse in Dallas TX, owned by LBA Logistics/Blackstone, undergoing $35M renovation. Major urban industrial asset."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

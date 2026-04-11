@@ -9,6 +9,7 @@ county: "Delta"
 repo_path: "kb/facilities/delta-county-jail-delta-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Delta, CO."
+source_count: 1
 layout: "single"
 facility_name: "Delta County Jail"
 operator: ""

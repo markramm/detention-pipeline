@@ -9,6 +9,7 @@ county: "Alamance"
 repo_path: "kb/facilities/alamance-co-det-facility-alamance-nc.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Alamance, NC."
+source_count: 1
 layout: "single"
 facility_name: "Alamance Co. Det. Facility"
 operator: ""

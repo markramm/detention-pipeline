@@ -9,6 +9,7 @@ county: "Campbell"
 repo_path: "kb/facilities/campbell-county-jail-campbell-wy.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Campbell, WY."
+source_count: 1
 layout: "single"
 facility_name: "Campbell County Jail"
 operator: ""

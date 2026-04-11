@@ -1,5 +1,5 @@
 ---
-title: "Deloitte Consulting Llp — Ice Arlington, Va $69,678,847"
+title: "Deloitte Consulting Llp — ICE Arlington, VA $69,678,847"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ARLINGTON"
 repo_path: "kb/anc/deloitte-consulting-llp-ice-arlington-va-69678847.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to DELOITTE CONSULTING LLP in VA ($69,678,847.05)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

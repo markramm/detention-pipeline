@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/venntel-gravy-analytics.md"
 lastmod: "2026-04-06"
 summary: "Venntel sells ICE precise cell phone location data harvested from advertising bid-streams without warrants. FTC filed a complaint in Dec 2024 but ICE expanded purchases."
+source_count: 6
 layout: "single"
 player_type: "contractor"
 contractor_type: "data-broker"

@@ -9,6 +9,7 @@ county: "Morrow"
 repo_path: "kb/facilities/morrow-co-correctional-facility-morrow-oh.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Morrow, OH."
+source_count: 1
 layout: "single"
 facility_name: "Morrow Co. Correctional Facility"
 operator: ""

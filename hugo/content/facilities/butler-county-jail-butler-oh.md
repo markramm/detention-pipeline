@@ -9,6 +9,7 @@ county: "Butler"
 repo_path: "kb/facilities/butler-county-jail-butler-oh.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Butler, OH."
+source_count: 1
 layout: "single"
 facility_name: "Butler County Jail"
 operator: ""

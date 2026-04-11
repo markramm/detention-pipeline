@@ -9,6 +9,7 @@ county: "Lane"
 repo_path: "kb/facilities/springfield-city-jail-lane-or.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Lane, OR."
+source_count: 1
 layout: "single"
 facility_name: "Springfield City Jail"
 operator: ""

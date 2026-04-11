@@ -9,6 +9,7 @@ county: "Miami-Dade"
 repo_path: "kb/real-estate/10801-nw-97th-st-miami-dade-fl-162000-sf.md"
 lastmod: "2026-04-10"
 summary: "162K SF warehouse at Flagler Station in Miami-Dade, owned by AEW Capital Management, currently leased. Part of Miami Trading Zone industrial cluster."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

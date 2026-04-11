@@ -1,5 +1,5 @@
 ---
-title: "Global Tel*Link Corporation — Ice Orange, Ny $732,634"
+title: "Global Tel*Link Corporation — ICE Orange, NY $732,634"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ORANGE"
 repo_path: "kb/anc/global-tellink-corporation-ice-orange-ny-732634.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to GLOBAL TEL*LINK CORPORATION in NY ($732,633.74)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

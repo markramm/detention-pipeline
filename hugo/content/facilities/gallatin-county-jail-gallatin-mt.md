@@ -9,6 +9,7 @@ county: "Gallatin"
 repo_path: "kb/facilities/gallatin-county-jail-gallatin-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Gallatin, MT."
+source_count: 1
 layout: "single"
 facility_name: "Gallatin County Jail"
 operator: ""

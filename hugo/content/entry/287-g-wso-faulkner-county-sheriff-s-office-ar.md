@@ -9,6 +9,7 @@ county: "Faulkner County"
 repo_path: "kb/287g/287-g-wso-faulkner-county-sheriff-s-office-ar.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Faulkner County Sheriff’s Office, signed August 28, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

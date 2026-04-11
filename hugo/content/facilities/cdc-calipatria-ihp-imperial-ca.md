@@ -9,6 +9,7 @@ county: "Imperial"
 repo_path: "kb/facilities/cdc-calipatria-ihp-imperial-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Imperial, CA."
+source_count: 1
 layout: "single"
 facility_name: "CDC Calipatria IHP"
 operator: ""

@@ -9,6 +9,7 @@ county: "Fremont"
 repo_path: "kb/facilities/fremont-county-jail-co-fremont-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Fremont, CO."
+source_count: 1
 layout: "single"
 facility_name: "Fremont County Jail, CO"
 operator: ""

@@ -9,6 +9,7 @@ county: "Pinal County"
 repo_path: "kb/287g/287-g-tfm-pinal-county-attorney-s-office-az.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Pinal County Attorney’s Office, signed August 28, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

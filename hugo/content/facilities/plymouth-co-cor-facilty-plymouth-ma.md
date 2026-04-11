@@ -9,6 +9,7 @@ county: "Plymouth"
 repo_path: "kb/facilities/plymouth-co-cor-facilty-plymouth-ma.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Plymouth, MA."
+source_count: 1
 layout: "single"
 facility_name: "Plymouth Co Cor Facilty"
 operator: ""

@@ -9,6 +9,7 @@ county: "St. James"
 repo_path: "kb/real-estate/port-of-south-louisiana-industrial-st-james-la-250000-sf.md"
 lastmod: "2026-04-10"
 summary: "250K SF available warehouse at Port of South Louisiana in St. James Parish LA with river access for bulk logistics."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

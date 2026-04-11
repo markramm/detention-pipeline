@@ -9,6 +9,7 @@ county: "Pondera"
 repo_path: "kb/facilities/pondera-county-jail-pondera-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Pondera, MT."
+source_count: 1
 layout: "single"
 facility_name: "Pondera County Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/people/david-venturella.md"
 lastmod: "2026-04-08"
 summary: "Spent 12 years at GEO Group ($6M+ pay), now runs ICE detention contracting with an ethics waiver. Since his return, GEO won $520M in new contracts and reported 700% profit increase."
+source_count: 4
 layout: "single"
 player_type: "person"
 role: "DHS Senior Adviser / Former GEO Group Executive / Former ICE Assistant Director"

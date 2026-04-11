@@ -9,6 +9,7 @@ county: "Cumberland County"
 repo_path: "kb/287g/287-g-tfm-pennsylvania-state-constable-s-office-so-middleton-twp-pa.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Pennsylvania State Constable’s Office So Middleton Twp, signed August 28, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

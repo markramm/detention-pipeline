@@ -9,6 +9,7 @@ county: "Williamson"
 repo_path: "kb/facilities/williamson-county-jail-williamson-tn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Williamson, TN."
+source_count: 1
 layout: "single"
 facility_name: "Williamson County Jail"
 operator: ""

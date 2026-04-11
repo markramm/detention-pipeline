@@ -9,6 +9,7 @@ county: "Cass"
 repo_path: "kb/facilities/cass-county-jail-cass-nd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Cass, ND."
+source_count: 1
 layout: "single"
 facility_name: "Cass County Jail"
 operator: ""

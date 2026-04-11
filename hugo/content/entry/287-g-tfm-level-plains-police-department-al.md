@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-level-plains-police-department-al.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Level Plains Police Department, signed June 18, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

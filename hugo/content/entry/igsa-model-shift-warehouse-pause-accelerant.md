@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/notes/igsa-model-shift-warehouse-pause-accelerant.md"
 lastmod: "2026-04-10"
 summary: "The April 2026 warehouse purchase pause is accelerating the county-led IGSA model, where sheriffs partner with Sabot Consulting to build detention facilities, bypassing federal purchase opposition."
+source_count: 5
 type: "entry"
 layout: "single"
 ---

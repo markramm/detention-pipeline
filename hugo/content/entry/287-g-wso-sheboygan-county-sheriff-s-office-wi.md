@@ -9,6 +9,7 @@ county: "Sheboygan County"
 repo_path: "kb/287g/287-g-wso-sheboygan-county-sheriff-s-office-wi.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Sheboygan County Sheriff’s Office, signed February 27, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

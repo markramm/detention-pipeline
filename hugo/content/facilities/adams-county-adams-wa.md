@@ -9,6 +9,7 @@ county: "Adams"
 repo_path: "kb/facilities/adams-county-adams-wa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Adams, WA."
+source_count: 1
 layout: "single"
 facility_name: "Adams County"
 operator: ""

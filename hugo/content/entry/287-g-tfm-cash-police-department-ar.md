@@ -9,6 +9,7 @@ county: "Craighead County"
 repo_path: "kb/287g/287-g-tfm-cash-police-department-ar.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Cash Police Department, signed November 6, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

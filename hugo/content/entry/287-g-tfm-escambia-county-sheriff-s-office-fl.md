@@ -9,6 +9,7 @@ county: "Escambia County"
 repo_path: "kb/287g/287-g-tfm-escambia-county-sheriff-s-office-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Escambia County Sheriff’s Office, signed February 26, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Tensas"
 repo_path: "kb/facilities/tensas-parish-det-cntr-tensas-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Tensas, LA."
+source_count: 1
 layout: "single"
 facility_name: "Tensas Parish Det. Cntr."
 operator: ""

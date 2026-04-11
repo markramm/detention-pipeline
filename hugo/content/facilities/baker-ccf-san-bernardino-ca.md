@@ -9,6 +9,7 @@ county: "San Bernardino"
 repo_path: "kb/facilities/baker-ccf-san-bernardino-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in San Bernardino, CA."
+source_count: 1
 layout: "single"
 facility_name: "Baker CCF"
 operator: ""

@@ -9,6 +9,7 @@ county: "Avoyelles"
 repo_path: "kb/facilities/avoyelles-parish-prison-avoyelles-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Avoyelles, LA."
+source_count: 1
 layout: "single"
 facility_name: "Avoyelles Parish Prison"
 operator: ""

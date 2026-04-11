@@ -9,6 +9,7 @@ county: "Coos"
 repo_path: "kb/facilities/coos-co-jail-coos-or.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Coos, OR."
+source_count: 1
 layout: "single"
 facility_name: "Coos Co. Jail"
 operator: ""

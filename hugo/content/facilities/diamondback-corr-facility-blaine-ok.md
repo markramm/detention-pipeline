@@ -9,6 +9,7 @@ county: "Blaine"
 repo_path: "kb/facilities/diamondback-corr-facility-blaine-ok.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Blaine, OK."
+source_count: 1
 layout: "single"
 facility_name: "Diamondback Corr Facility"
 operator: ""

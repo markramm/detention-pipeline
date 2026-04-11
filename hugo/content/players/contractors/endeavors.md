@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/endeavors.md"
 lastmod: "2026-04-06"
 summary: "Endeavors is a San Antonio nonprofit that received ~$3.2B in federal migrant services contracts under Biden. DOGE terminated a $215M contract for an empty Pecos facility."
+source_count: 5
 layout: "single"
 player_type: "contractor"
 contractor_type: "hybrid"

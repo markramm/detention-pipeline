@@ -9,6 +9,7 @@ county: "Marathon County"
 repo_path: "kb/287g/287-g-jem-marathon-county-sheriff-s-office-wi.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Marathon County Sheriff’s Office, signed November 4, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-jupiter-island-department-of-public-safety-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Jupiter Island Department of Public Safety, signed March 25, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

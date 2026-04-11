@@ -9,6 +9,7 @@ county: "Washington"
 repo_path: "kb/industry/facilities/williamsport-md-warehouse.md"
 lastmod: "2026-04-08"
 summary: "Vacant warehouse in Williamsport, MD, 1,500 beds, owned by Fundrise and refinanced by Goldman Sachs months before DHS purchase. Judge extended restraining order against operations."
+source_count: 1
 layout: "single"
 facility_name: ""
 operator: "ICE (federal)"

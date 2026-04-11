@@ -9,6 +9,7 @@ county: "Faulk"
 repo_path: "kb/facilities/faulk-county-jail-faulk-sd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Faulk, SD."
+source_count: 1
 layout: "single"
 facility_name: "Faulk County Jail"
 operator: ""

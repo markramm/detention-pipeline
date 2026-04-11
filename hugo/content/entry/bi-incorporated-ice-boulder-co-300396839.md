@@ -1,5 +1,5 @@
 ---
-title: "B.I. Incorporated — Ice Boulder, Co $300,396,839"
+title: "B.I. Incorporated — ICE Boulder, CO $300,396,839"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BOULDER"
 repo_path: "kb/anc/bi-incorporated-ice-boulder-co-300396839.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to B.I. INCORPORATED in CO ($300,396,838.93)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

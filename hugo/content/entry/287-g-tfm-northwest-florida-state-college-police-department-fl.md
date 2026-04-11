@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-northwest-florida-state-college-police-department-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Northwest Florida State College Police Department, signed May 8, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

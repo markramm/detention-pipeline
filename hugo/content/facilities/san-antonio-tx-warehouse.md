@@ -9,6 +9,7 @@ county: "Bexar"
 repo_path: "kb/industry/facilities/san-antonio-tx-warehouse.md"
 lastmod: "2026-04-06"
 summary: "$66M+ warehouse (640K sq ft) on San Antonio's East Side planned as 1,500-bed ICE processing center. Assessed value was $37M; part of the 24-warehouse Detention Reengineering Initiative."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "ICE (federal)"

@@ -1,5 +1,5 @@
 ---
-title: "Price Modern Llc — Ice Orange, Fl $857,871"
+title: "Price Modern LLC — ICE Orange, FL $857,871"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ORANGE"
 repo_path: "kb/anc/price-modern-llc-ice-orange-fl-857871.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to PRICE MODERN LLC in FL ($857,871.15)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

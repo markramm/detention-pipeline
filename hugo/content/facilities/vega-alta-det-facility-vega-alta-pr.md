@@ -9,6 +9,7 @@ county: "Vega Alta"
 repo_path: "kb/facilities/vega-alta-det-facility-vega-alta-pr.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Vega Alta, PR."
+source_count: 1
 layout: "single"
 facility_name: "Vega Alta Det. Facility"
 operator: ""

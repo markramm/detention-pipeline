@@ -9,6 +9,7 @@ county: "Hernando"
 repo_path: "kb/facilities/hernando-county-jail-hernando-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hernando, FL."
+source_count: 1
 layout: "single"
 facility_name: "Hernando County Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Wakulla"
 repo_path: "kb/facilities/wakulla-county-jail-wakulla-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Wakulla, FL."
+source_count: 1
 layout: "single"
 facility_name: "Wakulla County Jail"
 operator: ""

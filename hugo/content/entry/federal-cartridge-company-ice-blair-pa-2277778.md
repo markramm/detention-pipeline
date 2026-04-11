@@ -1,5 +1,5 @@
 ---
-title: "Federal Cartridge Company — Ice Blair, Pa $2,277,778"
+title: "Federal Cartridge Company — ICE Blair, PA $2,277,778"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BLAIR"
 repo_path: "kb/anc/federal-cartridge-company-ice-blair-pa-2277778.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to FEDERAL CARTRIDGE COMPANY in PA ($2,277,778.27)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

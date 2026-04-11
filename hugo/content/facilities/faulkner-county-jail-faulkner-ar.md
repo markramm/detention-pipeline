@@ -9,6 +9,7 @@ county: "Faulkner"
 repo_path: "kb/facilities/faulkner-county-jail-faulkner-ar.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Faulkner, AR."
+source_count: 1
 layout: "single"
 facility_name: "Faulkner County Jail"
 operator: ""

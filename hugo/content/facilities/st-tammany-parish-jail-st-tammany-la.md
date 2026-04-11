@@ -9,6 +9,7 @@ county: "St. Tammany"
 repo_path: "kb/facilities/st-tammany-parish-jail-st-tammany-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in St. Tammany, LA."
+source_count: 1
 layout: "single"
 facility_name: "St Tammany Parish Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Bradford"
 repo_path: "kb/industry/county-fights/bradford-county-fl-douglas-building.md"
 lastmod: "2026-04-06"
 summary: "Community in Bradford County FL contested a 3,000-bed IGSA facility on a VOC-contaminated site pitched by Sabot Consulting. Commission voted 3-2 to advance; lease on agenda before environmental studies complete."
+source_count: 3
 type: "fights"
 layout: "single"
 status: "contested"

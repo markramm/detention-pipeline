@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/facilities/orange-county-central-women-s-jail-orange-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in ."
+source_count: 1
 layout: "single"
 facility_name: ""
 operator: ""

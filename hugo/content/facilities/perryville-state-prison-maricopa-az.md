@@ -9,6 +9,7 @@ county: "Maricopa"
 repo_path: "kb/facilities/perryville-state-prison-maricopa-az.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Maricopa, AZ."
+source_count: 1
 layout: "single"
 facility_name: "Perryville State Prison"
 operator: ""

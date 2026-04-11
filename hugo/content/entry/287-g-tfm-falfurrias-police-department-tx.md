@@ -9,6 +9,7 @@ county: "Brooks County"
 repo_path: "kb/287g/287-g-tfm-falfurrias-police-department-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Falfurrias Police Department, signed November 4, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

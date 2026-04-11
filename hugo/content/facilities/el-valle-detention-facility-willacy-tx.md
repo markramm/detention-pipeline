@@ -9,6 +9,7 @@ county: "Willacy"
 repo_path: "kb/facilities/el-valle-detention-facility-willacy-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Willacy, TX."
+source_count: 1
 layout: "single"
 facility_name: "El Valle Detention Facility"
 operator: ""

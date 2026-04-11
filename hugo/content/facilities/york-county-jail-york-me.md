@@ -9,6 +9,7 @@ county: "York"
 repo_path: "kb/facilities/york-county-jail-york-me.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in York, ME."
+source_count: 1
 layout: "single"
 facility_name: "York County Jail"
 operator: ""

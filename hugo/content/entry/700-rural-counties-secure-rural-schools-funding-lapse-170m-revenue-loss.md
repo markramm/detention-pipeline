@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/budget/700-rural-counties-secure-rural-schools-funding-lapse-170m-revenue-loss.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for ."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

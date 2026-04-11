@@ -9,6 +9,7 @@ county: "Greene"
 repo_path: "kb/facilities/greene-county-jail-greene-mo.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Greene, MO."
+source_count: 1
 layout: "single"
 facility_name: "Greene County Jail"
 operator: ""

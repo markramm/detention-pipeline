@@ -9,6 +9,7 @@ county: "Hillsborough County"
 repo_path: "kb/287g/287-g-tfm-university-of-south-florida-police-department-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and University of South Florida Police Department, signed February 10, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Lewis And Clark"
 repo_path: "kb/facilities/lewis-clark-county-jail-lewis-and-clark-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Lewis And Clark, MT."
+source_count: 1
 layout: "single"
 facility_name: "Lewis & Clark County Jail"
 operator: ""

@@ -1,5 +1,5 @@
 ---
-title: "Geissele Automatics Llc — Ice Chattahoochee, Ga $9,098,590"
+title: "Geissele Automatics LLC — ICE Chattahoochee, GA $9,098,590"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "CHATTAHOOCHEE"
 repo_path: "kb/anc/geissele-automatics-llc-ice-chattahoochee-ga-9098590.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to GEISSELE AUTOMATICS LLC in GA ($9,098,590.16)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

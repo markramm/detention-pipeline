@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/palantir-icm-2022.md"
 lastmod: "2026-04-06"
 summary: "$139.3M Palantir contract for ICE's Investigative Case Management system (2022-2026). Slated for sole-source renewal because no comparable system exists."
+source_count: 2
 type: "entry"
 layout: "single"
 ---

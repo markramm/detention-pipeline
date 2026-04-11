@@ -9,6 +9,7 @@ county: "Glades"
 repo_path: "kb/industry/facilities/glades-county-fl-detention.md"
 lastmod: "2026-04-06"
 summary: "500-bed county jail in Moore Haven FL with IGSA reinstated April 2025. Part of Florida's county jail detention network; a 19-year-old detainee death drew media attention."
+source_count: 2
 layout: "single"
 facility_name: ""
 operator: "Glades County Board of County Commissioners"

@@ -9,6 +9,7 @@ county: "Cibola"
 repo_path: "kb/facilities/cibola-county-correctional-center-cibola-nm.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Cibola, NM."
+source_count: 1
 layout: "single"
 facility_name: "Cibola County Correctional Center"
 operator: ""

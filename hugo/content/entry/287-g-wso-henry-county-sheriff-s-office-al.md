@@ -9,6 +9,7 @@ county: "Henry County"
 repo_path: "kb/287g/287-g-wso-henry-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Henry County Sheriff’s Office, signed March 17, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Ste. Genevieve County"
 repo_path: "kb/287g/287-g-tfm-ste-genevieve-county-sheriff-s-office-mo.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Ste. Genevieve County Sheriff’s Office, signed December 16, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Duval"
 repo_path: "kb/real-estate/600-ellis-rd-n-duval-fl-200000-sf.md"
 lastmod: "2026-04-10"
 summary: "200K SF available temperature-controlled FDA-registered warehouse in Jacksonville, Duval FL. Owned by Total Distribution Inc."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

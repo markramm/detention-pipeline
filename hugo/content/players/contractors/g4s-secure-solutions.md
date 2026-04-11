@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/g4s-secure-solutions.md"
 lastmod: "2026-04-06"
 summary: "G4S (Allied Universal subsidiary, formerly Wackenhut) provides armed ground transportation of ICE detainees across multiple field offices. $100M San Diego contract solicited."
+source_count: 6
 layout: "single"
 player_type: "contractor"
 contractor_type: "transportation"

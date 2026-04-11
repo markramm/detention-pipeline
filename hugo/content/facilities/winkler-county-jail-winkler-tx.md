@@ -9,6 +9,7 @@ county: "Winkler"
 repo_path: "kb/facilities/winkler-county-jail-winkler-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Winkler, TX."
+source_count: 1
 layout: "single"
 facility_name: "Winkler County Jail"
 operator: ""

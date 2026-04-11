@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-candia-police-department-nh.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Candia Police Department, signed April 23, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

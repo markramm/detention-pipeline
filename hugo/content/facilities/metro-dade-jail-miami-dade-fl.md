@@ -9,6 +9,7 @@ county: "Miami-Dade"
 repo_path: "kb/facilities/metro-dade-jail-miami-dade-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Miami-Dade, FL."
+source_count: 1
 layout: "single"
 facility_name: "Metro Dade Jail"
 operator: ""

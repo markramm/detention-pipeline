@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/g4s-ground-transportation.md"
 lastmod: "2026-04-06"
 summary: "G4S (Allied Universal) holds multiple ICE ground transportation task orders across six field offices. A $100M San Diego contract was solicited for FY2026."
+source_count: 4
 type: "entry"
 layout: "single"
 ---

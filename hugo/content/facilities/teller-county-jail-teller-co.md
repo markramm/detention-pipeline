@@ -9,6 +9,7 @@ county: "Teller"
 repo_path: "kb/facilities/teller-county-jail-teller-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Teller, CO."
+source_count: 1
 layout: "single"
 facility_name: "Teller County Jail"
 operator: ""

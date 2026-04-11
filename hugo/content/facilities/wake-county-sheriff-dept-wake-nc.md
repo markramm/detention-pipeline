@@ -9,6 +9,7 @@ county: "Wake"
 repo_path: "kb/facilities/wake-county-sheriff-dept-wake-nc.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Wake, NC."
+source_count: 1
 layout: "single"
 facility_name: "Wake County Sheriff Dept."
 operator: ""

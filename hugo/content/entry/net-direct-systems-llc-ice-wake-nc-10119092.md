@@ -1,5 +1,5 @@
 ---
-title: "Net Direct Systems, Llc — Ice Wake, Nc $10,119,092"
+title: "Net Direct Systems, LLC — ICE Wake, NC $10,119,092"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "WAKE"
 repo_path: "kb/anc/net-direct-systems-llc-ice-wake-nc-10119092.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to NET DIRECT SYSTEMS, LLC in NC ($10,119,092.22)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

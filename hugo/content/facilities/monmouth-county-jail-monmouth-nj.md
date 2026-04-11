@@ -9,6 +9,7 @@ county: "Monmouth"
 repo_path: "kb/facilities/monmouth-county-jail-monmouth-nj.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Monmouth, NJ."
+source_count: 1
 layout: "single"
 facility_name: "Monmouth County Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Mississippi"
 repo_path: "kb/budget/mississippi-county-mo-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Mississippi, MO."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

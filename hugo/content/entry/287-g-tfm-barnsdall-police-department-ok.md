@@ -9,6 +9,7 @@ county: "Osage County"
 repo_path: "kb/287g/287-g-tfm-barnsdall-police-department-ok.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Barnsdall Police Department, signed September 22, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

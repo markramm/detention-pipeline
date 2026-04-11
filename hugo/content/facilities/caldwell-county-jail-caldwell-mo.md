@@ -9,6 +9,7 @@ county: "Caldwell"
 repo_path: "kb/facilities/caldwell-county-jail-caldwell-mo.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Caldwell, MO."
+source_count: 1
 layout: "single"
 facility_name: "Caldwell County Jail"
 operator: ""

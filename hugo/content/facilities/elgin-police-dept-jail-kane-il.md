@@ -9,6 +9,7 @@ county: "Kane"
 repo_path: "kb/facilities/elgin-police-dept-jail-kane-il.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Kane, IL."
+source_count: 1
 layout: "single"
 facility_name: "Elgin Police Dept. Jail"
 operator: ""

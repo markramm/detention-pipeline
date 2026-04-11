@@ -1,5 +1,5 @@
 ---
-title: "Akima Infrastructure Protection Llc — Ice Miami-Dade, Fl $71,098,381"
+title: "Akima Infrastructure Protection LLC — ICE Miami-Dade, FL $71,098,381"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MIAMI-DADE"
 repo_path: "kb/anc/akima-infrastructure-protection-llc-ice-miami-dade-fl-71098381.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to AKIMA INFRASTRUCTURE PROTECTION LLC in FL ($71,098,380.76)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

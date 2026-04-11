@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/mvm-inc.md"
 lastmod: "2026-04-06"
 summary: "MVM Inc. is a security contractor founded by ex-Secret Service agents with $1.1B in cumulative ICE transport contracts. Owners are major Trump donors."
+source_count: 7
 layout: "single"
 player_type: "contractor"
 contractor_type: "transportation"

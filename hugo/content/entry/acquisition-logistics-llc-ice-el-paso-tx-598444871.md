@@ -1,5 +1,5 @@
 ---
-title: "Acquisition Logistics Llc — Ice El Paso, Tx $598,444,871"
+title: "Acquisition Logistics LLC — ICE El Paso, TX $598,444,871"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "EL PASO"
 repo_path: "kb/anc/acquisition-logistics-llc-ice-el-paso-tx-598444871.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to ACQUISITION LOGISTICS LLC in TX ($598,444,871.04)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

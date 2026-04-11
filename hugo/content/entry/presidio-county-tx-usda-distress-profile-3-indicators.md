@@ -9,6 +9,7 @@ county: "Presidio"
 repo_path: "kb/budget/presidio-county-tx-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Presidio, TX."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

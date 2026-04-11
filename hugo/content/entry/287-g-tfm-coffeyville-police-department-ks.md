@@ -9,6 +9,7 @@ county: "Montgomery County"
 repo_path: "kb/287g/287-g-tfm-coffeyville-police-department-ks.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Coffeyville Police Department, signed November 4, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

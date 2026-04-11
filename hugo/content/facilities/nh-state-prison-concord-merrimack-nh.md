@@ -9,6 +9,7 @@ county: "Merrimack"
 repo_path: "kb/facilities/nh-state-prison-concord-merrimack-nh.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Merrimack, NH."
+source_count: 1
 layout: "single"
 facility_name: "NH State Prison, Concord"
 operator: ""

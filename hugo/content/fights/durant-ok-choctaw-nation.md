@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/county-fights/durant-ok-choctaw-nation.md"
 lastmod: "2026-04-08"
 summary: "Choctaw Nation purchased a Durant OK warehouse targeted by DHS, directly blocking ICE acquisition. Novel use of tribal sovereignty and economic power to remove property from federal reach."
+source_count: 1
 type: "fights"
 layout: "single"
 status: ""

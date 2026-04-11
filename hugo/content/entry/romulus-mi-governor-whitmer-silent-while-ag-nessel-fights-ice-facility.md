@@ -9,6 +9,7 @@ county: "Wayne"
 repo_path: "kb/comms/romulus-mi-governor-whitmer-silent-while-ag-nessel-fights-ice-facility.md"
 lastmod: "2026-04-10"
 summary: "Governor Whitmer stayed silent on the Romulus ICE warehouse while AG Nessel led opposition. Mirrors a national pattern of governors avoiding ICE confrontation."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

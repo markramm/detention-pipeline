@@ -22,6 +22,9 @@
       {{ else }}
       <span class="signal-badge" style="font-size:9px; background:rgba(42,138,90,0.06); border-color:rgba(42,138,90,0.15); color:#2a8a5a;" title="This entry was written from human research — news coverage, public records, or investigative findings.">Researched</span>
       {{ end }}
+      {{ with .Params.source_count }}{{ if le . 1 }}
+      <span class="signal-badge" style="font-size:9px; background:rgba(196,144,37,0.06); border-color:rgba(196,144,37,0.15); color:#c49025;" title="This entry cites only one source. Additional corroboration would strengthen it.">Single source</span>
+      {{ end }}{{ end }}
     </div>
     <h1 class="serif" style="font-size:26px; font-weight:400; letter-spacing:-0.01em; margin-bottom:8px;">{{ .Title }}</h1>
     <div class="mono dim small" style="margin-bottom:20px;">
@@ -32,6 +35,12 @@
     <div style="font-size:14px; color:var(--text-secondary); line-height:1.75; margin-bottom:32px; white-space:pre-line;">
       {{ .Content }}
     </div>
+
+    {{ with .Params.cascade_url }}
+    <div style="margin-bottom:16px; padding:10px 14px; background:var(--bg-content-alt); border-radius:4px; border-left:3px solid var(--accent-warm);">
+      <a href="{{ . }}" style="font-size:13px; color:var(--accent-warm); text-decoration:none;" target="_blank" rel="noopener">View on Capture Cascade Timeline →</a>
+    </div>
+    {{ end }}
 
     <div style="display:flex; gap:8px; flex-wrap:wrap; padding-top:16px; border-top:1px solid var(--border);">
       {{ with $repoPath }}

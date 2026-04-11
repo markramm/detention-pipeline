@@ -9,6 +9,7 @@ county: "Klamath"
 repo_path: "kb/facilities/klamath-co-jail-klamath-or.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Klamath, OR."
+source_count: 1
 layout: "single"
 facility_name: "Klamath Co Jail"
 operator: ""

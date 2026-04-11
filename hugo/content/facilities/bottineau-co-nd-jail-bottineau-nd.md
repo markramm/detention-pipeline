@@ -9,6 +9,7 @@ county: "Bottineau"
 repo_path: "kb/facilities/bottineau-co-nd-jail-bottineau-nd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Bottineau, ND."
+source_count: 1
 layout: "single"
 facility_name: "Bottineau Co. ND Jail"
 operator: ""

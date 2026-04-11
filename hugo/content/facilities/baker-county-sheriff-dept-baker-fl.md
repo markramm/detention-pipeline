@@ -9,6 +9,7 @@ county: "Baker"
 repo_path: "kb/facilities/baker-county-sheriff-dept-baker-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Baker, FL."
+source_count: 1
 layout: "single"
 facility_name: "Baker County Sheriff Dept."
 operator: ""

@@ -9,6 +9,7 @@ county: "Woodbury"
 repo_path: "kb/facilities/woodbury-county-jail-woodbury-ia.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Woodbury, IA."
+source_count: 1
 layout: "single"
 facility_name: "Woodbury County Jail"
 operator: ""

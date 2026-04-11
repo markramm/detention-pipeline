@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/notes/tracking-resources.md"
 lastmod: "2026-04-06"
 summary: "Curated list of external resources for monitoring detention expansion: facility maps (Courier, Freedom for Immigrants), flight monitors (Human Rights First), investigative journalists, and FOIA tools."
+source_count: 9
 type: "entry"
 layout: "single"
 ---

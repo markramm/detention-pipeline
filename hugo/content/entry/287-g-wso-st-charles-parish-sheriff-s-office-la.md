@@ -9,6 +9,7 @@ county: "German Coast County"
 repo_path: "kb/287g/287-g-wso-st-charles-parish-sheriff-s-office-la.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and St. Charles Parish Sheriff’s Office, signed July 24, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

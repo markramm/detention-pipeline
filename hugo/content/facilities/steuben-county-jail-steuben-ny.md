@@ -9,6 +9,7 @@ county: "Steuben"
 repo_path: "kb/facilities/steuben-county-jail-steuben-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Steuben, NY."
+source_count: 1
 layout: "single"
 facility_name: "Steuben County Jail"
 operator: ""

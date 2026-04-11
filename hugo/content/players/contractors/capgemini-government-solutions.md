@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/capgemini-government-solutions.md"
 lastmod: "2026-04-06"
 summary: "Capgemini won the largest ICE skip-tracing contract ($365M ceiling) to locate immigrants for deportation. The French multinational reportedly had internal doubts about reputational risk."
+source_count: 4
 layout: "single"
 player_type: "contractor"
 contractor_type: "skip-tracing"

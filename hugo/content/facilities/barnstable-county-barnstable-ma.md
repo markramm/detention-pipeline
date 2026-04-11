@@ -9,6 +9,7 @@ county: "Barnstable"
 repo_path: "kb/facilities/barnstable-county-barnstable-ma.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Barnstable, MA."
+source_count: 1
 layout: "single"
 facility_name: "Barnstable County"
 operator: ""

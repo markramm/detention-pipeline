@@ -9,6 +9,7 @@ county: "Irwin"
 repo_path: "kb/facilities/irwin-county-detention-center-irwin-ga.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Irwin, GA."
+source_count: 1
 layout: "single"
 facility_name: "Irwin County Detention Center"
 operator: ""

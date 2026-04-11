@@ -9,6 +9,7 @@ county: "Bradford"
 repo_path: "kb/budget/bradford-county-fl-525-55m-budget-shortfall-sheriffs-cited-figure.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Bradford, FL."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

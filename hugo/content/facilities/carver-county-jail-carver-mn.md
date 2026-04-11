@@ -9,6 +9,7 @@ county: "Carver"
 repo_path: "kb/facilities/carver-county-jail-carver-mn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Carver, MN."
+source_count: 1
 layout: "single"
 facility_name: "Carver County Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Strafford"
 repo_path: "kb/facilities/strafford-co-dept-of-corr-strafford-nh.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Strafford, NH."
+source_count: 1
 layout: "single"
 facility_name: "Strafford Co Dept Of Corr"
 operator: ""

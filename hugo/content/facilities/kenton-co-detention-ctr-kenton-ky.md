@@ -9,6 +9,7 @@ county: "Kenton"
 repo_path: "kb/facilities/kenton-co-detention-ctr-kenton-ky.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Kenton, KY."
+source_count: 1
 layout: "single"
 facility_name: "Kenton Co Detention Ctr"
 operator: ""

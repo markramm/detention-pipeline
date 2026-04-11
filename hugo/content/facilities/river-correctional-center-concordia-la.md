@@ -9,6 +9,7 @@ county: "Concordia"
 repo_path: "kb/facilities/river-correctional-center-concordia-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Concordia, LA."
+source_count: 1
 layout: "single"
 facility_name: "River Correctional Center"
 operator: ""

@@ -9,6 +9,7 @@ county: "Niobrara"
 repo_path: "kb/facilities/niobrara-county-jail-niobrara-wy.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Niobrara, WY."
+source_count: 1
 layout: "single"
 facility_name: "Niobrara County Jail"
 operator: ""

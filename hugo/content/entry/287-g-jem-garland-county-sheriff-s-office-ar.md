@@ -9,6 +9,7 @@ county: "Garland County"
 repo_path: "kb/287g/287-g-jem-garland-county-sheriff-s-office-ar.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Garland County Sheriff’s Office, signed September 22, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

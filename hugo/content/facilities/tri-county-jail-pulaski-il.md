@@ -9,6 +9,7 @@ county: "Pulaski"
 repo_path: "kb/facilities/tri-county-jail-pulaski-il.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Pulaski, IL."
+source_count: 1
 layout: "single"
 facility_name: "Tri-County Jail"
 operator: ""

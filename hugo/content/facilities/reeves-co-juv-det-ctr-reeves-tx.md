@@ -9,6 +9,7 @@ county: "Reeves"
 repo_path: "kb/facilities/reeves-co-juv-det-ctr-reeves-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Reeves, TX."
+source_count: 1
 layout: "single"
 facility_name: "Reeves Co. Juv. Det. Ctr."
 operator: ""

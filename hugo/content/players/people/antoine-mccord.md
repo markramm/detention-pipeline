@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/people/antoine-mccord.md"
 lastmod: "2026-04-08"
 summary: "DHS CIO Antoine McCord is a former Anduril employee holding active Anduril equity. Paired with ex-Palantir OMB CIO Barbaccia, both Thiel-network alumni control federal tech procurement."
+source_count: 0
 layout: "single"
 player_type: "person"
 role: "Chief Information Officer, Department of Homeland Security"

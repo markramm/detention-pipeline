@@ -9,6 +9,7 @@ county: "Utah"
 repo_path: "kb/facilities/utah-county-jail-utah-ut.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Utah, UT."
+source_count: 1
 layout: "single"
 facility_name: "Utah County Jail"
 operator: ""

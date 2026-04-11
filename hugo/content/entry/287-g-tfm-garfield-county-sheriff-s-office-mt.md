@@ -9,6 +9,7 @@ county: "Garfield County"
 repo_path: "kb/287g/287-g-tfm-garfield-county-sheriff-s-office-mt.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Garfield County Sheriff’s Office, signed August 28, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

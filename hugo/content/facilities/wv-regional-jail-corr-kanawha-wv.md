@@ -9,6 +9,7 @@ county: "Kanawha"
 repo_path: "kb/facilities/wv-regional-jail-corr-kanawha-wv.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Kanawha, WV."
+source_count: 1
 layout: "single"
 facility_name: "WV Regional Jail & Corr."
 operator: ""

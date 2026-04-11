@@ -9,6 +9,7 @@ county: "Queens"
 repo_path: "kb/facilities/queens-house-of-detention-queens-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Queens, NY."
+source_count: 1
 layout: "single"
 facility_name: "Queens House Of Detention"
 operator: ""

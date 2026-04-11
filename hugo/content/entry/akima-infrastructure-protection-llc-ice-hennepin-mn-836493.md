@@ -1,5 +1,5 @@
 ---
-title: "Akima Infrastructure Protection Llc — Ice Hennepin, Mn $836,493"
+title: "Akima Infrastructure Protection LLC — ICE Hennepin, MN $836,493"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "HENNEPIN"
 repo_path: "kb/anc/akima-infrastructure-protection-llc-ice-hennepin-mn-836493.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to AKIMA INFRASTRUCTURE PROTECTION LLC in MN ($836,492.80)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

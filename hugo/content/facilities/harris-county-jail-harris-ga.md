@@ -9,6 +9,7 @@ county: "Harris"
 repo_path: "kb/facilities/harris-county-jail-harris-ga.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Harris, GA."
+source_count: 1
 layout: "single"
 facility_name: "Harris County Jail"
 operator: ""

@@ -1,5 +1,5 @@
 ---
-title: "Central Lake Armor Express Inc — Ice Antrim, Mi $9,107,236"
+title: "Central Lake Armor Express INC — ICE Antrim, MI $9,107,236"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ANTRIM"
 repo_path: "kb/anc/central-lake-armor-express-inc-ice-antrim-mi-9107236.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to CENTRAL LAKE ARMOR EXPRESS INC in MI ($9,107,235.80)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

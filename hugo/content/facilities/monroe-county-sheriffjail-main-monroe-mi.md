@@ -9,6 +9,7 @@ county: "Monroe"
 repo_path: "kb/facilities/monroe-county-sheriffjail-main-monroe-mi.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Monroe, MI."
+source_count: 1
 layout: "single"
 facility_name: "Monroe County Sheriff/Jail-Main"
 operator: ""

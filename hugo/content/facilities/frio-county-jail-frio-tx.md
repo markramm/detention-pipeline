@@ -9,6 +9,7 @@ county: "Frio"
 repo_path: "kb/facilities/frio-county-jail-frio-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Frio, TX."
+source_count: 1
 layout: "single"
 facility_name: "Frio County Jail"
 operator: ""

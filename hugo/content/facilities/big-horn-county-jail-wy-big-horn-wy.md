@@ -9,6 +9,7 @@ county: "Big Horn"
 repo_path: "kb/facilities/big-horn-county-jail-wy-big-horn-wy.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Big Horn, WY."
+source_count: 1
 layout: "single"
 facility_name: "Big Horn County Jail, WY"
 operator: ""

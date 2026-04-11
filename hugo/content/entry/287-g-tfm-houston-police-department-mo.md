@@ -9,6 +9,7 @@ county: "Texas County"
 repo_path: "kb/287g/287-g-tfm-houston-police-department-mo.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Houston Police Department, signed December 17, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

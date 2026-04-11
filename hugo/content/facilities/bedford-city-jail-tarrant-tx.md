@@ -9,6 +9,7 @@ county: "Tarrant"
 repo_path: "kb/facilities/bedford-city-jail-tarrant-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Tarrant, TX."
+source_count: 1
 layout: "single"
 facility_name: "Bedford City Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Jackson"
 repo_path: "kb/industry/facilities/kansas-city-mo-mega-center.md"
 lastmod: "2026-04-06"
 summary: "Planned 7,500-bed mega center in south Kansas City blocked when Platform Ventures withdrew after mass protests, student walkouts, and Port KC severing ties. Key seller-pressure resistance model."
+source_count: 0
 layout: "single"
 facility_name: ""
 operator: "ICE (federal) — never operational"

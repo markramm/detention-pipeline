@@ -9,6 +9,7 @@ county: "Washington"
 repo_path: "kb/facilities/minncf-oak-park-hgts-washington-mn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Washington, MN."
+source_count: 1
 layout: "single"
 facility_name: "Minn.C.F, Oak Park Hgts"
 operator: ""

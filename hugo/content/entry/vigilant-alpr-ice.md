@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/vigilant-alpr-ice.md"
 lastmod: "2026-04-06"
 summary: "$22.8M ICE contract for Vigilant Solutions (Motorola) license plate reader database access through 2026. ICE also purchased mobile ALPR hardware for ERO field operations."
+source_count: 2
 type: "entry"
 layout: "single"
 ---

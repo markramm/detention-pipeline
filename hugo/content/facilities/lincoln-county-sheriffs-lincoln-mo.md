@@ -9,6 +9,7 @@ county: "Lincoln"
 repo_path: "kb/facilities/lincoln-county-sheriffs-lincoln-mo.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Lincoln, MO."
+source_count: 1
 layout: "single"
 facility_name: "Lincoln County Sheriff's"
 operator: ""

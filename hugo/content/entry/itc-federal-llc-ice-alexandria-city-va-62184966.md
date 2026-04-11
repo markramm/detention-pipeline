@@ -1,5 +1,5 @@
 ---
-title: "Itc Federal, Llc — Ice Alexandria City, Va $62,184,966"
+title: "Itc Federal, LLC — ICE Alexandria City, VA $62,184,966"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ALEXANDRIA CITY"
 repo_path: "kb/anc/itc-federal-llc-ice-alexandria-city-va-62184966.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to ITC FEDERAL, LLC in VA ($62,184,966.02)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

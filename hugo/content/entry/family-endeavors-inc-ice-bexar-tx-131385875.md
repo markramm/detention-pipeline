@@ -1,5 +1,5 @@
 ---
-title: "Family Endeavors, Inc. — Ice Bexar, Tx $131,385,875"
+title: "Family Endeavors, INC. — ICE Bexar, TX $131,385,875"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BEXAR"
 repo_path: "kb/anc/family-endeavors-inc-ice-bexar-tx-131385875.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to FAMILY ENDEAVORS, INC. in TX ($131,385,874.71)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

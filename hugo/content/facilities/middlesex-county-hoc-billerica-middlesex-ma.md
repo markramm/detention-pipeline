@@ -9,6 +9,7 @@ county: "Middlesex"
 repo_path: "kb/facilities/middlesex-county-hoc-billerica-middlesex-ma.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Middlesex, MA."
+source_count: 1
 layout: "single"
 facility_name: "Middlesex County H.O.C.-Billerica"
 operator: ""

@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/ice-skip-tracing-2025.md"
 lastmod: "2026-04-06"
 summary: "$1.2B program across 13 private contractors to locate 1.5M immigrants for deportation using AI, databases, and physical surveillance. Operatives carry no DHS credentials."
+source_count: 11
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The Geo Group, Inc. — Ice Montgomery, Tx $48,312,099"
+title: "The Geo Group, INC. — ICE Montgomery, TX $48,312,099"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MONTGOMERY"
 repo_path: "kb/anc/the-geo-group-inc-ice-montgomery-tx-48312099.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in TX ($48,312,099.25)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

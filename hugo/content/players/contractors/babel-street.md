@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/babel-street.md"
 lastmod: "2026-04-06"
 summary: "Babel Street sells ICE location tracking (Locate X) and social media monitoring (Babel X) using ad-tech data harvested from phone apps. No warrant required."
+source_count: 6
 layout: "single"
 player_type: "contractor"
 contractor_type: "surveillance-platform"

@@ -9,6 +9,7 @@ county: "Franklin"
 repo_path: "kb/facilities/franklin-county-jail-vt-franklin-vt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Franklin, VT."
+source_count: 1
 layout: "single"
 facility_name: "Franklin County Jail, VT"
 operator: ""

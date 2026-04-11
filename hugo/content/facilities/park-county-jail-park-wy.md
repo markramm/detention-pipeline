@@ -9,6 +9,7 @@ county: "Park"
 repo_path: "kb/facilities/park-county-jail-park-wy.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Park, WY."
+source_count: 1
 layout: "single"
 facility_name: "Park County Jail"
 operator: ""

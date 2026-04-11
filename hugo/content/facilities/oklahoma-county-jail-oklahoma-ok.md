@@ -9,6 +9,7 @@ county: "Oklahoma"
 repo_path: "kb/facilities/oklahoma-county-jail-oklahoma-ok.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Oklahoma, OK."
+source_count: 1
 layout: "single"
 facility_name: "Oklahoma County Jail"
 operator: ""

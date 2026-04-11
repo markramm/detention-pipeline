@@ -9,6 +9,7 @@ county: "Pinal"
 repo_path: "kb/industry/facilities/eloy-detention-center-pinal-az.md"
 lastmod: "2026-04-10"
 summary: "1,550-bed CoreCivic facility in Eloy AZ called the 'deadliest ICE detention center' with 16 deaths including 5 suicides. Part of the 11,200+ bed Pinal County CoreCivic cluster."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "CoreCivic"

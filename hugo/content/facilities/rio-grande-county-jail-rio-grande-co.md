@@ -9,6 +9,7 @@ county: "Rio Grande"
 repo_path: "kb/facilities/rio-grande-county-jail-rio-grande-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Rio Grande, CO."
+source_count: 1
 layout: "single"
 facility_name: "Rio Grande County Jail"
 operator: ""

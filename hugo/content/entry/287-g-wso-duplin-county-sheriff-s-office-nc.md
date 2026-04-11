@@ -9,6 +9,7 @@ county: "Duplin County"
 repo_path: "kb/287g/287-g-wso-duplin-county-sheriff-s-office-nc.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Duplin County Sheriff’s Office, signed June 25, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

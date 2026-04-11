@@ -9,6 +9,7 @@ county: "Anne Arundel"
 repo_path: "kb/facilities/ordnance-road-correctional-center-anne-arundel-md.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Anne Arundel, MD."
+source_count: 1
 layout: "single"
 facility_name: "Ordnance Road Correctional Center"
 operator: ""

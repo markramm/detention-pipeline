@@ -1,5 +1,5 @@
 ---
-title: "Talton Communications Inc — Ice Dallas, Al $38,776,485"
+title: "Talton Communications INC — ICE Dallas, AL $38,776,485"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "DALLAS"
 repo_path: "kb/anc/talton-communications-inc-ice-dallas-al-38776485.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to TALTON COMMUNICATIONS INC in AL ($38,776,485.02)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

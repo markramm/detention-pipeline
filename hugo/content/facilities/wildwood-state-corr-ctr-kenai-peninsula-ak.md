@@ -9,6 +9,7 @@ county: "Kenai Peninsula"
 repo_path: "kb/facilities/wildwood-state-corr-ctr-kenai-peninsula-ak.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Kenai Peninsula, AK."
+source_count: 1
 layout: "single"
 facility_name: "Wildwood State Corr. Ctr."
 operator: ""

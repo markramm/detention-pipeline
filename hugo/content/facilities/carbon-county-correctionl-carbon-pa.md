@@ -9,6 +9,7 @@ county: "Carbon"
 repo_path: "kb/facilities/carbon-county-correctionl-carbon-pa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Carbon, PA."
+source_count: 1
 layout: "single"
 facility_name: "Carbon County Correctionl"
 operator: ""

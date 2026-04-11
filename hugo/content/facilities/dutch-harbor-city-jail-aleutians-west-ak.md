@@ -9,6 +9,7 @@ county: "Aleutians West"
 repo_path: "kb/facilities/dutch-harbor-city-jail-aleutians-west-ak.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Aleutians West, AK."
+source_count: 1
 layout: "single"
 facility_name: "Dutch Harbor City Jail"
 operator: ""

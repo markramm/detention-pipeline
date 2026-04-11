@@ -1,5 +1,5 @@
 ---
-title: "Farber Specialty Vehicles, Inc — Ice Franklin, Oh $530,318"
+title: "Farber Specialty Vehicles, INC — ICE Franklin, OH $530,318"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "FRANKLIN"
 repo_path: "kb/anc/farber-specialty-vehicles-inc-ice-franklin-oh-530318.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to FARBER SPECIALTY VEHICLES, INC in OH ($530,318.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ingenesis Inc — Ice Bexar, Tx $37,566,995"
+title: "Ingenesis INC — ICE Bexar, TX $37,566,995"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BEXAR"
 repo_path: "kb/anc/ingenesis-inc-ice-bexar-tx-37566995.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to INGENESIS INC in TX ($37,566,994.86)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

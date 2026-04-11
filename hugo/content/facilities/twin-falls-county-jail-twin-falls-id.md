@@ -9,6 +9,7 @@ county: "Twin Falls"
 repo_path: "kb/facilities/twin-falls-county-jail-twin-falls-id.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Twin Falls, ID."
+source_count: 1
 layout: "single"
 facility_name: "Twin Falls County Jail"
 operator: ""

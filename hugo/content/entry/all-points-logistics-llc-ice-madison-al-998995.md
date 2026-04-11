@@ -1,5 +1,5 @@
 ---
-title: "All Points Logistics, Llc — Ice Madison, Al $998,995"
+title: "All Points Logistics, LLC — ICE Madison, AL $998,995"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MADISON"
 repo_path: "kb/anc/all-points-logistics-llc-ice-madison-al-998995.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to ALL POINTS LOGISTICS, LLC in AL ($998,994.61)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

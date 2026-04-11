@@ -9,6 +9,7 @@ county: "Cattaraugus"
 repo_path: "kb/facilities/cattaraugus-county-jail-cattaraugus-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Cattaraugus, NY."
+source_count: 1
 layout: "single"
 facility_name: "Cattaraugus County Jail"
 operator: ""

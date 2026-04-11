@@ -9,6 +9,7 @@ county: "Laramie County"
 repo_path: "kb/287g/287-g-jem-laramie-county-sheriff-s-office-wy.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Laramie County Sheriff’s Office, signed May 20, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

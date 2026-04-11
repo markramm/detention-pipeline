@@ -9,6 +9,7 @@ county: "Broadwater"
 repo_path: "kb/facilities/broadwater-county-jail-broadwater-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Broadwater, MT."
+source_count: 1
 layout: "single"
 facility_name: "Broadwater County Jail"
 operator: ""

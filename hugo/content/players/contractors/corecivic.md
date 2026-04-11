@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/corecivic.md"
 lastmod: "2026-04-06"
 summary: "CoreCivic is the second-largest private prison company with $2.2B revenue in 2025, up 13%. Won ~$325M in new ICE contracts reactivating 6,353 beds across four facilities."
+source_count: 7
 layout: "single"
 player_type: "contractor"
 contractor_type: "private-prison"

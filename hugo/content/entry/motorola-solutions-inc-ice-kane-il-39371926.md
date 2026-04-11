@@ -1,5 +1,5 @@
 ---
-title: "Motorola Solutions, Inc. — Ice Kane, Il $39,371,926"
+title: "Motorola Solutions, INC. — ICE Kane, IL $39,371,926"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "KANE"
 repo_path: "kb/anc/motorola-solutions-inc-ice-kane-il-39371926.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to MOTOROLA SOLUTIONS, INC. in IL ($39,371,926.13)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

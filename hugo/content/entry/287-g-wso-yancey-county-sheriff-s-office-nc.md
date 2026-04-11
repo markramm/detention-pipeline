@@ -9,6 +9,7 @@ county: "Yancey County"
 repo_path: "kb/287g/287-g-wso-yancey-county-sheriff-s-office-nc.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Yancey County Sheriff’s Office, signed July 20, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

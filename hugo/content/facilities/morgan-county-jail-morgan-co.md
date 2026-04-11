@@ -9,6 +9,7 @@ county: "Morgan"
 repo_path: "kb/facilities/morgan-county-jail-morgan-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Morgan, CO."
+source_count: 1
 layout: "single"
 facility_name: "Morgan County Jail"
 operator: ""

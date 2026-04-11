@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-palm-springs-police-department-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Palm Springs Police Department, signed June 5, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

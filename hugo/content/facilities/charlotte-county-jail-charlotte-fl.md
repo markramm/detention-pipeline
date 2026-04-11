@@ -9,6 +9,7 @@ county: "Charlotte"
 repo_path: "kb/facilities/charlotte-county-jail-charlotte-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Charlotte, FL."
+source_count: 1
 layout: "single"
 facility_name: "Charlotte County Jail"
 operator: ""

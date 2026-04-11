@@ -9,6 +9,7 @@ county: "Fresno"
 repo_path: "kb/facilities/fresno-county-jail-fresno-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Fresno, CA."
+source_count: 1
 layout: "single"
 facility_name: "Fresno County Jail"
 operator: ""

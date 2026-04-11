@@ -9,6 +9,7 @@ county: "Duval"
 repo_path: "kb/real-estate/9909-pritchard-rd-duval-fl-1000000-sf.md"
 lastmod: "2026-04-10"
 summary: "1M SF available warehouse in Jacksonville, Duval FL with 204 dock doors, owned by Total Distribution Inc. Major logistics capacity."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

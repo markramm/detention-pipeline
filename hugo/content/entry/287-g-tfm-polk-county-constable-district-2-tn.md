@@ -9,6 +9,7 @@ county: "Polk County"
 repo_path: "kb/287g/287-g-tfm-polk-county-constable-district-2-tn.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Polk County Constable District 2, signed January 7, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

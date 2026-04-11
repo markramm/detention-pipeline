@@ -9,6 +9,7 @@ county: "Glades"
 repo_path: "kb/facilities/glades-county-detention-center-glades-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Glades, FL."
+source_count: 1
 layout: "single"
 facility_name: "Glades County Detention Center"
 operator: ""

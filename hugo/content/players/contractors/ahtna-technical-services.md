@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/ahtna-technical-services.md"
 lastmod: "2026-04-06"
 summary: "Ahtna Technical Services is an Alaska Native Corp subsidiary using 8(a) sole-source contracting to operate ICE facilities including Port Isabel TX. ~$800M in historical contracts."
+source_count: 5
 layout: "single"
 player_type: "contractor"
 contractor_type: "facility-operator"

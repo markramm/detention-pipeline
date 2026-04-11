@@ -9,6 +9,7 @@ county: "Pulaksi County"
 repo_path: "kb/287g/287-g-jem-arkansas-department-of-corrections-ar.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Arkansas Department of Corrections, signed December 2, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

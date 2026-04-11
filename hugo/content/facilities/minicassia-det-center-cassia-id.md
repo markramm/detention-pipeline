@@ -9,6 +9,7 @@ county: "Cassia"
 repo_path: "kb/facilities/minicassia-det-center-cassia-id.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Cassia, ID."
+source_count: 1
 layout: "single"
 facility_name: "Minicassia Det. Center"
 operator: ""

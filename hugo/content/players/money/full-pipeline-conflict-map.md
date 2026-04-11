@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/financial-flows/full-pipeline-conflict-map.md"
 lastmod: "2026-04-08"
 summary: "Maps financial conflicts across all 7 stages of the ICE pipeline, from Palantir targeting (142 officials) to detention ops. Every stage has officials with financial ties to contractors."
+source_count: 1
 layout: "single"
 player_type: "money"
 ---

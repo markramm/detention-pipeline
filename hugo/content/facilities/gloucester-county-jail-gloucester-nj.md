@@ -9,6 +9,7 @@ county: "Gloucester"
 repo_path: "kb/facilities/gloucester-county-jail-gloucester-nj.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Gloucester, NJ."
+source_count: 1
 layout: "single"
 facility_name: "Gloucester County Jail"
 operator: ""

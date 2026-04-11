@@ -9,6 +9,7 @@ county: "Sarasota"
 repo_path: "kb/facilities/sarasota-county-jail-sarasota-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Sarasota, FL."
+source_count: 1
 layout: "single"
 facility_name: "Sarasota County Jail"
 operator: ""

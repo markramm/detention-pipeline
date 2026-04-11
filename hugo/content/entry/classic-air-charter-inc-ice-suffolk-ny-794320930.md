@@ -1,5 +1,5 @@
 ---
-title: "Classic Air Charter Inc. — Ice Suffolk, Ny $794,320,930"
+title: "Classic Air Charter INC. — ICE Suffolk, NY $794,320,930"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "SUFFOLK"
 repo_path: "kb/anc/classic-air-charter-inc-ice-suffolk-ny-794320930.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to CLASSIC AIR CHARTER INC. in NY ($794,320,929.55)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

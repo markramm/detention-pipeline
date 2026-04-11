@@ -9,6 +9,7 @@ county: "Martin"
 repo_path: "kb/facilities/martin-county-jail-martin-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Martin, FL."
+source_count: 1
 layout: "single"
 facility_name: "Martin County Jail"
 operator: ""

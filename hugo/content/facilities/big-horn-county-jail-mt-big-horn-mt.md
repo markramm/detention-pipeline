@@ -9,6 +9,7 @@ county: "Big Horn"
 repo_path: "kb/facilities/big-horn-county-jail-mt-big-horn-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Big Horn, MT."
+source_count: 1
 layout: "single"
 facility_name: "Big Horn County Jail, MT"
 operator: ""

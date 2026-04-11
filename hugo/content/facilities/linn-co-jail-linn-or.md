@@ -9,6 +9,7 @@ county: "Linn"
 repo_path: "kb/facilities/linn-co-jail-linn-or.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Linn, OR."
+source_count: 1
 layout: "single"
 facility_name: "Linn Co Jail"
 operator: ""

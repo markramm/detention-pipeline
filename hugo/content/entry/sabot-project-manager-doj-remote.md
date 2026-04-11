@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/jobs/sabot-project-manager-doj-remote.md"
 lastmod: "2026-04-10"
 summary: "Sabot Consulting hiring remote Project Manager for DOJ work. Signals expansion beyond ICE into Bureau of Prisons and USMS detention contracts."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

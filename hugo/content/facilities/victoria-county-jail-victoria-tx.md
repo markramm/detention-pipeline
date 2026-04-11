@@ -9,6 +9,7 @@ county: "Victoria"
 repo_path: "kb/facilities/victoria-county-jail-victoria-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Victoria, TX."
+source_count: 1
 layout: "single"
 facility_name: "Victoria County Jail"
 operator: ""

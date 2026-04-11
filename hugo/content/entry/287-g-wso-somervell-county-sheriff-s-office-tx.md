@@ -9,6 +9,7 @@ county: "Somervell County"
 repo_path: "kb/287g/287-g-wso-somervell-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Somervell County Sheriff’s Office, signed September 22, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

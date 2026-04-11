@@ -9,6 +9,7 @@ county: "Denver"
 repo_path: "kb/facilities/denver-justice-center-denver-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Denver, CO."
+source_count: 1
 layout: "single"
 facility_name: "Denver Justice Center"
 operator: ""

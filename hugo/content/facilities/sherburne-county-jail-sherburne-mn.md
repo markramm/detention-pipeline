@@ -9,6 +9,7 @@ county: "Sherburne"
 repo_path: "kb/facilities/sherburne-county-jail-sherburne-mn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Sherburne, MN."
+source_count: 1
 layout: "single"
 facility_name: "Sherburne County Jail"
 operator: ""

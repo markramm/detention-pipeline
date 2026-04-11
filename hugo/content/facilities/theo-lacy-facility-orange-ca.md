@@ -9,6 +9,7 @@ county: "Orange"
 repo_path: "kb/facilities/theo-lacy-facility-orange-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Orange, CA."
+source_count: 1
 layout: "single"
 facility_name: "Theo Lacy Facility"
 operator: ""

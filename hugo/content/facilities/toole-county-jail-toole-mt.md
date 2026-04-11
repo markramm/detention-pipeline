@@ -9,6 +9,7 @@ county: "Toole"
 repo_path: "kb/facilities/toole-county-jail-toole-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Toole, MT."
+source_count: 1
 layout: "single"
 facility_name: "Toole County Jail"
 operator: ""

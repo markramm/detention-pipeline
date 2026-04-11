@@ -9,6 +9,7 @@ county: "Grand Forks"
 repo_path: "kb/facilities/grand-forks-county-correc-grand-forks-nd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Grand Forks, ND."
+source_count: 1
 layout: "single"
 facility_name: "Grand Forks County Correc"
 operator: ""

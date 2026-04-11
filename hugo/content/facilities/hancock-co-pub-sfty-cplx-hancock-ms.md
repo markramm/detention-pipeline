@@ -9,6 +9,7 @@ county: "Hancock"
 repo_path: "kb/facilities/hancock-co-pub-sfty-cplx-hancock-ms.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hancock, MS."
+source_count: 1
 layout: "single"
 facility_name: "Hancock Co Pub Sfty Cplx"
 operator: ""

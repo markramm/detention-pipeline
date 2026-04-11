@@ -9,6 +9,7 @@ county: "Morris"
 repo_path: "kb/industry/facilities/roxbury-nj-warehouse.md"
 lastmod: "2026-04-08"
 summary: "$129.3M warehouse (470K sq ft) in Roxbury NJ purchased at 137% markup from Goldman Sachs subsidiary. Governor, AG, and township jointly sued; bipartisan backlash in NJ."
+source_count: 3
 layout: "single"
 facility_name: ""
 operator: "ICE (federal)"

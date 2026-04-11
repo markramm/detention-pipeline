@@ -1,5 +1,5 @@
 ---
-title: "Liveview Technologies Inc — Ice Utah, Ut $760,396"
+title: "Liveview Technologies INC — ICE Utah, UT $760,396"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "UTAH"
 repo_path: "kb/anc/liveview-technologies-inc-ice-utah-ut-760396.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to LIVEVIEW TECHNOLOGIES INC in UT ($760,396.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

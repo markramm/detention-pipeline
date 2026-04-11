@@ -9,6 +9,7 @@ county: "Lonoke"
 repo_path: "kb/facilities/lonoke-police-dept-detctr-lonoke-ar.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Lonoke, AR."
+source_count: 1
 layout: "single"
 facility_name: "Lonoke Police Dept Det.Ctr"
 operator: ""

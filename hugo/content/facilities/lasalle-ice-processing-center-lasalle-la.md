@@ -9,6 +9,7 @@ county: "Lasalle"
 repo_path: "kb/facilities/lasalle-ice-processing-center-lasalle-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Lasalle, LA."
+source_count: 1
 layout: "single"
 facility_name: "Lasalle ICE Processing Center"
 operator: ""

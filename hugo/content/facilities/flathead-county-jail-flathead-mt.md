@@ -9,6 +9,7 @@ county: "Flathead"
 repo_path: "kb/facilities/flathead-county-jail-flathead-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Flathead, MT."
+source_count: 1
 layout: "single"
 facility_name: "Flathead County Jail"
 operator: ""

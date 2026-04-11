@@ -9,6 +9,7 @@ county: "Kootenai"
 repo_path: "kb/facilities/kootenai-county-kootenai-id.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Kootenai, ID."
+source_count: 1
 layout: "single"
 facility_name: "Kootenai County"
 operator: ""

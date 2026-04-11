@@ -9,6 +9,7 @@ county: "Burleigh"
 repo_path: "kb/facilities/burleigh-co-jail-nd-burleigh-nd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Burleigh, ND."
+source_count: 1
 layout: "single"
 facility_name: "Burleigh Co. Jail, ND"
 operator: ""

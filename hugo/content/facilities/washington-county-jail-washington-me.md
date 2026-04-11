@@ -9,6 +9,7 @@ county: "Washington"
 repo_path: "kb/facilities/washington-county-jail-washington-me.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Washington, ME."
+source_count: 1
 layout: "single"
 facility_name: "Washington County Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Doddridge"
 repo_path: "kb/facilities/north-central-regional-jail-doddridge-wv.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Doddridge, WV."
+source_count: 1
 layout: "single"
 facility_name: "North Central Regional Jail"
 operator: ""

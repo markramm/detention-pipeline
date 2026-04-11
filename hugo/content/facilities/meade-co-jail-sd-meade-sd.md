@@ -9,6 +9,7 @@ county: "Meade"
 repo_path: "kb/facilities/meade-co-jail-sd-meade-sd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Meade, SD."
+source_count: 1
 layout: "single"
 facility_name: "Meade Co. Jail, SD"
 operator: ""

@@ -1,5 +1,5 @@
 ---
-title: "Motorola Solutions, Inc. — Ice Cook, Il $7,786,336"
+title: "Motorola Solutions, INC. — ICE Cook, IL $7,786,336"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "COOK"
 repo_path: "kb/anc/motorola-solutions-inc-ice-cook-il-7786336.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to MOTOROLA SOLUTIONS, INC. in IL ($7,786,335.96)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

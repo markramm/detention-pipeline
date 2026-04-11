@@ -1,5 +1,5 @@
 ---
-title: "Inserso Corporation — Ice Maricopa, Az $50,176,102"
+title: "Inserso Corporation — ICE Maricopa, AZ $50,176,102"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MARICOPA"
 repo_path: "kb/anc/inserso-corporation-ice-maricopa-az-50176102.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to INSERSO CORPORATION in AZ ($50,176,102.22)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

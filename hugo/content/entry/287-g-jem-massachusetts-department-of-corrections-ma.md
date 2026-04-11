@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-jem-massachusetts-department-of-corrections-ma.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Massachusetts Department of Corrections, signed June 8, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

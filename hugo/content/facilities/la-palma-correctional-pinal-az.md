@@ -9,6 +9,7 @@ county: "Pinal"
 repo_path: "kb/industry/facilities/la-palma-correctional-pinal-az.md"
 lastmod: "2026-04-10"
 summary: "3,060-bed CoreCivic facility in Eloy AZ converted from California state prisoners to ICE use in 2019. DHS OIG found abuse and mistreatment; staff deployed chemical agents on COVID protesters in 2020."
+source_count: 2
 layout: "single"
 facility_name: ""
 operator: "CoreCivic"

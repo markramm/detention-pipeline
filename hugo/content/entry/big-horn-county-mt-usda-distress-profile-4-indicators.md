@@ -9,6 +9,7 @@ county: "Big Horn"
 repo_path: "kb/budget/big-horn-county-mt-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Big Horn, MT."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

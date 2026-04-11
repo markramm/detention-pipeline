@@ -1,5 +1,5 @@
 ---
-title: "G4S Secure Solutions (Usa) Inc. — Ice Sacramento, Ca $10,500,429"
+title: "G4S Secure Solutions (Usa) INC. — ICE Sacramento, CA $10,500,429"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "SACRAMENTO"
 repo_path: "kb/anc/g4s-secure-solutions-usa-inc-ice-sacramento-ca-10500429.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to G4S SECURE SOLUTIONS (USA) INC. in CA ($10,500,428.86)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

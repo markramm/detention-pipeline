@@ -9,6 +9,7 @@ county: "Otero"
 repo_path: "kb/facilities/otero-co-processing-center-otero-nm.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Otero, NM."
+source_count: 1
 layout: "single"
 facility_name: "Otero Co Processing Center"
 operator: ""

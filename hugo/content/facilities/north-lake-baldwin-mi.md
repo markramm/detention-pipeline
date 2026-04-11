@@ -9,6 +9,7 @@ county: "Lake"
 repo_path: "kb/industry/facilities/north-lake-baldwin-mi.md"
 lastmod: "2026-04-06"
 summary: "1,800-bed GEO Group facility in Baldwin MI reactivated in 2025. Described as 'notorious' for conditions; part of GEO's expansion adding 6,000 beds to its ICE capacity."
+source_count: 2
 layout: "single"
 facility_name: ""
 operator: "GEO Group"

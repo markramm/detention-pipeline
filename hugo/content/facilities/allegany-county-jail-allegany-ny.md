@@ -9,6 +9,7 @@ county: "Allegany"
 repo_path: "kb/facilities/allegany-county-jail-allegany-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Allegany, NY."
+source_count: 1
 layout: "single"
 facility_name: "Allegany County Jail"
 operator: ""

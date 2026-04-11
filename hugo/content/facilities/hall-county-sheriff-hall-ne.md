@@ -9,6 +9,7 @@ county: "Hall"
 repo_path: "kb/facilities/hall-county-sheriff-hall-ne.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hall, NE."
+source_count: 1
 layout: "single"
 facility_name: "Hall County Sheriff"
 operator: ""

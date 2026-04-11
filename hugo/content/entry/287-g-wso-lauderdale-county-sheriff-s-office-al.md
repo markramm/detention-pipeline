@@ -9,6 +9,7 @@ county: "Lauderdale County"
 repo_path: "kb/287g/287-g-wso-lauderdale-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Lauderdale County Sheriff’s Office, signed June 12, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

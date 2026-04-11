@@ -9,6 +9,7 @@ county: "Moore County"
 repo_path: "kb/287g/287-g-tfm-robbins-police-department-nc.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Robbins Police Department, signed December 11, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

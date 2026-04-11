@@ -9,6 +9,7 @@ county: "Cochise"
 repo_path: "kb/facilities/cochise-co-jail-bisbee-az-cochise-az.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Cochise, AZ."
+source_count: 1
 layout: "single"
 facility_name: "Cochise Co Jail Bisbee AZ"
 operator: ""

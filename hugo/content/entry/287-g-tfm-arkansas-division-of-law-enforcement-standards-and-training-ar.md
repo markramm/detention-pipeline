@@ -9,6 +9,7 @@ county: "Pulaski County"
 repo_path: "kb/287g/287-g-tfm-arkansas-division-of-law-enforcement-standards-and-training-ar.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Arkansas Division of Law Enforcement Standards and Training, signed February 10, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

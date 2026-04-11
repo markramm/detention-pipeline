@@ -9,6 +9,7 @@ county: "Maricopa"
 repo_path: "kb/real-estate/tsmc-fab-maricopa-az-3500000-sf.md"
 lastmod: "2026-04-10"
 summary: "3.5M SF TSMC semiconductor fab in Phoenix, Maricopa County AZ, $100B+ investment. Major industrial anchor for the region."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

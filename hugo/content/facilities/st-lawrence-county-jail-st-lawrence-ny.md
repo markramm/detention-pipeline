@@ -9,6 +9,7 @@ county: "St. Lawrence"
 repo_path: "kb/facilities/st-lawrence-county-jail-st-lawrence-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in St. Lawrence, NY."
+source_count: 1
 layout: "single"
 facility_name: "St Lawrence County Jail"
 operator: ""

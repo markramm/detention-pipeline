@@ -1,5 +1,5 @@
 ---
-title: "Atlantic Diving Supply, Inc. — Ice Ga $763,990"
+title: "Atlantic Diving Supply, INC. — ICE GA $763,990"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/anc/atlantic-diving-supply-inc-ice-ga-763990.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to ATLANTIC DIVING SUPPLY, INC. in GA ($763,990.36)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Hamilton"
 repo_path: "kb/facilities/silverdalehamilton-county-hamilton-tn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hamilton, TN."
+source_count: 1
 layout: "single"
 facility_name: "Silverdale/Hamilton County"
 operator: ""

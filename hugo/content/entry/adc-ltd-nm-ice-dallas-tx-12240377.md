@@ -9,6 +9,7 @@ county: "DALLAS"
 repo_path: "kb/anc/adc-ltd-nm-ice-dallas-tx-12240377.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to ADC LTD NM in TX ($12,240,376.73)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

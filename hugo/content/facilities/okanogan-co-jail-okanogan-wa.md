@@ -9,6 +9,7 @@ county: "Okanogan"
 repo_path: "kb/facilities/okanogan-co-jail-okanogan-wa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Okanogan, WA."
+source_count: 1
 layout: "single"
 facility_name: "Okanogan Co. Jail"
 operator: ""

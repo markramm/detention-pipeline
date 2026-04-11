@@ -9,6 +9,7 @@ county: "Orange"
 repo_path: "kb/real-estate/prologis-park-orlando-orange-fl-500000-sf.md"
 lastmod: "2026-04-10"
 summary: "500K SF available Prologis logistics property in Orlando, Orange County FL. Part of 17M+ SF Prologis Central FL portfolio."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

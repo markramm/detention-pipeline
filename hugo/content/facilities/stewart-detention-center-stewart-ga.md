@@ -9,6 +9,7 @@ county: "Stewart"
 repo_path: "kb/facilities/stewart-detention-center-stewart-ga.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Stewart, GA."
+source_count: 1
 layout: "single"
 facility_name: "Stewart Detention Center"
 operator: ""

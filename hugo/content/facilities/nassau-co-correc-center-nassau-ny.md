@@ -9,6 +9,7 @@ county: "Nassau"
 repo_path: "kb/facilities/nassau-co-correc-center-nassau-ny.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Nassau, NY."
+source_count: 1
 layout: "single"
 facility_name: "Nassau Co Correc Center"
 operator: ""

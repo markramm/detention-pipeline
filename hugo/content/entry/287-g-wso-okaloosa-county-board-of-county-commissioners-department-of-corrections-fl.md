@@ -9,6 +9,7 @@ county: "Okaloosa County"
 repo_path: "kb/287g/287-g-wso-okaloosa-county-board-of-county-commissioners-department-of-corrections-fl.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Okaloosa County Board of County Commissioners/ Department of Corrections, signed February 26, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

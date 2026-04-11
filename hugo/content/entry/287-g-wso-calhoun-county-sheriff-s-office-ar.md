@@ -9,6 +9,7 @@ county: "Calhoun County"
 repo_path: "kb/287g/287-g-wso-calhoun-county-sheriff-s-office-ar.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Calhoun County Sheriff’s Office, signed January 7, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

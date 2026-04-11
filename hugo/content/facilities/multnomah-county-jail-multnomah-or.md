@@ -9,6 +9,7 @@ county: "Multnomah"
 repo_path: "kb/facilities/multnomah-county-jail-multnomah-or.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Multnomah, OR."
+source_count: 1
 layout: "single"
 facility_name: "Multnomah County Jail"
 operator: ""

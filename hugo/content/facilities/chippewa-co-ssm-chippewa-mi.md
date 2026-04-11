@@ -9,6 +9,7 @@ county: "Chippewa"
 repo_path: "kb/facilities/chippewa-co-ssm-chippewa-mi.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Chippewa, MI."
+source_count: 1
 layout: "single"
 facility_name: "Chippewa Co., SSM"
 operator: ""

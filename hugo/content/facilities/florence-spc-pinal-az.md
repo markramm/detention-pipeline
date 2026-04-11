@@ -9,6 +9,7 @@ county: "Pinal"
 repo_path: "kb/industry/facilities/florence-spc-pinal-az.md"
 lastmod: "2026-04-10"
 summary: "ICE-operated processing center in Florence AZ with guard/food services contracted to Akima Global (Alaska Native Corp) at $37.4M/year via sole-source 8(a) contracts escalating 12.5% over 3 years."
+source_count: 2
 layout: "single"
 facility_name: ""
 operator: "ICE (guard/food/transport by Akima Global Services)"

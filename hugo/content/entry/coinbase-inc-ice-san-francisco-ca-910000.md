@@ -1,5 +1,5 @@
 ---
-title: "Coinbase Inc — Ice San Francisco, Ca $910,000"
+title: "Coinbase INC — ICE San Francisco, CA $910,000"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "SAN FRANCISCO"
 repo_path: "kb/anc/coinbase-inc-ice-san-francisco-ca-910000.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to COINBASE INC in CA ($910,000.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

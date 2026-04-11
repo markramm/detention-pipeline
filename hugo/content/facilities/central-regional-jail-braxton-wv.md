@@ -9,6 +9,7 @@ county: "Braxton"
 repo_path: "kb/facilities/central-regional-jail-braxton-wv.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Braxton, WV."
+source_count: 1
 layout: "single"
 facility_name: "Central Regional Jail"
 operator: ""

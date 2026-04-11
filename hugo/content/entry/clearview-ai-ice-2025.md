@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/clearview-ai-ice-2025.md"
 lastmod: "2026-04-06"
 summary: "$9.2M sole-source ICE contract with Clearview AI for facial recognition matching against a 50B+ image database. Justified for child exploitation and officer assault cases."
+source_count: 3
 type: "entry"
 layout: "single"
 ---

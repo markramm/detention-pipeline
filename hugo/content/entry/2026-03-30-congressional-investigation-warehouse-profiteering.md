@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/events/2026-03-30-congressional-investigation-warehouse-profiteering.md"
 lastmod: "2026-04-08"
 summary: "54 Congressional Democrats led by Raskin and Warren launched investigation into ICE warehouse profiteering on March 30, 2026. Documented 333-1000% markups and 33 admin members with Blue Owl investments."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

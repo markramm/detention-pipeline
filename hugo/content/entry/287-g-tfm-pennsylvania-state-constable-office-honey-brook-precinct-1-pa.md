@@ -9,6 +9,7 @@ county: "Chester County"
 repo_path: "kb/287g/287-g-tfm-pennsylvania-state-constable-office-honey-brook-precinct-1-pa.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Pennsylvania State Constable Office Honey Brook Precinct 1, signed October 17, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

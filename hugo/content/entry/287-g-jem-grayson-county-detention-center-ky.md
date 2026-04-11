@@ -9,6 +9,7 @@ county: "Grayson County"
 repo_path: "kb/287g/287-g-jem-grayson-county-detention-center-ky.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Grayson County Detention Center, signed March 5, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Mbf Industries, Inc. — Ice Seminole, Fl $910,274"
+title: "Mbf Industries, INC. — ICE Seminole, FL $910,274"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "SEMINOLE"
 repo_path: "kb/anc/mbf-industries-inc-ice-seminole-fl-910274.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to MBF INDUSTRIES, INC. in FL ($910,273.92)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

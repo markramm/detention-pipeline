@@ -9,6 +9,7 @@ county: "Nye"
 repo_path: "kb/facilities/nye-county-sheriff-pahrump-nye-nv.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Nye, NV."
+source_count: 1
 layout: "single"
 facility_name: "Nye County Sheriff-Pahrump"
 operator: ""

@@ -9,6 +9,7 @@ county: "Harris"
 repo_path: "kb/real-estate/13606-furman-rd-harris-tx-183000-sf.md"
 lastmod: "2026-04-10"
 summary: "183K SF available warehouse in Houston, Harris County TX, divisible to 40K SF. Owned by Vault Distribution Center."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

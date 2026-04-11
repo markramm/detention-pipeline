@@ -9,6 +9,7 @@ county: "Lubbock County"
 repo_path: "kb/287g/287-g-jem-lubbock-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Lubbock County Sheriff’s Office, signed June 8, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

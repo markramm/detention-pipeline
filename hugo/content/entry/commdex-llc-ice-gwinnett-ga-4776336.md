@@ -1,5 +1,5 @@
 ---
-title: "Commdex, Llc — Ice Gwinnett, Ga $4,776,336"
+title: "Commdex, LLC — ICE Gwinnett, GA $4,776,336"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "GWINNETT"
 repo_path: "kb/anc/commdex-llc-ice-gwinnett-ga-4776336.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to COMMDEX, LLC in GA ($4,776,335.88)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

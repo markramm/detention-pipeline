@@ -9,6 +9,7 @@ county: "Webb"
 repo_path: "kb/jobs/ice-detention-compliance-operations-consultant-laredo-tx.md"
 lastmod: "2026-04-10"
 summary: "Sabot Consulting job posting for ICE detention compliance consultant in Laredo, TX (Webb County). Webb County already has an IGSA, suggesting facility expansion or new site."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

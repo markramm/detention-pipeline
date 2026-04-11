@@ -9,6 +9,7 @@ county: "Washakie"
 repo_path: "kb/facilities/washakie-county-jail-washakie-wy.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Washakie, WY."
+source_count: 1
 layout: "single"
 facility_name: "Washakie County Jail"
 operator: ""

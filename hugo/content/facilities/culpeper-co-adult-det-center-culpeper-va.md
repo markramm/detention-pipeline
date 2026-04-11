@@ -9,6 +9,7 @@ county: "Culpeper"
 repo_path: "kb/facilities/culpeper-co-adult-det-center-culpeper-va.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Culpeper, VA."
+source_count: 1
 layout: "single"
 facility_name: "Culpeper Co. Adult Det. Center"
 operator: ""

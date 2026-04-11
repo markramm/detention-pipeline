@@ -9,6 +9,7 @@ county: "Essex"
 repo_path: "kb/facilities/essex-co-jail-middleton-essex-ma.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Essex, MA."
+source_count: 1
 layout: "single"
 facility_name: "Essex Co. Jail, Middleton"
 operator: ""

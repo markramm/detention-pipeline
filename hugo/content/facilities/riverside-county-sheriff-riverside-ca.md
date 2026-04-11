@@ -9,6 +9,7 @@ county: "Riverside"
 repo_path: "kb/facilities/riverside-county-sheriff-riverside-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Riverside, CA."
+source_count: 1
 layout: "single"
 facility_name: "Riverside County Sheriff"
 operator: ""

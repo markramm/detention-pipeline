@@ -9,6 +9,7 @@ county: "Nash County"
 repo_path: "kb/287g/287-g-wso-nash-county-sheriff-s-office-nc.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Nash County Sheriff’s Office, signed January 29, 2020."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

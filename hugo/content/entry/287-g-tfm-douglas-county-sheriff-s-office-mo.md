@@ -9,6 +9,7 @@ county: "Douglas County"
 repo_path: "kb/287g/287-g-tfm-douglas-county-sheriff-s-office-mo.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Douglas County Sheriff’s Office, signed November 19, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Dimmit County"
 repo_path: "kb/287g/287-g-jem-dimmit-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Dimmit County Sheriff’s Office, signed December 10, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

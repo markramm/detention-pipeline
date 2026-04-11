@@ -9,6 +9,7 @@ county: "Pickaway"
 repo_path: "kb/facilities/pickaway-county-jail-pickaway-oh.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Pickaway, OH."
+source_count: 1
 layout: "single"
 facility_name: "Pickaway County Jail"
 operator: ""

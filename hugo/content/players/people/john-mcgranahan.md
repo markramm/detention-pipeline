@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/people/john-mcgranahan.md"
 lastmod: "2026-04-08"
 summary: "Former GSA General Counsel (through Nov 2025) who held Blue Owl Capital investments while at the agency that normally brokers federal real estate. Blue Owl sold Tremont PA for $119M."
+source_count: 1
 layout: "single"
 player_type: "person"
 role: "Former General Counsel, General Services Administration"

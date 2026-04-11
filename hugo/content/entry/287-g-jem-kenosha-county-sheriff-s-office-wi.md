@@ -9,6 +9,7 @@ county: "Kenosha County"
 repo_path: "kb/287g/287-g-jem-kenosha-county-sheriff-s-office-wi.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Kenosha County Sheriff’s Office, signed January 7, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Laramie County"
 repo_path: "kb/287g/287-g-wso-wyoming-state-highway-patrol-wy.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Wyoming State Highway Patrol, signed July 24, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

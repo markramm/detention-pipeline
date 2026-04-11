@@ -1,5 +1,5 @@
 ---
-title: "10Gfedsupply, Llc — Ice Mecklenburg, Nc $704,997"
+title: "10Gfedsupply, LLC — ICE Mecklenburg, NC $704,997"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MECKLENBURG"
 repo_path: "kb/anc/10gfedsupply-llc-ice-mecklenburg-nc-704997.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to 10GFEDSUPPLY, LLC in NC ($704,996.57)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

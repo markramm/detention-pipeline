@@ -9,6 +9,7 @@ county: "Crow Wing"
 repo_path: "kb/facilities/crow-wing-county-jail-crow-wing-mn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Crow Wing, MN."
+source_count: 1
 layout: "single"
 facility_name: "Crow Wing County Jail"
 operator: ""

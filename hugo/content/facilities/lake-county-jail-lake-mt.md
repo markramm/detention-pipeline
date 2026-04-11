@@ -9,6 +9,7 @@ county: "Lake"
 repo_path: "kb/facilities/lake-county-jail-lake-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Lake, MT."
+source_count: 1
 layout: "single"
 facility_name: "Lake County Jail"
 operator: ""

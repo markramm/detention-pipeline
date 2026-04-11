@@ -9,6 +9,7 @@ county: "N/A"
 repo_path: "kb/industry/facilities/guantanamo-bay-migrant-operations.md"
 lastmod: "2026-04-06"
 summary: "Trump ordered GMOC expansion from 130 to 30,000 capacity in Jan 2025, but fewer than 400 held at any time. Places immigration detainees outside normal federal court reach at estimated $40M/month."
+source_count: 4
 layout: "single"
 facility_name: ""
 operator: "Department of Defense / DHS"

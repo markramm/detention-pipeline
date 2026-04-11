@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/organizations/pnk-group.md"
 lastmod: "2026-04-08"
 summary: "Russia-founded industrial developer that sold Social Circle, GA warehouse to DHS for $128.6M after buying it for $29.4M. Founder Sharkov has Sberbank, Roscongress, and ICIJ offshore ties."
+source_count: 11
 type: "entry"
 layout: "single"
 ---

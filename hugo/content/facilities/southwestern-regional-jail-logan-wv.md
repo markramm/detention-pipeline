@@ -9,6 +9,7 @@ county: "Logan"
 repo_path: "kb/facilities/southwestern-regional-jail-logan-wv.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Logan, WV."
+source_count: 1
 layout: "single"
 facility_name: "Southwestern Regional Jail"
 operator: ""

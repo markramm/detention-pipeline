@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/sabot-consulting.md"
 lastmod: "2026-04-10"
 summary: "Sabot Consulting markets 'ICE Integration' services to county sheriffs, staffed by former ICE officials including Acting Director Tae Johnson. Drives the county-led IGSA detention model."
+source_count: 4
 layout: "single"
 player_type: "contractor"
 contractor_type: "consulting"

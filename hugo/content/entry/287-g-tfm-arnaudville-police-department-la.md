@@ -9,6 +9,7 @@ county: "Saint Landry County"
 repo_path: "kb/287g/287-g-tfm-arnaudville-police-department-la.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Arnaudville Police Department, signed July 11, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

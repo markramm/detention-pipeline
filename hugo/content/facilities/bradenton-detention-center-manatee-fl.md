@@ -9,6 +9,7 @@ county: "Manatee"
 repo_path: "kb/facilities/bradenton-detention-center-manatee-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Manatee, FL."
+source_count: 1
 layout: "single"
 facility_name: "Bradenton Detention Center"
 operator: ""

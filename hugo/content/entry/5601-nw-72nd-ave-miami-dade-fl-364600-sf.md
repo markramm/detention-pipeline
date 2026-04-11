@@ -9,6 +9,7 @@ county: "Miami-Dade"
 repo_path: "kb/real-estate/5601-nw-72nd-ave-miami-dade-fl-364600-sf.md"
 lastmod: "2026-04-10"
 summary: "365K SF warehouse in Miami-Dade owned by Clarion Partners, leased to CEVA Logistics. Airport North/Medley submarket."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Conejos"
 repo_path: "kb/facilities/conejos-county-jail-conejos-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Conejos, CO."
+source_count: 1
 layout: "single"
 facility_name: "Conejos County Jail"
 operator: ""

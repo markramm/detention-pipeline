@@ -9,6 +9,7 @@ county: "Fulton"
 repo_path: "kb/real-estate/prologis-park-atlanta-fulton-ga-450000-sf.md"
 lastmod: "2026-04-10"
 summary: "450K SF available Prologis logistics property in Atlanta, Fulton County GA. Part of 393M SF Atlanta industrial market."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

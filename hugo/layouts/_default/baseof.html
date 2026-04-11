@@ -197,14 +197,47 @@ body {
 .card-title { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
 .card-meta { font-size: 12px; color: var(--text-dim); }
 
+/* ── Mobile Nav ── */
+.hamburger { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+.hamburger span { display: block; width: 20px; height: 2px; background: var(--text-light); margin: 4px 0; }
+.mobile-nav { display: none; background: var(--bg-deep); padding: 8px 24px 16px; border-bottom: 1px solid var(--border-dark); }
+.mobile-nav.open { display: block; }
+.mobile-nav a { display: block; padding: 8px 0; color: rgba(232,230,225,0.6); text-decoration: none; font-size: 14px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.mobile-nav a:hover { color: var(--text-light); }
+
 @media (max-width: 768px) {
+  .hamburger { display: block; }
+  .site-nav { display: none; }
   .site-header-inner { padding: 10px 16px; }
-  .site-nav a { font-size: 11px; padding: 4px 6px; }
   .page-content { padding: 0 16px 40px; }
   .breadcrumb { padding: 10px 16px 0; }
   .data-table { font-size: 11px; }
 }
 </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Detention Pipeline",
+  "url": "https://detention-pipeline.transparencycascade.org/",
+  "description": "Early-warning system for ICE detention facility expansion"
+}
+</script>
+{{ if eq .Type "county" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ with .Params.auto_summary }}{{ . }}{{ end }}",
+  "dateModified": "{{ with .Params.lastmod }}{{ . }}{{ end }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The RAMM"
+  }
+}
+</script>
+{{ end }}
 {{ block "head" . }}{{ end }}
 </head>
 <body>
@@ -225,8 +258,19 @@ body {
       <a href="/methodology/" {{ if eq .RelPermalink "/methodology/" }}class="active"{{ end }}>Methodology</a>
       <a href="/contribute/" {{ if eq .RelPermalink "/contribute/" }}class="active"{{ end }}>Contribute</a>
     </nav>
+    <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
   </div>
 </header>
+<div class="mobile-nav" id="mobile-nav">
+  <a href="/map/">Map</a>
+  <a href="/fights/">Fights</a>
+  <a href="/tactics/">Tactics</a>
+  <a href="/county/">Counties</a>
+  <a href="/players/">Players</a>
+  <a href="/facilities/">Facilities</a>
+  <a href="/methodology/">Methodology</a>
+  <a href="/contribute/">Contribute</a>
+</div>
 
 {{ block "main" . }}
 <div class="page-content">
@@ -251,5 +295,6 @@ body {
   </div>
 </footer>
 
+<script>document.getElementById('hamburger').onclick=function(){document.getElementById('mobile-nav').classList.toggle('open')};</script>
 </body>
 </html>

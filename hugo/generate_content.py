@@ -165,8 +165,17 @@ def normalize_title(title):
     alpha = [c for c in title if c.isalpha()]
     if len(alpha) > 20 and sum(1 for c in alpha if c.isupper()) > len(alpha) * 0.6:
         title = title.title()
+        # Restore common acronyms that .title() breaks
+        for acronym in ["Llc", "Inc", "Ice", "Dhs", "Cbp", "Nj", "Ny", "Tx", "Fl",
+                        "Ca", "Az", "Ga", "Va", "Pa", "Nc", "Sc", "Md", "Tn", "Mn",
+                        "Wi", "Mi", "Oh", "Il", "La", "Mo", "Ks", "Ok", "Ar", "Ms",
+                        "Al", "Ky", "Wv", "Nm", "Nd", "Sd", "Mt", "Wy", "Id", "Ut",
+                        "Nv", "Co", "Ne", "Ia", "In", "Ct", "Ri", "Nh", "Vt", "Me",
+                        "De", "Hi", "Ak", "Or", "Wa", "Dc"]:
+            upper = acronym.upper()
+            # Only replace as whole word (with word boundary)
+            title = re.sub(r'\b' + acronym + r'\b', upper, title)
     # Clean up contract titles that are just dollar amounts or IDs
-    # e.g. "The Geo Group, Inc. — Ice Broward, Fl 38861166" -> cleaner
     title = re.sub(r'\s+\d{6,}$', '', title)  # strip trailing numeric IDs
     return title
 
@@ -330,6 +339,15 @@ def generate_all_pages(parsed_entries, heat_data):
                         summary = summary.rsplit(" ", 1)[0] + "..."
                     break
 
+        # Count sources (URLs, citation patterns) in body
+        source_count = len(re.findall(r'https?://', body))
+        source_count += len(re.findall(r'\bSource[s]?:', body))
+        # Cap at reasonable number — some entries have many inline URLs
+        source_count = min(source_count, 20)
+
+        # Cascade cross-link
+        cascade_url = fields.get("cascade_url", "")
+
         # Common frontmatter
         fm = {
             "title": esc(title),
@@ -342,7 +360,10 @@ def generate_all_pages(parsed_entries, heat_data):
             "repo_path": rel_path,
             "lastmod": parsed["last_updated"],
             "summary": esc(summary),
+            "source_count": source_count,
         }
+        if cascade_url:
+            fm["cascade_url"] = cascade_url
 
         # Determine output path based on section
         if entry_type == "county-fight":

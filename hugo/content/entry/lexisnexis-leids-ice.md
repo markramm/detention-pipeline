@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/lexisnexis-leids-ice.md"
 lastmod: "2026-04-06"
 summary: "$38M combined ICE ($22.1M) and CBP ($15.9M) contracts for LexisNexis LEIDS database access including Accurint dossiers and license plate recognition."
+source_count: 3
 type: "entry"
 layout: "single"
 ---

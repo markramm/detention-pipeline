@@ -9,6 +9,7 @@ county: "Lebanon County"
 repo_path: "kb/287g/287-g-tfm-lebanon-county-sheriff-s-office-pa.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Lebanon County Sheriff’s Office, signed February 10, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

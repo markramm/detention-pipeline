@@ -9,6 +9,7 @@ county: "Schuylkill"
 repo_path: "kb/industry/facilities/tremont-pa-mega-center.md"
 lastmod: "2026-04-08"
 summary: "Former Big Lots warehouse in Tremont, PA (Schuylkill County), 7,500-10,000 beds, bought from Blue Owl Capital for $119M (~2x market value). 33 Trump officials hold Blue Owl investments."
+source_count: 4
 layout: "single"
 facility_name: ""
 operator: "ICE (federal)"

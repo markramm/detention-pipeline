@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/thomson-reuters-clear-ice.md"
 lastmod: "2026-04-06"
 summary: "$22.8M five-year DHS contract for Thomson Reuters CLEAR database access. 2025 option confirms license plate reader data provision alongside utility and phone records."
+source_count: 3
 type: "entry"
 layout: "single"
 ---

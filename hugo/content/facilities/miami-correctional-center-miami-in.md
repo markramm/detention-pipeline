@@ -9,6 +9,7 @@ county: "Miami"
 repo_path: "kb/facilities/miami-correctional-center-miami-in.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Miami, IN."
+source_count: 1
 layout: "single"
 facility_name: "Miami Correctional Center"
 operator: ""

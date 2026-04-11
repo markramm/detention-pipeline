@@ -1,5 +1,5 @@
 ---
-title: "Qintel Llc — Ice Allegheny, Pa $4,500,000"
+title: "Qintel LLC — ICE Allegheny, PA $4,500,000"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ALLEGHENY"
 repo_path: "kb/anc/qintel-llc-ice-allegheny-pa-4500000.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to QINTEL LLC in PA ($4,500,000.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

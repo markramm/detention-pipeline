@@ -9,6 +9,7 @@ county: "Clayton County"
 repo_path: "kb/287g/287-g-tfm-city-of-morrow-police-department-ga.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and City of Morrow Police Department, signed September 22, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Scott"
 repo_path: "kb/industry/county-fights/shakopee-mn-rejected.md"
 lastmod: "2026-04-06"
 summary: "Warehouse owner in Shakopee MN declined to sell to ICE after community opposition made the deal politically toxic. Follows the Kansas City seller-pressure model."
+source_count: 1
 type: "fights"
 layout: "single"
 status: "blocked"

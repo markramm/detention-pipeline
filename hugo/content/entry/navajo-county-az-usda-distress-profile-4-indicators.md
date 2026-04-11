@@ -9,6 +9,7 @@ county: "Navajo"
 repo_path: "kb/budget/navajo-county-az-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Navajo, AZ."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

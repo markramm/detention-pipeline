@@ -9,6 +9,7 @@ county: "Seneca"
 repo_path: "kb/facilities/seneca-county-jail-seneca-oh.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Seneca, OH."
+source_count: 1
 layout: "single"
 facility_name: "Seneca County Jail"
 operator: ""

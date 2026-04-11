@@ -9,6 +9,7 @@ county: "Summit"
 repo_path: "kb/facilities/summit-county-jail-summit-ut.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Summit, UT."
+source_count: 1
 layout: "single"
 facility_name: "Summit County Jail"
 operator: ""

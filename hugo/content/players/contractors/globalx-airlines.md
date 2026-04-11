@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/globalx-airlines.md"
 lastmod: "2026-04-06"
 summary: "GlobalX Airlines operates ~80% of ICE deportation flights, earning $246M in 2025. Flight attendants reported shackled passengers cannot be safely evacuated in emergencies."
+source_count: 5
 layout: "single"
 player_type: "contractor"
 contractor_type: "charter-airline"

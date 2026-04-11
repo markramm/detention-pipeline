@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-manheim-borough-police-department-pa.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Manheim Borough Police Department, signed June 18, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

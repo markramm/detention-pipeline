@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/glades-county-igsa-2025.md"
 lastmod: "2026-04-06"
 summary: "ICE reinstated the Glades County FL IGSA on April 3, 2025 for up to 500 beds operated by the sheriff. Sabot Consulting featured it as a client success story."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

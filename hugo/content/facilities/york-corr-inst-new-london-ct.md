@@ -9,6 +9,7 @@ county: "New London"
 repo_path: "kb/facilities/york-corr-inst-new-london-ct.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in New London, CT."
+source_count: 1
 layout: "single"
 facility_name: "York Corr Inst"
 operator: ""

@@ -9,6 +9,7 @@ county: "Clark"
 repo_path: "kb/facilities/clark-county-jail-clark-wa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Clark, WA."
+source_count: 1
 layout: "single"
 facility_name: "Clark County Jail"
 operator: ""

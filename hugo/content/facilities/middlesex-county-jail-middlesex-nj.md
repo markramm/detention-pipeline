@@ -9,6 +9,7 @@ county: "Middlesex"
 repo_path: "kb/facilities/middlesex-county-jail-middlesex-nj.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Middlesex, NJ."
+source_count: 1
 layout: "single"
 facility_name: "Middlesex County Jail"
 operator: ""

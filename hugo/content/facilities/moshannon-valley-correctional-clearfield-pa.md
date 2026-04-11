@@ -9,6 +9,7 @@ county: "Clearfield"
 repo_path: "kb/facilities/moshannon-valley-correctional-clearfield-pa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Clearfield, PA."
+source_count: 1
 layout: "single"
 facility_name: "Moshannon Valley Correctional"
 operator: ""

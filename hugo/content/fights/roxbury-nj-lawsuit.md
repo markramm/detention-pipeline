@@ -9,6 +9,7 @@ county: "Morris"
 repo_path: "kb/industry/county-fights/roxbury-nj-lawsuit.md"
 lastmod: "2026-04-06"
 summary: "NJ Governor, AG, and Roxbury Township jointly sued to block a 470K sq ft ICE warehouse. Project NINJA organized 1,500+ community members -- broadest multi-level legal opposition of any facility fight."
+source_count: 2
 type: "fights"
 layout: "single"
 status: "litigation"

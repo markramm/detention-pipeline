@@ -9,6 +9,7 @@ county: "Guadalupe"
 repo_path: "kb/facilities/guadalupe-cty-jail-guadalupe-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Guadalupe, TX."
+source_count: 1
 layout: "single"
 facility_name: "Guadalupe Cty Jail"
 operator: ""

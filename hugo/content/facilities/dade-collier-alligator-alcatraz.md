@@ -9,6 +9,7 @@ county: "Miami-Dade/Collier"
 repo_path: "kb/industry/facilities/dade-collier-alligator-alcatraz.md"
 lastmod: "2026-04-06"
 summary: "3,000-5,000 bed state-operated facility built in 8 days in the Florida Everglades, opened July 2025. Documented abuse, maggot-infested food, and legal challenges; costs $450M/year to operate."
+source_count: 6
 layout: "single"
 facility_name: ""
 operator: "Florida Division of Emergency Management"

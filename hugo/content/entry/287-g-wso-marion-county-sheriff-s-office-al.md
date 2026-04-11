@@ -9,6 +9,7 @@ county: "Marion County"
 repo_path: "kb/287g/287-g-wso-marion-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Marion County Sheriff’s Office, signed July 23, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

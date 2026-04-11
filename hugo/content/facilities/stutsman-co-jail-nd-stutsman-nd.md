@@ -9,6 +9,7 @@ county: "Stutsman"
 repo_path: "kb/facilities/stutsman-co-jail-nd-stutsman-nd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Stutsman, ND."
+source_count: 1
 layout: "single"
 facility_name: "Stutsman Co. Jail, ND"
 operator: ""

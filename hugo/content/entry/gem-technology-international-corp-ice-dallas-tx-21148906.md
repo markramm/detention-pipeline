@@ -1,5 +1,5 @@
 ---
-title: "Gem Technology International, Corp — Ice Dallas, Tx $21,148,906"
+title: "Gem Technology International, Corp — ICE Dallas, TX $21,148,906"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "DALLAS"
 repo_path: "kb/anc/gem-technology-international-corp-ice-dallas-tx-21148906.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to GEM TECHNOLOGY INTERNATIONAL, CORP in TX ($21,148,905.90)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

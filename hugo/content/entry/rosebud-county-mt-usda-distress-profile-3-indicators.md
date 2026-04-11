@@ -9,6 +9,7 @@ county: "Rosebud"
 repo_path: "kb/budget/rosebud-county-mt-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Rosebud, MT."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

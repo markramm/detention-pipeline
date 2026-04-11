@@ -1,5 +1,5 @@
 ---
-title: "Gardaworld Federal Services Llc — Ice Arlington, Va $313,357,612"
+title: "Gardaworld Federal Services LLC — ICE Arlington, VA $313,357,612"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "ARLINGTON"
 repo_path: "kb/anc/gardaworld-federal-services-llc-ice-arlington-va-313357612.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to GARDAWORLD FEDERAL SERVICES LLC in VA ($313,357,612.46)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

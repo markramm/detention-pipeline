@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/mvm-inc-transportation.md"
 lastmod: "2026-04-06"
 summary: "$1.1B cumulative MVM Inc. contracts for ICE detainee and unaccompanied child transportation. $145M in new 2025 contracts; owner family are major Trump donors."
+source_count: 3
 type: "entry"
 layout: "single"
 ---

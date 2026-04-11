@@ -9,6 +9,7 @@ county: "Sacramento"
 repo_path: "kb/facilities/csp-sacramento-sacramento-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Sacramento, CA."
+source_count: 1
 layout: "single"
 facility_name: "Csp-Sacramento"
 operator: ""

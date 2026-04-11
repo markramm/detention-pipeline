@@ -1,5 +1,5 @@
 ---
-title: "Corecivic, Inc. — Ice Harris, Tx $39,478,106"
+title: "Corecivic, INC. — ICE Harris, TX $39,478,106"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "HARRIS"
 repo_path: "kb/anc/corecivic-inc-ice-harris-tx-39478106.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to CORECIVIC, INC. in TX ($39,478,106.04)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

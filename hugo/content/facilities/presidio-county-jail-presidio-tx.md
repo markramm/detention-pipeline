@@ -9,6 +9,7 @@ county: "Presidio"
 repo_path: "kb/facilities/presidio-county-jail-presidio-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Presidio, TX."
+source_count: 1
 layout: "single"
 facility_name: "Presidio County Jail"
 operator: ""

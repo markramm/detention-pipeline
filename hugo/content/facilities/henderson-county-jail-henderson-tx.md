@@ -9,6 +9,7 @@ county: "Henderson"
 repo_path: "kb/facilities/henderson-county-jail-henderson-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Henderson, TX."
+source_count: 1
 layout: "single"
 facility_name: "Henderson County Jail"
 operator: ""

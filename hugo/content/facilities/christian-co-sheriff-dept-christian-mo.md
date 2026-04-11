@@ -9,6 +9,7 @@ county: "Christian"
 repo_path: "kb/facilities/christian-co-sheriff-dept-christian-mo.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Christian, MO."
+source_count: 1
 layout: "single"
 facility_name: "Christian Co Sheriff Dept"
 operator: ""

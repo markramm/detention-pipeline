@@ -9,6 +9,7 @@ county: "Shenandoah"
 repo_path: "kb/facilities/shenandoah-co-jail-shenandoah-va.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Shenandoah, VA."
+source_count: 1
 layout: "single"
 facility_name: "Shenandoah Co Jail"
 operator: ""

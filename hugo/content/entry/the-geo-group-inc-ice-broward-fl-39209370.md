@@ -1,5 +1,5 @@
 ---
-title: "The Geo Group, Inc. — Ice Broward, Fl $39,209,370"
+title: "The Geo Group, INC. — ICE Broward, FL $39,209,370"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BROWARD"
 repo_path: "kb/anc/the-geo-group-inc-ice-broward-fl-39209370.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in FL ($39,209,369.78)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

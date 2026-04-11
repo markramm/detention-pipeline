@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/notes/foia-requests-needed.md"
 lastmod: "2026-04-08"
 summary: "Prioritized list of FOIA and state open records requests targeting NDAs with local officials, missing appraisals, WEXMAC-TITUS scope modifications, and Blue Owl ethics determinations."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

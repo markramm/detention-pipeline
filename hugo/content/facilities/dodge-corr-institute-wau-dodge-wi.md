@@ -9,6 +9,7 @@ county: "Dodge"
 repo_path: "kb/facilities/dodge-corr-institute-wau-dodge-wi.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Dodge, WI."
+source_count: 1
 layout: "single"
 facility_name: "Dodge Corr Institute, Wau"
 operator: ""

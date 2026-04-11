@@ -9,6 +9,7 @@ county: "Blaine"
 repo_path: "kb/budget/blaine-county-ok-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
 summary: "Budget distress indicators for Blaine, OK."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

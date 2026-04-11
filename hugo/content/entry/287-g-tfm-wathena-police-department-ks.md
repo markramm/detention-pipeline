@@ -9,6 +9,7 @@ county: "Doniphan County"
 repo_path: "kb/287g/287-g-tfm-wathena-police-department-ks.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Wathena Police Department, signed November 14, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

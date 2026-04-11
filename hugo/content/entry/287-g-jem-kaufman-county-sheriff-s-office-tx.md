@@ -9,6 +9,7 @@ county: "Kaufman County"
 repo_path: "kb/287g/287-g-jem-kaufman-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Kaufman County Sheriff’s Office, signed January 26, 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

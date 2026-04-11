@@ -9,6 +9,7 @@ county: "Walton"
 repo_path: "kb/industry/facilities/social-circle-ga-mega-center.md"
 lastmod: "2026-04-08"
 summary: "$129M warehouse in Social Circle GA (valued at $29M, 333% markup) planned as 7,500-10,000 bed mega center. City locked water meter because 1M gal/day sewage demand exceeds town's 660K capacity."
+source_count: 4
 layout: "single"
 facility_name: ""
 operator: "ICE (federal)"

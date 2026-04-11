@@ -9,6 +9,7 @@ county: "Rapides"
 repo_path: "kb/industry/facilities/alexandria-la-staging-facility.md"
 lastmod: "2026-04-06"
 summary: "400-bed GEO Group facility on a former Air Force Base tarmac in Alexandria LA, cycling 1,000+ people weekly. Cornerstone of ICE deportation flight operations and largest ICE Air hub."
+source_count: 4
 layout: "single"
 facility_name: ""
 operator: "GEO Group"

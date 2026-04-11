@@ -9,6 +9,7 @@ county: "Bradford"
 repo_path: "kb/facilities/bradford-county-jail-bradford-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Bradford, FL."
+source_count: 1
 layout: "single"
 facility_name: "Bradford County Jail"
 operator: ""

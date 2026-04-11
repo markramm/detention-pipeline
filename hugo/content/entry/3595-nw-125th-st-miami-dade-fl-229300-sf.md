@@ -9,6 +9,7 @@ county: "Miami-Dade"
 repo_path: "kb/real-estate/3595-nw-125th-st-miami-dade-fl-229300-sf.md"
 lastmod: "2026-04-10"
 summary: "229K SF warehouse in Miami-Dade owned by TIAA, leased to Performance Food Group on renewal. Active distribution property."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

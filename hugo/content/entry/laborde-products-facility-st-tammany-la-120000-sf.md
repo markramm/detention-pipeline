@@ -9,6 +9,7 @@ county: "St. Tammany"
 repo_path: "kb/real-estate/laborde-products-facility-st-tammany-la-120000-sf.md"
 lastmod: "2026-04-10"
 summary: "120K SF warehouse in Covington, St. Tammany Parish LA, owned by Laborde Products. $5.85M expansion completed 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

@@ -9,6 +9,7 @@ county: "Ector"
 repo_path: "kb/facilities/odessa-detention-center-ector-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Ector, TX."
+source_count: 1
 layout: "single"
 facility_name: "Odessa Detention Center"
 operator: ""

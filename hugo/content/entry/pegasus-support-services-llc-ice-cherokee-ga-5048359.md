@@ -1,5 +1,5 @@
 ---
-title: "Pegasus Support Services Llc — Ice Cherokee, Ga $5,048,359"
+title: "Pegasus Support Services LLC — ICE Cherokee, GA $5,048,359"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "CHEROKEE"
 repo_path: "kb/anc/pegasus-support-services-llc-ice-cherokee-ga-5048359.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to PEGASUS SUPPORT SERVICES LLC in GA ($5,048,358.93)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

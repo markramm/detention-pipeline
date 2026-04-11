@@ -9,6 +9,7 @@ county: "Missoula"
 repo_path: "kb/facilities/missoula-county-missoula-mt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Missoula, MT."
+source_count: 1
 layout: "single"
 facility_name: "Missoula County"
 operator: ""

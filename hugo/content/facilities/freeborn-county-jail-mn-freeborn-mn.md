@@ -9,6 +9,7 @@ county: "Freeborn"
 repo_path: "kb/facilities/freeborn-county-jail-mn-freeborn-mn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Freeborn, MN."
+source_count: 1
 layout: "single"
 facility_name: "Freeborn County Jail, MN"
 operator: ""

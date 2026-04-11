@@ -9,6 +9,7 @@ county: "Blount"
 repo_path: "kb/facilities/blount-county-justice-ctr-blount-tn.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Blount, TN."
+source_count: 1
 layout: "single"
 facility_name: "Blount County Justice Ctr"
 operator: ""

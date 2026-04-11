@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/organizations/goldman-sachs-detention.md"
 lastmod: "2026-04-08"
 summary: "Goldman Sachs has double ICE exposure: direct seller of Roxbury NJ ($129.3M, 137% markup) and lender on Williamsport MD ($352.7M refi). Combined Goldman-connected proceeds: $231.7M."
+source_count: 4
 type: "entry"
 layout: "single"
 ---

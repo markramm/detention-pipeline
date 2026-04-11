@@ -9,6 +9,7 @@ county: "Hall"
 repo_path: "kb/facilities/north-georgia-detention-center-hall-ga.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hall, GA."
+source_count: 1
 layout: "single"
 facility_name: "North Georgia Detention Center"
 operator: ""

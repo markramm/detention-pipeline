@@ -1,5 +1,5 @@
 ---
-title: "Pen-Link, Ltd — Ice Lancaster, Ne $19,735,670"
+title: "Pen-Link, Ltd — ICE Lancaster, NE $19,735,670"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "LANCASTER"
 repo_path: "kb/anc/pen-link-ltd-ice-lancaster-ne-19735670.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to PEN-LINK, LTD in NE ($19,735,669.92)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

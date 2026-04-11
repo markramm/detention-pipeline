@@ -9,6 +9,7 @@ county: "Walworth"
 repo_path: "kb/facilities/walworth-county-jail-walworth-wi.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Walworth, WI."
+source_count: 1
 layout: "single"
 facility_name: "Walworth County Jail"
 operator: ""

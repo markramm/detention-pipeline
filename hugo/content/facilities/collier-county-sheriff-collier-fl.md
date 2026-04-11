@@ -9,6 +9,7 @@ county: "Collier"
 repo_path: "kb/facilities/collier-county-sheriff-collier-fl.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Collier, FL."
+source_count: 1
 layout: "single"
 facility_name: "Collier County Sheriff"
 operator: ""

@@ -9,6 +9,7 @@ county: "Williamson"
 repo_path: "kb/facilities/t-don-hutto-residential-center-williamson-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Williamson, TX."
+source_count: 1
 layout: "single"
 facility_name: "T Don Hutto Residential Center"
 operator: ""

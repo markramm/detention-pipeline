@@ -9,6 +9,7 @@ county: "Bowie"
 repo_path: "kb/facilities/bowie-county-jail-bowie-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Bowie, TX."
+source_count: 1
 layout: "single"
 facility_name: "Bowie County Jail"
 operator: ""

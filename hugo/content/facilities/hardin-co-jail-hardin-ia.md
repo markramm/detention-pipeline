@@ -9,6 +9,7 @@ county: "Hardin"
 repo_path: "kb/facilities/hardin-co-jail-hardin-ia.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Hardin, IA."
+source_count: 1
 layout: "single"
 facility_name: "Hardin Co Jail"
 operator: ""

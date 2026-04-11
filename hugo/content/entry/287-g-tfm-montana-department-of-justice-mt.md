@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-montana-department-of-justice-mt.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Montana Department of Justice, signed March 5, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

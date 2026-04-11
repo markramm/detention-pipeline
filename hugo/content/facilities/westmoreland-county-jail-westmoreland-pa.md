@@ -9,6 +9,7 @@ county: "Westmoreland"
 repo_path: "kb/facilities/westmoreland-county-jail-westmoreland-pa.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Westmoreland, PA."
+source_count: 1
 layout: "single"
 facility_name: "Westmoreland County Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/organizations/blue-owl-capital.md"
 lastmod: "2026-04-08"
 summary: "Blue Owl Capital ($307.5B AUM) sold distressed warehouses to DHS at multiples of market value. Stock crashed 68% amid $5.4B in redemption requests; DHS sales were a financial lifeline."
+source_count: 3
 type: "entry"
 layout: "single"
 ---

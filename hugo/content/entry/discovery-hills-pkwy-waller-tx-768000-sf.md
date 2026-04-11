@@ -9,6 +9,7 @@ county: "Waller"
 repo_path: "kb/real-estate/discovery-hills-pkwy-waller-tx-768000-sf.md"
 lastmod: "2026-04-10"
 summary: "768K SF warehouse development in Brookshire, Waller County TX, $38M project by Clay Development & Construction. Status unknown."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

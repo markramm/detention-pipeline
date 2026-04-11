@@ -9,6 +9,7 @@ county: "Chittenden"
 repo_path: "kb/facilities/chittenden-reg-cor-facility-chittenden-vt.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Chittenden, VT."
+source_count: 1
 layout: "single"
 facility_name: "Chittenden Reg. Cor. Facility"
 operator: ""

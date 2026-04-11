@@ -9,6 +9,7 @@ county: "Henderson"
 repo_path: "kb/facilities/henderson-county-det-fac-henderson-nc.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Henderson, NC."
+source_count: 1
 layout: "single"
 facility_name: "Henderson County Det. Fac."
 operator: ""

@@ -9,6 +9,7 @@ county: "Mountrail"
 repo_path: "kb/facilities/mountrail-co-jail-nd-mountrail-nd.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Mountrail, ND."
+source_count: 1
 layout: "single"
 facility_name: "Mountrail Co. Jail, ND"
 operator: ""

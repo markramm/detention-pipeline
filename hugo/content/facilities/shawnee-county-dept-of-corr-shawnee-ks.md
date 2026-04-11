@@ -9,6 +9,7 @@ county: "Shawnee"
 repo_path: "kb/facilities/shawnee-county-dept-of-corr-shawnee-ks.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Shawnee, KS."
+source_count: 1
 layout: "single"
 facility_name: "Shawnee County Dept Of Corr."
 operator: ""

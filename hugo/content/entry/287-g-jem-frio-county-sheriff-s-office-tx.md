@@ -9,6 +9,7 @@ county: "Frio County"
 repo_path: "kb/287g/287-g-jem-frio-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Frio County Sheriff’s Office, signed September 22, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

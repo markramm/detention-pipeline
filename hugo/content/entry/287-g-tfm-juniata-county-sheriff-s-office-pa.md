@@ -9,6 +9,7 @@ county: "Juniata County"
 repo_path: "kb/287g/287-g-tfm-juniata-county-sheriff-s-office-pa.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Juniata County Sheriff’s Office, signed June 11, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

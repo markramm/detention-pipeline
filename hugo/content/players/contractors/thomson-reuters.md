@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/thomson-reuters.md"
 lastmod: "2026-04-06"
 summary: "Thomson Reuters CLEAR gives ICE access to utility records, phone records, license plates, and real-time geolocation. $161M+ in cumulative DHS contracts since 2003."
+source_count: 9
 layout: "single"
 player_type: "contractor"
 contractor_type: "data-broker"

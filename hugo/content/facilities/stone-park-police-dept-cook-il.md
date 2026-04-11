@@ -9,6 +9,7 @@ county: "Cook"
 repo_path: "kb/facilities/stone-park-police-dept-cook-il.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Cook, IL."
+source_count: 1
 layout: "single"
 facility_name: "Stone Park Police Dept."
 operator: ""

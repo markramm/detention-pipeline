@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/people/edward-dalelio.md"
 lastmod: "2026-04-08"
 summary: "Blue Owl Capital director who previously served on the Trump Entertainment Resorts board, connecting the private equity firm profiting from ICE warehouses to the Trump business network."
+source_count: 1
 layout: "single"
 player_type: "person"
 role: "Director, Blue Owl Capital"

@@ -9,6 +9,7 @@ county: "La Plata"
 repo_path: "kb/facilities/southern-ute-detention-center-la-plata-co.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in La Plata, CO."
+source_count: 1
 layout: "single"
 facility_name: "Southern Ute Detention Center"
 operator: ""

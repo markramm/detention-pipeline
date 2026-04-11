@@ -9,6 +9,7 @@ county: "Freestone"
 repo_path: "kb/facilities/freestone-county-jail-freestone-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Freestone, TX."
+source_count: 1
 layout: "single"
 facility_name: "Freestone County Jail"
 operator: ""

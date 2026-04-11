@@ -1,5 +1,5 @@
 ---
-title: "Techop Solutions International, Inc. — Ice Stafford, Va $7,103,923"
+title: "Techop Solutions International, INC. — ICE Stafford, VA $7,103,923"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "STAFFORD"
 repo_path: "kb/anc/techop-solutions-international-inc-ice-stafford-va-7103923.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to TECHOP SOLUTIONS INTERNATIONAL, INC. in VA ($7,103,923.20)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

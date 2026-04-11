@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contractors/shadowdragon.md"
 lastmod: "2026-04-06"
 summary: "ShadowDragon provides ICE with social media surveillance across 200+ websites including dating sites, forums, and social platforms. ICE plans a $20-50M monitoring office expansion."
+source_count: 7
 layout: "single"
 player_type: "contractor"
 contractor_type: "surveillance-platform"

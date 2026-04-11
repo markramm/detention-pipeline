@@ -9,6 +9,7 @@ county: "Kinney"
 repo_path: "kb/facilities/kinney-county-jail-kinney-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Kinney, TX."
+source_count: 1
 layout: "single"
 facility_name: "Kinney County Jail"
 operator: ""

@@ -9,6 +9,7 @@ county: "Mclennan"
 repo_path: "kb/facilities/mclennan-county-jail-mclennan-tx.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Mclennan, TX."
+source_count: 1
 layout: "single"
 facility_name: "Mclennan County Jail"
 operator: ""

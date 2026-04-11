@@ -1,5 +1,5 @@
 ---
-title: "Ethic Tech, Llc — Ice Madison, Al $2,095,240"
+title: "Ethic Tech, LLC — ICE Madison, AL $2,095,240"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "MADISON"
 repo_path: "kb/anc/ethic-tech-llc-ice-madison-al-2095240.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to ETHIC TECH, LLC in AL ($2,095,240.25)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

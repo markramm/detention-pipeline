@@ -9,6 +9,7 @@ county: "Jackson"
 repo_path: "kb/industry/county-fights/kansas-city-mo-platform-ventures.md"
 lastmod: "2026-04-06"
 summary: "Community in Kansas City blocked a 7,500-bed mega center through student walkouts, mass protests, and a general strike. Platform Ventures withdrew Feb 12, 2026 after Port KC severed ties."
+source_count: 5
 type: "fights"
 layout: "single"
 status: "blocked"

@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/industry/contracts/geo-wexmac-titus-prequalification.md"
 lastmod: "2026-04-06"
 summary: "GEO Group was quietly pre-qualified for WEXMAC-TITUS, giving it no-bid access to $45B in OBBBA detention funding. Announced on a Friday night in Feb 2026."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

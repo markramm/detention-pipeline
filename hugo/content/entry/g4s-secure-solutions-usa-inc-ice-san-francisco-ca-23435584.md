@@ -1,5 +1,5 @@
 ---
-title: "G4S Secure Solutions (Usa) Inc. — Ice San Francisco, Ca $23,435,584"
+title: "G4S Secure Solutions (Usa) INC. — ICE San Francisco, CA $23,435,584"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "SAN FRANCISCO"
 repo_path: "kb/anc/g4s-secure-solutions-usa-inc-ice-san-francisco-ca-23435584.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to G4S SECURE SOLUTIONS (USA) INC. in CA ($23,435,583.99)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

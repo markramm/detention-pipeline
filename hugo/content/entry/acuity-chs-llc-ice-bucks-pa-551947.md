@@ -1,5 +1,5 @@
 ---
-title: "Acuity-Chs, Llc — Ice Bucks, Pa $551,947"
+title: "Acuity-Chs, LLC — ICE Bucks, PA $551,947"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -9,6 +9,7 @@ county: "BUCKS"
 repo_path: "kb/anc/acuity-chs-llc-ice-bucks-pa-551947.md"
 lastmod: "2026-04-10"
 summary: "Federal contract awarded to ACUITY-CHS, LLC in PA ($551,947.00)."
+source_count: 0
 type: "entry"
 layout: "single"
 ---

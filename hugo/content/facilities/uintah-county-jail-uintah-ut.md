@@ -9,6 +9,7 @@ county: "Uintah"
 repo_path: "kb/facilities/uintah-county-jail-uintah-ut.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Uintah, UT."
+source_count: 1
 layout: "single"
 facility_name: "Uintah County Jail"
 operator: ""

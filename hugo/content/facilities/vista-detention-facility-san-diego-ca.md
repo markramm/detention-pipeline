@@ -9,6 +9,7 @@ county: "San Diego"
 repo_path: "kb/facilities/vista-detention-facility-san-diego-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in San Diego, CA."
+source_count: 1
 layout: "single"
 facility_name: "Vista Detention Facility"
 operator: ""

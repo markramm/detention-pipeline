@@ -9,6 +9,7 @@ county: "Lafayette"
 repo_path: "kb/facilities/lafayette-parish-so-jail-annex-lafayette-la.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Lafayette, LA."
+source_count: 1
 layout: "single"
 facility_name: "Lafayette Parish So Jail Annex"
 operator: ""

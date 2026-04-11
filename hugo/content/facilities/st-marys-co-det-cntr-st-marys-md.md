@@ -9,6 +9,7 @@ county: "St. Mary's"
 repo_path: "kb/facilities/st-marys-co-det-cntr-st-marys-md.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in St. Mary's, MD."
+source_count: 1
 layout: "single"
 facility_name: "St. Mary's Co Det Cntr"
 operator: ""

@@ -9,6 +9,7 @@ county: "Los Angeles"
 repo_path: "kb/facilities/los-angeles-county-jail-twin-tower-los-angeles-ca.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Los Angeles, CA."
+source_count: 1
 layout: "single"
 facility_name: "Los Angeles County Jail-Twin Tower"
 operator: ""

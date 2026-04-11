@@ -9,6 +9,7 @@ county: "Callaway County"
 repo_path: "kb/287g/287-g-jem-callaway-county-sheriff-s-office-mo.md"
 lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Callaway County Sheriff’s Office, signed December 2, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

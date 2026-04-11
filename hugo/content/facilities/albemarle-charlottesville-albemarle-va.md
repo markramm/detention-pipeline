@@ -9,6 +9,7 @@ county: "Albemarle"
 repo_path: "kb/facilities/albemarle-charlottesville-albemarle-va.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Albemarle, VA."
+source_count: 1
 layout: "single"
 facility_name: "Albemarle-Charlottesville"
 operator: ""

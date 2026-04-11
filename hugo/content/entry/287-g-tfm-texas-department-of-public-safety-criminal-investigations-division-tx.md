@@ -9,6 +9,7 @@ county: ""
 repo_path: "kb/287g/287-g-tfm-texas-department-of-public-safety-criminal-investigations-division-tx.md"
 lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Texas Department of Public Safety- Criminal Investigations Division, signed October 17, 2025."
+source_count: 1
 type: "entry"
 layout: "single"
 ---

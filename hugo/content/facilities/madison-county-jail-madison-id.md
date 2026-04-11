@@ -9,6 +9,7 @@ county: "Madison"
 repo_path: "kb/facilities/madison-county-jail-madison-id.md"
 lastmod: "2026-04-10"
 summary: "IGSA detention facility in Madison, ID."
+source_count: 1
 layout: "single"
 facility_name: "Madison County Jail"
 operator: ""
