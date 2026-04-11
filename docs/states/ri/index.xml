@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>RI on Detention Pipeline</title>
-    <link>http://localhost:8787/states/ri/</link>
-    <description>Recent content in RI on Detention Pipeline</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:8787/states/ri/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Providence County, RI</title>
-      <link>http://localhost:8787/county/44007/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/44007/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RI on Detention Pipeline</title><link>https://detention-pipeline.transparencycascade.org/states/ri/</link><description>Recent content in RI on Detention Pipeline</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://detention-pipeline.transparencycascade.org/states/ri/index.xml" rel="self" type="application/rss+xml"/><item><title>Providence County, RI</title><link>https://detention-pipeline.transparencycascade.org/county/44007/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/44007/</guid><description/></item></channel></rss>
