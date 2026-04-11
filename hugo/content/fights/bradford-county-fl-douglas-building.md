@@ -20,7 +20,7 @@ facility: "bradford-county-douglas-building"
 
 ## The Fight
 
-Bradford County is the documented case study of the county-led IGSA model — where a consulting firm ([Sabot Consulting](/entry/sabot-consulting/)) staffed by former ICE officials pitches rural sheriffs on building detention facilities as economic development. See [bradford-county-douglas-building](/entry/bradford-county-douglas-building/) for the facility entry. The fight is ongoing.
+Bradford County is the documented case study of the county-led IGSA model — where a consulting firm ([Sabot Consulting](/players/contractors/sabot-consulting/)) staffed by former ICE officials pitches rural sheriffs on building detention facilities as economic development. See [bradford-county-douglas-building](/facilities/bradford-county-douglas-building/) for the facility entry. The fight is ongoing.
 
 ## What Makes This Different
 
@@ -29,7 +29,7 @@ Unlike federal warehouse purchases (where the government buys property and bypas
 ## Timeline
 
 - **July 2025:** Sheriff Gordon Smith approached by former Osceola County Chief Deputy working with Sabot
-- **December 16, 2025:** [Sabot](/entry/sabot-consulting/) briefing package prepared (12 pages, marked DRAFT)
+- **December 16, 2025:** [Sabot](/players/contractors/sabot-consulting/) briefing package prepared (12 pages, marked DRAFT)
 - **January 15, 2026:** Commission votes 3-2 to advance (Spooner and Riddick opposed)
 - **January 30, 2026:** Community protest
 - **February 28, 2026:** WUFT reports 15 years of VOC groundwater contamination spreading to 30 properties
@@ -39,7 +39,7 @@ Unlike federal warehouse purchases (where the government buys property and bypas
 
 ## Environmental Issue
 
-The Douglas Building site has VOC-contaminated groundwater monitored by FDEP for 15 years. The [Sabot](/entry/sabot-consulting/) proposal lists "vapor intrusion" as a risk. The lease is on the agenda before the environmental studies are complete — contradicting the Sheriff's March 3 assurance.
+The Douglas Building site has VOC-contaminated groundwater monitored by FDEP for 15 years. The [Sabot](/players/contractors/sabot-consulting/) proposal lists "vapor intrusion" as a risk. The lease is on the agenda before the environmental studies are complete — contradicting the Sheriff's March 3 assurance.
 
 ## The Arguments
 

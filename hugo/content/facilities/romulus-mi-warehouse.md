@@ -31,7 +31,7 @@ In February 2026, ICE purchased a commercial warehouse at **7525 Cogswell Street
 
 ## Legal Fight
 
-The Romulus facility is one of the most actively contested warehouse purchases (see [romulus-mi-warehouse-fight](/entry/romulus-mi-warehouse-fight/)):
+The Romulus facility is one of the most actively contested warehouse purchases (see [romulus-mi-warehouse-fight](/fights/romulus-mi-warehouse-fight/)):
 
 - **February 27, 2026**: Michigan AG Dana Nessel demands ICE halt the plan
 - **March 24, 2026**: City of Romulus and State of Michigan **file lawsuit** to block conversion

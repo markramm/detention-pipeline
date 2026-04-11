@@ -22,7 +22,7 @@ Apex Site Services is a provider of temporary and semi-permanent infrastructure 
 
 ## ICE Detention Proposals
 
-Apex appeared in ACLU FOIA documents (alongside [CoreCivic](/entry/corecivic/) and [MTC](/entry/mtc/)) as having submitted proposals for ICE detention expansion:
+Apex appeared in ACLU FOIA documents (alongside [CoreCivic](/players/contractors/corecivic/) and [MTC](/players/contractors/mtc/)) as having submitted proposals for ICE detention expansion:
 - **Walsenburg, Colorado** -- Proposed a soft-sided detention facility in response to ICE's Denver ERO Field Office Request for Information (February 2025)
 - Describes its expertise as "complex temporary and semi-permanent infrastructure solutions"
 

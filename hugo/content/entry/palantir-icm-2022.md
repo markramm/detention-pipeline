@@ -14,7 +14,7 @@ type: "entry"
 layout: "single"
 ---
 
-ICE's Investigative Case Management (ICM) system is built and operated by [Palantir Technologies](/entry/palantir-technologies/). The current contract was awarded in 2022, valued at **$139.3 million**, and set to expire in April 2026.
+ICE's Investigative Case Management (ICM) system is built and operated by [Palantir Technologies](/players/contractors/palantir-technologies/). The current contract was awarded in 2022, valued at **$139.3 million**, and set to expire in April 2026.
 
 ## System Capabilities
 

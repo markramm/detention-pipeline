@@ -37,7 +37,7 @@ Reporting by El Paso Matters revealed that the planned mega detention center fac
 
 ## Context
 
-This facility would operate alongside [Camp East Montana](/entry/camp-east-montana-fort-bliss/) (Fort Bliss), giving the El Paso region two massive detention sites. The El Paso mega-center is one of eight large-scale facilities planned nationally under the $38.3B Detention Reengineering Initiative.
+This facility would operate alongside [Camp East Montana](/facilities/camp-east-montana-fort-bliss/) (Fort Bliss), giving the El Paso region two massive detention sites. The El Paso mega-center is one of eight large-scale facilities planned nationally under the $38.3B Detention Reengineering Initiative.
 
 ## Sources
 

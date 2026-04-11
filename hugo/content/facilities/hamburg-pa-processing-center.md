@@ -17,7 +17,7 @@ status: "approved"
 bed_count: "1,000-1,500 beds (processing center)"
 ---
 
-One of six confirmed processing center purchases in ICE's Detention Reengineering Initiative. Planned capacity 1,000-1,500 beds with average stays of 3-7 days. Part of the Pennsylvania cluster (along with [upper-bern-pa-warehouse](/entry/upper-bern-pa-warehouse/) and [tremont-pa-mega-center](/entry/tremont-pa-mega-center/)).
+One of six confirmed processing center purchases in ICE's Detention Reengineering Initiative. Planned capacity 1,000-1,500 beds with average stays of 3-7 days. Part of the Pennsylvania cluster (along with [upper-bern-pa-warehouse](/facilities/upper-bern-pa-warehouse/) and [tremont-pa-mega-center](/facilities/tremont-pa-mega-center/)).
 
 ## Sources
 

@@ -20,7 +20,7 @@ facility: "salt-lake-city-ut-mega-center"
 
 ## The Fight
 
-ICE purchased an 833,000 sq ft warehouse (see [salt-lake-city-ut-mega-center](/entry/salt-lake-city-ut-mega-center/)) for $145.4 million through a Delaware shell company on March 12, 2026. Mayor Erin Mendenhall disclosed that ICE plans it as a mega center for 7,500-10,000 people. The purchase was completed without city notification.
+ICE purchased an 833,000 sq ft warehouse (see [salt-lake-city-ut-mega-center](/facilities/salt-lake-city-ut-mega-center/)) for $145.4 million through a Delaware shell company on March 12, 2026. Mayor Erin Mendenhall disclosed that ICE plans it as a mega center for 7,500-10,000 people. The purchase was completed without city notification.
 
 ## Timeline
 
@@ -33,7 +33,7 @@ ICE purchased an 833,000 sq ft warehouse (see [salt-lake-city-ut-mega-center](/e
 
 ## Tactics Being Used
 
-1. **Water restriction** — Following [social-circle-ga-water-shutoff](/entry/social-circle-ga-water-shutoff/) model. City controls municipal water; facility can't operate without it.
+1. **Water restriction** — Following [social-circle-ga-water-shutoff](/fights/social-circle-ga-water-shutoff/) model. City controls municipal water; facility can't operate without it.
 2. **Mass protest** — Hundreds at the warehouse, hundreds at the Governor's Mansion.
 3. **Political pressure** — Mayor, County Mayor, and Democratic legislators all opposed.
 4. **Media attention** — Sustained coverage from KUER, Utah News Dispatch, Salt Lake Tribune, Axios, KSL.

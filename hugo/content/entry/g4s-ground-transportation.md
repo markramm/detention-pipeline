@@ -14,7 +14,7 @@ type: "entry"
 layout: "single"
 ---
 
-[G4S Secure Solutions](/entry/g4s-secure-solutions/) (Allied Universal subsidiary) provides armed ground transportation and detention officer services across multiple ICE field offices under a series of task orders and delivery contracts.
+[G4S Secure Solutions](/players/contractors/g4s-secure-solutions/) (Allied Universal subsidiary) provides armed ground transportation and detention officer services across multiple ICE field offices under a series of task orders and delivery contracts.
 
 ## Known Contracts
 

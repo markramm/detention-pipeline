@@ -14,7 +14,7 @@ type: "entry"
 layout: "single"
 ---
 
-[LexisNexis](/entry/lexisnexis/) provides ICE and CBP with the Law Enforcement Investigative Database Subscription (LEIDS) platform, a web-based investigative database that includes license plate recognition.
+[LexisNexis](/players/contractors/lexisnexis/) provides ICE and CBP with the Law Enforcement Investigative Database Subscription (LEIDS) platform, a web-based investigative database that includes license plate recognition.
 
 ## Contract Values
 

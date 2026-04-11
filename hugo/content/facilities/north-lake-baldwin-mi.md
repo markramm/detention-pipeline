@@ -19,18 +19,18 @@ bed_count: "1,800"
 
 ## Overview
 
-The **North Lake Processing Center** in Baldwin, Michigan is a **1,800-bed** [GEO Group](/entry/geo-group/)-operated ICE detention facility that was reactivated in 2025. It has been described as "notorious" in reporting on ICE detention conditions.
+The **North Lake Processing Center** in Baldwin, Michigan is a **1,800-bed** [GEO Group](/players/contractors/geo-group/)-operated ICE detention facility that was reactivated in 2025. It has been described as "notorious" in reporting on ICE detention conditions.
 
 ## Key Details
 
 - **Capacity**: 1,800 beds
-- **Operator**: [GEO Group](/entry/geo-group/)
+- **Operator**: [GEO Group](/players/contractors/geo-group/)
 - **Status**: Operational (reactivated 2025)
 - **Location**: Baldwin, Lake County, Michigan
 
 ## Context
 
-One of four [GEO Group](/entry/geo-group/) facilities reactivated in 2025 as part of the company's expansion from ~20,000 to ~26,000 ICE beds. Michigan now hosts both the North Lake Processing Center (private) and the contested [Romulus warehouse](/entry/romulus-mi-warehouse/) (federal), making it a significant node in the detention network.
+One of four [GEO Group](/players/contractors/geo-group/) facilities reactivated in 2025 as part of the company's expansion from ~20,000 to ~26,000 ICE beds. Michigan now hosts both the North Lake Processing Center (private) and the contested [Romulus warehouse](/facilities/romulus-mi-warehouse/) (federal), making it a significant node in the detention network.
 
 ## Sources
 

@@ -18,7 +18,7 @@ founded: ""
 status: "active"
 ---
 
-LexisNexis, a subsidiary of British conglomerate RELX PLC, provides ICE and CBP with the Accurint database platform through the Law Enforcement Investigative Database Subscription (LEIDS) program. Alongside [Thomson Reuters CLEAR](/entry/thomson-reuters/), LexisNexis is one of the two primary data brokers fueling ICE's surveillance apparatus.
+LexisNexis, a subsidiary of British conglomerate RELX PLC, provides ICE and CBP with the Accurint database platform through the Law Enforcement Investigative Database Subscription (LEIDS) program. Alongside [Thomson Reuters CLEAR](/players/contractors/thomson-reuters/), LexisNexis is one of the two primary data brokers fueling ICE's surveillance apparatus.
 
 ## What ICE Buys
 

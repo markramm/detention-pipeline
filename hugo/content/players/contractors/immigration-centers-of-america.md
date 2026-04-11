@@ -18,7 +18,7 @@ founded: "~2008"
 status: "active"
 ---
 
-Immigration Centers of America is a smaller private detention company that operates ICE immigration detention facilities through Intergovernmental Service Agreements (IGSAs) with local municipalities. Unlike [GEO Group](/entry/geo-group/) and [CoreCivic](/entry/corecivic/), ICA is a niche operator focused specifically on immigration detention.
+Immigration Centers of America is a smaller private detention company that operates ICE immigration detention facilities through Intergovernmental Service Agreements (IGSAs) with local municipalities. Unlike [GEO Group](/players/contractors/geo-group/) and [CoreCivic](/players/contractors/corecivic/), ICA is a niche operator focused specifically on immigration detention.
 
 ## Farmville Detention Center
 
@@ -40,11 +40,11 @@ The Farmville Detention Center has been "notorious for its brutality, abuse, and
 
 ## Folkston — Correction
 
-Note: The Folkston ICE Processing Center in Charlton County, Georgia was previously attributed to ICA but is actually operated by [GEO Group](/entry/geo-group/). See [folkston-ipc-charlton-ga](/entry/folkston-ipc-charlton-ga/). ICA's confirmed operations are limited to the Farmville Detention Center in Virginia.
+Note: The Folkston ICE Processing Center in Charlton County, Georgia was previously attributed to ICA but is actually operated by [GEO Group](/players/contractors/geo-group/). See [folkston-ipc-charlton-ga](/facilities/folkston-ipc-charlton-ga/). ICA's confirmed operations are limited to the Farmville Detention Center in Virginia.
 
 ## Current Status
 
-Under the Trump administration's 2025-2026 detention expansion, the Farmville facility's population has likely increased from its Biden-era lows. ICA remains a niche operator compared to [GEO Group](/entry/geo-group/) and [CoreCivic](/entry/corecivic/).
+Under the Trump administration's 2025-2026 detention expansion, the Farmville facility's population has likely increased from its Biden-era lows. ICA remains a niche operator compared to [GEO Group](/players/contractors/geo-group/) and [CoreCivic](/players/contractors/corecivic/).
 
 ## Sources
 

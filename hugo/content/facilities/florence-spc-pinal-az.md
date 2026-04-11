@@ -39,7 +39,7 @@ That's a **12.5% increase** over three years, with no competitive bidding at any
 
 ## Part of the Pinal County Cluster
 
-The Florence SPC is the federal counterpart to the CoreCivic-operated private facilities in the area. See [eloy-detention-center-pinal-az](/entry/eloy-detention-center-pinal-az/) for the full cluster map.
+The Florence SPC is the federal counterpart to the CoreCivic-operated private facilities in the area. See [eloy-detention-center-pinal-az](/facilities/eloy-detention-center-pinal-az/) for the full cluster map.
 
 ## Sources
 

@@ -38,8 +38,8 @@ The phrase "managing the noise" appears repeatedly. "NGO scrutiny" means immigra
 
 ## Known Facilities and Proposals
 
-- **[Bradford County, FL](/entry/bradford-county-douglas-building/)** — 3,000-bed "detention campus" proposal (Dec 2025 briefing package). County-led IGSA, phased buildout over 38 weeks, $239M/year at full capacity.
-- **[Glades County, FL](/entry/glades-county-fl-detention/)** — Client profile featured in Sabot newsletter. ICE reinstated IGSA April 3, 2025, up to 500 beds.
+- **[Bradford County, FL](/facilities/bradford-county-douglas-building/)** — 3,000-bed "detention campus" proposal (Dec 2025 briefing package). County-led IGSA, phased buildout over 38 weeks, $239M/year at full capacity.
+- **[Glades County, FL](/facilities/glades-county-fl-detention/)** — Client profile featured in Sabot newsletter. ICE reinstated IGSA April 3, 2025, up to 500 beds.
 - **Utah and Wyoming** — ACLU FOIA revealed Sabot submitted proposals to construct new facilities, citing "potentially problematic statutory requirements" in Utah and including a Circuit Court boundaries map.
 
 ## The Business Model

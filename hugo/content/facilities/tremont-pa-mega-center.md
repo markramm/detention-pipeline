@@ -38,9 +38,9 @@ A warehouse in Tremont, Pennsylvania (central Pennsylvania) is designated as one
 
 ## Context
 
-Pennsylvania hosts two facilities in the Detention Reengineering Initiative: this mega-center in Tremont and the smaller regional processing center in [Upper Bern Township](/entry/upper-bern-pa-warehouse/) (Hamburg area, $87M purchase). Together they represent a massive expansion of detention infrastructure in a key swing state.
+Pennsylvania hosts two facilities in the Detention Reengineering Initiative: this mega-center in Tremont and the smaller regional processing center in [Upper Bern Township](/facilities/upper-bern-pa-warehouse/) (Hamburg area, $87M purchase). Together they represent a massive expansion of detention infrastructure in a key swing state.
 
-The Tremont mega-center would be comparable in scale to the [Social Circle, GA](/entry/social-circle-ga-mega-center/) and [El Paso, TX](/entry/el-paso-tx-eastwind-mega-center/) mega-centers — among the largest jails of any kind in the country if completed as planned.
+The Tremont mega-center would be comparable in scale to the [Social Circle, GA](/facilities/social-circle-ga-mega-center/) and [El Paso, TX](/facilities/el-paso-tx-eastwind-mega-center/) mega-centers — among the largest jails of any kind in the country if completed as planned.
 
 Blue Owl's Tremont sale is not isolated — the firm also owned the [Durant, OK](/entry/durant-ok/) warehouse that the Choctaw Nation purchased to block DHS acquisition.
 

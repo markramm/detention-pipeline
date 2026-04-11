@@ -31,7 +31,7 @@ ICE purchased a warehouse on the **East Side of San Antonio** for over **$66 mil
 
 ## Context
 
-Part of the 24-warehouse Detention Reengineering Initiative. Texas is host to multiple facilities in this program, including the [El Paso Eastwind mega-center](/entry/el-paso-tx-eastwind-mega-center/) (8,500 beds) and [Camp East Montana](/entry/camp-east-montana-fort-bliss/) (Fort Bliss).
+Part of the 24-warehouse Detention Reengineering Initiative. Texas is host to multiple facilities in this program, including the [El Paso Eastwind mega-center](/facilities/el-paso-tx-eastwind-mega-center/) (8,500 beds) and [Camp East Montana](/facilities/camp-east-montana-fort-bliss/) (Fort Bliss).
 
 ## Sources
 

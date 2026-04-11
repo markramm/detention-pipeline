@@ -27,7 +27,7 @@ ICE planned to purchase and convert a **43-acre warehouse property** at 50 Rober
 - **Property**: 43-acre warehouse
 - **Planned capacity**: 500-1,500 beds
 - **Facility type**: Regional processing center (one of 16)
-- **Status**: **Paused** — community opposition forced halt (see [merrimack-nh-paused](/entry/merrimack-nh-paused/))
+- **Status**: **Paused** — community opposition forced halt (see [merrimack-nh-paused](/fights/merrimack-nh-paused/))
 
 ## Community Opposition
 

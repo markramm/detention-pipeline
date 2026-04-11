@@ -18,7 +18,7 @@ vote_tally: ""
 facility: ""
 ---
 
-The warehouse owner in Shakopee, Minnesota declined to sell to ICE after community opposition made the deal politically toxic. This follows the [Kansas City model](/entry/kansas-city-mo-platform-ventures/): the seller, not the government, is the pressure point.
+The warehouse owner in Shakopee, Minnesota declined to sell to ICE after community opposition made the deal politically toxic. This follows the [Kansas City model](/fights/kansas-city-mo-platform-ventures/): the seller, not the government, is the pressure point.
 
 ## Sources
 

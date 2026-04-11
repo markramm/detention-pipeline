@@ -25,7 +25,7 @@ The Pentagon approved plans to house immigration detainees at **Joint Base McGui
 
 - **Location**: Burlington and Ocean counties, NJ
 - **Approved by**: Defense Secretary Hegseth (July 15, 2025 letter)
-- **Planned capacity**: Up to 1,000 (shared allocation with [Camp Atterbury](/entry/camp-atterbury-in-military/))
+- **Planned capacity**: Up to 1,000 (shared allocation with [Camp Atterbury](/facilities/camp-atterbury-in-military/))
 - **Status**: No firm timeframe for construction or intakes
 - **Current use**: Fort Dix serves as National Guard/reserve training hub
 
@@ -37,7 +37,7 @@ The Pentagon approved plans to house immigration detainees at **Joint Base McGui
 
 ## Context
 
-New Jersey faces a double expansion: JBMDL for military-jurisdiction detention plus the [Roxbury warehouse](/entry/roxbury-nj-warehouse/) for federal processing. This makes New Jersey one of the most contested states in the detention expansion.
+New Jersey faces a double expansion: JBMDL for military-jurisdiction detention plus the [Roxbury warehouse](/facilities/roxbury-nj-warehouse/) for federal processing. This makes New Jersey one of the most contested states in the detention expansion.
 
 ## Sources
 

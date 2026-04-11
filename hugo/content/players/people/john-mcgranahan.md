@@ -21,7 +21,7 @@ Former General Counsel at the **General Services Administration** — the federa
 
 ## The Conflict
 
-The GSA is the agency responsible for brokering federal real estate transactions. McGranahan served as its top lawyer while holding investments in Blue Owl Capital. Blue Owl's real estate subsidiaries own warehouses that DHS has purchased or targeted for ICE detention — including the [Tremont, PA](/entry/tremont-pa-mega-center/) facility sold for $119 million (double market value).
+The GSA is the agency responsible for brokering federal real estate transactions. McGranahan served as its top lawyer while holding investments in Blue Owl Capital. Blue Owl's real estate subsidiaries own warehouses that DHS has purchased or targeted for ICE detention — including the [Tremont, PA](/facilities/tremont-pa-mega-center/) facility sold for $119 million (double market value).
 
 - **GSA tenure**: Through November 2025
 - **Blue Owl investments**: Reported on financial disclosures (amount not specified)

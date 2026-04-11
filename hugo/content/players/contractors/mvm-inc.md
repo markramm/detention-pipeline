@@ -29,8 +29,8 @@ MVM, Inc. is an Ashburn, Virginia-based private security and transportation cont
 ## Services
 
 MVM provides:
-- Ground and air transportation of detainees between ICE facilities operated by [geo-group](/entry/geo-group/), [corecivic](/entry/corecivic/), and others
-- Transport to facilities including [camp-east-montana-fort-bliss](/entry/camp-east-montana-fort-bliss/), [alexandria-la-staging-facility](/entry/alexandria-la-staging-facility/), and [guantanamo-bay-migrant-operations](/entry/guantanamo-bay-migrant-operations/)
+- Ground and air transportation of detainees between ICE facilities operated by [geo-group](/players/contractors/geo-group/), [corecivic](/players/contractors/corecivic/), and others
+- Transport to facilities including [camp-east-montana-fort-bliss](/facilities/camp-east-montana-fort-bliss/), [alexandria-la-staging-facility](/facilities/alexandria-la-staging-facility/), and [guantanamo-bay-migrant-operations](/facilities/guantanamo-bay-migrant-operations/)
 - Transport of unaccompanied migrant children and families to detention/shelter facilities
 - Escort services on commercial flights for unaccompanied children
 - Security services for federal agencies

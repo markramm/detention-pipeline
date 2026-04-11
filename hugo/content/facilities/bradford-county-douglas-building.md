@@ -19,7 +19,7 @@ bed_count: "3,000 beds (phased: 1,000 → 2,000 → 3,000)"
 
 ## Facility Overview
 
-A proposed 3,000-bed ICE detention campus on a 30-acre county-controlled site with an existing 100,000 sq ft warehouse (the "Douglas Building") off US Highway 301 near Starke, Florida. The [Sabot Consulting](/entry/sabot-consulting/) briefing package (December 16, 2025) describes a phased buildout from 1,000 to 3,000 beds over 38 weeks using a county-led IGSA model.
+A proposed 3,000-bed ICE detention campus on a 30-acre county-controlled site with an existing 100,000 sq ft warehouse (the "Douglas Building") off US Highway 301 near Starke, Florida. The [Sabot Consulting](/players/contractors/sabot-consulting/) briefing package (December 16, 2025) describes a phased buildout from 1,000 to 3,000 beds over 38 weeks using a county-led IGSA model.
 
 ## Construction Timeline
 
@@ -58,7 +58,7 @@ The Douglas Building site has groundwater contaminated with volatile organic com
 
 - **Sheriff Gordon Smith** — project champion, framing as economic development
 - **Commissioners Carolyn Spooner and Danny Riddick** — voted no (3-2 split)
-- **[Sabot Consulting](/entry/sabot-consulting/) / Darren Chiappinelli** — prepared briefing package
+- **[Sabot Consulting](/players/contractors/sabot-consulting/) / Darren Chiappinelli** — prepared briefing package
 - **WWALS Watershed Coalition** — environmental advocacy, pushing for halt until FDEP studies complete
 
 ## Sources

@@ -40,7 +40,7 @@ External resources for monitoring the detention-industrial complex.
 
 ## FOIA and Legal
 
-- **ACLU: ICE Detention Expansion FOIA** — Filed September 2024. Released documents showing [Sabot](/entry/sabot-consulting/), [GEO](/entry/geo-group/), [CoreCivic](/entry/corecivic/), and [MTC](/entry/mtc/) proposals. Revealed proposals for Utah and Wyoming facilities with Circuit Court boundary maps.
+- **ACLU: ICE Detention Expansion FOIA** — Filed September 2024. Released documents showing [Sabot](/players/contractors/sabot-consulting/), [GEO](/players/contractors/geo-group/), [CoreCivic](/players/contractors/corecivic/), and [MTC](/players/contractors/mtc/) proposals. Revealed proposals for Utah and Wyoming facilities with Circuit Court boundary maps.
 
 - **American Immigration Council** — [americanimmigrationcouncil.org](https://www.americanimmigrationcouncil.org/blog/ice-buys-warehouses-immigration-detention/). Research reports on detention expansion, facility-by-facility tracking.
 

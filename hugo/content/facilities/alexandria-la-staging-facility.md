@@ -29,7 +29,7 @@ This is one of five ICE Air Operations locations: San Antonio TX, Brownsville TX
 
 ## Operator
 
-[GEO Group](/entry/geo-group/) operates the facility under contract to ICE.
+[GEO Group](/players/contractors/geo-group/) operates the facility under contract to ICE.
 
 ## Connection to Military Infrastructure
 

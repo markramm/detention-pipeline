@@ -27,7 +27,7 @@ GAO found his service after November 16, 2021 **violated the Federal Vacancies R
 
 ## Private Sector Role
 
-Johnson is now on the "Criminal Justice team" at [Sabot Consulting](/entry/sabot-consulting/), the firm that advises county sheriffs on building and operating ICE detention facilities through IGSAs. Sabot describes itself as the county's "ICE-facing arm" and facilitates "County-ICE-operator alignment."
+Johnson is now on the "Criminal Justice team" at [Sabot Consulting](/players/contractors/sabot-consulting/), the firm that advises county sheriffs on building and operating ICE detention facilities through IGSAs. Sabot describes itself as the county's "ICE-facing arm" and facilitates "County-ICE-operator alignment."
 
 ## The Legal Question
 

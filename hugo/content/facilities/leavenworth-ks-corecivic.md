@@ -19,19 +19,19 @@ bed_count: "1,033"
 
 ## Overview
 
-ICE awarded [CoreCivic](/entry/corecivic/) a **six-month no-bid contract** to reactivate a **1,033-bed former federal prison** in Leavenworth, Kansas as a Midwest Regional Reception Center for ICE detainees.
+ICE awarded [CoreCivic](/players/contractors/corecivic/) a **six-month no-bid contract** to reactivate a **1,033-bed former federal prison** in Leavenworth, Kansas as a Midwest Regional Reception Center for ICE detainees.
 
 ## Key Details
 
 - **Capacity**: 1,033 beds
-- **Operator**: [CoreCivic](/entry/corecivic/)
+- **Operator**: [CoreCivic](/players/contractors/corecivic/)
 - **Contract type**: Six-month no-bid contract
 - **Status**: **Delayed** — awaiting outcome of special use permit application filed December 2025
 - **CoreCivic guidance**: Excluded from 2026 projections due to uncertainty
 
 ## Zoning Challenge
 
-The facility remains delayed as [CoreCivic](/entry/corecivic/) awaits the outcome of a special use permit application. CoreCivic management has excluded it from 2026 financial guidance due to uncertainty around intake timing, suggesting significant local opposition or regulatory barriers.
+The facility remains delayed as [CoreCivic](/players/contractors/corecivic/) awaits the outcome of a special use permit application. CoreCivic management has excluded it from 2026 financial guidance due to uncertainty around intake timing, suggesting significant local opposition or regulatory barriers.
 
 ## Sources
 

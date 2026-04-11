@@ -34,7 +34,7 @@ A 19-year-old Mexican immigrant died in ICE custody at the Glades County Detenti
 
 ## Context
 
-Glades County is part of the broader Florida IGSA network that includes [Baker County](/entry/baker-county-fl-detention/) and [Bradford County](/entry/bradford-county-douglas-building/), through which the state provides county jail beds for ICE detention. These IGSA agreements — often facilitated by firms like [Sabot Consulting](/entry/sabot-consulting/) — are a key mechanism for expanding detention capacity without federal facility construction.
+Glades County is part of the broader Florida IGSA network that includes [Baker County](/facilities/baker-county-fl-detention/) and [Bradford County](/facilities/bradford-county-douglas-building/), through which the state provides county jail beds for ICE detention. These IGSA agreements — often facilitated by firms like [Sabot Consulting](/players/contractors/sabot-consulting/) — are a key mechanism for expanding detention capacity without federal facility construction.
 
 ## Sources
 

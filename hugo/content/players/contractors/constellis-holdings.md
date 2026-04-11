@@ -40,7 +40,7 @@ Constellis is one of 13 vendors in the [ice-skip-tracing-2025](/entry/ice-skip-t
 
 The Constellis contract represents a crossing of a line: military contractors trained for overseas combat zones now conducting domestic surveillance of immigrant communities. The lack of DHS credentials means these operatives are functionally indistinguishable from private stalkers -- conducting surveillance on homes and workplaces with no visible authority.
 
-This is one of 13 skip-tracing contracts awarded by ICE in December 2025, collectively worth up to **$1.2 billion** over two years, targeting up to **1.5 million immigrants**. The Blackwater-to-ICE pipeline connects the military-industrial complex to immigration enforcement -- a pattern that extends across the surveillance-industrial complex. Other skip-tracing vendors include [geo-group](/entry/geo-group/), [capgemini-government-solutions](/entry/capgemini-government-solutions/), and [sabot-consulting](/entry/sabot-consulting/).
+This is one of 13 skip-tracing contracts awarded by ICE in December 2025, collectively worth up to **$1.2 billion** over two years, targeting up to **1.5 million immigrants**. The Blackwater-to-ICE pipeline connects the military-industrial complex to immigration enforcement -- a pattern that extends across the surveillance-industrial complex. Other skip-tracing vendors include [geo-group](/players/contractors/geo-group/), [capgemini-government-solutions](/players/contractors/capgemini-government-solutions/), and [sabot-consulting](/players/contractors/sabot-consulting/).
 
 ## Sources
 

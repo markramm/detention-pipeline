@@ -35,7 +35,7 @@ When ICE queries a plate, the system returns every time and location that plate 
 
 ## Integration with Other Systems
 
-License plate reader data from Vigilant feeds into [Palantir's](/entry/palantir-technologies/) systems and is also accessible through [Thomson Reuters CLEAR](/entry/thomson-reuters/), creating multiple pathways for ICE to query vehicle location data.
+License plate reader data from Vigilant feeds into [Palantir's](/players/contractors/palantir-technologies/) systems and is also accessible through [Thomson Reuters CLEAR](/players/contractors/thomson-reuters/), creating multiple pathways for ICE to query vehicle location data.
 
 ## Scope of Surveillance
 

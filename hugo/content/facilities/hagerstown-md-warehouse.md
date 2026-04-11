@@ -31,7 +31,7 @@ In January 2026, ICE purchased a warehouse in Hagerstown, Maryland for over **$1
 
 ## Context
 
-The Hagerstown purchase was one of the first wave of warehouse acquisitions under the Reengineering Initiative (alongside [hamburg-pa-processing-center](/entry/hamburg-pa-processing-center/), [surprise-az-warehouse](/entry/surprise-az-warehouse/), and others), funded by the $45 billion allocation from the One Big Beautiful Bill Act (OBBBA) passed in July 2025. The initiative aims to transition ICE from reliance on private prison contracts and county jail IGSAs to federally owned detention infrastructure.
+The Hagerstown purchase was one of the first wave of warehouse acquisitions under the Reengineering Initiative (alongside [hamburg-pa-processing-center](/facilities/hamburg-pa-processing-center/), [surprise-az-warehouse](/facilities/surprise-az-warehouse/), and others), funded by the $45 billion allocation from the One Big Beautiful Bill Act (OBBBA) passed in July 2025. The initiative aims to transition ICE from reliance on private prison contracts and county jail IGSAs to federally owned detention infrastructure.
 
 ## Sources
 

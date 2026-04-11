@@ -48,7 +48,7 @@ Clearview AI has faced legal challenges globally for scraping billions of photos
 
 ## Surveillance Ecosystem
 
-Clearview AI is part of ICE's broader surveillance apparatus alongside [palantir-technologies](/entry/palantir-technologies/) (which integrates biometric and case data via [palantir-immigrationos-2025](/entry/palantir-immigrationos-2025/)), [shadowdragon](/entry/shadowdragon/) (social media monitoring), and [babel-street](/entry/babel-street/) (location tracking). These tools collectively feed the [ice-contract-pipeline](/entry/ice-contract-pipeline/).
+Clearview AI is part of ICE's broader surveillance apparatus alongside [palantir-technologies](/players/contractors/palantir-technologies/) (which integrates biometric and case data via [palantir-immigrationos-2025](/entry/palantir-immigrationos-2025/)), [shadowdragon](/players/contractors/shadowdragon/) (social media monitoring), and [babel-street](/players/contractors/babel-street/) (location tracking). These tools collectively feed the [ice-contract-pipeline](/entry/ice-contract-pipeline/).
 
 ## Sources
 

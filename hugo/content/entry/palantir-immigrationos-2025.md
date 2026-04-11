@@ -31,7 +31,7 @@ A second **$29.9 million** task order was awarded September 25, 2025, for renewa
 
 ## Sole-Source Justification
 
-Both contracts were awarded under limited-source justification, with ICE citing [Palantir](/entry/palantir-technologies/) as the sole company capable of providing the required services.
+Both contracts were awarded under limited-source justification, with ICE citing [Palantir](/players/contractors/palantir-technologies/) as the sole company capable of providing the required services.
 
 ## Sources
 

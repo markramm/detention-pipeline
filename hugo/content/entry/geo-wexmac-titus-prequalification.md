@@ -16,7 +16,7 @@ layout: "single"
 
 ## The Mechanism
 
-On a Friday night in February 2026, the Trump administration quietly announced that [geo-group](/entry/geo-group/) had been added to the [WEXMAC-TITUS](/entry/wexmac-titus-military-procurement-bypass/) list of pre-qualified vendors. This gives GEO Group **no-bid access to the $45 billion OBBBA detention funding pool** — the ability to receive task orders for warehouse construction, facility operation, and detention services without competitive bidding.
+On a Friday night in February 2026, the Trump administration quietly announced that [geo-group](/players/contractors/geo-group/) had been added to the [WEXMAC-TITUS](/entry/wexmac-titus-military-procurement-bypass/) list of pre-qualified vendors. This gives GEO Group **no-bid access to the $45 billion OBBBA detention funding pool** — the ability to receive task orders for warehouse construction, facility operation, and detention services without competitive bidding.
 
 ## Other Pre-Qualified Vendors
 
@@ -40,7 +40,7 @@ WEXMAC-TITUS eliminates all four. Task orders can be issued immediately. This is
 
 ## The Revolving Door Connection
 
-[david-venturella](/entry/david-venturella/) — former ICE Assistant Director, then GEO executive for 12 years ($6M+ compensation), now back at DHS as Senior Adviser with an ethics waiver — is positioned to shape the policy that directs these task orders to his former employer.
+[david-venturella](/players/people/david-venturella/) — former ICE Assistant Director, then GEO executive for 12 years ($6M+ compensation), now back at DHS as Senior Adviser with an ethics waiver — is positioned to shape the policy that directs these task orders to his former employer.
 
 ## Sources
 

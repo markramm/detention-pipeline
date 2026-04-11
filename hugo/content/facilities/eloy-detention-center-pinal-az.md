@@ -19,7 +19,7 @@ bed_count: "1,550"
 
 ## Overview
 
-The **Eloy Detention Center** is a 1,550-bed [CoreCivic](/entry/corecivic/)-operated ICE detention facility in Eloy, Pinal County, Arizona. It is part of the **Pinal County detention cluster** — the largest concentration of private detention beds in the country, with 11,200+ CoreCivic beds within a 20-mile radius.
+The **Eloy Detention Center** is a 1,550-bed [CoreCivic](/players/contractors/corecivic/)-operated ICE detention facility in Eloy, Pinal County, Arizona. It is part of the **Pinal County detention cluster** — the largest concentration of private detention beds in the country, with 11,200+ CoreCivic beds within a 20-mile radius.
 
 ## Deaths in Custody
 

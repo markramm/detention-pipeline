@@ -18,7 +18,7 @@ founded: ""
 status: "active"
 ---
 
-Thomson Reuters operates CLEAR, a law enforcement investigative database that provides ICE with access to vast troves of personal data. CLEAR is one of the primary data broker platforms feeding ICE's surveillance and enforcement operations, alongside [LexisNexis Accurint](/entry/lexisnexis/).
+Thomson Reuters operates CLEAR, a law enforcement investigative database that provides ICE with access to vast troves of personal data. CLEAR is one of the primary data broker platforms feeding ICE's surveillance and enforcement operations, alongside [LexisNexis Accurint](/players/contractors/lexisnexis/).
 
 ## What CLEAR Provides ICE
 
@@ -45,7 +45,7 @@ Between 2003 and 2021, Thomson Reuters contracts with DHS amounted to at least *
 
 ## How CLEAR Feeds Palantir
 
-Thomson Reuters data flows into [Palantir's](/entry/palantir-technologies/) systems. CLEAR provides the raw data -- addresses, phone records, utility connections -- that Palantir's algorithms then analyze to generate targeting profiles and confidence scores for ICE enforcement operations.
+Thomson Reuters data flows into [Palantir's](/players/contractors/palantir-technologies/) systems. CLEAR provides the raw data -- addresses, phone records, utility connections -- that Palantir's algorithms then analyze to generate targeting profiles and confidence scores for ICE enforcement operations.
 
 ## Opposition and Accountability
 

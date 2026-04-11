@@ -17,7 +17,7 @@ status: "operational"
 bed_count: "1,160 beds"
 ---
 
-1,160-bed ICE processing center in Jena, Louisiana, operated by [GEO Group](/entry/geo-group/). Part of the Louisiana detention cluster alongside the [Alexandria Staging Facility](/entry/alexandria-la-staging-facility/). Notable for holding detained college students including Mahmoud Khalil (Columbia University) and Badar Khan Suri.
+1,160-bed ICE processing center in Jena, Louisiana, operated by [GEO Group](/players/contractors/geo-group/). Part of the Louisiana detention cluster alongside the [Alexandria Staging Facility](/facilities/alexandria-la-staging-facility/). Notable for holding detained college students including Mahmoud Khalil (Columbia University) and Badar Khan Suri.
 
 ## Sources
 

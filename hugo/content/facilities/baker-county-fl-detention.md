@@ -19,14 +19,14 @@ bed_count: "1,300+"
 
 ## Overview
 
-The Baker County Detention Facility, located at the former Baker Correctional Institution in Sanderson, Florida, opened in **August 2025** with capacity to hold over **1,300 detainees**. [GEO Group](/entry/geo-group/) announced a joint-venture agreement in October 2025 to provide management services at what it calls the **North Florida Detention Facility**.
+The Baker County Detention Facility, located at the former Baker Correctional Institution in Sanderson, Florida, opened in **August 2025** with capacity to hold over **1,300 detainees**. [GEO Group](/players/contractors/geo-group/) announced a joint-venture agreement in October 2025 to provide management services at what it calls the **North Florida Detention Facility**.
 
 ## Key Details
 
 - **Opened**: August 2025
 - **Capacity**: 1,300+ beds
 - **Location**: Former Baker Correctional Institution
-- **Management**: [GEO Group](/entry/geo-group/) (joint venture, announced October 2025)
+- **Management**: [GEO Group](/players/contractors/geo-group/) (joint venture, announced October 2025)
 - **Estimated annual revenue for GEO**: Part of broader contract portfolio
 
 ## Community Response

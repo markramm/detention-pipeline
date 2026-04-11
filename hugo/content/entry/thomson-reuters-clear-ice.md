@@ -16,7 +16,7 @@ layout: "single"
 
 ## Primary Contract — $22.8M
 
-[Thomson Reuters Special Services](/entry/thomson-reuters/) holds a five-year, **$22.8 million** contract with DHS for ICE's use of a "law enforcement investigative database subscription." The 2025 option year explicitly notes "provision of license plate reader data," confirming CLEAR provides ICE with ALPR data in addition to personal records.
+[Thomson Reuters Special Services](/players/contractors/thomson-reuters/) holds a five-year, **$22.8 million** contract with DHS for ICE's use of a "law enforcement investigative database subscription." The 2025 option year explicitly notes "provision of license plate reader data," confirming CLEAR provides ICE with ALPR data in addition to personal records.
 
 ## West Publishing Contract — $1.7M + $1.9M
 

@@ -19,12 +19,12 @@ bed_count: "2,560"
 
 ## Overview
 
-The **California City Immigration Processing Center** is a **2,560-bed** [CoreCivic](/entry/corecivic/) facility and one of the largest private ICE detention centers in the country. CoreCivic transitioned into a longer-term definitized two-year contract with ICE. The facility began receiving detainees on **August 27, 2025**.
+The **California City Immigration Processing Center** is a **2,560-bed** [CoreCivic](/players/contractors/corecivic/) facility and one of the largest private ICE detention centers in the country. CoreCivic transitioned into a longer-term definitized two-year contract with ICE. The facility began receiving detainees on **August 27, 2025**.
 
 ## Key Details
 
 - **Capacity**: 2,560 beds
-- **Operator**: [CoreCivic](/entry/corecivic/)
+- **Operator**: [CoreCivic](/players/contractors/corecivic/)
 - **Contract**: Two-year definitized ICE contract
 - **Began receiving detainees**: August 27, 2025
 - **Expected annual revenue**: ~$100 million (at stabilized occupancy)
@@ -32,7 +32,7 @@ The **California City Immigration Processing Center** is a **2,560-bed** [CoreCi
 
 ## Financial Significance
 
-At stabilized occupancy, California City alone generates approximately **$100 million annually** for [CoreCivic](/entry/corecivic/), making it one of the most lucrative single facilities in the private detention industry.
+At stabilized occupancy, California City alone generates approximately **$100 million annually** for [CoreCivic](/players/contractors/corecivic/), making it one of the most lucrative single facilities in the private detention industry.
 
 ## Sources
 

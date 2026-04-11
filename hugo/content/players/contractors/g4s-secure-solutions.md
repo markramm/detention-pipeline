@@ -22,7 +22,7 @@ G4S Secure Solutions, a subsidiary of private security giant Allied Universal, p
 
 ## Services
 
-G4S provides "tactical transport operations" to multiple ICE field offices, transporting detainees to and from facilities operated by [geo-group](/entry/geo-group/), [corecivic](/entry/corecivic/), and other detention contractors. Services include:
+G4S provides "tactical transport operations" to multiple ICE field offices, transporting detainees to and from facilities operated by [geo-group](/players/contractors/geo-group/), [corecivic](/players/contractors/corecivic/), and other detention contractors. Services include:
 - **Armed transportation services** -- driving detainees between facilities, courts, and airports
 - **Detention officer services** -- guarding detainees in custody during transport
 - **Vehicle operations** -- operating government-owned and contractor-owned buses, vans, sedans, and SUVs

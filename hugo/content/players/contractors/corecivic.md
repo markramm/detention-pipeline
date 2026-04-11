@@ -30,8 +30,8 @@ CoreCivic (formerly Corrections Corporation of America / CCA) is the second-larg
 
 ## Key ICE Facility Contracts (2025-2026)
 
-- **[California City Immigration Processing Center](/entry/california-city-ca-corecivic/)** -- 2,560 beds, ~$130M annual revenue. Began receiving detainees August 27, 2025.
-- **[Midwest Regional Reception Center (Leavenworth, Kansas)](/entry/leavenworth-ks-corecivic/)** -- New 24-month contract commenced September 7, 2025, ~$60M annual revenue.
+- **[California City Immigration Processing Center](/facilities/california-city-ca-corecivic/)** -- 2,560 beds, ~$130M annual revenue. Began receiving detainees August 27, 2025.
+- **[Midwest Regional Reception Center (Leavenworth, Kansas)](/facilities/leavenworth-ks-corecivic/)** -- New 24-month contract commenced September 7, 2025, ~$60M annual revenue.
 - **Diamondback Correctional Facility (Oklahoma)** -- ~$100M annual revenue. Detainees expected to arrive Q1 2026.
 - Total of 6,353 new beds across four reactivated facilities (all previously idle)
 - CoreCivic has informed ICE it can provide nearly 13,000 additional beds
@@ -50,7 +50,7 @@ ACLU FOIA litigation revealed CoreCivic submitted proposals to ICE Requests for 
 ## Political Activity
 
 - 6 of 10 CoreCivic lobbyists in 2024 previously held government positions
-- Lobbied alongside [GEO Group](/entry/geo-group/) to force banks to provide financing to private prison companies
+- Lobbied alongside [GEO Group](/players/contractors/geo-group/) to force banks to provide financing to private prison companies
 - Significant congressional donations
 
 ## 55% ICE Contract Increase

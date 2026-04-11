@@ -31,7 +31,7 @@ In January 2026, ICE purchased a warehouse in Surprise, Arizona for more than **
 - **Facility type**: Regional processing center
 - **Target completion**: FY2026
 
-The city of Surprise passed a 5-year ban on detention facilities in response (see [surprise-az-ban](/entry/surprise-az-ban/)), though it is unenforceable due to federal preemption.
+The city of Surprise passed a 5-year ban on detention facilities in response (see [surprise-az-ban](/fights/surprise-az-ban/)), though it is unenforceable due to federal preemption.
 
 ## Contractor Concerns
 

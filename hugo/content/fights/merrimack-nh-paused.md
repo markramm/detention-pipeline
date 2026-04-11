@@ -29,7 +29,7 @@ The Merrimack fight produced the single most important disclosure in the detenti
 
 The American Immigration Council's definitive analysis of the program was based largely on these documents.
 
-See [merrimack-nh-warehouse](/entry/merrimack-nh-warehouse/) for the facility entry.
+See [merrimack-nh-warehouse](/facilities/merrimack-nh-warehouse/) for the facility entry.
 
 ## The Fight
 

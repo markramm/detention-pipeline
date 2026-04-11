@@ -39,7 +39,7 @@ A judge extended a **restraining order** against ICE detention operations at the
 
 ## Goldman Sachs Connections
 
-Goldman Sachs is also the former majority owner of the [Roxbury, NJ](/entry/roxbury-nj-warehouse/) warehouse purchased by ICE for $129.3 million (137% over value). Goldman's Trump ties include Gary Cohn (NEC Director, first term) and Steve Mnuchin (Treasury Secretary, first term), plus second-term appointments.
+Goldman Sachs is also the former majority owner of the [Roxbury, NJ](/facilities/roxbury-nj-warehouse/) warehouse purchased by ICE for $129.3 million (137% over value). Goldman's Trump ties include Gary Cohn (NEC Director, first term) and Steve Mnuchin (Treasury Secretary, first term), plus second-term appointments.
 
 Goldman Sachs told More Perfect Union: "As a lender, we are not involved in the operations and management of the portfolios of assets we lend to."
 

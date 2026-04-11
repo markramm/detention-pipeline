@@ -25,13 +25,13 @@ The **Folkston ICE Processing Center** in Charlton County, Georgia is being merg
 
 | Component | Capacity | Operator |
 |-----------|----------|----------|
-| Folkston IPC (main) | 1,100 beds | [GEO Group](/entry/geo-group/) |
+| Folkston IPC (main) | 1,100 beds | [GEO Group](/players/contractors/geo-group/) |
 | D. Ray James Correctional Facility | 1,870 beds | Being merged |
-| **Combined** | **3,000 beds** | [GEO Group](/entry/geo-group/) (under IGSA) |
+| **Combined** | **3,000 beds** | [GEO Group](/players/contractors/geo-group/) (under IGSA) |
 
 ## Contract Structure
 
-The facility operates under the classic **IGSA pass-through model**: Charlton County holds the Intergovernmental Service Agreement with ICE and subcontracts operations to [GEO Group](/entry/geo-group/). The county retains a portion of the per diem revenue. The City of Folkston receives ~$600,000/year in water/sewer revenue. The exact financial split is an investigative target.
+The facility operates under the classic **IGSA pass-through model**: Charlton County holds the Intergovernmental Service Agreement with ICE and subcontracts operations to [GEO Group](/players/contractors/geo-group/). The county retains a portion of the per diem revenue. The City of Folkston receives ~$600,000/year in water/sewer revenue. The exact financial split is an investigative target.
 
 **GEO Group political contributions**: GEO Group contributed $7,500 to Rep. Buddy Carter's 2024 campaign ($5,000 to his Leadership PAC).
 

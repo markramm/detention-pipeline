@@ -20,7 +20,7 @@ facility: "social-circle-ga-mega-center"
 
 ## The Win
 
-The city of Social Circle, Georgia **locked the water meter** at the site of a planned 7,500-10,000 bed ICE mega center (see [social-circle-ga-mega-center](/entry/social-circle-ga-mega-center/)) — because the facility's projected sewage demand (1 million gallons per day) exceeds the city's entire wastewater treatment capacity (660,000 gallons per day).
+The city of Social Circle, Georgia **locked the water meter** at the site of a planned 7,500-10,000 bed ICE mega center (see [social-circle-ga-mega-center](/facilities/social-circle-ga-mega-center/)) — because the facility's projected sewage demand (1 million gallons per day) exceeds the city's entire wastewater treatment capacity (660,000 gallons per day).
 
 No water, no facility.
 
@@ -28,7 +28,7 @@ No water, no facility.
 
 Social Circle demonstrates that **infrastructure is a resistance tool.** Federal preemption means cities can't ban federal detention facilities. But cities control their own water and sewer systems. If the facility physically cannot operate without municipal utilities, and the utilities physically cannot support the facility, the city has a legitimate, non-political reason to refuse service.
 
-The tactic has since been replicated in [Salt Lake City](/entry/salt-lake-city-ut-mega-center/) (water use restrictions, March 25, 2026).
+The tactic has since been replicated in [Salt Lake City](/facilities/salt-lake-city-ut-mega-center/) (water use restrictions, March 25, 2026).
 
 ## The Math
 

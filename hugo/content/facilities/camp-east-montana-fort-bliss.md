@@ -47,7 +47,7 @@ In March 2026, reports emerged that ICE is **replacing the operator** of Camp Ea
 
 ## Context
 
-The $1.2 billion Army contract to build this facility drew PBS investigation into the mystery surrounding its approval. Camp East Montana operates alongside the planned [El Paso Eastwind mega-center](/entry/el-paso-tx-eastwind-mega-center/) (8,500 beds), making the El Paso region the epicenter of ICE detention.
+The $1.2 billion Army contract to build this facility drew PBS investigation into the mystery surrounding its approval. Camp East Montana operates alongside the planned [El Paso Eastwind mega-center](/facilities/el-paso-tx-eastwind-mega-center/) (8,500 beds), making the El Paso region the epicenter of ICE detention.
 
 ## Sources
 

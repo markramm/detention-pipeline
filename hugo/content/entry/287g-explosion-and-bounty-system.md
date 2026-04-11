@@ -55,7 +55,7 @@ Dallas PD was offered **$25M contingent on each officer making at least one immi
 
 The 287(g) explosion is the **demand side** of the detention pipeline. More arrests by local deputies → more people in custody → more detention beds needed → more IGSA revenue for counties → more incentive for sheriffs to participate. The arrest bounties create a self-reinforcing cycle.
 
-This connects directly to the Sabot Consulting model ([sabot-consulting](/entry/sabot-consulting/)): Sabot sells the supply side (facility construction and IGSA management) while 287(g) generates the demand side (arrests filling beds). The two programs are designed to work together.
+This connects directly to the Sabot Consulting model ([sabot-consulting](/players/contractors/sabot-consulting/)): Sabot sells the supply side (facility construction and IGSA management) while 287(g) generates the demand side (arrests filling beds). The two programs are designed to work together.
 
 ## The ICE Hiring Competition
 

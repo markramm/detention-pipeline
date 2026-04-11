@@ -30,7 +30,7 @@ DHS purchased a warehouse in Socorro, Texas for **$123 million** — a property 
 
 ## Context
 
-Socorro is in the El Paso metro area, near the [El Paso Eastwind Logistics Center](/entry/el-paso-tx-eastwind-mega-center/) mega-center. The extreme overpayment pattern documented by Project Salt Box shows that rushed, defense-channel procurement without normal price competition consistently produces purchases at multiples of market value.
+Socorro is in the El Paso metro area, near the [El Paso Eastwind Logistics Center](/facilities/el-paso-tx-eastwind-mega-center/) mega-center. The extreme overpayment pattern documented by Project Salt Box shows that rushed, defense-channel procurement without normal price competition consistently produces purchases at multiples of market value.
 
 ## Sources
 

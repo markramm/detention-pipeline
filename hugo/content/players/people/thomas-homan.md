@@ -79,4 +79,4 @@ His JPMorgan High Yield Fund position is a microcosm of the structural conflict:
 ## Sources
 
 - [ProPublica Trump Town: Thomas D. Homan Financial Disclosure](https://projects.propublica.org/trump-team-financial-disclosures/appointees/homan-thomas-d)
-- Cross-ref: [full-pipeline-conflict-map](/entry/full-pipeline-conflict-map/)
+- Cross-ref: [full-pipeline-conflict-map](/players/money/full-pipeline-conflict-map/)

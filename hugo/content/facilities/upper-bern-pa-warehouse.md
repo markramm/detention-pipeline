@@ -34,7 +34,7 @@ The purchase has raised significant questions about whether local officials have
 
 ## Note: Tremont PA Mega-Center
 
-Pennsylvania hosts a second, larger facility: a warehouse in **[Tremont, PA](/entry/tremont-pa-mega-center/)** (central Pennsylvania), designated as one of the eight large-scale "mega-centers" capable of holding 7,500-10,000 detainees. This is a separate entry.
+Pennsylvania hosts a second, larger facility: a warehouse in **[Tremont, PA](/facilities/tremont-pa-mega-center/)** (central Pennsylvania), designated as one of the eight large-scale "mega-centers" capable of holding 7,500-10,000 detainees. This is a separate entry.
 
 ## Sources
 

@@ -42,7 +42,7 @@ Also: Lucas Croslow (FTC General Counsel) received GEO Group legal fees; Christo
 
 ## Stage 4: Warehouse Acquisition (Goldman, Deutsche Bank, Blue Owl, Carlyle, Rockefeller — 300+ combined hits)
 
-See [comprehensive-conflict-of-interest-map](/entry/comprehensive-conflict-of-interest-map/) for the full 11-seller analysis.
+See [comprehensive-conflict-of-interest-map](/players/money/comprehensive-conflict-of-interest-map/) for the full 11-seller analysis.
 
 **Most significant**: Edward Forst (GSA Administrator) — former Goldman Sachs partner, holds $1.8M-$6.1M+ Goldman exposure, holds CBRE stock (brokered Williamsport sale), holds CoStar stock (documented overpayments), holds Palantir stock. All 11 purchases ($1.074B) closed after his December 24 swearing-in.
 

@@ -22,7 +22,7 @@ Surprise, AZ passed a five-year ban on detention facilities after learning DHS h
 
 **The lesson:** You can't ban the federal government from using a building it already bought. The Kansas City model (pressuring the seller before the sale closes) works; the Surprise model (banning after purchase) doesn't.
 
-DHS later scaled back the planned capacity of the [surprise-az-warehouse](/entry/surprise-az-warehouse/), but the facility remains in federal hands.
+DHS later scaled back the planned capacity of the [surprise-az-warehouse](/facilities/surprise-az-warehouse/), but the facility remains in federal hands.
 
 ## Sources
 

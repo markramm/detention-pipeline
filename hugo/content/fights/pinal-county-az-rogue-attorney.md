@@ -64,7 +64,7 @@ Having a Brady-listed officer as the point of contact for a 287(g) agreement cre
 
 ## Implications for the IGSA Model
 
-If a county attorney can unilaterally sign ICE agreements over the objections of elected supervisors, it creates a template for expanding detention infrastructure without democratic accountability. This is a different vector than the [Sabot Consulting](/entry/sabot-consulting/) sheriff-recruitment model but achieves the same end: local government resources deployed for federal immigration enforcement without a transparent public process.
+If a county attorney can unilaterally sign ICE agreements over the objections of elected supervisors, it creates a template for expanding detention infrastructure without democratic accountability. This is a different vector than the [Sabot Consulting](/players/contractors/sabot-consulting/) sheriff-recruitment model but achieves the same end: local government resources deployed for federal immigration enforcement without a transparent public process.
 
 ## Sources
 

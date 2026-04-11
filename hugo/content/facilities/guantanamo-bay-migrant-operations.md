@@ -40,7 +40,7 @@ Despite the ambitious 30,000-bed target, implementation has been limited:
 
 ## Significance
 
-The GMOC expansion is symbolically significant as it extends the Guantanamo detention paradigm — previously reserved for "enemy combatants" — to immigration enforcement. It also places detainees outside the normal reach of federal courts and legal representation networks. The use of military infrastructure for immigration enforcement parallels the [military-infrastructure-three-uses](/entry/military-infrastructure-three-uses/) pattern and the [camp-east-montana-fort-bliss](/entry/camp-east-montana-fort-bliss/) facility. Detainee transport to GMOC has involved contractors like [globalx-airlines](/entry/globalx-airlines/) and [mvm-inc](/entry/mvm-inc/).
+The GMOC expansion is symbolically significant as it extends the Guantanamo detention paradigm — previously reserved for "enemy combatants" — to immigration enforcement. It also places detainees outside the normal reach of federal courts and legal representation networks. The use of military infrastructure for immigration enforcement parallels the [military-infrastructure-three-uses](/entry/military-infrastructure-three-uses/) pattern and the [camp-east-montana-fort-bliss](/facilities/camp-east-montana-fort-bliss/) facility. Detainee transport to GMOC has involved contractors like [globalx-airlines](/players/contractors/globalx-airlines/) and [mvm-inc](/players/contractors/mvm-inc/).
 
 ## Sources
 

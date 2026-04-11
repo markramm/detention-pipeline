@@ -24,7 +24,7 @@ Through its real estate subsidiaries, Blue Owl owns warehouses that DHS has purc
 
 ### Warehouse Sales to DHS
 
-- **[Tremont, PA](/entry/tremont-pa-mega-center/)**: A former Big Lots distribution center (1.3M sq ft, 173 acres). Blue Owl acquired Big Lots distribution centers via **sale-leaseback deals starting 2020**, backed by a **$425 million CMBS loan at 6.1%** against a $1B+ portfolio. When Big Lots went bankrupt in **September 2024**, occupancy crashed from 100% to 36%, triggering S&P credit downgrades. The seller entity was **BIGTRPA001 LLC** (Columbus, Ohio). Settlement date was **December 26, 2024** — just 3 months post-bankruptcy. **Sold to DHS for $119.5 million** — double estimated market value. (Sources: Bloomberg, Bisnow, More Perfect Union)
+- **[Tremont, PA](/facilities/tremont-pa-mega-center/)**: A former Big Lots distribution center (1.3M sq ft, 173 acres). Blue Owl acquired Big Lots distribution centers via **sale-leaseback deals starting 2020**, backed by a **$425 million CMBS loan at 6.1%** against a $1B+ portfolio. When Big Lots went bankrupt in **September 2024**, occupancy crashed from 100% to 36%, triggering S&P credit downgrades. The seller entity was **BIGTRPA001 LLC** (Columbus, Ohio). Settlement date was **December 26, 2024** — just 3 months post-bankruptcy. **Sold to DHS for $119.5 million** — double estimated market value. (Sources: Bloomberg, Bisnow, More Perfect Union)
 
 - **[Durant, OK](/entry/durant-ok/)**: Blue Owl owned a parcel of warehouses including one targeted for ICE detention. The **Choctaw Nation purchased the property** to block DHS acquisition, in one of the most successful community resistance actions against the warehouse program.
 

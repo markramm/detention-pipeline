@@ -53,7 +53,7 @@ Reporting indicates Palantir's total ICE contract value reached approximately **
 
 ## Data Integration
 
-Palantir systems pull data from across government databases -- passport records, Social Security files, IRS tax data, license plate reader data -- regardless of the accuracy of those databases. The systems also integrate data from private-sector data brokers including [Thomson Reuters CLEAR](/entry/thomson-reuters/) and [LexisNexis](/entry/lexisnexis/).
+Palantir systems pull data from across government databases -- passport records, Social Security files, IRS tax data, license plate reader data -- regardless of the accuracy of those databases. The systems also integrate data from private-sector data brokers including [Thomson Reuters CLEAR](/players/contractors/thomson-reuters/) and [LexisNexis](/players/contractors/lexisnexis/).
 
 ## USCIS Expansion
 

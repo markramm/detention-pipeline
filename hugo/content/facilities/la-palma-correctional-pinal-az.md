@@ -19,7 +19,7 @@ bed_count: "3,060"
 
 ## Overview
 
-The **La Palma Correctional Center** is a 3,060-bed [CoreCivic](/entry/corecivic/) facility in Eloy, Arizona. Originally built in 2008 to house California state prisoners, it was **converted to ICE use in 2019** after California eliminated out-of-state prison contracts — leaving CoreCivic seeking new populations to fill beds.
+The **La Palma Correctional Center** is a 3,060-bed [CoreCivic](/players/contractors/corecivic/) facility in Eloy, Arizona. Originally built in 2008 to house California state prisoners, it was **converted to ICE use in 2019** after California eliminated out-of-state prison contracts — leaving CoreCivic seeking new populations to fill beds.
 
 This conversion illustrates a key structural dynamic: when one revenue stream dries up, private prison companies pivot to immigration detention. The beds don't go empty; the occupants change.
 
@@ -39,7 +39,7 @@ Over **700 COVID infections** occurred during the pandemic — one of the larges
 
 ## Part of the Pinal County Cluster
 
-La Palma is one of five CoreCivic facilities within 20 miles of each other along the I-10 corridor. See [eloy-detention-center-pinal-az](/entry/eloy-detention-center-pinal-az/) for the full cluster map.
+La Palma is one of five CoreCivic facilities within 20 miles of each other along the I-10 corridor. See [eloy-detention-center-pinal-az](/facilities/eloy-detention-center-pinal-az/) for the full cluster map.
 
 ## Sources
 

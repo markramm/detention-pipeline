@@ -16,12 +16,12 @@ layout: "single"
 
 ## Contract Structure
 
-The [sabot-consulting](/entry/sabot-consulting/) briefing package (December 16, 2025) describes a county-led IGSA in which:
+The [sabot-consulting](/players/contractors/sabot-consulting/) briefing package (December 16, 2025) describes a county-led IGSA in which:
 
 1. **Bradford County** retains ownership of the land and existing warehouse
 2. A **prime contractor/operator** (not yet selected) builds and operates the facility
 3. **ICE** pays per-bed-day rates
-4. **[sabot-consulting](/entry/sabot-consulting/)** provides "Office of ICE Integration" support — compliance, communications, political management
+4. **[sabot-consulting](/players/contractors/sabot-consulting/)** provides "Office of ICE Integration" support — compliance, communications, political management
 5. **Bradford County Sheriff's Office** provides governance and oversight
 
 ## Financial Model
@@ -40,7 +40,7 @@ The county's share ($80K-$199K/month) is positioned as recovering administrative
 
 ## Status
 
-No contract executed. The proposal remains in evaluation phase. The [bradford-county-fl-douglas-building](/entry/bradford-county-fl-douglas-building/) county-fight entry tracks the commission timeline.
+No contract executed. The proposal remains in evaluation phase. The [bradford-county-fl-douglas-building](/fights/bradford-county-fl-douglas-building/) county-fight entry tracks the commission timeline.
 
 ## Sources
 

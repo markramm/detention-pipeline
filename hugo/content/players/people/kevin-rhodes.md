@@ -60,5 +60,5 @@ Rhodes is one of at least 142 Trump administration officials with Palantir finan
 ## Sources
 
 - [ProPublica Trump Town: Kevin R. Rhodes Financial Disclosure](https://projects.propublica.org/trump-team-financial-disclosures/appointees/rhodes-kevin-r)
-- Cross-ref: [palantir-admin-financial-ties](/entry/palantir-admin-financial-ties/)
-- Cross-ref: [full-pipeline-conflict-map](/entry/full-pipeline-conflict-map/)
+- Cross-ref: [palantir-admin-financial-ties](/players/money/palantir-admin-financial-ties/)
+- Cross-ref: [full-pipeline-conflict-map](/players/money/full-pipeline-conflict-map/)

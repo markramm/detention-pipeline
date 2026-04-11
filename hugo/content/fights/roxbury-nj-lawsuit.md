@@ -18,7 +18,7 @@ vote_tally: ""
 facility: "roxbury-nj-warehouse"
 ---
 
-ICE purchased a 470,000 sq ft warehouse in Roxbury Township, Morris County (see [roxbury-nj-warehouse](/entry/roxbury-nj-warehouse/)). The Governor, Attorney General, and Township all filed suit to block the conversion. Community group No Ice North Jersey Alliance (Project NINJA) grew to 1,500+ members on email list and 700 on Facebook.
+ICE purchased a 470,000 sq ft warehouse in Roxbury Township, Morris County (see [roxbury-nj-warehouse](/facilities/roxbury-nj-warehouse/)). The Governor, Attorney General, and Township all filed suit to block the conversion. Community group No Ice North Jersey Alliance (Project NINJA) grew to 1,500+ members on email list and 700 on Facebook.
 
 ## What Makes This Fight Different
 

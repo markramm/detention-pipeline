@@ -18,11 +18,11 @@ founded: "2002"
 status: "active"
 ---
 
-World Atlantic Airways is a Miami-based charter airline that has served as an ICE deportation flight operator since 2013, primarily in an overflow capacity. The airline operates as a subcontractor to [CSI Aviation](/entry/csi-aviation/), the primary ICE Air managing contractor.
+World Atlantic Airways is a Miami-based charter airline that has served as an ICE deportation flight operator since 2013, primarily in an overflow capacity. The airline operates as a subcontractor to [CSI Aviation](/players/contractors/csi-aviation/), the primary ICE Air managing contractor.
 
 ## Role in ICE Air
 
-- World Atlantic has served as the "overflow" carrier -- handling flight requests when the primary operator (formerly iAero/Swift Air, now [GlobalX](/entry/globalx-airlines/)) could not take a specific mission
+- World Atlantic has served as the "overflow" carrier -- handling flight requests when the primary operator (formerly iAero/Swift Air, now [GlobalX](/players/contractors/globalx-airlines/)) could not take a specific mission
 - Since iAero Airways filed for bankruptcy in 2023, World Atlantic has provided an increased number of flights
 - World Atlantic also flies NCAA and sports charters, making it a target for the same "De-ICE" activist campaigns as GlobalX
 

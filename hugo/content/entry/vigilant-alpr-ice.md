@@ -14,7 +14,7 @@ type: "entry"
 layout: "single"
 ---
 
-ICE holds a **$22.8 million** contract for access to the [Vigilant Solutions](/entry/vigilant-solutions-motorola/) automated license plate reader (ALPR) database, running through 2026. The database contains billions of license plate location records from commercial and law enforcement sources.
+ICE holds a **$22.8 million** contract for access to the [Vigilant Solutions](/players/contractors/vigilant-solutions-motorola/) automated license plate reader (ALPR) database, running through 2026. The database contains billions of license plate location records from commercial and law enforcement sources.
 
 ## Additional Hardware Purchase (2025)
 

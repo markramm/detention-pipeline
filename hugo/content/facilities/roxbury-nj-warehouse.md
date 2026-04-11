@@ -41,7 +41,7 @@ New Jersey Governor Sherrill, Attorney General Davenport, and Roxbury Township f
 
 ## Political Dynamics
 
-The facility has sparked **bipartisan backlash** in New Jersey, described by critics as the work of "an agency out of control." This opposition crosses party lines in a state that also faces military base detention plans at [Joint Base McGuire-Dix-Lakehurst](/entry/jbmdl-nj-military/).
+The facility has sparked **bipartisan backlash** in New Jersey, described by critics as the work of "an agency out of control." This opposition crosses party lines in a state that also faces military base detention plans at [Joint Base McGuire-Dix-Lakehurst](/facilities/jbmdl-nj-military/).
 
 ## Sources
 

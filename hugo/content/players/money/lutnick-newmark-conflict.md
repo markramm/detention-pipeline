@@ -75,7 +75,7 @@ During the 8-month gap (February–October 2025), Lutnick held $80M+ in NMRK sto
 
 Newmark is named alongside **CBRE, JLL, and Cushman & Wakefield** as major commercial real estate brokerages positioned to earn millions in commissions from the **$38 billion warehouse detention program**. Commission rates on industrial warehouse transactions run **4–8% of sale price**, meaning tens of millions of dollars in fees on billion-dollar deal flow.
 
-See: [warehouse-profiteering-pattern](/entry/warehouse-profiteering-pattern/)
+See: [warehouse-profiteering-pattern](/players/money/warehouse-profiteering-pattern/)
 
 ## The Family Transfer
 
@@ -88,7 +88,7 @@ When Lutnick departed Newmark's board to join the Cabinet, control passed to fam
 
 The structure means: Lutnick's son sits on the board of the company brokering ICE warehouse deals; Lutnick's brother-in-law holds Newmark stock while serving as HHS Senior Advisor; Lutnick's Chief of Staff holds Newmark stock while working directly for him at Commerce.
 
-See: [comprehensive-conflict-of-interest-map](/entry/comprehensive-conflict-of-interest-map/), [homan-full-portfolio-conflicts](/entry/homan-full-portfolio-conflicts/)
+See: [comprehensive-conflict-of-interest-map](/players/money/comprehensive-conflict-of-interest-map/), [homan-full-portfolio-conflicts](/players/money/homan-full-portfolio-conflicts/)
 
 ## Congressional Investigation
 
@@ -117,7 +117,7 @@ The Lutnick–Newmark conflict intersects with the broader Epstein financial net
 
 The same financial networks (Cantor Fitzgerald, Deutsche Bank) that facilitated Epstein's transactions are now profiting from ICE detention warehouse deals.
 
-See: [edward-forst](/entry/edward-forst/), [wexmac-titus-military-procurement-bypass](/entry/wexmac-titus-military-procurement-bypass/)
+See: [edward-forst](/players/people/edward-forst/), [wexmac-titus-military-procurement-bypass](/entry/wexmac-titus-military-procurement-bypass/)
 
 ## Jenn Budd Allegation
 

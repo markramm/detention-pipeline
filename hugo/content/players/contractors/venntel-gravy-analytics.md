@@ -31,7 +31,7 @@ When mobile apps request location permissions for advertising purposes, the phon
 
 ## ICE Spending
 
-ICE spent **$60+ million** from 2025-2026 on location data contracts through data brokers including Venntel and [Babel Street](/entry/babel-street/).
+ICE spent **$60+ million** from 2025-2026 on location data contracts through data brokers including Venntel and [Babel Street](/players/contractors/babel-street/).
 
 ## FTC Enforcement (December 2024)
 

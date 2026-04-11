@@ -49,7 +49,7 @@ Detainees have described harrowing conditions:
 
 ## Significance
 
-Alligator Alcatraz represents the state-operated detention model (see also [camp-blanding-fl](/entry/camp-blanding-fl/)) — Florida building and running facilities under a DeSantis-Trump partnership, bypassing federal procurement and oversight systems. It is the most symbolically potent facility in the entire detention expansion, combining environmental destruction, documented abuse, legal black holes, and political spectacle (Trump toured the facility).
+Alligator Alcatraz represents the state-operated detention model (see also [camp-blanding-fl](/facilities/camp-blanding-fl/)) — Florida building and running facilities under a DeSantis-Trump partnership, bypassing federal procurement and oversight systems. It is the most symbolically potent facility in the entire detention expansion, combining environmental destruction, documented abuse, legal black holes, and political spectacle (Trump toured the facility).
 
 ## Sources
 

@@ -16,7 +16,7 @@ layout: "single"
 
 ## Overview
 
-A $1.2 billion contract awarded through the U.S. Army's procurement system to build and operate a tent detention camp at [camp-east-montana-fort-bliss](/entry/camp-east-montana-fort-bliss/) on Fort Bliss, El Paso, TX. The contractor was a company registered at a residential address in Virginia with no prior detention experience.
+A $1.2 billion contract awarded through the U.S. Army's procurement system to build and operate a tent detention camp at [camp-east-montana-fort-bliss](/facilities/camp-east-montana-fort-bliss/) on Fort Bliss, El Paso, TX. The contractor was a company registered at a residential address in Virginia with no prior detention experience.
 
 ## Why This Contract Matters
 

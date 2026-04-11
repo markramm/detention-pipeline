@@ -14,7 +14,7 @@ type: "entry"
 layout: "single"
 ---
 
-In December 2025, ICE awarded [BI Incorporated](/entry/bi-incorporated/) (a [GEO Group](/entry/geo-group/) subsidiary) a two-year contract worth up to **$121 million** for "skip tracing" services -- using surveillance data to locate people who have missed check-ins so ICE can arrest them.
+In December 2025, ICE awarded [BI Incorporated](/players/contractors/bi-incorporated/) (a [GEO Group](/players/contractors/geo-group/) subsidiary) a two-year contract worth up to **$121 million** for "skip tracing" services -- using surveillance data to locate people who have missed check-ins so ICE can arrest them.
 
 ## What This Means
 

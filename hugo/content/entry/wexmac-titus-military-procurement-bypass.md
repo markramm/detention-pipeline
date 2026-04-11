@@ -40,12 +40,12 @@ Under WEXMAC, companies can be **"pre-qualified."** Once pre-qualified, the gove
 
 ## Pre-Qualified Companies (Confirmed)
 
-- **[GEO Group](/entry/geo-group/)** — Added February 2026; largest private prison operator. $254M profit in 2025 (700% increase), at least 6 former ICE officials in leadership. No-bid pathway to $65B.
-- **[CoreCivic](/entry/corecivic/)** — Second-largest private prison operator
+- **[GEO Group](/players/contractors/geo-group/)** — Added February 2026; largest private prison operator. $254M profit in 2025 (700% increase), at least 6 former ICE officials in leadership. No-bid pathway to $65B.
+- **[CoreCivic](/players/contractors/corecivic/)** — Second-largest private prison operator
 - **GardaWorld Federal Services** — Awarded $313.4M for Surprise, AZ facility
 - **KVG LLC** — Gettysburg-based defense contractor; $113.1M for Hagerstown, MD
 - **Acquisition Logistics LLC** — $1.24B Camp East Montana/Fort Bliss contract
-- **[Management & Training Corp (MTC)](/entry/mtc/)** — Private prison operator
+- **[Management & Training Corp (MTC)](/players/contractors/mtc/)** — Private prison operator
 - **Cart.com** — Houston-based e-commerce logistics company with **ZERO detention experience**
 - **ADS, Inc.** — Defense logistics firm
 
@@ -59,7 +59,7 @@ Normal federal contracting is slow, transparent, and subject to oversight. The W
 - **Opacity:** Military procurement has fewer public disclosure requirements
 - **Concentration:** Pre-qualification creates a closed pool of approved contractors, eliminating competition
 
-This is the financial mechanism that makes the Detention Reengineering Initiative possible. Without it, converting 24 warehouses into detention facilities by September 30, 2026 would require 24 separate competitive procurements — each subject to protest, disclosure, and delay. With WEXMAC-TITUS, ICE issues task orders and [GEO](/entry/geo-group/) starts building.
+This is the financial mechanism that makes the Detention Reengineering Initiative possible. Without it, converting 24 warehouses into detention facilities by September 30, 2026 would require 24 separate competitive procurements — each subject to protest, disclosure, and delay. With WEXMAC-TITUS, ICE issues task orders and [GEO](/players/contractors/geo-group/) starts building.
 
 ## Congressional Investigations
 

@@ -35,7 +35,7 @@ Palm Beach County Main Detention Center houses federal detainees at **$122.00/da
 
 ## The Hub-and-Spoke Model
 
-Palm Beach operates as a "spoke" in ICE's hub-and-spoke model: local jails make arrests and short-term holds before transport to larger regional facilities ([Baker County](/entry/baker-county-fl-detention/), [Glades County](/entry/glades-county-fl-detention/), Krome, [Alligator Alcatraz](/entry/dade-collier-alligator-alcatraz/)). The massive arrest volume creates downstream detention demand that feeds the entire Florida detention network.
+Palm Beach operates as a "spoke" in ICE's hub-and-spoke model: local jails make arrests and short-term holds before transport to larger regional facilities ([Baker County](/facilities/baker-county-fl-detention/), [Glades County](/facilities/glades-county-fl-detention/), Krome, [Alligator Alcatraz](/facilities/dade-collier-alligator-alcatraz/)). The massive arrest volume creates downstream detention demand that feeds the entire Florida detention network.
 
 ## Community Resistance
 

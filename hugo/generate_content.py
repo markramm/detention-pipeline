@@ -180,18 +180,44 @@ def normalize_title(title):
     return title
 
 
+# Wikilink slug -> canonical URL mapping (built during page generation)
+_wikilink_urls = {}
+
+def build_wikilink_map(parsed_entries):
+    """Build a map of entry slugs to their canonical URLs."""
+    for parsed in parsed_entries:
+        fields = parsed["fields"]
+        entry_id = fields.get("id", parsed["md_file"].stem)
+        entry_type = fields.get("type", "unknown")
+        if entry_type == "county-fight":
+            _wikilink_urls[entry_id] = f"/fights/{entry_id}/"
+        elif entry_type == "contractor":
+            _wikilink_urls[entry_id] = f"/players/contractors/{entry_id}/"
+        elif entry_type == "person":
+            _wikilink_urls[entry_id] = f"/players/people/{entry_id}/"
+        elif entry_type in ("financial-flow", "analysis"):
+            _wikilink_urls[entry_id] = f"/players/money/{entry_id}/"
+        elif entry_type in ("igsa", "facility"):
+            _wikilink_urls[entry_id] = f"/facilities/{entry_id}/"
+        else:
+            _wikilink_urls[entry_id] = f"/entry/{entry_id}/"
+
+
 def resolve_wikilinks(body):
     """Convert [[slug|Display Text]] and [[slug]] to markdown links."""
-    # [[slug|Display Text]] -> [Display Text](/entry/slug/)
+    def resolve_slug(slug):
+        return _wikilink_urls.get(slug, f"/entry/{slug}/")
+
+    # [[slug|Display Text]] -> [Display Text](canonical_url)
     body = re.sub(
         r'\[\[([^\]|]+)\|([^\]]+)\]\]',
-        lambda m: f'[{m.group(2)}](/entry/{m.group(1)}/)',
+        lambda m: f'[{m.group(2)}]({resolve_slug(m.group(1))})',
         body
     )
-    # [[slug]] -> [slug](/entry/slug/)
+    # [[slug]] -> [slug](canonical_url)
     body = re.sub(
         r'\[\[([^\]]+)\]\]',
-        lambda m: f'[{m.group(1)}](/entry/{m.group(1)}/)',
+        lambda m: f'[{m.group(1)}]({resolve_slug(m.group(1))})',
         body
     )
     return body
@@ -747,6 +773,10 @@ def main():
     print("Scanning KB entries...")
     parsed = scan_all_entries()
     print(f"  {len(parsed)} entries found")
+
+    print("Building wikilink map...")
+    build_wikilink_map(parsed)
+    print(f"  {len(_wikilink_urls)} slugs mapped")
 
     print("Generating pages...")
     entries_by_fips, entries_by_state, entries_by_type, all_entries = generate_all_pages(parsed, heat_data)

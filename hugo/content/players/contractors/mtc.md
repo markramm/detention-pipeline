@@ -37,7 +37,7 @@ MTC is pursuing a significant expansion in Arizona:
 
 ## ACLU FOIA Documents
 
-MTC submitted contract proposals to ICE Requests for Information (RFI) to expand detention capacity, alongside [GEO Group](/entry/geo-group/) and [CoreCivic](/entry/corecivic/). The ACLU noted that several MTC facilities have "a lengthy history of abusive conditions."
+MTC submitted contract proposals to ICE Requests for Information (RFI) to expand detention capacity, alongside [GEO Group](/players/contractors/geo-group/) and [CoreCivic](/players/contractors/corecivic/). The ACLU noted that several MTC facilities have "a lengthy history of abusive conditions."
 
 ## Revenue
 

@@ -30,7 +30,7 @@ The **Detention Reengineering Initiative** — ICE's $38.3 billion plan funded t
 
 ### Track 2: County-Led IGSA Facilities (Accelerating)
 
-The [Sabot Consulting](/entry/sabot-consulting/) model:
+The [Sabot Consulting](/players/contractors/sabot-consulting/) model:
 - Counties retain land ownership and existing infrastructure
 - Private contractor builds and operates under county authority
 - ICE pays per-bed per-diem through the IGSA
@@ -51,7 +51,7 @@ The key advantages of the IGSA model for ICE:
 5. **Faster timeline** — no WEXMAC-TITUS procurement, no warehouse conversion
 
 The disadvantages:
-1. **County commission votes are public** — communities can show up and fight (see [bradford-county-fl-douglas-building](/entry/bradford-county-fl-douglas-building/))
+1. **County commission votes are public** — communities can show up and fight (see [bradford-county-fl-douglas-building](/fights/bradford-county-fl-douglas-building/))
 2. **Environmental and infrastructure arguments work** — because the county controls the site
 3. **Sheriffs face re-election** — unlike federal officials
 

@@ -14,7 +14,7 @@ type: "entry"
 layout: "single"
 ---
 
-[BI Incorporated](/entry/bi-incorporated/), a subsidiary of [The GEO Group](/entry/geo-group/), holds the sole-source contract for ICE's Intensive Supervision Appearance Program (ISAP) -- the federal government's primary immigration surveillance program, marketed as "alternatives to detention."
+[BI Incorporated](/players/contractors/bi-incorporated/), a subsidiary of [The GEO Group](/players/contractors/geo-group/), holds the sole-source contract for ICE's Intensive Supervision Appearance Program (ISAP) -- the federal government's primary immigration surveillance program, marketed as "alternatives to detention."
 
 ## Contract History
 
@@ -49,7 +49,7 @@ The population under BI monitoring has surged:
 ISAP is framed as a humane alternative to physical detention. In practice:
 - Failure to comply with monitoring triggers the skip-tracing program (see [BI's $121M skip-tracing contract](/entry/bi-incorporated-skip-tracing/))
 - Data collected through SmartLINK feeds directly into enforcement operations
-- BI profits whether someone is detained (via [GEO Group](/entry/geo-group/) facilities) or monitored (via ISAP) -- the parent company wins either way
+- BI profits whether someone is detained (via [GEO Group](/players/contractors/geo-group/) facilities) or monitored (via ISAP) -- the parent company wins either way
 - The June 2025 ICE internal memo directing agents to place ankle monitors "whenever possible" was an explicit expansion directive
 
 ## Sources
