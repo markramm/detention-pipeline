@@ -212,18 +212,22 @@ body {
   border-top: 4px solid currentColor; margin-left: 2px; opacity: 0.5;
 }
 .nav-dropdown {
-  display: none; position: absolute; top: calc(100% + 4px); left: 0;
-  background: var(--bg-panel); border: 1px solid var(--border-dark);
-  border-radius: 5px; padding: 6px 0; min-width: 190px;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.5); z-index: 110;
+  display: none; position: absolute; top: 100%; left: 0;
+  padding-top: 6px; z-index: 110;
+}
+.nav-dropdown::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 6px;
 }
 .nav-group:hover .nav-dropdown { display: block; }
 .nav-dropdown a {
   display: block; padding: 7px 16px; font-size: 13px;
   color: rgba(232,230,225,0.55); white-space: nowrap; text-decoration: none;
-  transition: all 0.1s;
+  transition: all 0.1s; background: var(--bg-panel);
 }
-.nav-dropdown a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.nav-dropdown a:first-child { border-radius: 5px 5px 0 0; border-top: 1px solid var(--border-dark); }
+.nav-dropdown a:last-child { border-radius: 0 0 5px 5px; border-bottom: 1px solid var(--border-dark); }
+.nav-dropdown a { border-left: 1px solid var(--border-dark); border-right: 1px solid var(--border-dark); }
+.nav-dropdown a:hover { color: var(--text-light); background: #1e1e2a; }
 
 /* Start Here pill */
 .nav-start {
