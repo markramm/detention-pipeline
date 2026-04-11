@@ -1,0 +1,295 @@
+{{ define "main" }}
+{{ $repoURL := site.Params.repoURL }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>Data Sources
+</div>
+<div class="page-content">
+  <div style="max-width:840px; padding-top:24px;">
+    <h1 class="serif" style="font-size:30px; font-weight:400; margin-bottom:6px;">Data Sources</h1>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:28px;">
+      This early-warning system combines automated data ingestion with human research.
+      Some signal types are fully automated — new entries appear without human intervention.
+      Others require someone on the ground investigating. Here's what's covered and where help is needed.
+    </p>
+
+    {{/* ── Automated Sources ── */}}
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:14px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      Automated Ingestion
+    </h2>
+
+    <div style="display:grid; gap:12px; margin-bottom:32px;">
+
+      {{/* 287(g) */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-287g);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-287g);"></span>
+            <h3 style="font-size:15px; font-weight:600;">287(g) Agreements</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">Automated</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          Local law enforcement agreements with ICE for immigration enforcement. Scraped from
+          <a href="https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/" style="color:var(--accent-warm);">Prison Policy Initiative</a>
+          compiled data. FIPS-resolved via Census county lookup.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim);">
+          <span>Script: <span class="mono">ingest_287g.py</span></span>
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "287g-agreement") }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-287g);">7</span></span>
+        </div>
+      </div>
+
+      {{/* ANC */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-anc);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-anc);"></span>
+            <h3 style="font-size:15px; font-weight:600;">ANC Contracts</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">Automated</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          Alaska Native Corporation subsidiary contracts in detention/security, via
+          <a href="https://www.usaspending.gov" style="color:var(--accent-warm);">USAspending.gov API</a>.
+          Tracks sole-source federal contracts to ANC entities like Akima, Nana Regional, ASRC.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim);">
+          <span>Script: <span class="mono">ingest_usaspending.py</span></span>
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "anc-contract") }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-anc);">8</span></span>
+        </div>
+      </div>
+
+      {{/* Budget Distress */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-budget);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-budget);"></span>
+            <h3 style="font-size:15px; font-weight:600;">Budget Distress</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">Automated</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          County-level fiscal distress indicators from
+          <a href="https://www.ers.usda.gov/data-products/county-typology-codes/" style="color:var(--accent-warm);">USDA ERS County Typology Codes</a>
+          (2025 edition). Scores persistent poverty, population loss, low employment, low education, and rural status.
+          These are the counties most vulnerable to the "economic development" pitch.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim);">
+          <span>Script: <span class="mono">ingest_budget_distress.py</span></span>
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "budget-distress") }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-budget);">5</span></span>
+        </div>
+      </div>
+
+      {{/* IGSA */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-igsa);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-igsa);"></span>
+            <h3 style="font-size:15px; font-weight:600;">IGSA Facilities</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">Automated</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          Existing Intergovernmental Service Agreement facilities from
+          <a href="https://www.vera.org/publications/ice-detention-trends" style="color:var(--accent-warm);">Vera Institute of Justice</a>.
+          FIPS-coded. These are counties where ICE detention already operates.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim);">
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "in" (slice "igsa" "facility")) }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-igsa);">10</span></span>
+        </div>
+      </div>
+
+      {{/* Commission Activity */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-commission);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-commission);"></span>
+            <h3 style="font-size:15px; font-weight:600;">Commission Activity</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(196,144,37,0.08); border-color:rgba(196,144,37,0.2); color:#c49025;">Semi-automated</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          County commission agendas and meeting minutes scanned via
+          <a href="https://webapi.legistar.com" style="color:var(--accent-warm);">Legistar API</a>
+          for detention-related keywords. Currently monitoring 30 county and city portals across 12 states.
+          Keyword matching for IGSA, ICE detention, bed capacity, Sabot, 287(g), GEO Group, CoreCivic.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim); flex-wrap:wrap;">
+          <span>Script: <span class="mono">ingest_legistar.py</span></span>
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "commission-activity") }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-commission);">7</span></span>
+        </div>
+        <div style="margin-top:10px; padding:8px 12px; background:var(--bg-content-alt); border-radius:3px; font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
+          <strong style="color:var(--accent);">Coverage gap:</strong> Only 30 of 3,000+ U.S. counties use Legistar.
+          High-priority counties NOT on Legistar (need alternative monitoring):
+          Palm Beach FL, Pinal AZ, Webb TX, Charlton GA, Bradford FL.
+          If your county posts agendas online, we can write a scraper — see the
+          <a href="/develop/" style="color:var(--accent-warm);">developer guide</a>.
+        </div>
+      </div>
+
+    </div>
+
+    {{/* ── Human Research Needed ── */}}
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:14px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      Human Research Needed
+    </h2>
+    <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.7; margin-bottom:16px;">
+      These signal types can't be fully automated — they require local knowledge, investigative reporting,
+      or manual monitoring. Each one is a way to contribute.
+    </p>
+
+    <div style="display:grid; gap:12px; margin-bottom:32px;">
+
+      {{/* Sheriff Network */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-sheriff);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-sheriff);"></span>
+            <h3 style="font-size:15px; font-weight:600;">Sheriff Network Activity</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">Needs humans</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          Sheriffs attending detention consultant conferences, making pitches to commissioners,
+          or networking with other sheriffs who've built facilities. The NSA Annual Conference
+          is the primary recruitment venue.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim);">
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "sheriff-network") }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-sheriff);">6</span></span>
+        </div>
+        <div style="margin-top:10px; padding:8px 12px; background:var(--bg-content-alt); border-radius:3px; font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
+          <strong>How to help:</strong> Check your sheriff's social media and press releases for mentions of
+          immigration enforcement partnerships, NSA conference attendance, or meetings with
+          detention consultants. Conference attendee lists (sometimes public via FOIA) are gold.
+        </div>
+      </div>
+
+      {{/* Comms Discipline */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-comms);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-comms);"></span>
+            <h3 style="font-size:15px; font-weight:600;">Communications Discipline</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">Needs humans</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          When county officials suddenly start using polished talking points about "public safety mission"
+          and "fiscal sustainability" — that's consulting output. NDA citations, opposition framing as
+          "outside agitators," and detailed plans at early-stage meetings are all signs.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim);">
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "comms-discipline") }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-comms);">6</span></span>
+        </div>
+        <div style="margin-top:10px; padding:8px 12px; background:var(--bg-content-alt); border-radius:3px; font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
+          <strong>How to help:</strong> Attend county commission meetings and note when officials use
+          language that doesn't sound like them. File FOIA requests for communications between
+          county officials and detention consultants.
+        </div>
+      </div>
+
+      {{/* Real Estate */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-realestate);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-realestate);"></span>
+            <h3 style="font-size:15px; font-weight:600;">Real Estate Traces</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">Needs humans</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          Warehouse purchases, county-owned building assessments, and property transactions
+          near correctional facilities. The federal warehouse model involved $100M+ purchases
+          of empty distribution centers. The IGSA model uses county-owned buildings.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim);">
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "real-estate-trace") }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-realestate);">2</span></span>
+        </div>
+        <div style="margin-top:10px; padding:8px 12px; background:var(--bg-content-alt); border-radius:3px; font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
+          <strong>How to help:</strong> Monitor county property records for large industrial purchases.
+          Check LoopNet and commercial real estate listings for warehouses near county jails.
+          GSA property acquisitions are sometimes visible in federal records.
+          <em>A scraper for LoopNet or county assessor records would be high-impact — see <a href="/develop/" style="color:var(--accent-warm);">developer guide</a>.</em>
+        </div>
+      </div>
+
+      {{/* Job Postings */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-job);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-job);"></span>
+            <h3 style="font-size:15px; font-weight:600;">Job Postings</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(196,144,37,0.08); border-color:rgba(196,144,37,0.2); color:#c49025;">Partially automated</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          Detention consultant job postings indicate active pipeline work. "ICE Detention Compliance
+          Operations Consultant" in a new state means a new pitch. Requires search API access
+          (SerpAPI) for full automation.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim);">
+          <span>Script: <span class="mono">ingest_jobs.py</span></span>
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "job-posting") }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-job);">7</span></span>
+        </div>
+        <div style="margin-top:10px; padding:8px 12px; background:var(--bg-content-alt); border-radius:3px; font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
+          <strong>How to help:</strong> Search LinkedIn and Indeed for "ICE detention," "NDS 2025," or
+          employer names like Sabot Consulting, GEO Group, CoreCivic. Geographic specificity in
+          postings reveals where the pipeline is active.
+        </div>
+      </div>
+
+      {{/* Legislative */}}
+      <div class="card" style="padding:18px 22px; border-left:3px solid var(--signal-legislative);">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="signal-dot" style="background:var(--signal-legislative);"></span>
+            <h3 style="font-size:15px; font-weight:600;">Legislative Traces</h3>
+          </div>
+          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">Needs humans</span>
+        </div>
+        <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:8px;">
+          State legislation to block or enable detention agreements. States introducing IGSA bans
+          are states where the pitch is active. States without protections are the open field.
+        </p>
+        <div style="display:flex; gap:16px; font-size:11px; color:var(--text-dim);">
+          <span>Entries: <span class="mono" style="color:var(--text-secondary);">{{ len (where site.RegularPages "Params.entry_type" "legislative-trace") }}</span></span>
+          <span>Weight: <span class="mono" style="color:var(--signal-legislative);">1</span></span>
+        </div>
+        <div style="margin-top:10px; padding:8px 12px; background:var(--bg-content-alt); border-radius:3px; font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
+          <strong>How to help:</strong> Search your state legislature's bill tracker for "detention," "IGSA,"
+          "immigration enforcement." Track bill status and report it.
+          <em>State legislature bill trackers (LegiScan API, OpenStates) could be automated — see <a href="/develop/" style="color:var(--accent-warm);">developer guide</a>.</em>
+        </div>
+      </div>
+
+    </div>
+
+    {{/* ── How scoring works ── */}}
+    <div style="padding:16px 20px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border); margin-bottom:24px;">
+      <h3 style="font-size:13px; font-weight:600; margin-bottom:6px;">How signals become scores</h3>
+      <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.7;">
+        Each entry is weighted by type (IGSA=10, ANC=8, 287(g)=7, etc.), then capped per type so
+        one signal can't dominate. The key insight is the <strong>convergence bonus</strong>: +10 per signal
+        type beyond 2, +15 more for 5+ types. Three different signal types in one county is far more
+        predictive than ten entries of the same type.
+        <a href="/methodology/#how-the-score-works" style="color:var(--accent-warm);">Full methodology →</a>
+      </p>
+    </div>
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap;">
+      <a href="/contribute/" class="btn btn-accent btn-sm">Contribute data →</a>
+      <a href="/develop/" class="btn btn-sm">Developer guide</a>
+      <a href="/methodology/" class="btn btn-sm">Full methodology</a>
+    </div>
+  </div>
+</div>
+{{ end }}

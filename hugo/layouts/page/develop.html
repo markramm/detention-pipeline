@@ -1,0 +1,206 @@
+{{ define "main" }}
+{{ $repoURL := site.Params.repoURL }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>Develop
+</div>
+<div class="page-content">
+  <div style="max-width:840px; padding-top:24px;">
+    <h1 class="serif" style="font-size:30px; font-weight:400; margin-bottom:6px;">Help Build the Early Warning System</h1>
+    <p style="font-size:15px; color:var(--text-secondary); line-height:1.7; margin-bottom:8px;">
+      This project tracks convergence of independent signals that a county is being pitched for
+      ICE detention. The more data sources we ingest, the earlier communities can respond.
+      Every new scraper, every new data source, every FIPS-coded signal makes the system more effective.
+    </p>
+    <p style="font-size:14px; color:var(--text-dim); margin-bottom:28px;">
+      The codebase is Python + Hugo + D3. No frameworks, no build tools beyond Hugo.
+      If you can write a Python script that outputs JSON, you can contribute a data source.
+    </p>
+
+    {{/* ── Architecture ── */}}
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      How it works
+    </h2>
+    <div style="font-size:13.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:24px;">
+      <div style="padding:16px 20px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border); margin-bottom:16px; font-family:'DM Mono', monospace; font-size:12px; line-height:2;">
+        <span style="color:var(--accent-warm);">External API/Website</span>
+        &rarr; <span style="color:var(--text-primary);">ingest_*.py</span>
+        &rarr; <span style="color:var(--text-dim);">/tmp/*.json</span>
+        &rarr; <span style="color:var(--text-primary);">kb import</span>
+        &rarr; <span style="color:var(--accent-warm);">KB entries (markdown + YAML)</span><br>
+        &rarr; <span style="color:var(--text-primary);">county_heat_score.py</span>
+        &rarr; <span style="color:var(--text-dim);">heat_data.json</span>
+        &rarr; <span style="color:var(--text-primary);">generate_content.py</span>
+        &rarr; <span style="color:var(--accent-warm);">Hugo site (4,500+ pages)</span>
+      </div>
+      <p>
+        Each ingestion script pulls from one external data source, applies keyword/signal filtering,
+        and outputs a JSON array of entries. Each entry has a <strong>type</strong> (one of 10 signal types),
+        a <strong>FIPS code</strong> (5-digit county identifier), and a <strong>signal strength</strong>.
+        The heat scoring engine counts converging signal types per county — diversity of signals matters
+        more than volume.
+      </p>
+    </div>
+
+    {{/* ── Entry format ── */}}
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      Entry JSON format
+    </h2>
+    <div style="margin-bottom:24px;">
+      <pre style="padding:16px 20px; background:var(--bg-deep); color:var(--text-light); border-radius:5px; font-family:'DM Mono',monospace; font-size:11.5px; line-height:1.7; overflow-x:auto;"><code>{
+  <span style="color:#c49025;">"entry_type"</span>: <span style="color:#2a9f6f;">"commission-activity"</span>,
+  <span style="color:#c49025;">"title"</span>: <span style="color:#2a9f6f;">"Broward County FL — BOCC 2026-03-26: ICE detention budget transfer"</span>,
+  <span style="color:#c49025;">"body"</span>: <span style="color:#2a9f6f;">"Meeting: County Commission\nDate: 2026-03-26\n..."</span>,
+  <span style="color:#c49025;">"county"</span>: <span style="color:#2a9f6f;">"Broward"</span>,
+  <span style="color:#c49025;">"state"</span>: <span style="color:#2a9f6f;">"FL"</span>,
+  <span style="color:#c49025;">"fips"</span>: <span style="color:#2a9f6f;">"12011"</span>,
+  <span style="color:#c49025;">"date"</span>: <span style="color:#2a9f6f;">"2026-03-26"</span>,
+  <span style="color:#c49025;">"source"</span>: <span style="color:#2a9f6f;">"Legistar (broward), Event 12345"</span>,
+  <span style="color:#c49025;">"signal_strength"</span>: <span style="color:#2a9f6f;">"moderate"</span>,
+  <span style="color:#c49025;">"tags"</span>: [<span style="color:#2a9f6f;">"commission-activity"</span>, <span style="color:#2a9f6f;">"fl"</span>]
+}</code></pre>
+      <p style="font-size:12px; color:var(--text-dim); margin-top:6px;">
+        Required: <span class="mono">entry_type</span>, <span class="mono">title</span>, <span class="mono">state</span>.
+        Strongly recommended: <span class="mono">fips</span>, <span class="mono">county</span>, <span class="mono">signal_strength</span>.
+        The FIPS code is the join key that makes cross-referencing work.
+      </p>
+    </div>
+
+    {{/* ── Signal types ── */}}
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      Signal types you can contribute to
+    </h2>
+    <table class="data-table" style="margin-bottom:24px; font-size:12.5px;">
+      <thead><tr><th>Type</th><th>Weight</th><th>Status</th><th>Entry type value</th></tr></thead>
+      <tbody>
+        <tr><td><span class="signal-dot" style="background:var(--signal-igsa);"></span> IGSA Facility</td><td class="mono">10</td><td>Automated</td><td class="mono">igsa</td></tr>
+        <tr><td><span class="signal-dot" style="background:var(--signal-anc);"></span> ANC Contract</td><td class="mono">8</td><td>Automated</td><td class="mono">anc-contract</td></tr>
+        <tr><td><span class="signal-dot" style="background:var(--signal-287g);"></span> 287(g) Agreement</td><td class="mono">7</td><td>Automated</td><td class="mono">287g-agreement</td></tr>
+        <tr><td><span class="signal-dot" style="background:var(--signal-commission);"></span> Commission Activity</td><td class="mono">7</td><td>Semi-auto (Legistar)</td><td class="mono">commission-activity</td></tr>
+        <tr><td><span class="signal-dot" style="background:var(--signal-job);"></span> Job Posting</td><td class="mono">7</td><td>Partial</td><td class="mono">job-posting</td></tr>
+        <tr><td><span class="signal-dot" style="background:var(--signal-sheriff);"></span> Sheriff Network</td><td class="mono">6</td><td style="color:var(--accent);">Manual only</td><td class="mono">sheriff-network</td></tr>
+        <tr><td><span class="signal-dot" style="background:var(--signal-comms);"></span> Comms Discipline</td><td class="mono">6</td><td style="color:var(--accent);">Manual only</td><td class="mono">comms-discipline</td></tr>
+        <tr><td><span class="signal-dot" style="background:var(--signal-budget);"></span> Budget Distress</td><td class="mono">5</td><td>Automated</td><td class="mono">budget-distress</td></tr>
+        <tr><td><span class="signal-dot" style="background:var(--signal-realestate);"></span> Real Estate Trace</td><td class="mono">2</td><td style="color:var(--accent);">Manual only</td><td class="mono">real-estate-trace</td></tr>
+        <tr><td><span class="signal-dot" style="background:var(--signal-legislative);"></span> Legislative Trace</td><td class="mono">1</td><td style="color:var(--accent);">Manual only</td><td class="mono">legislative-trace</td></tr>
+      </tbody>
+    </table>
+
+    {{/* ── Highest impact contributions ── */}}
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      Highest-impact things to build
+    </h2>
+    <div style="display:grid; gap:10px; margin-bottom:24px;">
+
+      <div class="card" style="padding:14px 18px; border-left:3px solid var(--accent);">
+        <div style="font-size:14px; font-weight:600; margin-bottom:4px;">County commission scrapers for non-Legistar counties</div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.6; margin-bottom:6px;">
+          The highest-heat counties (Palm Beach FL, Pinal AZ, Webb TX, Bradford FL, Charlton GA) don't
+          use Legistar. Each county posts agendas on their own website. A scraper per county — pulling
+          agendas, searching for detention keywords, outputting our JSON format — would fill the biggest
+          gap in our coverage.
+        </p>
+        <p style="font-size:11px; color:var(--text-dim);">
+          Pattern: see <span class="mono">ingest_legistar.py</span> for keyword matching logic.
+          Output: same JSON format, same <span class="mono">commission-activity</span> entry type.
+        </p>
+      </div>
+
+      <div class="card" style="padding:14px 18px; border-left:3px solid var(--accent-warm);">
+        <div style="font-size:14px; font-weight:600; margin-bottom:4px;">State legislature bill tracker (OpenStates/LegiScan)</div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.6; margin-bottom:6px;">
+          We have only 1 legislative trace entry. <a href="https://openstates.org/data/" style="color:var(--accent-warm);">OpenStates</a>
+          and <a href="https://legiscan.com/legiscan" style="color:var(--accent-warm);">LegiScan</a> have APIs
+          that could scan all 50 state legislatures for bills mentioning IGSA, immigration detention,
+          or 287(g). States introducing bans are states where the pitch is active.
+        </p>
+        <p style="font-size:11px; color:var(--text-dim);">
+          Output: <span class="mono">legislative-trace</span> entries with bill number, sponsor, status, state.
+        </p>
+      </div>
+
+      <div class="card" style="padding:14px 18px; border-left:3px solid var(--signal-job);">
+        <div style="font-size:14px; font-weight:600; margin-bottom:4px;">Job board scraper (LinkedIn/Indeed API or SerpAPI)</div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.6; margin-bottom:6px;">
+          Detention consultant job postings are a strong forward indicator — a posting in a new state
+          means a new pitch. The script exists (<span class="mono">ingest_jobs.py</span>) but needs a
+          search API key. Contributing a SerpAPI key or an alternative scraping approach would let us
+          monitor Sabot Consulting, GEO Group, CoreCivic, and Akima job listings.
+        </p>
+      </div>
+
+      <div class="card" style="padding:14px 18px; border-left:3px solid var(--signal-realestate);">
+        <div style="font-size:14px; font-weight:600; margin-bottom:4px;">Commercial real estate monitor</div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.6; margin-bottom:6px;">
+          Warehouse purchases are the physical infrastructure of detention expansion. A scraper for
+          LoopNet, Crexi, or county assessor records that flags large industrial properties
+          (&gt;100,000 sq ft) near existing correctional facilities would detect the warehouse model
+          before purchases close.
+        </p>
+        <p style="font-size:11px; color:var(--text-dim);">
+          Output: <span class="mono">real-estate-trace</span> entries with address, sqft, owner, FIPS.
+        </p>
+      </div>
+
+      <div class="card" style="padding:14px 18px; border-left:3px solid #5a6a8a;">
+        <div style="font-size:14px; font-weight:600; margin-bottom:4px;">Local news monitor</div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.6; margin-bottom:6px;">
+          Google News API, MediaCloud, or GDELT could monitor local newspapers for "detention facility,"
+          "ICE," "IGSA," and related terms. Local news coverage is often the first public sign that a
+          county is being pitched. The challenge is FIPS resolution — matching news articles to counties.
+        </p>
+      </div>
+
+    </div>
+
+    {{/* ── Getting started ── */}}
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      Getting started
+    </h2>
+    <div style="font-size:13.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:24px;">
+      <ol style="padding-left:20px;">
+        <li style="margin-bottom:8px;"><strong>Fork the repo:</strong> <a href="{{ $repoURL }}/fork" style="color:var(--accent-warm);">github.com/markramm/detention-pipeline</a></li>
+        <li style="margin-bottom:8px;"><strong>Read an existing script:</strong> Start with <span class="mono">kb/scripts/ingest_legistar.py</span> — it shows the full pattern (API call → keyword match → JSON output).</li>
+        <li style="margin-bottom:8px;"><strong>Write your script:</strong> Name it <span class="mono">ingest_yourSource.py</span> in <span class="mono">kb/scripts/</span>. Output a JSON array of entries matching the format above.</li>
+        <li style="margin-bottom:8px;"><strong>FIPS codes:</strong> Use <span class="mono">county_heat_score.py</span>'s FIPS lookup, or download <a href="https://www2.census.gov/geo/docs/reference/codes2020/national_county2020.txt" style="color:var(--accent-warm);">the Census reference file</a>. Every entry needs a 5-digit FIPS.</li>
+        <li style="margin-bottom:8px;"><strong>Test with dry run:</strong> Add a <span class="mono">--dry-run</span> flag that previews matches without writing files.</li>
+        <li style="margin-bottom:8px;"><strong>Submit a PR:</strong> Include the script, a sample of output, and a note about what data source it covers.</li>
+      </ol>
+    </div>
+
+    {{/* ── Repo structure ── */}}
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      Repository layout
+    </h2>
+    <pre style="padding:14px 18px; background:var(--bg-content-alt); border-radius:5px; font-family:'DM Mono',monospace; font-size:11px; line-height:1.8; overflow-x:auto; color:var(--text-secondary); margin-bottom:24px;"><code>detention-pipeline/
+├── kb/                          <span style="color:var(--text-dim);"># Knowledge base (markdown entries)</span>
+│   ├── 287g/                    <span style="color:var(--text-dim);"># 1,311 287(g) agreement entries</span>
+│   ├── anc/                     <span style="color:var(--text-dim);"># 244 ANC contract entries</span>
+│   ├── budget/                  <span style="color:var(--text-dim);"># 1,086 budget distress entries</span>
+│   ├── commission/              <span style="color:var(--text-dim);"># Commission activity entries</span>
+│   ├── industry/                <span style="color:var(--text-dim);"># Contractors, people, fights, orgs</span>
+│   ├── facilities/              <span style="color:var(--text-dim);"># IGSA facility entries</span>
+│   ├── scripts/                 <span style="color:var(--text-dim);"># Ingestion scripts live here</span>
+│   │   ├── ingest_287g.py
+│   │   ├── ingest_budget_distress.py
+│   │   ├── ingest_jobs.py
+│   │   ├── ingest_legistar.py
+│   │   ├── ingest_usaspending.py
+│   │   └── county_heat_score.py <span style="color:var(--text-dim);"># Scoring engine</span>
+│   └── kb.yaml                  <span style="color:var(--text-dim);"># Schema for all entry types</span>
+├── hugo/                        <span style="color:var(--text-dim);"># Static site generator</span>
+│   ├── generate_content.py      <span style="color:var(--text-dim);"># KB → Hugo content</span>
+│   ├── layouts/                 <span style="color:var(--text-dim);"># Hugo templates</span>
+│   └── hugo.toml                <span style="color:var(--text-dim);"># Hugo config</span>
+├── run_ingest.sh                <span style="color:var(--text-dim);"># Central pipeline runner</span>
+└── build.sh                     <span style="color:var(--text-dim);"># Heat score generator</span></code></pre>
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap; padding-top:16px; border-top:1px solid var(--border);">
+      <a href="{{ $repoURL }}" class="btn btn-accent btn-sm" target="_blank" rel="noopener">View on GitHub</a>
+      <a href="{{ $repoURL }}/fork" class="btn btn-sm" target="_blank" rel="noopener">Fork the repo</a>
+      <a href="{{ $repoURL }}/issues" class="btn btn-sm" target="_blank" rel="noopener">Open issues</a>
+      <a href="/sources/" class="btn btn-sm">Data sources</a>
+      <a href="/methodology/" class="btn btn-sm">Methodology</a>
+    </div>
+  </div>
+</div>
+{{ end }}
