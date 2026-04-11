@@ -29,6 +29,7 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline">
 <meta name="twitter:description" content="{{ $desc }}">
+{{ with .Params.canonical }}<link rel="canonical" href="{{ . | absURL }}">{{ end }}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>

@@ -57,6 +57,48 @@
       {{ end }}
       <a href="{{ $repoURL }}/issues/new?template=data-correction.yml&county={{ .Title | urlquery }}" class="btn btn-sm" target="_blank" rel="noopener">Report issue</a>
     </div>
+
+    {{/* Related players — find others sharing tags, fall back to same player_type */}}
+    {{ $currentTags := .Params.tags | default slice }}
+    {{ $currentPath := .RelPermalink }}
+    {{ $related := slice }}
+    {{ $allPlayers := where site.RegularPages "Type" "players" }}
+    {{ range $allPlayers }}
+      {{ if ne .RelPermalink $currentPath }}
+        {{ $shared := intersect ($currentTags) (.Params.tags | default slice) }}
+        {{ if $shared }}
+          {{ $related = $related | append . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{/* If no tag matches, fall back to same player_type */}}
+    {{ if not $related }}
+      {{ range $allPlayers }}
+        {{ if and (ne .RelPermalink $currentPath) (eq .Params.player_type $ptype) }}
+          {{ $related = $related | append . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $related = $related | uniq }}
+    {{ if $related }}
+    <div style="margin-top:28px;">
+      <h3 class="mono dim" style="font-size:9px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:10px; padding-bottom:6px; border-bottom:1px solid var(--border);">
+        Related Players
+      </h3>
+      {{ range first 8 $related }}
+      <div class="card" style="padding:8px 14px; margin-bottom:6px;">
+        <a href="{{ .RelPermalink }}">
+          <div style="display:flex; align-items:center; gap:6px;">
+            <span class="signal-dot" style="background:{{ .Params.signal_color }};"></span>
+            <span class="card-title" style="font-size:13px; margin:0;">{{ .Title }}</span>
+            <span class="card-meta" style="margin:0; margin-left:auto;">{{ .Params.signal_label }}</span>
+          </div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
   </div>
 </div>
 {{ end }}

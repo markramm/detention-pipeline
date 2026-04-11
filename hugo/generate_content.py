@@ -160,11 +160,14 @@ def esc(s):
 
 
 def normalize_title(title):
-    """Fix screaming-case titles like 'THE GEO GROUP, INC. — ICE BROWARD, FL'."""
+    """Fix screaming-case titles and unreadable contract IDs."""
     # If more than half the alpha chars are uppercase and title > 20 chars, it's screaming
     alpha = [c for c in title if c.isalpha()]
     if len(alpha) > 20 and sum(1 for c in alpha if c.isupper()) > len(alpha) * 0.6:
-        return title.title()
+        title = title.title()
+    # Clean up contract titles that are just dollar amounts or IDs
+    # e.g. "The Geo Group, Inc. — Ice Broward, Fl 38861166" -> cleaner
+    title = re.sub(r'\s+\d{6,}$', '', title)  # strip trailing numeric IDs
     return title
 
 
@@ -291,6 +294,10 @@ def generate_all_pages(parsed_entries, heat_data):
             fm["headquarters"] = esc(fields.get("headquarters", ""))
             fm["founded"] = fields.get("founded", "")
             fm["status"] = fields.get("status", "")
+            # Key facilities for cross-linking
+            key_facs = fields.get("_list_fields", {}).get("key_facilities", [])
+            if key_facs:
+                fm["key_facilities"] = key_facs
         elif entry_type == "person":
             page_path = CONTENT_PATH / "players" / "people" / f"{entry_id}.md"
             fm["type"] = "players"
@@ -335,6 +342,11 @@ def generate_all_pages(parsed_entries, heat_data):
 
         # No duplicate entry/ page — each entry lives in one canonical section only
 
+    # Build cross-reference indexes for contractor ↔ county linking
+    # Index: which contractors are referenced in entries for each FIPS
+    contractor_ids = {e["id"] for e in all_entries_meta if e["type"] == "contractor"}
+    facility_ids = {e["id"] for e in all_entries_meta if e["type"] in ("igsa", "facility")}
+
     return entries_by_fips, entries_by_state, entries_by_type, all_entries_meta
 
 
@@ -369,6 +381,44 @@ def generate_county_pages(entries_by_fips, heat_data):
         else:
             coverage = "unresearched"
 
+        # Generate auto-summary for county narrative (#4)
+        signal_descriptions = []
+        type_counts = {}
+        for e in entries:
+            type_counts[e["type"]] = type_counts.get(e["type"], 0) + 1
+
+        summary_parts = []
+        if "igsa" in type_counts:
+            summary_parts.append(f"{type_counts['igsa']} existing IGSA facilit{'y' if type_counts['igsa'] == 1 else 'ies'}")
+        if "287g-agreement" in type_counts:
+            summary_parts.append(f"{type_counts['287g-agreement']} 287(g) agreement{'s' if type_counts['287g-agreement'] > 1 else ''}")
+        if "anc-contract" in type_counts:
+            summary_parts.append(f"{type_counts['anc-contract']} ANC contract{'s' if type_counts['anc-contract'] > 1 else ''}")
+        if "commission-activity" in type_counts:
+            summary_parts.append("commission activity")
+        if "job-posting" in type_counts:
+            summary_parts.append("detention consultant job posting")
+        if "budget-distress" in type_counts:
+            summary_parts.append("budget distress")
+        if "comms-discipline" in type_counts:
+            summary_parts.append("communications discipline pattern")
+        if "sheriff-network" in type_counts:
+            summary_parts.append("sheriff network activity")
+        if "real-estate-trace" in type_counts:
+            summary_parts.append(f"{type_counts['real-estate-trace']} real estate trace{'s' if type_counts['real-estate-trace'] > 1 else ''}")
+        if "county-fight" in type_counts:
+            summary_parts.append("active community resistance")
+
+        if summary_parts:
+            auto_summary = f"{county_name} shows {', '.join(summary_parts[:-1])}"
+            if len(summary_parts) > 1:
+                auto_summary += f", and {summary_parts[-1]}"
+            elif summary_parts:
+                auto_summary = f"{county_name} shows {summary_parts[0]}"
+            auto_summary += "."
+        else:
+            auto_summary = ""
+
         page_path = county_dir / f"{fips}.md"
         with open(page_path, "w") as f:
             f.write(f"""---
@@ -383,6 +433,7 @@ rank: {rank}
 total_counties: {total}
 percentile: {percentile}
 coverage: "{coverage}"
+auto_summary: "{esc(auto_summary)}"
 states: ["{state}"]
 ---
 """)

@@ -15,6 +15,7 @@ contractor_type: "consulting"
 headquarters: "Folsom, California"
 founded: "2000"
 status: "active"
+key_facilities: ['bradford-county-douglas-building', 'glades-county-sheriff']
 ---
 
 Sabot Technologies, Inc. (dba Sabot Consulting) is a Folsom, California consulting firm that markets what it calls the "Office of ICE Integration" — a service it describes as "the only dedicated Criminal Justice Compliance and ICE Integration practice in the country." The firm advises county sheriffs on building and operating ICE detention facilities through Intergovernmental Service Agreements (IGSAs).

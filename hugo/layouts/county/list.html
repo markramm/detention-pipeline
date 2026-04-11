@@ -8,6 +8,12 @@
     {{ len .Pages }} counties with at least one pipeline signal, ranked by convergence score.
   </p>
 
+  <div style="margin-bottom:16px; display:flex; flex-wrap:wrap; gap:4px;">
+    {{ range sort (where site.RegularPages "Type" "state") ".Title" "asc" }}
+    <a href="{{ .RelPermalink }}" class="signal-badge" style="text-decoration:none; font-size:9px;">{{ .Params.state_abbr }}</a>
+    {{ end }}
+  </div>
+
   <table class="data-table">
     <thead>
       <tr>
