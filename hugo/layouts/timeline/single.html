@@ -343,16 +343,79 @@
     }
   }
 
+  // Bucket key helpers
+  function dayKey(d) { return d.slice(0, 10); }       // YYYY-MM-DD
+  function weekKey(d) {                                // YYYY-Www
+    const dt = new Date(d);
+    const jan1 = new Date(dt.getFullYear(), 0, 1);
+    const week = Math.ceil(((dt - jan1) / 86400000 + jan1.getDay() + 1) / 7);
+    return `${dt.getFullYear()}-W${String(week).padStart(2, '0')}`;
+  }
+  function monthKey(d) { return d.slice(0, 7); }       // YYYY-MM
+
+  function weekKeyToDate(wk) {
+    const [y, w] = wk.split('-W').map(Number);
+    const jan1 = new Date(y, 0, 1);
+    const dayOffset = (w - 1) * 7 - jan1.getDay() + 1;
+    return new Date(y, 0, dayOffset);
+  }
+
+  function bucketKeyToDate(key, resolution) {
+    if (resolution === 'day') return new Date(key);
+    if (resolution === 'week') return weekKeyToDate(key);
+    return d3.timeParse('%Y-%m')(key);
+  }
+
+  function chooseBucketResolution(tStart, tEnd) {
+    const spanDays = (tEnd - tStart) / 86400000;
+    if (spanDays <= 45) return 'day';
+    if (spanDays <= 180) return 'week';
+    return 'month';
+  }
+
+  function bucketEvents(filteredEvents, resolution) {
+    const keyFn = resolution === 'day' ? dayKey : resolution === 'week' ? weekKey : monthKey;
+    const buckets = {};
+    filteredEvents.forEach(e => {
+      const k = keyFn(e.date);
+      if (!buckets[k]) buckets[k] = { key: k, by_type: {}, total: 0 };
+      buckets[k].by_type[e.type] = (buckets[k].by_type[e.type] || 0) + 1;
+      buckets[k].total += 1;
+    });
+    return Object.values(buckets)
+      .map(b => ({ ...b, date: bucketKeyToDate(b.key, resolution) }))
+      .filter(b => b.date && isFinite(b.date))
+      .sort((a, b) => a.date - b.date);
+  }
+
+  const resolutionLabels = { day: 'daily', week: 'weekly', month: 'monthly' };
+
   function drawChart() {
     const activeTypes = getActiveTypes();
     const [tStart, tEnd] = getTimeExtent();
 
-    // Update X scale for time range
+    // Choose bucket resolution based on visible time span
+    const resolution = chooseBucketResolution(tStart, tEnd);
+    currentResolution = resolution;
+
+    // Update X scale
     x.domain([tStart, tEnd]);
+
+    // Choose appropriate tick format
+    let xTicks, xFormat;
+    if (resolution === 'day') {
+      xTicks = d3.timeDay.every(Math.max(1, Math.floor((tEnd - tStart) / 86400000 / 8)));
+      xFormat = d3.timeFormat('%b %d');
+    } else if (resolution === 'week') {
+      xTicks = d3.timeWeek.every(Math.max(1, Math.floor((tEnd - tStart) / 86400000 / 56)));
+      xFormat = d3.timeFormat('%b %d');
+    } else {
+      xTicks = d3.timeYear.every(1);
+      xFormat = d3.timeFormat('%Y');
+    }
+
     svg.select('.x-axis').transition().duration(300)
-      .call(d3.axisBottom(x).ticks(timeRange === '1m' ? 4 : timeRange === '3m' ? 6 : d3.timeYear.every(1)).tickFormat(
-        timeRange === '1m' || timeRange === '3m' ? d3.timeFormat('%b %Y') : d3.timeFormat('%Y')
-      ));
+      .call(d3.axisBottom(x).ticks(xTicks).tickFormat(xFormat));
     svg.select('.x-axis').selectAll('text')
       .style('fill', 'rgba(232,230,225,0.4)')
       .style('font-family', "'DM Mono', monospace")
@@ -360,30 +423,17 @@
     svg.select('.x-axis').selectAll('.domain').style('stroke', 'rgba(255,255,255,0.08)');
     svg.select('.x-axis').selectAll('.tick line').style('stroke', 'rgba(255,255,255,0.06)');
 
-    // Filter monthData by time range
-    const visibleMonths = monthData.filter(d => d.date >= tStart && d.date <= tEnd);
+    // Filter events by state and time, then bucket them
+    const relevantEvents = events.filter(e => {
+      if (activeState && e.state !== activeState) return false;
+      const d = new Date(e.date);
+      return d >= tStart && d <= tEnd;
+    });
 
-    // If we have a state filter, we need per-event filtering, not just by_type
-    // For state filtering, recompute monthly by_type from events
-    let computedMonths = visibleMonths;
-    if (activeState) {
-      const monthMap = {};
-      events.forEach(e => {
-        if (activeState && e.state !== activeState) return;
-        const mk = e.date.slice(0, 7);
-        if (!monthMap[mk]) monthMap[mk] = { by_type: {}, total: 0 };
-        monthMap[mk].by_type[e.type] = (monthMap[mk].by_type[e.type] || 0) + 1;
-        monthMap[mk].total += 1;
-      });
-      computedMonths = visibleMonths.map(d => ({
-        ...d,
-        by_type: monthMap[d.month]?.by_type || {},
-        total: monthMap[d.month]?.total || 0,
-      }));
-    }
+    const computedBuckets = bucketEvents(relevantEvents, resolution);
 
     // Compute filtered totals for Y-axis scaling
-    const filteredTotals = computedMonths.map(d => {
+    const filteredTotals = computedBuckets.map(d => {
       if (!activeTypes) return d.total;
       return Object.entries(d.by_type)
         .filter(([t]) => activeTypes.has(t))
@@ -396,11 +446,11 @@
     // Determine which types to stack
     const typesToShow = activeTypes ? stackOrder.filter(t => activeTypes.has(t)) : stackOrder;
 
-    // Dynamic bar width based on visible months
-    const dynBarWidth = Math.max(2, Math.min(20, width / Math.max(1, computedMonths.length) - 1));
+    // Dynamic bar width based on visible buckets
+    const dynBarWidth = Math.max(2, Math.min(24, width / Math.max(1, computedBuckets.length) - 1));
 
-    // Build stacked data for each month
-    const stackData = computedMonths.map((d, i) => {
+    // Build stacked data for each bucket
+    const stackData = computedBuckets.map((d, i) => {
       let cumY = 0;
       const segments = [];
       typesToShow.forEach(type => {
@@ -448,7 +498,10 @@
             .slice(0, 6)
             .map(([t, c]) => `<span class="tl-tooltip-dot" style="background:${colors[t] || '#666'}"></span>${t.replace(/-/g, ' ')}: ${c}`)
             .join('<br>');
-          ttTitle.textContent = d3.timeFormat('%B %Y')(d.date);
+          const dateFmt = resolution === 'day' ? d3.timeFormat('%b %d, %Y') :
+                          resolution === 'week' ? d3.timeFormat('Week of %b %d, %Y') :
+                          d3.timeFormat('%B %Y');
+          ttTitle.textContent = dateFmt(d.date);
           ttMeta.innerHTML = `${d.total} events<br>${types}`;
           tooltip.classList.add('visible');
         })
@@ -464,6 +517,8 @@
   }
 
   // Stats
+  let currentResolution = 'month';
+
   function updateStats() {
     const filtered = events.filter(e => matchesAllFilters(e));
     const states = new Set(filtered.map(e => e.state).filter(Boolean));
@@ -473,6 +528,7 @@
       <div><span class="tl-stat-val">${filtered.length.toLocaleString()}</span>events</div>
       <div><span class="tl-stat-val">${states.size}</span>states</div>
       <div><span class="tl-stat-val">${counties.size}</span>counties</div>
+      <div><span class="tl-stat-val" style="font-size:12px; text-transform:capitalize;">${resolutionLabels[currentResolution]}</span>bars</div>
     `;
   }
 
