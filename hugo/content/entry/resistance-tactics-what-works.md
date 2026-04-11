@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/resistance-tactics-what-works.md"
 lastmod: "2026-04-10"
-summary: "Across 12+ community fights against ICE detention facilities in 2025-2026, clear patterns have emerged about which tactics succeed and which don't. This note is designed to be useful for communities..."
+summary: "Analysis of 12+ community fights showing what stops ICE facilities: pressure sellers before purchase, control municipal water/sewer, state AG lawsuits, environmental challenges, and emergency city council action."
 type: "entry"
 layout: "single"
 ---

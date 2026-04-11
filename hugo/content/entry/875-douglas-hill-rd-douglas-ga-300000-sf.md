@@ -8,7 +8,7 @@ state: "GA"
 county: "Douglas"
 repo_path: "kb/real-estate/875-douglas-hill-rd-douglas-ga-300000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at 875 Douglas Hill Rd, Lithia Springs, Douglas County, GA. 300000 sq ft. Owner: Unknown. Status: available."
+summary: "300K SF available warehouse in Lithia Springs, Douglas County GA. Modern racked storage with cross-dock capability."
 type: "entry"
 layout: "single"
 ---

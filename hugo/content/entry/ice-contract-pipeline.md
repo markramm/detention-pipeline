@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/ice-contract-pipeline.md"
 lastmod: "2026-04-06"
-summary: "The immigration enforcement system is not one contract or one company. It is a pipeline in which each stage is served by different contractors, each taking their cut. A person can move through the..."
+summary: "Framework mapping the 7-stage ICE enforcement pipeline from targeting to deportation, each served by different contractors. GEO Group operates a closed loop across surveillance, skip-tracing, and detention."
 type: "entry"
 layout: "single"
 ---

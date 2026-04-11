@@ -8,7 +8,7 @@ state: "TX"
 county: "Denton"
 repo_path: "kb/real-estate/northlake-35-logistics-park-denton-tx-1000000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Northlake 35 Logistics Park, Northlake, Denton County, TX. 1000000 sq ft. Owner: Falcon Commercial/Clarion Partners. Status: leased."
+summary: "1M SF logistics park in Northlake, Denton County TX, owned by Falcon Commercial/Clarion Partners, leased to Google. Phase 1 operational 2026."
 type: "entry"
 layout: "single"
 ---

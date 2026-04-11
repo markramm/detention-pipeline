@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/bi-incorporated-skip-tracing.md"
 lastmod: "2026-04-06"
-summary: "In December 2025, ICE awarded [[bi-incorporated|BI Incorporated]] (a [[geo-group|GEO Group]] subsidiary) a two-year contract worth up to $121 million for \"skip tracing\" services -- using surveillance..."
+summary: "$121M contract for BI Inc to hunt immigrants who missed check-ins using its own ISAP surveillance data. Completes GEO Group's monitor-hunt-detain closed loop."
 type: "entry"
 layout: "single"
 ---

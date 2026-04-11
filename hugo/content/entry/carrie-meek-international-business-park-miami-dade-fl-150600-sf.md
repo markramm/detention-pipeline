@@ -8,7 +8,7 @@ state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/carrie-meek-international-business-park-miami-dade-fl-150600-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Carrie Meek International Business Park, Opa-Locka, Miami-Dade County, FL. 150600 sq ft. Owner: Foundry Commercial/Clarion Partners. Status: leased."
+summary: "151K SF distribution center in Opa-Locka, Miami-Dade, owned by Foundry Commercial/Clarion Partners, leased to American Bottling."
 type: "entry"
 layout: "single"
 ---

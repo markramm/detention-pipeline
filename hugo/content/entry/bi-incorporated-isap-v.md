@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/bi-incorporated-isap-v.md"
 lastmod: "2026-04-06"
-summary: "[[bi-incorporated|BI Incorporated]], a subsidiary of [[geo-group|The GEO Group]], holds the sole-source contract for ICE's Intensive Supervision Appearance Program (ISAP) -- the federal government's..."
+summary: "$1B sole-source contract for BI Inc (GEO subsidiary) to run ICE's ISAP V ankle monitor and SmartLINK surveillance program. ICE targets 180,000 on GPS monitors by 2026."
 type: "entry"
 layout: "single"
 ---

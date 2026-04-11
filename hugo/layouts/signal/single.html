@@ -35,7 +35,10 @@
     <tbody>
     {{ range $entries }}
       <tr>
-        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ if le (len $entries) 100 }}{{ with .Params.summary }}<div style="font-size:11px; color:var(--text-dim); margin-top:1px;">{{ . }}</div>{{ end }}{{ end }}
+        </td>
         <td>{{ .Params.county }}</td>
         <td class="mono">{{ .Params.state }}</td>
       </tr>

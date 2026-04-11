@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/g4s-ground-transportation.md"
 lastmod: "2026-04-06"
-summary: "[[g4s-secure-solutions|G4S Secure Solutions]] (Allied Universal subsidiary) provides armed ground transportation and detention officer services across multiple ICE field offices under a series of..."
+summary: "G4S (Allied Universal) holds multiple ICE ground transportation task orders across six field offices. A $100M San Diego contract was solicited for FY2026."
 type: "entry"
 layout: "single"
 ---

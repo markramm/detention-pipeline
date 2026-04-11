@@ -8,7 +8,7 @@ state: "GA"
 county: "Chatham"
 repo_path: "kb/real-estate/interstate-west-industrial-park-chatham-ga-2057067-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Interstate West Industrial Park, Savannah, Chatham County, GA. 2057067 sq ft. Owner: VanTrust Real Estate. Status: leased."
+summary: "2.1M SF distribution center in Savannah, Chatham County GA, owned by VanTrust, leased to Burlington Stores. Major port logistics."
 type: "entry"
 layout: "single"
 ---

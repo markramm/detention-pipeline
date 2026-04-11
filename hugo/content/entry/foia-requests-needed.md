@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/foia-requests-needed.md"
 lastmod: "2026-04-08"
-summary: "1. NDAs (state open records — fastest return, most likely to produce documents)"
+summary: "Prioritized list of FOIA and state open records requests targeting NDAs with local officials, missing appraisals, WEXMAC-TITUS scope modifications, and Blue Owl ethics determinations."
 type: "entry"
 layout: "single"
 ---

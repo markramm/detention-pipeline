@@ -90,11 +90,16 @@
           <a href="/county/" style="font-size:11px; color:var(--accent-warm); text-decoration:none;">View all →</a>
         </div>
         {{ range first 8 (sort (where site.RegularPages "Type" "county") ".Params.score" "desc") }}
-        <div style="display:flex; align-items:baseline; gap:8px; padding:6px 0; border-bottom:1px solid var(--border);">
-          <span class="score-pill {{ cond (ge .Params.score 70.0) "score-hot" "score-warm" }}" style="font-size:12px; min-width:36px; text-align:center;">{{ .Params.score }}</span>
-          <a href="{{ .RelPermalink }}" style="font-size:12.5px; color:var(--text-primary); text-decoration:none; flex:1;">{{ .Title }}</a>
-          <span class="mono dim" style="font-size:10px;">{{ .Params.signal_types }} signals</span>
-        </div>
+        <a href="{{ .RelPermalink }}" style="display:block; padding:6px 0; border-bottom:1px solid var(--border); text-decoration:none;">
+          <div style="display:flex; align-items:baseline; gap:8px;">
+            <span class="score-pill {{ cond (ge .Params.score 70.0) "score-hot" "score-warm" }}" style="font-size:12px; min-width:36px; text-align:center;">{{ .Params.score }}</span>
+            <span style="font-size:13px; color:var(--text-primary); flex:1;">{{ .Title }}</span>
+            <span class="mono dim" style="font-size:10px;">{{ .Params.signal_types }} signals</span>
+          </div>
+          {{ with .Params.auto_summary }}
+          <div style="font-size:11px; color:var(--text-dim); margin-top:2px; padding-left:52px; line-height:1.4;">{{ . }}</div>
+          {{ end }}
+        </a>
         {{ end }}
       </div>
 
@@ -110,6 +115,9 @@
               <span class="signal-dot" style="background:#8a5a2a;"></span>
               <span class="card-title" style="font-size:12.5px; margin:0;">{{ .Title }}</span>
             </div>
+            {{ with .Params.summary }}
+            <div style="font-size:11px; color:var(--text-dim); margin-top:2px; padding-left:13px; line-height:1.4;">{{ . }}</div>
+            {{ end }}
           </a>
         </div>
         {{ end }}

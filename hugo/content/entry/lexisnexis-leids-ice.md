@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/lexisnexis-leids-ice.md"
 lastmod: "2026-04-06"
-summary: "[[lexisnexis|LexisNexis]] provides ICE and CBP with the Law Enforcement Investigative Database Subscription (LEIDS) platform, a web-based investigative database that includes license plate..."
+summary: "$38M combined ICE ($22.1M) and CBP ($15.9M) contracts for LexisNexis LEIDS database access including Accurint dossiers and license plate recognition."
 type: "entry"
 layout: "single"
 ---

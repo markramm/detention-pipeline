@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/coast-guard-ice-flights.md"
 lastmod: "2026-04-06"
-summary: "Since at least June 2025, the U.S. Coast Guard has diverted a significant portion of its C-27J Spartan fleet from search-and-rescue and maritime missions to transporting ICE detainees. This..."
+summary: "At least 324 Coast Guard flights diverted to ICE detainee transport in 2025, using C-27J Spartans and C-130s as feeders for Air Force deportation flights from hub airports."
 type: "entry"
 layout: "single"
 ---

@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/palantir-icm-2022.md"
 lastmod: "2026-04-06"
-summary: "ICE's Investigative Case Management (ICM) system is built and operated by [[palantir-technologies|Palantir Technologies]]. The current contract was awarded in 2022, valued at $139.3 million, and set..."
+summary: "$139.3M Palantir contract for ICE's Investigative Case Management system (2022-2026). Slated for sole-source renewal because no comparable system exists."
 type: "entry"
 layout: "single"
 ---

@@ -8,7 +8,7 @@ state: "LA"
 county: "Jefferson"
 repo_path: "kb/real-estate/prologis-park-new-orleans-jefferson-la-300000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Prologis Park New Orleans, New Orleans, Jefferson County, LA. 300000 sq ft. Owner: Prologis. Status: available."
+summary: "300K SF available Prologis logistics property in New Orleans, Jefferson Parish LA near Port of New Orleans."
 type: "entry"
 layout: "single"
 ---

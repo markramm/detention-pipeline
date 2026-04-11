@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/glades-county-igsa-2025.md"
 lastmod: "2026-04-06"
-summary: "ICE reinstated the Intergovernmental Service Agreement with [[glades-county-fl-detention]] on April 3, 2025, for up to 500 beds. The facility is operated by the Glades County Sheriff's Office...."
+summary: "ICE reinstated the Glades County FL IGSA on April 3, 2025 for up to 500 beds operated by the sheriff. Sabot Consulting featured it as a client success story."
 type: "entry"
 layout: "single"
 ---

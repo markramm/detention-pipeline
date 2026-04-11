@@ -8,7 +8,7 @@ state: "FL"
 county: "Palm Beach"
 repo_path: "kb/real-estate/15810-walgreens-dr-palm-beach-fl-182800-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at 15810 Walgreens Dr, Jupiter, Palm Beach County, FL. 182800 sq ft. Owner: Ambrose Property Group. Status: leased."
+summary: "183K SF warehouse in Jupiter, Palm Beach FL, owned by Ambrose Property Group, leased to Niagara Bottling. Standard industrial property."
 type: "entry"
 layout: "single"
 ---

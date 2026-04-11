@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/ice-air-csi-aviation-fy2025.md"
 lastmod: "2026-04-06"
-summary: "ICE pays [[csi-aviation|CSI Aviation]] to manage the entire ICE Air charter flight program, including both international deportation flights and domestic detainee transfers. CSI then subcontracts to..."
+summary: "CSI Aviation's ICE Air contract surged from $364M (FY2024) to $1.1B (FY2025). Domestic transfer flights jumped 132% as new remote detention facilities opened."
 type: "entry"
 layout: "single"
 ---

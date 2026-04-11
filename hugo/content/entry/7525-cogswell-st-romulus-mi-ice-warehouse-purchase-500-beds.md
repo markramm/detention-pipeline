@@ -8,7 +8,7 @@ state: "MI"
 county: "Wayne"
 repo_path: "kb/real-estate/7525-cogswell-st-romulus-mi-ice-warehouse-purchase-500-beds.md"
 lastmod: "2026-04-10"
-summary: "ICE purchased this commercial warehouse in February 2026 without notice to state, city, or public. Planned as a Regional Processing Center for ~500 migrants. ICE claims 1,458 jobs and $33M tax..."
+summary: "ICE purchased warehouse in Romulus MI for 500-bed processing center without local notice. Michigan AG and city sued to block; 700+ protesters rallied."
 type: "entry"
 layout: "single"
 ---

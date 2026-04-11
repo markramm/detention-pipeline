@@ -8,7 +8,7 @@ state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/5601-nw-72nd-ave-miami-dade-fl-364600-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at 5601 NW 72nd Ave, Miami, Miami-Dade County, FL. 364600 sq ft. Owner: Clarion Partners. Status: leased."
+summary: "365K SF warehouse in Miami-Dade owned by Clarion Partners, leased to CEVA Logistics. Airport North/Medley submarket."
 type: "entry"
 layout: "single"
 ---

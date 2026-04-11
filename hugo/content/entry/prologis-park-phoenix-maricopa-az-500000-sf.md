@@ -8,7 +8,7 @@ state: "AZ"
 county: "Maricopa"
 repo_path: "kb/real-estate/prologis-park-phoenix-maricopa-az-500000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Prologis Park Phoenix, Phoenix, Maricopa County, AZ. 500000 sq ft. Owner: Prologis. Status: available."
+summary: "500K SF available Prologis logistics property in Phoenix, Maricopa County AZ. Part of 17M+ SF Prologis AZ portfolio."
 type: "entry"
 layout: "single"
 ---

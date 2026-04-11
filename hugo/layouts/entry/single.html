@@ -66,6 +66,9 @@
             <span class="signal-dot" style="background:{{ .Params.signal_color }};"></span>
             <span class="card-title" style="margin:0;">{{ .Title }}</span>
           </div>
+          {{ with .Params.summary }}
+          <div style="font-size:11px; color:var(--text-dim); margin-top:2px; padding-left:13px; line-height:1.4;">{{ . }}</div>
+          {{ end }}
         </a>
       </div>
       {{ end }}

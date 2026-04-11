@@ -8,7 +8,7 @@ state: "AZ"
 county: "Maricopa"
 repo_path: "kb/real-estate/chandler-industrial-center-maricopa-az-280000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Chandler Industrial Center, Chandler, Maricopa County, AZ. 280000 sq ft. Owner: VanTrust Real Estate. Status: available."
+summary: "280K SF available spec industrial property in Chandler, Maricopa County AZ near Intel campus. Owned by VanTrust Real Estate."
 type: "entry"
 layout: "single"
 ---

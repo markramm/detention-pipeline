@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/thomson-reuters-clear-ice.md"
 lastmod: "2026-04-06"
-summary: "[[thomson-reuters|Thomson Reuters Special Services]] holds a five-year, $22.8 million contract with DHS for ICE's use of a \"law enforcement investigative database subscription.\" The 2025 option year..."
+summary: "$22.8M five-year DHS contract for Thomson Reuters CLEAR database access. 2025 option confirms license plate reader data provision alongside utility and phone records."
 type: "entry"
 layout: "single"
 ---

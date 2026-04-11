@@ -8,7 +8,7 @@ state: "WY"
 county: "Uinta"
 repo_path: "kb/sheriff/evanston-wy-uinta-county-repeated-detention-facility-pitches-2017-2020.md"
 lastmod: "2026-04-10"
-summary: "Evanston (Uinta County, ~50 min SW of Kemmerer) hosted divisive debates 2017-2020 over detention facility proposals from Management Training Corporation and CoreCivic. Both companies eventually..."
+summary: "Uinta County WY hosted divisive detention facility pitches from MTC and CoreCivic 2017-2020; both withdrew after opposition. Same distressed corridor as Kemmerer."
 type: "entry"
 layout: "single"
 ---

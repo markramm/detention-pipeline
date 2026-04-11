@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/tracking-resources.md"
 lastmod: "2026-04-06"
-summary: "External resources for monitoring the detention-industrial complex."
+summary: "Curated list of external resources for monitoring detention expansion: facility maps (Courier, Freedom for Immigrants), flight monitors (Human Rights First), investigative journalists, and FOIA tools."
 type: "entry"
 layout: "single"
 ---

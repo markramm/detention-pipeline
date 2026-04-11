@@ -8,7 +8,7 @@ state: "LA"
 county: "East Baton Rouge"
 repo_path: "kb/real-estate/commercial-ave-at-i-12-east-baton-rouge-la-150000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Commercial Ave at I-12, Baton Rouge, East Baton Rouge County, LA. 150000 sq ft. Owner: Capitol City Produce. Status: leased."
+summary: "150K SF warehouse in Baton Rouge, East Baton Rouge LA at I-12, leased to Capitol City Produce. Includes refrigerated storage."
 type: "entry"
 layout: "single"
 ---

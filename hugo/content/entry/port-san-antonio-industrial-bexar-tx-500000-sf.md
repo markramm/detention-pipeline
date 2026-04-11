@@ -8,7 +8,7 @@ state: "TX"
 county: "Bexar"
 repo_path: "kb/real-estate/port-san-antonio-industrial-bexar-tx-500000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Port San Antonio Industrial, San Antonio, Bexar County, TX. 500000 sq ft. Owner: Port San Antonio. Status: available."
+summary: "500K SF available industrial property at former Kelly AFB in San Antonio, Bexar County TX. Mixed-use industrial campus."
 type: "entry"
 layout: "single"
 ---

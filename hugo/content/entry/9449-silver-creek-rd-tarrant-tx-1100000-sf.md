@@ -8,7 +8,7 @@ state: "TX"
 county: "Tarrant"
 repo_path: "kb/real-estate/9449-silver-creek-rd-tarrant-tx-1100000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at 9449 Silver Creek Rd, Fort Worth, Tarrant County, TX. 1100000 sq ft. Owner: Majestic Realty. Status: leased."
+summary: "1.1M SF logistics property in Fort Worth, Tarrant County TX, owned by Majestic Realty, leased to Google. Silver Creek Business Park."
 type: "entry"
 layout: "single"
 ---

@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/camp-east-montana-1-2b-contract.md"
 lastmod: "2026-04-06"
-summary: "A $1.2 billion contract awarded through the U.S. Army's procurement system to build and operate a tent detention camp at [[camp-east-montana-fort-bliss]] on Fort Bliss, El Paso, TX. The contractor..."
+summary: "$1.2B Army contract for a tent detention camp at Fort Bliss TX, awarded to a no-experience contractor at a Virginia residential address. Three deaths in first five months."
 type: "entry"
 layout: "single"
 ---

@@ -8,7 +8,7 @@ state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/3595-nw-125th-st-miami-dade-fl-229300-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at 3595 NW 125th St, Miami, Miami-Dade County, FL. 229300 sq ft. Owner: TIAA. Status: leased."
+summary: "229K SF warehouse in Miami-Dade owned by TIAA, leased to Performance Food Group on renewal. Active distribution property."
 type: "entry"
 layout: "single"
 ---

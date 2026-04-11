@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/events/2026-03-26-dhs-ig-investigation-noem-lewandowski.md"
 lastmod: "2026-04-08"
-summary: "On March 26, 2026, the DHS Inspector General launched a formal investigation into how DHS contracts were solicited and handled under former Secretary Kristi Noem, specifically targeting the role of..."
+summary: "DHS IG launched investigation into Noem/Lewandowski contract handling on March 26, 2026. Lewandowski allegedly solicited success fees from GEO Group; contract corruption was a catalyst for Noem's firing."
 type: "entry"
 layout: "single"
 ---

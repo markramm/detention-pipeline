@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/jobs/project-manager-detention-corrections.md"
 lastmod: "2026-04-10"
-summary: "Job posting: Project Manager - Detention & Corrections"
+summary: "Sabot Consulting national job posting for detention and corrections project manager. Indicates active construction pipeline for IGSA detention facilities."
 type: "entry"
 layout: "single"
 ---

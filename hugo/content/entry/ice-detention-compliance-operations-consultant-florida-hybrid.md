@@ -8,7 +8,7 @@ state: "FL"
 county: ""
 repo_path: "kb/jobs/ice-detention-compliance-operations-consultant-florida-hybrid.md"
 lastmod: "2026-04-10"
-summary: "Job posting: ICE Detention Compliance Operations Consultant"
+summary: "Sabot Consulting job posting for ICE detention compliance consultant in Florida (hybrid), requiring NDS 2025 expertise. Signals active Florida IGSA pipeline development."
 type: "entry"
 layout: "single"
 ---

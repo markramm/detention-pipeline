@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/organizations/blue-owl-capital.md"
 lastmod: "2026-04-08"
-summary: "Blue Owl Capital is a New York City-based alternative asset management firm managing approximately $307.5 billion in assets (as of December 2025), created through a 2021 three-way merger of Dyal..."
+summary: "Blue Owl Capital ($307.5B AUM) sold distressed warehouses to DHS at multiples of market value. Stock crashed 68% amid $5.4B in redemption requests; DHS sales were a financial lifeline."
 type: "entry"
 layout: "single"
 ---

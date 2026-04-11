@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/events/2026-03-24-mullin-pause-warehouse-purchases.md"
 lastmod: "2026-04-08"
-summary: "DHS Secretary Markwayne Mullin, who took control of DHS on March 24, 2026 (replacing fired Kristi Noem), ordered a pause on warehouse conversion plans for the Salt Lake City facility and 10 others..."
+summary: "DHS Secretary Mullin paused 11 ICE warehouse conversions and imposed $25M contract approval threshold on March 24, 2026, reviewing all Noem-era contracts after $364M in documented overpayments."
 type: "entry"
 layout: "single"
 ---

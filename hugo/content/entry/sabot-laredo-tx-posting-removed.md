@@ -8,7 +8,7 @@ state: "TX"
 county: "Webb"
 repo_path: "kb/jobs/sabot-laredo-tx-posting-removed.md"
 lastmod: "2026-04-10"
-summary: "The \"Project Manager - Detention & Corrections\" position in Laredo, TX was previously listed on both LinkedIn and Sabot's career page. As of April 10, 2026, it no longer appears on..."
+summary: "Sabot Consulting removed its Laredo TX detention project manager posting, suggesting the role was filled. Signals active Sabot operations in Webb County, a border county with 2 IGSAs."
 type: "entry"
 layout: "single"
 ---

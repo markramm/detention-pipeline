@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/geo-wexmac-titus-prequalification.md"
 lastmod: "2026-04-06"
-summary: "On a Friday night in February 2026, the Trump administration quietly announced that [[geo-group]] had been added to the [[wexmac-titus-military-procurement-bypass|WEXMAC-TITUS]] list of pre-qualified..."
+summary: "GEO Group was quietly pre-qualified for WEXMAC-TITUS, giving it no-bid access to $45B in OBBBA detention funding. Announced on a Friday night in Feb 2026."
 type: "entry"
 layout: "single"
 ---

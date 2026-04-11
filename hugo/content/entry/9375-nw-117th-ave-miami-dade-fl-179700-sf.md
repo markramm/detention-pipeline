@@ -8,7 +8,7 @@ state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/9375-nw-117th-ave-miami-dade-fl-179700-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at 9375 NW 117th Ave, Miami, Miami-Dade County, FL. 179700 sq ft. Owner: Flagler Global Logistics. Status: leased."
+summary: "180K SF warehouse at Flagler Station in Miami-Dade, owned by Flagler Global Logistics, currently leased. Standard industrial property."
 type: "entry"
 layout: "single"
 ---

@@ -8,7 +8,7 @@ state: "TX"
 county: "Dallas"
 repo_path: "kb/real-estate/cedars-commerce-center-dallas-tx-2000000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Cedars Commerce Center, Dallas, Dallas County, TX. 2000000 sq ft. Owner: LBA Logistics/Blackstone. Status: available."
+summary: "2M SF available warehouse in Dallas TX, owned by LBA Logistics/Blackstone, undergoing $35M renovation. Major urban industrial asset."
 type: "entry"
 layout: "single"
 ---

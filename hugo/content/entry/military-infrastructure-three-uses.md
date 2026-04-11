@@ -8,7 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/military-infrastructure-three-uses.md"
 lastmod: "2026-04-06"
-summary: "Military installations serve three distinct functions in the detention-industrial complex, and conflating them obscures the architecture:"
+summary: "Military installations serve three distinct detention functions: active-base detention (avoiding civilian oversight), former-base staging facilities, and ICE Air deportation flight hubs."
 type: "entry"
 layout: "single"
 ---

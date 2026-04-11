@@ -20,7 +20,10 @@
     <tbody>
     {{ range sort .Pages ".Title" "asc" }}
       <tr>
-        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ with .Params.summary }}<div style="font-size:11px; color:var(--text-dim); margin-top:1px;">{{ . }}</div>{{ end }}
+        </td>
         <td>{{ .Params.county }}</td>
         <td class="mono">{{ .Params.state }}</td>
         <td>

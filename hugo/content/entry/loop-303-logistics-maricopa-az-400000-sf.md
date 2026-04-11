@@ -8,7 +8,7 @@ state: "AZ"
 county: "Maricopa"
 repo_path: "kb/real-estate/loop-303-logistics-maricopa-az-400000-sf.md"
 lastmod: "2026-04-10"
-summary: "Industrial/warehouse property at Loop 303 Logistics, Goodyear, Maricopa County, AZ. 400000 sq ft. Owner: Link Logistics. Status: available."
+summary: "400K SF available spec industrial property on Loop 303 corridor in Goodyear, Maricopa County AZ, owned by Link Logistics."
 type: "entry"
 layout: "single"
 ---
