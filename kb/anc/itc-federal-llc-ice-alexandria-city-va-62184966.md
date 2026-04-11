@@ -4,7 +4,7 @@ title: "ITC FEDERAL, LLC — ICE ALEXANDRIA CITY, VA $62,184,966"
 type: anc-contract
 county: "ALEXANDRIA CITY"
 state: "VA"
-fips: ""
+fips: "51510"
 contractor: "ITC FEDERAL, LLC"
 parent_anc: ""
 contract_value: "$62,184,966.02"

@@ -2,7 +2,7 @@
 id: sabot-project-manager-doj-remote
 title: "Sabot Consulting — Project Manager - DOJ (Remote)"
 type: job-posting
-state: ""
+state: "US"
 county: ""
 fips: ""
 employer: Sabot Consulting

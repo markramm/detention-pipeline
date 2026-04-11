@@ -2,9 +2,9 @@
 id: price-modern-llc-ice-ga-717125
 title: "PRICE MODERN LLC — ICE GA $717,125"
 type: anc-contract
-county: ""
+county: "(state-level)"
 state: "GA"
-fips: ""
+fips: "13000"
 contractor: "PRICE MODERN LLC"
 parent_anc: ""
 contract_value: "$717,125.47"

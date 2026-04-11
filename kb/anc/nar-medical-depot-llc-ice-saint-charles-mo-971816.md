@@ -4,7 +4,7 @@ title: "NAR MEDICAL DEPOT, LLC — ICE SAINT CHARLES, MO $971,816"
 type: anc-contract
 county: "SAINT CHARLES"
 state: "MO"
-fips: ""
+fips: "29183"
 contractor: "NAR MEDICAL DEPOT, LLC"
 parent_anc: ""
 contract_value: "$971,816.06"

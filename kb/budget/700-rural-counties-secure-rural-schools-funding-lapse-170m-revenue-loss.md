@@ -1,10 +1,10 @@
 ---
 id: 700-rural-counties-secure-rural-schools-funding-lapse-170m-revenue-loss
 title: "700+ Rural Counties — Secure Rural Schools Funding Lapse ($170M+ Revenue Loss)"
-type: budget-distress
-county: ""
-state: ""
-fips: ""
+type: note
+county: "(national)"
+state: "US"
+fips: "00000"
 shortfall_amount: "$170M+ national (SRS lapse) + $5B+ at risk (USDA cuts)"
 source: "NACo, ITEP, Center for American Progress, CalMatters (2025-2026)"
 signal_strength: "moderate"

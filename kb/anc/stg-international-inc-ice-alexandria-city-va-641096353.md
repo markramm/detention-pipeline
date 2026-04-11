@@ -4,7 +4,7 @@ title: "STG INTERNATIONAL, INC. — ICE ALEXANDRIA CITY, VA $641,096,353"
 type: anc-contract
 county: "ALEXANDRIA CITY"
 state: "VA"
-fips: ""
+fips: "51510"
 contractor: "STG INTERNATIONAL, INC."
 parent_anc: ""
 contract_value: "$641,096,352.82"

@@ -4,7 +4,7 @@ title: "ACCENTURE FEDERAL SERVICES LLC — ICE ALEXANDRIA CITY, VA $41,441,112"
 type: anc-contract
 county: "ALEXANDRIA CITY"
 state: "VA"
-fips: ""
+fips: "51510"
 contractor: "ACCENTURE FEDERAL SERVICES LLC"
 parent_anc: ""
 contract_value: "$41,441,112.16"

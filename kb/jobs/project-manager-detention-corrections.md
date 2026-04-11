@@ -2,7 +2,7 @@
 id: project-manager-detention-corrections
 title: "Project Manager - Detention & Corrections"
 type: job-posting
-state: ""
+state: "US"
 county: ""
 fips: ""
 employer: "Sabot Consulting"

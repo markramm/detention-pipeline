@@ -2,9 +2,9 @@
 id: glock-inc-ice-ga-748296
 title: "GLOCK, INC. — ICE GA $748,296"
 type: anc-contract
-county: ""
+county: "(state-level)"
 state: "GA"
-fips: ""
+fips: "13000"
 contractor: "GLOCK, INC."
 parent_anc: ""
 contract_value: "$748,296.00"

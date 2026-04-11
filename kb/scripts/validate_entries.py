@@ -29,6 +29,7 @@ VALID_STATES = {
     "IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT",
     "NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA","PR","RI",
     "SC","SD","TN","TX","UT","VT","VA","VI","WA","WV","WI","WY","CU","MP",
+    "US",  # national/remote entries
 }
 
 FIPS_PATTERN = re.compile(r"^\d{5}$")
