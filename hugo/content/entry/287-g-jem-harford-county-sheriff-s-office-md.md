@@ -8,6 +8,7 @@ state: "MD"
 county: "Harford County"
 repo_path: "kb/287g/287-g-jem-harford-county-sheriff-s-office-md.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Harford County Sheriff’s Office, signed June 26, 2020."
 type: "entry"
 layout: "single"
 ---

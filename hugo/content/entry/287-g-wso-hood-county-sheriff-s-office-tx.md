@@ -8,6 +8,7 @@ state: "TX"
 county: "Hood County"
 repo_path: "kb/287g/287-g-wso-hood-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Hood County Sheriff’s Office, signed May 13, 2025."
 type: "entry"
 layout: "single"
 ---

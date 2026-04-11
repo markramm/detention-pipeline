@@ -8,6 +8,7 @@ state: "W. Va."
 county: "Pleasants County"
 repo_path: "kb/287g/287-g-tfm-pleasants-county-sheriff-s-office-w-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Pleasants County Sheriff’s Office, signed February 10, 2026."
 type: "entry"
 layout: "single"
 ---

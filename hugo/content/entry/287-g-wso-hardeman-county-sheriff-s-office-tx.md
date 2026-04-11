@@ -8,6 +8,7 @@ state: "TX"
 county: "Hardeman County"
 repo_path: "kb/287g/287-g-wso-hardeman-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Hardeman County Sheriff’s Office, signed June 25, 2025."
 type: "entry"
 layout: "single"
 ---

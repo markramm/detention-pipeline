@@ -8,6 +8,7 @@ state: "MO"
 county: "Barry County"
 repo_path: "kb/287g/287-g-tfm-wheaton-police-department-mo.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Wheaton Police Department, signed February 14, 2026."
 type: "entry"
 layout: "single"
 ---

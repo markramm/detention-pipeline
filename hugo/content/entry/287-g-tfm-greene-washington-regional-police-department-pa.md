@@ -8,6 +8,7 @@ state: "PA"
 county: "Greene County"
 repo_path: "kb/287g/287-g-tfm-greene-washington-regional-police-department-pa.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Greene Washington Regional Police Department, signed January 30, 2026."
 type: "entry"
 layout: "single"
 ---

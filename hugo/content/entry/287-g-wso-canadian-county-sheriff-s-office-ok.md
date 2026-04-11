@@ -8,6 +8,7 @@ state: "OK"
 county: "Canadian County"
 repo_path: "kb/287g/287-g-wso-canadian-county-sheriff-s-office-ok.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Canadian County Sheriff’s Office, signed August 28, 2025."
 type: "entry"
 layout: "single"
 ---

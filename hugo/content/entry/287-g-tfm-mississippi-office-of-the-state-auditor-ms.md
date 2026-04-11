@@ -8,6 +8,7 @@ state: "MS"
 county: "Hinds County"
 repo_path: "kb/287g/287-g-tfm-mississippi-office-of-the-state-auditor-ms.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Mississippi Office of the State Auditor, signed September 22, 2025."
 type: "entry"
 layout: "single"
 ---

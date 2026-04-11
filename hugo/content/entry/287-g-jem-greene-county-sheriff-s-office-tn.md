@@ -8,6 +8,7 @@ state: "TN"
 county: "Greene County"
 repo_path: "kb/287g/287-g-jem-greene-county-sheriff-s-office-tn.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Greene County Sheriff’s Office, signed June 9, 2020."
 type: "entry"
 layout: "single"
 ---

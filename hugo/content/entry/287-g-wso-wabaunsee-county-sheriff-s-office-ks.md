@@ -8,6 +8,7 @@ state: "KS"
 county: "Wabaunsee County"
 repo_path: "kb/287g/287-g-wso-wabaunsee-county-sheriff-s-office-ks.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Wabaunsee County Sheriff’s Office, signed May 28, 2025."
 type: "entry"
 layout: "single"
 ---

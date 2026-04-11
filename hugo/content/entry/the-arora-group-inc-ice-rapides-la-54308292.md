@@ -8,6 +8,7 @@ state: "LA"
 county: "RAPIDES"
 repo_path: "kb/anc/the-arora-group-inc-ice-rapides-la-54308292.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to THE ARORA GROUP, INC. in LA ($54,308,292.16)."
 type: "entry"
 layout: "single"
 ---

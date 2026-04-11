@@ -8,6 +8,7 @@ state: "FL"
 county: "Duval County"
 repo_path: "kb/287g/287-g-tfm-jacksonville-sheriff-s-office-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Jacksonville Sheriff’s Office, signed February 26, 2025."
 type: "entry"
 layout: "single"
 ---

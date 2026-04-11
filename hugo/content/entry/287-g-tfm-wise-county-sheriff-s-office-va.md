@@ -8,6 +8,7 @@ state: "VA"
 county: "Wise County"
 repo_path: "kb/287g/287-g-tfm-wise-county-sheriff-s-office-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Wise County Sheriff’s Office, signed July 23, 2025."
 type: "entry"
 layout: "single"
 ---

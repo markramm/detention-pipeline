@@ -8,6 +8,7 @@ state: "SC"
 county: "Chester County"
 repo_path: "kb/287g/287-g-tfm-chester-county-sheriff-s-office-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Chester County Sheriff’s Office, signed June 12, 2025."
 type: "entry"
 layout: "single"
 ---

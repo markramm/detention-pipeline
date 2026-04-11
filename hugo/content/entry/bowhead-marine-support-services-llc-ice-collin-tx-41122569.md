@@ -8,6 +8,7 @@ state: "TX"
 county: "COLLIN"
 repo_path: "kb/anc/bowhead-marine-support-services-llc-ice-collin-tx-41122569.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to BOWHEAD MARINE SUPPORT SERVICES LLC in TX ($41,122,568.62)."
 type: "entry"
 layout: "single"
 ---

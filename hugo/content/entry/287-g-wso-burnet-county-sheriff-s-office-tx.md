@@ -8,6 +8,7 @@ state: "TX"
 county: "Burnet County"
 repo_path: "kb/287g/287-g-wso-burnet-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Burnet County Sheriff’s Office, signed November 5, 2019."
 type: "entry"
 layout: "single"
 ---

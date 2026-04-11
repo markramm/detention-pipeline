@@ -8,6 +8,7 @@ state: "AZ"
 county: "La Paz County"
 repo_path: "kb/287g/287-g-wso-la-paz-county-sheriff-s-office-az.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and La Paz County Sheriff’s Office, signed February 27, 2020."
 type: "entry"
 layout: "single"
 ---

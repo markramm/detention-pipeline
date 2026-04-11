@@ -8,6 +8,7 @@ state: "TX"
 county: "Wichita County"
 repo_path: "kb/287g/287-g-tfm-wichita-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Wichita County Sheriff’s Office, signed November 4, 2025."
 type: "entry"
 layout: "single"
 ---

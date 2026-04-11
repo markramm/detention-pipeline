@@ -8,6 +8,7 @@ state: "NC"
 county: "Rockingham County"
 repo_path: "kb/287g/287-g-wso-rockingham-county-sheriff-s-office-nc.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Rockingham County Sheriff’s Office, signed December 31, 2019."
 type: "entry"
 layout: "single"
 ---

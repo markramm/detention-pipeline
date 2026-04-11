@@ -8,6 +8,7 @@ state: "GA"
 county: "CHEROKEE"
 repo_path: "kb/anc/pegasus-support-services-llc-ice-cherokee-ga-5048359.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PEGASUS SUPPORT SERVICES LLC in GA ($5,048,358.93)."
 type: "entry"
 layout: "single"
 ---

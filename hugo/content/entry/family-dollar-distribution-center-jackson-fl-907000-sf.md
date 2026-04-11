@@ -8,6 +8,7 @@ state: "FL"
 county: "Jackson"
 repo_path: "kb/real-estate/family-dollar-distribution-center-jackson-fl-907000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at Family Dollar Distribution Center, Marianna, Jackson County, FL. 907000 sq ft. Owner: Dollar Tree/Family Dollar. Status: leased."
 type: "entry"
 layout: "single"
 ---

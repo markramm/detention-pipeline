@@ -8,6 +8,7 @@ state: "IL"
 county: "MADISON"
 repo_path: "kb/anc/olin-winchester-llc-ice-madison-il-923280.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to OLIN WINCHESTER LLC in IL ($923,280.00)."
 type: "entry"
 layout: "single"
 ---

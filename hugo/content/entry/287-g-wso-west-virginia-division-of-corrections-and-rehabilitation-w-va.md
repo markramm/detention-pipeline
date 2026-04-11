@@ -8,6 +8,7 @@ state: "W. Va."
 county: ""
 repo_path: "kb/287g/287-g-wso-west-virginia-division-of-corrections-and-rehabilitation-w-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and West Virginia Division of Corrections and Rehabilitation, signed June 5, 2025."
 type: "entry"
 layout: "single"
 ---

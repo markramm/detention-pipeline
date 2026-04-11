@@ -8,6 +8,7 @@ state: "TX"
 county: "San Augustine County"
 repo_path: "kb/287g/287-g-tfm-san-augustine-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and San Augustine County Sheriff’s Office, signed January 26, 2026."
 type: "entry"
 layout: "single"
 ---

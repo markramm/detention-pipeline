@@ -8,6 +8,7 @@ state: "TX"
 county: "Bexar"
 repo_path: "kb/real-estate/prologis-park-san-antonio-bexar-tx-350000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at Prologis Park San Antonio, San Antonio, Bexar County, TX. 350000 sq ft. Owner: Prologis. Status: available."
 type: "entry"
 layout: "single"
 ---

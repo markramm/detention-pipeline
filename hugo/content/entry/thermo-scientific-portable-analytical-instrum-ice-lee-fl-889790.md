@@ -8,6 +8,7 @@ state: "FL"
 county: "LEE"
 repo_path: "kb/anc/thermo-scientific-portable-analytical-instrum-ice-lee-fl-889790.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUMENTS INC. in FL ($889,790.34)."
 type: "entry"
 layout: "single"
 ---

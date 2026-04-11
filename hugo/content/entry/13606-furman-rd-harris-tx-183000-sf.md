@@ -8,6 +8,7 @@ state: "TX"
 county: "Harris"
 repo_path: "kb/real-estate/13606-furman-rd-harris-tx-183000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at 13606 Furman Rd, Houston, Harris County, TX. 183000 sq ft. Owner: Vault Distribution Center. Status: available."
 type: "entry"
 layout: "single"
 ---

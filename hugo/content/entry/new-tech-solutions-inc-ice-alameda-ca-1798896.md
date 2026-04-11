@@ -8,6 +8,7 @@ state: "CA"
 county: "ALAMEDA"
 repo_path: "kb/anc/new-tech-solutions-inc-ice-alameda-ca-1798896.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to NEW TECH SOLUTIONS, INC. in CA ($1,798,896.00)."
 type: "entry"
 layout: "single"
 ---

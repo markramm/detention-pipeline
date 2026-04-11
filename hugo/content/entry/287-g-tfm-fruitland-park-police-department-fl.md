@@ -8,6 +8,7 @@ state: "FL"
 county: "Lake County"
 repo_path: "kb/287g/287-g-tfm-fruitland-park-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Fruitland Park Police Department, signed November 4, 2025."
 type: "entry"
 layout: "single"
 ---

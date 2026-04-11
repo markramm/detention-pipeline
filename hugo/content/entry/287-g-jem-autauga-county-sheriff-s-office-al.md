@@ -8,6 +8,7 @@ state: "AL"
 county: "Autauga County"
 repo_path: "kb/287g/287-g-jem-autauga-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Autauga County Sheriff’s Office, signed September 22, 2025."
 type: "entry"
 layout: "single"
 ---

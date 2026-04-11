@@ -8,6 +8,7 @@ state: "LA"
 county: "RAPIDES"
 repo_path: "kb/anc/csi-aviation-inc-ice-rapides-la-27713228.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CSI AVIATION, INC in LA ($27,713,227.57)."
 type: "entry"
 layout: "single"
 ---

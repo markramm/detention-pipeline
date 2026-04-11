@@ -8,6 +8,7 @@ state: "W. Va."
 county: "Putnam County"
 repo_path: "kb/287g/287-g-tfm-hurricane-police-department-w-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Hurricane Police Department, signed January 26, 2026."
 type: "entry"
 layout: "single"
 ---

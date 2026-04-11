@@ -8,6 +8,7 @@ state: "NY"
 county: "ORANGE"
 repo_path: "kb/anc/global-tellink-corporation-ice-orange-ny-732634.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to GLOBAL TEL*LINK CORPORATION in NY ($732,633.74)."
 type: "entry"
 layout: "single"
 ---

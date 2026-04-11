@@ -8,6 +8,7 @@ state: "ID"
 county: "Gooding County"
 repo_path: "kb/287g/287-g-wso-gooding-county-sheriff-s-office-id.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Gooding County Sheriff’s Office, signed August 17, 2020."
 type: "entry"
 layout: "single"
 ---

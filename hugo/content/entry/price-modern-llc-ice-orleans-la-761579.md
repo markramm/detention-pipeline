@@ -8,6 +8,7 @@ state: "LA"
 county: "ORLEANS"
 repo_path: "kb/anc/price-modern-llc-ice-orleans-la-761579.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PRICE MODERN LLC in LA ($761,578.61)."
 type: "entry"
 layout: "single"
 ---

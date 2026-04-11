@@ -8,6 +8,7 @@ state: "LA"
 county: ""
 repo_path: "kb/287g/287-g-tfm-louisiana-military-department-la.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Louisiana Military Department, signed May 20, 2025."
 type: "entry"
 layout: "single"
 ---

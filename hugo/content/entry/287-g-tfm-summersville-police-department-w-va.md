@@ -8,6 +8,7 @@ state: "W. Va."
 county: "Nicholas County"
 repo_path: "kb/287g/287-g-tfm-summersville-police-department-w-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Summersville Police Department, signed December 8, 2025."
 type: "entry"
 layout: "single"
 ---

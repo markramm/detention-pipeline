@@ -8,6 +8,7 @@ state: "GA"
 county: "CHATTAHOOCHEE"
 repo_path: "kb/anc/old-harbor-solutions-llc-ice-chattahoochee-ga-4815839.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to OLD HARBOR SOLUTIONS LLC in GA ($4,815,839.33)."
 type: "entry"
 layout: "single"
 ---

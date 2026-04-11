@@ -8,6 +8,7 @@ state: "TX"
 county: "Waller"
 repo_path: "kb/real-estate/discovery-hills-pkwy-waller-tx-768000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at Discovery Hills Pkwy, Brookshire, Waller County, TX. 768000 sq ft. Owner: Clay Development & Construction. Status: unknown."
 type: "entry"
 layout: "single"
 ---

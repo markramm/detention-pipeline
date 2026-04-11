@@ -8,6 +8,7 @@ state: "UT"
 county: "DAVIS"
 repo_path: "kb/anc/management-training-corporation-ice-davis-ut-47203837.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to MANAGEMENT & TRAINING CORPORATION in UT ($47,203,837.48)."
 type: "entry"
 layout: "single"
 ---

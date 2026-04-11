@@ -8,6 +8,7 @@ state: "WV"
 county: "Braxton"
 repo_path: "kb/budget/braxton-county-wv-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Braxton, WV."
 type: "entry"
 layout: "single"
 ---

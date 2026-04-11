@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/bradford-county-igsa-proposal.md"
 lastmod: "2026-04-06"
+summary: "The [[sabot-consulting]] briefing package (December 16, 2025) describes a county-led IGSA in which:"
 type: "entry"
 layout: "single"
 ---

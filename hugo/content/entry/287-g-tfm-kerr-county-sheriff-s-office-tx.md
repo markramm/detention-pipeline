@@ -8,6 +8,7 @@ state: "TX"
 county: "Kerr County"
 repo_path: "kb/287g/287-g-tfm-kerr-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Kerr County Sheriff’s Office, signed May 8, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "GA"
 county: "GLYNN"
 repo_path: "kb/anc/serco-inc-ice-glynn-ga-766380.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to SERCO INC in GA ($766,380.31)."
 type: "entry"
 layout: "single"
 ---

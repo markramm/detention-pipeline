@@ -8,6 +8,7 @@ state: "GA"
 county: "Jasper County"
 repo_path: "kb/287g/287-g-jem-jasper-county-sheriff-s-office-ga.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Jasper County Sheriff’s Office, signed May 22, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "NE"
 county: ""
 repo_path: "kb/287g/287-g-tfm-nebraska-state-patrol-ne.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Nebraska State Patrol, signed August 28, 2025."
 type: "entry"
 layout: "single"
 ---

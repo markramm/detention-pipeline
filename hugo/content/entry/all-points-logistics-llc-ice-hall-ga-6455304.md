@@ -8,6 +8,7 @@ state: "GA"
 county: "HALL"
 repo_path: "kb/anc/all-points-logistics-llc-ice-hall-ga-6455304.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ALL POINTS LOGISTICS, LLC in GA ($6,455,304.07)."
 type: "entry"
 layout: "single"
 ---

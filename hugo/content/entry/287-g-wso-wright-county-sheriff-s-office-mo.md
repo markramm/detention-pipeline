@@ -8,6 +8,7 @@ state: "MO"
 county: "Wright County"
 repo_path: "kb/287g/287-g-wso-wright-county-sheriff-s-office-mo.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Wright County Sheriff’s Office, signed December 11, 2025."
 type: "entry"
 layout: "single"
 ---

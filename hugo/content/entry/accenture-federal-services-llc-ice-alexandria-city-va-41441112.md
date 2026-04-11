@@ -8,6 +8,7 @@ state: "VA"
 county: "ALEXANDRIA CITY"
 repo_path: "kb/anc/accenture-federal-services-llc-ice-alexandria-city-va-41441112.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ACCENTURE FEDERAL SERVICES LLC in VA ($41,441,112.16)."
 type: "entry"
 layout: "single"
 ---

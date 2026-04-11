@@ -8,6 +8,7 @@ state: "MO"
 county: "SAINT CHARLES"
 repo_path: "kb/anc/nar-medical-depot-llc-ice-saint-charles-mo-971816.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to NAR MEDICAL DEPOT, LLC in MO ($971,816.06)."
 type: "entry"
 layout: "single"
 ---

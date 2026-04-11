@@ -8,6 +8,7 @@ state: "TX"
 county: "Fort Bend County"
 repo_path: "kb/287g/287-g-jem-fort-bend-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Fort Bend County Sheriff’s Office, signed May 28, 2025."
 type: "entry"
 layout: "single"
 ---

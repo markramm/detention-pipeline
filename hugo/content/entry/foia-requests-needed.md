@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/foia-requests-needed.md"
 lastmod: "2026-04-08"
+summary: "1. NDAs (state open records — fastest return, most likely to produce documents)"
 type: "entry"
 layout: "single"
 ---

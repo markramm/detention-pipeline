@@ -8,6 +8,7 @@ state: "FL"
 county: "Duval"
 repo_path: "kb/real-estate/600-ellis-rd-n-duval-fl-200000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at 600 Ellis Rd N, Jacksonville, Duval County, FL. 200000 sq ft. Owner: Total Distribution Inc. Status: available."
 type: "entry"
 layout: "single"
 ---

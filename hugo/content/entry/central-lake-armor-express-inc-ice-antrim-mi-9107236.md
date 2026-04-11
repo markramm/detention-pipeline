@@ -8,6 +8,7 @@ state: "MI"
 county: "ANTRIM"
 repo_path: "kb/anc/central-lake-armor-express-inc-ice-antrim-mi-9107236.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CENTRAL LAKE ARMOR EXPRESS INC in MI ($9,107,235.80)."
 type: "entry"
 layout: "single"
 ---

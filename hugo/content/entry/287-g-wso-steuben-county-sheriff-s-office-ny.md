@@ -8,6 +8,7 @@ state: "NY"
 county: "Steuben County"
 repo_path: "kb/287g/287-g-wso-steuben-county-sheriff-s-office-ny.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Steuben County Sheriff’s Office, signed July 29, 2025."
 type: "entry"
 layout: "single"
 ---

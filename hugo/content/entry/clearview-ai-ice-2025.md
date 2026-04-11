@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/clearview-ai-ice-2025.md"
 lastmod: "2026-04-06"
+summary: "In September 2025, ICE's Homeland Security Investigations (HSI) finalized a $9.2 million sole-source contract with [[clearview-ai|Clearview AI]] for biometric facial matching software."
 type: "entry"
 layout: "single"
 ---

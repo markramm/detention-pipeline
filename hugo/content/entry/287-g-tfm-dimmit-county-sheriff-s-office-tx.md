@@ -8,6 +8,7 @@ state: "TX"
 county: "Dimmit County"
 repo_path: "kb/287g/287-g-tfm-dimmit-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Dimmit County Sheriff’s Office, signed December 10, 2025."
 type: "entry"
 layout: "single"
 ---

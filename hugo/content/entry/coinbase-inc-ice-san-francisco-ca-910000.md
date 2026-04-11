@@ -8,6 +8,7 @@ state: "CA"
 county: "SAN FRANCISCO"
 repo_path: "kb/anc/coinbase-inc-ice-san-francisco-ca-910000.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to COINBASE INC in CA ($910,000.00)."
 type: "entry"
 layout: "single"
 ---

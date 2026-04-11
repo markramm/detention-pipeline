@@ -8,6 +8,7 @@ state: "VA"
 county: "FAIRFAX"
 repo_path: "kb/anc/caci-nss-llc-ice-fairfax-va-106045477.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CACI NSS, LLC in VA ($106,045,477.18)."
 type: "entry"
 layout: "single"
 ---

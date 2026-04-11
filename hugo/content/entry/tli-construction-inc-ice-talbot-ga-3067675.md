@@ -8,6 +8,7 @@ state: "GA"
 county: "TALBOT"
 repo_path: "kb/anc/tli-construction-inc-ice-talbot-ga-3067675.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to TLI CONSTRUCTION, INC. in GA ($3,067,675.42)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "TX"
 county: "Nueces County"
 repo_path: "kb/287g/287-g-tfm-nueces-county-constable-precinct-4-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Nueces County Constable Precinct 4, signed January 26, 2026."
 type: "entry"
 layout: "single"
 ---

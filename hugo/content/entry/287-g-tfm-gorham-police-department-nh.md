@@ -8,6 +8,7 @@ state: "NH"
 county: ""
 repo_path: "kb/287g/287-g-tfm-gorham-police-department-nh.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Gorham Police Department, signed February 26, 2025."
 type: "entry"
 layout: "single"
 ---

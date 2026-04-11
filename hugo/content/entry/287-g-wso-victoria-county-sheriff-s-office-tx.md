@@ -8,6 +8,7 @@ state: "TX"
 county: "Victoria County"
 repo_path: "kb/287g/287-g-wso-victoria-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Victoria County Sheriff’s Office, signed February 26, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "AK"
 county: ""
 repo_path: "kb/287g/287-g-wso-alaska-department-of-corrections-ak.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Alaska Department of Corrections, signed July 24, 2020."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "AZ"
 county: "Yuma County"
 repo_path: "kb/287g/287-g-wso-yuma-county-sheriff-s-office-az.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Yuma County Sheriff’s Office, signed June 3, 2025."
 type: "entry"
 layout: "single"
 ---

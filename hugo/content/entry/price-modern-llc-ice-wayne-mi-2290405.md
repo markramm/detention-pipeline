@@ -8,6 +8,7 @@ state: "MI"
 county: "WAYNE"
 repo_path: "kb/anc/price-modern-llc-ice-wayne-mi-2290405.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PRICE MODERN LLC in MI ($2,290,405.45)."
 type: "entry"
 layout: "single"
 ---

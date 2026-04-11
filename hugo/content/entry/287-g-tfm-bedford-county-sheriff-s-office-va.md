@@ -8,6 +8,7 @@ state: "VA"
 county: "Bedford County"
 repo_path: "kb/287g/287-g-tfm-bedford-county-sheriff-s-office-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Bedford County Sheriff’s Office, signed March 7, 2025."
 type: "entry"
 layout: "single"
 ---

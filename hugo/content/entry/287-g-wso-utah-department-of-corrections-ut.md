@@ -8,6 +8,7 @@ state: "UT"
 county: ""
 repo_path: "kb/287g/287-g-wso-utah-department-of-corrections-ut.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Utah Department of Corrections, signed May 13, 2025."
 type: "entry"
 layout: "single"
 ---

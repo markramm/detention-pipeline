@@ -8,6 +8,7 @@ state: "TX"
 county: "Kenedy County"
 repo_path: "kb/287g/287-g-tfm-kenedy-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Kenedy County Sheriff’s Office, signed February 10, 2026."
 type: "entry"
 layout: "single"
 ---

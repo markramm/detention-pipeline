@@ -8,6 +8,7 @@ state: "OK"
 county: "Okmulgee County"
 repo_path: "kb/287g/287-g-tfm-beggs-police-department-ok.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Beggs Police Department, signed October 17, 2025."
 type: "entry"
 layout: "single"
 ---

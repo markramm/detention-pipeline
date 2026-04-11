@@ -8,6 +8,7 @@ state: "MN"
 county: "Crow Wing County"
 repo_path: "kb/287g/287-g-wso-crow-wing-county-sheriff-s-office-mn.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Crow Wing County Sheriff’s Office, signed March 26, 2025."
 type: "entry"
 layout: "single"
 ---

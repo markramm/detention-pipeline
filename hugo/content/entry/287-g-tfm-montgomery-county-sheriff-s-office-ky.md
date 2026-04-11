@@ -8,6 +8,7 @@ state: "KY"
 county: "Montgomery County"
 repo_path: "kb/287g/287-g-tfm-montgomery-county-sheriff-s-office-ky.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Montgomery County Sheriff’s Office, signed December 8, 2025."
 type: "entry"
 layout: "single"
 ---

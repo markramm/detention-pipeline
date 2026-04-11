@@ -8,6 +8,7 @@ state: "TN"
 county: "Warren County"
 repo_path: "kb/287g/287-g-wso-warren-county-sheriff-s-office-tn.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Warren County Sheriff’s Office, signed September 9, 2025."
 type: "entry"
 layout: "single"
 ---

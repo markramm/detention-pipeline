@@ -8,6 +8,7 @@ state: "TX"
 county: "Galveston County"
 repo_path: "kb/287g/287-g-tfm-galveston-county-constable-precinct-2-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Galveston County Constable Precinct 2, signed September 22, 2025."
 type: "entry"
 layout: "single"
 ---

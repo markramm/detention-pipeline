@@ -8,6 +8,7 @@ state: "ID"
 county: "Bonneville County"
 repo_path: "kb/287g/287-g-wso-bonneville-county-sheriff-s-office-id.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Bonneville County Sheriff’s Office, signed July 11, 2025."
 type: "entry"
 layout: "single"
 ---

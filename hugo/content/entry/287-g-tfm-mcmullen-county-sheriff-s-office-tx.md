@@ -8,6 +8,7 @@ state: "TX"
 county: "McMullen County"
 repo_path: "kb/287g/287-g-tfm-mcmullen-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and McMullen County Sheriff’s Office, signed January 30, 2026."
 type: "entry"
 layout: "single"
 ---

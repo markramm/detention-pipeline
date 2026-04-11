@@ -8,6 +8,7 @@ state: "AL"
 county: "MADISON"
 repo_path: "kb/anc/ethic-tech-llc-ice-madison-al-2095240.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ETHIC TECH, LLC in AL ($2,095,240.25)."
 type: "entry"
 layout: "single"
 ---

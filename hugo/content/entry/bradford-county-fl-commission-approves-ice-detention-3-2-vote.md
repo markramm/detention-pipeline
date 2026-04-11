@@ -8,6 +8,7 @@ state: "FL"
 county: "Bradford"
 repo_path: "kb/commission/bradford-county-fl-commission-approves-ice-detention-3-2-vote.md"
 lastmod: "2026-04-10"
+summary: "Bradford County commission approved an IGSA for ICE detention in a 3-2 vote. The Bradford County sheriff cited a '$5.25 to $5.5 million dollar shortfall' as justification."
 type: "entry"
 layout: "single"
 ---

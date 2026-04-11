@@ -8,6 +8,7 @@ state: "PA"
 county: "BUCKS"
 repo_path: "kb/anc/acuity-chs-llc-ice-bucks-pa-551947.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ACUITY-CHS, LLC in PA ($551,947.00)."
 type: "entry"
 layout: "single"
 ---

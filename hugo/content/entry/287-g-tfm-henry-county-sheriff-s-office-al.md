@@ -8,6 +8,7 @@ state: "AL"
 county: "Henry County"
 repo_path: "kb/287g/287-g-tfm-henry-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Henry County Sheriff’s Office, signed December 11, 2025."
 type: "entry"
 layout: "single"
 ---

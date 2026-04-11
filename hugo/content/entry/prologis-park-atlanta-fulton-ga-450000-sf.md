@@ -8,6 +8,7 @@ state: "GA"
 county: "Fulton"
 repo_path: "kb/real-estate/prologis-park-atlanta-fulton-ga-450000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at Prologis Park Atlanta, Atlanta, Fulton County, GA. 450000 sq ft. Owner: Prologis. Status: available."
 type: "entry"
 layout: "single"
 ---

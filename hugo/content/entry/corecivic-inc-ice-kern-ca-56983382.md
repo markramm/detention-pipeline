@@ -8,6 +8,7 @@ state: "CA"
 county: "KERN"
 repo_path: "kb/anc/corecivic-inc-ice-kern-ca-56983382.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CORECIVIC, INC. in CA ($56,983,382.25)."
 type: "entry"
 layout: "single"
 ---

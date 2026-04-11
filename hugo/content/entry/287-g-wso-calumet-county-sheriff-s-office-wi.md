@@ -8,6 +8,7 @@ state: "WI"
 county: "Calumet County"
 repo_path: "kb/287g/287-g-wso-calumet-county-sheriff-s-office-wi.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Calumet County Sheriff’s Office, signed July 31, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "TX"
 county: "Jim Wells County"
 repo_path: "kb/287g/287-g-tfm-jim-wells-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Jim Wells County Sheriff’s Office, signed March 25, 2025."
 type: "entry"
 layout: "single"
 ---

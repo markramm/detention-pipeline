@@ -8,6 +8,7 @@ state: "KY"
 county: "Marshall County"
 repo_path: "kb/287g/287-g-tfm-marshall-county-sheriff-s-office-ky.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Marshall County Sheriff’s Office, signed May 8, 2025."
 type: "entry"
 layout: "single"
 ---

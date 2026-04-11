@@ -8,6 +8,7 @@ state: "AR"
 county: ""
 repo_path: "kb/287g/287-g-tfm-arkansas-state-police-department-ar.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Arkansas State Police Department, signed July 7, 2025."
 type: "entry"
 layout: "single"
 ---

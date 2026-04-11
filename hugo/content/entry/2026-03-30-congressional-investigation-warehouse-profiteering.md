@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/events/2026-03-30-congressional-investigation-warehouse-profiteering.md"
 lastmod: "2026-04-08"
+summary: "On March 30, 2026, 54 Congressional Democrats launched a formal investigation into government contractors, real estate brokers, and property owners potentially profiting from the fast-tracked..."
 type: "entry"
 layout: "single"
 ---

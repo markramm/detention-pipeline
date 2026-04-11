@@ -8,6 +8,7 @@ state: "CO"
 county: "EL PASO"
 repo_path: "kb/anc/rivertech-llc-ice-el-paso-co-4150531.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to RIVERTECH LLC in CO ($4,150,530.57)."
 type: "entry"
 layout: "single"
 ---

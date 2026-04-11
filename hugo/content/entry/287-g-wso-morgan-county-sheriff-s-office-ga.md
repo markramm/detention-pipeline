@@ -8,6 +8,7 @@ state: "GA"
 county: "Morgan County"
 repo_path: "kb/287g/287-g-wso-morgan-county-sheriff-s-office-ga.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Morgan County Sheriff’s Office, signed February 28, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "FL"
 county: "Pinellas County"
 repo_path: "kb/287g/287-g-tfm-largo-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Largo Police Department, signed July 23, 2025."
 type: "entry"
 layout: "single"
 ---

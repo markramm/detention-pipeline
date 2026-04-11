@@ -8,6 +8,7 @@ state: "NJ"
 county: "ESSEX"
 repo_path: "kb/anc/paragon-professional-services-llc-ice-essex-nj-4694325.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PARAGON PROFESSIONAL SERVICES LLC in NJ ($4,694,325.00)."
 type: "entry"
 layout: "single"
 ---

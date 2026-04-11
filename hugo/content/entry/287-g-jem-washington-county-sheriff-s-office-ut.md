@@ -8,6 +8,7 @@ state: "UT"
 county: "Washington County"
 repo_path: "kb/287g/287-g-jem-washington-county-sheriff-s-office-ut.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Washington County Sheriff’s Office, signed March 21, 2025."
 type: "entry"
 layout: "single"
 ---

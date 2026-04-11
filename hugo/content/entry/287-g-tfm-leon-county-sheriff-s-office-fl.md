@@ -8,6 +8,7 @@ state: "FL"
 county: "Leon County"
 repo_path: "kb/287g/287-g-tfm-leon-county-sheriff-s-office-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Leon County Sheriff’s Office, signed February 26, 2025."
 type: "entry"
 layout: "single"
 ---

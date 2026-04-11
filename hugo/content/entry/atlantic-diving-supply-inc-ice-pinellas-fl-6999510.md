@@ -8,6 +8,7 @@ state: "FL"
 county: "PINELLAS"
 repo_path: "kb/anc/atlantic-diving-supply-inc-ice-pinellas-fl-6999510.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ATLANTIC DIVING SUPPLY, INC. in FL ($6,999,510.00)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "NC"
 county: "Cleveland County"
 repo_path: "kb/287g/287-g-wso-cleveland-county-sheriff-s-office-nc.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Cleveland County Sheriff’s Office, signed January 16, 2020."
 type: "entry"
 layout: "single"
 ---

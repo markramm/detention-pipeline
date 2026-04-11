@@ -8,6 +8,7 @@ state: "LA"
 county: "St. James"
 repo_path: "kb/real-estate/port-of-south-louisiana-industrial-st-james-la-250000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at Port of South Louisiana Industrial, Gramercy, St. James County, LA. 250000 sq ft. Owner: Port of South Louisiana. Status: available."
 type: "entry"
 layout: "single"
 ---

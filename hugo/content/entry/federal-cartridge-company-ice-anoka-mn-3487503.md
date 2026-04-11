@@ -8,6 +8,7 @@ state: "MN"
 county: "ANOKA"
 repo_path: "kb/anc/federal-cartridge-company-ice-anoka-mn-3487503.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to FEDERAL CARTRIDGE COMPANY in MN ($3,487,503.12)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "UT"
 county: "SALT LAKE"
 repo_path: "kb/anc/geo-transport-inc-ice-salt-lake-ut-10384456.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to GEO TRANSPORT, INC. in UT ($10,384,455.59)."
 type: "entry"
 layout: "single"
 ---

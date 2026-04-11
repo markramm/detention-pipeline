@@ -8,6 +8,7 @@ state: "GA"
 county: "Chatham"
 repo_path: "kb/real-estate/gateway-industrial-park-chatham-ga-600000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at Gateway Industrial Park, Savannah, Chatham County, GA. 600000 sq ft. Owner: Stonemont Financial. Status: available."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "LA"
 county: "Beauregard Parish"
 repo_path: "kb/287g/287-g-tfm-beauregard-parish-sheriff-s-office-la.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Beauregard Parish Sheriff’s Office, signed May 16, 2025."
 type: "entry"
 layout: "single"
 ---

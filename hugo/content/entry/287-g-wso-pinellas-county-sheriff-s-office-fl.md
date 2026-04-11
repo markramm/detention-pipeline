@@ -8,6 +8,7 @@ state: "FL"
 county: "Pinellas County"
 repo_path: "kb/287g/287-g-wso-pinellas-county-sheriff-s-office-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Pinellas County Sheriff’s Office, signed April 24, 2019."
 type: "entry"
 layout: "single"
 ---

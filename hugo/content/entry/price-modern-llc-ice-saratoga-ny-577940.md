@@ -8,6 +8,7 @@ state: "NY"
 county: "SARATOGA"
 repo_path: "kb/anc/price-modern-llc-ice-saratoga-ny-577940.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PRICE MODERN LLC in NY ($577,939.66)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/military-infrastructure-three-uses.md"
 lastmod: "2026-04-06"
+summary: "Military installations serve three distinct functions in the detention-industrial complex, and conflating them obscures the architecture:"
 type: "entry"
 layout: "single"
 ---

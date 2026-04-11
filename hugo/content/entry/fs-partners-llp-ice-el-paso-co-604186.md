@@ -8,6 +8,7 @@ state: "CO"
 county: "EL PASO"
 repo_path: "kb/anc/fs-partners-llp-ice-el-paso-co-604186.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to FS PARTNERS, LLP in CO ($604,185.92)."
 type: "entry"
 layout: "single"
 ---

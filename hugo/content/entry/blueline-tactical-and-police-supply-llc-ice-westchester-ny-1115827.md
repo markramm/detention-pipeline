@@ -8,6 +8,7 @@ state: "NY"
 county: "WESTCHESTER"
 repo_path: "kb/anc/blueline-tactical-and-police-supply-llc-ice-westchester-ny-1115827.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to BLUELINE TACTICAL AND POLICE SUPPLY, LLC in NY ($1,115,827.39)."
 type: "entry"
 layout: "single"
 ---

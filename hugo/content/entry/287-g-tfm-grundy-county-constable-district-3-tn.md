@@ -8,6 +8,7 @@ state: "TN"
 county: "Grundy County"
 repo_path: "kb/287g/287-g-tfm-grundy-county-constable-district-3-tn.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Grundy County Constable District 3, signed January 7, 2026."
 type: "entry"
 layout: "single"
 ---

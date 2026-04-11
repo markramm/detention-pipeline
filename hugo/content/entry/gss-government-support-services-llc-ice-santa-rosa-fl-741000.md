@@ -8,6 +8,7 @@ state: "FL"
 county: "SANTA ROSA"
 repo_path: "kb/anc/gss-government-support-services-llc-ice-santa-rosa-fl-741000.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to GSS - GOVERNMENT SUPPORT SERVICES LLC in FL ($741,000.00)."
 type: "entry"
 layout: "single"
 ---

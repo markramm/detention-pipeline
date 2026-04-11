@@ -8,6 +8,7 @@ state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-new-smyrna-beach-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and New Smyrna Beach Police Department, signed April 24, 2025."
 type: "entry"
 layout: "single"
 ---

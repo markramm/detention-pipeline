@@ -8,6 +8,7 @@ state: "TX"
 county: "Kleberg County"
 repo_path: "kb/287g/287-g-tfm-kleberg-county-attorney-s-specialized-crimes-narcotics-task-force-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Kleberg County Attorney’s Specialized Crimes & Narcotics Task Force, signed December 16, 2025."
 type: "entry"
 layout: "single"
 ---

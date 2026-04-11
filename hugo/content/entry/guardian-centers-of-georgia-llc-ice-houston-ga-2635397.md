@@ -8,6 +8,7 @@ state: "GA"
 county: "HOUSTON"
 repo_path: "kb/anc/guardian-centers-of-georgia-llc-ice-houston-ga-2635397.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to GUARDIAN CENTERS OF GEORGIA, LLC in GA ($2,635,397.15)."
 type: "entry"
 layout: "single"
 ---

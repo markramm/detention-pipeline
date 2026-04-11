@@ -8,6 +8,7 @@ state: "KY"
 county: "Oldham County"
 repo_path: "kb/287g/287-g-wso-oldham-county-detention-center-ky.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Oldham County Detention Center, signed March 10, 2025."
 type: "entry"
 layout: "single"
 ---

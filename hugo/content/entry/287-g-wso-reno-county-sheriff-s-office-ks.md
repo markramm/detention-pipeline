@@ -8,6 +8,7 @@ state: "KS"
 county: "Reno County"
 repo_path: "kb/287g/287-g-wso-reno-county-sheriff-s-office-ks.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Reno County Sheriff’s office, signed March 5, 2025."
 type: "entry"
 layout: "single"
 ---

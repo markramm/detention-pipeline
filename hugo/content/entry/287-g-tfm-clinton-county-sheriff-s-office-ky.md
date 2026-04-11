@@ -8,6 +8,7 @@ state: "KY"
 county: "Clinton County"
 repo_path: "kb/287g/287-g-tfm-clinton-county-sheriff-s-office-ky.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Clinton County Sheriff’s Office, signed September 9, 2025."
 type: "entry"
 layout: "single"
 ---

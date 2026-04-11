@@ -8,6 +8,7 @@ state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/12805-nw-42nd-ave-miami-dade-fl-235900-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at 12805 NW 42nd Ave, Opa-Locka, Miami-Dade County, FL. 235900 sq ft. Owner: Prologis. Status: leased."
 type: "entry"
 layout: "single"
 ---

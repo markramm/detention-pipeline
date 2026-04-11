@@ -8,6 +8,7 @@ state: "TX"
 county: "Calhoun County"
 repo_path: "kb/287g/287-g-jem-calhoun-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Calhoun County Sheriff’s Office, signed March 13, 2020."
 type: "entry"
 layout: "single"
 ---

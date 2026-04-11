@@ -8,6 +8,7 @@ state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-arcadia-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Arcadia Police Department, signed March 5, 2025."
 type: "entry"
 layout: "single"
 ---

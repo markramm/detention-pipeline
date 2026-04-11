@@ -8,6 +8,7 @@ state: "PA"
 county: "Schuylkill County"
 repo_path: "kb/287g/287-g-tfm-schuylkill-county-sheriff-s-office-pa.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Schuylkill County Sheriff’s Office, signed January 26, 2026."
 type: "entry"
 layout: "single"
 ---

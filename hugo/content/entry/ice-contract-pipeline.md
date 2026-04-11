@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/ice-contract-pipeline.md"
 lastmod: "2026-04-06"
+summary: "The immigration enforcement system is not one contract or one company. It is a pipeline in which each stage is served by different contractors, each taking their cut. A person can move through the..."
 type: "entry"
 layout: "single"
 ---

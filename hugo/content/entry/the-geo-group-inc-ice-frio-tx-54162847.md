@@ -8,6 +8,7 @@ state: "TX"
 county: "FRIO"
 repo_path: "kb/anc/the-geo-group-inc-ice-frio-tx-54162847.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to THE GEO GROUP, INC. in TX ($54,162,847.22)."
 type: "entry"
 layout: "single"
 ---

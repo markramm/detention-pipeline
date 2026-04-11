@@ -8,6 +8,7 @@ state: "WV"
 county: "Logan"
 repo_path: "kb/budget/logan-county-wv-usda-distress-profile-5-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Logan, WV."
 type: "entry"
 layout: "single"
 ---

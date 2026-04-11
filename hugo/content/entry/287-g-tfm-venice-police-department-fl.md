@@ -8,6 +8,7 @@ state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-venice-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Venice Police Department, signed March 17, 2025."
 type: "entry"
 layout: "single"
 ---

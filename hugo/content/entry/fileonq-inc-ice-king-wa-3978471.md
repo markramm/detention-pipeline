@@ -8,6 +8,7 @@ state: "WA"
 county: "KING"
 repo_path: "kb/anc/fileonq-inc-ice-king-wa-3978471.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to FILEONQ, INC in WA ($3,978,471.15)."
 type: "entry"
 layout: "single"
 ---

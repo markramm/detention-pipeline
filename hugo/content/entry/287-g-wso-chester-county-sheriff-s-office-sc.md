@@ -8,6 +8,7 @@ state: "SC"
 county: "Chester County"
 repo_path: "kb/287g/287-g-wso-chester-county-sheriff-s-office-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Chester County Sheriff’s Office, signed March 10, 2025."
 type: "entry"
 layout: "single"
 ---

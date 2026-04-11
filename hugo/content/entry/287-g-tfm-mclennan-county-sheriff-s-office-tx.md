@@ -8,6 +8,7 @@ state: "TX"
 county: "McLennan County"
 repo_path: "kb/287g/287-g-tfm-mclennan-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and McLennan County Sheriff’s Office, signed December 12, 2025."
 type: "entry"
 layout: "single"
 ---

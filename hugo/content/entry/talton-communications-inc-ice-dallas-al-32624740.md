@@ -8,6 +8,7 @@ state: "AL"
 county: "DALLAS"
 repo_path: "kb/anc/talton-communications-inc-ice-dallas-al-32624740.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to TALTON COMMUNICATIONS INC in AL ($32,624,739.66)."
 type: "entry"
 layout: "single"
 ---

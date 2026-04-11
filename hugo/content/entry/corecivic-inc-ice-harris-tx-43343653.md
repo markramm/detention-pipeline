@@ -8,6 +8,7 @@ state: "TX"
 county: "HARRIS"
 repo_path: "kb/anc/corecivic-inc-ice-harris-tx-43343653.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CORECIVIC, INC. in TX ($43,343,652.72)."
 type: "entry"
 layout: "single"
 ---

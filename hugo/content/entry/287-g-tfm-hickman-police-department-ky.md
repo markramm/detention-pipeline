@@ -8,6 +8,7 @@ state: "KY"
 county: "Fulton County"
 repo_path: "kb/287g/287-g-tfm-hickman-police-department-ky.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Hickman Police Department, signed January 7, 2026."
 type: "entry"
 layout: "single"
 ---

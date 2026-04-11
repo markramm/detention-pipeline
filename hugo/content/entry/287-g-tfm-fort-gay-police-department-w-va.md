@@ -8,6 +8,7 @@ state: "W. Va."
 county: "Wayne County"
 repo_path: "kb/287g/287-g-tfm-fort-gay-police-department-w-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Fort Gay Police Department, signed February 14, 2026."
 type: "entry"
 layout: "single"
 ---

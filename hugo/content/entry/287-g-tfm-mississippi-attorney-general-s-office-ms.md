@@ -8,6 +8,7 @@ state: "MS"
 county: ""
 repo_path: "kb/287g/287-g-tfm-mississippi-attorney-general-s-office-ms.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Mississippi Attorney General’s Office, signed March 17, 2025."
 type: "entry"
 layout: "single"
 ---

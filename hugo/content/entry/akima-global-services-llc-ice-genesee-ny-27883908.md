@@ -8,6 +8,7 @@ state: "NY"
 county: "GENESEE"
 repo_path: "kb/anc/akima-global-services-llc-ice-genesee-ny-27883908.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to AKIMA GLOBAL SERVICES, LLC in NY ($27,883,908.48)."
 type: "entry"
 layout: "single"
 ---

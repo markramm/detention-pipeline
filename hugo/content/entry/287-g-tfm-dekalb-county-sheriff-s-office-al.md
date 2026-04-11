@@ -8,6 +8,7 @@ state: "AL"
 county: "DeKalb County"
 repo_path: "kb/287g/287-g-tfm-dekalb-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and DeKalb County Sheriff’s Office, signed December 8, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -14,9 +14,12 @@
     <a href="{{ .RelPermalink }}">
       <div style="display:flex; align-items:center; gap:8px;">
         <span class="signal-dot" style="background:#8a5a2a;"></span>
-        <div>
+        <div style="flex:1;">
           <div class="card-title">{{ .Title }}</div>
-          <div class="card-meta">
+          {{ with .Params.summary }}
+          <div style="font-size:12px; color:var(--text-secondary); margin-top:2px; line-height:1.4;">{{ . }}</div>
+          {{ end }}
+          <div class="card-meta" style="margin-top:2px;">
             {{ with .Params.contractor_type }}{{ . }}{{ end }}
             {{ with .Params.headquarters }} · {{ . }}{{ end }}
             {{ with .Params.status }} · {{ . }}{{ end }}

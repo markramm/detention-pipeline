@@ -8,6 +8,7 @@ state: "AZ"
 county: "MARICOPA"
 repo_path: "kb/anc/csi-aviation-inc-ice-maricopa-az-562049742.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CSI AVIATION, INC in AZ ($562,049,742.00)."
 type: "entry"
 layout: "single"
 ---

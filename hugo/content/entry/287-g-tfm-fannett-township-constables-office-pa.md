@@ -8,6 +8,7 @@ state: "PA"
 county: "Franklin County"
 repo_path: "kb/287g/287-g-tfm-fannett-township-constables-office-pa.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Fannett Township Constables Office, signed July 24, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "TX"
 county: ""
 repo_path: "kb/287g/287-g-tfm-texas-department-of-public-safety-texas-highway-patrol-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Texas Department of Public Safety – Texas Highway Patrol, signed November 3, 2025."
 type: "entry"
 layout: "single"
 ---

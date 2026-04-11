@@ -8,6 +8,7 @@ state: "SC"
 county: "Orangeburg County"
 repo_path: "kb/287g/287-g-tfm-eutawville-police-department-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Eutawville Police Department, signed November 18, 2025."
 type: "entry"
 layout: "single"
 ---

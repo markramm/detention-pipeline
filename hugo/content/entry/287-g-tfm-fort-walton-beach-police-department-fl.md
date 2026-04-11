@@ -8,6 +8,7 @@ state: "FL"
 county: "Okaloosa County"
 repo_path: "kb/287g/287-g-tfm-fort-walton-beach-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Fort Walton Beach Police Department, signed August 4, 2025."
 type: "entry"
 layout: "single"
 ---

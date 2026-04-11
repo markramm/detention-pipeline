@@ -8,6 +8,7 @@ state: "FL"
 county: "St. Lucie County"
 repo_path: "kb/287g/287-g-wso-st-lucie-county-sheriff-s-office-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and St. Lucie County Sheriff’s Office, signed February 19, 2025."
 type: "entry"
 layout: "single"
 ---

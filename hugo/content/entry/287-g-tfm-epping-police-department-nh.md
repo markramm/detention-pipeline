@@ -8,6 +8,7 @@ state: "NH"
 county: "Rockingham County"
 repo_path: "kb/287g/287-g-tfm-epping-police-department-nh.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Epping Police Department, signed January 26, 2026."
 type: "entry"
 layout: "single"
 ---

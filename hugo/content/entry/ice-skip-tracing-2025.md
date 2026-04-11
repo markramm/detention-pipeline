@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/ice-skip-tracing-2025.md"
 lastmod: "2026-04-06"
+summary: "In November 2025, ICE launched a program to contract private-sector \"skip tracing\" services to locate immigrants on ICE's docket. In December 2025, ICE awarded contracts to 13 private companies with..."
 type: "entry"
 layout: "single"
 ---

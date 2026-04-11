@@ -8,6 +8,7 @@ state: "IN"
 county: "Marion County"
 repo_path: "kb/287g/287-g-tfm-indiana-department-of-homeland-security-in.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Indiana Department of Homeland Security, signed August 4, 2025."
 type: "entry"
 layout: "single"
 ---

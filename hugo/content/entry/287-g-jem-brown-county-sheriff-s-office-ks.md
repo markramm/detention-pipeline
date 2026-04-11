@@ -8,6 +8,7 @@ state: "KS"
 county: "Brown County"
 repo_path: "kb/287g/287-g-jem-brown-county-sheriff-s-office-ks.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Brown County Sheriff’s Office, signed November 4, 2025."
 type: "entry"
 layout: "single"
 ---

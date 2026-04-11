@@ -8,6 +8,7 @@ state: "LA"
 county: "Concordia"
 repo_path: "kb/budget/concordia-parish-la-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Concordia, LA."
 type: "entry"
 layout: "single"
 ---

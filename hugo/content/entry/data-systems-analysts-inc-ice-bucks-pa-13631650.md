@@ -8,6 +8,7 @@ state: "PA"
 county: "BUCKS"
 repo_path: "kb/anc/data-systems-analysts-inc-ice-bucks-pa-13631650.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to DATA SYSTEMS ANALYSTS INC in PA ($13,631,649.50)."
 type: "entry"
 layout: "single"
 ---

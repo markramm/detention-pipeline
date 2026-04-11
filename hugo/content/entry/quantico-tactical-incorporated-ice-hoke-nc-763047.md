@@ -8,6 +8,7 @@ state: "NC"
 county: "HOKE"
 repo_path: "kb/anc/quantico-tactical-incorporated-ice-hoke-nc-763047.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to QUANTICO TACTICAL INCORPORATED in NC ($763,047.45)."
 type: "entry"
 layout: "single"
 ---

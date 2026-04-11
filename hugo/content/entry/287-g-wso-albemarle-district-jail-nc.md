@@ -8,6 +8,7 @@ state: "NC"
 county: "Albemarle County"
 repo_path: "kb/287g/287-g-wso-albemarle-district-jail-nc.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Albemarle District Jail, signed March 19, 2020."
 type: "entry"
 layout: "single"
 ---

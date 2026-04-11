@@ -8,6 +8,7 @@ state: "PA"
 county: "Franklin County"
 repo_path: "kb/287g/287-g-tfm-franklin-county-sheriffs-office-pa.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Franklin County Sheriffs Office, signed March 10, 2025."
 type: "entry"
 layout: "single"
 ---

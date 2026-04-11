@@ -8,6 +8,7 @@ state: "FL"
 county: "Clay County"
 repo_path: "kb/287g/287-g-tfm-orange-park-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Orange Park Police Department, signed July 24, 2025."
 type: "entry"
 layout: "single"
 ---

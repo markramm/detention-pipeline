@@ -8,6 +8,7 @@ state: "PA"
 county: "Westmoreland County"
 repo_path: "kb/287g/287-g-tfm-constable-unity-township-pa.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Constable Unity Township, signed July 15, 2025."
 type: "entry"
 layout: "single"
 ---

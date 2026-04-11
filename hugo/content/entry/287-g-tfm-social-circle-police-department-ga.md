@@ -8,6 +8,7 @@ state: "GA"
 county: "Walton County"
 repo_path: "kb/287g/287-g-tfm-social-circle-police-department-ga.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Social Circle Police Department, signed October 17, 2025."
 type: "entry"
 layout: "single"
 ---

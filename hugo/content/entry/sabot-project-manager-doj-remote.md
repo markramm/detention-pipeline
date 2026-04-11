@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/jobs/sabot-project-manager-doj-remote.md"
 lastmod: "2026-04-10"
+summary: "Active posting on Sabot's career page as of April 10, 2026. New posting not previously tracked."
 type: "entry"
 layout: "single"
 ---

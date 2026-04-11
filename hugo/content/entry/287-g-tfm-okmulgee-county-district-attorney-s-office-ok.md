@@ -8,6 +8,7 @@ state: "OK"
 county: "Okmulgee County"
 repo_path: "kb/287g/287-g-tfm-okmulgee-county-district-attorney-s-office-ok.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Okmulgee County District Attorney’s Office, signed August 28, 2025."
 type: "entry"
 layout: "single"
 ---

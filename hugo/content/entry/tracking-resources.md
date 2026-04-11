@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/tracking-resources.md"
 lastmod: "2026-04-06"
+summary: "External resources for monitoring the detention-industrial complex."
 type: "entry"
 layout: "single"
 ---

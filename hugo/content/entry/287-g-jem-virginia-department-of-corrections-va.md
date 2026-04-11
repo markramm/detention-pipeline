@@ -8,6 +8,7 @@ state: "VA"
 county: ""
 repo_path: "kb/287g/287-g-jem-virginia-department-of-corrections-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Virginia Department of Corrections, signed February 28, 2025."
 type: "entry"
 layout: "single"
 ---

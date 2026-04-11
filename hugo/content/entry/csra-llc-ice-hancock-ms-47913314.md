@@ -8,6 +8,7 @@ state: "MS"
 county: "HANCOCK"
 repo_path: "kb/anc/csra-llc-ice-hancock-ms-47913314.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CSRA LLC in MS ($47,913,314.26)."
 type: "entry"
 layout: "single"
 ---

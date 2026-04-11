@@ -8,6 +8,7 @@ state: "WI"
 county: "Sauk County"
 repo_path: "kb/287g/287-g-jem-sauk-county-sheriff-s-office-wi.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Sauk County Sheriff’s Office, signed February 10, 2026."
 type: "entry"
 layout: "single"
 ---

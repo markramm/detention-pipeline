@@ -8,6 +8,7 @@ state: "TX"
 county: "BEXAR"
 repo_path: "kb/anc/ingenesis-inc-ice-bexar-tx-37566995.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to INGENESIS INC in TX ($37,566,994.86)."
 type: "entry"
 layout: "single"
 ---

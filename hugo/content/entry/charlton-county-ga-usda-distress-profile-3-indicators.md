@@ -8,6 +8,7 @@ state: "GA"
 county: "Charlton"
 repo_path: "kb/budget/charlton-county-ga-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Charlton, GA."
 type: "entry"
 layout: "single"
 ---

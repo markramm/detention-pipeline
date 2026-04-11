@@ -8,6 +8,7 @@ state: "TX"
 county: "Freestone County"
 repo_path: "kb/287g/287-g-tfm-wortham-police-department-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Wortham Police Department, signed December 18, 2025."
 type: "entry"
 layout: "single"
 ---

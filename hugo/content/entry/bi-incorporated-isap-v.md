@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/bi-incorporated-isap-v.md"
 lastmod: "2026-04-06"
+summary: "[[bi-incorporated|BI Incorporated]], a subsidiary of [[geo-group|The GEO Group]], holds the sole-source contract for ICE's Intensive Supervision Appearance Program (ISAP) -- the federal government's..."
 type: "entry"
 layout: "single"
 ---

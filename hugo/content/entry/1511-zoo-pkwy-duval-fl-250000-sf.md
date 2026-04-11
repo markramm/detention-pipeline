@@ -8,6 +8,7 @@ state: "FL"
 county: "Duval"
 repo_path: "kb/real-estate/1511-zoo-pkwy-duval-fl-250000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at 1511 Zoo Pkwy, Jacksonville, Duval County, FL. 250000 sq ft. Owner: Walmart. Status: leased."
 type: "entry"
 layout: "single"
 ---

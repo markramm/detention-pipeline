@@ -8,6 +8,7 @@ state: "NM"
 county: "San Miguel"
 repo_path: "kb/budget/san-miguel-county-nm-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for San Miguel, NM."
 type: "entry"
 layout: "single"
 ---

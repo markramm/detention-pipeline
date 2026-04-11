@@ -8,6 +8,7 @@ state: "IN"
 county: "Hendricks County"
 repo_path: "kb/287g/287-g-tfm-north-salem-police-department-in.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and North Salem Police Department, signed August 4, 2025."
 type: "entry"
 layout: "single"
 ---

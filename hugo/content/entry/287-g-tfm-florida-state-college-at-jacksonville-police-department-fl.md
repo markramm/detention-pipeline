@@ -8,6 +8,7 @@ state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-florida-state-college-at-jacksonville-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Florida State College at Jacksonville Police Department, signed August 28, 2025."
 type: "entry"
 layout: "single"
 ---

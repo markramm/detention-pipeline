@@ -8,6 +8,7 @@ state: "FL"
 county: "BREVARD"
 repo_path: "kb/anc/all-points-logistics-llc-ice-brevard-fl-6172000.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ALL POINTS LOGISTICS, LLC in FL ($6,172,000.41)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "AR"
 county: "Pulaski County"
 repo_path: "kb/287g/287-g-wso-pulaski-county-sheriff-s-office-ar.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Pulaski County Sheriff’s Office, signed September 9, 2025."
 type: "entry"
 layout: "single"
 ---

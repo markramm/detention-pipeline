@@ -8,6 +8,7 @@ state: "LA"
 county: ""
 repo_path: "kb/287g/287-g-wso-louisiana-department-of-public-safety-corrections-la.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Louisiana Department of Public Safety & Corrections, signed July 24, 2025."
 type: "entry"
 layout: "single"
 ---

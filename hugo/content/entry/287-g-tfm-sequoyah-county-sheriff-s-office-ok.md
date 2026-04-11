@@ -8,6 +8,7 @@ state: "OK"
 county: "Sequoyah County"
 repo_path: "kb/287g/287-g-tfm-sequoyah-county-sheriff-s-office-ok.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Sequoyah County Sheriff’s Office, signed October 17, 2025."
 type: "entry"
 layout: "single"
 ---

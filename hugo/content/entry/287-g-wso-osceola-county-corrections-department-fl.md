@@ -8,6 +8,7 @@ state: "FL"
 county: "Osceola County"
 repo_path: "kb/287g/287-g-wso-osceola-county-corrections-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Osceola County Corrections Department, signed October 15, 2019."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "TX"
 county: "Palo Pinto County"
 repo_path: "kb/287g/287-g-wso-palo-pinto-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Palo Pinto County Sheriff’s Office, signed August 28, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "GA"
 county: "Jackson"
 repo_path: "kb/real-estate/braselton-logistics-center-jackson-ga-500000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at Braselton Logistics Center, Braselton, Jackson County, GA. 500000 sq ft. Owner: Duke Realty/Prologis. Status: available."
 type: "entry"
 layout: "single"
 ---

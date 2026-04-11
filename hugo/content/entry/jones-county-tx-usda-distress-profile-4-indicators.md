@@ -8,6 +8,7 @@ state: "TX"
 county: "Jones"
 repo_path: "kb/budget/jones-county-tx-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Jones, TX."
 type: "entry"
 layout: "single"
 ---

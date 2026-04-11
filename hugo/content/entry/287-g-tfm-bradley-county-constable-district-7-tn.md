@@ -8,6 +8,7 @@ state: "TN"
 county: "Bradley County"
 repo_path: "kb/287g/287-g-tfm-bradley-county-constable-district-7-tn.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Bradley County Constable District 7, signed September 9, 2025."
 type: "entry"
 layout: "single"
 ---

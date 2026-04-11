@@ -8,6 +8,7 @@ state: "FL"
 county: "Volusia County"
 repo_path: "kb/287g/287-g-wso-volusia-county-division-of-corrections-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Volusia County Division of Corrections, signed February 26, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "NY"
 county: "SUFFOLK"
 repo_path: "kb/anc/classic-air-charter-inc-ice-suffolk-ny-794320930.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CLASSIC AIR CHARTER INC. in NY ($794,320,929.55)."
 type: "entry"
 layout: "single"
 ---

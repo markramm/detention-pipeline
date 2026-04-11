@@ -8,6 +8,7 @@ state: "LA"
 county: "Tensas"
 repo_path: "kb/budget/tensas-parish-la-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Tensas, LA."
 type: "entry"
 layout: "single"
 ---

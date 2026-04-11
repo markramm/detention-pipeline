@@ -8,6 +8,7 @@ state: "MT"
 county: "Gallatin County"
 repo_path: "kb/287g/287-g-wso-gallatin-county-sheriff-s-office-mt.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Gallatin County Sheriff’s Office, signed January 22, 2020."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "AZ"
 county: ""
 repo_path: "kb/287g/287-g-jem-arizona-department-of-corrections-az.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Arizona Department of Corrections, signed June 16, 2020."
 type: "entry"
 layout: "single"
 ---

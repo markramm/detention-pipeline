@@ -8,6 +8,7 @@ state: "WY"
 county: "Laramie County"
 repo_path: "kb/287g/287-g-wso-laramie-county-sheriff-s-office-wy.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Laramie County Sheriff’s Office, signed June 12, 2025."
 type: "entry"
 layout: "single"
 ---

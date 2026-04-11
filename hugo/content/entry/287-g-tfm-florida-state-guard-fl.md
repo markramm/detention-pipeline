@@ -8,6 +8,7 @@ state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-florida-state-guard-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Florida State Guard, signed March 19, 2025."
 type: "entry"
 layout: "single"
 ---

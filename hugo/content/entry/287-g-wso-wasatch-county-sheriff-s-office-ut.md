@@ -8,6 +8,7 @@ state: "UT"
 county: "Wasatch County"
 repo_path: "kb/287g/287-g-wso-wasatch-county-sheriff-s-office-ut.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Wasatch County Sheriff’s Office, signed August 4, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "SC"
 county: "Greenville County"
 repo_path: "kb/287g/287-g-wso-greenville-county-sheriff-s-office-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Greenville County Sheriff’s Office, signed March 21, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "SC"
 county: ""
 repo_path: "kb/287g/287-g-tfm-coward-police-department-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Coward Police Department, signed June 13, 2025."
 type: "entry"
 layout: "single"
 ---

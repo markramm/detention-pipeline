@@ -8,6 +8,7 @@ state: "MN"
 county: "HENNEPIN"
 repo_path: "kb/anc/akima-infrastructure-protection-llc-ice-hennepin-mn-836493.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to AKIMA INFRASTRUCTURE PROTECTION LLC in MN ($836,492.80)."
 type: "entry"
 layout: "single"
 ---

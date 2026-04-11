@@ -8,6 +8,7 @@ state: "CA"
 county: "LOS ANGELES"
 repo_path: "kb/anc/the-geo-group-inc-ice-los-angeles-ca-83367984.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to THE GEO GROUP, INC. in CA ($83,367,984.37)."
 type: "entry"
 layout: "single"
 ---

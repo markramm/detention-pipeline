@@ -8,6 +8,7 @@ state: "TX"
 county: "CAMERON"
 repo_path: "kb/anc/akima-infrastructure-protection-llc-ice-cameron-tx-45072574.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to AKIMA INFRASTRUCTURE PROTECTION LLC in TX ($45,072,574.15)."
 type: "entry"
 layout: "single"
 ---

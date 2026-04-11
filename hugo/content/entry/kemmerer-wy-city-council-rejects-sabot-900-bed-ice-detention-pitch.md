@@ -8,6 +8,7 @@ state: "WY"
 county: "Lincoln"
 repo_path: "kb/commission/kemmerer-wy-city-council-rejects-sabot-900-bed-ice-detention-pitch.md"
 lastmod: "2026-04-10"
+summary: "Sabot Consulting (cofounded by Darren Chiappinelli) pitched the Kemmerer City Council on a 900-bed immigration detention facility. City would own the jail via municipal bond issuance. Akima..."
 type: "entry"
 layout: "single"
 ---

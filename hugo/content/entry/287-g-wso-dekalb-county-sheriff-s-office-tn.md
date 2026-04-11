@@ -8,6 +8,7 @@ state: "TN"
 county: "Dekalb County"
 repo_path: "kb/287g/287-g-wso-dekalb-county-sheriff-s-office-tn.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Dekalb County Sheriff’s Office, signed November 6, 2025."
 type: "entry"
 layout: "single"
 ---

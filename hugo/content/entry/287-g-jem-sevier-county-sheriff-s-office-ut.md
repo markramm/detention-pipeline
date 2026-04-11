@@ -8,6 +8,7 @@ state: "UT"
 county: "Sevier County"
 repo_path: "kb/287g/287-g-jem-sevier-county-sheriff-s-office-ut.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Sevier County Sheriff’s Office, signed November 4, 2025."
 type: "entry"
 layout: "single"
 ---

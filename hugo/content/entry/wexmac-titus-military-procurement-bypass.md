@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/wexmac-titus-military-procurement-bypass.md"
 lastmod: "2026-04-08"
+summary: "In October 2025, the Trump administration began funneling OBBBA detention funding ($45 billion) through the Department of Defense and the U.S. Navy's Supply Systems Command — a military procurement..."
 type: "entry"
 layout: "single"
 ---

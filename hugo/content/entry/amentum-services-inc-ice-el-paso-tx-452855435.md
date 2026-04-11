@@ -8,6 +8,7 @@ state: "TX"
 county: "EL PASO"
 repo_path: "kb/anc/amentum-services-inc-ice-el-paso-tx-452855435.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to AMENTUM SERVICES, INC. in TX ($452,855,435.04)."
 type: "entry"
 layout: "single"
 ---

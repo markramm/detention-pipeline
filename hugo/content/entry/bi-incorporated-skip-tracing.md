@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/bi-incorporated-skip-tracing.md"
 lastmod: "2026-04-06"
+summary: "In December 2025, ICE awarded [[bi-incorporated|BI Incorporated]] (a [[geo-group|GEO Group]] subsidiary) a two-year contract worth up to $121 million for \"skip tracing\" services -- using surveillance..."
 type: "entry"
 layout: "single"
 ---

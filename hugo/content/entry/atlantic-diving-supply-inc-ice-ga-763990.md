@@ -8,6 +8,7 @@ state: "GA"
 county: ""
 repo_path: "kb/anc/atlantic-diving-supply-inc-ice-ga-763990.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ATLANTIC DIVING SUPPLY, INC. in GA ($763,990.36)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "VA"
 county: "ALEXANDRIA CITY"
 repo_path: "kb/anc/itc-federal-llc-ice-alexandria-city-va-62184966.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ITC FEDERAL, LLC in VA ($62,184,966.02)."
 type: "entry"
 layout: "single"
 ---

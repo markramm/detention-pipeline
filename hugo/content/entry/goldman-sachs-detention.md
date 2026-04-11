@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/organizations/goldman-sachs-detention.md"
 lastmod: "2026-04-08"
+summary: "Goldman Sachs appears in two distinct roles across ICE warehouse acquisitions, making it the most deeply entangled financial institution in the warehouse profiteering pattern."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "SD"
 county: ""
 repo_path: "kb/287g/287-g-tfm-south-dakota-division-of-criminal-investigation-sd.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and South Dakota Division of Criminal Investigation, signed June 11, 2025."
 type: "entry"
 layout: "single"
 ---

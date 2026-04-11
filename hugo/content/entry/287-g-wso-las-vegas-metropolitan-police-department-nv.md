@@ -8,6 +8,7 @@ state: "NV"
 county: "Clark County"
 repo_path: "kb/287g/287-g-wso-las-vegas-metropolitan-police-department-nv.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Las Vegas Metropolitan Police Department, signed June 16, 2025."
 type: "entry"
 layout: "single"
 ---

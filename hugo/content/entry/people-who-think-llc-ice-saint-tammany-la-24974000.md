@@ -8,6 +8,7 @@ state: "LA"
 county: "SAINT TAMMANY"
 repo_path: "kb/anc/people-who-think-llc-ice-saint-tammany-la-24974000.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PEOPLE WHO THINK, L.L.C. in LA ($24,974,000.00)."
 type: "entry"
 layout: "single"
 ---

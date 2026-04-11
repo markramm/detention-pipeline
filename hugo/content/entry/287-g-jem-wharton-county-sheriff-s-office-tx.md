@@ -8,6 +8,7 @@ state: "TX"
 county: "Wharton County"
 repo_path: "kb/287g/287-g-jem-wharton-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Wharton County Sheriff’s Office, signed June 9, 2020."
 type: "entry"
 layout: "single"
 ---

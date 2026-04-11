@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/organizations/pnk-group.md"
 lastmod: "2026-04-08"
+summary: "PNK Group is a Russia-founded industrial real estate developer that sold the Social Circle, Georgia warehouse to DHS for $128.6 million — a property it bought for $29.4 million less than 3 years..."
 type: "entry"
 layout: "single"
 ---

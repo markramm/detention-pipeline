@@ -8,6 +8,7 @@ state: "MT"
 county: "Toole"
 repo_path: "kb/budget/toole-county-mt-usda-distress-profile-3-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Toole, MT."
 type: "entry"
 layout: "single"
 ---

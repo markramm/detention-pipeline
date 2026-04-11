@@ -8,6 +8,7 @@ state: "NC"
 county: "Cabarrus County"
 repo_path: "kb/287g/287-g-jem-cabarrus-county-sheriff-s-office-nc.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Cabarrus County Sheriff’s Office, signed March 11, 2020."
 type: "entry"
 layout: "single"
 ---

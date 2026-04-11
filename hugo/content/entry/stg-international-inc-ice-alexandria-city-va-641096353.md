@@ -8,6 +8,7 @@ state: "VA"
 county: "ALEXANDRIA CITY"
 repo_path: "kb/anc/stg-international-inc-ice-alexandria-city-va-641096353.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to STG INTERNATIONAL, INC. in VA ($641,096,352.82)."
 type: "entry"
 layout: "single"
 ---

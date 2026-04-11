@@ -8,6 +8,7 @@ state: "SC"
 county: "Kershaw County"
 repo_path: "kb/287g/287-g-tfm-kershaw-county-sheriff-s-office-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Kershaw County Sheriff’s Office, signed April 10, 2025."
 type: "entry"
 layout: "single"
 ---

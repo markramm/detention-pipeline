@@ -8,6 +8,7 @@ state: "WY"
 county: "Sweetwater County"
 repo_path: "kb/287g/287-g-wso-sweetwater-county-sheriff-s-office-wy.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Sweetwater County Sheriff’s Office, signed March 13, 2020."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "VA"
 county: "Campbell County"
 repo_path: "kb/287g/287-g-tfm-campbell-county-sheriff-s-office-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Campbell County Sheriff’s Office, signed May 8, 2025."
 type: "entry"
 layout: "single"
 ---

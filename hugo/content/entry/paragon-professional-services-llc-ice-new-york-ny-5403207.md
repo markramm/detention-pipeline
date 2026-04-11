@@ -8,6 +8,7 @@ state: "NY"
 county: "NEW YORK"
 repo_path: "kb/anc/paragon-professional-services-llc-ice-new-york-ny-5403207.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PARAGON PROFESSIONAL SERVICES LLC in NY ($5,403,207.11)."
 type: "entry"
 layout: "single"
 ---

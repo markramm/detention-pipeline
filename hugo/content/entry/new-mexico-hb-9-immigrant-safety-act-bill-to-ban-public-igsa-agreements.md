@@ -8,6 +8,7 @@ state: "NM"
 county: ""
 repo_path: "kb/legislative/new-mexico-hb-9-immigrant-safety-act-bill-to-ban-public-igsa-agreements.md"
 lastmod: "2026-04-10"
+summary: "New Mexico advanced HB 9 (Immigrant Safety Act) which would ban public bodies from entering ICE detention agreements (IGSAs). This is preemptive legislation responding to the detention expansion..."
 type: "entry"
 layout: "single"
 ---

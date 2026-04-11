@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/organizations/blue-owl-capital.md"
 lastmod: "2026-04-08"
+summary: "Blue Owl Capital is a New York City-based alternative asset management firm managing approximately $307.5 billion in assets (as of December 2025), created through a 2021 three-way merger of Dyal..."
 type: "entry"
 layout: "single"
 ---

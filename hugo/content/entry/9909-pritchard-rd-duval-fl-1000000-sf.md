@@ -8,6 +8,7 @@ state: "FL"
 county: "Duval"
 repo_path: "kb/real-estate/9909-pritchard-rd-duval-fl-1000000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at 9909 Pritchard Rd, Jacksonville, Duval County, FL. 1000000 sq ft. Owner: Total Distribution Inc. Status: available."
 type: "entry"
 layout: "single"
 ---

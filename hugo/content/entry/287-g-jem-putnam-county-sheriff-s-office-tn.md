@@ -8,6 +8,7 @@ state: "TN"
 county: "Putnam County"
 repo_path: "kb/287g/287-g-jem-putnam-county-sheriff-s-office-tn.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Putnam County Sheriff’s Office, signed February 24, 2025."
 type: "entry"
 layout: "single"
 ---

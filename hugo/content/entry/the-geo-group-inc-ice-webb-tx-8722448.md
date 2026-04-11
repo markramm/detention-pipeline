@@ -8,6 +8,7 @@ state: "TX"
 county: "WEBB"
 repo_path: "kb/anc/the-geo-group-inc-ice-webb-tx-8722448.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to THE GEO GROUP, INC. in TX ($8,722,448.00)."
 type: "entry"
 layout: "single"
 ---

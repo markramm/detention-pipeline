@@ -8,6 +8,7 @@ state: "SC"
 county: ""
 repo_path: "kb/287g/287-g-tfm-south-carolina-department-of-public-safety-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and South Carolina Department of Public Safety, signed August 28, 2025."
 type: "entry"
 layout: "single"
 ---

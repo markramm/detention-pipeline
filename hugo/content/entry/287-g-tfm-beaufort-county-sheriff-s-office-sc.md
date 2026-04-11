@@ -8,6 +8,7 @@ state: "SC"
 county: "Beaufort County"
 repo_path: "kb/287g/287-g-tfm-beaufort-county-sheriff-s-office-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Beaufort County Sheriff’s Office, signed July 31, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "CA"
 county: "ORANGE"
 repo_path: "kb/anc/deloitte-consulting-llp-ice-orange-ca-17543313.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to DELOITTE CONSULTING LLP in CA ($17,543,312.96)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "VA"
 county: "Alleghany County"
 repo_path: "kb/287g/287-g-wso-alleghany-county-sheriff-s-office-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Alleghany County Sheriff’s Office, signed June 3, 2025."
 type: "entry"
 layout: "single"
 ---

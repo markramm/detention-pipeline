@@ -8,6 +8,7 @@ state: "FL"
 county: "PASCO"
 repo_path: "kb/anc/technology-management-innovative-solution-ice-pasco-fl-908163.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to TECHNOLOGY - MANAGEMENT & INNOVATIVE SOLUTIONS, LLC in FL ($908,163.23)."
 type: "entry"
 layout: "single"
 ---

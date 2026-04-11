@@ -8,6 +8,7 @@ state: "AR"
 county: "Independence County"
 repo_path: "kb/287g/287-g-tfm-16th-judicial-distric-drug-task-force-ar.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and 16th Judicial Distric Drug Task Force, signed September 22, 2025."
 type: "entry"
 layout: "single"
 ---

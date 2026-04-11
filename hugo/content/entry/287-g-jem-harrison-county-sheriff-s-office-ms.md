@@ -8,6 +8,7 @@ state: "MS"
 county: "Harrison County"
 repo_path: "kb/287g/287-g-jem-harrison-county-sheriff-s-office-ms.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Harrison County Sheriff’s Office, signed June 30, 2025."
 type: "entry"
 layout: "single"
 ---

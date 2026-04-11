@@ -8,6 +8,7 @@ state: "AL"
 county: "ESCAMBIA"
 repo_path: "kb/anc/pci-guidehouse-jv-llc-ice-escambia-al-1806496.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PCI GUIDEHOUSE JV LLC in AL ($1,806,496.00)."
 type: "entry"
 layout: "single"
 ---

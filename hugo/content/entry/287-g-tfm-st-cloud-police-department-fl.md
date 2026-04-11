@@ -8,6 +8,7 @@ state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-st-cloud-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and St. Cloud Police Department, signed April 14, 2025."
 type: "entry"
 layout: "single"
 ---

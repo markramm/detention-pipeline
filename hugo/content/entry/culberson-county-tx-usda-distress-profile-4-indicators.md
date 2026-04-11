@@ -8,6 +8,7 @@ state: "TX"
 county: "Culberson"
 repo_path: "kb/budget/culberson-county-tx-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Culberson, TX."
 type: "entry"
 layout: "single"
 ---

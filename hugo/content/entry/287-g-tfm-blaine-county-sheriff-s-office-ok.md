@@ -8,6 +8,7 @@ state: "OK"
 county: "Blaine County"
 repo_path: "kb/287g/287-g-tfm-blaine-county-sheriff-s-office-ok.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Blaine County Sheriff’s Office, signed September 9, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -5,7 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline</title>
 {{- $desc := "Early-warning system for ICE detention facility expansion" -}}
-{{- if eq .Type "county" -}}
+{{- if .Params.summary -}}
+  {{- $desc = .Params.summary -}}
+{{- else if eq .Type "county" -}}
   {{- $desc = printf "%s — Heat Score: %v with %v signal types converging. Ranked #%v of %v tracked counties." .Title .Params.score .Params.signal_types .Params.rank .Params.total_counties -}}
 {{- else if eq .Type "fights" -}}
   {{- if .IsPage -}}

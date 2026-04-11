@@ -8,6 +8,7 @@ state: "FL"
 county: "HILLSBOROUGH"
 repo_path: "kb/anc/celeen-llc-ice-hillsborough-fl-8441210.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CELEEN LLC in FL ($8,441,210.15)."
 type: "entry"
 layout: "single"
 ---

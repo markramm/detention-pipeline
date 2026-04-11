@@ -8,6 +8,7 @@ state: "NV"
 county: "Douglas County"
 repo_path: "kb/287g/287-g-wso-douglas-county-sheriff-s-office-nv.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Douglas County Sheriff’s Office, signed February 19, 2025."
 type: "entry"
 layout: "single"
 ---

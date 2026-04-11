@@ -8,6 +8,7 @@ state: "TX"
 county: "Upshur County"
 repo_path: "kb/287g/287-g-tfm-upshur-county-constable-precinct-1-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Upshur County Constable Precinct 1, signed February 10, 2026."
 type: "entry"
 layout: "single"
 ---

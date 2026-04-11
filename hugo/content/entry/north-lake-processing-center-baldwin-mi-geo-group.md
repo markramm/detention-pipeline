@@ -8,6 +8,7 @@ state: "MI"
 county: "Lake"
 repo_path: "kb/real-estate/north-lake-processing-center-baldwin-mi-geo-group.md"
 lastmod: "2026-04-10"
+summary: "GEO Group facility in Baldwin, Lake County, Michigan. Existing ICE processing center."
 type: "entry"
 layout: "single"
 ---

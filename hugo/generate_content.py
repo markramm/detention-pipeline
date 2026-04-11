@@ -222,6 +222,14 @@ def generate_all_pages(parsed_entries, heat_data):
     entries_by_type = {}
     all_entries_meta = []
 
+    # Load LLM-generated summaries if available
+    llm_summaries = {}
+    summary_path = DATA_PATH / "summaries.json"
+    if summary_path.exists():
+        with open(summary_path) as f:
+            llm_summaries = json.load(f)
+        print(f"  Loaded {len(llm_summaries)} LLM summaries")
+
     # Section directories
     for d in ["entry", "fights", "players/contractors", "players/people",
               "players/money", "facilities", "signals", "county", "state", "map"]:
@@ -262,6 +270,66 @@ def generate_all_pages(parsed_entries, heat_data):
             "state": state, "county": county, "fips": fips, "section": section,
         })
 
+        # Generate or look up summary
+        summary = ""
+        # Check for LLM-generated summary in sidecar file
+        if entry_id in llm_summaries:
+            summary = llm_summaries[entry_id]
+        # Template summaries for automated entry types
+        elif entry_type == "287g-agreement":
+            # Extract model from body if not in fields
+            model = fields.get("model", "")
+            if not model:
+                for bline in body.split("\n"):
+                    if bline.strip().startswith("Model:"):
+                        model = bline.split(":", 1)[1].strip()
+                        break
+            signed = fields.get("signed_date", "")
+            if not signed:
+                for bline in body.split("\n"):
+                    if bline.strip().startswith("Signed:"):
+                        signed = bline.split(":", 1)[1].strip()
+                        break
+            agency = ""
+            for bline in body.split("\n"):
+                if "agreement between ICE and" in bline:
+                    agency = bline.split("agreement between ICE and", 1)[1].strip().rstrip(".")
+                    break
+            if agency:
+                summary = f"287(g) {model} agreement between ICE and {agency}."
+            else:
+                summary = f"287(g) {model} agreement in {county + ', ' if county else ''}{state}."
+            if signed:
+                summary = summary[:-1] + f", signed {signed}."
+        elif entry_type == "igsa":
+            fname = fields.get("facility_name", "")
+            op = fields.get("operator", "")
+            summary = f"IGSA detention facility in {county + ', ' if county else ''}{state}."
+            if op:
+                summary = summary[:-1] + f", operated by {op}."
+        elif entry_type == "anc-contract":
+            contractor = fields.get("contractor", "")
+            val = fields.get("contract_value", "")
+            summary = f"Federal contract awarded to {contractor or 'ANC subsidiary'} in {state}."
+            if val:
+                summary = summary[:-1] + f" ({val})."
+        elif entry_type == "budget-distress":
+            summary = f"Budget distress indicators for {county + ', ' if county else ''}{state}."
+        elif not summary:
+            # Fallback: first substantive sentence from body, stripped of markdown
+            for line in body.split("\n"):
+                line = line.strip()
+                if line and not line.startswith("#") and not line.startswith("-") and not line.startswith("*") and not line.startswith("|") and not line.startswith("{{") and len(line) > 30:
+                    # Strip markdown formatting
+                    clean = re.sub(r'\*\*([^*]+)\*\*', r'\1', line)  # bold
+                    clean = re.sub(r'\*([^*]+)\*', r'\1', clean)  # italic
+                    clean = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', clean)  # links
+                    clean = clean.strip()
+                    summary = clean[:200]
+                    if len(clean) > 200:
+                        summary = summary.rsplit(" ", 1)[0] + "..."
+                    break
+
         # Common frontmatter
         fm = {
             "title": esc(title),
@@ -273,6 +341,7 @@ def generate_all_pages(parsed_entries, heat_data):
             "county": esc(county),
             "repo_path": rel_path,
             "lastmod": parsed["last_updated"],
+            "summary": esc(summary),
         }
 
         # Determine output path based on section

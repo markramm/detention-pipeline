@@ -8,6 +8,7 @@ state: "NC"
 county: "Alamance County"
 repo_path: "kb/287g/287-g-wso-alamance-county-sheriff-s-office-nc.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Alamance County Sheriff’s Office, signed May 21, 2020."
 type: "entry"
 layout: "single"
 ---

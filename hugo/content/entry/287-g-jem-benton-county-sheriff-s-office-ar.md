@@ -8,6 +8,7 @@ state: "AR"
 county: "Benton County"
 repo_path: "kb/287g/287-g-jem-benton-county-sheriff-s-office-ar.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Benton County Sheriff’s Office, signed June 30, 2020."
 type: "entry"
 layout: "single"
 ---

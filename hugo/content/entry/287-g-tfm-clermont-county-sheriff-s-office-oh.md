@@ -8,6 +8,7 @@ state: "OH"
 county: "Clermont County"
 repo_path: "kb/287g/287-g-tfm-clermont-county-sheriff-s-office-oh.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Clermont County Sheriff’s Office, signed November 4, 2025."
 type: "entry"
 layout: "single"
 ---

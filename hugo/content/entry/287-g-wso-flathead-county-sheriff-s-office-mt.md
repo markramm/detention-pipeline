@@ -8,6 +8,7 @@ state: "MT"
 county: "Flathead County"
 repo_path: "kb/287g/287-g-wso-flathead-county-sheriff-s-office-mt.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Flathead County Sheriff’s Office, signed February 12, 2020."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "OH"
 county: "Seneca County"
 repo_path: "kb/287g/287-g-tfm-seneca-county-sheriff-s-office-oh.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Seneca County Sheriff’s Office, signed February 28, 2025."
 type: "entry"
 layout: "single"
 ---

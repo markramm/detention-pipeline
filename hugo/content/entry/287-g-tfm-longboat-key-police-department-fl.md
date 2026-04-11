@@ -8,6 +8,7 @@ state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-longboat-key-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Longboat Key Police Department, signed April 23, 2025."
 type: "entry"
 layout: "single"
 ---

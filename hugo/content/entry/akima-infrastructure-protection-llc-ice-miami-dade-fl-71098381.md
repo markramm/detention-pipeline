@@ -8,6 +8,7 @@ state: "FL"
 county: "MIAMI-DADE"
 repo_path: "kb/anc/akima-infrastructure-protection-llc-ice-miami-dade-fl-71098381.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to AKIMA INFRASTRUCTURE PROTECTION LLC in FL ($71,098,380.76)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "WI"
 county: "Marquette County"
 repo_path: "kb/287g/287-g-wso-marquette-county-sheriff-s-office-wi.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Marquette County Sheriff’s Office, signed May 21, 2020."
 type: "entry"
 layout: "single"
 ---

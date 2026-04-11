@@ -8,6 +8,7 @@ state: "AZ"
 county: "Maricopa"
 repo_path: "kb/real-estate/tsmc-fab-maricopa-az-3500000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at TSMC Fab, Phoenix, Maricopa County, AZ. 3500000 sq ft. Owner: TSMC. Status: leased."
 type: "entry"
 layout: "single"
 ---

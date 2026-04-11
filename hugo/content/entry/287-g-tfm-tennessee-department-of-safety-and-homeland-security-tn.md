@@ -8,6 +8,7 @@ state: "TN"
 county: ""
 repo_path: "kb/287g/287-g-tfm-tennessee-department-of-safety-and-homeland-security-tn.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Tennessee Department of Safety and Homeland Security, signed May 13, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "TN"
 county: "Rutherford County"
 repo_path: "kb/287g/287-g-wso-rutherford-county-sheriff-s-office-tn.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Rutherford County Sheriff’s Office, signed August 28, 2025."
 type: "entry"
 layout: "single"
 ---

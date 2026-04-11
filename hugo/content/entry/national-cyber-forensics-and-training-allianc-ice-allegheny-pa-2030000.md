@@ -8,6 +8,7 @@ state: "PA"
 county: "ALLEGHENY"
 repo_path: "kb/anc/national-cyber-forensics-and-training-allianc-ice-allegheny-pa-2030000.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to NATIONAL CYBER-FORENSICS AND TRAINING ALLIANCE LIMITED in PA ($2,029,999.80)."
 type: "entry"
 layout: "single"
 ---

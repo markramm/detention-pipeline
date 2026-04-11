@@ -8,6 +8,7 @@ state: "SD"
 county: "Hughes County"
 repo_path: "kb/287g/287-g-wso-hughes-county-sheriff-s-office-sd.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Hughes County Sheriff’s Office, signed March 7, 2025."
 type: "entry"
 layout: "single"
 ---

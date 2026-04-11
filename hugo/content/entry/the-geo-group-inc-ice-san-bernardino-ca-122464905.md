@@ -8,6 +8,7 @@ state: "CA"
 county: "SAN BERNARDINO"
 repo_path: "kb/anc/the-geo-group-inc-ice-san-bernardino-ca-122464905.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to THE GEO GROUP, INC. in CA ($122,464,905.00)."
 type: "entry"
 layout: "single"
 ---

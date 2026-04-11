@@ -8,6 +8,7 @@ state: "TX"
 county: "Denton County"
 repo_path: "kb/287g/287-g-jem-denton-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Denton County Sheriff’s Office, signed July 29, 2025."
 type: "entry"
 layout: "single"
 ---

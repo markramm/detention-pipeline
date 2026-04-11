@@ -8,6 +8,7 @@ state: "SC"
 county: "Spartanburg County"
 repo_path: "kb/287g/287-g-wso-spartanburg-county-sheriff-s-office-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Spartanburg County Sheriff’s Office, signed April 2, 2025."
 type: "entry"
 layout: "single"
 ---

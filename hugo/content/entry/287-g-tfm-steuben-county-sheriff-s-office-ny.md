@@ -8,6 +8,7 @@ state: "NY"
 county: "Steuben County"
 repo_path: "kb/287g/287-g-tfm-steuben-county-sheriff-s-office-ny.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Steuben County Sheriff’s Office, signed July 23, 2025."
 type: "entry"
 layout: "single"
 ---

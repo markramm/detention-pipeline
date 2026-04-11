@@ -8,6 +8,7 @@ state: "MI"
 county: "Wayne"
 repo_path: "kb/commission/romulus-mi-city-and-state-file-lawsuit-to-block-ice-detention-facility.md"
 lastmod: "2026-04-10"
+summary: "City of Romulus and State of Michigan filed suit March 24, 2026 to block ICE's conversion of 7525 Cogswell St warehouse to detention."
 type: "entry"
 layout: "single"
 ---

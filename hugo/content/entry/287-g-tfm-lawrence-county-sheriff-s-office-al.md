@@ -8,6 +8,7 @@ state: "AL"
 county: "Lawrence County"
 repo_path: "kb/287g/287-g-tfm-lawrence-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Lawrence County Sheriff’s Office, signed June 18, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "VA"
 county: "Loudoun County"
 repo_path: "kb/287g/287-g-wso-loudoun-county-sheriff-s-office-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Loudoun County Sheriff’s Office, signed March 26, 2025."
 type: "entry"
 layout: "single"
 ---

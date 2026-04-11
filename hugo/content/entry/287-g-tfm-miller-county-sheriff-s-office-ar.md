@@ -8,6 +8,7 @@ state: "AR"
 county: "Miller County"
 repo_path: "kb/287g/287-g-tfm-miller-county-sheriff-s-office-ar.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Miller County Sheriff’s Office, signed July 11, 2025."
 type: "entry"
 layout: "single"
 ---

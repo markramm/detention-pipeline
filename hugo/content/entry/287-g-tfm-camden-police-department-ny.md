@@ -8,6 +8,7 @@ state: "NY"
 county: ""
 repo_path: "kb/287g/287-g-tfm-camden-police-department-ny.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Camden Police Department, signed July 2, 2025."
 type: "entry"
 layout: "single"
 ---

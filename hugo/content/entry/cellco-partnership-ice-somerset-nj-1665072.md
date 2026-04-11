@@ -8,6 +8,7 @@ state: "NJ"
 county: "SOMERSET"
 repo_path: "kb/anc/cellco-partnership-ice-somerset-nj-1665072.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CELLCO PARTNERSHIP in NJ ($1,665,071.60)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "WI"
 county: "Fond du Lac County"
 repo_path: "kb/287g/287-g-wso-fond-du-lac-county-sheriff-s-office-wi.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Fond du Lac County Sheriff’s Office, signed June 5, 2020."
 type: "entry"
 layout: "single"
 ---

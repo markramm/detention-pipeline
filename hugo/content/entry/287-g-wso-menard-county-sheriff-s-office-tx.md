@@ -8,6 +8,7 @@ state: "TX"
 county: "Menard County"
 repo_path: "kb/287g/287-g-wso-menard-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Menard County Sheriff’s Office, signed February 10, 2026."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "TX"
 county: "Galveston County"
 repo_path: "kb/287g/287-g-wso-galveston-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Galveston County Sheriff’s Office, signed March 26, 2025."
 type: "entry"
 layout: "single"
 ---

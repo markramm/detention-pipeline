@@ -8,6 +8,7 @@ state: "VA"
 county: "LOUDOUN"
 repo_path: "kb/anc/mvm-inc-ice-loudoun-va-8628945.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to MVM, INC. in VA ($8,628,945.17)."
 type: "entry"
 layout: "single"
 ---

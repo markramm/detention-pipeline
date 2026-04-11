@@ -8,6 +8,7 @@ state: "NY"
 county: "MONROE"
 repo_path: "kb/anc/mastodon-design-llc-ice-monroe-ny-1044745.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to MASTODON DESIGN LLC in NY ($1,044,745.00)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "W. Va."
 county: "Cabell County"
 repo_path: "kb/287g/287-g-tfm-cabell-county-sheriff-s-office-w-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Cabell County Sheriff’s Office, signed September 22, 2025."
 type: "entry"
 layout: "single"
 ---

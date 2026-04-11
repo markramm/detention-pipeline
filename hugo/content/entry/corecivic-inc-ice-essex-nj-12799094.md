@@ -8,6 +8,7 @@ state: "NJ"
 county: "ESSEX"
 repo_path: "kb/anc/corecivic-inc-ice-essex-nj-12799094.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CORECIVIC, INC. in NJ ($12,799,093.62)."
 type: "entry"
 layout: "single"
 ---

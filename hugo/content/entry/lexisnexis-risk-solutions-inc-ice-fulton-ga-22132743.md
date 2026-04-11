@@ -8,6 +8,7 @@ state: "GA"
 county: "FULTON"
 repo_path: "kb/anc/lexisnexis-risk-solutions-inc-ice-fulton-ga-22132743.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to LEXISNEXIS RISK SOLUTIONS INC in GA ($22,132,743.00)."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "W. Va."
 county: "Fayette County"
 repo_path: "kb/287g/287-g-tfm-oak-hill-police-department-w-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Oak Hill Police Department, signed December 18, 2025."
 type: "entry"
 layout: "single"
 ---

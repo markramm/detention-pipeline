@@ -8,6 +8,7 @@ state: "MS"
 county: "Wayne County"
 repo_path: "kb/287g/287-g-tfm-wayne-county-sheriff-s-department-ms.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Wayne County Sheriff’s Department, signed January 26, 2026."
 type: "entry"
 layout: "single"
 ---

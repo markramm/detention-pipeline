@@ -8,6 +8,7 @@ state: "KY"
 county: "Lyon County"
 repo_path: "kb/287g/287-g-tfm-lyon-county-sheriff-s-office-ky.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Lyon County Sheriff’s Office, signed May 8, 2025."
 type: "entry"
 layout: "single"
 ---

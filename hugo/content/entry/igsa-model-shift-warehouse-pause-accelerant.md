@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/igsa-model-shift-warehouse-pause-accelerant.md"
 lastmod: "2026-04-10"
+summary: "The detention expansion is running on two parallel tracks that are now diverging:"
 type: "entry"
 layout: "single"
 ---

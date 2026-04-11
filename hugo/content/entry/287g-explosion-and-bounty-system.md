@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/notes/287g-explosion-and-bounty-system.md"
 lastmod: "2026-04-10"
+summary: "The 287(g) program grew from 135 agreements (January 2025) to 1,637 Memorandums of Agreement (April 8, 2026) — a 641% increase covering 39 states and 2 U.S. territories."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "PA"
 county: "Cumberland County"
 repo_path: "kb/287g/287-g-tfm-pennsylvania-state-constable-s-office-cooke-township-pa.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Pennsylvania State Constable’s Office, Cooke Township, signed August 28, 2025."
 type: "entry"
 layout: "single"
 ---

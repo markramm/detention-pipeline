@@ -8,6 +8,7 @@ state: "AK"
 county: ""
 repo_path: "kb/287g/287-g-wso-kodiak-police-department-ak.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Kodiak Police Department, signed July 20, 2020."
 type: "entry"
 layout: "single"
 ---

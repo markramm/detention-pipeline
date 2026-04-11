@@ -8,6 +8,7 @@ state: "LA"
 county: "Catahoula"
 repo_path: "kb/budget/catahoula-parish-la-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Catahoula, LA."
 type: "entry"
 layout: "single"
 ---

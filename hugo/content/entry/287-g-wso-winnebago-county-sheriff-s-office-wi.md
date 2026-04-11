@@ -8,6 +8,7 @@ state: "WI"
 county: "Winnebago County"
 repo_path: "kb/287g/287-g-wso-winnebago-county-sheriff-s-office-wi.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Winnebago County Sheriff’s Office, signed March 3, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "KS"
 county: "LEAVENWORTH"
 repo_path: "kb/anc/corecivic-inc-ice-leavenworth-ks-18478836.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CORECIVIC, INC. in KS ($18,478,836.00)."
 type: "entry"
 layout: "single"
 ---

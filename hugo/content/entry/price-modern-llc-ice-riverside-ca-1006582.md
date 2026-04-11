@@ -8,6 +8,7 @@ state: "CA"
 county: "RIVERSIDE"
 repo_path: "kb/anc/price-modern-llc-ice-riverside-ca-1006582.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PRICE MODERN LLC in CA ($1,006,581.59)."
 type: "entry"
 layout: "single"
 ---

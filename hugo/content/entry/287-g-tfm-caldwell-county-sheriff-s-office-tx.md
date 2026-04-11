@@ -8,6 +8,7 @@ state: "TX"
 county: "Caldwell County"
 repo_path: "kb/287g/287-g-tfm-caldwell-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Caldwell County Sheriff’s Office, signed July 15, 2025."
 type: "entry"
 layout: "single"
 ---

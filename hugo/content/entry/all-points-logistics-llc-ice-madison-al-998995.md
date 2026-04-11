@@ -8,6 +8,7 @@ state: "AL"
 county: "MADISON"
 repo_path: "kb/anc/all-points-logistics-llc-ice-madison-al-998995.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ALL POINTS LOGISTICS, LLC in AL ($998,994.61)."
 type: "entry"
 layout: "single"
 ---

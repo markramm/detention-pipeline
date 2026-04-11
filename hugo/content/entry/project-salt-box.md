@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/organizations/project-salt-box.md"
 lastmod: "2026-04-08"
+summary: "Project Salt Box is an activist research organization that compiles data on ICE warehouse purchases, documenting systematic overpayments by comparing federal acquisition prices to estimated market..."
 type: "entry"
 layout: "single"
 ---

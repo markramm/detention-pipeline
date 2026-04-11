@@ -8,6 +8,7 @@ state: "UT"
 county: "UTAH"
 repo_path: "kb/anc/liveview-technologies-inc-ice-utah-ut-760396.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to LIVEVIEW TECHNOLOGIES INC in UT ($760,396.00)."
 type: "entry"
 layout: "single"
 ---

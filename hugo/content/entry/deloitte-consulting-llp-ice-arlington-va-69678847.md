@@ -8,6 +8,7 @@ state: "VA"
 county: "ARLINGTON"
 repo_path: "kb/anc/deloitte-consulting-llp-ice-arlington-va-69678847.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to DELOITTE CONSULTING LLP in VA ($69,678,847.05)."
 type: "entry"
 layout: "single"
 ---

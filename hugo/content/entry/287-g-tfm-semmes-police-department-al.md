@@ -8,6 +8,7 @@ state: "AL"
 county: "Mobile County"
 repo_path: "kb/287g/287-g-tfm-semmes-police-department-al.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Semmes Police Department, signed November 14, 2025."
 type: "entry"
 layout: "single"
 ---

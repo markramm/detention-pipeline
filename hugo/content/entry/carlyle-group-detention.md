@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/organizations/carlyle-group-detention.md"
 lastmod: "2026-04-08"
+summary: "Source: ProPublica Trump Team Financial Disclosures, April 8, 2026."
 type: "entry"
 layout: "single"
 ---

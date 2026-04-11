@@ -8,6 +8,7 @@ state: "TX"
 county: "Wilson County"
 repo_path: "kb/287g/287-g-tfm-stockdale-marshal-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Stockdale Marshal’s Office, signed December 11, 2025."
 type: "entry"
 layout: "single"
 ---

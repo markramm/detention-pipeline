@@ -8,6 +8,7 @@ state: "AL"
 county: "Pickens"
 repo_path: "kb/budget/pickens-county-al-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Pickens, AL."
 type: "entry"
 layout: "single"
 ---

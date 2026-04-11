@@ -8,6 +8,7 @@ state: "TX"
 county: "Angelina County"
 repo_path: "kb/287g/287-g-wso-angelina-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Angelina County Sheriff’s Office, signed June 18, 2025."
 type: "entry"
 layout: "single"
 ---

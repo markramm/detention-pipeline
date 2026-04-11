@@ -8,6 +8,7 @@ state: "OK"
 county: "TULSA"
 repo_path: "kb/anc/dni-trend-joint-ventures-llc-ice-tulsa-ok-9989601.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to DNI TREND JOINT VENTURES, LLC in OK ($9,989,601.00)."
 type: "entry"
 layout: "single"
 ---

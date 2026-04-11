@@ -8,6 +8,7 @@ state: "OH"
 county: "Preble County"
 repo_path: "kb/287g/287-g-tfm-gratis-police-department-oh.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Gratis Police Department, signed November 4, 2025."
 type: "entry"
 layout: "single"
 ---

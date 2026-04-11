@@ -8,6 +8,7 @@ state: "KS"
 county: "JACKSON"
 repo_path: "kb/anc/kpb-services-llc-ice-jackson-ks-29914916.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to KPB SERVICES LLC in KS ($29,914,916.00)."
 type: "entry"
 layout: "single"
 ---

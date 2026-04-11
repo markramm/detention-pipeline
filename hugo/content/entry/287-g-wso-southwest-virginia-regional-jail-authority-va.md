@@ -8,6 +8,7 @@ state: "VA"
 county: ""
 repo_path: "kb/287g/287-g-wso-southwest-virginia-regional-jail-authority-va.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Southwest Virginia Regional Jail Authority, signed May 8, 2025."
 type: "entry"
 layout: "single"
 ---

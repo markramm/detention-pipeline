@@ -8,6 +8,7 @@ state: "AR"
 county: "Dallas County"
 repo_path: "kb/287g/287-g-tfm-dallas-county-sheriff-s-office-ar.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Dallas County Sheriff’s Office, signed September 9, 2025."
 type: "entry"
 layout: "single"
 ---

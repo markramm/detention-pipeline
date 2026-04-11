@@ -8,6 +8,7 @@ state: "FL"
 county: "Duval"
 repo_path: "kb/real-estate/4300-bulls-bay-hwy-duval-fl-262750-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at 4300 Bulls Bay Hwy, Jacksonville, Duval County, FL. 262750 sq ft. Owner: Total Distribution Inc. Status: available."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "ID"
 county: "Bingham County"
 repo_path: "kb/287g/287-g-wso-bingham-county-sheriff-s-office-id.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Bingham County Sheriff’s Office, signed May 28, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "AZ"
 county: "Pinal County"
 repo_path: "kb/287g/287-g-jem-pinal-county-sheriff-s-office-az.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Pinal County Sheriff’s Office, signed June 9, 2020."
 type: "entry"
 layout: "single"
 ---

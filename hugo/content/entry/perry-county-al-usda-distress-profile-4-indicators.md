@@ -8,6 +8,7 @@ state: "AL"
 county: "Perry"
 repo_path: "kb/budget/perry-county-al-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Perry, AL."
 type: "entry"
 layout: "single"
 ---

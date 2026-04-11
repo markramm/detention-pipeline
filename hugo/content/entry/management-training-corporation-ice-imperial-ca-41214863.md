@@ -8,6 +8,7 @@ state: "CA"
 county: "IMPERIAL"
 repo_path: "kb/anc/management-training-corporation-ice-imperial-ca-41214863.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to MANAGEMENT & TRAINING CORPORATION in CA ($41,214,863.44)."
 type: "entry"
 layout: "single"
 ---

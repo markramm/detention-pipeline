@@ -8,6 +8,7 @@ state: "IN"
 county: "Hamilton County"
 repo_path: "kb/287g/287-g-jem-hamilton-county-sheriff-s-office-in.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Hamilton County Sheriff’s Office, signed March 3, 2025."
 type: "entry"
 layout: "single"
 ---

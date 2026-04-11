@@ -8,6 +8,7 @@ state: "VA"
 county: "STAFFORD"
 repo_path: "kb/anc/techop-solutions-international-inc-ice-stafford-va-7103923.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to TECHOP SOLUTIONS INTERNATIONAL, INC. in VA ($7,103,923.20)."
 type: "entry"
 layout: "single"
 ---

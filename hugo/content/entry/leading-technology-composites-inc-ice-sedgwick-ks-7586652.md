@@ -8,6 +8,7 @@ state: "KS"
 county: "SEDGWICK"
 repo_path: "kb/anc/leading-technology-composites-inc-ice-sedgwick-ks-7586652.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to LEADING TECHNOLOGY COMPOSITES INC in KS ($7,586,652.00)."
 type: "entry"
 layout: "single"
 ---

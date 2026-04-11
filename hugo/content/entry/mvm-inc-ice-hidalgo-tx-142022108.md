@@ -8,6 +8,7 @@ state: "TX"
 county: "HIDALGO"
 repo_path: "kb/anc/mvm-inc-ice-hidalgo-tx-142022108.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to MVM, INC. in TX ($142,022,108.11)."
 type: "entry"
 layout: "single"
 ---

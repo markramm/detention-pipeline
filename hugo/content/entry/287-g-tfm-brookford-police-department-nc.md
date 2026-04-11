@@ -8,6 +8,7 @@ state: "NC"
 county: "Catawba County"
 repo_path: "kb/287g/287-g-tfm-brookford-police-department-nc.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Brookford Police Department, signed September 9, 2025."
 type: "entry"
 layout: "single"
 ---

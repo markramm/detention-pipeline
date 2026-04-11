@@ -8,6 +8,7 @@ state: "AZ"
 county: "PINAL"
 repo_path: "kb/anc/akima-global-services-llc-ice-pinal-az-37409835.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to AKIMA GLOBAL SERVICES, LLC in AZ ($37,409,835.00)."
 type: "entry"
 layout: "single"
 ---

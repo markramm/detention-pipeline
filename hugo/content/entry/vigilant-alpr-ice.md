@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/vigilant-alpr-ice.md"
 lastmod: "2026-04-06"
+summary: "ICE holds a $22.8 million contract for access to the [[vigilant-solutions-motorola|Vigilant Solutions]] automated license plate reader (ALPR) database, running through 2026. The database contains..."
 type: "entry"
 layout: "single"
 ---

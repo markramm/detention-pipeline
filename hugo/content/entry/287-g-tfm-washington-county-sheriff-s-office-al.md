@@ -8,6 +8,7 @@ state: "AL"
 county: "Washington County"
 repo_path: "kb/287g/287-g-tfm-washington-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Washington County Sheriff’s Office, signed October 17, 2025."
 type: "entry"
 layout: "single"
 ---

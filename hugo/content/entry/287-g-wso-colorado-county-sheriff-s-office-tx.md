@@ -8,6 +8,7 @@ state: "TX"
 county: "Colorado County"
 repo_path: "kb/287g/287-g-wso-colorado-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Colorado County Sheriff’s Office, signed December 2, 2025."
 type: "entry"
 layout: "single"
 ---

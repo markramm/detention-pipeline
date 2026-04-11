@@ -8,6 +8,7 @@ state: "TX"
 county: "Cameron County"
 repo_path: "kb/287g/287-g-wso-cameron-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Cameron County Sheriff’s Office, signed January 26, 2026."
 type: "entry"
 layout: "single"
 ---

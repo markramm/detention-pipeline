@@ -8,6 +8,7 @@ state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-jem-florida-department-of-corrections-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Florida Department of Corrections, signed August 21, 2020."
 type: "entry"
 layout: "single"
 ---

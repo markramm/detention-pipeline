@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/organizations/rockefeller-group.md"
 lastmod: "2026-04-08"
+summary: "Rockefeller Group, a subsidiary of Japan's Mitsubishi Estate, sold the Surprise, Arizona warehouse to DHS for $70 million — a property that cost approximately $12 million in 2023, representing a..."
 type: "entry"
 layout: "single"
 ---

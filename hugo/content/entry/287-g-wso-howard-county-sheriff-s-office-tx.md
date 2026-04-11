@@ -8,6 +8,7 @@ state: "TX"
 county: "Howard County"
 repo_path: "kb/287g/287-g-wso-howard-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Howard County Sheriff’s Office, signed October 17, 2025."
 type: "entry"
 layout: "single"
 ---

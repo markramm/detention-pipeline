@@ -8,6 +8,7 @@ state: "MN"
 county: "HENNEPIN"
 repo_path: "kb/anc/response-ai-solutions-llc-ice-hennepin-mn-2561242.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to RESPONSE AI SOLUTIONS, LLC in MN ($2,561,242.44)."
 type: "entry"
 layout: "single"
 ---

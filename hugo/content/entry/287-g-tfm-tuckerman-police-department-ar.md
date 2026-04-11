@@ -8,6 +8,7 @@ state: "AR"
 county: "Jackson County"
 repo_path: "kb/287g/287-g-tfm-tuckerman-police-department-ar.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Tuckerman Police Department, signed January 8, 2026."
 type: "entry"
 layout: "single"
 ---

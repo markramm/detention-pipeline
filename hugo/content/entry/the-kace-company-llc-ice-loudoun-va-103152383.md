@@ -8,6 +8,7 @@ state: "VA"
 county: "LOUDOUN"
 repo_path: "kb/anc/the-kace-company-llc-ice-loudoun-va-103152383.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to THE KACE COMPANY, LLC. in VA ($103,152,383.38)."
 type: "entry"
 layout: "single"
 ---

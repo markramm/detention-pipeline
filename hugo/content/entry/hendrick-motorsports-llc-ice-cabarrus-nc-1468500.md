@@ -8,6 +8,7 @@ state: "NC"
 county: "CABARRUS"
 repo_path: "kb/anc/hendrick-motorsports-llc-ice-cabarrus-nc-1468500.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to HENDRICK MOTORSPORTS LLC in NC ($1,468,500.00)."
 type: "entry"
 layout: "single"
 ---

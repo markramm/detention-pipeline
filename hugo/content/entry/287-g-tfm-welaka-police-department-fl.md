@@ -8,6 +8,7 @@ state: "FL"
 county: "Putnam County"
 repo_path: "kb/287g/287-g-tfm-welaka-police-department-fl.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Welaka Police Department, signed November 19, 2025."
 type: "entry"
 layout: "single"
 ---

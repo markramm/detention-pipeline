@@ -8,6 +8,7 @@ state: "NM"
 county: "McKinley"
 repo_path: "kb/budget/mckinley-county-nm-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for McKinley, NM."
 type: "entry"
 layout: "single"
 ---

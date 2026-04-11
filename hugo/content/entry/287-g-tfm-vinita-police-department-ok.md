@@ -8,6 +8,7 @@ state: "OK"
 county: ""
 repo_path: "kb/287g/287-g-tfm-vinita-police-department-ok.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Vinita Police Department, signed May 13, 2025."
 type: "entry"
 layout: "single"
 ---

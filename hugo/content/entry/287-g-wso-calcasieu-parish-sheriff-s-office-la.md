@@ -8,6 +8,7 @@ state: "LA"
 county: "Calacasieu Parish"
 repo_path: "kb/287g/287-g-wso-calcasieu-parish-sheriff-s-office-la.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Calcasieu Parish Sheriff’s Office, signed December 10, 2025."
 type: "entry"
 layout: "single"
 ---

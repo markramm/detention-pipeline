@@ -8,6 +8,7 @@ state: "MS"
 county: "Hinds County"
 repo_path: "kb/287g/287-g-tfm-mississippi-department-of-public-safety-ms.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Mississippi Department of Public Safety, signed December 8, 2025."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "NE"
 county: "LANCASTER"
 repo_path: "kb/anc/pen-link-ltd-ice-lancaster-ne-9819193.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to PEN-LINK, LTD in NE ($9,819,192.95)."
 type: "entry"
 layout: "single"
 ---

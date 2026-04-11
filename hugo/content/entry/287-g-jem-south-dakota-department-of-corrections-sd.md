@@ -8,6 +8,7 @@ state: "SD"
 county: ""
 repo_path: "kb/287g/287-g-jem-south-dakota-department-of-corrections-sd.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and South Dakota Department of Corrections, signed July 25, 2025."
 type: "entry"
 layout: "single"
 ---

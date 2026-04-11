@@ -8,6 +8,7 @@ state: "CA"
 county: "SAN DIEGO"
 repo_path: "kb/anc/corecivic-inc-ice-san-diego-ca-114347554.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to CORECIVIC, INC. in CA ($114,347,553.96)."
 type: "entry"
 layout: "single"
 ---

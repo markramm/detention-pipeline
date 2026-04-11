@@ -8,6 +8,7 @@ state: "AL"
 county: "Cherokee County"
 repo_path: "kb/287g/287-g-wso-cherokee-county-sheriff-s-office-al.md"
 lastmod: "2026-04-10"
+summary: "287(g) WSO agreement between ICE and Cherokee County Sheriff’s Office, signed June 25, 2025."
 type: "entry"
 layout: "single"
 ---

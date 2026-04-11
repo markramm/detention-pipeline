@@ -8,6 +8,7 @@ state: "TX"
 county: "DALLAS"
 repo_path: "kb/anc/xl-associates-inc-ice-dallas-tx-14296290.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to XL ASSOCIATES, INC. in TX ($14,296,289.83)."
 type: "entry"
 layout: "single"
 ---

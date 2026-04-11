@@ -8,6 +8,7 @@ state: "GA"
 county: "Jackson"
 repo_path: "kb/real-estate/jackson-county-industrial-park-jackson-ga-750000-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at Jackson County Industrial Park, Jefferson, Jackson County, GA. 750000 sq ft. Owner: Jackson County IDA. Status: available."
 type: "entry"
 layout: "single"
 ---

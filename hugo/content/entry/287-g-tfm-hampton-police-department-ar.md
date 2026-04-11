@@ -8,6 +8,7 @@ state: "AR"
 county: ""
 repo_path: "kb/287g/287-g-tfm-hampton-police-department-ar.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Hampton Police Department, signed June 30, 2025."
 type: "entry"
 layout: "single"
 ---

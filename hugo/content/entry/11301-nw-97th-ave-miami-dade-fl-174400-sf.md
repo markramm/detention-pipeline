@@ -8,6 +8,7 @@ state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/11301-nw-97th-ave-miami-dade-fl-174400-sf.md"
 lastmod: "2026-04-10"
+summary: "Industrial/warehouse property at 11301 NW 97th Ave, Medley, Miami-Dade County, FL. 174400 sq ft. Owner: Hilco Redevelopment Partners. Status: leased."
 type: "entry"
 layout: "single"
 ---

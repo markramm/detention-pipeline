@@ -8,6 +8,7 @@ state: "TX"
 county: "Milam County"
 repo_path: "kb/287g/287-g-tfm-milam-county-sheriff-s-office-tx.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Milam County Sheriff’s Office, signed September 9, 2025."
 type: "entry"
 layout: "single"
 ---

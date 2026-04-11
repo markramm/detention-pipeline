@@ -8,6 +8,7 @@ state: "AL"
 county: "Etowah County"
 repo_path: "kb/287g/287-g-tfm-southside-police-department-al.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Southside Police Department, signed January 8, 2026."
 type: "entry"
 layout: "single"
 ---

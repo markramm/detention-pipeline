@@ -8,6 +8,7 @@ state: "CA"
 county: "SACRAMENTO"
 repo_path: "kb/anc/g4s-secure-solutions-usa-inc-ice-sacramento-ca-15472860.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to G4S SECURE SOLUTIONS (USA) INC. in CA ($15,472,860.33)."
 type: "entry"
 layout: "single"
 ---

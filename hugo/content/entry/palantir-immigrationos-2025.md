@@ -8,6 +8,7 @@ state: ""
 county: ""
 repo_path: "kb/industry/contracts/palantir-immigrationos-2025.md"
 lastmod: "2026-04-06"
+summary: "In April 2025, ICE awarded Palantir a $30 million contract to develop the Immigration Lifecycle Operating System (ImmigrationOS). Prototype delivery was required by September 25, 2025, with full..."
 type: "entry"
 layout: "single"
 ---

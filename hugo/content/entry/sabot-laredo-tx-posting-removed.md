@@ -8,6 +8,7 @@ state: "TX"
 county: "Webb"
 repo_path: "kb/jobs/sabot-laredo-tx-posting-removed.md"
 lastmod: "2026-04-10"
+summary: "The \"Project Manager - Detention & Corrections\" position in Laredo, TX was previously listed on both LinkedIn and Sabot's career page. As of April 10, 2026, it no longer appears on..."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "SC"
 county: "Horry County"
 repo_path: "kb/287g/287-g-jem-horry-county-sheriff-s-office-sc.md"
 lastmod: "2026-04-10"
+summary: "287(g) JEM agreement between ICE and Horry County Sheriff’s Office, signed June 9, 2020."
 type: "entry"
 layout: "single"
 ---

@@ -8,6 +8,7 @@ state: "TX"
 county: "Frio"
 repo_path: "kb/budget/frio-county-tx-usda-distress-profile-4-indicators.md"
 lastmod: "2026-04-10"
+summary: "Budget distress indicators for Frio, TX."
 type: "entry"
 layout: "single"
 ---

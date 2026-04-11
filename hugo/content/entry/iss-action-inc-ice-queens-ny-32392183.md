@@ -8,6 +8,7 @@ state: "NY"
 county: "QUEENS"
 repo_path: "kb/anc/iss-action-inc-ice-queens-ny-32392183.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to ISS ACTION INC in NY ($32,392,183.29)."
 type: "entry"
 layout: "single"
 ---

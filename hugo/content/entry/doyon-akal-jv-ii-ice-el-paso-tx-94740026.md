@@ -8,6 +8,7 @@ state: "TX"
 county: "EL PASO"
 repo_path: "kb/anc/doyon-akal-jv-ii-ice-el-paso-tx-94740026.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to DOYON / AKAL JV II in TX ($94,740,025.61)."
 type: "entry"
 layout: "single"
 ---

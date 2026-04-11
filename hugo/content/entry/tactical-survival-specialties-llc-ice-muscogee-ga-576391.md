@@ -8,6 +8,7 @@ state: "GA"
 county: "MUSCOGEE"
 repo_path: "kb/anc/tactical-survival-specialties-llc-ice-muscogee-ga-576391.md"
 lastmod: "2026-04-10"
+summary: "Federal contract awarded to TACTICAL & SURVIVAL SPECIALTIES, LLC in GA ($576,390.99)."
 type: "entry"
 layout: "single"
 ---

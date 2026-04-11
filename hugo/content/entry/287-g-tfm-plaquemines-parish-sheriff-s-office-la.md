@@ -8,6 +8,7 @@ state: "LA"
 county: "Plaquemines Parish"
 repo_path: "kb/287g/287-g-tfm-plaquemines-parish-sheriff-s-office-la.md"
 lastmod: "2026-04-10"
+summary: "287(g) TFM agreement between ICE and Plaquemines Parish Sheriff’s Office, signed June 11, 2025."
 type: "entry"
 layout: "single"
 ---
