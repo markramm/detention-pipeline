@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8787&amp;path=livereload" data-no-instant defer></script>
+<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Heat Map · Detention Pipeline</title><meta name="description" content="Early-warning system for ICE detention facility expansion">
 <meta property="og:title" content="Heat Map · Detention Pipeline">
 <meta property="og:description" content="Early-warning system for ICE detention facility expansion">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:8787/map/">
+<meta property="og:url" content="https://detention-pipeline.transparencycascade.org/map/">
 <meta property="og:site_name" content="Detention Pipeline">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Heat Map · Detention Pipeline">
@@ -255,6 +255,11 @@ body {
   .tip-empty p { font-size: 10px; color: #55535e; font-style: italic; margin-top: 2px; }
   .tip-link { display: block; padding: 6px 14px; border-top: 1px solid #2a2a35; font-family: 'DM Mono', monospace; font-size: 9px; color: #55535e; text-decoration: none; text-align: center; letter-spacing: 0.06em; text-transform: uppercase; transition: all 0.1s; }
   .tip-link:hover { color: #e8e6e1; background: rgba(255,255,255,0.03); }
+  .fac-dot { fill: #c93b3b; fill-opacity: 0.7; stroke: #e84545; stroke-width: 0.5; cursor: pointer; transition: fill-opacity 0.1s; }
+  .fac-dot:hover { fill-opacity: 1; stroke-width: 1.5; }
+  .toggle-btn { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.06em; text-transform: uppercase; color: #55535e; padding: 5px 10px; border-radius: 2px; border: 1px solid #2a2a35; background: transparent; cursor: pointer; transition: all 0.12s; }
+  .toggle-btn:hover { color: #e8e6e1; border-color: #353542; }
+  .toggle-btn.active { color: #c93b3b; border-color: #c93b3b; background: rgba(201,59,59,0.1); }
 </style>
 
 </head>
@@ -275,6 +280,7 @@ body {
       <a href="/network/" >Network</a>
       <a href="/facilities/" >Facilities</a>
       <a href="/methodology/" >Methodology</a>
+      <a href="/coverage/" >Gaps</a>
       <a href="/contribute/" >Contribute</a>
     </nav>
     <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
@@ -289,6 +295,7 @@ body {
   <a href="/network/">Network</a>
   <a href="/facilities/">Facilities</a>
   <a href="/methodology/">Methodology</a>
+  <a href="/coverage/">Gaps</a>
   <a href="/contribute/">Contribute</a>
 </div>
 
@@ -299,6 +306,7 @@ body {
     <div class="map-title">Detention Pipeline Heat Map</div>
     <div class="map-sub">Multi-signal convergence scoring across U.S. counties · Data as of Feb 2026</div>
     <div class="map-actions">
+      <button class="toggle-btn" id="fac-toggle">Facilities</button>
       <a href="/fights/">County fights</a>
       <a href="/county/">Browse counties</a>
       <a href="/players/">The players</a>
@@ -334,6 +342,7 @@ let H={},FN={},mx=1;
 function hc(s){if(!s||s<=0)return'#12121a';const t=Math.min(s/mx,1);return`rgb(${18+t*237|0},${18+Math.pow(t,2.2)*50|0},${26-t*10|0})`}
 function sc(s){return s>=70?'#e84545':s>=40?'#d46a2f':s>=15?'#8a8892':'#55535e'}
 function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+let facLayer=null,facVisible=false;
 async function init(){
   const[topo,heat,names]=await Promise.all([d3.json('/counties-albers-10m.json'),d3.json('/heat_data.json'),d3.json('/fips_names.json')]);
   FN=names;heat.forEach(d=>{H[d.fips]=d});mx=d3.max(heat,d=>d.score)||1;
@@ -352,7 +361,8 @@ async function init(){
   document.getElementById('zi').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1.5);
   document.getElementById('zo').onclick=()=>svg.transition().duration(250).call(zm.scaleBy,1/1.5);
   const counties=topojson.feature(topo,topo.objects.counties);
-  g.selectAll('.county').data(counties.features).join('path').attr('class','county').attr('d',d3.geoPath())
+  const path=d3.geoPath();
+  g.selectAll('.county').data(counties.features).join('path').attr('class','county').attr('d',path)
     .attr('fill',d=>{const f=d.id.toString().padStart(5,'0');const dd=H[f];return dd?hc(dd.score):'#12121a'})
     .on('mouseenter',(e,d)=>showTip(e,d)).on('mousemove',e=>moveTip(e)).on('mouseleave',hideTip)
     .on('mousedown',function(e){this._clickStart={x:e.clientX,y:e.clientY}})
@@ -365,8 +375,50 @@ async function init(){
         window.location.href='/county/'+f+'/';
       }
     });
-  g.append('path').datum(topojson.mesh(topo,topo.objects.states,(a,b)=>a!==b)).attr('class','state-boundary').attr('d',d3.geoPath());
-  g.append('path').datum(topojson.mesh(topo,topo.objects.nation)).attr('class','nation-boundary').attr('d',d3.geoPath());
+  g.append('path').datum(topojson.mesh(topo,topo.objects.states,(a,b)=>a!==b)).attr('class','state-boundary').attr('d',path);
+  g.append('path').datum(topojson.mesh(topo,topo.objects.nation)).attr('class','nation-boundary').attr('d',path);
+
+  
+  const centroids={};
+  counties.features.forEach(f=>{
+    const fips=f.id.toString().padStart(5,'0');
+    const c=path.centroid(f);
+    if(c&&isFinite(c[0]))centroids[fips]=c;
+  });
+
+  
+  facLayer=g.append('g').attr('class','fac-layer').style('display','none');
+  const facs=await d3.json('/facilities_map.json');
+
+  
+  const byFips={};
+  facs.forEach(f=>{if(centroids[f.fips]){byFips[f.fips]=byFips[f.fips]||[];byFips[f.fips].push(f)}});
+
+  Object.entries(byFips).forEach(([fips,list])=>{
+    const[cx,cy]=centroids[fips];
+    const r=Math.max(2.5,Math.sqrt(list.length)*2.5);
+    facLayer.append('circle').attr('class','fac-dot').attr('cx',cx).attr('cy',cy).attr('r',r)
+      .on('mouseenter',(e)=>{
+        const names=list.map(f=>'<div style="font-size:10px;color:#8a8892;padding:1px 0;">'+esc(f.name)+'</div>').join('');
+        const county=FN[fips]||'County '+fips;
+        tipIn.innerHTML='<div class="tip-head"><div><div class="tip-county">'+esc(county)+'</div><div class="tip-fips">FIPS '+fips+' · '+list.length+' facilit'+(list.length===1?'y':'ies')+'</div></div></div><div class="tip-sigs">'+names+'</div>';
+        moveTip(e);tip.classList.add('vis');
+      })
+      .on('mousemove',e=>moveTip(e))
+      .on('mouseleave',()=>hideTip())
+      .on('click',()=>{
+        if(list.length===1)window.location.href='/facilities/'+list[0].id+'/';
+        else window.location.href='/county/'+fips+'/';
+      });
+  });
+
+  
+  const btn=document.getElementById('fac-toggle');
+  btn.onclick=()=>{
+    facVisible=!facVisible;
+    facLayer.style('display',facVisible?null:'none');
+    btn.classList.toggle('active',facVisible);
+  };
 }
 const tip=document.getElementById('tip'),tipIn=document.getElementById('tip-in');
 function showTip(ev,d){
@@ -388,6 +440,9 @@ init();
 
 <footer class="site-footer">
   <div class="footer-inner">
+    <div style="margin-bottom:10px;">
+      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm); font-size:12px; font-weight:500;">Read the investigation at The RAMM →</a>
+    </div>
     <div class="footer-links">
       <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
       <a href="/methodology/">Methodology</a>

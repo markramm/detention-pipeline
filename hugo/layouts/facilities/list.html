@@ -4,11 +4,21 @@
 </div>
 <div class="page-content">
   <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">Detention Facilities</h1>
-  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:20px;">
+  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:16px;">
     {{ .Params.facility_count }} facilities with Intergovernmental Service Agreements (IGSAs) for ICE detention.
   </p>
 
-  <table class="data-table">
+  <div style="display:flex; gap:10px; margin-bottom:16px; flex-wrap:wrap; align-items:center;">
+    <input type="text" id="fac-search" placeholder="Search facilities..."
+      style="flex:1; min-width:200px; padding:8px 12px; font-size:13px; border:1px solid var(--border); border-radius:4px; background:white; color:var(--text-primary); font-family:inherit;">
+    <select id="fac-state"
+      style="padding:8px 12px; font-size:13px; border:1px solid var(--border); border-radius:4px; background:white; color:var(--text-primary); font-family:inherit; cursor:pointer;">
+      <option value="">All states</option>
+    </select>
+    <span id="fac-count" class="mono dim" style="font-size:11px;"></span>
+  </div>
+
+  <table class="data-table" id="fac-table">
     <thead>
       <tr>
         <th>Facility</th>
@@ -19,7 +29,7 @@
     </thead>
     <tbody>
     {{ range sort (where site.RegularPages "Params.entry_type" "in" (slice "igsa" "facility")) ".Title" "asc" }}
-      <tr>
+      <tr data-state="{{ .Params.state }}">
         <td>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ with .Params.summary }}<div style="font-size:11px; color:var(--text-dim); margin-top:1px;">{{ . }}</div>{{ end }}
@@ -36,4 +46,41 @@
     </tbody>
   </table>
 </div>
+
+<script>
+(function(){
+  const search=document.getElementById('fac-search');
+  const stateSelect=document.getElementById('fac-state');
+  const countEl=document.getElementById('fac-count');
+  const rows=Array.from(document.querySelectorAll('#fac-table tbody tr'));
+  const total=rows.length;
+
+  // Populate state dropdown from actual data
+  const states=new Set();
+  rows.forEach(r=>{const s=r.dataset.state;if(s)states.add(s)});
+  Array.from(states).sort().forEach(s=>{
+    const o=document.createElement('option');
+    o.value=s;o.textContent=s;
+    stateSelect.appendChild(o);
+  });
+
+  function filter(){
+    const q=search.value.toLowerCase();
+    const st=stateSelect.value;
+    let vis=0;
+    rows.forEach(r=>{
+      const text=r.textContent.toLowerCase();
+      const matchQ=!q||text.includes(q);
+      const matchSt=!st||r.dataset.state===st;
+      const show=matchQ&&matchSt;
+      r.style.display=show?'':'none';
+      if(show)vis++;
+    });
+    countEl.textContent=vis<total?vis+' of '+total:'';
+  }
+
+  search.addEventListener('input',filter);
+  stateSelect.addEventListener('change',filter);
+})();
+</script>
 {{ end }}

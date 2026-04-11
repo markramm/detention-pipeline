@@ -1,0 +1,86 @@
+{{ define "main" }}
+{{ $repoURL := site.Params.repoURL }}
+
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>
+  <a href="/players/">Players</a><span class="sep">/</span>
+  <a href="/organizations/">Organizations</a><span class="sep">/</span>
+  {{ .Title }}
+</div>
+
+<div class="page-content">
+  <div style="padding-top:24px; max-width:760px;">
+    <div style="margin-bottom:6px;">
+      <span class="signal-badge">
+        <span class="signal-dot" style="background:{{ .Params.signal_color }};"></span>
+        {{ .Params.signal_label }}
+      </span>
+      {{ with .Params.status }}
+      <span class="signal-badge">{{ . | humanize | title }}</span>
+      {{ end }}
+    </div>
+
+    <h1 class="serif" style="font-size:28px; font-weight:400; letter-spacing:-0.01em; margin-bottom:8px;">{{ .Title }}</h1>
+
+    <div style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:16px; font-size:12px; color:var(--text-dim);">
+      {{ with .Params.org_type }}<span class="mono">{{ . | humanize }}</span>{{ end }}
+      {{ with .Params.headquarters }}<span>{{ . }}</span>{{ end }}
+      {{ with .Params.ticker }}<span class="mono">{{ . }}</span>{{ end }}
+      {{ with .Params.aum }}<span>AUM: {{ . }}</span>{{ end }}
+    </div>
+
+    <article style="font-size:14.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:32px;">
+      {{ .Content }}
+    </article>
+
+    <div style="padding:12px 16px; background:var(--bg-content-alt); border-radius:4px; border-left:3px solid var(--accent-warm); margin-bottom:24px; font-size:12.5px; color:var(--text-secondary); line-height:1.6;">
+      This research is published at <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm); font-weight:500;">The RAMM</a> — investigative reporting on the detention pipeline.
+    </div>
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap; padding-top:16px; border-top:1px solid var(--border);">
+      {{ with .Params.repo_path }}
+      <a href="{{ $repoURL }}/edit/main/{{ . }}" class="btn btn-sm" target="_blank" rel="noopener">Edit</a>
+      {{ end }}
+      <a href="{{ $repoURL }}/issues/new?template=data-correction.yml&county={{ .Title | urlquery }}" class="btn btn-sm" target="_blank" rel="noopener">Report issue</a>
+    </div>
+
+    {{/* Related players — organizations + contractors/people sharing tags */}}
+    {{ $currentTags := .Params.tags | default slice }}
+    {{ $currentPath := .RelPermalink }}
+    {{ $related := slice }}
+    {{ $allOrgs := where site.RegularPages "Params.entry_type" "organization" }}
+    {{ range $allOrgs }}
+      {{ if ne .RelPermalink $currentPath }}
+        {{ $related = $related | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $allPlayers := where site.RegularPages "Type" "players" }}
+    {{ range $allPlayers }}
+      {{ $shared := intersect ($currentTags) (.Params.tags | default slice) }}
+      {{ if $shared }}
+        {{ $related = $related | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $related = $related | uniq }}
+    {{ if $related }}
+    <div style="margin-top:28px;">
+      <h3 class="mono dim" style="font-size:9px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:10px; padding-bottom:6px; border-bottom:1px solid var(--border);">
+        Related Players
+      </h3>
+      {{ range first 8 $related }}
+      <div class="card" style="padding:8px 14px; margin-bottom:6px;">
+        <a href="{{ .RelPermalink }}">
+          <div style="display:flex; align-items:center; gap:6px;">
+            <span class="signal-dot" style="background:{{ .Params.signal_color }};"></span>
+            <span class="card-title" style="font-size:13px; margin:0;">{{ .Title }}</span>
+            <span class="card-meta" style="margin:0; margin-left:auto;">{{ .Params.signal_label }}</span>
+          </div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+  </div>
+</div>
+{{ end }}

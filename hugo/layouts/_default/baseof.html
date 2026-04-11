@@ -253,10 +253,11 @@ body {
       <a href="/fights/" {{ if hasPrefix .RelPermalink "/fights" }}class="active"{{ end }}>Fights</a>
       <a href="/tactics/" {{ if eq .RelPermalink "/tactics/" }}class="active"{{ end }}>Tactics</a>
       <a href="/county/" {{ if hasPrefix .RelPermalink "/county" }}class="active"{{ end }}>Counties</a>
-      <a href="/players/" {{ if hasPrefix .RelPermalink "/players" }}class="active"{{ end }}>Players</a>
+      <a href="/players/" {{ if or (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") }}class="active"{{ end }}>Players</a>
       <a href="/network/" {{ if hasPrefix .RelPermalink "/network" }}class="active"{{ end }}>Network</a>
       <a href="/facilities/" {{ if hasPrefix .RelPermalink "/facilities" }}class="active"{{ end }}>Facilities</a>
       <a href="/methodology/" {{ if eq .RelPermalink "/methodology/" }}class="active"{{ end }}>Methodology</a>
+      <a href="/coverage/" {{ if eq .RelPermalink "/coverage/" }}class="active"{{ end }}>Gaps</a>
       <a href="/contribute/" {{ if eq .RelPermalink "/contribute/" }}class="active"{{ end }}>Contribute</a>
     </nav>
     <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
@@ -271,6 +272,7 @@ body {
   <a href="/network/">Network</a>
   <a href="/facilities/">Facilities</a>
   <a href="/methodology/">Methodology</a>
+  <a href="/coverage/">Gaps</a>
   <a href="/contribute/">Contribute</a>
 </div>
 
@@ -287,6 +289,9 @@ body {
 {{ end }}
 <footer class="site-footer">
   <div class="footer-inner">
+    <div style="margin-bottom:10px;">
+      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm); font-size:12px; font-weight:500;">Read the investigation at The RAMM →</a>
+    </div>
     <div class="footer-links">
       <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
       <a href="/methodology/">Methodology</a>

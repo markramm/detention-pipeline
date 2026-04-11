@@ -33,7 +33,7 @@ A warehouse in Tremont, Pennsylvania (central Pennsylvania) is designated as one
 - **Purchase price**: $119 million
 - **Estimated market value**: ~$60 million (double estimated market value)
 - **Prior use**: Big Lots distribution center — sat empty after Big Lots **went bankrupt in 2024**
-- **Ownership chain**: After bankruptcy, ownership transferred to a subsidiary of a real estate fund managed by **[Blue Owl Capital](/entry/blue-owl-capital/)**, a $157B AUM private equity firm
+- **Ownership chain**: After bankruptcy, ownership transferred to a subsidiary of a real estate fund managed by **[Blue Owl Capital](/organizations/blue-owl-capital/)**, a $157B AUM private equity firm
 - **Conflict of interest**: At least 33 Trump administration members hold Blue Owl investments, including President Trump ($5M+) and John Russell McGranahan, former GSA general counsel through November 2025
 
 ## Context

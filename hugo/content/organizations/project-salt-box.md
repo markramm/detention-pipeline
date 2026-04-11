@@ -10,8 +10,13 @@ repo_path: "kb/industry/organizations/project-salt-box.md"
 lastmod: "2026-04-08"
 summary: "Activist research org documenting ICE warehouse overpayments through property records and lien filings. Their data shows markups ranging from 137% to ~1000% across confirmed purchases."
 source_count: 1
-type: "entry"
+type: "organizations"
 layout: "single"
+org_type: "research-activist"
+headquarters: ""
+status: "active"
+ticker: ""
+aum: ""
 ---
 
 ## Overview

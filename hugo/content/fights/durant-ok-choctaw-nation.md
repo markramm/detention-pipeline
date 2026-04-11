@@ -24,7 +24,7 @@ In one of the most creative and effective resistance actions against the ICE war
 
 ## Blue Owl Connection
 
-The Durant warehouse was owned by **[Blue Owl Capital](/entry/blue-owl-capital/)** through its real estate subsidiary. Blue Owl also sold the [Tremont, PA](/facilities/tremont-pa-mega-center/) warehouse to DHS for $119 million (double market value). The Durant and Tremont properties demonstrate Blue Owl's systematic involvement in the ICE warehouse pipeline.
+The Durant warehouse was owned by **[Blue Owl Capital](/organizations/blue-owl-capital/)** through its real estate subsidiary. Blue Owl also sold the [Tremont, PA](/facilities/tremont-pa-mega-center/) warehouse to DHS for $119 million (double market value). The Durant and Tremont properties demonstrate Blue Owl's systematic involvement in the ICE warehouse pipeline.
 
 ## Significance
 

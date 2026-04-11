@@ -4,4 +4,5 @@ layout: list
 contractor_count: 25
 people_count: 19
 money_count: 11
+org_count: 6
 ---

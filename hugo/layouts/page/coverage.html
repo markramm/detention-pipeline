@@ -1,0 +1,429 @@
+{{ define "head" }}
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<style>
+  #gap-map-wrap { width:100%; height:500px; position:relative; overflow:hidden; cursor:grab; background:#0a0a0f; border-radius:5px; border:1px solid var(--border); }
+  #gap-map-wrap:active { cursor:grabbing; }
+  #gap-map-wrap svg { width:100%; height:100%; }
+  .gap-county { stroke:rgba(42,42,53,0.5); stroke-width:0.25; cursor:pointer; transition:stroke-width 0.1s; }
+  .gap-county:hover { stroke:#8a8892; stroke-width:1; }
+  .gap-state-boundary { fill:none; stroke:#353542; stroke-width:0.6; pointer-events:none; }
+  .gap-nation-boundary { fill:none; stroke:#55535e; stroke-width:0.8; pointer-events:none; }
+  #gap-tip { position:fixed; z-index:200; pointer-events:none; opacity:0; transition:opacity 0.1s; max-width:300px; }
+  #gap-tip.vis { opacity:1; }
+  .gap-tip-in { background:#111118; border:1px solid #353542; border-radius:5px; box-shadow:0 4px 20px rgba(0,0,0,0.5); overflow:hidden; color:#e8e6e1; padding:10px 14px; }
+  .gap-tip-name { font-family:'Instrument Serif',serif; font-size:15px; margin-bottom:2px; }
+  .gap-tip-meta { font-family:'DM Mono',monospace; font-size:9px; color:#55535e; }
+  .gap-tip-detail { font-size:11px; color:#8a8892; margin-top:6px; line-height:1.5; }
+  #gap-map-legend { position:absolute; bottom:12px; left:12px; background:#111118; border:1px solid #2a2a35; border-radius:4px; padding:8px 12px; display:flex; flex-direction:column; gap:4px; }
+  .gap-legend-row { display:flex; align-items:center; gap:6px; font-family:'DM Mono',monospace; font-size:9px; color:#8a8892; }
+  .gap-legend-swatch { width:12px; height:10px; border-radius:2px; }
+  #gap-map-zoom { position:absolute; top:50%; right:12px; transform:translateY(-50%); display:flex; flex-direction:column; gap:1px; }
+  .gap-z-btn { width:28px; height:28px; background:#111118; border:1px solid #2a2a35; color:#8a8892; font-family:'DM Mono',monospace; font-size:13px; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:all 0.1s; }
+  .gap-z-btn:hover { background:#22222f; color:#e8e6e1; }
+  .gap-z-btn:first-child { border-radius:3px 3px 0 0; }
+  .gap-z-btn:last-child { border-radius:0 0 3px 3px; }
+</style>
+{{ end }}
+
+{{ define "main" }}
+{{ $repoURL := site.Params.repoURL }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>Coverage Gaps
+</div>
+<div class="page-content" style="max-width:none; padding-bottom:0;">
+
+  {{/* ── Urgency Header ── */}}
+  <div style="max-width:1200px; margin:0 auto; padding:24px 0 0;">
+    <div style="display:flex; align-items:baseline; gap:16px; flex-wrap:wrap; margin-bottom:4px;">
+      <h1 class="serif" style="font-size:32px; font-weight:400; letter-spacing:-0.02em;">Where Investigation Is Needed</h1>
+    </div>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; max-width:640px; margin-bottom:20px;">
+      Most counties in this system have only automated signals — no one has checked commission agendas,
+      searched local news, or filed FOIA requests. The highest-priority targets are high-scoring counties
+      where no human has looked.
+    </p>
+  </div>
+
+  {{/* ── Summary Strip ── */}}
+  <div style="max-width:1200px; margin:0 auto;">
+    <div id="gap-stats" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:10px; margin-bottom:28px;">
+      <div class="card" style="text-align:center; padding:16px; border-top:3px solid var(--accent);">
+        <div class="mono" id="stat-unresearched" style="font-size:32px; font-weight:500; line-height:1; color:var(--accent);">--</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.1em; text-transform:uppercase; margin-top:4px;">Unresearched counties</div>
+      </div>
+      <div class="card" style="text-align:center; padding:16px; border-top:3px solid #c49025;">
+        <div class="mono" id="stat-partial" style="font-size:32px; font-weight:500; line-height:1; color:#c49025;">--</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.1em; text-transform:uppercase; margin-top:4px;">Partially researched</div>
+      </div>
+      <div class="card" style="text-align:center; padding:16px; border-top:3px solid #2a8a5a;">
+        <div class="mono" id="stat-well" style="font-size:32px; font-weight:500; line-height:1; color:#2a8a5a;">--</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.1em; text-transform:uppercase; margin-top:4px;">Well researched</div>
+      </div>
+      <div class="card" style="text-align:center; padding:16px; border-top:3px solid var(--accent-hot);">
+        <div class="mono" id="stat-urgent" style="font-size:32px; font-weight:500; line-height:1; color:var(--accent-hot);">--</div>
+        <div class="mono dim" style="font-size:8px; letter-spacing:0.1em; text-transform:uppercase; margin-top:4px;">High-score + no research</div>
+      </div>
+    </div>
+  </div>
+
+  {{/* ── Coverage Gap Map ── */}}
+  <div style="max-width:1200px; margin:0 auto 28px;">
+    <div class="mono dim" style="font-size:9px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:8px;">Research Gaps Map</div>
+    <div id="gap-map-wrap">
+      <div id="gap-map-legend">
+        <div class="gap-legend-row"><div class="gap-legend-swatch" style="background:#b5222d;"></div>Unresearched, high score</div>
+        <div class="gap-legend-row"><div class="gap-legend-swatch" style="background:#8a3535;"></div>Unresearched, low score</div>
+        <div class="gap-legend-row"><div class="gap-legend-swatch" style="background:#c49025;"></div>Partially researched</div>
+        <div class="gap-legend-row"><div class="gap-legend-swatch" style="background:#1a6a3a;"></div>Well researched</div>
+        <div class="gap-legend-row"><div class="gap-legend-swatch" style="background:#12121a;"></div>No signals</div>
+      </div>
+      <div id="gap-map-zoom">
+        <button class="gap-z-btn" id="gap-zi">+</button>
+        <button class="gap-z-btn" id="gap-zo">&minus;</button>
+      </div>
+    </div>
+    <div id="gap-tip"><div class="gap-tip-in" id="gap-tip-in"></div></div>
+  </div>
+
+  {{/* ── Coverage Bar ── */}}
+  <div style="max-width:1200px; margin:0 auto 28px;">
+    <div class="mono dim" style="font-size:9px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:6px;">Coverage across all tracked counties</div>
+    <div id="coverage-bar" style="display:flex; height:18px; border-radius:3px; overflow:hidden; border:1px solid var(--border); background:var(--bg-content-alt);"></div>
+    <div style="display:flex; gap:16px; margin-top:6px; font-size:10px; color:var(--text-dim);">
+      <span><span style="display:inline-block; width:8px; height:8px; border-radius:2px; background:var(--accent); margin-right:4px; vertical-align:middle;"></span>Unresearched</span>
+      <span><span style="display:inline-block; width:8px; height:8px; border-radius:2px; background:#c49025; margin-right:4px; vertical-align:middle;"></span>Partial</span>
+      <span><span style="display:inline-block; width:8px; height:8px; border-radius:2px; background:#2a8a5a; margin-right:4px; vertical-align:middle;"></span>Well researched</span>
+    </div>
+  </div>
+
+  {{/* ── State Breakdown ── */}}
+  <div style="max-width:1200px; margin:0 auto 28px;">
+    <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:10px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase;">By State</h2>
+    </div>
+    <div id="state-grid" style="display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:8px;"></div>
+  </div>
+
+  {{/* ── Priority Table ── */}}
+  <div style="max-width:1200px; margin:0 auto; padding-bottom:48px;">
+    <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-bottom:12px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase;">Adopt a County</h2>
+      <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+        <input type="text" id="gap-search" placeholder="Search county or state..."
+          style="padding:6px 10px; font-size:12px; border:1px solid var(--border); border-radius:3px; background:white; color:var(--text-primary); font-family:inherit; min-width:180px;">
+        <select id="gap-state-filter"
+          style="padding:6px 10px; font-size:12px; border:1px solid var(--border); border-radius:3px; background:white; color:var(--text-primary); font-family:inherit; cursor:pointer;">
+          <option value="">All states</option>
+        </select>
+        <select id="gap-coverage-filter"
+          style="padding:6px 10px; font-size:12px; border:1px solid var(--border); border-radius:3px; background:white; color:var(--text-primary); font-family:inherit; cursor:pointer;">
+          <option value="">All coverage</option>
+          <option value="unresearched" selected>Unresearched only</option>
+          <option value="partial">Partially researched</option>
+          <option value="well">Well researched</option>
+        </select>
+        <span id="gap-count" class="mono dim" style="font-size:11px;"></span>
+      </div>
+    </div>
+
+    <div style="overflow-x:auto;">
+    <table class="data-table" id="gap-table">
+      <thead>
+        <tr>
+          <th style="cursor:pointer; user-select:none;" data-sort="priority">Priority <span class="sort-arrow">&#9660;</span></th>
+          <th style="cursor:pointer; user-select:none;" data-sort="county">County</th>
+          <th style="width:50px; cursor:pointer; user-select:none;" data-sort="state">State</th>
+          <th style="width:60px; cursor:pointer; user-select:none;" data-sort="score">Score</th>
+          <th style="width:60px; cursor:pointer; user-select:none;" data-sort="signals">Signals</th>
+          <th style="width:90px">Coverage</th>
+          <th style="width:120px">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="gap-tbody"></tbody>
+    </table>
+    </div>
+
+    <div id="gap-more" style="text-align:center; margin-top:16px; display:none;">
+      <button id="gap-load-more" class="btn" style="font-size:12px;">Show more counties</button>
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  const HUMAN_TYPES = new Set(['commission-activity','comms-discipline','sheriff-network','real-estate-trace','job-posting','county-fight','legislative-trace']);
+  const REPO = '{{ site.Params.repoURL }}';
+  let allCounties = [];
+  let filtered = [];
+  let shown = 0;
+  const PAGE_SIZE = 50;
+
+  function classify(county) {
+    const sigs = Object.keys(county.signals);
+    const humanCount = sigs.filter(s => HUMAN_TYPES.has(s)).length;
+    if (humanCount >= 2) return 'well';
+    if (humanCount === 1) return 'partial';
+    return 'unresearched';
+  }
+
+  function priority(county) {
+    const cov = classify(county);
+    const covWeight = cov === 'unresearched' ? 3 : cov === 'partial' ? 1.5 : 0.2;
+    return county.score * covWeight;
+  }
+
+  function coverageBadge(cov) {
+    if (cov === 'well') return '<span class="signal-badge" style="font-size:9px; background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">Well</span>';
+    if (cov === 'partial') return '<span class="signal-badge" style="font-size:9px; background:rgba(196,144,37,0.08); border-color:rgba(196,144,37,0.2); color:#c49025;">Partial</span>';
+    return '<span class="signal-badge" style="font-size:9px; background:rgba(201,59,59,0.08); border-color:rgba(201,59,59,0.2); color:var(--accent);">None</span>';
+  }
+
+  function scoreColor(s) {
+    if (s >= 70) return 'var(--accent-hot)';
+    if (s >= 40) return 'var(--accent-warm)';
+    if (s >= 15) return 'var(--text-secondary)';
+    return 'var(--text-dim)';
+  }
+
+  // Map coloring: coverage × score → fill color
+  function gapColor(county) {
+    if (!county) return '#12121a';
+    const cov = county._coverage;
+    if (cov === 'well') return '#1a6a3a';
+    if (cov === 'partial') return '#c49025';
+    // Unresearched: intensity by score
+    const t = Math.min(county.score / 110, 1);
+    const r = Math.round(60 + t * 121);
+    const g = Math.round(20 + t * 14);
+    const b = Math.round(25 + t * 20);
+    return 'rgb(' + r + ',' + g + ',' + b + ')';
+  }
+
+  function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+  async function init() {
+    const [data, topo, names] = await Promise.all([
+      fetch('/heat_data.json').then(r => r.json()),
+      fetch('/counties-albers-10m.json').then(r => r.json()),
+      fetch('/fips_names.json').then(r => r.json())
+    ]);
+
+    const FN = names;
+    allCounties = data.map(c => {
+      c._coverage = classify(c);
+      c._priority = priority(c);
+      return c;
+    }).sort((a, b) => b._priority - a._priority);
+
+    // Index by FIPS
+    const byFips = {};
+    allCounties.forEach(c => { byFips[c.fips] = c; });
+
+    // Summary stats
+    let unresearched = 0, partial = 0, well = 0, urgent = 0;
+    allCounties.forEach(c => {
+      if (c._coverage === 'unresearched') { unresearched++; if (c.score >= 40) urgent++; }
+      else if (c._coverage === 'partial') partial++;
+      else well++;
+    });
+    document.getElementById('stat-unresearched').textContent = unresearched;
+    document.getElementById('stat-partial').textContent = partial;
+    document.getElementById('stat-well').textContent = well;
+    document.getElementById('stat-urgent').textContent = urgent;
+
+    // ── Gap Map ──
+    const el = document.getElementById('gap-map-wrap');
+    const w = el.clientWidth, h = el.clientHeight;
+    const svg = d3.select('#gap-map-wrap').append('svg').attr('width', w).attr('height', h);
+    const g = svg.append('g');
+    const mW = 1016, mH = 594, s0 = Math.min(w / mW, h / mH) * 0.92;
+    const tx = (w - mW * s0) / 2 - (-58) * s0, ty = (h - mH * s0) / 2 - 13 * s0;
+    const it = d3.zoomIdentity.translate(tx, ty).scale(s0);
+    const zm = d3.zoom().scaleExtent([s0 * 0.8, s0 * 16]).on('zoom', e => g.attr('transform', e.transform));
+    svg.call(zm).call(zm.transform, it);
+    document.getElementById('gap-zi').onclick = () => svg.transition().duration(250).call(zm.scaleBy, 1.5);
+    document.getElementById('gap-zo').onclick = () => svg.transition().duration(250).call(zm.scaleBy, 1 / 1.5);
+
+    const counties = topojson.feature(topo, topo.objects.counties);
+    const path = d3.geoPath();
+    const tip = document.getElementById('gap-tip');
+    const tipIn = document.getElementById('gap-tip-in');
+
+    g.selectAll('.gap-county').data(counties.features).join('path')
+      .attr('class', 'gap-county').attr('d', path)
+      .attr('fill', d => {
+        const f = d.id.toString().padStart(5, '0');
+        return gapColor(byFips[f]);
+      })
+      .on('mouseenter', (e, d) => {
+        const f = d.id.toString().padStart(5, '0');
+        const c = byFips[f];
+        const nm = c ? c.county : (FN[f] || 'County ' + f);
+        if (c) {
+          const covLabel = c._coverage === 'well' ? 'Well researched' : c._coverage === 'partial' ? 'Partially researched' : 'Unresearched';
+          const present = Object.keys(c.signals).map(s => '<span style="color:#e8e6e1;">' + s.replace(/-/g, ' ') + '</span>').join(', ');
+          tipIn.innerHTML = '<div class="gap-tip-name">' + esc(nm) + '</div>' +
+            '<div class="gap-tip-meta">FIPS ' + f + ' &middot; Score ' + c.score + ' &middot; ' + covLabel + '</div>' +
+            '<div class="gap-tip-detail">Has: ' + (present || 'none') + '</div>';
+        } else {
+          tipIn.innerHTML = '<div class="gap-tip-name">' + esc(nm) + '</div><div class="gap-tip-meta">No pipeline signals</div>';
+        }
+        moveTip(e); tip.classList.add('vis');
+      })
+      .on('mousemove', e => moveTip(e))
+      .on('mouseleave', () => tip.classList.remove('vis'))
+      .on('mousedown', function(e) { this._clickStart = { x: e.clientX, y: e.clientY }; })
+      .on('mouseup', function(e, d) {
+        const s = this._clickStart;
+        if (!s) return;
+        if (Math.abs(e.clientX - s.x) < 5 && Math.abs(e.clientY - s.y) < 5) {
+          const f = d.id.toString().padStart(5, '0');
+          window.location.href = '/county/' + f + '/';
+        }
+      });
+
+    g.append('path').datum(topojson.mesh(topo, topo.objects.states, (a, b) => a !== b)).attr('class', 'gap-state-boundary').attr('d', path);
+    g.append('path').datum(topojson.mesh(topo, topo.objects.nation)).attr('class', 'gap-nation-boundary').attr('d', path);
+
+    function moveTip(ev) {
+      let x = ev.clientX + 14, y = ev.clientY + 14;
+      if (x + tip.offsetWidth > window.innerWidth - 14) x = ev.clientX - tip.offsetWidth - 14;
+      if (y + tip.offsetHeight > window.innerHeight - 14) y = ev.clientY - tip.offsetHeight - 14;
+      tip.style.left = x + 'px'; tip.style.top = y + 'px';
+    }
+
+    // Coverage bar
+    const total = allCounties.length;
+    const bar = document.getElementById('coverage-bar');
+    bar.innerHTML =
+      '<div style="width:' + (unresearched/total*100) + '%; background:var(--accent); transition:width 0.4s;"></div>' +
+      '<div style="width:' + (partial/total*100) + '%; background:#c49025; transition:width 0.4s;"></div>' +
+      '<div style="width:' + (well/total*100) + '%; background:#2a8a5a; transition:width 0.4s;"></div>';
+
+    // State dropdown + grid
+    const states = {};
+    allCounties.forEach(c => {
+      if (!states[c.state]) states[c.state] = { total: 0, unresearched: 0, partial: 0, well: 0, topScore: 0 };
+      states[c.state].total++;
+      states[c.state][c._coverage]++;
+      if (c._coverage === 'unresearched' && c.score > states[c.state].topScore) states[c.state].topScore = c.score;
+    });
+
+    const sel = document.getElementById('gap-state-filter');
+    Object.keys(states).sort().forEach(s => {
+      const o = document.createElement('option');
+      o.value = s; o.textContent = s + ' (' + states[s].unresearched + ' gaps)';
+      sel.appendChild(o);
+    });
+
+    // State cards
+    const grid = document.getElementById('state-grid');
+    const sorted = Object.entries(states).sort((a, b) => b[1].unresearched - a[1].unresearched);
+    sorted.forEach(([st, info]) => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.style.cssText = 'padding:10px 14px; cursor:pointer; margin-bottom:0;';
+      card.innerHTML =
+        '<div style="display:flex; justify-content:space-between; align-items:baseline;">' +
+          '<span style="font-size:14px; font-weight:500;">' + st + '</span>' +
+          '<span class="mono" style="font-size:11px; color:' + (info.unresearched > 0 ? 'var(--accent)' : '#2a8a5a') + ';">' + info.unresearched + '/' + info.total + '</span>' +
+        '</div>' +
+        '<div style="display:flex; height:4px; border-radius:2px; overflow:hidden; margin-top:6px; background:var(--bg-content-alt);">' +
+          '<div style="width:' + (info.unresearched/info.total*100) + '%; background:var(--accent);"></div>' +
+          '<div style="width:' + (info.partial/info.total*100) + '%; background:#c49025;"></div>' +
+          '<div style="width:' + (info.well/info.total*100) + '%; background:#2a8a5a;"></div>' +
+        '</div>' +
+        (info.topScore >= 40 ? '<div class="mono dim" style="font-size:9px; margin-top:4px;">Top unresearched: ' + info.topScore + '</div>' : '');
+      card.onclick = () => {
+        sel.value = st;
+        sel.dispatchEvent(new Event('change'));
+        document.getElementById('gap-table').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      };
+      grid.appendChild(card);
+    });
+
+    // Initial filter + render
+    applyFilters();
+
+    // Events
+    document.getElementById('gap-search').addEventListener('input', applyFilters);
+    sel.addEventListener('change', applyFilters);
+    document.getElementById('gap-coverage-filter').addEventListener('change', applyFilters);
+    document.getElementById('gap-load-more').addEventListener('click', () => { renderMore(); });
+
+    // Sort headers
+    document.querySelectorAll('#gap-table th[data-sort]').forEach(th => {
+      th.addEventListener('click', () => sortBy(th.dataset.sort, th));
+    });
+  }
+
+  let sortField = 'priority', sortAsc = false;
+
+  function sortBy(field, th) {
+    if (sortField === field) { sortAsc = !sortAsc; }
+    else { sortField = field; sortAsc = field === 'county' || field === 'state'; }
+    document.querySelectorAll('#gap-table th .sort-arrow').forEach(el => el.textContent = '');
+    th.querySelector('.sort-arrow').textContent = sortAsc ? '\u25B2' : '\u25BC';
+    applyFilters();
+  }
+
+  function applyFilters() {
+    const q = document.getElementById('gap-search').value.toLowerCase();
+    const st = document.getElementById('gap-state-filter').value;
+    const cov = document.getElementById('gap-coverage-filter').value;
+
+    filtered = allCounties.filter(c => {
+      if (q && !c.county.toLowerCase().includes(q) && !c.state.toLowerCase().includes(q)) return false;
+      if (st && c.state !== st) return false;
+      if (cov && c._coverage !== cov) return false;
+      return true;
+    });
+
+    filtered.sort((a, b) => {
+      let va, vb;
+      if (sortField === 'priority') { va = a._priority; vb = b._priority; }
+      else if (sortField === 'county') { va = a.county; vb = b.county; }
+      else if (sortField === 'state') { va = a.state; vb = b.state; }
+      else if (sortField === 'score') { va = a.score; vb = b.score; }
+      else if (sortField === 'signals') { va = a.signal_types; vb = b.signal_types; }
+      if (typeof va === 'string') return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+      return sortAsc ? va - vb : vb - va;
+    });
+
+    shown = 0;
+    document.getElementById('gap-tbody').innerHTML = '';
+    renderMore();
+    document.getElementById('gap-count').textContent = filtered.length + ' counties';
+  }
+
+  function renderMore() {
+    const tbody = document.getElementById('gap-tbody');
+    const end = Math.min(shown + PAGE_SIZE, filtered.length);
+    for (let i = shown; i < end; i++) {
+      const c = filtered[i];
+      const tr = document.createElement('tr');
+      const tipUrl = REPO + '/issues/new?template=tip.yml&county=' + encodeURIComponent(c.county.split(',')[0]) + '&state=' + c.state;
+      tr.innerHTML =
+        '<td class="mono" style="font-size:12px; color:var(--text-dim);">' + (i + 1) + '</td>' +
+        '<td><a href="/county/' + c.fips + '/" style="color:var(--text-primary); text-decoration:none; font-weight:500;">' + esc(c.county) + '</a></td>' +
+        '<td class="mono">' + c.state + '</td>' +
+        '<td><span class="mono" style="color:' + scoreColor(c.score) + '; font-weight:500;">' + c.score + '</span></td>' +
+        '<td class="mono" style="color:var(--text-dim);">' + c.signal_types + '</td>' +
+        '<td>' + coverageBadge(c._coverage) + '</td>' +
+        '<td style="white-space:nowrap;">' +
+          '<a href="/county/' + c.fips + '/" class="btn btn-sm" style="font-size:10px; padding:3px 7px;">View</a> ' +
+          '<a href="/foia/?fips=' + c.fips + '" class="btn btn-sm" style="font-size:10px; padding:3px 7px;">FOIA</a> ' +
+          '<a href="' + tipUrl + '" class="btn btn-sm" style="font-size:10px; padding:3px 7px;" target="_blank" rel="noopener">Tip</a>' +
+        '</td>';
+      tbody.appendChild(tr);
+    }
+    shown = end;
+    document.getElementById('gap-more').style.display = shown < filtered.length ? '' : 'none';
+  }
+
+  init();
+})();
+</script>
+{{ end }}

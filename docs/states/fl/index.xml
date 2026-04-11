@@ -2,450 +2,450 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FL on Detention Pipeline</title>
-    <link>http://localhost:8787/states/fl/</link>
+    <link>https://detention-pipeline.transparencycascade.org/states/fl/</link>
     <description>Recent content in FL on Detention Pipeline</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:8787/states/fl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://detention-pipeline.transparencycascade.org/states/fl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alachua County, FL</title>
-      <link>http://localhost:8787/county/12001/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12001/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12001/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12001/</guid>
       <description></description>
     </item>
     <item>
       <title>Baker County, FL</title>
-      <link>http://localhost:8787/county/12003/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12003/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12003/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12003/</guid>
       <description></description>
     </item>
     <item>
       <title>Bay County, FL</title>
-      <link>http://localhost:8787/county/12005/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12005/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12005/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12005/</guid>
       <description></description>
     </item>
     <item>
       <title>Bradford County, FL</title>
-      <link>http://localhost:8787/county/12007/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12007/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12007/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12007/</guid>
       <description></description>
     </item>
     <item>
       <title>Brevard County, FL</title>
-      <link>http://localhost:8787/county/12009/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12009/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12009/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12009/</guid>
       <description></description>
     </item>
     <item>
       <title>Broward County, FL</title>
-      <link>http://localhost:8787/county/12011/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12011/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12011/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12011/</guid>
       <description></description>
     </item>
     <item>
       <title>Charlotte County, FL</title>
-      <link>http://localhost:8787/county/12015/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12015/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12015/</guid>
       <description></description>
     </item>
     <item>
       <title>Citrus County, FL</title>
-      <link>http://localhost:8787/county/12017/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12017/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12017/</guid>
       <description></description>
     </item>
     <item>
       <title>Clay County, FL</title>
-      <link>http://localhost:8787/county/12019/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12019/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12019/</guid>
       <description></description>
     </item>
     <item>
       <title>Collier County, FL</title>
-      <link>http://localhost:8787/county/12021/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12021/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12021/</guid>
       <description></description>
     </item>
     <item>
       <title>Columbia County, FL</title>
-      <link>http://localhost:8787/county/12023/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12023/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12023/</guid>
       <description></description>
     </item>
     <item>
       <title>DeSoto County, FL</title>
-      <link>http://localhost:8787/county/12027/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12027/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12027/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12027/</guid>
       <description></description>
     </item>
     <item>
       <title>Dixie County, FL</title>
-      <link>http://localhost:8787/county/12029/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12029/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12029/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12029/</guid>
       <description></description>
     </item>
     <item>
       <title>Duval County, FL</title>
-      <link>http://localhost:8787/county/12031/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12031/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12031/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12031/</guid>
       <description></description>
     </item>
     <item>
       <title>Escambia County, FL</title>
-      <link>http://localhost:8787/county/12033/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12033/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12033/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12033/</guid>
       <description></description>
     </item>
     <item>
       <title>Flagler County, FL</title>
-      <link>http://localhost:8787/county/12035/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12035/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12035/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12035/</guid>
       <description></description>
     </item>
     <item>
       <title>Gadsden County, FL</title>
-      <link>http://localhost:8787/county/12039/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12039/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12039/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12039/</guid>
       <description></description>
     </item>
     <item>
       <title>Gilchrist County, FL</title>
-      <link>http://localhost:8787/county/12041/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12041/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12041/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12041/</guid>
       <description></description>
     </item>
     <item>
       <title>Glades County, FL</title>
-      <link>http://localhost:8787/county/12043/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12043/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12043/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12043/</guid>
       <description></description>
     </item>
     <item>
       <title>Gulf County, FL</title>
-      <link>http://localhost:8787/county/12045/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12045/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12045/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12045/</guid>
       <description></description>
     </item>
     <item>
       <title>Hamilton County, FL</title>
-      <link>http://localhost:8787/county/12047/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12047/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12047/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12047/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardee County, FL</title>
-      <link>http://localhost:8787/county/12049/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12049/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12049/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12049/</guid>
       <description></description>
     </item>
     <item>
       <title>Hendry County, FL</title>
-      <link>http://localhost:8787/county/12051/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12051/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12051/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12051/</guid>
       <description></description>
     </item>
     <item>
       <title>Hernando County, FL</title>
-      <link>http://localhost:8787/county/12053/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12053/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12053/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12053/</guid>
       <description></description>
     </item>
     <item>
       <title>Highlands County, FL</title>
-      <link>http://localhost:8787/county/12055/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12055/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12055/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12055/</guid>
       <description></description>
     </item>
     <item>
       <title>Hillsborough County, FL</title>
-      <link>http://localhost:8787/county/12057/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12057/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12057/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12057/</guid>
       <description></description>
     </item>
     <item>
       <title>Holmes County, FL</title>
-      <link>http://localhost:8787/county/12059/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12059/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12059/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12059/</guid>
       <description></description>
     </item>
     <item>
       <title>Indian River County, FL</title>
-      <link>http://localhost:8787/county/12061/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12061/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12061/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12061/</guid>
       <description></description>
     </item>
     <item>
       <title>Jackson County, FL</title>
-      <link>http://localhost:8787/county/12063/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12063/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12063/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12063/</guid>
       <description></description>
     </item>
     <item>
       <title>Jefferson County, FL</title>
-      <link>http://localhost:8787/county/12065/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12065/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12065/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12065/</guid>
       <description></description>
     </item>
     <item>
       <title>Lake County, FL</title>
-      <link>http://localhost:8787/county/12069/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12069/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12069/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12069/</guid>
       <description></description>
     </item>
     <item>
       <title>Lee County, FL</title>
-      <link>http://localhost:8787/county/12071/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12071/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12071/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12071/</guid>
       <description></description>
     </item>
     <item>
       <title>Leon County, FL</title>
-      <link>http://localhost:8787/county/12073/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12073/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12073/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12073/</guid>
       <description></description>
     </item>
     <item>
       <title>Levy County, FL</title>
-      <link>http://localhost:8787/county/12075/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12075/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12075/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12075/</guid>
       <description></description>
     </item>
     <item>
       <title>Liberty County, FL</title>
-      <link>http://localhost:8787/county/12077/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12077/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12077/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12077/</guid>
       <description></description>
     </item>
     <item>
       <title>Madison County, FL</title>
-      <link>http://localhost:8787/county/12079/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12079/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12079/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12079/</guid>
       <description></description>
     </item>
     <item>
       <title>Manatee County, FL</title>
-      <link>http://localhost:8787/county/12081/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12081/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12081/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12081/</guid>
       <description></description>
     </item>
     <item>
       <title>Marion County, FL</title>
-      <link>http://localhost:8787/county/12083/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12083/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12083/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12083/</guid>
       <description></description>
     </item>
     <item>
       <title>Martin County, FL</title>
-      <link>http://localhost:8787/county/12085/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12085/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12085/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12085/</guid>
       <description></description>
     </item>
     <item>
       <title>Miami-Dade County, FL</title>
-      <link>http://localhost:8787/county/12086/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12086/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12086/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12086/</guid>
       <description></description>
     </item>
     <item>
       <title>Monroe County, FL</title>
-      <link>http://localhost:8787/county/12087/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12087/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12087/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12087/</guid>
       <description></description>
     </item>
     <item>
       <title>Nassau County, FL</title>
-      <link>http://localhost:8787/county/12089/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12089/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12089/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12089/</guid>
       <description></description>
     </item>
     <item>
       <title>Okaloosa County, FL</title>
-      <link>http://localhost:8787/county/12091/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12091/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12091/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12091/</guid>
       <description></description>
     </item>
     <item>
       <title>Okeechobee County, FL</title>
-      <link>http://localhost:8787/county/12093/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12093/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12093/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12093/</guid>
       <description></description>
     </item>
     <item>
       <title>Orange County, FL</title>
-      <link>http://localhost:8787/county/12095/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12095/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12095/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12095/</guid>
       <description></description>
     </item>
     <item>
       <title>Osceola County, FL</title>
-      <link>http://localhost:8787/county/12097/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12097/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12097/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12097/</guid>
       <description></description>
     </item>
     <item>
       <title>Palm Beach County, FL</title>
-      <link>http://localhost:8787/county/12099/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12099/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12099/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12099/</guid>
       <description></description>
     </item>
     <item>
       <title>Pasco County, FL</title>
-      <link>http://localhost:8787/county/12101/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12101/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12101/</guid>
       <description></description>
     </item>
     <item>
       <title>Pinellas County, FL</title>
-      <link>http://localhost:8787/county/12103/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12103/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12103/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12103/</guid>
       <description></description>
     </item>
     <item>
       <title>Polk County, FL</title>
-      <link>http://localhost:8787/county/12105/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12105/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12105/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12105/</guid>
       <description></description>
     </item>
     <item>
       <title>Putnam County, FL</title>
-      <link>http://localhost:8787/county/12107/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12107/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12107/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12107/</guid>
       <description></description>
     </item>
     <item>
       <title>Santa Rosa County, FL</title>
-      <link>http://localhost:8787/county/12113/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12113/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12113/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12113/</guid>
       <description></description>
     </item>
     <item>
       <title>Sarasota County, FL</title>
-      <link>http://localhost:8787/county/12115/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12115/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12115/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12115/</guid>
       <description></description>
     </item>
     <item>
       <title>Seminole County, FL</title>
-      <link>http://localhost:8787/county/12117/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12117/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12117/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12117/</guid>
       <description></description>
     </item>
     <item>
       <title>St. Johns County, FL</title>
-      <link>http://localhost:8787/county/12109/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12109/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12109/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12109/</guid>
       <description></description>
     </item>
     <item>
       <title>St. Lucie County, FL</title>
-      <link>http://localhost:8787/county/12111/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12111/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12111/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12111/</guid>
       <description></description>
     </item>
     <item>
       <title>Sumter County, FL</title>
-      <link>http://localhost:8787/county/12119/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12119/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12119/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12119/</guid>
       <description></description>
     </item>
     <item>
       <title>Suwannee County, FL</title>
-      <link>http://localhost:8787/county/12121/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12121/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12121/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12121/</guid>
       <description></description>
     </item>
     <item>
       <title>Taylor County, FL</title>
-      <link>http://localhost:8787/county/12123/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12123/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12123/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12123/</guid>
       <description></description>
     </item>
     <item>
       <title>Union County, FL</title>
-      <link>http://localhost:8787/county/12125/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12125/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12125/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12125/</guid>
       <description></description>
     </item>
     <item>
       <title>Volusia County, FL</title>
-      <link>http://localhost:8787/county/12127/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12127/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12127/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12127/</guid>
       <description></description>
     </item>
     <item>
       <title>Wakulla County, FL</title>
-      <link>http://localhost:8787/county/12129/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12129/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12129/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12129/</guid>
       <description></description>
     </item>
     <item>
       <title>Walton County, FL</title>
-      <link>http://localhost:8787/county/12131/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/12131/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/12131/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/12131/</guid>
       <description></description>
     </item>
   </channel>

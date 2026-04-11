@@ -21,7 +21,7 @@ Blue Owl Capital director who previously served on the board of **Trump Entertai
 
 ## Key Facts
 
-- **Current role**: Director at [Blue Owl Capital](/entry/blue-owl-capital/) ($157B AUM)
+- **Current role**: Director at [Blue Owl Capital](/organizations/blue-owl-capital/) ($157B AUM)
 - **Prior role**: Board member, Trump Entertainment Resorts
 - Blue Owl owns warehouses sold to DHS at multiples of market value
 - 33 Trump administration members hold Blue Owl investments

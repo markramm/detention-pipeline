@@ -115,7 +115,7 @@ The entire **$1.074 billion** in warehouse purchases occurred on Forst's watch a
 
 ## Cross-References
 
-- [goldman-sachs-detention](/entry/goldman-sachs-detention/) — Goldman double exposure (Roxbury seller + Williamsport lender)
+- [goldman-sachs-detention](/organizations/goldman-sachs-detention/) — Goldman double exposure (Roxbury seller + Williamsport lender)
 - [salt-lake-city-ut-mega-center](/facilities/salt-lake-city-ut-mega-center/) — Deutsche Bank/DWS/RREEF ownership chain
 - [wexmac-titus-military-procurement-bypass](/entry/wexmac-titus-military-procurement-bypass/) — The mechanism that bypassed Forst's agency
 - Epstein network: Deutsche Bank maintained 40 Epstein accounts, $319M consolidated, $225M in fines

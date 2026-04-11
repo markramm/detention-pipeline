@@ -2,177 +2,177 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AR on Detention Pipeline</title>
-    <link>http://localhost:8787/states/ar/</link>
+    <link>https://detention-pipeline.transparencycascade.org/states/ar/</link>
     <description>Recent content in AR on Detention Pipeline</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:8787/states/ar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://detention-pipeline.transparencycascade.org/states/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baxter County, AR</title>
-      <link>http://localhost:8787/county/05005/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05005/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05005/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05005/</guid>
       <description></description>
     </item>
     <item>
       <title>Benton County, AR</title>
-      <link>http://localhost:8787/county/05007/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05007/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05007/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05007/</guid>
       <description></description>
     </item>
     <item>
       <title>Calhoun County, AR</title>
-      <link>http://localhost:8787/county/05013/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05013/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05013/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05013/</guid>
       <description></description>
     </item>
     <item>
       <title>Clark County, AR</title>
-      <link>http://localhost:8787/county/05019/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05019/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05019/</guid>
       <description></description>
     </item>
     <item>
       <title>Craighead County, AR</title>
-      <link>http://localhost:8787/county/05031/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05031/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05031/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05031/</guid>
       <description></description>
     </item>
     <item>
       <title>Crawford County, AR</title>
-      <link>http://localhost:8787/county/05033/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05033/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05033/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05033/</guid>
       <description></description>
     </item>
     <item>
       <title>Dallas County, AR</title>
-      <link>http://localhost:8787/county/05039/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05039/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05039/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05039/</guid>
       <description></description>
     </item>
     <item>
       <title>Faulkner County, AR</title>
-      <link>http://localhost:8787/county/05045/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05045/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05045/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05045/</guid>
       <description></description>
     </item>
     <item>
       <title>Garland County, AR</title>
-      <link>http://localhost:8787/county/05051/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05051/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05051/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05051/</guid>
       <description></description>
     </item>
     <item>
       <title>Independence County, AR</title>
-      <link>http://localhost:8787/county/05063/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05063/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05063/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05063/</guid>
       <description></description>
     </item>
     <item>
       <title>Izard County, AR</title>
-      <link>http://localhost:8787/county/05065/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05065/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05065/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05065/</guid>
       <description></description>
     </item>
     <item>
       <title>Jackson County, AR</title>
-      <link>http://localhost:8787/county/05067/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05067/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05067/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05067/</guid>
       <description></description>
     </item>
     <item>
       <title>Johnson County, AR</title>
-      <link>http://localhost:8787/county/05071/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05071/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05071/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05071/</guid>
       <description></description>
     </item>
     <item>
       <title>Lafayette County, AR</title>
-      <link>http://localhost:8787/county/05073/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05073/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05073/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05073/</guid>
       <description></description>
     </item>
     <item>
       <title>Lawrence County, AR</title>
-      <link>http://localhost:8787/county/05075/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05075/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05075/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05075/</guid>
       <description></description>
     </item>
     <item>
       <title>Little River County, AR</title>
-      <link>http://localhost:8787/county/05081/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05081/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05081/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05081/</guid>
       <description></description>
     </item>
     <item>
       <title>Lonoke County, AR</title>
-      <link>http://localhost:8787/county/05085/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05085/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05085/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05085/</guid>
       <description></description>
     </item>
     <item>
       <title>Madison County, AR</title>
-      <link>http://localhost:8787/county/05087/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05087/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05087/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05087/</guid>
       <description></description>
     </item>
     <item>
       <title>Miller County, AR</title>
-      <link>http://localhost:8787/county/05091/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05091/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05091/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05091/</guid>
       <description></description>
     </item>
     <item>
       <title>Mississippi County, AR</title>
-      <link>http://localhost:8787/county/05093/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05093/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05093/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05093/</guid>
       <description></description>
     </item>
     <item>
       <title>Pulaski County, AR</title>
-      <link>http://localhost:8787/county/05119/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05119/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05119/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05119/</guid>
       <description></description>
     </item>
     <item>
       <title>Saline County, AR</title>
-      <link>http://localhost:8787/county/05125/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05125/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05125/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05125/</guid>
       <description></description>
     </item>
     <item>
       <title>Sebastian County, AR</title>
-      <link>http://localhost:8787/county/05131/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05131/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05131/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05131/</guid>
       <description></description>
     </item>
     <item>
       <title>Washington County, AR</title>
-      <link>http://localhost:8787/county/05143/</link>
+      <link>https://detention-pipeline.transparencycascade.org/county/05143/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8787/county/05143/</guid>
+      <guid>https://detention-pipeline.transparencycascade.org/county/05143/</guid>
       <description></description>
     </item>
   </channel>

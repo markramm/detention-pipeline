@@ -10,8 +10,13 @@ repo_path: "kb/industry/organizations/rockefeller-group.md"
 lastmod: "2026-04-08"
 summary: "Mitsubishi Estate subsidiary that sold the Surprise, AZ warehouse to DHS for $70M vs ~$12M cost basis (483% markup). GardaWorld won the $313.4M conversion contract despite no detention experience."
 source_count: 2
-type: "entry"
+type: "organizations"
 layout: "single"
+org_type: "real-estate-developer"
+headquarters: "New York, NY"
+status: "active"
+ticker: ""
+aum: ""
 ---
 
 ## Overview

@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>
+  <a href="/players/">Players</a><span class="sep">/</span>Organizations
+</div>
+<div class="page-content">
+  <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">Organizations</h1>
+  <p style="font-size:13px; color:var(--text-secondary); margin-bottom:20px;">
+    {{ .Params.count }} financial institutions and investment firms whose profits drive detention expansion — warehouse sellers, private equity, and the banks behind them.
+  </p>
+
+  {{ range where site.RegularPages "Params.entry_type" "organization" }}
+  <div class="card">
+    <a href="{{ .RelPermalink }}">
+      <div style="display:flex; align-items:center; gap:8px;">
+        <span class="signal-dot" style="background:#4a7ab5;"></span>
+        <div style="flex:1;">
+          <div class="card-title">{{ .Title }}</div>
+          {{ with .Params.summary }}
+          <div style="font-size:12px; color:var(--text-secondary); margin-top:2px; line-height:1.4;">{{ . }}</div>
+          {{ end }}
+          <div class="card-meta" style="margin-top:2px;">
+            {{ with .Params.org_type }}{{ . | humanize }}{{ end }}
+            {{ with .Params.headquarters }} · {{ . }}{{ end }}
+            {{ with .Params.ticker }} · {{ . }}{{ end }}
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

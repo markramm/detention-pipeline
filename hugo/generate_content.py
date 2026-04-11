@@ -49,7 +49,7 @@ ENTRY_TYPE_META = {
     "financial-flow":      {"label": "Financial Flow",      "color": "#8a2a5a", "section": "players"},
     "analysis":            {"label": "Analysis",            "color": "#5a6a8a", "section": "players"},
     "contract":            {"label": "Contract",            "color": "#c49025", "section": "players"},
-    "organization":        {"label": "Organization",        "color": "#4a7ab5", "section": "players"},
+    "organization":        {"label": "Organization",        "color": "#4a7ab5", "section": "organizations"},
     "personnel-flow":      {"label": "Personnel Flow",      "color": "#7a4ab5", "section": "players"},
     "county-fight":        {"label": "County Fight",        "color": "#2a8a5a", "section": "fights"},
     "event":               {"label": "Event",               "color": "#5a7a6a", "section": "players"},
@@ -197,6 +197,8 @@ def build_wikilink_map(parsed_entries):
             _wikilink_urls[entry_id] = f"/players/people/{entry_id}/"
         elif entry_type in ("financial-flow", "analysis"):
             _wikilink_urls[entry_id] = f"/players/money/{entry_id}/"
+        elif entry_type == "organization":
+            _wikilink_urls[entry_id] = f"/organizations/{entry_id}/"
         elif entry_type in ("igsa", "facility"):
             _wikilink_urls[entry_id] = f"/facilities/{entry_id}/"
         else:
@@ -267,7 +269,8 @@ def generate_all_pages(parsed_entries, heat_data):
 
     # Section directories
     for d in ["entry", "fights", "players/contractors", "players/people",
-              "players/money", "facilities", "signals", "county", "state", "map"]:
+              "players/money", "organizations", "facilities", "signals",
+              "county", "state", "map"]:
         (CONTENT_PATH / d).mkdir(parents=True, exist_ok=True)
 
     for parsed in parsed_entries:
@@ -424,6 +427,15 @@ def generate_all_pages(parsed_entries, heat_data):
             page_path = CONTENT_PATH / "players" / "money" / f"{entry_id}.md"
             fm["layout"] = "single"
             fm["player_type"] = "money"
+        elif entry_type == "organization":
+            page_path = CONTENT_PATH / "organizations" / f"{entry_id}.md"
+            fm["type"] = "organizations"
+            fm["layout"] = "single"
+            fm["org_type"] = fields.get("org_type", "")
+            fm["headquarters"] = esc(fields.get("headquarters", ""))
+            fm["status"] = fields.get("status", "")
+            fm["ticker"] = esc(fields.get("ticker", ""))
+            fm["aum"] = esc(fields.get("aum", ""))
         elif entry_type in ("igsa", "facility"):
             page_path = CONTENT_PATH / "facilities" / f"{entry_id}.md"
             fm["layout"] = "single"
@@ -591,6 +603,7 @@ fight_count: {fight_count}
     people_count = len(entries_by_type.get("person", []))
     money_count = len(entries_by_type.get("financial-flow", []))
     money_count += len(entries_by_type.get("analysis", []))
+    org_count_for_players = len(entries_by_type.get("organization", []))
     with open(CONTENT_PATH / "players" / "_index.md", "w") as f:
         f.write(f"""---
 title: "The Players"
@@ -598,6 +611,7 @@ layout: list
 contractor_count: {contractor_count}
 people_count: {people_count}
 money_count: {money_count}
+org_count: {org_count_for_players}
 ---
 """)
     with open(CONTENT_PATH / "players" / "contractors" / "_index.md", "w") as f:
@@ -622,6 +636,17 @@ title: "Financial Flows"
 type: money
 layout: list
 count: {money_count}
+---
+""")
+
+    # Organizations index
+    org_count = len(entries_by_type.get("organization", []))
+    with open(CONTENT_PATH / "organizations" / "_index.md", "w") as f:
+        f.write(f"""---
+title: "Organizations"
+type: organizations
+layout: list
+count: {org_count}
 ---
 """)
 
@@ -728,7 +753,7 @@ def generate_static_pages():
     STATIC_TITLES = {
         "tactics": "Playbook & Counter-Playbook",
     }
-    for name, layout in [("methodology", "methodology"), ("contribute", "contribute"), ("foia", "foia"), ("tactics", "tactics")]:
+    for name, layout in [("methodology", "methodology"), ("contribute", "contribute"), ("foia", "foia"), ("tactics", "tactics"), ("coverage", "coverage")]:
         title = STATIC_TITLES.get(name, name.title())
         with open(CONTENT_PATH / f"{name}.md", "w") as f:
             f.write(f"""---
@@ -800,6 +825,25 @@ def main():
 
     print("Copying static assets...")
     copy_static_assets(heat_data)
+
+    # Generate facilities map data for overlay
+    facility_types = entries_by_type.get("igsa", []) + entries_by_type.get("facility", [])
+    fac_map_data = []
+    seen_fips = {}
+    for fac in facility_types:
+        fips = fac.get("fips", "")
+        if not fips:
+            continue
+        fac_map_data.append({
+            "id": fac["id"],
+            "fips": fips,
+            "name": fac.get("title", fac["id"]),
+            "state": fac.get("state", ""),
+        })
+        seen_fips.setdefault(fips, []).append(fac["id"])
+    with open(STATIC_PATH / "facilities_map.json", "w") as f:
+        json.dump(fac_map_data, f)
+    print(f"  {len(fac_map_data)} facilities mapped for overlay ({len(seen_fips)} unique counties)")
 
     # Featured data for homepage
     fights = [e for e in all_entries if e["type"] == "county-fight"]
