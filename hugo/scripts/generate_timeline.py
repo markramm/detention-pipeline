@@ -146,13 +146,8 @@ def extract_date_from_entry(fm, body, entry_type):
     if d:
         return d, "from_body"
 
-    # Fallback: lastmod
-    lastmod = fm.get("lastmod", "")
-    if lastmod:
-        d = parse_date_text(lastmod)
-        if d:
-            return d, "lastmod"
-
+    # No fallback to lastmod — those dates reflect ingestion, not events.
+    # Entries without a real date are excluded from the timeline.
     return None, None
 
 

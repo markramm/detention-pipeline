@@ -118,7 +118,7 @@
 
   <div class="tl-header">
     <h1>Timeline</h1>
-    <p>{{ .Site.Data.timeline.metadata.total_events }} events from {{ .Site.Data.timeline.metadata.date_range.start }} to present. Showing the acceleration.</p>
+    <p id="tl-subtitle">Loading timeline data...</p>
   </div>
 
   <div class="tl-controls" id="tl-controls">
@@ -401,21 +401,25 @@
     // Update X scale
     x.domain([tStart, tEnd]);
 
-    // Choose appropriate tick format
-    let xTicks, xFormat;
+    // Build the axis with appropriate ticks for the resolution
+    let xAxis;
     if (resolution === 'day') {
-      xTicks = d3.timeDay.every(Math.max(1, Math.floor((tEnd - tStart) / 86400000 / 8)));
-      xFormat = d3.timeFormat('%b %d');
+      const spanDays = (tEnd - tStart) / 86400000;
+      const every = Math.max(1, Math.ceil(spanDays / 8));
+      xAxis = d3.axisBottom(x)
+        .ticks(d3.timeDay.every(every))
+        .tickFormat(d3.timeFormat('%b %d'));
     } else if (resolution === 'week') {
-      xTicks = d3.timeWeek.every(Math.max(1, Math.floor((tEnd - tStart) / 86400000 / 56)));
-      xFormat = d3.timeFormat('%b %d');
+      xAxis = d3.axisBottom(x)
+        .ticks(d3.timeWeek.every(2))
+        .tickFormat(d3.timeFormat('%b %d'));
     } else {
-      xTicks = d3.timeYear.every(1);
-      xFormat = d3.timeFormat('%Y');
+      xAxis = d3.axisBottom(x)
+        .ticks(d3.timeMonth.every(3))
+        .tickFormat(d3.timeFormat(timeRange === '6m' || timeRange === '3m' ? '%b %Y' : '%Y'));
     }
 
-    svg.select('.x-axis').transition().duration(300)
-      .call(d3.axisBottom(x).ticks(xTicks).tickFormat(xFormat));
+    svg.select('.x-axis').transition().duration(300).call(xAxis);
     svg.select('.x-axis').selectAll('text')
       .style('fill', 'rgba(232,230,225,0.4)')
       .style('font-family', "'DM Mono', monospace")
@@ -622,6 +626,10 @@
     timeRange = this.value;
     updateAll();
   });
+
+  // Set subtitle from loaded data
+  document.getElementById('tl-subtitle').textContent =
+    `${events.length} dated events from ${timeline.metadata.date_range.start} to present. Showing the acceleration.`;
 
   // Initial render
   updateAll();
