@@ -63,26 +63,41 @@ CLOSED_SESSION_KEYWORDS = [
     r"warehouse.*(?:conversion|lease|purchase)",
 ]
 
-# Counties to monitor — VALIDATED against Legistar API (2026-04-10)
+# Counties to monitor — VALIDATED against Legistar API (2026-04-11)
 # Format: (legistar_client_id, county_name, state, fips)
 # Find client IDs at: https://webapi.legistar.com/Home/Examples
 # Validation: curl -s -o /dev/null -w "%{http_code}" "https://webapi.legistar.com/v1/{client}/Bodies"
 MONITORED_COUNTIES = [
-    # Validated — return 200 from Legistar API
-    ("broward", "Broward", "FL", "12011"),           # Heat score 83
-    ("miamidade", "Miami-Dade", "FL", "12086"),      # Heat score 65
-    ("hillsboroughcounty", "Hillsborough", "FL", "12057"),  # Heat score 43
-    ("martin", "Martin", "FL", "12085"),             # Heat score 35
-    ("pinellas", "Pinellas", "FL", "12103"),          # Nearby FL county
-    ("maricopa", "Maricopa", "AZ", "04013"),         # Heat score 48, Surprise warehouse
-    ("fulton", "Fulton", "GA", "13121"),             # Metro Atlanta
-    ("lacounty", "Los Angeles", "CA", "06037"),      # Heat score 64
-    ("sacramento", "Sacramento", "CA", "06067"),     # Heat score 44
+    # Florida (7)
+    ("broward", "Broward", "FL", "12011"),                    # Score 129
+    ("miamidade", "Miami-Dade", "FL", "12086"),               # Score 111
+    ("hillsboroughcounty", "Hillsborough", "FL", "12057"),    # Score 74
+    ("martin", "Martin", "FL", "12085"),                      # Score 66
+    ("pinellas", "Pinellas", "FL", "12103"),                   # Score 62
+    ("brevardfl", "Brevard", "FL", "12009"),                   # Score 62
+    ("hernandocountyfl", "Hernando", "FL", "12053"),           # Score 48
+    ("charlottecountyfl", "Charlotte", "FL", "12015"),         # Score 48
+    # Georgia (3)
+    ("dekalbcountyga", "DeKalb", "GA", "13089"),              # Score 65
+    ("douglascounty", "Douglas", "GA", "13097"),              # Score 57
+    ("fulton", "Fulton", "GA", "13121"),                      # Score 57
+    # Texas (1)
+    ("harriscountytx", "Harris", "TX", "48201"),              # Score 59
+    # Arizona (1)
+    ("maricopa", "Maricopa", "AZ", "04013"),                  # Score 72
+    # Virginia (1)
+    ("albemarle", "Albemarle", "VA", "51003"),                # Score 65
+    # Oklahoma (1)
+    ("oklahomacounty", "Oklahoma", "OK", "40109"),            # Score 49
+    # California (2)
+    ("lacounty", "Los Angeles", "CA", "06037"),               # Score 64
+    ("sacramento", "Sacramento", "CA", "06067"),              # Score 44
 
-    # NOT on Legistar (as of 2026-04-10) — need alternative monitoring:
-    # Palm Beach FL, Pinal AZ, Webb TX, Charlton GA, Bradford FL,
-    # Chatham GA, Gwinnett GA, Cobb GA, DeKalb GA, San Diego CA,
-    # Orange CA, Kern CA, Essex NJ, Bernalillo NM
+    # NOT on Legistar (as of 2026-04-11) — need alternative monitoring:
+    # Wayne MI (122), Charlton GA (110), Palm Beach FL (109), Pinal AZ (107),
+    # Bradford FL (100), Webb TX (99), Stewart GA (80), Frio TX (80),
+    # Chatham GA (79), San Diego CA (74), Orange CA (74), Cobb GA (65),
+    # Gwinnett GA, Kern CA, Essex NJ, Bernalillo NM
 ]
 
 
