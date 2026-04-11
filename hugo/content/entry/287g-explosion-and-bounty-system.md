@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/287g-explosion-and-bounty-system.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) grew 641% from 135 to 1,637 agreements by April 2026. ICE pays performance bonuses per immigration arrest, creating a self-reinforcing cycle feeding the detention pipeline."
 source_count: 7
 type: "entry"

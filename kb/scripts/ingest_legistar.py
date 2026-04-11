@@ -277,19 +277,83 @@ def scan_county(client, county, state, fips, since_date, dry_run=False):
     return entries
 
 
+def log(msg):
+    """Print and flush immediately."""
+    print(msg, flush=True)
+
+
+def load_progress(progress_file):
+    """Load scan progress state — which counties have been completed."""
+    if Path(progress_file).exists():
+        with open(progress_file) as f:
+            return json.load(f)
+    return {"completed": [], "since_date": None, "started": None}
+
+
+def save_progress(progress_file, progress):
+    """Save scan progress state."""
+    with open(progress_file, "w") as f:
+        json.dump(progress, f, indent=2)
+
+
+def load_existing_entries(output_file):
+    """Load previously saved entries from output file."""
+    if Path(output_file).exists():
+        try:
+            with open(output_file) as f:
+                return json.load(f)
+        except (json.JSONDecodeError, ValueError):
+            pass
+    return []
+
+
+def save_entries(output_file, entries):
+    """Write all entries to the output file."""
+    with open(output_file, "w") as f:
+        json.dump(entries, f, indent=2)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Scan Legistar county portals for detention signals")
-    parser.add_argument("--county", type=str, help="Scan only this county (e.g. baker-fl)")
+    parser.add_argument("--county", type=str, help="Scan only this county (e.g. broward or broward-fl)")
     parser.add_argument("--days", type=int, default=180, help="Look back N days (default: 180)")
     parser.add_argument("--since", type=str, help="Start date (YYYY-MM-DD), overrides --days")
     parser.add_argument("--dry-run", action="store_true", help="Preview without creating entries")
     parser.add_argument("--output", type=str, default="/tmp/commission_items.json", help="Output JSON file")
+    parser.add_argument("--resume", action="store_true", help="Resume from last incomplete run")
+    parser.add_argument("--reset", action="store_true", help="Clear progress and start fresh")
     args = parser.parse_args()
+
+    progress_file = args.output + ".progress"
 
     if args.since:
         since_date = args.since
     else:
         since_date = (datetime.now() - timedelta(days=args.days)).strftime("%Y-%m-%d")
+
+    # Handle resume/reset
+    progress = load_progress(progress_file)
+
+    if args.reset:
+        progress = {"completed": [], "since_date": None, "started": None}
+        save_progress(progress_file, progress)
+        if Path(args.output).exists():
+            Path(args.output).unlink()
+        log("Progress reset.")
+
+    if args.resume and progress["completed"]:
+        # Use the same since_date from the original run
+        if progress["since_date"]:
+            since_date = progress["since_date"]
+        log(f"Resuming — {len(progress['completed'])} counties already done")
+    else:
+        # Fresh run
+        progress = {
+            "completed": [],
+            "since_date": since_date,
+            "started": datetime.now().isoformat(),
+        }
+        save_progress(progress_file, progress)
 
     # Filter counties if specified
     counties = MONITORED_COUNTIES
@@ -300,27 +364,52 @@ def main():
             if target in c[0].lower() or target in f"{c[1]}-{c[2]}".lower().replace(" ", "")
         ]
         if not counties:
-            print(f"No county matching '{args.county}' in monitored list")
+            log(f"No county matching '{args.county}' in monitored list")
             sys.exit(1)
 
-    print(f"Scanning {len(counties)} counties since {since_date}")
+    # Skip already-completed counties on resume
+    completed_set = set(progress["completed"])
+    remaining = [c for c in counties if c[0] not in completed_set]
 
-    all_entries = []
-    for client, county, state, fips in counties:
-        print(f"\n  {county}, {state} ({client})...")
+    log(f"Scanning {len(remaining)} counties since {since_date}"
+        f"{f' (skipping {len(completed_set)} done)' if completed_set else ''}")
+
+    # Load any existing entries from previous partial run
+    all_entries = load_existing_entries(args.output) if args.resume else []
+    new_count = 0
+
+    for i, (client, county, state, fips) in enumerate(remaining, 1):
+        log(f"  [{i}/{len(remaining)}] {county}, {state} ({client})...")
+
         entries = scan_county(client, county, state, fips, since_date, dry_run=args.dry_run)
-        all_entries.extend(entries)
+
         if entries:
-            print(f"    Found {len(entries)} matching items")
+            log(f"    Found {len(entries)} matching items")
+            new_count += len(entries)
+            all_entries.extend(entries)
+
+        # Write incrementally after each county
+        if not args.dry_run:
+            save_entries(args.output, all_entries)
+
+        # Mark county as completed
+        progress["completed"].append(client)
+        save_progress(progress_file, progress)
+
         time.sleep(0.5)  # Rate limiting between counties
 
-    print(f"\nTotal: {len(all_entries)} matching agenda items across {len(counties)} counties")
+    log(f"\nDone. {new_count} new items from {len(remaining)} counties"
+        f" ({len(all_entries)} total in output)")
 
     if not args.dry_run and all_entries:
-        with open(args.output, "w") as f:
-            json.dump(all_entries, f, indent=2)
-        print(f"Saved to {args.output}")
-        print(f"\nTo import: kb import {args.output} --kb detention-pipeline-research")
+        log(f"Saved to {args.output}")
+        log(f"\nTo import: kb import {args.output} -k detention-pipeline-research")
+
+    # Clean up progress file on successful completion
+    if not args.resume or len(progress["completed"]) >= len(counties):
+        if Path(progress_file).exists():
+            Path(progress_file).unlink()
+        log("Scan complete — progress file cleaned up.")
 
 
 if __name__ == "__main__":

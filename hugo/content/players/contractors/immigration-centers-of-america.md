@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/immigration-centers-of-america.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Immigration Centers of America is a niche operator running the 732-bed Farmville VA detention center under an IGSA. Facility is notorious for abuse and inadequate medical care."
 source_count: 5
 layout: "single"

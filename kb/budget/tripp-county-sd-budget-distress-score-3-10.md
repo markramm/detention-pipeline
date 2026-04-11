@@ -1,0 +1,20 @@
+---
+id: tripp-county-sd-budget-distress-score-3-10
+title: Tripp County, SD — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- sd
+- population-loss
+- non-metro
+importance: 5
+---
+
+County-level fiscal distress indicators for Tripp County, SD.
+
+Distress score: 3/10
+Indicators: population loss, non-metro (rural)
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

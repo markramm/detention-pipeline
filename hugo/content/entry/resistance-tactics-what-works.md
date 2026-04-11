@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/resistance-tactics-what-works.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Analysis of 12+ community fights showing what stops ICE facilities: pressure sellers before purchase, control municipal water/sewer, state AG lawsuits, environmental challenges, and emergency city council action."
 source_count: 0
 type: "entry"

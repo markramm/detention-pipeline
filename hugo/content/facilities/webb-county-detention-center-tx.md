@@ -7,7 +7,7 @@ fips: ""
 state: "Texas"
 county: "Webb"
 repo_path: "kb/industry/facilities/webb-county-detention-center-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "CoreCivic-operated ICE detention facility in Laredo, TX under IGSA, on the I-35 corridor at the busiest US-Mexico commercial crossing. ANC score of 3 signals heavy alternatives-to-detention contracting."
 source_count: 3
 layout: "single"
