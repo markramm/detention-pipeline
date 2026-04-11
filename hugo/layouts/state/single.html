@@ -269,7 +269,7 @@
       tip.style.left=x+'px';tip.style.top=y+'px';
     }
   }
-  init();
+  init().catch(e => console.error('State map init failed:', e));
 })();
 </script>
 {{ end }}

@@ -237,10 +237,10 @@ def main():
     # Default paths: in-repo structure (kb/facilities, kb/) or legacy tcp-kb-internal paths
     default_igsa = os.path.join(os.path.dirname(__file__), "..", "facilities")
     if not os.path.isdir(default_igsa):
-        default_igsa = "/Users/markr/tcp-kb-internal/igsa-holders"
+        default_igsa = os.path.expanduser("~/tcp-kb-internal/igsa-holders")
     default_pipeline = os.path.join(os.path.dirname(__file__), "..")
     if not os.path.isdir(default_pipeline):
-        default_pipeline = "/Users/markr/tcp-kb-internal/detention-pipeline-research"
+        default_pipeline = os.path.expanduser("~/tcp-kb-internal/detention-pipeline-research")
     parser.add_argument("--igsa-path", type=str, default=default_igsa)
     parser.add_argument("--pipeline-path", type=str, default=default_pipeline)
     args = parser.parse_args()

@@ -423,7 +423,7 @@
     document.getElementById('gap-more').style.display = shown < filtered.length ? '' : 'none';
   }
 
-  init();
+  init().catch(e => console.error('Coverage init failed:', e));
 })();
 </script>
 {{ end }}

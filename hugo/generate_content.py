@@ -481,6 +481,8 @@ def generate_county_pages(entries_by_fips, heat_data):
     county_dir = CONTENT_PATH / "county"
     county_dir.mkdir(parents=True, exist_ok=True)
     heat_by_fips = {d["fips"]: d for d in heat_data}
+    rank_by_fips = {d["fips"]: i + 1 for i, d in enumerate(heat_data)}
+    total = len(heat_data)
 
     for fips, entries in entries_by_fips.items():
         heat = heat_by_fips.get(fips, {})
@@ -489,12 +491,7 @@ def generate_county_pages(entries_by_fips, heat_data):
         signal_types = heat.get("signal_types", 0)
         state = entries[0].get("state", "")
 
-        rank = 0
-        for i, d in enumerate(heat_data):
-            if d["fips"] == fips:
-                rank = i + 1
-                break
-        total = len(heat_data)
+        rank = rank_by_fips.get(fips, 0)
         percentile = round((1 - rank / total) * 100) if total > 0 and rank > 0 else 0
 
         # Coverage depth
@@ -788,7 +785,11 @@ def main():
     load_fips()
 
     heat_path = Path("../docs/heat_data.json")
-    heat_data = json.load(open(heat_path)) if heat_path.exists() else []
+    if heat_path.exists():
+        with open(heat_path) as f:
+            heat_data = json.load(f)
+    else:
+        heat_data = []
 
     # Clean and recreate content
     if CONTENT_PATH.exists():

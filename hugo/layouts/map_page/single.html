@@ -65,7 +65,7 @@
 <div id="map-wrap">
   <div id="map-header" class="map-overlay">
     <div class="map-title">Detention Pipeline Heat Map</div>
-    <div class="map-sub">Multi-signal convergence scoring across U.S. counties · Data as of Feb 2026</div>
+    <div class="map-sub">Multi-signal convergence scoring across U.S. counties</div>
     <div style="display:flex; gap:16px; align-items:center; margin-top:8px; flex-wrap:wrap;">
       <div class="map-controls">
         <span class="map-controls-label">Layers</span>
@@ -199,6 +199,6 @@ function showTip(ev,d){
 }
 function moveTip(ev){let x=ev.clientX+14,y=ev.clientY+14;if(x+tip.offsetWidth>window.innerWidth-14)x=ev.clientX-tip.offsetWidth-14;if(y+tip.offsetHeight>window.innerHeight-14)y=ev.clientY-tip.offsetHeight-14;tip.style.left=x+'px';tip.style.top=y+'px'}
 function hideTip(){tip.classList.remove('vis')}
-init();
+init().catch(e=>{ console.error('Map init failed:', e); document.getElementById('map-header').insertAdjacentHTML('beforeend','<div style="color:#e84545;font-size:11px;margin-top:8px;">Map data failed to load. Try refreshing.</div>'); });
 </script>
 {{ end }}
