@@ -65,7 +65,7 @@
   --bg-content-alt: #edece8;
   --text-primary: #1a1a1f;
   --text-secondary: #4a4952;
-  --text-dim: #7a7882;
+  --text-dim: #5f5d68;
   --text-light: #e8e6e1;
   --border: #dddbd6;
   --border-dark: #2a2a35;
@@ -90,6 +90,18 @@ body {
   color: var(--text-primary);
   background: var(--bg-content);
   -webkit-font-smoothing: antialiased;
+}
+/* ── Accessibility ── */
+.skip-link {
+  position: absolute; top: -100px; left: 16px; z-index: 200;
+  padding: 8px 16px; background: var(--accent); color: white;
+  font-size: 13px; font-weight: 500; border-radius: 0 0 4px 4px;
+  text-decoration: none; transition: top 0.15s;
+}
+.skip-link:focus { top: 0; }
+*:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 2px;
+  border-radius: 2px;
 }
 
 /* ── Site Header ── */
@@ -118,7 +130,7 @@ body {
 }
 .site-nav { display: flex; gap: 4px; align-items: center; }
 .site-nav a {
-  font-size: 13px; color: rgba(232,230,225,0.5); text-decoration: none;
+  font-size: 13px; color: rgba(232,230,225,0.65); text-decoration: none;
   padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
   font-weight: 400;
 }
@@ -142,11 +154,11 @@ body {
 
 /* ── Footer ── */
 .site-footer {
-  background: var(--bg-deep); color: rgba(232,230,225,0.4);
+  background: var(--bg-deep); color: rgba(232,230,225,0.55);
   padding: 32px 24px; text-align: center;
   font-size: 11px; line-height: 1.8;
 }
-.site-footer a { color: rgba(232,230,225,0.5); text-decoration: none; }
+.site-footer a { color: rgba(232,230,225,0.65); text-decoration: none; }
 .site-footer a:hover { color: var(--text-light); }
 .footer-inner { max-width: 1200px; margin: 0 auto; }
 .footer-links { display: flex; gap: 16px; justify-content: center; margin-bottom: 8px; }
@@ -222,7 +234,7 @@ body {
 .nav-group { position: relative; }
 .nav-group-trigger {
   cursor: pointer; display: inline-flex; align-items: center; gap: 3px;
-  font-size: 13px; color: rgba(232,230,225,0.5); padding: 6px 12px;
+  font-size: 13px; color: rgba(232,230,225,0.65); padding: 6px 12px;
   border-radius: 3px; transition: all 0.12s; background: none; border: none;
   font-family: inherit; font-weight: 400;
 }
@@ -239,7 +251,7 @@ body {
 .nav-group.open .nav-dropdown { display: block; }
 .nav-dropdown a {
   display: block; padding: 7px 16px; font-size: 13px;
-  color: rgba(232,230,225,0.55); white-space: nowrap; text-decoration: none;
+  color: rgba(232,230,225,0.7); white-space: nowrap; text-decoration: none;
   transition: all 0.1s; background: var(--bg-panel);
 }
 .nav-dropdown a:first-child { border-radius: 5px 5px 0 0; border-top: 1px solid var(--border-dark); }
@@ -260,10 +272,10 @@ body {
 .hamburger span { display: block; width: 20px; height: 2px; background: var(--text-light); margin: 4px 0; }
 .mobile-nav { display: none; background: var(--bg-deep); padding: 8px 24px 16px; border-bottom: 1px solid var(--border-dark); }
 .mobile-nav.open { display: block; }
-.mobile-nav a { display: block; padding: 8px 0; color: rgba(232,230,225,0.6); text-decoration: none; font-size: 14px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.mobile-nav a { display: block; padding: 8px 0; color: rgba(232,230,225,0.7); text-decoration: none; font-size: 14px; border-bottom: 1px solid rgba(255,255,255,0.05); }
 .mobile-nav a:hover { color: var(--text-light); }
 .mobile-nav-group-label {
-  display: block; padding: 10px 0 4px; color: rgba(232,230,225,0.3);
+  display: block; padding: 10px 0 4px; color: rgba(232,230,225,0.45);
   font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.1em;
   text-transform: uppercase; border-bottom: none; cursor: default;
 }
@@ -316,19 +328,20 @@ body {
 {{ block "head" . }}{{ end }}
 </head>
 <body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
 
-<header class="site-header">
+<header class="site-header" role="banner">
   <div class="site-header-inner">
     <a href="/" class="site-brand">
       <h1>Detention Pipeline</h1>
       <span class="brand-tag">Early Warning</span>
     </a>
-    <nav class="site-nav">
+    <nav class="site-nav" aria-label="Main navigation">
       <a href="/map/" {{ if hasPrefix .RelPermalink "/map" }}class="active"{{ end }}>Map</a>
       <a href="/fights/" {{ if hasPrefix .RelPermalink "/fights" }}class="active"{{ end }}>Fights</a>
       <a href="/pipeline/" {{ if eq .RelPermalink "/pipeline/" }}class="active"{{ end }}>Pipeline</a>
       <div class="nav-group">
-        <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") (hasPrefix .RelPermalink "/timeline") }}active{{ end }}">Investigate</button>
+        <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") (hasPrefix .RelPermalink "/timeline") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Investigate</button>
         <div class="nav-dropdown">
           <a href="/county/">Counties</a>
           <a href="/state/">By State</a>
@@ -342,7 +355,7 @@ body {
       </div>
       <a href="/tactics/" {{ if eq .RelPermalink "/tactics/" }}class="active"{{ end }}>Tactics</a>
       <div class="nav-group">
-        <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") (hasPrefix .RelPermalink "/resources") }}active{{ end }}">Help Build</button>
+        <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") (hasPrefix .RelPermalink "/resources") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Help Build</button>
         <div class="nav-dropdown">
           <a href="/contribute/">Contribute</a>
           <a href="/coverage/">Coverage Gaps</a>
@@ -357,7 +370,7 @@ body {
     <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
   </div>
 </header>
-<div class="mobile-nav" id="mobile-nav">
+<nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
   <a href="/start/" class="nav-start-mobile">Start Here →</a>
   <a href="/map/">Map</a>
   <a href="/fights/">Fights</a>
@@ -379,13 +392,15 @@ body {
   <a href="/develop/" style="padding-left:12px;">Develop</a>
   <a href="/resources/" style="padding-left:12px;">Resources</a>
   <a href="/methodology/" style="padding-left:12px;">Methodology</a>
-</div>
+</nav>
 
+<main id="main-content">
 {{ block "main" . }}
 <div class="page-content">
   {{ .Content }}
 </div>
 {{ end }}
+</main>
 
 {{ with .Params.lastmod }}
 <div style="max-width:1200px; margin:0 auto; padding:0 24px 12px; text-align:right;">
@@ -408,22 +423,52 @@ body {
 </footer>
 
 <script>
-document.getElementById('hamburger').onclick=function(){document.getElementById('mobile-nav').classList.toggle('open')};
-// Dropdown nav: open on hover with close delay so diagonal mouse movement works
-document.querySelectorAll('.nav-group').forEach(function(group){
-  var timer=null;
-  group.addEventListener('mouseenter',function(){clearTimeout(timer);group.classList.add('open')});
-  group.addEventListener('mouseleave',function(){timer=setTimeout(function(){group.classList.remove('open')},250)});
-  // Also support click/tap for touch devices
-  group.querySelector('.nav-group-trigger').addEventListener('click',function(e){
-    e.preventDefault();
-    var wasOpen=group.classList.contains('open');
-    document.querySelectorAll('.nav-group').forEach(function(g){g.classList.remove('open')});
-    if(!wasOpen)group.classList.add('open');
+// Hamburger menu
+(function(){
+  var hamburger=document.getElementById('hamburger');
+  var mobileNav=document.getElementById('mobile-nav');
+  hamburger.onclick=function(){
+    var open=mobileNav.classList.toggle('open');
+    hamburger.setAttribute('aria-expanded',open);
+  };
+  hamburger.setAttribute('aria-expanded','false');
+  hamburger.setAttribute('aria-controls','mobile-nav');
+})();
+// Dropdown nav: hover with delay + keyboard + aria
+(function(){
+  function setOpen(group,open){
+    if(open){group.classList.add('open')}else{group.classList.remove('open')}
+    var btn=group.querySelector('.nav-group-trigger');
+    if(btn)btn.setAttribute('aria-expanded',open);
+  }
+  function closeAll(){
+    document.querySelectorAll('.nav-group').forEach(function(g){setOpen(g,false)});
+  }
+  document.querySelectorAll('.nav-group').forEach(function(group){
+    var timer=null;
+    group.addEventListener('mouseenter',function(){clearTimeout(timer);setOpen(group,true)});
+    group.addEventListener('mouseleave',function(){timer=setTimeout(function(){setOpen(group,false)},250)});
+    var trigger=group.querySelector('.nav-group-trigger');
+    trigger.addEventListener('click',function(e){
+      e.preventDefault();
+      var wasOpen=group.classList.contains('open');
+      closeAll();
+      if(!wasOpen)setOpen(group,true);
+    });
+    // Keyboard: Enter/Space to toggle, Escape to close
+    trigger.addEventListener('keydown',function(e){
+      if(e.key==='Escape'){setOpen(group,false);trigger.focus()}
+      if(e.key==='ArrowDown'){e.preventDefault();setOpen(group,true);var first=group.querySelector('.nav-dropdown a');if(first)first.focus()}
+    });
+    // Escape from within dropdown
+    group.querySelectorAll('.nav-dropdown a').forEach(function(link){
+      link.addEventListener('keydown',function(e){
+        if(e.key==='Escape'){setOpen(group,false);trigger.focus()}
+      });
+    });
   });
-});
-// Close dropdowns when clicking outside
-document.addEventListener('click',function(e){if(!e.target.closest('.nav-group'))document.querySelectorAll('.nav-group').forEach(function(g){g.classList.remove('open')})});
+  document.addEventListener('click',function(e){if(!e.target.closest('.nav-group'))closeAll()});
+})();
 </script>
 </body>
 </html>
