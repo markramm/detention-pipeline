@@ -15,6 +15,11 @@ facility_name: ""
 operator: "ICE (federal)"
 status: "paused"
 bed_count: "500-1,500"
+facility_type: "warehouse-conversion"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

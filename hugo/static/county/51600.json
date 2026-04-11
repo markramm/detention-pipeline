@@ -2,15 +2,15 @@
   "fips": "51600",
   "county": "Fairfax city, VA",
   "state": "VA",
-  "score": 75,
+  "score": 105,
   "signal_types": 3,
-  "rank": 33,
-  "total_counties": 986,
-  "percentile": 97,
+  "rank": 17,
+  "total_counties": 1181,
+  "percentile": 99,
   "coverage": "unresearched",
-  "auto_summary": "Fairfax city, VA shows 1 existing IGSA facility, and 3 ANC contracts.",
+  "auto_summary": "Fairfax city, VA shows 4 existing IGSA facilities, and 3 ANC contracts.",
   "entry_types": {
     "anc-contract": 3,
-    "igsa": 1
+    "igsa": 4
   }
 }

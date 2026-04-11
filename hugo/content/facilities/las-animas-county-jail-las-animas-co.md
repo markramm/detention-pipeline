@@ -7,16 +7,19 @@ fips: "08071"
 state: "CO"
 county: "Las Animas"
 repo_path: "kb/facilities/las-animas-county-jail-las-animas-co.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Las Animas, CO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Las Animas County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Trinidad"
+address: "2309 East Main Street"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Las Animas County Jail in Las Animas County, CO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Las Animas County Jail in Las Animas County, CO.

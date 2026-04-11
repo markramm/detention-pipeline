@@ -7,16 +7,19 @@ fips: "38099"
 state: "ND"
 county: "Walsh"
 repo_path: "kb/facilities/walsh-county-jail-walsh-nd.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Walsh, ND."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Walsh County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Grafton"
+address: "638 Cooper Avenue"
+aor: "St. Paul"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Walsh County Jail in Walsh County, ND.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Walsh County Jail in Walsh County, ND.

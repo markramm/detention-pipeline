@@ -7,16 +7,19 @@ fips: "53005"
 state: "WA"
 county: "Benton"
 repo_path: "kb/facilities/benton-county-benton-wa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Benton, WA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Benton County"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Kennewick"
+address: "7320 W. Quinault"
+aor: "Seattle"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Benton County in Benton County, WA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Benton County in Benton County, WA.

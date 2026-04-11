@@ -7,16 +7,19 @@ fips: "47037"
 state: "TN"
 county: "Davidson"
 repo_path: "kb/facilities/davidson-co-sheriff-dept-davidson-tn.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Davidson, TN."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Davidson Co. Sheriff Dept"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Nashville"
+address: "448 2nd Avenue"
+aor: "New Orleans"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Davidson Co. Sheriff Dept in Davidson County, TN.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Davidson Co. Sheriff Dept in Davidson County, TN. Average daily population: 1.

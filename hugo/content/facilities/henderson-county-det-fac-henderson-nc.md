@@ -7,16 +7,19 @@ fips: "37089"
 state: "NC"
 county: "Henderson"
 repo_path: "kb/facilities/henderson-county-det-fac-henderson-nc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Henderson, NC."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Henderson County Det. Fac."
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Hendersonville"
+address: "375 1st Avenue East"
+aor: "Atlanta"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Henderson County Det. Fac. in Henderson County, NC.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Henderson County Det. Fac. in Henderson County, NC. Average daily population: 1.

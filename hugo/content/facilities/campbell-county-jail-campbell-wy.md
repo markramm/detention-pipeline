@@ -7,16 +7,19 @@ fips: "56005"
 state: "WY"
 county: "Campbell"
 repo_path: "kb/facilities/campbell-county-jail-campbell-wy.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Campbell, WY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Campbell County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Gillette"
+address: "600 W Boxelder Road"
+aor: "Denver"
+avg_daily_pop: "2"
 ---
 
-IGSA detention facility: Campbell County Jail in Campbell County, WY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Campbell County Jail in Campbell County, WY. Average daily population: 2.

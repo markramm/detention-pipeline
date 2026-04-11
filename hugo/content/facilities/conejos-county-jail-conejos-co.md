@@ -7,16 +7,19 @@ fips: "08021"
 state: "CO"
 county: "Conejos"
 repo_path: "kb/facilities/conejos-county-jail-conejos-co.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Conejos, CO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Conejos County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Antonito"
+address: "14044 County Road G5"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Conejos County Jail in Conejos County, CO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Conejos County Jail in Conejos County, CO.

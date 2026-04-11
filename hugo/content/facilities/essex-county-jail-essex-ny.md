@@ -7,16 +7,19 @@ fips: "36031"
 state: "NY"
 county: "Essex"
 repo_path: "kb/facilities/essex-county-jail-essex-ny.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Essex, NY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Essex County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Lewis"
+address: "702 Stowersville Road"
+aor: "Buffalo"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Essex County Jail in Essex County, NY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Essex County Jail in Essex County, NY.

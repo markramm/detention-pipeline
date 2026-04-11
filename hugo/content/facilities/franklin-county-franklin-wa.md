@@ -7,16 +7,19 @@ fips: "53021"
 state: "WA"
 county: "Franklin"
 repo_path: "kb/facilities/franklin-county-franklin-wa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Franklin, WA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Franklin County"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Pasco"
+address: "1016 N 4th St"
+aor: "Seattle"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Franklin County in Franklin County, WA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Franklin County in Franklin County, WA.

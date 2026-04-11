@@ -4,9 +4,9 @@
   "state": "TX",
   "score": 73,
   "signal_types": 3,
-  "rank": 51,
-  "total_counties": 986,
-  "percentile": 95,
+  "rank": 69,
+  "total_counties": 1181,
+  "percentile": 94,
   "coverage": "partially-researched",
   "auto_summary": "Tarrant County, TX shows 2 existing IGSA facilities, 2 287(g) agreements, and 1 real estate trace.",
   "entry_types": {

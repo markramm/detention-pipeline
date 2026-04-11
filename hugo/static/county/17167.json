@@ -1,0 +1,15 @@
+{
+  "fips": "17167",
+  "county": "Sangamon County, IL",
+  "state": "IL",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 918,
+  "total_counties": 1181,
+  "percentile": 22,
+  "coverage": "unresearched",
+  "auto_summary": "Sangamon County, IL shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

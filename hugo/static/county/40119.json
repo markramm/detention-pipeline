@@ -1,0 +1,15 @@
+{
+  "fips": "40119",
+  "county": "Payne County, OK",
+  "state": "OK",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 1041,
+  "total_counties": 1181,
+  "percentile": 12,
+  "coverage": "unresearched",
+  "auto_summary": "Payne County, OK shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

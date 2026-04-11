@@ -7,16 +7,19 @@ fips: "25009"
 state: "MA"
 county: "Essex"
 repo_path: "kb/facilities/essex-co-jail-middleton-essex-ma.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Essex, MA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Essex Co. Jail, Middleton"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Middleton"
+address: "20 Manning Ave"
+aor: "Boston"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Essex Co. Jail, Middleton in Essex County, MA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Essex Co. Jail, Middleton in Essex County, MA. Average daily population: 1.

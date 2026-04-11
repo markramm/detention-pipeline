@@ -7,16 +7,19 @@ fips: "08099"
 state: "CO"
 county: "Prowers"
 repo_path: "kb/facilities/prowers-county-jail-prowers-co.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Prowers, CO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Prowers County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Lamar"
+address: "103 East Oak Street"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Prowers County Jail in Prowers County, CO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Prowers County Jail in Prowers County, CO.

@@ -7,16 +7,19 @@ fips: "22049"
 state: "LA"
 county: "Jackson"
 repo_path: "kb/facilities/jackson-parish-correctional-center-jackson-la.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Jackson, LA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Jackson Parish Correctional Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "DIGSA"
+city: "Jonesboro"
+address: "327 Industrial Drive"
+aor: "New Orleans"
+avg_daily_pop: "1312"
 ---
 
-IGSA detention facility: Jackson Parish Correctional Center in Jackson County, LA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: Jackson Parish Correctional Center in Jackson County, LA. Average daily population: 1312.

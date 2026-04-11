@@ -15,6 +15,11 @@ facility_name: ""
 operator: "ICE (federal)"
 status: "purchased"
 bed_count: "unknown"
+facility_type: "warehouse-conversion"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

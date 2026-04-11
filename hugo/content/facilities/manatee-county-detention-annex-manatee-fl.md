@@ -7,16 +7,19 @@ fips: "12081"
 state: "FL"
 county: "Manatee"
 repo_path: "kb/facilities/manatee-county-detention-annex-manatee-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Manatee, FL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Manatee County Detention-Annex"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Palmetto"
+address: "11490 Harlee Rd."
+aor: "Miami"
+avg_daily_pop: "2"
 ---
 
-IGSA detention facility: Manatee County Detention-Annex in Manatee County, FL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Manatee County Detention-Annex in Manatee County, FL. Average daily population: 2.

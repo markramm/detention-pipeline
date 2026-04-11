@@ -7,16 +7,19 @@ fips: "06073"
 state: "CA"
 county: "San Diego"
 repo_path: "kb/facilities/las-colinas-women-det-fac-san-diego-ca.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in San Diego, CA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Las Colinas Women Det Fac"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Santee"
+address: "9000 Cottonwood Avenue"
+aor: "San Diego"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Las Colinas Women Det Fac in San Diego County, CA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Las Colinas Women Det Fac in San Diego County, CA.

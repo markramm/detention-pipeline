@@ -6,6 +6,12 @@ county: "Washington"
 state: "ME"
 fips: "23029"
 facility_name: "Washington County Jail"
+facility_type: "IGSA"
+city: "Machias"
+address: "83 Court Street"
+aor: "Boston"
+latitude: 44.7162404
+longitude: -67.4593763
 operator: ""
 status: "active"
 source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
@@ -13,14 +19,5 @@ tags:
 - igsa
 - me
 importance: 5
-facility_type: "IGSA"
-city: "Machias"
-address: "83 Court Street"
-aor: "Boston"
-latitude: 44.7162404
-longitude: -67.4593763
 ---
-
-IGSA detention facility: Washington County Jail in Washington County, ME.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Washington County Jail in Washington County, ME.

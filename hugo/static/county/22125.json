@@ -1,0 +1,15 @@
+{
+  "fips": "22125",
+  "county": "West Feliciana Parish, LA",
+  "state": "LA",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 919,
+  "total_counties": 1181,
+  "percentile": 22,
+  "coverage": "unresearched",
+  "auto_summary": "West Feliciana Parish, LA shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

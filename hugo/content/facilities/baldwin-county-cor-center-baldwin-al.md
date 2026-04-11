@@ -7,16 +7,19 @@ fips: "01003"
 state: "AL"
 county: "Baldwin"
 repo_path: "kb/facilities/baldwin-county-cor-center-baldwin-al.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Baldwin, AL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Baldwin County Cor. Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Bay Minette"
+address: "200 Hand Ave."
+aor: "New Orleans"
+avg_daily_pop: "27"
 ---
 
-IGSA detention facility: Baldwin County Cor. Center in Baldwin County, AL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Baldwin County Cor. Center in Baldwin County, AL. Average daily population: 27.

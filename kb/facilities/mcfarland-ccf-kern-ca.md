@@ -6,6 +6,12 @@ county: "Kern"
 state: "CA"
 fips: "06029"
 facility_name: "Mcfarland CCF"
+facility_type: "IGSA"
+city: "Mcfarland"
+address: "245 Taylor Ave"
+aor: "San Francisco"
+latitude: 35.66760319999999
+longitude: -119.2292158
 operator: ""
 status: "active"
 source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
@@ -13,14 +19,5 @@ tags:
 - igsa
 - ca
 importance: 5
-facility_type: "IGSA"
-city: "Mcfarland"
-address: "245 Taylor Ave"
-aor: "San Francisco"
-latitude: 35.66760319999999
-longitude: -119.2292158
 ---
-
-IGSA detention facility: Mcfarland CCF in Kern County, CA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Mcfarland CCF in Kern County, CA.

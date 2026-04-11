@@ -15,6 +15,11 @@ facility_name: ""
 operator: "GEO Group"
 status: "operational"
 bed_count: "600"
+facility_type: "purpose-built"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

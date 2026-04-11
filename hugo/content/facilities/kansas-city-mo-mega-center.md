@@ -15,6 +15,11 @@ facility_name: ""
 operator: "ICE (federal) — never operational"
 status: "blocked"
 bed_count: "7,500 beds planned"
+facility_type: "warehouse-conversion"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 Platform Ventures owned an $80M warehouse in south Kansas City planned as a 7,500-bed ICE mega center. The deal was killed by community pressure — student walkouts, mass protests, a general strike, and the city council blocking permits within hours of ICE touring the facility. Port KC (which had given the developer a 20-year tax exemption) severed all ties. Platform Ventures withdrew February 12, 2026.

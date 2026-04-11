@@ -1,0 +1,15 @@
+{
+  "fips": "17161",
+  "county": "Rock Island County, IL",
+  "state": "IL",
+  "score": 30,
+  "signal_types": 1,
+  "rank": 443,
+  "total_counties": 1181,
+  "percentile": 62,
+  "coverage": "unresearched",
+  "auto_summary": "Rock Island County, IL shows 3 existing IGSA facilities.",
+  "entry_types": {
+    "igsa": 3
+  }
+}

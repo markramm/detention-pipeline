@@ -2,14 +2,14 @@
   "fips": "41039",
   "county": "Lane County, OR",
   "state": "OR",
-  "score": 40,
+  "score": 50,
   "signal_types": 1,
-  "rank": 223,
-  "total_counties": 986,
-  "percentile": 77,
+  "rank": 182,
+  "total_counties": 1181,
+  "percentile": 85,
   "coverage": "unresearched",
-  "auto_summary": "Lane County, OR shows 2 existing IGSA facilities.",
+  "auto_summary": "Lane County, OR shows 3 existing IGSA facilities.",
   "entry_types": {
-    "igsa": 2
+    "igsa": 3
   }
 }

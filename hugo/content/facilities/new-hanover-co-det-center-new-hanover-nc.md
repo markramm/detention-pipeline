@@ -7,16 +7,19 @@ fips: "37129"
 state: "NC"
 county: "New Hanover"
 repo_path: "kb/facilities/new-hanover-co-det-center-new-hanover-nc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in New Hanover, NC."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "New Hanover Co Det Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Castle Hayne"
+address: "3950 Juvenile Rd"
+aor: "Atlanta"
+avg_daily_pop: "6"
 ---
 
-IGSA detention facility: New Hanover Co Det Center in New Hanover County, NC.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: New Hanover Co Det Center in New Hanover County, NC. Average daily population: 6.

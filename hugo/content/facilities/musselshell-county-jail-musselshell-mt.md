@@ -7,16 +7,19 @@ fips: "30065"
 state: "MT"
 county: "Musselshell"
 repo_path: "kb/facilities/musselshell-county-jail-musselshell-mt.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Musselshell, MT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Musselshell County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Roundup"
+address: "820 Main Street"
+aor: "Salt Lake City"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Musselshell County Jail in Musselshell County, MT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Musselshell County Jail in Musselshell County, MT.

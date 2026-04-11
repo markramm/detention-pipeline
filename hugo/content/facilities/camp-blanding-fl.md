@@ -15,6 +15,11 @@ facility_name: ""
 operator: "Florida Division of Emergency Management / National Guard"
 status: "paused"
 bed_count: "2,000"
+facility_type: "military-base"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

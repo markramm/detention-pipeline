@@ -7,16 +7,19 @@ fips: "22127"
 state: "LA"
 county: "Winn"
 repo_path: "kb/facilities/winn-corr-institute-winn-la.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Winn, LA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Winn Corr Institute"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "DIGSA"
+city: "Winnfield"
+address: "560 Gum Spring Road"
+aor: "New Orleans"
+avg_daily_pop: "1633"
 ---
 
-IGSA detention facility: Winn Corr Institute in Winn County, LA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: Winn Corr Institute in Winn County, LA. Average daily population: 1633.

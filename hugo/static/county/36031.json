@@ -2,14 +2,14 @@
   "fips": "36031",
   "county": "Essex County, NY",
   "state": "NY",
-  "score": 27,
+  "score": 47,
   "signal_types": 2,
-  "rank": 408,
-  "total_counties": 986,
-  "percentile": 59,
+  "rank": 206,
+  "total_counties": 1181,
+  "percentile": 83,
   "coverage": "unresearched",
-  "auto_summary": "Essex County, NY shows 1 existing IGSA facility.",
+  "auto_summary": "Essex County, NY shows 3 existing IGSA facilities.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 3
   }
 }

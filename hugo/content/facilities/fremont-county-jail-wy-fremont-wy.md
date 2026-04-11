@@ -7,16 +7,19 @@ fips: "56013"
 state: "WY"
 county: "Fremont"
 repo_path: "kb/facilities/fremont-county-jail-wy-fremont-wy.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Fremont, WY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Fremont County Jail, WY"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Lander"
+address: "450 North 2nd Street"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Fremont County Jail, WY in Fremont County, WY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Fremont County Jail, WY in Fremont County, WY.

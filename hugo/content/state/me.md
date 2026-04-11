@@ -3,6 +3,6 @@ title: "Maine"
 type: state
 layout: single
 state_abbr: "ME"
-county_count: 3
-entry_count: 3
+county_count: 8
+entry_count: 10
 ---

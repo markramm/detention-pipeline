@@ -7,16 +7,19 @@ fips: "30063"
 state: "MT"
 county: "Missoula"
 repo_path: "kb/facilities/missoula-county-missoula-mt.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Missoula, MT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Missoula County"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Missoula"
+address: "2340 Mullan Road"
+aor: "Salt Lake City"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Missoula County in Missoula County, MT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Missoula County in Missoula County, MT.

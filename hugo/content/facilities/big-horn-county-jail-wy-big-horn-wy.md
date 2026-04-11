@@ -7,16 +7,19 @@ fips: "56003"
 state: "WY"
 county: "Big Horn"
 repo_path: "kb/facilities/big-horn-county-jail-wy-big-horn-wy.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Big Horn, WY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Big Horn County Jail, WY"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Basin"
+address: "415 Murphy St"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Big Horn County Jail, WY in Big Horn County, WY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Big Horn County Jail, WY in Big Horn County, WY.

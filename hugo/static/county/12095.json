@@ -2,16 +2,17 @@
   "fips": "12095",
   "county": "Orange County, FL",
   "state": "FL",
-  "score": 58,
-  "signal_types": 4,
-  "rank": 104,
-  "total_counties": 986,
-  "percentile": 89,
+  "score": 103,
+  "signal_types": 5,
+  "rank": 22,
+  "total_counties": 1181,
+  "percentile": 98,
   "coverage": "partially-researched",
-  "auto_summary": "Orange County, FL shows 3 287(g) agreements, 1 ANC contract, and 1 real estate trace.",
+  "auto_summary": "Orange County, FL shows 2 existing IGSA facilities, 3 287(g) agreements, 1 ANC contract, and 1 real estate trace.",
   "entry_types": {
     "287g-agreement": 3,
     "anc-contract": 1,
+    "igsa": 2,
     "real-estate-trace": 1
   }
 }

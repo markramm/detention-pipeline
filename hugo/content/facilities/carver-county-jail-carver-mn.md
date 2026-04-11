@@ -7,16 +7,19 @@ fips: "27019"
 state: "MN"
 county: "Carver"
 repo_path: "kb/facilities/carver-county-jail-carver-mn.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Carver, MN."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Carver County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Chaska"
+address: "600 East Fourth St."
+aor: "St. Paul"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Carver County Jail in Carver County, MN.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Carver County Jail in Carver County, MN.

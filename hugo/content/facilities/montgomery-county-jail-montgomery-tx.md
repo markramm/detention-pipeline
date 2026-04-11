@@ -7,16 +7,19 @@ fips: "48339"
 state: "TX"
 county: "Montgomery"
 repo_path: "kb/facilities/montgomery-county-jail-montgomery-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Montgomery, TX."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Montgomery County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Conroe"
+address: "500 Hilbig Rd"
+aor: "Houston"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Montgomery County Jail in Montgomery County, TX.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Montgomery County Jail in Montgomery County, TX.

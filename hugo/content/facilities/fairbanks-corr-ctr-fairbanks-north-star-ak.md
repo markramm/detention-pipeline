@@ -7,16 +7,19 @@ fips: "02090"
 state: "AK"
 county: "Fairbanks North Star"
 repo_path: "kb/facilities/fairbanks-corr-ctr-fairbanks-north-star-ak.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Fairbanks North Star, AK."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Fairbanks Corr Ctr"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Fairbanks"
+address: "1931 Eagan Street"
+aor: "Seattle"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Fairbanks Corr Ctr in Fairbanks North Star County, AK.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Fairbanks Corr Ctr in Fairbanks North Star County, AK. Average daily population: 1.

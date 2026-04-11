@@ -7,16 +7,19 @@ fips: "44007"
 state: "RI"
 county: "Providence"
 repo_path: "kb/facilities/aci-cranston-ri-providence-ri.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Providence, RI."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "ACI, Cranston RI"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Cranston"
+address: "39 Howard Ave"
+aor: "Boston"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: ACI, Cranston RI in Providence County, RI.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: ACI, Cranston RI in Providence County, RI.

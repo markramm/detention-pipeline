@@ -2,14 +2,15 @@
   "fips": "48285",
   "county": "Lavaca County, TX",
   "state": "TX",
-  "score": 21,
-  "signal_types": 1,
-  "rank": 569,
-  "total_counties": 986,
-  "percentile": 42,
+  "score": 31,
+  "signal_types": 2,
+  "rank": 396,
+  "total_counties": 1181,
+  "percentile": 66,
   "coverage": "unresearched",
-  "auto_summary": "Lavaca County, TX shows 6 287(g) agreements.",
+  "auto_summary": "Lavaca County, TX shows 1 existing IGSA facility, and 6 287(g) agreements.",
   "entry_types": {
-    "287g-agreement": 6
+    "287g-agreement": 6,
+    "igsa": 1
   }
 }

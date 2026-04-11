@@ -7,16 +7,19 @@ fips: "08001"
 state: "CO"
 county: "Adams"
 repo_path: "kb/facilities/adams-county-jail-adams-co.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Adams, CO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Adams County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Brighton"
+address: "1901 E Bridge Street"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Adams County Jail in Adams County, CO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Adams County Jail in Adams County, CO.

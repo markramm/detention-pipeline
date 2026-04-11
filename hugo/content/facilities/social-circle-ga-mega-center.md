@@ -15,6 +15,11 @@ facility_name: ""
 operator: "ICE (federal)"
 status: "contested"
 bed_count: "7,500-10,000"
+facility_type: "warehouse-conversion"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

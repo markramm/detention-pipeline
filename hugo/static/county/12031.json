@@ -2,16 +2,16 @@
   "fips": "12031",
   "county": "Duval County, FL",
   "state": "FL",
-  "score": 72,
+  "score": 82,
   "signal_types": 4,
-  "rank": 52,
-  "total_counties": 986,
-  "percentile": 95,
+  "rank": 39,
+  "total_counties": 1181,
+  "percentile": 97,
   "coverage": "partially-researched",
-  "auto_summary": "Duval County, FL shows 1 existing IGSA facility, 3 287(g) agreements, and 4 real estate traces.",
+  "auto_summary": "Duval County, FL shows 2 existing IGSA facilities, 3 287(g) agreements, and 4 real estate traces.",
   "entry_types": {
     "287g-agreement": 3,
-    "igsa": 1,
+    "igsa": 2,
     "real-estate-trace": 4
   }
 }

@@ -15,6 +15,11 @@ facility_name: ""
 operator: "Department of Defense / DHS"
 status: "operational"
 bed_count: "30,000 (planned) — currently minimal occupancy"
+facility_type: "military-base"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

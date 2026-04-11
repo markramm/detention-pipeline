@@ -7,16 +7,19 @@ fips: "04025"
 state: "AZ"
 county: "Yavapai"
 repo_path: "kb/facilities/yavapai-county-detention-center-yavapai-az.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Yavapai, AZ."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Yavapai County Detention Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Camp Verde"
+address: "2830 Commonwealth Dr #105"
+aor: "Phoenix"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Yavapai County Detention Center in Yavapai County, AZ.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Yavapai County Detention Center in Yavapai County, AZ.

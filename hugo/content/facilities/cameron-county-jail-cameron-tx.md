@@ -7,16 +7,19 @@ fips: "48061"
 state: "TX"
 county: "Cameron"
 repo_path: "kb/facilities/cameron-county-jail-cameron-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Cameron, TX."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Cameron County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Brownsville"
+address: "954 E. Harrison"
+aor: "Harlingen"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Cameron County Jail in Cameron County, TX.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Cameron County Jail in Cameron County, TX. Average daily population: 1.

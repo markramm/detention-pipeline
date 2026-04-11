@@ -1,0 +1,15 @@
+{
+  "fips": "01073",
+  "county": "Jefferson County, AL",
+  "state": "AL",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 1022,
+  "total_counties": 1181,
+  "percentile": 13,
+  "coverage": "unresearched",
+  "auto_summary": "Jefferson County, AL shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

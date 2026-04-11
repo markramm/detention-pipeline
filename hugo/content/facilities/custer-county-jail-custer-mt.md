@@ -7,16 +7,19 @@ fips: "30017"
 state: "MT"
 county: "Custer"
 repo_path: "kb/facilities/custer-county-jail-custer-mt.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Custer, MT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Custer County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Miles City"
+address: "1010 Main Street"
+aor: "Salt Lake City"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Custer County Jail in Custer County, MT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Custer County Jail in Custer County, MT.

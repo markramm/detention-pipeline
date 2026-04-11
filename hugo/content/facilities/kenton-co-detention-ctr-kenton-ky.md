@@ -7,16 +7,19 @@ fips: "21117"
 state: "KY"
 county: "Kenton"
 repo_path: "kb/facilities/kenton-co-detention-ctr-kenton-ky.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kenton, KY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Kenton Co Detention Ctr"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Covington"
+address: "303 Court Street"
+aor: "Chicago"
+avg_daily_pop: "129"
 ---
 
-IGSA detention facility: Kenton Co Detention Ctr in Kenton County, KY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Kenton Co Detention Ctr in Kenton County, KY. Average daily population: 129.

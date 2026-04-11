@@ -7,16 +7,19 @@ fips: "42011"
 state: "PA"
 county: "Berks"
 repo_path: "kb/facilities/berks-county-residential-center-berks-pa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Berks, PA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Berks County Residential Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "DIGSA"
+city: "Leesport"
+address: "1040 Berks Road"
+aor: "Philadelphia"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Berks County Residential Center in Berks County, PA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: Berks County Residential Center in Berks County, PA.

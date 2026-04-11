@@ -7,16 +7,19 @@ fips: "56043"
 state: "WY"
 county: "Washakie"
 repo_path: "kb/facilities/washakie-county-jail-washakie-wy.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Washakie, WY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Washakie County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Worland"
+address: "100 North 10th Street"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Washakie County Jail in Washakie County, WY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Washakie County Jail in Washakie County, WY.

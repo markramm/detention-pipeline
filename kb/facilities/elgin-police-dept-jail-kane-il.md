@@ -6,6 +6,12 @@ county: "Kane"
 state: "IL"
 fips: "17089"
 facility_name: "Elgin Police Dept. Jail"
+facility_type: "IGSA"
+city: "Elgin"
+address: "151 Douglas Avenue"
+aor: "Chicago"
+latitude: 42.0400081
+longitude: -88.2836518
 operator: ""
 status: "active"
 source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
@@ -13,14 +19,5 @@ tags:
 - igsa
 - il
 importance: 5
-facility_type: "IGSA"
-city: "Elgin"
-address: "151 Douglas Avenue"
-aor: "Chicago"
-latitude: 42.0400081
-longitude: -88.2836518
 ---
-
-IGSA detention facility: Elgin Police Dept. Jail in Kane County, IL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Elgin Police Dept. Jail in Kane County, IL.

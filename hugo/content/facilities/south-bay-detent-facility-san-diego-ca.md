@@ -7,16 +7,19 @@ fips: "06073"
 state: "CA"
 county: "San Diego"
 repo_path: "kb/facilities/south-bay-detent-facility-san-diego-ca.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in San Diego, CA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "South Bay Detent Facility"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Chula Vista"
+address: "500 3rd Avenue"
+aor: "San Diego"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: South Bay Detent Facility in San Diego County, CA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: South Bay Detent Facility in San Diego County, CA.

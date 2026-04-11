@@ -6,6 +6,12 @@ county: "Stevens"
 state: "WA"
 fips: "53065"
 facility_name: "Stevens County Jail"
+facility_type: "IGSA"
+city: "Colville"
+address: "215 South Oak Street"
+aor: "Seattle"
+latitude: 48.5428367
+longitude: -117.9034106
 operator: ""
 status: "active"
 source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
@@ -13,14 +19,5 @@ tags:
 - igsa
 - wa
 importance: 5
-facility_type: "IGSA"
-city: "Colville"
-address: "215 South Oak Street"
-aor: "Seattle"
-latitude: 48.5428367
-longitude: -117.9034106
 ---
-
-IGSA detention facility: Stevens County Jail in Stevens County, WA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Stevens County Jail in Stevens County, WA.

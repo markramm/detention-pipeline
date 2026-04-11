@@ -7,16 +7,19 @@ fips: "13155"
 state: "GA"
 county: "Irwin"
 repo_path: "kb/facilities/irwin-county-detention-center-irwin-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Irwin, GA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Irwin County Detention Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Ocilla"
+address: "132 Cotton Drive"
+aor: "Atlanta"
+avg_daily_pop: "247"
 ---
 
-IGSA detention facility: Irwin County Detention Center in Irwin County, GA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Irwin County Detention Center in Irwin County, GA. Average daily population: 247.

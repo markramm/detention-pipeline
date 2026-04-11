@@ -7,16 +7,19 @@ fips: "50001"
 state: "VT"
 county: "Addison"
 repo_path: "kb/facilities/addison-county-jail-addison-vt.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Addison, VT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Addison County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Middlebury"
+address: "35 Court Street"
+aor: "Boston"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Addison County Jail in Addison County, VT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Addison County Jail in Addison County, VT. Average daily population: 1.

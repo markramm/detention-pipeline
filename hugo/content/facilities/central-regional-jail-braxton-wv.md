@@ -7,16 +7,19 @@ fips: "54007"
 state: "WV"
 county: "Braxton"
 repo_path: "kb/facilities/central-regional-jail-braxton-wv.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Braxton, WV."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Central Regional Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Sutton"
+address: "300 Days Drive"
+aor: "Philadelphia"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Central Regional Jail in Braxton County, WV.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Central Regional Jail in Braxton County, WV.

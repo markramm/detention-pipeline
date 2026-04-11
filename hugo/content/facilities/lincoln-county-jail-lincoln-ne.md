@@ -7,16 +7,19 @@ fips: "31111"
 state: "NE"
 county: "Lincoln"
 repo_path: "kb/facilities/lincoln-county-jail-lincoln-ne.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lincoln, NE."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Lincoln County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "North Platte"
+address: "3020 N Jeffers"
+aor: "St. Paul"
+avg_daily_pop: "43"
 ---
 
-IGSA detention facility: Lincoln County Jail in Lincoln County, NE.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Lincoln County Jail in Lincoln County, NE. Average daily population: 43.

@@ -6,13 +6,6 @@ county: "Prince Edward"
 state: "VA"
 fips: "51147"
 facility_name: "ICA - Farmville"
-operator: ""
-status: "active"
-source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
-tags:
-- igsa
-- va
-importance: 5
 facility_type: "DIGSA"
 city: "Farmville"
 address: "508 Waterworks Road"
@@ -20,8 +13,12 @@ aor: "Washington"
 latitude: 37.32385319999999
 longitude: -78.4370283
 avg_daily_pop: 626
+operator: ""
+status: "active"
+source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
+tags:
+- digsa
+- va
+importance: 5
 ---
-
-IGSA detention facility: ICA - Farmville in Prince Edward County, VA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: ICA - Farmville in Prince Edward County, VA. Average daily population: 626.

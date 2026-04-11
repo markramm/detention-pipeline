@@ -15,6 +15,11 @@ facility_name: ""
 operator: "GEO Group"
 status: "operational"
 bed_count: "1,160 beds"
+facility_type: "purpose-built"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 1,160-bed ICE processing center in Jena, Louisiana, operated by [GEO Group](/players/contractors/geo-group/). Part of the Louisiana detention cluster alongside the [Alexandria Staging Facility](/facilities/alexandria-la-staging-facility/). Notable for holding detained college students including Mahmoud Khalil (Columbia University) and Badar Khan Suri.

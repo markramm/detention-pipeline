@@ -7,16 +7,19 @@ fips: "35005"
 state: "NM"
 county: "Chaves"
 repo_path: "kb/facilities/chavez-det-crt-chaves-nm.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Chaves, NM."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Chavez Det Crt"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Roswell"
+address: "3701 S. Atkinson"
+aor: "El Paso"
+avg_daily_pop: "4"
 ---
 
-IGSA detention facility: Chavez Det Crt in Chaves County, NM.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Chavez Det Crt in Chaves County, NM. Average daily population: 4.

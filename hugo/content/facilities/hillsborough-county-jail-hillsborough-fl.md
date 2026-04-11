@@ -7,16 +7,19 @@ fips: "12057"
 state: "FL"
 county: "Hillsborough"
 repo_path: "kb/facilities/hillsborough-county-jail-hillsborough-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hillsborough, FL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Hillsborough County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Tampa"
+address: "1201 North Orient Road"
+aor: "Miami"
+avg_daily_pop: "7"
 ---
 
-IGSA detention facility: Hillsborough County Jail in Hillsborough County, FL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Hillsborough County Jail in Hillsborough County, FL. Average daily population: 7.

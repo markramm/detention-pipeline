@@ -1,0 +1,15 @@
+{
+  "fips": "51155",
+  "county": "Pulaski County, VA",
+  "state": "VA",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 1002,
+  "total_counties": 1181,
+  "percentile": 15,
+  "coverage": "unresearched",
+  "auto_summary": "Pulaski County, VA shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

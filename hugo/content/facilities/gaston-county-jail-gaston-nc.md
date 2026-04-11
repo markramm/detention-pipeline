@@ -7,16 +7,19 @@ fips: "37071"
 state: "NC"
 county: "Gaston"
 repo_path: "kb/facilities/gaston-county-jail-gaston-nc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Gaston, NC."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Gaston County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Gastonia"
+address: "425 North Marietta Street"
+aor: "Atlanta"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Gaston County Jail in Gaston County, NC.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Gaston County Jail in Gaston County, NC.

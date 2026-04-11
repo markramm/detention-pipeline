@@ -7,16 +7,19 @@ fips: "17081"
 state: "IL"
 county: "Jefferson"
 repo_path: "kb/facilities/jefferson-county-jail-jefferson-il.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Jefferson, IL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Jefferson County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Mount Vernon"
+address: "911 Casey Avenue"
+aor: "Chicago"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Jefferson County Jail in Jefferson County, IL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Jefferson County Jail in Jefferson County, IL.

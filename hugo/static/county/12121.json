@@ -2,14 +2,15 @@
   "fips": "12121",
   "county": "Suwannee County, FL",
   "state": "FL",
-  "score": 28,
-  "signal_types": 2,
-  "rank": 332,
-  "total_counties": 986,
-  "percentile": 66,
+  "score": 48,
+  "signal_types": 3,
+  "rank": 198,
+  "total_counties": 1181,
+  "percentile": 83,
   "coverage": "unresearched",
-  "auto_summary": "Suwannee County, FL shows 2 287(g) agreements.",
+  "auto_summary": "Suwannee County, FL shows 1 existing IGSA facility, and 2 287(g) agreements.",
   "entry_types": {
-    "287g-agreement": 2
+    "287g-agreement": 2,
+    "igsa": 1
   }
 }

@@ -7,16 +7,19 @@ fips: "08041"
 state: "CO"
 county: "El Paso"
 repo_path: "kb/facilities/el-paso-county-jail-co-el-paso-co.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in El Paso, CO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "El Paso County Jail (CO)"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Colorado Springs"
+address: "2739 East Las Vegas"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: El Paso County Jail (CO) in El Paso County, CO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: El Paso County Jail (CO) in El Paso County, CO.

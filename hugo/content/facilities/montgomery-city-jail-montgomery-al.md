@@ -7,16 +7,19 @@ fips: "01101"
 state: "AL"
 county: "Montgomery"
 repo_path: "kb/facilities/montgomery-city-jail-montgomery-al.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Montgomery, AL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Montgomery City Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "USMS IGA"
+city: "Montgomery"
+address: "103 North Perry Street"
+aor: "New Orleans"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Montgomery City Jail in Montgomery County, AL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+USMS IGA facility: Montgomery City Jail in Montgomery County, AL.

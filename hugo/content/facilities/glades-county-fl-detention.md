@@ -15,6 +15,11 @@ facility_name: ""
 operator: "Glades County Board of County Commissioners"
 status: "operational"
 bed_count: "500"
+facility_type: "county-jail"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

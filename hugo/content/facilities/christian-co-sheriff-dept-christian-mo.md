@@ -7,16 +7,19 @@ fips: "29043"
 state: "MO"
 county: "Christian"
 repo_path: "kb/facilities/christian-co-sheriff-dept-christian-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Christian, MO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Christian Co Sheriff Dept"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Ozark"
+address: "110 West Elm"
+aor: "Chicago"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Christian Co Sheriff Dept in Christian County, MO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Christian Co Sheriff Dept in Christian County, MO.

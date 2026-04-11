@@ -7,16 +7,19 @@ fips: "04021"
 state: "AZ"
 county: "Pinal"
 repo_path: "kb/facilities/la-palma-corr-ctr-apso-pinal-az.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Pinal, AZ."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "La Palma Corr Ctr APSO"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "DIGSA"
+city: "Eloy"
+address: "5501 North La Palma Road"
+aor: "Phoenix"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: La Palma Corr Ctr APSO in Pinal County, AZ.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: La Palma Corr Ctr APSO in Pinal County, AZ. Average daily population: 1.

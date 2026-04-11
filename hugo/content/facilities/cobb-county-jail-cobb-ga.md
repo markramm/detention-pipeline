@@ -7,16 +7,19 @@ fips: "13067"
 state: "GA"
 county: "Cobb"
 repo_path: "kb/facilities/cobb-county-jail-cobb-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Cobb, GA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Cobb County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Marietta"
+address: "1825 County Services Parkway"
+aor: "Atlanta"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Cobb County Jail in Cobb County, GA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Cobb County Jail in Cobb County, GA.

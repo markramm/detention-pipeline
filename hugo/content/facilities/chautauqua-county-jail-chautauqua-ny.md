@@ -7,16 +7,19 @@ fips: "36013"
 state: "NY"
 county: "Chautauqua"
 repo_path: "kb/facilities/chautauqua-county-jail-chautauqua-ny.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Chautauqua, NY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Chautauqua County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Mayville"
+address: "15 E. Chautauqua Street"
+aor: "Buffalo"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Chautauqua County Jail in Chautauqua County, NY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Chautauqua County Jail in Chautauqua County, NY.

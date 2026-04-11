@@ -1,0 +1,15 @@
+{
+  "fips": "35045",
+  "county": "San Juan County, NM",
+  "state": "NM",
+  "score": 20,
+  "signal_types": 1,
+  "rank": 803,
+  "total_counties": 1181,
+  "percentile": 32,
+  "coverage": "unresearched",
+  "auto_summary": "San Juan County, NM shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

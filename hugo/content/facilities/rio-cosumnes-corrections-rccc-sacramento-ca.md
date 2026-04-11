@@ -7,16 +7,19 @@ fips: "06067"
 state: "CA"
 county: "Sacramento"
 repo_path: "kb/facilities/rio-cosumnes-corrections-rccc-sacramento-ca.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Sacramento, CA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Rio Cosumnes Corrections-RCCC"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Elk Grove"
+address: "12500 Bruceville Road"
+aor: "San Francisco"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Rio Cosumnes Corrections-RCCC in Sacramento County, CA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Rio Cosumnes Corrections-RCCC in Sacramento County, CA.

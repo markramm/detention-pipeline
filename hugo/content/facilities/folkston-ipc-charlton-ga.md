@@ -15,6 +15,11 @@ facility_name: ""
 operator: "GEO Group"
 status: "operational"
 bed_count: "3,000 (post-merger)"
+facility_type: "private-prison"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

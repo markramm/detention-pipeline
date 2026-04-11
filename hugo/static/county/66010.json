@@ -2,14 +2,14 @@
   "fips": "66010",
   "county": "Guam, GU",
   "state": "GU",
-  "score": 20,
+  "score": 50,
   "signal_types": 1,
-  "rank": 739,
-  "total_counties": 986,
-  "percentile": 25,
+  "rank": 181,
+  "total_counties": 1181,
+  "percentile": 85,
   "coverage": "unresearched",
-  "auto_summary": "Guam, GU shows 1 existing IGSA facility.",
+  "auto_summary": "Guam, GU shows 4 existing IGSA facilities.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 4
   }
 }

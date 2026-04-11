@@ -7,16 +7,19 @@ fips: "29139"
 state: "MO"
 county: "Montgomery"
 repo_path: "kb/facilities/montgomery-county-jail-montgomery-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Montgomery, MO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Montgomery County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Montgomery City"
+address: "211 East Third Street"
+aor: "Chicago"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Montgomery County Jail in Montgomery County, MO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Montgomery County Jail in Montgomery County, MO.

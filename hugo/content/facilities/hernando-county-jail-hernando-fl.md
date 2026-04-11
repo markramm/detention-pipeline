@@ -7,16 +7,19 @@ fips: "12053"
 state: "FL"
 county: "Hernando"
 repo_path: "kb/facilities/hernando-county-jail-hernando-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hernando, FL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Hernando County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Brooksville"
+address: "16425 Spring Hill Drive"
+aor: "Miami"
+avg_daily_pop: "2"
 ---
 
-IGSA detention facility: Hernando County Jail in Hernando County, FL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Hernando County Jail in Hernando County, FL. Average daily population: 2.

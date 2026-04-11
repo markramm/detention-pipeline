@@ -6,13 +6,6 @@ county: "Bell"
 state: "TX"
 fips: "48027"
 facility_name: "Bell County Jail"
-operator: ""
-status: "active"
-source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
-tags:
-- igsa
-- tx
-importance: 5
 facility_type: "IGSA"
 city: "Belton"
 address: "111 W. Central"
@@ -20,8 +13,12 @@ aor: "Houston"
 latitude: 31.0373132
 longitude: -97.4885065
 avg_daily_pop: 3
+operator: ""
+status: "active"
+source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
+tags:
+- igsa
+- tx
+importance: 5
 ---
-
-IGSA detention facility: Bell County Jail in Bell County, TX.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Bell County Jail in Bell County, TX. Average daily population: 3.

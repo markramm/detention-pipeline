@@ -7,16 +7,19 @@ fips: "12007"
 state: "FL"
 county: "Bradford"
 repo_path: "kb/facilities/bradford-county-jail-bradford-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Bradford, FL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Bradford County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Starke"
+address: "945-A N. Temple Ave."
+aor: "Miami"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Bradford County Jail in Bradford County, FL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Bradford County Jail in Bradford County, FL. Average daily population: 1.

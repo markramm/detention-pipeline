@@ -6,6 +6,12 @@ county: "Anne Arundel"
 state: "MD"
 fips: "24003"
 facility_name: "Ordnance Road Correctional Center"
+facility_type: "IGSA"
+city: "Glen Burnie"
+address: "600 E. Ordnance Road"
+aor: "Baltimore"
+latitude: 39.1996092
+longitude: -76.5941618
 operator: ""
 status: "active"
 source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
@@ -13,14 +19,5 @@ tags:
 - igsa
 - md
 importance: 5
-facility_type: "IGSA"
-city: "Glen Burnie"
-address: "600 E. Ordnance Road"
-aor: "Baltimore"
-latitude: 39.1996092
-longitude: -76.5941618
 ---
-
-IGSA detention facility: Ordnance Road Correctional Center in Anne Arundel County, MD.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Ordnance Road Correctional Center in Anne Arundel County, MD.

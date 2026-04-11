@@ -7,16 +7,19 @@ fips: "12031"
 state: "FL"
 county: "Duval"
 repo_path: "kb/facilities/duvaljacksonville-jail-duval-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Duval, FL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Duval/Jacksonville Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Jacksonville"
+address: "500 East Adams Street"
+aor: "Miami"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Duval/Jacksonville Jail in Duval County, FL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Duval/Jacksonville Jail in Duval County, FL.

@@ -7,16 +7,19 @@ fips: "53051"
 state: "WA"
 county: "Pend Oreille"
 repo_path: "kb/facilities/pend-orielle-correctional-facility-pend-oreille-wa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Pend Oreille, WA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Pend Orielle Correctional Facility"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Newport"
+address: "331 South Garden Avenue"
+aor: "Seattle"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Pend Orielle Correctional Facility in Pend Oreille County, WA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Pend Orielle Correctional Facility in Pend Oreille County, WA.

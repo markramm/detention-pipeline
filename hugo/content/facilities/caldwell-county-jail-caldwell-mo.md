@@ -7,16 +7,19 @@ fips: "29025"
 state: "MO"
 county: "Caldwell"
 repo_path: "kb/facilities/caldwell-county-jail-caldwell-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Caldwell, MO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Caldwell County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Kingston"
+address: "280 West Main Street"
+aor: "Chicago"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Caldwell County Jail in Caldwell County, MO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Caldwell County Jail in Caldwell County, MO.

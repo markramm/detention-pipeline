@@ -2,14 +2,14 @@
   "fips": "30049",
   "county": "Lewis and Clark County, MT",
   "state": "MT",
-  "score": 27,
+  "score": 37,
   "signal_types": 2,
-  "rank": 378,
-  "total_counties": 986,
-  "percentile": 62,
+  "rank": 334,
+  "total_counties": 1181,
+  "percentile": 72,
   "coverage": "unresearched",
-  "auto_summary": "Lewis and Clark County, MT shows 1 existing IGSA facility.",
+  "auto_summary": "Lewis and Clark County, MT shows 2 existing IGSA facilities.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 2
   }
 }

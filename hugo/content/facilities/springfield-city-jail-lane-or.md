@@ -7,16 +7,19 @@ fips: "41039"
 state: "OR"
 county: "Lane"
 repo_path: "kb/facilities/springfield-city-jail-lane-or.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lane, OR."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Springfield City Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Springfield"
+address: "344 A Street"
+aor: "Seattle"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Springfield City Jail in Lane County, OR.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Springfield City Jail in Lane County, OR.

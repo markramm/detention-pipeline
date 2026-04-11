@@ -1,0 +1,15 @@
+{
+  "fips": "36067",
+  "county": "Onondaga County, NY",
+  "state": "NY",
+  "score": 20,
+  "signal_types": 1,
+  "rank": 810,
+  "total_counties": 1181,
+  "percentile": 31,
+  "coverage": "unresearched",
+  "auto_summary": "Onondaga County, NY shows 2 existing IGSA facilities.",
+  "entry_types": {
+    "igsa": 2
+  }
+}

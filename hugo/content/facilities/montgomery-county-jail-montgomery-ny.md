@@ -7,16 +7,19 @@ fips: "36057"
 state: "NY"
 county: "Montgomery"
 repo_path: "kb/facilities/montgomery-county-jail-montgomery-ny.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Montgomery, NY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Montgomery County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Fonda"
+address: "Park Street"
+aor: "Buffalo"
+avg_daily_pop: "4"
 ---
 
-IGSA detention facility: Montgomery County Jail in Montgomery County, NY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Montgomery County Jail in Montgomery County, NY. Average daily population: 4.

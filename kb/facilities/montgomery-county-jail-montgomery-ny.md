@@ -6,13 +6,6 @@ county: "Montgomery"
 state: "NY"
 fips: "36057"
 facility_name: "Montgomery County Jail"
-operator: ""
-status: "active"
-source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
-tags:
-- igsa
-- ny
-importance: 5
 facility_type: "IGSA"
 city: "Fonda"
 address: "Park Street"
@@ -20,8 +13,12 @@ aor: "Buffalo"
 latitude: 42.9528568
 longitude: -74.3755173
 avg_daily_pop: 4
+operator: ""
+status: "active"
+source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
+tags:
+- igsa
+- ny
+importance: 5
 ---
-
-IGSA detention facility: Montgomery County Jail in Montgomery County, NY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Montgomery County Jail in Montgomery County, NY. Average daily population: 4.

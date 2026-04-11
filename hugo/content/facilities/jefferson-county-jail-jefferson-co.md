@@ -7,16 +7,19 @@ fips: "08059"
 state: "CO"
 county: "Jefferson"
 repo_path: "kb/facilities/jefferson-county-jail-jefferson-co.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Jefferson, CO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Jefferson County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Golden"
+address: "200 Jefferson County Parkway"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Jefferson County Jail in Jefferson County, CO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Jefferson County Jail in Jefferson County, CO.

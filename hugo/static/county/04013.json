@@ -2,16 +2,16 @@
   "fips": "04013",
   "county": "Maricopa County, AZ",
   "state": "AZ",
-  "score": 82,
+  "score": 112,
   "signal_types": 4,
-  "rank": 20,
-  "total_counties": 986,
-  "percentile": 98,
+  "rank": 11,
+  "total_counties": 1181,
+  "percentile": 99,
   "coverage": "partially-researched",
-  "auto_summary": "Maricopa County, AZ shows 1 existing IGSA facility, 3 ANC contracts, and 5 real estate traces.",
+  "auto_summary": "Maricopa County, AZ shows 8 existing IGSA facilities, 3 ANC contracts, and 5 real estate traces.",
   "entry_types": {
     "anc-contract": 3,
-    "igsa": 1,
+    "igsa": 8,
     "real-estate-trace": 5
   }
 }

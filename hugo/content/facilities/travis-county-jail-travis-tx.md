@@ -7,16 +7,19 @@ fips: "48453"
 state: "TX"
 county: "Travis"
 repo_path: "kb/facilities/travis-county-jail-travis-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Travis, TX."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Travis County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Austin"
+address: "500 W. 10th St. Austin Texas 78701"
+aor: "San Antonio"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Travis County Jail in Travis County, TX.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Travis County Jail in Travis County, TX.

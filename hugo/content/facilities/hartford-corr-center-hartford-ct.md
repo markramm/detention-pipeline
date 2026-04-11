@@ -7,16 +7,19 @@ fips: "09003"
 state: "CT"
 county: "Hartford"
 repo_path: "kb/facilities/hartford-corr-center-hartford-ct.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hartford, CT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Hartford Corr Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Hartford"
+address: "177 Weston Street"
+aor: "Boston"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Hartford Corr Center in Hartford County, CT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Hartford Corr Center in Hartford County, CT.

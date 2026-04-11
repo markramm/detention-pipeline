@@ -3,6 +3,6 @@ title: "Mississippi"
 type: state
 layout: single
 state_abbr: "MS"
-county_count: 12
-entry_count: 20
+county_count: 13
+entry_count: 24
 ---

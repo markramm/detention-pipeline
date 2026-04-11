@@ -1,0 +1,15 @@
+{
+  "fips": "53015",
+  "county": "Cowlitz County, WA",
+  "state": "WA",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 1051,
+  "total_counties": 1181,
+  "percentile": 11,
+  "coverage": "unresearched",
+  "auto_summary": "Cowlitz County, WA shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

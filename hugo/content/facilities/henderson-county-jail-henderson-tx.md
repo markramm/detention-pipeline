@@ -7,16 +7,19 @@ fips: "48213"
 state: "TX"
 county: "Henderson"
 repo_path: "kb/facilities/henderson-county-jail-henderson-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Henderson, TX."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Henderson County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Athens"
+address: "206-A North Murchison Street"
+aor: "Dallas"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Henderson County Jail in Henderson County, TX.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Henderson County Jail in Henderson County, TX.

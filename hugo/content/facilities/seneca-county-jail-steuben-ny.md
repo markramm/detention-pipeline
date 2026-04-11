@@ -7,16 +7,19 @@ fips: "36101"
 state: "NY"
 county: "Steuben"
 repo_path: "kb/facilities/seneca-county-jail-steuben-ny.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Steuben, NY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Seneca County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Corning"
+address: "44 W. William St."
+aor: "Buffalo"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Seneca County Jail in Steuben County, NY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Seneca County Jail in Steuben County, NY.

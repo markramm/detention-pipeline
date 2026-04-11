@@ -7,16 +7,19 @@ fips: "08005"
 state: "CO"
 county: "Arapahoe"
 repo_path: "kb/facilities/arapahoe-county-jail-arapahoe-co.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Arapahoe, CO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Arapahoe County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Littleton"
+address: "3686 South Court Place"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Arapahoe County Jail in Arapahoe County, CO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Arapahoe County Jail in Arapahoe County, CO.

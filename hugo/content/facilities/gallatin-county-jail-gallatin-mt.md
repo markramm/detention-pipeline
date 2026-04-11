@@ -7,16 +7,19 @@ fips: "30031"
 state: "MT"
 county: "Gallatin"
 repo_path: "kb/facilities/gallatin-county-jail-gallatin-mt.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Gallatin, MT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Gallatin County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Bozeman"
+address: "615 South 16th Street"
+aor: "Salt Lake City"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Gallatin County Jail in Gallatin County, MT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Gallatin County Jail in Gallatin County, MT.

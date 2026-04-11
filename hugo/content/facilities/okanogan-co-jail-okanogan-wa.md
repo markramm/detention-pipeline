@@ -7,16 +7,19 @@ fips: "53047"
 state: "WA"
 county: "Okanogan"
 repo_path: "kb/facilities/okanogan-co-jail-okanogan-wa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Okanogan, WA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Okanogan Co. Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Okanogan"
+address: "149 4th Avenue North"
+aor: "Seattle"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Okanogan Co. Jail in Okanogan County, WA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Okanogan Co. Jail in Okanogan County, WA.

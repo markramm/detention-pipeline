@@ -1,0 +1,15 @@
+{
+  "fips": "40015",
+  "county": "Caddo County, OK",
+  "state": "OK",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 974,
+  "total_counties": 1181,
+  "percentile": 18,
+  "coverage": "unresearched",
+  "auto_summary": "Caddo County, OK shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

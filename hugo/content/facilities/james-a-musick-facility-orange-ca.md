@@ -7,16 +7,19 @@ fips: "06059"
 state: "CA"
 county: "Orange"
 repo_path: "kb/facilities/james-a-musick-facility-orange-ca.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Orange, CA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "James A Musick Facility"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Irvine"
+address: "13502 Musick Road"
+aor: "Los Angeles"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: James A Musick Facility in Orange County, CA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: James A Musick Facility in Orange County, CA.

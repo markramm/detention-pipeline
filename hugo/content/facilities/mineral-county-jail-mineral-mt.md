@@ -7,16 +7,19 @@ fips: "30061"
 state: "MT"
 county: "Mineral"
 repo_path: "kb/facilities/mineral-county-jail-mineral-mt.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Mineral, MT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Mineral County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Superior"
+address: "310 River Street"
+aor: "Salt Lake City"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Mineral County Jail in Mineral County, MT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Mineral County Jail in Mineral County, MT.

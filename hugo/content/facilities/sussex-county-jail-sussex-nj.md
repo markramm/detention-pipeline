@@ -7,16 +7,19 @@ fips: "34037"
 state: "NJ"
 county: "Sussex"
 repo_path: "kb/facilities/sussex-county-jail-sussex-nj.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Sussex, NJ."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Sussex County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Newton"
+address: "410 High Street"
+aor: "Newark"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Sussex County Jail in Sussex County, NJ.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Sussex County Jail in Sussex County, NJ.

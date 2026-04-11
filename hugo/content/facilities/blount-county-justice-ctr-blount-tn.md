@@ -7,16 +7,19 @@ fips: "47009"
 state: "TN"
 county: "Blount"
 repo_path: "kb/facilities/blount-county-justice-ctr-blount-tn.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Blount, TN."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Blount County Justice Ctr"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Maryville"
+address: "940 Lamar Alexander Parkway"
+aor: "New Orleans"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Blount County Justice Ctr in Blount County, TN.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Blount County Justice Ctr in Blount County, TN.

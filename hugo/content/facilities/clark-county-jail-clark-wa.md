@@ -7,16 +7,19 @@ fips: "53011"
 state: "WA"
 county: "Clark"
 repo_path: "kb/facilities/clark-county-jail-clark-wa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Clark, WA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Clark County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Vancouver"
+address: "707 W 13Th St"
+aor: "Seattle"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Clark County Jail in Clark County, WA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Clark County Jail in Clark County, WA.

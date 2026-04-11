@@ -7,16 +7,19 @@ fips: "49049"
 state: "UT"
 county: "Utah"
 repo_path: "kb/facilities/utah-county-jail-utah-ut.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Utah, UT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Utah County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Spanish Fork"
+address: "3075 North Main Street"
+aor: "Salt Lake City"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Utah County Jail in Utah County, UT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Utah County Jail in Utah County, UT. Average daily population: 1.

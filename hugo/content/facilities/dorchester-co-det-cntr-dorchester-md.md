@@ -7,16 +7,19 @@ fips: "24019"
 state: "MD"
 county: "Dorchester"
 repo_path: "kb/facilities/dorchester-co-det-cntr-dorchester-md.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Dorchester, MD."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Dorchester Co Det Cntr"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Cambridge"
+address: "829 Fieldcrest Road"
+aor: "Baltimore"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Dorchester Co Det Cntr in Dorchester County, MD.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Dorchester Co Det Cntr in Dorchester County, MD.

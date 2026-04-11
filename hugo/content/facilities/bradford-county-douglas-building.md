@@ -15,6 +15,11 @@ facility_name: ""
 operator: "Bradford County Sheriff's Office (Sheriff Gordon Smith) / prime contractor TBD"
 status: "contested"
 bed_count: "3,000 beds (phased: 1,000 → 2,000 → 3,000)"
+facility_type: "warehouse-conversion"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Facility Overview

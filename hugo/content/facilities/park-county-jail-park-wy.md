@@ -7,16 +7,19 @@ fips: "56029"
 state: "WY"
 county: "Park"
 repo_path: "kb/facilities/park-county-jail-park-wy.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Park, WY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Park County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Cody"
+address: "1402 River View Drive"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Park County Jail in Park County, WY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Park County Jail in Park County, WY.

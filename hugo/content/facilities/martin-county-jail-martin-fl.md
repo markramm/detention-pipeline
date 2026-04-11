@@ -7,16 +7,19 @@ fips: "12085"
 state: "FL"
 county: "Martin"
 repo_path: "kb/facilities/martin-county-jail-martin-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Martin, FL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Martin County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Stuart"
+address: "800 Southeast Monterey Road"
+aor: "Miami"
+avg_daily_pop: "5"
 ---
 
-IGSA detention facility: Martin County Jail in Martin County, FL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Martin County Jail in Martin County, FL. Average daily population: 5.

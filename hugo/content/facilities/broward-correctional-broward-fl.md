@@ -7,16 +7,19 @@ fips: "12011"
 state: "FL"
 county: "Broward"
 repo_path: "kb/facilities/broward-correctional-broward-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Broward, FL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Broward Correctional"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Fort Lauderdale"
+address: "20421 Sheridan St"
+aor: "Miami"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Broward Correctional in Broward County, FL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Broward Correctional in Broward County, FL.

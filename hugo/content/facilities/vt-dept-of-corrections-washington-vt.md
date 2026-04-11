@@ -7,16 +7,19 @@ fips: "50023"
 state: "VT"
 county: "Washington"
 repo_path: "kb/facilities/vt-dept-of-corrections-washington-vt.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Washington, VT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "VT. Dept. Of Corrections"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Waterbury"
+address: "103 South Main Street"
+aor: "Boston"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: VT. Dept. Of Corrections in Washington County, VT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: VT. Dept. Of Corrections in Washington County, VT. Average daily population: 1.

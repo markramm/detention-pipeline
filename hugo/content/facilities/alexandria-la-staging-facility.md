@@ -15,6 +15,11 @@ facility_name: ""
 operator: "GEO Group"
 status: "operational"
 bed_count: "400 beds (1,000+ people cycle through weekly)"
+facility_type: "purpose-built"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

@@ -3,6 +3,6 @@ title: "Tennessee"
 type: state
 layout: single
 state_abbr: "TN"
-county_count: 41
-entry_count: 53
+county_count: 43
+entry_count: 65
 ---

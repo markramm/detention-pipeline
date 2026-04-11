@@ -7,16 +7,19 @@ fips: "12011"
 state: "FL"
 county: "Broward"
 repo_path: "kb/facilities/broward-county-jail-broward-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Broward, FL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Broward County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Ft.Lauderdale"
+address: "555 SE 1st Avenue"
+aor: "Miami"
+avg_daily_pop: "7"
 ---
 
-IGSA detention facility: Broward County Jail in Broward County, FL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Broward County Jail in Broward County, FL. Average daily population: 7.

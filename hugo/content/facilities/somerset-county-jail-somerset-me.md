@@ -7,16 +7,19 @@ fips: "23025"
 state: "ME"
 county: "Somerset"
 repo_path: "kb/facilities/somerset-county-jail-somerset-me.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Somerset, ME."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Somerset County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Madison"
+address: "131 East Madison Road"
+aor: "Boston"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Somerset County Jail in Somerset County, ME.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Somerset County Jail in Somerset County, ME.

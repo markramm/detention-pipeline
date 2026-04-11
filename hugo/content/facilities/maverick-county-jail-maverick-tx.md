@@ -7,16 +7,19 @@ fips: "48323"
 state: "TX"
 county: "Maverick"
 repo_path: "kb/facilities/maverick-county-jail-maverick-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Maverick, TX."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Maverick County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Eagle Pass"
+address: "1051 Balboa Jones Boulevard"
+aor: "San Antonio"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Maverick County Jail in Maverick County, TX.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Maverick County Jail in Maverick County, TX. Average daily population: 1.

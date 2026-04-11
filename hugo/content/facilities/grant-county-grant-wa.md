@@ -7,16 +7,19 @@ fips: "53025"
 state: "WA"
 county: "Grant"
 repo_path: "kb/facilities/grant-county-grant-wa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Grant, WA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Grant County"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Ephrata"
+address: "35 C St N.W."
+aor: "Seattle"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Grant County in Grant County, WA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Grant County in Grant County, WA.

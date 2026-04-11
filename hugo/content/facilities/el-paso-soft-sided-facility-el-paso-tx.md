@@ -1,0 +1,25 @@
+---
+title: "El Paso Soft Sided Facility — El Paso, TX"
+entry_type: "igsa"
+signal_label: "IGSA Facility"
+signal_color: "#c93b3b"
+fips: "48141"
+state: "TX"
+county: "El Paso"
+repo_path: "kb/facilities/el-paso-soft-sided-facility-el-paso-tx.md"
+lastmod: "2026-04-11"
+summary: "IGSA detention facility in El Paso, TX."
+source_count: 0
+layout: "single"
+facility_name: "El Paso Soft Sided Facility"
+operator: ""
+status: "active"
+bed_count: ""
+facility_type: "Staging"
+city: "El Paso"
+address: "12501 Gateway Blvd S"
+aor: "El Paso"
+avg_daily_pop: "1"
+---
+
+Staging facility: El Paso Soft Sided Facility in El Paso County, TX. Average daily population: 1.

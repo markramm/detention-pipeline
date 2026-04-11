@@ -7,16 +7,19 @@ fips: "42129"
 state: "PA"
 county: "Westmoreland"
 repo_path: "kb/facilities/westmoreland-county-jail-westmoreland-pa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Westmoreland, PA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Westmoreland County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Greensburg"
+address: "2 North Main Street"
+aor: "Philadelphia"
+avg_daily_pop: "1"
 ---
 
-IGSA detention facility: Westmoreland County Jail in Westmoreland County, PA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Westmoreland County Jail in Westmoreland County, PA. Average daily population: 1.

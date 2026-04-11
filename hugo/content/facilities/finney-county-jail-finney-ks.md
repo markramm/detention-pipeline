@@ -7,16 +7,19 @@ fips: "20055"
 state: "KS"
 county: "Finney"
 repo_path: "kb/facilities/finney-county-jail-finney-ks.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Finney, KS."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Finney County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Garden City"
+address: "304 N. 9th Street"
+aor: "Chicago"
+avg_daily_pop: "3"
 ---
 
-IGSA detention facility: Finney County Jail in Finney County, KS.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Finney County Jail in Finney County, KS. Average daily population: 3.

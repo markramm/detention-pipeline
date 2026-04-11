@@ -15,6 +15,11 @@ facility_name: ""
 operator: "ICE (contractor operated — operator being replaced as of March 2026)"
 status: "operational"
 bed_count: "3,000+"
+facility_type: "tent-facility"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

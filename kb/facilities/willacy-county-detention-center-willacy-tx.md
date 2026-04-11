@@ -6,21 +6,18 @@ county: "Willacy"
 state: "TX"
 fips: "48489"
 facility_name: "Willacy County Detention Center"
-operator: ""
-status: "active"
-source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
-tags:
-- igsa
-- tx
-importance: 5
 facility_type: "DIGSA"
 city: "Raymondville"
 address: "1800 Industrial Drive"
 aor: "Harlingen"
 latitude: 26.470298
 longitude: -97.7586475
+operator: ""
+status: "active"
+source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
+tags:
+- digsa
+- tx
+importance: 5
 ---
-
-IGSA detention facility: Willacy County Detention Center in Willacy County, TX.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: Willacy County Detention Center in Willacy County, TX.

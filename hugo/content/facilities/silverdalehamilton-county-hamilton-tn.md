@@ -7,16 +7,19 @@ fips: "47065"
 state: "TN"
 county: "Hamilton"
 repo_path: "kb/facilities/silverdalehamilton-county-hamilton-tn.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hamilton, TN."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Silverdale/Hamilton County"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Chattanooga"
+address: "7609 Standifer Gap Road"
+aor: "New Orleans"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Silverdale/Hamilton County in Hamilton County, TN.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Silverdale/Hamilton County in Hamilton County, TN.

@@ -1,0 +1,15 @@
+{
+  "fips": "19163",
+  "county": "Scott County, IA",
+  "state": "IA",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 964,
+  "total_counties": 1181,
+  "percentile": 18,
+  "coverage": "unresearched",
+  "auto_summary": "Scott County, IA shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

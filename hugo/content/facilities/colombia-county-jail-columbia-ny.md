@@ -7,16 +7,19 @@ fips: "36021"
 state: "NY"
 county: "Columbia"
 repo_path: "kb/facilities/colombia-county-jail-columbia-ny.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Columbia, NY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Colombia County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Hudson"
+address: "85 Industrial Tract"
+aor: "Buffalo"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Colombia County Jail in Columbia County, NY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Colombia County Jail in Columbia County, NY.

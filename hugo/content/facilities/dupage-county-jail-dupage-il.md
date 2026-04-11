@@ -7,16 +7,19 @@ fips: "17043"
 state: "IL"
 county: "Dupage"
 repo_path: "kb/facilities/dupage-county-jail-dupage-il.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Dupage, IL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Dupage County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Wheaton"
+address: "501 North County Farm Road"
+aor: "Chicago"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Dupage County Jail in Dupage County, IL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Dupage County Jail in Dupage County, IL.

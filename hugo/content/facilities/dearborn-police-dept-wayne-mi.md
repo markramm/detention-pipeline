@@ -7,16 +7,19 @@ fips: "26163"
 state: "MI"
 county: "Wayne"
 repo_path: "kb/facilities/dearborn-police-dept-wayne-mi.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Wayne, MI."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Dearborn Police Dept."
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Dearborn"
+address: "16099 Michigan Ave"
+aor: "Detroit"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Dearborn Police Dept. in Wayne County, MI.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Dearborn Police Dept. in Wayne County, MI.

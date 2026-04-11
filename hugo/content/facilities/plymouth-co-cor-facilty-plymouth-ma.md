@@ -7,16 +7,19 @@ fips: "25023"
 state: "MA"
 county: "Plymouth"
 repo_path: "kb/facilities/plymouth-co-cor-facilty-plymouth-ma.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Plymouth, MA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Plymouth Co Cor Facilty"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Plymouth"
+address: "26 Long Pond Road"
+aor: "Boston"
+avg_daily_pop: "444"
 ---
 
-IGSA detention facility: Plymouth Co Cor Facilty in Plymouth County, MA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Plymouth Co Cor Facilty in Plymouth County, MA. Average daily population: 444.

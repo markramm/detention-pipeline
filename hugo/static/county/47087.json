@@ -1,0 +1,15 @@
+{
+  "fips": "47087",
+  "county": "Jackson County, TN",
+  "state": "TN",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 1034,
+  "total_counties": 1181,
+  "percentile": 12,
+  "coverage": "unresearched",
+  "auto_summary": "Jackson County, TN shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

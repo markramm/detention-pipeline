@@ -15,6 +15,11 @@ facility_name: ""
 operator: "Florida Division of Emergency Management"
 status: "operational"
 bed_count: "3,000-5,000"
+facility_type: "purpose-built"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

@@ -7,16 +7,19 @@ fips: "12051"
 state: "FL"
 county: "Hendry"
 repo_path: "kb/facilities/hendry-county-jail-hendry-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hendry, FL."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Hendry County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Labelle"
+address: "101 South Bridge Street"
+aor: "Miami"
+avg_daily_pop: "2"
 ---
 
-IGSA detention facility: Hendry County Jail in Hendry County, FL.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Hendry County Jail in Hendry County, FL. Average daily population: 2.

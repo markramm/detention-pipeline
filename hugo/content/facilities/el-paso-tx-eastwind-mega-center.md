@@ -15,6 +15,11 @@ facility_name: ""
 operator: "ICE (federal)"
 status: "under-construction"
 bed_count: "8,500"
+facility_type: "warehouse-conversion"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

@@ -7,16 +7,19 @@ fips: "22029"
 state: "LA"
 county: "Concordia"
 repo_path: "kb/facilities/concordia-parish-c-c-concordia-la.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Concordia, LA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Concordia Parish C C"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Ferriday"
+address: "26356 Hwy 15"
+aor: "New Orleans"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Concordia Parish C C in Concordia County, LA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Concordia Parish C C in Concordia County, LA.

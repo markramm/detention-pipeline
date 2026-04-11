@@ -7,16 +7,19 @@ fips: "35049"
 state: "NM"
 county: "Santa Fe"
 repo_path: "kb/facilities/santa-fe-county-jail-santa-fe-nm.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Santa Fe, NM."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Santa Fe County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Santa Fe"
+address: "2515 Camino Entrada"
+aor: "El Paso"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Santa Fe County Jail in Santa Fe County, NM.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Santa Fe County Jail in Santa Fe County, NM.

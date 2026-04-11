@@ -15,6 +15,11 @@ facility_name: ""
 operator: "Department of Defense / DHS"
 status: "proposed"
 bed_count: "1,000 (planned)"
+facility_type: "military-base"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

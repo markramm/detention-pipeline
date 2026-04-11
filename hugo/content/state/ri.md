@@ -3,6 +3,6 @@ title: "Rhode Island"
 type: state
 layout: single
 state_abbr: "RI"
-county_count: 1
-entry_count: 1
+county_count: 2
+entry_count: 3
 ---

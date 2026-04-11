@@ -7,16 +7,19 @@ fips: "22055"
 state: "LA"
 county: "Lafayette"
 repo_path: "kb/facilities/lafayette-parish-so-jail-annex-lafayette-la.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lafayette, LA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Lafayette Parish So Jail Annex"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Lafayette"
+address: "916 LAFAYETTE STREET"
+aor: "New Orleans"
+avg_daily_pop: "8"
 ---
 
-IGSA detention facility: Lafayette Parish So Jail Annex in Lafayette County, LA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Lafayette Parish So Jail Annex in Lafayette County, LA. Average daily population: 8.

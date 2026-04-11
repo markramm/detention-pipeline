@@ -7,16 +7,19 @@ fips: "53001"
 state: "WA"
 county: "Adams"
 repo_path: "kb/facilities/adams-county-adams-wa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Adams, WA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Adams County"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Ritzville"
+address: "210 W Braodway"
+aor: "Seattle"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Adams County in Adams County, WA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Adams County in Adams County, WA.

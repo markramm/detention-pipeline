@@ -7,16 +7,19 @@ fips: "09011"
 state: "CT"
 county: "New London"
 repo_path: "kb/facilities/york-corr-inst-new-london-ct.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in New London, CT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "York Corr Inst"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Niantic"
+address: "201 West Main Street"
+aor: "Boston"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: York Corr Inst in New London County, CT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: York Corr Inst in New London County, CT.

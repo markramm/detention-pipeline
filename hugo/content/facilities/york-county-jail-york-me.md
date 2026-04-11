@@ -7,16 +7,19 @@ fips: "23031"
 state: "ME"
 county: "York"
 repo_path: "kb/facilities/york-county-jail-york-me.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in York, ME."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "York County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Alfred"
+address: "1 Layman Way"
+aor: "Boston"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: York County Jail in York County, ME.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: York County Jail in York County, ME.

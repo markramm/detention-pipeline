@@ -7,16 +7,19 @@ fips: "06059"
 state: "CA"
 county: "Orange"
 repo_path: "kb/facilities/theo-lacy-facility-orange-ca.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Orange, CA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Theo Lacy Facility"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Orange"
+address: "501 The City Drive South"
+aor: "Los Angeles"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Theo Lacy Facility in Orange County, CA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Theo Lacy Facility in Orange County, CA.

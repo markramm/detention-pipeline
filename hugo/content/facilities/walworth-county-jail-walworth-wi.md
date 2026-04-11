@@ -7,16 +7,19 @@ fips: "55127"
 state: "WI"
 county: "Walworth"
 repo_path: "kb/facilities/walworth-county-jail-walworth-wi.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Walworth, WI."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Walworth County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Elkhorn"
+address: "1770 County Road Nn"
+aor: "Chicago"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Walworth County Jail in Walworth County, WI.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Walworth County Jail in Walworth County, WI.

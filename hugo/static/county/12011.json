@@ -2,18 +2,18 @@
   "fips": "12011",
   "county": "Broward County, FL",
   "state": "FL",
-  "score": 149,
+  "score": 159,
   "signal_types": 5,
   "rank": 1,
-  "total_counties": 986,
+  "total_counties": 1181,
   "percentile": 100,
   "coverage": "partially-researched",
-  "auto_summary": "Broward County, FL shows 2 existing IGSA facilities, 5 287(g) agreements, 3 ANC contracts, detention consultant job posting, and budget distress.",
+  "auto_summary": "Broward County, FL shows 4 existing IGSA facilities, 5 287(g) agreements, 3 ANC contracts, detention consultant job posting, and budget distress.",
   "entry_types": {
     "287g-agreement": 5,
     "anc-contract": 3,
     "budget-distress": 1,
-    "igsa": 2,
+    "igsa": 4,
     "job-posting": 1
   }
 }

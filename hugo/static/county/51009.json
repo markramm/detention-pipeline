@@ -2,14 +2,15 @@
   "fips": "51009",
   "county": "Amherst County, VA",
   "state": "VA",
-  "score": 31,
-  "signal_types": 2,
-  "rank": 286,
-  "total_counties": 986,
-  "percentile": 71,
+  "score": 51,
+  "signal_types": 3,
+  "rank": 175,
+  "total_counties": 1181,
+  "percentile": 85,
   "coverage": "unresearched",
-  "auto_summary": "Amherst County, VA shows 1 287(g) agreement.",
+  "auto_summary": "Amherst County, VA shows 1 existing IGSA facility, and 1 287(g) agreement.",
   "entry_types": {
-    "287g-agreement": 1
+    "287g-agreement": 1,
+    "igsa": 1
   }
 }

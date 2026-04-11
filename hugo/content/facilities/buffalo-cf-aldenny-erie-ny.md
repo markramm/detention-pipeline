@@ -7,16 +7,19 @@ fips: "36029"
 state: "NY"
 county: "Erie"
 repo_path: "kb/facilities/buffalo-cf-aldenny-erie-ny.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Erie, NY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Buffalo CF, Alden,Ny"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Alden"
+address: "3052 Wende Road"
+aor: "Buffalo"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Buffalo CF, Alden,Ny in Erie County, NY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Buffalo CF, Alden,Ny in Erie County, NY.

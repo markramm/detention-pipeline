@@ -6,13 +6,6 @@ county: "St. Clair"
 state: "MI"
 fips: "26147"
 facility_name: "St. Clair County Jail"
-operator: ""
-status: "active"
-source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
-tags:
-- igsa
-- mi
-importance: 5
 facility_type: "IGSA"
 city: "Port Huron"
 address: "1170 Michigan Road"
@@ -20,8 +13,12 @@ aor: "Detroit"
 latitude: 42.9422242
 longitude: -82.4792683
 avg_daily_pop: 62
+operator: ""
+status: "active"
+source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
+tags:
+- igsa
+- mi
+importance: 5
 ---
-
-IGSA detention facility: St. Clair County Jail in St. Clair County, MI.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: St. Clair County Jail in St. Clair County, MI. Average daily population: 62.

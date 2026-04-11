@@ -6,6 +6,12 @@ county: "Nye"
 state: "NV"
 fips: "32023"
 facility_name: "Nye County Sheriff-Pahrump"
+facility_type: "IGSA"
+city: "Pahrump"
+address: "1520 E. Basin Road"
+aor: "Salt Lake City"
+latitude: 36.220352
+longitude: -115.986222
 operator: ""
 status: "active"
 source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
@@ -13,14 +19,5 @@ tags:
 - igsa
 - nv
 importance: 5
-facility_type: "IGSA"
-city: "Pahrump"
-address: "1520 E. Basin Road"
-aor: "Salt Lake City"
-latitude: 36.220352
-longitude: -115.986222
 ---
-
-IGSA detention facility: Nye County Sheriff-Pahrump in Nye County, NV.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Nye County Sheriff-Pahrump in Nye County, NV.

@@ -1,0 +1,15 @@
+{
+  "fips": "04005",
+  "county": "Coconino County, AZ",
+  "state": "AZ",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 1029,
+  "total_counties": 1181,
+  "percentile": 13,
+  "coverage": "unresearched",
+  "auto_summary": "Coconino County, AZ shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

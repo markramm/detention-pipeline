@@ -7,16 +7,19 @@ fips: "40011"
 state: "OK"
 county: "Blaine"
 repo_path: "kb/facilities/diamondback-corr-facility-blaine-ok.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Blaine, OK."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Diamondback Corr Facility"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "DIGSA"
+city: "Watonga"
+address: "1000 Diamondback Road"
+aor: "Dallas"
+avg_daily_pop: "672"
 ---
 
-IGSA detention facility: Diamondback Corr Facility in Blaine County, OK.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: Diamondback Corr Facility in Blaine County, OK. Average daily population: 672.

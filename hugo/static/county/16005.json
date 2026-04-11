@@ -1,0 +1,15 @@
+{
+  "fips": "16005",
+  "county": "Bannock County, ID",
+  "state": "ID",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 1036,
+  "total_counties": 1181,
+  "percentile": 12,
+  "coverage": "unresearched",
+  "auto_summary": "Bannock County, ID shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

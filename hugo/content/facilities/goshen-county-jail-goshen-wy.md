@@ -7,16 +7,19 @@ fips: "56015"
 state: "WY"
 county: "Goshen"
 repo_path: "kb/facilities/goshen-county-jail-goshen-wy.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Goshen, WY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Goshen County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Torrington"
+address: "2120 E B St"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Goshen County Jail in Goshen County, WY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Goshen County Jail in Goshen County, WY.

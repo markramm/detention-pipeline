@@ -7,16 +7,19 @@ fips: "08105"
 state: "CO"
 county: "Rio Grande"
 repo_path: "kb/facilities/rio-grande-county-jail-rio-grande-co.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Rio Grande, CO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Rio Grande County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Del Norte"
+address: "640 Cherry Street"
+aor: "Denver"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Rio Grande County Jail in Rio Grande County, CO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Rio Grande County Jail in Rio Grande County, CO.

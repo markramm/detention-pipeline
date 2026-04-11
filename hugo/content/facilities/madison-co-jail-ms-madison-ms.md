@@ -7,16 +7,19 @@ fips: "28089"
 state: "MS"
 county: "Madison"
 repo_path: "kb/facilities/madison-co-jail-ms-madison-ms.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Madison, MS."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Madison Co. Jail, MS."
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Canton"
+address: "2935 Highway 51"
+aor: "New Orleans"
+avg_daily_pop: "11"
 ---
 
-IGSA detention facility: Madison Co. Jail, MS. in Madison County, MS.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Madison Co. Jail, MS. in Madison County, MS. Average daily population: 11.

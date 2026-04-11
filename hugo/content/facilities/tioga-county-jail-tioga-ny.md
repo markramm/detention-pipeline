@@ -7,16 +7,19 @@ fips: "36107"
 state: "NY"
 county: "Tioga"
 repo_path: "kb/facilities/tioga-county-jail-tioga-ny.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Tioga, NY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Tioga County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Owego"
+address: "103 Corporate Drive"
+aor: "Buffalo"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Tioga County Jail in Tioga County, NY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Tioga County Jail in Tioga County, NY.

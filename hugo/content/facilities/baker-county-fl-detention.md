@@ -15,6 +15,11 @@ facility_name: ""
 operator: "GEO Group (joint venture management) / Baker County"
 status: "operational"
 bed_count: "1,300+"
+facility_type: "county-jail"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

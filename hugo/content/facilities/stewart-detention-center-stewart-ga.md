@@ -7,16 +7,19 @@ fips: "13259"
 state: "GA"
 county: "Stewart"
 repo_path: "kb/facilities/stewart-detention-center-stewart-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Stewart, GA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Stewart Detention Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "DIGSA"
+city: "Lumpkin"
+address: "146 Cca Road"
+aor: "Atlanta"
+avg_daily_pop: "2020"
 ---
 
-IGSA detention facility: Stewart Detention Center in Stewart County, GA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: Stewart Detention Center in Stewart County, GA. Average daily population: 2020.

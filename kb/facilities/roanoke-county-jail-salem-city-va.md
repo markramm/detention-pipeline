@@ -6,6 +6,12 @@ county: "Salem City"
 state: "VA"
 fips: "51775"
 facility_name: "Roanoke County Jail"
+facility_type: "IGSA"
+city: "Salem"
+address: "401 East Main Street"
+aor: "Washington"
+latitude: 37.2937701
+longitude: -80.0535856
 operator: ""
 status: "active"
 source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
@@ -13,14 +19,5 @@ tags:
 - igsa
 - va
 importance: 5
-facility_type: "IGSA"
-city: "Salem"
-address: "401 East Main Street"
-aor: "Washington"
-latitude: 37.2937701
-longitude: -80.0535856
 ---
-
-IGSA detention facility: Roanoke County Jail in Salem City County, VA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Roanoke County Jail in Salem City County, VA.

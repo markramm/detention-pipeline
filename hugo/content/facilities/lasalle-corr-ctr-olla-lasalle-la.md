@@ -7,16 +7,19 @@ fips: "22059"
 state: "LA"
 county: "Lasalle"
 repo_path: "kb/facilities/lasalle-corr-ctr-olla-lasalle-la.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lasalle, LA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Lasalle Corr Ctr Olla"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Olla"
+address: "15976 Hwy 165"
+aor: "New Orleans"
+avg_daily_pop: "2"
 ---
 
-IGSA detention facility: Lasalle Corr Ctr Olla in Lasalle County, LA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Lasalle Corr Ctr Olla in Lasalle County, LA. Average daily population: 2.

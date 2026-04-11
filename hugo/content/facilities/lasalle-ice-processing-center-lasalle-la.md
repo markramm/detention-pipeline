@@ -7,16 +7,19 @@ fips: "22059"
 state: "LA"
 county: "Lasalle"
 repo_path: "kb/facilities/lasalle-ice-processing-center-lasalle-la.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lasalle, LA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Lasalle ICE Processing Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "DIGSA"
+city: "Jena"
+address: "830 Pinehill Road"
+aor: "New Orleans"
+avg_daily_pop: "1275"
 ---
 
-IGSA detention facility: Lasalle ICE Processing Center in Lasalle County, LA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: Lasalle ICE Processing Center in Lasalle County, LA. Average daily population: 1275.

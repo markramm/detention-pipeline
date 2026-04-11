@@ -7,16 +7,19 @@ fips: "51033"
 state: "VA"
 county: "Caroline"
 repo_path: "kb/facilities/caroline-detention-facility-caroline-va.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Caroline, VA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Caroline Detention Facility"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "DIGSA"
+city: "Bowling Green"
+address: "11093 S.W. Lewis Memorial Drive"
+aor: "Washington"
+avg_daily_pop: "348"
 ---
 
-IGSA detention facility: Caroline Detention Facility in Caroline County, VA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+DIGSA facility: Caroline Detention Facility in Caroline County, VA. Average daily population: 348.

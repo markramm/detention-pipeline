@@ -6,6 +6,12 @@ county: "Scott"
 state: "MO"
 fips: "29201"
 facility_name: "Scott County Jail"
+facility_type: "IGSA"
+city: "Benton"
+address: "211 S. New Madrid St."
+aor: "Chicago"
+latitude: 37.0960809
+longitude: -89.5649693
 operator: ""
 status: "active"
 source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)"
@@ -13,14 +19,5 @@ tags:
 - igsa
 - mo
 importance: 5
-facility_type: "IGSA"
-city: "Benton"
-address: "211 S. New Madrid St."
-aor: "Chicago"
-latitude: 37.0960809
-longitude: -89.5649693
 ---
-
-IGSA detention facility: Scott County Jail in Scott County, MO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Scott County Jail in Scott County, MO.

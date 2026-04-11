@@ -15,6 +15,11 @@ facility_name: ""
 operator: "CoreCivic"
 status: "contested"
 bed_count: "1,033"
+facility_type: "private-prison"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

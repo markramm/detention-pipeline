@@ -7,16 +7,19 @@ fips: "36071"
 state: "NY"
 county: "Orange"
 repo_path: "kb/facilities/orange-county-jail-orange-ny.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Orange, NY."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Orange County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Goshen"
+address: "110 Wells Farm Road"
+aor: "New York"
+avg_daily_pop: "122"
 ---
 
-IGSA detention facility: Orange County Jail in Orange County, NY.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Orange County Jail in Orange County, NY. Average daily population: 122.

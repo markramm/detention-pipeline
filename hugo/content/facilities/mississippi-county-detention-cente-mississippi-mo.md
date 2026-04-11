@@ -7,16 +7,19 @@ fips: "29133"
 state: "MO"
 county: "Mississippi"
 repo_path: "kb/facilities/mississippi-county-detention-cente-mississippi-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Mississippi, MO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Mississippi County Detention Cente"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Charleston"
+address: "200 West Commercial Street"
+aor: "Chicago"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Mississippi County Detention Cente in Mississippi County, MO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Mississippi County Detention Cente in Mississippi County, MO.

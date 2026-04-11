@@ -7,16 +7,19 @@ fips: "37183"
 state: "NC"
 county: "Wake"
 repo_path: "kb/facilities/wake-county-sheriff-dept-wake-nc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Wake, NC."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Wake County Sheriff Dept."
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Raleigh"
+address: "330 South Salisbury Street"
+aor: "Atlanta"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Wake County Sheriff Dept. in Wake County, NC.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Wake County Sheriff Dept. in Wake County, NC.

@@ -7,16 +7,19 @@ fips: "30021"
 state: "MT"
 county: "Dawson"
 repo_path: "kb/facilities/dawson-county-jail-dawson-mt.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Dawson, MT."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Dawson County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Glendive"
+address: "207 West Bell"
+aor: "Salt Lake City"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Dawson County Jail in Dawson County, MT.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Dawson County Jail in Dawson County, MT.

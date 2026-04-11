@@ -1,0 +1,15 @@
+{
+  "fips": "18003",
+  "county": "Allen County, IN",
+  "state": "IN",
+  "score": 10,
+  "signal_types": 1,
+  "rank": 1049,
+  "total_counties": 1181,
+  "percentile": 11,
+  "coverage": "unresearched",
+  "auto_summary": "Allen County, IN shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

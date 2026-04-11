@@ -7,16 +7,19 @@ fips: "13029"
 state: "GA"
 county: "Bryan"
 repo_path: "kb/facilities/bryan-county-jail-bryan-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Bryan, GA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Bryan County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Pembroke"
+address: "95 PUBLIC SAFETY WAY"
+aor: "Atlanta"
+avg_daily_pop: "2"
 ---
 
-IGSA detention facility: Bryan County Jail in Bryan County, GA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Bryan County Jail in Bryan County, GA. Average daily population: 2.

@@ -7,16 +7,19 @@ fips: "18103"
 state: "IN"
 county: "Miami"
 repo_path: "kb/facilities/miami-correctional-center-miami-in.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Miami, IN."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Miami Correctional Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Bunkerhill"
+address: "3038 West 850 South P.O. Box 900"
+aor: "Chicago"
+avg_daily_pop: "504"
 ---
 
-IGSA detention facility: Miami Correctional Center in Miami County, IN.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Miami Correctional Center in Miami County, IN. Average daily population: 504.

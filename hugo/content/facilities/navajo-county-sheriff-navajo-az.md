@@ -7,16 +7,19 @@ fips: "04017"
 state: "AZ"
 county: "Navajo"
 repo_path: "kb/facilities/navajo-county-sheriff-navajo-az.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Navajo, AZ."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Navajo County Sheriff"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Holbrook"
+address: "100 East Carter Drive"
+aor: "Phoenix"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Navajo County Sheriff in Navajo County, AZ.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Navajo County Sheriff in Navajo County, AZ.

@@ -7,16 +7,19 @@ fips: "38015"
 state: "ND"
 county: "Burleigh"
 repo_path: "kb/facilities/burleigh-co-jail-nd-burleigh-nd.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Burleigh, ND."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Burleigh Co. Jail, ND"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Bismarck"
+address: "4000 Apple Creek Rd"
+aor: "St. Paul"
+avg_daily_pop: "5"
 ---
 
-IGSA detention facility: Burleigh Co. Jail, ND in Burleigh County, ND.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Burleigh Co. Jail, ND in Burleigh County, ND. Average daily population: 5.

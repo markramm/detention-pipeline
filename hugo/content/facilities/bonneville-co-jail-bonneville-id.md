@@ -7,16 +7,19 @@ fips: "16019"
 state: "ID"
 county: "Bonneville"
 repo_path: "kb/facilities/bonneville-co-jail-bonneville-id.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Bonneville, ID."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Bonneville Co. Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Idaho Falls"
+address: "605 North Capital"
+aor: "Salt Lake City"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Bonneville Co. Jail in Bonneville County, ID.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Bonneville Co. Jail in Bonneville County, ID.

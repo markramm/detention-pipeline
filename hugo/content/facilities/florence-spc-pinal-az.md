@@ -15,6 +15,11 @@ facility_name: ""
 operator: "ICE (guard/food/transport by Akima Global Services)"
 status: "operational"
 bed_count: "unknown"
+facility_type: "processing-center"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

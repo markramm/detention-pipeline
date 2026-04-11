@@ -15,6 +15,11 @@ facility_name: ""
 operator: "CoreCivic"
 status: "operational"
 bed_count: "unknown"
+facility_type: "private-prison"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

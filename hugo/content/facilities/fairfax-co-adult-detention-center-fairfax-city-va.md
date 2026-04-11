@@ -7,16 +7,19 @@ fips: "51600"
 state: "VA"
 county: "Fairfax City"
 repo_path: "kb/facilities/fairfax-co-adult-detention-center-fairfax-city-va.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Fairfax City, VA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Fairfax Co. Adult Detention Center"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Fairfax"
+address: "10520 Judicial Drive"
+aor: "Washington"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Fairfax Co. Adult Detention Center in Fairfax City County, VA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Fairfax Co. Adult Detention Center in Fairfax City County, VA.

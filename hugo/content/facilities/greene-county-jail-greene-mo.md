@@ -7,16 +7,19 @@ fips: "29077"
 state: "MO"
 county: "Greene"
 repo_path: "kb/facilities/greene-county-jail-greene-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Greene, MO."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Greene County Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Springfield"
+address: "929 N. Robberson"
+aor: "Chicago"
+avg_daily_pop: "277"
 ---
 
-IGSA detention facility: Greene County Jail in Greene County, MO.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Greene County Jail in Greene County, MO. Average daily population: 277.

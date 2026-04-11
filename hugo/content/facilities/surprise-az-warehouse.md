@@ -15,6 +15,11 @@ facility_name: ""
 operator: "ICE (federal) — contractor lacks detention background"
 status: "under-construction"
 bed_count: "550"
+facility_type: "warehouse-conversion"
+city: ""
+address: ""
+aor: ""
+avg_daily_pop: ""
 ---
 
 ## Overview

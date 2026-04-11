@@ -7,16 +7,19 @@ fips: "53077"
 state: "WA"
 county: "Yakima"
 repo_path: "kb/facilities/sunnyside-jail-yakima-wa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in Yakima, WA."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "Sunnyside Jail"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Sunnyside"
+address: "401 Homer Street"
+aor: "Seattle"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: Sunnyside Jail in Yakima County, WA.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: Sunnyside Jail in Yakima County, WA.

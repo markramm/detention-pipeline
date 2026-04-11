@@ -7,16 +7,19 @@ fips: "24037"
 state: "MD"
 county: "St. Mary's"
 repo_path: "kb/facilities/st-marys-co-det-cntr-st-marys-md.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "IGSA detention facility in St. Mary's, MD."
-source_count: 1
+source_count: 0
 layout: "single"
 facility_name: "St. Mary's Co Det Cntr"
 operator: ""
 status: "active"
 bed_count: ""
+facility_type: "IGSA"
+city: "Leonardtown"
+address: "41880 Baldridge Street"
+aor: "Baltimore"
+avg_daily_pop: ""
 ---
 
-IGSA detention facility: St. Mary's Co Det Cntr in St. Mary's County, MD.
-
-Source: Vera Institute ICE Detention Trends (vera-institute/ice-detention-trends)
+IGSA facility: St. Mary's Co Det Cntr in St. Mary's County, MD.

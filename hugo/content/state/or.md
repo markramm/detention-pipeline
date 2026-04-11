@@ -3,6 +3,6 @@ title: "Oregon"
 type: state
 layout: single
 state_abbr: "OR"
-county_count: 10
-entry_count: 11
+county_count: 14
+entry_count: 20
 ---
