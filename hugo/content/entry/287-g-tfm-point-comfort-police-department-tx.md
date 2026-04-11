@@ -7,6 +7,7 @@ fips: "48057"
 state: "TX"
 county: "Calhoun County"
 repo_path: "kb/287g/287-g-tfm-point-comfort-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

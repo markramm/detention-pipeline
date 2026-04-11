@@ -1,5 +1,5 @@
 ---
-title: "GEO TRANSPORT, INC. — ICE SALT LAKE, UT $10,384,456"
+title: "Geo Transport, Inc. — Ice Salt Lake, Ut $10,384,456"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "49035"
 state: "UT"
 county: "SALT LAKE"
 repo_path: "kb/anc/geo-transport-inc-ice-salt-lake-ut-10384456.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

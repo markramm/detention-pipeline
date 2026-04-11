@@ -7,6 +7,7 @@ fips: "48277"
 state: "TX"
 county: "Lamar County"
 repo_path: "kb/287g/287-g-tfm-paris-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

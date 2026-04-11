@@ -7,6 +7,7 @@ fips: "48217"
 state: "TX"
 county: "Hill County"
 repo_path: "kb/287g/287-g-wso-hill-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

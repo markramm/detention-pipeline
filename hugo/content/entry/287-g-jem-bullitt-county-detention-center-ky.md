@@ -7,6 +7,7 @@ fips: "21029"
 state: "KY"
 county: "Bullitt County"
 repo_path: "kb/287g/287-g-jem-bullitt-county-detention-center-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

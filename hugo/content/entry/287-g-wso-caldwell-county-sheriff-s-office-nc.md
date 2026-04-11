@@ -7,6 +7,7 @@ fips: "37027"
 state: "NC"
 county: "Caldwell County"
 repo_path: "kb/287g/287-g-wso-caldwell-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

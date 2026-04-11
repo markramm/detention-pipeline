@@ -7,6 +7,7 @@ fips: "04021"
 state: "AZ"
 county: "Pinal County"
 repo_path: "kb/287g/287-g-tfm-pinal-county-attorney-s-office-az.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

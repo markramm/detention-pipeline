@@ -7,6 +7,7 @@ fips: "48487"
 state: "TX"
 county: "Wilbarger County"
 repo_path: "kb/287g/287-g-wso-wilbarger-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

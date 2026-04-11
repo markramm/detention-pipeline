@@ -7,6 +7,7 @@ fips: ""
 state: "AK"
 county: ""
 repo_path: "kb/287g/287-g-wso-kodiak-police-department-ak.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

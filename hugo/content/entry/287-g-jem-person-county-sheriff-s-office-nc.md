@@ -7,6 +7,7 @@ fips: "37145"
 state: "NC"
 county: "Person County"
 repo_path: "kb/287g/287-g-jem-person-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "01017"
 state: "AL"
 county: "Chambers County"
 repo_path: "kb/287g/287-g-tfm-lanett-police-department-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

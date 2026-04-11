@@ -7,6 +7,7 @@ fips: "55055"
 state: "WI"
 county: "Jefferson County"
 repo_path: "kb/287g/287-g-tfm-palmyra-police-department-wi.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

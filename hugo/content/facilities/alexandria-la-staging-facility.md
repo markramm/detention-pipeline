@@ -7,6 +7,7 @@ fips: ""
 state: "Louisiana"
 county: "Rapides"
 repo_path: "kb/industry/facilities/alexandria-la-staging-facility.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "GEO Group"
 status: "operational"
 bed_count: "400 beds (1,000+ people cycle through weekly)"
 ---
-
-# Alexandria Staging Facility
 
 ## Overview
 
@@ -29,7 +28,7 @@ This is one of five ICE Air Operations locations: San Antonio TX, Brownsville TX
 
 ## Operator
 
-[[geo-group|GEO Group]] operates the facility under contract to ICE.
+[GEO Group](/entry/geo-group/) operates the facility under contract to ICE.
 
 ## Connection to Military Infrastructure
 

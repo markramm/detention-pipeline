@@ -7,6 +7,7 @@ fips: ""
 state: "NH"
 county: ""
 repo_path: "kb/287g/287-g-tfm-candia-police-department-nh.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

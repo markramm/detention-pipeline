@@ -1,5 +1,5 @@
 ---
-title: "STG INTERNATIONAL, INC. — ICE ALEXANDRIA CITY, VA $641,096,353"
+title: "Stg International, Inc. — Ice Alexandria City, Va $641,096,353"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: ""
 state: "VA"
 county: "ALEXANDRIA CITY"
 repo_path: "kb/anc/stg-international-inc-ice-alexandria-city-va-641096353.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "49041"
 state: "UT"
 county: "Sevier County"
 repo_path: "kb/287g/287-g-jem-sevier-county-sheriff-s-office-ut.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

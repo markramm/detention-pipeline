@@ -7,6 +7,7 @@ fips: "42083"
 state: "PA"
 county: "McKean County"
 repo_path: "kb/287g/287-g-tfm-bradford-police-department-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "DELOITTE CONSULTING LLP — ICE ARLINGTON, VA $69,678,847"
+title: "Deloitte Consulting Llp — Ice Arlington, Va $69,678,847"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "51013"
 state: "VA"
 county: "ARLINGTON"
 repo_path: "kb/anc/deloitte-consulting-llp-ice-arlington-va-69678847.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

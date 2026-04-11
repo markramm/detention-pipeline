@@ -7,6 +7,7 @@ fips: "37199"
 state: "NC"
 county: "Yancey County"
 repo_path: "kb/287g/287-g-wso-yancey-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "42067"
 state: "PA"
 county: "Juniata County"
 repo_path: "kb/287g/287-g-tfm-juniata-county-sheriff-s-office-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

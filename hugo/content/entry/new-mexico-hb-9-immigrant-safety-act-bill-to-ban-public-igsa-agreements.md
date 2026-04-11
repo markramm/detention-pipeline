@@ -7,6 +7,7 @@ fips: ""
 state: "NM"
 county: ""
 repo_path: "kb/legislative/new-mexico-hb-9-immigrant-safety-act-bill-to-ban-public-igsa-agreements.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

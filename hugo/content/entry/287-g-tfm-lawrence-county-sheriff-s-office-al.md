@@ -7,6 +7,7 @@ fips: "01079"
 state: "AL"
 county: "Lawrence County"
 repo_path: "kb/287g/287-g-tfm-lawrence-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

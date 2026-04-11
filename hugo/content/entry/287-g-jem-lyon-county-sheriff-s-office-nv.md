@@ -7,6 +7,7 @@ fips: "32019"
 state: "NV"
 county: "Lyon County"
 repo_path: "kb/287g/287-g-jem-lyon-county-sheriff-s-office-nv.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

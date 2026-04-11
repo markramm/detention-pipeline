@@ -7,6 +7,7 @@ fips: ""
 state: "TX"
 county: "Guadalupe Conty"
 repo_path: "kb/287g/287-g-tfm-new-berlin-marshal-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

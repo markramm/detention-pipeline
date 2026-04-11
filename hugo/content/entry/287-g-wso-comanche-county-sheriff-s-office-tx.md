@@ -7,6 +7,7 @@ fips: "48093"
 state: "TX"
 county: "Comanche County"
 repo_path: "kb/287g/287-g-wso-comanche-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

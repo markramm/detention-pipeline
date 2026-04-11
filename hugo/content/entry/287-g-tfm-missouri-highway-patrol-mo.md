@@ -7,6 +7,7 @@ fips: ""
 state: "MO"
 county: ""
 repo_path: "kb/287g/287-g-tfm-missouri-highway-patrol-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

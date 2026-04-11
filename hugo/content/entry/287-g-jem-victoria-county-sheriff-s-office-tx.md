@@ -7,6 +7,7 @@ fips: "48469"
 state: "TX"
 county: "Victoria County"
 repo_path: "kb/287g/287-g-jem-victoria-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

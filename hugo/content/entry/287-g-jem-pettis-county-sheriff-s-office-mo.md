@@ -7,6 +7,7 @@ fips: "29159"
 state: "MO"
 county: "Pettis County"
 repo_path: "kb/287g/287-g-jem-pettis-county-sheriff-s-office-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

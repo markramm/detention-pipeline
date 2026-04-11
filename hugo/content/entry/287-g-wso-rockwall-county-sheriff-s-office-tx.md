@@ -7,6 +7,7 @@ fips: "48397"
 state: "TX"
 county: "Rockwall County"
 repo_path: "kb/287g/287-g-wso-rockwall-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

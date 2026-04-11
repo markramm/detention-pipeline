@@ -7,6 +7,7 @@ fips: "16019"
 state: "ID"
 county: "Bonneville County"
 repo_path: "kb/287g/287-g-wso-bonneville-county-sheriff-s-office-id.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

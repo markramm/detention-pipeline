@@ -7,6 +7,7 @@ fips: "21039"
 state: "KY"
 county: "Carlisle County"
 repo_path: "kb/287g/287-g-tfm-carlisle-county-sheriff-s-office-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

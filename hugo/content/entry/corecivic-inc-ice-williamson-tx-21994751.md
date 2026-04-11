@@ -1,5 +1,5 @@
 ---
-title: "CORECIVIC, INC. — ICE WILLIAMSON, TX $21,994,751"
+title: "Corecivic, Inc. — Ice Williamson, Tx $21,994,751"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "48491"
 state: "TX"
 county: "WILLIAMSON"
 repo_path: "kb/anc/corecivic-inc-ice-williamson-tx-21994751.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

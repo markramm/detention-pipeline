@@ -7,6 +7,7 @@ fips: "28153"
 state: "MS"
 county: "Wayne County"
 repo_path: "kb/287g/287-g-tfm-wayne-county-sheriff-s-department-ms.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "BOWHEAD MARINE SUPPORT SERVICES LLC — ICE COLLIN, TX $41,122,569"
+title: "Bowhead Marine Support Services Llc — Ice Collin, Tx $41,122,569"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "48085"
 state: "TX"
 county: "COLLIN"
 repo_path: "kb/anc/bowhead-marine-support-services-llc-ice-collin-tx-41122569.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

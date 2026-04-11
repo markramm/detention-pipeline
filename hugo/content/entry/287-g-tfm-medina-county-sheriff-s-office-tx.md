@@ -7,6 +7,7 @@ fips: "48325"
 state: "TX"
 county: "Medina County"
 repo_path: "kb/287g/287-g-tfm-medina-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

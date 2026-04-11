@@ -7,6 +7,7 @@ fips: "27047"
 state: "MN"
 county: "Freeborn County"
 repo_path: "kb/287g/287-g-wso-freeborn-county-sheriff-s-office-mn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

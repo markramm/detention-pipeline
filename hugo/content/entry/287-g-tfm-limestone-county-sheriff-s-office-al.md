@@ -7,6 +7,7 @@ fips: "01083"
 state: "AL"
 county: "Limestone County"
 repo_path: "kb/287g/287-g-tfm-limestone-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

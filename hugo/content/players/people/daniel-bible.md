@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/daniel-bible.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "person"
@@ -15,9 +16,7 @@ government_service: ""
 private_role: ""
 ---
 
-# Daniel A. Bible
-
-Daniel A. Bible was ICE's top career official in charge of immigration detention, who left the agency just days before the 2024 presidential election to become an executive at [[geo-group|GEO Group]] -- the company's largest detention contractor.
+Daniel A. Bible was ICE's top career official in charge of immigration detention, who left the agency just days before the 2024 presidential election to become an executive at [GEO Group](/entry/geo-group/) -- the company's largest detention contractor.
 
 ## Career Timeline
 
@@ -25,11 +24,11 @@ Daniel A. Bible was ICE's top career official in charge of immigration detention
 2. **Deputy Executive Associate Director, ICE ERO** -- Led Enforcement and Removal Operations, directing 8,600+ employees across 25 field offices
 3. **ICE San Antonio Field Office Director (2016-2020)** -- Oversaw five detention facilities and two family residential centers holding over 7,000 people
 4. **Left ICE: October 31, 2024** -- Departed just days before the presidential election
-5. **Executive Vice President, [[geo-group|GEO Group]] (November 2024 - present)**
+5. **Executive Vice President, [GEO Group](/entry/geo-group/) (November 2024 - present)**
 
 ## The Lunch Receipt
 
-[[geo-group|GEO Group]] spent $1,025 for Bible to "travel and [have] lunch for [an] employment discussion" -- a detail revealed through disclosure documents. This modest expenditure preceded a hire that gave GEO insider knowledge of ICE's entire detention apparatus.
+[GEO Group](/entry/geo-group/) spent $1,025 for Bible to "travel and [have] lunch for [an] employment discussion" -- a detail revealed through disclosure documents. This modest expenditure preceded a hire that gave GEO insider knowledge of ICE's entire detention apparatus.
 
 ## San Antonio Record
 
@@ -37,7 +36,7 @@ A law review article found high rates of arrests, removals, and detention of non
 
 ## Strategic Value to GEO
 
-Bible's hire gave [[geo-group|GEO Group]] "inside intel that allows it to anticipate ICE's needs and can give it the edge in expanding its contracts." Weeks after Bible left ICE, [[geo-group|GEO Group]] announced it was investing $70 million to bolster its ability to support the agency -- suggesting the company had advance knowledge of the incoming administration's detention expansion plans.
+Bible's hire gave [GEO Group](/entry/geo-group/) "inside intel that allows it to anticipate ICE's needs and can give it the edge in expanding its contracts." Weeks after Bible left ICE, [GEO Group](/entry/geo-group/) announced it was investing $70 million to bolster its ability to support the agency -- suggesting the company had advance knowledge of the incoming administration's detention expansion plans.
 
 ## Sources
 

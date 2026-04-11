@@ -7,6 +7,7 @@ fips: "40139"
 state: "OK"
 county: "Texas County"
 repo_path: "kb/287g/287-g-wso-texas-county-sheriff-s-office-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

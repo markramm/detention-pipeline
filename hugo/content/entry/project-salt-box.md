@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/organizations/project-salt-box.md"
+lastmod: "2026-04-08"
 type: "entry"
 layout: "single"
 ---
-
-# Project Salt Box
 
 ## Overview
 

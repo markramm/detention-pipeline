@@ -7,6 +7,7 @@ fips: ""
 state: "Georgia"
 county: "Walton"
 repo_path: "kb/industry/facilities/social-circle-ga-mega-center.md"
+lastmod: "2026-04-08"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal)"
 status: "contested"
 bed_count: "7,500-10,000"
 ---
-
-# Social Circle GA Warehouse — ICE Mega Detention Center
 
 ## Overview
 
@@ -42,11 +41,11 @@ The most acute challenge: **the town's sewer plant can only process 660,000 gall
 
 ### City Response
 
-Social Circle City Manager Eric Taylor confirmed the city has placed a **lock on the water meter** at the facility (see [[social-circle-ga-water-shutoff]]). It will remain locked until ICE can demonstrate the facility can operate without overburdening water and sewer services. No one from DHS has spoken directly to local leaders, despite providing documents about plans.
+Social Circle City Manager Eric Taylor confirmed the city has placed a **lock on the water meter** at the facility (see [social-circle-ga-water-shutoff](/entry/social-circle-ga-water-shutoff/)). It will remain locked until ICE can demonstrate the facility can operate without overburdening water and sewer services. No one from DHS has spoken directly to local leaders, despite providing documents about plans.
 
 ## Context
 
-The Social Circle facility alone would be nearly **triple the size of [[camp-east-montana-fort-bliss|Camp East Montana]]** (Fort Bliss). Combined with seven other planned mega-centers, ICE aims to create unprecedented federal detention capacity by end of FY2026.
+The Social Circle facility alone would be nearly **triple the size of [Camp East Montana](/entry/camp-east-montana-fort-bliss/)** (Fort Bliss). Combined with seven other planned mega-centers, ICE aims to create unprecedented federal detention capacity by end of FY2026.
 
 ## Sources
 

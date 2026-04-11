@@ -7,6 +7,7 @@ fips: "48029"
 state: "TX"
 county: "Bexar"
 repo_path: "kb/real-estate/port-san-antonio-industrial-bexar-tx-500000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

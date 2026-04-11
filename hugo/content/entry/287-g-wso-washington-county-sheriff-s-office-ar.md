@@ -7,6 +7,7 @@ fips: "05143"
 state: "AR"
 county: "Washington County"
 repo_path: "kb/287g/287-g-wso-washington-county-sheriff-s-office-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

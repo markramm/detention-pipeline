@@ -7,6 +7,7 @@ fips: "56025"
 state: "WY"
 county: "Natrona County"
 repo_path: "kb/287g/287-g-tfm-natrona-county-sheriff-s-office-wy.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

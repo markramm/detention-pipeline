@@ -7,6 +7,7 @@ fips: "13297"
 state: "GA"
 county: "Walton"
 repo_path: "kb/comms/social-circle-ga-walton-county-nda-cited-to-withhold-detention-info-from-public.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

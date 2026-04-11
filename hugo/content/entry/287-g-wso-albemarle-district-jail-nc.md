@@ -7,6 +7,7 @@ fips: ""
 state: "NC"
 county: "Albemarle County"
 repo_path: "kb/287g/287-g-wso-albemarle-district-jail-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

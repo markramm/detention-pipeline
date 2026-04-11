@@ -7,6 +7,7 @@ fips: "01041"
 state: "AL"
 county: "Crenshaw County"
 repo_path: "kb/287g/287-g-wso-crenshaw-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

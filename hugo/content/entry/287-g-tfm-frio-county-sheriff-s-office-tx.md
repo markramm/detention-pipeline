@@ -7,6 +7,7 @@ fips: "48163"
 state: "TX"
 county: "Frio County"
 repo_path: "kb/287g/287-g-tfm-frio-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

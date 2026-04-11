@@ -7,6 +7,7 @@ fips: "48029"
 state: "TX"
 county: "Bexar County"
 repo_path: "kb/287g/287-g-tfm-bexar-county-constable-precinct-3-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

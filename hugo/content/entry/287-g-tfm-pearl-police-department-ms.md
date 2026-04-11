@@ -7,6 +7,7 @@ fips: "28121"
 state: "MS"
 county: "Rankin County"
 repo_path: "kb/287g/287-g-tfm-pearl-police-department-ms.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

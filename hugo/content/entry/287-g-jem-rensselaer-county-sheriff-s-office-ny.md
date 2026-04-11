@@ -7,6 +7,7 @@ fips: "36083"
 state: "NY"
 county: "Rensselaer County"
 repo_path: "kb/287g/287-g-jem-rensselaer-county-sheriff-s-office-ny.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

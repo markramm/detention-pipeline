@@ -7,6 +7,7 @@ fips: "48257"
 state: "TX"
 county: "Kaufman County"
 repo_path: "kb/287g/287-g-jem-kaufman-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

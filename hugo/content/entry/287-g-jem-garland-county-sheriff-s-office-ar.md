@@ -7,6 +7,7 @@ fips: "05051"
 state: "AR"
 county: "Garland County"
 repo_path: "kb/287g/287-g-jem-garland-county-sheriff-s-office-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

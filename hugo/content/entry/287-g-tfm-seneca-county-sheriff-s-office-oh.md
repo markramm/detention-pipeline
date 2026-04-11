@@ -7,6 +7,7 @@ fips: "39147"
 state: "OH"
 county: "Seneca County"
 repo_path: "kb/287g/287-g-tfm-seneca-county-sheriff-s-office-oh.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

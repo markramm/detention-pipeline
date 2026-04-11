@@ -1,5 +1,5 @@
 ---
-title: "THE KINETIC GROUP SALES LLC — ICE ANOKA, MN $1,487,160"
+title: "The Kinetic Group Sales Llc — Ice Anoka, Mn $1,487,160"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "27003"
 state: "MN"
 county: "ANOKA"
 repo_path: "kb/anc/the-kinetic-group-sales-llc-ice-anoka-mn-1487160.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

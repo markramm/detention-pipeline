@@ -1,5 +1,5 @@
 ---
-title: "THE GEO GROUP, INC. — ICE LOS ANGELES, CA $34,258,265"
+title: "The Geo Group, Inc. — Ice Los Angeles, Ca $34,258,265"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06037"
 state: "CA"
 county: "LOS ANGELES"
 repo_path: "kb/anc/the-geo-group-inc-ice-los-angeles-ca-34258265.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

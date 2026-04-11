@@ -7,6 +7,7 @@ fips: "12071"
 state: "FL"
 county: "Lee County"
 repo_path: "kb/287g/287-g-wso-lee-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

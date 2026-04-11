@@ -7,6 +7,7 @@ fips: "49053"
 state: "UT"
 county: "Washington County"
 repo_path: "kb/287g/287-g-jem-washington-county-sheriff-s-office-ut.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

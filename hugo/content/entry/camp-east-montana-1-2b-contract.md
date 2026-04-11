@@ -7,15 +7,14 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/camp-east-montana-1-2b-contract.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
 
-# Camp East Montana $1.2B Contract
-
 ## Overview
 
-A $1.2 billion contract awarded through the U.S. Army's procurement system to build and operate a tent detention camp at [[camp-east-montana-fort-bliss]] on Fort Bliss, El Paso, TX. The contractor was a company registered at a residential address in Virginia with no prior detention experience.
+A $1.2 billion contract awarded through the U.S. Army's procurement system to build and operate a tent detention camp at [camp-east-montana-fort-bliss](/entry/camp-east-montana-fort-bliss/) on Fort Bliss, El Paso, TX. The contractor was a company registered at a residential address in Virginia with no prior detention experience.
 
 ## Why This Contract Matters
 
@@ -28,7 +27,7 @@ A $1.2 billion contract awarded through the U.S. Army's procurement system to bu
 
 The mystery surrounding the contractor was first reported by PBS News. A company registered at a residential Virginia address — with no visible history of detention operations — received over a billion dollars to build and operate what became the most notorious facility in the new detention system.
 
-This contract anticipated the [[wexmac-titus-military-procurement-bypass]] model: routing detention funding through military procurement to bypass normal bidding, transparency, and oversight requirements.
+This contract anticipated the [wexmac-titus-military-procurement-bypass](/entry/wexmac-titus-military-procurement-bypass/) model: routing detention funding through military procurement to bypass normal bidding, transparency, and oversight requirements.
 
 ## Sources
 

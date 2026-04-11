@@ -7,6 +7,7 @@ fips: "42003"
 state: "PA"
 county: "Allegheny County"
 repo_path: "kb/287g/287-g-tfm-springdale-borough-police-department-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

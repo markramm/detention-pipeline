@@ -7,6 +7,7 @@ fips: "47057"
 state: "TN"
 county: "Grainger County"
 repo_path: "kb/287g/287-g-wso-grainger-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

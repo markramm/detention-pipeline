@@ -1,5 +1,5 @@
 ---
-title: "MANAGEMENT & TRAINING CORPORATION — ICE IMPERIAL, CA $41,214,863"
+title: "Management & Training Corporation — Ice Imperial, Ca $41,214,863"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06025"
 state: "CA"
 county: "IMPERIAL"
 repo_path: "kb/anc/management-training-corporation-ice-imperial-ca-41214863.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

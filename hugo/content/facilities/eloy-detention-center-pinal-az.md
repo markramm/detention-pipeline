@@ -7,6 +7,7 @@ fips: ""
 state: "Arizona"
 county: "Pinal"
 repo_path: "kb/industry/facilities/eloy-detention-center-pinal-az.md"
+lastmod: "2026-04-10"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -15,11 +16,9 @@ status: "operational"
 bed_count: "1,550"
 ---
 
-# Eloy Detention Center — "Deadliest Immigration Detention Center in the U.S."
-
 ## Overview
 
-The **Eloy Detention Center** is a 1,550-bed [[corecivic|CoreCivic]]-operated ICE detention facility in Eloy, Pinal County, Arizona. It is part of the **Pinal County detention cluster** — the largest concentration of private detention beds in the country, with 11,200+ CoreCivic beds within a 20-mile radius.
+The **Eloy Detention Center** is a 1,550-bed [CoreCivic](/entry/corecivic/)-operated ICE detention facility in Eloy, Pinal County, Arizona. It is part of the **Pinal County detention cluster** — the largest concentration of private detention beds in the country, with 11,200+ CoreCivic beds within a 20-mile radius.
 
 ## Deaths in Custody
 

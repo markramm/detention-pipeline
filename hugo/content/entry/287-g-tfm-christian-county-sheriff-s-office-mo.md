@@ -7,6 +7,7 @@ fips: "29043"
 state: "MO"
 county: "Christian County"
 repo_path: "kb/287g/287-g-tfm-christian-county-sheriff-s-office-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

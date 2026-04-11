@@ -7,6 +7,7 @@ fips: "28047"
 state: "MS"
 county: "Harrison County"
 repo_path: "kb/287g/287-g-jem-harrison-county-sheriff-s-office-ms.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "18065"
 state: "IN"
 county: "Henry County"
 repo_path: "kb/287g/287-g-tfm-greensboro-police-department-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

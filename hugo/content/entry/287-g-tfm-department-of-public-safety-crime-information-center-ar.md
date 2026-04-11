@@ -7,6 +7,7 @@ fips: "05119"
 state: "AR"
 county: "Pulaski County"
 repo_path: "kb/287g/287-g-tfm-department-of-public-safety-crime-information-center-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

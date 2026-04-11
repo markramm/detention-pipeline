@@ -7,6 +7,7 @@ fips: "28099"
 state: "MS"
 county: "Neshoba County"
 repo_path: "kb/287g/287-g-tfm-neshoba-county-sheriff-s-office-ms.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

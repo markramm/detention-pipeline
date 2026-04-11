@@ -7,6 +7,7 @@ fips: "12011"
 state: "FL"
 county: "Broward"
 repo_path: "kb/budget/broward-county-fl-190m-budget-overspend-fl-cfo-finding-oct-2025.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

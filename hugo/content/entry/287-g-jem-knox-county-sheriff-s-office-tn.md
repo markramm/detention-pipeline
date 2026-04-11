@@ -7,6 +7,7 @@ fips: "47093"
 state: "TN"
 county: "Knox County"
 repo_path: "kb/287g/287-g-jem-knox-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

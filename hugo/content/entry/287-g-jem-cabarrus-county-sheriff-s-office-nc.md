@@ -7,6 +7,7 @@ fips: "37025"
 state: "NC"
 county: "Cabarrus County"
 repo_path: "kb/287g/287-g-jem-cabarrus-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

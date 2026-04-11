@@ -7,6 +7,7 @@ fips: "13087"
 state: "GA"
 county: "Decatur"
 repo_path: "kb/287g/287-g-wso-decatur-county-sheriff-s-office-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

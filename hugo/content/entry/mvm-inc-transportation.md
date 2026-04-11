@@ -7,13 +7,12 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/mvm-inc-transportation.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
 
-# MVM Inc. — ICE Transportation Contract
-
-[[mvm-inc|MVM, Inc.]] holds one of the largest cumulative ICE contract portfolios for detainee transportation, with **$1.1 billion in total obligated contracts** and **$145.1 million in new 2025 contracts** alone.
+[MVM, Inc.](/entry/mvm-inc/) holds one of the largest cumulative ICE contract portfolios for detainee transportation, with **$1.1 billion in total obligated contracts** and **$145.1 million in new 2025 contracts** alone.
 
 ## Scope of Services
 

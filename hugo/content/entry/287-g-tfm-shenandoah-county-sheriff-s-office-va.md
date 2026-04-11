@@ -7,6 +7,7 @@ fips: "51171"
 state: "VA"
 county: "Shenandoah County"
 repo_path: "kb/287g/287-g-tfm-shenandoah-county-sheriff-s-office-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

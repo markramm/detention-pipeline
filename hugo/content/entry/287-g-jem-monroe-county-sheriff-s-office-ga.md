@@ -7,6 +7,7 @@ fips: "13207"
 state: "GA"
 county: "Monroe County"
 repo_path: "kb/287g/287-g-jem-monroe-county-sheriff-s-office-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

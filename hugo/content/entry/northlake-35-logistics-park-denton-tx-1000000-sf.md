@@ -7,6 +7,7 @@ fips: "48121"
 state: "TX"
 county: "Denton"
 repo_path: "kb/real-estate/northlake-35-logistics-park-denton-tx-1000000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

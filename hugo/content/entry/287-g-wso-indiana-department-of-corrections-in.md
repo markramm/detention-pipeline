@@ -7,6 +7,7 @@ fips: "18133"
 state: "IN"
 county: "Putnam County"
 repo_path: "kb/287g/287-g-wso-indiana-department-of-corrections-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

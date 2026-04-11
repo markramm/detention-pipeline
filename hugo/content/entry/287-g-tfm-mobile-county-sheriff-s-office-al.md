@@ -7,6 +7,7 @@ fips: "01097"
 state: "AL"
 county: "Mobile County"
 repo_path: "kb/287g/287-g-tfm-mobile-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

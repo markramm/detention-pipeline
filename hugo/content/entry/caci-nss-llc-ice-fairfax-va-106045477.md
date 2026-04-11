@@ -1,5 +1,5 @@
 ---
-title: "CACI NSS, LLC — ICE FAIRFAX, VA $106,045,477"
+title: "Caci Nss, Llc — Ice Fairfax, Va $106,045,477"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "51600"
 state: "VA"
 county: "FAIRFAX"
 repo_path: "kb/anc/caci-nss-llc-ice-fairfax-va-106045477.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

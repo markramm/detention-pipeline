@@ -7,6 +7,7 @@ fips: "48445"
 state: "TX"
 county: "Terry County"
 repo_path: "kb/287g/287-g-wso-terry-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

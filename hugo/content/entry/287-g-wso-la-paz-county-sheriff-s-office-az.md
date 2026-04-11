@@ -7,6 +7,7 @@ fips: "04012"
 state: "AZ"
 county: "La Paz County"
 repo_path: "kb/287g/287-g-wso-la-paz-county-sheriff-s-office-az.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "40017"
 state: "OK"
 county: "Canadian County"
 repo_path: "kb/287g/287-g-wso-canadian-county-sheriff-s-office-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

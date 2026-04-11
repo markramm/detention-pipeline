@@ -7,6 +7,7 @@ fips: ""
 state: "AZ"
 county: ""
 repo_path: "kb/287g/287-g-jem-arizona-department-of-corrections-az.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

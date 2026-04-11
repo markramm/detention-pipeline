@@ -7,6 +7,7 @@ fips: ""
 state: "MD"
 county: "St. Mary’s County"
 repo_path: "kb/287g/287-g-wso-st-mary-s-county-sheriff-s-office-md.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

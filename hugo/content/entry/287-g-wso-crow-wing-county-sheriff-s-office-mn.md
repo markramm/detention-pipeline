@@ -7,6 +7,7 @@ fips: "27035"
 state: "MN"
 county: "Crow Wing County"
 repo_path: "kb/287g/287-g-wso-crow-wing-county-sheriff-s-office-mn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

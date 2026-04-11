@@ -7,6 +7,7 @@ fips: "51117"
 state: "VA"
 county: "Mecklenburg County"
 repo_path: "kb/287g/287-g-tfm-mecklenburg-county-sheriff-s-office-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

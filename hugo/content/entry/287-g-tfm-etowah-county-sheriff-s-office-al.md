@@ -7,6 +7,7 @@ fips: "01055"
 state: "AL"
 county: "Etowah County"
 repo_path: "kb/287g/287-g-tfm-etowah-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

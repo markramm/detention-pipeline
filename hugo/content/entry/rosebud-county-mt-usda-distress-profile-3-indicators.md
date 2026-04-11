@@ -7,6 +7,7 @@ fips: "30087"
 state: "MT"
 county: "Rosebud"
 repo_path: "kb/budget/rosebud-county-mt-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

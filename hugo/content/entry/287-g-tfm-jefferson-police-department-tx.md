@@ -7,6 +7,7 @@ fips: "48315"
 state: "TX"
 county: "Marion County"
 repo_path: "kb/287g/287-g-tfm-jefferson-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

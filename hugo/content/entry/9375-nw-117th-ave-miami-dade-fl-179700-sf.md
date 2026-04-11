@@ -7,6 +7,7 @@ fips: "12086"
 state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/9375-nw-117th-ave-miami-dade-fl-179700-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "37157"
 state: "NC"
 county: "Rockingham County"
 repo_path: "kb/287g/287-g-wso-rockingham-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

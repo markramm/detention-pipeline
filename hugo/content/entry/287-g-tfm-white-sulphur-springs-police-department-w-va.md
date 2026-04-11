@@ -7,6 +7,7 @@ fips: ""
 state: "W. Va."
 county: "Greenbrier County"
 repo_path: "kb/287g/287-g-tfm-white-sulphur-springs-police-department-w-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

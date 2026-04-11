@@ -7,6 +7,7 @@ fips: "21197"
 state: "KY"
 county: "Powell County"
 repo_path: "kb/287g/287-g-tfm-stanton-police-department-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

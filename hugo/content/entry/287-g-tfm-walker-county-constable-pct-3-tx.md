@@ -7,6 +7,7 @@ fips: "48471"
 state: "TX"
 county: "Walker County"
 repo_path: "kb/287g/287-g-tfm-walker-county-constable-pct-3-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

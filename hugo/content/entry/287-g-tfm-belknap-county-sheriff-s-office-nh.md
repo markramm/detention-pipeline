@@ -7,6 +7,7 @@ fips: "33001"
 state: "NH"
 county: "Belknap County"
 repo_path: "kb/287g/287-g-tfm-belknap-county-sheriff-s-office-nh.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: "ND"
 county: ""
 repo_path: "kb/287g/287-g-tfm-dickinson-police-department-nd.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

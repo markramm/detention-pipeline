@@ -7,6 +7,7 @@ fips: ""
 state: "Cuba (US Naval Base)"
 county: "N/A"
 repo_path: "kb/industry/facilities/guantanamo-bay-migrant-operations.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "Department of Defense / DHS"
 status: "operational"
 bed_count: "30,000 (planned) — currently minimal occupancy"
 ---
-
-# Guantanamo Bay Migrant Operations Center (GMOC)
 
 ## Overview
 
@@ -40,7 +39,7 @@ Despite the ambitious 30,000-bed target, implementation has been limited:
 
 ## Significance
 
-The GMOC expansion is symbolically significant as it extends the Guantanamo detention paradigm — previously reserved for "enemy combatants" — to immigration enforcement. It also places detainees outside the normal reach of federal courts and legal representation networks. The use of military infrastructure for immigration enforcement parallels the [[military-infrastructure-three-uses]] pattern and the [[camp-east-montana-fort-bliss]] facility. Detainee transport to GMOC has involved contractors like [[globalx-airlines]] and [[mvm-inc]].
+The GMOC expansion is symbolically significant as it extends the Guantanamo detention paradigm — previously reserved for "enemy combatants" — to immigration enforcement. It also places detainees outside the normal reach of federal courts and legal representation networks. The use of military infrastructure for immigration enforcement parallels the [military-infrastructure-three-uses](/entry/military-infrastructure-three-uses/) pattern and the [camp-east-montana-fort-bliss](/entry/camp-east-montana-fort-bliss/) facility. Detainee transport to GMOC has involved contractors like [globalx-airlines](/entry/globalx-airlines/) and [mvm-inc](/entry/mvm-inc/).
 
 ## Sources
 

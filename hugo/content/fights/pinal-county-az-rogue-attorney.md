@@ -7,6 +7,7 @@ fips: ""
 state: "Arizona"
 county: "Pinal"
 repo_path: "kb/industry/county-fights/pinal-county-az-rogue-attorney.md"
+lastmod: "2026-04-10"
 type: "fights"
 layout: "single"
 status: "litigation"
@@ -14,8 +15,6 @@ outcome: "Active litigation in Maricopa County Superior Court (transferred from 
 vote_tally: "Board of Supervisors unanimously declared agreement illegal and void"
 facility: "null"
 ---
-
-# Pinal County: When the County Attorney Goes Rogue
 
 ## The Fight
 
@@ -63,7 +62,7 @@ Having a Brady-listed officer as the point of contact for a 287(g) agreement cre
 
 ## Implications for the IGSA Model
 
-If a county attorney can unilaterally sign ICE agreements over the objections of elected supervisors, it creates a template for expanding detention infrastructure without democratic accountability. This is a different vector than the [[sabot-consulting|Sabot Consulting]] sheriff-recruitment model but achieves the same end: local government resources deployed for federal immigration enforcement without a transparent public process.
+If a county attorney can unilaterally sign ICE agreements over the objections of elected supervisors, it creates a template for expanding detention infrastructure without democratic accountability. This is a different vector than the [Sabot Consulting](/entry/sabot-consulting/) sheriff-recruitment model but achieves the same end: local government resources deployed for federal immigration enforcement without a transparent public process.
 
 ## Sources
 

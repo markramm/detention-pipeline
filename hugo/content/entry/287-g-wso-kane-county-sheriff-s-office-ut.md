@@ -7,6 +7,7 @@ fips: "49025"
 state: "UT"
 county: "Kane County"
 repo_path: "kb/287g/287-g-wso-kane-county-sheriff-s-office-ut.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

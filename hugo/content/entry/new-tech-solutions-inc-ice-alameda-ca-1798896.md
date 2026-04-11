@@ -1,5 +1,5 @@
 ---
-title: "NEW TECH SOLUTIONS, INC. — ICE ALAMEDA, CA $1,798,896"
+title: "New Tech Solutions, Inc. — Ice Alameda, Ca $1,798,896"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06001"
 state: "CA"
 county: "ALAMEDA"
 repo_path: "kb/anc/new-tech-solutions-inc-ice-alameda-ca-1798896.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

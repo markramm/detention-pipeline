@@ -7,6 +7,7 @@ fips: "12031"
 state: "FL"
 county: "Duval"
 repo_path: "kb/real-estate/9909-pritchard-rd-duval-fl-1000000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

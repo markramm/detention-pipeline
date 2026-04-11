@@ -7,6 +7,7 @@ fips: "36009"
 state: "NY"
 county: "Cattaraugus County"
 repo_path: "kb/287g/287-g-tfm-allegany-village-police-department-ny.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

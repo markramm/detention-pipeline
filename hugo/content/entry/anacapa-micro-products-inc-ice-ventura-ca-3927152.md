@@ -1,5 +1,5 @@
 ---
-title: "ANACAPA MICRO PRODUCTS, INC. — ICE VENTURA, CA $3,927,152"
+title: "Anacapa Micro Products, Inc. — Ice Ventura, Ca $3,927,152"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06111"
 state: "CA"
 county: "VENTURA"
 repo_path: "kb/anc/anacapa-micro-products-inc-ice-ventura-ca-3927152.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "12085"
 state: "FL"
 county: "Martin County"
 repo_path: "kb/287g/287-g-tfm-sewall-s-point-police-department-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

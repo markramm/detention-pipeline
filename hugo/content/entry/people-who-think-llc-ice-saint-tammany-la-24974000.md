@@ -1,5 +1,5 @@
 ---
-title: "PEOPLE WHO THINK, L.L.C. — ICE SAINT TAMMANY, LA $24,974,000"
+title: "People Who Think, L.L.C. — Ice Saint Tammany, La $24,974,000"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: ""
 state: "LA"
 county: "SAINT TAMMANY"
 repo_path: "kb/anc/people-who-think-llc-ice-saint-tammany-la-24974000.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

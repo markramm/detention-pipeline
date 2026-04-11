@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/venntel-gravy-analytics.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Tysons Corner, Virginia"
 founded: ""
 status: "active"
 ---
-
-# Venntel / Gravy Analytics
 
 Venntel, a subsidiary of Gravy Analytics, sells precise cell phone location data to ICE harvested from the advertising technology ("ad-tech") ecosystem. Through Venntel, ICE can track people's movements -- home, church, medical appointments, school, protests -- without a warrant, using only a purchase order.
 
@@ -31,7 +30,7 @@ When mobile apps request location permissions for advertising purposes, the phon
 
 ## ICE Spending
 
-ICE spent **$60+ million** from 2025-2026 on location data contracts through data brokers including Venntel and [[babel-street|Babel Street]].
+ICE spent **$60+ million** from 2025-2026 on location data contracts through data brokers including Venntel and [Babel Street](/entry/babel-street/).
 
 ## FTC Enforcement (December 2024)
 

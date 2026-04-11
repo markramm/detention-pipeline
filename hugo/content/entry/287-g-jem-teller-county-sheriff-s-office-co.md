@@ -7,6 +7,7 @@ fips: "08119"
 state: "CO"
 county: "Teller County"
 repo_path: "kb/287g/287-g-jem-teller-county-sheriff-s-office-co.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

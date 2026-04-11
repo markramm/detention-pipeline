@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/edward-forst.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "person"
@@ -14,8 +15,6 @@ role: "Administrator, General Services Administration"
 government_service: ""
 private_role: ""
 ---
-
-# Edward Forst — GSA Administrator
 
 ## The Most Direct Conflict in the Warehouse Investigation
 
@@ -115,9 +114,9 @@ The entire **$1.074 billion** in warehouse purchases occurred on Forst's watch a
 
 ## Cross-References
 
-- [[goldman-sachs-detention]] — Goldman double exposure (Roxbury seller + Williamsport lender)
-- [[salt-lake-city-ut-mega-center]] — Deutsche Bank/DWS/RREEF ownership chain
-- [[wexmac-titus-military-procurement-bypass]] — The mechanism that bypassed Forst's agency
+- [goldman-sachs-detention](/entry/goldman-sachs-detention/) — Goldman double exposure (Roxbury seller + Williamsport lender)
+- [salt-lake-city-ut-mega-center](/entry/salt-lake-city-ut-mega-center/) — Deutsche Bank/DWS/RREEF ownership chain
+- [wexmac-titus-military-procurement-bypass](/entry/wexmac-titus-military-procurement-bypass/) — The mechanism that bypassed Forst's agency
 - Epstein network: Deutsche Bank maintained 40 Epstein accounts, $319M consolidated, $225M in fines
 
 ## Sources

@@ -7,6 +7,7 @@ fips: "20147"
 state: "KS"
 county: "Phillips County"
 repo_path: "kb/287g/287-g-wso-phillips-county-sheriff-s-department-ks.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

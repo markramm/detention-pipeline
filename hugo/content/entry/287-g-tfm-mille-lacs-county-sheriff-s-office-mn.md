@@ -7,6 +7,7 @@ fips: "27095"
 state: "MN"
 county: "Mille Lacs County"
 repo_path: "kb/287g/287-g-tfm-mille-lacs-county-sheriff-s-office-mn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

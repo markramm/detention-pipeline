@@ -7,6 +7,7 @@ fips: "56021"
 state: "WY"
 county: "Laramie County"
 repo_path: "kb/287g/287-g-jem-laramie-county-sheriff-s-office-wy.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

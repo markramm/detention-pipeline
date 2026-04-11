@@ -7,6 +7,7 @@ fips: "56011"
 state: "WY"
 county: "Crook County"
 repo_path: "kb/287g/287-g-tfm-crook-county-sheriff-s-office-wy.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

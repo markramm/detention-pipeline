@@ -7,6 +7,7 @@ fips: "26143"
 state: "MI"
 county: "Roscommon County"
 repo_path: "kb/287g/287-g-tfm-roscommon-county-sheriff-s-office-mi.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

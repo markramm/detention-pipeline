@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/apex-site-services.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -16,13 +17,11 @@ founded: "~2010s"
 status: "active"
 ---
 
-# Apex Site Services
-
 Apex Site Services is a provider of temporary and semi-permanent infrastructure solutions that has entered the immigration detention market. Originally a local party rental company in North Texas, Apex pivoted during COVID-19 to become a nationwide provider of temporary infrastructure for testing sites, hospitals, and treatment facilities, then expanded into military housing, immigration processing, and detention centers.
 
 ## ICE Detention Proposals
 
-Apex appeared in ACLU FOIA documents (alongside [[corecivic|CoreCivic]] and [[mtc|MTC]]) as having submitted proposals for ICE detention expansion:
+Apex appeared in ACLU FOIA documents (alongside [CoreCivic](/entry/corecivic/) and [MTC](/entry/mtc/)) as having submitted proposals for ICE detention expansion:
 - **Walsenburg, Colorado** -- Proposed a soft-sided detention facility in response to ICE's Denver ERO Field Office Request for Information (February 2025)
 - Describes its expertise as "complex temporary and semi-permanent infrastructure solutions"
 

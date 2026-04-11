@@ -7,6 +7,7 @@ fips: "56023"
 state: "WY"
 county: "Lincoln"
 repo_path: "kb/budget/lincoln-county-wy-3m-annual-tax-revenue-loss-from-coal-plant-conversion.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

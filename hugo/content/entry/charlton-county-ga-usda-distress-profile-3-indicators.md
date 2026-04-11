@@ -7,6 +7,7 @@ fips: "13049"
 state: "GA"
 county: "Charlton"
 repo_path: "kb/budget/charlton-county-ga-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

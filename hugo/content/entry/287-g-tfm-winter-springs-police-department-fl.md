@@ -7,6 +7,7 @@ fips: "12117"
 state: "FL"
 county: "Seminole County"
 repo_path: "kb/287g/287-g-tfm-winter-springs-police-department-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

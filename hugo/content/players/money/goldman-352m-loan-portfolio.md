@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/goldman-352m-loan-portfolio.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# Goldman Sachs $352.7M Fundrise Industrial Portfolio Refinancing
 
 ## The Loan
 

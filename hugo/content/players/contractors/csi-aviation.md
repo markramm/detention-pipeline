@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/csi-aviation.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -16,9 +17,7 @@ founded: "1979"
 status: "active"
 ---
 
-# CSI Aviation
-
-CSI Aviation is the primary managing contractor for ICE Air Operations, the federal government's deportation and detainee transfer flight program. Founded in 1979 by Allen Weh, a retired Marine Corps colonel and former chair of the New Mexico Republican Party, CSI does not operate aircraft directly. Instead, it subcontracts with charter and commercial airlines -- [[globalx-airlines|GlobalX]], [[world-atlantic-airways|World Atlantic Airways]], and others -- to conduct deportation and domestic transfer missions.
+CSI Aviation is the primary managing contractor for ICE Air Operations, the federal government's deportation and detainee transfer flight program. Founded in 1979 by Allen Weh, a retired Marine Corps colonel and former chair of the New Mexico Republican Party, CSI does not operate aircraft directly. Instead, it subcontracts with charter and commercial airlines -- [GlobalX](/entry/globalx-airlines/), [World Atlantic Airways](/entry/world-atlantic-airways/), and others -- to conduct deportation and domestic transfer missions.
 
 ## Scale of Operations (2025-2026)
 
@@ -46,8 +45,8 @@ Allen Weh is a prominent New Mexico Republican insider:
 ## Subcontractor Airlines
 
 CSI subcontracts actual flight operations to:
-- **[[globalx-airlines|GlobalX]]** -- Miami-based, operates ~80% of removal flights
-- **[[world-atlantic-airways|World Atlantic Airways]]** -- Overflow capacity
+- **[GlobalX](/entry/globalx-airlines/)** -- Miami-based, operates ~80% of removal flights
+- **[World Atlantic Airways](/entry/world-atlantic-airways/)** -- Overflow capacity
 - **Avelo Airlines** -- Operated May 2025-January 2026, withdrew under public pressure
 - **Gryphon Airlines** -- Gulfstream jets for long-distance flights to Africa, Pacific, Europe
 

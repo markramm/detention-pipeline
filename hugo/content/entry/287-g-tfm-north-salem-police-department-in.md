@@ -7,6 +7,7 @@ fips: "18063"
 state: "IN"
 county: "Hendricks County"
 repo_path: "kb/287g/287-g-tfm-north-salem-police-department-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: "Indiana"
 county: "Johnson/Bartholomew"
 repo_path: "kb/industry/facilities/camp-atterbury-in-military.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "Department of Defense / DHS"
 status: "proposed"
 bed_count: "1,000 (planned)"
 ---
-
-# Camp Atterbury IN — Military ICE Detention
 
 ## Overview
 
@@ -26,7 +25,7 @@ Indiana's **Camp Atterbury** was named in Defense Secretary Pete Hegseth's July 
 - **Location**: ~40 miles south of Indianapolis
 - **Size**: 34,000+ acres
 - **Current operator**: Indiana National Guard
-- **Planned capacity**: Up to 1,000 (shared allocation with [[jbmdl-nj-military|JBMDL]])
+- **Planned capacity**: Up to 1,000 (shared allocation with [JBMDL](/entry/jbmdl-nj-military/))
 - **Status**: Analysis and planning phase; no confirmed timeline for intakes
 
 ## Facility Background

@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/capgemini-government-solutions.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -16,13 +17,11 @@ founded: "1967 (parent company)"
 status: "active"
 ---
 
-# Capgemini Government Solutions
-
 Capgemini Government Solutions is the U.S. federal consulting arm of Paris-based Capgemini SE, one of the world's largest IT and consulting multinationals. In December 2025, Capgemini received the largest of ICE's 13 skip-tracing contracts -- up to **$365 million** over two years to locate immigrants with deportation orders.
 
 ## ICE Skip Tracing Contract
 
-Capgemini's contract is part of the [[ice-skip-tracing-2025]] program, the largest skip-tracing procurement in ICE history.
+Capgemini's contract is part of the [ice-skip-tracing-2025](/entry/ice-skip-tracing-2025/) program, the largest skip-tracing procurement in ICE history.
 
 - **Initial order:** $4.8 million for the first three months
 - **Contract ceiling:** $365 million over two years (the largest among all 13 skip-tracing vendors)

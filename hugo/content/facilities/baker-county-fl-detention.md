@@ -7,6 +7,7 @@ fips: ""
 state: "Florida"
 county: "Baker"
 repo_path: "kb/industry/facilities/baker-county-fl-detention.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -15,18 +16,16 @@ status: "operational"
 bed_count: "1,300+"
 ---
 
-# Baker County Detention Facility — North Florida "Deportation Depot"
-
 ## Overview
 
-The Baker County Detention Facility, located at the former Baker Correctional Institution in Sanderson, Florida, opened in **August 2025** with capacity to hold over **1,300 detainees**. [[geo-group|GEO Group]] announced a joint-venture agreement in October 2025 to provide management services at what it calls the **North Florida Detention Facility**.
+The Baker County Detention Facility, located at the former Baker Correctional Institution in Sanderson, Florida, opened in **August 2025** with capacity to hold over **1,300 detainees**. [GEO Group](/entry/geo-group/) announced a joint-venture agreement in October 2025 to provide management services at what it calls the **North Florida Detention Facility**.
 
 ## Key Details
 
 - **Opened**: August 2025
 - **Capacity**: 1,300+ beds
 - **Location**: Former Baker Correctional Institution
-- **Management**: [[geo-group|GEO Group]] (joint venture, announced October 2025)
+- **Management**: [GEO Group](/entry/geo-group/) (joint venture, announced October 2025)
 - **Estimated annual revenue for GEO**: Part of broader contract portfolio
 
 ## Community Response

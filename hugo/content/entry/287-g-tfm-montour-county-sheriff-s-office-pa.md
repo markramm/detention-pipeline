@@ -7,6 +7,7 @@ fips: "42093"
 state: "PA"
 county: "Montour County"
 repo_path: "kb/287g/287-g-tfm-montour-county-sheriff-s-office-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "16047"
 state: "ID"
 county: "Gooding County"
 repo_path: "kb/287g/287-g-wso-gooding-county-sheriff-s-office-id.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

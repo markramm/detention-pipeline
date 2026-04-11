@@ -7,6 +7,7 @@ fips: "31165"
 state: "NE"
 county: "Sioux County"
 repo_path: "kb/287g/287-g-tfm-sioux-county-sheriff-s-office-ne.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

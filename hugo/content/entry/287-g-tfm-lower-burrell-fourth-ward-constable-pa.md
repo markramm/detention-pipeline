@@ -7,6 +7,7 @@ fips: "42129"
 state: "PA"
 county: "Westmoreland County"
 repo_path: "kb/287g/287-g-tfm-lower-burrell-fourth-ward-constable-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

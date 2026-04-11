@@ -7,6 +7,7 @@ fips: "22039"
 state: "LA"
 county: "Evangeline"
 repo_path: "kb/budget/evangeline-parish-la-usda-distress-profile-5-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

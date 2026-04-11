@@ -7,6 +7,7 @@ fips: ""
 state: "Texas"
 county: "El Paso"
 repo_path: "kb/industry/facilities/camp-east-montana-fort-bliss.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (contractor operated — operator being replaced as of March 2026
 status: "operational"
 bed_count: "3,000+"
 ---
-
-# Camp East Montana — Fort Bliss ICE Tent Detention Camp
 
 ## Overview
 
@@ -47,7 +46,7 @@ In March 2026, reports emerged that ICE is **replacing the operator** of Camp Ea
 
 ## Context
 
-The $1.2 billion Army contract to build this facility drew PBS investigation into the mystery surrounding its approval. Camp East Montana operates alongside the planned [[el-paso-tx-eastwind-mega-center|El Paso Eastwind mega-center]] (8,500 beds), making the El Paso region the epicenter of ICE detention.
+The $1.2 billion Army contract to build this facility drew PBS investigation into the mystery surrounding its approval. Camp East Montana operates alongside the planned [El Paso Eastwind mega-center](/entry/el-paso-tx-eastwind-mega-center/) (8,500 beds), making the El Paso region the epicenter of ICE detention.
 
 ## Sources
 

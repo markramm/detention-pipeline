@@ -1,5 +1,5 @@
 ---
-title: "PALANTIR TECHNOLOGIES INC. — ICE SANTA CLARA, CA $37,839,725"
+title: "Palantir Technologies Inc. — Ice Santa Clara, Ca $37,839,725"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06085"
 state: "CA"
 county: "SANTA CLARA"
 repo_path: "kb/anc/palantir-technologies-inc-ice-santa-clara-ca-37839725.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

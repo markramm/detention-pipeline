@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/endeavors.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "San Antonio, Texas"
 founded: "~1969"
 status: "active"
 ---
-
-# Endeavors (Family Endeavors)
 
 Endeavors (formerly Family Endeavors) is a San Antonio-based nonprofit that became a major player in the immigration detention and migrant services industry, receiving billions in federal contracts. The organization illustrates how the detention-industrial complex extends beyond traditional for-profit prison companies into the nonprofit sector.
 
@@ -36,7 +35,7 @@ Endeavors hired a Biden administration official before receiving its massive bor
 
 ## ICE Warehouse Strategy
 
-ICE confirmed it purchased land and a facility on the East Side of San Antonio (see [[san-antonio-tx-warehouse]]) as part of its nationwide detention expansion, with planning documents indicating the facility could be operational by November 2026. While this is a direct ICE purchase (part of the "Reengineering Initiative"), Endeavors' presence in San Antonio and experience with the facility model makes it a potential operator.
+ICE confirmed it purchased land and a facility on the East Side of San Antonio (see [san-antonio-tx-warehouse](/entry/san-antonio-tx-warehouse/)) as part of its nationwide detention expansion, with planning documents indicating the facility could be operational by November 2026. While this is a direct ICE purchase (part of the "Reengineering Initiative"), Endeavors' presence in San Antonio and experience with the facility model makes it a potential operator.
 
 ## Significance
 

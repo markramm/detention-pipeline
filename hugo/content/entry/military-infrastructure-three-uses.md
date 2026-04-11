@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/military-infrastructure-three-uses.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
-
-# Military Infrastructure in the Detention System
 
 Military installations serve three distinct functions in the detention-industrial complex, and conflating them obscures the architecture:
 
@@ -20,19 +19,19 @@ Military installations serve three distinct functions in the detention-industria
 Military jurisdiction limits civilian oversight. The county medical examiner's authority is questionable. Congressional access requires military permission. State laws don't apply.
 
 **Examples:**
-- [[camp-east-montana-fort-bliss]] — 3,000+ beds, tent camp, 3 deaths, TB cases
-- [[guantanamo-bay-migrant-operations]] — 30,000 planned, offshore = zero oversight
-- [[camp-atterbury-in-military]] — 1,000 beds, staging for Chicago removals
-- [[jbmdl-nj-military]] — 1,000 beds, staging for Newark removals
-- [[camp-blanding-fl]] — 2,000 beds planned, paused
+- [camp-east-montana-fort-bliss](/entry/camp-east-montana-fort-bliss/) — 3,000+ beds, tent camp, 3 deaths, TB cases
+- [guantanamo-bay-migrant-operations](/entry/guantanamo-bay-migrant-operations/) — 30,000 planned, offshore = zero oversight
+- [camp-atterbury-in-military](/entry/camp-atterbury-in-military/) — 1,000 beds, staging for Chicago removals
+- [jbmdl-nj-military](/entry/jbmdl-nj-military/) — 1,000 beds, staging for Newark removals
+- [camp-blanding-fl](/entry/camp-blanding-fl/) — 2,000 beds planned, paused
 
 ## 2. Staging Facilities on Former Military Bases
 
 Decommissioned bases provide ready-made infrastructure: airstrips, hangars, security perimeters, barracks. No need to build in civilian communities. No need for local approval.
 
 **Examples:**
-- [[alexandria-la-staging-facility]] — Former England AFB, 400 beds, 1,000/week throughput, [[geo-group|GEO]]-operated, cornerstone of deportation flight operations
-- [[dade-collier-alligator-alcatraz]] — Built on a training airport in the Everglades
+- [alexandria-la-staging-facility](/entry/alexandria-la-staging-facility/) — Former England AFB, 400 beds, 1,000/week throughput, [GEO](/entry/geo-group/)-operated, cornerstone of deportation flight operations
+- [dade-collier-alligator-alcatraz](/entry/dade-collier-alligator-alcatraz/) — Built on a training airport in the Everglades
 
 ## 3. ICE Air Operations Hubs
 

@@ -7,6 +7,7 @@ fips: "55111"
 state: "WI"
 county: "Sauk County"
 repo_path: "kb/287g/287-g-jem-sauk-county-sheriff-s-office-wi.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

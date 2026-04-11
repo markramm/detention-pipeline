@@ -7,6 +7,7 @@ fips: "47011"
 state: "TN"
 county: "Bradley County"
 repo_path: "kb/287g/287-g-jem-bradley-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

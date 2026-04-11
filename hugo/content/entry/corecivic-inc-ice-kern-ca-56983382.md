@@ -1,5 +1,5 @@
 ---
-title: "CORECIVIC, INC. — ICE KERN, CA $56,983,382"
+title: "Corecivic, Inc. — Ice Kern, Ca $56,983,382"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06029"
 state: "CA"
 county: "KERN"
 repo_path: "kb/anc/corecivic-inc-ice-kern-ca-56983382.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

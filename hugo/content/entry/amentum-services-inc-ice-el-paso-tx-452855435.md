@@ -1,5 +1,5 @@
 ---
-title: "AMENTUM SERVICES, INC. — ICE EL PASO, TX $452,855,435"
+title: "Amentum Services, Inc. — Ice El Paso, Tx $452,855,435"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "48141"
 state: "TX"
 county: "EL PASO"
 repo_path: "kb/anc/amentum-services-inc-ice-el-paso-tx-452855435.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

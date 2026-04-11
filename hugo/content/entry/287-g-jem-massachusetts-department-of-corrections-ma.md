@@ -7,6 +7,7 @@ fips: ""
 state: "MA"
 county: ""
 repo_path: "kb/287g/287-g-jem-massachusetts-department-of-corrections-ma.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "13051"
 state: "GA"
 county: "Chatham"
 repo_path: "kb/real-estate/interstate-west-industrial-park-chatham-ga-2057067-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

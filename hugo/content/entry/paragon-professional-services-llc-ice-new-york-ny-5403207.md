@@ -1,5 +1,5 @@
 ---
-title: "PARAGON PROFESSIONAL SERVICES LLC — ICE NEW YORK, NY $5,403,207"
+title: "Paragon Professional Services Llc — Ice New York, Ny $5,403,207"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "36061"
 state: "NY"
 county: "NEW YORK"
 repo_path: "kb/anc/paragon-professional-services-llc-ice-new-york-ny-5403207.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

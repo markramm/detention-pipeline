@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/vigilant-solutions-motorola.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Livermore, California (parent: Chicago, Illinois)"
 founded: ""
 status: "active"
 ---
-
-# Vigilant Solutions (Motorola Solutions)
 
 Vigilant Solutions operates the largest commercial automated license plate reader (ALPR) network and database in the United States. The company was acquired by Motorola Solutions in January 2019 (through VaaS International Holdings). ICE accesses Vigilant's ALPR database to track vehicles associated with enforcement targets.
 
@@ -35,7 +34,7 @@ When ICE queries a plate, the system returns every time and location that plate 
 
 ## Integration with Other Systems
 
-License plate reader data from Vigilant feeds into [[palantir-technologies|Palantir's]] systems and is also accessible through [[thomson-reuters|Thomson Reuters CLEAR]], creating multiple pathways for ICE to query vehicle location data.
+License plate reader data from Vigilant feeds into [Palantir's](/entry/palantir-technologies/) systems and is also accessible through [Thomson Reuters CLEAR](/entry/thomson-reuters/), creating multiple pathways for ICE to query vehicle location data.
 
 ## Scope of Surveillance
 

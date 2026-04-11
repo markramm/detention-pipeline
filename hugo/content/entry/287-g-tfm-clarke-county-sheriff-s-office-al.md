@@ -7,6 +7,7 @@ fips: "01025"
 state: "AL"
 county: "Clarke County"
 repo_path: "kb/287g/287-g-tfm-clarke-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: "GA"
 county: ""
 repo_path: "kb/anc/price-modern-llc-ice-ga-717125.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

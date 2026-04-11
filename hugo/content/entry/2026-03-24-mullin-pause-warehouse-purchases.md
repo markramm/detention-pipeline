@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/events/2026-03-24-mullin-pause-warehouse-purchases.md"
+lastmod: "2026-04-08"
 type: "entry"
 layout: "single"
 ---
-
-# Mullin Pause on ICE Warehouse Purchases
 
 ## Overview
 

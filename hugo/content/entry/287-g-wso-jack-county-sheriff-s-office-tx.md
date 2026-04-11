@@ -7,6 +7,7 @@ fips: "48237"
 state: "TX"
 county: "Jack County"
 repo_path: "kb/287g/287-g-wso-jack-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "22029"
 state: "LA"
 county: "Concordia"
 repo_path: "kb/budget/concordia-parish-la-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

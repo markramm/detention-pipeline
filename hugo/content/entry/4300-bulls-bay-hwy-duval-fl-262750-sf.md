@@ -7,6 +7,7 @@ fips: "12031"
 state: "FL"
 county: "Duval"
 repo_path: "kb/real-estate/4300-bulls-bay-hwy-duval-fl-262750-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

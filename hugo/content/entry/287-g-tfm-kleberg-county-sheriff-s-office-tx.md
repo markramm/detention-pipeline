@@ -7,6 +7,7 @@ fips: "48273"
 state: "TX"
 county: "Kleberg County"
 repo_path: "kb/287g/287-g-tfm-kleberg-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/shadowdragon.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Whitefish, Montana"
 founded: ""
 status: "active"
 ---
-
-# ShadowDragon
 
 ShadowDragon provides ICE with social media surveillance tools that aggregate user data from more than 200 websites and platforms. ICE has at least three contracts for ShadowDragon products, specifically SocialNet and OI Monitor.
 
@@ -45,7 +44,7 @@ ICE's Homeland Security Investigations (HSI) division is the primary user of Soc
 
 ICE has indicated it intends to spend **$20-50 million** to build and staff a 24/7 social media monitoring office with at least 30 full-time agents. ShadowDragon's tools are central to this expansion. The EFF reported in January 2026 that ICE's 2025 surveillance budget was **10 times the size** of the agency's total surveillance spending over the previous 13 years.
 
-ShadowDragon operates alongside other ICE surveillance contractors including [[palantir-technologies]] (which provides the [[palantir-immigrationos-2025]] and [[palantir-icm-2022]] platforms), [[clearview-ai]] (facial recognition), and [[babel-street]] (location data). Together, these tools form the digital surveillance layer of the [[ice-contract-pipeline]].
+ShadowDragon operates alongside other ICE surveillance contractors including [palantir-technologies](/entry/palantir-technologies/) (which provides the [palantir-immigrationos-2025](/entry/palantir-immigrationos-2025/) and [palantir-icm-2022](/entry/palantir-icm-2022/) platforms), [clearview-ai](/entry/clearview-ai/) (facial recognition), and [babel-street](/entry/babel-street/) (location data). Together, these tools form the digital surveillance layer of the [ice-contract-pipeline](/entry/ice-contract-pipeline/).
 
 ## Sources
 

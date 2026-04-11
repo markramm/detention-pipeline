@@ -7,6 +7,7 @@ fips: "46099"
 state: "SD"
 county: "Minnehaha County"
 repo_path: "kb/287g/287-g-wso-minnehaha-county-sheriff-s-office-sd.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

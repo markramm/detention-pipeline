@@ -7,6 +7,7 @@ fips: "51005"
 state: "VA"
 county: "Alleghany County"
 repo_path: "kb/287g/287-g-wso-alleghany-county-sheriff-s-office-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: "W. Va."
 county: "Nicholas County"
 repo_path: "kb/287g/287-g-tfm-richwood-police-department-w-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

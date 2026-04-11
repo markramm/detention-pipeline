@@ -7,6 +7,7 @@ fips: "42045"
 state: "PA"
 county: "Delaware County"
 repo_path: "kb/287g/287-g-tfm-lansdowne-borough-constable-s-office-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

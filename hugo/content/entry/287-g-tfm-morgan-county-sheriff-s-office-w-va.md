@@ -7,6 +7,7 @@ fips: ""
 state: "W. Va."
 county: "Morgan County"
 repo_path: "kb/287g/287-g-tfm-morgan-county-sheriff-s-office-w-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

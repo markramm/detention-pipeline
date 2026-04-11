@@ -7,6 +7,7 @@ fips: "40091"
 state: "OK"
 county: "McIntosh County"
 repo_path: "kb/287g/287-g-tfm-mcintosh-county-sheriff-s-office-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

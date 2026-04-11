@@ -7,6 +7,7 @@ fips: "12073"
 state: "FL"
 county: "Leon County"
 repo_path: "kb/287g/287-g-tfm-leon-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

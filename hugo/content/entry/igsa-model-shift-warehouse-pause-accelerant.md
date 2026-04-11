@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/igsa-model-shift-warehouse-pause-accelerant.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---
-
-# The IGSA Model Shift
 
 ## Two Parallel Tracks
 
@@ -22,14 +21,14 @@ The detention expansion is running on two parallel tracks that are now diverging
 The **Detention Reengineering Initiative** — ICE's $38.3 billion plan funded through the "One Big Beautiful Bill Act":
 - Goal: 8 large detention centers (7,000-10,000 beds) + 16 processing centers (1,000-1,500 beds)
 - 11 warehouses purchased across 8 states for **$1.074 billion** total
-- **13 planned purchases canceled** due to community opposition (see [[resistance-tactics-what-works]])
+- **13 planned purchases canceled** due to community opposition (see [resistance-tactics-what-works](/entry/resistance-tactics-what-works/))
 - **Paused April 1, 2026** by DHS Secretary Markwayne Mullin, reviewing Noem-era contracts
 - Surprise, AZ warehouse scaled from 1,500 to 542 beds
 - Target total capacity: 92,600 beds by November 2026
 
 ### Track 2: County-Led IGSA Facilities (Accelerating)
 
-The [[sabot-consulting|Sabot Consulting]] model:
+The [Sabot Consulting](/entry/sabot-consulting/) model:
 - Counties retain land ownership and existing infrastructure
 - Private contractor builds and operates under county authority
 - ICE pays per-bed per-diem through the IGSA
@@ -50,7 +49,7 @@ The key advantages of the IGSA model for ICE:
 5. **Faster timeline** — no WEXMAC-TITUS procurement, no warehouse conversion
 
 The disadvantages:
-1. **County commission votes are public** — communities can show up and fight (see [[bradford-county-fl-douglas-building]])
+1. **County commission votes are public** — communities can show up and fight (see [bradford-county-fl-douglas-building](/entry/bradford-county-fl-douglas-building/))
 2. **Environmental and infrastructure arguments work** — because the county controls the site
 3. **Sheriffs face re-election** — unlike federal officials
 

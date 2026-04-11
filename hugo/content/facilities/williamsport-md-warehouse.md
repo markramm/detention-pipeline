@@ -7,6 +7,7 @@ fips: ""
 state: "Maryland"
 county: "Washington"
 repo_path: "kb/industry/facilities/williamsport-md-warehouse.md"
+lastmod: "2026-04-08"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal)"
 status: "contested"
 bed_count: "1,500"
 ---
-
-# Williamsport MD — 1,500-Bed ICE Detention Center
 
 ## Overview
 
@@ -39,7 +38,7 @@ A judge extended a **restraining order** against ICE detention operations at the
 
 ## Goldman Sachs Connections
 
-Goldman Sachs is also the former majority owner of the [[roxbury-nj-warehouse|Roxbury, NJ]] warehouse purchased by ICE for $129.3 million (137% over value). Goldman's Trump ties include Gary Cohn (NEC Director, first term) and Steve Mnuchin (Treasury Secretary, first term), plus second-term appointments.
+Goldman Sachs is also the former majority owner of the [Roxbury, NJ](/entry/roxbury-nj-warehouse/) warehouse purchased by ICE for $129.3 million (137% over value). Goldman's Trump ties include Gary Cohn (NEC Director, first term) and Steve Mnuchin (Treasury Secretary, first term), plus second-term appointments.
 
 Goldman Sachs told More Perfect Union: "As a lender, we are not involved in the operations and management of the portfolios of assets we lend to."
 

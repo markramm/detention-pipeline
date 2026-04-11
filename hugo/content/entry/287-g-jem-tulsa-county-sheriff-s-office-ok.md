@@ -7,6 +7,7 @@ fips: "40143"
 state: "OK"
 county: "Tulsa County"
 repo_path: "kb/287g/287-g-jem-tulsa-county-sheriff-s-office-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

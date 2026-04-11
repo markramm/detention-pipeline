@@ -7,6 +7,7 @@ fips: "05063"
 state: "AR"
 county: "Independence County"
 repo_path: "kb/287g/287-g-tfm-16th-judicial-distric-drug-task-force-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

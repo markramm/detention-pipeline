@@ -7,6 +7,7 @@ fips: "12069"
 state: "FL"
 county: "Lake County"
 repo_path: "kb/287g/287-g-tfm-fruitland-park-police-department-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

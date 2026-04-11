@@ -7,6 +7,7 @@ fips: "36063"
 state: "NY"
 county: "Niagara County"
 repo_path: "kb/287g/287-g-wso-niagara-county-sheriff-s-office-ny.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

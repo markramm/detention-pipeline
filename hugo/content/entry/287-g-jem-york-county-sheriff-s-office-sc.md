@@ -7,6 +7,7 @@ fips: "45091"
 state: "SC"
 county: "York County"
 repo_path: "kb/287g/287-g-jem-york-county-sheriff-s-office-sc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

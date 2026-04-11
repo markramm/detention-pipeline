@@ -7,6 +7,7 @@ fips: ""
 state: "Utah"
 county: "Salt Lake"
 repo_path: "kb/industry/facilities/salt-lake-city-ut-mega-center.md"
+lastmod: "2026-04-08"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal)"
 status: "contested"
 bed_count: "7,500-10,000 beds (mega center)"
 ---
-
-# Salt Lake City ICE Mega Center
 
 ## Overview
 
@@ -40,7 +39,7 @@ On March 12, 2026, ICE finalized a $145.4 million purchase of an 833,000 sq ft w
 
 **March 18-19, 2026:** Hundreds of protesters gathered at the warehouse chanting "ICE out!" Three arrested in clashes with Salt Lake police. Parallel protest at Governor's Mansion.
 
-**March 25, 2026:** Salt Lake City Council voted to restrict water use at the facility — following the [[social-circle-ga-mega-center|Social Circle, Georgia]] model of using municipal utility control as a resistance tool.
+**March 25, 2026:** Salt Lake City Council voted to restrict water use at the facility — following the [Social Circle, Georgia](/entry/social-circle-ga-mega-center/) model of using municipal utility control as a resistance tool.
 
 **March 30, 2026:** Mayor Mendenhall vowed to "use every tool at the City's disposal to stop it."
 

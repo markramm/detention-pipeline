@@ -1,5 +1,5 @@
 ---
-title: "CSI AVIATION, INC — ICE RAPIDES, LA $27,713,228"
+title: "Csi Aviation, Inc — Ice Rapides, La $27,713,228"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "22079"
 state: "LA"
 county: "RAPIDES"
 repo_path: "kb/anc/csi-aviation-inc-ice-rapides-la-27713228.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

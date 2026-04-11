@@ -7,6 +7,7 @@ fips: "51029"
 state: "VA"
 county: "Buckingham County"
 repo_path: "kb/287g/287-g-tfm-buckingham-county-sheriff-s-office-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

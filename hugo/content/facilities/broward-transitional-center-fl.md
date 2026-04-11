@@ -7,6 +7,7 @@ fips: ""
 state: "Florida"
 county: "Broward"
 repo_path: "kb/industry/facilities/broward-transitional-center-fl.md"
+lastmod: "2026-04-10"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -15,17 +16,15 @@ status: "operational"
 bed_count: "600"
 ---
 
-# Broward Transitional Center — Pompano Beach FL (GEO Group)
-
 ## Overview
 
-The **Broward Transitional Center (BTC)** is a 600-bed [[geo-group|GEO Group]]-operated ICE detention facility in Pompano Beach, Florida. As of mid-2025, it is running at **105-108% capacity** (630-650 detainees), with 80% of detainees having no criminal record or pending charges.
+The **Broward Transitional Center (BTC)** is a 600-bed [GEO Group](/entry/geo-group/)-operated ICE detention facility in Pompano Beach, Florida. As of mid-2025, it is running at **105-108% capacity** (630-650 detainees), with 80% of detainees having no criminal record or pending charges.
 
 ## Key Details
 
 - **Address**: 3900 North Powerline Road, Pompano Beach, FL
 - **Capacity**: 600 beds (actual population: 630-650)
-- **Operator**: [[geo-group|GEO Group]]
+- **Operator**: [GEO Group](/entry/geo-group/)
 - **Contract value**: $42.9M/year (FY2025 task order 70CDCR24FR0000053, USAspending)
 - **Contract type**: ICE contract (direct)
 

@@ -7,6 +7,7 @@ fips: "37125"
 state: "NC"
 county: "Moore County"
 repo_path: "kb/287g/287-g-tfm-robbins-police-department-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "47059"
 state: "TN"
 county: "Greene County"
 repo_path: "kb/287g/287-g-tfm-mosheim-police-department-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

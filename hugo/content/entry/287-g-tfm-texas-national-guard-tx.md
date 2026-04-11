@@ -7,6 +7,7 @@ fips: ""
 state: "TX"
 county: ""
 repo_path: "kb/287g/287-g-tfm-texas-national-guard-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

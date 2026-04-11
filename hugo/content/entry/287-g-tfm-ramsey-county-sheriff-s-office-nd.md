@@ -7,6 +7,7 @@ fips: "38071"
 state: "ND"
 county: "Ramsey County"
 repo_path: "kb/287g/287-g-tfm-ramsey-county-sheriff-s-office-nd.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

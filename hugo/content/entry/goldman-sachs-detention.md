@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/organizations/goldman-sachs-detention.md"
+lastmod: "2026-04-08"
 type: "entry"
 layout: "single"
 ---
-
-# Goldman Sachs — ICE Warehouse Double Exposure
 
 ## Overview
 

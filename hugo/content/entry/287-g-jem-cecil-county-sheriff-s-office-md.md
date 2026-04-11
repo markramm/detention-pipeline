@@ -7,6 +7,7 @@ fips: "24015"
 state: "MD"
 county: "Cecil County"
 repo_path: "kb/287g/287-g-jem-cecil-county-sheriff-s-office-md.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

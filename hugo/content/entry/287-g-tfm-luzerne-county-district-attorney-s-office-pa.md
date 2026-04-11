@@ -7,6 +7,7 @@ fips: "42079"
 state: "PA"
 county: "Luzerne County"
 repo_path: "kb/287g/287-g-tfm-luzerne-county-district-attorney-s-office-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "48035"
 state: "TX"
 county: "Bosque County"
 repo_path: "kb/287g/287-g-wso-bosque-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

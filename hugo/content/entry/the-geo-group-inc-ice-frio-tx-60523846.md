@@ -1,5 +1,5 @@
 ---
-title: "THE GEO GROUP, INC. — ICE FRIO, TX $60,523,846"
+title: "The Geo Group, Inc. — Ice Frio, Tx $60,523,846"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "48163"
 state: "TX"
 county: "FRIO"
 repo_path: "kb/anc/the-geo-group-inc-ice-frio-tx-60523846.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/matthew-albence.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "person"
@@ -15,16 +16,14 @@ government_service: ""
 private_role: ""
 ---
 
-# Matthew T. Albence
-
-Matthew T. Albence is a former Acting Director of U.S. Immigration and Customs Enforcement who joined [[geo-group|GEO Group]] as a senior executive after leaving government service. He is notable for having described family detention centers as "more like summer camp."
+Matthew T. Albence is a former Acting Director of U.S. Immigration and Customs Enforcement who joined [GEO Group](/entry/geo-group/) as a senior executive after leaving government service. He is notable for having described family detention centers as "more like summer camp."
 
 ## Career Timeline
 
 1. **ICE career (1994-2020)** -- 26 years in federal law enforcement, beginning as a Special Agent with the former INS in San Antonio
 2. **Executive Associate Director for ERO (February 2017)** -- Ran ICE's enforcement and removal operations
 3. **Acting ICE Director (April-May 2019, July 2019-August 2020)** -- Led the agency during a period of aggressive immigration enforcement
-4. **Senior Vice President, Client Relations, [[geo-group|GEO Group]] (2022 - present)** -- Joined GEO replacing a retiring senior executive
+4. **Senior Vice President, Client Relations, [GEO Group](/entry/geo-group/) (2022 - present)** -- Joined GEO replacing a retiring senior executive
 
 ## "Summer Camp" Comment
 
@@ -32,7 +31,7 @@ In 2019, Albence described family detention centers as "more like summer camp" -
 
 ## Pattern
 
-Albence is one of at least six former ICE officials in [[geo-group|GEO Group]]'s leadership. His role as SVP Client Relations -- managing the relationship between [[geo-group|GEO]] and its government clients -- directly leverages his decades of insider knowledge of ICE's operations, culture, and decision-making processes.
+Albence is one of at least six former ICE officials in [GEO Group](/entry/geo-group/)'s leadership. His role as SVP Client Relations -- managing the relationship between [GEO](/entry/geo-group/) and its government clients -- directly leverages his decades of insider knowledge of ICE's operations, culture, and decision-making processes.
 
 ## Sources
 

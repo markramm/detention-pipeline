@@ -7,6 +7,7 @@ fips: "12027"
 state: "FL"
 county: "DeSoto County"
 repo_path: "kb/287g/287-g-wso-desoto-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

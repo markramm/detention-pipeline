@@ -7,6 +7,7 @@ fips: "49005"
 state: "UT"
 county: "Cache County"
 repo_path: "kb/287g/287-g-wso-cache-county-sheriff-s-office-ut.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

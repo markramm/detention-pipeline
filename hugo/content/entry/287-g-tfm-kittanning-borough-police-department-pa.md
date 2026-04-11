@@ -7,6 +7,7 @@ fips: "42005"
 state: "PA"
 county: "Armstrong County"
 repo_path: "kb/287g/287-g-tfm-kittanning-borough-police-department-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

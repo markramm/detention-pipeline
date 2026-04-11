@@ -1,5 +1,5 @@
 ---
-title: "APPLIED RESEARCH ASSOCIATES, INC. — ICE BERNALILLO, NM $1,502,524"
+title: "Applied Research Associates, Inc. — Ice Bernalillo, Nm $1,502,524"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "35001"
 state: "NM"
 county: "BERNALILLO"
 repo_path: "kb/anc/applied-research-associates-inc-ice-bernalillo-nm-1502524.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

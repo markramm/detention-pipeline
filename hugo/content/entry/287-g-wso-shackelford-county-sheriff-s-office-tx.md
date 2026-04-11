@@ -7,6 +7,7 @@ fips: "48417"
 state: "TX"
 county: "Shackelford County"
 repo_path: "kb/287g/287-g-wso-shackelford-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "42029"
 state: "PA"
 county: "Chester County"
 repo_path: "kb/287g/287-g-tfm-pennsylvania-state-constable-office-honey-brook-precinct-1-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "13115"
 state: "GA"
 county: "Floyd County"
 repo_path: "kb/287g/287-g-jem-floyd-county-sheriff-s-office-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

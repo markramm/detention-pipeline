@@ -7,6 +7,7 @@ fips: "26163"
 state: "MI"
 county: "Wayne"
 repo_path: "kb/comms/romulus-mi-governor-whitmer-silent-while-ag-nessel-fights-ice-facility.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "56041"
 state: "WY"
 county: "Uinta"
 repo_path: "kb/sheriff/evanston-wy-uinta-county-repeated-detention-facility-pitches-2017-2020.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

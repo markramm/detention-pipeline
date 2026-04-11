@@ -7,6 +7,7 @@ fips: ""
 state: "SD"
 county: ""
 repo_path: "kb/287g/287-g-wso-south-dakota-department-of-corrections-sd.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "40011"
 state: "OK"
 county: "Blaine County"
 repo_path: "kb/287g/287-g-tfm-blaine-county-sheriff-s-office-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

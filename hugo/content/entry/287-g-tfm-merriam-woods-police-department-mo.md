@@ -7,6 +7,7 @@ fips: "29213"
 state: "MO"
 county: "Taney County"
 repo_path: "kb/287g/287-g-tfm-merriam-woods-police-department-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/budget/700-rural-counties-secure-rural-schools-funding-lapse-170m-revenue-loss.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

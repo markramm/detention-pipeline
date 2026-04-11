@@ -7,6 +7,7 @@ fips: "24001"
 state: "MD"
 county: "Allegany County"
 repo_path: "kb/287g/287-g-wso-allegany-county-sheriff-s-office-md.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

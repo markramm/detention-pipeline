@@ -7,6 +7,7 @@ fips: ""
 state: "Pennsylvania"
 county: "Schuylkill"
 repo_path: "kb/industry/facilities/tremont-pa-mega-center.md"
+lastmod: "2026-04-08"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal)"
 status: "under-construction"
 bed_count: "7,500-10,000"
 ---
-
-# Tremont PA Warehouse — ICE Mega Detention Center
 
 ## Overview
 
@@ -33,16 +32,16 @@ A warehouse in Tremont, Pennsylvania (central Pennsylvania) is designated as one
 - **Purchase price**: $119 million
 - **Estimated market value**: ~$60 million (double estimated market value)
 - **Prior use**: Big Lots distribution center — sat empty after Big Lots **went bankrupt in 2024**
-- **Ownership chain**: After bankruptcy, ownership transferred to a subsidiary of a real estate fund managed by **[[blue-owl-capital|Blue Owl Capital]]**, a $157B AUM private equity firm
+- **Ownership chain**: After bankruptcy, ownership transferred to a subsidiary of a real estate fund managed by **[Blue Owl Capital](/entry/blue-owl-capital/)**, a $157B AUM private equity firm
 - **Conflict of interest**: At least 33 Trump administration members hold Blue Owl investments, including President Trump ($5M+) and John Russell McGranahan, former GSA general counsel through November 2025
 
 ## Context
 
-Pennsylvania hosts two facilities in the Detention Reengineering Initiative: this mega-center in Tremont and the smaller regional processing center in [[upper-bern-pa-warehouse|Upper Bern Township]] (Hamburg area, $87M purchase). Together they represent a massive expansion of detention infrastructure in a key swing state.
+Pennsylvania hosts two facilities in the Detention Reengineering Initiative: this mega-center in Tremont and the smaller regional processing center in [Upper Bern Township](/entry/upper-bern-pa-warehouse/) (Hamburg area, $87M purchase). Together they represent a massive expansion of detention infrastructure in a key swing state.
 
-The Tremont mega-center would be comparable in scale to the [[social-circle-ga-mega-center|Social Circle, GA]] and [[el-paso-tx-eastwind-mega-center|El Paso, TX]] mega-centers — among the largest jails of any kind in the country if completed as planned.
+The Tremont mega-center would be comparable in scale to the [Social Circle, GA](/entry/social-circle-ga-mega-center/) and [El Paso, TX](/entry/el-paso-tx-eastwind-mega-center/) mega-centers — among the largest jails of any kind in the country if completed as planned.
 
-Blue Owl's Tremont sale is not isolated — the firm also owned the [[durant-ok|Durant, OK]] warehouse that the Choctaw Nation purchased to block DHS acquisition.
+Blue Owl's Tremont sale is not isolated — the firm also owned the [Durant, OK](/entry/durant-ok/) warehouse that the Choctaw Nation purchased to block DHS acquisition.
 
 ## Sources
 

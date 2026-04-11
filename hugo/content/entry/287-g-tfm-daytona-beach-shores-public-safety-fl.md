@@ -7,6 +7,7 @@ fips: ""
 state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-daytona-beach-shores-public-safety-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

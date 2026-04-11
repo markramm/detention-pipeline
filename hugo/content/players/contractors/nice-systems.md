@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/nice-systems.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Ra'anana, Israel (US: Hoboken, New Jersey)"
 founded: ""
 status: "active"
 ---
-
-# NICE Systems
 
 NICE Ltd is an Israeli surveillance technology company that specializes in phone, video, and internet monitoring. US-based subsidiaries include NICE Systems Inc. (Hoboken, NJ). The company markets and sells voice recording and video surveillance tools to US prisons, jails, and police departments.
 
@@ -30,7 +29,7 @@ NICE Ltd is an Israeli surveillance technology company that specializes in phone
 
 NICE's phone and video monitoring technology has been documented in US prison and jail settings. While a specific ICE detention contract has not been publicly confirmed through procurement records, ICE detention standards require facilities to have written policies on monitoring detainee phone calls, and NICE is a leading provider of the monitoring infrastructure used in carceral facilities that also hold ICE detainees (county jails, private prisons).
 
-NICE's monitoring infrastructure is used in private prisons operated by [[geo-group]] and [[corecivic]], as well as in facilities where [[bi-incorporated]] provides electronic monitoring and compliance technology. The overlap between call monitoring (NICE) and ankle-bracelet tracking ([[bi-incorporated]], a [[geo-group]] subsidiary) illustrates the layered surveillance within the detention system.
+NICE's monitoring infrastructure is used in private prisons operated by [geo-group](/entry/geo-group/) and [corecivic](/entry/corecivic/), as well as in facilities where [bi-incorporated](/entry/bi-incorporated/) provides electronic monitoring and compliance technology. The overlap between call monitoring (NICE) and ankle-bracelet tracking ([bi-incorporated](/entry/bi-incorporated/), a [geo-group](/entry/geo-group/) subsidiary) illustrates the layered surveillance within the detention system.
 
 **Research needed:** Specific ICE contract details, if any, have not been located. This entry should be updated when contract data becomes available. Check SAM.gov and USAspending.gov.
 

@@ -7,6 +7,7 @@ fips: "48007"
 state: "TX"
 county: "Aransas County"
 repo_path: "kb/287g/287-g-jem-aransas-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

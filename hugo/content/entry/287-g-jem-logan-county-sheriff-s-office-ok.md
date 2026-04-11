@@ -7,6 +7,7 @@ fips: "40083"
 state: "OK"
 county: "Logan County"
 repo_path: "kb/287g/287-g-jem-logan-county-sheriff-s-office-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

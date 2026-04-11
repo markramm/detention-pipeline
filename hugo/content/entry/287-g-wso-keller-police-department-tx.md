@@ -7,6 +7,7 @@ fips: "48439"
 state: "TX"
 county: "Tarrant County"
 repo_path: "kb/287g/287-g-wso-keller-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

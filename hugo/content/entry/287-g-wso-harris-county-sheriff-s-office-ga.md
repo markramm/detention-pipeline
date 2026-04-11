@@ -7,6 +7,7 @@ fips: "13145"
 state: "GA"
 county: "Harris County"
 repo_path: "kb/287g/287-g-wso-harris-county-sheriff-s-office-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

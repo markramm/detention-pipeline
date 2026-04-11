@@ -7,6 +7,7 @@ fips: "12105"
 state: "FL"
 county: "Polk County"
 repo_path: "kb/287g/287-g-tfm-polk-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

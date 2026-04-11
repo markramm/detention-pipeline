@@ -1,5 +1,5 @@
 ---
-title: "ARDENT GROUP, LLC — ICE SUMMIT, CO $9,296,000"
+title: "Ardent Group, Llc — Ice Summit, Co $9,296,000"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "08117"
 state: "CO"
 county: "SUMMIT"
 repo_path: "kb/anc/ardent-group-llc-ice-summit-co-9296000.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "MANAGEMENT & TRAINING CORPORATION — ICE DAVIS, UT $47,203,837"
+title: "Management & Training Corporation — Ice Davis, Ut $47,203,837"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "49011"
 state: "UT"
 county: "DAVIS"
 repo_path: "kb/anc/management-training-corporation-ice-davis-ut-47203837.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

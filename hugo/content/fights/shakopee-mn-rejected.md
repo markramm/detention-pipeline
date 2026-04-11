@@ -7,6 +7,7 @@ fips: ""
 state: "Minnesota"
 county: "Scott"
 repo_path: "kb/industry/county-fights/shakopee-mn-rejected.md"
+lastmod: "2026-04-06"
 type: "fights"
 layout: "single"
 status: "blocked"
@@ -15,9 +16,7 @@ vote_tally: ""
 facility: ""
 ---
 
-# Shakopee, Minnesota: Owner Declined
-
-The warehouse owner in Shakopee, Minnesota declined to sell to ICE after community opposition made the deal politically toxic. This follows the [[kansas-city-mo-platform-ventures|Kansas City model]]: the seller, not the government, is the pressure point.
+The warehouse owner in Shakopee, Minnesota declined to sell to ICE after community opposition made the deal politically toxic. This follows the [Kansas City model](/entry/kansas-city-mo-platform-ventures/): the seller, not the government, is the pressure point.
 
 ## Sources
 

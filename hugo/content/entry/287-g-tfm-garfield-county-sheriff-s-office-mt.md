@@ -7,6 +7,7 @@ fips: "30033"
 state: "MT"
 county: "Garfield County"
 repo_path: "kb/287g/287-g-tfm-garfield-county-sheriff-s-office-mt.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "46065"
 state: "SD"
 county: "Hughes County"
 repo_path: "kb/287g/287-g-wso-hughes-county-sheriff-s-office-sd.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "31183"
 state: "NE"
 county: "Wheeler County"
 repo_path: "kb/287g/287-g-tfm-wheeler-county-sheriff-s-office-ne.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

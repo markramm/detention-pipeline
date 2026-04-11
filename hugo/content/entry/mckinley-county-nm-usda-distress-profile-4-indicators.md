@@ -7,6 +7,7 @@ fips: "35031"
 state: "NM"
 county: "McKinley"
 repo_path: "kb/budget/mckinley-county-nm-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

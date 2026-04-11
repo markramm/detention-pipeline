@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/events/2026-03-26-dhs-ig-investigation-noem-lewandowski.md"
+lastmod: "2026-04-08"
 type: "entry"
 layout: "single"
 ---
-
-# DHS Inspector General Investigation
 
 ## Overview
 

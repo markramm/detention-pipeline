@@ -7,6 +7,7 @@ fips: "45015"
 state: "SC"
 county: "Berkeley County"
 repo_path: "kb/287g/287-g-wso-berkeley-county-sheriff-s-office-sc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

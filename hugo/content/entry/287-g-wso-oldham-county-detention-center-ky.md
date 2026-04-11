@@ -7,6 +7,7 @@ fips: "21185"
 state: "KY"
 county: "Oldham County"
 repo_path: "kb/287g/287-g-wso-oldham-county-detention-center-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

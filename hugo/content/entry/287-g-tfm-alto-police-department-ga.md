@@ -7,6 +7,7 @@ fips: "13011"
 state: "GA"
 county: "Banks County"
 repo_path: "kb/287g/287-g-tfm-alto-police-department-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

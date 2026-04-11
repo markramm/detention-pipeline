@@ -7,6 +7,7 @@ fips: "30031"
 state: "MT"
 county: "Gallatin County"
 repo_path: "kb/287g/287-g-wso-gallatin-county-sheriff-s-office-mt.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

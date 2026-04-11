@@ -7,6 +7,7 @@ fips: ""
 state: "PA"
 county: ""
 repo_path: "kb/287g/287-g-tfm-damascus-township-constable-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

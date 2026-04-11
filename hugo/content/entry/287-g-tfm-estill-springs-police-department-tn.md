@@ -7,6 +7,7 @@ fips: "47051"
 state: "TN"
 county: "Franklin County"
 repo_path: "kb/287g/287-g-tfm-estill-springs-police-department-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: "New Hampshire"
 county: "Hillsborough"
 repo_path: "kb/industry/county-fights/merrimack-nh-paused.md"
+lastmod: "2026-04-06"
 type: "fights"
 layout: "single"
 status: "blocked"
@@ -14,8 +15,6 @@ outcome: "Paused. Community opposition halted the project. The NH government rel
 vote_tally: ""
 facility: "merrimack-nh-warehouse"
 ---
-
-# Merrimack, New Hampshire: The Documents That Revealed the Plan
 
 ## Why Merrimack Matters
 
@@ -28,7 +27,7 @@ The Merrimack fight produced the single most important disclosure in the detenti
 
 The American Immigration Council's definitive analysis of the program was based largely on these documents.
 
-See [[merrimack-nh-warehouse]] for the facility entry.
+See [merrimack-nh-warehouse](/entry/merrimack-nh-warehouse/) for the facility entry.
 
 ## The Fight
 

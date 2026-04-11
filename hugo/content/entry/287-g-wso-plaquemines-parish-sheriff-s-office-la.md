@@ -7,6 +7,7 @@ fips: "22075"
 state: "LA"
 county: "Plaquemines Parish"
 repo_path: "kb/287g/287-g-wso-plaquemines-parish-sheriff-s-office-la.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

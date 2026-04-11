@@ -7,6 +7,7 @@ fips: ""
 state: "Texas"
 county: "Bexar"
 repo_path: "kb/industry/facilities/san-antonio-tx-warehouse.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal)"
 status: "under-construction"
 bed_count: "1,500"
 ---
-
-# San Antonio TX East Side Warehouse — ICE Processing Center
 
 ## Overview
 
@@ -31,7 +30,7 @@ ICE purchased a warehouse on the **East Side of San Antonio** for over **$66 mil
 
 ## Context
 
-Part of the 24-warehouse Detention Reengineering Initiative. Texas is host to multiple facilities in this program, including the [[el-paso-tx-eastwind-mega-center|El Paso Eastwind mega-center]] (8,500 beds) and [[camp-east-montana-fort-bliss|Camp East Montana]] (Fort Bliss).
+Part of the 24-warehouse Detention Reengineering Initiative. Texas is host to multiple facilities in this program, including the [El Paso Eastwind mega-center](/entry/el-paso-tx-eastwind-mega-center/) (8,500 beds) and [Camp East Montana](/entry/camp-east-montana-fort-bliss/) (Fort Bliss).
 
 ## Sources
 

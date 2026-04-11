@@ -7,6 +7,7 @@ fips: "48365"
 state: "TX"
 county: "Panola County"
 repo_path: "kb/287g/287-g-tfm-panola-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

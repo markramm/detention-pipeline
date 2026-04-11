@@ -7,6 +7,7 @@ fips: "28101"
 state: "MS"
 county: "Newton County"
 repo_path: "kb/287g/287-g-tfm-newton-county-sheriff-s-department-ms.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "39015"
 state: "OH"
 county: "Brown County"
 repo_path: "kb/287g/287-g-tfm-russellville-police-department-oh.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

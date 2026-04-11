@@ -7,6 +7,7 @@ fips: "37061"
 state: "NC"
 county: "Duplin County"
 repo_path: "kb/287g/287-g-tfm-beulaville-police-department-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

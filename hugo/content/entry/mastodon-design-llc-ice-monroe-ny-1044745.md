@@ -1,5 +1,5 @@
 ---
-title: "MASTODON DESIGN LLC — ICE MONROE, NY $1,044,745"
+title: "Mastodon Design Llc — Ice Monroe, Ny $1,044,745"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "36055"
 state: "NY"
 county: "MONROE"
 repo_path: "kb/anc/mastodon-design-llc-ice-monroe-ny-1044745.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: "OK"
 county: ""
 repo_path: "kb/287g/287-g-tfm-sterling-police-department-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

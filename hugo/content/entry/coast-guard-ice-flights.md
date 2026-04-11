@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/coast-guard-ice-flights.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
-
-# Coast Guard Aircraft Diverted to ICE Operations
 
 Since at least June 2025, the U.S. Coast Guard has diverted a significant portion of its C-27J Spartan fleet from search-and-rescue and maritime missions to transporting ICE detainees. This represents a novel use of military assets for immigration enforcement that operates outside the normal ICE Air charter contract structure.
 

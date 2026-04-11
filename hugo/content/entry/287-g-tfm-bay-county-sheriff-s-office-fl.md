@@ -7,6 +7,7 @@ fips: "12005"
 state: "FL"
 county: "Bay County"
 repo_path: "kb/287g/287-g-tfm-bay-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

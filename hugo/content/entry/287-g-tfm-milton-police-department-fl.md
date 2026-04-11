@@ -7,6 +7,7 @@ fips: "12113"
 state: "FL"
 county: "Santa Rosa County"
 repo_path: "kb/287g/287-g-tfm-milton-police-department-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "47031"
 state: "TN"
 county: "Coffee County"
 repo_path: "kb/287g/287-g-wso-coffee-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

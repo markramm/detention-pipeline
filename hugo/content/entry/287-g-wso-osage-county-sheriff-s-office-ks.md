@@ -7,6 +7,7 @@ fips: "20139"
 state: "KS"
 county: "Osage County"
 repo_path: "kb/287g/287-g-wso-osage-county-sheriff-s-office-ks.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

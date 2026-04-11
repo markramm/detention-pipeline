@@ -7,6 +7,7 @@ fips: "12033"
 state: "FL"
 county: "Escambia County"
 repo_path: "kb/287g/287-g-wso-escambia-county-board-of-county-commissioners-department-of-corrections-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

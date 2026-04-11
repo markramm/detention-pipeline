@@ -7,6 +7,7 @@ fips: "01129"
 state: "AL"
 county: "Washington County"
 repo_path: "kb/287g/287-g-tfm-washington-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

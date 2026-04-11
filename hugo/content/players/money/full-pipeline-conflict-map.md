@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/full-pipeline-conflict-map.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# Full ICE Pipeline — Conflict of Interest Map
 
 Source: ProPublica Trump Team Financial Disclosures (1,582 appointees, 117K assets), cross-referenced against all major ICE contractors across the seven-stage pipeline. Compiled April 8, 2026.
 
@@ -42,7 +41,7 @@ Also: Lucas Croslow (FTC General Counsel) received GEO Group legal fees; Christo
 
 ## Stage 4: Warehouse Acquisition (Goldman, Deutsche Bank, Blue Owl, Carlyle, Rockefeller — 300+ combined hits)
 
-See [[comprehensive-conflict-of-interest-map]] for the full 11-seller analysis.
+See [comprehensive-conflict-of-interest-map](/entry/comprehensive-conflict-of-interest-map/) for the full 11-seller analysis.
 
 **Most significant**: Edward Forst (GSA Administrator) — former Goldman Sachs partner, holds $1.8M-$6.1M+ Goldman exposure, holds CBRE stock (brokered Williamsport sale), holds CoStar stock (documented overpayments), holds Palantir stock. All 11 purchases ($1.074B) closed after his December 24 swearing-in.
 

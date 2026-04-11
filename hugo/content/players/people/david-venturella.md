@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/david-venturella.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "person"
@@ -15,14 +16,12 @@ government_service: ""
 private_role: ""
 ---
 
-# David Venturella
-
 David Venturella is the single most significant revolving-door figure in the current detention-industrial complex. His career path -- ICE official to GEO Group executive to Trump administration DHS adviser -- represents the complete capture cycle.
 
 ## Career Timeline
 
 1. **ICE Assistant Director** -- Served as assistant director at U.S. Immigration and Customs Enforcement
-2. **[[geo-group|GEO Group]] executive (2012-2024)** -- Recruited by [[geo-group|GEO Group]] in 2012. Spent 12 years running immigrant detention centers for the federal government. Securities filings show he was paid more than **$6 million** during his GEO tenure.
+2. **[GEO Group](/entry/geo-group/) executive (2012-2024)** -- Recruited by [GEO Group](/entry/geo-group/) in 2012. Spent 12 years running immigrant detention centers for the federal government. Securities filings show he was paid more than **$6 million** during his GEO tenure.
 3. **DHS Senior Adviser (2025-present)** -- Trump's border czar Tom Homan recruited Venturella back into government. Hired as a full-time adviser at DHS. Granted a **federal ethics waiver** to serve despite rules barring former contractors from participating in related decisions.
 
 ## The Ethics Waiver
@@ -30,16 +29,16 @@ David Venturella is the single most significant revolving-door figure in the cur
 The ethics waiver is the key detail. Federal ethics rules (18 U.S.C. section 207) generally bar former contractors from participating in government decisions related to their former employer. Venturella received a waiver that:
 - Kept him out of the public eye
 - Avoided potentially contentious Senate confirmation hearings
-- Allows him to advise on ICE detention policy despite 12 years as a [[geo-group|GEO]] executive
+- Allows him to advise on ICE detention policy despite 12 years as a [GEO](/entry/geo-group/) executive
 - Critics argue this creates a direct conflict of interest, as his policy recommendations directly benefit his former employer
 
 ## Impact
 
-Since Venturella's return to government, [[geo-group|GEO Group]] has:
+Since Venturella's return to government, [GEO Group](/entry/geo-group/) has:
 - Won $520 million in new or expanded contracts (annualized) -- the largest single-year business win in company history
 - Reported a 700% increase in profits ($254 million in 2025)
 - Expanded ICE facility census to 24,000 (highest ever)
-- Won a $121 million "skip tracing" contract through subsidiary [[bi-incorporated|BI Incorporated]]
+- Won a $121 million "skip tracing" contract through subsidiary [BI Incorporated](/entry/bi-incorporated/)
 
 The Washington Post profiled Venturella as "the former private prison exec behind ICE's immigrant detention surge."
 

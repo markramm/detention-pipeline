@@ -1,5 +1,5 @@
 ---
-title: "DELOITTE CONSULTING LLP — ICE ORANGE, CA $17,543,313"
+title: "Deloitte Consulting Llp — Ice Orange, Ca $17,543,313"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06059"
 state: "CA"
 county: "ORANGE"
 repo_path: "kb/anc/deloitte-consulting-llp-ice-orange-ca-17543313.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

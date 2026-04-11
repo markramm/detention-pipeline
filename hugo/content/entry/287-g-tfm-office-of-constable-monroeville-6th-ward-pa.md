@@ -7,6 +7,7 @@ fips: ""
 state: "PA"
 county: "Alleghany County"
 repo_path: "kb/287g/287-g-tfm-office-of-constable-monroeville-6th-ward-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "01115"
 state: "AL"
 county: "St. Clair County"
 repo_path: "kb/287g/287-g-tfm-margaret-police-department-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

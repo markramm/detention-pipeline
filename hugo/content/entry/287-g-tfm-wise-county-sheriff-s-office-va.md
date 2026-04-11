@@ -7,6 +7,7 @@ fips: "51195"
 state: "VA"
 county: "Wise County"
 repo_path: "kb/287g/287-g-tfm-wise-county-sheriff-s-office-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "48207"
 state: "TX"
 county: "Haskell County"
 repo_path: "kb/287g/287-g-tfm-haskell-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: "KY"
 county: ""
 repo_path: "kb/287g/287-g-tfm-heritage-creek-police-department-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

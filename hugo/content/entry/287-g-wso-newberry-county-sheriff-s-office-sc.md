@@ -7,6 +7,7 @@ fips: "45071"
 state: "SC"
 county: "Newberry County"
 repo_path: "kb/287g/287-g-wso-newberry-county-sheriff-s-office-sc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

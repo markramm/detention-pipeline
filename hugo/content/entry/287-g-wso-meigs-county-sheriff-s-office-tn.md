@@ -7,6 +7,7 @@ fips: "47121"
 state: "TN"
 county: "Meigs County"
 repo_path: "kb/287g/287-g-wso-meigs-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "INSERSO CORPORATION — ICE FAIRFAX, VA $99,046,198"
+title: "Inserso Corporation — Ice Fairfax, Va $99,046,198"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "51600"
 state: "VA"
 county: "FAIRFAX"
 repo_path: "kb/anc/inserso-corporation-ice-fairfax-va-99046198.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

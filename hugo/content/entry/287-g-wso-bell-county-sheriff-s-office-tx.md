@@ -7,6 +7,7 @@ fips: "48027"
 state: "TX"
 county: "Bell County"
 repo_path: "kb/287g/287-g-wso-bell-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

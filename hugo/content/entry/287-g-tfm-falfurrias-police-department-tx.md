@@ -7,6 +7,7 @@ fips: "48047"
 state: "TX"
 county: "Brooks County"
 repo_path: "kb/287g/287-g-tfm-falfurrias-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

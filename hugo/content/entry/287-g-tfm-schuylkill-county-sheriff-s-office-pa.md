@@ -7,6 +7,7 @@ fips: "42107"
 state: "PA"
 county: "Schuylkill County"
 repo_path: "kb/287g/287-g-tfm-schuylkill-county-sheriff-s-office-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

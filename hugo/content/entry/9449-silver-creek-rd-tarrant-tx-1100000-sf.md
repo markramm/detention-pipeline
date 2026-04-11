@@ -7,6 +7,7 @@ fips: "48439"
 state: "TX"
 county: "Tarrant"
 repo_path: "kb/real-estate/9449-silver-creek-rd-tarrant-tx-1100000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

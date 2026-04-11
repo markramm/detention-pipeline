@@ -7,6 +7,7 @@ fips: ""
 state: "KS"
 county: ""
 repo_path: "kb/287g/287-g-tfm-kansas-bureau-of-investigation-ks.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

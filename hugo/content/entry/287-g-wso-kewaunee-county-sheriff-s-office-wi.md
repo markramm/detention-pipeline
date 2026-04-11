@@ -7,6 +7,7 @@ fips: "55061"
 state: "WI"
 county: "Kewaunee County"
 repo_path: "kb/287g/287-g-wso-kewaunee-county-sheriff-s-office-wi.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

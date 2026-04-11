@@ -7,6 +7,7 @@ fips: "12103"
 state: "FL"
 county: "Pinellas County"
 repo_path: "kb/287g/287-g-tfm-pinellas-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

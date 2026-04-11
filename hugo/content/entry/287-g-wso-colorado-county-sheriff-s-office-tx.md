@@ -7,6 +7,7 @@ fips: "48089"
 state: "TX"
 county: "Colorado County"
 repo_path: "kb/287g/287-g-wso-colorado-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

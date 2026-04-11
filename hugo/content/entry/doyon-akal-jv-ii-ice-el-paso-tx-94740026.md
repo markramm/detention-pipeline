@@ -1,5 +1,5 @@
 ---
-title: "DOYON / AKAL JV II — ICE EL PASO, TX $94,740,026"
+title: "Doyon / Akal Jv Ii — Ice El Paso, Tx $94,740,026"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "48141"
 state: "TX"
 county: "EL PASO"
 repo_path: "kb/anc/doyon-akal-jv-ii-ice-el-paso-tx-94740026.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

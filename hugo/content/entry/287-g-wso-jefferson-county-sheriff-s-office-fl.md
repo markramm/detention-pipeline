@@ -7,6 +7,7 @@ fips: "12065"
 state: "FL"
 county: "Jefferson County"
 repo_path: "kb/287g/287-g-wso-jefferson-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

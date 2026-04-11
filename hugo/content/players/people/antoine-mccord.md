@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/antoine-mccord.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "person"
@@ -14,8 +15,6 @@ role: "Chief Information Officer, Department of Homeland Security"
 government_service: ""
 private_role: ""
 ---
-
-# Antoine McCord — DHS CIO
 
 ## The Conflict
 

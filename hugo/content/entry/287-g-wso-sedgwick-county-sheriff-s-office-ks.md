@@ -7,6 +7,7 @@ fips: "20173"
 state: "KS"
 county: "Sedgwick County"
 repo_path: "kb/287g/287-g-wso-sedgwick-county-sheriff-s-office-ks.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "13097"
 state: "GA"
 county: "Douglas"
 repo_path: "kb/real-estate/875-douglas-hill-rd-douglas-ga-300000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "12009"
 state: "FL"
 county: "Brevard County"
 repo_path: "kb/287g/287-g-tfm-palm-bay-police-department-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

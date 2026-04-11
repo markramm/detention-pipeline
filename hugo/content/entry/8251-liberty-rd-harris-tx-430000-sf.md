@@ -7,6 +7,7 @@ fips: "48201"
 state: "TX"
 county: "Harris"
 repo_path: "kb/real-estate/8251-liberty-rd-harris-tx-430000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

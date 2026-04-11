@@ -1,5 +1,5 @@
 ---
-title: "ALL POINTS LOGISTICS, LLC — ICE HALL, GA $6,455,304"
+title: "All Points Logistics, Llc — Ice Hall, Ga $6,455,304"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "13139"
 state: "GA"
 county: "HALL"
 repo_path: "kb/anc/all-points-logistics-llc-ice-hall-ga-6455304.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

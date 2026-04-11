@@ -7,6 +7,7 @@ fips: "56005"
 state: "WY"
 county: "Campbell County"
 repo_path: "kb/287g/287-g-wso-campbell-county-sheriff-s-office-wy.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

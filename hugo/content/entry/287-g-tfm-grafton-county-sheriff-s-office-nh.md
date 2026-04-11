@@ -7,6 +7,7 @@ fips: "33009"
 state: "NH"
 county: "Grafton County"
 repo_path: "kb/287g/287-g-tfm-grafton-county-sheriff-s-office-nh.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

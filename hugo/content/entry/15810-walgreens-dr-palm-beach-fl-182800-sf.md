@@ -7,6 +7,7 @@ fips: "12099"
 state: "FL"
 county: "Palm Beach"
 repo_path: "kb/real-estate/15810-walgreens-dr-palm-beach-fl-182800-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

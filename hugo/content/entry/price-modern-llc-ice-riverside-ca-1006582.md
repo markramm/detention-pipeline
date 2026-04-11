@@ -1,5 +1,5 @@
 ---
-title: "PRICE MODERN LLC — ICE RIVERSIDE, CA $1,006,582"
+title: "Price Modern Llc — Ice Riverside, Ca $1,006,582"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06065"
 state: "CA"
 county: "RIVERSIDE"
 repo_path: "kb/anc/price-modern-llc-ice-riverside-ca-1006582.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

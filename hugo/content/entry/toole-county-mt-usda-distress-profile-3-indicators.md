@@ -7,6 +7,7 @@ fips: "30101"
 state: "MT"
 county: "Toole"
 repo_path: "kb/budget/toole-county-mt-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

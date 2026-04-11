@@ -7,6 +7,7 @@ fips: "04013"
 state: "AZ"
 county: "Maricopa"
 repo_path: "kb/real-estate/buckeye-distribution-hub-maricopa-az-600000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

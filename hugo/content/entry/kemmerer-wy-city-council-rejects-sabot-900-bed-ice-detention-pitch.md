@@ -7,6 +7,7 @@ fips: "56023"
 state: "WY"
 county: "Lincoln"
 repo_path: "kb/commission/kemmerer-wy-city-council-rejects-sabot-900-bed-ice-detention-pitch.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

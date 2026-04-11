@@ -7,6 +7,7 @@ fips: "22033"
 state: "LA"
 county: "East Baton Rouge"
 repo_path: "kb/real-estate/commercial-ave-at-i-12-east-baton-rouge-la-150000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

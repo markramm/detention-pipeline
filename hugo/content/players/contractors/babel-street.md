@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/babel-street.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Reston, Virginia"
 founded: ""
 status: "active"
 ---
-
-# Babel Street
 
 Babel Street provides ICE with location surveillance and social media monitoring tools. Since 2018, ICE has entered contracts totaling approximately **$2.5 million** for Babel Street software, though this figure likely understates current spending given ICE's 2025-2026 surveillance expansion.
 
@@ -43,7 +42,7 @@ CBP has used Babel X since at least 2019.
 
 ## The Ad-Tech Surveillance Pipeline
 
-Babel Street (along with [[venntel-gravy-analytics|Venntel/Gravy Analytics]]) exploits the advertising technology ecosystem to obtain location data. When a phone app requests location permission for advertising purposes, that data enters the "bid-stream" -- the real-time advertising auction system. Data brokers intercept this data and repackage it for government surveillance. No warrant is required because the data is commercially available.
+Babel Street (along with [Venntel/Gravy Analytics](/entry/venntel-gravy-analytics/)) exploits the advertising technology ecosystem to obtain location data. When a phone app requests location permission for advertising purposes, that data enters the "bid-stream" -- the real-time advertising auction system. Data brokers intercept this data and repackage it for government surveillance. No warrant is required because the data is commercially available.
 
 In January 2026, ICE posted a request for information explicitly referencing "ad tech" for the first time in federal procurement documents, signaling further expansion of this surveillance method.
 

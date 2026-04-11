@@ -7,6 +7,7 @@ fips: "16073"
 state: "ID"
 county: "Owyhee County"
 repo_path: "kb/287g/287-g-tfm-owyhee-county-sheriff-s-office-id.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

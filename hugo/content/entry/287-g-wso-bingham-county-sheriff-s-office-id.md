@@ -7,6 +7,7 @@ fips: "16011"
 state: "ID"
 county: "Bingham County"
 repo_path: "kb/287g/287-g-wso-bingham-county-sheriff-s-office-id.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

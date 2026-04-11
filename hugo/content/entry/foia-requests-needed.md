@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/foia-requests-needed.md"
+lastmod: "2026-04-08"
 type: "entry"
 layout: "single"
 ---
-
-# FOIA and Open Records Requests Needed
 
 ## 1. Non-Disclosure Agreements with Local Officials
 

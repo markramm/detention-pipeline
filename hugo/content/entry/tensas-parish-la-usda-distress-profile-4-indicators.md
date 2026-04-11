@@ -7,6 +7,7 @@ fips: "22107"
 state: "LA"
 county: "Tensas"
 repo_path: "kb/budget/tensas-parish-la-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "UNITED TACTICAL SYSTEMS, LLC — ICE LAKE, IL $1,249,204"
+title: "United Tactical Systems, Llc — Ice Lake, Il $1,249,204"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "17097"
 state: "IL"
 county: "LAKE"
 repo_path: "kb/anc/united-tactical-systems-llc-ice-lake-il-1249204.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

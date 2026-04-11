@@ -7,6 +7,7 @@ fips: "39103"
 state: "OH"
 county: "Medina County"
 repo_path: "kb/287g/287-g-tfm-spencer-police-department-oh.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "12007"
 state: "FL"
 county: "Bradford"
 repo_path: "kb/budget/bradford-county-fl-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

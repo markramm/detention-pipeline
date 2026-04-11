@@ -7,13 +7,12 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/clearview-ai-ice-2025.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
 
-# Clearview AI — ICE Facial Recognition Contract (2025)
-
-In September 2025, ICE's Homeland Security Investigations (HSI) finalized a **$9.2 million** sole-source contract with [[clearview-ai|Clearview AI]] for biometric facial matching software.
+In September 2025, ICE's Homeland Security Investigations (HSI) finalized a **$9.2 million** sole-source contract with [Clearview AI](/entry/clearview-ai/) for biometric facial matching software.
 
 ## Contract Structure
 

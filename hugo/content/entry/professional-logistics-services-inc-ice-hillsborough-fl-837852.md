@@ -1,5 +1,5 @@
 ---
-title: "PROFESSIONAL LOGISTICS SERVICES INC. — ICE HILLSBOROUGH, FL $837,852"
+title: "Professional Logistics Services Inc. — Ice Hillsborough, Fl $837,852"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "12057"
 state: "FL"
 county: "HILLSBOROUGH"
 repo_path: "kb/anc/professional-logistics-services-inc-ice-hillsborough-fl-837852.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

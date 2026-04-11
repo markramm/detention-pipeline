@@ -1,5 +1,5 @@
 ---
-title: "GREENBRIER GOVERNMENT SOLUTIONS INC — ICE WYOMING, WV $10,093,407"
+title: "Greenbrier Government Solutions Inc — Ice Wyoming, Wv $10,093,407"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "54109"
 state: "WV"
 county: "WYOMING"
 repo_path: "kb/anc/greenbrier-government-solutions-inc-ice-wyoming-wv-10093407.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "VALOR NETWORK, INC. — ICE OCEAN, NJ $2,087,280"
+title: "Valor Network, Inc. — Ice Ocean, Nj $2,087,280"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "34029"
 state: "NJ"
 county: "OCEAN"
 repo_path: "kb/anc/valor-network-inc-ice-ocean-nj-2087280.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

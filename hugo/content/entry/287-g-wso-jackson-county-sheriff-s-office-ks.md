@@ -7,6 +7,7 @@ fips: "20085"
 state: "KS"
 county: "Jackson County"
 repo_path: "kb/287g/287-g-wso-jackson-county-sheriff-s-office-ks.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

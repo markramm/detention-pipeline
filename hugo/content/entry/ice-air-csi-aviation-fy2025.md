@@ -7,13 +7,12 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/ice-air-csi-aviation-fy2025.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
 
-# ICE Air Operations — CSI Aviation Charter Flight Contract
-
-ICE pays [[csi-aviation|CSI Aviation]] to manage the entire ICE Air charter flight program, including both international deportation flights and domestic detainee transfers. CSI then subcontracts to airlines including [[globalx-airlines|GlobalX]], [[world-atlantic-airways|World Atlantic Airways]], and others.
+ICE pays [CSI Aviation](/entry/csi-aviation/) to manage the entire ICE Air charter flight program, including both international deportation flights and domestic detainee transfers. CSI then subcontracts to airlines including [GlobalX](/entry/globalx-airlines/), [World Atlantic Airways](/entry/world-atlantic-airways/), and others.
 
 ## Contract Values
 
@@ -41,7 +40,7 @@ The domestic transfer surge is critical context: as ICE opens new detention faci
 
 ## Subcontractor Revenue
 
-- **[[globalx-airlines|GlobalX]]:** $246 million in 2025, flying 1,700+ deportation flights
+- **[GlobalX](/entry/globalx-airlines/):** $246 million in 2025, flying 1,700+ deportation flights
 - **Classic Air Charter:** $800.2 million in obligations (FY2025)
 
 ## Congressional Scrutiny

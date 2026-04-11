@@ -7,11 +7,10 @@ fips: "12011"
 state: "FL"
 county: "Broward"
 repo_path: "kb/jobs/sabot-ice-detention-consultant-fort-lauderdale-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---
-
-# Sabot Consulting — ICE Detention Compliance Operations Consultant (Fort Lauderdale, FL)
 
 Active posting on Sabot's career page as of April 10, 2026.
 

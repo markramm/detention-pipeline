@@ -1,5 +1,5 @@
 ---
-title: "BLUELINE TACTICAL AND POLICE SUPPLY, LLC — ICE WESTCHESTER, NY $1,115,827"
+title: "Blueline Tactical And Police Supply, Llc — Ice Westchester, Ny $1,115,827"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "36119"
 state: "NY"
 county: "WESTCHESTER"
 repo_path: "kb/anc/blueline-tactical-and-police-supply-llc-ice-westchester-ny-1115827.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

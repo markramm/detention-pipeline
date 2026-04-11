@@ -7,6 +7,7 @@ fips: "13221"
 state: "GA"
 county: "Oglethorpe County"
 repo_path: "kb/287g/287-g-tfm-oglethorpe-county-sheriff-s-office-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

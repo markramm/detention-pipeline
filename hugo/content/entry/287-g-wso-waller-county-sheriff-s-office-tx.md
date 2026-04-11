@@ -7,6 +7,7 @@ fips: "48473"
 state: "TX"
 county: "Waller County"
 repo_path: "kb/287g/287-g-wso-waller-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

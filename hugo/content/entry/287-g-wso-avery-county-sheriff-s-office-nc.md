@@ -7,6 +7,7 @@ fips: "37011"
 state: "NC"
 county: "Avery County"
 repo_path: "kb/287g/287-g-wso-avery-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

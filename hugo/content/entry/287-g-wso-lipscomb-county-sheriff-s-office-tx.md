@@ -7,6 +7,7 @@ fips: "48295"
 state: "TX"
 county: "Lipscomb County"
 repo_path: "kb/287g/287-g-wso-lipscomb-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

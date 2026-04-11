@@ -7,6 +7,7 @@ fips: ""
 state: "NE"
 county: ""
 repo_path: "kb/287g/287-g-tfm-nebraska-state-patrol-ne.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

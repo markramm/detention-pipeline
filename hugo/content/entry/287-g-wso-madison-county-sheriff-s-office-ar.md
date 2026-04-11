@@ -7,6 +7,7 @@ fips: "05087"
 state: "AR"
 county: "Madison County"
 repo_path: "kb/287g/287-g-wso-madison-county-sheriff-s-office-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

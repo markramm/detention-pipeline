@@ -7,6 +7,7 @@ fips: "18087"
 state: "IN"
 county: "LaGrange County"
 repo_path: "kb/287g/287-g-tfm-lagrange-police-department-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "GSS - GOVERNMENT SUPPORT SERVICES LLC — ICE SANTA ROSA, FL $741,000"
+title: "Gss - Government Support Services Llc — Ice Santa Rosa, Fl $741,000"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "12113"
 state: "FL"
 county: "SANTA ROSA"
 repo_path: "kb/anc/gss-government-support-services-llc-ice-santa-rosa-fl-741000.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

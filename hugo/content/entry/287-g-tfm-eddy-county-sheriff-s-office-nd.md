@@ -7,6 +7,7 @@ fips: "38027"
 state: "ND"
 county: "Eddy County"
 repo_path: "kb/287g/287-g-tfm-eddy-county-sheriff-s-office-nd.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

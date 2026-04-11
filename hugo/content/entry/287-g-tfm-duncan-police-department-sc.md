@@ -7,6 +7,7 @@ fips: ""
 state: "SC"
 county: ""
 repo_path: "kb/287g/287-g-tfm-duncan-police-department-sc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

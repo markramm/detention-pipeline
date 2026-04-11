@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/warehouse-profiteering-pattern.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# The Warehouse Profiteering Pattern
 
 ## The Mechanism
 
@@ -66,10 +65,10 @@ On **March 30, 2026**, 54 Congressional Democrats launched an investigation (Ras
 
 ## Cross-References
 
-- [[blue-owl-capital]] — Primary private equity profiteer
-- [[wexmac-titus-military-procurement-bypass]] — How the contracting bypasses normal oversight
+- [blue-owl-capital](/entry/blue-owl-capital/) — Primary private equity profiteer
+- [wexmac-titus-military-procurement-bypass](/entry/wexmac-titus-military-procurement-bypass/) — How the contracting bypasses normal oversight
 - Epstein network: Deutsche Bank's 40 Epstein accounts and $2.5B Trump loans
-- Cascade timeline: [[2026-03-12--ice-detention-expansion-38-billion-mega-centers]]
+- Cascade timeline: [2026-03-12--ice-detention-expansion-38-billion-mega-centers](/entry/2026-03-12--ice-detention-expansion-38-billion-mega-centers/)
 
 ## Sources
 

@@ -7,6 +7,7 @@ fips: "12095"
 state: "FL"
 county: "Orange"
 repo_path: "kb/real-estate/prologis-park-orlando-orange-fl-500000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

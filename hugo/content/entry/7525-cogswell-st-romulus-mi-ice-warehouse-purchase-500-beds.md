@@ -7,6 +7,7 @@ fips: "26163"
 state: "MI"
 county: "Wayne"
 repo_path: "kb/real-estate/7525-cogswell-st-romulus-mi-ice-warehouse-purchase-500-beds.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

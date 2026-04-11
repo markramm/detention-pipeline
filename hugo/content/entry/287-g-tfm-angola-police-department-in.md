@@ -7,6 +7,7 @@ fips: ""
 state: "IN"
 county: "Stueben County"
 repo_path: "kb/287g/287-g-tfm-angola-police-department-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

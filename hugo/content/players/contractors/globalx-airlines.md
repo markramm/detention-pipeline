@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/globalx-airlines.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -16,9 +17,7 @@ founded: "2018"
 status: "active"
 ---
 
-# GlobalX Airlines
-
-GlobalX Airlines (formally Global Crossing Airlines) is a Miami-based charter airline that has become the dominant operator of ICE deportation flights. Founded in 2018 by Ed Wegel (who previously co-founded the reincarnated Eastern Air Lines), GlobalX operates as a subcontractor to [[csi-aviation|CSI Aviation]], which holds the primary ICE Air managing contract.
+GlobalX Airlines (formally Global Crossing Airlines) is a Miami-based charter airline that has become the dominant operator of ICE deportation flights. Founded in 2018 by Ed Wegel (who previously co-founded the reincarnated Eastern Air Lines), GlobalX operates as a subcontractor to [CSI Aviation](/entry/csi-aviation/), which holds the primary ICE Air managing contract.
 
 ## Scale of Operations
 

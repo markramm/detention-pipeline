@@ -7,6 +7,7 @@ fips: ""
 state: "LA"
 county: ""
 repo_path: "kb/287g/287-g-jem-louisiana-department-of-public-safety-corrections-la.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "12097"
 state: "FL"
 county: "Osceola County"
 repo_path: "kb/287g/287-g-wso-osceola-county-corrections-department-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

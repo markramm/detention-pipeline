@@ -7,6 +7,7 @@ fips: "18105"
 state: "IN"
 county: "Monroe County"
 repo_path: "kb/287g/287-g-tfm-stinesville-police-department-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

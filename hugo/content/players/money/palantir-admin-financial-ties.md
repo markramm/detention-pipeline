@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/palantir-admin-financial-ties.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# Palantir Financial Ties to Trump Administration
 
 Source: ProPublica Trump Team Financial Disclosures, April 8, 2026. **142 results** — the most extensive conflict footprint of any company in the detention-industrial pipeline.
 
@@ -76,4 +75,4 @@ The conflict is structural: the officials designing detention policy, overseeing
 ## Sources
 
 - ProPublica Trump Team Financial Disclosures Database (April 8, 2026)
-- See also: [[palantir-immigrationos-2025]], [[palantir-icm-2022]] (thiel-network KB)
+- See also: [palantir-immigrationos-2025](/entry/palantir-immigrationos-2025/), [palantir-icm-2022](/entry/palantir-icm-2022/) (thiel-network KB)

@@ -7,6 +7,7 @@ fips: "47075"
 state: "TN"
 county: "Haywood County"
 repo_path: "kb/287g/287-g-wso-haywood-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

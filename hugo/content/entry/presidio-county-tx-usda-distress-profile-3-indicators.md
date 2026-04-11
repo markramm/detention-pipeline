@@ -7,6 +7,7 @@ fips: "48377"
 state: "TX"
 county: "Presidio"
 repo_path: "kb/budget/presidio-county-tx-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

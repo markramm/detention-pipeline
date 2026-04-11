@@ -7,6 +7,7 @@ fips: ""
 state: "New Hampshire"
 county: "Hillsborough"
 repo_path: "kb/industry/facilities/merrimack-nh-warehouse.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal)"
 status: "paused"
 bed_count: "500-1,500"
 ---
-
-# Merrimack NH Warehouse — ICE Regional Processing Center
 
 ## Overview
 
@@ -27,7 +26,7 @@ ICE planned to purchase and convert a **43-acre warehouse property** at 50 Rober
 - **Property**: 43-acre warehouse
 - **Planned capacity**: 500-1,500 beds
 - **Facility type**: Regional processing center (one of 16)
-- **Status**: **Paused** — community opposition forced halt (see [[merrimack-nh-paused]])
+- **Status**: **Paused** — community opposition forced halt (see [merrimack-nh-paused](/entry/merrimack-nh-paused/))
 
 ## Community Opposition
 

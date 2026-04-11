@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/mvm-inc.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Ashburn, Virginia"
 founded: "1979"
 status: "active"
 ---
-
-# MVM, Inc.
 
 MVM, Inc. is an Ashburn, Virginia-based private security and transportation contractor that has been a primary ICE detainee transportation provider for over a decade. Founded in 1979 by three former U.S. Secret Service agents -- Dario O. Marquez Jr., Charles Vance, and Bill Mattman -- MVM has evolved from protective security into a major player in the immigration enforcement pipeline.
 
@@ -29,8 +28,8 @@ MVM, Inc. is an Ashburn, Virginia-based private security and transportation cont
 ## Services
 
 MVM provides:
-- Ground and air transportation of detainees between ICE facilities operated by [[geo-group]], [[corecivic]], and others
-- Transport to facilities including [[camp-east-montana-fort-bliss]], [[alexandria-la-staging-facility]], and [[guantanamo-bay-migrant-operations]]
+- Ground and air transportation of detainees between ICE facilities operated by [geo-group](/entry/geo-group/), [corecivic](/entry/corecivic/), and others
+- Transport to facilities including [camp-east-montana-fort-bliss](/entry/camp-east-montana-fort-bliss/), [alexandria-la-staging-facility](/entry/alexandria-la-staging-facility/), and [guantanamo-bay-migrant-operations](/entry/guantanamo-bay-migrant-operations/)
 - Transport of unaccompanied migrant children and families to detention/shelter facilities
 - Escort services on commercial flights for unaccompanied children
 - Security services for federal agencies

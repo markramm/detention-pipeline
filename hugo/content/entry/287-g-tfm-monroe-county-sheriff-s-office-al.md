@@ -7,6 +7,7 @@ fips: "01099"
 state: "AL"
 county: "Monroe County"
 repo_path: "kb/287g/287-g-tfm-monroe-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

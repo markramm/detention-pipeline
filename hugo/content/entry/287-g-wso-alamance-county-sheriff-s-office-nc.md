@@ -7,6 +7,7 @@ fips: "37001"
 state: "NC"
 county: "Alamance County"
 repo_path: "kb/287g/287-g-wso-alamance-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

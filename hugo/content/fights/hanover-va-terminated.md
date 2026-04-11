@@ -7,6 +7,7 @@ fips: ""
 state: "Virginia"
 county: "Hanover"
 repo_path: "kb/industry/county-fights/hanover-va-terminated.md"
+lastmod: "2026-04-06"
 type: "fights"
 layout: "single"
 status: "blocked"
@@ -15,9 +16,7 @@ vote_tally: ""
 facility: ""
 ---
 
-# Hanover, Virginia: Owners Terminated
-
-Warehouse owners in Hanover County, Virginia terminated their deal with ICE. Along with [[shakopee-mn-rejected]], [[kansas-city-mo-platform-ventures]], and Chester NY, this represents the pattern of seller-side resistance — where community pressure makes the property owner unwilling to complete the sale.
+Warehouse owners in Hanover County, Virginia terminated their deal with ICE. Along with [shakopee-mn-rejected](/entry/shakopee-mn-rejected/), [kansas-city-mo-platform-ventures](/entry/kansas-city-mo-platform-ventures/), and Chester NY, this represents the pattern of seller-side resistance — where community pressure makes the property owner unwilling to complete the sale.
 
 ## Sources
 

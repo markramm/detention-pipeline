@@ -7,6 +7,7 @@ fips: "29229"
 state: "MO"
 county: "Wright County"
 repo_path: "kb/287g/287-g-tfm-mountain-grove-police-department-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

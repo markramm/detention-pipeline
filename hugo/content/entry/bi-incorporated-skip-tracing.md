@@ -7,17 +7,16 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/bi-incorporated-skip-tracing.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
 
-# BI Incorporated — Skip Tracing Contract
-
-In December 2025, ICE awarded [[bi-incorporated|BI Incorporated]] (a [[geo-group|GEO Group]] subsidiary) a two-year contract worth up to **$121 million** for "skip tracing" services -- using surveillance data to locate people who have missed check-ins so ICE can arrest them.
+In December 2025, ICE awarded [BI Incorporated](/entry/bi-incorporated/) (a [GEO Group](/entry/geo-group/) subsidiary) a two-year contract worth up to **$121 million** for "skip tracing" services -- using surveillance data to locate people who have missed check-ins so ICE can arrest them.
 
 ## What This Means
 
-This contract transforms BI from a monitoring company into an active enforcement participant. The company that tracks immigrants through ankle monitors and the SmartLINK app now also hunts them down when they stop complying. The data collected under the [[bi-incorporated-isap-v|ISAP V monitoring contract]] feeds directly into skip-tracing operations.
+This contract transforms BI from a monitoring company into an active enforcement participant. The company that tracks immigrants through ankle monitors and the SmartLINK app now also hunts them down when they stop complying. The data collected under the [ISAP V monitoring contract](/entry/bi-incorporated-isap-v/) feeds directly into skip-tracing operations.
 
 ## The GEO Group's Full-Spectrum Model
 

@@ -7,6 +7,7 @@ fips: "55133"
 state: "WI"
 county: "Waukesha County"
 repo_path: "kb/287g/287-g-jem-waukesha-county-sheriff-s-department-wi.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

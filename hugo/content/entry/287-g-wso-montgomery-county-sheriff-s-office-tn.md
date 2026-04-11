@@ -7,6 +7,7 @@ fips: "47125"
 state: "TN"
 county: "Montgomery County"
 repo_path: "kb/287g/287-g-wso-montgomery-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

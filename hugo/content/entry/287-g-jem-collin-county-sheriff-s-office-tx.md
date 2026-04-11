@@ -7,6 +7,7 @@ fips: "48085"
 state: "TX"
 county: "Collin County"
 repo_path: "kb/287g/287-g-jem-collin-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

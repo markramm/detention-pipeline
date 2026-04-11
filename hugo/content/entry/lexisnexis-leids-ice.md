@@ -7,13 +7,12 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/lexisnexis-leids-ice.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
 
-# LexisNexis LEIDS Contracts
-
-[[lexisnexis|LexisNexis]] provides ICE and CBP with the Law Enforcement Investigative Database Subscription (LEIDS) platform, a web-based investigative database that includes license plate recognition.
+[LexisNexis](/entry/lexisnexis/) provides ICE and CBP with the Law Enforcement Investigative Database Subscription (LEIDS) platform, a web-based investigative database that includes license plate recognition.
 
 ## Contract Values
 

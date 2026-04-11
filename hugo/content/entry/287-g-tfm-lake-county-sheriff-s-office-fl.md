@@ -7,6 +7,7 @@ fips: "12069"
 state: "FL"
 county: "Lake County"
 repo_path: "kb/287g/287-g-tfm-lake-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

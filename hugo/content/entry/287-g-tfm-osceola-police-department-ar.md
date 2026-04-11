@@ -7,6 +7,7 @@ fips: "05093"
 state: "AR"
 county: "Mississippi County"
 repo_path: "kb/287g/287-g-tfm-osceola-police-department-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

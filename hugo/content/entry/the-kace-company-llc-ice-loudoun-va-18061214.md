@@ -1,5 +1,5 @@
 ---
-title: "THE KACE COMPANY, LLC. — ICE LOUDOUN, VA $18,061,214"
+title: "The Kace Company, Llc. — Ice Loudoun, Va $18,061,214"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "51107"
 state: "VA"
 county: "LOUDOUN"
 repo_path: "kb/anc/the-kace-company-llc-ice-loudoun-va-18061214.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

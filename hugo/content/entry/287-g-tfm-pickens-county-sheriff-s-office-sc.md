@@ -7,6 +7,7 @@ fips: "45077"
 state: "SC"
 county: "Pickens County"
 repo_path: "kb/287g/287-g-tfm-pickens-county-sheriff-s-office-sc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

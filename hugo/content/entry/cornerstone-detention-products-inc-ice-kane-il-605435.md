@@ -1,5 +1,5 @@
 ---
-title: "CORNERSTONE DETENTION PRODUCTS, INC — ICE KANE, IL $605,435"
+title: "Cornerstone Detention Products, Inc — Ice Kane, Il $605,435"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "17089"
 state: "IL"
 county: "KANE"
 repo_path: "kb/anc/cornerstone-detention-products-inc-ice-kane-il-605435.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

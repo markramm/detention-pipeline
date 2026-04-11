@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/ice-detention-medical-care-crisis.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
-
-# ICE Detention Medical Care Crisis
 
 The medical care system inside ICE detention has reached a crisis point in 2025-2026, with record deaths, an unprecedented payment freeze to medical providers, and a detained population that has surged 82% while healthcare funding has not kept pace.
 

@@ -1,5 +1,5 @@
 ---
-title: "CORECIVIC, INC. — ICE SAN DIEGO, CA $87,937,059"
+title: "Corecivic, Inc. — Ice San Diego, Ca $87,937,059"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06073"
 state: "CA"
 county: "SAN DIEGO"
 repo_path: "kb/anc/corecivic-inc-ice-san-diego-ca-87937059.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

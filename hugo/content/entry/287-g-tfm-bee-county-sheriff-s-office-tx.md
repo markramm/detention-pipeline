@@ -7,6 +7,7 @@ fips: "48025"
 state: "TX"
 county: "Bee County"
 repo_path: "kb/287g/287-g-tfm-bee-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

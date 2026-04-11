@@ -7,6 +7,7 @@ fips: "35006"
 state: "NM"
 county: "Cibola"
 repo_path: "kb/budget/cibola-county-nm-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

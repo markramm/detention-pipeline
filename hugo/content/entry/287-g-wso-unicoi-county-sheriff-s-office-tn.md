@@ -7,6 +7,7 @@ fips: "47171"
 state: "TN"
 county: "Unicoi County"
 repo_path: "kb/287g/287-g-wso-unicoi-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

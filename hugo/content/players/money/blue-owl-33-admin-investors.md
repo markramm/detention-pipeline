@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/blue-owl-33-admin-investors.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# 33 Trump Administration Officials with Blue Owl Investments
 
 Source: ProPublica Trump Team Financial Disclosures database, searched April 8, 2026.
 

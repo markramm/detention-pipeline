@@ -7,6 +7,7 @@ fips: "01077"
 state: "AL"
 county: "Lauderdale County"
 repo_path: "kb/287g/287-g-jem-lauderdale-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

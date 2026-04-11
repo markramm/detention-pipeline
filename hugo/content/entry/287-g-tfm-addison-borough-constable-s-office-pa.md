@@ -7,6 +7,7 @@ fips: "42111"
 state: "PA"
 county: "Somerset County"
 repo_path: "kb/287g/287-g-tfm-addison-borough-constable-s-office-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

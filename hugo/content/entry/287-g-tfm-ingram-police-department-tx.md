@@ -7,6 +7,7 @@ fips: "48265"
 state: "TX"
 county: "Kerr County"
 repo_path: "kb/287g/287-g-tfm-ingram-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

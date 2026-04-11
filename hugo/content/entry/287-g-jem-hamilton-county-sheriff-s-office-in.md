@@ -7,6 +7,7 @@ fips: "18057"
 state: "IN"
 county: "Hamilton County"
 repo_path: "kb/287g/287-g-jem-hamilton-county-sheriff-s-office-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

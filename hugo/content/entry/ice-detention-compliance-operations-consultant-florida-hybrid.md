@@ -7,6 +7,7 @@ fips: ""
 state: "FL"
 county: ""
 repo_path: "kb/jobs/ice-detention-compliance-operations-consultant-florida-hybrid.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

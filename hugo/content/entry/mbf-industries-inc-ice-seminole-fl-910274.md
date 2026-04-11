@@ -1,5 +1,5 @@
 ---
-title: "MBF INDUSTRIES, INC. — ICE SEMINOLE, FL $910,274"
+title: "Mbf Industries, Inc. — Ice Seminole, Fl $910,274"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "12117"
 state: "FL"
 county: "SEMINOLE"
 repo_path: "kb/anc/mbf-industries-inc-ice-seminole-fl-910274.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

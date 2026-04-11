@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/ice-skip-tracing-2025.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
-
-# ICE Skip Tracing Program (2025)
 
 In November 2025, ICE launched a program to contract private-sector "skip tracing" services to locate immigrants on ICE's docket. In December 2025, ICE awarded contracts to **13 private companies** with a combined potential value of **$1.2 billion over two years**, targeting up to **1.5 million immigrants**.
 
@@ -30,10 +29,10 @@ Contractors conducting physical surveillance on immigrant communities are **not 
 
 | Contractor | Ceiling Value | Notes |
 |-----------|--------------|-------|
-| [[capgemini-government-solutions|Capgemini Government Solutions]] | $365M | French multinational; largest award; initial $4.8M order |
+| [Capgemini Government Solutions](/entry/capgemini-government-solutions/) | $365M | French multinational; largest award; initial $4.8M order |
 | Bluehawk LLC | $200M+ | Florida-based military contractor |
-| [[bi-incorporated|BI Incorporated]] (GEO Group) | $121M | Already has ISAP surveillance data on 183,000+ people |
-| [[constellis-holdings|Constellis Holdings]] | $113M | Blackwater/Academi successor; $1.5M paid so far |
+| [BI Incorporated](/entry/bi-incorporated/) (GEO Group) | $121M | Already has ISAP surveillance data on 183,000+ people |
+| [Constellis Holdings](/entry/constellis-holdings/) | $113M | Blackwater/Academi successor; $1.5M paid so far |
 | SOS International | TBD | Virginia-based |
 | Response AI Solutions | TBD | Virginia-based |
 | Gravitas Investigations | TBD | Ohio-based private investigation firm |
@@ -48,11 +47,11 @@ The skip tracing program represents a qualitative escalation: surveillance compa
 
 ### BI Incorporated's Unique Position
 
-[[bi-incorporated|BI Incorporated]]'s dual role is particularly alarming: the same company that monitors immigrants through ISAP ankle monitors and the SmartLINK app (see [[bi-incorporated-isap-v]]) now hunts them when they stop complying (see [[bi-incorporated-skip-tracing]]). The monitoring data feeds directly into enforcement targeting. The entity that tracks you is the entity that hunts you.
+[BI Incorporated](/entry/bi-incorporated/)'s dual role is particularly alarming: the same company that monitors immigrants through ISAP ankle monitors and the SmartLINK app (see [bi-incorporated-isap-v](/entry/bi-incorporated-isap-v/)) now hunts them when they stop complying (see [bi-incorporated-skip-tracing](/entry/bi-incorporated-skip-tracing/)). The monitoring data feeds directly into enforcement targeting. The entity that tracks you is the entity that hunts you.
 
 ### Capgemini's Internal Doubts
 
-In January 2026, the Washington Post reported that [[capgemini-government-solutions|Capgemini]] was having internal doubts about the contract, questioning whether the reputational risk was worth the $365 million ceiling.
+In January 2026, the Washington Post reported that [Capgemini](/entry/capgemini-government-solutions/) was having internal doubts about the contract, questioning whether the reputational risk was worth the $365 million ceiling.
 
 ## Sources
 

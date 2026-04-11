@@ -7,6 +7,7 @@ fips: "48501"
 state: "TX"
 county: "Yoakum County"
 repo_path: "kb/287g/287-g-tfm-yoakum-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

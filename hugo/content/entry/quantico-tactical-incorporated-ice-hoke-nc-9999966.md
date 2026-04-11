@@ -1,5 +1,5 @@
 ---
-title: "QUANTICO TACTICAL INCORPORATED — ICE HOKE, NC $9,999,966"
+title: "Quantico Tactical Incorporated — Ice Hoke, Nc $9,999,966"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "37093"
 state: "NC"
 county: "HOKE"
 repo_path: "kb/anc/quantico-tactical-incorporated-ice-hoke-nc-9999966.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

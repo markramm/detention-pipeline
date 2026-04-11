@@ -7,6 +7,7 @@ fips: "48167"
 state: "TX"
 county: "Galveston County"
 repo_path: "kb/287g/287-g-wso-league-city-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

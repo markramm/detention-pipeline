@@ -7,6 +7,7 @@ fips: "12031"
 state: "FL"
 county: "Duval County"
 repo_path: "kb/287g/287-g-jem-jacksonville-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

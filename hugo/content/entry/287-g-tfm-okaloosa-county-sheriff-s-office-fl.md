@@ -7,6 +7,7 @@ fips: "12091"
 state: "FL"
 county: "Okaloosa County"
 repo_path: "kb/287g/287-g-tfm-okaloosa-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

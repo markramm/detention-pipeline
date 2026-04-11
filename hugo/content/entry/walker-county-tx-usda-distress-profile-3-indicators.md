@@ -7,6 +7,7 @@ fips: "48471"
 state: "TX"
 county: "Walker"
 repo_path: "kb/budget/walker-county-tx-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

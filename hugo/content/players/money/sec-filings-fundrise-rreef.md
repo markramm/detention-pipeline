@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/sec-filings-fundrise-rreef.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# SEC Filing Analysis: Fundrise and RREEF
 
 ## Fundrise East Coast Opportunistic REIT, LLC (CIK 1660918)
 

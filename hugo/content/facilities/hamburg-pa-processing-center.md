@@ -7,6 +7,7 @@ fips: ""
 state: "Pennsylvania"
 county: "Berks"
 repo_path: "kb/industry/facilities/hamburg-pa-processing-center.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -15,9 +16,7 @@ status: "approved"
 bed_count: "1,000-1,500 beds (processing center)"
 ---
 
-# Hamburg PA ICE Processing Center
-
-One of six confirmed processing center purchases in ICE's Detention Reengineering Initiative. Planned capacity 1,000-1,500 beds with average stays of 3-7 days. Part of the Pennsylvania cluster (along with [[upper-bern-pa-warehouse]] and [[tremont-pa-mega-center]]).
+One of six confirmed processing center purchases in ICE's Detention Reengineering Initiative. Planned capacity 1,000-1,500 beds with average stays of 3-7 days. Part of the Pennsylvania cluster (along with [upper-bern-pa-warehouse](/entry/upper-bern-pa-warehouse/) and [tremont-pa-mega-center](/entry/tremont-pa-mega-center/)).
 
 ## Sources
 

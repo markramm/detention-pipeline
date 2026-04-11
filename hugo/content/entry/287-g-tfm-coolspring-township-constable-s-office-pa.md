@@ -7,6 +7,7 @@ fips: "42085"
 state: "PA"
 county: "Mercer County"
 repo_path: "kb/287g/287-g-tfm-coolspring-township-constable-s-office-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

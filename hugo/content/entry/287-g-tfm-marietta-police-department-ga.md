@@ -7,6 +7,7 @@ fips: "13067"
 state: "GA"
 county: "Cobb County"
 repo_path: "kb/287g/287-g-tfm-marietta-police-department-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

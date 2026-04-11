@@ -7,6 +7,7 @@ fips: "48113"
 state: "TX"
 county: "Dallas"
 repo_path: "kb/real-estate/cedars-commerce-center-dallas-tx-2000000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

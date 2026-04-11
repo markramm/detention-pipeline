@@ -7,6 +7,7 @@ fips: "47141"
 state: "TN"
 county: "Putnam County"
 repo_path: "kb/287g/287-g-jem-putnam-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

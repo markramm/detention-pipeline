@@ -7,6 +7,7 @@ fips: ""
 state: "AR"
 county: "Pop County"
 repo_path: "kb/287g/287-g-wso-pope-county-sheriff-s-office-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

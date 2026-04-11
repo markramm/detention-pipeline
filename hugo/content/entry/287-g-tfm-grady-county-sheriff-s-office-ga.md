@@ -7,6 +7,7 @@ fips: "13131"
 state: "GA"
 county: "Grady County"
 repo_path: "kb/287g/287-g-tfm-grady-county-sheriff-s-office-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

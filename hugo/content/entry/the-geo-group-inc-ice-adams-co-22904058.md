@@ -1,5 +1,5 @@
 ---
-title: "THE GEO GROUP, INC. — ICE ADAMS, CO $22,904,058"
+title: "The Geo Group, Inc. — Ice Adams, Co $22,904,058"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "08001"
 state: "CO"
 county: "ADAMS"
 repo_path: "kb/anc/the-geo-group-inc-ice-adams-co-22904058.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

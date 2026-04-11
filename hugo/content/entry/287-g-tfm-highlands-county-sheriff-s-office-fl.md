@@ -7,6 +7,7 @@ fips: "12055"
 state: "FL"
 county: "Highlands County"
 repo_path: "kb/287g/287-g-tfm-highlands-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

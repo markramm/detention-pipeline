@@ -7,6 +7,7 @@ fips: "49045"
 state: "UT"
 county: "Tooele County"
 repo_path: "kb/287g/287-g-tfm-tooele-county-sheriff-s-office-ut.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

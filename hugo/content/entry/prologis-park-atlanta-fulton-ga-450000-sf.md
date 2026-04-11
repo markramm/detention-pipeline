@@ -7,6 +7,7 @@ fips: "13121"
 state: "GA"
 county: "Fulton"
 repo_path: "kb/real-estate/prologis-park-atlanta-fulton-ga-450000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

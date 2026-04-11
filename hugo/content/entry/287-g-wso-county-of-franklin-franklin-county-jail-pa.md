@@ -7,6 +7,7 @@ fips: "42055"
 state: "PA"
 county: "Franklin County"
 repo_path: "kb/287g/287-g-wso-county-of-franklin-franklin-county-jail-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

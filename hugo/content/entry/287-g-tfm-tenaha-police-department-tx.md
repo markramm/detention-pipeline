@@ -7,6 +7,7 @@ fips: "48419"
 state: "TX"
 county: "Shelby County"
 repo_path: "kb/287g/287-g-tfm-tenaha-police-department-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

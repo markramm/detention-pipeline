@@ -1,5 +1,5 @@
 ---
-title: "NATIONAL CYBER-FORENSICS AND TRAINING ALLIANC — ICE ALLEGHENY, PA $2,030,000"
+title: "National Cyber-Forensics And Training Allianc — Ice Allegheny, Pa $2,030,000"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "42003"
 state: "PA"
 county: "ALLEGHENY"
 repo_path: "kb/anc/national-cyber-forensics-and-training-allianc-ice-allegheny-pa-2030000.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

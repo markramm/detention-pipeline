@@ -7,6 +7,7 @@ fips: "22093"
 state: "LA"
 county: "St. James"
 repo_path: "kb/real-estate/port-of-south-louisiana-industrial-st-james-la-250000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

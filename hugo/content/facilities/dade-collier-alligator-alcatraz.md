@@ -7,6 +7,7 @@ fips: ""
 state: "Florida"
 county: "Miami-Dade/Collier"
 repo_path: "kb/industry/facilities/dade-collier-alligator-alcatraz.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "Florida Division of Emergency Management"
 status: "operational"
 bed_count: "3,000-5,000"
 ---
-
-# Alligator Alcatraz — South Florida Detention Facility (Dade-Collier)
 
 ## Overview
 
@@ -49,7 +48,7 @@ Detainees have described harrowing conditions:
 
 ## Significance
 
-Alligator Alcatraz represents the state-operated detention model (see also [[camp-blanding-fl]]) — Florida building and running facilities under a DeSantis-Trump partnership, bypassing federal procurement and oversight systems. It is the most symbolically potent facility in the entire detention expansion, combining environmental destruction, documented abuse, legal black holes, and political spectacle (Trump toured the facility).
+Alligator Alcatraz represents the state-operated detention model (see also [camp-blanding-fl](/entry/camp-blanding-fl/)) — Florida building and running facilities under a DeSantis-Trump partnership, bypassing federal procurement and oversight systems. It is the most symbolically potent facility in the entire detention expansion, combining environmental destruction, documented abuse, legal black holes, and political spectacle (Trump toured the facility).
 
 ## Sources
 

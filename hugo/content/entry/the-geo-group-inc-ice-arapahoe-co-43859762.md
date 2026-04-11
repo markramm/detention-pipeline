@@ -1,5 +1,5 @@
 ---
-title: "THE GEO GROUP, INC. — ICE ARAPAHOE, CO $43,859,762"
+title: "The Geo Group, Inc. — Ice Arapahoe, Co $43,859,762"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "08005"
 state: "CO"
 county: "ARAPAHOE"
 repo_path: "kb/anc/the-geo-group-inc-ice-arapahoe-co-43859762.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

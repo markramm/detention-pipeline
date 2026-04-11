@@ -7,6 +7,7 @@ fips: ""
 state: "TN"
 county: ""
 repo_path: "kb/287g/287-g-jem-tennessee-department-of-corrections-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

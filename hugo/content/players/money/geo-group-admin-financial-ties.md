@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/geo-group-admin-financial-ties.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# GEO Group Financial Ties to Trump Administration Officials
 
 Source: ProPublica Trump Team Financial Disclosures database, searched April 8, 2026.
 
@@ -44,8 +43,8 @@ Source: ProPublica Trump Team Financial Disclosures database, searched April 8, 
 
 These are documented elsewhere in the KB but form the complete picture:
 
-- **[[david-venturella|David Venturella]]** — 12 years at GEO Group ($6M+ compensation), now runs ICE detention contracting with ethics waiver
-- **[[daniel-bible|Daniel Bible]]** — Left ICE detention chief role → GEO Group EVP, days before 2024 election
+- **[David Venturella](/entry/david-venturella/)** — 12 years at GEO Group ($6M+ compensation), now runs ICE detention contracting with ethics waiver
+- **[Daniel Bible](/entry/daniel-bible/)** — Left ICE detention chief role → GEO Group EVP, days before 2024 election
 - **Pam Bondi** — Former GEO Group lobbyist, served as AG until fired April 2, 2026
 - **Corey Lewandowski** — Allegedly solicited "success fees" from GEO Group founder George Zoley (per NBC News)
 

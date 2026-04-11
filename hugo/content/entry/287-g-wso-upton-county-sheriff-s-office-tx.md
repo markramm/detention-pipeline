@@ -7,6 +7,7 @@ fips: "48461"
 state: "TX"
 county: "Upton County"
 repo_path: "kb/287g/287-g-wso-upton-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

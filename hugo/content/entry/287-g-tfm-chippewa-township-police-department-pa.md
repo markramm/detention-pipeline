@@ -7,6 +7,7 @@ fips: "42007"
 state: "PA"
 county: "Beaver County"
 repo_path: "kb/287g/287-g-tfm-chippewa-township-police-department-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

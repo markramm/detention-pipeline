@@ -7,6 +7,7 @@ fips: "40113"
 state: "OK"
 county: "Osage County"
 repo_path: "kb/287g/287-g-tfm-barnsdall-police-department-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

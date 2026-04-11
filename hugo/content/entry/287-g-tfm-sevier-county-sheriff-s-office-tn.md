@@ -7,6 +7,7 @@ fips: "47155"
 state: "TN"
 county: "Sevier County"
 repo_path: "kb/287g/287-g-tfm-sevier-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

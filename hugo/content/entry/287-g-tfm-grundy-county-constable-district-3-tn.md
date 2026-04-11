@@ -7,6 +7,7 @@ fips: "47061"
 state: "TN"
 county: "Grundy County"
 repo_path: "kb/287g/287-g-tfm-grundy-county-constable-district-3-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

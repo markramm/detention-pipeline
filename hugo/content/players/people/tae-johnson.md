@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/tae-johnson.md"
+lastmod: "2026-04-10"
 type: "players"
 layout: "single"
 player_type: "person"
@@ -14,8 +15,6 @@ role: "revolving"
 government_service: "Acting ICE Director Jan 2021-July 2023; Deputy Executive Associate Director for ERO ($4.4B budget, 7,900 employees); Assistant Director for ERO Custody Management (oversaw ~40,000 daily detainees across ~250 facilities). 31 years ICE/INS."
 private_role: "Criminal Justice team member at Sabot Consulting (Sabot Technologies Inc.), advising counties on ICE detention facility development through IGSAs."
 ---
-
-# Tae D. Johnson — The ICE Director Selling Detention Back to ICE
 
 ## Government Service
 
@@ -27,7 +26,7 @@ GAO found his service after November 16, 2021 **violated the Federal Vacancies R
 
 ## Private Sector Role
 
-Johnson is now on the "Criminal Justice team" at [[sabot-consulting|Sabot Consulting]], the firm that advises county sheriffs on building and operating ICE detention facilities through IGSAs. Sabot describes itself as the county's "ICE-facing arm" and facilitates "County-ICE-operator alignment."
+Johnson is now on the "Criminal Justice team" at [Sabot Consulting](/entry/sabot-consulting/), the firm that advises county sheriffs on building and operating ICE detention facilities through IGSAs. Sabot describes itself as the county's "ICE-facing arm" and facilitates "County-ICE-operator alignment."
 
 ## The Legal Question
 

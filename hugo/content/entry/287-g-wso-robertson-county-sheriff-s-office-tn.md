@@ -7,6 +7,7 @@ fips: "47147"
 state: "TN"
 county: "Robertson County"
 repo_path: "kb/287g/287-g-wso-robertson-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

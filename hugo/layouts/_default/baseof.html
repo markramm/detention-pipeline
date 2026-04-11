@@ -230,6 +230,11 @@ body {
 </div>
 {{ end }}
 
+{{ with .Params.lastmod }}
+<div style="max-width:1200px; margin:0 auto; padding:0 24px 12px; text-align:right;">
+  <span class="mono dim" style="font-size:10px;">Last updated: {{ dateFormat "Jan 2, 2006" . }}</span>
+</div>
+{{ end }}
 <footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-links">

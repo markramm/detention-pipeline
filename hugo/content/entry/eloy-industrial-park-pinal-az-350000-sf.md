@@ -7,6 +7,7 @@ fips: "04021"
 state: "AZ"
 county: "Pinal"
 repo_path: "kb/real-estate/eloy-industrial-park-pinal-az-350000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

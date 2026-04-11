@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/comprehensive-conflict-of-interest-map.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# Comprehensive Conflict-of-Interest Map
 
 Source: ProPublica Trump Team Financial Disclosures, cross-referenced against all 11 confirmed ICE warehouse sellers. Compiled April 8, 2026.
 

@@ -7,6 +7,7 @@ fips: "55087"
 state: "WI"
 county: "Outagamie County"
 repo_path: "kb/287g/287-g-wso-outagamie-county-sheriff-s-office-wi.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

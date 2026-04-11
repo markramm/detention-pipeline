@@ -7,6 +7,7 @@ fips: "51670"
 state: "VA"
 county: "Hopewell County"
 repo_path: "kb/287g/287-g-tfm-hopewell-county-sheriff-s-office-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

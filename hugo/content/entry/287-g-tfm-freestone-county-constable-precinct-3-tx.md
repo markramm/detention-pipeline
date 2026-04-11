@@ -7,6 +7,7 @@ fips: "48161"
 state: "TX"
 county: "Freestone County"
 repo_path: "kb/287g/287-g-tfm-freestone-county-constable-precinct-3-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

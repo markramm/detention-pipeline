@@ -7,6 +7,7 @@ fips: "24025"
 state: "MD"
 county: "Harford County"
 repo_path: "kb/287g/287-g-jem-harford-county-sheriff-s-office-md.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

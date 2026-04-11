@@ -7,6 +7,7 @@ fips: "33015"
 state: "NH"
 county: "Rockingham County"
 repo_path: "kb/287g/287-g-tfm-epping-police-department-nh.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "01025"
 state: "AL"
 county: "Clarke County"
 repo_path: "kb/287g/287-g-tfm-jackson-police-department-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "21105"
 state: "KY"
 county: "Hickman County"
 repo_path: "kb/287g/287-g-tfm-hickman-county-sheriff-s-office-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

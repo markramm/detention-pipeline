@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/organizations/rockefeller-group.md"
+lastmod: "2026-04-08"
 type: "entry"
 layout: "single"
 ---
-
-# Rockefeller Group (Mitsubishi Estate)
 
 ## Overview
 

@@ -7,6 +7,7 @@ fips: "29009"
 state: "MO"
 county: "Barry County"
 repo_path: "kb/287g/287-g-tfm-washburn-police-department-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

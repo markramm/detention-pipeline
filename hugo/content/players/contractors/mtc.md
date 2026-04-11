@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/mtc.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Centerville, Utah"
 founded: "1981"
 status: "active"
 ---
-
-# Management & Training Corporation (MTC)
 
 Management & Training Corporation is the third-largest private prison operator in the United States. Unlike GEO Group and CoreCivic (which are publicly traded), MTC is a privately held company. Its core businesses span corrections, education and training (including U.S. Job Corps centers), medical services, and economic/social development.
 
@@ -37,7 +36,7 @@ MTC is pursuing a significant expansion in Arizona:
 
 ## ACLU FOIA Documents
 
-MTC submitted contract proposals to ICE Requests for Information (RFI) to expand detention capacity, alongside [[geo-group|GEO Group]] and [[corecivic|CoreCivic]]. The ACLU noted that several MTC facilities have "a lengthy history of abusive conditions."
+MTC submitted contract proposals to ICE Requests for Information (RFI) to expand detention capacity, alongside [GEO Group](/entry/geo-group/) and [CoreCivic](/entry/corecivic/). The ACLU noted that several MTC facilities have "a lengthy history of abusive conditions."
 
 ## Revenue
 

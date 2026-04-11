@@ -7,6 +7,7 @@ fips: ""
 state: "Missouri"
 county: "Jackson"
 repo_path: "kb/industry/county-fights/kansas-city-mo-platform-ventures.md"
+lastmod: "2026-04-06"
 type: "fights"
 layout: "single"
 status: "blocked"
@@ -15,11 +16,9 @@ vote_tally: "City Council blocked permits unanimously after ICE tour"
 facility: "kansas-city-mo-mega-center"
 ---
 
-# Kansas City: How Community Pressure Killed an ICE Mega Center
-
 ## The Win
 
-Platform Ventures, the developer that owned an $80M warehouse in south Kansas City, **backed out of selling it to ICE** on February 12, 2026 after weeks of sustained community pressure. The warehouse had been planned as a 7,500-bed mega center (see [[kansas-city-mo-mega-center]]).
+Platform Ventures, the developer that owned an $80M warehouse in south Kansas City, **backed out of selling it to ICE** on February 12, 2026 after weeks of sustained community pressure. The warehouse had been planned as a 7,500-bed mega center (see [kansas-city-mo-mega-center](/entry/kansas-city-mo-mega-center/)).
 
 This is one of the clearest examples of community resistance successfully blocking a detention facility.
 

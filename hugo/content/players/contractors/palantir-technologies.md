@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/palantir-technologies.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Denver, Colorado"
 founded: "2003"
 status: "active"
 ---
-
-# Palantir Technologies
 
 Palantir Technologies is the backbone of ICE's digital surveillance and enforcement infrastructure. The company provides ICE with its primary case management system, its targeting and enforcement operations platforms, and is building the next-generation system intended to manage the entire "immigration lifecycle" from identification through deportation.
 
@@ -53,7 +52,7 @@ Reporting indicates Palantir's total ICE contract value reached approximately **
 
 ## Data Integration
 
-Palantir systems pull data from across government databases -- passport records, Social Security files, IRS tax data, license plate reader data -- regardless of the accuracy of those databases. The systems also integrate data from private-sector data brokers including [[thomson-reuters|Thomson Reuters CLEAR]] and [[lexisnexis|LexisNexis]].
+Palantir systems pull data from across government databases -- passport records, Social Security files, IRS tax data, license plate reader data -- regardless of the accuracy of those databases. The systems also integrate data from private-sector data brokers including [Thomson Reuters CLEAR](/entry/thomson-reuters/) and [LexisNexis](/entry/lexisnexis/).
 
 ## USCIS Expansion
 

@@ -7,6 +7,7 @@ fips: "48253"
 state: "TX"
 county: "Jones"
 repo_path: "kb/budget/jones-county-tx-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

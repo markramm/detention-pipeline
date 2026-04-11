@@ -7,6 +7,7 @@ fips: "18139"
 state: "IN"
 county: "Rush County"
 repo_path: "kb/287g/287-g-wso-rush-county-sheriff-s-office-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

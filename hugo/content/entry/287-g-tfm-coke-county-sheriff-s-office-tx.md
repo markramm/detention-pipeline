@@ -7,6 +7,7 @@ fips: "48081"
 state: "TX"
 county: "Coke County"
 repo_path: "kb/287g/287-g-tfm-coke-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

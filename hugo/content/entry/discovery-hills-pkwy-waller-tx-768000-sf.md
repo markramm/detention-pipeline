@@ -7,6 +7,7 @@ fips: "48473"
 state: "TX"
 county: "Waller"
 repo_path: "kb/real-estate/discovery-hills-pkwy-waller-tx-768000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

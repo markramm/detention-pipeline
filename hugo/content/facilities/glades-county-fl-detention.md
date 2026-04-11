@@ -7,6 +7,7 @@ fips: ""
 state: "Florida"
 county: "Glades"
 repo_path: "kb/industry/facilities/glades-county-fl-detention.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "Glades County Board of County Commissioners"
 status: "operational"
 bed_count: "500"
 ---
-
-# Glades County Detention Center — Moore Haven FL
 
 ## Overview
 
@@ -34,7 +33,7 @@ A 19-year-old Mexican immigrant died in ICE custody at the Glades County Detenti
 
 ## Context
 
-Glades County is part of the broader Florida IGSA network that includes [[baker-county-fl-detention|Baker County]] and [[bradford-county-douglas-building|Bradford County]], through which the state provides county jail beds for ICE detention. These IGSA agreements — often facilitated by firms like [[sabot-consulting|Sabot Consulting]] — are a key mechanism for expanding detention capacity without federal facility construction.
+Glades County is part of the broader Florida IGSA network that includes [Baker County](/entry/baker-county-fl-detention/) and [Bradford County](/entry/bradford-county-douglas-building/), through which the state provides county jail beds for ICE detention. These IGSA agreements — often facilitated by firms like [Sabot Consulting](/entry/sabot-consulting/) — are a key mechanism for expanding detention capacity without federal facility construction.
 
 ## Sources
 

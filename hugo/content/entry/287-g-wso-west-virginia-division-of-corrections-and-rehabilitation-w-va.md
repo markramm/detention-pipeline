@@ -7,6 +7,7 @@ fips: ""
 state: "W. Va."
 county: ""
 repo_path: "kb/287g/287-g-wso-west-virginia-division-of-corrections-and-rehabilitation-w-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "26163"
 state: "MI"
 county: "Wayne"
 repo_path: "kb/commission/romulus-mi-city-and-state-file-lawsuit-to-block-ice-detention-facility.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

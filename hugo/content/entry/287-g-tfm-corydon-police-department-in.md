@@ -7,6 +7,7 @@ fips: "18061"
 state: "IN"
 county: "Harrison County"
 repo_path: "kb/287g/287-g-tfm-corydon-police-department-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

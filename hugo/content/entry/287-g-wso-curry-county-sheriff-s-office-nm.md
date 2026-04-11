@@ -7,6 +7,7 @@ fips: "35009"
 state: "NM"
 county: "Curry County"
 repo_path: "kb/287g/287-g-wso-curry-county-sheriff-s-office-nm.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

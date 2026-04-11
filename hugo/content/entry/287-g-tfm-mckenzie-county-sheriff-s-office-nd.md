@@ -7,6 +7,7 @@ fips: "38053"
 state: "ND"
 county: "McKenzie County"
 repo_path: "kb/287g/287-g-tfm-mckenzie-county-sheriff-s-office-nd.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/jobs/sabot-project-manager-doj-remote.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---
-
-# Sabot Consulting — Project Manager - DOJ (Remote)
 
 Active posting on Sabot's career page as of April 10, 2026. New posting not previously tracked.
 

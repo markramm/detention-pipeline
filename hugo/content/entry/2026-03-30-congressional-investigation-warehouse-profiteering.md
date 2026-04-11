@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/events/2026-03-30-congressional-investigation-warehouse-profiteering.md"
+lastmod: "2026-04-08"
 type: "entry"
 layout: "single"
 ---
-
-# Congressional Investigation into ICE Warehouse Profiteering
 
 ## Overview
 

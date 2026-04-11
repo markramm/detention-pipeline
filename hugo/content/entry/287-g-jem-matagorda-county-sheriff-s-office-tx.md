@@ -7,6 +7,7 @@ fips: "48321"
 state: "TX"
 county: "Matagorda County"
 repo_path: "kb/287g/287-g-jem-matagorda-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

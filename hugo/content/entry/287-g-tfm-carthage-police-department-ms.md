@@ -7,6 +7,7 @@ fips: "28079"
 state: "MS"
 county: "Leake County"
 repo_path: "kb/287g/287-g-tfm-carthage-police-department-ms.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

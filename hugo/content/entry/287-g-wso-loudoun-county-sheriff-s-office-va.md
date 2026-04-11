@@ -7,6 +7,7 @@ fips: "51107"
 state: "VA"
 county: "Loudoun County"
 repo_path: "kb/287g/287-g-wso-loudoun-county-sheriff-s-office-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

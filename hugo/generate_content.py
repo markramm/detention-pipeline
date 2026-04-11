@@ -23,6 +23,7 @@ import os
 import re
 import shutil
 import sys
+from datetime import datetime
 from pathlib import Path
 
 KB_PATH = Path("../kb")
@@ -158,6 +159,32 @@ def esc(s):
     return s.replace('"', '\\"').replace('\n', ' ')
 
 
+def normalize_title(title):
+    """Fix screaming-case titles like 'THE GEO GROUP, INC. — ICE BROWARD, FL'."""
+    # If more than half the alpha chars are uppercase and title > 20 chars, it's screaming
+    alpha = [c for c in title if c.isalpha()]
+    if len(alpha) > 20 and sum(1 for c in alpha if c.isupper()) > len(alpha) * 0.6:
+        return title.title()
+    return title
+
+
+def resolve_wikilinks(body):
+    """Convert [[slug|Display Text]] and [[slug]] to markdown links."""
+    # [[slug|Display Text]] -> [Display Text](/entry/slug/)
+    body = re.sub(
+        r'\[\[([^\]|]+)\|([^\]]+)\]\]',
+        lambda m: f'[{m.group(2)}](/entry/{m.group(1)}/)',
+        body
+    )
+    # [[slug]] -> [slug](/entry/slug/)
+    body = re.sub(
+        r'\[\[([^\]]+)\]\]',
+        lambda m: f'[{m.group(1)}](/entry/{m.group(1)}/)',
+        body
+    )
+    return body
+
+
 def scan_all_entries():
     """Scan all KB entries and return parsed list."""
     entries = []
@@ -174,11 +201,13 @@ def scan_all_entries():
             rel_path = str(md_file.relative_to(KB_PATH.parent))
         except ValueError:
             rel_path = str(md_file)
+        mod_time = datetime.fromtimestamp(md_file.stat().st_mtime).strftime("%Y-%m-%d")
         entries.append({
             "fields": fields,
             "body": body,
             "rel_path": rel_path,
             "md_file": md_file,
+            "last_updated": mod_time,
         })
     return entries
 
@@ -202,7 +231,7 @@ def generate_all_pages(parsed_entries, heat_data):
 
         entry_id = fields.get("id", parsed["md_file"].stem)
         entry_type = fields.get("type", "unknown")
-        title = fields.get("title", entry_id)
+        title = normalize_title(fields.get("title", entry_id))
         fips = fields.get("fips", "")
         state = fields.get("state", "")
         county = fields.get("county", "")
@@ -240,6 +269,7 @@ def generate_all_pages(parsed_entries, heat_data):
             "state": state,
             "county": esc(county),
             "repo_path": rel_path,
+            "lastmod": parsed["last_updated"],
         }
 
         # Determine output path based on section
@@ -288,35 +318,22 @@ def generate_all_pages(parsed_entries, heat_data):
             fm["type"] = "entry"
             fm["layout"] = "single"
 
+        # Clean body: strip leading H1 (title is rendered by template) and resolve wikilinks
+        clean_body = body
+        # Remove leading H1 lines (# Title)
+        lines = clean_body.split("\n")
+        while lines and (lines[0].startswith("# ") or lines[0].strip() == ""):
+            lines.pop(0)
+        clean_body = "\n".join(lines)
+        resolved_body = resolve_wikilinks(clean_body)
+
         # Write the page
         fm_lines = "\n".join(f'{k}: "{v}"' if isinstance(v, str) else f'{k}: {v}'
                              for k, v in fm.items())
         with open(page_path, "w") as f:
-            f.write(f"---\n{fm_lines}\n---\n\n{body}\n")
+            f.write(f"---\n{fm_lines}\n---\n\n{resolved_body}\n")
 
-        # Also write to entry/ for types that have dedicated sections
-        # so cross-referencing by FIPS still works on county pages
-        if entry_type in ("county-fight", "contractor", "person", "financial-flow",
-                          "analysis", "igsa", "facility") and page_path.parent != CONTENT_PATH / "entry":
-            entry_page = CONTENT_PATH / "entry" / f"{entry_id}.md"
-            entry_fm = dict(fm)
-            entry_fm["type"] = "entry"
-            entry_fm["layout"] = "single"
-            # Add canonical URL to the dedicated section
-            if entry_type == "county-fight":
-                entry_fm["canonical"] = f"/fights/{entry_id}/"
-            elif entry_type == "contractor":
-                entry_fm["canonical"] = f"/players/contractors/{entry_id}/"
-            elif entry_type == "person":
-                entry_fm["canonical"] = f"/players/people/{entry_id}/"
-            elif entry_type in ("financial-flow", "analysis"):
-                entry_fm["canonical"] = f"/players/money/{entry_id}/"
-            elif entry_type in ("igsa", "facility"):
-                entry_fm["canonical"] = f"/facilities/{entry_id}/"
-            efm_lines = "\n".join(f'{k}: "{v}"' if isinstance(v, str) else f'{k}: {v}'
-                                  for k, v in entry_fm.items())
-            with open(entry_page, "w") as f:
-                f.write(f"---\n{efm_lines}\n---\n\n{body}\n")
+        # No duplicate entry/ page — each entry lives in one canonical section only
 
     return entries_by_fips, entries_by_state, entries_by_type, all_entries_meta
 

@@ -7,6 +7,7 @@ fips: "13117"
 state: "GA"
 county: "Forsyth County"
 repo_path: "kb/287g/287-g-wso-forsyth-county-sheriff-s-office-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

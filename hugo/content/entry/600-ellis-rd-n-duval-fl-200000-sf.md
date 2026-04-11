@@ -7,6 +7,7 @@ fips: "12031"
 state: "FL"
 county: "Duval"
 repo_path: "kb/real-estate/600-ellis-rd-n-duval-fl-200000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/organizations/carlyle-group-detention.md"
+lastmod: "2026-04-08"
 type: "entry"
 layout: "single"
 ---
-
-# Carlyle Group — ICE Warehouse Seller
 
 ## The Oakwood GA Sale
 

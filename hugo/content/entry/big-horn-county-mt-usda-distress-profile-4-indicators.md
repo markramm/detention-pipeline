@@ -7,6 +7,7 @@ fips: "30003"
 state: "MT"
 county: "Big Horn"
 repo_path: "kb/budget/big-horn-county-mt-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

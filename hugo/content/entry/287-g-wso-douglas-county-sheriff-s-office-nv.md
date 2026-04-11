@@ -7,6 +7,7 @@ fips: "32005"
 state: "NV"
 county: "Douglas County"
 repo_path: "kb/287g/287-g-wso-douglas-county-sheriff-s-office-nv.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

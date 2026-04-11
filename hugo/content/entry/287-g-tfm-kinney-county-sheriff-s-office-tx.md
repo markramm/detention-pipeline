@@ -7,6 +7,7 @@ fips: "48271"
 state: "TX"
 county: "Kinney County"
 repo_path: "kb/287g/287-g-tfm-kinney-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "22073"
 state: "LA"
 county: "Ouachita Parish"
 repo_path: "kb/287g/287-g-tfm-ouachita-parish-sheriff-s-office-la.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

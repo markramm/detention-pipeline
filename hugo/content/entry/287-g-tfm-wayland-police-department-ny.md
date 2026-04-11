@@ -7,6 +7,7 @@ fips: "36101"
 state: "NY"
 county: "Steuben County"
 repo_path: "kb/287g/287-g-tfm-wayland-police-department-ny.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

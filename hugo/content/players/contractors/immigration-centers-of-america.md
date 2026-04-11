@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/immigration-centers-of-america.md"
+lastmod: "2026-04-10"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -16,9 +17,7 @@ founded: "~2008"
 status: "active"
 ---
 
-# Immigration Centers of America (ICA)
-
-Immigration Centers of America is a smaller private detention company that operates ICE immigration detention facilities through Intergovernmental Service Agreements (IGSAs) with local municipalities. Unlike [[geo-group|GEO Group]] and [[corecivic|CoreCivic]], ICA is a niche operator focused specifically on immigration detention.
+Immigration Centers of America is a smaller private detention company that operates ICE immigration detention facilities through Intergovernmental Service Agreements (IGSAs) with local municipalities. Unlike [GEO Group](/entry/geo-group/) and [CoreCivic](/entry/corecivic/), ICA is a niche operator focused specifically on immigration detention.
 
 ## Farmville Detention Center
 
@@ -40,11 +39,11 @@ The Farmville Detention Center has been "notorious for its brutality, abuse, and
 
 ## Folkston — Correction
 
-Note: The Folkston ICE Processing Center in Charlton County, Georgia was previously attributed to ICA but is actually operated by [[geo-group|GEO Group]]. See [[folkston-ipc-charlton-ga]]. ICA's confirmed operations are limited to the Farmville Detention Center in Virginia.
+Note: The Folkston ICE Processing Center in Charlton County, Georgia was previously attributed to ICA but is actually operated by [GEO Group](/entry/geo-group/). See [folkston-ipc-charlton-ga](/entry/folkston-ipc-charlton-ga/). ICA's confirmed operations are limited to the Farmville Detention Center in Virginia.
 
 ## Current Status
 
-Under the Trump administration's 2025-2026 detention expansion, the Farmville facility's population has likely increased from its Biden-era lows. ICA remains a niche operator compared to [[geo-group|GEO Group]] and [[corecivic|CoreCivic]].
+Under the Trump administration's 2025-2026 detention expansion, the Farmville facility's population has likely increased from its Biden-era lows. ICA remains a niche operator compared to [GEO Group](/entry/geo-group/) and [CoreCivic](/entry/corecivic/).
 
 ## Sources
 

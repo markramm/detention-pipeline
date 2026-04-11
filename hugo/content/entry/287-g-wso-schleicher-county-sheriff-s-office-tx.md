@@ -7,6 +7,7 @@ fips: "48413"
 state: "TX"
 county: "Schleicher County"
 repo_path: "kb/287g/287-g-wso-schleicher-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

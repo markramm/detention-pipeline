@@ -7,6 +7,7 @@ fips: "22113"
 state: "LA"
 county: "Vermilion Parish"
 repo_path: "kb/287g/287-g-tfm-gueydan-police-department-la.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

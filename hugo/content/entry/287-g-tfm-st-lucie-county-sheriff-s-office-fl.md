@@ -7,6 +7,7 @@ fips: "12111"
 state: "FL"
 county: "St. Lucie County"
 repo_path: "kb/287g/287-g-tfm-st-lucie-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

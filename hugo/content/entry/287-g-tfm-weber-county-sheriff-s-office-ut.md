@@ -7,6 +7,7 @@ fips: "49057"
 state: "UT"
 county: "Weber County"
 repo_path: "kb/287g/287-g-tfm-weber-county-sheriff-s-office-ut.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

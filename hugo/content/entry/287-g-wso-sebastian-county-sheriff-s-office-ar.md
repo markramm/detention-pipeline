@@ -7,6 +7,7 @@ fips: "05131"
 state: "AR"
 county: "Sebastian County"
 repo_path: "kb/287g/287-g-wso-sebastian-county-sheriff-s-office-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "48409"
 state: "TX"
 county: "San Patricio County"
 repo_path: "kb/287g/287-g-jem-san-patricio-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

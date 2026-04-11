@@ -7,6 +7,7 @@ fips: ""
 state: "Texas"
 county: "El Paso"
 repo_path: "kb/industry/facilities/el-paso-tx-eastwind-mega-center.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal)"
 status: "under-construction"
 bed_count: "8,500"
 ---
-
-# El Paso TX Eastwind Logistics Center — ICE Mega Detention Center
 
 ## Overview
 
@@ -37,7 +36,7 @@ Reporting by El Paso Matters revealed that the planned mega detention center fac
 
 ## Context
 
-This facility would operate alongside [[camp-east-montana-fort-bliss|Camp East Montana]] (Fort Bliss), giving the El Paso region two massive detention sites. The El Paso mega-center is one of eight large-scale facilities planned nationally under the $38.3B Detention Reengineering Initiative.
+This facility would operate alongside [Camp East Montana](/entry/camp-east-montana-fort-bliss/) (Fort Bliss), giving the El Paso region two massive detention sites. The El Paso mega-center is one of eight large-scale facilities planned nationally under the $38.3B Detention Reengineering Initiative.
 
 ## Sources
 

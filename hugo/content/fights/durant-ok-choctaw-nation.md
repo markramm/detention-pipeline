@@ -7,6 +7,7 @@ fips: ""
 state: "Oklahoma"
 county: ""
 repo_path: "kb/industry/county-fights/durant-ok-choctaw-nation.md"
+lastmod: "2026-04-08"
 type: "fights"
 layout: "single"
 status: ""
@@ -15,15 +16,13 @@ vote_tally: ""
 facility: ""
 ---
 
-# Durant OK — Choctaw Nation Blocks ICE Warehouse
-
 ## Overview
 
 In one of the most creative and effective resistance actions against the ICE warehouse expansion, the **Choctaw Nation** purchased a warehouse in Durant, Oklahoma that DHS had targeted for ICE detention conversion — directly subverting the federal government's planned acquisition.
 
 ## Blue Owl Connection
 
-The Durant warehouse was owned by **[[blue-owl-capital|Blue Owl Capital]]** through its real estate subsidiary. Blue Owl also sold the [[tremont-pa-mega-center|Tremont, PA]] warehouse to DHS for $119 million (double market value). The Durant and Tremont properties demonstrate Blue Owl's systematic involvement in the ICE warehouse pipeline.
+The Durant warehouse was owned by **[Blue Owl Capital](/entry/blue-owl-capital/)** through its real estate subsidiary. Blue Owl also sold the [Tremont, PA](/entry/tremont-pa-mega-center/) warehouse to DHS for $119 million (double market value). The Durant and Tremont properties demonstrate Blue Owl's systematic involvement in the ICE warehouse pipeline.
 
 ## Significance
 

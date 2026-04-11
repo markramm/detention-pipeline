@@ -7,6 +7,7 @@ fips: "12063"
 state: "FL"
 county: "Jackson"
 repo_path: "kb/real-estate/family-dollar-distribution-center-jackson-fl-907000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

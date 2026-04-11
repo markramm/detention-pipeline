@@ -7,6 +7,7 @@ fips: "48443"
 state: "TX"
 county: "Terrell County"
 repo_path: "kb/287g/287-g-tfm-terrell-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

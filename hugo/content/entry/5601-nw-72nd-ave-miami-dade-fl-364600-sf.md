@@ -7,6 +7,7 @@ fips: "12086"
 state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/5601-nw-72nd-ave-miami-dade-fl-364600-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

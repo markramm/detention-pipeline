@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/geo-group.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -16,9 +17,7 @@ founded: "1984"
 status: "active"
 ---
 
-# The GEO Group, Inc.
-
-The GEO Group is not a prison company. It's a **closed loop.** Through its subsidiary [[bi-incorporated|BI Incorporated]], GEO operates all three functions of immigration enforcement: **surveillance** (SmartLINK app monitors 182,000+ people via GPS and facial recognition), **location** ($121M skip-tracing contract to hunt down non-compliant targets using the same surveillance data), and **detention** (95 facilities, 75,000 beds). One company tracks you, finds you when you miss a check-in, and profits from holding you when you're caught. The more people surveilled, the more flagged. The more flagged, the more hunted. The more hunted, the more detained. The more detained, the more revenue. Growth is built into the model.
+The GEO Group is not a prison company. It's a **closed loop.** Through its subsidiary [BI Incorporated](/entry/bi-incorporated/), GEO operates all three functions of immigration enforcement: **surveillance** (SmartLINK app monitors 182,000+ people via GPS and facial recognition), **location** ($121M skip-tracing contract to hunt down non-compliant targets using the same surveillance data), and **detention** (95 facilities, 75,000 beds). One company tracks you, finds you when you miss a check-in, and profits from holding you when you're caught. The more people surveilled, the more flagged. The more flagged, the more hunted. The more hunted, the more detained. The more detained, the more revenue. Growth is built into the model.
 
 See [The Closed Loop](https://theramm.substack.com/p/the-closed-loop) (After the Arrest series, Part 5) for the full investigation of this structure.
 
@@ -36,9 +35,9 @@ See [The Closed Loop](https://theramm.substack.com/p/the-closed-loop) (After the
 - Active ICE facility census reached approximately 24,000 -- the highest level in company history
 - Roughly 90% of the total population in immigration detention is held in facilities operated by private, for-profit companies; GEO is the largest operator
 
-## Surveillance Division ([[bi-incorporated|BI Incorporated]])
+## Surveillance Division ([BI Incorporated](/entry/bi-incorporated/))
 
-See: [[bi-incorporated]] for detailed entry.
+See: [bi-incorporated](/entry/bi-incorporated/) for detailed entry.
 
 GEO's surveillance arm is now a major revenue driver:
 - GPS ankle monitor participants increased from ~17,000 (early 2025) to 42,000+
@@ -55,10 +54,10 @@ GEO's surveillance arm is now a major revenue driver:
 ## The Revolving Door
 
 At least six former ICE officials work in top roles at GEO Group:
-- **[[daniel-ragsdale|Daniel Ragsdale]]** -- ICE Deputy Director (2012-2017), Acting ICE Director (Jan 2017). Joined GEO July 2017 as EVP Contract Compliance; now SVP Contract Administration and Compliance.
-- **[[matthew-albence|Matthew Albence]]** -- Acting ICE Director (2019-2020), ERO Executive Associate Director. Joined GEO 2022 as SVP Client Relations.
-- **[[daniel-bible|Daniel Bible]]** -- Deputy Executive Associate Director for ERO, ICE's top career detention official. Left ICE October 31, 2024 to become EVP at GEO. Oversaw San Antonio field office (2016-2020) with 7,000+ detainees.
-- **[[david-venturella|David Venturella]]** -- ICE Assistant Director, then GEO executive for 12 years (paid $6M+). Recruited back into government in 2025 as DHS senior adviser with ethics waiver. Now drives ICE policy that benefits his former employer.
+- **[Daniel Ragsdale](/entry/daniel-ragsdale/)** -- ICE Deputy Director (2012-2017), Acting ICE Director (Jan 2017). Joined GEO July 2017 as EVP Contract Compliance; now SVP Contract Administration and Compliance.
+- **[Matthew Albence](/entry/matthew-albence/)** -- Acting ICE Director (2019-2020), ERO Executive Associate Director. Joined GEO 2022 as SVP Client Relations.
+- **[Daniel Bible](/entry/daniel-bible/)** -- Deputy Executive Associate Director for ERO, ICE's top career detention official. Left ICE October 31, 2024 to become EVP at GEO. Oversaw San Antonio field office (2016-2020) with 7,000+ detainees.
+- **[David Venturella](/entry/david-venturella/)** -- ICE Assistant Director, then GEO executive for 12 years (paid $6M+). Recruited back into government in 2025 as DHS senior adviser with ethics waiver. Now drives ICE policy that benefits his former employer.
 
 ## Stock Performance
 
@@ -70,7 +69,7 @@ At least six former ICE officials work in top roles at GEO Group:
 
 - 10 of 13 GEO Group lobbyists in 2024 were "revolvers" (previously held government positions)
 - Significant donations to members of Congress on both sides of the aisle
-- Lobbied alongside [[corecivic|CoreCivic]] to force banks to provide loans to private prison companies (2026)
+- Lobbied alongside [CoreCivic](/entry/corecivic/) to force banks to provide loans to private prison companies (2026)
 
 ## The Wackenhut Heritage
 

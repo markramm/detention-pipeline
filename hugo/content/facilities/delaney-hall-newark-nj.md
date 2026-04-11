@@ -7,6 +7,7 @@ fips: ""
 state: "New Jersey"
 county: "Essex"
 repo_path: "kb/industry/facilities/delaney-hall-newark-nj.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -15,26 +16,24 @@ status: "operational"
 bed_count: "1,000"
 ---
 
-# Delaney Hall — Newark NJ GEO Group ICE Facility
-
 ## Overview
 
-The **Delaney Hall Facility** in Newark, New Jersey is a **1,000-bed** [[geo-group|GEO Group]]-operated ICE detention center. It was reactivated with an ICE contract valued at approximately **$1 billion**, making it one of the largest single-facility contracts in the detention expansion.
+The **Delaney Hall Facility** in Newark, New Jersey is a **1,000-bed** [GEO Group](/entry/geo-group/)-operated ICE detention center. It was reactivated with an ICE contract valued at approximately **$1 billion**, making it one of the largest single-facility contracts in the detention expansion.
 
 ## Key Details
 
 - **Capacity**: 1,000 beds
-- **Operator**: [[geo-group|GEO Group]]
+- **Operator**: [GEO Group](/entry/geo-group/)
 - **Contract value**: ~$1 billion
 - **Status**: Operational (reactivated 2025)
 
 ## Context
 
-Delaney Hall is one of four [[geo-group|GEO Group]] facilities reactivated in 2025, together adding approximately 6,000 beds to GEO's ICE capacity (from ~20,000 to ~26,000 beds). The facility was prominently covered by The City NYC as part of GEO Group's "unprecedented" revenue expectations.
+Delaney Hall is one of four [GEO Group](/entry/geo-group/) facilities reactivated in 2025, together adding approximately 6,000 beds to GEO's ICE capacity (from ~20,000 to ~26,000 beds). The facility was prominently covered by The City NYC as part of GEO Group's "unprecedented" revenue expectations.
 
 ## Financial Context
 
-[[geo-group|GEO Group]] reported **$254 million in profit** in 2025 (a ~700% increase over 2024) and projects **~$3 billion in 2026 revenue**. The Delaney Hall contract is a significant contributor.
+[GEO Group](/entry/geo-group/) reported **$254 million in profit** in 2025 (a ~700% increase over 2024) and projects **~$3 billion in 2026 revenue**. The Delaney Hall contract is a significant contributor.
 
 ## Sources
 

@@ -7,6 +7,7 @@ fips: ""
 state: "VA"
 county: ""
 repo_path: "kb/287g/287-g-jem-virginia-department-of-corrections-va.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

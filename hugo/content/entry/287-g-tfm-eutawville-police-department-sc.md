@@ -7,6 +7,7 @@ fips: "45075"
 state: "SC"
 county: "Orangeburg County"
 repo_path: "kb/287g/287-g-tfm-eutawville-police-department-sc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

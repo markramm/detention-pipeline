@@ -7,6 +7,7 @@ fips: "04017"
 state: "AZ"
 county: "Navajo"
 repo_path: "kb/budget/navajo-county-az-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

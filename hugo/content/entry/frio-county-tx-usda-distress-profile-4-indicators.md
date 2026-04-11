@@ -7,6 +7,7 @@ fips: "48163"
 state: "TX"
 county: "Frio"
 repo_path: "kb/budget/frio-county-tx-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

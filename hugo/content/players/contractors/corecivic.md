@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/corecivic.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Brentwood, Tennessee"
 founded: "1983"
 status: "active"
 ---
-
-# CoreCivic, Inc.
 
 CoreCivic (formerly Corrections Corporation of America / CCA) is the second-largest private prison and immigration detention company in the United States. Founded in Nashville, Tennessee in 1983, it was the first company to design, build, finance, and manage prisons for government agencies.
 
@@ -30,8 +29,8 @@ CoreCivic (formerly Corrections Corporation of America / CCA) is the second-larg
 
 ## Key ICE Facility Contracts (2025-2026)
 
-- **[[california-city-ca-corecivic|California City Immigration Processing Center]]** -- 2,560 beds, ~$130M annual revenue. Began receiving detainees August 27, 2025.
-- **[[leavenworth-ks-corecivic|Midwest Regional Reception Center (Leavenworth, Kansas)]]** -- New 24-month contract commenced September 7, 2025, ~$60M annual revenue.
+- **[California City Immigration Processing Center](/entry/california-city-ca-corecivic/)** -- 2,560 beds, ~$130M annual revenue. Began receiving detainees August 27, 2025.
+- **[Midwest Regional Reception Center (Leavenworth, Kansas)](/entry/leavenworth-ks-corecivic/)** -- New 24-month contract commenced September 7, 2025, ~$60M annual revenue.
 - **Diamondback Correctional Facility (Oklahoma)** -- ~$100M annual revenue. Detainees expected to arrive Q1 2026.
 - Total of 6,353 new beds across four reactivated facilities (all previously idle)
 - CoreCivic has informed ICE it can provide nearly 13,000 additional beds
@@ -50,7 +49,7 @@ ACLU FOIA litigation revealed CoreCivic submitted proposals to ICE Requests for 
 ## Political Activity
 
 - 6 of 10 CoreCivic lobbyists in 2024 previously held government positions
-- Lobbied alongside [[geo-group|GEO Group]] to force banks to provide financing to private prison companies
+- Lobbied alongside [GEO Group](/entry/geo-group/) to force banks to provide financing to private prison companies
 - Significant congressional donations
 
 ## 55% ICE Contract Increase

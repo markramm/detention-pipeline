@@ -7,6 +7,7 @@ fips: "04025"
 state: "AZ"
 county: "Yavapai County"
 repo_path: "kb/287g/287-g-jem-yavapai-county-sheriff-s-office-az.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

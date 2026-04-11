@@ -7,6 +7,7 @@ fips: "48091"
 state: "TX"
 county: "Comal County"
 repo_path: "kb/287g/287-g-wso-comal-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

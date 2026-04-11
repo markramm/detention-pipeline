@@ -7,6 +7,7 @@ fips: "22105"
 state: "LA"
 county: "Tangipahoa Parish"
 repo_path: "kb/287g/287-g-tfm-hammond-police-department-la.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

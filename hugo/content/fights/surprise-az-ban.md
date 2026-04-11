@@ -7,6 +7,7 @@ fips: ""
 state: "Arizona"
 county: "Maricopa"
 repo_path: "kb/industry/county-fights/surprise-az-ban.md"
+lastmod: "2026-04-06"
 type: "fights"
 layout: "single"
 status: "operational-despite-opposition"
@@ -15,13 +16,11 @@ vote_tally: ""
 facility: "surprise-az-warehouse"
 ---
 
-# Surprise, Arizona: The Limits of Local Bans
-
 Surprise, AZ passed a five-year ban on detention facilities after learning DHS had purchased a $70M+ warehouse without notifying the city council. The ban is **unenforceable** — federal preemption means local democratic processes (city councils, zoning boards, ballot measures) cannot prevent the federal government from using property it owns.
 
 **The lesson:** You can't ban the federal government from using a building it already bought. The Kansas City model (pressuring the seller before the sale closes) works; the Surprise model (banning after purchase) doesn't.
 
-DHS later scaled back the planned capacity of the [[surprise-az-warehouse]], but the facility remains in federal hands.
+DHS later scaled back the planned capacity of the [surprise-az-warehouse](/entry/surprise-az-warehouse/), but the facility remains in federal hands.
 
 ## Sources
 

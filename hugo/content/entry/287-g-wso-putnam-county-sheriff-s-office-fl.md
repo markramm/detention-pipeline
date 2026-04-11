@@ -7,6 +7,7 @@ fips: "12107"
 state: "FL"
 county: "Putnam County"
 repo_path: "kb/287g/287-g-wso-putnam-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

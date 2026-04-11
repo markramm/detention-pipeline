@@ -1,5 +1,5 @@
 ---
-title: "THE KINETIC GROUP SALES LLC — ICE BLAIR, PA $1,036,556"
+title: "The Kinetic Group Sales Llc — Ice Blair, Pa $1,036,556"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "42013"
 state: "PA"
 county: "BLAIR"
 repo_path: "kb/anc/the-kinetic-group-sales-llc-ice-blair-pa-1036556.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

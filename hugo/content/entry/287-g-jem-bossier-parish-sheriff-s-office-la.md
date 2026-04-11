@@ -7,6 +7,7 @@ fips: "22015"
 state: "LA"
 county: "Bossier Parish"
 repo_path: "kb/287g/287-g-jem-bossier-parish-sheriff-s-office-la.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

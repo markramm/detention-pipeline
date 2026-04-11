@@ -7,6 +7,7 @@ fips: "12121"
 state: "FL"
 county: "Suwannee County"
 repo_path: "kb/287g/287-g-wso-suwannee-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

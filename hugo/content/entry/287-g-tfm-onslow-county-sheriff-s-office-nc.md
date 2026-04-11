@@ -7,6 +7,7 @@ fips: "37133"
 state: "NC"
 county: "Onslow County"
 repo_path: "kb/287g/287-g-tfm-onslow-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

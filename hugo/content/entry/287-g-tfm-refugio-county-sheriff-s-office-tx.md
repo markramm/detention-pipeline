@@ -7,6 +7,7 @@ fips: "48391"
 state: "TX"
 county: "Refugio County"
 repo_path: "kb/287g/287-g-tfm-refugio-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

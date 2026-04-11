@@ -7,6 +7,7 @@ fips: "29186"
 state: "MO"
 county: "Ste. Genevieve County"
 repo_path: "kb/287g/287-g-tfm-ste-genevieve-county-sheriff-s-office-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

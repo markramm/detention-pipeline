@@ -7,6 +7,7 @@ fips: "16055"
 state: "ID"
 county: "Kootenai County"
 repo_path: "kb/287g/287-g-wso-kootenai-county-sheriff-s-office-id.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

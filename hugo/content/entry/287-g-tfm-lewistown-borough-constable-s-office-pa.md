@@ -7,6 +7,7 @@ fips: ""
 state: "PA"
 county: "Miffin County"
 repo_path: "kb/287g/287-g-tfm-lewistown-borough-constable-s-office-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

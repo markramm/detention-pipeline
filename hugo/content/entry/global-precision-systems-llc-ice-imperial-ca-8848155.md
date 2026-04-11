@@ -1,5 +1,5 @@
 ---
-title: "GLOBAL PRECISION SYSTEMS, LLC — ICE IMPERIAL, CA $8,848,155"
+title: "Global Precision Systems, Llc — Ice Imperial, Ca $8,848,155"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06025"
 state: "CA"
 county: "IMPERIAL"
 repo_path: "kb/anc/global-precision-systems-llc-ice-imperial-ca-8848155.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

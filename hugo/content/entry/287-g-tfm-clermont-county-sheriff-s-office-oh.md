@@ -7,6 +7,7 @@ fips: "39025"
 state: "OH"
 county: "Clermont County"
 repo_path: "kb/287g/287-g-tfm-clermont-county-sheriff-s-office-oh.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

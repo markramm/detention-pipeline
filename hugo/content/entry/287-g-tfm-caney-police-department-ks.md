@@ -7,6 +7,7 @@ fips: "20125"
 state: "KS"
 county: "Montgomery"
 repo_path: "kb/287g/287-g-tfm-caney-police-department-ks.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

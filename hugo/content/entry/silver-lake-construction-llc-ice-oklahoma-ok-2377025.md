@@ -1,5 +1,5 @@
 ---
-title: "SILVER LAKE CONSTRUCTION LLC — ICE OKLAHOMA, OK $2,377,025"
+title: "Silver Lake Construction Llc — Ice Oklahoma, Ok $2,377,025"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "40109"
 state: "OK"
 county: "OKLAHOMA"
 repo_path: "kb/anc/silver-lake-construction-llc-ice-oklahoma-ok-2377025.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,17 +7,16 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/notes/resistance-tactics-what-works.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---
-
-# Resistance Tactics: What Works
 
 Across 12+ community fights against ICE detention facilities in 2025-2026, clear patterns have emerged about which tactics succeed and which don't. This note is designed to be useful for communities discovering they're next.
 
 ## The Core Insight
 
-**Federal preemption means you can't ban a federal facility on federal property.** Once ICE purchases a warehouse, local bans are unenforceable ([[surprise-az-ban]]). The fight must happen **before the purchase closes** or shift to **infrastructure and legal** tactics after.
+**Federal preemption means you can't ban a federal facility on federal property.** Once ICE purchases a warehouse, local bans are unenforceable ([surprise-az-ban](/entry/surprise-az-ban/)). The fight must happen **before the purchase closes** or shift to **infrastructure and legal** tactics after.
 
 ## Tactics That Have Worked
 
@@ -25,9 +24,9 @@ Across 12+ community fights against ICE detention facilities in 2025-2026, clear
 
 **The most effective tactic.** If the property owner won't sell, ICE can't buy.
 
-- [[kansas-city-mo-platform-ventures]]: Mass protests, student walkouts, general strike, Port KC severing ties → Platform Ventures withdrew
-- [[shakopee-mn-rejected]]: Owner declined deal after community opposition
-- [[hanover-va-terminated]]: Owners terminated deal
+- [kansas-city-mo-platform-ventures](/entry/kansas-city-mo-platform-ventures/): Mass protests, student walkouts, general strike, Port KC severing ties → Platform Ventures withdrew
+- [shakopee-mn-rejected](/entry/shakopee-mn-rejected/): Owner declined deal after community opposition
+- [hanover-va-terminated](/entry/hanover-va-terminated/): Owners terminated deal
 
 **When to use:** As soon as you learn ICE is in discussions with a property owner. Speed matters — once the sale closes, this option disappears.
 
@@ -37,8 +36,8 @@ Across 12+ community fights against ICE detention facilities in 2025-2026, clear
 
 **The second line of defense.** Cities control water, sewer, and electrical connections. A detention facility can't operate without them.
 
-- [[social-circle-ga-water-shutoff]]: City locked the water meter — facility needs 1M gal/day sewage capacity, plant handles 660K. No water, no facility.
-- [[salt-lake-city-ut-mega-center-fight]]: City Council voted to restrict water use at the facility.
+- [social-circle-ga-water-shutoff](/entry/social-circle-ga-water-shutoff/): City locked the water meter — facility needs 1M gal/day sewage capacity, plant handles 660K. No water, no facility.
+- [salt-lake-city-ut-mega-center-fight](/entry/salt-lake-city-ut-mega-center-fight/): City Council voted to restrict water use at the facility.
 
 **When to use:** After federal purchase, when local bans are unenforceable. Strongest when there's a legitimate infrastructure constraint (capacity exceeded, contamination).
 
@@ -48,8 +47,8 @@ Across 12+ community fights against ICE detention facilities in 2025-2026, clear
 
 **AG lawsuits and governor opposition** create legal obstacles and delay.
 
-- [[romulus-mi-warehouse-fight]]: Michigan AG Nessel + City of Romulus filed suit (near schools, floodplain, inadequate infrastructure)
-- [[roxbury-nj-lawsuit]]: Governor + AG + Township all filed suit
+- [romulus-mi-warehouse-fight](/entry/romulus-mi-warehouse-fight/): Michigan AG Nessel + City of Romulus filed suit (near schools, floodplain, inadequate infrastructure)
+- [roxbury-nj-lawsuit](/entry/roxbury-nj-lawsuit/): Governor + AG + Township all filed suit
 
 **When to use:** When there are legitimate legal grounds (zoning, environmental, proximity to schools, infrastructure). Strongest with state AG involvement.
 
@@ -57,7 +56,7 @@ Across 12+ community fights against ICE detention facilities in 2025-2026, clear
 
 **Contaminated sites** give communities a non-political argument against facilities.
 
-- [[bradford-county-fl-douglas-building]]: 15 years of VOC groundwater contamination, spreading to 30 properties. Sabot's own proposal lists "vapor intrusion" as an issue.
+- [bradford-county-fl-douglas-building](/entry/bradford-county-fl-douglas-building/): 15 years of VOC groundwater contamination, spreading to 30 properties. Sabot's own proposal lists "vapor intrusion" as an issue.
 
 **When to use:** Check the FDEP/state environmental agency records for ANY contamination history at the proposed site. Many former industrial warehouses have environmental issues.
 
@@ -73,7 +72,7 @@ Across 12+ community fights against ICE detention facilities in 2025-2026, clear
 
 ### Local Bans After Purchase
 
-[[surprise-az-ban]]: Surprise passed a 5-year ban. Unenforceable. Federal preemption means the federal government can use property it owns for any federal purpose.
+[surprise-az-ban](/entry/surprise-az-ban/): Surprise passed a 5-year ban. Unenforceable. Federal preemption means the federal government can use property it owns for any federal purpose.
 
 ### Protests Alone (Without Economic or Legal Pressure)
 
@@ -85,7 +84,7 @@ Protests raise awareness but don't stop construction unless coupled with:
 
 ## The IGSA Model Is Different
 
-The county-led IGSA model ([[bradford-county-fl-douglas-building]], [[sabot-consulting]]) goes through local democratic processes — county commission votes. This means:
+The county-led IGSA model ([bradford-county-fl-douglas-building](/entry/bradford-county-fl-douglas-building/), [sabot-consulting](/entry/sabot-consulting/)) goes through local democratic processes — county commission votes. This means:
 
 - **You CAN fight it through the commission** (unlike federal purchases)
 - **The sheriff is the pressure point** (not ICE or a developer)
@@ -98,7 +97,7 @@ The IGSA model is harder to fight in some ways (local officials want the jobs/re
 
 **Mass public opposition** can slow the political momentum even when it can't legally block a facility.
 
-- [[palm-beach-fl-belly-of-the-beast]]: Student walkouts at 5+ high schools (Feb 16, 2026), 200+ "ICE kidnapped a community member here" signs posted throughout Lake Worth Beach, packed public meetings, congressional roundtable.
+- [palm-beach-fl-belly-of-the-beast](/entry/palm-beach-fl-belly-of-the-beast/): Student walkouts at 5+ high schools (Feb 16, 2026), 200+ "ICE kidnapped a community member here" signs posted throughout Lake Worth Beach, packed public meetings, congressional roundtable.
 - Kansas City: Student walkouts, general strike threat.
 
 **When to use:** Alongside legal and infrastructure tactics. Direct action alone doesn't stop facilities, but it raises the political cost for sheriffs and commissioners who face re-election.
@@ -122,8 +121,8 @@ Some sheriffs sign 287(g) under political duress but implement minimally.
 6. ICE posts job listings in your area (check usajobs.gov)
 7. **287(g) Task Force Model agreement** — if your county signed TFM (not just jail-based), street-level enforcement is coming
 8. **State immigration enforcement grants** — check if your sheriff applied for state funding (Florida: $60M program)
-9. **County attorney or prosecutor signs independent ICE agreements** — see [[pinal-county-az-rogue-attorney]] for what happens when this goes unchecked
+9. **County attorney or prosecutor signs independent ICE agreements** — see [pinal-county-az-rogue-attorney](/entry/pinal-county-az-rogue-attorney/) for what happens when this goes unchecked
 
 ## Resources
 
-See [[tracking-resources]] for maps, flight monitors, FOIA templates, and investigative journalism contacts.
+See [tracking-resources](/entry/tracking-resources/) for maps, flight monitors, FOIA templates, and investigative journalism contacts.

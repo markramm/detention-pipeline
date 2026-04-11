@@ -7,6 +7,7 @@ fips: "16053"
 state: "ID"
 county: "Jerome County"
 repo_path: "kb/287g/287-g-tfm-idaho-state-police-department-id.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

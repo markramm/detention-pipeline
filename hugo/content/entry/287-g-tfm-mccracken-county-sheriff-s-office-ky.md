@@ -7,6 +7,7 @@ fips: "21145"
 state: "KY"
 county: "McCracken County"
 repo_path: "kb/287g/287-g-tfm-mccracken-county-sheriff-s-office-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

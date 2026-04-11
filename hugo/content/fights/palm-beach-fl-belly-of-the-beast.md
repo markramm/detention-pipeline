@@ -7,6 +7,7 @@ fips: ""
 state: "Florida"
 county: "Palm Beach"
 repo_path: "kb/industry/county-fights/palm-beach-fl-belly-of-the-beast.md"
+lastmod: "2026-04-10"
 type: "fights"
 layout: "single"
 status: "operational-despite-opposition"
@@ -14,8 +15,6 @@ outcome: ""
 vote_tally: ""
 facility: "null"
 ---
-
-# Palm Beach County: "The Belly of the Beast"
 
 ## The Situation
 
@@ -34,7 +33,7 @@ Palm Beach County Main Detention Center houses federal detainees at **$122.00/da
 
 ## The Hub-and-Spoke Model
 
-Palm Beach operates as a "spoke" in ICE's hub-and-spoke model: local jails make arrests and short-term holds before transport to larger regional facilities ([[baker-county-fl-detention|Baker County]], [[glades-county-fl-detention|Glades County]], Krome, [[dade-collier-alligator-alcatraz|Alligator Alcatraz]]). The massive arrest volume creates downstream detention demand that feeds the entire Florida detention network.
+Palm Beach operates as a "spoke" in ICE's hub-and-spoke model: local jails make arrests and short-term holds before transport to larger regional facilities ([Baker County](/entry/baker-county-fl-detention/), [Glades County](/entry/glades-county-fl-detention/), Krome, [Alligator Alcatraz](/entry/dade-collier-alligator-alcatraz/)). The massive arrest volume creates downstream detention demand that feeds the entire Florida detention network.
 
 ## Community Resistance
 

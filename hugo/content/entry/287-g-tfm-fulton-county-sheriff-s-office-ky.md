@@ -7,6 +7,7 @@ fips: "21075"
 state: "KY"
 county: "Fulton County"
 repo_path: "kb/287g/287-g-tfm-fulton-county-sheriff-s-office-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "OLD HARBOR SOLUTIONS LLC — ICE CHATTAHOOCHEE, GA $4,815,839"
+title: "Old Harbor Solutions Llc — Ice Chattahoochee, Ga $4,815,839"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "13053"
 state: "GA"
 county: "CHATTAHOOCHEE"
 repo_path: "kb/anc/old-harbor-solutions-llc-ice-chattahoochee-ga-4815839.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

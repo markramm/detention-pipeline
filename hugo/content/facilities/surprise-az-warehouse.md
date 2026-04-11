@@ -7,6 +7,7 @@ fips: ""
 state: "Arizona"
 county: "Maricopa"
 repo_path: "kb/industry/facilities/surprise-az-warehouse.md"
+lastmod: "2026-04-08"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal) — contractor lacks detention background"
 status: "under-construction"
 bed_count: "550"
 ---
-
-# Surprise AZ Warehouse — ICE Regional Processing Center
 
 ## Overview
 
@@ -31,7 +30,7 @@ In January 2026, ICE purchased a warehouse in Surprise, Arizona for more than **
 - **Facility type**: Regional processing center
 - **Target completion**: FY2026
 
-The city of Surprise passed a 5-year ban on detention facilities in response (see [[surprise-az-ban]]), though it is unenforceable due to federal preemption.
+The city of Surprise passed a 5-year ban on detention facilities in response (see [surprise-az-ban](/entry/surprise-az-ban/)), though it is unenforceable due to federal preemption.
 
 ## Contractor Concerns
 

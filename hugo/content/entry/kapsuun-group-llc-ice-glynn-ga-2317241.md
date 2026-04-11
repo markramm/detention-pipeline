@@ -1,5 +1,5 @@
 ---
-title: "KAPSUUN GROUP, LLC — ICE GLYNN, GA $2,317,241"
+title: "Kapsuun Group, Llc — Ice Glynn, Ga $2,317,241"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "13127"
 state: "GA"
 county: "GLYNN"
 repo_path: "kb/anc/kapsuun-group-llc-ice-glynn-ga-2317241.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

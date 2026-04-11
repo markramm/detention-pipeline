@@ -7,6 +7,7 @@ fips: "12086"
 state: "FL"
 county: "Miami-Dade"
 repo_path: "kb/real-estate/12805-nw-42nd-ave-miami-dade-fl-235900-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

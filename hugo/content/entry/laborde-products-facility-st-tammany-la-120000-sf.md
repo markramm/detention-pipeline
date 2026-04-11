@@ -7,6 +7,7 @@ fips: "22103"
 state: "LA"
 county: "St. Tammany"
 repo_path: "kb/real-estate/laborde-products-facility-st-tammany-la-120000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "48435"
 state: "TX"
 county: "Sutton County"
 repo_path: "kb/287g/287-g-tfm-sutton-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

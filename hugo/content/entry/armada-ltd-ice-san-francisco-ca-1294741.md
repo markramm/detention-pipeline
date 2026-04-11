@@ -1,5 +1,5 @@
 ---
-title: "ARMADA, LTD. — ICE SAN FRANCISCO, CA $1,294,741"
+title: "Armada, Ltd. — Ice San Francisco, Ca $1,294,741"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "06075"
 state: "CA"
 county: "SAN FRANCISCO"
 repo_path: "kb/anc/armada-ltd-ice-san-francisco-ca-1294741.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

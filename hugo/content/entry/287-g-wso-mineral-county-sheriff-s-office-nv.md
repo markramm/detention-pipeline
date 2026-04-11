@@ -7,6 +7,7 @@ fips: "32021"
 state: "NV"
 county: "Mineral County"
 repo_path: "kb/287g/287-g-wso-mineral-county-sheriff-s-office-nv.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

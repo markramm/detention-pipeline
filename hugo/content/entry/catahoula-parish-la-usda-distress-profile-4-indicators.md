@@ -7,6 +7,7 @@ fips: "22025"
 state: "LA"
 county: "Catahoula"
 repo_path: "kb/budget/catahoula-parish-la-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

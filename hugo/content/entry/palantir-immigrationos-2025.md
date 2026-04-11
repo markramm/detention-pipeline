@@ -7,11 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contracts/palantir-immigrationos-2025.md"
+lastmod: "2026-04-06"
 type: "entry"
 layout: "single"
 ---
-
-# Palantir ImmigrationOS Contracts (2025)
 
 ## Prototype Development Contract — $30M
 
@@ -30,7 +29,7 @@ A second **$29.9 million** task order was awarded September 25, 2025, for renewa
 
 ## Sole-Source Justification
 
-Both contracts were awarded under limited-source justification, with ICE citing [[palantir-technologies|Palantir]] as the sole company capable of providing the required services.
+Both contracts were awarded under limited-source justification, with ICE citing [Palantir](/entry/palantir-technologies/) as the sole company capable of providing the required services.
 
 ## Sources
 

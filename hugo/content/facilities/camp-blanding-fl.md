@@ -7,6 +7,7 @@ fips: ""
 state: "Florida"
 county: "Clay"
 repo_path: "kb/industry/facilities/camp-blanding-fl.md"
+lastmod: "2026-04-06"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "Florida Division of Emergency Management / National Guard"
 status: "paused"
 bed_count: "2,000"
 ---
-
-# Camp Blanding FL — "Deportation Depot" ICE Detention Center
 
 ## Overview
 
@@ -26,7 +25,7 @@ Governor DeSantis announced plans for a second Florida immigration detention fac
 - **Location**: Camp Blanding Joint Training Center, Clay County
 - **Planned capacity**: 2,000 beds
 - **Operator**: Florida state (Division of Emergency Management)
-- **Status**: **Paused** — on hold until [[dade-collier-alligator-alcatraz|Alligator Alcatraz]] fills up
+- **Status**: **Paused** — on hold until [Alligator Alcatraz](/entry/dade-collier-alligator-alcatraz/) fills up
 - **Construction contracts**: State selecting vendors as of July 2025
 
 ## Requirements Before Opening
@@ -39,7 +38,7 @@ Four areas require improvement:
 
 ## Context
 
-Together with [[dade-collier-alligator-alcatraz|Alligator Alcatraz]] (3,000-5,000 capacity), Camp Blanding would give Florida the ability to detain about **5,000 undocumented immigrants** at any given time under state-operated facilities. DeSantis has stated he is willing to activate Blanding once [[dade-collier-alligator-alcatraz|Alligator Alcatraz]] reaches capacity.
+Together with [Alligator Alcatraz](/entry/dade-collier-alligator-alcatraz/) (3,000-5,000 capacity), Camp Blanding would give Florida the ability to detain about **5,000 undocumented immigrants** at any given time under state-operated facilities. DeSantis has stated he is willing to activate Blanding once [Alligator Alcatraz](/entry/dade-collier-alligator-alcatraz/) reaches capacity.
 
 ## Sources
 

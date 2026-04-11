@@ -7,6 +7,7 @@ fips: "47129"
 state: "TN"
 county: "Morgan County"
 repo_path: "kb/287g/287-g-jem-morgan-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

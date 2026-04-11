@@ -7,6 +7,7 @@ fips: "21031"
 state: "KY"
 county: "Butler County"
 repo_path: "kb/287g/287-g-wso-butler-county-sheriff-s-office-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

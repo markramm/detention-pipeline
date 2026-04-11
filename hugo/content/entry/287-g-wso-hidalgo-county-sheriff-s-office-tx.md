@@ -7,6 +7,7 @@ fips: "48215"
 state: "TX"
 county: "Hidalgo County"
 repo_path: "kb/287g/287-g-wso-hidalgo-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: ""
 state: "Texas"
 county: "El Paso"
 repo_path: "kb/industry/facilities/socorro-tx-warehouse.md"
+lastmod: "2026-04-08"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal)"
 status: "purchased"
 bed_count: "unknown"
 ---
-
-# Socorro TX Warehouse — ICE Processing Center
 
 ## Overview
 
@@ -30,7 +29,7 @@ DHS purchased a warehouse in Socorro, Texas for **$123 million** — a property 
 
 ## Context
 
-Socorro is in the El Paso metro area, near the [[el-paso-tx-eastwind-mega-center|El Paso Eastwind Logistics Center]] mega-center. The extreme overpayment pattern documented by Project Salt Box shows that rushed, defense-channel procurement without normal price competition consistently produces purchases at multiples of market value.
+Socorro is in the El Paso metro area, near the [El Paso Eastwind Logistics Center](/entry/el-paso-tx-eastwind-mega-center/) mega-center. The extreme overpayment pattern documented by Project Salt Box shows that rushed, defense-channel procurement without normal price competition consistently produces purchases at multiples of market value.
 
 ## Sources
 

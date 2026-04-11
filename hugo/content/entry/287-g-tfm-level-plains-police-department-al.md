@@ -7,6 +7,7 @@ fips: ""
 state: "AL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-level-plains-police-department-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

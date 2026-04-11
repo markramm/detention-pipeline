@@ -7,6 +7,7 @@ fips: "20159"
 state: "KS"
 county: "Rice County"
 repo_path: "kb/287g/287-g-wso-rice-county-sheriff-s-office-ks.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

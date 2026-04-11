@@ -7,6 +7,7 @@ fips: "48303"
 state: "TX"
 county: "Lubbock County"
 repo_path: "kb/287g/287-g-jem-lubbock-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

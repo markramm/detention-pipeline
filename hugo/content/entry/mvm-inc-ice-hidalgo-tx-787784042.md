@@ -7,6 +7,7 @@ fips: "48215"
 state: "TX"
 county: "HIDALGO"
 repo_path: "kb/anc/mvm-inc-ice-hidalgo-tx-787784042.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

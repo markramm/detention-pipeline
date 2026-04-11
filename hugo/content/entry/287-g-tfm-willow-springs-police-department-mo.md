@@ -7,6 +7,7 @@ fips: "29091"
 state: "MO"
 county: "Howell County"
 repo_path: "kb/287g/287-g-tfm-willow-springs-police-department-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

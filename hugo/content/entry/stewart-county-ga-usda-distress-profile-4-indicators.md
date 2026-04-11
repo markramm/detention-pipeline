@@ -7,6 +7,7 @@ fips: "13259"
 state: "GA"
 county: "Stewart"
 repo_path: "kb/budget/stewart-county-ga-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

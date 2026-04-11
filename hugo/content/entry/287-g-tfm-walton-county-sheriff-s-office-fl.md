@@ -7,6 +7,7 @@ fips: "12131"
 state: "FL"
 county: "Walton County"
 repo_path: "kb/287g/287-g-tfm-walton-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

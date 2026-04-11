@@ -7,6 +7,7 @@ fips: "48355"
 state: "TX"
 county: "Nueces County"
 repo_path: "kb/287g/287-g-tfm-nueces-county-constable-precinct-4-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

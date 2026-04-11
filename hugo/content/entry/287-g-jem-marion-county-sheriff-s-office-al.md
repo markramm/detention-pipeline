@@ -7,6 +7,7 @@ fips: "01093"
 state: "AL"
 county: "Marion County"
 repo_path: "kb/287g/287-g-jem-marion-county-sheriff-s-office-al.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

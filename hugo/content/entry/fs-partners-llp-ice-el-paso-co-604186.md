@@ -1,5 +1,5 @@
 ---
-title: "FS PARTNERS, LLP — ICE EL PASO, CO $604,186"
+title: "Fs Partners, Llp — Ice El Paso, Co $604,186"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "08041"
 state: "CO"
 county: "EL PASO"
 repo_path: "kb/anc/fs-partners-llp-ice-el-paso-co-604186.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

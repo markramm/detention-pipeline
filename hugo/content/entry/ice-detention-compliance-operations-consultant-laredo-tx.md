@@ -7,6 +7,7 @@ fips: "48479"
 state: "TX"
 county: "Webb"
 repo_path: "kb/jobs/ice-detention-compliance-operations-consultant-laredo-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

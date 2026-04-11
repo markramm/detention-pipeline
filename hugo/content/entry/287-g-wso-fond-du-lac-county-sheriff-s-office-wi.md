@@ -7,6 +7,7 @@ fips: "55039"
 state: "WI"
 county: "Fond du Lac County"
 repo_path: "kb/287g/287-g-wso-fond-du-lac-county-sheriff-s-office-wi.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

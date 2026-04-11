@@ -7,6 +7,7 @@ fips: "48071"
 state: "TX"
 county: "Chambers County"
 repo_path: "kb/287g/287-g-jem-chambers-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

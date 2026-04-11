@@ -7,6 +7,7 @@ fips: "13157"
 state: "GA"
 county: "Jackson"
 repo_path: "kb/real-estate/jackson-county-industrial-park-jackson-ga-750000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

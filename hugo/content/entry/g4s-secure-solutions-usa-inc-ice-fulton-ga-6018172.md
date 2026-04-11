@@ -1,5 +1,5 @@
 ---
-title: "G4S SECURE SOLUTIONS (USA) INC. — ICE FULTON, GA $6,018,172"
+title: "G4S Secure Solutions (Usa) Inc. — Ice Fulton, Ga $6,018,172"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "13121"
 state: "GA"
 county: "FULTON"
 repo_path: "kb/anc/g4s-secure-solutions-usa-inc-ice-fulton-ga-6018172.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

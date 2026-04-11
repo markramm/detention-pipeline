@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/constellis-holdings.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Reston, Virginia"
 founded: "2014 (formed from merger of Academi/Blackwater and Triple Canopy)"
 status: "active"
 ---
-
-# Constellis Holdings
 
 Constellis Holdings is a private military and security contractor that traces its corporate lineage directly to Erik Prince's Blackwater -- the mercenary firm infamous for the 2007 Nisour Square massacre in Baghdad. Now, Constellis hunts immigrants for ICE.
 
@@ -29,7 +28,7 @@ Constellis Holdings is a private military and security contractor that traces it
 
 ## ICE Skip Tracing Contract
 
-Constellis is one of 13 vendors in the [[ice-skip-tracing-2025]] program. On December 15, 2025, ICE signed a contract with Constellis to provide "skip tracing" services:
+Constellis is one of 13 vendors in the [ice-skip-tracing-2025](/entry/ice-skip-tracing-2025/) program. On December 15, 2025, ICE signed a contract with Constellis to provide "skip tracing" services:
 - **Initial payment:** $1.5 million
 - **Potential ceiling:** Over $113 million
 - **Mission:** Locating immigrants with deportation orders so ICE ERO can apprehend them
@@ -40,7 +39,7 @@ Constellis is one of 13 vendors in the [[ice-skip-tracing-2025]] program. On Dec
 
 The Constellis contract represents a crossing of a line: military contractors trained for overseas combat zones now conducting domestic surveillance of immigrant communities. The lack of DHS credentials means these operatives are functionally indistinguishable from private stalkers -- conducting surveillance on homes and workplaces with no visible authority.
 
-This is one of 13 skip-tracing contracts awarded by ICE in December 2025, collectively worth up to **$1.2 billion** over two years, targeting up to **1.5 million immigrants**. The Blackwater-to-ICE pipeline connects the military-industrial complex to immigration enforcement -- a pattern that extends across the surveillance-industrial complex. Other skip-tracing vendors include [[geo-group]], [[capgemini-government-solutions]], and [[sabot-consulting]].
+This is one of 13 skip-tracing contracts awarded by ICE in December 2025, collectively worth up to **$1.2 billion** over two years, targeting up to **1.5 million immigrants**. The Blackwater-to-ICE pipeline connects the military-industrial complex to immigration enforcement -- a pattern that extends across the surveillance-industrial complex. Other skip-tracing vendors include [geo-group](/entry/geo-group/), [capgemini-government-solutions](/entry/capgemini-government-solutions/), and [sabot-consulting](/entry/sabot-consulting/).
 
 ## Sources
 

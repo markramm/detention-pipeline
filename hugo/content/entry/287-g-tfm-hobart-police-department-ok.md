@@ -7,6 +7,7 @@ fips: "40075"
 state: "OK"
 county: "Kiowa County"
 repo_path: "kb/287g/287-g-tfm-hobart-police-department-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

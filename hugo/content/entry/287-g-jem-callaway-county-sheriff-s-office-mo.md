@@ -7,6 +7,7 @@ fips: "29027"
 state: "MO"
 county: "Callaway County"
 repo_path: "kb/287g/287-g-jem-callaway-county-sheriff-s-office-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

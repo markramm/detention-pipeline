@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/sabot-consulting.md"
+lastmod: "2026-04-10"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -15,8 +16,6 @@ headquarters: "Folsom, California"
 founded: "2000"
 status: "active"
 ---
-
-# Sabot Consulting
 
 Sabot Technologies, Inc. (dba Sabot Consulting) is a Folsom, California consulting firm that markets what it calls the "Office of ICE Integration" — a service it describes as "the only dedicated Criminal Justice Compliance and ICE Integration practice in the country." The firm advises county sheriffs on building and operating ICE detention facilities through Intergovernmental Service Agreements (IGSAs).
 
@@ -37,8 +36,8 @@ The phrase "managing the noise" appears repeatedly. "NGO scrutiny" means immigra
 
 ## Known Facilities and Proposals
 
-- **[[bradford-county-douglas-building|Bradford County, FL]]** — 3,000-bed "detention campus" proposal (Dec 2025 briefing package). County-led IGSA, phased buildout over 38 weeks, $239M/year at full capacity.
-- **[[glades-county-fl-detention|Glades County, FL]]** — Client profile featured in Sabot newsletter. ICE reinstated IGSA April 3, 2025, up to 500 beds.
+- **[Bradford County, FL](/entry/bradford-county-douglas-building/)** — 3,000-bed "detention campus" proposal (Dec 2025 briefing package). County-led IGSA, phased buildout over 38 weeks, $239M/year at full capacity.
+- **[Glades County, FL](/entry/glades-county-fl-detention/)** — Client profile featured in Sabot newsletter. ICE reinstated IGSA April 3, 2025, up to 500 beds.
 - **Utah and Wyoming** — ACLU FOIA revealed Sabot submitted proposals to construct new facilities, citing "potentially problematic statutory requirements" in Utah and including a Circuit Court boundaries map.
 
 ## The Business Model
@@ -55,7 +54,7 @@ Sabot attended the **National Sheriffs' Association Annual Conference in Fort La
 
 ## The Warehouse Pause as Accelerant
 
-With DHS Secretary Mullin pausing federal warehouse purchases (April 1, 2026) and 13 planned purchases killed by community opposition, the county-led IGSA model — Sabot's bread and butter — becomes the **path of least resistance** for ICE to reach its bed targets. New county proposals should be expected within 60-90 days of the pause. See [[igsa-model-shift-warehouse-pause-accelerant]].
+With DHS Secretary Mullin pausing federal warehouse purchases (April 1, 2026) and 13 planned purchases killed by community opposition, the county-led IGSA model — Sabot's bread and butter — becomes the **path of least resistance** for ICE to reach its bed targets. New county proposals should be expected within 60-90 days of the pause. See [igsa-model-shift-warehouse-pause-accelerant](/entry/igsa-model-shift-warehouse-pause-accelerant/).
 
 ## Legal Questions
 

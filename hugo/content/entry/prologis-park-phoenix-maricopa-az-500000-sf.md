@@ -7,6 +7,7 @@ fips: "04013"
 state: "AZ"
 county: "Maricopa"
 repo_path: "kb/real-estate/prologis-park-phoenix-maricopa-az-500000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

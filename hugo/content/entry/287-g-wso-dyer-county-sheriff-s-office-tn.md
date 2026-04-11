@@ -7,6 +7,7 @@ fips: "47045"
 state: "TN"
 county: "Dyer County"
 repo_path: "kb/287g/287-g-wso-dyer-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

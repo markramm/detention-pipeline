@@ -7,6 +7,7 @@ fips: "13233"
 state: "GA"
 county: "Polk County"
 repo_path: "kb/287g/287-g-jem-polk-county-sheriff-s-office-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

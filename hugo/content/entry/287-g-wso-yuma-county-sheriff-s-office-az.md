@@ -7,6 +7,7 @@ fips: "04027"
 state: "AZ"
 county: "Yuma County"
 repo_path: "kb/287g/287-g-wso-yuma-county-sheriff-s-office-az.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

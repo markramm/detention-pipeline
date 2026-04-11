@@ -7,6 +7,7 @@ fips: "22051"
 state: "LA"
 county: "Jefferson"
 repo_path: "kb/real-estate/prologis-park-new-orleans-jefferson-la-300000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

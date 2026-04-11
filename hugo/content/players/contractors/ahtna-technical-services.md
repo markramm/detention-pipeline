@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/ahtna-technical-services.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -16,13 +17,11 @@ founded: "1972"
 status: "active"
 ---
 
-# Ahtna Technical Services
-
 Ahtna Technical Services, LLC (ATSL) is a subsidiary of Ahtna, Inc., an Alaska Native Regional Corporation (ANRC). Through its family of companies, Ahtna has operated ICE detention facilities since at least 2002, using the federal 8(a) contracting program designed for small disadvantaged businesses. This structure allows ICE to award large sole-source contracts that might otherwise require competitive bidding.
 
 ## ICE Detention Operations
 
-- **Port Isabel Detention Center (Texas)** -- Ahtna has staffed this facility (capacity ~1,200) for approximately a decade. Port Isabel is located near the [[alexandria-la-staging-facility]] region used for ICE staging operations.
+- **Port Isabel Detention Center (Texas)** -- Ahtna has staffed this facility (capacity ~1,200) for approximately a decade. Port Isabel is located near the [alexandria-la-staging-facility](/entry/alexandria-la-staging-facility/) region used for ICE staging operations.
 - **Houston Contract Detention Facility** -- Operations and guard services
 - **Recent contract:** $35 million for guard services at a Texas facility (2025)
 - Historical contract value reportedly reached $800 million

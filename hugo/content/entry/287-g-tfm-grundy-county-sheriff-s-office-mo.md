@@ -7,6 +7,7 @@ fips: "29079"
 state: "MO"
 county: "Grundy County"
 repo_path: "kb/287g/287-g-tfm-grundy-county-sheriff-s-office-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

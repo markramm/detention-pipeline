@@ -7,6 +7,7 @@ fips: "05031"
 state: "AR"
 county: "Craighead County"
 repo_path: "kb/287g/287-g-tfm-cash-police-department-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

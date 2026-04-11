@@ -7,6 +7,7 @@ fips: "48465"
 state: "TX"
 county: "Val Verde County"
 repo_path: "kb/287g/287-g-wso-val-verde-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

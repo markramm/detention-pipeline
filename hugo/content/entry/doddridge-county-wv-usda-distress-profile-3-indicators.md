@@ -7,6 +7,7 @@ fips: "54017"
 state: "WV"
 county: "Doddridge"
 repo_path: "kb/budget/doddridge-county-wv-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

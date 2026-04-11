@@ -7,6 +7,7 @@ fips: "42021"
 state: "PA"
 county: "Cambria County"
 repo_path: "kb/287g/287-g-wso-cambria-county-prison-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

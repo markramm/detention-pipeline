@@ -7,6 +7,7 @@ fips: ""
 state: "New Jersey"
 county: "Morris"
 repo_path: "kb/industry/facilities/roxbury-nj-warehouse.md"
+lastmod: "2026-04-08"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (federal)"
 status: "contested"
 bed_count: "500-1,500"
 ---
-
-# Roxbury NJ Warehouse — ICE Regional Processing Center
 
 ## Overview
 
@@ -41,7 +40,7 @@ New Jersey Governor Sherrill, Attorney General Davenport, and Roxbury Township f
 
 ## Political Dynamics
 
-The facility has sparked **bipartisan backlash** in New Jersey, described by critics as the work of "an agency out of control." This opposition crosses party lines in a state that also faces military base detention plans at [[jbmdl-nj-military|Joint Base McGuire-Dix-Lakehurst]].
+The facility has sparked **bipartisan backlash** in New Jersey, described by critics as the work of "an agency out of control." This opposition crosses party lines in a state that also faces military base detention plans at [Joint Base McGuire-Dix-Lakehurst](/entry/jbmdl-nj-military/).
 
 ## Sources
 

@@ -7,6 +7,7 @@ fips: "47019"
 state: "TN"
 county: "Carter County"
 repo_path: "kb/287g/287-g-wso-carter-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

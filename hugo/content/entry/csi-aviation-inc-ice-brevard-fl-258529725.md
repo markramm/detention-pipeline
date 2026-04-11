@@ -1,5 +1,5 @@
 ---
-title: "CSI AVIATION, INC — ICE BREVARD, FL $258,529,725"
+title: "Csi Aviation, Inc — Ice Brevard, Fl $258,529,725"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "12009"
 state: "FL"
 county: "BREVARD"
 repo_path: "kb/anc/csi-aviation-inc-ice-brevard-fl-258529725.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

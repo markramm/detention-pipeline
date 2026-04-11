@@ -7,6 +7,7 @@ fips: "20149"
 state: "KS"
 county: "Pottawatomie County"
 repo_path: "kb/287g/287-g-wso-pottawatomie-county-sheriff-s-office-ks.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

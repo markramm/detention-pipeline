@@ -1,5 +1,5 @@
 ---
-title: "THE GEO GROUP, INC. — ICE ESSEX, NJ $5,670,000"
+title: "The Geo Group, Inc. — Ice Essex, Nj $5,670,000"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "34013"
 state: "NJ"
 county: "ESSEX"
 repo_path: "kb/anc/the-geo-group-inc-ice-essex-nj-5670000.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

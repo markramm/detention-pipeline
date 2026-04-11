@@ -7,6 +7,7 @@ fips: "37151"
 state: "NC"
 county: "Randolph County"
 repo_path: "kb/287g/287-g-wso-randolph-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

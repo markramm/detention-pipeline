@@ -1,5 +1,5 @@
 ---
-title: "TECHNOLOGY - MANAGEMENT & INNOVATIVE SOLUTION — ICE PASCO, FL $908,163"
+title: "Technology - Management & Innovative Solution — Ice Pasco, Fl $908,163"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "12101"
 state: "FL"
 county: "PASCO"
 repo_path: "kb/anc/technology-management-innovative-solution-ice-pasco-fl-908163.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "12127"
 state: "FL"
 county: "Volusia County"
 repo_path: "kb/287g/287-g-tfm-south-daytona-police-department-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

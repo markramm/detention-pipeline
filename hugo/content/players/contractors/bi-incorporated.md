@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/bi-incorporated.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -16,9 +17,7 @@ founded: "1978"
 status: "active"
 ---
 
-# BI Incorporated
-
-BI Incorporated is a Boulder, Colorado-based company that manufactures GPS ankle monitors and operates the federal government's primary immigration surveillance program. Acquired by [[geo-group|The GEO Group]] in 2011, BI is the sole contractor for ICE's Intensive Supervision Appearance Program (ISAP), commonly known as "alternatives to detention." This framing is misleading -- BI's technology is a surveillance layer that supplements, rather than replaces, physical detention.
+BI Incorporated is a Boulder, Colorado-based company that manufactures GPS ankle monitors and operates the federal government's primary immigration surveillance program. Acquired by [The GEO Group](/entry/geo-group/) in 2011, BI is the sole contractor for ICE's Intensive Supervision Appearance Program (ISAP), commonly known as "alternatives to detention." This framing is misleading -- BI's technology is a surveillance layer that supplements, rather than replaces, physical detention.
 
 ## The Surveillance Stack
 
@@ -46,7 +45,7 @@ BI's ISAP program is framed as a humane alternative to physical detention, but:
 - SmartLINK requires selfies, surprise visits, and compliance with secret codes
 - Data collected feeds directly into ICE enforcement operations
 - The skip tracing contract means failure to comply leads to targeted arrest
-- BI profits whether someone is detained or monitored -- they are a [[geo-group|GEO]] subsidiary either way
+- BI profits whether someone is detained or monitored -- they are a [GEO](/entry/geo-group/) subsidiary either way
 
 ## Community Opposition
 

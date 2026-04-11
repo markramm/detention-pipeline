@@ -7,6 +7,7 @@ fips: "47165"
 state: "TN"
 county: "Sumner County"
 repo_path: "kb/287g/287-g-wso-sumner-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

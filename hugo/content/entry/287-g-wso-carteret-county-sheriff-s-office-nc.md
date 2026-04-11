@@ -7,6 +7,7 @@ fips: "37031"
 state: "NC"
 county: "Carteret County"
 repo_path: "kb/287g/287-g-wso-carteret-county-sheriff-s-office-nc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

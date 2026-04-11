@@ -1,5 +1,5 @@
 ---
-title: "INGENESIS INC — ICE BEXAR, TX $37,566,995"
+title: "Ingenesis Inc — Ice Bexar, Tx $37,566,995"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "48029"
 state: "TX"
 county: "BEXAR"
 repo_path: "kb/anc/ingenesis-inc-ice-bexar-tx-37566995.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

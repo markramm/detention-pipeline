@@ -7,6 +7,7 @@ fips: "48175"
 state: "TX"
 county: "Goliad County"
 repo_path: "kb/287g/287-g-jem-goliad-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

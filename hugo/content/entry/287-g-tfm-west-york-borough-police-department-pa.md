@@ -7,6 +7,7 @@ fips: "42133"
 state: "PA"
 county: "York County"
 repo_path: "kb/287g/287-g-tfm-west-york-borough-police-department-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

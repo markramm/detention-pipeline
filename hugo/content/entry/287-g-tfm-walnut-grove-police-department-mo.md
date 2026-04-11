@@ -7,6 +7,7 @@ fips: "29077"
 state: "MO"
 county: "Greene County"
 repo_path: "kb/287g/287-g-tfm-walnut-grove-police-department-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

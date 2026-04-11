@@ -7,6 +7,7 @@ fips: "12001"
 state: "FL"
 county: "Alachua County"
 repo_path: "kb/287g/287-g-wso-alachua-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -12,6 +12,7 @@
 <div class="breadcrumb">
   <a href="/">Home</a><span class="sep">/</span>
   <a href="/county/">Counties</a><span class="sep">/</span>
+  {{ with $state }}<a href="/state/{{ lower . }}/">{{ . }}</a><span class="sep">/</span>{{ end }}
   {{ .Title }}
 </div>
 
@@ -27,26 +28,29 @@
         <div class="mono" style="font-size:42px; font-weight:500; line-height:1; color:{{ cond (ge $score 70) "var(--accent-hot)" (cond (ge $score 40) "var(--accent-warm)" "var(--text-secondary)") }};">{{ $score }}</div>
         <div class="mono dim" style="font-size:9px; letter-spacing:0.1em; text-transform:uppercase; margin-top:2px;">Heat Score</div>
       </div>
-      <div style="font-size:13px; color:var(--text-secondary); line-height:1.6; max-width:500px;">
-        {{ if ge $pct 95 }}
-        This county has <strong>{{ $sigTypes }} independent signal types</strong>, placing it in the <strong>top {{ sub 100 $pct }}%</strong> nationally (#{{ $rank }} of {{ $total }} tracked counties). Multiple converging indicators suggest active pipeline activity.
+      <div style="font-size:14px; color:var(--text-secondary); line-height:1.6; max-width:520px;">
+        {{ if le $rank 3 }}
+        This county has <strong>{{ $sigTypes }} independent signal types</strong> — <strong>#{{ $rank }} nationally</strong> out of {{ $total }} tracked counties. Multiple converging indicators suggest active pipeline activity.
+        {{ else if ge $pct 95 }}
+        This county has <strong>{{ $sigTypes }} independent signal types</strong>, placing it in the <strong>top {{ sub 100 $pct }}%</strong> nationally (#{{ $rank }} of {{ $total }}). Multiple converging indicators suggest active pipeline activity.
         {{ else if ge $pct 75 }}
-        This county has <strong>{{ $sigTypes }} signal types</strong>, ranking #{{ $rank }} of {{ $total }} tracked counties. The convergence of multiple independent signals warrants attention.
+        This county has <strong>{{ $sigTypes }} signal types</strong>, ranking <strong>#{{ $rank }} of {{ $total }}</strong> tracked counties. The convergence of multiple independent signals warrants attention.
         {{ else if ge $pct 50 }}
         This county has <strong>{{ $sigTypes }} signal types</strong>, ranking #{{ $rank }} of {{ $total }} tracked counties.
         {{ else }}
         This county has signals detected but ranks in the lower half of tracked counties.
         {{ end }}
+        <a href="/methodology/" style="color:var(--accent-warm); text-decoration:none; font-size:12px;">How is this calculated?</a>
       </div>
     </div>
 
     <div style="display:flex; gap:8px; margin-top:12px; flex-wrap:wrap; align-items:center;">
       {{ if eq $coverage "well-researched" }}
-      <span class="signal-badge" style="background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">Well researched</span>
+      <span class="signal-badge" style="background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;" title="Multiple human-researched signal types present — commission activity, news coverage, or investigative findings">Well researched</span>
       {{ else if eq $coverage "partially-researched" }}
-      <span class="signal-badge" style="background:rgba(196,144,37,0.08); border-color:rgba(196,144,37,0.2); color:#c49025;">Partially researched</span>
+      <span class="signal-badge" style="background:rgba(196,144,37,0.08); border-color:rgba(196,144,37,0.2); color:#c49025;" title="At least one human-researched signal plus automated data. More investigation could reveal additional signals.">Partially researched</span>
       {{ else }}
-      <span class="signal-badge" style="background:rgba(90,106,122,0.08); border-color:rgba(90,106,122,0.2); color:#5a6a7a;">Automated signals only</span>
+      <span class="signal-badge" style="background:rgba(90,106,122,0.08); border-color:rgba(90,106,122,0.2); color:#5a6a7a;" title="Only automated signals (287(g), IGSA, ANC contracts, USDA budget data). No one has investigated on the ground yet.">Automated signals only — help investigate</span>
       {{ end }}
     </div>
 

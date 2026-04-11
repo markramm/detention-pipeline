@@ -1,5 +1,5 @@
 ---
-title: "CHENEGA TRI-SERVICES, LLC — ICE BLAIR, PA $4,602,050"
+title: "Chenega Tri-Services, Llc — Ice Blair, Pa $4,602,050"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "42013"
 state: "PA"
 county: "BLAIR"
 repo_path: "kb/anc/chenega-tri-services-llc-ice-blair-pa-4602050.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

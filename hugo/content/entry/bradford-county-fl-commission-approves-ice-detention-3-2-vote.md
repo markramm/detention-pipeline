@@ -7,6 +7,7 @@ fips: "12007"
 state: "FL"
 county: "Bradford"
 repo_path: "kb/commission/bradford-county-fl-commission-approves-ice-detention-3-2-vote.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

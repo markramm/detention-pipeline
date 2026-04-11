@@ -7,6 +7,7 @@ fips: "13157"
 state: "GA"
 county: "Jackson"
 repo_path: "kb/real-estate/braselton-logistics-center-jackson-ga-500000-sf.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

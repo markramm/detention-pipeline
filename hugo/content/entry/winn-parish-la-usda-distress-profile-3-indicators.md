@@ -7,6 +7,7 @@ fips: "22127"
 state: "LA"
 county: "Winn"
 repo_path: "kb/budget/winn-parish-la-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

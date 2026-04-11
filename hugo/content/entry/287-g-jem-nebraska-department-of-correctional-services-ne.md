@@ -7,6 +7,7 @@ fips: "31111"
 state: "NE"
 county: "Lincoln County"
 repo_path: "kb/287g/287-g-jem-nebraska-department-of-correctional-services-ne.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

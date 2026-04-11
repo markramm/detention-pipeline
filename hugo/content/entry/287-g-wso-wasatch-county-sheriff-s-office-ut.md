@@ -7,6 +7,7 @@ fips: "49051"
 state: "UT"
 county: "Wasatch County"
 repo_path: "kb/287g/287-g-wso-wasatch-county-sheriff-s-office-ut.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

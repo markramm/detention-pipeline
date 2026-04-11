@@ -7,6 +7,7 @@ fips: "48327"
 state: "TX"
 county: "Menard County"
 repo_path: "kb/287g/287-g-wso-menard-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

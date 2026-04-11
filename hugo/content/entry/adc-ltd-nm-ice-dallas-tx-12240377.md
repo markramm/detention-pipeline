@@ -7,6 +7,7 @@ fips: "48113"
 state: "TX"
 county: "DALLAS"
 repo_path: "kb/anc/adc-ltd-nm-ice-dallas-tx-12240377.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

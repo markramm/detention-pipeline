@@ -7,6 +7,7 @@ fips: "05007"
 state: "AR"
 county: "Benton County"
 repo_path: "kb/287g/287-g-jem-benton-county-sheriff-s-office-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

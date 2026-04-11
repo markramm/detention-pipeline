@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/people/edward-dalelio.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "person"
@@ -15,13 +16,11 @@ government_service: ""
 private_role: ""
 ---
 
-# Edward D'Alelio
-
 Blue Owl Capital director who previously served on the board of **Trump Entertainment Resorts**. His dual connection — to both the investment firm profiting from ICE warehouse purchases and the Trump business empire — exemplifies the conflict-of-interest architecture in the detention expansion.
 
 ## Key Facts
 
-- **Current role**: Director at [[blue-owl-capital|Blue Owl Capital]] ($157B AUM)
+- **Current role**: Director at [Blue Owl Capital](/entry/blue-owl-capital/) ($157B AUM)
 - **Prior role**: Board member, Trump Entertainment Resorts
 - Blue Owl owns warehouses sold to DHS at multiples of market value
 - 33 Trump administration members hold Blue Owl investments

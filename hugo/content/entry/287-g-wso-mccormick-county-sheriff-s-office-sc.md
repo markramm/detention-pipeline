@@ -7,6 +7,7 @@ fips: "45065"
 state: "SC"
 county: "McCormick County"
 repo_path: "kb/287g/287-g-wso-mccormick-county-sheriff-s-office-sc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

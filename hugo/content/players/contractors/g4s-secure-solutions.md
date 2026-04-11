@@ -7,6 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/contractors/g4s-secure-solutions.md"
+lastmod: "2026-04-06"
 type: "players"
 layout: "single"
 player_type: "contractor"
@@ -16,13 +17,11 @@ founded: "2003 (ICE contract); acquired by Allied Universal 2021"
 status: "active"
 ---
 
-# G4S Secure Solutions
-
 G4S Secure Solutions, a subsidiary of private security giant Allied Universal, provides armed ground transportation and custody services for ICE Enforcement and Removal Operations. The company signed its first ICE contract in 2003 when it was still known as the Wackenhut Corporation. Allied Universal acquired G4S in 2021, inheriting the ICE contracts.
 
 ## Services
 
-G4S provides "tactical transport operations" to multiple ICE field offices, transporting detainees to and from facilities operated by [[geo-group]], [[corecivic]], and other detention contractors. Services include:
+G4S provides "tactical transport operations" to multiple ICE field offices, transporting detainees to and from facilities operated by [geo-group](/entry/geo-group/), [corecivic](/entry/corecivic/), and other detention contractors. Services include:
 - **Armed transportation services** -- driving detainees between facilities, courts, and airports
 - **Detention officer services** -- guarding detainees in custody during transport
 - **Vehicle operations** -- operating government-owned and contractor-owned buses, vans, sedans, and SUVs

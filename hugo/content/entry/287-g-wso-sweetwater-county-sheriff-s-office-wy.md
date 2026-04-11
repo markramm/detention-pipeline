@@ -7,6 +7,7 @@ fips: "56037"
 state: "WY"
 county: "Sweetwater County"
 repo_path: "kb/287g/287-g-wso-sweetwater-county-sheriff-s-office-wy.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

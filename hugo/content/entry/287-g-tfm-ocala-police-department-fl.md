@@ -7,6 +7,7 @@ fips: "12083"
 state: "FL"
 county: "Marion County"
 repo_path: "kb/287g/287-g-tfm-ocala-police-department-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

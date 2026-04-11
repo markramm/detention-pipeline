@@ -7,6 +7,7 @@ fips: "05081"
 state: "AR"
 county: "Little River County"
 repo_path: "kb/287g/287-g-wso-little-river-county-sheriff-s-office-ar.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "RIVERTECH LLC — ICE EL PASO, CO $4,150,531"
+title: "Rivertech Llc — Ice El Paso, Co $4,150,531"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "08041"
 state: "CO"
 county: "EL PASO"
 repo_path: "kb/anc/rivertech-llc-ice-el-paso-co-4150531.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

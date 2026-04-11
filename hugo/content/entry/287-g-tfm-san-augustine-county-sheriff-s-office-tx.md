@@ -7,6 +7,7 @@ fips: "48405"
 state: "TX"
 county: "San Augustine County"
 repo_path: "kb/287g/287-g-tfm-san-augustine-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

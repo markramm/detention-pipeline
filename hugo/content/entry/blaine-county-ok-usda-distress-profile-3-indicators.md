@@ -7,6 +7,7 @@ fips: "40011"
 state: "OK"
 county: "Blaine"
 repo_path: "kb/budget/blaine-county-ok-usda-distress-profile-3-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "45051"
 state: "SC"
 county: "Horry County"
 repo_path: "kb/287g/287-g-jem-horry-county-sheriff-s-office-sc.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

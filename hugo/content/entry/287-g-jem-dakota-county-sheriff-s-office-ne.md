@@ -7,6 +7,7 @@ fips: "31043"
 state: "NE"
 county: "Dakota County"
 repo_path: "kb/287g/287-g-jem-dakota-county-sheriff-s-office-ne.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

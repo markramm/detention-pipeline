@@ -7,6 +7,7 @@ fips: "21157"
 state: "KY"
 county: "Marshall County"
 repo_path: "kb/287g/287-g-tfm-marshall-county-sheriff-s-office-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

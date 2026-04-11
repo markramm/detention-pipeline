@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/rogers-cbre-jll-loan-receivables.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# Brendan Rogers — CBRE and JLL Owe Him Money
 
 ## The Conflict
 

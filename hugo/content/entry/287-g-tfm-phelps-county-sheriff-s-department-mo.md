@@ -7,6 +7,7 @@ fips: "29161"
 state: "MO"
 county: "Phelps County"
 repo_path: "kb/287g/287-g-tfm-phelps-county-sheriff-s-department-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

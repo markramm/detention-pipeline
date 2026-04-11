@@ -7,6 +7,7 @@ fips: "48305"
 state: "TX"
 county: "Lynn County"
 repo_path: "kb/287g/287-g-wso-lynn-county-sheriff-s-office-tx.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

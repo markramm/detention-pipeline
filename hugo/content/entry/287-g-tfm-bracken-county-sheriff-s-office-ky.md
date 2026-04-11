@@ -7,6 +7,7 @@ fips: "21023"
 state: "KY"
 county: "Bracken County"
 repo_path: "kb/287g/287-g-tfm-bracken-county-sheriff-s-office-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

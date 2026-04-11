@@ -7,6 +7,7 @@ fips: "56007"
 state: "WY"
 county: "Carbon County"
 repo_path: "kb/287g/287-g-wso-carbon-county-sheriff-s-office-wy.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

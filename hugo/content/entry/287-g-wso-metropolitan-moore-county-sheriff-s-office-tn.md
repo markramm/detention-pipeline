@@ -7,6 +7,7 @@ fips: "47127"
 state: "TN"
 county: "Moore County"
 repo_path: "kb/287g/287-g-wso-metropolitan-moore-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

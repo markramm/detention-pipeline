@@ -7,6 +7,7 @@ fips: "13127"
 state: "GA"
 county: "Glynn County"
 repo_path: "kb/287g/287-g-wso-glynn-county-sheriff-s-office-ga.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

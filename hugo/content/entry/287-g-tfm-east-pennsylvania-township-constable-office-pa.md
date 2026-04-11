@@ -7,6 +7,7 @@ fips: "42041"
 state: "PA"
 county: "Cumberland County"
 repo_path: "kb/287g/287-g-tfm-east-pennsylvania-township-constable-office-pa.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

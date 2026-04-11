@@ -7,6 +7,7 @@ fips: "47157"
 state: "TN"
 county: "Shelby County"
 repo_path: "kb/287g/287-g-wso-shelby-county-sheriff-s-office-tn.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "18113"
 state: "IN"
 county: "Noble County"
 repo_path: "kb/287g/287-g-wso-noble-county-sheriff-s-office-in.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

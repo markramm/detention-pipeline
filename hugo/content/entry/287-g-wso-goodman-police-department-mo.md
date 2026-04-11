@@ -7,6 +7,7 @@ fips: "29119"
 state: "MO"
 county: "McDonald County"
 repo_path: "kb/287g/287-g-wso-goodman-police-department-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

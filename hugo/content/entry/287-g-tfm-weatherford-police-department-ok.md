@@ -7,6 +7,7 @@ fips: "40039"
 state: "OK"
 county: "Custer County"
 repo_path: "kb/287g/287-g-tfm-weatherford-police-department-ok.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

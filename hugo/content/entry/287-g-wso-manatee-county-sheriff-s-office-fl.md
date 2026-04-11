@@ -7,6 +7,7 @@ fips: "12081"
 state: "FL"
 county: "Manatee County"
 repo_path: "kb/287g/287-g-wso-manatee-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

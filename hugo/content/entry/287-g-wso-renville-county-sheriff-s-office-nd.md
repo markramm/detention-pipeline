@@ -7,6 +7,7 @@ fips: "38075"
 state: "ND"
 county: "Renville County"
 repo_path: "kb/287g/287-g-wso-renville-county-sheriff-s-office-nd.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

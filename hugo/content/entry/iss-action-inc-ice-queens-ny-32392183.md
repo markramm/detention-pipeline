@@ -1,5 +1,5 @@
 ---
-title: "ISS ACTION INC — ICE QUEENS, NY $32,392,183"
+title: "Iss Action Inc — Ice Queens, Ny $32,392,183"
 entry_type: "anc-contract"
 signal_label: "ANC Contract"
 signal_color: "#c49025"
@@ -7,6 +7,7 @@ fips: "36081"
 state: "NY"
 county: "QUEENS"
 repo_path: "kb/anc/iss-action-inc-ice-queens-ny-32392183.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

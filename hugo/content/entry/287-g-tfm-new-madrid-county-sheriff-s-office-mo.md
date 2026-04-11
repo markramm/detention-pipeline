@@ -7,6 +7,7 @@ fips: "29143"
 state: "MO"
 county: "New Madrid County"
 repo_path: "kb/287g/287-g-tfm-new-madrid-county-sheriff-s-office-mo.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

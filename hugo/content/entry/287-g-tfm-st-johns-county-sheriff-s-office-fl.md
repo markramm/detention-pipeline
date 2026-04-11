@@ -7,6 +7,7 @@ fips: "12109"
 state: "FL"
 county: "St. Johns County"
 repo_path: "kb/287g/287-g-tfm-st-johns-county-sheriff-s-office-fl.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

@@ -7,6 +7,7 @@ fips: "21049"
 state: "KY"
 county: "Clark County"
 repo_path: "kb/287g/287-g-tfm-winchester-police-department-ky.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

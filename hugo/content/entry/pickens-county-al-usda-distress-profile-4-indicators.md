@@ -7,6 +7,7 @@ fips: "01107"
 state: "AL"
 county: "Pickens"
 repo_path: "kb/budget/pickens-county-al-usda-distress-profile-4-indicators.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

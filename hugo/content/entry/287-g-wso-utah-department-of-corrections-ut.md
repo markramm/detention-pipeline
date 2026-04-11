@@ -7,6 +7,7 @@ fips: ""
 state: "UT"
 county: ""
 repo_path: "kb/287g/287-g-wso-utah-department-of-corrections-ut.md"
+lastmod: "2026-04-10"
 type: "entry"
 layout: "single"
 ---

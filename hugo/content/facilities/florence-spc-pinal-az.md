@@ -7,6 +7,7 @@ fips: ""
 state: "Arizona"
 county: "Pinal"
 repo_path: "kb/industry/facilities/florence-spc-pinal-az.md"
+lastmod: "2026-04-10"
 type: "facility_page"
 layout: "single"
 facility_name: ""
@@ -14,8 +15,6 @@ operator: "ICE (guard/food/transport by Akima Global Services)"
 status: "operational"
 bed_count: "unknown"
 ---
-
-# Florence Service Processing Center — ANC Sole-Source Pipeline
 
 ## Overview
 
@@ -39,7 +38,7 @@ That's a **12.5% increase** over three years, with no competitive bidding at any
 
 ## Part of the Pinal County Cluster
 
-The Florence SPC is the federal counterpart to the CoreCivic-operated private facilities in the area. See [[eloy-detention-center-pinal-az]] for the full cluster map.
+The Florence SPC is the federal counterpart to the CoreCivic-operated private facilities in the area. See [eloy-detention-center-pinal-az](/entry/eloy-detention-center-pinal-az/) for the full cluster map.
 
 ## Sources
 

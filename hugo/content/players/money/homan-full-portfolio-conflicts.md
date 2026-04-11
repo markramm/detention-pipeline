@@ -7,12 +7,11 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/industry/financial-flows/homan-full-portfolio-conflicts.md"
+lastmod: "2026-04-08"
 type: "players"
 layout: "single"
 player_type: "money"
 ---
-
-# Thomas D. Homan — Border Czar Conflict Portfolio
 
 Source: ProPublica Trump Team Financial Disclosures. Total reported assets: $1.2M.
 
