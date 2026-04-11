@@ -1,1 +1,144 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SC on Detention Pipeline</title><link>https://detention-pipeline.transparencycascade.org/states/sc/</link><description>Recent content in SC on Detention Pipeline</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://detention-pipeline.transparencycascade.org/states/sc/index.xml" rel="self" type="application/rss+xml"/><item><title>Beaufort County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45013/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45013/</guid><description/></item><item><title>Berkeley County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45015/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45015/</guid><description/></item><item><title>Charleston County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45019/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45019/</guid><description/></item><item><title>Chester County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45023/</guid><description/></item><item><title>Dorchester County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45035/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45035/</guid><description/></item><item><title>Florence County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45041/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45041/</guid><description/></item><item><title>Georgetown County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45043/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45043/</guid><description/></item><item><title>Greenville County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45045/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45045/</guid><description/></item><item><title>Horry County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45051/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45051/</guid><description/></item><item><title>Kershaw County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45055/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45055/</guid><description/></item><item><title>Lancaster County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45057/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45057/</guid><description/></item><item><title>Laurens County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45059/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45059/</guid><description/></item><item><title>Lexington County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45063/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45063/</guid><description/></item><item><title>McCormick County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45065/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45065/</guid><description/></item><item><title>Newberry County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45071/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45071/</guid><description/></item><item><title>Orangeburg County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45075/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45075/</guid><description/></item><item><title>Pickens County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45077/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45077/</guid><description/></item><item><title>Spartanburg County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45083/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45083/</guid><description/></item><item><title>York County, SC</title><link>https://detention-pipeline.transparencycascade.org/county/45091/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://detention-pipeline.transparencycascade.org/county/45091/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SC on Detention Pipeline</title>
+    <link>http://localhost:8787/states/sc/</link>
+    <description>Recent content in SC on Detention Pipeline</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:8787/states/sc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beaufort County, SC</title>
+      <link>http://localhost:8787/county/45013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berkeley County, SC</title>
+      <link>http://localhost:8787/county/45015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Charleston County, SC</title>
+      <link>http://localhost:8787/county/45019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chester County, SC</title>
+      <link>http://localhost:8787/county/45023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dorchester County, SC</title>
+      <link>http://localhost:8787/county/45035/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45035/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Florence County, SC</title>
+      <link>http://localhost:8787/county/45041/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45041/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Georgetown County, SC</title>
+      <link>http://localhost:8787/county/45043/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45043/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Greenville County, SC</title>
+      <link>http://localhost:8787/county/45045/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45045/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horry County, SC</title>
+      <link>http://localhost:8787/county/45051/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45051/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kershaw County, SC</title>
+      <link>http://localhost:8787/county/45055/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45055/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lancaster County, SC</title>
+      <link>http://localhost:8787/county/45057/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45057/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laurens County, SC</title>
+      <link>http://localhost:8787/county/45059/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45059/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lexington County, SC</title>
+      <link>http://localhost:8787/county/45063/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45063/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>McCormick County, SC</title>
+      <link>http://localhost:8787/county/45065/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45065/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Newberry County, SC</title>
+      <link>http://localhost:8787/county/45071/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45071/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orangeburg County, SC</title>
+      <link>http://localhost:8787/county/45075/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45075/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pickens County, SC</title>
+      <link>http://localhost:8787/county/45077/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45077/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spartanburg County, SC</title>
+      <link>http://localhost:8787/county/45083/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45083/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>York County, SC</title>
+      <link>http://localhost:8787/county/45091/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:8787/county/45091/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

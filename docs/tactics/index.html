@@ -1,112 +1,677 @@
-<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Playbook & Counter-Playbook · Detention Pipeline</title><meta name=description content="Early-warning system for ICE detention facility expansion"><meta property="og:title" content="Playbook & Counter-Playbook · Detention Pipeline"><meta property="og:description" content="Early-warning system for ICE detention facility expansion"><meta property="og:type" content="article"><meta property="og:url" content="https://detention-pipeline.transparencycascade.org/tactics/"><meta property="og:site_name" content="Detention Pipeline"><meta name=twitter:card content="summary"><meta name=twitter:title content="Playbook & Counter-Playbook · Detention Pipeline"><meta name=twitter:description content="Early-warning system for ICE detention facility expansion"><link rel=preconnect href=https://fonts.googleapis.com><link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel=stylesheet><style>:root{--bg-deep:#0a0a0f;--bg-panel:#111118;--bg-surface:#161620;--bg-elevated:#1e1e2a;--bg-content:#f6f5f1;--bg-content-alt:#edece8;--text-primary:#1a1a1f;--text-secondary:#4a4952;--text-dim:#7a7882;--text-light:#e8e6e1;--border:#dddbd6;--border-dark:#2a2a35;--accent:#c93b3b;--accent-hot:#e84545;--accent-warm:#d46a2f;--signal-igsa:#c93b3b;--signal-287g:#d46a2f;--signal-anc:#c49025;--signal-commission:#6a8a1a;--signal-job:#1a8a5a;--signal-sheriff:#1a6a9a;--signal-comms:#5a4fa5;--signal-budget:#8a3fa5;--signal-realestate:#a53f7a;--signal-legislative:#4f5a6a}*{margin:0;padding:0;box-sizing:border-box}body{font-family:ibm plex sans,-apple-system,sans-serif;font-size:15px;color:var(--text-primary);background:var(--bg-content);-webkit-font-smoothing:antialiased}.site-header{background:var(--bg-deep);color:var(--text-light);padding:0;position:sticky;top:0;z-index:100}.site-header-inner{max-width:1200px;margin:0 auto;padding:12px 24px;display:flex;align-items:center;justify-content:space-between}.site-brand{display:flex;align-items:baseline;gap:10px;text-decoration:none}.site-brand h1{font-family:instrument serif,Georgia,serif;font-size:18px;font-weight:400;color:var(--text-light);letter-spacing:-.01em}.site-brand .brand-tag{font-family:dm mono,monospace;font-size:8px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);background:rgba(201,59,59,.12);padding:2px 6px;border:1px solid rgba(201,59,59,.2);border-radius:2px}.site-nav{display:flex;gap:4px;align-items:center}.site-nav a{font-size:13px;color:rgba(232,230,225,.5);text-decoration:none;padding:6px 12px;border-radius:3px;transition:all .12s;font-weight:400}.site-nav a:hover{color:var(--text-light);background:rgba(255,255,255,6%)}.site-nav a.active{color:var(--text-light);background:rgba(255,255,255,8%)}.breadcrumb{max-width:1200px;margin:0 auto;padding:14px 24px 0;font-family:dm mono,monospace;font-size:10px;letter-spacing:.04em;color:var(--text-dim)}.breadcrumb a{color:var(--text-dim);text-decoration:none}.breadcrumb a:hover{color:var(--text-secondary)}.breadcrumb .sep{margin:0 6px;opacity:.4}.page-content{max-width:1200px;margin:0 auto;padding:0 24px 60px}.site-footer{background:var(--bg-deep);color:rgba(232,230,225,.4);padding:32px 24px;text-align:center;font-size:11px;line-height:1.8}.site-footer a{color:rgba(232,230,225,.5);text-decoration:none}.site-footer a:hover{color:var(--text-light)}.footer-inner{max-width:1200px;margin:0 auto}.footer-links{display:flex;gap:16px;justify-content:center;margin-bottom:8px}.signal-dot{display:inline-block;width:7px;height:7px;border-radius:50%;flex-shrink:0;vertical-align:middle}.signal-badge{display:inline-flex;align-items:center;gap:5px;font-family:dm mono,monospace;font-size:10px;letter-spacing:.04em;padding:3px 8px;border-radius:3px;background:rgba(0,0,0,4%);border:1px solid var(--border);color:var(--text-secondary)}.score-pill{font-family:dm mono,monospace;font-weight:500;display:inline-block;padding:2px 8px;border-radius:3px;font-size:13px}.score-hot{color:var(--accent-hot);background:rgba(232,69,69,8%)}.score-warm{color:var(--accent-warm);background:rgba(212,106,47,8%)}.score-mid{color:var(--text-secondary);background:rgba(0,0,0,4%)}.score-low{color:var(--text-dim);background:rgba(0,0,0,3%)}.btn{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:500;padding:8px 16px;border-radius:4px;text-decoration:none;cursor:pointer;border:1px solid var(--border);color:var(--text-secondary);background:#fff;transition:all .12s}.btn:hover{border-color:var(--text-dim);color:var(--text-primary)}.btn-accent{background:var(--accent);color:#fff;border-color:var(--accent)}.btn-accent:hover{background:var(--accent-hot);border-color:var(--accent-hot);color:#fff}.btn-sm{font-size:11px;padding:5px 10px}.btn svg{width:14px;height:14px}.mono{font-family:dm mono,monospace}.serif{font-family:instrument serif,Georgia,serif}.dim{color:var(--text-dim)}.small{font-size:11px}.data-table{width:100%;border-collapse:collapse;font-size:13.5px}.data-table th{font-family:dm mono,monospace;font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:var(--text-dim);text-align:left;padding:8px 10px;border-bottom:2px solid var(--border)}.data-table td{padding:8px 10px;border-bottom:1px solid var(--border);color:var(--text-secondary)}.data-table tr:hover td{background:rgba(0,0,0,2%)}.data-table a{color:var(--text-primary);text-decoration:none}.data-table a:hover{text-decoration:underline}.card{background:#fff;border:1px solid var(--border);border-radius:5px;padding:16px 20px;margin-bottom:12px;transition:border-color .12s}.card:hover{border-color:var(--text-dim)}.card a{text-decoration:none;color:inherit}.card-title{font-size:15px;font-weight:500;margin-bottom:4px}.card-meta{font-size:12px;color:var(--text-dim)}.hamburger{display:none;background:0 0;border:none;cursor:pointer;padding:8px}.hamburger span{display:block;width:20px;height:2px;background:var(--text-light);margin:4px 0}.mobile-nav{display:none;background:var(--bg-deep);padding:8px 24px 16px;border-bottom:1px solid var(--border-dark)}.mobile-nav.open{display:block}.mobile-nav a{display:block;padding:8px 0;color:rgba(232,230,225,.6);text-decoration:none;font-size:14px;border-bottom:1px solid rgba(255,255,255,5%)}.mobile-nav a:hover{color:var(--text-light)}@media(max-width:768px){.hamburger{display:block}.site-nav{display:none}.site-header-inner{padding:10px 16px}.page-content{padding:0 16px 40px}.breadcrumb{padding:10px 16px 0}.data-table{font-size:11px}}</style><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","name":"Detention Pipeline","url":"https://detention-pipeline.transparencycascade.org/","description":"Early-warning system for ICE detention facility expansion"}</script></head><body><header class=site-header><div class=site-header-inner><a href=/ class=site-brand><h1>Detention Pipeline</h1><span class=brand-tag>Early Warning</span></a><nav class=site-nav><a href=/map/>Map</a>
-<a href=/fights/>Fights</a>
-<a href=/tactics/ class=active>Tactics</a>
-<a href=/county/>Counties</a>
-<a href=/players/>Players</a>
-<a href=/facilities/>Facilities</a>
-<a href=/methodology/>Methodology</a>
-<a href=/contribute/>Contribute</a></nav><button class=hamburger id=hamburger aria-label=Menu><span></span><span></span><span></span></button></div></header><div class=mobile-nav id=mobile-nav><a href=/map/>Map</a>
-<a href=/fights/>Fights</a>
-<a href=/tactics/>Tactics</a>
-<a href=/county/>Counties</a>
-<a href=/players/>Players</a>
-<a href=/facilities/>Facilities</a>
-<a href=/methodology/>Methodology</a>
-<a href=/contribute/>Contribute</a></div><div class=breadcrumb><a href=/>Home</a><span class=sep>/</span>Playbook & Counter-Playbook</div><div class=page-content><div style=max-width:820px;padding-top:24px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin-bottom:8px><h1 class=serif style=font-size:32px;font-weight:400>Playbook & Counter-Playbook</h1><span class="mono dim" style=font-size:10px>13 fights tracked &#183; April 2026</span></div><p style=font-size:15px;color:var(--text-secondary);line-height:1.7;margin-bottom:36px>Across 13 documented county fights, the same tactics appear again and again &mdash; from the consultants
-pushing deals and from the communities that stopped them. This page synthesizes both playbooks so
-communities facing a new pitch can recognize what's coming and respond with what works.</p><h2 class="mono dim" style="font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid var(--border)">The Consultant Playbook</h2><p style=font-size:14px;color:var(--text-secondary);line-height:1.7;margin-bottom:20px>Detention consultants like <a href=/players/contractors/sabot-consulting/ style=color:var(--accent-warm)>Sabot Consulting</a>
-follow a repeatable formula to push IGSA deals through county commissions. These tactics have been
-documented across multiple fights.</p><div class=card style=margin-bottom:14px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Sheriff Conference Recruitment</div><span class="mono dim" style=font-size:10px>TACTIC 01</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Consultants recruit sheriffs at law enforcement conferences, pitching detention facilities as economic
-development. The sheriff becomes the internal champion who brings the proposal to the county commission.
-In Bradford County, Sheriff Gordon Smith was approached by a former Osceola County Chief Deputy working
-with Sabot.</p><div class=card-meta style=margin-top:8px>Seen in: <a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a></div></div><div class=card style=margin-bottom:14px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Closed-Session Presentations</div><span class="mono dim" style=font-size:10px>TACTIC 02</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Initial briefings happen behind closed doors &mdash; executive sessions, private meetings with
-commissioners, or sheriff-only presentations &mdash; before the public learns about the proposal.
-The Sabot briefing package for Bradford County was marked DRAFT and prepared for internal distribution,
-not public review.</p><div class=card-meta style=margin-top:8px>Seen in: <a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a></div></div><div class=card style=margin-bottom:14px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>NDA-Protected Negotiations</div><span class="mono dim" style=font-size:10px>TACTIC 03</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Non-disclosure agreements keep the details of proposals hidden from the public and from commissioners
-who might oppose them. By the time the public learns of a deal, key terms are already negotiated.
-This is part of the "comms discipline" signal type tracked across the pipeline.</p><div class=card-meta style=margin-top:8px>Seen in: <a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a></div></div><div class=card style=margin-bottom:14px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Opposition Framing</div><span class="mono dim" style=font-size:10px>TACTIC 04</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Critics are dismissed as outsiders, politically motivated, or tools of NGOs. In Bradford County,
-Sheriff Smith characterized opposition as "hate-filled vigor" and claimed critics were "from other
-areas around us" and didn't represent the county. This framing attempts to delegitimize local
-residents who oppose the deal.</p><div class=card-meta style=margin-top:8px>Seen in: <a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a></div></div><div class=card style=margin-bottom:14px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Personal Attacks on Critics</div><span class="mono dim" style=font-size:10px>TACTIC 05</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Individual opponents are singled out by name at public meetings. In Bradford County, Sheriff Smith
-personally attacked a critic (Mr. Still) by name at the March 3, 2026 commission meeting. This
-tactic is meant to intimidate other residents from speaking up.</p><div class=card-meta style=margin-top:8px>Seen in: <a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a></div></div><div class=card style=margin-bottom:14px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Revenue Projection Framing</div><span class="mono dim" style=font-size:10px>TACTIC 06</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>The deal is presented as fiscal salvation for distressed counties: jobs, revenue, an alternative
-to raising taxes. Bradford County's pitch promised 1,250 jobs and $239M/year at full capacity.
-These projections frame detention as economic development, making a moral question into a fiscal one.</p><div class=card-meta style=margin-top:8px>Seen in: <a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a></div></div><div class=card style=margin-bottom:14px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Environmental Risk Minimization</div><span class="mono dim" style=font-size:10px>TACTIC 07</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Known environmental hazards are downplayed or ignored. In Bradford County, the proposed site has
-15 years of VOC groundwater contamination monitored by FDEP, with contamination spreading to 30
-properties. The Sabot proposal acknowledged "vapor intrusion" as a risk but the lease was placed
-on the commission agenda before environmental studies were complete.</p><div class=card-meta style=margin-top:8px>Seen in: <a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a></div></div><div class=card style=margin-bottom:14px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Fast-Tracking Votes Before Studies Complete</div><span class="mono dim" style=font-size:10px>TACTIC 08</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Votes are scheduled before environmental, infrastructure, or fiscal impact studies are finished.
-In Bradford County, the April 7 BOCC agenda included both the FDEP site access agreement (to begin
-environmental studies) AND the sheriff's lease (to proceed with the facility) &mdash; scheduling the
-commitment before the investigation.</p><div class=card-meta style=margin-top:8px>Seen in: <a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a></div></div><div class=card style=margin-bottom:14px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Federal Purchase Without Local Notice</div><span class="mono dim" style=font-size:10px>TACTIC 09</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>In the warehouse purchase model, DHS buys property through shell companies or quiet transactions
-without notifying the city, state, or public. The community learns about it after the deal is
-done and federal preemption limits their options. This bypasses every democratic check the IGSA
-model at least pretends to honor.</p><div class=card-meta style=margin-top:8px>Seen in:
-<a href=/fights/romulus-mi-warehouse-fight/ style=color:var(--accent-warm)>Romulus MI</a>,
-<a href=/fights/salt-lake-city-ut-mega-center-fight/ style=color:var(--accent-warm)>Salt Lake City UT</a>,
-<a href=/fights/surprise-az-ban/ style=color:var(--accent-warm)>Surprise AZ</a>,
-<a href=/fights/roxbury-nj-lawsuit/ style=color:var(--accent-warm)>Roxbury NJ</a></div></div><div class=card style=margin-bottom:24px><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Unilateral Official Action</div><span class="mono dim" style=font-size:10px>TACTIC 10</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>A single county official (sheriff, county attorney) signs an ICE agreement without board approval,
-then refuses to comply when the board objects. In Pinal County, County Attorney Brad Miller signed
-a 287(g) agreement without board authorization, then ignored the Board of Supervisors' unanimous
-order to terminate it.</p><div class=card-meta style=margin-top:8px>Seen in: <a href=/fights/pinal-county-az-rogue-attorney/ style=color:var(--accent-warm)>Pinal County AZ</a></div></div><h2 class="mono dim" style="font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid var(--border)">What Works &mdash; Counter-Tactics</h2><p style=font-size:14px;color:var(--text-secondary);line-height:1.7;margin-bottom:20px>Of the 13 documented fights, at least 7 have successfully blocked or paused detention proposals.
-The tactics that worked fall into distinct categories. Communities facing a new fight should
-identify which tools are available to them based on their specific situation.</p><div class=card style="margin-bottom:14px;border-left:3px solid #2a8a5a"><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Legal Challenges &mdash; City, State, and AG Lawsuits</div><span class=mono style=font-size:10px;color:#2a8a5a>BLOCKED / LITIGATION</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>When the federal government purchases property without local consent, lawsuits are the primary
-tool. In Romulus, Michigan Attorney General Dana Nessel and the city filed suit arguing the
-warehouse is in a floodplain, near schools, and lacks infrastructure. In Roxbury, New Jersey,
-the governor, AG, and township all filed suit &mdash; the broadest coalition of legal opposition of
-any fight. In Pinal County, the Board of Supervisors sued their own county attorney and obtained
-a restraining order.</p><div class=card-meta style=margin-top:8px><a href=/fights/romulus-mi-warehouse-fight/ style=color:var(--accent-warm)>Romulus MI</a> &#183;
-<a href=/fights/roxbury-nj-lawsuit/ style=color:var(--accent-warm)>Roxbury NJ</a> &#183;
-<a href=/fights/pinal-county-az-rogue-attorney/ style=color:var(--accent-warm)>Pinal County AZ</a></div></div><div class=card style="margin-bottom:14px;border-left:3px solid #2a8a5a"><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Tribal Sovereignty &mdash; Purchasing the Property</div><span class=mono style=font-size:10px;color:#2a8a5a>BLOCKED</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>The Choctaw Nation purchased a Durant, Oklahoma warehouse that DHS had targeted for ICE conversion,
-directly outbidding the federal government. Unlike municipal tools (lawsuits, zoning), a private
-purchase removes the property entirely from federal reach. This is the most creative and
-definitive resistance action documented.</p><div class=card-meta style=margin-top:8px><a href=/fights/durant-ok-choctaw-nation/ style=color:var(--accent-warm)>Durant OK</a></div></div><div class=card style="margin-bottom:14px;border-left:3px solid #2a8a5a"><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Infrastructure Denial &mdash; Water and Sewer</div><span class=mono style=font-size:10px;color:#2a8a5a>BLOCKED / CONTESTED</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Cities control municipal water and sewer systems. If a facility's demand exceeds capacity, the city
-has a legitimate, non-political basis to refuse service. Social Circle, Georgia locked the water meter
-at a planned 10,000-bed mega center because its projected 1M gallon/day sewage demand exceeded the
-city's entire 660K gallon/day treatment capacity. Salt Lake City replicated this tactic with water
-use restrictions in March 2026.</p><div class=card-meta style=margin-top:8px><a href=/fights/social-circle-ga-water-shutoff/ style=color:var(--accent-warm)>Social Circle GA</a> &#183;
-<a href=/fights/salt-lake-city-ut-mega-center-fight/ style=color:var(--accent-warm)>Salt Lake City UT</a></div></div><div class=card style="margin-bottom:14px;border-left:3px solid #2a8a5a"><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Environmental Challenges</div><span class=mono style=font-size:10px;color:#c49025>CONTESTED</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Documenting environmental hazards &mdash; contaminated groundwater, floodplains, proximity to
-sensitive areas &mdash; creates legal and political obstacles. In Bradford County, 15 years of
-VOC groundwater contamination became a central argument against the facility. In Romulus, the
-warehouse's location in a floodplain that flooded as recently as 2025 is a key element of the
-lawsuit.</p><div class=card-meta style=margin-top:8px><a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a> &#183;
-<a href=/fights/romulus-mi-warehouse-fight/ style=color:var(--accent-warm)>Romulus MI</a></div></div><div class=card style="margin-bottom:14px;border-left:3px solid #2a8a5a"><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Seller Pressure &mdash; Making the Deal Toxic</div><span class=mono style=font-size:10px;color:#2a8a5a>BLOCKED</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Federal preemption means you can't ban the government from buying &mdash; but you can make the seller
-unwilling to sell. In Kansas City, weeks of mass protests, student walkouts, a general strike, and
-Port KC severing ties with the developer caused Platform Ventures to withdraw from the $80M sale.
-The same pattern succeeded in Shakopee MN and Hanover VA, where warehouse owners declined or
-terminated deals after community pressure.</p><div class=card-meta style=margin-top:8px><a href=/fights/kansas-city-mo-platform-ventures/ style=color:var(--accent-warm)>Kansas City MO</a> &#183;
-<a href=/fights/shakopee-mn-rejected/ style=color:var(--accent-warm)>Shakopee MN</a> &#183;
-<a href=/fights/hanover-va-terminated/ style=color:var(--accent-warm)>Hanover VA</a></div></div><div class=card style="margin-bottom:14px;border-left:3px solid #2a8a5a"><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Commission Vote Organizing</div><span class=mono style=font-size:10px;color:#2a8a5a>BLOCKED / CONTESTED</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>In the IGSA model, the county commission votes. That means commissioners are the pressure point.
-Showing up at meetings, organizing public comment, and lobbying individual commissioners works.
-In Kansas City, the council blocked permits unanimously within hours of learning about the ICE
-warehouse tour. In Bradford County, Commissioners Spooner and Riddick voted against the proposal
-(3-2) after community organizing.</p><div class=card-meta style=margin-top:8px><a href=/fights/kansas-city-mo-platform-ventures/ style=color:var(--accent-warm)>Kansas City MO</a> &#183;
-<a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a></div></div><div class=card style="margin-bottom:14px;border-left:3px solid #2a8a5a"><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Public Records Requests and Transparency Demands</div><span class=mono style=font-size:10px;color:#2a8a5a>FORCE MULTIPLIER</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>FOIA and state public records requests surface the details that consultants want hidden:
-contracts, meeting minutes, environmental reports, communications between officials and
-consultants. In Bradford County, public records and leaked documents exposed the Sabot
-briefing package. In Merrimack, NH, the state government released internal ICE planning
-documents that revealed the 34-facility Detention Reengineering Initiative to the public
-for the first time.</p><div class=card-meta style=margin-top:8px><a href=/fights/bradford-county-fl-douglas-building/ style=color:var(--accent-warm)>Bradford County FL</a> &#183;
-<a href=/fights/merrimack-nh-paused/ style=color:var(--accent-warm)>Merrimack NH</a> &#183;
-<a href=/foia/ style=color:var(--accent-warm)>FOIA Request Generator</a></div></div><div class=card style="margin-bottom:14px;border-left:3px solid #2a8a5a"><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Media Coverage and Public Attention</div><span class=mono style=font-size:10px;color:#2a8a5a>FORCE MULTIPLIER</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>National media coverage transforms a local zoning fight into a political liability. Kansas City
-drew coverage from KCUR, NPR, and national outlets that made Platform Ventures' sale politically
-untenable. Salt Lake City's fight drew sustained coverage from KUER, the Tribune, Axios, and
-national press. Protests generate the images that drive coverage: 700+ in Romulus, hundreds in
-Salt Lake City, 1,500+ organized in Roxbury via Project NINJA.</p><div class=card-meta style=margin-top:8px><a href=/fights/kansas-city-mo-platform-ventures/ style=color:var(--accent-warm)>Kansas City MO</a> &#183;
-<a href=/fights/salt-lake-city-ut-mega-center-fight/ style=color:var(--accent-warm)>Salt Lake City UT</a> &#183;
-<a href=/fights/romulus-mi-warehouse-fight/ style=color:var(--accent-warm)>Romulus MI</a> &#183;
-<a href=/fights/roxbury-nj-lawsuit/ style=color:var(--accent-warm)>Roxbury NJ</a></div></div><div class=card style="margin-bottom:14px;border-left:3px solid #2a8a5a"><div style=display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px><div class=card-title>Speed &mdash; Acting Before the Deal Closes</div><span class=mono style=font-size:10px;color:#2a8a5a>CRITICAL FACTOR</span></div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>The single most important variable across all fights is timing. Kansas City succeeded because
-the council acted within hours. Surprise, Arizona passed a ban &mdash; but the purchase was already
-complete, making it unenforceable. Once the federal government owns the building, options narrow
-dramatically. Early detection is everything.</p><div class=card-meta style=margin-top:8px><a href=/fights/kansas-city-mo-platform-ventures/ style=color:var(--accent-warm)>Kansas City MO</a> (acted fast, won) &#183;
-<a href=/fights/surprise-az-ban/ style=color:var(--accent-warm)>Surprise AZ</a> (acted late, lost)</div></div><h2 class="mono dim" style="font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-top:36px;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid var(--border)">What Doesn't Work</h2><div class=card style="margin-bottom:14px;border-left:3px solid var(--accent)"><div class=card-title>Local Bans After Federal Purchase</div><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-top:6px>Federal preemption means city councils and zoning boards cannot prevent the federal government
-from using property it already owns. Surprise, Arizona passed a five-year ban on detention
-facilities &mdash; it is unenforceable. The lesson: if the building is already bought, you need
-infrastructure denial, lawsuits, or political pressure, not a vote.</p><div class=card-meta style=margin-top:8px><a href=/fights/surprise-az-ban/ style=color:var(--accent-warm)>Surprise AZ</a></div></div><div style="margin-top:36px;padding:20px;background:var(--bg-content-alt);border-radius:5px;border:1px solid var(--border)"><h3 class=serif style=font-size:18px;font-weight:400;margin-bottom:8px>Is your county being pitched?</h3><p style=font-size:13.5px;color:var(--text-secondary);line-height:1.65;margin-bottom:12px>Check the <a href=/map/ style=color:var(--accent-warm)>heat map</a> for signal convergence in your county.
-Read the <a href=/fights/ style=color:var(--accent-warm)>county fights</a> for detailed case studies.
-Use the <a href=/foia/ style=color:var(--accent-warm)>FOIA generator</a> to file public records requests.
-And <a href=/contribute/ style=color:var(--accent-warm)>contribute what you find</a>.</p><div style=display:flex;gap:8px;flex-wrap:wrap><a href=/map/ class="btn btn-sm btn-accent">Check Your County</a>
-<a href=/fights/ class="btn btn-sm">View All Fights</a>
-<a href=/foia/ class="btn btn-sm">FOIA Generator</a></div></div></div></div><footer class=site-footer><div class=footer-inner><div class=footer-links><a href=https://github.com/markramm/detention-pipeline>GitHub</a>
-<a href=/methodology/>Methodology</a>
-<a href=/contribute/>Contribute</a>
-<a href=https://theramm.substack.com>The RAMM</a></div><div>CC-BY-SA 4.0 · Built by <a href=https://theramm.substack.com>The RAMM</a></div></div></footer><script>document.getElementById("hamburger").onclick=function(){document.getElementById("mobile-nav").classList.toggle("open")}</script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8787&amp;path=livereload" data-no-instant defer></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Playbook &amp; Counter-Playbook · Detention Pipeline</title><meta name="description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:title" content="Playbook &amp; Counter-Playbook · Detention Pipeline">
+<meta property="og:description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://localhost:8787/tactics/">
+<meta property="og:site_name" content="Detention Pipeline">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Playbook &amp; Counter-Playbook · Detention Pipeline">
+<meta name="twitter:description" content="Early-warning system for ICE detention facility expansion">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg-deep: #0a0a0f;
+  --bg-panel: #111118;
+  --bg-surface: #161620;
+  --bg-elevated: #1e1e2a;
+  --bg-content: #f6f5f1;
+  --bg-content-alt: #edece8;
+  --text-primary: #1a1a1f;
+  --text-secondary: #4a4952;
+  --text-dim: #7a7882;
+  --text-light: #e8e6e1;
+  --border: #dddbd6;
+  --border-dark: #2a2a35;
+  --accent: #c93b3b;
+  --accent-hot: #e84545;
+  --accent-warm: #d46a2f;
+  --signal-igsa: #c93b3b;
+  --signal-287g: #d46a2f;
+  --signal-anc: #c49025;
+  --signal-commission: #6a8a1a;
+  --signal-job: #1a8a5a;
+  --signal-sheriff: #1a6a9a;
+  --signal-comms: #5a4fa5;
+  --signal-budget: #8a3fa5;
+  --signal-realestate: #a53f7a;
+  --signal-legislative: #4f5a6a;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-size: 15px;
+  color: var(--text-primary);
+  background: var(--bg-content);
+  -webkit-font-smoothing: antialiased;
+}
+
+ 
+.site-header {
+  background: var(--bg-deep);
+  color: var(--text-light);
+  padding: 0;
+  position: sticky; top: 0; z-index: 100;
+}
+.site-header-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.site-brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; }
+.site-brand h1 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 18px; font-weight: 400; color: var(--text-light);
+  letter-spacing: -0.01em;
+}
+.site-brand .brand-tag {
+  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--accent);
+  background: rgba(201,59,59,0.12); padding: 2px 6px;
+  border: 1px solid rgba(201,59,59,0.2); border-radius: 2px;
+}
+.site-nav { display: flex; gap: 4px; align-items: center; }
+.site-nav a {
+  font-size: 13px; color: rgba(232,230,225,0.5); text-decoration: none;
+  padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
+  font-weight: 400;
+}
+.site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.site-nav a.active { color: var(--text-light); background: rgba(255,255,255,0.08); }
+
+ 
+.breadcrumb {
+  max-width: 1200px; margin: 0 auto; padding: 14px 24px 0;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; color: var(--text-dim);
+}
+.breadcrumb a { color: var(--text-dim); text-decoration: none; }
+.breadcrumb a:hover { color: var(--text-secondary); }
+.breadcrumb .sep { margin: 0 6px; opacity: 0.4; }
+
+ 
+.page-content {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 60px;
+}
+
+ 
+.site-footer {
+  background: var(--bg-deep); color: rgba(232,230,225,0.4);
+  padding: 32px 24px; text-align: center;
+  font-size: 11px; line-height: 1.8;
+}
+.site-footer a { color: rgba(232,230,225,0.5); text-decoration: none; }
+.site-footer a:hover { color: var(--text-light); }
+.footer-inner { max-width: 1200px; margin: 0 auto; }
+.footer-links { display: flex; gap: 16px; justify-content: center; margin-bottom: 8px; }
+
+ 
+.signal-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  flex-shrink: 0; vertical-align: middle;
+}
+.signal-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; padding: 3px 8px;
+  border-radius: 3px; background: rgba(0,0,0,0.04);
+  border: 1px solid var(--border); color: var(--text-secondary);
+}
+.score-pill {
+  font-family: 'DM Mono', monospace; font-weight: 500;
+  display: inline-block; padding: 2px 8px; border-radius: 3px;
+  font-size: 13px;
+}
+.score-hot { color: var(--accent-hot); background: rgba(232,69,69,0.08); }
+.score-warm { color: var(--accent-warm); background: rgba(212,106,47,0.08); }
+.score-mid { color: var(--text-secondary); background: rgba(0,0,0,0.04); }
+.score-low { color: var(--text-dim); background: rgba(0,0,0,0.03); }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500; padding: 8px 16px;
+  border-radius: 4px; text-decoration: none; cursor: pointer;
+  border: 1px solid var(--border); color: var(--text-secondary);
+  background: white; transition: all 0.12s;
+}
+.btn:hover { border-color: var(--text-dim); color: var(--text-primary); }
+.btn-accent {
+  background: var(--accent); color: white; border-color: var(--accent);
+}
+.btn-accent:hover { background: var(--accent-hot); border-color: var(--accent-hot); color: white; }
+.btn-sm { font-size: 11px; padding: 5px 10px; }
+.btn svg { width: 14px; height: 14px; }
+
+.mono { font-family: 'DM Mono', monospace; }
+.serif { font-family: 'Instrument Serif', Georgia, serif; }
+.dim { color: var(--text-dim); }
+.small { font-size: 11px; }
+
+ 
+.data-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.data-table th {
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--text-dim); text-align: left;
+  padding: 8px 10px; border-bottom: 2px solid var(--border);
+}
+.data-table td {
+  padding: 8px 10px; border-bottom: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.data-table tr:hover td { background: rgba(0,0,0,0.02); }
+.data-table a { color: var(--text-primary); text-decoration: none; }
+.data-table a:hover { text-decoration: underline; }
+
+ 
+.card {
+  background: white; border: 1px solid var(--border); border-radius: 5px;
+  padding: 16px 20px; margin-bottom: 12px; transition: border-color 0.12s;
+}
+.card:hover { border-color: var(--text-dim); }
+.card a { text-decoration: none; color: inherit; }
+.card-title { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
+.card-meta { font-size: 12px; color: var(--text-dim); }
+
+ 
+.hamburger { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+.hamburger span { display: block; width: 20px; height: 2px; background: var(--text-light); margin: 4px 0; }
+.mobile-nav { display: none; background: var(--bg-deep); padding: 8px 24px 16px; border-bottom: 1px solid var(--border-dark); }
+.mobile-nav.open { display: block; }
+.mobile-nav a { display: block; padding: 8px 0; color: rgba(232,230,225,0.6); text-decoration: none; font-size: 14px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.mobile-nav a:hover { color: var(--text-light); }
+
+@media (max-width: 768px) {
+  .hamburger { display: block; }
+  .site-nav { display: none; }
+  .site-header-inner { padding: 10px 16px; }
+  .page-content { padding: 0 16px 40px; }
+  .breadcrumb { padding: 10px 16px 0; }
+  .data-table { font-size: 11px; }
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Detention Pipeline",
+  "url": "https://detention-pipeline.transparencycascade.org/",
+  "description": "Early-warning system for ICE detention facility expansion"
+}
+</script>
+
+
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="site-brand">
+      <h1>Detention Pipeline</h1>
+      <span class="brand-tag">Early Warning</span>
+    </a>
+    <nav class="site-nav">
+      <a href="/map/" >Map</a>
+      <a href="/fights/" >Fights</a>
+      <a href="/tactics/" class="active">Tactics</a>
+      <a href="/county/" >Counties</a>
+      <a href="/players/" >Players</a>
+      <a href="/network/" >Network</a>
+      <a href="/facilities/" >Facilities</a>
+      <a href="/methodology/" >Methodology</a>
+      <a href="/contribute/" >Contribute</a>
+    </nav>
+    <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+<div class="mobile-nav" id="mobile-nav">
+  <a href="/map/">Map</a>
+  <a href="/fights/">Fights</a>
+  <a href="/tactics/">Tactics</a>
+  <a href="/county/">Counties</a>
+  <a href="/players/">Players</a>
+  <a href="/network/">Network</a>
+  <a href="/facilities/">Facilities</a>
+  <a href="/methodology/">Methodology</a>
+  <a href="/contribute/">Contribute</a>
+</div>
+
+
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>Playbook &amp; Counter-Playbook
+</div>
+<div class="page-content">
+  <div style="max-width:820px; padding-top:24px;">
+    <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-bottom:8px;">
+      <h1 class="serif" style="font-size:32px; font-weight:400;">Playbook &amp; Counter-Playbook</h1>
+      <span class="mono dim" style="font-size:10px;">13 fights tracked &middot; April 2026</span>
+    </div>
+    <p style="font-size:15px; color:var(--text-secondary); line-height:1.7; margin-bottom:36px;">
+      Across 13 documented county fights, the same tactics appear again and again &mdash; from the consultants
+      pushing deals and from the communities that stopped them. This page synthesizes both playbooks so
+      communities facing a new pitch can recognize what's coming and respond with what works.
+    </p>
+
+    
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:16px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      The Consultant Playbook
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:20px;">
+      Detention consultants like <a href="/players/contractors/sabot-consulting/" style="color:var(--accent-warm);">Sabot Consulting</a>
+      follow a repeatable formula to push IGSA deals through county commissions. These tactics have been
+      documented across multiple fights.
+    </p>
+
+    
+    <div class="card" style="margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Sheriff Conference Recruitment</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 01</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Consultants recruit sheriffs at law enforcement conferences, pitching detention facilities as economic
+        development. The sheriff becomes the internal champion who brings the proposal to the county commission.
+        In Bradford County, Sheriff Gordon Smith was approached by a former Osceola County Chief Deputy working
+        with Sabot.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in: <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Closed-Session Presentations</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 02</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Initial briefings happen behind closed doors &mdash; executive sessions, private meetings with
+        commissioners, or sheriff-only presentations &mdash; before the public learns about the proposal.
+        The Sabot briefing package for Bradford County was marked DRAFT and prepared for internal distribution,
+        not public review.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in: <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">NDA-Protected Negotiations</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 03</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Non-disclosure agreements keep the details of proposals hidden from the public and from commissioners
+        who might oppose them. By the time the public learns of a deal, key terms are already negotiated.
+        This is part of the "comms discipline" signal type tracked across the pipeline.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in: <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Opposition Framing</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 04</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Critics are dismissed as outsiders, politically motivated, or tools of NGOs. In Bradford County,
+        Sheriff Smith characterized opposition as "hate-filled vigor" and claimed critics were "from other
+        areas around us" and didn't represent the county. This framing attempts to delegitimize local
+        residents who oppose the deal.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in: <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Personal Attacks on Critics</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 05</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Individual opponents are singled out by name at public meetings. In Bradford County, Sheriff Smith
+        personally attacked a critic (Mr. Still) by name at the March 3, 2026 commission meeting. This
+        tactic is meant to intimidate other residents from speaking up.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in: <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Revenue Projection Framing</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 06</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        The deal is presented as fiscal salvation for distressed counties: jobs, revenue, an alternative
+        to raising taxes. Bradford County's pitch promised 1,250 jobs and $239M/year at full capacity.
+        These projections frame detention as economic development, making a moral question into a fiscal one.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in: <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Environmental Risk Minimization</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 07</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Known environmental hazards are downplayed or ignored. In Bradford County, the proposed site has
+        15 years of VOC groundwater contamination monitored by FDEP, with contamination spreading to 30
+        properties. The Sabot proposal acknowledged "vapor intrusion" as a risk but the lease was placed
+        on the commission agenda before environmental studies were complete.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in: <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Fast-Tracking Votes Before Studies Complete</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 08</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Votes are scheduled before environmental, infrastructure, or fiscal impact studies are finished.
+        In Bradford County, the April 7 BOCC agenda included both the FDEP site access agreement (to begin
+        environmental studies) AND the sheriff's lease (to proceed with the facility) &mdash; scheduling the
+        commitment before the investigation.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in: <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Federal Purchase Without Local Notice</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 09</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        In the warehouse purchase model, DHS buys property through shell companies or quiet transactions
+        without notifying the city, state, or public. The community learns about it after the deal is
+        done and federal preemption limits their options. This bypasses every democratic check the IGSA
+        model at least pretends to honor.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in:
+        <a href="/fights/romulus-mi-warehouse-fight/" style="color:var(--accent-warm);">Romulus MI</a>,
+        <a href="/fights/salt-lake-city-ut-mega-center-fight/" style="color:var(--accent-warm);">Salt Lake City UT</a>,
+        <a href="/fights/surprise-az-ban/" style="color:var(--accent-warm);">Surprise AZ</a>,
+        <a href="/fights/roxbury-nj-lawsuit/" style="color:var(--accent-warm);">Roxbury NJ</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:24px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Unilateral Official Action</div>
+        <span class="mono dim" style="font-size:10px;">TACTIC 10</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        A single county official (sheriff, county attorney) signs an ICE agreement without board approval,
+        then refuses to comply when the board objects. In Pinal County, County Attorney Brad Miller signed
+        a 287(g) agreement without board authorization, then ignored the Board of Supervisors' unanimous
+        order to terminate it.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        Seen in: <a href="/fights/pinal-county-az-rogue-attorney/" style="color:var(--accent-warm);">Pinal County AZ</a>
+      </div>
+    </div>
+
+    
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:16px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      What Works &mdash; Counter-Tactics
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:20px;">
+      Of the 13 documented fights, at least 7 have successfully blocked or paused detention proposals.
+      The tactics that worked fall into distinct categories. Communities facing a new fight should
+      identify which tools are available to them based on their specific situation.
+    </p>
+
+    
+    <div class="card" style="margin-bottom:14px; border-left:3px solid #2a8a5a;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Legal Challenges &mdash; City, State, and AG Lawsuits</div>
+        <span class="mono" style="font-size:10px; color:#2a8a5a;">BLOCKED / LITIGATION</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        When the federal government purchases property without local consent, lawsuits are the primary
+        tool. In Romulus, Michigan Attorney General Dana Nessel and the city filed suit arguing the
+        warehouse is in a floodplain, near schools, and lacks infrastructure. In Roxbury, New Jersey,
+        the governor, AG, and township all filed suit &mdash; the broadest coalition of legal opposition of
+        any fight. In Pinal County, the Board of Supervisors sued their own county attorney and obtained
+        a restraining order.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/romulus-mi-warehouse-fight/" style="color:var(--accent-warm);">Romulus MI</a> &middot;
+        <a href="/fights/roxbury-nj-lawsuit/" style="color:var(--accent-warm);">Roxbury NJ</a> &middot;
+        <a href="/fights/pinal-county-az-rogue-attorney/" style="color:var(--accent-warm);">Pinal County AZ</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px; border-left:3px solid #2a8a5a;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Tribal Sovereignty &mdash; Purchasing the Property</div>
+        <span class="mono" style="font-size:10px; color:#2a8a5a;">BLOCKED</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        The Choctaw Nation purchased a Durant, Oklahoma warehouse that DHS had targeted for ICE conversion,
+        directly outbidding the federal government. Unlike municipal tools (lawsuits, zoning), a private
+        purchase removes the property entirely from federal reach. This is the most creative and
+        definitive resistance action documented.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/durant-ok-choctaw-nation/" style="color:var(--accent-warm);">Durant OK</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px; border-left:3px solid #2a8a5a;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Infrastructure Denial &mdash; Water and Sewer</div>
+        <span class="mono" style="font-size:10px; color:#2a8a5a;">BLOCKED / CONTESTED</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Cities control municipal water and sewer systems. If a facility's demand exceeds capacity, the city
+        has a legitimate, non-political basis to refuse service. Social Circle, Georgia locked the water meter
+        at a planned 10,000-bed mega center because its projected 1M gallon/day sewage demand exceeded the
+        city's entire 660K gallon/day treatment capacity. Salt Lake City replicated this tactic with water
+        use restrictions in March 2026.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/social-circle-ga-water-shutoff/" style="color:var(--accent-warm);">Social Circle GA</a> &middot;
+        <a href="/fights/salt-lake-city-ut-mega-center-fight/" style="color:var(--accent-warm);">Salt Lake City UT</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px; border-left:3px solid #2a8a5a;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Environmental Challenges</div>
+        <span class="mono" style="font-size:10px; color:#c49025;">CONTESTED</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Documenting environmental hazards &mdash; contaminated groundwater, floodplains, proximity to
+        sensitive areas &mdash; creates legal and political obstacles. In Bradford County, 15 years of
+        VOC groundwater contamination became a central argument against the facility. In Romulus, the
+        warehouse's location in a floodplain that flooded as recently as 2025 is a key element of the
+        lawsuit.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a> &middot;
+        <a href="/fights/romulus-mi-warehouse-fight/" style="color:var(--accent-warm);">Romulus MI</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px; border-left:3px solid #2a8a5a;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Seller Pressure &mdash; Making the Deal Toxic</div>
+        <span class="mono" style="font-size:10px; color:#2a8a5a;">BLOCKED</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Federal preemption means you can't ban the government from buying &mdash; but you can make the seller
+        unwilling to sell. In Kansas City, weeks of mass protests, student walkouts, a general strike, and
+        Port KC severing ties with the developer caused Platform Ventures to withdraw from the $80M sale.
+        The same pattern succeeded in Shakopee MN and Hanover VA, where warehouse owners declined or
+        terminated deals after community pressure.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/kansas-city-mo-platform-ventures/" style="color:var(--accent-warm);">Kansas City MO</a> &middot;
+        <a href="/fights/shakopee-mn-rejected/" style="color:var(--accent-warm);">Shakopee MN</a> &middot;
+        <a href="/fights/hanover-va-terminated/" style="color:var(--accent-warm);">Hanover VA</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px; border-left:3px solid #2a8a5a;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Commission Vote Organizing</div>
+        <span class="mono" style="font-size:10px; color:#2a8a5a;">BLOCKED / CONTESTED</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        In the IGSA model, the county commission votes. That means commissioners are the pressure point.
+        Showing up at meetings, organizing public comment, and lobbying individual commissioners works.
+        In Kansas City, the council blocked permits unanimously within hours of learning about the ICE
+        warehouse tour. In Bradford County, Commissioners Spooner and Riddick voted against the proposal
+        (3-2) after community organizing.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/kansas-city-mo-platform-ventures/" style="color:var(--accent-warm);">Kansas City MO</a> &middot;
+        <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px; border-left:3px solid #2a8a5a;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Public Records Requests and Transparency Demands</div>
+        <span class="mono" style="font-size:10px; color:#2a8a5a;">FORCE MULTIPLIER</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        FOIA and state public records requests surface the details that consultants want hidden:
+        contracts, meeting minutes, environmental reports, communications between officials and
+        consultants. In Bradford County, public records and leaked documents exposed the Sabot
+        briefing package. In Merrimack, NH, the state government released internal ICE planning
+        documents that revealed the 34-facility Detention Reengineering Initiative to the public
+        for the first time.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/bradford-county-fl-douglas-building/" style="color:var(--accent-warm);">Bradford County FL</a> &middot;
+        <a href="/fights/merrimack-nh-paused/" style="color:var(--accent-warm);">Merrimack NH</a> &middot;
+        <a href="/foia/" style="color:var(--accent-warm);">FOIA Request Generator</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px; border-left:3px solid #2a8a5a;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Media Coverage and Public Attention</div>
+        <span class="mono" style="font-size:10px; color:#2a8a5a;">FORCE MULTIPLIER</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        National media coverage transforms a local zoning fight into a political liability. Kansas City
+        drew coverage from KCUR, NPR, and national outlets that made Platform Ventures' sale politically
+        untenable. Salt Lake City's fight drew sustained coverage from KUER, the Tribune, Axios, and
+        national press. Protests generate the images that drive coverage: 700+ in Romulus, hundreds in
+        Salt Lake City, 1,500+ organized in Roxbury via Project NINJA.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/kansas-city-mo-platform-ventures/" style="color:var(--accent-warm);">Kansas City MO</a> &middot;
+        <a href="/fights/salt-lake-city-ut-mega-center-fight/" style="color:var(--accent-warm);">Salt Lake City UT</a> &middot;
+        <a href="/fights/romulus-mi-warehouse-fight/" style="color:var(--accent-warm);">Romulus MI</a> &middot;
+        <a href="/fights/roxbury-nj-lawsuit/" style="color:var(--accent-warm);">Roxbury NJ</a>
+      </div>
+    </div>
+
+    
+    <div class="card" style="margin-bottom:14px; border-left:3px solid #2a8a5a;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:6px;">
+        <div class="card-title">Speed &mdash; Acting Before the Deal Closes</div>
+        <span class="mono" style="font-size:10px; color:#2a8a5a;">CRITICAL FACTOR</span>
+      </div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        The single most important variable across all fights is timing. Kansas City succeeded because
+        the council acted within hours. Surprise, Arizona passed a ban &mdash; but the purchase was already
+        complete, making it unenforceable. Once the federal government owns the building, options narrow
+        dramatically. Early detection is everything.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/kansas-city-mo-platform-ventures/" style="color:var(--accent-warm);">Kansas City MO</a> (acted fast, won) &middot;
+        <a href="/fights/surprise-az-ban/" style="color:var(--accent-warm);">Surprise AZ</a> (acted late, lost)
+      </div>
+    </div>
+
+    
+    <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:36px; margin-bottom:16px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      What Doesn't Work
+    </h2>
+
+    <div class="card" style="margin-bottom:14px; border-left:3px solid var(--accent);">
+      <div class="card-title">Local Bans After Federal Purchase</div>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-top:6px;">
+        Federal preemption means city councils and zoning boards cannot prevent the federal government
+        from using property it already owns. Surprise, Arizona passed a five-year ban on detention
+        facilities &mdash; it is unenforceable. The lesson: if the building is already bought, you need
+        infrastructure denial, lawsuits, or political pressure, not a vote.
+      </p>
+      <div class="card-meta" style="margin-top:8px;">
+        <a href="/fights/surprise-az-ban/" style="color:var(--accent-warm);">Surprise AZ</a>
+      </div>
+    </div>
+
+    <div style="margin-top:36px; padding:20px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border);">
+      <h3 class="serif" style="font-size:18px; font-weight:400; margin-bottom:8px;">Is your county being pitched?</h3>
+      <p style="font-size:13.5px; color:var(--text-secondary); line-height:1.65; margin-bottom:12px;">
+        Check the <a href="/map/" style="color:var(--accent-warm);">heat map</a> for signal convergence in your county.
+        Read the <a href="/fights/" style="color:var(--accent-warm);">county fights</a> for detailed case studies.
+        Use the <a href="/foia/" style="color:var(--accent-warm);">FOIA generator</a> to file public records requests.
+        And <a href="/contribute/" style="color:var(--accent-warm);">contribute what you find</a>.
+      </p>
+      <div style="display:flex; gap:8px; flex-wrap:wrap;">
+        <a href="/map/" class="btn btn-sm btn-accent">Check Your County</a>
+        <a href="/fights/" class="btn btn-sm">View All Fights</a>
+        <a href="/foia/" class="btn btn-sm">FOIA Generator</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
+      <a href="/methodology/">Methodology</a>
+      <a href="/contribute/">Contribute</a>
+      <a href="https://theramm.substack.com">The RAMM</a>
+    </div>
+    <div>CC-BY-SA 4.0 · Built by <a href="https://theramm.substack.com">The RAMM</a></div>
+  </div>
+</footer>
+
+<script>document.getElementById('hamburger').onclick=function(){document.getElementById('mobile-nav').classList.toggle('open')};</script>
+</body>
+</html>

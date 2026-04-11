@@ -1,0 +1,363 @@
+{{ define "head" }}
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+body { background: #0a0a0f; }
+.site-footer { display: none; }
+.page-content { max-width: none; padding: 0; }
+
+#network-wrap {
+  width: 100vw; height: calc(100vh - 42px);
+  position: relative; overflow: hidden;
+  background: #0a0a0f;
+}
+
+/* Tab bar */
+.net-tabs {
+  position: absolute; top: 0; left: 0; right: 0; z-index: 20;
+  background: linear-gradient(180deg, #0a0a0f 0%, #0a0a0f 70%, transparent 100%);
+  padding: 14px 24px 28px;
+  color: #e8e6e1;
+}
+.net-title { font-family: 'Instrument Serif', serif; font-size: 22px; font-weight: 400; margin-bottom: 4px; }
+.net-sub { font-size: 11px; color: #8a8892; margin-bottom: 10px; }
+.tab-row { display: flex; gap: 4px; }
+.tab-btn {
+  font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.06em;
+  text-transform: uppercase; color: #55535e; padding: 5px 12px; border-radius: 3px;
+  border: 1px solid #2a2a35; background: transparent; cursor: pointer;
+  transition: all 0.12s;
+}
+.tab-btn:hover { color: #e8e6e1; border-color: #353542; }
+.tab-btn.active { color: #e8e6e1; background: rgba(255,255,255,0.06); border-color: #353542; }
+
+/* Panels */
+.net-panel { display: none; width: 100%; height: 100%; }
+.net-panel.active { display: block; }
+
+/* Revolving door diagram */
+#rd-svg { width: 100%; height: 100%; }
+.rd-gov-label, .rd-priv-label {
+  font-family: 'DM Mono', monospace; font-size: 11px; fill: #8a8892;
+  letter-spacing: 0.06em; text-transform: uppercase;
+}
+.rd-node-label {
+  font-family: 'IBM Plex Sans', sans-serif; font-size: 12px; fill: #e8e6e1;
+  cursor: pointer;
+}
+.rd-node-label:hover { fill: #ffffff; }
+.rd-person-label {
+  font-family: 'Instrument Serif', serif; font-size: 14px; fill: #e8e6e1;
+  cursor: pointer;
+}
+.rd-person-label:hover { fill: #ffffff; }
+.rd-role-label {
+  font-family: 'IBM Plex Sans', sans-serif; font-size: 9px; fill: #55535e;
+}
+.rd-link {
+  fill: none; stroke-width: 1.5; opacity: 0.5;
+  transition: opacity 0.15s, stroke-width 0.15s;
+}
+.rd-link:hover { opacity: 0.9; stroke-width: 2.5; }
+.rd-link.gov { stroke: #4a7ab5; }
+.rd-link.priv { stroke: #d46a2f; }
+.rd-node-dot {
+  cursor: pointer; transition: r 0.15s;
+}
+.rd-node-dot:hover { r: 7; }
+
+/* Conflict matrix */
+#cm-svg { width: 100%; height: 100%; }
+.cm-cell { cursor: pointer; transition: opacity 0.1s; }
+.cm-cell:hover { opacity: 1 !important; }
+.cm-label {
+  font-family: 'IBM Plex Sans', sans-serif; font-size: 11px; fill: #8a8892;
+}
+.cm-header {
+  font-family: 'DM Mono', monospace; font-size: 9px; fill: #55535e;
+  letter-spacing: 0.06em; text-transform: uppercase;
+}
+
+/* Tooltip */
+#net-tip {
+  position: fixed; z-index: 200; pointer-events: none;
+  opacity: 0; transition: opacity 0.1s; max-width: 320px;
+}
+#net-tip.vis { opacity: 1; }
+.net-tip-in {
+  background: #111118; border: 1px solid #353542; border-radius: 5px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5); padding: 10px 14px;
+  color: #e8e6e1; font-size: 12px; line-height: 1.5;
+}
+.net-tip-title {
+  font-family: 'Instrument Serif', serif; font-size: 15px; margin-bottom: 4px;
+}
+.net-tip-meta { font-size: 10px; color: #55535e; }
+.net-tip-detail { font-size: 11px; color: #8a8892; margin-top: 4px; }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="page-content">
+<div id="network-wrap">
+
+  <div class="net-tabs">
+    <div class="net-title">The Detention-Industrial Network</div>
+    <div class="net-sub">Follow the people and money connecting government to the detention industry</div>
+    <div class="tab-row">
+      <button class="tab-btn active" data-tab="revolving-door">Revolving Door</button>
+      <button class="tab-btn" data-tab="conflict-matrix">Conflicts of Interest</button>
+    </div>
+  </div>
+
+  <div id="revolving-door" class="net-panel active">
+    <svg id="rd-svg"></svg>
+  </div>
+
+  <div id="conflict-matrix" class="net-panel">
+    <svg id="cm-svg"></svg>
+  </div>
+
+</div>
+<div id="net-tip"><div class="net-tip-in" id="net-tip-in"></div></div>
+</div>
+
+<script>
+// Tab switching
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.net-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById(btn.dataset.tab).classList.add('active');
+  });
+});
+
+const tip = document.getElementById('net-tip');
+const tipIn = document.getElementById('net-tip-in');
+function showTip(e, html) {
+  tipIn.innerHTML = html;
+  let x = e.clientX + 14, y = e.clientY + 14;
+  if (x + 300 > window.innerWidth) x = e.clientX - 300;
+  if (y + 200 > window.innerHeight) y = e.clientY - 200;
+  tip.style.left = x + 'px'; tip.style.top = y + 'px';
+  tip.classList.add('vis');
+}
+function hideTip() { tip.classList.remove('vis'); }
+
+async function init() {
+  const data = await d3.json('/network.json');
+  drawRevolvingDoor(data.revolving_door);
+  drawConflictMatrix(data.conflict_matrix);
+}
+
+function drawRevolvingDoor(data) {
+  const wrap = document.getElementById('revolving-door');
+  const W = wrap.clientWidth, H = wrap.clientHeight;
+  const svg = d3.select('#rd-svg').attr('width', W).attr('height', H);
+
+  const padTop = 100, padBottom = 40, padLeft = 60, padRight = 60;
+  const colGov = W * 0.15;      // Government column
+  const colPerson = W * 0.5;    // People column (center)
+  const colPriv = W * 0.85;     // Private sector column
+
+  // Separate nodes by type
+  const govNodes = data.nodes.filter(n => n.type === 'government');
+  const personNodes = data.nodes.filter(n => n.type === 'person');
+  const privNodes = data.nodes.filter(n => n.type === 'contractor' || n.type === 'organization');
+
+  // Filter to only nodes that have links
+  const linkedIds = new Set();
+  data.links.forEach(l => { linkedIds.add(l.source); linkedIds.add(l.target); });
+  const activeGov = govNodes.filter((_, i) => {
+    const nodeIdx = data.nodes.indexOf(_);
+    return linkedIds.has(nodeIdx);
+  });
+  const activePriv = privNodes.filter((_, i) => {
+    const nodeIdx = data.nodes.indexOf(_);
+    return linkedIds.has(nodeIdx);
+  });
+
+  // Position nodes vertically
+  const usableH = H - padTop - padBottom;
+  activeGov.forEach((n, i) => { n.x = colGov; n.y = padTop + (i + 0.5) * usableH / activeGov.length; });
+  personNodes.forEach((n, i) => { n.x = colPerson; n.y = padTop + (i + 0.5) * usableH / personNodes.length; });
+  activePriv.forEach((n, i) => { n.x = colPriv; n.y = padTop + (i + 0.5) * usableH / activePriv.length; });
+
+  // Column headers
+  svg.append('text').attr('x', colGov).attr('y', padTop - 20).attr('text-anchor', 'middle')
+    .attr('class', 'rd-gov-label').text('Government');
+  svg.append('text').attr('x', colPerson).attr('y', padTop - 20).attr('text-anchor', 'middle')
+    .attr('class', 'rd-gov-label').text('Officials');
+  svg.append('text').attr('x', colPriv).attr('y', padTop - 20).attr('text-anchor', 'middle')
+    .attr('class', 'rd-priv-label').text('Private Sector');
+
+  // Draw curved links
+  data.links.forEach(link => {
+    const src = data.nodes[link.source];
+    const tgt = data.nodes[link.target];
+    if (!src.x || !tgt.x) return;
+
+    const isGov = link.type === 'government-service';
+    const midX = (src.x + tgt.x) / 2;
+
+    const path = svg.append('path')
+      .attr('class', `rd-link ${isGov ? 'gov' : 'priv'}`)
+      .attr('d', `M${src.x},${src.y} C${midX},${src.y} ${midX},${tgt.y} ${tgt.x},${tgt.y}`)
+      .on('mouseover', function(e) {
+        d3.select(this).attr('opacity', 0.9).attr('stroke-width', 2.5);
+        showTip(e, `<div class="net-tip-meta">${isGov ? 'Government Service' : 'Revolving Door'}</div><div class="net-tip-detail">${link.label || ''}</div>`);
+      })
+      .on('mouseout', function() {
+        d3.select(this).attr('opacity', 0.5).attr('stroke-width', 1.5);
+        hideTip();
+      });
+  });
+
+  // Draw government nodes
+  activeGov.forEach(n => {
+    const g = svg.append('g').style('cursor', 'pointer');
+    g.append('circle').attr('cx', n.x).attr('cy', n.y).attr('r', 5)
+      .attr('fill', '#4a7ab5').attr('class', 'rd-node-dot');
+    g.append('text').attr('x', n.x - 12).attr('y', n.y + 4).attr('text-anchor', 'end')
+      .attr('class', 'rd-node-label').text(n.label);
+  });
+
+  // Draw person nodes
+  personNodes.forEach(n => {
+    const g = svg.append('g').style('cursor', 'pointer')
+      .on('click', () => { if (n.url) window.location.href = n.url; });
+    g.append('circle').attr('cx', n.x).attr('cy', n.y).attr('r', 6)
+      .attr('fill', '#e8e6e1').attr('class', 'rd-node-dot');
+    g.append('text').attr('x', n.x).attr('y', n.y - 12).attr('text-anchor', 'middle')
+      .attr('class', 'rd-person-label').text(n.label);
+    if (n.role) {
+      g.append('text').attr('x', n.x).attr('y', n.y + 18).attr('text-anchor', 'middle')
+        .attr('class', 'rd-role-label').text(n.role);
+    }
+    g.on('mouseover', (e) => {
+      showTip(e, `<div class="net-tip-title">${n.label}</div><div class="net-tip-meta">${n.role || ''}</div>`);
+    }).on('mouseout', hideTip);
+  });
+
+  // Draw private sector nodes
+  activePriv.forEach(n => {
+    const g = svg.append('g').style('cursor', 'pointer')
+      .on('click', () => { if (n.url) window.location.href = n.url; });
+    g.append('circle').attr('cx', n.x).attr('cy', n.y).attr('r', 5)
+      .attr('fill', '#d46a2f').attr('class', 'rd-node-dot');
+    g.append('text').attr('x', n.x + 12).attr('y', n.y + 4).attr('text-anchor', 'start')
+      .attr('class', 'rd-node-label').text(n.label);
+    g.on('mouseover', (e) => {
+      showTip(e, `<div class="net-tip-title">${n.label}</div><div class="net-tip-meta">${n.type}</div>`);
+    }).on('mouseout', hideTip);
+  });
+}
+
+function drawConflictMatrix(data) {
+  const wrap = document.getElementById('conflict-matrix');
+  const W = wrap.clientWidth, H = wrap.clientHeight;
+  const svg = d3.select('#cm-svg').attr('width', W).attr('height', H);
+
+  const cellW = 90, cellH = 55;
+  const matrixW = data.companies.length * cellW;
+  const matrixH = data.officials.length * cellH;
+  const padLeft = Math.max(220, (W - matrixW) / 2);
+  const padTop = 160;
+  const padRight = 40, padBottom = 40;
+
+  // Company headers (rotated)
+  data.companies.forEach((co, i) => {
+    const x = padLeft + i * cellW + cellW / 2;
+    svg.append('text')
+      .attr('x', x).attr('y', padTop - 10)
+      .attr('text-anchor', 'start')
+      .attr('transform', `rotate(-45, ${x}, ${padTop - 10})`)
+      .attr('class', 'cm-label')
+      .text(co.name);
+  });
+
+  // Official rows
+  data.officials.forEach((off, j) => {
+    const y = padTop + j * cellH + cellH / 2;
+
+    // Row label
+    svg.append('text')
+      .attr('x', padLeft - 10).attr('y', y + 4)
+      .attr('text-anchor', 'end')
+      .attr('class', 'cm-label')
+      .text(off.name);
+
+    // Role
+    svg.append('text')
+      .attr('x', padLeft - 10).attr('y', y + 16)
+      .attr('text-anchor', 'end')
+      .attr('font-size', '8px').attr('fill', '#55535e')
+      .attr('font-family', "'DM Mono', monospace")
+      .text(off.role);
+
+    // Row background
+    svg.append('rect')
+      .attr('x', padLeft).attr('y', y - cellH / 2)
+      .attr('width', data.companies.length * cellW).attr('height', cellH)
+      .attr('fill', j % 2 === 0 ? 'rgba(255,255,255,0.015)' : 'transparent');
+  });
+
+  // Conflict type colors
+  const typeColors = {
+    'stock': '#e84545',
+    'stock/bonds': '#e84545',
+    'stock/PE': '#e84545',
+    'stock+fund': '#e84545',
+    'compensation': '#d46a2f',
+    'pension': '#c49025',
+    'equity': '#2a9f6f',
+    'investment': '#2a7fb5',
+    'employment': '#6a5fb5',
+    'procurement': '#9a4fb5',
+  };
+
+  // Draw conflict cells
+  data.ties.forEach(tie => {
+    const offIdx = data.officials.findIndex(o => o.id === tie[0]);
+    const coIdx = data.companies.findIndex(c => c.id === tie[1]);
+    if (offIdx < 0 || coIdx < 0) return;
+
+    const x = padLeft + coIdx * cellW;
+    const y = padTop + offIdx * cellH;
+    const color = typeColors[tie[2]] || '#8a8892';
+
+    svg.append('rect')
+      .attr('x', x + 2).attr('y', y + 2)
+      .attr('width', cellW - 4).attr('height', cellH - 4)
+      .attr('rx', 3).attr('ry', 3)
+      .attr('fill', color).attr('opacity', 0.7)
+      .attr('class', 'cm-cell')
+      .on('mouseover', function(e) {
+        d3.select(this).attr('opacity', 1);
+        const off = data.officials[offIdx];
+        const co = data.companies[coIdx];
+        showTip(e, `<div class="net-tip-title">${off.name} → ${co.name}</div><div class="net-tip-meta">${tie[2]}</div><div class="net-tip-detail">${tie[3]}</div>`);
+      })
+      .on('mouseout', function() {
+        d3.select(this).attr('opacity', 0.7);
+        hideTip();
+      });
+  });
+
+  // Legend
+  const legendY = padTop + data.officials.length * cellH + 30;
+  const legendTypes = ['stock', 'compensation', 'pension', 'equity', 'investment', 'employment', 'procurement'];
+  legendTypes.forEach((t, i) => {
+    const x = padLeft + i * 100;
+    svg.append('rect').attr('x', x).attr('y', legendY).attr('width', 10).attr('height', 10)
+      .attr('rx', 2).attr('fill', typeColors[t]).attr('opacity', 0.7);
+    svg.append('text').attr('x', x + 14).attr('y', legendY + 9)
+      .attr('font-size', '9px').attr('fill', '#55535e')
+      .attr('font-family', "'DM Mono', monospace")
+      .text(t);
+  });
+}
+
+init();
+</script>
+{{ end }}

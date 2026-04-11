@@ -641,6 +641,16 @@ max_score: {heat_data[0]['score'] if heat_data else 0}
 ---
 """)
 
+    # Network page
+    (CONTENT_PATH / "network").mkdir(parents=True, exist_ok=True)
+    with open(CONTENT_PATH / "network" / "_index.md", "w") as f:
+        f.write("""---
+title: "The Network"
+type: network
+layout: single
+---
+""")
+
     # County list index — no type override so Hugo uses county/ templates
     with open(CONTENT_PATH / "county" / "_index.md", "w") as f:
         f.write(f"""---

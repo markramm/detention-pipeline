@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8787&amp;path=livereload" data-no-instant defer></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Network · Detention Pipeline</title><meta name="description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:title" content="The Network · Detention Pipeline">
+<meta property="og:description" content="Early-warning system for ICE detention facility expansion">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://localhost:8787/network/">
+<meta property="og:site_name" content="Detention Pipeline">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="The Network · Detention Pipeline">
+<meta name="twitter:description" content="Early-warning system for ICE detention facility expansion">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg-deep: #0a0a0f;
+  --bg-panel: #111118;
+  --bg-surface: #161620;
+  --bg-elevated: #1e1e2a;
+  --bg-content: #f6f5f1;
+  --bg-content-alt: #edece8;
+  --text-primary: #1a1a1f;
+  --text-secondary: #4a4952;
+  --text-dim: #7a7882;
+  --text-light: #e8e6e1;
+  --border: #dddbd6;
+  --border-dark: #2a2a35;
+  --accent: #c93b3b;
+  --accent-hot: #e84545;
+  --accent-warm: #d46a2f;
+  --signal-igsa: #c93b3b;
+  --signal-287g: #d46a2f;
+  --signal-anc: #c49025;
+  --signal-commission: #6a8a1a;
+  --signal-job: #1a8a5a;
+  --signal-sheriff: #1a6a9a;
+  --signal-comms: #5a4fa5;
+  --signal-budget: #8a3fa5;
+  --signal-realestate: #a53f7a;
+  --signal-legislative: #4f5a6a;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-size: 15px;
+  color: var(--text-primary);
+  background: var(--bg-content);
+  -webkit-font-smoothing: antialiased;
+}
+
+ 
+.site-header {
+  background: var(--bg-deep);
+  color: var(--text-light);
+  padding: 0;
+  position: sticky; top: 0; z-index: 100;
+}
+.site-header-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.site-brand { display: flex; align-items: baseline; gap: 10px; text-decoration: none; }
+.site-brand h1 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 18px; font-weight: 400; color: var(--text-light);
+  letter-spacing: -0.01em;
+}
+.site-brand .brand-tag {
+  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--accent);
+  background: rgba(201,59,59,0.12); padding: 2px 6px;
+  border: 1px solid rgba(201,59,59,0.2); border-radius: 2px;
+}
+.site-nav { display: flex; gap: 4px; align-items: center; }
+.site-nav a {
+  font-size: 13px; color: rgba(232,230,225,0.5); text-decoration: none;
+  padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
+  font-weight: 400;
+}
+.site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
+.site-nav a.active { color: var(--text-light); background: rgba(255,255,255,0.08); }
+
+ 
+.breadcrumb {
+  max-width: 1200px; margin: 0 auto; padding: 14px 24px 0;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; color: var(--text-dim);
+}
+.breadcrumb a { color: var(--text-dim); text-decoration: none; }
+.breadcrumb a:hover { color: var(--text-secondary); }
+.breadcrumb .sep { margin: 0 6px; opacity: 0.4; }
+
+ 
+.page-content {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 60px;
+}
+
+ 
+.site-footer {
+  background: var(--bg-deep); color: rgba(232,230,225,0.4);
+  padding: 32px 24px; text-align: center;
+  font-size: 11px; line-height: 1.8;
+}
+.site-footer a { color: rgba(232,230,225,0.5); text-decoration: none; }
+.site-footer a:hover { color: var(--text-light); }
+.footer-inner { max-width: 1200px; margin: 0 auto; }
+.footer-links { display: flex; gap: 16px; justify-content: center; margin-bottom: 8px; }
+
+ 
+.signal-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  flex-shrink: 0; vertical-align: middle;
+}
+.signal-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.04em; padding: 3px 8px;
+  border-radius: 3px; background: rgba(0,0,0,0.04);
+  border: 1px solid var(--border); color: var(--text-secondary);
+}
+.score-pill {
+  font-family: 'DM Mono', monospace; font-weight: 500;
+  display: inline-block; padding: 2px 8px; border-radius: 3px;
+  font-size: 13px;
+}
+.score-hot { color: var(--accent-hot); background: rgba(232,69,69,0.08); }
+.score-warm { color: var(--accent-warm); background: rgba(212,106,47,0.08); }
+.score-mid { color: var(--text-secondary); background: rgba(0,0,0,0.04); }
+.score-low { color: var(--text-dim); background: rgba(0,0,0,0.03); }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500; padding: 8px 16px;
+  border-radius: 4px; text-decoration: none; cursor: pointer;
+  border: 1px solid var(--border); color: var(--text-secondary);
+  background: white; transition: all 0.12s;
+}
+.btn:hover { border-color: var(--text-dim); color: var(--text-primary); }
+.btn-accent {
+  background: var(--accent); color: white; border-color: var(--accent);
+}
+.btn-accent:hover { background: var(--accent-hot); border-color: var(--accent-hot); color: white; }
+.btn-sm { font-size: 11px; padding: 5px 10px; }
+.btn svg { width: 14px; height: 14px; }
+
+.mono { font-family: 'DM Mono', monospace; }
+.serif { font-family: 'Instrument Serif', Georgia, serif; }
+.dim { color: var(--text-dim); }
+.small { font-size: 11px; }
+
+ 
+.data-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.data-table th {
+  font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--text-dim); text-align: left;
+  padding: 8px 10px; border-bottom: 2px solid var(--border);
+}
+.data-table td {
+  padding: 8px 10px; border-bottom: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+.data-table tr:hover td { background: rgba(0,0,0,0.02); }
+.data-table a { color: var(--text-primary); text-decoration: none; }
+.data-table a:hover { text-decoration: underline; }
+
+ 
+.card {
+  background: white; border: 1px solid var(--border); border-radius: 5px;
+  padding: 16px 20px; margin-bottom: 12px; transition: border-color 0.12s;
+}
+.card:hover { border-color: var(--text-dim); }
+.card a { text-decoration: none; color: inherit; }
+.card-title { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
+.card-meta { font-size: 12px; color: var(--text-dim); }
+
+ 
+.hamburger { display: none; background: none; border: none; cursor: pointer; padding: 8px; }
+.hamburger span { display: block; width: 20px; height: 2px; background: var(--text-light); margin: 4px 0; }
+.mobile-nav { display: none; background: var(--bg-deep); padding: 8px 24px 16px; border-bottom: 1px solid var(--border-dark); }
+.mobile-nav.open { display: block; }
+.mobile-nav a { display: block; padding: 8px 0; color: rgba(232,230,225,0.6); text-decoration: none; font-size: 14px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.mobile-nav a:hover { color: var(--text-light); }
+
+@media (max-width: 768px) {
+  .hamburger { display: block; }
+  .site-nav { display: none; }
+  .site-header-inner { padding: 10px 16px; }
+  .page-content { padding: 0 16px 40px; }
+  .breadcrumb { padding: 10px 16px 0; }
+  .data-table { font-size: 11px; }
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Detention Pipeline",
+  "url": "https://detention-pipeline.transparencycascade.org/",
+  "description": "Early-warning system for ICE detention facility expansion"
+}
+</script>
+
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+body { background: #0a0a0f; }
+.site-footer { display: none; }
+.page-content { max-width: none; padding: 0; }
+
+#network-wrap {
+  width: 100vw; height: calc(100vh - 42px);
+  position: relative; overflow: hidden;
+  background: #0a0a0f;
+}
+
+ 
+.net-tabs {
+  position: absolute; top: 0; left: 0; right: 0; z-index: 20;
+  background: linear-gradient(180deg, #0a0a0f 0%, #0a0a0f 70%, transparent 100%);
+  padding: 14px 24px 28px;
+  color: #e8e6e1;
+}
+.net-title { font-family: 'Instrument Serif', serif; font-size: 22px; font-weight: 400; margin-bottom: 4px; }
+.net-sub { font-size: 11px; color: #8a8892; margin-bottom: 10px; }
+.tab-row { display: flex; gap: 4px; }
+.tab-btn {
+  font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.06em;
+  text-transform: uppercase; color: #55535e; padding: 5px 12px; border-radius: 3px;
+  border: 1px solid #2a2a35; background: transparent; cursor: pointer;
+  transition: all 0.12s;
+}
+.tab-btn:hover { color: #e8e6e1; border-color: #353542; }
+.tab-btn.active { color: #e8e6e1; background: rgba(255,255,255,0.06); border-color: #353542; }
+
+ 
+.net-panel { display: none; width: 100%; height: 100%; }
+.net-panel.active { display: block; }
+
+ 
+#rd-svg { width: 100%; height: 100%; }
+.rd-gov-label, .rd-priv-label {
+  font-family: 'DM Mono', monospace; font-size: 11px; fill: #8a8892;
+  letter-spacing: 0.06em; text-transform: uppercase;
+}
+.rd-node-label {
+  font-family: 'IBM Plex Sans', sans-serif; font-size: 12px; fill: #e8e6e1;
+  cursor: pointer;
+}
+.rd-node-label:hover { fill: #ffffff; }
+.rd-person-label {
+  font-family: 'Instrument Serif', serif; font-size: 14px; fill: #e8e6e1;
+  cursor: pointer;
+}
+.rd-person-label:hover { fill: #ffffff; }
+.rd-role-label {
+  font-family: 'IBM Plex Sans', sans-serif; font-size: 9px; fill: #55535e;
+}
+.rd-link {
+  fill: none; stroke-width: 1.5; opacity: 0.5;
+  transition: opacity 0.15s, stroke-width 0.15s;
+}
+.rd-link:hover { opacity: 0.9; stroke-width: 2.5; }
+.rd-link.gov { stroke: #4a7ab5; }
+.rd-link.priv { stroke: #d46a2f; }
+.rd-node-dot {
+  cursor: pointer; transition: r 0.15s;
+}
+.rd-node-dot:hover { r: 7; }
+
+ 
+#cm-svg { width: 100%; height: 100%; }
+.cm-cell { cursor: pointer; transition: opacity 0.1s; }
+.cm-cell:hover { opacity: 1 !important; }
+.cm-label {
+  font-family: 'IBM Plex Sans', sans-serif; font-size: 11px; fill: #8a8892;
+}
+.cm-header {
+  font-family: 'DM Mono', monospace; font-size: 9px; fill: #55535e;
+  letter-spacing: 0.06em; text-transform: uppercase;
+}
+
+ 
+#net-tip {
+  position: fixed; z-index: 200; pointer-events: none;
+  opacity: 0; transition: opacity 0.1s; max-width: 320px;
+}
+#net-tip.vis { opacity: 1; }
+.net-tip-in {
+  background: #111118; border: 1px solid #353542; border-radius: 5px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5); padding: 10px 14px;
+  color: #e8e6e1; font-size: 12px; line-height: 1.5;
+}
+.net-tip-title {
+  font-family: 'Instrument Serif', serif; font-size: 15px; margin-bottom: 4px;
+}
+.net-tip-meta { font-size: 10px; color: #55535e; }
+.net-tip-detail { font-size: 11px; color: #8a8892; margin-top: 4px; }
+</style>
+
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="site-brand">
+      <h1>Detention Pipeline</h1>
+      <span class="brand-tag">Early Warning</span>
+    </a>
+    <nav class="site-nav">
+      <a href="/map/" >Map</a>
+      <a href="/fights/" >Fights</a>
+      <a href="/tactics/" >Tactics</a>
+      <a href="/county/" >Counties</a>
+      <a href="/players/" >Players</a>
+      <a href="/network/" class="active">Network</a>
+      <a href="/facilities/" >Facilities</a>
+      <a href="/methodology/" >Methodology</a>
+      <a href="/contribute/" >Contribute</a>
+    </nav>
+    <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+<div class="mobile-nav" id="mobile-nav">
+  <a href="/map/">Map</a>
+  <a href="/fights/">Fights</a>
+  <a href="/tactics/">Tactics</a>
+  <a href="/county/">Counties</a>
+  <a href="/players/">Players</a>
+  <a href="/network/">Network</a>
+  <a href="/facilities/">Facilities</a>
+  <a href="/methodology/">Methodology</a>
+  <a href="/contribute/">Contribute</a>
+</div>
+
+
+<div class="page-content">
+<div id="network-wrap">
+
+  <div class="net-tabs">
+    <div class="net-title">The Detention-Industrial Network</div>
+    <div class="net-sub">Follow the people and money connecting government to the detention industry</div>
+    <div class="tab-row">
+      <button class="tab-btn active" data-tab="revolving-door">Revolving Door</button>
+      <button class="tab-btn" data-tab="conflict-matrix">Conflicts of Interest</button>
+    </div>
+  </div>
+
+  <div id="revolving-door" class="net-panel active">
+    <svg id="rd-svg"></svg>
+  </div>
+
+  <div id="conflict-matrix" class="net-panel">
+    <svg id="cm-svg"></svg>
+  </div>
+
+</div>
+<div id="net-tip"><div class="net-tip-in" id="net-tip-in"></div></div>
+</div>
+
+<script>
+
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.net-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById(btn.dataset.tab).classList.add('active');
+  });
+});
+
+const tip = document.getElementById('net-tip');
+const tipIn = document.getElementById('net-tip-in');
+function showTip(e, html) {
+  tipIn.innerHTML = html;
+  let x = e.clientX + 14, y = e.clientY + 14;
+  if (x + 300 > window.innerWidth) x = e.clientX - 300;
+  if (y + 200 > window.innerHeight) y = e.clientY - 200;
+  tip.style.left = x + 'px'; tip.style.top = y + 'px';
+  tip.classList.add('vis');
+}
+function hideTip() { tip.classList.remove('vis'); }
+
+async function init() {
+  const data = await d3.json('/network.json');
+  drawRevolvingDoor(data.revolving_door);
+  drawConflictMatrix(data.conflict_matrix);
+}
+
+function drawRevolvingDoor(data) {
+  const wrap = document.getElementById('revolving-door');
+  const W = wrap.clientWidth, H = wrap.clientHeight;
+  const svg = d3.select('#rd-svg').attr('width', W).attr('height', H);
+
+  const padTop = 100, padBottom = 40, padLeft = 60, padRight = 60;
+  const colGov = W * 0.15;      
+  const colPerson = W * 0.5;    
+  const colPriv = W * 0.85;     
+
+  
+  const govNodes = data.nodes.filter(n => n.type === 'government');
+  const personNodes = data.nodes.filter(n => n.type === 'person');
+  const privNodes = data.nodes.filter(n => n.type === 'contractor' || n.type === 'organization');
+
+  
+  const linkedIds = new Set();
+  data.links.forEach(l => { linkedIds.add(l.source); linkedIds.add(l.target); });
+  const activeGov = govNodes.filter((_, i) => {
+    const nodeIdx = data.nodes.indexOf(_);
+    return linkedIds.has(nodeIdx);
+  });
+  const activePriv = privNodes.filter((_, i) => {
+    const nodeIdx = data.nodes.indexOf(_);
+    return linkedIds.has(nodeIdx);
+  });
+
+  
+  const usableH = H - padTop - padBottom;
+  activeGov.forEach((n, i) => { n.x = colGov; n.y = padTop + (i + 0.5) * usableH / activeGov.length; });
+  personNodes.forEach((n, i) => { n.x = colPerson; n.y = padTop + (i + 0.5) * usableH / personNodes.length; });
+  activePriv.forEach((n, i) => { n.x = colPriv; n.y = padTop + (i + 0.5) * usableH / activePriv.length; });
+
+  
+  svg.append('text').attr('x', colGov).attr('y', padTop - 20).attr('text-anchor', 'middle')
+    .attr('class', 'rd-gov-label').text('Government');
+  svg.append('text').attr('x', colPerson).attr('y', padTop - 20).attr('text-anchor', 'middle')
+    .attr('class', 'rd-gov-label').text('Officials');
+  svg.append('text').attr('x', colPriv).attr('y', padTop - 20).attr('text-anchor', 'middle')
+    .attr('class', 'rd-priv-label').text('Private Sector');
+
+  
+  data.links.forEach(link => {
+    const src = data.nodes[link.source];
+    const tgt = data.nodes[link.target];
+    if (!src.x || !tgt.x) return;
+
+    const isGov = link.type === 'government-service';
+    const midX = (src.x + tgt.x) / 2;
+
+    const path = svg.append('path')
+      .attr('class', `rd-link ${isGov ? 'gov' : 'priv'}`)
+      .attr('d', `M${src.x},${src.y} C${midX},${src.y} ${midX},${tgt.y} ${tgt.x},${tgt.y}`)
+      .on('mouseover', function(e) {
+        d3.select(this).attr('opacity', 0.9).attr('stroke-width', 2.5);
+        showTip(e, `<div class="net-tip-meta">${isGov ? 'Government Service' : 'Revolving Door'}</div><div class="net-tip-detail">${link.label || ''}</div>`);
+      })
+      .on('mouseout', function() {
+        d3.select(this).attr('opacity', 0.5).attr('stroke-width', 1.5);
+        hideTip();
+      });
+  });
+
+  
+  activeGov.forEach(n => {
+    const g = svg.append('g').style('cursor', 'pointer');
+    g.append('circle').attr('cx', n.x).attr('cy', n.y).attr('r', 5)
+      .attr('fill', '#4a7ab5').attr('class', 'rd-node-dot');
+    g.append('text').attr('x', n.x - 12).attr('y', n.y + 4).attr('text-anchor', 'end')
+      .attr('class', 'rd-node-label').text(n.label);
+  });
+
+  
+  personNodes.forEach(n => {
+    const g = svg.append('g').style('cursor', 'pointer')
+      .on('click', () => { if (n.url) window.location.href = n.url; });
+    g.append('circle').attr('cx', n.x).attr('cy', n.y).attr('r', 6)
+      .attr('fill', '#e8e6e1').attr('class', 'rd-node-dot');
+    g.append('text').attr('x', n.x).attr('y', n.y - 12).attr('text-anchor', 'middle')
+      .attr('class', 'rd-person-label').text(n.label);
+    if (n.role) {
+      g.append('text').attr('x', n.x).attr('y', n.y + 18).attr('text-anchor', 'middle')
+        .attr('class', 'rd-role-label').text(n.role);
+    }
+    g.on('mouseover', (e) => {
+      showTip(e, `<div class="net-tip-title">${n.label}</div><div class="net-tip-meta">${n.role || ''}</div>`);
+    }).on('mouseout', hideTip);
+  });
+
+  
+  activePriv.forEach(n => {
+    const g = svg.append('g').style('cursor', 'pointer')
+      .on('click', () => { if (n.url) window.location.href = n.url; });
+    g.append('circle').attr('cx', n.x).attr('cy', n.y).attr('r', 5)
+      .attr('fill', '#d46a2f').attr('class', 'rd-node-dot');
+    g.append('text').attr('x', n.x + 12).attr('y', n.y + 4).attr('text-anchor', 'start')
+      .attr('class', 'rd-node-label').text(n.label);
+    g.on('mouseover', (e) => {
+      showTip(e, `<div class="net-tip-title">${n.label}</div><div class="net-tip-meta">${n.type}</div>`);
+    }).on('mouseout', hideTip);
+  });
+}
+
+function drawConflictMatrix(data) {
+  const wrap = document.getElementById('conflict-matrix');
+  const W = wrap.clientWidth, H = wrap.clientHeight;
+  const svg = d3.select('#cm-svg').attr('width', W).attr('height', H);
+
+  const cellW = 90, cellH = 55;
+  const matrixW = data.companies.length * cellW;
+  const matrixH = data.officials.length * cellH;
+  const padLeft = Math.max(220, (W - matrixW) / 2);
+  const padTop = 160;
+  const padRight = 40, padBottom = 40;
+
+  
+  data.companies.forEach((co, i) => {
+    const x = padLeft + i * cellW + cellW / 2;
+    svg.append('text')
+      .attr('x', x).attr('y', padTop - 10)
+      .attr('text-anchor', 'start')
+      .attr('transform', `rotate(-45, ${x}, ${padTop - 10})`)
+      .attr('class', 'cm-label')
+      .text(co.name);
+  });
+
+  
+  data.officials.forEach((off, j) => {
+    const y = padTop + j * cellH + cellH / 2;
+
+    
+    svg.append('text')
+      .attr('x', padLeft - 10).attr('y', y + 4)
+      .attr('text-anchor', 'end')
+      .attr('class', 'cm-label')
+      .text(off.name);
+
+    
+    svg.append('text')
+      .attr('x', padLeft - 10).attr('y', y + 16)
+      .attr('text-anchor', 'end')
+      .attr('font-size', '8px').attr('fill', '#55535e')
+      .attr('font-family', "'DM Mono', monospace")
+      .text(off.role);
+
+    
+    svg.append('rect')
+      .attr('x', padLeft).attr('y', y - cellH / 2)
+      .attr('width', data.companies.length * cellW).attr('height', cellH)
+      .attr('fill', j % 2 === 0 ? 'rgba(255,255,255,0.015)' : 'transparent');
+  });
+
+  
+  const typeColors = {
+    'stock': '#e84545',
+    'stock/bonds': '#e84545',
+    'stock/PE': '#e84545',
+    'stock+fund': '#e84545',
+    'compensation': '#d46a2f',
+    'pension': '#c49025',
+    'equity': '#2a9f6f',
+    'investment': '#2a7fb5',
+    'employment': '#6a5fb5',
+    'procurement': '#9a4fb5',
+  };
+
+  
+  data.ties.forEach(tie => {
+    const offIdx = data.officials.findIndex(o => o.id === tie[0]);
+    const coIdx = data.companies.findIndex(c => c.id === tie[1]);
+    if (offIdx < 0 || coIdx < 0) return;
+
+    const x = padLeft + coIdx * cellW;
+    const y = padTop + offIdx * cellH;
+    const color = typeColors[tie[2]] || '#8a8892';
+
+    svg.append('rect')
+      .attr('x', x + 2).attr('y', y + 2)
+      .attr('width', cellW - 4).attr('height', cellH - 4)
+      .attr('rx', 3).attr('ry', 3)
+      .attr('fill', color).attr('opacity', 0.7)
+      .attr('class', 'cm-cell')
+      .on('mouseover', function(e) {
+        d3.select(this).attr('opacity', 1);
+        const off = data.officials[offIdx];
+        const co = data.companies[coIdx];
+        showTip(e, `<div class="net-tip-title">${off.name} → ${co.name}</div><div class="net-tip-meta">${tie[2]}</div><div class="net-tip-detail">${tie[3]}</div>`);
+      })
+      .on('mouseout', function() {
+        d3.select(this).attr('opacity', 0.7);
+        hideTip();
+      });
+  });
+
+  
+  const legendY = padTop + data.officials.length * cellH + 30;
+  const legendTypes = ['stock', 'compensation', 'pension', 'equity', 'investment', 'employment', 'procurement'];
+  legendTypes.forEach((t, i) => {
+    const x = padLeft + i * 100;
+    svg.append('rect').attr('x', x).attr('y', legendY).attr('width', 10).attr('height', 10)
+      .attr('rx', 2).attr('fill', typeColors[t]).attr('opacity', 0.7);
+    svg.append('text').attr('x', x + 14).attr('y', legendY + 9)
+      .attr('font-size', '9px').attr('fill', '#55535e')
+      .attr('font-family', "'DM Mono', monospace")
+      .text(t);
+  });
+}
+
+init();
+</script>
+
+
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="https://github.com/markramm/detention-pipeline">GitHub</a>
+      <a href="/methodology/">Methodology</a>
+      <a href="/contribute/">Contribute</a>
+      <a href="https://theramm.substack.com">The RAMM</a>
+    </div>
+    <div>CC-BY-SA 4.0 · Built by <a href="https://theramm.substack.com">The RAMM</a></div>
+  </div>
+</footer>
+
+<script>document.getElementById('hamburger').onclick=function(){document.getElementById('mobile-nav').classList.toggle('open')};</script>
+</body>
+</html>
