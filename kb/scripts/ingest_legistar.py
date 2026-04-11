@@ -65,10 +65,10 @@ CLOSED_SESSION_KEYWORDS = [
 
 # Counties to monitor — VALIDATED against Legistar API (2026-04-11)
 # Format: (legistar_client_id, county_name, state, fips)
-# Find client IDs at: https://webapi.legistar.com/Home/Examples
-# Validation: curl -s -o /dev/null -w "%{http_code}" "https://webapi.legistar.com/v1/{client}/Bodies"
+# Validation: https://webapi.legistar.com/v1/{client}/Bodies returns 200
+# Full validated list also at: kb/scripts/data/legistar_counties.json
 MONITORED_COUNTIES = [
-    # Florida (7)
+    # Florida (8)
     ("broward", "Broward", "FL", "12011"),                    # Score 129
     ("miamidade", "Miami-Dade", "FL", "12086"),               # Score 111
     ("hillsboroughcounty", "Hillsborough", "FL", "12057"),    # Score 74
@@ -83,21 +83,44 @@ MONITORED_COUNTIES = [
     ("fulton", "Fulton", "GA", "13121"),                      # Score 57
     # Texas (1)
     ("harriscountytx", "Harris", "TX", "48201"),              # Score 59
-    # Arizona (1)
+    # Arizona (2)
     ("maricopa", "Maricopa", "AZ", "04013"),                  # Score 72
+    ("pima", "Pima", "AZ", "04019"),
     # Virginia (1)
     ("albemarle", "Albemarle", "VA", "51003"),                # Score 65
     # Oklahoma (1)
     ("oklahomacounty", "Oklahoma", "OK", "40109"),            # Score 49
-    # California (2)
+    # California (6)
     ("lacounty", "Los Angeles", "CA", "06037"),               # Score 64
     ("sacramento", "Sacramento", "CA", "06067"),              # Score 44
+    ("occompt", "Orange", "CA", "06059"),                     # Score 74
+    ("sdcounty", "San Diego", "CA", "06073"),                 # Score 74
+    ("monterey", "Monterey", "CA", "06053"),
+    ("eldorado", "El Dorado", "CA", "06017"),
+    # North Carolina (2)
+    ("mecklenburg", "Mecklenburg", "NC", "37119"),
+    ("wake", "Wake", "NC", "37183"),
+    # Maryland (3)
+    ("princegeorgescountymd", "Prince Georges", "MD", "24033"),
+    ("montgomerycountymd", "Montgomery", "MD", "24031"),
+    ("baltimore", "Baltimore City", "MD", "24510"),
+    # Florida (1 more — Jacksonville)
+    ("jaxcityc", "Duval", "FL", "12031"),
+    # Other states
+    ("cook-county", "Cook", "IL", "17031"),
+    ("louisville", "Jefferson", "KY", "21111"),
+    ("hennepinmn", "Hennepin", "MN", "27053"),
+    ("kingcounty", "King", "WA", "53033"),
+    ("whatcom", "Whatcom", "WA", "53073"),
+    ("dane", "Dane", "WI", "55025"),
+    ("westchestercountyny", "Westchester", "NY", "36119"),
+    ("sfgov", "San Francisco", "CA", "06075"),
+    ("mauicounty", "Maui", "HI", "15009"),
 
     # NOT on Legistar (as of 2026-04-11) — need alternative monitoring:
     # Wayne MI (122), Charlton GA (110), Palm Beach FL (109), Pinal AZ (107),
     # Bradford FL (100), Webb TX (99), Stewart GA (80), Frio TX (80),
-    # Chatham GA (79), San Diego CA (74), Orange CA (74), Cobb GA (65),
-    # Gwinnett GA, Kern CA, Essex NJ, Bernalillo NM
+    # Chatham GA (79), Cobb GA (65), Gwinnett GA, Kern CA, Essex NJ
 ]
 
 

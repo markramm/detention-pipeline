@@ -127,7 +127,25 @@ if should_run "jobs"; then
   echo ""
 fi
 
-# ── 5. Sync Pyrite KB → local kb/ ──
+# ── 5. Budget distress (USDA + BLS) ──
+if should_run "budget"; then
+  echo "── Budget distress (USDA + BLS) ──"
+  python3 "$SCRIPTS_DIR/ingest_budget_distress.py" --min-score 3 $DRY_RUN \
+    --output /tmp/budget_distress.json || echo "  WARNING: Budget distress ingest failed"
+
+  if [ -z "$DRY_RUN" ] && [ -f /tmp/budget_distress.json ]; then
+    COUNT=$(python3 -c "import json; print(len(json.load(open('/tmp/budget_distress.json'))))" 2>/dev/null || echo 0)
+    if [ "$COUNT" -gt 0 ]; then
+      echo "  Importing $COUNT budget distress entries..."
+      kb import /tmp/budget_distress.json -k "$KB_NAME" || echo "  WARNING: Import failed"
+    else
+      echo "  No distressed counties found above threshold"
+    fi
+  fi
+  echo ""
+fi
+
+# ── 6. Sync Pyrite KB → local kb/ ──
 if [ -z "$DRY_RUN" ]; then
   echo "── Syncing Pyrite KB → local kb/ ──"
   # Sync signal-type directories from Pyrite KB to local repo
