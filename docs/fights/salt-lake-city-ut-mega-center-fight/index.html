@@ -252,6 +252,47 @@ body {
 </script>
 
 
+<style>
+ 
+.fight-content ul {
+  list-style: none; padding-left: 0; margin: 0 0 20px;
+}
+.fight-content ul li {
+  position: relative; padding: 8px 0 8px 24px;
+  border-left: 2px solid var(--border);
+  margin-left: 6px;
+}
+.fight-content ul li::before {
+  content: '';
+  position: absolute; left: -5px; top: 14px;
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--bg-content); border: 2px solid var(--accent-warm);
+}
+.fight-content ul li:last-child { border-left-color: transparent; }
+.fight-content ul li strong {
+  color: var(--text-primary); font-weight: 600;
+}
+ 
+.fight-content ul ul {
+  list-style: disc; padding-left: 20px; margin: 4px 0;
+}
+.fight-content ul ul li {
+  border-left: none; padding: 2px 0; margin-left: 0;
+}
+.fight-content ul ul li::before { display: none; }
+
+ 
+.fight-content h2 {
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--text-dim); margin-top: 28px; margin-bottom: 12px;
+  padding-bottom: 8px; border-bottom: 2px solid var(--border);
+}
+.fight-content h3 {
+  font-size: 16px; font-weight: 500; margin-top: 20px; margin-bottom: 8px;
+}
+</style>
+
 </head>
 <body>
 
@@ -271,6 +312,7 @@ body {
           <a href="/county/">Counties</a>
           <a href="/state/">By State</a>
           <a href="/signals/">By Signal Type</a>
+          <a href="/timeline/">Timeline</a>
           <a href="/players/">Players</a>
           <a href="/network/">Network</a>
           <a href="/facilities/">Facilities</a>
@@ -282,6 +324,7 @@ body {
         <button class="nav-group-trigger ">Help Build</button>
         <div class="nav-dropdown">
           <a href="/contribute/">Contribute</a>
+          <a href="/resources/">Resources</a>
           <a href="/coverage/">Coverage Gaps</a>
           <a href="/methodology/">Methodology</a>
         </div>
@@ -301,12 +344,14 @@ body {
   <a href="/county/" style="padding-left:12px;">Counties</a>
   <a href="/state/" style="padding-left:12px;">By State</a>
   <a href="/signals/" style="padding-left:12px;">By Signal Type</a>
+  <a href="/timeline/" style="padding-left:12px;">Timeline</a>
   <a href="/players/" style="padding-left:12px;">Players</a>
   <a href="/network/" style="padding-left:12px;">Network</a>
   <a href="/facilities/" style="padding-left:12px;">Facilities</a>
   <a href="/foia/" style="padding-left:12px;">FOIA Generator</a>
   <span class="mobile-nav-group-label">Help Build</span>
   <a href="/contribute/" style="padding-left:12px;">Contribute</a>
+  <a href="/resources/" style="padding-left:12px;">Resources</a>
   <a href="/coverage/" style="padding-left:12px;">Coverage Gaps</a>
   <a href="/methodology/" style="padding-left:12px;">Methodology</a>
 </div>
@@ -347,7 +392,7 @@ body {
     </div>
     
 
-    <div style="font-size:14.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:32px;">
+    <div class="fight-content" style="font-size:14.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:32px;">
       <h2 id="the-fight">The Fight</h2>
 <p>ICE purchased an 833,000 sq ft warehouse (see <a href="/facilities/salt-lake-city-ut-mega-center/">salt-lake-city-ut-mega-center</a>) for $145.4 million through a Delaware shell company on March 12, 2026. Mayor Erin Mendenhall disclosed that ICE plans it as a mega center for 7,500-10,000 people. The purchase was completed without city notification.</p>
 <h2 id="timeline">Timeline</h2>

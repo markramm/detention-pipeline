@@ -1,3 +1,46 @@
+{{ define "head" }}
+<style>
+/* Timeline styling for fight pages — transforms markdown list items into a visual timeline */
+.fight-content ul {
+  list-style: none; padding-left: 0; margin: 0 0 20px;
+}
+.fight-content ul li {
+  position: relative; padding: 8px 0 8px 24px;
+  border-left: 2px solid var(--border);
+  margin-left: 6px;
+}
+.fight-content ul li::before {
+  content: '';
+  position: absolute; left: -5px; top: 14px;
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--bg-content); border: 2px solid var(--accent-warm);
+}
+.fight-content ul li:last-child { border-left-color: transparent; }
+.fight-content ul li strong {
+  color: var(--text-primary); font-weight: 600;
+}
+/* Make nested lists (sub-items within timeline) normal */
+.fight-content ul ul {
+  list-style: disc; padding-left: 20px; margin: 4px 0;
+}
+.fight-content ul ul li {
+  border-left: none; padding: 2px 0; margin-left: 0;
+}
+.fight-content ul ul li::before { display: none; }
+
+/* Section headers within fight content */
+.fight-content h2 {
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--text-dim); margin-top: 28px; margin-bottom: 12px;
+  padding-bottom: 8px; border-bottom: 2px solid var(--border);
+}
+.fight-content h3 {
+  font-size: 16px; font-weight: 500; margin-top: 20px; margin-bottom: 8px;
+}
+</style>
+{{ end }}
+
 {{ define "main" }}
 {{ $repoURL := site.Params.repoURL }}
 
@@ -38,7 +81,7 @@
     </div>
     {{ end }}
 
-    <div style="font-size:14.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:32px;">
+    <div class="fight-content" style="font-size:14.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:32px;">
       {{ .Content }}
     </div>
 

@@ -77,6 +77,28 @@ body { background: #0a0a0f; }
   letter-spacing: 0.06em; text-transform: uppercase;
 }
 
+/* Filter toggles */
+.rd-filters {
+  position: absolute; bottom: 20px; left: 24px; right: 24px; z-index: 20;
+  display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start;
+}
+.rd-filter-group {
+  display: flex; flex-direction: column; gap: 4px;
+}
+.rd-filter-group-label {
+  font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: #55535e; margin-bottom: 2px;
+}
+.rd-filter-btn {
+  font-family: 'IBM Plex Sans', sans-serif; font-size: 10px;
+  color: #8a8892; padding: 2px 8px; border-radius: 2px;
+  border: 1px solid #2a2a35; background: transparent; cursor: pointer;
+  transition: all 0.12s; text-align: left; white-space: nowrap;
+}
+.rd-filter-btn:hover { color: #e8e6e1; border-color: #454555; }
+.rd-filter-btn.active { color: #e8e6e1; border-color: #555; background: rgba(255,255,255,0.08); }
+.rd-filter-btn.dimmed { opacity: 0.3; }
+
 /* Tooltip */
 #net-tip {
   position: fixed; z-index: 200; pointer-events: none;
@@ -109,8 +131,9 @@ body { background: #0a0a0f; }
     </div>
   </div>
 
-  <div id="revolving-door" class="net-panel active">
+  <div id="revolving-door" class="net-panel active" style="position:relative;">
     <svg id="rd-svg"></svg>
+    <div class="rd-filters" id="rd-filters"></div>
   </div>
 
   <div id="conflict-matrix" class="net-panel">
@@ -293,6 +316,95 @@ function drawRevolvingDoor(data) {
       showTip(e, `<div class="net-tip-title">${n.label}</div><div class="net-tip-meta">${n.type}</div>`);
     }).on('mouseout', hideTip);
   });
+
+  // Build filter toggles
+  const filtersDiv = document.getElementById('rd-filters');
+  let activeNodeFilter = null;
+
+  function buildFilters() {
+    const govGroup = document.createElement('div');
+    govGroup.className = 'rd-filter-group';
+    govGroup.innerHTML = '<div class="rd-filter-group-label">Government</div>';
+    activeGov.forEach(n => {
+      const btn = document.createElement('button');
+      btn.className = 'rd-filter-btn';
+      btn.textContent = n.label;
+      btn.dataset.nodeId = n.id;
+      btn.dataset.side = 'gov';
+      btn.addEventListener('click', () => toggleFilter(n, btn));
+      govGroup.appendChild(btn);
+    });
+
+    const privGroup = document.createElement('div');
+    privGroup.className = 'rd-filter-group';
+    privGroup.innerHTML = '<div class="rd-filter-group-label">Private Sector</div>';
+    activePriv.forEach(n => {
+      const btn = document.createElement('button');
+      btn.className = 'rd-filter-btn';
+      btn.textContent = n.label;
+      btn.dataset.nodeId = n.id;
+      btn.dataset.side = 'priv';
+      btn.addEventListener('click', () => toggleFilter(n, btn));
+      privGroup.appendChild(btn);
+    });
+
+    filtersDiv.innerHTML = '';
+    filtersDiv.appendChild(govGroup);
+    filtersDiv.appendChild(privGroup);
+  }
+
+  function toggleFilter(node, btn) {
+    if (activeNodeFilter === node.id) {
+      // Deactivate — show all
+      activeNodeFilter = null;
+      document.querySelectorAll('.rd-filter-btn').forEach(b => {
+        b.classList.remove('active', 'dimmed');
+      });
+      svg.selectAll('.rd-link').transition().duration(200).style('opacity', 0.5);
+      svg.selectAll('.rd-node-dot').transition().duration(200).style('opacity', 1);
+      svg.selectAll('.rd-node-label, .rd-person-label, .rd-role-label').transition().duration(200).style('opacity', 1);
+    } else {
+      // Activate — highlight connected nodes and links
+      activeNodeFilter = node.id;
+      const nodeIdx = data.nodes.indexOf(node);
+
+      // Find connected node indices
+      const connected = new Set([nodeIdx]);
+      data.links.forEach(l => {
+        if (l.source === nodeIdx) connected.add(l.target);
+        if (l.target === nodeIdx) connected.add(l.source);
+      });
+
+      // Dim all, then highlight connected
+      svg.selectAll('.rd-link').transition().duration(200)
+        .style('opacity', function() {
+          const d = d3.select(this).datum ? d3.select(this).datum() : null;
+          return 0.08;
+        });
+
+      // Re-highlight connected links
+      let linkIdx = 0;
+      data.links.forEach(link => {
+        if (link.source === nodeIdx || link.target === nodeIdx) {
+          svg.selectAll('.rd-link').filter((_, i) => i === linkIdx)
+            .transition().duration(200).style('opacity', 0.8);
+        }
+        const src = data.nodes[link.source];
+        const tgt = data.nodes[link.target];
+        if (src.x && tgt.x) linkIdx++;
+      });
+
+      // Update filter buttons
+      document.querySelectorAll('.rd-filter-btn').forEach(b => {
+        b.classList.remove('active', 'dimmed');
+        b.classList.add('dimmed');
+      });
+      btn.classList.remove('dimmed');
+      btn.classList.add('active');
+    }
+  }
+
+  buildFilters();
 }
 
 function drawConflictMatrix(data) {

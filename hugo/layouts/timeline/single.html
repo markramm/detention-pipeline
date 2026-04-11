@@ -1,0 +1,574 @@
+{{ define "head" }}
+<style>
+.tl-container {
+  background: var(--bg-deep); color: var(--text-light);
+  min-height: calc(100vh - 52px); padding: 0;
+}
+.tl-header {
+  max-width: 1200px; margin: 0 auto; padding: 24px 24px 16px;
+}
+.tl-header h1 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 28px; font-weight: 400; margin-bottom: 4px;
+}
+.tl-header p { font-size: 13px; color: rgba(232,230,225,0.5); }
+.tl-controls {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 12px;
+  display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
+}
+.tl-filter {
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  padding: 4px 10px; border-radius: 3px; cursor: pointer;
+  border: 1px solid rgba(255,255,255,0.12); background: transparent;
+  color: rgba(232,230,225,0.5); transition: all 0.12s;
+  letter-spacing: 0.04em; text-transform: uppercase;
+}
+.tl-filter:hover { border-color: rgba(255,255,255,0.3); color: rgba(232,230,225,0.8); }
+.tl-filter.active { color: white; }
+.tl-filter-sep {
+  width: 1px; height: 18px; background: rgba(255,255,255,0.1);
+  margin: 0 4px;
+}
+.tl-select {
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  padding: 4px 8px; border-radius: 3px; cursor: pointer;
+  border: 1px solid rgba(255,255,255,0.12); background: rgba(255,255,255,0.04);
+  color: rgba(232,230,225,0.6); letter-spacing: 0.02em;
+  -webkit-appearance: none; appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='5'%3E%3Cpath d='M0 0l4 5 4-5z' fill='%236a6878'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 6px center;
+  padding-right: 20px;
+}
+.tl-select:focus { outline: none; border-color: rgba(255,255,255,0.3); }
+.tl-select option { background: #111118; color: #e8e6e1; }
+.tl-chart { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+.tl-chart svg { width: 100%; }
+
+/* Tooltip */
+.tl-tooltip {
+  position: absolute; pointer-events: none; z-index: 200;
+  background: var(--bg-panel); border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 5px; padding: 10px 14px; max-width: 320px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+  font-size: 12px; color: var(--text-light);
+  opacity: 0; transition: opacity 0.12s;
+}
+.tl-tooltip.visible { opacity: 1; }
+.tl-tooltip-title { font-weight: 500; margin-bottom: 3px; font-size: 13px; }
+.tl-tooltip-meta { color: rgba(232,230,225,0.5); font-size: 11px; }
+.tl-tooltip-dot {
+  display: inline-block; width: 7px; height: 7px;
+  border-radius: 50%; margin-right: 5px; vertical-align: middle;
+}
+
+/* Stats bar */
+.tl-stats {
+  max-width: 1200px; margin: 0 auto; padding: 16px 24px 24px;
+  display: flex; gap: 24px; font-family: 'DM Mono', monospace;
+  font-size: 10px; color: rgba(232,230,225,0.4);
+  letter-spacing: 0.04em; text-transform: uppercase;
+}
+.tl-stat-val { color: var(--text-light); font-size: 16px; font-weight: 500; display: block; margin-bottom: 2px; text-transform: none; letter-spacing: 0; }
+
+/* Event list below chart */
+.tl-events {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 48px;
+}
+.tl-events-header {
+  display: flex; justify-content: space-between; align-items: baseline;
+  margin-bottom: 12px; padding-bottom: 8px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+.tl-event-row {
+  display: flex; align-items: baseline; gap: 10px; padding: 5px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  text-decoration: none; color: inherit; transition: background 0.1s;
+}
+.tl-event-row:hover { background: rgba(255,255,255,0.03); }
+.tl-event-date {
+  font-family: 'DM Mono', monospace; font-size: 11px;
+  color: rgba(232,230,225,0.4); min-width: 80px; flex-shrink: 0;
+}
+.tl-event-dot {
+  width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0;
+}
+.tl-event-title {
+  font-size: 13px; color: rgba(232,230,225,0.8); flex: 1;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.tl-event-loc {
+  font-size: 11px; color: rgba(232,230,225,0.3);
+  font-family: 'DM Mono', monospace; flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+  .tl-header { padding: 16px 16px 12px; }
+  .tl-controls { padding: 0 16px 8px; }
+  .tl-chart { padding: 0 8px; }
+  .tl-stats { padding: 12px 16px 16px; flex-wrap: wrap; gap: 16px; }
+  .tl-events { padding: 0 16px 32px; }
+  .tl-event-title { max-width: 200px; }
+}
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="tl-container">
+
+  <div class="tl-header">
+    <h1>Timeline</h1>
+    <p>{{ .Site.Data.timeline.metadata.total_events }} events from {{ .Site.Data.timeline.metadata.date_range.start }} to present. Showing the acceleration.</p>
+  </div>
+
+  <div class="tl-controls" id="tl-controls">
+    <button class="tl-filter active" data-filter="all">All</button>
+    <span class="tl-filter-sep"></span>
+    <button class="tl-filter" data-filter="287g-agreement" style="--fc:#d46a2f;">287(g)</button>
+    <button class="tl-filter" data-filter="anc-contract" style="--fc:#c49025;">ANC</button>
+    <button class="tl-filter" data-filter="igsa" style="--fc:#c93b3b;">IGSA</button>
+    <button class="tl-filter" data-filter="county-fight" style="--fc:#2a8a5a;">Fights</button>
+    <button class="tl-filter" data-filter="facility" style="--fc:#c93b3b;">Facilities</button>
+    <button class="tl-filter" data-filter="contractor" style="--fc:#8a5a2a;">Players</button>
+    <button class="tl-filter" data-filter="real-estate-trace" style="--fc:#b54f8a;">Real Estate</button>
+    <button class="tl-filter" data-filter="job-posting" style="--fc:#2a9f6f;">Jobs</button>
+    <span class="tl-filter-sep"></span>
+    <select id="tl-state-filter" class="tl-select">
+      <option value="">All states</option>
+    </select>
+    <span class="tl-filter-sep"></span>
+    <select id="tl-time-range" class="tl-select">
+      <option value="all">All time</option>
+      <option value="2025">Since 2025</option>
+      <option value="6m">Last 6 months</option>
+      <option value="3m">Last 3 months</option>
+      <option value="1m">Last month</option>
+    </select>
+    <button class="tl-filter" id="tl-zoom-reset" style="display:none;">Reset zoom</button>
+  </div>
+
+  <div class="tl-chart" id="tl-chart"></div>
+
+  <div class="tl-stats" id="tl-stats"></div>
+
+  <div class="tl-events" id="tl-events">
+    <div class="tl-events-header">
+      <span class="mono" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:rgba(232,230,225,0.4);">Recent Events</span>
+      <span class="mono" style="font-size:10px; color:rgba(232,230,225,0.3);" id="tl-event-count"></span>
+    </div>
+    <div id="tl-event-list"></div>
+  </div>
+</div>
+
+<div class="tl-tooltip" id="tl-tooltip">
+  <div class="tl-tooltip-title" id="tt-title"></div>
+  <div class="tl-tooltip-meta" id="tt-meta"></div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+(async function() {
+  const resp = await fetch('/timeline.json');
+  const timeline = await resp.json();
+  const events = timeline.events;
+  const monthly = timeline.monthly;
+
+  // Color map
+  const colors = {
+    '287g-agreement': '#d46a2f',
+    'anc-contract': '#c49025',
+    'igsa': '#c93b3b',
+    'county-fight': '#2a8a5a',
+    'facility': '#c93b3b',
+    'contractor': '#8a5a2a',
+    'person': '#5a2a8a',
+    'real-estate-trace': '#b54f8a',
+    'job-posting': '#2a9f6f',
+    'budget-distress': '#9a4fb5',
+    'commission-activity': '#8a9f2a',
+    'analysis': '#5a6a8a',
+    'contract': '#c49025',
+    'organization': '#4a7ab5',
+    'note': '#6a6a6a',
+    'event': '#5a7a6a',
+    'comms-discipline': '#6a5fb5',
+    'sheriff-network': '#2a7fb5',
+    'legislative-trace': '#5f6a7a',
+    'personnel-flow': '#7a4ab5',
+  };
+
+  // Filter state
+  let activeFilters = new Set(); // empty = show all
+  let activeState = ''; // empty = all states
+  let timeRange = 'all';
+
+  // Filter groupings
+  const filterGroups = {
+    '287g-agreement': ['287g-agreement'],
+    'anc-contract': ['anc-contract'],
+    'igsa': ['igsa'],
+    'county-fight': ['county-fight'],
+    'facility': ['facility'],
+    'contractor': ['contractor', 'person', 'organization', 'personnel-flow'],
+    'real-estate-trace': ['real-estate-trace'],
+    'job-posting': ['job-posting', 'commission-activity', 'comms-discipline', 'sheriff-network', 'legislative-trace'],
+  };
+
+  // The stacking order (bottom to top)
+  const stackOrder = [
+    'igsa', 'facility',
+    '287g-agreement',
+    'anc-contract',
+    'budget-distress',
+    'real-estate-trace',
+    'county-fight',
+    'contractor', 'person', 'organization', 'personnel-flow',
+    'job-posting', 'commission-activity', 'comms-discipline', 'sheriff-network', 'legislative-trace',
+    'contract', 'analysis', 'event', 'note',
+  ];
+
+  function getActiveTypes() {
+    if (activeFilters.size === 0) return null; // all
+    const types = new Set();
+    activeFilters.forEach(f => {
+      (filterGroups[f] || [f]).forEach(t => types.add(t));
+    });
+    return types;
+  }
+
+  function matchesFilter(type) {
+    const active = getActiveTypes();
+    return active === null || active.has(type);
+  }
+
+  function matchesAllFilters(event) {
+    if (!matchesFilter(event.type)) return false;
+    if (activeState && event.state !== activeState) return false;
+    return true;
+  }
+
+  function getTimeExtent() {
+    const now = new Date();
+    if (timeRange === '1m') return [new Date(now.getFullYear(), now.getMonth() - 1, 1), now];
+    if (timeRange === '3m') return [new Date(now.getFullYear(), now.getMonth() - 3, 1), now];
+    if (timeRange === '6m') return [new Date(now.getFullYear(), now.getMonth() - 6, 1), now];
+    if (timeRange === '2025') return [new Date('2025-01-01'), now];
+    return d3.extent(monthData, d => d.date);
+  }
+
+  // Parse monthly data
+  const parseMonth = d3.timeParse('%Y-%m');
+  const monthData = monthly.map(m => ({
+    ...m,
+    date: parseMonth(m.month),
+  })).filter(m => m.date);
+
+  // Chart dimensions
+  const container = document.getElementById('tl-chart');
+  const margin = { top: 20, right: 20, bottom: 30, left: 48 };
+  const width = container.clientWidth - margin.left - margin.right;
+  const height = 280;
+
+  const svg = d3.select('#tl-chart')
+    .append('svg')
+    .attr('viewBox', `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
+    .append('g')
+    .attr('transform', `translate(${margin.left},${margin.top})`);
+
+  // Scales
+  const x = d3.scaleTime()
+    .domain(d3.extent(monthData, d => d.date))
+    .range([0, width]);
+
+  const y = d3.scaleLinear()
+    .domain([0, d3.max(monthData, d => d.total) * 1.1])
+    .range([height, 0]);
+
+  // X axis (static)
+  svg.append('g')
+    .attr('class', 'x-axis')
+    .attr('transform', `translate(0,${height})`)
+    .call(d3.axisBottom(x).ticks(d3.timeYear.every(1)).tickFormat(d3.timeFormat('%Y')))
+    .selectAll('text')
+    .style('fill', 'rgba(232,230,225,0.4)')
+    .style('font-family', "'DM Mono', monospace")
+    .style('font-size', '10px');
+
+  // Y axis (will be updated on filter)
+  const yAxisG = svg.append('g').attr('class', 'y-axis');
+
+  function updateYAxis() {
+    yAxisG.transition().duration(300)
+      .call(d3.axisLeft(y).ticks(5).tickFormat(d3.format('d')));
+    yAxisG.selectAll('text')
+      .style('fill', 'rgba(232,230,225,0.4)')
+      .style('font-family', "'DM Mono', monospace")
+      .style('font-size', '10px');
+    yAxisG.selectAll('.domain').style('stroke', 'rgba(255,255,255,0.08)');
+    yAxisG.selectAll('.tick line').style('stroke', 'rgba(255,255,255,0.06)');
+  }
+
+  // Style axis lines
+  svg.selectAll('.domain').style('stroke', 'rgba(255,255,255,0.08)');
+  svg.selectAll('.tick line').style('stroke', 'rgba(255,255,255,0.06)');
+
+  // Stacked bar group
+  const barGroup = svg.append('g').attr('class', 'bars');
+  const barWidth = Math.max(2, width / monthData.length - 1);
+
+  // Tooltip
+  const tooltip = document.getElementById('tl-tooltip');
+  const ttTitle = document.getElementById('tt-title');
+  const ttMeta = document.getElementById('tt-meta');
+
+  // Key events annotation group (updated on each draw)
+  const annoGroup = svg.append('g').attr('class', 'annotations');
+  const inaugDate = new Date('2025-01-20');
+
+  function updateAnnotations() {
+    annoGroup.selectAll('*').remove();
+    const [tStart, tEnd] = getTimeExtent();
+    if (inaugDate >= tStart && inaugDate <= tEnd) {
+      annoGroup.append('line')
+        .attr('x1', x(inaugDate)).attr('x2', x(inaugDate))
+        .attr('y1', 0).attr('y2', height)
+        .style('stroke', 'rgba(232,69,69,0.3)')
+        .style('stroke-dasharray', '4,3');
+      annoGroup.append('text')
+        .attr('x', x(inaugDate) + 4).attr('y', 12)
+        .text('Jan 20, 2025')
+        .style('fill', 'rgba(232,69,69,0.5)')
+        .style('font-family', "'DM Mono', monospace")
+        .style('font-size', '9px');
+    }
+  }
+
+  function drawChart() {
+    const activeTypes = getActiveTypes();
+    const [tStart, tEnd] = getTimeExtent();
+
+    // Update X scale for time range
+    x.domain([tStart, tEnd]);
+    svg.select('.x-axis').transition().duration(300)
+      .call(d3.axisBottom(x).ticks(timeRange === '1m' ? 4 : timeRange === '3m' ? 6 : d3.timeYear.every(1)).tickFormat(
+        timeRange === '1m' || timeRange === '3m' ? d3.timeFormat('%b %Y') : d3.timeFormat('%Y')
+      ));
+    svg.select('.x-axis').selectAll('text')
+      .style('fill', 'rgba(232,230,225,0.4)')
+      .style('font-family', "'DM Mono', monospace")
+      .style('font-size', '10px');
+    svg.select('.x-axis').selectAll('.domain').style('stroke', 'rgba(255,255,255,0.08)');
+    svg.select('.x-axis').selectAll('.tick line').style('stroke', 'rgba(255,255,255,0.06)');
+
+    // Filter monthData by time range
+    const visibleMonths = monthData.filter(d => d.date >= tStart && d.date <= tEnd);
+
+    // If we have a state filter, we need per-event filtering, not just by_type
+    // For state filtering, recompute monthly by_type from events
+    let computedMonths = visibleMonths;
+    if (activeState) {
+      const monthMap = {};
+      events.forEach(e => {
+        if (activeState && e.state !== activeState) return;
+        const mk = e.date.slice(0, 7);
+        if (!monthMap[mk]) monthMap[mk] = { by_type: {}, total: 0 };
+        monthMap[mk].by_type[e.type] = (monthMap[mk].by_type[e.type] || 0) + 1;
+        monthMap[mk].total += 1;
+      });
+      computedMonths = visibleMonths.map(d => ({
+        ...d,
+        by_type: monthMap[d.month]?.by_type || {},
+        total: monthMap[d.month]?.total || 0,
+      }));
+    }
+
+    // Compute filtered totals for Y-axis scaling
+    const filteredTotals = computedMonths.map(d => {
+      if (!activeTypes) return d.total;
+      return Object.entries(d.by_type)
+        .filter(([t]) => activeTypes.has(t))
+        .reduce((s, [, c]) => s + c, 0);
+    });
+    const maxVal = d3.max(filteredTotals) || 1;
+    y.domain([0, maxVal * 1.1]);
+    updateYAxis();
+
+    // Determine which types to stack
+    const typesToShow = activeTypes ? stackOrder.filter(t => activeTypes.has(t)) : stackOrder;
+
+    // Dynamic bar width based on visible months
+    const dynBarWidth = Math.max(2, Math.min(20, width / Math.max(1, computedMonths.length) - 1));
+
+    // Build stacked data for each month
+    const stackData = computedMonths.map((d, i) => {
+      let cumY = 0;
+      const segments = [];
+      typesToShow.forEach(type => {
+        const count = d.by_type[type] || 0;
+        if (count > 0) {
+          segments.push({ type, count, y0: cumY, y1: cumY + count });
+          cumY += count;
+        }
+      });
+      return { date: d.date, segments, total: cumY, raw: d };
+    });
+
+    // Clear old bars
+    barGroup.selectAll('*').remove();
+
+    // Draw stacked bars
+    stackData.forEach(d => {
+      const barG = barGroup.append('g')
+        .attr('class', 'bar-stack')
+        .style('cursor', 'pointer');
+
+      d.segments.forEach(seg => {
+        barG.append('rect')
+          .attr('x', x(d.date) - dynBarWidth / 2)
+          .attr('y', y(seg.y1))
+          .attr('width', dynBarWidth)
+          .attr('height', Math.max(0, y(seg.y0) - y(seg.y1)))
+          .attr('fill', colors[seg.type] || '#666')
+          .attr('opacity', 0.75)
+          .attr('rx', seg === d.segments[d.segments.length - 1] ? 1 : 0);
+      });
+
+      // Invisible overlay for tooltip
+      barG.append('rect')
+        .attr('x', x(d.date) - dynBarWidth / 2)
+        .attr('y', y(d.total))
+        .attr('width', dynBarWidth)
+        .attr('height', Math.max(0, height - y(d.total)))
+        .attr('fill', 'transparent')
+        .on('mouseover', function(event) {
+          barG.selectAll('rect').attr('opacity', 0.95);
+          const types = Object.entries(d.raw.by_type)
+            .filter(([t]) => !activeTypes || activeTypes.has(t))
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 6)
+            .map(([t, c]) => `<span class="tl-tooltip-dot" style="background:${colors[t] || '#666'}"></span>${t.replace(/-/g, ' ')}: ${c}`)
+            .join('<br>');
+          ttTitle.textContent = d3.timeFormat('%B %Y')(d.date);
+          ttMeta.innerHTML = `${d.total} events<br>${types}`;
+          tooltip.classList.add('visible');
+        })
+        .on('mousemove', function(event) {
+          tooltip.style.left = (event.pageX + 12) + 'px';
+          tooltip.style.top = (event.pageY - 10) + 'px';
+        })
+        .on('mouseout', function() {
+          barG.selectAll('rect').attr('opacity', 0.75);
+          tooltip.classList.remove('visible');
+        });
+    });
+  }
+
+  // Stats
+  function updateStats() {
+    const filtered = events.filter(e => matchesAllFilters(e));
+    const states = new Set(filtered.map(e => e.state).filter(Boolean));
+    const counties = new Set(filtered.map(e => e.fips).filter(Boolean));
+
+    document.getElementById('tl-stats').innerHTML = `
+      <div><span class="tl-stat-val">${filtered.length.toLocaleString()}</span>events</div>
+      <div><span class="tl-stat-val">${states.size}</span>states</div>
+      <div><span class="tl-stat-val">${counties.size}</span>counties</div>
+    `;
+  }
+
+  // Event list
+  function updateEventList() {
+    const filtered = events
+      .filter(e => matchesAllFilters(e))
+      .reverse()
+      .slice(0, 50);
+
+    const totalFiltered = events.filter(e => matchesAllFilters(e)).length;
+    document.getElementById('tl-event-count').textContent =
+      `showing ${filtered.length} of ${totalFiltered}`;
+
+    const html = filtered.map(e => `
+      <a href="${e.url}" class="tl-event-row">
+        <span class="tl-event-date">${e.date}</span>
+        <span class="tl-event-dot" style="background:${colors[e.type] || '#666'}"></span>
+        <span class="tl-event-title">${e.title}</span>
+        <span class="tl-event-loc">${e.state || ''}</span>
+      </a>
+    `).join('');
+
+    document.getElementById('tl-event-list').innerHTML = html;
+  }
+
+  function updateAll() {
+    drawChart();
+    updateAnnotations();
+    updateStats();
+    updateEventList();
+  }
+
+  // Filter buttons — multi-select with "All" as reset
+  document.querySelectorAll('.tl-filter').forEach(btn => {
+    btn.addEventListener('click', function() {
+      const filter = this.dataset.filter;
+
+      if (filter === 'all') {
+        // Reset — clear all selections
+        activeFilters.clear();
+        document.querySelectorAll('.tl-filter').forEach(b => {
+          b.classList.remove('active');
+          b.style.borderColor = '';
+          b.style.color = '';
+        });
+        this.classList.add('active');
+      } else {
+        // Toggle this filter
+        document.querySelector('.tl-filter[data-filter="all"]').classList.remove('active');
+
+        if (activeFilters.has(filter)) {
+          activeFilters.delete(filter);
+          this.classList.remove('active');
+          this.style.borderColor = '';
+          this.style.color = '';
+        } else {
+          activeFilters.add(filter);
+          this.classList.add('active');
+          const fc = getComputedStyle(this).getPropertyValue('--fc') || '#c93b3b';
+          this.style.borderColor = fc;
+          this.style.color = fc;
+        }
+
+        // If nothing selected, reactivate "All"
+        if (activeFilters.size === 0) {
+          document.querySelector('.tl-filter[data-filter="all"]').classList.add('active');
+        }
+      }
+
+      updateAll();
+    });
+  });
+
+  // Populate state dropdown
+  const stateSet = new Set(events.map(e => e.state).filter(Boolean));
+  const stateSelect = document.getElementById('tl-state-filter');
+  [...stateSet].sort().forEach(st => {
+    const opt = document.createElement('option');
+    opt.value = st;
+    opt.textContent = st;
+    stateSelect.appendChild(opt);
+  });
+  stateSelect.addEventListener('change', function() {
+    activeState = this.value;
+    updateAll();
+  });
+
+  // Time range dropdown
+  document.getElementById('tl-time-range').addEventListener('change', function() {
+    timeRange = this.value;
+    updateAll();
+  });
+
+  // Initial render
+  updateAll();
+})();
+</script>
+{{ end }}

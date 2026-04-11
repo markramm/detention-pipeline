@@ -1,0 +1,241 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>Resources
+</div>
+<div class="page-content">
+  <div style="max-width:900px; padding-top:24px;">
+    <h1 class="serif" style="font-size:32px; font-weight:400; margin-bottom:6px;">Resources</h1>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:28px; max-width:620px;">
+      Organizations, tools, and data sources for detention accountability —
+      from legal hotlines for detained people to FOIA templates to flight trackers.
+    </p>
+
+    {{/* Category filter buttons */}}
+    <div style="margin-bottom:20px; display:flex; gap:6px; flex-wrap:wrap;">
+      <button class="res-filter active" data-cat="all" onclick="filterResources('all', this)">All ({{ len .Pages }})</button>
+      {{ $cats := dict
+        "monitoring" "Monitoring & Data"
+        "legal-aid" "Legal Aid"
+        "organizing" "Resistance & Organizing"
+        "journalism" "Journalism"
+        "policy" "Policy & Research"
+        "foia" "FOIA & Records"
+        "tracking" "Facility & Flight Tracking"
+        "data-tool" "Data Tools"
+      }}
+      {{ range $key, $label := $cats }}
+        {{ $count := len (where $.Site.RegularPages "Params.resource_type" $key) }}
+        {{ if gt $count 0 }}
+        <button class="res-filter" data-cat="{{ $key }}" onclick="filterResources('{{ $key }}', this)">{{ $label }} ({{ $count }})</button>
+        {{ end }}
+      {{ end }}
+    </div>
+
+    {{/* --- Monitoring & Data --- */}}
+    {{ $monitoring := where .Pages "Params.resource_type" "monitoring" }}
+    {{ if $monitoring }}
+    <div class="res-section" data-section="monitoring">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+        Monitoring &amp; Data
+      </h2>
+      {{ range $monitoring }}
+      <div class="card" style="padding:12px 18px; margin-bottom:8px; border-left:3px solid var(--accent);">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">
+          <a href="{{ .Params.url_link }}" target="_blank" rel="noopener" style="font-size:14px; font-weight:500; color:var(--text-primary); text-decoration:none;">
+            {{ .Title }} <span style="font-size:11px; color:var(--text-dim);">↗</span>
+          </a>
+          <span class="mono dim" style="font-size:9px; text-transform:uppercase; letter-spacing:0.06em;">{{ .Params.scope }}</span>
+        </div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5; margin-top:3px;">{{ .Params.description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* --- Legal Aid --- */}}
+    {{ $legal := where .Pages "Params.resource_type" "legal-aid" }}
+    {{ if $legal }}
+    <div class="res-section" data-section="legal-aid" style="margin-top:28px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+        Legal Aid &amp; Know-Your-Rights
+      </h2>
+      {{ range $legal }}
+      <div class="card" style="padding:12px 18px; margin-bottom:8px; border-left:3px solid var(--signal-commission);">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">
+          <a href="{{ .Params.url_link }}" target="_blank" rel="noopener" style="font-size:14px; font-weight:500; color:var(--text-primary); text-decoration:none;">
+            {{ .Title }} <span style="font-size:11px; color:var(--text-dim);">↗</span>
+          </a>
+          <span class="mono dim" style="font-size:9px; text-transform:uppercase; letter-spacing:0.06em;">{{ .Params.scope }}</span>
+        </div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5; margin-top:3px;">{{ .Params.description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* --- Resistance & Organizing --- */}}
+    {{ $organizing := where .Pages "Params.resource_type" "organizing" }}
+    {{ if $organizing }}
+    <div class="res-section" data-section="organizing" style="margin-top:28px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+        Resistance &amp; Community Organizing
+      </h2>
+      {{ range $organizing }}
+      <div class="card" style="padding:12px 18px; margin-bottom:8px; border-left:3px solid #2a8a5a;">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">
+          <a href="{{ .Params.url_link }}" target="_blank" rel="noopener" style="font-size:14px; font-weight:500; color:var(--text-primary); text-decoration:none;">
+            {{ .Title }} <span style="font-size:11px; color:var(--text-dim);">↗</span>
+          </a>
+          <span class="mono dim" style="font-size:9px; text-transform:uppercase; letter-spacing:0.06em;">{{ .Params.scope }}</span>
+        </div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5; margin-top:3px;">{{ .Params.description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* --- Journalism --- */}}
+    {{ $journalism := where .Pages "Params.resource_type" "journalism" }}
+    {{ if $journalism }}
+    <div class="res-section" data-section="journalism" style="margin-top:28px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+        Investigative Journalism
+      </h2>
+      {{ range $journalism }}
+      <div class="card" style="padding:12px 18px; margin-bottom:8px; border-left:3px solid var(--signal-comms);">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">
+          <a href="{{ .Params.url_link }}" target="_blank" rel="noopener" style="font-size:14px; font-weight:500; color:var(--text-primary); text-decoration:none;">
+            {{ .Title }} <span style="font-size:11px; color:var(--text-dim);">↗</span>
+          </a>
+          <span class="mono dim" style="font-size:9px; text-transform:uppercase; letter-spacing:0.06em;">{{ .Params.scope }}</span>
+        </div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5; margin-top:3px;">{{ .Params.description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* --- Policy & Research --- */}}
+    {{ $policy := where .Pages "Params.resource_type" "policy" }}
+    {{ if $policy }}
+    <div class="res-section" data-section="policy" style="margin-top:28px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+        Policy &amp; Research
+      </h2>
+      {{ range $policy }}
+      <div class="card" style="padding:12px 18px; margin-bottom:8px; border-left:3px solid var(--signal-budget);">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">
+          <a href="{{ .Params.url_link }}" target="_blank" rel="noopener" style="font-size:14px; font-weight:500; color:var(--text-primary); text-decoration:none;">
+            {{ .Title }} <span style="font-size:11px; color:var(--text-dim);">↗</span>
+          </a>
+          <span class="mono dim" style="font-size:9px; text-transform:uppercase; letter-spacing:0.06em;">{{ .Params.scope }}</span>
+        </div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5; margin-top:3px;">{{ .Params.description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* --- FOIA & Records --- */}}
+    {{ $foia := where .Pages "Params.resource_type" "foia" }}
+    {{ if $foia }}
+    <div class="res-section" data-section="foia" style="margin-top:28px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+        FOIA &amp; Public Records
+      </h2>
+      {{ range $foia }}
+      <div class="card" style="padding:12px 18px; margin-bottom:8px; border-left:3px solid var(--signal-anc);">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">
+          <a href="{{ .Params.url_link }}" target="_blank" rel="noopener" style="font-size:14px; font-weight:500; color:var(--text-primary); text-decoration:none;">
+            {{ .Title }} <span style="font-size:11px; color:var(--text-dim);">↗</span>
+          </a>
+          <span class="mono dim" style="font-size:9px; text-transform:uppercase; letter-spacing:0.06em;">{{ .Params.scope }}</span>
+        </div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5; margin-top:3px;">{{ .Params.description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* --- Tracking --- */}}
+    {{ $tracking := where .Pages "Params.resource_type" "tracking" }}
+    {{ if $tracking }}
+    <div class="res-section" data-section="tracking" style="margin-top:28px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+        Facility &amp; Flight Tracking
+      </h2>
+      {{ range $tracking }}
+      <div class="card" style="padding:12px 18px; margin-bottom:8px; border-left:3px solid var(--signal-realestate);">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">
+          <a href="{{ .Params.url_link }}" target="_blank" rel="noopener" style="font-size:14px; font-weight:500; color:var(--text-primary); text-decoration:none;">
+            {{ .Title }} <span style="font-size:11px; color:var(--text-dim);">↗</span>
+          </a>
+          <span class="mono dim" style="font-size:9px; text-transform:uppercase; letter-spacing:0.06em;">{{ .Params.scope }}</span>
+        </div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5; margin-top:3px;">{{ .Params.description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* --- Data Tools --- */}}
+    {{ $datatools := where .Pages "Params.resource_type" "data-tool" }}
+    {{ if $datatools }}
+    <div class="res-section" data-section="data-tool" style="margin-top:28px;">
+      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+        Data Tools
+      </h2>
+      {{ range $datatools }}
+      <div class="card" style="padding:12px 18px; margin-bottom:8px; border-left:3px solid var(--signal-job);">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px;">
+          <a href="{{ .Params.url_link }}" target="_blank" rel="noopener" style="font-size:14px; font-weight:500; color:var(--text-primary); text-decoration:none;">
+            {{ .Title }} <span style="font-size:11px; color:var(--text-dim);">↗</span>
+          </a>
+          <span class="mono dim" style="font-size:9px; text-transform:uppercase; letter-spacing:0.06em;">{{ .Params.scope }}</span>
+        </div>
+        <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.5; margin-top:3px;">{{ .Params.description }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* --- Bottom CTA --- */}}
+    <div style="margin-top:36px; padding:20px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border);">
+      <h3 class="serif" style="font-size:18px; font-weight:400; margin-bottom:8px;">Know a resource we're missing?</h3>
+      <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin-bottom:12px;">
+        We want this page to be the most comprehensive detention accountability resource list on the web.
+        <a href="/contribute/" style="color:var(--accent-warm);">Submit a resource</a> or
+        <a href="https://github.com/markramm/detention-pipeline" style="color:var(--accent-warm);" target="_blank" rel="noopener">add it directly on GitHub</a>.
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<style>
+.res-filter {
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  padding: 4px 10px; border-radius: 3px; cursor: pointer;
+  border: 1px solid var(--border); background: white;
+  color: var(--text-dim); transition: all 0.12s;
+  letter-spacing: 0.04em;
+}
+.res-filter:hover { border-color: var(--text-dim); color: var(--text-secondary); }
+.res-filter.active { background: var(--text-primary); color: white; border-color: var(--text-primary); }
+</style>
+
+<script>
+function filterResources(cat, btn) {
+  document.querySelectorAll('.res-filter').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  document.querySelectorAll('.res-section').forEach(s => {
+    if (cat === 'all' || s.dataset.section === cat) {
+      s.style.display = '';
+    } else {
+      s.style.display = 'none';
+    }
+  });
+}
+</script>
+{{ end }}

@@ -299,11 +299,12 @@ body {
       <a href="/fights/" {{ if hasPrefix .RelPermalink "/fights" }}class="active"{{ end }}>Fights</a>
       <a href="/pipeline/" {{ if eq .RelPermalink "/pipeline/" }}class="active"{{ end }}>Pipeline</a>
       <div class="nav-group">
-        <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") }}active{{ end }}">Investigate</button>
+        <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") (hasPrefix .RelPermalink "/timeline") }}active{{ end }}">Investigate</button>
         <div class="nav-dropdown">
           <a href="/county/">Counties</a>
           <a href="/state/">By State</a>
           <a href="/signals/">By Signal Type</a>
+          <a href="/timeline/">Timeline</a>
           <a href="/players/">Players</a>
           <a href="/network/">Network</a>
           <a href="/facilities/">Facilities</a>
@@ -312,9 +313,10 @@ body {
       </div>
       <a href="/tactics/" {{ if eq .RelPermalink "/tactics/" }}class="active"{{ end }}>Tactics</a>
       <div class="nav-group">
-        <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") }}active{{ end }}">Help Build</button>
+        <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") (hasPrefix .RelPermalink "/resources") }}active{{ end }}">Help Build</button>
         <div class="nav-dropdown">
           <a href="/contribute/">Contribute</a>
+          <a href="/resources/">Resources</a>
           <a href="/coverage/">Coverage Gaps</a>
           <a href="/methodology/">Methodology</a>
         </div>
@@ -334,12 +336,14 @@ body {
   <a href="/county/" style="padding-left:12px;">Counties</a>
   <a href="/state/" style="padding-left:12px;">By State</a>
   <a href="/signals/" style="padding-left:12px;">By Signal Type</a>
+  <a href="/timeline/" style="padding-left:12px;">Timeline</a>
   <a href="/players/" style="padding-left:12px;">Players</a>
   <a href="/network/" style="padding-left:12px;">Network</a>
   <a href="/facilities/" style="padding-left:12px;">Facilities</a>
   <a href="/foia/" style="padding-left:12px;">FOIA Generator</a>
   <span class="mobile-nav-group-label">Help Build</span>
   <a href="/contribute/" style="padding-left:12px;">Contribute</a>
+  <a href="/resources/" style="padding-left:12px;">Resources</a>
   <a href="/coverage/" style="padding-left:12px;">Coverage Gaps</a>
   <a href="/methodology/" style="padding-left:12px;">Methodology</a>
 </div>
