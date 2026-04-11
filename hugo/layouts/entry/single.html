@@ -3,7 +3,7 @@
 {{ $repoPath := .Params.repo_path }}
 
 <div class="breadcrumb">
-  <a href="/">Map</a><span class="sep">/</span>
+  <a href="/">Home</a><span class="sep">/</span>
   {{ with .Params.fips }}<a href="/county/{{ . }}/">County</a><span class="sep">/</span>{{ end }}
   {{ .Title }}
 </div>
