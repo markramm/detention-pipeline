@@ -177,8 +177,8 @@ function drawRevolvingDoor(data) {
     return linkedIds.has(nodeIdx);
   });
 
-  // Position nodes vertically — sort gov nodes so ICE is on top, DHS below
-  activeGov.sort((a, b) => (a.id === 'ice' ? -1 : b.id === 'ice' ? 1 : a.label.localeCompare(b.label)));
+  // Position nodes vertically — DHS on top (most officials), ICE below (Tae Johnson)
+  activeGov.sort((a, b) => (a.id === 'dhs' ? -1 : b.id === 'dhs' ? 1 : a.label.localeCompare(b.label)));
   const usableH = H - padTop - padBottom;
   activeGov.forEach((n, i) => { n.x = colGov; n.y = padTop + (i + 0.5) * usableH / activeGov.length; });
   personNodes.forEach((n, i) => { n.x = colPerson; n.y = padTop + (i + 0.5) * usableH / personNodes.length; });
