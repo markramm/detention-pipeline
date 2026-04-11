@@ -6,8 +6,8 @@ body { background: #0a0a0f; }
 .page-content { max-width: none; padding: 0; }
 
 #network-wrap {
-  width: 100vw; height: calc(100vh - 42px);
-  position: relative; overflow: hidden;
+  width: 100vw; min-height: calc(100vh - 42px);
+  position: relative; overflow-x: hidden; overflow-y: auto;
   background: #0a0a0f;
 }
 
@@ -31,7 +31,7 @@ body { background: #0a0a0f; }
 .tab-btn.active { color: #e8e6e1; background: rgba(255,255,255,0.06); border-color: #353542; }
 
 /* Panels */
-.net-panel { display: none; width: 100%; height: 100%; }
+.net-panel { display: none; width: 100%; min-height: calc(100vh - 42px); }
 .net-panel.active { display: block; }
 
 /* Revolving door diagram */
@@ -297,15 +297,17 @@ function drawRevolvingDoor(data) {
 
 function drawConflictMatrix(data) {
   const wrap = document.getElementById('conflict-matrix');
-  const W = wrap.clientWidth, H = wrap.clientHeight;
-  const svg = d3.select('#cm-svg').attr('width', W).attr('height', H);
+  const W = wrap.clientWidth;
 
   const cellW = 90, cellH = 55;
   const matrixW = data.companies.length * cellW;
   const matrixH = data.officials.length * cellH;
   const padLeft = Math.max(220, (W - matrixW) / 2);
   const padTop = 160;
-  const padRight = 40, padBottom = 40;
+  const padRight = 40, padBottom = 80;
+  const totalH = padTop + matrixH + padBottom;
+  const svg = d3.select('#cm-svg').attr('width', W).attr('height', totalH);
+  wrap.style.height = totalH + 'px';
 
   // Company headers (rotated)
   data.companies.forEach((co, i) => {
