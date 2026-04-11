@@ -135,14 +135,53 @@ def extract_date_from_entry(fm, body, entry_type):
             if d:
                 return d, "posted"
 
+    # Real estate — look for sale/listing dates in body
+    if entry_type == "real-estate-trace":
+        for pattern in [r'[Ss]old[:\s]+(.+)', r'[Ll]isted[:\s]+(.+)',
+                        r'[Ss]ale [Dd]ate[:\s]+(.+)', r'[Pp]urchase[d]?[:\s]+(.+)']:
+            m = re.search(pattern, body[:2000])
+            if m:
+                d = parse_date_text(m.group(1))
+                if d:
+                    return d, "sale_date"
+
+    # Contractors — founded date
+    if entry_type == "contractor":
+        founded = fm.get("founded", "")
+        if founded:
+            d = parse_date_text(founded)
+            if d:
+                return d, "founded"
+        # Try "Founded" or "Established" in body
+        m = re.search(r'[Ff]ounded[:\s]+(.+?)[\.\n]', body[:2000])
+        if m:
+            d = parse_date_text(m.group(1))
+            if d:
+                return d, "founded"
+
+    # People — look for appointment/role dates
+    if entry_type == "person":
+        for pattern in [r'[Aa]ppointed[:\s]+(.+?)[\.\n]',
+                        r'[Ss]erved[:\s]+(.+?)[\.\n]',
+                        r'[Nn]amed[:\s]+(.+?)[\.\n]']:
+            m = re.search(pattern, body[:2000])
+            if m:
+                d = parse_date_text(m.group(1))
+                if d:
+                    return d, "appointed"
+
     # Try summary for any date
     summary = fm.get("summary", "")
     d = parse_date_text(summary)
     if d:
         return d, "from_summary"
 
-    # Try body for any date (first occurrence)
-    d = parse_date_text(body[:500])
+    # Try body for any date — scan more text for types likely to have dates deeper
+    scan_length = 2000 if entry_type in (
+        "real-estate-trace", "facility", "contractor", "person",
+        "organization", "event", "note", "analysis"
+    ) else 500
+    d = parse_date_text(body[:scan_length])
     if d:
         return d, "from_body"
 

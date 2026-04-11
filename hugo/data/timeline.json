@@ -1,12 +1,12 @@
 {
   "metadata": {
     "generated": "2026-04-11",
-    "total_events": 1581,
+    "total_events": 1617,
     "date_range": {
       "start": "2015-09-16",
-      "end": "2026-09-30"
+      "end": "2026-11-30"
     },
-    "skipped_no_date": 1730
+    "skipped_no_date": 1694
   },
   "events": [
     {
@@ -2218,6 +2218,18 @@
       "date_source": "from_body"
     },
     {
+      "date": "2021-11-16",
+      "title": "Sabot Consulting (Sabot Technologies Inc.)",
+      "type": "contractor",
+      "signal_label": "Contractor",
+      "signal_color": "#8a5a2a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/contractors/sabot-consulting/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2021-11-23",
       "title": "Laboratory Corporation Of America \u2014 ICE Alamance, NC $4,756,549",
       "type": "anc-contract",
@@ -3490,6 +3502,18 @@
       "date_source": "contract_start"
     },
     {
+      "date": "2024-10-31",
+      "title": "Daniel A. Bible",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/daniel-bible/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2024-12-01",
       "title": "Akima Infrastructure Protection LLC \u2014 ICE Cameron, TX $46,591,374",
       "type": "anc-contract",
@@ -3562,6 +3586,18 @@
       "date_source": "contract_start"
     },
     {
+      "date": "2024-12-26",
+      "title": "Blue Owl Capital \u2014 Private Equity Firm Profiting from ICE Warehouse Purchases",
+      "type": "organization",
+      "signal_label": "Organization",
+      "signal_color": "#4a7ab5",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/organizations/blue-owl-capital/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2024-12-28",
       "title": "G4S Secure Solutions (Usa) INC. \u2014 ICE Bexar, TX $32,216,731",
       "type": "anc-contract",
@@ -3586,6 +3622,18 @@
       "date_source": "contract_start"
     },
     {
+      "date": "2025-01-01",
+      "title": "Daniel H. Ragsdale",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/daniel-ragsdale/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2025-01-07",
       "title": "287(g) TFM: Tenaha Police Department (TX)",
       "type": "287g-agreement",
@@ -3607,6 +3655,18 @@
       "county": "N/A",
       "fips": "",
       "url": "/facilities/guantanamo-bay-migrant-operations/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2025-01-29",
+      "title": "Eloy Detention Center \u2014 Pinal County AZ (CoreCivic)",
+      "type": "facility",
+      "signal_label": "Facility",
+      "signal_color": "#c93b3b",
+      "state": "Arizona",
+      "county": "Pinal",
+      "fips": "",
+      "url": "/facilities/eloy-detention-center-pinal-az/",
       "date_source": "from_body"
     },
     {
@@ -6466,6 +6526,18 @@
       "date_source": "signed"
     },
     {
+      "date": "2025-03-25",
+      "title": "Troy Dean Edgar \u2014 DHS Deputy Secretary with Palantir, Defense Contractor Holdings",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/troy-edgar/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2025-03-26",
       "title": "287(g) WSO: St. Mary\u2019s County Sheriff\u2019s Office (MD)",
       "type": "287g-agreement",
@@ -6824,6 +6896,18 @@
       "fips": "36061",
       "url": "/entry/paragon-professional-services-llc-ice-new-york-ny-5902664/",
       "date_source": "contract_start"
+    },
+    {
+      "date": "2025-04-01",
+      "title": "GlobalX Airlines (Global Crossing Airlines)",
+      "type": "contractor",
+      "signal_label": "Contractor",
+      "signal_color": "#8a5a2a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/contractors/globalx-airlines/",
+      "date_source": "from_body"
     },
     {
       "date": "2025-04-02",
@@ -7918,6 +8002,18 @@
       "date_source": "signed"
     },
     {
+      "date": "2025-04-25",
+      "title": "Broward Transitional Center \u2014 Pompano Beach FL (GEO Group)",
+      "type": "facility",
+      "signal_label": "Facility",
+      "signal_color": "#c93b3b",
+      "state": "Florida",
+      "county": "Broward",
+      "fips": "",
+      "url": "/facilities/broward-transitional-center-fl/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2025-04-28",
       "title": "287(g) TFM: Taylor Police Department (MI)",
       "type": "287g-agreement",
@@ -8470,6 +8566,18 @@
       "date_source": "signed"
     },
     {
+      "date": "2025-05-12",
+      "title": "Kash Patel \u2014 FBI Director with Palantir Stock and Goldman Sachs Holdings",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/kash-patel/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2025-05-13",
       "title": "287(g) TFM: Tennessee Department of Safety and Homeland Security (TN)",
       "type": "287g-agreement",
@@ -8744,6 +8852,18 @@
       "fips": "42129",
       "url": "/entry/287-g-tfm-lower-burrell-fourth-ward-constable-pa/",
       "date_source": "signed"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "Howard Lutnick \u2014 Commerce Secretary, Newmark Officer/Director, ICE Warehouse Brokerage Conflict",
+      "type": "analysis",
+      "signal_label": "Analysis",
+      "signal_color": "#5a6a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/money/lutnick-newmark-conflict/",
+      "date_source": "from_body"
     },
     {
       "date": "2025-05-20",
@@ -9176,6 +9296,18 @@
       "fips": "",
       "url": "/entry/287-g-tfm-windermere-police-department-fl/",
       "date_source": "signed"
+    },
+    {
+      "date": "2025-06-05",
+      "title": "Folkston ICE Processing Center \u2014 Charlton County GA (ICA / D. Ray James Merger)",
+      "type": "facility",
+      "signal_label": "Facility",
+      "signal_color": "#c93b3b",
+      "state": "Georgia",
+      "county": "Charlton",
+      "fips": "",
+      "url": "/facilities/folkston-ipc-charlton-ga/",
+      "date_source": "from_body"
     },
     {
       "date": "2025-06-11",
@@ -9694,6 +9826,18 @@
       "date_source": "signed"
     },
     {
+      "date": "2025-06-13",
+      "title": "Christopher D. Danley \u2014 Interior Dept Advisor Actively Trading GEO Group Stock",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/christopher-danley/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2025-06-16",
       "title": "287(g) WSO: Las Vegas Metropolitan Police Department (NV)",
       "type": "287g-agreement",
@@ -9860,6 +10004,18 @@
       "fips": "",
       "url": "/entry/287-g-tfm-lake-mary-police-department-fl/",
       "date_source": "signed"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "Coast Guard Aircraft Diverted to ICE Detainee Transport (2025)",
+      "type": "note",
+      "signal_label": "Research Note",
+      "signal_color": "#6a6a6a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/entry/coast-guard-ice-flights/",
+      "date_source": "from_body"
     },
     {
       "date": "2025-06-24",
@@ -10748,6 +10904,18 @@
       "fips": "48397",
       "url": "/entry/287-g-wso-rockwall-county-sheriff-s-office-tx/",
       "date_source": "signed"
+    },
+    {
+      "date": "2025-07-09",
+      "title": "Clark Minor \u2014 HHS CIO with $1M-$5M Palantir Holdings, Former Palantir Employee",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/clark-minor/",
+      "date_source": "from_body"
     },
     {
       "date": "2025-07-11",
@@ -11878,6 +12046,30 @@
       "date_source": "signed"
     },
     {
+      "date": "2025-08-08",
+      "title": "Matthew T. Albence",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/matthew-albence/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2025-08-14",
+      "title": "Stephen Miller \u2014 Homeland Security Advisor with Palantir and Amazon Holdings",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/stephen-miller/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2025-08-15",
       "title": "People Who Think, L.L.C. \u2014 ICE Saint Tammany, LA $24,974,000",
       "type": "anc-contract",
@@ -11947,6 +12139,18 @@
       "county": "Kern",
       "fips": "",
       "url": "/facilities/california-city-ca-corecivic/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2025-08-27",
+      "title": "CoreCivic, Inc. (formerly CCA)",
+      "type": "contractor",
+      "signal_label": "Contractor",
+      "signal_color": "#8a5a2a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/contractors/corecivic/",
       "date_source": "from_body"
     },
     {
@@ -13654,6 +13858,18 @@
       "date_source": "contract_start"
     },
     {
+      "date": "2025-09-25",
+      "title": "Palantir Technologies \u2014 ICE Surveillance & Case Management Platform",
+      "type": "contractor",
+      "signal_label": "Contractor",
+      "signal_color": "#8a5a2a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/contractors/palantir-technologies/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2025-09-26",
       "title": "Corecivic, INC. \u2014 ICE Leavenworth, KS $18,478,836",
       "type": "anc-contract",
@@ -13795,6 +14011,18 @@
       "county": "Broward",
       "fips": "12011",
       "url": "/entry/broward-county-fl-190m-budget-overspend-fl-cfo-finding-oct-2025/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2025-10-03",
+      "title": "ICE Detention Medical Care Crisis (2025-2026)",
+      "type": "note",
+      "signal_label": "Research Note",
+      "signal_color": "#6a6a6a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/entry/ice-detention-medical-care-crisis/",
       "date_source": "from_body"
     },
     {
@@ -16414,6 +16642,18 @@
       "date_source": "signed"
     },
     {
+      "date": "2025-12-15",
+      "title": "Constellis Holdings (Blackwater successor)",
+      "type": "contractor",
+      "signal_label": "Contractor",
+      "signal_color": "#8a5a2a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/contractors/constellis-holdings/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2025-12-16",
       "title": "287(g) TFM: Ste. Genevieve County Sheriff\u2019s Office (MO)",
       "type": "287g-agreement",
@@ -16700,6 +16940,18 @@
       "fips": "49011",
       "url": "/entry/management-training-corporation-ice-davis-ut-14553814/",
       "date_source": "contract_start"
+    },
+    {
+      "date": "2025-12-24",
+      "title": "Edward Forst \u2014 GSA Administrator, Former Goldman Sachs AND Deutsche Bank Employee",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/edward-forst/",
+      "date_source": "from_body"
     },
     {
       "date": "2026-01-05",
@@ -17110,6 +17362,18 @@
       "date_source": "signed"
     },
     {
+      "date": "2026-01-07",
+      "title": "Goldman Sachs \u2014 Double Exposure in ICE Warehouse Profiteering",
+      "type": "organization",
+      "signal_label": "Organization",
+      "signal_color": "#4a7ab5",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/organizations/goldman-sachs-detention/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2026-01-08",
       "title": "287(g) TFM: Tuckerman Police Department (AR)",
       "type": "287g-agreement",
@@ -17192,18 +17456,6 @@
       "fips": "",
       "url": "/fights/bradford-county-fl-douglas-building/",
       "date_source": "vote"
-    },
-    {
-      "date": "2026-01-17",
-      "title": "El Paso TX Eastwind Logistics Center \u2014 ICE Mega Detention Center",
-      "type": "facility",
-      "signal_label": "Facility",
-      "signal_color": "#c93b3b",
-      "state": "Texas",
-      "county": "El Paso",
-      "fips": "",
-      "url": "/facilities/el-paso-tx-eastwind-mega-center/",
-      "date_source": "from_body"
     },
     {
       "date": "2026-01-26",
@@ -17854,6 +18106,18 @@
       "date_source": "contract_start"
     },
     {
+      "date": "2026-01-29",
+      "title": "Hagerstown MD Warehouse \u2014 ICE Regional Processing Center",
+      "type": "facility",
+      "signal_label": "Facility",
+      "signal_color": "#c93b3b",
+      "state": "Maryland",
+      "county": "Washington",
+      "fips": "",
+      "url": "/facilities/hagerstown-md-warehouse/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2026-01-30",
       "title": "287(g) TFM: Wayne County Sheriff\u2019s Office (GA)",
       "type": "287g-agreement",
@@ -17960,6 +18224,18 @@
       "fips": "01025",
       "url": "/entry/287-g-tfm-clarke-county-sheriff-s-office-al/",
       "date_source": "signed"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Merrimack NH Warehouse \u2014 ICE Regional Processing Center",
+      "type": "facility",
+      "signal_label": "Facility",
+      "signal_color": "#c93b3b",
+      "state": "New Hampshire",
+      "county": "Hillsborough",
+      "fips": "",
+      "url": "/facilities/merrimack-nh-warehouse/",
+      "date_source": "from_body"
     },
     {
       "date": "2026-02-09",
@@ -18430,6 +18706,18 @@
       "date_source": "signed"
     },
     {
+      "date": "2026-02-11",
+      "title": "Clearview AI \u2014 Facial Recognition for ICE",
+      "type": "contractor",
+      "signal_label": "Contractor",
+      "signal_color": "#8a5a2a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/contractors/clearview-ai/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2026-02-12",
       "title": "Kansas City MO \u2014 Platform Ventures Warehouse Deal Blocked by Community Pressure",
       "type": "county-fight",
@@ -18598,6 +18886,30 @@
       "date_source": "signed"
     },
     {
+      "date": "2026-02-17",
+      "title": "Romulus MI Warehouse \u2014 ICE Regional Processing Center",
+      "type": "facility",
+      "signal_label": "Facility",
+      "signal_color": "#c93b3b",
+      "state": "Michigan",
+      "county": "Wayne",
+      "fips": "",
+      "url": "/facilities/romulus-mi-warehouse/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "El Paso TX Eastwind Logistics Center \u2014 ICE Mega Detention Center",
+      "type": "facility",
+      "signal_label": "Facility",
+      "signal_color": "#c93b3b",
+      "state": "Texas",
+      "county": "El Paso",
+      "fips": "",
+      "url": "/facilities/el-paso-tx-eastwind-mega-center/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2026-02-20",
       "title": "Quantico Tactical Incorporated \u2014 ICE Hoke, NC $763,047",
       "type": "anc-contract",
@@ -18730,6 +19042,18 @@
       "date_source": "contract_start"
     },
     {
+      "date": "2026-03-22",
+      "title": "WEXMAC-TITUS \u2014 How ICE Bypasses Normal Contracting Using Military Procurement",
+      "type": "note",
+      "signal_label": "Research Note",
+      "signal_color": "#6a6a6a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/entry/wexmac-titus-military-procurement-bypass/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2026-03-24",
       "title": "Romulus MI \u2014 City and State File Lawsuit to Block ICE Detention Facility",
       "type": "commission-activity",
@@ -18814,6 +19138,42 @@
       "date_source": "from_summary"
     },
     {
+      "date": "2026-04-01",
+      "title": "The IGSA Model Shift \u2014 How the Warehouse Pause Accelerates County-Led Detention",
+      "type": "note",
+      "signal_label": "Research Note",
+      "signal_color": "#6a6a6a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/entry/igsa-model-shift-warehouse-pause-accelerant/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Surprise AZ Warehouse \u2014 ICE Regional Processing Center",
+      "type": "facility",
+      "signal_label": "Facility",
+      "signal_color": "#c93b3b",
+      "state": "Arizona",
+      "county": "Maricopa",
+      "fips": "",
+      "url": "/facilities/surprise-az-warehouse/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Rockefeller Group (Mitsubishi Estate) \u2014 Surprise AZ Warehouse Seller",
+      "type": "organization",
+      "signal_label": "Organization",
+      "signal_color": "#4a7ab5",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/organizations/rockefeller-group/",
+      "date_source": "from_body"
+    },
+    {
       "date": "2026-04-07",
       "title": "New Tech Solutions, INC. \u2014 ICE Alameda, CA $1,798,896",
       "type": "anc-contract",
@@ -18824,6 +19184,42 @@
       "fips": "06001",
       "url": "/entry/new-tech-solutions-inc-ice-alameda-ca-1798896/",
       "date_source": "contract_start"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Socorro TX Warehouse \u2014 ICE Processing Center (~1000% Markup)",
+      "type": "facility",
+      "signal_label": "Facility",
+      "signal_color": "#c93b3b",
+      "state": "Texas",
+      "county": "El Paso",
+      "fips": "",
+      "url": "/facilities/socorro-tx-warehouse/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "John Russell McGranahan \u2014 Former GSA General Counsel with Blue Owl Investments",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/john-mcgranahan/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Edward D'Alelio \u2014 Blue Owl Capital Director, Former Trump Entertainment Resorts Board",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/edward-dalelio/",
+      "date_source": "from_body"
     },
     {
       "date": "2026-04-08",
@@ -18887,6 +19283,18 @@
     },
     {
       "date": "2026-04-08",
+      "title": "Thomas Homan (Border Czar) \u2014 Complete Conflict Portfolio Across ICE Contractor Categories",
+      "type": "analysis",
+      "signal_label": "Analysis",
+      "signal_color": "#5a6a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/money/homan-full-portfolio-conflicts/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2026-04-08",
       "title": "33 Trump Administration Officials with Blue Owl Capital Investments",
       "type": "analysis",
       "signal_label": "Analysis",
@@ -18895,6 +19303,30 @@
       "county": "",
       "fips": "",
       "url": "/players/money/blue-owl-33-admin-investors/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Brendan Rogers (Asst SecNav) \u2014 Loan Receivables from CBRE Logistics Partners AND JLL Partners Fund IX",
+      "type": "analysis",
+      "signal_label": "Analysis",
+      "signal_color": "#5a6a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/money/rogers-cbre-jll-loan-receivables/",
+      "date_source": "from_body"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Antoine McCord \u2014 DHS CIO, Former Anduril Employee with Active Equity",
+      "type": "person",
+      "signal_label": "Person",
+      "signal_color": "#5a2a8a",
+      "state": "",
+      "county": "",
+      "fips": "",
+      "url": "/players/people/antoine-mccord/",
       "date_source": "from_body"
     },
     {
@@ -18970,15 +19402,15 @@
       "date_source": "from_body"
     },
     {
-      "date": "2026-09-30",
-      "title": "Hagerstown MD Warehouse \u2014 ICE Regional Processing Center",
-      "type": "facility",
-      "signal_label": "Facility",
-      "signal_color": "#c93b3b",
-      "state": "Maryland",
-      "county": "Washington",
+      "date": "2026-11-30",
+      "title": "Management & Training Corporation (MTC)",
+      "type": "contractor",
+      "signal_label": "Contractor",
+      "signal_color": "#8a5a2a",
+      "state": "",
+      "county": "",
       "fips": "",
-      "url": "/facilities/hagerstown-md-warehouse/",
+      "url": "/players/contractors/mtc/",
       "date_source": "from_body"
     }
   ],
@@ -19283,9 +19715,10 @@
     },
     {
       "month": "2021-11",
-      "total": 2,
+      "total": 3,
       "by_type": {
         "person": 1,
+        "contractor": 1,
         "anc-contract": 1
       }
     },
@@ -19481,25 +19914,28 @@
     },
     {
       "month": "2024-10",
-      "total": 3,
+      "total": 4,
       "by_type": {
-        "anc-contract": 3
+        "anc-contract": 3,
+        "person": 1
       }
     },
     {
       "month": "2024-12",
-      "total": 7,
+      "total": 8,
       "by_type": {
-        "anc-contract": 7
+        "anc-contract": 7,
+        "organization": 1
       }
     },
     {
       "month": "2025-01",
-      "total": 4,
+      "total": 6,
       "by_type": {
         "anc-contract": 1,
+        "person": 1,
         "287g-agreement": 2,
-        "facility": 1
+        "facility": 2
       }
     },
     {
@@ -19511,70 +19947,82 @@
     },
     {
       "month": "2025-03",
-      "total": 125,
+      "total": 126,
       "by_type": {
         "anc-contract": 5,
-        "287g-agreement": 120
+        "287g-agreement": 120,
+        "person": 1
       }
     },
     {
       "month": "2025-04",
-      "total": 104,
+      "total": 106,
       "by_type": {
         "anc-contract": 3,
+        "contractor": 1,
         "287g-agreement": 99,
         "contract": 1,
-        "facility": 1
+        "facility": 2
       }
     },
     {
       "month": "2025-05",
-      "total": 82,
+      "total": 84,
       "by_type": {
-        "287g-agreement": 82
+        "287g-agreement": 82,
+        "person": 1,
+        "analysis": 1
       }
     },
     {
       "month": "2025-06",
-      "total": 90,
+      "total": 93,
       "by_type": {
         "287g-agreement": 89,
+        "facility": 1,
+        "person": 1,
+        "note": 1,
         "analysis": 1
       }
     },
     {
       "month": "2025-07",
-      "total": 132,
+      "total": 133,
       "by_type": {
         "anc-contract": 3,
         "facility": 3,
-        "287g-agreement": 126
+        "287g-agreement": 126,
+        "person": 1
       }
     },
     {
       "month": "2025-08",
-      "total": 79,
+      "total": 82,
       "by_type": {
         "287g-agreement": 73,
+        "person": 2,
         "anc-contract": 5,
-        "facility": 1
+        "facility": 1,
+        "contractor": 1
       }
     },
     {
       "month": "2025-09",
-      "total": 95,
+      "total": 96,
       "by_type": {
         "anc-contract": 21,
         "287g-agreement": 73,
-        "contract": 1
+        "contract": 1,
+        "contractor": 1
       }
     },
     {
       "month": "2025-10",
-      "total": 59,
+      "total": 60,
       "by_type": {
         "anc-contract": 3,
         "budget-distress": 1,
+        "note": 1,
         "287g-agreement": 55
       }
     },
@@ -19588,67 +20036,79 @@
     },
     {
       "month": "2025-12",
-      "total": 95,
+      "total": 97,
       "by_type": {
         "287g-agreement": 90,
+        "contractor": 1,
         "anc-contract": 2,
         "contract": 1,
         "facility": 1,
-        "budget-distress": 1
+        "budget-distress": 1,
+        "person": 1
       }
     },
     {
       "month": "2026-01",
-      "total": 105,
+      "total": 106,
       "by_type": {
         "anc-contract": 3,
         "287g-agreement": 100,
+        "organization": 1,
         "county-fight": 1,
         "facility": 1
       }
     },
     {
       "month": "2026-02",
-      "total": 56,
+      "total": 60,
       "by_type": {
+        "facility": 5,
         "anc-contract": 5,
         "287g-agreement": 48,
-        "county-fight": 1,
-        "facility": 2
+        "contractor": 1,
+        "county-fight": 1
       }
     },
     {
       "month": "2026-03",
-      "total": 15,
+      "total": 16,
       "by_type": {
         "anc-contract": 5,
         "comms-discipline": 1,
         "county-fight": 2,
         "facility": 1,
+        "note": 2,
         "commission-activity": 1,
         "real-estate-trace": 1,
-        "event": 3,
-        "note": 1
+        "event": 3
       }
     },
     {
       "month": "2026-04",
-      "total": 12,
+      "total": 21,
       "by_type": {
+        "note": 2,
+        "facility": 2,
+        "organization": 2,
         "anc-contract": 1,
-        "note": 1,
-        "analysis": 5,
-        "organization": 1,
+        "person": 3,
+        "analysis": 7,
         "county-fight": 1,
         "job-posting": 3
       }
     },
     {
       "month": "2026-09",
-      "total": 2,
+      "total": 1,
       "by_type": {
-        "county-fight": 1,
-        "facility": 1
+        "county-fight": 1
+      }
+    },
+    {
+      "month": "2026-11",
+      "total": 1,
+      "by_type": {
+        "contractor": 1
       }
     }
   ]
