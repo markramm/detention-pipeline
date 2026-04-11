@@ -9,7 +9,7 @@
     {{ .Params.count }} individuals at the intersection of government and the detention industry.
   </p>
 
-  {{ range .Pages }}
+  {{ range where site.RegularPages "Params.entry_type" "person" }}
   <div class="card">
     <a href="{{ .RelPermalink }}">
       <div style="display:flex; align-items:center; gap:8px;">

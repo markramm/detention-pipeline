@@ -9,7 +9,6 @@ county: ""
 repo_path: "kb/industry/financial-flows/warehouse-profiteering-pattern.md"
 lastmod: "2026-04-08"
 summary: "Documents how ICE warehouse purchases function as wealth transfers: institutional investors buy distressed properties, DHS purchases at enormous markups via WEXMAC-TITUS, extinguishing bank debt with taxpayer funds."
-type: "players"
 layout: "single"
 player_type: "money"
 ---

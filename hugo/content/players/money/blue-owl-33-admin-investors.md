@@ -9,7 +9,6 @@ county: ""
 repo_path: "kb/industry/financial-flows/blue-owl-33-admin-investors.md"
 lastmod: "2026-04-08"
 summary: "33 Trump administration officials hold Blue Owl Capital investments per ProPublica disclosures, including Trump ($5M+) and SecNav Phelan, whose command administers WEXMAC-TITUS."
-type: "players"
 layout: "single"
 player_type: "money"
 ---

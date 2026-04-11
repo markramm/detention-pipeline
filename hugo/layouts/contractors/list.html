@@ -9,7 +9,7 @@
     {{ .Params.count }} companies in the detention industry — operators, consultants, surveillance firms, and service providers.
   </p>
 
-  {{ range .Pages }}
+  {{ range where site.RegularPages "Params.entry_type" "contractor" }}
   <div class="card">
     <a href="{{ .RelPermalink }}">
       <div style="display:flex; align-items:center; gap:8px;">

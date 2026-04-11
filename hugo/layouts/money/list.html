@@ -9,7 +9,7 @@
     {{ .Params.count }} entries tracking the money — loan portfolios, contract values, warehouse markups, and conflicts of interest.
   </p>
 
-  {{ range .Pages }}
+  {{ range where site.RegularPages "Params.entry_type" "in" (slice "financial-flow" "analysis") }}
   <div class="card">
     <a href="{{ .RelPermalink }}">
       <div style="display:flex; align-items:center; gap:8px;">

@@ -9,7 +9,6 @@ county: ""
 repo_path: "kb/industry/financial-flows/sec-filings-fundrise-rreef.md"
 lastmod: "2026-04-08"
 summary: "SEC filing forensics on Fundrise (Williamsport MD) and RREEF/Deutsche Bank (SLC UT) warehouse ownership chains. Fundrise investors lost 33% while property was sold to DHS."
-type: "players"
 layout: "single"
 player_type: "money"
 ---

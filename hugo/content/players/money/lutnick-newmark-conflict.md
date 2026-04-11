@@ -9,7 +9,6 @@ county: ""
 repo_path: "kb/industry/financial-flows/lutnick-newmark-conflict.md"
 lastmod: "2026-04-09"
 summary: "Commerce Secretary Lutnick held $80M+ in Newmark stock for 8 months after confirmation while Newmark brokered ICE warehouse deals. Son Kyle now sits on Newmark board."
-type: "players"
 layout: "single"
 player_type: "money"
 ---

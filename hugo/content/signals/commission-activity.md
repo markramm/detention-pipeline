@@ -1,6 +1,6 @@
 ---
 title: "Commission Activity"
-type: signal
+type: signals
 layout: single
 signal_type: "commission-activity"
 signal_color: "#8a9f2a"

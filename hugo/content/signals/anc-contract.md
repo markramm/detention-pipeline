@@ -1,6 +1,6 @@
 ---
 title: "ANC Contract"
-type: signal
+type: signals
 layout: single
 signal_type: "anc-contract"
 signal_color: "#c49025"

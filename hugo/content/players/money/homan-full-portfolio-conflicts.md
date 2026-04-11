@@ -9,7 +9,6 @@ county: ""
 repo_path: "kb/industry/financial-flows/homan-full-portfolio-conflicts.md"
 lastmod: "2026-04-08"
 summary: "Border Czar Tom Homan holds financial ties spanning every ICE contractor category: GEO Care fees, LexisNexis/RELX stock, CBRE stock, Prologis stock, and Blackstone stock."
-type: "players"
 layout: "single"
 player_type: "money"
 ---

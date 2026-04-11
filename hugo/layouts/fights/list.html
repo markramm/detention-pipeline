@@ -11,7 +11,7 @@
     </p>
   </div>
 
-  {{ $fights := where .Pages "Params.entry_type" "county-fight" }}
+  {{ $fights := where site.RegularPages "Params.entry_type" "county-fight" }}
 
   {{/* Group by status */}}
   {{ $contested := where $fights "Params.status" "contested" }}

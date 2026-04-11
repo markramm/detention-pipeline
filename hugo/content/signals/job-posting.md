@@ -1,6 +1,6 @@
 ---
 title: "Job Posting"
-type: signal
+type: signals
 layout: single
 signal_type: "job-posting"
 signal_color: "#2a9f6f"

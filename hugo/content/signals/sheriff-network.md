@@ -1,6 +1,6 @@
 ---
 title: "Sheriff Network"
-type: signal
+type: signals
 layout: single
 signal_type: "sheriff-network"
 signal_color: "#2a7fb5"

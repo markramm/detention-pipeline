@@ -356,7 +356,6 @@ def generate_all_pages(parsed_entries, heat_data):
             fm["facility"] = fields.get("facility", "")
         elif entry_type == "contractor":
             page_path = CONTENT_PATH / "players" / "contractors" / f"{entry_id}.md"
-            fm["type"] = "players"
             fm["layout"] = "single"
             fm["player_type"] = "contractor"
             fm["contractor_type"] = fields.get("contractor_type", "")
@@ -369,7 +368,6 @@ def generate_all_pages(parsed_entries, heat_data):
                 fm["key_facilities"] = key_facs
         elif entry_type == "person":
             page_path = CONTENT_PATH / "players" / "people" / f"{entry_id}.md"
-            fm["type"] = "players"
             fm["layout"] = "single"
             fm["player_type"] = "person"
             fm["role"] = fields.get("role", "")
@@ -377,12 +375,10 @@ def generate_all_pages(parsed_entries, heat_data):
             fm["private_role"] = esc(fields.get("private_role", ""))
         elif entry_type in ("financial-flow", "analysis"):
             page_path = CONTENT_PATH / "players" / "money" / f"{entry_id}.md"
-            fm["type"] = "players"
             fm["layout"] = "single"
             fm["player_type"] = "money"
         elif entry_type in ("igsa", "facility"):
             page_path = CONTENT_PATH / "facilities" / f"{entry_id}.md"
-            fm["type"] = "facility_page"
             fm["layout"] = "single"
             fm["facility_name"] = esc(fields.get("facility_name", ""))
             fm["operator"] = esc(fields.get("operator", ""))
@@ -558,6 +554,7 @@ money_count: {money_count}
     with open(CONTENT_PATH / "players" / "contractors" / "_index.md", "w") as f:
         f.write(f"""---
 title: "Contractors"
+type: contractors
 layout: list
 count: {contractor_count}
 ---
@@ -565,6 +562,7 @@ count: {contractor_count}
     with open(CONTENT_PATH / "players" / "people" / "_index.md", "w") as f:
         f.write(f"""---
 title: "People"
+type: people
 layout: list
 count: {people_count}
 ---
@@ -572,6 +570,7 @@ count: {people_count}
     with open(CONTENT_PATH / "players" / "money" / "_index.md", "w") as f:
         f.write(f"""---
 title: "Financial Flows"
+type: money
 layout: list
 count: {money_count}
 ---
@@ -582,6 +581,7 @@ count: {money_count}
     with open(CONTENT_PATH / "facilities" / "_index.md", "w") as f:
         f.write(f"""---
 title: "Detention Facilities"
+type: facilities
 layout: list
 facility_count: {facility_count}
 ---
@@ -591,7 +591,6 @@ facility_count: {facility_count}
     with open(CONTENT_PATH / "signals" / "_index.md", "w") as f:
         f.write("""---
 title: "Signal Types"
-type: signals_list
 layout: list
 ---
 """)
@@ -602,7 +601,7 @@ layout: list
         with open(page_path, "w") as f:
             f.write(f"""---
 title: "{meta['label']}"
-type: signal
+type: signals
 layout: single
 signal_type: "{stype}"
 signal_color: "{meta['color']}"
@@ -659,7 +658,7 @@ entry_count: {len(entries)}
     with open(state_dir / "_index.md", "w") as f:
         f.write("""---
 title: "States"
-type: state_list
+type: state
 layout: list
 ---
 """)

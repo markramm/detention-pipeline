@@ -9,7 +9,6 @@ county: ""
 repo_path: "kb/industry/financial-flows/rogers-cbre-jll-loan-receivables.md"
 lastmod: "2026-04-08"
 summary: "Asst SecNav Rogers has loan receivables from CBRE and JLL (both brokered ICE warehouse deals) plus Blue Owl stock, while his department administers WEXMAC-TITUS procurement."
-type: "players"
 layout: "single"
 player_type: "money"
 ---

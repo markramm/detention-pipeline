@@ -1,6 +1,6 @@
 ---
 title: "Real Estate Trace"
-type: signal
+type: signals
 layout: single
 signal_type: "real-estate-trace"
 signal_color: "#b54f8a"

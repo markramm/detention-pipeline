@@ -1,5 +1,5 @@
 ---
 title: "States"
-type: state_list
+type: state
 layout: list
 ---
