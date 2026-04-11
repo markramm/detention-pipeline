@@ -1,19 +1,51 @@
+{{ define "head" }}
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<style>
+  .fac-map-wrap { width:100%; height:400px; position:relative; overflow:hidden; background:#0a0a0f; border-radius:5px; border:1px solid var(--border); margin-bottom:20px; }
+  .fac-map-wrap svg { width:100%; height:100%; }
+  .fm-county { fill:#12121a; stroke:rgba(42,42,53,0.3); stroke-width:0.2; }
+  .fm-state { fill:none; stroke:#353542; stroke-width:0.5; pointer-events:none; }
+  .fm-dot { fill:#e8c840; fill-opacity:0.7; stroke:#f0d860; stroke-width:0.4; cursor:pointer; }
+  .fm-dot:hover { fill-opacity:1; stroke-width:1.5; }
+  #fm-tip { position:fixed; z-index:200; pointer-events:none; opacity:0; transition:opacity 0.1s; }
+  #fm-tip.vis { opacity:1; }
+  .fm-tip-in { background:#111118; border:1px solid #353542; border-radius:5px; box-shadow:0 4px 20px rgba(0,0,0,0.5); color:#e8e6e1; padding:10px 14px; max-width:280px; }
+  .fm-tip-name { font-family:'Instrument Serif',serif; font-size:14px; margin-bottom:2px; }
+  .fm-tip-meta { font-family:'DM Mono',monospace; font-size:9px; color:#8a8892; line-height:1.5; }
+  #fm-legend { position:absolute; bottom:10px; left:10px; background:#111118; border:1px solid #2a2a35; border-radius:3px; padding:6px 10px; font-family:'DM Mono',monospace; font-size:8px; color:#8a8892; display:flex; align-items:center; gap:6px; }
+  #fm-legend .fm-swatch { width:8px; height:8px; border-radius:50%; background:#e8c840; }
+</style>
+{{ end }}
+
 {{ define "main" }}
 <div class="breadcrumb">
   <a href="/">Home</a><span class="sep">/</span>Facilities
 </div>
-<div class="page-content">
+<div class="page-content" style="max-width:1200px;">
   <h1 class="serif" style="font-size:28px; font-weight:400; margin:24px 0 6px;">Detention Facilities</h1>
   <p style="font-size:13px; color:var(--text-secondary); margin-bottom:16px;">
-    {{ .Params.facility_count }} facilities with Intergovernmental Service Agreements (IGSAs) for ICE detention.
+    {{ .Params.facility_count }} ICE detention facilities tracked by the Vera Institute.
+    Sorted by average daily population.
   </p>
 
+  {{/* Map */}}
+  <div class="fac-map-wrap" id="fac-map-wrap">
+    <div id="fm-legend"><div class="fm-swatch"></div>Facility (sized by population)</div>
+  </div>
+  <div id="fm-tip"><div class="fm-tip-in" id="fm-tip-in"></div></div>
+
+  {{/* Filters */}}
   <div style="display:flex; gap:10px; margin-bottom:16px; flex-wrap:wrap; align-items:center;">
     <input type="text" id="fac-search" placeholder="Search facilities..."
       style="flex:1; min-width:200px; padding:8px 12px; font-size:13px; border:1px solid var(--border); border-radius:4px; background:white; color:var(--text-primary); font-family:inherit;">
     <select id="fac-state"
       style="padding:8px 12px; font-size:13px; border:1px solid var(--border); border-radius:4px; background:white; color:var(--text-primary); font-family:inherit; cursor:pointer;">
       <option value="">All states</option>
+    </select>
+    <select id="fac-type"
+      style="padding:8px 12px; font-size:13px; border:1px solid var(--border); border-radius:4px; background:white; color:var(--text-primary); font-family:inherit; cursor:pointer;">
+      <option value="">All types</option>
     </select>
     <span id="fac-count" class="mono dim" style="font-size:11px;"></span>
   </div>
@@ -24,23 +56,21 @@
         <th>Facility</th>
         <th>County</th>
         <th style="width:50px">State</th>
-        <th style="width:70px">Status</th>
+        <th style="width:60px">Type</th>
+        <th style="width:70px; cursor:pointer; user-select:none;" id="pop-sort">Pop <span style="opacity:0.4;">&#9660;</span></th>
       </tr>
     </thead>
     <tbody>
-    {{ range sort (where site.RegularPages "Params.entry_type" "in" (slice "igsa" "facility")) ".Title" "asc" }}
-      <tr data-state="{{ .Params.state }}">
+    {{/* Sort by avg_daily_pop descending — Hugo can't sort by numeric param easily, so we render all and sort via JS */}}
+    {{ range where site.RegularPages "Params.entry_type" "in" (slice "igsa" "facility") }}
+      <tr data-state="{{ .Params.state }}" data-type="{{ .Params.facility_type }}" data-pop="{{ .Params.avg_daily_pop | default 0 }}">
         <td>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          {{ with .Params.summary }}<div style="font-size:11px; color:var(--text-dim); margin-top:1px;">{{ . }}</div>{{ end }}
         </td>
         <td>{{ .Params.county }}</td>
         <td class="mono">{{ .Params.state }}</td>
-        <td>
-          {{ with .Params.status }}
-          <span class="signal-badge" style="font-size:9px;">{{ . }}</span>
-          {{ end }}
-        </td>
+        <td><span class="signal-badge" style="font-size:8px;">{{ .Params.facility_type | default "—" }}</span></td>
+        <td class="mono" style="text-align:right;">{{ with .Params.avg_daily_pop }}{{ . }}{{ end }}</td>
       </tr>
     {{ end }}
     </tbody>
@@ -51,36 +81,122 @@
 (function(){
   const search=document.getElementById('fac-search');
   const stateSelect=document.getElementById('fac-state');
+  const typeSelect=document.getElementById('fac-type');
   const countEl=document.getElementById('fac-count');
-  const rows=Array.from(document.querySelectorAll('#fac-table tbody tr'));
+  const tbody=document.querySelector('#fac-table tbody');
+  const rows=Array.from(tbody.querySelectorAll('tr'));
   const total=rows.length;
 
-  // Populate state dropdown from actual data
-  const states=new Set();
-  rows.forEach(r=>{const s=r.dataset.state;if(s)states.add(s)});
+  // Sort by population descending initially
+  rows.sort((a,b)=>(parseInt(b.dataset.pop)||0)-(parseInt(a.dataset.pop)||0));
+  rows.forEach(r=>tbody.appendChild(r));
+
+  // Populate dropdowns
+  const states=new Set(), types=new Set();
+  rows.forEach(r=>{
+    if(r.dataset.state) states.add(r.dataset.state);
+    if(r.dataset.type) types.add(r.dataset.type);
+  });
   Array.from(states).sort().forEach(s=>{
-    const o=document.createElement('option');
-    o.value=s;o.textContent=s;
+    const o=document.createElement('option'); o.value=s; o.textContent=s;
     stateSelect.appendChild(o);
   });
+  Array.from(types).sort().forEach(t=>{
+    const o=document.createElement('option'); o.value=t; o.textContent=t;
+    typeSelect.appendChild(o);
+  });
+
+  let sortAsc=false;
+  document.getElementById('pop-sort').onclick=function(){
+    sortAsc=!sortAsc;
+    this.querySelector('span').textContent=sortAsc?'\u25B2':'\u25BC';
+    rows.sort((a,b)=>sortAsc
+      ?(parseInt(a.dataset.pop)||0)-(parseInt(b.dataset.pop)||0)
+      :(parseInt(b.dataset.pop)||0)-(parseInt(a.dataset.pop)||0));
+    rows.forEach(r=>tbody.appendChild(r));
+  };
 
   function filter(){
     const q=search.value.toLowerCase();
     const st=stateSelect.value;
+    const tp=typeSelect.value;
     let vis=0;
     rows.forEach(r=>{
       const text=r.textContent.toLowerCase();
-      const matchQ=!q||text.includes(q);
-      const matchSt=!st||r.dataset.state===st;
-      const show=matchQ&&matchSt;
+      const show=(!q||text.includes(q))&&(!st||r.dataset.state===st)&&(!tp||r.dataset.type===tp);
       r.style.display=show?'':'none';
       if(show)vis++;
     });
     countEl.textContent=vis<total?vis+' of '+total:'';
   }
-
   search.addEventListener('input',filter);
   stateSelect.addEventListener('change',filter);
+  typeSelect.addEventListener('change',filter);
+
+  // Facility map
+  async function initMap(){
+    const[topo,facs]=await Promise.all([
+      d3.json('/counties-albers-10m.json'),
+      d3.json('/facilities_map.json')
+    ]);
+    const el=document.getElementById('fac-map-wrap');
+    const w=el.clientWidth,h=el.clientHeight;
+    const svg=d3.select('#fac-map-wrap').append('svg').attr('width',w).attr('height',h);
+    const g=svg.append('g');
+    const mW=1016,mH=594,s0=Math.min(w/mW,h/mH)*0.90;
+    const tx=(w-mW*s0)/2-(-58)*s0,ty=(h-mH*s0)/2-13*s0;
+    const it=d3.zoomIdentity.translate(tx,ty).scale(s0);
+    const zm=d3.zoom().scaleExtent([s0*0.8,s0*16]).on('zoom',e=>g.attr('transform',e.transform));
+    svg.call(zm).call(zm.transform,it);
+    const path=d3.geoPath();
+
+    // Draw counties (dark background)
+    const counties=topojson.feature(topo,topo.objects.counties);
+    g.selectAll('.fm-county').data(counties.features).join('path').attr('class','fm-county').attr('d',path);
+    g.append('path').datum(topojson.mesh(topo,topo.objects.states,(a,b)=>a!==b)).attr('class','fm-state').attr('d',path);
+
+    // Compute centroids
+    const centroids={};
+    counties.features.forEach(f=>{
+      const fips=f.id.toString().padStart(5,'0');
+      const c=path.centroid(f);
+      if(c&&isFinite(c[0]))centroids[fips]=c;
+    });
+
+    // Group facilities by FIPS
+    const byFips={};
+    facs.forEach(f=>{if(centroids[f.fips]){byFips[f.fips]=byFips[f.fips]||[];byFips[f.fips].push(f)}});
+
+    const tip=document.getElementById('fm-tip');
+    const tipIn=document.getElementById('fm-tip-in');
+    function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+    function moveTip(ev){
+      let x=ev.clientX+12,y=ev.clientY+12;
+      if(x+tip.offsetWidth>window.innerWidth-12)x=ev.clientX-tip.offsetWidth-12;
+      if(y+tip.offsetHeight>window.innerHeight-12)y=ev.clientY-tip.offsetHeight-12;
+      tip.style.left=x+'px';tip.style.top=y+'px';
+    }
+
+    Object.entries(byFips).forEach(([fips,list])=>{
+      const[cx,cy]=centroids[fips];
+      const r=Math.max(2,Math.sqrt(list.length)*2);
+      g.append('circle').attr('class','fm-dot').attr('cx',cx).attr('cy',cy).attr('r',r)
+        .on('mouseenter',(e)=>{
+          const names=list.map(f=>'<div style="font-size:10px;color:#8a8892;padding:1px 0;">'+esc(f.name)+'</div>').join('');
+          tipIn.innerHTML='<div class="fm-tip-name">'+list.length+' facilit'+(list.length===1?'y':'ies')+'</div>'
+            +'<div class="fm-tip-meta">FIPS '+fips+'</div>'
+            +'<div style="margin-top:4px;">'+names+'</div>';
+          moveTip(e);tip.classList.add('vis');
+        })
+        .on('mousemove',e=>moveTip(e))
+        .on('mouseleave',()=>tip.classList.remove('vis'))
+        .on('click',()=>{
+          if(list.length===1)window.location.href='/facilities/'+list[0].id+'/';
+          else window.location.href='/county/'+fips+'/';
+        });
+    });
+  }
+  initMap().catch(e=>console.error('Facility map failed:',e));
 })();
 </script>
 {{ end }}
