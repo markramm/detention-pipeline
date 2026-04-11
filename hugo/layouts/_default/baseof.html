@@ -31,7 +31,8 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline">
 <meta name="twitter:description" content="{{ $desc }}">
-{{ with .Params.canonical }}<link rel="canonical" href="{{ . | absURL }}">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="sitemap" type="application/xml" href="/sitemap.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -273,17 +274,24 @@ body {
   "description": "Early-warning system for ICE detention facility expansion"
 }
 </script>
-{{ if eq .Type "county" }}
+{{ if and .IsPage (not .IsHome) }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "{{ .Title }}",
-  "description": "{{ with .Params.auto_summary }}{{ . }}{{ end }}",
-  "dateModified": "{{ with .Params.lastmod }}{{ . }}{{ end }}",
+  "description": "{{ $desc }}",
+  {{ with .Params.lastmod }}"dateModified": "{{ . }}",{{ end }}
+  "url": "{{ .Permalink }}",
   "publisher": {
     "@type": "Organization",
-    "name": "The RAMM"
+    "name": "The RAMM",
+    "url": "https://theramm.substack.com"
+  },
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Detention Pipeline",
+    "url": "https://detention-pipeline.transparencycascade.org/"
   }
 }
 </script>
