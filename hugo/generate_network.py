@@ -183,41 +183,79 @@ def build_conflict_matrix():
     # This is the data that's most impactful as a matrix view
     officials = [
         {"id": "trump", "name": "Donald Trump", "role": "President"},
+        {"id": "miller", "name": "Stephen Miller", "role": "Homeland Security Advisor"},
+        {"id": "homan", "name": "Thomas Homan", "role": "Border Czar, DHS"},
+        {"id": "edgar", "name": "Troy Edgar", "role": "Deputy Secretary, DHS"},
         {"id": "forst", "name": "Edward Forst", "role": "GSA Administrator"},
         {"id": "phelan", "name": "John Phelan", "role": "Secretary of the Navy"},
-        {"id": "homan", "name": "Thomas Homan", "role": "Border Czar"},
-        {"id": "venturella", "name": "David Venturella", "role": "DHS Senior Adviser"},
-        {"id": "mccord", "name": "Antoine McCord", "role": "DHS CIO"},
-        {"id": "mcgranahan", "name": "John McGranahan", "role": "Former GSA GC"},
-        {"id": "dalelio", "name": "Edward D'Alelio", "role": "Blue Owl Director"},
+        {"id": "rhodes", "name": "Kevin Rhodes", "role": "Federal Procurement Policy, OMB"},
+        {"id": "barbaccia", "name": "Gregory Barbaccia", "role": "Federal CIO, OMB"},
+        {"id": "patel", "name": "Kash Patel", "role": "Director, DOJ"},
+        {"id": "venturella", "name": "David Venturella", "role": "Senior Adviser, DHS"},
+        {"id": "mccord", "name": "Antoine McCord", "role": "CIO, DHS"},
+        {"id": "danley", "name": "Christopher Danley", "role": "Senior Advisor, Interior"},
+        {"id": "minor", "name": "Clark Minor", "role": "CTO/CIO, HHS"},
+        {"id": "scott", "name": "Rodney Scott", "role": "Commissioner, CBP"},
+        {"id": "mcgranahan", "name": "John McGranahan", "role": "Former GC, GSA"},
+        {"id": "dalelio", "name": "Edward D'Alelio", "role": "Director, Blue Owl"},
     ]
 
     companies = [
+        {"id": "palantir", "name": "Palantir", "type": "surveillance"},
         {"id": "blue-owl", "name": "Blue Owl Capital", "type": "warehouse-seller"},
         {"id": "goldman", "name": "Goldman Sachs", "type": "warehouse-seller"},
-        {"id": "palantir", "name": "Palantir", "type": "surveillance"},
         {"id": "geo", "name": "GEO Group", "type": "private-prison"},
-        {"id": "corecivic", "name": "CoreCivic", "type": "private-prison"},
         {"id": "anduril", "name": "Anduril", "type": "surveillance"},
         {"id": "cbre", "name": "CBRE", "type": "real-estate"},
         {"id": "deutsche", "name": "Deutsche Bank", "type": "warehouse-seller"},
+        {"id": "corecivic", "name": "CoreCivic", "type": "private-prison"},
+        {"id": "newmark", "name": "Newmark", "type": "real-estate"},
+        {"id": "relx", "name": "RELX/LexisNexis", "type": "surveillance"},
     ]
 
     # Conflict ties: [official_id, company_id, type, detail]
+    # Sources: OGE financial disclosures via trump-appointee KB
     ties = [
+        # Trump
         ["trump", "blue-owl", "stock", "$5M+"],
-        ["trump", "goldman", "stock/bonds", "Significant holdings"],
+        ["trump", "goldman", "stock", "Significant holdings"],
+        # Miller
+        ["miller", "palantir", "stock", "$100K-$250K"],
+        # Homan
+        ["homan", "geo", "compensation", "GEO Care consulting fees"],
+        ["homan", "cbre", "stock", "Personal holdings"],
+        ["homan", "relx", "stock", "LexisNexis parent, personal IRA"],
+        # Edgar
+        ["edgar", "palantir", "stock", "$250K-$500K"],
+        # Forst
         ["forst", "goldman", "stock/PE", "$1.8M-$6.1M+"],
         ["forst", "deutsche", "pension", "Legacy Bankers Trust"],
         ["forst", "palantir", "stock", "$15K-$50K"],
         ["forst", "cbre", "stock", "Brokered Williamsport sale"],
-        ["phelan", "blue-owl", "stock+fund", "Multiple holdings"],
-        ["homan", "geo", "compensation", "GEO Care consulting fees"],
-        ["homan", "cbre", "stock", "Personal holdings"],
+        # Phelan
+        ["phelan", "blue-owl", "stock", "Multiple holdings; administers WEXMAC-TITUS"],
+        # Rhodes
+        ["rhodes", "palantir", "stock", "$1K-$15K; controls all federal procurement"],
+        # Barbaccia
+        ["barbaccia", "anduril", "investment", "$100K-$250K MWSI VC"],
+        # Patel
+        ["patel", "palantir", "stock", "$50K-$100K"],
+        ["patel", "goldman", "stock", "Holdings"],
+        # Venturella
         ["venturella", "geo", "compensation", "$6M+ over 12 years"],
-        ["mccord", "anduril", "equity", "Active RSUs, 401k, ESPP"],
+        # McCord
+        ["mccord", "anduril", "equity", "Active RSUs, 401k, ESPP ($250K-$500K)"],
         ["mccord", "palantir", "procurement", "Oversees ICE tech contracts"],
+        # Danley
+        ["danley", "geo", "stock", "Purchased $15K-$50K June 2025"],
+        ["danley", "palantir", "stock", "Multiple sales documented"],
+        # Minor
+        ["minor", "palantir", "stock", "$1M-$5M"],
+        # Scott
+        ["scott", "cbre", "consulting", "Honor Consulting Plus LLC ($50K-$100K)"],
+        # McGranahan
         ["mcgranahan", "blue-owl", "investment", "Personal holdings"],
+        # D'Alelio
         ["dalelio", "blue-owl", "employment", "Director"],
     ]
 
