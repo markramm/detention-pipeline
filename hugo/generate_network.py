@@ -195,7 +195,6 @@ def build_conflict_matrix():
         {"id": "mccord", "name": "Antoine McCord", "role": "CIO, DHS"},
         {"id": "danley", "name": "Christopher Danley", "role": "Senior Advisor, Interior"},
         {"id": "minor", "name": "Clark Minor", "role": "CTO/CIO, HHS"},
-        {"id": "scott", "name": "Rodney Scott", "role": "Commissioner, CBP"},
         {"id": "mcgranahan", "name": "John McGranahan", "role": "Former GC, GSA"},
         {"id": "dalelio", "name": "Edward D'Alelio", "role": "Director, Blue Owl"},
     ]
@@ -208,8 +207,6 @@ def build_conflict_matrix():
         {"id": "anduril", "name": "Anduril", "type": "surveillance"},
         {"id": "cbre", "name": "CBRE", "type": "real-estate"},
         {"id": "deutsche", "name": "Deutsche Bank", "type": "warehouse-seller"},
-        {"id": "corecivic", "name": "CoreCivic", "type": "private-prison"},
-        {"id": "newmark", "name": "Newmark", "type": "real-estate"},
         {"id": "relx", "name": "RELX/LexisNexis", "type": "surveillance"},
     ]
 
@@ -251,8 +248,6 @@ def build_conflict_matrix():
         ["danley", "palantir", "stock", "Multiple sales documented"],
         # Minor
         ["minor", "palantir", "stock", "$1M-$5M"],
-        # Scott
-        ["scott", "cbre", "consulting", "Honor Consulting Plus LLC ($50K-$100K)"],
         # McGranahan
         ["mcgranahan", "blue-owl", "investment", "Personal holdings"],
         # D'Alelio

@@ -790,11 +790,6 @@
         "role": "CTO/CIO, HHS"
       },
       {
-        "id": "scott",
-        "name": "Rodney Scott",
-        "role": "Commissioner, CBP"
-      },
-      {
         "id": "mcgranahan",
         "name": "John McGranahan",
         "role": "Former GC, GSA"
@@ -840,16 +835,6 @@
         "id": "deutsche",
         "name": "Deutsche Bank",
         "type": "warehouse-seller"
-      },
-      {
-        "id": "corecivic",
-        "name": "CoreCivic",
-        "type": "private-prison"
-      },
-      {
-        "id": "newmark",
-        "name": "Newmark",
-        "type": "real-estate"
       },
       {
         "id": "relx",
@@ -989,12 +974,6 @@
         "palantir",
         "stock",
         "$1M-$5M"
-      ],
-      [
-        "scott",
-        "cbre",
-        "consulting",
-        "Honor Consulting Plus LLC ($50K-$100K)"
       ],
       [
         "mcgranahan",
