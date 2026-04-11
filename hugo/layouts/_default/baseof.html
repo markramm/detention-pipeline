@@ -27,10 +27,30 @@
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:type" content="{{ cond .IsHome "website" "article" }}">
 <meta property="og:url" content="{{ .Permalink }}">
+{{- $ogImage := "/og/default.png" -}}
+{{- if eq .Type "county" -}}
+  {{- $ogImage = printf "/og/county-%s.png" .Params.fips -}}
+{{- else if eq .Type "fights" -}}
+  {{- if .IsPage -}}
+    {{- $ogImage = printf "/og/fight-%s.png" .File.ContentBaseName -}}
+  {{- end -}}
+{{- else if eq .Type "state" -}}
+  {{- if .IsPage -}}
+    {{- $ogImage = printf "/og/state-%s.png" (lower .Params.state_abbr) -}}
+  {{- end -}}
+{{- else if or (eq .Type "players") (eq .Type "organizations") -}}
+  {{- if .IsPage -}}
+    {{- $ogImage = printf "/og/player-%s.png" .File.ContentBaseName -}}
+  {{- end -}}
+{{- end -}}
+<meta property="og:image" content="{{ $ogImage | absURL }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:site_name" content="Detention Pipeline">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline">
 <meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $ogImage | absURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="sitemap" type="application/xml" href="/sitemap.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
