@@ -50,9 +50,13 @@
   .tip-link:hover { color: #e8e6e1; background: rgba(255,255,255,0.03); }
   .fac-dot { fill: #c93b3b; fill-opacity: 0.7; stroke: #e84545; stroke-width: 0.5; cursor: pointer; transition: fill-opacity 0.1s; }
   .fac-dot:hover { fill-opacity: 1; stroke-width: 1.5; }
-  .toggle-btn { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.06em; text-transform: uppercase; color: #55535e; padding: 5px 10px; border-radius: 2px; border: 1px solid #2a2a35; background: transparent; cursor: pointer; transition: all 0.12s; }
+  .map-controls { display: flex; gap: 8px; align-items: center; }
+  .map-controls-label { font-family: 'DM Mono', monospace; font-size: 8px; letter-spacing: 0.08em; text-transform: uppercase; color: #3a3845; }
+  .toggle-btn { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.06em; text-transform: uppercase; color: #55535e; padding: 4px 10px 4px 8px; border-radius: 2px; border: 1px solid #2a2a35; background: transparent; cursor: pointer; transition: all 0.12s; display: inline-flex; align-items: center; gap: 5px; }
   .toggle-btn:hover { color: #e8e6e1; border-color: #353542; }
   .toggle-btn.active { color: #c93b3b; border-color: #c93b3b; background: rgba(201,59,59,0.1); }
+  .toggle-indicator { display: inline-block; width: 7px; height: 7px; border-radius: 50%; border: 1.5px solid #55535e; transition: all 0.12s; }
+  .toggle-btn.active .toggle-indicator { background: #c93b3b; border-color: #c93b3b; box-shadow: 0 0 4px rgba(201,59,59,0.4); }
 </style>
 {{ end }}
 
@@ -62,12 +66,17 @@
   <div id="map-header" class="map-overlay">
     <div class="map-title">Detention Pipeline Heat Map</div>
     <div class="map-sub">Multi-signal convergence scoring across U.S. counties · Data as of Feb 2026</div>
-    <div class="map-actions">
-      <button class="toggle-btn" id="fac-toggle">Facilities</button>
-      <a href="/fights/">County fights</a>
-      <a href="/county/">Browse counties</a>
-      <a href="/players/">The players</a>
-      <a href="/methodology/">Methodology</a>
+    <div style="display:flex; gap:16px; align-items:center; margin-top:8px; flex-wrap:wrap;">
+      <div class="map-controls">
+        <span class="map-controls-label">Layers</span>
+        <button class="toggle-btn active" id="fac-toggle"><span class="toggle-indicator"></span>Facilities</button>
+      </div>
+      <div class="map-actions">
+        <a href="/fights/">County fights</a>
+        <a href="/county/">Browse counties</a>
+        <a href="/players/">The players</a>
+        <a href="/methodology/">Methodology</a>
+      </div>
     </div>
   </div>
   <div id="map-legend" class="map-overlay">
@@ -99,7 +108,7 @@ let H={},FN={},mx=1;
 function hc(s){if(!s||s<=0)return'#12121a';const t=Math.min(s/mx,1);return`rgb(${18+t*237|0},${18+Math.pow(t,2.2)*50|0},${26-t*10|0})`}
 function sc(s){return s>=70?'#e84545':s>=40?'#d46a2f':s>=15?'#8a8892':'#55535e'}
 function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
-let facLayer=null,facVisible=false;
+let facLayer=null,facVisible=true;
 async function init(){
   const[topo,heat,names]=await Promise.all([d3.json('/counties-albers-10m.json'),d3.json('/heat_data.json'),d3.json('/fips_names.json')]);
   FN=names;heat.forEach(d=>{H[d.fips]=d});mx=d3.max(heat,d=>d.score)||1;
@@ -144,7 +153,7 @@ async function init(){
   });
 
   // Facility overlay
-  facLayer=g.append('g').attr('class','fac-layer').style('display','none');
+  facLayer=g.append('g').attr('class','fac-layer');
   const facs=await d3.json('/facilities_map.json');
 
   // Group by FIPS to count facilities per county
