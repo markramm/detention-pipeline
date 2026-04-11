@@ -3,3 +3,6 @@ __pycache__/
 .pyrite/
 .DS_Store
 /tmp/
+
+# Generated site output — built by GitHub Actions, not committed
+/docs/

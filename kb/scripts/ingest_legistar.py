@@ -63,64 +63,78 @@ CLOSED_SESSION_KEYWORDS = [
     r"warehouse.*(?:conversion|lease|purchase)",
 ]
 
-# Counties to monitor — VALIDATED against Legistar API (2026-04-11)
-# Format: (legistar_client_id, county_name, state, fips)
-# Validation: https://webapi.legistar.com/v1/{client}/Bodies returns 200
-# Full validated list also at: kb/scripts/data/legistar_counties.json
+# Portals to monitor — VALIDATED against Legistar API (2026-04-10)
+# Format: (legistar_client_id, entity_name, state, fips)
+# Validation: curl -s -o /dev/null -w "%{http_code}" "https://webapi.legistar.com/v1/{client}/Bodies"
+# Note: FIPS is the COUNTY fips even for city-level portals (for heatmap cross-ref)
 MONITORED_COUNTIES = [
-    # Florida (8)
-    ("broward", "Broward", "FL", "12011"),                    # Score 129
-    ("miamidade", "Miami-Dade", "FL", "12086"),               # Score 111
-    ("hillsboroughcounty", "Hillsborough", "FL", "12057"),    # Score 74
-    ("martin", "Martin", "FL", "12085"),                      # Score 66
-    ("pinellas", "Pinellas", "FL", "12103"),                   # Score 62
-    ("brevardfl", "Brevard", "FL", "12009"),                   # Score 62
-    ("hernandocountyfl", "Hernando", "FL", "12053"),           # Score 48
-    ("charlottecountyfl", "Charlotte", "FL", "12015"),         # Score 48
-    # Georgia (3)
-    ("dekalbcountyga", "DeKalb", "GA", "13089"),              # Score 65
-    ("douglascounty", "Douglas", "GA", "13097"),              # Score 57
-    ("fulton", "Fulton", "GA", "13121"),                      # Score 57
-    # Texas (1)
-    ("harriscountytx", "Harris", "TX", "48201"),              # Score 59
-    # Arizona (2)
-    ("maricopa", "Maricopa", "AZ", "04013"),                  # Score 72
-    ("pima", "Pima", "AZ", "04019"),
-    # Virginia (1)
-    ("albemarle", "Albemarle", "VA", "51003"),                # Score 65
-    # Oklahoma (1)
-    ("oklahomacounty", "Oklahoma", "OK", "40109"),            # Score 49
-    # California (6)
-    ("lacounty", "Los Angeles", "CA", "06037"),               # Score 64
-    ("sacramento", "Sacramento", "CA", "06067"),              # Score 44
-    ("occompt", "Orange", "CA", "06059"),                     # Score 74
-    ("sdcounty", "San Diego", "CA", "06073"),                 # Score 74
-    ("monterey", "Monterey", "CA", "06053"),
-    ("eldorado", "El Dorado", "CA", "06017"),
-    # North Carolina (2)
-    ("mecklenburg", "Mecklenburg", "NC", "37119"),
-    ("wake", "Wake", "NC", "37183"),
-    # Maryland (3)
-    ("princegeorgescountymd", "Prince Georges", "MD", "24033"),
-    ("montgomerycountymd", "Montgomery", "MD", "24031"),
-    ("baltimore", "Baltimore City", "MD", "24510"),
-    # Florida (1 more — Jacksonville)
-    ("jaxcityc", "Duval", "FL", "12031"),
-    # Other states
-    ("cook-county", "Cook", "IL", "17031"),
-    ("louisville", "Jefferson", "KY", "21111"),
-    ("hennepinmn", "Hennepin", "MN", "27053"),
-    ("kingcounty", "King", "WA", "53033"),
-    ("whatcom", "Whatcom", "WA", "53073"),
-    ("dane", "Dane", "WI", "55025"),
-    ("westchestercountyny", "Westchester", "NY", "36119"),
-    ("sfgov", "San Francisco", "CA", "06075"),
-    ("mauicounty", "Maui", "HI", "15009"),
+    # === COUNTY-LEVEL PORTALS (commission activity) ===
 
-    # NOT on Legistar (as of 2026-04-11) — need alternative monitoring:
-    # Wayne MI (122), Charlton GA (110), Palm Beach FL (109), Pinal AZ (107),
-    # Bradford FL (100), Webb TX (99), Stewart GA (80), Frio TX (80),
-    # Chatham GA (79), Cobb GA (65), Gwinnett GA, Kern CA, Essex NJ
+    # Florida
+    ("broward", "Broward County", "FL", "12011"),                  # Heat 83
+    ("miamidade", "Miami-Dade County", "FL", "12086"),             # Heat 65
+    ("hillsboroughcounty", "Hillsborough County", "FL", "12057"),  # Heat 43
+    ("martin", "Martin County", "FL", "12085"),                    # Heat 35
+    ("pinellas", "Pinellas County", "FL", "12103"),                 # Heat 31
+    ("brevardfl", "Brevard County", "FL", "12009"),                 # Heat 31
+
+    # California
+    ("sdcounty", "San Diego County", "CA", "06073"),               # Heat 74
+    ("lacounty", "Los Angeles County", "CA", "06037"),             # Heat 64
+    ("sacramento", "Sacramento County", "CA", "06067"),            # Heat 44
+    ("sanbernardino", "San Bernardino County", "CA", "06071"),     # Heat 34
+
+    # Arizona
+    ("maricopa", "Maricopa County", "AZ", "04013"),                # Heat 48
+
+    # Georgia
+    ("fulton", "Fulton County", "GA", "13121"),                    # Metro Atlanta
+
+    # Virginia
+    ("richmondva", "Richmond", "VA", "51760"),                     # Heat 44
+    ("albemarle", "Albemarle County", "VA", "51003"),              # Heat 34
+    ("salem", "Salem", "VA", "51775"),                             # Heat 34
+
+    # Colorado
+    ("arapahoe", "Arapahoe County", "CO", "08005"),                # Heat 44
+
+    # === CITY-LEVEL PORTALS (city council — covers cities where counties lack Legistar) ===
+
+    # Michigan — Wayne County (Heat 98) has no county portal
+    ("detroit", "Detroit", "MI", "26163"),                         # Romulus warehouse fight
+
+    # Florida — city-level supplements
+    ("pompano", "Pompano Beach", "FL", "12011"),                   # BTC location!
+    ("fortlauderdale", "Fort Lauderdale", "FL", "12011"),          # Sabot job posting
+    ("delraybeach", "Delray Beach", "FL", "12099"),                # Palm Beach County (no county portal)
+    ("miramar", "Miramar", "FL", "12011"),                         # Broward
+
+    # Arizona — city-level
+    ("mesa", "Mesa", "AZ", "04013"),                               # Maricopa
+
+    # Georgia — city-level
+    ("atlantaga", "Atlanta", "GA", "13121"),                       # Fulton
+    ("marietta", "Marietta", "GA", "13067"),                       # Cobb County (no county portal)
+    ("columbus", "Columbus", "GA", "13215"),                       # Near Stewart Detention Center
+
+    # New Jersey
+    ("newark", "Newark", "NJ", "34013"),                           # Essex County (no county portal)
+
+    # Texas — city-level
+    ("elpasotexas", "El Paso", "TX", "48141"),                     # Heat 34, Socorro warehouse
+    ("sanantonio", "San Antonio", "TX", "48029"),                  # Bexar County
+
+    # Missouri — fought off ICE warehouse
+    ("kansascity", "Kansas City", "MO", "29095"),
+
+    # Illinois
+    ("chicago", "Chicago", "IL", "17031"),                         # Cook County
+
+    # NOT on Legistar at county OR city level (as of 2026-04-10):
+    # HIGH PRIORITY: Pinal AZ (76), Webb TX (68), Charlton GA (79),
+    #   Bradford FL (54), Palm Beach FL (63, only Delray Beach city)
+    # MEDIUM: Stewart GA, Frio TX, Chatham GA, Bernalillo NM,
+    #   Kern CA, Montgomery TX, Orange CA/FL, Imperial CA
 ]
 
 
@@ -135,7 +149,7 @@ def fetch_legistar(client, endpoint, params=None):
     req.add_header("Accept", "application/json")
 
     try:
-        with urlopen(req, timeout=15) as resp:
+        with urlopen(req, timeout=8) as resp:
             return json.loads(resp.read())
     except HTTPError as e:
         if e.code == 404:
@@ -147,10 +161,25 @@ def fetch_legistar(client, endpoint, params=None):
         return []
 
 
+# Known false positive patterns — exclude these before keyword matching
+FALSE_POSITIVES = [
+    r"Easy Ice",           # Ice machine company
+    r"Manakin.Sabot",      # Place name in Virginia
+    r"ice machine",
+    r"snow and ice removal",
+    r"de-icing",
+]
+
+
 def check_keywords(text):
     """Check text against keyword lists. Returns (signal_strength, matched_keywords)."""
     if not text:
         return None, []
+
+    # Check for known false positives
+    for fp in FALSE_POSITIVES:
+        if re.search(fp, text, re.IGNORECASE):
+            return None, []
 
     matched = []
 
