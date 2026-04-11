@@ -13,6 +13,12 @@ tags:
 - igsa
 - oh
 importance: 5
+facility_type: "IGSA"
+city: "Mount Gilead"
+address: "101 Home Road"
+aor: "Detroit"
+latitude: 40.5510666
+longitude: -82.8448573
 ---
 
 IGSA detention facility: Morrow Co. Correctional Facility in Morrow County, OH.

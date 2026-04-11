@@ -13,6 +13,12 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Jacksonville"
+address: "500 East Adams Street"
+aor: "Miami"
+latitude: 30.3260802
+longitude: -81.6506176
 ---
 
 IGSA detention facility: Duval/Jacksonville Jail in Duval County, FL.

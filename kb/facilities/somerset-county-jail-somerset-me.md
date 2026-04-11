@@ -13,6 +13,12 @@ tags:
 - igsa
 - me
 importance: 5
+facility_type: "IGSA"
+city: "Madison"
+address: "131 East Madison Road"
+aor: "Boston"
+latitude: 44.7926095
+longitude: -69.7271713
 ---
 
 IGSA detention facility: Somerset County Jail in Somerset County, ME.

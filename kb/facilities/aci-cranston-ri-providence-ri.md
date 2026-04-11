@@ -13,6 +13,12 @@ tags:
 - igsa
 - ri
 importance: 5
+facility_type: "IGSA"
+city: "Cranston"
+address: "39 Howard Ave"
+aor: "Boston"
+latitude: 41.7454982
+longitude: -71.4647471
 ---
 
 IGSA detention facility: ACI, Cranston RI in Providence County, RI.

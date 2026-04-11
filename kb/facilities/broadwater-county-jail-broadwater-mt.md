@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Townsend"
+address: "519 Broadway"
+aor: "Salt Lake City"
+latitude: 46.3215246
+longitude: -111.5153366
 ---
 
 IGSA detention facility: Broadwater County Jail in Broadwater County, MT.

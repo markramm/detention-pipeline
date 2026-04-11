@@ -13,6 +13,13 @@ tags:
 - igsa
 - ga
 importance: 5
+facility_type: "DIGSA"
+city: "Folkston"
+address: "3424 Highway 252 East"
+aor: "Atlanta"
+latitude: 30.8713845
+longitude: -81.9811062
+avg_daily_pop: 280
 ---
 
 IGSA detention facility: Annex Folkston IPC in Charlton County, GA.

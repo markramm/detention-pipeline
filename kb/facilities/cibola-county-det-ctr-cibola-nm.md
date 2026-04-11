@@ -13,6 +13,13 @@ tags:
 - igsa
 - nm
 importance: 5
+facility_type: "IGSA"
+city: "Milan"
+address: "2000 Cibola Loop"
+aor: "El Paso"
+latitude: 35.1799003
+longitude: -107.907208
+avg_daily_pop: 4
 ---
 
 IGSA detention facility: Cibola County Det Ctr in Cibola County, NM.

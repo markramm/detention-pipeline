@@ -13,6 +13,12 @@ tags:
 - igsa
 - il
 importance: 5
+facility_type: "IGSA"
+city: "Stone Park"
+address: "1629 North Mannheim Road"
+aor: "Chicago"
+latitude: 41.9010452
+longitude: -87.8834916
 ---
 
 IGSA detention facility: Stone Park Police Dept. in Cook County, IL.

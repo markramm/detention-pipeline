@@ -13,6 +13,12 @@ tags:
 - igsa
 - az
 importance: 5
+facility_type: "IGSA"
+city: "Prescott"
+address: "255 East Gurley Street"
+aor: "Phoenix"
+latitude: 34.5413831
+longitude: -112.4664875
 ---
 
 IGSA detention facility: Yavapai County Jail in Yavapai County, AZ.

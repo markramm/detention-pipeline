@@ -13,6 +13,12 @@ tags:
 - igsa
 - pa
 importance: 5
+facility_type: "IGSA"
+city: "Shippenville"
+address: "309 T-580"
+aor: "Philadelphia"
+latitude: 41.2378608
+longitude: -79.4229057
 ---
 
 IGSA detention facility: Clarion  County Corrections in Clarion County, PA.

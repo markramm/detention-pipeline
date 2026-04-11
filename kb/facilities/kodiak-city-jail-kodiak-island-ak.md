@@ -13,6 +13,13 @@ tags:
 - igsa
 - ak
 importance: 5
+facility_type: "IGSA"
+city: "Kodiak"
+address: "217 Lower Mill Bay Road"
+aor: "Seattle"
+latitude: 57.8047962
+longitude: -152.3726599
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Kodiak City Jail in Kodiak Island County, AK.

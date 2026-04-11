@@ -13,6 +13,12 @@ tags:
 - igsa
 - mo
 importance: 5
+facility_type: "IGSA"
+city: "Montgomery City"
+address: "211 East Third Street"
+aor: "Chicago"
+latitude: 38.9795184
+longitude: -91.5047146
 ---
 
 IGSA detention facility: Montgomery County Jail in Montgomery County, MO.

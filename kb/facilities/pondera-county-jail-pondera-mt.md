@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Conrad"
+address: "20 4th Avenue Southwest"
+aor: "Salt Lake City"
+latitude: 48.1689172
+longitude: -111.9481136
 ---
 
 IGSA detention facility: Pondera County Jail in Pondera County, MT.

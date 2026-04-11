@@ -13,6 +13,13 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "IGSA"
+city: "Oberlin"
+address: "7340 Highway 26 West"
+aor: "New Orleans"
+latitude: 30.624485
+longitude: -92.783878
+avg_daily_pop: 115
 ---
 
 IGSA detention facility: Allen Parish Public Safety Complex in Allen County, LA.

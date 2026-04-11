@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Naples"
+address: "3301 Tamiami Trail East"
+aor: "Miami"
+latitude: 26.1275317
+longitude: -81.7654572
+avg_daily_pop: 52
 ---
 
 IGSA detention facility: Collier County Sheriff in Collier County, FL.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Seguin"
+address: "2615 N Guadalupe St"
+aor: "San Antonio"
+latitude: 29.602812
+longitude: -97.969838
 ---
 
 IGSA detention facility: Guadalupe Cty Jail in Guadalupe County, TX.

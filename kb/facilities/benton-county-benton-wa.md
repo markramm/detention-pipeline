@@ -13,6 +13,12 @@ tags:
 - igsa
 - wa
 importance: 5
+facility_type: "IGSA"
+city: "Kennewick"
+address: "7320 W. Quinault"
+aor: "Seattle"
+latitude: 46.2216897
+longitude: -119.219007
 ---
 
 IGSA detention facility: Benton County in Benton County, WA.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "DIGSA"
+city: "Raymondville"
+address: "1800 Industrial Drive"
+aor: "Harlingen"
+latitude: 26.470298
+longitude: -97.7586475
 ---
 
 IGSA detention facility: Willacy County Detention Center in Willacy County, TX.

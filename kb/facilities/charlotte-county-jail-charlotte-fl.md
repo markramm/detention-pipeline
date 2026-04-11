@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Punta Gorda"
+address: "26601 Airport Rd"
+aor: "Miami"
+latitude: 26.914946
+longitude: -82.0068169
+avg_daily_pop: 6
 ---
 
 IGSA detention facility: Charlotte County Jail in Charlotte County, FL.

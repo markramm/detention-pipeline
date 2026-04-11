@@ -13,6 +13,12 @@ tags:
 - igsa
 - nm
 importance: 5
+facility_type: "IGSA"
+city: "Gallup"
+address: "255 S. Boardman"
+aor: "El Paso"
+latitude: 35.5270573
+longitude: -108.7085581
 ---
 
 IGSA detention facility: Mckinley County Adult Det. Cen. in Mckinley County, NM.

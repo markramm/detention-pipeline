@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Elmira"
+address: "211 William Street"
+aor: "Buffalo"
+latitude: 42.0913656
+longitude: -76.801407
 ---
 
 IGSA detention facility: Chemung County Jail in Chemung County, NY.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - pa
 importance: 5
+facility_type: "IGSA"
+city: "Greensburg"
+address: "2 North Main Street"
+aor: "Philadelphia"
+latitude: 40.3026716
+longitude: -79.5447136
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Westmoreland County Jail in Westmoreland County, PA.

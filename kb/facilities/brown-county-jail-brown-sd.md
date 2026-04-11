@@ -13,6 +13,12 @@ tags:
 - igsa
 - sd
 importance: 5
+facility_type: "IGSA"
+city: "Aberdeen"
+address: "22 SE Court Street"
+aor: "St. Paul"
+latitude: 45.46453229999999
+longitude: -98.4861634
 ---
 
 IGSA detention facility: Brown County Jail in Brown County, SD.

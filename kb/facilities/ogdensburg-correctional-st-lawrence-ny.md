@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Ogdensburg"
+address: "One Correction Way"
+aor: "Buffalo"
+latitude: 44.7211578
+longitude: -75.4491256
 ---
 
 IGSA detention facility: Ogdensburg Correctional in St. Lawrence County, NY.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - or
 importance: 5
+facility_type: "IGSA"
+city: "Springfield"
+address: "344 A Street"
+aor: "Seattle"
+latitude: 44.0473632
+longitude: -123.0213088
 ---
 
 IGSA detention facility: Springfield City Jail in Lane County, OR.

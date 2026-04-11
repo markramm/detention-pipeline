@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Marfa"
+address: "310 North Highland Street"
+aor: "El Paso"
+latitude: 30.3135681
+longitude: -104.0210418
 ---
 
 IGSA detention facility: Presidio County Jail in Presidio County, TX.

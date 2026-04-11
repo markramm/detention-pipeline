@@ -13,6 +13,12 @@ tags:
 - igsa
 - ut
 importance: 5
+facility_type: "IGSA"
+city: "Heber"
+address: "1361 South United States Highway 40"
+aor: "Salt Lake City"
+latitude: 40.4904905
+longitude: -111.4092369
 ---
 
 IGSA detention facility: Wasatch County Jail in Wasatch County, UT.

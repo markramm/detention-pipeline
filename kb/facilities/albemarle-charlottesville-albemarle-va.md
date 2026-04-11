@@ -13,6 +13,12 @@ tags:
 - igsa
 - va
 importance: 5
+facility_type: "IGSA"
+city: "Charlottesville"
+address: "160 Peregory Ln"
+aor: "Washington"
+latitude: 38.0061415
+longitude: -78.4946428
 ---
 
 IGSA detention facility: Albemarle-Charlottesville in Albemarle County, VA.

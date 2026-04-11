@@ -13,6 +13,12 @@ tags:
 - igsa
 - md
 importance: 5
+facility_type: "IGSA"
+city: "Glen Burnie"
+address: "600 E. Ordnance Road"
+aor: "Baltimore"
+latitude: 39.1996092
+longitude: -76.5941618
 ---
 
 IGSA detention facility: Ordnance Road Correctional Center in Anne Arundel County, MD.

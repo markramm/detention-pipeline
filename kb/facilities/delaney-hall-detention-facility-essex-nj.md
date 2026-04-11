@@ -13,6 +13,13 @@ tags:
 - igsa
 - nj
 importance: 5
+facility_type: "IGSA"
+city: "Newark"
+address: "451 Doremus Avenue"
+aor: "Newark"
+latitude: 40.7181313
+longitude: -74.1284973
+avg_daily_pop: 821
 ---
 
 IGSA detention facility: Delaney Hall Detention Facility in Essex County, NJ.

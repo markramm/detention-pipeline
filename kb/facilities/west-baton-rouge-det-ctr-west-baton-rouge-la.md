@@ -13,6 +13,12 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "IGSA"
+city: "Port Allen"
+address: "1150 Northwest Drive"
+aor: "New Orleans"
+latitude: 30.5010301
+longitude: -91.2142945
 ---
 
 IGSA detention facility: West Baton Rouge Det Ctr in West Baton Rouge County, LA.

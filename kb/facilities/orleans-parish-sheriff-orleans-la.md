@@ -13,6 +13,12 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "IGSA"
+city: "New Orleans"
+address: "2800 Gravier Street"
+aor: "New Orleans"
+latitude: 29.9590787
+longitude: -90.0936466
 ---
 
 IGSA detention facility: Orleans Parish Sheriff in Orleans County, LA.

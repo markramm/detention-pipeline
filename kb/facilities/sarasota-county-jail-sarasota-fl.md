@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Sarasota"
+address: "2020 Main St"
+aor: "Miami"
+latitude: 27.3362409
+longitude: -82.5297893
+avg_daily_pop: 4
 ---
 
 IGSA detention facility: Sarasota County Jail in Sarasota County, FL.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Shelby"
+address: "235 Deer Lodge Avenue"
+aor: "Salt Lake City"
+latitude: 48.5073453
+longitude: -111.8559881
 ---
 
 IGSA detention facility: Toole County Jail in Toole County, MT.

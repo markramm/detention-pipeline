@@ -13,6 +13,12 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "IGSA"
+city: "Waterproof"
+address: "8606 Hwy 65"
+aor: "New Orleans"
+latitude: 31.808646
+longitude: -91.3971461
 ---
 
 IGSA detention facility: Tensas Parish Det. Cntr. in Tensas County, LA.

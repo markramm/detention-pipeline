@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Pearsall"
+address: "502 S Cedar St"
+aor: "San Antonio"
+latitude: 28.8866222
+longitude: -99.0914107
 ---
 
 IGSA detention facility: Frio County Jail in Frio County, TX.

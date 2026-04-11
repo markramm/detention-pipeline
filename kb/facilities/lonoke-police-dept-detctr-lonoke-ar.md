@@ -13,6 +13,13 @@ tags:
 - igsa
 - ar
 importance: 5
+facility_type: "IGSA"
+city: "Lonoke"
+address: "203 W. Front Street"
+aor: "New Orleans"
+latitude: 34.7838007
+longitude: -91.9015024
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Lonoke Police Dept Det.Ctr in Lonoke County, AR.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - ok
 importance: 5
+facility_type: "IGSA"
+city: "Newkirk"
+address: "1101 West Dry Road"
+aor: "Dallas"
+latitude: 36.8678591
+longitude: -97.0691621
+avg_daily_pop: 148
 ---
 
 IGSA detention facility: Kay Co Justice Facility in Kay County, OK.

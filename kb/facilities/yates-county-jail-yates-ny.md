@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Penn Yan"
+address: "227 Main Street"
+aor: "Buffalo"
+latitude: 42.6657379
+longitude: -77.0553254
 ---
 
 IGSA detention facility: Yates County Jail in Yates County, NY.

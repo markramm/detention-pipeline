@@ -13,6 +13,12 @@ tags:
 - igsa
 - az
 importance: 5
+facility_type: "IGSA"
+city: "Tucson"
+address: "10000 South Wilmot"
+aor: "Phoenix"
+latitude: 32.0661903
+longitude: -110.8606614
 ---
 
 IGSA detention facility: AZ Dpt Corrections Tucson in Pima County, AZ.

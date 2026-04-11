@@ -13,6 +13,13 @@ tags:
 - igsa
 - mn
 importance: 5
+facility_type: "IGSA"
+city: "Willmar"
+address: "2201 23rd St NE"
+aor: "St. Paul"
+latitude: 45.1460771
+longitude: -95.0137192
+avg_daily_pop: 90
 ---
 
 IGSA detention facility: Kandiyohi Co. Jail in Kandiyohi County, MN.

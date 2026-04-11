@@ -13,6 +13,12 @@ tags:
 - igsa
 - ga
 importance: 5
+facility_type: "IGSA"
+city: "Hamilton"
+address: "Hwy 116 E, Po Box 286"
+aor: "Atlanta"
+latitude: 32.7579106
+longitude: -84.8749311
 ---
 
 IGSA detention facility: Harris County Jail in Harris County, GA.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Orange"
+address: "501 The City Drive South"
+aor: "Los Angeles"
+latitude: 33.7825672
+longitude: -117.8882283
 ---
 
 IGSA detention facility: Theo Lacy Facility in Orange County, CA.

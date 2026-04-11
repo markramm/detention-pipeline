@@ -13,6 +13,12 @@ tags:
 - igsa
 - or
 importance: 5
+facility_type: "IGSA"
+city: "Roseburg"
+address: "1036 SE Douglas Ave # 210 #124"
+aor: "Seattle"
+latitude: 43.2107529
+longitude: -123.3413068
 ---
 
 IGSA detention facility: Douglas Co. Jail in Douglas County, OR.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - ut
 importance: 5
+facility_type: "IGSA"
+city: "Spanish Fork"
+address: "3075 North Main Street"
+aor: "Salt Lake City"
+latitude: 40.149225
+longitude: -111.6590239
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Utah County Jail in Utah County, UT.

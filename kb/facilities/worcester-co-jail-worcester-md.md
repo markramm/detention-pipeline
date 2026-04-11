@@ -13,6 +13,13 @@ tags:
 - igsa
 - md
 importance: 5
+facility_type: "IGSA"
+city: "Snow Hill"
+address: "5022 Joyner Road"
+aor: "Baltimore"
+latitude: 38.1700717
+longitude: -75.3758308
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Worcester Co. Jail in Worcester County, MD.

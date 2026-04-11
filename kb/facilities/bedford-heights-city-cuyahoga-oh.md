@@ -13,6 +13,12 @@ tags:
 - igsa
 - oh
 importance: 5
+facility_type: "IGSA"
+city: "Bedford Heights"
+address: "5661 Perkins Road"
+aor: "Detroit"
+latitude: 41.4058191
+longitude: -81.4975106
 ---
 
 IGSA detention facility: Bedford Heights City in Cuyahoga County, OH.

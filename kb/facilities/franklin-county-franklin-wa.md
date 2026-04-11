@@ -13,6 +13,12 @@ tags:
 - igsa
 - wa
 importance: 5
+facility_type: "IGSA"
+city: "Pasco"
+address: "1016 N 4th St"
+aor: "Seattle"
+latitude: 46.2372297
+longitude: -119.0957949
 ---
 
 IGSA detention facility: Franklin County in Franklin County, WA.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Euless"
+address: "1102 W. Euless Blvd."
+aor: "Dallas"
+latitude: 32.8290476
+longitude: -97.1022044
 ---
 
 IGSA detention facility: Euless City Jail in Tarrant County, TX.

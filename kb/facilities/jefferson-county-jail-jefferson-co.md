@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Golden"
+address: "200 Jefferson County Parkway"
+aor: "Denver"
+latitude: 39.7305522
+longitude: -105.2021091
 ---
 
 IGSA detention facility: Jefferson County Jail in Jefferson County, CO.

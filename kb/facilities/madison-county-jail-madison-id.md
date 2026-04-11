@@ -13,6 +13,12 @@ tags:
 - igsa
 - id
 importance: 5
+facility_type: "IGSA"
+city: "Rexburg"
+address: "15 North 2nd Street East"
+aor: "Salt Lake City"
+latitude: 43.8231096
+longitude: -111.7924237
 ---
 
 IGSA detention facility: Madison County Jail in Madison County, ID.

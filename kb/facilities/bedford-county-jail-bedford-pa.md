@@ -13,6 +13,12 @@ tags:
 - igsa
 - pa
 importance: 5
+facility_type: "IGSA"
+city: "Bedford"
+address: "204 Thomas Street"
+aor: "Philadelphia"
+latitude: 40.0170806
+longitude: -78.505954
 ---
 
 IGSA detention facility: Bedford County Jail in Bedford County, PA.

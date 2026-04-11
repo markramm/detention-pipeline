@@ -13,6 +13,13 @@ tags:
 - igsa
 - ne
 importance: 5
+facility_type: "IGSA"
+city: "Papillion"
+address: "1208 Golden Gate Drive"
+aor: "St. Paul"
+latitude: 41.140526
+longitude: -96.0418751
+avg_daily_pop: 19
 ---
 
 IGSA detention facility: Sarpy County Jail in Sarpy County, NE.

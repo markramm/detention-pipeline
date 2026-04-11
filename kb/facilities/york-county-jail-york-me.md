@@ -13,6 +13,12 @@ tags:
 - igsa
 - me
 importance: 5
+facility_type: "IGSA"
+city: "Alfred"
+address: "1 Layman Way"
+aor: "Boston"
+latitude: 43.45351580000001
+longitude: -70.7175806
 ---
 
 IGSA detention facility: York County Jail in York County, ME.

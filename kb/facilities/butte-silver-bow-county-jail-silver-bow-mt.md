@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Butte"
+address: "155 West Quartz Street"
+aor: "Salt Lake City"
+latitude: 46.0154869
+longitude: -112.5390927
 ---
 
 IGSA detention facility: Butte-Silver Bow County Jail in Silver Bow County, MT.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Mcfarland"
+address: "245 Taylor Ave"
+aor: "San Francisco"
+latitude: 35.66760319999999
+longitude: -119.2292158
 ---
 
 IGSA detention facility: Mcfarland CCF in Kern County, CA.

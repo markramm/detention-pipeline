@@ -13,6 +13,13 @@ tags:
 - igsa
 - ne
 importance: 5
+facility_type: "DIGSA"
+city: "McCook"
+address: "2309 N Highway 83"
+aor: "St. Paul"
+latitude: 40.2146455
+longitude: -100.6502029
+avg_daily_pop: 151
 ---
 
 IGSA detention facility: McCook ICE IGSA in Red Willow County, NE.

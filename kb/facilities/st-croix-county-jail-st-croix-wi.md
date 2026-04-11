@@ -13,6 +13,12 @@ tags:
 - igsa
 - wi
 importance: 5
+facility_type: "IGSA"
+city: "Hudson"
+address: "1101 Carmichael Rd"
+aor: "Chicago"
+latitude: 44.981586
+longitude: -92.722663
 ---
 
 IGSA detention facility: St. Croix County Jail in St. Croix County, WI.

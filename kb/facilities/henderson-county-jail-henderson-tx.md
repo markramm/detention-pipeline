@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Athens"
+address: "206-A North Murchison Street"
+aor: "Dallas"
+latitude: 32.2078107
+longitude: -95.8457458
 ---
 
 IGSA detention facility: Henderson County Jail in Henderson County, TX.

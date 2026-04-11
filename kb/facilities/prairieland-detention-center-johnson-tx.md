@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "DIGSA"
+city: "Alvarado"
+address: "1209 Sunflower Ln"
+aor: "Dallas"
+latitude: 32.4217129
+longitude: -97.1958755
+avg_daily_pop: 907
 ---
 
 IGSA detention facility: Prairieland Detention Center in Johnson County, TX.

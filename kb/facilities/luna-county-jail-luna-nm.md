@@ -13,6 +13,12 @@ tags:
 - igsa
 - nm
 importance: 5
+facility_type: "IGSA"
+city: "Deming"
+address: "1700 4th Street Northeast"
+aor: "El Paso"
+latitude: 32.2768185
+longitude: -107.7372717
 ---
 
 IGSA detention facility: Luna County Jail in Luna County, NM.

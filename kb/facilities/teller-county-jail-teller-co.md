@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Divide"
+address: "288 Weaverville Road"
+aor: "Denver"
+latitude: 38.9430441
+longitude: -105.1512944
 ---
 
 IGSA detention facility: Teller County Jail in Teller County, CO.

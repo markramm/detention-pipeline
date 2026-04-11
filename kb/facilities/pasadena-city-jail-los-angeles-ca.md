@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Pasadena"
+address: "207 North Garfield Avenue"
+aor: "Los Angeles"
+latitude: 34.1490793
+longitude: -118.1446061
 ---
 
 IGSA detention facility: Pasadena City Jail in Los Angeles County, CA.

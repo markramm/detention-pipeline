@@ -13,6 +13,12 @@ tags:
 - igsa
 - ak
 importance: 5
+facility_type: "IGSA"
+city: "Unalaska"
+address: "29 Safety Way"
+aor: "Seattle"
+latitude: 53.8712587
+longitude: -166.5419398
 ---
 
 IGSA detention facility: Dutch Harbor City Jail in Aleutians West County, AK.

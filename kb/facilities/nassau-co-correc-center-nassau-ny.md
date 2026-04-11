@@ -13,6 +13,13 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "East Meadow"
+address: "100 Carman Avenue"
+aor: "New York"
+latitude: 40.7322545
+longitude: -73.553505
+avg_daily_pop: 22
 ---
 
 IGSA detention facility: Nassau Co Correc Center in Nassau County, NY.

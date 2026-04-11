@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Aurora"
+address: "1500 East Alameda Drive"
+aor: "Denver"
+latitude: 39.7095408
+longitude: -104.79595
 ---
 
 IGSA detention facility: Aurora City Jail in Arapahoe County, CO.

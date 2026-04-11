@@ -13,6 +13,12 @@ tags:
 - igsa
 - wi
 importance: 5
+facility_type: "IGSA"
+city: "Elkhorn"
+address: "1770 County Road Nn"
+aor: "Chicago"
+latitude: 42.6634995
+longitude: -88.4996635
 ---
 
 IGSA detention facility: Walworth County Jail in Walworth County, WI.

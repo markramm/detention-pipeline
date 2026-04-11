@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "El Paso"
+address: "12501 Montana Ave"
+aor: "El Paso"
+latitude: 31.8093209
+longitude: -106.2552476
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: El Paso County Jail (TX) in El Paso County, TX.

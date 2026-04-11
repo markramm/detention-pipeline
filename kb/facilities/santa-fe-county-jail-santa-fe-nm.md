@@ -13,6 +13,12 @@ tags:
 - igsa
 - nm
 importance: 5
+facility_type: "IGSA"
+city: "Santa Fe"
+address: "2515 Camino Entrada"
+aor: "El Paso"
+latitude: 35.6360098
+longitude: -106.0199202
 ---
 
 IGSA detention facility: Santa Fe County Jail in Santa Fe County, NM.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - mn
 importance: 5
+facility_type: "IGSA"
+city: "Albert Lea"
+address: "411 South Broadway Avenue"
+aor: "St. Paul"
+latitude: 43.6459816
+longitude: -93.3681003
+avg_daily_pop: 41
 ---
 
 IGSA detention facility: Freeborn County Jail, MN in Freeborn County, MN.

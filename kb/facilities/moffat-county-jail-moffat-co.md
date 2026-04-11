@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Craig"
+address: "800 West 1nt Street"
+aor: "Denver"
+latitude: 40.5124722
+longitude: -107.5672209
 ---
 
 IGSA detention facility: Moffat County Jail in Moffat County, CO.

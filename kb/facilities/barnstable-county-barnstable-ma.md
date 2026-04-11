@@ -13,6 +13,12 @@ tags:
 - igsa
 - ma
 importance: 5
+facility_type: "IGSA"
+city: "Barnstable"
+address: "Route 6 Courthouse Complex, Box 397"
+aor: "Boston"
+latitude: 41.70032
+longitude: -70.303038
 ---
 
 IGSA detention facility: Barnstable County in Barnstable County, MA.

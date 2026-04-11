@@ -13,6 +13,13 @@ tags:
 - igsa
 - nd
 importance: 5
+facility_type: "IGSA"
+city: "Grand Forks"
+address: "1701 North Washington St"
+aor: "St. Paul"
+latitude: 47.935621
+longitude: -97.0576258
+avg_daily_pop: 23
 ---
 
 IGSA detention facility: Grand Forks County Correc in Grand Forks County, ND.

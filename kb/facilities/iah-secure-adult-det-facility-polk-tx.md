@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Livingston"
+address: "3400 Fm 350 South"
+aor: "Houston"
+latitude: 30.69767569999999
+longitude: -95.0060677
+avg_daily_pop: 867
 ---
 
 IGSA detention facility: IAH Secure Adult Det. Facility in Polk County, TX.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Starke"
+address: "945-A N. Temple Ave."
+aor: "Miami"
+latitude: 29.9541311
+longitude: -82.1093502
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Bradford County Jail in Bradford County, FL.

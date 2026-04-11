@@ -13,6 +13,12 @@ tags:
 - igsa
 - mo
 importance: 5
+facility_type: "IGSA"
+city: "Versailles"
+address: "211 East Newton Street"
+aor: "Chicago"
+latitude: 38.4321114
+longitude: -92.8397731
 ---
 
 IGSA detention facility: Morgan County Sheriff's Dept in Morgan County, MO.

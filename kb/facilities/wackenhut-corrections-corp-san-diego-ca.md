@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "San Diego"
+address: "Western Reg Det Fac 220 West C St"
+aor: "San Diego"
+latitude: 32.7168571
+longitude: -117.165158
 ---
 
 IGSA detention facility: Wackenhut Corrections Corp in San Diego County, CA.

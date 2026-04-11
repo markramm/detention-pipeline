@@ -13,6 +13,12 @@ tags:
 - igsa
 - nm
 importance: 5
+facility_type: "IGSA"
+city: "Bernalillo"
+address: "100 Montoya Road"
+aor: "El Paso"
+latitude: 35.3214303
+longitude: -106.5710486
 ---
 
 IGSA detention facility: Sandoval County Det Ctr in Sandoval County, NM.

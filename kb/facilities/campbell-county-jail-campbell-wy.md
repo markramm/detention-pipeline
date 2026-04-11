@@ -13,6 +13,13 @@ tags:
 - igsa
 - wy
 importance: 5
+facility_type: "IGSA"
+city: "Gillette"
+address: "600 W Boxelder Road"
+aor: "Denver"
+latitude: 44.2774703
+longitude: -105.5124533
+avg_daily_pop: 2
 ---
 
 IGSA detention facility: Campbell County Jail in Campbell County, WY.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "DIGSA"
+city: "Winnfield"
+address: "560 Gum Spring Road"
+aor: "New Orleans"
+latitude: 31.924131
+longitude: -92.6345416
+avg_daily_pop: 1633
 ---
 
 IGSA detention facility: Winn Corr Institute in Winn County, LA.

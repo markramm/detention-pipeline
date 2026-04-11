@@ -13,6 +13,12 @@ tags:
 - igsa
 - ga
 importance: 5
+facility_type: "IGSA"
+city: "Savannah"
+address: "1050 Carl Griffen Drive"
+aor: "Atlanta"
+latitude: 32.0669817
+longitude: -81.1685483
 ---
 
 IGSA detention facility: Chatham Co Jail in Chatham County, GA.

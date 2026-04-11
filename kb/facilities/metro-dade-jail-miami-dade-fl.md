@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Miami"
+address: "5680 Southwest 87th Avenue"
+aor: "Miami"
+latitude: 25.7153106
+longitude: -80.3360197
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Metro Dade Jail in Miami-Dade County, FL.

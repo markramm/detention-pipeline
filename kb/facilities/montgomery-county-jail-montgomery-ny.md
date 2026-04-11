@@ -13,6 +13,13 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Fonda"
+address: "Park Street"
+aor: "Buffalo"
+latitude: 42.9528568
+longitude: -74.3755173
+avg_daily_pop: 4
 ---
 
 IGSA detention facility: Montgomery County Jail in Montgomery County, NY.

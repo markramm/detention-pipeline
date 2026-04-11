@@ -13,6 +13,12 @@ tags:
 - igsa
 - wy
 importance: 5
+facility_type: "IGSA"
+city: "Sheridan"
+address: "54 West 13Th Street"
+aor: "Denver"
+latitude: 44.8155888
+longitude: -106.9568087
 ---
 
 IGSA detention facility: Sheridan County Jail in Sheridan County, WY.

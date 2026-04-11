@@ -13,6 +13,12 @@ tags:
 - igsa
 - oh
 importance: 5
+facility_type: "IGSA"
+city: "Solon"
+address: "33000 Solon Road"
+aor: "Detroit"
+latitude: 41.3881449
+longitude: -81.4441888
 ---
 
 IGSA detention facility: Solon City Jail in Cuyahoga County, OH.

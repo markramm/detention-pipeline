@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Baker"
+address: "10 Lakeview Rd"
+aor: "Los Angeles"
+latitude: 35.2783424
+longitude: -116.0554122
 ---
 
 IGSA detention facility: Baker CCF in San Bernardino County, CA.

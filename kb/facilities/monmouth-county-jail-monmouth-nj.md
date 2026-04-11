@@ -13,6 +13,12 @@ tags:
 - igsa
 - nj
 importance: 5
+facility_type: "IGSA"
+city: "Freehold"
+address: "1 Waterworks Road"
+aor: "Newark"
+latitude: 40.2677006
+longitude: -74.2872535
 ---
 
 IGSA detention facility: Monmouth County Jail in Monmouth County, NJ.

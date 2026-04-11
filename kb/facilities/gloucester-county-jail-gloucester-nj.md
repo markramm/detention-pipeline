@@ -13,6 +13,12 @@ tags:
 - igsa
 - nj
 importance: 5
+facility_type: "IGSA"
+city: "Woodbury"
+address: "70 Hunter Street"
+aor: "Newark"
+latitude: 39.8399287
+longitude: -75.1495451
 ---
 
 IGSA detention facility: Gloucester County Jail in Gloucester County, NJ.

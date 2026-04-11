@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Glendive"
+address: "207 West Bell"
+aor: "Salt Lake City"
+latitude: 47.1049419
+longitude: -104.7155013
 ---
 
 IGSA detention facility: Dawson County Jail in Dawson County, MT.

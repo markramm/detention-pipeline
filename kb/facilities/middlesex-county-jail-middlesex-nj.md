@@ -13,6 +13,12 @@ tags:
 - igsa
 - nj
 importance: 5
+facility_type: "IGSA"
+city: "North Brunswick"
+address: "Apple Orchard Road"
+aor: "Newark"
+latitude: 40.4212981
+longitude: -74.4892409
 ---
 
 IGSA detention facility: Middlesex County Jail in Middlesex County, NJ.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Bradenton"
+address: "515 11Th Street West"
+aor: "Miami"
+latitude: 27.4951837
+longitude: -82.5725326
 ---
 
 IGSA detention facility: Bradenton Detention Center in Manatee County, FL.

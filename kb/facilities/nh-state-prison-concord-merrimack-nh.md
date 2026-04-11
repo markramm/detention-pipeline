@@ -13,6 +13,12 @@ tags:
 - igsa
 - nh
 importance: 5
+facility_type: "IGSA"
+city: "Concord"
+address: "281 North State Street"
+aor: "Boston"
+latitude: 43.2317896
+longitude: -71.5595132
 ---
 
 IGSA detention facility: NH State Prison, Concord in Merrimack County, NH.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "DIGSA"
+city: "Taylor"
+address: "1001 Welch Street"
+aor: "San Antonio"
+latitude: 30.5646216
+longitude: -97.41931
+avg_daily_pop: 419
 ---
 
 IGSA detention facility: T Don Hutto Residential Center in Williamson County, TX.

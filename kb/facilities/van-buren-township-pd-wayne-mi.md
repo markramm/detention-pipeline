@@ -13,6 +13,12 @@ tags:
 - igsa
 - mi
 importance: 5
+facility_type: "IGSA"
+city: "Belleville"
+address: "46425 Tyler Road"
+aor: "Detroit"
+latitude: 42.23231390000001
+longitude: -83.494357
 ---
 
 IGSA detention facility: Van Buren Township PD in Wayne County, MI.

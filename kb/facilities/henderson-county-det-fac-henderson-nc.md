@@ -13,6 +13,13 @@ tags:
 - igsa
 - nc
 importance: 5
+facility_type: "IGSA"
+city: "Hendersonville"
+address: "375 1st Avenue East"
+aor: "Atlanta"
+latitude: 35.3158569
+longitude: -82.4560039
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Henderson County Det. Fac. in Henderson County, NC.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Santa Ana"
+address: "62 Civic Center Drive"
+aor: "Los Angeles"
+latitude: 33.7499813
+longitude: -117.8799471
 ---
 
 IGSA detention facility: Santa Ana County Jail in Orange County, CA.

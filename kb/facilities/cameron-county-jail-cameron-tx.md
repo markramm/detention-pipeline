@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Brownsville"
+address: "954 E. Harrison"
+aor: "Harlingen"
+latitude: 25.9075723
+longitude: -97.4949072
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Cameron County Jail in Cameron County, TX.

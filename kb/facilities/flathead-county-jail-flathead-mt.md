@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Kalispell"
+address: "800 South Main"
+aor: "Salt Lake City"
+latitude: 48.1891403
+longitude: -114.311264
 ---
 
 IGSA detention facility: Flathead County Jail in Flathead County, MT.

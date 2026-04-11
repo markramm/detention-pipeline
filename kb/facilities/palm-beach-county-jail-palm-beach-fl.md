@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "West Palm Beach"
+address: "3228 Gun Club Road"
+aor: "Miami"
+latitude: 26.670366
+longitude: -80.0925491
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Palm Beach County Jail in Palm Beach County, FL.

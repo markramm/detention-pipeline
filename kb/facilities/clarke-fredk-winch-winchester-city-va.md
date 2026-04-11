@@ -13,6 +13,12 @@ tags:
 - igsa
 - va
 importance: 5
+facility_type: "IGSA"
+city: "Winchester"
+address: "141 Ft Collier Road"
+aor: "Washington"
+latitude: 39.19883129999999
+longitude: -78.1438831
 ---
 
 IGSA detention facility: Clarke Fred'k Winch. in Winchester City County, VA.

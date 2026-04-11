@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Lewis"
+address: "702 Stowersville Road"
+aor: "Buffalo"
+latitude: 44.2823562
+longitude: -73.5364303
 ---
 
 IGSA detention facility: Essex County Jail in Essex County, NY.

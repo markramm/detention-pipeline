@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Bozeman"
+address: "615 South 16th Street"
+aor: "Salt Lake City"
+latitude: 45.6733614
+longitude: -111.059518
 ---
 
 IGSA detention facility: Gallatin County Jail in Gallatin County, MT.

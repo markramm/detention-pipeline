@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Mayville"
+address: "15 E. Chautauqua Street"
+aor: "Buffalo"
+latitude: 42.2545119
+longitude: -79.5036019
 ---
 
 IGSA detention facility: Chautauqua County Jail in Chautauqua County, NY.

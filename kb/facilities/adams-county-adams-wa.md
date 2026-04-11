@@ -13,6 +13,12 @@ tags:
 - igsa
 - wa
 importance: 5
+facility_type: "IGSA"
+city: "Ritzville"
+address: "210 W Braodway"
+aor: "Seattle"
+latitude: 47.1274117
+longitude: -118.3826405
 ---
 
 IGSA detention facility: Adams County in Adams County, WA.

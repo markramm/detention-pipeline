@@ -13,6 +13,12 @@ tags:
 - igsa
 - mi
 importance: 5
+facility_type: "IGSA"
+city: "Grand Rapids"
+address: "701 Ball Avenue Northeast"
+aor: "Detroit"
+latitude: 42.9756102
+longitude: -85.6316746
 ---
 
 IGSA detention facility: Kent Co.,Grand Rapids,MI in Kent County, MI.

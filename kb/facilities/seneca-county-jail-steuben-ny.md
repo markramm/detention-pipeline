@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Corning"
+address: "44 W. William St."
+aor: "Buffalo"
+latitude: 42.1500249
+longitude: -77.0629089
 ---
 
 IGSA detention facility: Seneca County Jail in Steuben County, NY.

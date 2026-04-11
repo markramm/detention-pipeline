@@ -13,6 +13,13 @@ tags:
 - igsa
 - nc
 importance: 5
+facility_type: "IGSA"
+city: "Castle Hayne"
+address: "3950 Juvenile Rd"
+aor: "Atlanta"
+latitude: 34.3557241
+longitude: -77.8999864
+avg_daily_pop: 6
 ---
 
 IGSA detention facility: New Hanover Co Det Center in New Hanover County, NC.

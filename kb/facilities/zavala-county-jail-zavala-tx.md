@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Crystal City"
+address: "200 E Uvalde Street #5"
+aor: "San Antonio"
+latitude: 28.6794662
+longitude: -99.8269368
 ---
 
 IGSA detention facility: Zavala County Jail in Zavala County, TX.

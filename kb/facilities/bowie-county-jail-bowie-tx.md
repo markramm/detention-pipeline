@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Texarkana"
+address: "100 N. State Line"
+aor: "Dallas"
+latitude: 33.4208569
+longitude: -94.0431833
 ---
 
 IGSA detention facility: Bowie County Jail in Bowie County, TX.

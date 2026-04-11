@@ -13,6 +13,13 @@ tags:
 - igsa
 - ks
 importance: 5
+facility_type: "IGSA"
+city: "Garden City"
+address: "304 N. 9th Street"
+aor: "Chicago"
+latitude: 37.9676988
+longitude: -100.8760076
+avg_daily_pop: 3
 ---
 
 IGSA detention facility: Finney County Jail in Finney County, KS.

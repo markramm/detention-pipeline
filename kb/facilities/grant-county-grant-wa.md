@@ -13,6 +13,12 @@ tags:
 - igsa
 - wa
 importance: 5
+facility_type: "IGSA"
+city: "Ephrata"
+address: "35 C St N.W."
+aor: "Seattle"
+latitude: 47.3221034
+longitude: -119.5542165
 ---
 
 IGSA detention facility: Grant County in Grant County, WA.

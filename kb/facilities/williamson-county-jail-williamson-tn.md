@@ -13,6 +13,12 @@ tags:
 - igsa
 - tn
 importance: 5
+facility_type: "IGSA"
+city: "Franklin"
+address: "408 Century Court"
+aor: "New Orleans"
+latitude: 35.8999011
+longitude: -86.8850055
 ---
 
 IGSA detention facility: Williamson County Jail in Williamson County, TN.

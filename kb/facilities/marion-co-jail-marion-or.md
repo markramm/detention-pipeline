@@ -13,6 +13,12 @@ tags:
 - igsa
 - or
 importance: 5
+facility_type: "IGSA"
+city: "Salem"
+address: "4000 Aumsville Highway SE"
+aor: "Seattle"
+latitude: 44.89663669999999
+longitude: -122.9598483
 ---
 
 IGSA detention facility: Marion Co Jail in Marion County, OR.

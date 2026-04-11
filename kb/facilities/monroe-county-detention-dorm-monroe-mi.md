@@ -13,6 +13,13 @@ tags:
 - igsa
 - mi
 importance: 5
+facility_type: "IGSA"
+city: "Monroe"
+address: "7000 East Dunbar Road"
+aor: "Detroit"
+latitude: 41.89553069999999
+longitude: -83.3933944
+avg_daily_pop: 123
 ---
 
 IGSA detention facility: Monroe County Detention-Dorm in Monroe County, MI.

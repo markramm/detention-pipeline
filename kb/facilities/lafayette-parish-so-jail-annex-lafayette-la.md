@@ -13,6 +13,13 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "IGSA"
+city: "Lafayette"
+address: "916 LAFAYETTE STREET"
+aor: "New Orleans"
+latitude: 30.2235347
+longitude: -92.0214094
+avg_daily_pop: 8
 ---
 
 IGSA detention facility: Lafayette Parish So Jail Annex in Lafayette County, LA.

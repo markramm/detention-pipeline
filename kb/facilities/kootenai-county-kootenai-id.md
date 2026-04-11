@@ -13,6 +13,12 @@ tags:
 - igsa
 - id
 importance: 5
+facility_type: "IGSA"
+city: "Coeur D'Alene"
+address: "5500 North Government Way"
+aor: "Salt Lake City"
+latitude: 47.7208954
+longitude: -116.7856168
 ---
 
 IGSA detention facility: Kootenai County in Kootenai County, ID.

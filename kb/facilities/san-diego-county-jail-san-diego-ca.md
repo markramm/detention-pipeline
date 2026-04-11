@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "San Diego"
+address: "446 Alta Rd"
+aor: "San Diego"
+latitude: 32.5895455
+longitude: -116.9197426
 ---
 
 IGSA detention facility: San Diego County Jail in San Diego County, CA.

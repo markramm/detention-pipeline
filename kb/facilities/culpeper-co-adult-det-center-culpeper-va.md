@@ -13,6 +13,13 @@ tags:
 - igsa
 - va
 importance: 5
+facility_type: "IGSA"
+city: "Culpeper"
+address: "131 W. Cameron St."
+aor: "Washington"
+latitude: 38.4740109
+longitude: -77.9967482
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Culpeper Co. Adult Det. Center in Culpeper County, VA.

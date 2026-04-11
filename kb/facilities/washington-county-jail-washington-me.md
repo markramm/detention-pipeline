@@ -13,6 +13,12 @@ tags:
 - igsa
 - me
 importance: 5
+facility_type: "IGSA"
+city: "Machias"
+address: "83 Court Street"
+aor: "Boston"
+latitude: 44.7162404
+longitude: -67.4593763
 ---
 
 IGSA detention facility: Washington County Jail in Washington County, ME.

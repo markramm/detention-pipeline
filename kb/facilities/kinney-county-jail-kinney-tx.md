@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Brackettville"
+address: "109 North Street"
+aor: "San Antonio"
+latitude: 29.3116119
+longitude: -100.4178839
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Kinney County Jail in Kinney County, TX.

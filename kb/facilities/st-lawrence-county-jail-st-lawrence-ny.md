@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Canton"
+address: "5 Judson Street"
+aor: "Buffalo"
+latitude: 44.5990241
+longitude: -75.1688974
 ---
 
 IGSA detention facility: St Lawrence County Jail in St. Lawrence County, NY.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Steamboat Springs"
+address: "2025 Shield Drive"
+aor: "Denver"
+latitude: 40.5019506
+longitude: -106.8609001
 ---
 
 IGSA detention facility: Routt County Jail in Routt County, CO.

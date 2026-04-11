@@ -13,6 +13,12 @@ tags:
 - igsa
 - il
 importance: 5
+facility_type: "IGSA"
+city: "Elgin"
+address: "151 Douglas Avenue"
+aor: "Chicago"
+latitude: 42.0400081
+longitude: -88.2836518
 ---
 
 IGSA detention facility: Elgin Police Dept. Jail in Kane County, IL.

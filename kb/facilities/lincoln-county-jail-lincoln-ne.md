@@ -13,6 +13,13 @@ tags:
 - igsa
 - ne
 importance: 5
+facility_type: "IGSA"
+city: "North Platte"
+address: "3020 N Jeffers"
+aor: "St. Paul"
+latitude: 41.135513
+longitude: -100.7640076
+avg_daily_pop: 43
 ---
 
 IGSA detention facility: Lincoln County Jail in Lincoln County, NE.

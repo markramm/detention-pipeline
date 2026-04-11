@@ -13,6 +13,13 @@ tags:
 - igsa
 - gu
 importance: 5
+facility_type: "IGSA"
+city: "Mangilao"
+address: "3 Mashburn Lane"
+aor: "San Francisco"
+latitude: 13.4497772
+longitude: 144.8029416
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Department Of Corrections in Guam County, GU.

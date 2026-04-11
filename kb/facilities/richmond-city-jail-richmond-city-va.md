@@ -13,6 +13,12 @@ tags:
 - igsa
 - va
 importance: 5
+facility_type: "IGSA"
+city: "Richmond"
+address: "1701 Fairfield Way"
+aor: "Washington"
+latitude: 37.5469062
+longitude: -77.4232212
 ---
 
 IGSA detention facility: Richmond City Jail in Richmond City County, VA.

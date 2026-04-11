@@ -13,6 +13,12 @@ tags:
 - igsa
 - nm
 importance: 5
+facility_type: "IGSA"
+city: "Alamogordo"
+address: "1000 New York"
+aor: "El Paso"
+latitude: 32.9007766
+longitude: -105.9601797
 ---
 
 IGSA detention facility: Otero County Detention in Otero County, NM.

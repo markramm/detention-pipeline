@@ -13,6 +13,12 @@ tags:
 - igsa
 - nj
 importance: 5
+facility_type: "IGSA"
+city: "Newton"
+address: "410 High Street"
+aor: "Newark"
+latitude: 41.0567758
+longitude: -74.7587834
 ---
 
 IGSA detention facility: Sussex County Jail in Sussex County, NJ.

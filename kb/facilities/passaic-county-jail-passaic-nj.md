@@ -13,6 +13,12 @@ tags:
 - igsa
 - nj
 importance: 5
+facility_type: "IGSA"
+city: "Paterson"
+address: "11 Sheriffs Plaza"
+aor: "Newark"
+latitude: 40.9131828
+longitude: -74.1731504
 ---
 
 IGSA detention facility: Passaic County Jail in Passaic County, NJ.

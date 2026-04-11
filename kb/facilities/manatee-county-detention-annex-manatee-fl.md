@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Palmetto"
+address: "11490 Harlee Rd."
+aor: "Miami"
+latitude: 27.6366807
+longitude: -82.5399629
+avg_daily_pop: 2
 ---
 
 IGSA detention facility: Manatee County Detention-Annex in Manatee County, FL.

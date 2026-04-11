@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Fairplay"
+address: "1180 County Road 16"
+aor: "Denver"
+latitude: 39.2235413
+longitude: -105.988837
 ---
 
 IGSA detention facility: Park County Jail in Park County, CO.

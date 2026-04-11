@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Brighton"
+address: "1901 E Bridge Street"
+aor: "Denver"
+latitude: 39.9912905
+longitude: -104.7982973
 ---
 
 IGSA detention facility: Adams County Jail in Adams County, CO.

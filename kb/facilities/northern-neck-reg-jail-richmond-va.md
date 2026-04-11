@@ -13,6 +13,12 @@ tags:
 - igsa
 - va
 importance: 5
+facility_type: "IGSA"
+city: "Warsaw"
+address: "3908 Richmond Rd"
+aor: "Washington"
+latitude: 37.9646291
+longitude: -76.7914459
 ---
 
 IGSA detention facility: Northern Neck Reg. Jail in Richmond County, VA.

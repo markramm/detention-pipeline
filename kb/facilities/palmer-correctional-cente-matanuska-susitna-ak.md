@@ -13,6 +13,12 @@ tags:
 - igsa
 - ak
 importance: 5
+facility_type: "IGSA"
+city: "Palmer"
+address: "Mile 58 Glenn Highway"
+aor: "Seattle"
+latitude: 61.6914167
+longitude: -149.0079722
 ---
 
 IGSA detention facility: Palmer Correctional Cente in Matanuska-Susitna County, AK.

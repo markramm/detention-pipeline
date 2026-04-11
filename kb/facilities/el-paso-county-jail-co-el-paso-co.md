@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Colorado Springs"
+address: "2739 East Las Vegas"
+aor: "Denver"
+latitude: 38.7878813
+longitude: -104.7791306
 ---
 
 IGSA detention facility: El Paso County Jail (CO) in El Paso County, CO.

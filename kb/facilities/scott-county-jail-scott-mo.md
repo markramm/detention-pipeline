@@ -13,6 +13,12 @@ tags:
 - igsa
 - mo
 importance: 5
+facility_type: "IGSA"
+city: "Benton"
+address: "211 S. New Madrid St."
+aor: "Chicago"
+latitude: 37.0960809
+longitude: -89.5649693
 ---
 
 IGSA detention facility: Scott County Jail in Scott County, MO.

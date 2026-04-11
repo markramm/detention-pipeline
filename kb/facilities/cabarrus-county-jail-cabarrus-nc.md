@@ -13,6 +13,12 @@ tags:
 - igsa
 - nc
 importance: 5
+facility_type: "IGSA"
+city: "Concord"
+address: "30 Corban Avenue SE"
+aor: "Atlanta"
+latitude: 35.40910909999999
+longitude: -80.577985
 ---
 
 IGSA detention facility: Cabarrus County Jail in Cabarrus County, NC.

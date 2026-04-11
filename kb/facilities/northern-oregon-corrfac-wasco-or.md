@@ -13,6 +13,12 @@ tags:
 - igsa
 - or
 importance: 5
+facility_type: "IGSA"
+city: "The Dalles"
+address: "211 Webber Street"
+aor: "Seattle"
+latitude: 45.6126387
+longitude: -121.2006334
 ---
 
 IGSA detention facility: Northern Oregon Corr.Fac. in Wasco County, OR.

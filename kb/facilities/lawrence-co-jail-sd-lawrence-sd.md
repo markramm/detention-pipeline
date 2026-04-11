@@ -13,6 +13,13 @@ tags:
 - igsa
 - sd
 importance: 5
+facility_type: "IGSA"
+city: "Deadwood"
+address: "80 Sherman Street"
+aor: "St. Paul"
+latitude: 44.3742947
+longitude: -103.7295749
+avg_daily_pop: 17
 ---
 
 IGSA detention facility: Lawrence Co. Jail, SD in Lawrence County, SD.

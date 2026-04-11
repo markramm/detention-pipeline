@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Polson"
+address: "106 4th Avenue East"
+aor: "Salt Lake City"
+latitude: 47.6918255
+longitude: -114.1611569
 ---
 
 IGSA detention facility: Lake County Jail in Lake County, MT.

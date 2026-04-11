@@ -13,6 +13,13 @@ tags:
 - igsa
 - id
 importance: 5
+facility_type: "IGSA"
+city: "Burley"
+address: "1415 Albion Avenue"
+aor: "Salt Lake City"
+latitude: 42.5349779
+longitude: -113.7911859
+avg_daily_pop: 3
 ---
 
 IGSA detention facility: Minicassia Det. Center in Cassia County, ID.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Missoula"
+address: "2340 Mullan Road"
+aor: "Salt Lake City"
+latitude: 46.8828104
+longitude: -114.0271657
 ---
 
 IGSA detention facility: Missoula County in Missoula County, MT.

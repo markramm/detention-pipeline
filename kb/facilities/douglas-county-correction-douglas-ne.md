@@ -13,6 +13,12 @@ tags:
 - igsa
 - ne
 importance: 5
+facility_type: "IGSA"
+city: "Omaha"
+address: "710 South 17th St"
+aor: "St. Paul"
+latitude: 41.2533
+longitude: -95.9382443
 ---
 
 IGSA detention facility: Douglas County Correction in Douglas County, NE.

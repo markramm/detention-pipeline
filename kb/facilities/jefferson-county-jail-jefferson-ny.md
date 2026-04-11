@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Watertown"
+address: "753 Waterman Drive"
+aor: "Buffalo"
+latitude: 43.9727826
+longitude: -75.9277216
 ---
 
 IGSA detention facility: Jefferson County Jail in Jefferson County, NY.

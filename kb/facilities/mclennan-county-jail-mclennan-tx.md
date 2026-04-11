@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Waco"
+address: "501 Washington Avenue"
+aor: "Houston"
+latitude: 31.5574572
+longitude: -97.1336004
+avg_daily_pop: 2
 ---
 
 IGSA detention facility: Mclennan County Jail in Mclennan County, TX.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Austin"
+address: "500 W. 10th St. Austin Texas 78701"
+aor: "San Antonio"
+latitude: 30.2732505
+longitude: -97.746047
 ---
 
 IGSA detention facility: Travis County Jail in Travis County, TX.

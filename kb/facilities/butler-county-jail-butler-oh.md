@@ -13,6 +13,13 @@ tags:
 - igsa
 - oh
 importance: 5
+facility_type: "IGSA"
+city: "Hamilton"
+address: "705 Hanover Street"
+aor: "Detroit"
+latitude: 39.3875607
+longitude: -84.5557702
+avg_daily_pop: 354
 ---
 
 IGSA detention facility: Butler County Jail in Butler County, OH.

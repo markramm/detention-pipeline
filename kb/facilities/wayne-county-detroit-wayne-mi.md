@@ -13,6 +13,12 @@ tags:
 - igsa
 - mi
 importance: 5
+facility_type: "IGSA"
+city: "Detroit"
+address: "3501 Hamtramck Drive"
+aor: "Detroit"
+latitude: 42.38901730000001
+longitude: -83.0429129
 ---
 
 IGSA detention facility: Wayne County, Detroit in Wayne County, MI.

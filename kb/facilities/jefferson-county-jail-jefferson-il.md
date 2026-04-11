@@ -13,6 +13,12 @@ tags:
 - igsa
 - il
 importance: 5
+facility_type: "IGSA"
+city: "Mount Vernon"
+address: "911 Casey Avenue"
+aor: "Chicago"
+latitude: 38.3142597
+longitude: -88.9026743
 ---
 
 IGSA detention facility: Jefferson County Jail in Jefferson County, IL.

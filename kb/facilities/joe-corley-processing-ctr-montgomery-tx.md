@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Conroe"
+address: "500 Hilbig Rd"
+aor: "Houston"
+latitude: 30.3358896
+longitude: -95.4478597
+avg_daily_pop: 964
 ---
 
 IGSA detention facility: Joe Corley Processing Ctr in Montgomery County, TX.

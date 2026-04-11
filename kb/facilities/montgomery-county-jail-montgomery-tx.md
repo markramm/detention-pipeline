@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Conroe"
+address: "500 Hilbig Rd"
+aor: "Houston"
+latitude: 30.335908
+longitude: -95.453163
 ---
 
 IGSA detention facility: Montgomery County Jail in Montgomery County, TX.

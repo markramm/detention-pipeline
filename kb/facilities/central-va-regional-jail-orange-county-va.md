@@ -13,6 +13,13 @@ tags:
 - igsa
 - va
 importance: 5
+facility_type: "IGSA"
+city: "Orange"
+address: "13021 James Madison Hwy"
+aor: "Washington"
+latitude: 38.2271835
+longitude: -78.116604
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Central VA Regional Jail in Orange County County, VA.

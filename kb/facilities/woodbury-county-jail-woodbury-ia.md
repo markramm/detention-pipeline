@@ -13,6 +13,13 @@ tags:
 - igsa
 - ia
 importance: 5
+facility_type: "IGSA"
+city: "Sioux City"
+address: "407 7th Street"
+aor: "St. Paul"
+latitude: 42.4977847
+longitude: -96.406008
+avg_daily_pop: 68
 ---
 
 IGSA detention facility: Woodbury County Jail in Woodbury County, IA.

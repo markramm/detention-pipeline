@@ -13,6 +13,13 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "DIGSA"
+city: "Jonesboro"
+address: "327 Industrial Drive"
+aor: "New Orleans"
+latitude: 32.2151574
+longitude: -92.7158643
+avg_daily_pop: 1312
 ---
 
 IGSA detention facility: Jackson Parish Correctional Center in Jackson County, LA.

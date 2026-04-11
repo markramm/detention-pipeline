@@ -13,6 +13,13 @@ tags:
 - igsa
 - az
 importance: 5
+facility_type: "IGSA"
+city: "Florence"
+address: "971 N. Jason Lopez Circle"
+aor: "Phoenix"
+latitude: 33.0411932
+longitude: -111.3761359
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Pinal County Jail in Pinal County, AZ.

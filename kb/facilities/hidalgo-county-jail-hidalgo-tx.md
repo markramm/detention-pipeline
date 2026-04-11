@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Edinburg"
+address: "3100 South Hwy 281"
+aor: "Harlingen"
+latitude: 26.2738243
+longitude: -98.1527951
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Hidalgo County Jail in Hidalgo County, TX.

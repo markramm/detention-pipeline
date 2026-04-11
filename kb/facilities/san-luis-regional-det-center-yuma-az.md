@@ -13,6 +13,13 @@ tags:
 - igsa
 - az
 importance: 5
+facility_type: "IGSA"
+city: "San Luis"
+address: "406 North Avenue D"
+aor: "Phoenix"
+latitude: 32.4842748
+longitude: -114.6846639
+avg_daily_pop: 193
 ---
 
 IGSA detention facility: San Luis Regional Det Center in Yuma County, AZ.

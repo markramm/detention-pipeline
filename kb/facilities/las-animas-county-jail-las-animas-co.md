@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Trinidad"
+address: "2309 East Main Street"
+aor: "Denver"
+latitude: 37.1825129
+longitude: -104.4850067
 ---
 
 IGSA detention facility: Las Animas County Jail in Las Animas County, CO.

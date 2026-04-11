@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Eagle"
+address: "885 Chambers Ave."
+aor: "Denver"
+latitude: 39.6634329
+longitude: -106.8182868
 ---
 
 IGSA detention facility: Eagle County Jail in Eagle County, CO.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - ky
 importance: 5
+facility_type: "IGSA"
+city: "Covington"
+address: "303 Court Street"
+aor: "Chicago"
+latitude: 39.0883932
+longitude: -84.5093977
+avg_daily_pop: 129
 ---
 
 IGSA detention facility: Kenton Co Detention Ctr in Kenton County, KY.

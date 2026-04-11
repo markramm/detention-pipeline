@@ -13,6 +13,13 @@ tags:
 - igsa
 - ma
 importance: 5
+facility_type: "IGSA"
+city: "Middleton"
+address: "20 Manning Ave"
+aor: "Boston"
+latitude: 42.5973935
+longitude: -70.9863559
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Essex Co. Jail, Middleton in Essex County, MA.

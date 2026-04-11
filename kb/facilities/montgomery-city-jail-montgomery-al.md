@@ -13,6 +13,12 @@ tags:
 - igsa
 - al
 importance: 5
+facility_type: "USMS IGA"
+city: "Montgomery"
+address: "103 North Perry Street"
+aor: "New Orleans"
+latitude: 32.3523219
+longitude: -86.286911
 ---
 
 IGSA detention facility: Montgomery City Jail in Montgomery County, AL.

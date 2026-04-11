@@ -13,6 +13,12 @@ tags:
 - igsa
 - wv
 importance: 5
+facility_type: "IGSA"
+city: "Charleston"
+address: "409 Virginia Street East"
+aor: "Philadelphia"
+latitude: 38.351171
+longitude: -81.6388448
 ---
 
 IGSA detention facility: WV Regional Jail & Corr. in Kanawha County, WV.

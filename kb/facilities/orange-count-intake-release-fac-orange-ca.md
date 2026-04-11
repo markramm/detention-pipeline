@@ -13,6 +13,13 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Santa Ana"
+address: "550 North Flower Street"
+aor: "Los Angeles"
+latitude: 33.7487689
+longitude: -117.8783938
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Orange Count Intake Release Fac. in Orange County, CA.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Belton"
+address: "111 W. Central"
+aor: "Houston"
+latitude: 31.0373132
+longitude: -97.4885065
+avg_daily_pop: 3
 ---
 
 IGSA detention facility: Bell County Jail in Bell County, TX.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - wa
 importance: 5
+facility_type: "IGSA"
+city: "Ellensburg"
+address: "205 West 5th Avenue"
+aor: "Seattle"
+latitude: 46.997416
+longitude: -120.5494155
 ---
 
 IGSA detention facility: Kittitas County Jail in Kittitas County, WA.

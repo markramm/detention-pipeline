@@ -13,6 +13,12 @@ tags:
 - igsa
 - nd
 importance: 5
+facility_type: "IGSA"
+city: "Jamestown"
+address: "205 6th Street SE"
+aor: "St. Paul"
+latitude: 46.903533
+longitude: -98.7058769
 ---
 
 IGSA detention facility: Stutsman Co. Jail, ND in Stutsman County, ND.

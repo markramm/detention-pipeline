@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Albion"
+address: "35-31 Gaines Basin Road"
+aor: "Buffalo"
+latitude: 43.2440594
+longitude: -78.2224765
 ---
 
 IGSA detention facility: Orleans County Jail in Orleans County, NY.

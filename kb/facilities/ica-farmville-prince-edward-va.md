@@ -13,6 +13,13 @@ tags:
 - igsa
 - va
 importance: 5
+facility_type: "DIGSA"
+city: "Farmville"
+address: "508 Waterworks Road"
+aor: "Washington"
+latitude: 37.32385319999999
+longitude: -78.4370283
+avg_daily_pop: 626
 ---
 
 IGSA detention facility: ICA - Farmville in Prince Edward County, VA.

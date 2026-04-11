@@ -13,6 +13,12 @@ tags:
 - igsa
 - wi
 importance: 5
+facility_type: "IGSA"
+city: "Waupun"
+address: "1 West Lincoln Street"
+aor: "Chicago"
+latitude: 43.6242095
+longitude: -88.7396903
 ---
 
 IGSA detention facility: Dodge Corr Institute, Wau in Dodge County, WI.

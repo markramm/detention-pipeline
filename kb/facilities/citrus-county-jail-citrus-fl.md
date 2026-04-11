@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Lecanto"
+address: "2604 W. Woodland Ridge Dr."
+aor: "Miami"
+latitude: 28.8449592
+longitude: -82.4773753
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Citrus County Jail in Citrus County, FL.

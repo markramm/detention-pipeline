@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Warsaw"
+address: "151 North Main Street"
+aor: "Buffalo"
+latitude: 42.7438352
+longitude: -78.1330728
 ---
 
 IGSA detention facility: Wyoming County Jail in Wyoming County, NY.

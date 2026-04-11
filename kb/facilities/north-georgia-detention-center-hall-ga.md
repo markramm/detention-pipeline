@@ -13,6 +13,12 @@ tags:
 - igsa
 - ga
 importance: 5
+facility_type: "IGSA"
+city: "Gainesville"
+address: "622 Main Street Southwest"
+aor: "Atlanta"
+latitude: 34.2947961
+longitude: -83.8248502
 ---
 
 IGSA detention facility: North Georgia Detention Center in Hall County, GA.

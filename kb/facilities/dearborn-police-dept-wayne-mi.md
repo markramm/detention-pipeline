@@ -13,6 +13,12 @@ tags:
 - igsa
 - mi
 importance: 5
+facility_type: "IGSA"
+city: "Dearborn"
+address: "16099 Michigan Ave"
+aor: "Detroit"
+latitude: 42.314071
+longitude: -83.2004144
 ---
 
 IGSA detention facility: Dearborn Police Dept. in Wayne County, MI.

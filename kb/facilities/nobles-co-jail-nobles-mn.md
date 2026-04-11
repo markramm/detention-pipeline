@@ -13,6 +13,12 @@ tags:
 - igsa
 - mn
 importance: 5
+facility_type: "IGSA"
+city: "Worthington"
+address: "1530 Airport Road"
+aor: "St. Paul"
+latitude: 43.6481147
+longitude: -95.5899823
 ---
 
 IGSA detention facility: Nobles Co. Jail in Nobles County, MN.

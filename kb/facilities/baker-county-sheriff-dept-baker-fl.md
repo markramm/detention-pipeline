@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Macclenny"
+address: "1 Sheriff Office Drive"
+aor: "Miami"
+latitude: 30.29596799999999
+longitude: -82.1217298
+avg_daily_pop: 263
 ---
 
 IGSA detention facility: Baker County Sheriff Dept. in Baker County, FL.

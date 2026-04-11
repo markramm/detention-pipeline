@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Fairfield"
+address: "102 E Main St"
+aor: "Houston"
+latitude: 31.72629929999999
+longitude: -96.1596717
 ---
 
 IGSA detention facility: Freestone County Jail in Freestone County, TX.

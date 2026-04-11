@@ -13,6 +13,13 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "DIGSA"
+city: "Monroe"
+address: "180 Pine Bayou Circle"
+aor: "New Orleans"
+latitude: 32.4568901
+longitude: -92.0784706
+avg_daily_pop: 983
 ---
 
 IGSA detention facility: Richwood Cor Center in Ouachita County, LA.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - az
 importance: 5
+facility_type: "DIGSA"
+city: "Eloy"
+address: "5501 North La Palma Road"
+aor: "Phoenix"
+latitude: 32.8146894
+longitude: -111.5294949
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: La Palma Correctional Center in Pinal County, AZ.

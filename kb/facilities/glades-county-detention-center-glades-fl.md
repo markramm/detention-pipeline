@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Moore Haven"
+address: "1297 East Sr 78"
+aor: "Miami"
+latitude: 26.8386469
+longitude: -81.12405
+avg_daily_pop: 467
 ---
 
 IGSA detention facility: Glades County Detention Center in Glades County, FL.

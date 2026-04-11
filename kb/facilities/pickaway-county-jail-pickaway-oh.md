@@ -13,6 +13,12 @@ tags:
 - igsa
 - oh
 importance: 5
+facility_type: "IGSA"
+city: "Circleville"
+address: "600 Island Road"
+aor: "Detroit"
+latitude: 39.6117817
+longitude: -82.9516972
 ---
 
 IGSA detention facility: Pickaway County Jail in Pickaway County, OH.

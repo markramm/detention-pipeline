@@ -13,6 +13,13 @@ tags:
 - igsa
 - ks
 importance: 5
+facility_type: "IGSA"
+city: "Cottonwood Falls"
+address: "301 South Walnut Street"
+aor: "Chicago"
+latitude: 38.3678608
+longitude: -96.5386769
+avg_daily_pop: 122
 ---
 
 IGSA detention facility: Chase County Jail in Chase County, KS.

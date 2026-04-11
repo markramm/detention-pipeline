@@ -13,6 +13,12 @@ tags:
 - igsa
 - ak
 importance: 5
+facility_type: "IGSA"
+city: "Sitka"
+address: "304 Lake Street"
+aor: "Seattle"
+latitude: 57.052628
+longitude: -135.33374
 ---
 
 IGSA detention facility: Sitka City Jail, Sitka AK in Sitka County, AK.

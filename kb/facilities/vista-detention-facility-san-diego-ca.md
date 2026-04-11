@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Vista"
+address: "Vista County Jail"
+aor: "San Diego"
+latitude: 33.1921155
+longitude: -117.2564926
 ---
 
 IGSA detention facility: Vista Detention Facility in San Diego County, CA.

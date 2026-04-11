@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Elk Grove"
+address: "12500 Bruceville Road"
+aor: "San Francisco"
+latitude: 38.3064918
+longitude: -121.4208907
 ---
 
 IGSA detention facility: Rio Cosumnes Corrections-RCCC in Sacramento County, CA.

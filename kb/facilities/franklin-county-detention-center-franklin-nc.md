@@ -13,6 +13,13 @@ tags:
 - igsa
 - nc
 importance: 5
+facility_type: "IGSA"
+city: "Louisburg"
+address: "285 T KEMP RD"
+aor: "Atlanta"
+latitude: 36.09442
+longitude: -78.3195602
+avg_daily_pop: 3
 ---
 
 IGSA detention facility: Franklin County Detention Center in Franklin County, NC.

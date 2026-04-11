@@ -13,6 +13,12 @@ tags:
 - igsa
 - wy
 importance: 5
+facility_type: "IGSA"
+city: "Torrington"
+address: "2120 E B St"
+aor: "Denver"
+latitude: 42.0653166
+longitude: -104.1819959
 ---
 
 IGSA detention facility: Goshen County Jail in Goshen County, WY.

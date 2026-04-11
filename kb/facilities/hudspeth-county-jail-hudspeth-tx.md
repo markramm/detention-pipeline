@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Sierra Blanca"
+address: "525 North Wilson Avenue"
+aor: "El Paso"
+latitude: 31.1812278
+longitude: -105.3579182
 ---
 
 IGSA detention facility: Hudspeth County Jail in Hudspeth County, TX.

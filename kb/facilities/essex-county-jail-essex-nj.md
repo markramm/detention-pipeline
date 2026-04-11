@@ -13,6 +13,12 @@ tags:
 - igsa
 - nj
 importance: 5
+facility_type: "IGSA"
+city: "Newark"
+address: "354 Doremus Avenue"
+aor: "Newark"
+latitude: 40.7209523
+longitude: -74.1271181
 ---
 
 IGSA detention facility: Essex County Jail in Essex County, NJ.

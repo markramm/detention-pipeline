@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Auburn"
+address: "7445 County House Rd, Po Box518"
+aor: "Buffalo"
+latitude: 42.9798136
+longitude: -76.5434968
 ---
 
 IGSA detention facility: Cayuga County Jail in Cayuga County, NY.

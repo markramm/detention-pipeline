@@ -13,6 +13,13 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "DIGSA"
+city: "Ferriday"
+address: "26362 Highway 15"
+aor: "New Orleans"
+latitude: 31.5972518
+longitude: -91.5579147
+avg_daily_pop: 485
 ---
 
 IGSA detention facility: River Correctional Center in Concordia County, LA.

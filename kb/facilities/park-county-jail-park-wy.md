@@ -13,6 +13,12 @@ tags:
 - igsa
 - wy
 importance: 5
+facility_type: "IGSA"
+city: "Cody"
+address: "1402 River View Drive"
+aor: "Denver"
+latitude: 44.5257011
+longitude: -109.0661885
 ---
 
 IGSA detention facility: Park County Jail in Park County, WY.

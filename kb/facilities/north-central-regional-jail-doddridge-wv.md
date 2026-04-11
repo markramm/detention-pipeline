@@ -13,6 +13,13 @@ tags:
 - igsa
 - wv
 importance: 5
+facility_type: "IGSA"
+city: "Greenwood"
+address: "#1 Lois Lane"
+aor: "Philadelphia"
+latitude: 39.2808928
+longitude: -80.8530542
+avg_daily_pop: 4
 ---
 
 IGSA detention facility: North Central Regional Jail in Doddridge County, WV.

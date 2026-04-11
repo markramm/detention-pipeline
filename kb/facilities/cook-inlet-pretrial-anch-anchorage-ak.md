@@ -13,6 +13,12 @@ tags:
 - igsa
 - ak
 importance: 5
+facility_type: "IGSA"
+city: "Anchorage"
+address: "1300 E 4th Avenue"
+aor: "Seattle"
+latitude: 61.2184384
+longitude: -149.8575923
 ---
 
 IGSA detention facility: Cook Inlet Pretrial, Anch in Anchorage County, AK.

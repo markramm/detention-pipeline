@@ -13,6 +13,12 @@ tags:
 - igsa
 - ks
 importance: 5
+facility_type: "IGSA"
+city: "Topeka"
+address: "501 Southeast 8th Avenue"
+aor: "Chicago"
+latitude: 39.0466939
+longitude: -95.669194
 ---
 
 IGSA detention facility: Shawnee County Dept Of Corr. in Shawnee County, KS.

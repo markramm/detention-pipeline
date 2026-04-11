@@ -13,6 +13,12 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Fort Lauderdale"
+address: "20421 Sheridan St"
+aor: "Miami"
+latitude: 26.0336407
+longitude: -80.4196337
 ---
 
 IGSA detention facility: Broward County Jail in Broward County, FL.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - va
 importance: 5
+facility_type: "IGSA"
+city: "Winchester"
+address: "141 Fort Collier Road"
+aor: "Washington"
+latitude: 39.19883129999999
+longitude: -78.1438831
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Northwest Reg. Adult Det. in Winchester City County, VA.

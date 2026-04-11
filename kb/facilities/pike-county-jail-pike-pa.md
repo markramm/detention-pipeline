@@ -13,6 +13,12 @@ tags:
 - igsa
 - pa
 importance: 5
+facility_type: "IGSA"
+city: "Lords Valley"
+address: "175 Pike County Boulevard"
+aor: "Philadelphia"
+latitude: 41.3890147
+longitude: -75.0713413
 ---
 
 IGSA detention facility: Pike County Jail in Pike County, PA.

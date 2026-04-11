@@ -13,6 +13,12 @@ tags:
 - igsa
 - mi
 importance: 5
+facility_type: "IGSA"
+city: "Monroe"
+address: "100 East 2nd Street"
+aor: "Detroit"
+latitude: 41.9139789
+longitude: -83.3974158
 ---
 
 IGSA detention facility: Monroe County Sheriff/Jail-Main in Monroe County, MI.

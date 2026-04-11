@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Abilene"
+address: "910 South 27th Street"
+aor: "Dallas"
+latitude: 32.41693060000001
+longitude: -99.7349093
 ---
 
 IGSA detention facility: Taylor County Adult Det. in Taylor County, TX.

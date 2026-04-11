@@ -13,6 +13,13 @@ tags:
 - igsa
 - tn
 importance: 5
+facility_type: "IGSA"
+city: "Nashville"
+address: "448 2nd Avenue"
+aor: "New Orleans"
+latitude: 36.157146
+longitude: -86.771526
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Davidson Co. Sheriff Dept in Davidson County, TN.

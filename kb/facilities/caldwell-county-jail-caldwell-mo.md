@@ -13,6 +13,12 @@ tags:
 - igsa
 - mo
 importance: 5
+facility_type: "IGSA"
+city: "Kingston"
+address: "280 West Main Street"
+aor: "Chicago"
+latitude: 39.6421981
+longitude: -94.046756
 ---
 
 IGSA detention facility: Caldwell County Jail in Caldwell County, MO.

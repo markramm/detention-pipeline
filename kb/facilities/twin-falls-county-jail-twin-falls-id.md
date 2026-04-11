@@ -13,6 +13,12 @@ tags:
 - igsa
 - id
 importance: 5
+facility_type: "IGSA"
+city: "Twin Falls"
+address: "425 Shoshone Street North"
+aor: "Salt Lake City"
+latitude: 42.5593435
+longitude: -114.4668852
 ---
 
 IGSA detention facility: Twin Falls County Jail in Twin Falls County, ID.

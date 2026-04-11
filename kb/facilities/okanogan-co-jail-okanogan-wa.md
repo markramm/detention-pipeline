@@ -13,6 +13,12 @@ tags:
 - igsa
 - wa
 importance: 5
+facility_type: "IGSA"
+city: "Okanogan"
+address: "149 4th Avenue North"
+aor: "Seattle"
+latitude: 48.3649354
+longitude: -119.581955
 ---
 
 IGSA detention facility: Okanogan Co. Jail in Okanogan County, WA.

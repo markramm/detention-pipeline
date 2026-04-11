@@ -13,6 +13,12 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "IGSA"
+city: "Marksville"
+address: "675 Government Street"
+aor: "New Orleans"
+latitude: 31.1168265
+longitude: -92.0673568
 ---
 
 IGSA detention facility: Avoyelles Parish Prison in Avoyelles County, LA.

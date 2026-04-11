@@ -13,6 +13,12 @@ tags:
 - igsa
 - mn
 importance: 5
+facility_type: "IGSA"
+city: "Oak Park Heights"
+address: "5329 N Osgood Ave"
+aor: "St. Paul"
+latitude: 45.0252063
+longitude: -92.8024599
 ---
 
 IGSA detention facility: Minn.C.F, Oak Park Hgts in Washington County, MN.

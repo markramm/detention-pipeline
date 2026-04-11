@@ -13,6 +13,13 @@ tags:
 - igsa
 - ne
 importance: 5
+facility_type: "IGSA"
+city: "Grand Island"
+address: "110 Public Safety Drive"
+aor: "St. Paul"
+latitude: 40.92766719999999
+longitude: -98.3272451
+avg_daily_pop: 11
 ---
 
 IGSA detention facility: Hall County Sheriff in Hall County, NE.

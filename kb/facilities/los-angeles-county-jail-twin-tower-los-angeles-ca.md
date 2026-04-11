@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Los Angeles"
+address: "450 Bauchet Street"
+aor: "Los Angeles"
+latitude: 34.0592381
+longitude: -118.2306566
 ---
 
 IGSA detention facility: Los Angeles County Jail-Twin Tower in Los Angeles County, CA.

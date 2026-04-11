@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Labelle"
+address: "101 South Bridge Street"
+aor: "Miami"
+latitude: 26.7605092
+longitude: -81.4366329
+avg_daily_pop: 2
 ---
 
 IGSA detention facility: Hendry County Jail in Hendry County, FL.

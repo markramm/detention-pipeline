@@ -13,6 +13,12 @@ tags:
 - igsa
 - id
 importance: 5
+facility_type: "IGSA"
+city: "Idaho Falls"
+address: "605 North Capital"
+aor: "Salt Lake City"
+latitude: 43.4951326
+longitude: -112.0411734
 ---
 
 IGSA detention facility: Bonneville Co. Jail in Bonneville County, ID.

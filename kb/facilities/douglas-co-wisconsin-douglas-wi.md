@@ -13,6 +13,13 @@ tags:
 - igsa
 - wi
 importance: 5
+facility_type: "IGSA"
+city: "Superior"
+address: "1409 Hammond Avenue"
+aor: "Chicago"
+latitude: 46.72149479999999
+longitude: -92.0982418
+avg_daily_pop: 29
 ---
 
 IGSA detention facility: Douglas Co. Wisconsin in Douglas County, WI.

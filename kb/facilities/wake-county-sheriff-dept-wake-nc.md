@@ -13,6 +13,12 @@ tags:
 - igsa
 - nc
 importance: 5
+facility_type: "IGSA"
+city: "Raleigh"
+address: "330 South Salisbury Street"
+aor: "Atlanta"
+latitude: 35.7760738
+longitude: -78.6406192
 ---
 
 IGSA detention facility: Wake County Sheriff Dept. in Wake County, NC.

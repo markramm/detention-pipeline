@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Calipatria"
+address: "7018 Blair Road"
+aor: "San Diego"
+latitude: 33.1636907
+longitude: -115.4927772
 ---
 
 IGSA detention facility: CDC Calipatria IHP in Imperial County, CA.

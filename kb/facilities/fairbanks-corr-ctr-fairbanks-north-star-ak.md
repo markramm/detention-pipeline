@@ -13,6 +13,13 @@ tags:
 - igsa
 - ak
 importance: 5
+facility_type: "IGSA"
+city: "Fairbanks"
+address: "1931 Eagan Street"
+aor: "Seattle"
+latitude: 64.8333367
+longitude: -147.7591515
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Fairbanks Corr Ctr in Fairbanks North Star County, AK.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - ma
 importance: 5
+facility_type: "IGSA"
+city: "Ludlow"
+address: "627 Randall Road"
+aor: "Boston"
+latitude: 42.2046343
+longitude: -72.5104822
 ---
 
 IGSA detention facility: Hampden Co.House Of Corr. in Hampden County, MA.

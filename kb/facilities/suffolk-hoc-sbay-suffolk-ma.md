@@ -13,6 +13,12 @@ tags:
 - igsa
 - ma
 importance: 5
+facility_type: "IGSA"
+city: "Boston"
+address: "20 Bradston Street"
+aor: "Boston"
+latitude: 42.3344149
+longitude: -71.067724
 ---
 
 IGSA detention facility: Suffolk Hoc Sbay in Suffolk County, MA.

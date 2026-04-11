@@ -13,6 +13,13 @@ tags:
 - igsa
 - mi
 importance: 5
+facility_type: "IGSA"
+city: "Battle Creek"
+address: "185 East Michigan Avenue"
+aor: "Detroit"
+latitude: 42.3166565
+longitude: -85.1757947
+avg_daily_pop: 193
 ---
 
 IGSA detention facility: Calhoun Co., Battle Cr,MI in Calhoun County, MI.

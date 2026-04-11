@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Victoria"
+address: "101 North Glass Street"
+aor: "Houston"
+latitude: 28.8002906
+longitude: -97.0086053
 ---
 
 IGSA detention facility: Victoria County Jail in Victoria County, TX.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Helena"
+address: "221 Breckenridge Street"
+aor: "Salt Lake City"
+latitude: 46.5862911
+longitude: -112.0367771
 ---
 
 IGSA detention facility: Lewis & Clark County Jail in Lewis And Clark County, MT.

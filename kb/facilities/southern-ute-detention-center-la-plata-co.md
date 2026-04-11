@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Ignacio"
+address: "149 Co Rd 517"
+aor: "Denver"
+latitude: 37.133555
+longitude: -107.6334516
 ---
 
 IGSA detention facility: Southern Ute Detention Center in La Plata County, CO.

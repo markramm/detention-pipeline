@@ -13,6 +13,12 @@ tags:
 - igsa
 - mo
 importance: 5
+facility_type: "IGSA"
+city: "Platte City"
+address: "415 Third Street"
+aor: "Chicago"
+latitude: 39.3714276
+longitude: -94.780186
 ---
 
 IGSA detention facility: Platte County Jail in Platte County, MO.

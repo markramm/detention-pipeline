@@ -13,6 +13,12 @@ tags:
 - igsa
 - sd
 importance: 5
+facility_type: "IGSA"
+city: "Sturgis"
+address: "1400 Main Street"
+aor: "St. Paul"
+latitude: 44.4142379
+longitude: -103.516159
 ---
 
 IGSA detention facility: Meade Co. Jail, SD in Meade County, SD.

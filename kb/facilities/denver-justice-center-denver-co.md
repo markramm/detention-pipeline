@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Denver"
+address: "1330 Cherokee Street"
+aor: "Denver"
+latitude: 39.7375005
+longitude: -104.9914355
 ---
 
 IGSA detention facility: Denver Justice Center in Denver County, CO.

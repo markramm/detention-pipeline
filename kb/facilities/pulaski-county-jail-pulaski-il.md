@@ -13,6 +13,12 @@ tags:
 - igsa
 - il
 importance: 5
+facility_type: "IGSA"
+city: "Ullin"
+address: "1026 Shawnee College Road"
+aor: "Chicago"
+latitude: 37.2690238
+longitude: -89.1643218
 ---
 
 IGSA detention facility: Pulaski County Jail in Pulaski County, IL.

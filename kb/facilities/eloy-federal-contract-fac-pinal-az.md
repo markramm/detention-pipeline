@@ -13,6 +13,13 @@ tags:
 - igsa
 - az
 importance: 5
+facility_type: "DIGSA"
+city: "Eloy"
+address: "1705 East Hanna Rd."
+aor: "Phoenix"
+latitude: 32.8176183
+longitude: -111.5200907
+avg_daily_pop: 1288
 ---
 
 IGSA detention facility: Eloy Federal Contract Fac in Pinal County, AZ.

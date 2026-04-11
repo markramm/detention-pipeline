@@ -13,6 +13,12 @@ tags:
 - igsa
 - ak
 importance: 5
+facility_type: "IGSA"
+city: "Kenai"
+address: "#10 Chugach Avenue"
+aor: "Seattle"
+latitude: 60.584234
+longitude: -151.3000522
 ---
 
 IGSA detention facility: Wildwood State Corr. Ctr. in Kenai Peninsula County, AK.

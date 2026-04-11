@@ -13,6 +13,13 @@ tags:
 - igsa
 - va
 importance: 5
+facility_type: "IGSA"
+city: "Virginia Beach"
+address: "2501 James Madison Boulevard"
+aor: "Washington"
+latitude: 36.7528158
+longitude: -76.0614299
+avg_daily_pop: 2
 ---
 
 IGSA detention facility: Virginia Beach in Virginia Beach City County, VA.

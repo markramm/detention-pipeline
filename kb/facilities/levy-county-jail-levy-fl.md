@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Bronson"
+address: "9150 NE 80th Ave"
+aor: "Miami"
+latitude: 29.4654138
+longitude: -82.6414111
+avg_daily_pop: 2
 ---
 
 IGSA detention facility: Levy County Jail in Levy County, FL.

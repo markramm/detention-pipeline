@@ -13,6 +13,13 @@ tags:
 - igsa
 - nm
 importance: 5
+facility_type: "IGSA"
+city: "Clovis"
+address: "801 Mitchell Street"
+aor: "El Paso"
+latitude: 34.4063469
+longitude: -103.2063005
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Curry County Det Fac in Curry County, NM.

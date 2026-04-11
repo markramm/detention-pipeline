@@ -13,6 +13,12 @@ tags:
 - igsa
 - wy
 importance: 5
+facility_type: "IGSA"
+city: "Rawlins"
+address: "1302 Daley St"
+aor: "Denver"
+latitude: 41.7955319
+longitude: -107.2231078
 ---
 
 IGSA detention facility: Carbon County Jail in Carbon County, WY.

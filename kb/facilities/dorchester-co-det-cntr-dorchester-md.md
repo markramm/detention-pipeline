@@ -13,6 +13,12 @@ tags:
 - igsa
 - md
 importance: 5
+facility_type: "IGSA"
+city: "Cambridge"
+address: "829 Fieldcrest Road"
+aor: "Baltimore"
+latitude: 38.5482029
+longitude: -76.058702
 ---
 
 IGSA detention facility: Dorchester Co Det Cntr in Dorchester County, MD.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "El Centro"
+address: "328 Applestill Road"
+aor: "San Diego"
+latitude: 32.7483115
+longitude: -115.5633429
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Imperial County Jail in Imperial County, CA.

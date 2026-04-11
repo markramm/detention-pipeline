@@ -13,6 +13,13 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Belmont"
+address: "4884 State Route 19"
+aor: "Buffalo"
+latitude: 42.2126508
+longitude: -78.0167739
+avg_daily_pop: 8
 ---
 
 IGSA detention facility: Allegany County Jail in Allegany County, NY.

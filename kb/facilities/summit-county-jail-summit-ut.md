@@ -13,6 +13,12 @@ tags:
 - igsa
 - ut
 importance: 5
+facility_type: "IGSA"
+city: "Park City"
+address: "6300 North Silver Creek Drive"
+aor: "Salt Lake City"
+latitude: 40.7225688
+longitude: -111.4815177
 ---
 
 IGSA detention facility: Summit County Jail in Summit County, UT.

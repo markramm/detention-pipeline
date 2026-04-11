@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Delta"
+address: "P.O. Box 172"
+aor: "Denver"
+latitude: 38.7396581
+longitude: -108.0723226
 ---
 
 IGSA detention facility: Delta County Jail in Delta County, CO.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - ma
 importance: 5
+facility_type: "IGSA"
+city: "Cambridge"
+address: "40 Thorndike Street"
+aor: "Boston"
+latitude: 42.3692247
+longitude: -71.0793979
 ---
 
 IGSA detention facility: Middlesex County H.O.C.-Billerica in Middlesex County, MA.

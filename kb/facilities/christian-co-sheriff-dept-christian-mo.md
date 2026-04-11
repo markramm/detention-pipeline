@@ -13,6 +13,12 @@ tags:
 - igsa
 - mo
 importance: 5
+facility_type: "IGSA"
+city: "Ozark"
+address: "110 West Elm"
+aor: "Chicago"
+latitude: 37.0196035
+longitude: -93.2054354
 ---
 
 IGSA detention facility: Christian Co Sheriff Dept in Christian County, MO.

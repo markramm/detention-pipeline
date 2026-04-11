@@ -13,6 +13,12 @@ tags:
 - igsa
 - md
 importance: 5
+facility_type: "IGSA"
+city: "Jessup"
+address: "7301 Waterloo Road"
+aor: "Baltimore"
+latitude: 39.1694445
+longitude: -76.781821
 ---
 
 IGSA detention facility: Howard County Det Cntr in Howard County, MD.

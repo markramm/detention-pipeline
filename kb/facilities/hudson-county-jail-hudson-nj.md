@@ -13,6 +13,13 @@ tags:
 - igsa
 - nj
 importance: 5
+facility_type: "IGSA"
+city: "Kearny"
+address: "30-35 Hackensack Ave."
+aor: "Newark"
+latitude: 40.7268886
+longitude: -74.1063126
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Hudson County Jail in Hudson County, NJ.

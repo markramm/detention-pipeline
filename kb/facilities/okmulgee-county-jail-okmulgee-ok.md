@@ -13,6 +13,13 @@ tags:
 - igsa
 - ok
 importance: 5
+facility_type: "IGSA"
+city: "Okmulgee"
+address: "314 W. 7th Street"
+aor: "Dallas"
+latitude: 35.6221933
+longitude: -95.9745498
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Okmulgee County Jail in Okmulgee County, OK.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - mo
 importance: 5
+facility_type: "IGSA"
+city: "Gainesville"
+address: "1818 County Rd 806 "
+aor: "Chicago"
+latitude: 36.5999313
+longitude: -92.4490691
+avg_daily_pop: 24
 ---
 
 IGSA detention facility: Ozark County Sheriff'S Office in Ozark County, MO.

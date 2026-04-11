@@ -13,6 +13,12 @@ tags:
 - igsa
 - nd
 importance: 5
+facility_type: "IGSA"
+city: "Grafton"
+address: "638 Cooper Avenue"
+aor: "St. Paul"
+latitude: 48.41776
+longitude: -97.4046021
 ---
 
 IGSA detention facility: Walsh County Jail in Walsh County, ND.

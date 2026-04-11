@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Chula Vista"
+address: "500 3rd Avenue"
+aor: "San Diego"
+latitude: 32.632554
+longitude: -117.0775695
 ---
 
 IGSA detention facility: South Bay Detent Facility in San Diego County, CA.

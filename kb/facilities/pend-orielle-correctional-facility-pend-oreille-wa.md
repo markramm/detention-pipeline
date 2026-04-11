@@ -13,6 +13,12 @@ tags:
 - igsa
 - wa
 importance: 5
+facility_type: "IGSA"
+city: "Newport"
+address: "331 South Garden Avenue"
+aor: "Seattle"
+latitude: 48.1783897
+longitude: -117.059056
 ---
 
 IGSA detention facility: Pend Orielle Correctional Facility in Pend Oreille County, WA.

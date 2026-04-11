@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Represa"
+address: "100 Prison Road"
+aor: "San Francisco"
+latitude: 38.6916076
+longitude: -121.1573499
 ---
 
 IGSA detention facility: Csp-Sacramento in Sacramento County, CA.

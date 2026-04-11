@@ -13,6 +13,12 @@ tags:
 - igsa
 - or
 importance: 5
+facility_type: "IGSA"
+city: "Albany"
+address: "1115 Jackson Street Southeast"
+aor: "Seattle"
+latitude: 44.6298136
+longitude: -123.0969482
 ---
 
 IGSA detention facility: Linn Co Jail in Linn County, OR.

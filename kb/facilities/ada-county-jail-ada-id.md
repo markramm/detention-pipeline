@@ -13,6 +13,12 @@ tags:
 - igsa
 - id
 importance: 5
+facility_type: "IGSA"
+city: "Boise"
+address: "7210 Barrister Drive"
+aor: "Salt Lake City"
+latitude: 43.6072449
+longitude: -116.2699099
 ---
 
 IGSA detention facility: Ada County Jail in Ada County, ID.

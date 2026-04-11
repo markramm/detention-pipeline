@@ -13,6 +13,12 @@ tags:
 - igsa
 - wa
 importance: 5
+facility_type: "IGSA"
+city: "Colville"
+address: "215 South Oak Street"
+aor: "Seattle"
+latitude: 48.5428367
+longitude: -117.9034106
 ---
 
 IGSA detention facility: Stevens County Jail in Stevens County, WA.

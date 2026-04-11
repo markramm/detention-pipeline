@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Lamar"
+address: "103 East Oak Street"
+aor: "Denver"
+latitude: 38.086406
+longitude: -102.6182619
 ---
 
 IGSA detention facility: Prowers County Jail in Prowers County, CO.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - ms
 importance: 5
+facility_type: "DIGSA"
+city: "Natchez"
+address: "20 Hobo Fork Rd."
+aor: "New Orleans"
+latitude: 31.5574742
+longitude: -91.2216138
+avg_daily_pop: 2147
 ---
 
 IGSA detention facility: Adams County Det Center in Adams County, MS.

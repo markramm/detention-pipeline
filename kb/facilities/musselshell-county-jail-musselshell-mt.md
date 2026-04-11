@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Roundup"
+address: "820 Main Street"
+aor: "Salt Lake City"
+latitude: 46.4496704
+longitude: -108.5416973
 ---
 
 IGSA detention facility: Musselshell County Jail in Musselshell County, MT.

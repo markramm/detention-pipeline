@@ -13,6 +13,12 @@ tags:
 - igsa
 - il
 importance: 5
+facility_type: "IGSA"
+city: "Ullin"
+address: "1026 Shawnee College Road"
+aor: "Chicago"
+latitude: 37.2689298
+longitude: -89.164106
 ---
 
 IGSA detention facility: Tri-County Jail in Pulaski County, IL.

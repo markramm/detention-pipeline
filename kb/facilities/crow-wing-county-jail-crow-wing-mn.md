@@ -13,6 +13,13 @@ tags:
 - igsa
 - mn
 importance: 5
+facility_type: "IGSA"
+city: "Brainerd"
+address: "313 Laurel St"
+aor: "St. Paul"
+latitude: 46.3566213
+longitude: -94.205266
+avg_daily_pop: 20
 ---
 
 IGSA detention facility: Crow Wing County Jail in Crow Wing County, MN.

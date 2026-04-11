@@ -13,6 +13,12 @@ tags:
 - igsa
 - ar
 importance: 5
+facility_type: "IGSA"
+city: "Conway"
+address: "801 Locust St."
+aor: "New Orleans"
+latitude: 35.0891836
+longitude: -92.4436024
 ---
 
 IGSA detention facility: Faulkner County Jail in Faulkner County, AR.

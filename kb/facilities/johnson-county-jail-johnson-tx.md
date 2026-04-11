@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Cleburne"
+address: "1800 Ridgemar Drive"
+aor: "Dallas"
+latitude: 32.3748545
+longitude: -97.3896165
 ---
 
 IGSA detention facility: Johnson County Jail in Johnson County, TX.

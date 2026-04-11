@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Yulee"
+address: "76212 Nicholas Cutinha Road"
+aor: "Miami"
+latitude: 30.6109717
+longitude: -81.6311459
+avg_daily_pop: 4
 ---
 
 IGSA detention facility: Nassau County Jail in Nassau County, FL.

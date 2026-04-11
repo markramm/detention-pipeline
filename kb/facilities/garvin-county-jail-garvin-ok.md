@@ -13,6 +13,13 @@ tags:
 - igsa
 - ok
 importance: 5
+facility_type: "IGSA"
+city: "Pauls Valley"
+address: "201 West Grant Avenue"
+aor: "Dallas"
+latitude: 34.7404942
+longitude: -97.2220938
+avg_daily_pop: 3
 ---
 
 IGSA detention facility: Garvin County Jail in Garvin County, OK.

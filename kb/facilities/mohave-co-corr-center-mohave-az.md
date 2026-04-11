@@ -13,6 +13,12 @@ tags:
 - igsa
 - az
 importance: 5
+facility_type: "IGSA"
+city: "Kingman"
+address: "415 Pine Street"
+aor: "Phoenix"
+latitude: 35.1925618
+longitude: -114.0520797
 ---
 
 IGSA detention facility: Mohave Co Corr Center in Mohave County, AZ.

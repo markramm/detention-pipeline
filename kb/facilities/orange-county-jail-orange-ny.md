@@ -13,6 +13,13 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Goshen"
+address: "110 Wells Farm Road"
+aor: "New York"
+latitude: 41.4048799
+longitude: -74.3594951
+avg_daily_pop: 122
 ---
 
 IGSA detention facility: Orange County Jail in Orange County, NY.

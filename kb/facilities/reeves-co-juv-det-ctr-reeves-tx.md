@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Pecos"
+address: "98 W County Road 203"
+aor: "El Paso"
+latitude: 31.4002415
+longitude: -103.4910835
 ---
 
 IGSA detention facility: Reeves Co. Juv. Det. Ctr. in Reeves County, TX.

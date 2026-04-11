@@ -13,6 +13,12 @@ tags:
 - igsa
 - wa
 importance: 5
+facility_type: "IGSA"
+city: "Vancouver"
+address: "707 W 13Th St"
+aor: "Seattle"
+latitude: 45.6304046
+longitude: -122.6785123
 ---
 
 IGSA detention facility: Clark County Jail in Clark County, WA.

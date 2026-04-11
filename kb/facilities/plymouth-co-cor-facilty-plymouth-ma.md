@@ -13,6 +13,13 @@ tags:
 - igsa
 - ma
 importance: 5
+facility_type: "IGSA"
+city: "Plymouth"
+address: "26 Long Pond Road"
+aor: "Boston"
+latitude: 41.9313647
+longitude: -70.6510495
+avg_daily_pop: 444
 ---
 
 IGSA detention facility: Plymouth Co Cor Facilty in Plymouth County, MA.

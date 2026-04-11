@@ -13,6 +13,12 @@ tags:
 - igsa
 - co
 importance: 5
+facility_type: "IGSA"
+city: "Littleton"
+address: "3686 South Court Place"
+aor: "Denver"
+latitude: 39.6150731
+longitude: -105.0123557
 ---
 
 IGSA detention facility: Arapahoe County Jail in Arapahoe County, CO.

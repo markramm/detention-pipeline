@@ -13,6 +13,12 @@ tags:
 - igsa
 - pa
 importance: 5
+facility_type: "IGSA"
+city: "Nesquehoning"
+address: "Route 93 & Broad Street"
+aor: "Philadelphia"
+latitude: 40.8784045
+longitude: -75.7843463
 ---
 
 IGSA detention facility: Carbon County Correctionl in Carbon County, PA.

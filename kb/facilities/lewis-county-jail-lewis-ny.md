@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Lowville"
+address: "5252 Outer Stowe Street"
+aor: "Buffalo"
+latitude: 43.7780752
+longitude: -75.5003721
 ---
 
 IGSA detention facility: Lewis County Jail in Lewis County, NY.

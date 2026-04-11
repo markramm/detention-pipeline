@@ -13,6 +13,12 @@ tags:
 - igsa
 - mt
 importance: 5
+facility_type: "IGSA"
+city: "Miles City"
+address: "1010 Main Street"
+aor: "Salt Lake City"
+latitude: 46.407635
+longitude: -105.8449902
 ---
 
 IGSA detention facility: Custer County Jail in Custer County, MT.

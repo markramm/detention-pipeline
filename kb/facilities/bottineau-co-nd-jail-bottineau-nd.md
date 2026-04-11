@@ -13,6 +13,12 @@ tags:
 - igsa
 - nd
 importance: 5
+facility_type: "IGSA"
+city: "Bottineau"
+address: "314 West Fifth St."
+aor: "St. Paul"
+latitude: 48.8280861
+longitude: -100.4498815
 ---
 
 IGSA detention facility: Bottineau Co. ND Jail in Bottineau County, ND.

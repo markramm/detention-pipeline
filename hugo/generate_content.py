@@ -443,6 +443,11 @@ def generate_all_pages(parsed_entries, heat_data):
             fm["operator"] = esc(fields.get("operator", ""))
             fm["status"] = fields.get("status", "")
             fm["bed_count"] = fields.get("bed_count", fields.get("capacity", ""))
+            fm["facility_type"] = fields.get("facility_type", "")
+            fm["city"] = esc(fields.get("city", ""))
+            fm["address"] = esc(fields.get("address", ""))
+            fm["aor"] = esc(fields.get("aor", ""))
+            fm["avg_daily_pop"] = fields.get("avg_daily_pop", "")
         else:
             # Default: entry page
             page_path = CONTENT_PATH / "entry" / f"{entry_id}.md"

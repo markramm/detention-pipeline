@@ -13,6 +13,12 @@ tags:
 - igsa
 - mo
 importance: 5
+facility_type: "IGSA"
+city: "Charleston"
+address: "200 West Commercial Street"
+aor: "Chicago"
+latitude: 36.9238408
+longitude: -89.3520295
 ---
 
 IGSA detention facility: Mississippi County Detention Cente in Mississippi County, MO.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - mo
 importance: 5
+facility_type: "IGSA"
+city: "Troy"
+address: "65 Business Park Drive"
+aor: "Chicago"
+latitude: 38.9717045
+longitude: -90.9627585
 ---
 
 IGSA detention facility: Lincoln County Sheriff's in Lincoln County, MO.

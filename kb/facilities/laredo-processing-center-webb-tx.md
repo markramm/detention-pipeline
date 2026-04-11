@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "DIGSA"
+city: "Laredo"
+address: "4702 East Saunders Street"
+aor: "Harlingen"
+latitude: 27.5290697
+longitude: -99.4479568
+avg_daily_pop: 318
 ---
 
 IGSA detention facility: Laredo Processing Center in Webb County, TX.

@@ -13,6 +13,13 @@ tags:
 - igsa
 - az
 importance: 5
+facility_type: "IGSA"
+city: "Goodyear"
+address: "2105 North Citrus Rd"
+aor: "Phoenix"
+latitude: 33.4710105
+longitude: -112.4422426
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Perryville State Prison in Maricopa County, AZ.

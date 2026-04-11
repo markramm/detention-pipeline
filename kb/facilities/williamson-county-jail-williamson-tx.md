@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Georgetown"
+address: "306 West 4th Street"
+aor: "San Antonio"
+latitude: 30.6393952
+longitude: -97.6793989
 ---
 
 IGSA detention facility: Williamson County Jail in Williamson County, TX.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - wy
 importance: 5
+facility_type: "IGSA"
+city: "Douglas"
+address: "107 North 5th Street"
+aor: "Denver"
+latitude: 42.7599318
+longitude: -105.3809101
 ---
 
 IGSA detention facility: Converse County Jail in Converse County, WY.

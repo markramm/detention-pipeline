@@ -13,6 +13,12 @@ tags:
 - igsa
 - pa
 importance: 5
+facility_type: "DIGSA"
+city: "Philipsburg"
+address: "555 Geo Drive"
+aor: "Philadelphia"
+latitude: 40.9211173
+longitude: -78.2421772
 ---
 
 IGSA detention facility: Moshannon Valley Processing Center in Clearfield County, PA.

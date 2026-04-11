@@ -13,6 +13,12 @@ tags:
 - igsa
 - nm
 importance: 5
+facility_type: "IGSA"
+city: "Santa Fe"
+address: "4312 Highway 14 Santa Fe Nm 87505"
+aor: "El Paso"
+latitude: 35.5615932
+longitude: -106.0535944
 ---
 
 IGSA detention facility: Santa Fe Cornell Det. Fac. in Santa Fe County, NM.

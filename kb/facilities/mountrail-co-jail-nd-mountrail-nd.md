@@ -13,6 +13,12 @@ tags:
 - igsa
 - nd
 importance: 5
+facility_type: "IGSA"
+city: "Stanley"
+address: "101 North Main Street"
+aor: "St. Paul"
+latitude: 48.3211975
+longitude: -102.3914444
 ---
 
 IGSA detention facility: Mountrail Co. Jail, ND in Mountrail County, ND.

@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Owego"
+address: "103 Corporate Drive"
+aor: "Buffalo"
+latitude: 42.14176
+longitude: -76.2662743
 ---
 
 IGSA detention facility: Tioga County Jail in Tioga County, NY.

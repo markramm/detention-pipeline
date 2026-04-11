@@ -13,6 +13,12 @@ tags:
 - igsa
 - vi
 importance: 5
+facility_type: "IGSA"
+city: "Charlotte Amalie"
+address: "Hospital Gade And Veterans Drive"
+aor: "Miami"
+latitude: 38.7945952
+longitude: -106.5348379
 ---
 
 IGSA detention facility: St T Criminal Just Complx in St. Thomas County, VI.

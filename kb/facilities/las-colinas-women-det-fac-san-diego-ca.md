@@ -13,6 +13,12 @@ tags:
 - igsa
 - ca
 importance: 5
+facility_type: "IGSA"
+city: "Santee"
+address: "9000 Cottonwood Avenue"
+aor: "San Diego"
+latitude: 32.8438811
+longitude: -116.9728638
 ---
 
 IGSA detention facility: Las Colinas Women Det Fac in San Diego County, CA.

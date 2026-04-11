@@ -13,6 +13,13 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Lockport"
+address: "5526 Niagara Street Extention"
+aor: "Buffalo"
+latitude: 43.1802771
+longitude: -78.7368179
+avg_daily_pop: 3
 ---
 
 IGSA detention facility: Niagara County Jail in Niagara County, NY.

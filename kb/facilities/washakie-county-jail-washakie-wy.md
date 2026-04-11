@@ -13,6 +13,12 @@ tags:
 - igsa
 - wy
 importance: 5
+facility_type: "IGSA"
+city: "Worland"
+address: "100 North 10th Street"
+aor: "Denver"
+latitude: 44.017637
+longitude: -107.9551458
 ---
 
 IGSA detention facility: Washakie County Jail in Washakie County, WY.

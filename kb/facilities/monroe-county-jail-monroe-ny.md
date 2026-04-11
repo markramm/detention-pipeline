@@ -13,6 +13,12 @@ tags:
 - igsa
 - ny
 importance: 5
+facility_type: "IGSA"
+city: "Rochester"
+address: "130 Plymouth Avenue South"
+aor: "Buffalo"
+latitude: 43.152382
+longitude: -77.6140194
 ---
 
 IGSA detention facility: Monroe County Jail in Monroe County, NY.

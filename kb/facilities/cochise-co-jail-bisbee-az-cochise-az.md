@@ -13,6 +13,12 @@ tags:
 - igsa
 - az
 importance: 5
+facility_type: "IGSA"
+city: "Bisbee"
+address: "203 North Judd Drive"
+aor: "Phoenix"
+latitude: 31.4332706
+longitude: -109.8706746
 ---
 
 IGSA detention facility: Cochise Co Jail Bisbee AZ in Cochise County, AZ.

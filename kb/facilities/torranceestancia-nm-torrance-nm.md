@@ -13,6 +13,13 @@ tags:
 - igsa
 - nm
 importance: 5
+facility_type: "IGSA"
+city: "Estancia"
+address: "County Road 49"
+aor: "El Paso"
+latitude: 34.7583934
+longitude: -106.0558506
+avg_daily_pop: 299
 ---
 
 IGSA detention facility: Torrance/Estancia, NM in Torrance County, NM.

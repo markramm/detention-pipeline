@@ -13,6 +13,12 @@ tags:
 - igsa
 - mn
 importance: 5
+facility_type: "IGSA"
+city: "Chaska"
+address: "600 East Fourth St."
+aor: "St. Paul"
+latitude: 44.7872958
+longitude: -93.5927499
 ---
 
 IGSA detention facility: Carver County Jail in Carver County, MN.

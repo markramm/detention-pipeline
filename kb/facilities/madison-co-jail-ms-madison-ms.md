@@ -13,6 +13,13 @@ tags:
 - igsa
 - ms
 importance: 5
+facility_type: "IGSA"
+city: "Canton"
+address: "2935 Highway 51"
+aor: "New Orleans"
+latitude: 32.586496
+longitude: -90.0450712
+avg_daily_pop: 11
 ---
 
 IGSA detention facility: Madison Co. Jail, MS. in Madison County, MS.

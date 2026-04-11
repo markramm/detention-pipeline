@@ -13,6 +13,12 @@ tags:
 - igsa
 - ct
 importance: 5
+facility_type: "IGSA"
+city: "Hartford"
+address: "177 Weston Street"
+aor: "Boston"
+latitude: 41.793534
+longitude: -72.6615415
 ---
 
 IGSA detention facility: Hartford Corr Center in Hartford County, CT.

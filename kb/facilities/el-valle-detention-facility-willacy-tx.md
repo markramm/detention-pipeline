@@ -13,6 +13,13 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Raymondville"
+address: "1800 Industrial Drive"
+aor: "Harlingen"
+latitude: 26.4699773
+longitude: -97.7621603
+avg_daily_pop: 922
 ---
 
 IGSA detention facility: El Valle Detention Facility in Willacy County, TX.

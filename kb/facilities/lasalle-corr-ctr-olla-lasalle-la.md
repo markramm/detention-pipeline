@@ -13,6 +13,13 @@ tags:
 - igsa
 - la
 importance: 5
+facility_type: "IGSA"
+city: "Olla"
+address: "15976 Hwy 165"
+aor: "New Orleans"
+latitude: 31.9028296
+longitude: -92.2426468
+avg_daily_pop: 2
 ---
 
 IGSA detention facility: Lasalle Corr Ctr Olla in Lasalle County, LA.

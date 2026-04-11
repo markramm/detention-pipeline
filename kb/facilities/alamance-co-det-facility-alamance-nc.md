@@ -13,6 +13,13 @@ tags:
 - igsa
 - nc
 importance: 5
+facility_type: "IGSA"
+city: "Graham"
+address: "109 South Maple Street"
+aor: "Atlanta"
+latitude: 36.0683261
+longitude: -79.4035671
+avg_daily_pop: 40
 ---
 
 IGSA detention facility: Alamance Co. Det. Facility in Alamance County, NC.

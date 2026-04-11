@@ -13,6 +13,12 @@ tags:
 - igsa
 - ga
 importance: 5
+facility_type: "IGSA"
+city: "Dalton"
+address: "805 Professional Blvd"
+aor: "Atlanta"
+latitude: 34.7937394
+longitude: -84.979935
 ---
 
 IGSA detention facility: Whitfield County Jail in Whitfield County, GA.

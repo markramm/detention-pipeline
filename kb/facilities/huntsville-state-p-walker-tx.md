@@ -13,6 +13,12 @@ tags:
 - igsa
 - tx
 importance: 5
+facility_type: "IGSA"
+city: "Huntsville"
+address: "Huntsville Unit"
+aor: "Houston"
+latitude: 30.6263581
+longitude: -95.5278956
 ---
 
 IGSA detention facility: Huntsville State P. in Walker County, TX.

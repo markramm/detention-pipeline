@@ -13,6 +13,13 @@ tags:
 - igsa
 - md
 importance: 5
+facility_type: "IGSA"
+city: "Westminster"
+address: "100 North Court Street"
+aor: "Baltimore"
+latitude: 39.5720863
+longitude: -76.9867594
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Carroll County Detention Center in Carroll County, MD.

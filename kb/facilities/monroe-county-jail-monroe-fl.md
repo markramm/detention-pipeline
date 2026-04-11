@@ -13,6 +13,13 @@ tags:
 - igsa
 - fl
 importance: 5
+facility_type: "IGSA"
+city: "Key West"
+address: "5501 College Road"
+aor: "Miami"
+latitude: 24.576552
+longitude: -81.751438
+avg_daily_pop: 1
 ---
 
 IGSA detention facility: Monroe County Jail in Monroe County, FL.
