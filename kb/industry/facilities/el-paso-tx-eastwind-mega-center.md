@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "Eastwind Logistics Center, Clint/Far East El Paso County, TX"
 county: "El Paso"
-state: "Texas"
+state: "TX"
 capacity: "8,500"
 operator: "ICE (federal)"
 contract_type: federal-purchase

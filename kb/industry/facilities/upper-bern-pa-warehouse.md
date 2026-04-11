@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "Upper Bern Township, PA (Hamburg area)"
 county: "Berks"
-state: "Pennsylvania"
+state: "PA"
 capacity: "500-1,500"
 operator: "ICE (federal)"
 contract_type: federal-purchase

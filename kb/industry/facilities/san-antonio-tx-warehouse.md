@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "East Side, San Antonio, TX"
 county: "Bexar"
-state: "Texas"
+state: "TX"
 capacity: "1,500"
 operator: "ICE (federal)"
 contract_type: federal-purchase

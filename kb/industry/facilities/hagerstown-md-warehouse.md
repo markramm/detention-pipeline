@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "Hagerstown, MD"
 county: "Washington"
-state: "Maryland"
+state: "MD"
 capacity: "500-1,500"
 operator: "ICE (federal)"
 contract_type: federal-purchase

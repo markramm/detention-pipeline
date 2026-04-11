@@ -3,25 +3,27 @@
   <a href="/">Home</a><span class="sep">/</span>FOIA Request Generator
 </div>
 <div class="page-content">
-  <div style="max-width:760px; padding-top:24px;">
+  <div style="max-width:800px; padding-top:24px;">
     <h1 class="serif" style="font-size:28px; font-weight:400; margin-bottom:6px;">Public Records Request Generator</h1>
     <p style="font-size:14px; color:var(--text-secondary); line-height:1.6; margin-bottom:24px;">
-      Enter your county and state to generate a ready-to-send public records request. This letter
-      requests communications between your county and detention consultants, closed-session agendas,
-      and any intergovernmental agreements related to immigration detention.
+      Generate a ready-to-send public records request for your county. The letter requests
+      communications with detention consultants, closed-session agendas, and intergovernmental
+      agreements related to immigration detention.
     </p>
 
-    <div style="display:flex; gap:10px; margin-bottom:24px; flex-wrap:wrap;">
+    <div style="display:flex; gap:10px; margin-bottom:16px; flex-wrap:wrap;">
       <div>
-        <label class="mono dim" style="font-size:9px; letter-spacing:0.08em; text-transform:uppercase; display:block; margin-bottom:4px;">County</label>
+        <label class="mono dim" style="font-size:9px; letter-spacing:0.08em; text-transform:uppercase; display:block; margin-bottom:4px;" for="foia-county">County</label>
         <input type="text" id="foia-county" placeholder="e.g. Bradford County" style="width:240px; height:36px; padding:0 12px; font-size:13px; font-family:'IBM Plex Sans',sans-serif; border:1px solid var(--border); border-radius:4px; background:white; color:var(--text-primary); outline:none;">
       </div>
       <div>
-        <label class="mono dim" style="font-size:9px; letter-spacing:0.08em; text-transform:uppercase; display:block; margin-bottom:4px;">State</label>
-        <input type="text" id="foia-state" placeholder="e.g. Florida" style="width:180px; height:36px; padding:0 12px; font-size:13px; font-family:'IBM Plex Sans',sans-serif; border:1px solid var(--border); border-radius:4px; background:white; color:var(--text-primary); outline:none;">
+        <label class="mono dim" style="font-size:9px; letter-spacing:0.08em; text-transform:uppercase; display:block; margin-bottom:4px;" for="foia-state">State</label>
+        <select id="foia-state" style="width:180px; height:36px; padding:0 10px; font-size:13px; font-family:'IBM Plex Sans',sans-serif; border:1px solid var(--border); border-radius:4px; background:white; color:var(--text-primary); cursor:pointer;">
+          <option value="">Select state</option>
+        </select>
       </div>
       <div>
-        <label class="mono dim" style="font-size:9px; letter-spacing:0.08em; text-transform:uppercase; display:block; margin-bottom:4px;">Your name</label>
+        <label class="mono dim" style="font-size:9px; letter-spacing:0.08em; text-transform:uppercase; display:block; margin-bottom:4px;" for="foia-name">Your name</label>
         <input type="text" id="foia-name" placeholder="Your name" style="width:200px; height:36px; padding:0 12px; font-size:13px; font-family:'IBM Plex Sans',sans-serif; border:1px solid var(--border); border-radius:4px; background:white; color:var(--text-primary); outline:none;">
       </div>
       <div style="align-self:flex-end;">
@@ -29,108 +31,212 @@
       </div>
     </div>
 
+    {{/* State FOIA law info */}}
+    <div id="state-foia-info" style="display:none; margin-bottom:20px; padding:14px 18px; background:var(--bg-content-alt); border-radius:4px; border-left:3px solid var(--accent-warm);">
+      <h3 class="mono dim" style="font-size:9px; letter-spacing:0.08em; text-transform:uppercase; margin-bottom:6px;">
+        <span id="state-foia-name"></span> Public Records Law
+      </h3>
+      <div style="font-size:12.5px; color:var(--text-secondary); line-height:1.7;">
+        <div style="display:grid; grid-template-columns:auto 1fr; gap:4px 12px;">
+          <span class="mono dim" style="font-size:10px;">Law:</span> <span id="state-foia-law"></span>
+          <span class="mono dim" style="font-size:10px;">Deadline:</span> <span id="state-foia-deadline"></span>
+          <span class="mono dim" style="font-size:10px;">Fees:</span> <span id="state-foia-fees"></span>
+          <span class="mono dim" style="font-size:10px;">Appeal:</span> <span id="state-foia-appeal"></span>
+        </div>
+      </div>
+    </div>
+
     <div id="foia-output" style="display:none;">
       <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
         <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase;">Your Public Records Request</h2>
-        <button onclick="copyFOIA()" class="btn btn-sm" id="copy-btn">Copy to clipboard</button>
+        <div style="display:flex; gap:6px;">
+          <button onclick="copyFOIA()" class="btn btn-sm" id="copy-btn">Copy to clipboard</button>
+          <button onclick="trackRequest()" class="btn btn-sm btn-accent" id="track-btn">Log that I sent this</button>
+        </div>
       </div>
       <div id="foia-letter" style="background:white; border:1px solid var(--border); border-radius:5px; padding:24px 28px; font-size:13.5px; color:var(--text-primary); line-height:1.75; white-space:pre-wrap; font-family:'IBM Plex Sans',sans-serif;"></div>
-      <div style="margin-top:16px; padding:14px 18px; background:var(--bg-content-alt); border-radius:4px; border-left:3px solid var(--accent-warm);">
-        <h3 style="font-size:12px; font-weight:600; margin-bottom:4px;">How to send this</h3>
+
+      <div id="foia-recipient" style="margin-top:16px; padding:14px 18px; background:var(--bg-content-alt); border-radius:4px; border-left:3px solid var(--signal-commission);">
+        <h3 style="font-size:12px; font-weight:600; margin-bottom:6px;">Where to send this</h3>
+        <div id="foia-recipient-info" style="font-size:12.5px; color:var(--text-secondary); line-height:1.7;"></div>
+      </div>
+
+      <div style="margin-top:12px; padding:14px 18px; background:var(--bg-content-alt); border-radius:4px; border-left:3px solid var(--accent-warm);">
+        <h3 style="font-size:12px; font-weight:600; margin-bottom:4px;">What to expect</h3>
         <ul style="font-size:12px; color:var(--text-secondary); line-height:1.8; padding-left:16px;">
-          <li>Find your county clerk or records custodian's email on the county website</li>
-          <li>Send this letter as the body of an email with subject: "Public Records Request — [Your County]"</li>
-          <li>Keep a copy of the email for your records</li>
-          <li>If you don't get a response within 10 business days, follow up</li>
-          <li>When you get records, <a href="https://github.com/markramm/detention-pipeline/issues/new?template=tip.yml" style="color:var(--accent-warm);">submit what you find as a tip</a></li>
+          <li>Response deadline varies by state (see above) — follow up if you don't hear back</li>
+          <li>If fees are quoted above your threshold, ask what's available for free or at reduced cost</li>
+          <li>Some records may be redacted — request the non-exempt portions</li>
+          <li>When you receive records, <a href="https://github.com/markramm/detention-pipeline/issues/new?template=tip.yml" style="color:var(--accent-warm);">submit what you find as a tip</a></li>
         </ul>
       </div>
+    </div>
+
+    <div id="foia-tracked" style="display:none; margin-top:16px; padding:14px 18px; background:rgba(42,138,90,0.06); border:1px solid rgba(42,138,90,0.2); border-radius:4px;">
+      <div style="font-size:13px; color:#2a8a5a; font-weight:500; margin-bottom:4px;">Request logged</div>
+      <div id="foia-tracked-info" style="font-size:12px; color:var(--text-secondary);"></div>
     </div>
 
     <div style="margin-top:32px; padding-top:16px; border-top:1px solid var(--border);">
       <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:10px;">What this request covers</h2>
       <ul style="font-size:13px; color:var(--text-secondary); line-height:1.8; padding-left:18px;">
-        <li><strong>Consultant communications</strong> — emails, letters, proposals, and presentations from Sabot Consulting, CoreCivic, GEO Group, Management & Training Corporation, Immigration Centers of America, or any entity regarding immigration detention</li>
-        <li><strong>Closed-session agendas</strong> — executive session or closed meeting agendas and minutes mentioning detention, ICE, IGSA, bed capacity, or federal partnerships</li>
-        <li><strong>Intergovernmental agreements</strong> — any IGSAs, MOUs, or cooperative agreements with ICE, DHS, or the U.S. Marshals Service</li>
-        <li><strong>Financial analyses</strong> — revenue projections, cost-benefit analyses, or fiscal impact studies related to detention facility proposals</li>
-        <li><strong>Sheriff communications</strong> — correspondence between the sheriff's office and ICE, detention consultants, or the National Sheriffs' Association regarding detention partnerships</li>
+        <li><strong>Consultant communications</strong> — emails, letters, proposals from Sabot Consulting, CoreCivic, GEO Group, MTC, ICA, or any entity regarding immigration detention</li>
+        <li><strong>Closed-session agendas</strong> — executive session or closed meeting agendas mentioning detention, ICE, IGSA, bed capacity, or federal partnerships</li>
+        <li><strong>Intergovernmental agreements</strong> — IGSAs, MOUs, or cooperative agreements with ICE, DHS, or USMS</li>
+        <li><strong>Financial analyses</strong> — revenue projections, cost-benefit analyses, or fiscal impact studies related to detention</li>
+        <li><strong>Sheriff correspondence</strong> — communications between the sheriff's office and ICE, detention consultants, or NSA regarding detention partnerships</li>
       </ul>
     </div>
   </div>
 </div>
 
 <script>
-function generateFOIA() {
-  const county = document.getElementById('foia-county').value.trim();
-  const state = document.getElementById('foia-state').value.trim();
-  const name = document.getElementById('foia-name').value.trim() || '[Your Name]';
+// State FOIA law data
+var FOIA_LAWS = {
+  AL: {name:"Alabama",law:"Alabama Open Records Act",deadline:"Reasonable time (no specific days)",fees:"Reasonable costs",appeal:"Circuit Court"},
+  AK: {name:"Alaska",law:"Alaska Public Records Act",deadline:"10 business days",fees:"Actual cost of reproduction",appeal:"Superior Court"},
+  AZ: {name:"Arizona",law:"Arizona Public Records Law",deadline:"Prompt response (no specific days)",fees:"Copy costs only",appeal:"Superior Court"},
+  AR: {name:"Arkansas",law:"Arkansas FOIA",deadline:"3 business days",fees:"Reasonable costs",appeal:"Circuit Court"},
+  CA: {name:"California",law:"California Public Records Act",deadline:"10 days (14-day extension)",fees:"Direct costs of duplication",appeal:"Superior Court"},
+  CO: {name:"Colorado",law:"Colorado Open Records Act (CORA)",deadline:"3 business days",fees:"Reasonable costs",appeal:"District Court"},
+  CT: {name:"Connecticut",law:"Connecticut FOIA",deadline:"4 business days",fees:"Copies at cost",appeal:"FOIA Commission"},
+  DE: {name:"Delaware",law:"Delaware FOIA",deadline:"15 business days",fees:"Reasonable costs",appeal:"Attorney General or Superior Court"},
+  FL: {name:"Florida",law:"Florida Public Records Law (Sunshine Law)",deadline:"Prompt response (no specific days)",fees:"Actual cost of duplication (15¢/page)",appeal:"Circuit Court"},
+  GA: {name:"Georgia",law:"Georgia Open Records Act",deadline:"3 business days",fees:"25¢/page for copies",appeal:"Superior Court"},
+  HI: {name:"Hawaii",law:"Uniform Information Practices Act",deadline:"10 business days",fees:"Search/segregation/copy fees",appeal:"Office of Information Practices"},
+  ID: {name:"Idaho",law:"Idaho Public Records Act",deadline:"3 business days",fees:"Actual labor + copy costs",appeal:"District Court"},
+  IL: {name:"Illinois",law:"Illinois FOIA",deadline:"5 business days",fees:"First 50 pages free; 15¢/page after",appeal:"Public Access Counselor or Circuit Court"},
+  IN: {name:"Indiana",law:"Indiana Access to Public Records Act",deadline:"Reasonable time; 24 hours for denials",fees:"Actual cost",appeal:"Public Access Counselor or Circuit Court"},
+  IA: {name:"Iowa",law:"Iowa Open Records Act",deadline:"10-20 business days",fees:"Actual costs",appeal:"District Court"},
+  KS: {name:"Kansas",law:"Kansas Open Records Act",deadline:"3 business days (end of day)",fees:"Actual costs",appeal:"District Court"},
+  KY: {name:"Kentucky",law:"Kentucky Open Records Act",deadline:"5 business days (3-day extension)",fees:"Copy costs",appeal:"Attorney General"},
+  LA: {name:"Louisiana",law:"Louisiana Public Records Act",deadline:"3 business days (response); 5 for production",fees:"Reasonable costs",appeal:"District Court"},
+  ME: {name:"Maine",law:"Maine FOIA",deadline:"5 business days",fees:"Reasonable costs",appeal:"Superior Court"},
+  MD: {name:"Maryland",law:"Maryland Public Information Act",deadline:"30 days",fees:"Reasonable fees",appeal:"State Board of Review or Circuit Court"},
+  MA: {name:"Massachusetts",law:"Massachusetts Public Records Law",deadline:"10 business days",fees:"5¢/page (electronic free if available)",appeal:"Supervisor of Records"},
+  MI: {name:"Michigan",law:"Michigan FOIA",deadline:"5 business days (10-day extension)",fees:"Labor + copy costs (fee waivers available)",appeal:"Circuit Court"},
+  MN: {name:"Minnesota",law:"Minnesota Government Data Practices Act",deadline:"Immediate or reasonable time",fees:"Actual costs",appeal:"Office of Administrative Hearings"},
+  MS: {name:"Mississippi",law:"Mississippi Public Records Act",deadline:"7 business days",fees:"Actual costs",appeal:"Chancery Court"},
+  MO: {name:"Missouri",law:"Missouri Sunshine Law",deadline:"3 business days (end of 3rd day)",fees:"Actual costs (10¢/page)",appeal:"Circuit Court"},
+  MT: {name:"Montana",law:"Montana Constitution Art. II §9",deadline:"Reasonable time",fees:"Actual costs",appeal:"District Court"},
+  NE: {name:"Nebraska",law:"Nebraska Public Records Act",deadline:"4 business days",fees:"Actual costs",appeal:"District Court"},
+  NV: {name:"Nevada",law:"Nevada Public Records Act",deadline:"5 business days",fees:"Actual costs",appeal:"District Court"},
+  NH: {name:"New Hampshire",law:"New Hampshire Right-to-Know Law",deadline:"5 business days",fees:"Actual costs",appeal:"Superior Court"},
+  NJ: {name:"New Jersey",law:"New Jersey OPRA",deadline:"7 business days",fees:"Actual costs (5¢/letter, 7¢/legal)",appeal:"Government Records Council or Superior Court"},
+  NM: {name:"New Mexico",law:"New Mexico Inspection of Public Records Act",deadline:"15 calendar days",fees:"Actual costs",appeal:"District Court"},
+  NY: {name:"New York",law:"New York FOIL",deadline:"5 business days (acknowledge)",fees:"25¢/page",appeal:"Agency appeal, then Article 78"},
+  NC: {name:"North Carolina",law:"North Carolina Public Records Act",deadline:"Reasonable time (no specific days)",fees:"Actual costs",appeal:"Superior Court"},
+  ND: {name:"North Dakota",law:"North Dakota Open Records Law",deadline:"Reasonable time",fees:"25¢/page",appeal:"District Court or Attorney General"},
+  OH: {name:"Ohio",law:"Ohio Public Records Act",deadline:"Reasonable time (prompt)",fees:"Actual costs",appeal:"Court of Claims"},
+  OK: {name:"Oklahoma",law:"Oklahoma Open Records Act",deadline:"Prompt; specific time not defined",fees:"25¢/page; search fees limited",appeal:"District Court"},
+  OR: {name:"Oregon",law:"Oregon Public Records Law",deadline:"5-10 business days",fees:"Actual costs",appeal:"Attorney General or Circuit Court"},
+  PA: {name:"Pennsylvania",law:"Pennsylvania Right-to-Know Law",deadline:"5 business days (30-day extension)",fees:"Copy costs per schedule",appeal:"Office of Open Records"},
+  RI: {name:"Rhode Island",law:"Rhode Island Access to Public Records Act",deadline:"10 business days (20-day extension)",fees:"15¢/page",appeal:"Attorney General or Superior Court"},
+  SC: {name:"South Carolina",law:"South Carolina FOIA",deadline:"15 business days",fees:"Actual costs",appeal:"Circuit Court"},
+  SD: {name:"South Dakota",law:"South Dakota Open Records Act",deadline:"Reasonable time",fees:"Actual costs",appeal:"Circuit Court"},
+  TN: {name:"Tennessee",law:"Tennessee Public Records Act",deadline:"7 business days",fees:"Copy costs (schedule set by law)",appeal:"Chancery Court"},
+  TX: {name:"Texas",law:"Texas Public Information Act",deadline:"10 business days",fees:"Actual costs (per AG schedule)",appeal:"Attorney General (mandatory before court)"},
+  UT: {name:"Utah",law:"Utah GRAMA",deadline:"10 business days",fees:"Actual costs",appeal:"State Records Committee or District Court"},
+  VT: {name:"Vermont",law:"Vermont Public Records Act",deadline:"3 business days (acknowledge); 10 to produce",fees:"Actual costs",appeal:"Superior Court"},
+  VA: {name:"Virginia",law:"Virginia FOIA",deadline:"5 business days",fees:"Actual costs",appeal:"FOIA Council or General District Court"},
+  WA: {name:"Washington",law:"Washington Public Records Act",deadline:"5 business days (estimate of time)",fees:"15¢/page (electronic at cost)",appeal:"Superior Court"},
+  WV: {name:"West Virginia",law:"West Virginia FOIA",deadline:"5 business days",fees:"Actual costs",appeal:"Circuit Court"},
+  WI: {name:"Wisconsin",law:"Wisconsin Open Records Law",deadline:"10 business days (practical limit)",fees:"Actual costs (location fee limited)",appeal:"Circuit Court or Attorney General"},
+  WY: {name:"Wyoming",law:"Wyoming Public Records Act",deadline:"Reasonable time",fees:"Actual costs",appeal:"District Court"}
+};
 
-  if (!county || !state) {
-    alert('Please enter both county and state.');
+// State name list for dropdown
+var STATES = Object.entries(FOIA_LAWS).sort((a,b) => a[1].name.localeCompare(b[1].name));
+
+(function(){
+  var sel = document.getElementById('foia-state');
+  STATES.forEach(function(s){
+    var o = document.createElement('option');
+    o.value = s[0];
+    o.textContent = s[1].name;
+    sel.appendChild(o);
+  });
+
+  // Show state FOIA info on selection
+  sel.addEventListener('change', function(){
+    var info = FOIA_LAWS[sel.value];
+    var panel = document.getElementById('state-foia-info');
+    if(info){
+      document.getElementById('state-foia-name').textContent = info.name;
+      document.getElementById('state-foia-law').textContent = info.law;
+      document.getElementById('state-foia-deadline').textContent = info.deadline;
+      document.getElementById('state-foia-fees').textContent = info.fees;
+      document.getElementById('state-foia-appeal').textContent = info.appeal;
+      panel.style.display = '';
+    } else {
+      panel.style.display = 'none';
+    }
+  });
+
+  // Pre-fill from URL params (?fips=12011 or ?state=FL&county=Bradford)
+  var params = new URLSearchParams(window.location.search);
+  if(params.get('state')){
+    sel.value = params.get('state');
+    sel.dispatchEvent(new Event('change'));
+  }
+  if(params.get('county')){
+    document.getElementById('foia-county').value = params.get('county');
+  }
+})();
+
+function generateFOIA() {
+  var county = document.getElementById('foia-county').value.trim();
+  var stateAbbr = document.getElementById('foia-state').value;
+  var name = document.getElementById('foia-name').value.trim() || '[Your Name]';
+
+  if (!county || !stateAbbr) {
+    alert('Please enter county and select a state.');
     return;
   }
 
-  const today = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  var stateInfo = FOIA_LAWS[stateAbbr];
+  var stateName = stateInfo ? stateInfo.name : stateAbbr;
+  var lawName = stateInfo ? stateInfo.law : stateName + ' public records law';
 
-  const letter = `${today}
+  var today = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
-Records Custodian
-${county}
-${state}
-
-RE: Public Records Request
-
-Dear Records Custodian:
-
-Pursuant to the ${state} public records law, I am requesting copies of the following records from ${county}, ${state}:
-
-1. CONSULTANT COMMUNICATIONS: All emails, letters, proposals, presentations, contracts, and memoranda between any ${county} official, employee, or agent and the following entities (or their subsidiaries, affiliates, or representatives) regarding immigration detention, ICE detention, or intergovernmental service agreements, from January 1, 2024 to the present:
-   - Sabot Consulting (Sabot Technologies Inc.)
-   - CoreCivic, Inc. (formerly Corrections Corporation of America)
-   - The GEO Group, Inc.
-   - Management & Training Corporation (MTC)
-   - Immigration Centers of America (ICA)
-   - Any other entity proposing or consulting on immigration detention facilities
-
-2. MEETING RECORDS: Agendas, minutes, recordings, and supporting documents for any executive session, closed session, or special meeting of the ${county} Board of Commissioners (or equivalent governing body) that discussed or referenced:
-   - Immigration detention or ICE detention
-   - Intergovernmental Service Agreements (IGSAs)
-   - Federal detention partnerships
-   - Bed capacity for federal detainees
-   - Detention facility construction, renovation, or activation
-
-3. AGREEMENTS: Copies of any Intergovernmental Service Agreements (IGSAs), Memoranda of Understanding (MOUs), or cooperative agreements between ${county} and:
-   - U.S. Immigration and Customs Enforcement (ICE)
-   - U.S. Department of Homeland Security (DHS)
-   - U.S. Marshals Service (USMS)
-   - Any private contractor for immigration detention services
-
-4. FINANCIAL ANALYSES: Any revenue projections, cost-benefit analyses, fiscal impact studies, or economic development assessments related to proposed or existing immigration detention facilities in ${county}.
-
-5. SHERIFF CORRESPONDENCE: Communications between the ${county} Sheriff's Office and ICE, detention consultants, the National Sheriffs' Association, or any entity regarding 287(g) agreements, immigration enforcement partnerships, or detention facility development.
-
-I am requesting these records in electronic format where available. If any records are exempt from disclosure, please identify the specific exemption and provide the non-exempt portions.
-
-If the cost of processing this request exceeds $25, please notify me before proceeding.
-
-Thank you for your prompt attention to this request.
-
-Sincerely,
-${name}`;
+  var letter = today + '\n\nRecords Custodian\n' + county + '\n' + stateName + '\n\nRE: Public Records Request\n\nDear Records Custodian:\n\nPursuant to the ' + lawName + ', I am requesting copies of the following records from ' + county + ', ' + stateName + ':\n\n1. CONSULTANT COMMUNICATIONS: All emails, letters, proposals, presentations, contracts, and memoranda between any ' + county + ' official, employee, or agent and the following entities (or their subsidiaries, affiliates, or representatives) regarding immigration detention, ICE detention, or intergovernmental service agreements, from January 1, 2024 to the present:\n   - Sabot Consulting (Sabot Technologies Inc.)\n   - CoreCivic, Inc. (formerly Corrections Corporation of America)\n   - The GEO Group, Inc.\n   - Management & Training Corporation (MTC)\n   - Immigration Centers of America (ICA)\n   - Any other entity proposing or consulting on immigration detention facilities\n\n2. MEETING RECORDS: Agendas, minutes, recordings, and supporting documents for any executive session, closed session, or special meeting of the ' + county + ' Board of Commissioners (or equivalent governing body) that discussed or referenced:\n   - Immigration detention or ICE detention\n   - Intergovernmental Service Agreements (IGSAs)\n   - Federal detention partnerships\n   - Bed capacity for federal detainees\n   - Detention facility construction, renovation, or activation\n\n3. AGREEMENTS: Copies of any Intergovernmental Service Agreements (IGSAs), Memoranda of Understanding (MOUs), or cooperative agreements between ' + county + ' and:\n   - U.S. Immigration and Customs Enforcement (ICE)\n   - U.S. Department of Homeland Security (DHS)\n   - U.S. Marshals Service (USMS)\n   - Any private contractor for immigration detention services\n\n4. FINANCIAL ANALYSES: Any revenue projections, cost-benefit analyses, fiscal impact studies, or economic development assessments related to proposed or existing immigration detention facilities in ' + county + '.\n\n5. SHERIFF CORRESPONDENCE: Communications between the ' + county + ' Sheriff\'s Office and ICE, detention consultants, the National Sheriffs\' Association, or any entity regarding 287(g) agreements, immigration enforcement partnerships, or detention facility development.\n\nI am requesting these records in electronic format where available. If any records are exempt from disclosure, please identify the specific exemption and provide the non-exempt portions.\n\nIf the cost of processing this request exceeds $25, please notify me before proceeding.\n\nThank you for your prompt attention to this request.\n\nSincerely,\n' + name;
 
   document.getElementById('foia-letter').textContent = letter;
   document.getElementById('foia-output').style.display = 'block';
+
+  // Recipient guidance
+  var recipientHTML = 'Search for <strong>"' + county + ' ' + stateName + ' records request"</strong> or <strong>"' + county + ' clerk"</strong> to find the email address of the county\'s records custodian. '
+    + 'Most counties accept requests via email — use subject line: <span class="mono" style="font-size:11px;">"Public Records Request — ' + county + '"</span>';
+  document.getElementById('foia-recipient-info').innerHTML = recipientHTML;
+
   document.getElementById('foia-output').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function copyFOIA() {
-  const text = document.getElementById('foia-letter').textContent;
-  navigator.clipboard.writeText(text).then(() => {
-    const btn = document.getElementById('copy-btn');
+  var text = document.getElementById('foia-letter').textContent;
+  navigator.clipboard.writeText(text).then(function() {
+    var btn = document.getElementById('copy-btn');
     btn.textContent = 'Copied!';
-    setTimeout(() => { btn.textContent = 'Copy to clipboard'; }, 2000);
+    setTimeout(function() { btn.textContent = 'Copy to clipboard'; }, 2000);
   });
+}
+
+function trackRequest() {
+  var county = document.getElementById('foia-county').value.trim();
+  var stateAbbr = document.getElementById('foia-state').value;
+  var today = new Date().toISOString().split('T')[0];
+
+  // Create a shareable tracking URL as a GitHub issue
+  var title = encodeURIComponent('FOIA sent: ' + county + ', ' + (FOIA_LAWS[stateAbbr]||{}).name + ' — ' + today);
+  var body = encodeURIComponent('I sent a public records request to ' + county + ', ' + (FOIA_LAWS[stateAbbr]||{}).name + ' on ' + today + '.\n\nRequest covers: consultant communications, closed-session agendas, IGSAs, financial analyses, sheriff correspondence.\n\n---\n_Logged via the FOIA request generator._');
+  var url = 'https://github.com/markramm/detention-pipeline/issues/new?title=' + title + '&body=' + body + '&labels=foia-sent';
+
+  document.getElementById('foia-tracked').style.display = '';
+  document.getElementById('foia-tracked-info').innerHTML = 'FOIA request to ' + county + ', ' + stateAbbr + ' on ' + today + '. <a href="' + url + '" target="_blank" rel="noopener" style="color:#2a8a5a;">Click here to log it publicly on GitHub →</a>';
+
+  document.getElementById('track-btn').textContent = 'Logged!';
+  document.getElementById('track-btn').disabled = true;
 }
 </script>
 {{ end }}

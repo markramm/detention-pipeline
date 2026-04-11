@@ -3,7 +3,7 @@ id: bradford-county-fl-douglas-building
 title: "Bradford County FL — 3,000-Bed IGSA Facility on Contaminated Site"
 type: county-fight
 county: Bradford
-state: Florida
+state: "FL"
 facility: bradford-county-douglas-building
 status: contested
 vote_tally: "3-2 (Jan 15, 2026) to advance proposal"

@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "Tremont, PA (central Pennsylvania)"
 county: "Schuylkill"
-state: "Pennsylvania"
+state: "PA"
 capacity: "7,500-10,000"
 operator: "ICE (federal)"
 contract_type: federal-purchase

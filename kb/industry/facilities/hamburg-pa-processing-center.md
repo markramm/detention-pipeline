@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "Hamburg, PA"
 county: Berks
-state: Pennsylvania
+state: "PA"
 capacity: "1,000-1,500 beds (processing center)"
 operator: "ICE (federal)"
 contract_type: federal-purchase

@@ -5,7 +5,7 @@ type: facility
 facility_type: purpose-built
 location: "Dade-Collier Training and Transition Airport, Ochopee, FL (Big Cypress National Preserve / Everglades)"
 county: "Miami-Dade/Collier"
-state: "Florida"
+state: "FL"
 capacity: "3,000-5,000"
 operator: "Florida Division of Emergency Management"
 contract_type: state-contract

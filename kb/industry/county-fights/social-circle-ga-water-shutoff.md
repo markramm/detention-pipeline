@@ -3,7 +3,7 @@ id: social-circle-ga-water-shutoff
 title: "Social Circle GA — City Locked the Water Meter to Block 10,000-Bed Mega Center"
 type: county-fight
 county: Walton
-state: Georgia
+state: "GA"
 facility: social-circle-ga-mega-center
 status: blocked
 outcome: "City locked the water meter because the facility's sewage demand (1M gal/day) exceeded the treatment plant's total capacity (660K gal/day). Facility cannot operate without municipal water."

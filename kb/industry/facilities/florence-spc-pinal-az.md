@@ -5,7 +5,7 @@ type: facility
 facility_type: processing-center
 location: "Florence, AZ"
 county: "Pinal"
-state: "Arizona"
+state: "AZ"
 capacity: "unknown"
 operator: "ICE (guard/food/transport by Akima Global Services)"
 contract_type: federal-purchase

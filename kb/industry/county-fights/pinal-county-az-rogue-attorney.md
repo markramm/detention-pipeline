@@ -3,7 +3,7 @@ id: pinal-county-az-rogue-attorney
 title: "Pinal County AZ — County Attorney Signs Rogue 287(g), Board Declares It Illegal"
 type: county-fight
 county: Pinal
-state: Arizona
+state: "AZ"
 facility: null
 status: litigation
 vote_tally: "Board of Supervisors unanimously declared agreement illegal and void"

@@ -3,7 +3,7 @@ id: durant-ok-choctaw-nation
 title: "Durant OK — Choctaw Nation Purchases Warehouse to Block ICE Detention Facility"
 type: county-fight
 location: "Durant, OK"
-state: "Oklahoma"
+state: "OK"
 outcome: blocked
 importance: 8
 tags:

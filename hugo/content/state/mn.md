@@ -4,5 +4,5 @@ type: state
 layout: single
 state_abbr: "MN"
 county_count: 17
-entry_count: 30
+entry_count: 31
 ---

@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "7525 Cogswell Street, Romulus, MI"
 county: "Wayne"
-state: "Michigan"
+state: "MI"
 capacity: "500"
 operator: "ICE (federal)"
 contract_type: federal-purchase

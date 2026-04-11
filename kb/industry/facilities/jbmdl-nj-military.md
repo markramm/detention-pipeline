@@ -5,7 +5,7 @@ type: facility
 facility_type: military-base
 location: "Joint Base McGuire-Dix-Lakehurst, NJ"
 county: "Burlington/Ocean"
-state: "New Jersey"
+state: "NJ"
 capacity: "1,000 (planned)"
 operator: "Department of Defense / DHS"
 contract_type: military-jurisdiction

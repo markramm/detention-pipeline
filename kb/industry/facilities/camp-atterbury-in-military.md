@@ -5,7 +5,7 @@ type: facility
 facility_type: military-base
 location: "Camp Atterbury, ~40 miles south of Indianapolis, IN"
 county: "Johnson/Bartholomew"
-state: "Indiana"
+state: "IN"
 capacity: "1,000 (planned)"
 operator: "Department of Defense / DHS"
 contract_type: military-jurisdiction

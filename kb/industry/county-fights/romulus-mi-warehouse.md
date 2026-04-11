@@ -3,7 +3,7 @@ id: romulus-mi-warehouse-fight
 title: "Romulus MI — State AG and City Sue to Block ICE Warehouse Near Schools"
 type: county-fight
 county: Wayne
-state: Michigan
+state: "MI"
 facility: romulus-mi-warehouse
 status: litigation
 vote_tally: "N/A — federal purchase, no local vote"

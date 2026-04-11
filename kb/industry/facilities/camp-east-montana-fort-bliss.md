@@ -5,7 +5,7 @@ type: facility
 facility_type: tent-facility
 location: "Fort Bliss, El Paso, TX"
 county: "El Paso"
-state: "Texas"
+state: "TX"
 capacity: "3,000+"
 operator: "ICE (contractor operated — operator being replaced as of March 2026)"
 contract_type: military-jurisdiction

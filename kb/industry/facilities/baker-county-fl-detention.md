@@ -5,7 +5,7 @@ type: facility
 facility_type: county-jail
 location: "Former Baker Correctional Institution, Sanderson, FL"
 county: "Baker"
-state: "Florida"
+state: "FL"
 capacity: "1,300+"
 operator: "GEO Group (joint venture management) / Baker County"
 contract_type: IGSA

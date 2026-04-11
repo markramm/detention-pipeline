@@ -3,7 +3,7 @@ id: palm-beach-fl-belly-of-the-beast
 title: "Palm Beach County FL — 'Belly of the Beast' Immigration Enforcement and Community Resistance"
 type: county-fight
 county: Palm Beach
-state: Florida
+state: "FL"
 facility: null
 status: operational-despite-opposition
 key_actors:

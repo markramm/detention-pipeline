@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "1879 Route 46, Roxbury, NJ"
 county: "Morris"
-state: "New Jersey"
+state: "NJ"
 capacity: "500-1,500"
 operator: "ICE (federal)"
 contract_type: federal-purchase

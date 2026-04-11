@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "14281 US Hwy 301 South, Starke, FL"
 county: Bradford County
-state: Florida
+state: "FL"
 capacity: "3,000 beds (phased: 1,000 → 2,000 → 3,000)"
 operator: "Bradford County Sheriff's Office (Sheriff Gordon Smith) / prime contractor TBD"
 contract_type: proposed

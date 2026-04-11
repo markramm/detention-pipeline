@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "Leavenworth, KS"
 county: "Leavenworth"
-state: "Kansas"
+state: "KS"
 capacity: "1,033"
 operator: "CoreCivic"
 contract_type: private-contract

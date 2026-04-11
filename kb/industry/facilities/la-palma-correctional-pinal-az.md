@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "Eloy, AZ"
 county: "Pinal"
-state: "Arizona"
+state: "AZ"
 capacity: "3,060"
 operator: "CoreCivic"
 contract_type: IGSA

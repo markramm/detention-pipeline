@@ -3,7 +3,7 @@ id: hanover-va-terminated
 title: "Hanover VA — Warehouse Owners Terminated Deal with ICE"
 type: county-fight
 county: Hanover
-state: Virginia
+state: "VA"
 status: blocked
 outcome: "Warehouse owners terminated the deal. Another seller-side block."
 importance: 6

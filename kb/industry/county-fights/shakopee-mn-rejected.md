@@ -3,7 +3,7 @@ id: shakopee-mn-rejected
 title: "Shakopee MN — Warehouse Owner Declined ICE Deal"
 type: county-fight
 county: Scott
-state: Minnesota
+state: "MN"
 status: blocked
 outcome: "Warehouse owner declined to sell to ICE. Community opposition made the deal politically toxic for the seller."
 importance: 6

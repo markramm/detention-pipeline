@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "Socorro, TX"
 county: "El Paso"
-state: "Texas"
+state: "TX"
 capacity: unknown
 operator: "ICE (federal)"
 contract_type: federal-purchase

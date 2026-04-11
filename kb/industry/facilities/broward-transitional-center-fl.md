@@ -5,7 +5,7 @@ type: facility
 facility_type: purpose-built
 location: "3900 North Powerline Road, Pompano Beach, FL 33073"
 county: "Broward"
-state: "Florida"
+state: "FL"
 capacity: "600"
 operator: "GEO Group"
 contract_type: IGSA

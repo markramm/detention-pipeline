@@ -4,5 +4,5 @@ type: state
 layout: single
 state_abbr: "IN"
 county_count: 18
-entry_count: 30
+entry_count: 31
 ---

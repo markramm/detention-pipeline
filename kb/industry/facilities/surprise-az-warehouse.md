@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "Surprise, AZ"
 county: "Maricopa"
-state: "Arizona"
+state: "AZ"
 capacity: "550"
 operator: "ICE (federal) — contractor lacks detention background"
 contract_type: federal-purchase

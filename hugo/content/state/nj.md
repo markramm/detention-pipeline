@@ -4,5 +4,5 @@ type: state
 layout: single
 state_abbr: "NJ"
 county_count: 14
-entry_count: 23
+entry_count: 27
 ---

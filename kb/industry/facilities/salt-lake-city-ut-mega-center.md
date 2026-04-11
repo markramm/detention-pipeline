@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "6020 W 300 S, Salt Lake City, UT"
 county: Salt Lake
-state: Utah
+state: "UT"
 capacity: "7,500-10,000 beds (mega center)"
 operator: "ICE (federal)"
 contract_type: federal-purchase

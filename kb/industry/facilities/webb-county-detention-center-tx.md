@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "4702 Highway 359, Laredo, TX 78046"
 county: "Webb"
-state: "Texas"
+state: "TX"
 capacity: "unknown"
 operator: "CoreCivic"
 contract_type: IGSA

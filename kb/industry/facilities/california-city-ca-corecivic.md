@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "California City, CA"
 county: "Kern"
-state: "California"
+state: "CA"
 capacity: "2,560"
 operator: "CoreCivic"
 contract_type: private-contract

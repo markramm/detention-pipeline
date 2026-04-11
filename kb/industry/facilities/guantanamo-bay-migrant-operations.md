@@ -5,7 +5,7 @@ type: facility
 facility_type: military-base
 location: "Naval Station Guantanamo Bay, Cuba"
 county: "N/A"
-state: "Cuba (US Naval Base)"
+state: "CU"
 capacity: "30,000 (planned) — currently minimal occupancy"
 operator: "Department of Defense / DHS"
 contract_type: military-jurisdiction

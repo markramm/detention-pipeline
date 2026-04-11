@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "South Kansas City, MO"
 county: Jackson
-state: Missouri
+state: "MO"
 capacity: "7,500 beds planned"
 operator: "ICE (federal) — never operational"
 contract_type: federal-purchase

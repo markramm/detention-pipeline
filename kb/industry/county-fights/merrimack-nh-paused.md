@@ -3,7 +3,7 @@ id: merrimack-nh-paused
 title: "Merrimack NH — ICE Processing Center Paused After Community Opposition"
 type: county-fight
 county: Hillsborough
-state: New Hampshire
+state: "NH"
 facility: merrimack-nh-warehouse
 status: blocked
 outcome: "Paused. Community opposition halted the project. The NH government released internal ICE planning documents that revealed the Detention Reengineering Initiative to the public for the first time."

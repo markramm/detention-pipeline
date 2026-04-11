@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "Newark, NJ"
 county: "Essex"
-state: "New Jersey"
+state: "NJ"
 capacity: "1,000"
 operator: "GEO Group"
 contract_type: private-contract

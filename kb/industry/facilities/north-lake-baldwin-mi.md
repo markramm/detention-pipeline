@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "Baldwin, MI"
 county: "Lake"
-state: "Michigan"
+state: "MI"
 capacity: "1,800"
 operator: "GEO Group"
 contract_type: private-contract

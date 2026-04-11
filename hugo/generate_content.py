@@ -85,6 +85,19 @@ STATE_NAMES = {
 
 FIPS_TO_COUNTY = {}
 
+# Reverse lookup: full state name → abbreviation
+_STATE_ABBR = {v.lower(): k for k, v in STATE_NAMES.items()}
+
+_STATE_ABBR_EXTRA = {"w. va.": "WV", "w.va.": "WV", "d.c.": "DC"}
+
+def normalize_state(s):
+    """Normalize state to 2-letter abbreviation."""
+    s = s.strip().strip('"').strip("'")
+    if len(s) == 2 and s.upper() in STATE_NAMES:
+        return s.upper()
+    low = s.lower()
+    return _STATE_ABBR.get(low, _STATE_ABBR_EXTRA.get(low, s))
+
 
 def load_fips():
     fips_path = Path("/tmp/county_fips.txt")
@@ -145,7 +158,7 @@ def parse_entry(filepath):
             elif bline.startswith("State:") and not fields.get("state"):
                 v = bline.split(":", 1)[1].strip()
                 if v:
-                    fields["state"] = v
+                    fields["state"] = normalize_state(v)
             elif bline.startswith("County:") and not fields.get("county"):
                 v = bline.split(":", 1)[1].strip()
                 if v:
@@ -282,7 +295,7 @@ def generate_all_pages(parsed_entries, heat_data):
         entry_type = fields.get("type", "unknown")
         title = normalize_title(fields.get("title", entry_id))
         fips = fields.get("fips", "")
-        state = fields.get("state", "")
+        state = normalize_state(fields.get("state", ""))
         county = fields.get("county", "")
 
         meta = ENTRY_TYPE_META.get(entry_type, {"label": entry_type, "color": "#666", "section": "entry"})

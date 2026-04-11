@@ -5,7 +5,7 @@ type: facility
 facility_type: purpose-built
 location: "Former England Air Force Base, Alexandria, LA"
 county: Rapides
-state: Louisiana
+state: "LA"
 capacity: "400 beds (1,000+ people cycle through weekly)"
 operator: "GEO Group"
 contract_type: private-contract

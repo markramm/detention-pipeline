@@ -3,7 +3,7 @@ id: kansas-city-mo-platform-ventures
 title: "Kansas City MO — Platform Ventures Warehouse Deal Blocked by Community Pressure"
 type: county-fight
 county: Jackson
-state: Missouri
+state: "MO"
 facility: kansas-city-mo-mega-center
 status: blocked
 vote_tally: "City Council blocked permits unanimously after ICE tour"

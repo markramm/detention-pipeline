@@ -5,7 +5,7 @@ type: facility
 facility_type: purpose-built
 location: "Jena, LA"
 county: LaSalle
-state: Louisiana
+state: "LA"
 capacity: "1,160 beds"
 operator: "GEO Group"
 contract_type: private-contract

@@ -1,8 +1,0 @@
----
-title: "New Jersey"
-type: state
-layout: single
-state_abbr: "New Jersey"
-county_count: 0
-entry_count: 4
----

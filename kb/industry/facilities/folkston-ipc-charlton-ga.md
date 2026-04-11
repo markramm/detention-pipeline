@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "Folkston, GA (45 miles southwest of Brunswick)"
 county: "Charlton"
-state: "Georgia"
+state: "GA"
 capacity: "3,000 (post-merger)"
 operator: "GEO Group"
 contract_type: IGSA

@@ -5,7 +5,7 @@ type: facility
 facility_type: military-base
 location: "Camp Blanding Joint Training Center, near Starke, FL"
 county: "Clay"
-state: "Florida"
+state: "FL"
 capacity: "2,000"
 operator: "Florida Division of Emergency Management / National Guard"
 contract_type: state-contract

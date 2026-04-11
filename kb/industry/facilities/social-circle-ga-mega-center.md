@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "Social Circle, GA (50 miles east of Atlanta)"
 county: "Walton"
-state: "Georgia"
+state: "GA"
 capacity: "7,500-10,000"
 operator: "ICE (federal)"
 contract_type: federal-purchase

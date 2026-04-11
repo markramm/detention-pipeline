@@ -5,7 +5,7 @@ type: facility
 facility_type: county-jail
 location: "Glades County Jail, Moore Haven, FL"
 county: "Glades"
-state: "Florida"
+state: "FL"
 capacity: "500"
 operator: "Glades County Board of County Commissioners"
 contract_type: IGSA

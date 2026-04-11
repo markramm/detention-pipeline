@@ -5,7 +5,7 @@ type: facility
 facility_type: warehouse-conversion
 location: "50 Robert Milligan Parkway, Merrimack, NH"
 county: "Hillsborough"
-state: "New Hampshire"
+state: "NH"
 capacity: "500-1,500"
 operator: "ICE (federal)"
 contract_type: federal-purchase

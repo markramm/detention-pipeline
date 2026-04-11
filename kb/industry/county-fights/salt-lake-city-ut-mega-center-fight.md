@@ -3,7 +3,7 @@ id: salt-lake-city-ut-mega-center-fight
 title: "Salt Lake City UT — Protests, Water Restrictions, and Mayor Opposition to 10,000-Bed Mega Center"
 type: county-fight
 county: Salt Lake
-state: Utah
+state: "UT"
 facility: salt-lake-city-ut-mega-center
 status: contested
 outcome: "Ongoing. City imposed water use restrictions (following Social Circle model). Hundreds protested, 3 arrested. Mayor vowed to 'use every tool at the City's disposal.' $145.4M purchase completed — federal preemption limits city options."
