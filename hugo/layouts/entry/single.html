@@ -10,11 +10,18 @@
 
 <div class="page-content">
   <div style="padding-top:24px; max-width:720px;">
-    <div style="margin-bottom:6px;">
+    <div style="margin-bottom:6px; display:flex; gap:6px; flex-wrap:wrap;">
       <span class="signal-badge">
         <span class="signal-dot" style="background:{{ .Params.signal_color }};"></span>
         {{ .Params.signal_label }}
       </span>
+      {{/* Data source tier badge */}}
+      {{ $etype := .Params.entry_type }}
+      {{ if or (eq $etype "287g-agreement") (eq $etype "anc-contract") (eq $etype "igsa") (eq $etype "budget-distress") }}
+      <span class="signal-badge" style="font-size:9px;" title="This entry was generated from a public database. The data is reliable but no one has investigated locally.">Automated source</span>
+      {{ else }}
+      <span class="signal-badge" style="font-size:9px; background:rgba(42,138,90,0.06); border-color:rgba(42,138,90,0.15); color:#2a8a5a;" title="This entry was written from human research — news coverage, public records, or investigative findings.">Researched</span>
+      {{ end }}
     </div>
     <h1 class="serif" style="font-size:26px; font-weight:400; letter-spacing:-0.01em; margin-bottom:8px;">{{ .Title }}</h1>
     <div class="mono dim small" style="margin-bottom:20px;">

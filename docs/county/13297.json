@@ -1,0 +1,16 @@
+{
+  "fips": "13297",
+  "county": "Walton County, GA",
+  "state": "GA",
+  "score": 61,
+  "signal_types": 3,
+  "rank": 53,
+  "total_counties": 986,
+  "percentile": 95,
+  "coverage": "partially-researched",
+  "auto_summary": "Walton County, GA shows 1 287(g) agreement, and communications discipline pattern.",
+  "entry_types": {
+    "287g-agreement": 1,
+    "comms-discipline": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fips": "30065",
+  "county": "Musselshell County, MT",
+  "state": "MT",
+  "score": 17,
+  "signal_types": 2,
+  "rank": 637,
+  "total_counties": 986,
+  "percentile": 35,
+  "coverage": "unresearched",
+  "auto_summary": "Musselshell County, MT shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

@@ -93,9 +93,11 @@
         <td class="mono dim">{{ add $i 1 }}</td>
         <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
         <td>
+          <a href="/methodology/#how-the-score-works" style="text-decoration:none;" title="How scores are calculated">
           <span class="score-pill {{ cond (ge .Params.score 70.0) "score-hot" (cond (ge .Params.score 40.0) "score-warm" (cond (ge .Params.score 15.0) "score-mid" "score-low")) }}">
             {{ .Params.score }}
           </span>
+          </a>
         </td>
         <td class="mono dim">{{ .Params.signal_types }}</td>
         <td>

@@ -1,0 +1,16 @@
+{
+  "fips": "48201",
+  "county": "Harris County, TX",
+  "state": "TX",
+  "score": 59,
+  "signal_types": 3,
+  "rank": 57,
+  "total_counties": 986,
+  "percentile": 94,
+  "coverage": "partially-researched",
+  "auto_summary": "Harris County, TX shows 3 ANC contracts, and 2 real estate traces.",
+  "entry_types": {
+    "anc-contract": 3,
+    "real-estate-trace": 2
+  }
+}

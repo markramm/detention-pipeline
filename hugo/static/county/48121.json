@@ -1,0 +1,16 @@
+{
+  "fips": "48121",
+  "county": "Denton County, TX",
+  "state": "TX",
+  "score": 23,
+  "signal_types": 2,
+  "rank": 358,
+  "total_counties": 986,
+  "percentile": 64,
+  "coverage": "partially-researched",
+  "auto_summary": "Denton County, TX shows 2 287(g) agreements, and 1 real estate trace.",
+  "entry_types": {
+    "287g-agreement": 2,
+    "real-estate-trace": 1
+  }
+}

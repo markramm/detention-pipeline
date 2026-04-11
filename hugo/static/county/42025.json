@@ -1,0 +1,15 @@
+{
+  "fips": "42025",
+  "county": "Carbon County, PA",
+  "state": "PA",
+  "score": 31,
+  "signal_types": 2,
+  "rank": 225,
+  "total_counties": 986,
+  "percentile": 77,
+  "coverage": "unresearched",
+  "auto_summary": "Carbon County, PA shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

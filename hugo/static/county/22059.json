@@ -1,0 +1,15 @@
+{
+  "fips": "22059",
+  "county": "LaSalle Parish, LA",
+  "state": "LA",
+  "score": 59,
+  "signal_types": 3,
+  "rank": 54,
+  "total_counties": 986,
+  "percentile": 95,
+  "coverage": "unresearched",
+  "auto_summary": "LaSalle Parish, LA shows 2 existing IGSA facilities.",
+  "entry_types": {
+    "igsa": 2
+  }
+}

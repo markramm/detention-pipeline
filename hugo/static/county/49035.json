@@ -1,0 +1,16 @@
+{
+  "fips": "49035",
+  "county": "Salt Lake County, UT",
+  "state": "UT",
+  "score": 22,
+  "signal_types": 2,
+  "rank": 359,
+  "total_counties": 986,
+  "percentile": 64,
+  "coverage": "unresearched",
+  "auto_summary": "Salt Lake County, UT shows 1 287(g) agreement, and 1 ANC contract.",
+  "entry_types": {
+    "287g-agreement": 1,
+    "anc-contract": 1
+  }
+}

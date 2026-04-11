@@ -1,0 +1,18 @@
+{
+  "fips": "48479",
+  "county": "Webb County, TX",
+  "state": "TX",
+  "score": 99,
+  "signal_types": 4,
+  "rank": 8,
+  "total_counties": 986,
+  "percentile": 99,
+  "coverage": "partially-researched",
+  "auto_summary": "Webb County, TX shows 2 existing IGSA facilities, 1 287(g) agreement, 3 ANC contracts, and detention consultant job posting.",
+  "entry_types": {
+    "287g-agreement": 1,
+    "anc-contract": 3,
+    "igsa": 2,
+    "job-posting": 2
+  }
+}

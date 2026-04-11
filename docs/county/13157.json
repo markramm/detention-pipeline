@@ -1,0 +1,15 @@
+{
+  "fips": "13157",
+  "county": "Jackson County, GA",
+  "state": "GA",
+  "score": 59,
+  "signal_types": 3,
+  "rank": 56,
+  "total_counties": 986,
+  "percentile": 94,
+  "coverage": "partially-researched",
+  "auto_summary": "Jackson County, GA shows 2 real estate traces.",
+  "entry_types": {
+    "real-estate-trace": 2
+  }
+}

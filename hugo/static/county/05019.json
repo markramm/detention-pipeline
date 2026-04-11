@@ -1,0 +1,15 @@
+{
+  "fips": "05019",
+  "county": "Clark County, AR",
+  "state": "AR",
+  "score": 7,
+  "signal_types": 1,
+  "rank": 936,
+  "total_counties": 986,
+  "percentile": 5,
+  "coverage": "unresearched",
+  "auto_summary": "Clark County, AR shows 1 287(g) agreement.",
+  "entry_types": {
+    "287g-agreement": 1
+  }
+}

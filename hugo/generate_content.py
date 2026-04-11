@@ -438,6 +438,26 @@ states: ["{state}"]
 ---
 """)
 
+        # Write JSON endpoint
+        json_dir = STATIC_PATH / "county"
+        json_dir.mkdir(parents=True, exist_ok=True)
+        json_path = json_dir / f"{fips}.json"
+        county_json = {
+            "fips": fips,
+            "county": county_name,
+            "state": state,
+            "score": score,
+            "signal_types": signal_types,
+            "rank": rank,
+            "total_counties": total,
+            "percentile": percentile,
+            "coverage": coverage,
+            "auto_summary": auto_summary,
+            "entry_types": dict(type_counts),
+        }
+        with open(json_path, "w") as jf:
+            json.dump(county_json, jf, indent=2)
+
 
 def generate_section_indexes(entries_by_type, all_entries, heat_data):
     """Generate section index pages."""
@@ -532,11 +552,10 @@ max_score: {heat_data[0]['score'] if heat_data else 0}
 ---
 """)
 
-    # County list index
+    # County list index — no type override so Hugo uses county/ templates
     with open(CONTENT_PATH / "county" / "_index.md", "w") as f:
         f.write(f"""---
 title: "All Tracked Counties"
-type: county_list
 layout: list
 ---
 """)
@@ -579,10 +598,14 @@ layout: list
 
 def generate_static_pages():
     """Generate methodology and contribute pages."""
-    for name, layout in [("methodology", "methodology"), ("contribute", "contribute"), ("foia", "foia")]:
+    STATIC_TITLES = {
+        "tactics": "Playbook & Counter-Playbook",
+    }
+    for name, layout in [("methodology", "methodology"), ("contribute", "contribute"), ("foia", "foia"), ("tactics", "tactics")]:
+        title = STATIC_TITLES.get(name, name.title())
         with open(CONTENT_PATH / f"{name}.md", "w") as f:
             f.write(f"""---
-title: "{name.title()}"
+title: "{title}"
 type: page
 layout: {layout}
 ---

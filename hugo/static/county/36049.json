@@ -1,0 +1,15 @@
+{
+  "fips": "36049",
+  "county": "Lewis County, NY",
+  "state": "NY",
+  "score": 17,
+  "signal_types": 2,
+  "rank": 641,
+  "total_counties": 986,
+  "percentile": 35,
+  "coverage": "unresearched",
+  "auto_summary": "Lewis County, NY shows 1 existing IGSA facility.",
+  "entry_types": {
+    "igsa": 1
+  }
+}

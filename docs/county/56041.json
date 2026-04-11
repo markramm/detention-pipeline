@@ -1,0 +1,15 @@
+{
+  "fips": "56041",
+  "county": "Uinta County, WY",
+  "state": "WY",
+  "score": 6,
+  "signal_types": 1,
+  "rank": 986,
+  "total_counties": 986,
+  "percentile": 0,
+  "coverage": "partially-researched",
+  "auto_summary": "Uinta County, WY shows sheriff network activity.",
+  "entry_types": {
+    "sheriff-network": 1
+  }
+}

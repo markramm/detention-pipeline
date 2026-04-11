@@ -1,0 +1,15 @@
+{
+  "fips": "51013",
+  "county": "Arlington County, VA",
+  "state": "VA",
+  "score": 24,
+  "signal_types": 1,
+  "rank": 351,
+  "total_counties": 986,
+  "percentile": 64,
+  "coverage": "unresearched",
+  "auto_summary": "Arlington County, VA shows 3 ANC contracts.",
+  "entry_types": {
+    "anc-contract": 3
+  }
+}

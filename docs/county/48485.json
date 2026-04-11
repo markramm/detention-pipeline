@@ -1,0 +1,15 @@
+{
+  "fips": "48485",
+  "county": "Wichita County, TX",
+  "state": "TX",
+  "score": 21,
+  "signal_types": 1,
+  "rank": 392,
+  "total_counties": 986,
+  "percentile": 60,
+  "coverage": "unresearched",
+  "auto_summary": "Wichita County, TX shows 2 287(g) agreements.",
+  "entry_types": {
+    "287g-agreement": 2
+  }
+}

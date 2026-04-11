@@ -1,0 +1,15 @@
+{
+  "fips": "01123",
+  "county": "Tallapoosa County, AL",
+  "state": "AL",
+  "score": 14,
+  "signal_types": 1,
+  "rank": 748,
+  "total_counties": 986,
+  "percentile": 24,
+  "coverage": "unresearched",
+  "auto_summary": "Tallapoosa County, AL shows 2 287(g) agreements.",
+  "entry_types": {
+    "287g-agreement": 2
+  }
+}

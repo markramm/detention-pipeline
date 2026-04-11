@@ -1,0 +1,15 @@
+{
+  "fips": "48401",
+  "county": "Rusk County, TX",
+  "state": "TX",
+  "score": 21,
+  "signal_types": 1,
+  "rank": 458,
+  "total_counties": 986,
+  "percentile": 54,
+  "coverage": "unresearched",
+  "auto_summary": "Rusk County, TX shows 2 287(g) agreements.",
+  "entry_types": {
+    "287g-agreement": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fips": "37145",
+  "county": "Person County, NC",
+  "state": "NC",
+  "score": 7,
+  "signal_types": 1,
+  "rank": 916,
+  "total_counties": 986,
+  "percentile": 7,
+  "coverage": "unresearched",
+  "auto_summary": "Person County, NC shows 1 287(g) agreement.",
+  "entry_types": {
+    "287g-agreement": 1
+  }
+}
