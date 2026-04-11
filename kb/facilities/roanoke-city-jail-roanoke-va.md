@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Roanoke City Jail in Roanoke County, VA. Average daily population: 3.

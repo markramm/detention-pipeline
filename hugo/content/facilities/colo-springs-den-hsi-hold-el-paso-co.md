@@ -10,6 +10,7 @@ repo_path: "kb/facilities/colo-springs-den-hsi-hold-el-paso-co.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in El Paso, CO."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Colo Springs Den HSI Hold"
 operator: ""

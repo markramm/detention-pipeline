@@ -20,5 +20,6 @@ tags:
 - hold
 - wa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Seattle Field Office Hold Room in King County, WA. Average daily population: 4.

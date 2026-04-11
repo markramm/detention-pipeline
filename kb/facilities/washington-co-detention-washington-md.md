@@ -20,5 +20,6 @@ tags:
 - detention
 - md
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Washington Co. Detention in Washington County, MD. Average daily population: 1.

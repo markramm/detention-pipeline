@@ -19,5 +19,6 @@ tags:
 - igsa
 - nc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Wake County Sheriff Dept. in Wake County, NC.

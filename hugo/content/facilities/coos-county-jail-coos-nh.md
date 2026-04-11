@@ -10,6 +10,7 @@ repo_path: "kb/facilities/coos-county-jail-coos-nh.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Coos, NH."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Coos County Jail"
 operator: ""

@@ -19,5 +19,6 @@ tags:
 - igsa
 - ks
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Rice County Det Center in Rice County, KS.

@@ -7,6 +7,10 @@ tags:
 - jem
 - ut
 importance: 5
+state: "UT"
+county: "Sevier County"
+fips: "49041"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Sevier County Sheriff’s Office.

@@ -7,6 +7,10 @@ tags:
 - tfm
 - pa
 importance: 5
+state: "PA"
+county: "Somerset County"
+fips: "42111"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Addison Borough Constable’s Office.

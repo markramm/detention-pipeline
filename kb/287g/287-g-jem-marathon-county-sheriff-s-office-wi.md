@@ -7,6 +7,10 @@ tags:
 - jem
 - wi
 importance: 5
+state: "WI"
+county: "Marathon County"
+fips: "55073"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Marathon County Sheriff’s Office.

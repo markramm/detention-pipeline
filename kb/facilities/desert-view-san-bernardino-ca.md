@@ -20,5 +20,6 @@ tags:
 - cdf
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: Desert View in San Bernardino County, CA. Average daily population: 437.

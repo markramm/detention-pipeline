@@ -20,5 +20,6 @@ tags:
 - hold
 - il
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Rock Island Hold Room in Rock Island County, IL. Average daily population: 2.

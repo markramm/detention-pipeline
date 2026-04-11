@@ -7,6 +7,10 @@ tags:
 - jem
 - nc
 importance: 5
+state: "NC"
+county: "Henderson County"
+fips: "37089"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Henderson County Sheriff’s Office.

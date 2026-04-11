@@ -20,5 +20,6 @@ tags:
 - igsa
 - nc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: New Hanover Co Det Center in New Hanover County, NC. Average daily population: 6.

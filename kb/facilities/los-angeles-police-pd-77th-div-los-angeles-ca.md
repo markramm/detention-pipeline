@@ -19,5 +19,6 @@ tags:
 - unknown
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Los Angeles Police PD 77th Div. in Los Angeles County, CA.

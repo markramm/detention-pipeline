@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - wi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Dodge County Jail, Juneau in Dodge County, WI. Average daily population: 109.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/plymouth-co-cor-facilty-plymouth-ma.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Plymouth, MA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Plymouth Co Cor Facilty"
 operator: ""

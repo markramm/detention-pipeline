@@ -7,6 +7,10 @@ tags:
 - wso
 - tn
 importance: 5
+state: "TN"
+county: "Macon County"
+fips: "47111"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Macon County Sheriff’s Office.

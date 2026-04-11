@@ -7,9 +7,10 @@ fips: "18133"
 state: "IN"
 county: "Putnam County"
 repo_path: "kb/287g/287-g-jem-indiana-department-of-corrections-in.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) JEM agreement between ICE and Indiana Department of Corrections, signed August 6, 2025."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

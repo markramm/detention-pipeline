@@ -20,5 +20,6 @@ tags:
 - hold
 - ok
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Oklahoma City Hold Room. in Oklahoma County, OK. Average daily population: 19.

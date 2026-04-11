@@ -10,6 +10,7 @@ repo_path: "kb/facilities/lexinton-fedmed-center-fayette-ky.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Fayette, KY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Lexinton Fed.Med Center"
 operator: ""

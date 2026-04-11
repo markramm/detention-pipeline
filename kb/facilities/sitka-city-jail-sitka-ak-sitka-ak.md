@@ -19,5 +19,6 @@ tags:
 - igsa
 - ak
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Sitka City Jail, Sitka AK in Sitka County, AK.

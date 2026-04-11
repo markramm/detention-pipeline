@@ -19,5 +19,6 @@ tags:
 - hold
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Corpus Christi EOR Hold Room in Nueces County, TX. Average daily population: 3.

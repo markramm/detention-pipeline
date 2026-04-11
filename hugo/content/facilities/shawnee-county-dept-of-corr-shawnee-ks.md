@@ -10,6 +10,7 @@ repo_path: "kb/facilities/shawnee-county-dept-of-corr-shawnee-ks.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Shawnee, KS."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Shawnee County Dept Of Corr."
 operator: ""

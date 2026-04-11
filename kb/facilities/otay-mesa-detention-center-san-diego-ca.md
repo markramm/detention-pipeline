@@ -20,5 +20,6 @@ tags:
 - cdf
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: Otay Mesa Detention Center in San Diego County, CA. Average daily population: 1195.

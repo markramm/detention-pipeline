@@ -10,6 +10,7 @@ repo_path: "kb/facilities/nassau-co-correc-center-nassau-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Nassau, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Nassau Co Correc Center"
 operator: ""

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/twin-falls-county-jail-twin-falls-id.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Twin Falls, ID."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Twin Falls County Jail"
 operator: ""

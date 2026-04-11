@@ -19,5 +19,6 @@ tags:
 - igsa
 - ut
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Summit County Jail in Summit County, UT.

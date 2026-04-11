@@ -20,5 +20,6 @@ tags:
 - unknown
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: St. John's County Jail in St. Johns County, FL. Average daily population: 9.

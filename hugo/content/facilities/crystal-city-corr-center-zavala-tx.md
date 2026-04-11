@@ -10,6 +10,7 @@ repo_path: "kb/facilities/crystal-city-corr-center-zavala-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Zavala, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Crystal City Corr. Center"
 operator: ""

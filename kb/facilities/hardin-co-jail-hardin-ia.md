@@ -20,5 +20,6 @@ tags:
 - igsa
 - ia
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Hardin Co Jail in Hardin County, IA. Average daily population: 47.

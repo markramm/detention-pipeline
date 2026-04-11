@@ -10,6 +10,7 @@ repo_path: "kb/facilities/az-rem-op-coord-center-arocc-maricopa-az.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Maricopa, AZ."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "AZ Rem Op Coord Center (AROCC)"
 operator: ""

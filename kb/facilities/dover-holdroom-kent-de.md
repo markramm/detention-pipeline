@@ -20,5 +20,6 @@ tags:
 - hold
 - de
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Dover Holdroom in Kent County, DE. Average daily population: 3.

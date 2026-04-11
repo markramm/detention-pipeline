@@ -19,5 +19,6 @@ tags:
 - igsa
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Mohave Co Corr Center in Mohave County, AZ.

@@ -20,5 +20,6 @@ tags:
 - igsa
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: San Luis Regional Det Center in Yuma County, AZ. Average daily population: 193.

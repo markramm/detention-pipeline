@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ar
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Sebastian County Det Cnt in Sebastian County, AR. Average daily population: 3.

@@ -20,5 +20,6 @@ tags:
 - igsa
 - md
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Carroll County Detention Center in Carroll County, MD. Average daily population: 1.

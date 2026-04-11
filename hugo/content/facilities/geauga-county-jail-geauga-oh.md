@@ -10,6 +10,7 @@ repo_path: "kb/facilities/geauga-county-jail-geauga-oh.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Geauga, OH."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Geauga County Jail"
 operator: ""

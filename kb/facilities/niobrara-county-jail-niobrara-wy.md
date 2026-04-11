@@ -19,5 +19,6 @@ tags:
 - igsa
 - wy
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Niobrara County Jail in Niobrara County, WY.

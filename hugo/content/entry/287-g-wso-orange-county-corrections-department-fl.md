@@ -7,9 +7,10 @@ fips: "12095"
 state: "FL"
 county: "Orange County"
 repo_path: "kb/287g/287-g-wso-orange-county-corrections-department-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) WSO agreement between ICE and Orange County Corrections Department, signed February 26, 2025."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

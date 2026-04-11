@@ -20,5 +20,6 @@ tags:
 - igsa
 - ok
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Okmulgee County Jail in Okmulgee County, OK. Average daily population: 1.

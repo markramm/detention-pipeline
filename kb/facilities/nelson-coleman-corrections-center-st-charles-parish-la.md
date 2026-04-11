@@ -20,5 +20,6 @@ tags:
 - unknown
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Nelson Coleman Corrections Center in St. Charles Parish County, LA. Average daily population: 4.

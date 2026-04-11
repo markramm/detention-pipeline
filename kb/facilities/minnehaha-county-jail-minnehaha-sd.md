@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - sd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Minnehaha County Jail in Minnehaha County, SD. Average daily population: 6.

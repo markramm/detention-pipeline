@@ -7,9 +7,10 @@ fips: "08117"
 state: "CO"
 county: "SUMMIT"
 repo_path: "kb/anc/ardent-group-llc-ice-summit-co-9296000.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to ARDENT GROUP, LLC in CO ($9,296,000.00)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

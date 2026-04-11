@@ -20,5 +20,6 @@ tags:
 - cbp
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CBP facility: Ursula Centralized Processing Cntr in Hidalgo County, TX. Average daily population: 2.

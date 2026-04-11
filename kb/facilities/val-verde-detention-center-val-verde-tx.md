@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Val Verde Detention Center in Val Verde County, TX. Average daily population: 8.

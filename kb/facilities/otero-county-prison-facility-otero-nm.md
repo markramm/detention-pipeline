@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Otero County Prison Facility in Otero County, NM.

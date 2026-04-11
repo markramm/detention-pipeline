@@ -20,5 +20,6 @@ tags:
 - juvenile
 - wy
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Natrona Co. Juv. Det. Center in Natrona County, WY. Average daily population: 1.

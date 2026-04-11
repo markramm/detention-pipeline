@@ -10,6 +10,7 @@ repo_path: "kb/facilities/alamance-co-det-facility-alamance-nc.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Alamance, NC."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Alamance Co. Det. Facility"
 operator: ""

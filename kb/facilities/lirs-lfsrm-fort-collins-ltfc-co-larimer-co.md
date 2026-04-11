@@ -19,5 +19,6 @@ tags:
 - detention
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: LIRS - LFSRM Fort Collins LTFC CO in Larimer County, CO.

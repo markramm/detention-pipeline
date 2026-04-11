@@ -10,6 +10,7 @@ repo_path: "kb/facilities/elkhart-county-jail-elkhart-in.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Elkhart, IN."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Elkhart County Jail"
 operator: ""

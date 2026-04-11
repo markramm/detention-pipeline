@@ -10,6 +10,7 @@ repo_path: "kb/facilities/port-isabel-police-dept-cameron-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Cameron, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Port Isabel Police Dept."
 operator: ""

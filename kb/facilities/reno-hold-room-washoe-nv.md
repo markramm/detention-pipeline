@@ -20,5 +20,6 @@ tags:
 - hold
 - nv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Reno Hold Room in Washoe County, NV. Average daily population: 1.

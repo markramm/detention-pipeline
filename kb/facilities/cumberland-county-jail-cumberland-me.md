@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - me
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Cumberland County Jail in Cumberland County, ME. Average daily population: 58.

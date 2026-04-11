@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: La Plata County Jail in La Plata County, CO.

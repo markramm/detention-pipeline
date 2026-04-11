@@ -20,5 +20,6 @@ tags:
 - other
 - nd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Pierce County Jail in Pierce County, ND. Average daily population: 1.

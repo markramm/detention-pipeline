@@ -10,6 +10,7 @@ repo_path: "kb/facilities/manatee-county-detention-annex-manatee-fl.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Manatee, FL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Manatee County Detention-Annex"
 operator: ""

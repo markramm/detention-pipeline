@@ -20,5 +20,6 @@ tags:
 - cdf
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: Denver Contract Det. Fac. in Adams County, CO. Average daily population: 1332.

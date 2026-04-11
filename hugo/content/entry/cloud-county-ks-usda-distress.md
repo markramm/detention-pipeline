@@ -10,6 +10,7 @@ repo_path: "kb/budget/cloud-county-ks-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Cloud County, KS."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

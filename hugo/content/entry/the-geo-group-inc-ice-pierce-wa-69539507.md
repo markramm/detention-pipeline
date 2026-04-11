@@ -7,9 +7,10 @@ fips: "53053"
 state: "WA"
 county: "PIERCE"
 repo_path: "kb/anc/the-geo-group-inc-ice-pierce-wa-69539507.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in WA ($69,539,507.19)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

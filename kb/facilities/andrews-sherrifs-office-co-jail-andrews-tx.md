@@ -19,5 +19,6 @@ tags:
 - other
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Andrews Sherrif's Office Co Jail in Andrews County, TX.

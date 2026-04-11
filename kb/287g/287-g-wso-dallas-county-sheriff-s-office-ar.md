@@ -7,6 +7,10 @@ tags:
 - wso
 - ar
 importance: 5
+state: "AR"
+county: "Dallas County"
+fips: "05039"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Dallas County Sheriff’s Office.

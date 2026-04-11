@@ -20,5 +20,6 @@ tags:
 - igsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Allen Parish Public Safety Complex in Allen County, LA. Average daily population: 115.

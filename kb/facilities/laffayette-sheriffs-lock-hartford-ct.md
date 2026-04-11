@@ -19,5 +19,6 @@ tags:
 - hold
 - ct
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Laffayette Sheriff's Lock in Hartford County, CT.

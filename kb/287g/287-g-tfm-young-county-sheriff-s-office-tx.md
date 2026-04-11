@@ -7,6 +7,10 @@ tags:
 - tfm
 - tx
 importance: 5
+state: "TX"
+county: "Young County"
+fips: "48503"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Young County Sheriff’s Office.

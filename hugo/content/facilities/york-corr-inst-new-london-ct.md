@@ -10,6 +10,7 @@ repo_path: "kb/facilities/york-corr-inst-new-london-ct.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in New London, CT."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "York Corr Inst"
 operator: ""

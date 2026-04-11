@@ -20,5 +20,6 @@ tags:
 - detention
 - ky
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Woodford County Sheriff/Jail in Woodford County, KY. Average daily population: 1.

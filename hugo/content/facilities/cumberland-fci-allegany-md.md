@@ -10,6 +10,7 @@ repo_path: "kb/facilities/cumberland-fci-allegany-md.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Allegany, MD."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Cumberland FCI"
 operator: ""

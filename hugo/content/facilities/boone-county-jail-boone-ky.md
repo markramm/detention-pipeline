@@ -10,6 +10,7 @@ repo_path: "kb/facilities/boone-county-jail-boone-ky.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Boone, KY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Boone County Jail"
 operator: ""

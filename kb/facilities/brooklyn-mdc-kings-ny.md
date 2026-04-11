@@ -20,5 +20,6 @@ tags:
 - bop
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Brooklyn MDC in Kings County, NY. Average daily population: 193.

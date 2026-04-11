@@ -19,5 +19,6 @@ tags:
 - igsa
 - ne
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Douglas County Correction in Douglas County, NE.

@@ -20,5 +20,6 @@ tags:
 - igsa
 - wy
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Campbell County Jail in Campbell County, WY. Average daily population: 2.

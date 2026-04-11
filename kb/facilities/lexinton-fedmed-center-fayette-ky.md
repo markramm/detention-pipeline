@@ -20,5 +20,6 @@ tags:
 - bop
 - ky
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Lexinton Fed.Med Center in Fayette County, KY. Average daily population: 2.

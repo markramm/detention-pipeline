@@ -10,6 +10,7 @@ repo_path: "kb/facilities/albany-holdroom-albany-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Albany, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Albany Holdroom"
 operator: ""

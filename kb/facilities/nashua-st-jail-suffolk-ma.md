@@ -19,5 +19,6 @@ tags:
 - unknown
 - ma
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Nashua St. Jail in Suffolk County, MA.

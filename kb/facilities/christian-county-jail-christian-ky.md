@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ky
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Christian County Jail in Christian County, KY. Average daily population: 121.

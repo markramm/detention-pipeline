@@ -19,5 +19,6 @@ tags:
 - other
 - sc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Anderson County Det Center in Anderson County, SC.

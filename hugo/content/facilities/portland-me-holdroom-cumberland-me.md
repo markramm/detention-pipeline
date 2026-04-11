@@ -10,6 +10,7 @@ repo_path: "kb/facilities/portland-me-holdroom-cumberland-me.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Cumberland, ME."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Portland, ME Holdroom"
 operator: ""

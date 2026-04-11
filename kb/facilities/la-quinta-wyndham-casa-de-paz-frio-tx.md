@@ -18,5 +18,6 @@ tags:
 - family-staging
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Family Staging facility: La Quinta Wyndham Casa De Paz in Frio County, TX.

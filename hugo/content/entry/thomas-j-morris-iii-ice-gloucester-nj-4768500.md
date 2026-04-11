@@ -7,9 +7,10 @@ fips: "34015"
 state: "NJ"
 county: "GLOUCESTER"
 repo_path: "kb/anc/thomas-j-morris-iii-ice-gloucester-nj-4768500.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to THOMAS J. MORRIS III in NJ ($4,768,500.00)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

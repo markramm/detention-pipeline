@@ -20,5 +20,6 @@ tags:
 - hold
 - ne
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Omaha FO Hold in Douglas County, NE. Average daily population: 23.

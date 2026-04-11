@@ -7,9 +7,10 @@ fips: "12011"
 state: "FL"
 county: "BROWARD"
 repo_path: "kb/anc/the-geo-group-inc-ice-broward-fl-39209370.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in FL ($39,209,369.78)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

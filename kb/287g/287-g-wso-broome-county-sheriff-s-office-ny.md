@@ -7,6 +7,10 @@ tags:
 - wso
 - ny
 importance: 5
+state: "NY"
+county: "Broome County"
+fips: "36007"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Broome County Sheriff’s Office.

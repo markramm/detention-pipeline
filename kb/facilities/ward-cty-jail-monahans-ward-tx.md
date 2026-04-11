@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Ward Cty Jail, Monahans in Ward County, TX.

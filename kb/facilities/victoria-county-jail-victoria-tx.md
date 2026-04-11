@@ -19,5 +19,6 @@ tags:
 - igsa
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Victoria County Jail in Victoria County, TX.

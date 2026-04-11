@@ -10,6 +10,7 @@ repo_path: "kb/facilities/dept-of-corrections-hagatna-guam-gu.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Guam, GU."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Dept Of Corrections-Hagatna"
 operator: ""

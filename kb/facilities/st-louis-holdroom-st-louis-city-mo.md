@@ -20,5 +20,6 @@ tags:
 - hold
 - mo
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: St. Louis Holdroom in St. Louis City County, MO. Average daily population: 7.

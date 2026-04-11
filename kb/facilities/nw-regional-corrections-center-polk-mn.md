@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - mn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: NW Regional Corrections Center in Polk County, MN. Average daily population: 10.

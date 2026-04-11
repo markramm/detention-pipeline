@@ -10,6 +10,7 @@ repo_path: "kb/facilities/niagara-county-jail-niagara-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Niagara, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Niagara County Jail"
 operator: ""

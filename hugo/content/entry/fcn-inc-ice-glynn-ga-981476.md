@@ -7,9 +7,10 @@ fips: "13127"
 state: "GA"
 county: "GLYNN"
 repo_path: "kb/anc/fcn-inc-ice-glynn-ga-981476.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to FCN, INC. in GA ($981,475.76)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -19,5 +19,6 @@ tags:
 - bop
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Dalby Correctional Institute in Garza County, TX.

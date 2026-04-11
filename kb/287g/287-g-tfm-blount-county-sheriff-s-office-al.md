@@ -7,6 +7,10 @@ tags:
 - tfm
 - al
 importance: 5
+state: "AL"
+county: "Blount County"
+fips: "01009"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Blount County Sheriff’s Office.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/ramsey-adc-annex-spm-ramsey-mn.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Ramsey, MN."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Ramsey ADC Annex, SPM"
 operator: ""

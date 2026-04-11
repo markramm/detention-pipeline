@@ -20,5 +20,6 @@ tags:
 - cdf
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: Mesa Verde ICE Processing Center in Kern County, CA. Average daily population: 328.

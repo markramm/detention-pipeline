@@ -10,6 +10,7 @@ repo_path: "kb/facilities/kay-co-justice-facility-kay-ok.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kay, OK."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Kay Co Justice Facility"
 operator: ""

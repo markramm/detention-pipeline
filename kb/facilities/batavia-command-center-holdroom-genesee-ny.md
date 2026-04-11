@@ -19,5 +19,6 @@ tags:
 - hold
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Batavia Command Center Holdroom in Genesee County, NY. Average daily population: 2.

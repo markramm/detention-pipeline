@@ -19,5 +19,6 @@ tags:
 - hold
 - me
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Portland, ME Holdroom in Cumberland County, ME. Average daily population: 2.

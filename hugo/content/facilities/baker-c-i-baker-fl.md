@@ -10,6 +10,7 @@ repo_path: "kb/facilities/baker-c-i-baker-fl.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Baker, FL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Baker C. I."
 operator: ""

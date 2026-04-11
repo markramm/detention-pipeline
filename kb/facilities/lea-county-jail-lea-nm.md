@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Lea County Jail in Lea County, NM.

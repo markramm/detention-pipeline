@@ -20,5 +20,6 @@ tags:
 - staging
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Staging facility: Stockton Staging Facility in San Joaquin County, CA. Average daily population: 4.

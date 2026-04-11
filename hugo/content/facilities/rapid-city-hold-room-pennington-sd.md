@@ -10,6 +10,7 @@ repo_path: "kb/facilities/rapid-city-hold-room-pennington-sd.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Pennington, SD."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Rapid City Hold Room"
 operator: ""

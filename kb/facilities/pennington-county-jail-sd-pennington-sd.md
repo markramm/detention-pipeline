@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - sd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Pennington County Jail SD in Pennington County, SD. Average daily population: 7.

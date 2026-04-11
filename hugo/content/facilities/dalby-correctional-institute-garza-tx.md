@@ -10,6 +10,7 @@ repo_path: "kb/facilities/dalby-correctional-institute-garza-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Garza, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Dalby Correctional Institute"
 operator: ""

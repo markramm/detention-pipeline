@@ -10,6 +10,7 @@ repo_path: "kb/facilities/etowah-ero-hold-room-etowah-al.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Etowah, AL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Etowah ERO Hold Room"
 operator: ""

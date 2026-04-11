@@ -20,5 +20,6 @@ tags:
 - hold
 - mn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: US INS/Detention & Deportation in Hennepin County, MN. Average daily population: 36.

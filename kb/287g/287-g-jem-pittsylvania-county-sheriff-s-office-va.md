@@ -7,6 +7,10 @@ tags:
 - jem
 - va
 importance: 5
+state: "VA"
+county: "Pittsylvania County"
+fips: "51143"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Pittsylvania County Sheriff’s Office.

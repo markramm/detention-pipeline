@@ -19,5 +19,6 @@ tags:
 - staging
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Staging facility: Harlingen Staging Facility in Cameron County, TX.

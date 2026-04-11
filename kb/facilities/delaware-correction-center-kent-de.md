@@ -19,5 +19,6 @@ tags:
 - unknown
 - de
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Delaware Correction Center in Kent County, DE.

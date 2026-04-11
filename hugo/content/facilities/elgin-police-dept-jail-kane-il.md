@@ -10,6 +10,7 @@ repo_path: "kb/facilities/elgin-police-dept-jail-kane-il.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kane, IL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Elgin Police Dept. Jail"
 operator: ""

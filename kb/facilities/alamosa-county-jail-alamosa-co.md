@@ -19,5 +19,6 @@ tags:
 - unknown
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Alamosa County Jail in Alamosa County, CO.

@@ -20,5 +20,6 @@ tags:
 - digsa
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: T Don Hutto Residential Center in Williamson County, TX. Average daily population: 419.

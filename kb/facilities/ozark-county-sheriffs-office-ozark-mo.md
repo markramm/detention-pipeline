@@ -20,5 +20,6 @@ tags:
 - igsa
 - mo
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Ozark County Sheriff'S Office in Ozark County, MO. Average daily population: 24.

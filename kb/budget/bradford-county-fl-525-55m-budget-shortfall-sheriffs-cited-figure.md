@@ -19,6 +19,7 @@ tags:
 - bradford
 - sabot-model
 importance: 7
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 ---
 
 The Bradford County sheriff stated the county faces a '$5.25 to $5.5 million dollar shortfall' — this was the fiscal justification for approving ICE detention.

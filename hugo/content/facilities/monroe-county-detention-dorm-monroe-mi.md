@@ -10,6 +10,7 @@ repo_path: "kb/facilities/monroe-county-detention-dorm-monroe-mi.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Monroe, MI."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Monroe County Detention-Dorm"
 operator: ""

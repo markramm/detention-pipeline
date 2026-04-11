@@ -19,5 +19,6 @@ tags:
 - juvenile
 - gu
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Department Of Youth Affairs in Guam County, GU.

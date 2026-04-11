@@ -20,5 +20,6 @@ tags:
 - igsa
 - ok
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Garvin County Jail in Garvin County, OK. Average daily population: 3.

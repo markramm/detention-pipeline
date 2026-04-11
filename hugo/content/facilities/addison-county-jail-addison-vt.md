@@ -10,6 +10,7 @@ repo_path: "kb/facilities/addison-county-jail-addison-vt.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Addison, VT."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Addison County Jail"
 operator: ""

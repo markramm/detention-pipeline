@@ -19,5 +19,6 @@ tags:
 - hold
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Eden Det Ctr Hold Room in Concho County, TX.

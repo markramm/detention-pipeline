@@ -19,5 +19,6 @@ tags:
 - igsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: West Baton Rouge Det Ctr in West Baton Rouge County, LA.

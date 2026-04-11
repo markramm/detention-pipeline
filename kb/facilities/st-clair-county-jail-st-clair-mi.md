@@ -20,5 +20,6 @@ tags:
 - igsa
 - mi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: St. Clair County Jail in St. Clair County, MI. Average daily population: 62.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/nw-reg-juv-det-ctr-winchester-city-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Winchester City, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "NW Reg Juv Det Ctr"
 operator: ""

@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - in
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Clay County Justice Center in Clay County, IN. Average daily population: 276.

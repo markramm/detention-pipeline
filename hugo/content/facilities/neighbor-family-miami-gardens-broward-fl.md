@@ -10,6 +10,7 @@ repo_path: "kb/facilities/neighbor-family-miami-gardens-broward-fl.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Broward, FL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Neighbor-Family Miami Gardens"
 operator: ""

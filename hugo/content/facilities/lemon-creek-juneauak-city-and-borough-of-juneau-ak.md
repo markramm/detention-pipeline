@@ -10,6 +10,7 @@ repo_path: "kb/facilities/lemon-creek-juneauak-city-and-borough-of-juneau-ak.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in City And Borough Of Juneau, AK."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Lemon Creek, Juneau,AK"
 operator: ""

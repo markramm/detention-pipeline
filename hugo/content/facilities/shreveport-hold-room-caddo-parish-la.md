@@ -10,6 +10,7 @@ repo_path: "kb/facilities/shreveport-hold-room-caddo-parish-la.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Caddo Parish, LA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Shreveport Hold Room"
 operator: ""

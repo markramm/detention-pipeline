@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - ks
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Butler County Jail in Butler County, KS.

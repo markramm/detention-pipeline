@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - nv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: North Las Vegas in Clark County, NV.

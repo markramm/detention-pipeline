@@ -20,5 +20,6 @@ tags:
 - igsa
 - oh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Butler County Jail in Butler County, OH. Average daily population: 354.

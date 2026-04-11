@@ -20,5 +20,6 @@ tags:
 - hold
 - ia
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Des Moines Hold Room in Polk County, IA. Average daily population: 1.

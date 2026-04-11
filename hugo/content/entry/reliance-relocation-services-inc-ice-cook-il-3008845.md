@@ -7,9 +7,10 @@ fips: "17031"
 state: "IL"
 county: "COOK"
 repo_path: "kb/anc/reliance-relocation-services-inc-ice-cook-il-3008845.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to RELIANCE RELOCATION SERVICES, INC in IL ($3,008,844.61)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

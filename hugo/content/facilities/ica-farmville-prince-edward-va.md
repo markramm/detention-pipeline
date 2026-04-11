@@ -10,6 +10,7 @@ repo_path: "kb/facilities/ica-farmville-prince-edward-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Prince Edward, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "ICA - Farmville"
 operator: ""

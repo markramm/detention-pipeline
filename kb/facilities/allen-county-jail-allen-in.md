@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - in
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Allen County Jail in Allen County, IN.

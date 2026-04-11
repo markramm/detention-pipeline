@@ -20,5 +20,6 @@ tags:
 - hold
 - il
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Chicago Hold Room in Cook County, IL. Average daily population: 3.

@@ -19,5 +19,6 @@ tags:
 - igsa
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Fresno County Jail in Fresno County, CA.

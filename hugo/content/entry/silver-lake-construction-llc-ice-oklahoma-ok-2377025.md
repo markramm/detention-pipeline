@@ -7,9 +7,10 @@ fips: "40109"
 state: "OK"
 county: "OKLAHOMA"
 repo_path: "kb/anc/silver-lake-construction-llc-ice-oklahoma-ok-2377025.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to SILVER LAKE CONSTRUCTION LLC in OK ($2,377,025.10)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

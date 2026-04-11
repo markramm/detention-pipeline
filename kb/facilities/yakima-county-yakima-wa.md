@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - wa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Yakima County in Yakima County, WA.

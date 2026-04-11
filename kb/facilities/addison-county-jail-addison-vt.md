@@ -20,5 +20,6 @@ tags:
 - igsa
 - vt
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Addison County Jail in Addison County, VT. Average daily population: 1.

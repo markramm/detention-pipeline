@@ -20,5 +20,6 @@ tags:
 - detention
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: St Charles Parish Jail in St. Charles Parish County, LA. Average daily population: 2.

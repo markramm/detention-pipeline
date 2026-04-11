@@ -20,5 +20,6 @@ tags:
 - hold
 - pr
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Aguadilla SPC in Aguadilla County, PR. Average daily population: 14.

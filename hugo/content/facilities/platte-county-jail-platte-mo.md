@@ -10,6 +10,7 @@ repo_path: "kb/facilities/platte-county-jail-platte-mo.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Platte, MO."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Platte County Jail"
 operator: ""

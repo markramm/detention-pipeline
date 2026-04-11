@@ -10,6 +10,7 @@ repo_path: "kb/facilities/prince-william-manassas-city-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Manassas City, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Prince William"
 operator: ""

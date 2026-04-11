@@ -7,9 +7,10 @@ fips: "12007"
 state: "FL"
 county: "Bradford"
 repo_path: "kb/commission/bradford-county-fl-commission-approves-ice-detention-3-2-vote.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Bradford County FL commission approved an IGSA for ICE detention 3-2, citing a $5.5M budget shortfall. Sabot Consulting model using county-owned Douglas Building."
 source_count: 1
+source_url: "https://webapi.legistar.com"
 type: "entry"
 layout: "single"
 ---

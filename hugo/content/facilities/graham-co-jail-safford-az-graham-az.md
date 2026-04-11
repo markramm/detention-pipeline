@@ -10,6 +10,7 @@ repo_path: "kb/facilities/graham-co-jail-safford-az-graham-az.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Graham, AZ."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Graham Co Jail Safford AZ"
 operator: ""

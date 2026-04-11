@@ -20,5 +20,6 @@ tags:
 - hold
 - tn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Chattanooga Hold Room in Hamilton County, TN. Average daily population: 5.

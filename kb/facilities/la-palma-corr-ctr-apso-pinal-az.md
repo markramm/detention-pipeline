@@ -20,5 +20,6 @@ tags:
 - digsa
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: La Palma Corr Ctr APSO in Pinal County, AZ. Average daily population: 1.

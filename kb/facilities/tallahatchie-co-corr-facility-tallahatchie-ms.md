@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ms
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Tallahatchie Co Corr Facility in Tallahatchie County, MS. Average daily population: 1.

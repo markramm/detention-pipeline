@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - mo
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Jennings City Jail in St. Louis County, MO.

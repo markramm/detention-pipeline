@@ -10,6 +10,7 @@ repo_path: "kb/facilities/artesia-family-residential-center-eddy-nm.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Eddy, NM."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Artesia Family Residential Center"
 operator: ""

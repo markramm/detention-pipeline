@@ -20,5 +20,6 @@ tags:
 - hold
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: San Antonio Dro Hold Room in Bexar County, TX. Average daily population: 32.

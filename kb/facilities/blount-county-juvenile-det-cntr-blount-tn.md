@@ -20,5 +20,6 @@ tags:
 - juvenile
 - tn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Blount County Juvenile Det Cntr in Blount County, TN. Average daily population: 1.

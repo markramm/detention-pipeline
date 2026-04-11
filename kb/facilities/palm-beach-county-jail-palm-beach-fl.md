@@ -20,5 +20,6 @@ tags:
 - igsa
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Palm Beach County Jail in Palm Beach County, FL. Average daily population: 1.

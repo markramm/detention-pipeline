@@ -19,5 +19,6 @@ tags:
 - igsa
 - ok
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Oklahoma County Jail in Oklahoma County, OK.

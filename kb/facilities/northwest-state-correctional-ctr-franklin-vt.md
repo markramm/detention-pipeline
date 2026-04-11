@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - vt
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Northwest State Correctional Ctr. in Franklin County, VT. Average daily population: 7.

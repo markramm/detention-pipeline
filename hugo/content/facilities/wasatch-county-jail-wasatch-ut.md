@@ -10,6 +10,7 @@ repo_path: "kb/facilities/wasatch-county-jail-wasatch-ut.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Wasatch, UT."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Wasatch County Jail"
 operator: ""

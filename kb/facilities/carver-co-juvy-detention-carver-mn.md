@@ -19,5 +19,6 @@ tags:
 - juvenile
 - mn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Carver Co. Juvy Detention in Carver County, MN.

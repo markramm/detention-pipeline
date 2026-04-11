@@ -19,5 +19,6 @@ tags:
 - hold
 - mn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Duluth Hold Room in St. Louis County, MN.

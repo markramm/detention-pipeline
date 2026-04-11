@@ -10,6 +10,7 @@ repo_path: "kb/facilities/howard-county-det-cntr-howard-md.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Howard, MD."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Howard County Det Cntr"
 operator: ""

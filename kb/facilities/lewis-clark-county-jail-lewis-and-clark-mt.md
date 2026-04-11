@@ -19,5 +19,6 @@ tags:
 - igsa
 - mt
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Lewis & Clark County Jail in Lewis And Clark County, MT.

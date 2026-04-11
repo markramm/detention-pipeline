@@ -20,5 +20,6 @@ tags:
 - unknown
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Livingston Correctional in Livingston County, NY. Average daily population: 2.

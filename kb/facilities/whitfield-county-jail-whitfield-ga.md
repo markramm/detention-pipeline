@@ -19,5 +19,6 @@ tags:
 - igsa
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Whitfield County Jail in Whitfield County, GA.

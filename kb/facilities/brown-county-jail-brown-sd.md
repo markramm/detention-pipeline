@@ -19,5 +19,6 @@ tags:
 - igsa
 - sd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Brown County Jail in Brown County, SD.

@@ -7,9 +7,10 @@ fips: "06085"
 state: "CA"
 county: "SANTA CLARA"
 repo_path: "kb/anc/castle-hill-partners-inc-ice-santa-clara-ca-2221250.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CASTLE HILL PARTNERS, INC in CA ($2,221,250.00)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

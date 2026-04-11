@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Atlanta Pretrial Detn Ctr in Fulton County, GA. Average daily population: 1.

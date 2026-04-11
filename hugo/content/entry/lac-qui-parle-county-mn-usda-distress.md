@@ -10,6 +10,7 @@ repo_path: "kb/budget/lac-qui-parle-county-mn-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Lac qui Parle County, MN."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

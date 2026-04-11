@@ -20,5 +20,6 @@ tags:
 - hold
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Prairieland Suboffice Hold Room in Johnson County, TX. Average daily population: 15.

@@ -20,5 +20,6 @@ tags:
 - digsa
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Prairieland Detention Center in Johnson County, TX. Average daily population: 907.

@@ -20,5 +20,6 @@ tags:
 - igsa
 - tn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Davidson Co. Sheriff Dept in Davidson County, TN. Average daily population: 1.

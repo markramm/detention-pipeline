@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: La Paz County Adult Det. Fac. in La Paz County, AZ. Average daily population: 3.

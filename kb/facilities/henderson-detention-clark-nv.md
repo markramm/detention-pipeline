@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - nv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Henderson Detention in Clark County, NV. Average daily population: 77.

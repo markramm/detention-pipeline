@@ -19,5 +19,6 @@ tags:
 - other
 - il
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Mercer County Corrections in Mercer County, IL.

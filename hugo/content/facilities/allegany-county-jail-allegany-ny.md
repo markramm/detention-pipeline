@@ -10,6 +10,7 @@ repo_path: "kb/facilities/allegany-county-jail-allegany-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Allegany, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Allegany County Jail"
 operator: ""

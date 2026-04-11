@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ky
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Fayette County Detention Center in Fayette County, KY. Average daily population: 3.

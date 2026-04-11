@@ -20,5 +20,6 @@ tags:
 - unknown
 - wi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Fond Du Lac County Sheriff/Jail in Fond Du Lac County, WI. Average daily population: 1.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/metro-dade-jail-miami-dade-fl.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Miami-Dade, FL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Metro Dade Jail"
 operator: ""

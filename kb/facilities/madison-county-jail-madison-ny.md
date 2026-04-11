@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Madison County Jail in Madison County, NY. Average daily population: 1.

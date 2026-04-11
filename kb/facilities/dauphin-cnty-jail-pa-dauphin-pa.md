@@ -19,5 +19,6 @@ tags:
 - other
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Dauphin Cnty Jail, PA in Dauphin County, PA.

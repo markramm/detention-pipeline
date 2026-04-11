@@ -7,6 +7,10 @@ tags:
 - wso
 - tx
 importance: 5
+state: "TX"
+county: "Reagan County"
+fips: "48383"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Reagan County Sheriff’s Office.

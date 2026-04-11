@@ -20,5 +20,6 @@ tags:
 - unknown
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Central Valley Annex in Kern County, CA. Average daily population: 1.

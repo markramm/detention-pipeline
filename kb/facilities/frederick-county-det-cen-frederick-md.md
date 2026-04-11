@@ -19,5 +19,6 @@ tags:
 - igsa
 - md
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Frederick County Det. Cen in Frederick County, MD.

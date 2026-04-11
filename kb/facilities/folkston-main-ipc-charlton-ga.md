@@ -20,5 +20,6 @@ tags:
 - digsa
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Folkston Main IPC in Charlton County, GA. Average daily population: 636.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/folkston-d-ray-ice-processing-ctr-charlton-ga.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Charlton, GA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Folkston D Ray ICE Processing Ctr"
 operator: ""

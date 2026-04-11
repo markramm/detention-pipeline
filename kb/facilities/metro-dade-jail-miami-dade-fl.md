@@ -20,5 +20,6 @@ tags:
 - igsa
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Metro Dade Jail in Miami-Dade County, FL. Average daily population: 1.

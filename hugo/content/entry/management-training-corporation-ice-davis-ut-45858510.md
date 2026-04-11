@@ -7,9 +7,10 @@ fips: "49011"
 state: "UT"
 county: "DAVIS"
 repo_path: "kb/anc/management-training-corporation-ice-davis-ut-45858510.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to MANAGEMENT & TRAINING CORPORATION in UT ($45,858,510.27)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

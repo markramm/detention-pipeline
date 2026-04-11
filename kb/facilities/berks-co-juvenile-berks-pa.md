@@ -19,5 +19,6 @@ tags:
 - juvenile
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Berks Co. Juvenile in Berks County, PA.

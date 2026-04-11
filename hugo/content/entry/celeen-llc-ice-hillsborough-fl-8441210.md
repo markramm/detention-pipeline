@@ -7,9 +7,10 @@ fips: "12057"
 state: "FL"
 county: "HILLSBOROUGH"
 repo_path: "kb/anc/celeen-llc-ice-hillsborough-fl-8441210.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CELEEN LLC in FL ($8,441,210.15)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

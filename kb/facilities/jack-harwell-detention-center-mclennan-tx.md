@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Jack Harwell Detention Center in Mclennan County, TX. Average daily population: 2.

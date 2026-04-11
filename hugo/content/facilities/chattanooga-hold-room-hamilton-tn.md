@@ -10,6 +10,7 @@ repo_path: "kb/facilities/chattanooga-hold-room-hamilton-tn.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hamilton, TN."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Chattanooga Hold Room"
 operator: ""

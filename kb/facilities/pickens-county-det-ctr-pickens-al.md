@@ -20,5 +20,6 @@ tags:
 - igsa
 - al
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Pickens County Det Ctr in Pickens County, AL. Average daily population: 63.

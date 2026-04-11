@@ -10,6 +10,7 @@ repo_path: "kb/facilities/mcrae-correctional-facility-cca-telfair-ga.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Telfair, GA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "McRae Correctional Facility, CCA"
 operator: ""

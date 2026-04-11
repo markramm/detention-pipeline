@@ -19,5 +19,6 @@ tags:
 - juvenile
 - mi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Washtenaw Co, An Arbor,MI in Washtenaw County, MI.

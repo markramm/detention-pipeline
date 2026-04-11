@@ -10,6 +10,7 @@ repo_path: "kb/facilities/culpeper-co-adult-det-center-culpeper-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Culpeper, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Culpeper Co. Adult Det. Center"
 operator: ""

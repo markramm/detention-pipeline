@@ -7,9 +7,10 @@ fips: "45035"
 state: "SC"
 county: "Dorchester County"
 repo_path: "kb/287g/287-g-wso-dorchester-county-sheriff-s-office-sc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) WSO agreement between ICE and Dorchester County Sheriff’s Office, signed June 12, 2025."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

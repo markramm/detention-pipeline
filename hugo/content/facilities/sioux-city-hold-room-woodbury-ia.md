@@ -10,6 +10,7 @@ repo_path: "kb/facilities/sioux-city-hold-room-woodbury-ia.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Woodbury, IA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Sioux City Hold Room"
 operator: ""

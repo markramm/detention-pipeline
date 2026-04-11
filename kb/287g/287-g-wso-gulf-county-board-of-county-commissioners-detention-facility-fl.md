@@ -7,6 +7,10 @@ tags:
 - wso
 - fl
 importance: 5
+state: "FL"
+county: "Gulf County"
+fips: "12045"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Gulf County Board of County Commissioners /Detention Facility.

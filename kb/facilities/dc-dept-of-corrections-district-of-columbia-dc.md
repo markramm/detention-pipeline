@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - dc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: DC Dept Of Corrections in District Of Columbia County, DC.

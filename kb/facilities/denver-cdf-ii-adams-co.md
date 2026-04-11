@@ -19,5 +19,6 @@ tags:
 - cdf
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: Denver CDF II in Adams County, CO.

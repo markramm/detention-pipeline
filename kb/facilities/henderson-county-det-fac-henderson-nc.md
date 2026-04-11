@@ -20,5 +20,6 @@ tags:
 - igsa
 - nc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Henderson County Det. Fac. in Henderson County, NC. Average daily population: 1.

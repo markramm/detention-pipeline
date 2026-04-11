@@ -10,6 +10,7 @@ repo_path: "kb/facilities/jtf-camp-six-cu.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in CU."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "JTF Camp Six"
 operator: ""

@@ -19,5 +19,6 @@ tags:
 - hold
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Lorton, VA Hold Room in Fairfax County, VA.

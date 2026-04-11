@@ -19,5 +19,6 @@ tags:
 - igsa
 - tn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Blount County Justice Ctr in Blount County, TN.

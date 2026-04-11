@@ -10,6 +10,7 @@ repo_path: "kb/facilities/franklin-house-of-corrections-franklin-ma.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Franklin, MA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Franklin House of Corrections"
 operator: ""

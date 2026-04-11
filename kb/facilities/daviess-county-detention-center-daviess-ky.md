@@ -20,5 +20,6 @@ tags:
 - detention
 - ky
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Daviess County Detention Center in Daviess County, KY. Average daily population: 62.

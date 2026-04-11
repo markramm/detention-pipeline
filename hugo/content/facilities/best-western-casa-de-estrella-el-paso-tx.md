@@ -10,6 +10,7 @@ repo_path: "kb/facilities/best-western-casa-de-estrella-el-paso-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in El Paso, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Best Western Casa De Estrella"
 operator: ""

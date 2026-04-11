@@ -19,5 +19,6 @@ tags:
 - unknown
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: San Luis Obispo Co. Juven in San Luis Obispo County, CA.

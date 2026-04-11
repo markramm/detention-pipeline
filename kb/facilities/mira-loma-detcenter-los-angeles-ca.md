@@ -19,5 +19,6 @@ tags:
 - digsa
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Mira Loma Det.Center in Los Angeles County, CA.

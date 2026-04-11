@@ -20,5 +20,6 @@ tags:
 - cdf
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: South Texas ICE Processing Center in Frio County, TX. Average daily population: 1659.

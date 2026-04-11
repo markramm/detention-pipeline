@@ -7,9 +7,10 @@ fips: "06059"
 state: "CA"
 county: "ORANGE"
 repo_path: "kb/anc/salient-crgt-inc-ice-orange-ca-7882827.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to SALIENT CRGT, INC. in CA ($7,882,827.00)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

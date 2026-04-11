@@ -20,5 +20,6 @@ tags:
 - bop
 - nh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: FCI Berlin in Coos County, NH. Average daily population: 146.

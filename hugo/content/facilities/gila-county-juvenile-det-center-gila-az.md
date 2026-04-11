@@ -10,6 +10,7 @@ repo_path: "kb/facilities/gila-county-juvenile-det-center-gila-az.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Gila, AZ."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Gila County Juvenile Det Center"
 operator: ""

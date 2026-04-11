@@ -7,6 +7,10 @@ tags:
 - tfm
 - ut
 importance: 5
+state: "UT"
+county: "Weber County"
+fips: "49057"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Weber County Sheriff’s Office.

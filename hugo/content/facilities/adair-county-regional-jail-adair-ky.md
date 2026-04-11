@@ -10,6 +10,7 @@ repo_path: "kb/facilities/adair-county-regional-jail-adair-ky.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Adair, KY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Adair County Regional Jail"
 operator: ""

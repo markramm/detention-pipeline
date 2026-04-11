@@ -10,6 +10,7 @@ repo_path: "kb/facilities/faulk-county-jail-faulk-sd.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Faulk, SD."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Faulk County Jail"
 operator: ""

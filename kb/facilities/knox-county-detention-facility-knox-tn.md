@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - tn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Knox County Detention Facility in Knox County, TN. Average daily population: 21.

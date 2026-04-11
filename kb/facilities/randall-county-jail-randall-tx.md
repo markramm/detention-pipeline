@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Randall County Jail in Randall County, TX. Average daily population: 4.

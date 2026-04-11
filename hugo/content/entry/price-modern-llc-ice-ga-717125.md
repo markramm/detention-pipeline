@@ -7,9 +7,10 @@ fips: ""
 state: "GA"
 county: ""
 repo_path: "kb/anc/price-modern-llc-ice-ga-717125.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to PRICE MODERN LLC in GA ($717,125.47)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

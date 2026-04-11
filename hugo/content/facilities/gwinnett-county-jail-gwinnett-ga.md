@@ -10,6 +10,7 @@ repo_path: "kb/facilities/gwinnett-county-jail-gwinnett-ga.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Gwinnett, GA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Gwinnett County Jail"
 operator: ""

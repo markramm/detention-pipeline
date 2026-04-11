@@ -10,6 +10,7 @@ repo_path: "kb/facilities/worcester-co-jail-worcester-md.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Worcester, MD."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Worcester Co. Jail"
 operator: ""

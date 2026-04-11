@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: CCA, Florence Correctional Center in Pinal County, AZ. Average daily population: 498.

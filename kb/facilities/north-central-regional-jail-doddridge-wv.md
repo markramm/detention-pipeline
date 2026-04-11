@@ -20,5 +20,6 @@ tags:
 - igsa
 - wv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: North Central Regional Jail in Doddridge County, WV. Average daily population: 4.

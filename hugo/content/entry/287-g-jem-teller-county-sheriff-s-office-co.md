@@ -7,9 +7,10 @@ fips: "08119"
 state: "CO"
 county: "Teller County"
 repo_path: "kb/287g/287-g-jem-teller-county-sheriff-s-office-co.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) JEM agreement between ICE and Teller County Sheriff’s Office, signed June 8, 2020."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

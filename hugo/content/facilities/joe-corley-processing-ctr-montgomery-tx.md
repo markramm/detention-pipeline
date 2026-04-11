@@ -10,6 +10,7 @@ repo_path: "kb/facilities/joe-corley-processing-ctr-montgomery-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Montgomery, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Joe Corley Processing Ctr"
 operator: ""

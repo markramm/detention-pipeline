@@ -20,5 +20,6 @@ tags:
 - hold
 - hi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: INS District Office in Honolulu County, HI. Average daily population: 1.

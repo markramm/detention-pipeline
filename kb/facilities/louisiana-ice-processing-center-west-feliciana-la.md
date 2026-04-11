@@ -20,5 +20,6 @@ tags:
 - spc
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 SPC facility: Louisiana Ice Processing Center in West Feliciana County, LA. Average daily population: 181.

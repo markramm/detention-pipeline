@@ -19,5 +19,6 @@ tags:
 - juvenile
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Val Verde County Juvenile in Val Verde County, TX.

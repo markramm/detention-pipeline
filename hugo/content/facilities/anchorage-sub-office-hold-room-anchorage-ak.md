@@ -10,6 +10,7 @@ repo_path: "kb/facilities/anchorage-sub-office-hold-room-anchorage-ak.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Anchorage, AK."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Anchorage Sub-Office Hold Room"
 operator: ""

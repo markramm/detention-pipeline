@@ -10,6 +10,7 @@ repo_path: "kb/facilities/williamson-county-jail-williamson-tn.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Williamson, TN."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Williamson County Jail"
 operator: ""

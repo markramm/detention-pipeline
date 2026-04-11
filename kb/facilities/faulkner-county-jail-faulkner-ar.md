@@ -19,5 +19,6 @@ tags:
 - igsa
 - ar
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Faulkner County Jail in Faulkner County, AR.

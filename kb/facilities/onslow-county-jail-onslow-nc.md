@@ -20,5 +20,6 @@ tags:
 - detention
 - nc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Onslow County Jail in Onslow County, NC. Average daily population: 3.

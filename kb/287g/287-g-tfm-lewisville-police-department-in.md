@@ -7,6 +7,10 @@ tags:
 - tfm
 - in
 importance: 5
+state: "IN"
+county: "Henry County"
+fips: "18065"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Lewisville Police Department.

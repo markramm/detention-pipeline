@@ -19,5 +19,6 @@ tags:
 - igsa
 - mt
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Sheridan County Jail in Sheridan County, MT.

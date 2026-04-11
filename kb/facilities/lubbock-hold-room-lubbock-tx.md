@@ -20,5 +20,6 @@ tags:
 - hold
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Lubbock Hold Room in Lubbock County, TX. Average daily population: 5.

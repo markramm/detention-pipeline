@@ -19,5 +19,6 @@ tags:
 - igsa
 - oh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Morrow Co. Correctional Facility in Morrow County, OH.

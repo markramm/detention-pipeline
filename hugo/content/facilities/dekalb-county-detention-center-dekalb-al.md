@@ -10,6 +10,7 @@ repo_path: "kb/facilities/dekalb-county-detention-center-dekalb-al.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Dekalb, AL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Dekalb County Detention Center"
 operator: ""

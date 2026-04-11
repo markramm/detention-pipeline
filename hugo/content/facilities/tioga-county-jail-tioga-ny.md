@@ -10,6 +10,7 @@ repo_path: "kb/facilities/tioga-county-jail-tioga-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Tioga, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Tioga County Jail"
 operator: ""

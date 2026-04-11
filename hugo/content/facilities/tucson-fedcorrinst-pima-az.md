@@ -10,6 +10,7 @@ repo_path: "kb/facilities/tucson-fedcorrinst-pima-az.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Pima, AZ."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Tucson Fed.Corr.Inst."
 operator: ""

@@ -20,5 +20,6 @@ tags:
 - unknown
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Harlingen Police Dept. in Cameron County, TX. Average daily population: 1.

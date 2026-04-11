@@ -10,6 +10,7 @@ repo_path: "kb/facilities/erie-county-jail-pa-erie-pa.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Erie, PA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Erie County Jail, PA"
 operator: ""

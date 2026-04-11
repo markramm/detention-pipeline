@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - me
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Penobscot County Jail in Penobscot County, ME.

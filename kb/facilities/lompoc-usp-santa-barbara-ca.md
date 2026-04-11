@@ -19,5 +19,6 @@ tags:
 - bop
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Lompoc USP in Santa Barbara County, CA.

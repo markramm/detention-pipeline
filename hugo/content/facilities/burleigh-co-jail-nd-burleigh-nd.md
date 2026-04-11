@@ -10,6 +10,7 @@ repo_path: "kb/facilities/burleigh-co-jail-nd-burleigh-nd.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Burleigh, ND."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Burleigh Co. Jail, ND"
 operator: ""

@@ -20,5 +20,6 @@ tags:
 - digsa
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Caroline Detention Facility in Caroline County, VA. Average daily population: 348.

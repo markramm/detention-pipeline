@@ -20,5 +20,6 @@ tags:
 - igsa
 - in
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Miami Correctional Center in Miami County, IN. Average daily population: 504.

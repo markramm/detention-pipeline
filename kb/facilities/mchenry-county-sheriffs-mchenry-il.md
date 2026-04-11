@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - il
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: McHenry County Sheriff's in Mchenry County, IL.

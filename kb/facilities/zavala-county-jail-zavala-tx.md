@@ -19,5 +19,6 @@ tags:
 - igsa
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Zavala County Jail in Zavala County, TX.

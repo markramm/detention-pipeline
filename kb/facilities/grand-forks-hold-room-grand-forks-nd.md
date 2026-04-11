@@ -20,5 +20,6 @@ tags:
 - hold
 - nd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Grand Forks Hold Room in Grand Forks County, ND. Average daily population: 2.

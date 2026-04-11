@@ -19,5 +19,6 @@ tags:
 - igsa
 - nc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Cabarrus County Jail in Cabarrus County, NC.

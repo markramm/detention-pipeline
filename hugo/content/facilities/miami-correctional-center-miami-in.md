@@ -10,6 +10,7 @@ repo_path: "kb/facilities/miami-correctional-center-miami-in.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Miami, IN."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Miami Correctional Center"
 operator: ""

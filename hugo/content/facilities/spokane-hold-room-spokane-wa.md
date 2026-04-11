@@ -10,6 +10,7 @@ repo_path: "kb/facilities/spokane-hold-room-spokane-wa.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Spokane, WA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Spokane Hold Room"
 operator: ""

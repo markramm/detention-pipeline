@@ -19,5 +19,6 @@ tags:
 - igsa
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Clarke Fred'k Winch. in Winchester City County, VA.

@@ -20,5 +20,6 @@ tags:
 - igsa
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Irwin County Detention Center in Irwin County, GA. Average daily population: 247.

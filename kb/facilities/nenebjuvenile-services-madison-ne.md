@@ -19,5 +19,6 @@ tags:
 - juvenile
 - ne
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: N.E.Neb.Juvenile Services in Madison County, NE.

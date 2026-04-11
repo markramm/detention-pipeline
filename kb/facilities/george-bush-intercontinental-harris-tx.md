@@ -20,5 +20,6 @@ tags:
 - staging
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Staging facility: George Bush Intercontinental in Harris County, TX. Average daily population: 1.

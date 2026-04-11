@@ -20,5 +20,6 @@ tags:
 - digsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Jackson Parish Correctional Center in Jackson County, LA. Average daily population: 1312.

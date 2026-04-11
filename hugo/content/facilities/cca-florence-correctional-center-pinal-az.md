@@ -10,6 +10,7 @@ repo_path: "kb/facilities/cca-florence-correctional-center-pinal-az.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Pinal, AZ."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "CCA, Florence Correctional Center"
 operator: ""

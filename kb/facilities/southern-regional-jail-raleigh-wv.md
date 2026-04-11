@@ -20,5 +20,6 @@ tags:
 - detention
 - wv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Southern Regional Jail in Raleigh County, WV. Average daily population: 7.

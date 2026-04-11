@@ -20,5 +20,6 @@ tags:
 - hold
 - mi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: U.S. Immigration, Detroit in Wayne County, MI. Average daily population: 2.

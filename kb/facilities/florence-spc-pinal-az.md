@@ -20,5 +20,6 @@ tags:
 - spc
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 SPC facility: Florence SPC in Pinal County, AZ. Average daily population: 381.

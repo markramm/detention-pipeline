@@ -10,6 +10,7 @@ repo_path: "kb/facilities/dutch-harbor-city-jail-aleutians-west-ak.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Aleutians West, AK."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Dutch Harbor City Jail"
 operator: ""

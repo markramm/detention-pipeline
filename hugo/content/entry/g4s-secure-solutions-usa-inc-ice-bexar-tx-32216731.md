@@ -7,9 +7,10 @@ fips: "48029"
 state: "TX"
 county: "BEXAR"
 repo_path: "kb/anc/g4s-secure-solutions-usa-inc-ice-bexar-tx-32216731.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to G4S SECURE SOLUTIONS (USA) INC. in TX ($32,216,730.92)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

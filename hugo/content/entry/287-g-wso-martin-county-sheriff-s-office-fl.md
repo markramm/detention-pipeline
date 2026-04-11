@@ -7,9 +7,10 @@ fips: "12085"
 state: "FL"
 county: "Martin County"
 repo_path: "kb/287g/287-g-wso-martin-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) WSO agreement between ICE and Martin County Sheriff’s Office, signed January 22, 2020."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

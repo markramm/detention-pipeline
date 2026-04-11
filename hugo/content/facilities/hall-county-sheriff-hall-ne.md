@@ -10,6 +10,7 @@ repo_path: "kb/facilities/hall-county-sheriff-hall-ne.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hall, NE."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Hall County Sheriff"
 operator: ""

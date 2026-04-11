@@ -7,6 +7,10 @@ tags:
 - tfm
 - tx
 importance: 5
+state: "TX"
+county: "Caldwell County"
+fips: "48055"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Caldwell County Sheriff’s Office.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/otero-county-detention-otero-nm.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Otero, NM."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Otero County Detention"
 operator: ""

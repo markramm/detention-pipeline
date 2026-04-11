@@ -7,6 +7,10 @@ tags:
 - wso
 - ut
 importance: 5
+state: "UT"
+county: "Tooele County"
+fips: "49045"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Tooele County Sheriff’s Office.

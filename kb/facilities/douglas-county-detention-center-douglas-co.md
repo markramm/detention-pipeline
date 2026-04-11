@@ -20,5 +20,6 @@ tags:
 - igsa
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Douglas County Detention Center in Douglas County, CO. Average daily population: 1.

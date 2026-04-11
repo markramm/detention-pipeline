@@ -19,5 +19,6 @@ tags:
 - unknown
 - il
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Kane County Jail in Kane County, IL.

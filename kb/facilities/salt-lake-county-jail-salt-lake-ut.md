@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ut
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Salt Lake County Jail in Salt Lake County, UT. Average daily population: 3.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/goshen-county-jail-goshen-wy.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Goshen, WY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Goshen County Jail"
 operator: ""

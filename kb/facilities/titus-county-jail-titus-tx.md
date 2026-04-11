@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Titus County Jail in Titus County, TX. Average daily population: 1.

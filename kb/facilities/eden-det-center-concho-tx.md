@@ -19,5 +19,6 @@ tags:
 - bop
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Eden Det Center in Concho County, TX.

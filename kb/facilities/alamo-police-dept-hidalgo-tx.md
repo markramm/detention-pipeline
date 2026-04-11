@@ -20,5 +20,6 @@ tags:
 - unknown
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Alamo Police Dept. in Hidalgo County, TX. Average daily population: 1.

@@ -19,5 +19,6 @@ tags:
 - hold
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: SNJ Hold Room in Santa Clara County, CA.

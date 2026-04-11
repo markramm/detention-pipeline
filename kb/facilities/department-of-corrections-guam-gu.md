@@ -20,5 +20,6 @@ tags:
 - igsa
 - gu
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Department Of Corrections in Guam County, GU. Average daily population: 1.

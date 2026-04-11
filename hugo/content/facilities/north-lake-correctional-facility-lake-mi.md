@@ -10,6 +10,7 @@ repo_path: "kb/facilities/north-lake-correctional-facility-lake-mi.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lake, MI."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "North Lake Correctional Facility"
 operator: ""

@@ -19,5 +19,6 @@ tags:
 - hold
 - ia
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Sioux City Hold Room in Woodbury County, IA.

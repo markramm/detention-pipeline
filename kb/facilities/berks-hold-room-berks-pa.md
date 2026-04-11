@@ -19,5 +19,6 @@ tags:
 - hold
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Berks Hold Room in Berks County, PA.

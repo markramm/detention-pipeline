@@ -19,5 +19,6 @@ tags:
 - other
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: San Luis Obispo Co Jail in San Luis Obispo County, CA.

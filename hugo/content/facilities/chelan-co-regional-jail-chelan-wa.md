@@ -10,6 +10,7 @@ repo_path: "kb/facilities/chelan-co-regional-jail-chelan-wa.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Chelan, WA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Chelan Co. Regional Jail"
 operator: ""

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/pinckneyville-correctional-center-perry-il.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Perry, IL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Pinckneyville Correctional Center"
 operator: ""

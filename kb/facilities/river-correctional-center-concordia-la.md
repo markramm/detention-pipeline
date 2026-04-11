@@ -20,5 +20,6 @@ tags:
 - digsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: River Correctional Center in Concordia County, LA. Average daily population: 485.

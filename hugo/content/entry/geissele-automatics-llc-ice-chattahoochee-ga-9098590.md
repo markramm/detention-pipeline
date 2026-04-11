@@ -7,9 +7,10 @@ fips: "13053"
 state: "GA"
 county: "CHATTAHOOCHEE"
 repo_path: "kb/anc/geissele-automatics-llc-ice-chattahoochee-ga-9098590.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to GEISSELE AUTOMATICS LLC in GA ($9,098,590.16)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

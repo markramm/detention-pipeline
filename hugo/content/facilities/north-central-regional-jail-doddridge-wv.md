@@ -10,6 +10,7 @@ repo_path: "kb/facilities/north-central-regional-jail-doddridge-wv.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Doddridge, WV."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "North Central Regional Jail"
 operator: ""

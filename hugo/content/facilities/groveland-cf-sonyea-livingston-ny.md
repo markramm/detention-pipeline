@@ -10,6 +10,7 @@ repo_path: "kb/facilities/groveland-cf-sonyea-livingston-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Livingston, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Groveland C.F. Sonyea"
 operator: ""

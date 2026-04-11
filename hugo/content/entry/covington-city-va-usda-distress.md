@@ -10,6 +10,7 @@ repo_path: "kb/budget/covington-city-va-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Covington city, VA."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

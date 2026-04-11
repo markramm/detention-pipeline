@@ -10,6 +10,7 @@ repo_path: "kb/facilities/westmoreland-county-jail-westmoreland-pa.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Westmoreland, PA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Westmoreland County Jail"
 operator: ""

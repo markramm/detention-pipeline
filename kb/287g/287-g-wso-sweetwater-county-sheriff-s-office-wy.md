@@ -7,6 +7,10 @@ tags:
 - wso
 - wy
 importance: 5
+state: "WY"
+county: "Sweetwater County"
+fips: "56037"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Sweetwater County Sheriff’s Office.

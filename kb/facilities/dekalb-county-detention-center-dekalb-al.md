@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - al
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Dekalb County Detention Center in Dekalb County, AL. Average daily population: 1.

@@ -19,5 +19,6 @@ tags:
 - unknown
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Charlotte CI, Punta Gorda in Charlotte County, FL.

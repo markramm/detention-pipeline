@@ -10,6 +10,7 @@ repo_path: "kb/facilities/nenebjuvenile-services-madison-ne.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Madison, NE."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "N.E.Neb.Juvenile Services"
 operator: ""

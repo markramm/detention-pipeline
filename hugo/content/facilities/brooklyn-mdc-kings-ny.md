@@ -10,6 +10,7 @@ repo_path: "kb/facilities/brooklyn-mdc-kings-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kings, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Brooklyn MDC"
 operator: ""

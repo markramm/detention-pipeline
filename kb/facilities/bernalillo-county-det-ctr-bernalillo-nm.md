@@ -20,5 +20,6 @@ tags:
 - digsa
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Bernalillo County Det Ctr in Bernalillo County, NM. Average daily population: 1.

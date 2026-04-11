@@ -7,6 +7,10 @@ tags:
 - jem
 - nv
 importance: 5
+state: "NV"
+county: "Lyon County"
+fips: "32019"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Lyon County Sheriff’s Office.

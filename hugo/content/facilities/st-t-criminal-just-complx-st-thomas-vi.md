@@ -10,6 +10,7 @@ repo_path: "kb/facilities/st-t-criminal-just-complx-st-thomas-vi.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in St. Thomas, VI."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "St T Criminal Just Complx"
 operator: ""

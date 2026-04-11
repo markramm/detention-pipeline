@@ -10,6 +10,7 @@ repo_path: "kb/facilities/chesapeake-city-jail-chesapeake-city-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Chesapeake City, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Chesapeake City Jail"
 operator: ""

@@ -19,5 +19,6 @@ tags:
 - igsa
 - wy
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Carbon County Jail in Carbon County, WY.

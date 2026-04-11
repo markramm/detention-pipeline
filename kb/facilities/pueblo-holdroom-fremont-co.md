@@ -20,5 +20,6 @@ tags:
 - hold
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Pueblo Holdroom in Fremont County, CO. Average daily population: 2.

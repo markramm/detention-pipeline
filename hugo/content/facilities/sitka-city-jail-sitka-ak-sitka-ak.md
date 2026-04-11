@@ -10,6 +10,7 @@ repo_path: "kb/facilities/sitka-city-jail-sitka-ak-sitka-ak.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Sitka, AK."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Sitka City Jail, Sitka AK"
 operator: ""

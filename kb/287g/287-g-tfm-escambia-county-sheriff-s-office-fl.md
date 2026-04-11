@@ -7,6 +7,10 @@ tags:
 - tfm
 - fl
 importance: 5
+state: "FL"
+county: "Escambia County"
+fips: "12033"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Escambia County Sheriff’s Office.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/central-va-regional-jail-orange-county-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Orange County, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Central VA Regional Jail"
 operator: ""

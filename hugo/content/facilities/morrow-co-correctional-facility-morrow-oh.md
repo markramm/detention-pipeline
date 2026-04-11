@@ -10,6 +10,7 @@ repo_path: "kb/facilities/morrow-co-correctional-facility-morrow-oh.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Morrow, OH."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Morrow Co. Correctional Facility"
 operator: ""

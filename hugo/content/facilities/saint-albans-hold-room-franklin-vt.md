@@ -10,6 +10,7 @@ repo_path: "kb/facilities/saint-albans-hold-room-franklin-vt.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Franklin, VT."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Saint Albans Hold Room"
 operator: ""

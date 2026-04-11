@@ -20,5 +20,6 @@ tags:
 - hold
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Syracuse Hold Room in Onondaga County, NY. Average daily population: 3.

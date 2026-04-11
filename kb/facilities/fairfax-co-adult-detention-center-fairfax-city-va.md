@@ -19,5 +19,6 @@ tags:
 - igsa
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Fairfax Co. Adult Detention Center in Fairfax City County, VA.

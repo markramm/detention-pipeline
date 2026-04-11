@@ -10,6 +10,7 @@ repo_path: "kb/facilities/seneca-county-jail-steuben-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Steuben, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Seneca County Jail"
 operator: ""

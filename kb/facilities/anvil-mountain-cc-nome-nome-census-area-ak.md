@@ -20,5 +20,6 @@ tags:
 - unknown
 - ak
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Anvil Mountain Cc, Nome, in Nome Census Area County, AK. Average daily population: 1.

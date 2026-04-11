@@ -20,5 +20,6 @@ tags:
 - bop
 - tn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Nashville Comm. Corr. in Davidson County, TN. Average daily population: 1.

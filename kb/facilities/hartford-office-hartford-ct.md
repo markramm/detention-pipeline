@@ -20,5 +20,6 @@ tags:
 - hold
 - ct
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Hartford Office in Hartford County, CT. Average daily population: 2.

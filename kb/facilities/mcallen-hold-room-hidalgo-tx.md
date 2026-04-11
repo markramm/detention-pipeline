@@ -19,5 +19,6 @@ tags:
 - hold
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Mcallen Hold Room in Hidalgo County, TX. Average daily population: 26.

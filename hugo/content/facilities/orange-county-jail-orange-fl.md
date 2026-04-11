@@ -10,6 +10,7 @@ repo_path: "kb/facilities/orange-county-jail-orange-fl.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Orange, FL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Orange County Jail"
 operator: ""

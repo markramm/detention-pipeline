@@ -10,6 +10,7 @@ repo_path: "kb/facilities/natchitoches-parish-det-center-natchitoches-la.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Natchitoches, LA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Natchitoches Parish Det. Center"
 operator: ""

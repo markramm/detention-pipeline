@@ -10,6 +10,7 @@ repo_path: "kb/budget/greene-county-ia-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Greene County, IA."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

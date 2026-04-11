@@ -10,6 +10,7 @@ repo_path: "kb/facilities/ozark-county-sheriffs-office-ozark-mo.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Ozark, MO."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Ozark County Sheriff'S Office"
 operator: ""

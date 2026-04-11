@@ -18,5 +18,6 @@ tags:
 - family-staging
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Family Staging facility: Stes On Scottsdale Casa De Alegria in Maricopa County, AZ.

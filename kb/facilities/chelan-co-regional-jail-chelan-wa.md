@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - wa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Chelan Co. Regional Jail in Chelan County, WA.

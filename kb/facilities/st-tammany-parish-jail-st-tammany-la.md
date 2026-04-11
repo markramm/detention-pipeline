@@ -19,5 +19,6 @@ tags:
 - igsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: St Tammany Parish Jail in St. Tammany County, LA.

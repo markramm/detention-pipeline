@@ -20,5 +20,6 @@ tags:
 - juvenile
 - nd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Grand Forks Co. Juvenile in Grand Forks County, ND. Average daily population: 1.

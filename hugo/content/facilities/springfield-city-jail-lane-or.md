@@ -10,6 +10,7 @@ repo_path: "kb/facilities/springfield-city-jail-lane-or.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lane, OR."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Springfield City Jail"
 operator: ""

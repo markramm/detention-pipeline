@@ -19,5 +19,6 @@ tags:
 - hold
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Las Cruces Hold Room in Dona Ana County, NM. Average daily population: 1.

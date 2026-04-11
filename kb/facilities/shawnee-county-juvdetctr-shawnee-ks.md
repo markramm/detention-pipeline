@@ -19,5 +19,6 @@ tags:
 - juvenile
 - ks
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Shawnee County Juv.Det.Ctr in Shawnee County, KS.

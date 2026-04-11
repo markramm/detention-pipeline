@@ -7,6 +7,9 @@ tags:
 - tfm
 - mt
 importance: 5
+state: "MT"
+county: "State: MT"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Montana Department of Justice.

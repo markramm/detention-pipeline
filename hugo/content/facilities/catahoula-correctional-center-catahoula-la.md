@@ -10,6 +10,7 @@ repo_path: "kb/facilities/catahoula-correctional-center-catahoula-la.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Catahoula, LA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Catahoula Correctional Center"
 operator: ""

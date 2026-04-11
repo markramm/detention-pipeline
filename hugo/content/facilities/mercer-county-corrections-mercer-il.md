@@ -10,6 +10,7 @@ repo_path: "kb/facilities/mercer-county-corrections-mercer-il.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Mercer, IL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Mercer County Corrections"
 operator: ""

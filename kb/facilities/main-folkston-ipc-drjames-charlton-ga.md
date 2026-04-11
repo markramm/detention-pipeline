@@ -19,5 +19,6 @@ tags:
 - digsa
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Main Folkston IPC Drjames in Charlton County, GA.

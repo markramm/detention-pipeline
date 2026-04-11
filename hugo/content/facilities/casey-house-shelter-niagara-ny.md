@@ -10,6 +10,7 @@ repo_path: "kb/facilities/casey-house-shelter-niagara-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Niagara, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Casey House Shelter"
 operator: ""

@@ -19,5 +19,6 @@ tags:
 - igsa
 - me
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Washington County Jail in Washington County, ME.

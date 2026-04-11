@@ -19,5 +19,6 @@ tags:
 - igsa
 - mn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Roseau County Jail in Roseau County, MN.

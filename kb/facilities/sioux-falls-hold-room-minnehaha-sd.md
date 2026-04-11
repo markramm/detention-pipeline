@@ -20,5 +20,6 @@ tags:
 - hold
 - sd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Sioux Falls Hold Room in Minnehaha County, SD. Average daily population: 3.

@@ -20,5 +20,6 @@ tags:
 - hold
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Stuart Hold Room in Martin County, FL. Average daily population: 13.

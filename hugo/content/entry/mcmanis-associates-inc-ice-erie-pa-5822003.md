@@ -7,9 +7,10 @@ fips: "42049"
 state: "PA"
 county: "ERIE"
 repo_path: "kb/anc/mcmanis-associates-inc-ice-erie-pa-5822003.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to MCMANIS ASSOCIATES INC in PA ($5,822,002.74)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

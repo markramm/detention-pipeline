@@ -19,5 +19,6 @@ tags:
 - igsa
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Pike County Jail in Pike County, PA.

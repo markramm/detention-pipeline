@@ -7,9 +7,10 @@ fips: "12009"
 state: "FL"
 county: "BREVARD"
 repo_path: "kb/anc/l3harris-technologies-inc-ice-brevard-fl-4386500.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to L3HARRIS TECHNOLOGIES, INC. in FL ($4,386,500.00)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

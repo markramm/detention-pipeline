@@ -20,5 +20,6 @@ tags:
 - igsa
 - id
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Jefferson County Jail in Jefferson County, ID. Average daily population: 11.

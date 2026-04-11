@@ -10,6 +10,7 @@ repo_path: "kb/facilities/alleghany-county-jail-alleghany-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Alleghany, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Alleghany County Jail"
 operator: ""

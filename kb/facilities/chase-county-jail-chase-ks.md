@@ -20,5 +20,6 @@ tags:
 - igsa
 - ks
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Chase County Jail in Chase County, KS. Average daily population: 122.

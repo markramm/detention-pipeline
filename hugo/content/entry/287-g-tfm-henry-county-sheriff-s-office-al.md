@@ -7,9 +7,10 @@ fips: "01067"
 state: "AL"
 county: "Henry County"
 repo_path: "kb/287g/287-g-tfm-henry-county-sheriff-s-office-al.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) TFM agreement between ICE and Henry County Sheriff’s Office, signed December 11, 2025."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

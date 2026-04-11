@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - nd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Ward County Jail in Ward County, ND. Average daily population: 3.

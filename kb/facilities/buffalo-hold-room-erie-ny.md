@@ -20,5 +20,6 @@ tags:
 - hold
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Buffalo Hold Room in Erie County, NY. Average daily population: 2.

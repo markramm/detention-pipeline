@@ -7,9 +7,10 @@ fips: "01117"
 state: "AL"
 county: "SHELBY"
 repo_path: "kb/anc/altec-industries-inc-ice-shelby-al-1935734.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to ALTEC INDUSTRIES, INC. in AL ($1,935,734.00)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

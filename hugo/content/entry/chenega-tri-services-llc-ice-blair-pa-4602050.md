@@ -7,9 +7,10 @@ fips: "42013"
 state: "PA"
 county: "BLAIR"
 repo_path: "kb/anc/chenega-tri-services-llc-ice-blair-pa-4602050.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CHENEGA TRI-SERVICES, LLC in PA ($4,602,050.10)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

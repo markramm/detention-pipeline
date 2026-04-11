@@ -19,5 +19,6 @@ tags:
 - bop
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Ray Brook Fed.Corr.Inst. in Essex County, NY.

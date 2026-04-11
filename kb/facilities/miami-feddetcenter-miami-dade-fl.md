@@ -20,5 +20,6 @@ tags:
 - bop
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Miami Fed.Det.Center in Miami-Dade County, FL. Average daily population: 451.

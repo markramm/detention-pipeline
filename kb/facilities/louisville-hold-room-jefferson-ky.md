@@ -20,5 +20,6 @@ tags:
 - hold
 - ky
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Louisville Hold Room in Jefferson County, KY. Average daily population: 4.

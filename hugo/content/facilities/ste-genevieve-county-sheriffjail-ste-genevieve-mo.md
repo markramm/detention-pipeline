@@ -10,6 +10,7 @@ repo_path: "kb/facilities/ste-genevieve-county-sheriffjail-ste-genevieve-mo.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Ste. Genevieve, MO."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Ste. Genevieve County Sheriff/Jail"
 operator: ""

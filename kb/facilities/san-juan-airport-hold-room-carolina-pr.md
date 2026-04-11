@@ -20,5 +20,6 @@ tags:
 - hold
 - pr
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: San Juan Airport Hold Room in Carolina County, PR. Average daily population: 2.

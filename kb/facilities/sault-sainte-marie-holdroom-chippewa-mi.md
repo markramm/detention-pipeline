@@ -19,5 +19,6 @@ tags:
 - hold
 - mi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Sault Sainte Marie Holdroom in Chippewa County, MI.

@@ -20,5 +20,6 @@ tags:
 - igsa
 - nh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Strafford Co Dept Of Corr in Strafford County, NH. Average daily population: 126.

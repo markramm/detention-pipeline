@@ -10,6 +10,7 @@ repo_path: "kb/facilities/strafford-co-dept-of-corr-strafford-nh.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Strafford, NH."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Strafford Co Dept Of Corr"
 operator: ""

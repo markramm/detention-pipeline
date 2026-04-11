@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - wy
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Uinta County Jail in Uinta County, WY. Average daily population: 46.

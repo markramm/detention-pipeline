@@ -10,6 +10,7 @@ repo_path: "kb/facilities/st-louis-holdroom-st-louis-city-mo.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in St. Louis City, MO."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "St. Louis Holdroom"
 operator: ""

@@ -7,9 +7,10 @@ fips: "13153"
 state: "GA"
 county: "HOUSTON"
 repo_path: "kb/anc/guardian-centers-of-georgia-llc-ice-houston-ga-905862.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to GUARDIAN CENTERS OF GEORGIA, LLC in GA ($905,862.30)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

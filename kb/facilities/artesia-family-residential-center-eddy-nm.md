@@ -20,5 +20,6 @@ tags:
 - family
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Family facility: Artesia Family Residential Center in Eddy County, NM. Average daily population: 2.

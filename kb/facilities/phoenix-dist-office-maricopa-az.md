@@ -20,5 +20,6 @@ tags:
 - hold
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Phoenix Dist Office in Maricopa County, AZ. Average daily population: 50.

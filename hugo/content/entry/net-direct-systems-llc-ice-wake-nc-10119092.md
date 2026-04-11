@@ -7,9 +7,10 @@ fips: "37183"
 state: "NC"
 county: "WAKE"
 repo_path: "kb/anc/net-direct-systems-llc-ice-wake-nc-10119092.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to NET DIRECT SYSTEMS, LLC in NC ($10,119,092.22)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

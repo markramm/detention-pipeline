@@ -10,6 +10,7 @@ repo_path: "kb/facilities/ward-county-jail-ward-nd.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Ward, ND."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Ward County Jail"
 operator: ""

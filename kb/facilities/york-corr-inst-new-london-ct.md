@@ -19,5 +19,6 @@ tags:
 - igsa
 - ct
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: York Corr Inst in New London County, CT.

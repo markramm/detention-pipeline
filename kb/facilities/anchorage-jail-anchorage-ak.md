@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ak
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Anchorage Jail in Anchorage County, AK. Average daily population: 3.

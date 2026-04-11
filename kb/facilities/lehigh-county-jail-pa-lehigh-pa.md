@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Lehigh County Jail, PA in Lehigh County, PA.

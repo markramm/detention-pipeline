@@ -10,6 +10,7 @@ repo_path: "kb/facilities/richmond-sub-office-hold-richmond-city-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Richmond City, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Richmond Sub-Office Hold"
 operator: ""

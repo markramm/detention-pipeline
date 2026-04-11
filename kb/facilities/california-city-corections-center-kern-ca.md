@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: California City Corections Center in Kern County, CA. Average daily population: 1748.

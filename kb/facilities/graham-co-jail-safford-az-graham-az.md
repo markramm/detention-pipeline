@@ -19,5 +19,6 @@ tags:
 - unknown
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Graham Co Jail Safford AZ in Graham County, AZ.

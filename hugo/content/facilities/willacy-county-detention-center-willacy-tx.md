@@ -10,6 +10,7 @@ repo_path: "kb/facilities/willacy-county-detention-center-willacy-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Willacy, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Willacy County Detention Center"
 operator: ""

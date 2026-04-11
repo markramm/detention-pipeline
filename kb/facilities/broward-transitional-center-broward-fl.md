@@ -20,5 +20,6 @@ tags:
 - cdf
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: Broward Transitional Center in Broward County, FL. Average daily population: 682.

@@ -7,9 +7,10 @@ fips: "42037"
 state: "PA"
 county: "Columbia County"
 repo_path: "kb/287g/287-g-tfm-benton-borough-police-department-pa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) TFM agreement between ICE and Benton Borough Police Department, signed November 4, 2025."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

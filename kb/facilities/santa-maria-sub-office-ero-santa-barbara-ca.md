@@ -20,5 +20,6 @@ tags:
 - unknown
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Santa Maria Sub Office ERO in Santa Barbara County, CA. Average daily population: 5.

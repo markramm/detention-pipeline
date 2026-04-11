@@ -19,5 +19,6 @@ tags:
 - igsa
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Rio Grande County Jail in Rio Grande County, CO.

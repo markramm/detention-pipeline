@@ -10,6 +10,7 @@ repo_path: "kb/facilities/lafayette-parish-so-jail-annex-lafayette-la.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lafayette, LA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Lafayette Parish So Jail Annex"
 operator: ""

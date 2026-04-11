@@ -19,5 +19,6 @@ tags:
 - bop
 - pr
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Guaynabo MDC (San Juan) in Guaynabo County, PR.

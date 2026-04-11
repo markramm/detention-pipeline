@@ -19,5 +19,6 @@ tags:
 - igsa
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Chemung County Jail in Chemung County, NY.

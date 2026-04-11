@@ -20,5 +20,6 @@ tags:
 - bop
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Lewisburg U.S. Pen. in Union County, PA. Average daily population: 184.

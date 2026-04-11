@@ -20,5 +20,6 @@ tags:
 - igsa
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Bluebonnet Det Fclty in Jones County, TX. Average daily population: 993.

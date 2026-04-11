@@ -10,6 +10,7 @@ repo_path: "kb/facilities/athens-tx-hold-room-henderson-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Henderson, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Athens, TX Hold Room"
 operator: ""

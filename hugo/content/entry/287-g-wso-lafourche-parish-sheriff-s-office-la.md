@@ -7,9 +7,10 @@ fips: "22057"
 state: "LA"
 county: "Lafourche Parish"
 repo_path: "kb/287g/287-g-wso-lafourche-parish-sheriff-s-office-la.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) WSO agreement between ICE and Lafourche Parish Sheriff’s Office, signed June 11, 2025."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

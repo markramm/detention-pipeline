@@ -7,9 +7,10 @@ fips: "48491"
 state: "TX"
 county: "WILLIAMSON"
 repo_path: "kb/anc/corecivic-inc-ice-williamson-tx-21994751.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CORECIVIC, INC. in TX ($21,994,750.68)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

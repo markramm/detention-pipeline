@@ -7,9 +7,10 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/budget/700-rural-counties-secure-rural-schools-funding-lapse-170m-revenue-loss.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Budget distress indicators for ."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

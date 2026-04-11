@@ -20,5 +20,6 @@ tags:
 - igsa
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Culpeper Co. Adult Det. Center in Culpeper County, VA. Average daily population: 1.

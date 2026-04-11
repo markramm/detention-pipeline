@@ -20,5 +20,6 @@ tags:
 - hold
 - sc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Columbia, SC Holdroom in Richland County, SC. Average daily population: 3.

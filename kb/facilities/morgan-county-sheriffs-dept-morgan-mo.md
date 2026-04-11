@@ -19,5 +19,6 @@ tags:
 - igsa
 - mo
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Morgan County Sheriff's Dept in Morgan County, MO.

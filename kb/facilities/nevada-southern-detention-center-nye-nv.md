@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - nv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Nevada Southern Detention Center in Nye County, NV. Average daily population: 469.

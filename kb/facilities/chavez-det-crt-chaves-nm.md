@@ -20,5 +20,6 @@ tags:
 - igsa
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Chavez Det Crt in Chaves County, NM. Average daily population: 4.

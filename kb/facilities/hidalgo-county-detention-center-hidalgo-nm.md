@@ -20,5 +20,6 @@ tags:
 - igsa
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Hidalgo County Detention Center in Hidalgo County, NM. Average daily population: 2.

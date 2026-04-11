@@ -10,6 +10,7 @@ repo_path: "kb/facilities/la-plata-county-jail-la-plata-co.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in La Plata, CO."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "La Plata County Jail"
 operator: ""

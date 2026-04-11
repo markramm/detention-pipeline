@@ -22,6 +22,7 @@ tags:
 - approved
 - sabot-model
 importance: 7
+source_url: "https://webapi.legistar.com"
 ---
 
 Bradford County commission approved an IGSA for ICE detention in a 3-2 vote. The Bradford County sheriff cited a '$5.25 to $5.5 million dollar shortfall' as justification.

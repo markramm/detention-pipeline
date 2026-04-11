@@ -20,5 +20,6 @@ tags:
 - igsa
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Hendry County Jail in Hendry County, FL. Average daily population: 2.

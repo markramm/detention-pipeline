@@ -19,5 +19,6 @@ tags:
 - igsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Avoyelles Parish Prison in Avoyelles County, LA.

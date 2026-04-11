@@ -20,5 +20,6 @@ tags:
 - hold
 - ar
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Texarkana Holdroom in Miller County, AR. Average daily population: 2.

@@ -7,9 +7,10 @@ fips: "12009"
 state: "FL"
 county: "BREVARD"
 repo_path: "kb/anc/csi-aviation-inc-ice-brevard-fl-258529725.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CSI AVIATION, INC in FL ($258,529,725.25)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

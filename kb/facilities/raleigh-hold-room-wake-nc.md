@@ -20,5 +20,6 @@ tags:
 - hold
 - nc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Raleigh Hold Room in Wake County, NC. Average daily population: 9.

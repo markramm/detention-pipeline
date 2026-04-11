@@ -10,6 +10,7 @@ repo_path: "kb/facilities/anvil-mountain-cc-nome-nome-census-area-ak.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Nome Census Area, AK."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Anvil Mountain Cc, Nome,"
 operator: ""

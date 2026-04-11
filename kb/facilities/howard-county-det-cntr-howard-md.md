@@ -19,5 +19,6 @@ tags:
 - igsa
 - md
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Howard County Det Cntr in Howard County, MD.

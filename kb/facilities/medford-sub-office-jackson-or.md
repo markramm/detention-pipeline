@@ -20,5 +20,6 @@ tags:
 - hold
 - or
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Medford Sub-Office in Jackson County, OR. Average daily population: 2.

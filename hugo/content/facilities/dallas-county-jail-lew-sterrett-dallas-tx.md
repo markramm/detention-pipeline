@@ -10,6 +10,7 @@ repo_path: "kb/facilities/dallas-county-jail-lew-sterrett-dallas-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Dallas, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Dallas County Jail-Lew Sterrett"
 operator: ""

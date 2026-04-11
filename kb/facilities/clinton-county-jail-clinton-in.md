@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - in
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Clinton County Jail in Clinton County, IN. Average daily population: 32.

@@ -19,5 +19,6 @@ tags:
 - hold
 - wa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Spokane Hold Room in Spokane County, WA. Average daily population: 4.

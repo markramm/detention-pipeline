@@ -10,6 +10,7 @@ repo_path: "kb/facilities/delaney-hall-detention-facility-essex-nj.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Essex, NJ."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Delaney Hall Detention Facility"
 operator: ""

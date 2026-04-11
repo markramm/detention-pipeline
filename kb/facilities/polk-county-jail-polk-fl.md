@@ -20,5 +20,6 @@ tags:
 - detention
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Polk County Jail in Polk County, FL. Average daily population: 1.

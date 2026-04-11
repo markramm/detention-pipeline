@@ -7,9 +7,10 @@ fips: "36037"
 state: "NY"
 county: "GENESEE"
 repo_path: "kb/anc/chenega-facilities-management-llc-ice-genesee-ny-28471542.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CHENEGA FACILITIES MANAGEMENT LLC in NY ($28,471,541.79)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

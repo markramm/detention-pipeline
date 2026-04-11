@@ -10,6 +10,7 @@ repo_path: "kb/facilities/laramie-county-jail-laramie-wy.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Laramie, WY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Laramie County Jail"
 operator: ""

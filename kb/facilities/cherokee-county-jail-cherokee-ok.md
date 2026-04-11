@@ -19,5 +19,6 @@ tags:
 - other
 - ok
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Cherokee County Jail in Cherokee County, OK.

@@ -19,5 +19,6 @@ tags:
 - igsa
 - mi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Dearborn Police Dept. in Wayne County, MI.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/adirondack-cf-raybrook-essex-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Essex, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Adirondack CF, Raybrook"
 operator: ""

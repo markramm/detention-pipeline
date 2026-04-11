@@ -7,9 +7,10 @@ fips: "12011"
 state: "FL"
 county: "Broward"
 repo_path: "kb/budget/broward-county-fl-190m-budget-overspend-fl-cfo-finding-oct-2025.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Budget distress indicators for Broward, FL."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

@@ -7,9 +7,10 @@ fips: "42003"
 state: "PA"
 county: "ALLEGHENY"
 repo_path: "kb/anc/qintel-llc-ice-allegheny-pa-4500000.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to QINTEL LLC in PA ($4,500,000.00)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

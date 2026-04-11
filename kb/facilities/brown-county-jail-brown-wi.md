@@ -20,5 +20,6 @@ tags:
 - unknown
 - wi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Brown County Jail in Brown County, WI. Average daily population: 1.

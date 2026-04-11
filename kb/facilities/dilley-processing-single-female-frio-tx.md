@@ -20,5 +20,6 @@ tags:
 - detention
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Dilley Processing Single Female in Frio County, TX. Average daily population: 294.

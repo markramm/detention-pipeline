@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - gu
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Dept Of Corrections-Hagatna in Guam County, GU. Average daily population: 22.

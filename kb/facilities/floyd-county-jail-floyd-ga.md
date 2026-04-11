@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Floyd County Jail in Floyd County, GA. Average daily population: 2.

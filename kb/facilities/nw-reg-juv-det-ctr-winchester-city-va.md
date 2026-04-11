@@ -20,5 +20,6 @@ tags:
 - unknown
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: NW Reg Juv Det Ctr in Winchester City County, VA. Average daily population: 2.

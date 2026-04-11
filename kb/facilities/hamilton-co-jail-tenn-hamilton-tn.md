@@ -19,5 +19,6 @@ tags:
 - detention
 - tn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Hamilton Co. Jail (Tenn) in Hamilton County, TN.

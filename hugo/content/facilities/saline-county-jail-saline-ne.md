@@ -10,6 +10,7 @@ repo_path: "kb/facilities/saline-county-jail-saline-ne.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Saline, NE."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Saline County Jail"
 operator: ""

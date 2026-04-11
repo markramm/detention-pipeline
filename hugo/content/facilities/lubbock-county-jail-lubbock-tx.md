@@ -10,6 +10,7 @@ repo_path: "kb/facilities/lubbock-county-jail-lubbock-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lubbock, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Lubbock County Jail"
 operator: ""

@@ -20,5 +20,6 @@ tags:
 - hold
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Grand Junction Holdroom in Mesa County, CO. Average daily population: 1.

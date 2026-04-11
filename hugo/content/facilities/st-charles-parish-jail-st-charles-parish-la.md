@@ -10,6 +10,7 @@ repo_path: "kb/facilities/st-charles-parish-jail-st-charles-parish-la.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in St. Charles Parish, LA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "St Charles Parish Jail"
 operator: ""

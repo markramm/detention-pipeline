@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ne
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Phelps County Jail in Phelps County, NE. Average daily population: 28.

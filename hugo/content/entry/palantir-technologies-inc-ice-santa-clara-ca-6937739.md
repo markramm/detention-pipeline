@@ -7,9 +7,10 @@ fips: "06085"
 state: "CA"
 county: "SANTA CLARA"
 repo_path: "kb/anc/palantir-technologies-inc-ice-santa-clara-ca-6937739.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to PALANTIR TECHNOLOGIES INC. in CA ($6,937,738.86)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

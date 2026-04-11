@@ -20,5 +20,6 @@ tags:
 - detention
 - ms
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Harrison Detention Center in Harrison County, MS. Average daily population: 1.

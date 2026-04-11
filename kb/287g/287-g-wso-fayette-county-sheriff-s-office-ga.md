@@ -7,6 +7,10 @@ tags:
 - wso
 - ga
 importance: 5
+state: "GA"
+county: "Fayette County"
+fips: "13113"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Fayette County Sheriff’s Office.

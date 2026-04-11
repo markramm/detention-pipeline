@@ -7,9 +7,10 @@ fips: "13135"
 state: "GA"
 county: "GWINNETT"
 repo_path: "kb/anc/commdex-llc-ice-gwinnett-ga-4776336.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to COMMDEX, LLC in GA ($4,776,335.88)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

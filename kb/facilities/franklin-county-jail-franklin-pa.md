@@ -20,5 +20,6 @@ tags:
 - unknown
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Franklin County Jail in Franklin County, PA. Average daily population: 4.

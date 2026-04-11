@@ -7,9 +7,10 @@ fips: "13053"
 state: "GA"
 county: "CHATTAHOOCHEE"
 repo_path: "kb/anc/axon-enterprise-inc-ice-chattahoochee-ga-7162929.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to AXON ENTERPRISE, INC. in GA ($7,162,929.07)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -19,5 +19,6 @@ tags:
 - igsa
 - wv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: WV Regional Jail & Corr. in Kanawha County, WV.

@@ -19,5 +19,6 @@ tags:
 - igsa
 - ks
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Shawnee County Dept Of Corr. in Shawnee County, KS.

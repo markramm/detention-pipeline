@@ -19,5 +19,6 @@ tags:
 - other
 - in
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Elkhart County Jail in Elkhart County, IN.

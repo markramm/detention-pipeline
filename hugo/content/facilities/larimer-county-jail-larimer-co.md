@@ -10,6 +10,7 @@ repo_path: "kb/facilities/larimer-county-jail-larimer-co.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Larimer, CO."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Larimer County Jail"
 operator: ""

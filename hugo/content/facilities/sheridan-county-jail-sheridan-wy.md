@@ -10,6 +10,7 @@ repo_path: "kb/facilities/sheridan-county-jail-sheridan-wy.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Sheridan, WY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Sheridan County Jail"
 operator: ""

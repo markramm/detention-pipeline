@@ -20,5 +20,6 @@ tags:
 - hold
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Bakerfield Hold in Kern County, CA. Average daily population: 21.

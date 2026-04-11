@@ -10,6 +10,7 @@ repo_path: "kb/facilities/waukesha-county-jail-waukesha-wi.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Waukesha, WI."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Waukesha County Jail"
 operator: ""

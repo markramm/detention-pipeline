@@ -10,6 +10,7 @@ repo_path: "kb/facilities/eden-det-ctr-hold-room-concho-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Concho, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Eden Det Ctr Hold Room"
 operator: ""

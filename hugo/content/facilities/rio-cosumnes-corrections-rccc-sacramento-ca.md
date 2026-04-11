@@ -10,6 +10,7 @@ repo_path: "kb/facilities/rio-cosumnes-corrections-rccc-sacramento-ca.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Sacramento, CA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Rio Cosumnes Corrections-RCCC"
 operator: ""

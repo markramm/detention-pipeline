@@ -20,5 +20,6 @@ tags:
 - unknown
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Atlanta U.S. Pen. in Dekalb County, GA. Average daily population: 80.

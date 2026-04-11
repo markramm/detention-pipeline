@@ -19,5 +19,6 @@ tags:
 - igsa
 - wy
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Goshen County Jail in Goshen County, WY.

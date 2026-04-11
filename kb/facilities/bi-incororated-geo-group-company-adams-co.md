@@ -20,5 +20,6 @@ tags:
 - unknown
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: BI Incororated, GEO Group Company in Adams County, CO. Average daily population: 2.

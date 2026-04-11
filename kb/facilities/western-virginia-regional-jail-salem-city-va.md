@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Western Virginia Regional Jail in Salem City County, VA. Average daily population: 6.

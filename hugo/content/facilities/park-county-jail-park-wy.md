@@ -10,6 +10,7 @@ repo_path: "kb/facilities/park-county-jail-park-wy.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Park, WY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Park County Jail"
 operator: ""

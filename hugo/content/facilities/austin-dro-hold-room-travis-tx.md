@@ -10,6 +10,7 @@ repo_path: "kb/facilities/austin-dro-hold-room-travis-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Travis, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Austin DRO Hold Room"
 operator: ""

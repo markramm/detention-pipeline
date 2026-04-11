@@ -19,5 +19,6 @@ tags:
 - igsa
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Pima County Jail in Pima County, AZ.

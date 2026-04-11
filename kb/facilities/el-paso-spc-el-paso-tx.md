@@ -20,5 +20,6 @@ tags:
 - spc
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 SPC facility: El Paso SPC in El Paso County, TX. Average daily population: 797.

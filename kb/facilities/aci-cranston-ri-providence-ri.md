@@ -19,5 +19,6 @@ tags:
 - igsa
 - ri
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: ACI, Cranston RI in Providence County, RI.

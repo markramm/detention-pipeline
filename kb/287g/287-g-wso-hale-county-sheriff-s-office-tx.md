@@ -7,6 +7,10 @@ tags:
 - wso
 - tx
 importance: 5
+state: "TX"
+county: "Hale County"
+fips: "48189"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Hale County Sheriff’s Office.

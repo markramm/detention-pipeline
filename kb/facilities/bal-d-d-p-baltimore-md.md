@@ -20,5 +20,6 @@ tags:
 - hold
 - md
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Bal D D & P in Baltimore County, MD. Average daily population: 139.

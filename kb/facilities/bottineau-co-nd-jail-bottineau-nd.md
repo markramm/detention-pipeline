@@ -19,5 +19,6 @@ tags:
 - igsa
 - nd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Bottineau Co. ND Jail in Bottineau County, ND.

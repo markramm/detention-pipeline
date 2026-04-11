@@ -10,6 +10,7 @@ repo_path: "kb/facilities/oklahoma-city-hold-room-oklahoma-ok.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Oklahoma, OK."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Oklahoma City Hold Room."
 operator: ""

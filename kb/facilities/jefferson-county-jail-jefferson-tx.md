@@ -19,5 +19,6 @@ tags:
 - igsa
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Jefferson County Jail in Jefferson County, TX.

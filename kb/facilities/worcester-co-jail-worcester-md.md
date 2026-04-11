@@ -20,5 +20,6 @@ tags:
 - igsa
 - md
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Worcester Co. Jail in Worcester County, MD. Average daily population: 1.

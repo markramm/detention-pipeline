@@ -10,6 +10,7 @@ repo_path: "kb/facilities/jackson-parish-correctional-center-jackson-la.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Jackson, LA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Jackson Parish Correctional Center"
 operator: ""

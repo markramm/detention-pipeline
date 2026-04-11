@@ -20,5 +20,6 @@ tags:
 - hold
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Oakdale Holding Room in Allen County, LA. Average daily population: 3.

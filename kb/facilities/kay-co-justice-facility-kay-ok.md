@@ -20,5 +20,6 @@ tags:
 - igsa
 - ok
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Kay Co Justice Facility in Kay County, OK. Average daily population: 148.

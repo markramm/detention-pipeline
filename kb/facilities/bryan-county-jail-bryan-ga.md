@@ -20,5 +20,6 @@ tags:
 - igsa
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Bryan County Jail in Bryan County, GA. Average daily population: 2.

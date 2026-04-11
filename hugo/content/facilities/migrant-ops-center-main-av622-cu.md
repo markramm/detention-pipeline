@@ -10,6 +10,7 @@ repo_path: "kb/facilities/migrant-ops-center-main-av622-cu.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in CU."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Migrant Ops Center Main Av622"
 operator: ""

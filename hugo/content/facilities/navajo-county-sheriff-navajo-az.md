@@ -10,6 +10,7 @@ repo_path: "kb/facilities/navajo-county-sheriff-navajo-az.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Navajo, AZ."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Navajo County Sheriff"
 operator: ""

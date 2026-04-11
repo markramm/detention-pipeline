@@ -19,5 +19,6 @@ tags:
 - unknown
 - nc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Pender County Jail in Pender County, NC.

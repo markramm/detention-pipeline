@@ -7,9 +7,10 @@ fips: "34003"
 state: "NJ"
 county: "BERGEN"
 repo_path: "kb/anc/telco-solutions-inc-ice-bergen-nj-1969354.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to TELCO SOLUTIONS, INC. in NJ ($1,969,354.33)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

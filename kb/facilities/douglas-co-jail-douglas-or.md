@@ -19,5 +19,6 @@ tags:
 - igsa
 - or
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Douglas Co. Jail in Douglas County, OR.

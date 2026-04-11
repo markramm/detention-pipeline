@@ -20,5 +20,6 @@ tags:
 - hold
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: AZ Rem Op Coord Center (AROCC) in Maricopa County, AZ. Average daily population: 229.

@@ -7,9 +7,10 @@ fips: "36061"
 state: "NY"
 county: "NEW YORK"
 repo_path: "kb/anc/paragon-professional-services-llc-ice-new-york-ny-5403207.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to PARAGON PROFESSIONAL SERVICES LLC in NY ($5,403,207.11)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

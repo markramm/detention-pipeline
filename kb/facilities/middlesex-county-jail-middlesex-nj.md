@@ -19,5 +19,6 @@ tags:
 - igsa
 - nj
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Middlesex County Jail in Middlesex County, NJ.

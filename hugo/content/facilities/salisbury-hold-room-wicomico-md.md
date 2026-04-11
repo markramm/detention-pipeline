@@ -10,6 +10,7 @@ repo_path: "kb/facilities/salisbury-hold-room-wicomico-md.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Wicomico, MD."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Salisbury Hold Room"
 operator: ""

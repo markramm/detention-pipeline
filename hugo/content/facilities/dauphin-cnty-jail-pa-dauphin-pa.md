@@ -10,6 +10,7 @@ repo_path: "kb/facilities/dauphin-cnty-jail-pa-dauphin-pa.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Dauphin, PA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Dauphin Cnty Jail, PA"
 operator: ""

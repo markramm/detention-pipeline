@@ -20,5 +20,6 @@ tags:
 - hold
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Richmond Sub-Office Hold in Richmond City County, VA. Average daily population: 28.

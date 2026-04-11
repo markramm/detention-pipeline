@@ -10,6 +10,7 @@ repo_path: "kb/facilities/grand-forks-county-correc-grand-forks-nd.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Grand Forks, ND."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Grand Forks County Correc"
 operator: ""

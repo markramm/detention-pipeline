@@ -20,5 +20,6 @@ tags:
 - hold
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Shreveport Hold Room in Caddo Parish County, LA. Average daily population: 2.

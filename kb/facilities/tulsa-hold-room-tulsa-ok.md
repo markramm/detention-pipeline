@@ -20,5 +20,6 @@ tags:
 - hold
 - ok
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Tulsa Hold Room in Tulsa County, OK. Average daily population: 4.

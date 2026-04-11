@@ -19,5 +19,6 @@ tags:
 - detention
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: B.R.R.J. Halifax in Halifax County, VA.

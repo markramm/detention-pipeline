@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - sd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Union County Jail in Union County, SD. Average daily population: 4.

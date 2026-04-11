@@ -20,5 +20,6 @@ tags:
 - digsa
 - ne
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: McCook ICE IGSA in Red Willow County, NE. Average daily population: 151.

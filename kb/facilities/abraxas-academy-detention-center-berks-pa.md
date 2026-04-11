@@ -20,5 +20,6 @@ tags:
 - juvenile
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Abraxas Academy Detention Center in Berks County, PA. Average daily population: 5.

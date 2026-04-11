@@ -7,9 +7,10 @@ fips: "35001"
 state: "NM"
 county: "BERNALILLO"
 repo_path: "kb/anc/applied-research-associates-inc-ice-bernalillo-nm-1075773.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to APPLIED RESEARCH ASSOCIATES, INC. in NM ($1,075,772.65)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

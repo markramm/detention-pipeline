@@ -20,5 +20,6 @@ tags:
 - igsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Catahoula Correctional Center in Catahoula County, LA. Average daily population: 1.

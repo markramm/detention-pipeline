@@ -20,5 +20,6 @@ tags:
 - spc
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 SPC facility: Buffalo SPC in Genesee County, NY. Average daily population: 732.

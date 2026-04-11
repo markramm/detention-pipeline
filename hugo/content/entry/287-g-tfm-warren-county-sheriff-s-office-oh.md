@@ -7,9 +7,10 @@ fips: "39165"
 state: "OH"
 county: "Warren County"
 repo_path: "kb/287g/287-g-tfm-warren-county-sheriff-s-office-oh.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) TFM agreement between ICE and Warren County Sheriff’s Office, signed November 14, 2025."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

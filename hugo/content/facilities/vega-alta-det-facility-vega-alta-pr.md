@@ -10,6 +10,7 @@ repo_path: "kb/facilities/vega-alta-det-facility-vega-alta-pr.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Vega Alta, PR."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Vega Alta Det. Facility"
 operator: ""

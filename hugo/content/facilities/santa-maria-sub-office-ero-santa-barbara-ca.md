@@ -10,6 +10,7 @@ repo_path: "kb/facilities/santa-maria-sub-office-ero-santa-barbara-ca.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Santa Barbara, CA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Santa Maria Sub Office ERO"
 operator: ""

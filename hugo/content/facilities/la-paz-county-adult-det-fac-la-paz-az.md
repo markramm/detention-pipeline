@@ -10,6 +10,7 @@ repo_path: "kb/facilities/la-paz-county-adult-det-fac-la-paz-az.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in La Paz, AZ."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "La Paz County Adult Det. Fac."
 operator: ""

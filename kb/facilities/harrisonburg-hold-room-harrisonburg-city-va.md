@@ -20,5 +20,6 @@ tags:
 - hold
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Harrisonburg Hold Room in Harrisonburg City County, VA. Average daily population: 2.

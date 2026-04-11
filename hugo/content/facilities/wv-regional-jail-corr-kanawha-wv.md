@@ -10,6 +10,7 @@ repo_path: "kb/facilities/wv-regional-jail-corr-kanawha-wv.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kanawha, WV."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "WV Regional Jail & Corr."
 operator: ""

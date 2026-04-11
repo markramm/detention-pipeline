@@ -20,5 +20,6 @@ tags:
 - hold
 - nv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Las Vegas Hold Room in Clark County, NV. Average daily population: 6.

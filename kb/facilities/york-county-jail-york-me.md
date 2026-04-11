@@ -19,5 +19,6 @@ tags:
 - igsa
 - me
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: York County Jail in York County, ME.

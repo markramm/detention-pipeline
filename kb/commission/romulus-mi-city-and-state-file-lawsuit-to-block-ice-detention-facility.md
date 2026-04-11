@@ -18,6 +18,7 @@ tags:
 - active-fight
 - lawsuit
 importance: 8
+source_url: "https://webapi.legistar.com"
 ---
 
 City of Romulus and State of Michigan filed suit March 24, 2026 to block ICE's conversion of 7525 Cogswell St warehouse to detention.

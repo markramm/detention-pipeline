@@ -10,6 +10,7 @@ repo_path: "kb/facilities/golden-state-annex-kern-ca.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kern, CA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Golden State Annex"
 operator: ""

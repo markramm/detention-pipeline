@@ -20,5 +20,6 @@ tags:
 - bop
 - hi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Honolulu Federal Detention Center in Honolulu County, HI. Average daily population: 62.

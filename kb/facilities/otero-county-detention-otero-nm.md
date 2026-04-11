@@ -19,5 +19,6 @@ tags:
 - igsa
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Otero County Detention in Otero County, NM.

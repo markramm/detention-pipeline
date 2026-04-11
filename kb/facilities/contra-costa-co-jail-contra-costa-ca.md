@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Contra Costa Co. Jail in Contra Costa County, CA.

@@ -7,9 +7,10 @@ fips: "48141"
 state: "TX"
 county: "EL PASO"
 repo_path: "kb/anc/acquisition-logistics-llc-ice-el-paso-tx-598444871.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to ACQUISITION LOGISTICS LLC in TX ($598,444,871.04)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

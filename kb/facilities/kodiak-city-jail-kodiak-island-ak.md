@@ -20,5 +20,6 @@ tags:
 - igsa
 - ak
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Kodiak City Jail in Kodiak Island County, AK. Average daily population: 1.

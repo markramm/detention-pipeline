@@ -20,5 +20,6 @@ tags:
 - hold
 - al
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Birmingham Hold Room in Jefferson County, AL. Average daily population: 7.

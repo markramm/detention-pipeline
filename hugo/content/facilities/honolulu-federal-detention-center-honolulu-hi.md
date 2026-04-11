@@ -10,6 +10,7 @@ repo_path: "kb/facilities/honolulu-federal-detention-center-honolulu-hi.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Honolulu, HI."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Honolulu Federal Detention Center"
 operator: ""

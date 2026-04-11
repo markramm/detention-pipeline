@@ -19,5 +19,6 @@ tags:
 - juvenile
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: No. Va. Juvenile Det - ICE in Alexandria City County, VA.

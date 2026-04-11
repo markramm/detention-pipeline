@@ -20,5 +20,6 @@ tags:
 - unknown
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Lake County Jail in Lake County, FL. Average daily population: 1.

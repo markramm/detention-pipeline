@@ -20,5 +20,6 @@ tags:
 - digsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Richwood Cor Center in Ouachita County, LA. Average daily population: 983.

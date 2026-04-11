@@ -7,9 +7,10 @@ fips: "13305"
 state: "GA"
 county: "Wayne County"
 repo_path: "kb/287g/287-g-tfm-wayne-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) TFM agreement between ICE and Wayne County Sheriff’s Office, signed January 30, 2026."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

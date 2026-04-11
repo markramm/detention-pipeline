@@ -20,5 +20,6 @@ tags:
 - hold
 - oh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Columbus Holdroom in Franklin County, OH. Average daily population: 1.

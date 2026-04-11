@@ -10,6 +10,7 @@ repo_path: "kb/facilities/cabarrus-county-jail-cabarrus-nc.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Cabarrus, NC."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Cabarrus County Jail"
 operator: ""

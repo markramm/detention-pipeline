@@ -7,9 +7,10 @@ fips: "48365"
 state: "TX"
 county: "Panola County"
 repo_path: "kb/287g/287-g-wso-panola-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) WSO agreement between ICE and Panola County Sheriff’s Office, signed March 26, 2025."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

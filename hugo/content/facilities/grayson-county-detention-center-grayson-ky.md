@@ -10,6 +10,7 @@ repo_path: "kb/facilities/grayson-county-detention-center-grayson-ky.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Grayson, KY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Grayson County Detention Center"
 operator: ""

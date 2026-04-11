@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ut
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Tooele County Jail in Tooele County, UT. Average daily population: 12.

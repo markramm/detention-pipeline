@@ -10,6 +10,7 @@ repo_path: "kb/budget/whitman-county-wa-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Whitman County, WA."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

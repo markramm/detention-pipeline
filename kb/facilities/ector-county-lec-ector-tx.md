@@ -20,5 +20,6 @@ tags:
 - other
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Ector County L.E.C. in Ector County, TX. Average daily population: 1.

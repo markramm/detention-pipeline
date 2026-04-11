@@ -19,5 +19,6 @@ tags:
 - igsa
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Denver Justice Center in Denver County, CO.

@@ -19,5 +19,6 @@ tags:
 - digsa
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Berks County Residential Center in Berks County, PA.

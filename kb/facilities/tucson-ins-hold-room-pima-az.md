@@ -20,5 +20,6 @@ tags:
 - hold
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Tucson INS Hold Room in Pima County, AZ. Average daily population: 4.

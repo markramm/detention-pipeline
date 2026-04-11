@@ -20,5 +20,6 @@ tags:
 - igsa
 - ia
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Woodbury County Jail in Woodbury County, IA. Average daily population: 68.

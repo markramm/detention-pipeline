@@ -20,5 +20,6 @@ tags:
 - hold
 - ks
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Wichita Holdroom in Sedgwick County, KS. Average daily population: 2.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/fairfax-co-adult-detention-center-fairfax-city-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Fairfax City, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Fairfax Co. Adult Detention Center"
 operator: ""

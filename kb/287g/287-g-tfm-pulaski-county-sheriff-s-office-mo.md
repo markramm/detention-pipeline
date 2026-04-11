@@ -7,6 +7,10 @@ tags:
 - tfm
 - mo
 importance: 5
+state: "MO"
+county: "Pulaski County"
+fips: "29169"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Pulaski County Sheriff’s Office.

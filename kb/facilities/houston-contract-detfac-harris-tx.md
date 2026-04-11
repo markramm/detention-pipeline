@@ -20,5 +20,6 @@ tags:
 - cdf
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: Houston Contract Det.Fac. in Harris County, TX. Average daily population: 763.

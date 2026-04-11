@@ -20,5 +20,6 @@ tags:
 - igsa
 - nj
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Delaney Hall Detention Facility in Essex County, NJ. Average daily population: 821.

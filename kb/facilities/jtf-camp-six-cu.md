@@ -20,5 +20,6 @@ tags:
 - dod
 - cu
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DOD facility: JTF Camp Six in CU. Average daily population: 13.

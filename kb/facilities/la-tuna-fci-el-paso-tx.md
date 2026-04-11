@@ -20,5 +20,6 @@ tags:
 - bop
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: La Tuna FCI in El Paso County, TX. Average daily population: 1.

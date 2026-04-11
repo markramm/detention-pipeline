@@ -16,6 +16,7 @@ tags:
 - rural
 - systemic
 importance: 7
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 ---
 
 The Secure Rural Schools program lapsed after FY2023, reducing revenue sharing by $170M+ for 700+ counties in 41 states. Most counties saw 80% reduction in funding. Teachers laid off, schools cut, roads unrepaired.

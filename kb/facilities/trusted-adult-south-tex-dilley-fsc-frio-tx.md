@@ -19,5 +19,6 @@ tags:
 - tap-ice
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 TAP-ICE facility: Trusted Adult South Tex Dilley FSC in Frio County, TX.

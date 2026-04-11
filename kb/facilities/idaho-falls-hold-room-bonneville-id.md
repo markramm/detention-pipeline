@@ -20,5 +20,6 @@ tags:
 - hold
 - id
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Idaho Falls Hold Room in Bonneville County, ID. Average daily population: 2.

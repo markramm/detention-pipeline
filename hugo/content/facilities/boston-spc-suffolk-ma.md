@@ -10,6 +10,7 @@ repo_path: "kb/facilities/boston-spc-suffolk-ma.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Suffolk, MA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Boston SPC"
 operator: ""

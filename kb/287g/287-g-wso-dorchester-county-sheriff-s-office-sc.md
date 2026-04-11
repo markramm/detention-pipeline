@@ -7,6 +7,10 @@ tags:
 - wso
 - sc
 importance: 5
+state: "SC"
+county: "Dorchester County"
+fips: "45035"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Dorchester County Sheriff’s Office.

@@ -19,5 +19,6 @@ tags:
 - unknown
 - mi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Muskegon County Jail in Muskegon County, MI.

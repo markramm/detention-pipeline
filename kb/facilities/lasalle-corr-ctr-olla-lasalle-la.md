@@ -20,5 +20,6 @@ tags:
 - igsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Lasalle Corr Ctr Olla in Lasalle County, LA. Average daily population: 2.

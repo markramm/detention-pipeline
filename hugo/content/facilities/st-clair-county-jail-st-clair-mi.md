@@ -10,6 +10,7 @@ repo_path: "kb/facilities/st-clair-county-jail-st-clair-mi.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in St. Clair, MI."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "St. Clair County Jail"
 operator: ""

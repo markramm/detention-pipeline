@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ak
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Highland Mtn Cor Ctr in Anchorage County, AK. Average daily population: 2.

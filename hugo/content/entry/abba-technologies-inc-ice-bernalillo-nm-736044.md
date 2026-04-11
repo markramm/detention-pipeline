@@ -7,9 +7,10 @@ fips: "35001"
 state: "NM"
 county: "BERNALILLO"
 repo_path: "kb/anc/abba-technologies-inc-ice-bernalillo-nm-736044.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to ABBA TECHNOLOGIES, INC. in NM ($736,043.86)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

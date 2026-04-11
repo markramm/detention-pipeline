@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - mo
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Ste. Genevieve County Sheriff/Jail in Ste. Genevieve County, MO. Average daily population: 150.

@@ -20,5 +20,6 @@ tags:
 - family
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Family facility: Karnes County Civil Det. Facility in Karnes County, TX. Average daily population: 1.

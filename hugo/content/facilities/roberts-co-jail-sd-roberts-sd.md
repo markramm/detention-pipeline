@@ -10,6 +10,7 @@ repo_path: "kb/facilities/roberts-co-jail-sd-roberts-sd.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Roberts, SD."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Roberts Co. Jail, SD"
 operator: ""

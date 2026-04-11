@@ -7,9 +7,10 @@ fips: "06079"
 state: "CA"
 county: "SAN LUIS OBISPO"
 repo_path: "kb/anc/fleet-management-solutions-inc-ice-san-luis-obispo-ca-1245846.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to FLEET MANAGEMENT SOLUTIONS INC in CA ($1,245,845.68)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

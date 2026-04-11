@@ -20,5 +20,6 @@ tags:
 - igsa
 - nd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Cass County Jail in Cass County, ND. Average daily population: 1.

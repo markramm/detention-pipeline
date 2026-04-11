@@ -10,6 +10,7 @@ repo_path: "kb/facilities/la-tuna-federal-sattelite-low-el-paso-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in El Paso, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "La Tuna Federal Sattelite, Low"
 operator: ""

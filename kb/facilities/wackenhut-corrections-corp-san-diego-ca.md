@@ -19,5 +19,6 @@ tags:
 - igsa
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Wackenhut Corrections Corp in San Diego County, CA.

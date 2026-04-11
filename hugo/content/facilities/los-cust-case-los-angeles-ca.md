@@ -10,6 +10,7 @@ repo_path: "kb/facilities/los-cust-case-los-angeles-ca.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Los Angeles, CA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Los Cust Case"
 operator: ""

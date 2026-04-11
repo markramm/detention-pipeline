@@ -19,5 +19,6 @@ tags:
 - hold
 - co
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Brush Holdroom in Morgan County, CO.

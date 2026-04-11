@@ -10,6 +10,7 @@ repo_path: "kb/facilities/walton-county-doc-walton-fl.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Walton, FL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Walton County D.O.C."
 operator: ""

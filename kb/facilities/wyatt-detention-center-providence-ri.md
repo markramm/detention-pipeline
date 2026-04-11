@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ri
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Wyatt Detention Center in Providence County, RI. Average daily population: 103.

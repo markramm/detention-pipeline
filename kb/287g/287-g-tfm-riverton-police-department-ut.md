@@ -7,6 +7,10 @@ tags:
 - tfm
 - ut
 importance: 5
+state: "UT"
+county: "Salt Lake County"
+fips: "49035"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Riverton Police Department.

@@ -20,5 +20,6 @@ tags:
 - hold
 - al
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Montgomery Hold Room in Montgomery County, AL. Average daily population: 5.

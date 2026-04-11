@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ut
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Weber County Jail in Weber County, UT. Average daily population: 11.

@@ -20,5 +20,6 @@ tags:
 - digsa
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Moshannon Valley Processing Center in Clearfield County, PA. Average daily population: 1651.

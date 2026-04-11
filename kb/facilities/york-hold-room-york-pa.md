@@ -19,5 +19,6 @@ tags:
 - hold
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: York Hold Room in York County, PA. Average daily population: 6.

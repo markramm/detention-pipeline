@@ -10,6 +10,7 @@ repo_path: "kb/facilities/charleston-county-correct-charleston-sc.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Charleston, SC."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Charleston County Correct"
 operator: ""

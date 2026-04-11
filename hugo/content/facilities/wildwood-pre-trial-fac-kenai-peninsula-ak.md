@@ -10,6 +10,7 @@ repo_path: "kb/facilities/wildwood-pre-trial-fac-kenai-peninsula-ak.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kenai Peninsula, AK."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Wildwood Pre-Trial Fac."
 operator: ""

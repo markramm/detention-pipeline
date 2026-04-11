@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ak
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Lemon Creek, Juneau,AK in City And Borough Of Juneau County, AK. Average daily population: 1.

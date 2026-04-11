@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: San Juan County Detention Center in San Juan County, NM.

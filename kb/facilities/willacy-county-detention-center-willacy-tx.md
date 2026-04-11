@@ -19,5 +19,6 @@ tags:
 - digsa
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Willacy County Detention Center in Willacy County, TX.

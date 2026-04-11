@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Rolling Plains Detention Center in Haskell County, TX. Average daily population: 1.

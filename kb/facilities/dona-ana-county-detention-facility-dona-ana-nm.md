@@ -20,5 +20,6 @@ tags:
 - igsa
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Dona Ana County Detention Facility in Dona Ana County, NM. Average daily population: 1.

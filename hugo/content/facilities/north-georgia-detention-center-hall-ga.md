@@ -10,6 +10,7 @@ repo_path: "kb/facilities/north-georgia-detention-center-hall-ga.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hall, GA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "North Georgia Detention Center"
 operator: ""

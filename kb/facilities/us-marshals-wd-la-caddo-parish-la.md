@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: US Marshals, W.D. LA. in Caddo Parish County, LA.

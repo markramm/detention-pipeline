@@ -7,9 +7,10 @@ fips: "51600"
 state: "VA"
 county: "FAIRFAX"
 repo_path: "kb/anc/inserso-corporation-ice-fairfax-va-99046198.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to INSERSO CORPORATION in VA ($99,046,198.12)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

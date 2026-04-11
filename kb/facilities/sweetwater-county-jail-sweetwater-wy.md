@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - wy
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Sweetwater County Jail in Sweetwater County, WY. Average daily population: 16.

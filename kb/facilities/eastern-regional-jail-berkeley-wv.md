@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - wv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Eastern Regional Jail in Berkeley County, WV. Average daily population: 10.

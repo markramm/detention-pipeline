@@ -20,5 +20,6 @@ tags:
 - spc
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 SPC facility: El Centro SPC in Imperial County, CA. Average daily population: 1.

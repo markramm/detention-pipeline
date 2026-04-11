@@ -20,5 +20,6 @@ tags:
 - igsa
 - oh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Seneca County Jail in Seneca County, OH. Average daily population: 55.

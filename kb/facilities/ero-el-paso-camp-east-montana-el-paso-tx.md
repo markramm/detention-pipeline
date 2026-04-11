@@ -20,5 +20,6 @@ tags:
 - cdf
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: ERO El Paso Camp East Montana in El Paso County, TX. Average daily population: 1827.

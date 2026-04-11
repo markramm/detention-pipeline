@@ -20,5 +20,6 @@ tags:
 - unknown
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Brevard County Jail Complex in Brevard County, FL. Average daily population: 3.

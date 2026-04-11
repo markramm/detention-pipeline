@@ -19,5 +19,6 @@ tags:
 - unknown
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: West Valley in San Bernardino County, CA.

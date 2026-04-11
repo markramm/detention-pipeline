@@ -10,6 +10,7 @@ repo_path: "kb/facilities/montgomery-cnty-jail-pa-montgomery-pa.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Montgomery, PA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Montgomery Cnty Jail, PA"
 operator: ""

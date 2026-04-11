@@ -7,9 +7,10 @@ fips: "12057"
 state: "FL"
 county: "HILLSBOROUGH"
 repo_path: "kb/anc/professional-logistics-services-inc-ice-hillsborough-fl-837852.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to PROFESSIONAL LOGISTICS SERVICES INC. in FL ($837,852.00)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

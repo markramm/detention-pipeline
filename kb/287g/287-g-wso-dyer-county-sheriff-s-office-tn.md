@@ -7,6 +7,10 @@ tags:
 - wso
 - tn
 importance: 5
+state: "TN"
+county: "Dyer County"
+fips: "47045"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Dyer County Sheriff’s Office.

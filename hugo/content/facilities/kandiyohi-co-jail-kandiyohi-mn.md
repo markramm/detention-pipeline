@@ -10,6 +10,7 @@ repo_path: "kb/facilities/kandiyohi-co-jail-kandiyohi-mn.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kandiyohi, MN."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Kandiyohi Co. Jail"
 operator: ""

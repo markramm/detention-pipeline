@@ -7,9 +7,10 @@ fips: "26085"
 state: "MI"
 county: "LAKE"
 repo_path: "kb/anc/the-geo-group-inc-ice-lake-mi-7350371.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in MI ($7,350,371.31)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

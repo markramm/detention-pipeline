@@ -7,9 +7,10 @@ fips: "48029"
 state: "TX"
 county: "BEXAR"
 repo_path: "kb/anc/family-endeavors-inc-ice-bexar-tx-131385875.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to FAMILY ENDEAVORS, INC. in TX ($131,385,874.71)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

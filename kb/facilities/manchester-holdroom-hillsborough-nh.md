@@ -20,5 +20,6 @@ tags:
 - hold
 - nh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Manchester Holdroom in Hillsborough County, NH. Average daily population: 2.

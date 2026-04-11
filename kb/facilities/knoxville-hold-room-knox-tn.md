@@ -20,5 +20,6 @@ tags:
 - hold
 - tn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Knoxville Hold Room in Knox County, TN. Average daily population: 7.

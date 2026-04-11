@@ -10,6 +10,7 @@ repo_path: "kb/facilities/jackson-county-sheriff-jackson-tn.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Jackson, TN."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Jackson County Sheriff"
 operator: ""

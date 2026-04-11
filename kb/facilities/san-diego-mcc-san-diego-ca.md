@@ -19,5 +19,6 @@ tags:
 - bop
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: San Diego MCC in San Diego County, CA.

@@ -20,5 +20,6 @@ tags:
 - unknown
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Nassau County ICE Trailer in Nassau County, NY. Average daily population: 9.

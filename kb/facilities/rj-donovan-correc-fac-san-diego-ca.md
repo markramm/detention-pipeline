@@ -19,5 +19,6 @@ tags:
 - other
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: RJ Donovan Correc Fac in San Diego County, CA.

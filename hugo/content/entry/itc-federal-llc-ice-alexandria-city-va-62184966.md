@@ -7,9 +7,10 @@ fips: ""
 state: "VA"
 county: "ALEXANDRIA CITY"
 repo_path: "kb/anc/itc-federal-llc-ice-alexandria-city-va-62184966.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to ITC FEDERAL, LLC in VA ($62,184,966.02)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

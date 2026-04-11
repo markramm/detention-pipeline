@@ -19,5 +19,6 @@ tags:
 - igsa
 - mn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Minn.C.F, Oak Park Hgts in Washington County, MN.

@@ -20,5 +20,6 @@ tags:
 - igsa
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Joe Corley Processing Ctr in Montgomery County, TX. Average daily population: 964.

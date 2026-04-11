@@ -7,9 +7,10 @@ fips: "08069"
 state: "CO"
 county: "LARIMER"
 repo_path: "kb/anc/peraton-risk-decision-inc-ice-larimer-co-3338374.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to PERATON RISK DECISION INC. in CO ($3,338,374.27)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

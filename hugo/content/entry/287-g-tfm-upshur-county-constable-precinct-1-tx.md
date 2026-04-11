@@ -7,9 +7,10 @@ fips: "48459"
 state: "TX"
 county: "Upshur County"
 repo_path: "kb/287g/287-g-tfm-upshur-county-constable-precinct-1-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) TFM agreement between ICE and Upshur County Constable Precinct 1, signed February 10, 2026."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

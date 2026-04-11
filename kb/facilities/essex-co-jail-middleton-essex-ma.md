@@ -20,5 +20,6 @@ tags:
 - igsa
 - ma
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Essex Co. Jail, Middleton in Essex County, MA. Average daily population: 1.

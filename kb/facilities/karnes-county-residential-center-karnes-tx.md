@@ -20,5 +20,6 @@ tags:
 - family
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Family facility: Karnes County Residential Center in Karnes County, TX. Average daily population: 1077.

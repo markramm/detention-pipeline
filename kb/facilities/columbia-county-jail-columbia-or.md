@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - or
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Columbia County Jail in Columbia County, OR.

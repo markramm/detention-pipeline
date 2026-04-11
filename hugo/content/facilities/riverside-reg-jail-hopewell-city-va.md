@@ -10,6 +10,7 @@ repo_path: "kb/facilities/riverside-reg-jail-hopewell-city-va.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hopewell City, VA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Riverside Reg Jail"
 operator: ""

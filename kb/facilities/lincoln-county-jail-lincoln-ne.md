@@ -20,5 +20,6 @@ tags:
 - igsa
 - ne
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Lincoln County Jail in Lincoln County, NE. Average daily population: 43.

@@ -19,5 +19,6 @@ tags:
 - igsa
 - il
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Elgin Police Dept. Jail in Kane County, IL.

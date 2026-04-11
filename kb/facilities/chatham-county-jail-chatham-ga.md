@@ -20,5 +20,6 @@ tags:
 - detention
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Chatham County Jail in Chatham County, GA. Average daily population: 3.

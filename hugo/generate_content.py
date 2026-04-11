@@ -406,6 +406,9 @@ def generate_all_pages(parsed_entries, heat_data):
         }
         if cascade_url:
             fm["cascade_url"] = cascade_url
+        source_url = fields.get("source_url", "")
+        if source_url:
+            fm["source_url"] = source_url
 
         # Determine output path based on section
         if entry_type == "county-fight":

@@ -20,5 +20,6 @@ tags:
 - hold
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: South Texas/Pearsall Hold Room in Frio County, TX. Average daily population: 19.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/hampden-cohouse-of-corr-hampden-ma.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hampden, MA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Hampden Co.House Of Corr."
 operator: ""

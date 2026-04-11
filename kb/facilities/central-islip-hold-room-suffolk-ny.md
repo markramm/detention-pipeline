@@ -20,5 +20,6 @@ tags:
 - hold
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Central Islip Hold Room in Suffolk County, NY. Average daily population: 5.

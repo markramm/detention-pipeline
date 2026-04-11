@@ -20,5 +20,6 @@ tags:
 - usms-cdf-/-usms-iga
 - tn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS CDF / USMS IGA facility: Western Tennessee Det. Fac. in Tipton County, TN. Average daily population: 402.

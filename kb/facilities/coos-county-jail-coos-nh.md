@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - nh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Coos County Jail in Coos County, NH.

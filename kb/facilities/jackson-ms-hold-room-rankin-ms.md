@@ -20,5 +20,6 @@ tags:
 - hold
 - ms
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Jackson MS Hold Room in Rankin County, MS. Average daily population: 6.

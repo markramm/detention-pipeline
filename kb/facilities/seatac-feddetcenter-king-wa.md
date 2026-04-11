@@ -20,5 +20,6 @@ tags:
 - bop
 - wa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Seatac Fed.Det.Center in King County, WA. Average daily population: 1.

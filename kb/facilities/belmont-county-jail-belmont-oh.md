@@ -19,5 +19,6 @@ tags:
 - other
 - oh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Belmont County Jail in Belmont County, OH.

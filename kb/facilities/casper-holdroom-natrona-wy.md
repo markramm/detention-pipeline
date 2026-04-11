@@ -20,5 +20,6 @@ tags:
 - hold
 - wy
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Casper Holdroom in Natrona County, WY. Average daily population: 1.

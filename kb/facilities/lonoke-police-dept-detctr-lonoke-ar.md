@@ -20,5 +20,6 @@ tags:
 - igsa
 - ar
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Lonoke Police Dept Det.Ctr in Lonoke County, AR. Average daily population: 1.

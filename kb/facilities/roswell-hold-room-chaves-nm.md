@@ -20,5 +20,6 @@ tags:
 - hold
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Roswell Hold Room in Chaves County, NM. Average daily population: 4.

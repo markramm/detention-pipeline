@@ -19,5 +19,6 @@ tags:
 - igsa
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Ogdensburg Correctional in St. Lawrence County, NY.

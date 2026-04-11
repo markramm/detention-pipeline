@@ -10,6 +10,7 @@ repo_path: "kb/facilities/mchenry-county-sheriffs-mchenry-il.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Mchenry, IL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "McHenry County Sheriff's"
 operator: ""

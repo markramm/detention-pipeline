@@ -60,6 +60,13 @@
     {{ end }}
     {{ end }}
 
+    {{ with .Params.source_url }}
+    <div style="margin-bottom:12px; font-size:12px;">
+      <span class="mono dim" style="font-size:9px; letter-spacing:0.06em; text-transform:uppercase;">Source:</span>
+      <a href="{{ . }}" style="color:var(--accent-warm); text-decoration:none; margin-left:4px;" target="_blank" rel="noopener">{{ . }}</a>
+    </div>
+    {{ end }}
+
     <article style="font-size:14.5px; color:var(--text-secondary); line-height:1.8; margin-bottom:32px;">
       {{ .Content }}
     </article>

@@ -20,5 +20,6 @@ tags:
 - hold
 - nj
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: New/INS Os Hold Room in Essex County, NJ. Average daily population: 2.

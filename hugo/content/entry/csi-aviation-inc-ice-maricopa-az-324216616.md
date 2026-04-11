@@ -7,9 +7,10 @@ fips: "04013"
 state: "AZ"
 county: "MARICOPA"
 repo_path: "kb/anc/csi-aviation-inc-ice-maricopa-az-324216616.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CSI AVIATION, INC in AZ ($324,216,615.92)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

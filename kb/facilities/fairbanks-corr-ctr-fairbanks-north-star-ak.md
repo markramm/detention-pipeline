@@ -20,5 +20,6 @@ tags:
 - igsa
 - ak
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Fairbanks Corr Ctr in Fairbanks North Star County, AK. Average daily population: 1.

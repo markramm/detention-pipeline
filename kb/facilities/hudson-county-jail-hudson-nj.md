@@ -20,5 +20,6 @@ tags:
 - igsa
 - nj
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Hudson County Jail in Hudson County, NJ. Average daily population: 1.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/manchester-holdroom-hillsborough-nh.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hillsborough, NH."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Manchester Holdroom"
 operator: ""

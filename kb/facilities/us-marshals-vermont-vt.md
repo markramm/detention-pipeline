@@ -15,5 +15,6 @@ tags:
 - usms-iga
 - vt
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: US Marshal's, Vermont in VT.

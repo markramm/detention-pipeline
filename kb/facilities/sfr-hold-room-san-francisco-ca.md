@@ -20,5 +20,6 @@ tags:
 - hold
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: SFR Hold Room in San Francisco County, CA. Average daily population: 4.

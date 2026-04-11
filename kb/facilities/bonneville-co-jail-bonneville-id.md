@@ -19,5 +19,6 @@ tags:
 - igsa
 - id
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Bonneville Co. Jail in Bonneville County, ID.

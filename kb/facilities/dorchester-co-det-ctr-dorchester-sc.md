@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - sc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Dorchester Co Det Ctr in Dorchester County, SC. Average daily population: 3.

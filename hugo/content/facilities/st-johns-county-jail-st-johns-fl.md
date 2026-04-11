@@ -10,6 +10,7 @@ repo_path: "kb/facilities/st-johns-county-jail-st-johns-fl.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in St. Johns, FL."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "St. John's County Jail"
 operator: ""

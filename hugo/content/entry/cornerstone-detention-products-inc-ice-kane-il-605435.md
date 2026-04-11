@@ -7,9 +7,10 @@ fips: "17089"
 state: "IL"
 county: "KANE"
 repo_path: "kb/anc/cornerstone-detention-products-inc-ice-kane-il-605435.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CORNERSTONE DETENTION PRODUCTS, INC in IL ($605,435.00)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

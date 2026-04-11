@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - ky
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Grayson County Det Center (Female) in Grayson County, KY.

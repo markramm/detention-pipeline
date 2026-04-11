@@ -10,6 +10,7 @@ repo_path: "kb/facilities/richland-hold-room-benton-wa.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Benton, WA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Richland Hold Room"
 operator: ""

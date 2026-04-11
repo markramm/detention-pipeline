@@ -20,5 +20,6 @@ tags:
 - detention
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Liberty County Jail in Liberty County, FL. Average daily population: 1.

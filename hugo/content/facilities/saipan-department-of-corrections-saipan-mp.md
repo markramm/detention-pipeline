@@ -10,6 +10,7 @@ repo_path: "kb/facilities/saipan-department-of-corrections-saipan-mp.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Saipan, MP."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Saipan Department Of Corrections"
 operator: ""

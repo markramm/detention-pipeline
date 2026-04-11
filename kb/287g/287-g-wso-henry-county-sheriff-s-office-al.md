@@ -7,6 +7,10 @@ tags:
 - wso
 - al
 importance: 5
+state: "AL"
+county: "Henry County"
+fips: "01067"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Henry County Sheriff’s Office.

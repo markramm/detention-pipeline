@@ -10,6 +10,7 @@ repo_path: "kb/facilities/belmont-county-jail-belmont-oh.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Belmont, OH."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Belmont County Jail"
 operator: ""

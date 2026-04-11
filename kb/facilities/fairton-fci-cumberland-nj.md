@@ -19,5 +19,6 @@ tags:
 - bop
 - nj
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Fairton FCI in Cumberland County, NJ.

@@ -19,5 +19,6 @@ tags:
 - bop
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Los Angeles Met.Det.Ctr. in Los Angeles County, CA.

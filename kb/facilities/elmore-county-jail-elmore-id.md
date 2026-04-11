@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - id
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Elmore County Jail in Elmore County, ID. Average daily population: 10.

@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ia
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Linn County Jail in Linn County, IA. Average daily population: 49.

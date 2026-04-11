@@ -20,5 +20,6 @@ tags:
 - cdf
 - wa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: NW ICE Processing Ctr in Pierce County, WA. Average daily population: 1125.

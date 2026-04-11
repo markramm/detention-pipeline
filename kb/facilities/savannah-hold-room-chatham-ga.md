@@ -20,5 +20,6 @@ tags:
 - hold
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Savannah Hold Room in Chatham County, GA. Average daily population: 7.

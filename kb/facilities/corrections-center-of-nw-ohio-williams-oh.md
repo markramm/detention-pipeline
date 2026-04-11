@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - oh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Corrections Center of NW Ohio in Williams County, OH. Average daily population: 86.

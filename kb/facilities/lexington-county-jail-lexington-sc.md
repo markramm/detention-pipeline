@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - sc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Lexington County Jail in Lexington County, SC. Average daily population: 10.

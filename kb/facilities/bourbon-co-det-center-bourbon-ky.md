@@ -20,5 +20,6 @@ tags:
 - unknown
 - ky
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Bourbon Co Det Center in Bourbon County, KY. Average daily population: 2.

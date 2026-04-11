@@ -7,9 +7,10 @@ fips: "54109"
 state: "WV"
 county: "WYOMING"
 repo_path: "kb/anc/greenbrier-government-solutions-inc-ice-wyoming-wv-10093407.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to GREENBRIER GOVERNMENT SOLUTIONS INC in WV ($10,093,407.23)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

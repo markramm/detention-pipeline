@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Virginia Peninsula Reg. Jail in James City County, VA.

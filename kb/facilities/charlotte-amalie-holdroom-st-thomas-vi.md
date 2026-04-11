@@ -20,5 +20,6 @@ tags:
 - hold
 - vi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Charlotte Amalie Holdroom in St. Thomas County, VI. Average daily population: 2.

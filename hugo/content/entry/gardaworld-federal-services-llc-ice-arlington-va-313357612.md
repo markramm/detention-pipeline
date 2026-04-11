@@ -7,9 +7,10 @@ fips: "51013"
 state: "VA"
 county: "ARLINGTON"
 repo_path: "kb/anc/gardaworld-federal-services-llc-ice-arlington-va-313357612.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to GARDAWORLD FEDERAL SERVICES LLC in VA ($313,357,612.46)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

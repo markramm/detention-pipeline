@@ -7,9 +7,10 @@ fips: "01047"
 state: "AL"
 county: "DALLAS"
 repo_path: "kb/anc/talton-communications-inc-ice-dallas-al-38776485.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to TALTON COMMUNICATIONS INC in AL ($38,776,485.02)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

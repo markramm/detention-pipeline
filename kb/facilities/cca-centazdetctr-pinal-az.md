@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: CCA Cent.AZ.Det.Ctr. in Pinal County, AZ.

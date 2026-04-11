@@ -10,6 +10,7 @@ repo_path: "kb/budget/terry-county-tx-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Terry County, TX."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

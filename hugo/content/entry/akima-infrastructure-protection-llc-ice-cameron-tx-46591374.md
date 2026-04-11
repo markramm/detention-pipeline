@@ -7,9 +7,10 @@ fips: "48061"
 state: "TX"
 county: "CAMERON"
 repo_path: "kb/anc/akima-infrastructure-protection-llc-ice-cameron-tx-46591374.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to AKIMA INFRASTRUCTURE PROTECTION LLC in TX ($46,591,373.63)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

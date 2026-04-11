@@ -19,5 +19,6 @@ tags:
 - bop
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: Tucson Fed.Corr.Inst. in Pima County, AZ.

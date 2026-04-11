@@ -20,5 +20,6 @@ tags:
 - hold
 - sc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Charleston, SC Hold Room in Charleston County, SC. Average daily population: 12.

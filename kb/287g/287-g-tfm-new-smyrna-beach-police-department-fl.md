@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: "FL"
+county: "State: FL"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and New Smyrna Beach Police Department.

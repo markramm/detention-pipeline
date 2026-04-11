@@ -20,5 +20,6 @@ tags:
 - igsa
 - id
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Minicassia Det. Center in Cassia County, ID. Average daily population: 3.

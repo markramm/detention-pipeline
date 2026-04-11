@@ -7,9 +7,10 @@ fips: "08005"
 state: "CO"
 county: "ARAPAHOE"
 repo_path: "kb/anc/the-geo-group-inc-ice-arapahoe-co-43859762.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in CO ($43,859,762.34)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -19,5 +19,6 @@ tags:
 - igsa
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Dekalb County Jail in Dekalb County, GA.

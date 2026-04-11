@@ -20,5 +20,6 @@ tags:
 - hold
 - ut
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Ogden Hold Room in Weber County, UT. Average daily population: 2.

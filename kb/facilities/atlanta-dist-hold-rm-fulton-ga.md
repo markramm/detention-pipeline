@@ -20,5 +20,6 @@ tags:
 - hold
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Atlanta Dist. Hold Rm in Fulton County, GA. Average daily population: 85.

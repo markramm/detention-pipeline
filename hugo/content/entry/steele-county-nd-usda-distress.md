@@ -10,6 +10,7 @@ repo_path: "kb/budget/steele-county-nd-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Steele County, ND."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

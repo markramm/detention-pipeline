@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Walton County Jail in Walton County, FL. Average daily population: 37.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/dover-holdroom-kent-de.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kent, DE."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Dover Holdroom"
 operator: ""

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/midstate-correctional-oneida-ny.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Oneida, NY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Midstate Correctional"
 operator: ""

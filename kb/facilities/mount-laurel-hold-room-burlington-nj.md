@@ -20,5 +20,6 @@ tags:
 - hold
 - nj
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Mount Laurel Hold Room in Burlington County, NJ. Average daily population: 6.

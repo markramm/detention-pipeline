@@ -20,5 +20,6 @@ tags:
 - igsa
 - ky
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Kenton Co Detention Ctr in Kenton County, KY. Average daily population: 129.

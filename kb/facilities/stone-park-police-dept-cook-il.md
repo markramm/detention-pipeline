@@ -19,5 +19,6 @@ tags:
 - igsa
 - il
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Stone Park Police Dept. in Cook County, IL.

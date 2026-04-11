@@ -20,5 +20,6 @@ tags:
 - hold
 - wi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Milwaukee Holdroom in Milwaukee County, WI. Average daily population: 4.

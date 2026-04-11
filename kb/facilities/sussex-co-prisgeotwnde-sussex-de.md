@@ -19,5 +19,6 @@ tags:
 - igsa
 - de
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Sussex Co Pris,Geotwn,DE in Sussex County, DE.

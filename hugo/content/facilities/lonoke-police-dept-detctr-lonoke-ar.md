@@ -10,6 +10,7 @@ repo_path: "kb/facilities/lonoke-police-dept-detctr-lonoke-ar.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lonoke, AR."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Lonoke Police Dept Det.Ctr"
 operator: ""

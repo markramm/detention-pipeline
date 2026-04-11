@@ -20,5 +20,6 @@ tags:
 - hold
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Champlain Hold Room in Clinton County, NY. Average daily population: 4.

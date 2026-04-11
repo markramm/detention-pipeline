@@ -10,6 +10,7 @@ repo_path: "kb/facilities/pine-prairie-ice-processing-center-evangeline-la.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Evangeline, LA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Pine Prairie ICE Processing Center"
 operator: ""

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/bryan-county-jail-bryan-ga.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Bryan, GA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Bryan County Jail"
 operator: ""

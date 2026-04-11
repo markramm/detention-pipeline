@@ -10,6 +10,7 @@ repo_path: "kb/facilities/harrison-detention-center-harrison-ms.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Harrison, MS."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Harrison Detention Center"
 operator: ""

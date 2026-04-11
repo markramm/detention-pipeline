@@ -7,9 +7,10 @@ fips: "48497"
 state: "TX"
 county: "WISE"
 repo_path: "kb/anc/concur-technologies-inc-ice-wise-tx-10426145.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CONCUR TECHNOLOGIES, INC. in TX ($10,426,144.79)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

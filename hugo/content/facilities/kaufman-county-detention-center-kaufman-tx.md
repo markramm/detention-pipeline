@@ -10,6 +10,7 @@ repo_path: "kb/facilities/kaufman-county-detention-center-kaufman-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Kaufman, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Kaufman County Detention Center"
 operator: ""

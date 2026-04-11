@@ -20,5 +20,6 @@ tags:
 - usms-cdf
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS CDF facility: Robert A Deyton Detention Fac in Clayton County, GA. Average daily population: 24.

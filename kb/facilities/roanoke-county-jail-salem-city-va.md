@@ -19,5 +19,6 @@ tags:
 - igsa
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Roanoke County Jail in Salem City County, VA.

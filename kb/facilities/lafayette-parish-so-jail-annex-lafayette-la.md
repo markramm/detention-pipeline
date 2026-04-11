@@ -20,5 +20,6 @@ tags:
 - igsa
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Lafayette Parish So Jail Annex in Lafayette County, LA. Average daily population: 8.

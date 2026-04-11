@@ -20,5 +20,6 @@ tags:
 - detention
 - ut
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Detention facility: Davis Co. Jail in Davis County, UT. Average daily population: 8.

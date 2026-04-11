@@ -20,5 +20,6 @@ tags:
 - hold
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Bowling Green Hold Room in Caroline County, VA. Average daily population: 1.

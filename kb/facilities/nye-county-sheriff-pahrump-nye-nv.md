@@ -19,5 +19,6 @@ tags:
 - igsa
 - nv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Nye County Sheriff-Pahrump in Nye County, NV.

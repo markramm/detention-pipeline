@@ -7,6 +7,10 @@ tags:
 - wso
 - ar
 importance: 5
+state: "AR"
+county: "Crawford County"
+fips: "05033"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Crawford County Sheriff’s Office.

@@ -19,5 +19,6 @@ tags:
 - usms-iga
 - il
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Kankakee County Jail in Kankakee County, IL.

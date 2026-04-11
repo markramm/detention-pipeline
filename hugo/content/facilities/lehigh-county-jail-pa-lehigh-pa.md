@@ -10,6 +10,7 @@ repo_path: "kb/facilities/lehigh-county-jail-pa-lehigh-pa.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lehigh, PA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Lehigh County Jail, PA"
 operator: ""

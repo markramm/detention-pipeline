@@ -10,6 +10,7 @@ repo_path: "kb/facilities/franklin-county-detention-center-franklin-nc.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Franklin, NC."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Franklin County Detention Center"
 operator: ""

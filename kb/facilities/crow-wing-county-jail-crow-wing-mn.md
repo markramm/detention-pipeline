@@ -20,5 +20,6 @@ tags:
 - igsa
 - mn
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Crow Wing County Jail in Crow Wing County, MN. Average daily population: 20.

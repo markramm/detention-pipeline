@@ -10,6 +10,7 @@ repo_path: "kb/facilities/okmulgee-county-jail-okmulgee-ok.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Okmulgee, OK."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Okmulgee County Jail"
 operator: ""

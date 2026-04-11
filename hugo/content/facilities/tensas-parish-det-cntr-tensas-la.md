@@ -10,6 +10,7 @@ repo_path: "kb/facilities/tensas-parish-det-cntr-tensas-la.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Tensas, LA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Tensas Parish Det. Cntr."
 operator: ""

@@ -19,5 +19,6 @@ tags:
 - juvenile
 - il
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Juvenile facility: Peoria County Juv Det Center in Peoria County, IL.

@@ -20,5 +20,6 @@ tags:
 - igsa
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Northwest Reg. Adult Det. in Winchester City County, VA. Average daily population: 1.

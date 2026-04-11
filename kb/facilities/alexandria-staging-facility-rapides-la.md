@@ -20,5 +20,6 @@ tags:
 - staging
 - la
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Staging facility: Alexandria Staging Facility in Rapides County, LA. Average daily population: 521.

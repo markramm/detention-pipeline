@@ -20,5 +20,6 @@ tags:
 - hold
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Westminster Custody in Orange County, CA. Average daily population: 1.

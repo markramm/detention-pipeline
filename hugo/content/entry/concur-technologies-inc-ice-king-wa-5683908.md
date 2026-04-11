@@ -7,9 +7,10 @@ fips: "53033"
 state: "WA"
 county: "KING"
 repo_path: "kb/anc/concur-technologies-inc-ice-king-wa-5683908.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to CONCUR TECHNOLOGIES, INC. in WA ($5,683,907.50)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

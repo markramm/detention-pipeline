@@ -19,5 +19,6 @@ tags:
 - igsa
 - wa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Ferry County Jail in Ferry County, WA.

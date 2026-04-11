@@ -19,5 +19,6 @@ tags:
 - other
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Other facility: Fishkill C.F. Beacon Ny in Dutchess County, NY.

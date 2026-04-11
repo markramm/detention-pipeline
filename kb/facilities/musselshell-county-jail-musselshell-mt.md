@@ -19,5 +19,6 @@ tags:
 - igsa
 - mt
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Musselshell County Jail in Musselshell County, MT.

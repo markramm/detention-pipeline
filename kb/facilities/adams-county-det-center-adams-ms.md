@@ -20,5 +20,6 @@ tags:
 - digsa
 - ms
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Adams County Det Center in Adams County, MS. Average daily population: 2147.

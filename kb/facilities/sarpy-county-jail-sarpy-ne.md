@@ -20,5 +20,6 @@ tags:
 - igsa
 - ne
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Sarpy County Jail in Sarpy County, NE. Average daily population: 19.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/snd-district-staging-san-diego-ca.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in San Diego, CA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "SND District Staging"
 operator: ""

@@ -20,5 +20,6 @@ tags:
 - hold
 - ut
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Salt Lake City Hold Room in Salt Lake County, UT. Average daily population: 24.

@@ -20,5 +20,6 @@ tags:
 - unknown
 - fl
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Flagler County Jail in Flagler County, FL. Average daily population: 80.

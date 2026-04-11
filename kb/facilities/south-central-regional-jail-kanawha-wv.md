@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - wv
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: South Central Regional Jail in Kanawha County, WV. Average daily population: 29.

@@ -19,5 +19,6 @@ tags:
 - unknown
 - id
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Gooding County Jail in Gooding County, ID.

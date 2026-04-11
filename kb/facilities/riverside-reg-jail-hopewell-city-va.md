@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - va
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Riverside Reg Jail in Hopewell City County, VA. Average daily population: 50.

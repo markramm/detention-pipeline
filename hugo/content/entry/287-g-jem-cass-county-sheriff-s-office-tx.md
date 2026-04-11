@@ -7,9 +7,10 @@ fips: "48067"
 state: "TX"
 county: "Cass County"
 repo_path: "kb/287g/287-g-jem-cass-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "287(g) JEM agreement between ICE and Cass County Sheriff’s Office, signed January 26, 2026."
 source_count: 1
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

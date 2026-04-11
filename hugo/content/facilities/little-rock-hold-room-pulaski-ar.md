@@ -10,6 +10,7 @@ repo_path: "kb/facilities/little-rock-hold-room-pulaski-ar.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Pulaski, AR."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Little Rock Hold Room"
 operator: ""

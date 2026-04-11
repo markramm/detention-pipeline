@@ -19,5 +19,6 @@ tags:
 - igsa
 - mo
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Lincoln County Sheriff's in Lincoln County, MO.

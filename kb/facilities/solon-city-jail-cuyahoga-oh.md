@@ -19,5 +19,6 @@ tags:
 - igsa
 - oh
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Solon City Jail in Cuyahoga County, OH.

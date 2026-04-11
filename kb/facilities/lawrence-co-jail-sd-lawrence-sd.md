@@ -20,5 +20,6 @@ tags:
 - igsa
 - sd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Lawrence Co. Jail, SD in Lawrence County, SD. Average daily population: 17.

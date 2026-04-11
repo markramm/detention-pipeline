@@ -20,5 +20,6 @@ tags:
 - igsa
 - wi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Douglas Co. Wisconsin in Douglas County, WI. Average daily population: 29.

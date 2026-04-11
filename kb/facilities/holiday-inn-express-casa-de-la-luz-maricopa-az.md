@@ -18,5 +18,6 @@ tags:
 - family-staging
 - az
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Family Staging facility: Holiday Inn Express Casa De La Luz in Maricopa County, AZ.

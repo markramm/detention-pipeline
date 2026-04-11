@@ -20,5 +20,6 @@ tags:
 - unknown
 - ks
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Leavenworth USP in Leavenworth County, KS. Average daily population: 67.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/bal-d-d-p-baltimore-md.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Baltimore, MD."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Bal D D & P"
 operator: ""

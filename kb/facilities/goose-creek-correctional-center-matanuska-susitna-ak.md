@@ -19,5 +19,6 @@ tags:
 - unknown
 - ak
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Goose Creek Correctional Center in Matanuska-Susitna County, AK.

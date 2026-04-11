@@ -20,5 +20,6 @@ tags:
 - hold
 - mt
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Billings Hold Room in Yellowstone County, MT. Average daily population: 2.

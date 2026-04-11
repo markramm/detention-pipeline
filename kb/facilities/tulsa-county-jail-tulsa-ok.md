@@ -20,5 +20,6 @@ tags:
 - igsa
 - ok
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Tulsa County Jail in Tulsa County, OK. Average daily population: 17.

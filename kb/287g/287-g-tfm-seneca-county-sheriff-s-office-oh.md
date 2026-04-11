@@ -7,6 +7,10 @@ tags:
 - tfm
 - oh
 importance: 5
+state: "OH"
+county: "Seneca County"
+fips: "39147"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Seneca County Sheriff’s Office.

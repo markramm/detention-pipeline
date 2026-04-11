@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Lackawana Cnty Jail, PA in Lackawanna County, PA. Average daily population: 1.

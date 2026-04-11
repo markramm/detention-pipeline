@@ -20,5 +20,6 @@ tags:
 - igsa
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Westmoreland County Jail in Westmoreland County, PA. Average daily population: 1.

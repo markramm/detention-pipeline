@@ -10,6 +10,7 @@ repo_path: "kb/budget/delaware-county-ny-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Delaware County, NY."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

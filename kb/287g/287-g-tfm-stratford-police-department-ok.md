@@ -7,6 +7,10 @@ tags:
 - tfm
 - ok
 importance: 5
+state: "OK"
+county: "Garvin County"
+fips: "40049"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Stratford Police Department.

@@ -20,5 +20,6 @@ tags:
 - igsa
 - nm
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Cibola County Correctional Center in Cibola County, NM. Average daily population: 230.

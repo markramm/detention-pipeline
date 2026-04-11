@@ -20,5 +20,6 @@ tags:
 - unknown
 - ks
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Unknown facility: Garden City Processing @ Finney Co in Finney County, KS. Average daily population: 2.

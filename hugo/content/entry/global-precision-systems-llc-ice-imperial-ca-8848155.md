@@ -7,9 +7,10 @@ fips: "06025"
 state: "CA"
 county: "IMPERIAL"
 repo_path: "kb/anc/global-precision-systems-llc-ice-imperial-ca-8848155.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-11"
 summary: "Federal contract awarded to GLOBAL PRECISION SYSTEMS, LLC in CA ($8,848,155.20)."
 source_count: 0
+source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

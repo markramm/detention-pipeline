@@ -20,5 +20,6 @@ tags:
 - igsa
 - ny
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Broome County Jail in Broome County, NY. Average daily population: 28.

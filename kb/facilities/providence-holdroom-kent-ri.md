@@ -20,5 +20,6 @@ tags:
 - hold
 - ri
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Providence Holdroom in Kent County, RI. Average daily population: 3.

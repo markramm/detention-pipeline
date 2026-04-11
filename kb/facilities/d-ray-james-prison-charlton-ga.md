@@ -19,5 +19,6 @@ tags:
 - bop
 - ga
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: D. Ray James Prison in Charlton County, GA.

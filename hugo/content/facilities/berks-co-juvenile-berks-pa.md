@@ -10,6 +10,7 @@ repo_path: "kb/facilities/berks-co-juvenile-berks-pa.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Berks, PA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Berks Co. Juvenile"
 operator: ""

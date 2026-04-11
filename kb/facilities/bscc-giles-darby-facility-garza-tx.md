@@ -19,5 +19,6 @@ tags:
 - bop
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 BOP facility: BSCC Giles Darby Facility in Garza County, TX.

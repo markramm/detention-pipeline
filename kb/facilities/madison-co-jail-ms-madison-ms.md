@@ -20,5 +20,6 @@ tags:
 - igsa
 - ms
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Madison Co. Jail, MS. in Madison County, MS. Average daily population: 11.

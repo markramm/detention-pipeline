@@ -7,6 +7,10 @@ tags:
 - tfm
 - nh
 importance: 5
+state: "NH"
+county: "Grafton County"
+fips: "33009"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Grafton County Sheriff’s Office.

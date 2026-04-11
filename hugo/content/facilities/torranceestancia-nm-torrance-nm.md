@@ -10,6 +10,7 @@ repo_path: "kb/facilities/torranceestancia-nm-torrance-nm.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Torrance, NM."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Torrance/Estancia, NM"
 operator: ""

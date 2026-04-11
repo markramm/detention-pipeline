@@ -10,6 +10,7 @@ repo_path: "kb/facilities/hancock-co-pub-sfty-cplx-hancock-ms.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Hancock, MS."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Hancock Co Pub Sfty Cplx"
 operator: ""

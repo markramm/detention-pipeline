@@ -20,5 +20,6 @@ tags:
 - igsa
 - nd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Burleigh Co. Jail, ND in Burleigh County, ND. Average daily population: 5.

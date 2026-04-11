@@ -20,5 +20,6 @@ tags:
 - igsa
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: York County Jail, PA in York County, PA. Average daily population: 1.

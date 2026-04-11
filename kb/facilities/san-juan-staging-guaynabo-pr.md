@@ -20,5 +20,6 @@ tags:
 - staging
 - pr
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Staging facility: San Juan Staging in Guaynabo County, PR. Average daily population: 18.

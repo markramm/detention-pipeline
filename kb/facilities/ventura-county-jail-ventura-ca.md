@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ca
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Ventura County Jail in Ventura County, CA. Average daily population: 1.

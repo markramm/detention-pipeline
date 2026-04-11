@@ -19,5 +19,6 @@ tags:
 - igsa
 - md
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Dorchester Co Det Cntr in Dorchester County, MD.

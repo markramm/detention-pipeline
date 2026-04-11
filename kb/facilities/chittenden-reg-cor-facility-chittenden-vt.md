@@ -20,5 +20,6 @@ tags:
 - igsa
 - vt
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Chittenden Reg. Cor. Facility in Chittenden County, VT. Average daily population: 4.

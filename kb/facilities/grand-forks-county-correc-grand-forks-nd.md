@@ -20,5 +20,6 @@ tags:
 - igsa
 - nd
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Grand Forks County Correc in Grand Forks County, ND. Average daily population: 23.

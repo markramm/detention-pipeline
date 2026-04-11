@@ -19,5 +19,6 @@ tags:
 - igsa
 - wi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: St. Croix County Jail in St. Croix County, WI.

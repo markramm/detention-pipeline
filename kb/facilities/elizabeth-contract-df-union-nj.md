@@ -20,5 +20,6 @@ tags:
 - cdf
 - nj
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: Elizabeth Contract D.F. in Union County, NJ. Average daily population: 285.

@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Cambria County Jail, PA in Cambria County, PA. Average daily population: 54.

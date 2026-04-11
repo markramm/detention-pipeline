@@ -10,6 +10,7 @@ repo_path: "kb/budget/lauderdale-county-ms-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Lauderdale County, MS."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

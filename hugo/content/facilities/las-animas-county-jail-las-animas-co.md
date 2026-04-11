@@ -10,6 +10,7 @@ repo_path: "kb/facilities/las-animas-county-jail-las-animas-co.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Las Animas, CO."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Las Animas County Jail"
 operator: ""

@@ -10,6 +10,7 @@ repo_path: "kb/budget/lake-and-peninsula-borough-ak-usda-distress.md"
 lastmod: "2026-04-11"
 summary: "Budget distress indicators for Lake and Peninsula Borough, AK."
 source_count: 1
+source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 type: "entry"
 layout: "single"
 ---

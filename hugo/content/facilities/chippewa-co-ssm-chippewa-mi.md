@@ -10,6 +10,7 @@ repo_path: "kb/facilities/chippewa-co-ssm-chippewa-mi.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Chippewa, MI."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Chippewa Co., SSM"
 operator: ""

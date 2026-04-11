@@ -20,5 +20,6 @@ tags:
 - hold
 - nc
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Charlotte Hold Room in Mecklenburg County, NC. Average daily population: 42.

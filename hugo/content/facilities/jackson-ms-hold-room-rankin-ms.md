@@ -10,6 +10,7 @@ repo_path: "kb/facilities/jackson-ms-hold-room-rankin-ms.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Rankin, MS."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Jackson MS Hold Room"
 operator: ""

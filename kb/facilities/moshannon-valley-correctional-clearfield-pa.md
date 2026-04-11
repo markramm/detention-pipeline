@@ -19,5 +19,6 @@ tags:
 - digsa
 - pa
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 DIGSA facility: Moshannon Valley Correctional in Clearfield County, PA.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/ward-cty-jail-monahans-ward-tx.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Ward, TX."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Ward Cty Jail, Monahans"
 operator: ""

@@ -20,5 +20,6 @@ tags:
 - usms-iga
 - ar
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS IGA facility: Miller County Jail in Miller County, AR. Average daily population: 9.

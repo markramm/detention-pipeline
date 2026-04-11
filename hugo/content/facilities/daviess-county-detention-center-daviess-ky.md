@@ -10,6 +10,7 @@ repo_path: "kb/facilities/daviess-county-detention-center-daviess-ky.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Daviess, KY."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Daviess County Detention Center"
 operator: ""

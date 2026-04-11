@@ -20,5 +20,6 @@ tags:
 - hold
 - ne
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 Hold facility: Grand Island Hold Room in Hall County, NE. Average daily population: 1.

@@ -10,6 +10,7 @@ repo_path: "kb/facilities/lasalle-corr-ctr-olla-lasalle-la.md"
 lastmod: "2026-04-11"
 summary: "IGSA detention facility in Lasalle, LA."
 source_count: 0
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Lasalle Corr Ctr Olla"
 operator: ""

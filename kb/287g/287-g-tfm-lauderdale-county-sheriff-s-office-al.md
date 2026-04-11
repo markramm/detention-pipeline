@@ -7,6 +7,10 @@ tags:
 - tfm
 - al
 importance: 5
+state: "AL"
+county: "Lauderdale County"
+fips: "01077"
+source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Lauderdale County Sheriff’s Office.

@@ -20,5 +20,6 @@ tags:
 - cdf
 - mi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 CDF facility: North Lake Correctional Facility in Lake County, MI. Average daily population: 1446.

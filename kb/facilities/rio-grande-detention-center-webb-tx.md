@@ -20,5 +20,6 @@ tags:
 - usms-cdf
 - tx
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 USMS CDF facility: Rio Grande Detention Center in Webb County, TX. Average daily population: 607.

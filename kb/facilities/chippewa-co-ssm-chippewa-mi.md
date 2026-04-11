@@ -20,5 +20,6 @@ tags:
 - igsa
 - mi
 importance: 5
+source_url: "https://github.com/vera-institute/ice-detention-trends"
 ---
 IGSA facility: Chippewa Co., SSM in Chippewa County, MI. Average daily population: 31.
