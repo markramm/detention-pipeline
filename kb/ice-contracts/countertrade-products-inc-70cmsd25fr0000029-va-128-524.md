@@ -1,0 +1,22 @@
+---
+id: countertrade-products-inc-70cmsd25fr0000029-va-128-524
+title: COUNTERTRADE PRODUCTS, INC. — 70CMSD25FR0000029 (VA) $128,524
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: COUNTERTRADE PRODUCTS, INC.
+Award ID: 70CMSD25FR0000029
+Amount: $128,523.77
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD PROVIDES MANAGEENGINE SOFTWARE, WHICH IS REQUIRED TO ENHANCE NETWORK SECURITY, SIMPLIFY INFORMATION TECHNOLOGY (IT) ADMINISTRATION & SUPPORT CYBERSECURITY COMPLIANCE WITHIN HOMELAND SECURITY INVESTIGATIONS' EXISTING IT INFRASTRUCT
+Period: 2025-06-26 to 2026-06-25
+Location: None, VA

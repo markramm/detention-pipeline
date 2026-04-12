@@ -1,0 +1,22 @@
+---
+id: government-acquisitions-inc-70ctd025fr0000027-dc-447-453
+title: GOVERNMENT ACQUISITIONS INC — 70CTD025FR0000027 (DC) $447,453
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: GOVERNMENT ACQUISITIONS INC
+Award ID: 70CTD025FR0000027
+Amount: $447,453.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD PROCURES NEOSCAN 45 FAP 45 MULTIPLE FINGERPRINT READERS, ON BEHALF OF THE OFFICE OF ENFORCEMENT AND REMOVAL NATIONAL FUGITIVE OPERATIONS PROGRAM, WHICH ALLOWS OFFICERS AND AGENTS TO IDENTIFY INDIVIDUALS QUICKLY AND ACCURATELY IN THE FIELD.
+Period: 2025-05-27 to 2025-08-25
+Location: None, DC

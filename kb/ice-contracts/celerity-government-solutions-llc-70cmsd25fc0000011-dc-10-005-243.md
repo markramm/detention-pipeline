@@ -1,0 +1,22 @@
+---
+id: celerity-government-solutions-llc-70cmsd25fc0000011-dc-10-005-243
+title: CELERITY GOVERNMENT SOLUTIONS LLC — 70CMSD25FC0000011 (DC) $10,005,243
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: CELERITY GOVERNMENT SOLUTIONS LLC
+Award ID: 70CMSD25FC0000011
+Amount: $10,005,242.54
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD FUNDS CALL FIVE UNDER BACKGROUND INVESTIGATION SERVICES II, WHICH SUPPORTS BACKGROUND INVESTIGATION SERVICES FOR INVESTIGATION REPORTS OF CONTRACTORS, AND FEDERAL EMPLOYEES TO THE OFFICE OF PROFESSIONAL RESPONSIBILITY.
+Period: 2025-06-13 to 2026-04-30
+Location: None, DC

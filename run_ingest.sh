@@ -91,19 +91,19 @@ else
   echo ""
 fi
 
-# ── 3. ANC contracts (USAspending) ──
+# ── 3. All ICE contracts (USAspending) ──
 if should_run "usaspending"; then
-  echo "── ANC contracts (USAspending) ──"
-  python3 "$SCRIPTS_DIR/ingest_usaspending.py" --days "$DAYS" $DRY_RUN \
-    --output /tmp/anc_contracts.json || echo "  WARNING: USAspending ingest failed"
+  echo "── All ICE contracts (USAspending) ──"
+  python3 "$SCRIPTS_DIR/ingest_ice_contracts.py" --days "$DAYS" $DRY_RUN \
+    --output /tmp/ice_contracts.json || echo "  WARNING: ICE contracts ingest failed"
 
-  if [ -z "$DRY_RUN" ] && [ -f /tmp/anc_contracts.json ]; then
-    COUNT=$(python3 -c "import json; print(len(json.load(open('/tmp/anc_contracts.json'))))" 2>/dev/null || echo 0)
+  if [ -z "$DRY_RUN" ] && [ -f /tmp/ice_contracts.json ]; then
+    COUNT=$(python3 -c "import json; print(len(json.load(open('/tmp/ice_contracts.json'))))" 2>/dev/null || echo 0)
     if [ "$COUNT" -gt 0 ]; then
-      echo "  Importing $COUNT ANC contracts..."
-      kb import /tmp/anc_contracts.json -k "$KB_NAME" || echo "  WARNING: Import failed"
+      echo "  Importing $COUNT ICE contracts..."
+      kb import /tmp/ice_contracts.json -k "$KB_NAME" || echo "  WARNING: Import failed"
     else
-      echo "  No new ANC contracts found"
+      echo "  No new ICE contracts found"
     fi
   fi
   echo ""
@@ -149,7 +149,7 @@ fi
 if [ -z "$DRY_RUN" ]; then
   echo "── Syncing Pyrite KB → local kb/ ──"
   # Sync signal-type directories from Pyrite KB to local repo
-  for dir in 287g anc budget commission comms jobs legislative real-estate sheriff; do
+  for dir in 287g anc ice-contracts budget commission comms jobs legislative real-estate sheriff; do
     if [ -d "$PYRITE_KB/$dir" ]; then
       rsync -a --delete "$PYRITE_KB/$dir/" "$LOCAL_KB/$dir/"
     fi

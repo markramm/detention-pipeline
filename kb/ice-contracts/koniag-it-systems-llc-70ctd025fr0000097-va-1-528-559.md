@@ -1,0 +1,22 @@
+---
+id: koniag-it-systems-llc-70ctd025fr0000097-va-1-528-559
+title: KONIAG IT SYSTEMS, LLC — 70CTD025FR0000097 (VA) $1,528,559
+type: ice-contract
+tags:
+- ice-contract
+- anc
+- other-ice
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: KONIAG IT SYSTEMS, LLC
+Award ID: 70CTD025FR0000097
+Amount: $1,528,559.20
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS TASK ORDER PROVIDES OPERATIONS, MAINTENANCE, AND ENHANCEMENTS FOR IMAGES DOCUMENT AND EXEMPLARS LIBRARY SOFTWARE TO SUPPORT HOMELAND SECURITY INVESTIGATION'S FORENSIC LAB'S MISSION TO IDENTIFY FRAUDULENT DOCUMENTS TO PROTECT NATIONAL S
+Period: 2025-09-30 to 2026-09-29
+Location: None, VA

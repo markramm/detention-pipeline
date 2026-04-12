@@ -43,7 +43,8 @@ from pathlib import Path
 # Tier 4: Context — useful but not predictive alone
 WEIGHTS = {
     "igsa": 10,              # Tier 1: existing federal detention agreement
-    "anc-contract": 8,       # Tier 1: federal money flowing for detention services
+    "anc-contract": 8,       # Tier 1: federal money flowing for detention services (legacy)
+    "ice-contract": 8,       # Tier 1: federal money flowing for detention services
     "287g-agreement": 7,     # Tier 1.5: local LE already cooperating with ICE
     "commission-activity": 7, # Tier 2: democratic process engaged on detention
     "job-posting": 7,        # Tier 2: consultant actively hiring for this geography
@@ -58,7 +59,8 @@ WEIGHTS = {
 # (9 warehouses shouldn't outscore 1 IGSA)
 MAX_ENTRIES_PER_TYPE = {
     "igsa": 5,               # Multiple IGSAs in a county is meaningful (up to a point)
-    "anc-contract": 3,       # Multiple contracts = deeper relationship
+    "anc-contract": 3,       # Multiple contracts = deeper relationship (legacy)
+    "ice-contract": 3,       # Multiple contracts = deeper relationship
     "287g-agreement": 3,     # Multiple models (JEM+TFM+WSO) = deeper cooperation
     "real-estate-trace": 2,  # Cap at 2 — more warehouses doesn't mean more likely
     "commission-activity": 5, # Each meeting/vote is distinct signal
@@ -153,6 +155,12 @@ def scan_kb(kb_path, entry_type_override=None):
             state = fields.get("state", "")
             entry_type = entry_type_override or fields.get("type", "unknown")
             title = fields.get("title", fname)
+            contract_class = fields.get("contract_class", "")
+
+            # Skip non-detention ICE contracts from scoring —
+            # they're valuable in the KB but too noisy for the heat map
+            if entry_type == "ice-contract" and contract_class != "detention-related":
+                continue
 
             if fips or state:
                 entries.append({
@@ -290,6 +298,7 @@ def main():
                 len(data["signals"].get("igsa", [])),
                 len(data["signals"].get("287g-agreement", [])),
                 len(data["signals"].get("anc-contract", [])),
+                len(data["signals"].get("ice-contract", [])),
                 len(data["signals"].get("real-estate-trace", [])),
                 len(data["signals"].get("commission-activity", [])),
                 len(data["signals"].get("comms-discipline", [])),
@@ -312,8 +321,9 @@ def main():
             signal_types = len([t for t in data["signals"] if data["signals"][t]])
             # Build breakdown string
             parts = []
-            for stype in ["igsa", "287g-agreement", "anc-contract", "real-estate-trace", "commission-activity",
-                          "comms-discipline", "budget-distress", "sheriff-network", "job-posting"]:
+            for stype in ["igsa", "287g-agreement", "anc-contract", "ice-contract", "real-estate-trace",
+                          "commission-activity", "comms-discipline", "budget-distress", "sheriff-network",
+                          "job-posting"]:
                 count = len(data["signals"].get(stype, []))
                 if count:
                     short = stype.split("-")[0][:4]

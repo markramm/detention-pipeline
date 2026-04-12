@@ -106,6 +106,7 @@
   "igsa": {
     "label": "IGSA Facility",
     "color": "#c93b3b",
+    "weight": 10,
     "section": "facilities"
   },
   "facility": {

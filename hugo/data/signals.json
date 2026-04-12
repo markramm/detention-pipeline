@@ -52,5 +52,11 @@
     "color": "#2a7fb5",
     "weight": 6,
     "section": "signals"
+  },
+  "igsa": {
+    "label": "IGSA Facility",
+    "color": "#c93b3b",
+    "weight": 10,
+    "section": "facilities"
   }
 }

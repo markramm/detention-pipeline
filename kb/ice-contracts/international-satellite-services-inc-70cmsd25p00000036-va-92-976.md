@@ -1,0 +1,22 @@
+---
+id: international-satellite-services-inc-70cmsd25p00000036-va-92-976
+title: INTERNATIONAL SATELLITE SERVICES, INC. — 70CMSD25P00000036 (VA) $92,976
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: INTERNATIONAL SATELLITE SERVICES, INC.
+Award ID: 70CMSD25P00000036
+Amount: $92,976.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD PROCURES IRIDIUM SATELLITE RADIOS AND MONTHLY SERVICES PLANS, WHICH PROVIDES HOMELAND SECURITY INVESTIGATIONS PERSONNEL THE ABILITIES TO COMMUNICATE AND SHARE INFORMATION AT LONG DISTANCE DURING NATURAL DISASTERS AND OTHER EMERGENCIES.
+Period: 2025-05-27 to 2026-05-26
+Location: None, VA

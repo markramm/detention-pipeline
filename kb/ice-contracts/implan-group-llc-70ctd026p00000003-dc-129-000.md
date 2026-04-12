@@ -1,0 +1,22 @@
+---
+id: implan-group-llc-70ctd026p00000003-dc-129-000
+title: IMPLAN GROUP LLC — 70CTD026P00000003 (DC) $129,000
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: IMPLAN GROUP LLC
+Award ID: 70CTD026P00000003
+Amount: $129,000.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: URGENT PURCHASE OF IMPLAN ECONOMIC MODELING SOFTWARE LICENSE, 12 MONTHS. IMPLAN IS AN INPUT-OUTPUT ECONOMIC MODELING SOFTWARE AND DATASET PACKAGE ESSENTIAL FOR ACCURATELY ANALYZING AND QUANTIFYING ECONOMIC IMPACTS OF ICE OPERATIONS AND ACTIVITIES.
+Period: 2026-02-04 to 2027-02-03
+Location: None, DC

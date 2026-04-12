@@ -1,0 +1,22 @@
+---
+id: impres-technology-solutions-inc-70cmsd25fr0000084-va-222-454
+title: IMPRES TECHNOLOGY SOLUTIONS, INC — 70CMSD25FR0000084 (VA) $222,454
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: IMPRES TECHNOLOGY SOLUTIONS, INC
+Award ID: 70CMSD25FR0000084
+Amount: $222,453.65
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS CONTRACT RENEWS SUBSCRIPTIONS & MAINTENANCE FOR PASSWARE KIT FORENSIC LICENSES, ENABLING HOMELAND SECURITY INVESTIGATIONS TO DECRYPT FILES, RECOVER PASSWORDS, & ANALYZE ENCRYPTED FORENSIC DATA, SUPPORTING CRITICAL LAW ENFORCEMENT INVESTI
+Period: 2025-09-30 to 2026-09-29
+Location: None, VA
