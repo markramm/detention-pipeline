@@ -340,6 +340,7 @@ body {
       <a href="/map/" {{ if hasPrefix .RelPermalink "/map" }}class="active"{{ end }}>Map</a>
       <a href="/fights/" {{ if hasPrefix .RelPermalink "/fights" }}class="active"{{ end }}>Fights</a>
       <a href="/pipeline/" {{ if eq .RelPermalink "/pipeline/" }}class="active"{{ end }}>Pipeline</a>
+      <a href="/blog/" {{ if hasPrefix .RelPermalink "/blog" }}class="active"{{ end }}>Updates</a>
       <div class="nav-group">
         <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") (hasPrefix .RelPermalink "/timeline") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Investigate</button>
         <div class="nav-dropdown">
@@ -355,9 +356,8 @@ body {
       </div>
       <a href="/tactics/" {{ if eq .RelPermalink "/tactics/" }}class="active"{{ end }}>Tactics</a>
       <div class="nav-group">
-        <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") (hasPrefix .RelPermalink "/resources") (hasPrefix .RelPermalink "/blog") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Help Build</button>
+        <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") (hasPrefix .RelPermalink "/resources") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Help Build</button>
         <div class="nav-dropdown">
-          <a href="/blog/">Updates</a>
           <a href="/contribute/">Contribute</a>
           <a href="/coverage/">Coverage Gaps</a>
           <a href="/sources/">Data Sources</a>
@@ -376,6 +376,7 @@ body {
   <a href="/map/">Map</a>
   <a href="/fights/">Fights</a>
   <a href="/pipeline/">Pipeline</a>
+  <a href="/blog/">Updates</a>
   <a href="/tactics/">Tactics</a>
   <span class="mobile-nav-group-label">Investigate</span>
   <a href="/county/" style="padding-left:12px;">Counties</a>
@@ -387,7 +388,6 @@ body {
   <a href="/facilities/" style="padding-left:12px;">Facilities</a>
   <a href="/foia/" style="padding-left:12px;">FOIA Generator</a>
   <span class="mobile-nav-group-label">Help Build</span>
-  <a href="/blog/" style="padding-left:12px;">Updates</a>
   <a href="/contribute/" style="padding-left:12px;">Contribute</a>
   <a href="/coverage/" style="padding-left:12px;">Coverage Gaps</a>
   <a href="/sources/" style="padding-left:12px;">Data Sources</a>
