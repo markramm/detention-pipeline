@@ -1,8 +1,8 @@
 {
   "metadata": {
     "description": "Legistar client ID mapping for US counties and cities. Legistar (by Granicus) powers meeting management for local governments but has no public client directory. This file maps validated client IDs to FIPS codes for civic tech use.",
-    "last_updated": "2026-04-11",
-    "total_validated": 44,
+    "last_updated": "2026-04-12",
+    "total_validated": 61,
     "how_to_use": {
       "api_events": "GET https://webapi.legistar.com/v1/{client_id}/Events",
       "api_items": "GET https://webapi.legistar.com/v1/{client_id}/Events/{id}/EventItems",
@@ -37,6 +37,72 @@
       "has_events": true
     },
     {
+      "client_id": "pima",
+      "name": "Pima County",
+      "state": "AZ",
+      "fips": "04019",
+      "entity_type": "county",
+      "legistar_url": "https://pima.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/pima",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "alameda",
+      "name": "Alameda County",
+      "state": "CA",
+      "fips": "06001",
+      "entity_type": "county",
+      "legistar_url": "https://alameda.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/alameda",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "eldorado",
+      "name": "El Dorado County",
+      "state": "CA",
+      "fips": "06017",
+      "entity_type": "county",
+      "legistar_url": "https://eldorado.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/eldorado",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "fresno",
+      "name": "Fresno County",
+      "state": "CA",
+      "fips": "06019",
+      "entity_type": "county",
+      "legistar_url": "https://fresno.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/fresno",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "humboldt",
+      "name": "Humboldt County",
+      "state": "CA",
+      "fips": "06023",
+      "entity_type": "county",
+      "legistar_url": "https://humboldt.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/humboldt",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "lassen",
+      "name": "Lassen County",
+      "state": "CA",
+      "fips": "06035",
+      "entity_type": "county",
+      "legistar_url": "https://lassen.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/lassen",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
       "client_id": "lacounty",
       "name": "Los Angeles County",
       "state": "CA",
@@ -44,6 +110,39 @@
       "entity_type": "county",
       "legistar_url": "https://lacounty.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/lacounty",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "mendocino",
+      "name": "Mendocino County",
+      "state": "CA",
+      "fips": "06045",
+      "entity_type": "county",
+      "legistar_url": "https://mendocino.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/mendocino",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "monterey",
+      "name": "Monterey County",
+      "state": "CA",
+      "fips": "06053",
+      "entity_type": "county",
+      "legistar_url": "https://monterey.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/monterey",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "napa",
+      "name": "Napa County",
+      "state": "CA",
+      "fips": "06055",
+      "entity_type": "county",
+      "legistar_url": "https://napa.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/napa",
       "validated": "2026-04-11",
       "has_events": true
     },
@@ -81,6 +180,39 @@
       "has_events": true
     },
     {
+      "client_id": "santabarbara",
+      "name": "Santa Barbara County",
+      "state": "CA",
+      "fips": "06083",
+      "entity_type": "county",
+      "legistar_url": "https://santabarbara.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/santabarbara",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "santaclara",
+      "name": "Santa Clara County",
+      "state": "CA",
+      "fips": "06085",
+      "entity_type": "county",
+      "legistar_url": "https://santaclara.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/santaclara",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "solano",
+      "name": "Solano County",
+      "state": "CA",
+      "fips": "06095",
+      "entity_type": "county",
+      "legistar_url": "https://solano.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/solano",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
       "client_id": "arapahoe",
       "name": "Arapahoe County",
       "state": "CO",
@@ -88,6 +220,17 @@
       "entity_type": "county",
       "legistar_url": "https://arapahoe.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/arapahoe",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "alachua",
+      "name": "Alachua County",
+      "state": "FL",
+      "fips": "12001",
+      "entity_type": "county",
+      "legistar_url": "https://alachua.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/alachua",
       "validated": "2026-04-11",
       "has_events": true
     },
@@ -165,6 +308,17 @@
       "entity_type": "county",
       "legistar_url": "https://ircgov.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/ircgov",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
+      "client_id": "madison",
+      "name": "Madison County",
+      "state": "FL",
+      "fips": "12079",
+      "entity_type": "county",
+      "legistar_url": "https://madison.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/madison",
       "validated": "2026-04-11",
       "has_events": true
     },
@@ -312,6 +466,17 @@
       "has_events": true
     },
     {
+      "client_id": "troup",
+      "name": "Troup County",
+      "state": "GA",
+      "fips": "13285",
+      "entity_type": "county",
+      "legistar_url": "https://troup.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/troup",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
       "client_id": "chicago",
       "name": "Chicago",
       "state": "IL",
@@ -400,6 +565,17 @@
       "has_events": true
     },
     {
+      "client_id": "carson",
+      "name": "Carson County",
+      "state": "TX",
+      "fips": "48065",
+      "entity_type": "county",
+      "legistar_url": "https://carson.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/carson",
+      "validated": "2026-04-11",
+      "has_events": true
+    },
+    {
       "client_id": "elpasotexas",
       "name": "El Paso",
       "state": "TX",
@@ -431,6 +607,17 @@
       "api_url": "https://webapi.legistar.com/v1/harriscountytx",
       "validated": "2026-04-11",
       "has_events": true
+    },
+    {
+      "client_id": "harrison",
+      "name": "Harrison County",
+      "state": "TX",
+      "fips": "48203",
+      "entity_type": "county",
+      "legistar_url": "https://harrison.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/harrison",
+      "validated": "2026-04-12",
+      "has_events": false
     },
     {
       "client_id": "lubbockcounty",
