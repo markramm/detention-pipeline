@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>Updates
+</div>
+<div class="page-content">
+  <div style="max-width:760px; padding-top:24px;">
+    <h1 class="serif" style="font-size:32px; font-weight:400; margin-bottom:6px;">Updates</h1>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.6; margin-bottom:28px;">
+      Project announcements, new data sources, and investigation updates.
+    </p>
+
+    {{ range .Pages.ByDate.Reverse }}
+    <div class="card" style="padding:20px 24px; margin-bottom:16px;">
+      <a href="{{ .RelPermalink }}" style="text-decoration:none; color:inherit;">
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:12px; margin-bottom:6px;">
+          <h2 class="serif" style="font-size:22px; font-weight:400; letter-spacing:-0.01em;">{{ .Title }}</h2>
+          <span class="mono dim" style="font-size:10px; white-space:nowrap;">{{ .Date.Format "Jan 2, 2006" }}</span>
+        </div>
+        {{ with .Params.summary }}
+        <p style="font-size:14px; color:var(--text-secondary); line-height:1.6;">{{ . }}</p>
+        {{ end }}
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

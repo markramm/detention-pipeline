@@ -1,0 +1,100 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>
+  <a href="/blog/">Updates</a><span class="sep">/</span>
+  {{ .Title }}
+</div>
+<div class="page-content">
+  <div style="max-width:720px; padding-top:24px;">
+
+    <div class="mono dim" style="font-size:10px; letter-spacing:0.06em; margin-bottom:6px;">
+      {{ .Date.Format "January 2, 2006" }}{{ with .Params.author }} &middot; {{ . }}{{ end }}
+    </div>
+
+    <h1 class="serif" style="font-size:34px; font-weight:400; letter-spacing:-0.02em; margin-bottom:20px;">{{ .Title }}</h1>
+
+    <div style="font-size:15px; color:var(--text-secondary); line-height:1.85; margin-bottom:40px;" class="blog-content">
+      {{ .Content }}
+    </div>
+
+    <div style="padding:20px 24px; background:var(--bg-deep); border-radius:5px; color:var(--text-light); margin-bottom:24px;">
+      <p class="serif" style="font-size:18px; font-weight:400; margin-bottom:6px;">
+        The investigation behind the data
+      </p>
+      <p style="font-size:13px; color:rgba(232,230,225,0.5); line-height:1.6; margin-bottom:10px;">
+        The Detention Pipeline is the data layer for an ongoing investigation by The RAMM.
+      </p>
+      <div style="display:flex; gap:8px; flex-wrap:wrap;">
+        <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" class="btn" style="background:var(--accent); color:white; border-color:var(--accent); font-size:12px;" target="_blank" rel="noopener">
+          Read the investigation &rarr;
+        </a>
+        <a href="/start/" class="btn" style="font-size:12px; color:rgba(232,230,225,0.6); border-color:rgba(255,255,255,0.15);">
+          Start here
+        </a>
+      </div>
+    </div>
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap; padding-top:16px; border-top:1px solid var(--border);">
+      <a href="/blog/" class="btn btn-sm">&larr; All updates</a>
+      <a href="/map/" class="btn btn-sm">Heat map</a>
+      <a href="/contribute/" class="btn btn-sm">Contribute</a>
+    </div>
+
+  </div>
+</div>
+
+<style>
+.blog-content h2 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 24px; font-weight: 400; margin-top: 36px; margin-bottom: 12px;
+  letter-spacing: -0.01em; color: var(--text-primary);
+}
+.blog-content h3 {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 20px; font-weight: 400; margin-top: 28px; margin-bottom: 8px;
+  color: var(--text-primary);
+}
+.blog-content hr {
+  border: none; border-top: 1px solid var(--border);
+  margin: 28px 0;
+}
+.blog-content blockquote {
+  border-left: 3px solid var(--accent-warm);
+  padding-left: 16px; margin: 16px 0;
+  color: var(--text-dim); font-style: italic;
+}
+.blog-content a { color: var(--accent-warm); }
+.blog-content strong { color: var(--text-primary); }
+.blog-content figure {
+  margin: 24px -20px; padding: 0;
+}
+.blog-content figure img {
+  width: 100%; border-radius: 4px;
+  border: 1px solid var(--border);
+}
+.blog-content figcaption {
+  font-size: 12px; color: var(--text-dim);
+  margin-top: 6px; padding: 0 20px;
+  line-height: 1.5;
+}
+.blog-content em { color: var(--text-dim); }
+
+/* Embedded visualizations */
+.blog-content .embed-viz {
+  margin: 28px -40px;
+}
+.blog-content .embed-viz iframe {
+  background: #0a0a0f;
+}
+.blog-content .embed-caption {
+  font-size: 12px; color: var(--text-dim);
+  margin-top: 6px; padding: 0 40px;
+  line-height: 1.5;
+}
+.blog-content .embed-caption a { color: var(--accent-warm); }
+@media (max-width: 768px) {
+  .blog-content .embed-viz { margin: 20px -16px; }
+  .blog-content .embed-caption { padding: 0 16px; }
+}
+</style>
+{{ end }}
