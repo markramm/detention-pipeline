@@ -355,10 +355,60 @@ def generate_player_card(fonts, title, summary, player_type, signal_color_hex, o
     img.save(output_path, "PNG", optimize=True)
 
 
+def generate_blog_card(fonts, title, summary, date, output_path):
+    """Generate OG card for a blog post."""
+    img = Image.new("RGB", (W, H), BG)
+    draw = ImageDraw.Draw(img)
+    draw_gradient_bg(draw)
+
+    # Type label
+    draw.rectangle([40, 60, 40 + 10, 60 + 30], fill=ACCENT_WARM)
+    draw.text((60, 62), "UPDATE", fill=TEXT_DIM, font=fonts["mono"])
+    if date:
+        draw.text((160, 62), date.upper(), fill=TEXT_DIM, font=fonts["mono_sm"])
+
+    # Title (wrapped)
+    title_clean = title or "Pipeline Update"
+    words = title_clean.split()
+    lines = []
+    current = ""
+    for w in words:
+        if len(current + " " + w) < 35:
+            current = (current + " " + w).strip()
+        else:
+            lines.append(current)
+            current = w
+    if current:
+        lines.append(current)
+    for i, line in enumerate(lines[:3]):
+        draw.text((40, 120 + i * 48), line, fill=TEXT_LIGHT, font=fonts["title"])
+
+    # Summary (wrapped)
+    summary_y = 120 + min(len(lines), 3) * 48 + 20
+    if summary:
+        words = summary.split()
+        lines = []
+        current = ""
+        for w in words:
+            if len(current + " " + w) < 65:
+                current = (current + " " + w).strip()
+            else:
+                lines.append(current)
+                current = w
+        if current:
+            lines.append(current)
+        for i, line in enumerate(lines[:4]):
+            draw.text((40, summary_y + i * 26), line, fill=TEXT_MID, font=fonts["sans"])
+
+    draw.rectangle([40, H - 100, 200, H - 97], fill=ACCENT_WARM)
+    draw_brand(draw, fonts)
+    img.save(output_path, "PNG", optimize=True)
+
+
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Generate OG social card images")
-    parser.add_argument("--type", choices=["default", "county", "state", "fight", "player"], help="Generate only this type")
+    parser.add_argument("--type", choices=["default", "county", "state", "fight", "player", "blog"], help="Generate only this type")
     parser.add_argument("--top", type=int, default=50, help="Top N counties by score (default: 50)")
     parser.add_argument("--output-dir", type=str, default="static/og", help="Output directory")
     args = parser.parse_args()
@@ -433,6 +483,21 @@ def main():
                                             out / f"player-{md.stem}.png")
                         generated += 1
             print(f"  Generated player cards")
+
+        if not args.type or args.type == "blog":
+            blog_count = 0
+            for md in sorted(content_path.glob("blog/*.md")):
+                if md.name == "_index.md":
+                    continue
+                text = md.read_text()
+                fm = _parse_frontmatter(text)
+                if fm:
+                    generate_blog_card(fonts, fm.get("title", ""), fm.get("summary", ""),
+                                      fm.get("date", ""),
+                                      out / f"blog-{md.stem}.png")
+                    generated += 1
+                    blog_count += 1
+            print(f"  Generated {blog_count} blog cards")
 
     print(f"\nTotal: {generated} OG cards → {out}/")
 
