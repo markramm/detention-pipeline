@@ -93,26 +93,26 @@ def draw_gradient_bg(draw):
 def draw_brand(draw, fonts):
     """Draw site branding at bottom."""
     y = H - 48
-    draw.line([(40, y), (W - 40, y)], fill=BORDER, width=1)
-    draw.text((40, y + 12), "DETENTION PIPELINE", fill=TEXT_DIM, font=fonts["mono_sm"])
-    draw.text((W - 40, y + 12), "EARLY WARNING SYSTEM", fill=ACCENT, font=fonts["mono_sm"], anchor="ra")
+    draw.line([(80, y), (W - 80, y)], fill=BORDER, width=1)
+    draw.text((80, y + 12), "DETENTION PIPELINE", fill=TEXT_DIM, font=fonts["mono"])
+    draw.text((W - 80, y + 12), "EARLY WARNING SYSTEM", fill=ACCENT, font=fonts["mono"], anchor="ra")
 
 
 def draw_signal_dots(draw, fonts, signals, x, y):
     """Draw signal type dots with labels."""
     cx = x
     for sig_type, info in signals.items():
-        if cx > W - 100:
+        if cx > W - 120:
             break
         color = SIGNAL_COLORS.get(sig_type, TEXT_DIM)
         label = SIGNAL_LABELS.get(sig_type, sig_type)
         # Dot
-        draw.ellipse([cx, y + 3, cx + 8, y + 11], fill=color)
+        draw.ellipse([cx, y + 4, cx + 10, y + 14], fill=color)
         # Label + count
         text = f"{label} {info['count']}"
-        draw.text((cx + 14, y), text, fill=TEXT_MID, font=fonts["mono_sm"])
-        bbox = fonts["mono_sm"].getbbox(text)
-        cx += 14 + (bbox[2] - bbox[0]) + 20
+        draw.text((cx + 16, y), text, fill=TEXT_MID, font=fonts["mono"])
+        bbox = fonts["mono"].getbbox(text)
+        cx += 16 + (bbox[2] - bbox[0]) + 24
 
 
 def draw_score_badge(draw, fonts, score, x, y):
@@ -129,7 +129,7 @@ def draw_score_badge(draw, fonts, score, x, y):
     tw = bbox[2] - bbox[0]
 
     draw.text((x, y), score_text, fill=color, font=fonts["mono_xxl"])
-    draw.text((x, y + 62), "HEAT SCORE", fill=TEXT_DIM, font=fonts["mono_sm"])
+    draw.text((x, y + 62), "HEAT SCORE", fill=TEXT_DIM, font=fonts["mono"])
     return tw + 30
 
 
@@ -139,28 +139,29 @@ def generate_default_card(fonts, output_path):
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
+    LM = 80
+
     # Title
-    draw.text((40, 80), "Detention Pipeline", fill=TEXT_LIGHT, font=fonts["title"])
-    draw.text((40, 135), "Early Warning System", fill=ACCENT, font=fonts["mono_lg"])
+    draw.text((LM, 70), "Detention Pipeline", fill=TEXT_LIGHT, font=fonts["title_xl"])
+    draw.text((LM, 135), "Early Warning System", fill=ACCENT, font=fonts["mono_xl"])
 
     # Subtitle
-    draw.text((40, 200), "Tracking signal convergence across U.S. counties", fill=TEXT_MID, font=fonts["sans_lg"])
-    draw.text((40, 240), "to detect ICE detention expansion before it happens.", fill=TEXT_MID, font=fonts["sans_lg"])
+    draw.text((LM, 200), "Tracking signal convergence across", fill=TEXT_MID, font=fonts["sans_xl"])
+    draw.text((LM, 240), "U.S. counties to detect ICE detention", fill=TEXT_MID, font=fonts["sans_xl"])
+    draw.text((LM, 280), "expansion before it happens.", fill=TEXT_MID, font=fonts["sans_xl"])
 
     # Stats
-    stats_y = 320
-    stats = [("4,500+", "Pages"), ("986", "Counties"), ("10", "Signal Types"), ("495", "Facilities")]
-    sx = 40
+    stats_y = 350
+    stats = [("1,988", "Counties"), ("43", "Fights"), ("85", "Facilities")]
+    sx = LM
     for val, label in stats:
         draw.text((sx, stats_y), val, fill=TEXT_LIGHT, font=fonts["mono_xl"])
         bbox = fonts["mono_xl"].getbbox(val)
-        draw.text((sx, stats_y + 42), label.upper(), fill=TEXT_DIM, font=fonts["mono_sm"])
-        sx += (bbox[2] - bbox[0]) + 60
+        draw.text((sx, stats_y + 42), label.upper(), fill=TEXT_DIM, font=fonts["mono"])
+        sx += (bbox[2] - bbox[0]) + 80
 
     # Accent line
-    draw.rectangle([40, 440, 300, 443], fill=ACCENT)
-
-    draw.text((40, 460), "detention-pipeline.transparencycascade.org", fill=TEXT_DIM, font=fonts["mono"])
+    draw.rectangle([LM, 440, LM + 240, 444], fill=ACCENT)
 
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
@@ -172,41 +173,39 @@ def generate_county_card(fonts, county_data, output_path):
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
+    LM = 80
     name = county_data["county"]
     score = county_data["score"]
     signal_types = county_data["signal_types"]
     signals = county_data["signals"]
 
     # Score badge (large, left side)
-    sw = draw_score_badge(draw, fonts, score, 40, 60)
+    sw = draw_score_badge(draw, fonts, score, LM, 50)
 
     # County name
-    draw.text((40 + sw, 70), name, fill=TEXT_LIGHT, font=fonts["sans_xl"])
+    draw.text((LM + sw, 58), name, fill=TEXT_LIGHT, font=fonts["title"])
 
     # Signal type count
-    draw.text((40 + sw, 112), f"{signal_types} independent signal types converging", fill=TEXT_MID, font=fonts["sans"])
-
-    # Signal dots
-    draw_signal_dots(draw, fonts, signals, 40, 180)
+    draw.text((LM + sw, 108), f"{signal_types} signal types converging", fill=TEXT_MID, font=fonts["sans_lg"])
 
     # Signal detail list
-    y = 220
+    y = 180
     for sig_type, info in signals.items():
-        if y > 480:
+        if y > 470:
             break
         color = SIGNAL_COLORS.get(sig_type, TEXT_DIM)
         label = SIGNAL_LABELS.get(sig_type, sig_type)
-        draw.ellipse([40, y + 4, 50, y + 14], fill=color)
-        draw.text((58, y), f"{label}", fill=TEXT_LIGHT, font=fonts["mono"])
-        draw.text((250, y), str(info["count"]), fill=TEXT_MID, font=fonts["mono"])
+        draw.ellipse([LM, y + 5, LM + 12, y + 17], fill=color)
+        draw.text((LM + 20, y), f"{label}", fill=TEXT_LIGHT, font=fonts["mono_lg"])
+        draw.text((LM + 260, y), str(info["count"]), fill=TEXT_MID, font=fonts["mono_lg"])
         # Show first entry name truncated
         if info.get("entries"):
-            entry_text = info["entries"][0][:60]
-            draw.text((300, y), entry_text, fill=(80, 78, 86), font=fonts["mono_sm"])
-        y += 28
+            entry_text = info["entries"][0][:50]
+            draw.text((LM + 310, y), entry_text, fill=(80, 78, 86), font=fonts["mono"])
+        y += 34
 
     # Accent line
-    draw.rectangle([40, y + 10, 200, y + 13], fill=ACCENT if score >= 70 else ACCENT_WARM)
+    draw.rectangle([LM, y + 10, LM + 200, y + 14], fill=ACCENT if score >= 70 else ACCENT_WARM)
 
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
@@ -218,40 +217,41 @@ def generate_state_card(fonts, state_abbr, state_name, counties, output_path):
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
+    LM = 80
     max_score = max((c["score"] for c in counties), default=0)
     total_entries = sum(sum(s["count"] for s in c["signals"].values()) for c in counties)
 
     # State name large
-    draw.text((40, 60), state_name, fill=TEXT_LIGHT, font=fonts["title"])
-    draw.text((40, 115), f"{state_abbr} — Detention Pipeline", fill=TEXT_DIM, font=fonts["mono_lg"])
+    draw.text((LM, 50), state_name, fill=TEXT_LIGHT, font=fonts["title_xl"])
+    draw.text((LM, 115), f"{state_abbr} — Detention Pipeline", fill=TEXT_DIM, font=fonts["mono_lg"])
 
     # Stats row
-    stats_y = 180
+    stats_y = 170
     stats = [
-        (str(len(counties)), "Counties Tracked"),
+        (str(len(counties)), "Counties"),
         (str(total_entries), "Entries"),
-        (str(max_score), "Max Heat Score"),
+        (str(max_score), "Max Score"),
     ]
-    sx = 40
+    sx = LM
     for val, label in stats:
         draw.text((sx, stats_y), val, fill=TEXT_LIGHT, font=fonts["mono_xl"])
         bbox = fonts["mono_xl"].getbbox(val)
-        draw.text((sx, stats_y + 42), label.upper(), fill=TEXT_DIM, font=fonts["mono_sm"])
-        sx += max((bbox[2] - bbox[0]) + 50, 200)
+        draw.text((sx, stats_y + 42), label.upper(), fill=TEXT_DIM, font=fonts["mono"])
+        sx += max((bbox[2] - bbox[0]) + 60, 220)
 
     # Top counties
-    draw.text((40, 310), "HOTTEST COUNTIES", fill=TEXT_DIM, font=fonts["mono_sm"])
-    y = 340
-    top = sorted(counties, key=lambda c: -c["score"])[:6]
+    draw.text((LM, 290), "HOTTEST COUNTIES", fill=TEXT_DIM, font=fonts["mono"])
+    y = 324
+    top = sorted(counties, key=lambda c: -c["score"])[:5]
     for c in top:
-        if y > 500:
+        if y > 490:
             break
         sc = c["score"]
         color = ACCENT if sc >= 70 else ACCENT_WARM if sc >= 40 else TEXT_MID
-        draw.text((40, y), str(sc), fill=color, font=fonts["mono"])
-        draw.text((100, y), c["county"], fill=TEXT_LIGHT, font=fonts["sans"])
-        draw.text((600, y), f"{c['signal_types']} signals", fill=TEXT_DIM, font=fonts["mono_sm"])
-        y += 28
+        draw.text((LM, y), str(sc), fill=color, font=fonts["mono_lg"])
+        draw.text((LM + 80, y), c["county"], fill=TEXT_LIGHT, font=fonts["sans_lg"])
+        draw.text((700, y), f"{c['signal_types']} signals", fill=TEXT_DIM, font=fonts["mono"])
+        y += 34
 
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
@@ -263,30 +263,30 @@ def generate_fight_card(fonts, title, summary, status, state, output_path):
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
+    LM = 80
+
     # Status badge
-    status_color = ACCENT if status == "contested" else (42, 138, 90)
-    draw.rectangle([40, 60, 40 + 10, 60 + 40], fill=status_color)
-    draw.text((60, 60), "COUNTY FIGHT", fill=TEXT_DIM, font=fonts["mono"])
-    draw.text((220, 60), (status or "").upper(), fill=status_color, font=fonts["mono"])
+    status_color = ACCENT if status == "contested" else (212, 106, 47) if status == "litigation" else (42, 138, 90)
+    draw.rectangle([LM, 50, LM + 12, 50 + 36], fill=status_color)
+    draw.text((LM + 22, 52), "COUNTY FIGHT", fill=TEXT_MID, font=fonts["mono_lg"])
+    draw.text((LM + 240, 52), (status or "").upper(), fill=status_color, font=fonts["mono_lg"])
 
     # Title (may need wrapping)
     title_clean = title.split(" — ")[0] if " — " in title else title
-    if len(title_clean) > 40:
-        # Wrap
-        words = title_clean.split()
-        line1 = ""
-        line2 = ""
-        for w in words:
-            if len(line1 + " " + w) < 40:
-                line1 = (line1 + " " + w).strip()
-            else:
-                line2 = (line2 + " " + w).strip()
-        draw.text((40, 120), line1, fill=TEXT_LIGHT, font=fonts["sans_xl"])
-        draw.text((40, 160), line2, fill=TEXT_LIGHT, font=fonts["sans_xl"])
-        summary_y = 220
-    else:
-        draw.text((40, 120), title_clean, fill=TEXT_LIGHT, font=fonts["sans_xl"])
-        summary_y = 180
+    words = title_clean.split()
+    lines = []
+    current = ""
+    for w in words:
+        if len(current + " " + w) < 28:
+            current = (current + " " + w).strip()
+        else:
+            lines.append(current)
+            current = w
+    if current:
+        lines.append(current)
+    for i, line in enumerate(lines[:2]):
+        draw.text((LM, 110 + i * 64), line, fill=TEXT_LIGHT, font=fonts["title_xl"])
+    summary_y = 110 + min(len(lines), 2) * 64 + 24
 
     # Summary (wrapped)
     if summary:
@@ -294,7 +294,7 @@ def generate_fight_card(fonts, title, summary, status, state, output_path):
         lines = []
         current = ""
         for w in words:
-            if len(current + " " + w) < 70:
+            if len(current + " " + w) < 50:
                 current = (current + " " + w).strip()
             else:
                 lines.append(current)
@@ -302,11 +302,10 @@ def generate_fight_card(fonts, title, summary, status, state, output_path):
         if current:
             lines.append(current)
         for i, line in enumerate(lines[:4]):
-            draw.text((40, summary_y + i * 24), line, fill=TEXT_MID, font=fonts["sans"])
+            draw.text((LM, summary_y + i * 32), line, fill=TEXT_MID, font=fonts["sans_lg"])
 
     # Accent
-    draw.rectangle([40, H - 100, 200, H - 97], fill=status_color)
-    draw.text((40, H - 85), "detention-pipeline.transparencycascade.org", fill=TEXT_DIM, font=fonts["mono_sm"])
+    draw.rectangle([LM, H - 100, LM + 200, H - 96], fill=status_color)
 
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
@@ -318,6 +317,8 @@ def generate_player_card(fonts, title, summary, player_type, signal_color_hex, o
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
+    LM = 80
+
     # Parse hex color
     try:
         hc = signal_color_hex.lstrip("#")
@@ -327,12 +328,25 @@ def generate_player_card(fonts, title, summary, player_type, signal_color_hex, o
 
     # Type label
     type_label = (player_type or "player").upper().replace("-", " ")
-    draw.rectangle([40, 60, 40 + 10, 60 + 30], fill=color)
-    draw.text((60, 62), type_label, fill=TEXT_DIM, font=fonts["mono"])
+    draw.rectangle([LM, 50, LM + 12, 50 + 36], fill=color)
+    draw.text((LM + 22, 52), type_label, fill=TEXT_MID, font=fonts["mono_lg"])
 
-    # Title
+    # Title (wrapped)
     title_clean = title.split(" — ")[0] if " — " in title else title
-    draw.text((40, 120), title_clean, fill=TEXT_LIGHT, font=fonts["sans_xl"])
+    words = title_clean.split()
+    lines = []
+    current = ""
+    for w in words:
+        if len(current + " " + w) < 28:
+            current = (current + " " + w).strip()
+        else:
+            lines.append(current)
+            current = w
+    if current:
+        lines.append(current)
+    for i, line in enumerate(lines[:2]):
+        draw.text((LM, 110 + i * 64), line, fill=TEXT_LIGHT, font=fonts["title_xl"])
+    summary_y = 110 + min(len(lines), 2) * 64 + 24
 
     # Summary
     if summary:
@@ -340,17 +354,17 @@ def generate_player_card(fonts, title, summary, player_type, signal_color_hex, o
         lines = []
         current = ""
         for w in words:
-            if len(current + " " + w) < 65:
+            if len(current + " " + w) < 50:
                 current = (current + " " + w).strip()
             else:
                 lines.append(current)
                 current = w
         if current:
             lines.append(current)
-        for i, line in enumerate(lines[:5]):
-            draw.text((40, 200 + i * 26), line, fill=TEXT_MID, font=fonts["sans"])
+        for i, line in enumerate(lines[:4]):
+            draw.text((LM, summary_y + i * 32), line, fill=TEXT_MID, font=fonts["sans_lg"])
 
-    draw.rectangle([40, H - 100, 200, H - 97], fill=color)
+    draw.rectangle([LM, H - 100, LM + 200, H - 96], fill=color)
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
 
