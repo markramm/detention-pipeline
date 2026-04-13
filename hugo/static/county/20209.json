@@ -1,0 +1,15 @@
+{
+  "fips": "20209",
+  "county": "Wyandotte County, KS",
+  "state": "KS",
+  "score": 4,
+  "signal_types": 2,
+  "rank": 1995,
+  "total_counties": 1998,
+  "percentile": 0,
+  "coverage": "partially-researched",
+  "auto_summary": "Wyandotte County, KS shows active community resistance.",
+  "entry_types": {
+    "county-fight": 1
+  }
+}

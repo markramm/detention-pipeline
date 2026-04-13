@@ -7,13 +7,13 @@ fips: ""
 state: "UT"
 county: "Salt Lake"
 repo_path: "kb/industry/county-fights/salt-lake-city-ut-mega-center-fight.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-12"
 summary: "Community in Salt Lake City contested a $145.4M mega center for 7,500-10,000 beds. City imposed water restrictions following Social Circle model; purchase already completed limits options."
 source_count: 4
 type: "fights"
 layout: "single"
-status: "contested"
-outcome: "Ongoing. City imposed water use restrictions (following Social Circle model). Hundreds protested, 3 arrested. Mayor vowed to 'use every tool at the City's disposal.' $145.4M purchase completed — federal preemption limits city options."
+status: "paused-dhs-review"
+outcome: "DHS paused conversion plans (Mar 24). City deployed water + sewage infrastructure weapons. County Mayor sent letter urging DHS to abandon. Status uncertain as of Apr 8, 2026."
 vote_tally: ""
 facility: "salt-lake-city-ut-mega-center"
 ---
@@ -24,12 +24,17 @@ ICE purchased an 833,000 sq ft warehouse (see [salt-lake-city-ut-mega-center](/f
 
 ## Timeline
 
-- **March 12, 2026:** Purchase finalized ($145.4M, Delaware shell company)
+- **Jan 9, 2026:** GEO Transport awarded $10.4M contract for SLC detainee transport — 2 months before warehouse purchase
+- **Early March 2026:** Former DHS Secretary Noem told Utah Sheriff Association UT would host 1 of 6-8 national mega-facilities
+- **March 12, 2026:** Purchase finalized ($145.4M through R-REEF CPIF, $48M above assessed value)
 - **March 13, 2026:** Mayor Mendenhall discloses mega-center plans
 - **March 17, 2026:** Protest at Governor's Mansion
-- **March 18-19, 2026:** Hundreds protest at warehouse, chanting "ICE out!" Three arrested.
-- **March 25, 2026:** City Council votes to restrict water use at the facility
-- **March 30, 2026:** Mayor vows to "use every tool at the City's disposal"
+- **March 18-19, 2026:** Hundreds protest at warehouse, chanting "ICE out!" Three arrested. Gov. Cox endorses facility.
+- **March 19, 2026:** Mayor vows to "use every tool at the City's disposal to stop it"
+- **March 24, 2026:** New DHS Secretary orders pause on conversion plans for this and 10 other warehouses nationwide
+- **March 25, 2026:** City Council caps water use for large nonresidential buildings at 200,000 gal/day
+- **April 6, 2026:** City raises sewage objections — 1-2M gal/day wastewater vs. current 5,600 gal
+- **April 8, 2026:** Status uncertain pending DHS review
 
 ## Tactics Being Used
 

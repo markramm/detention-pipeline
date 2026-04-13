@@ -2,14 +2,16 @@
   "fips": "24043",
   "county": "Washington County, MD",
   "state": "MD",
-  "score": 10,
-  "signal_types": 1,
-  "rank": 1108,
-  "total_counties": 1991,
-  "percentile": 44,
-  "coverage": "unresearched",
-  "auto_summary": "Washington County, MD shows 1 existing IGSA facility.",
+  "score": 36,
+  "signal_types": 4,
+  "rank": 580,
+  "total_counties": 1998,
+  "percentile": 71,
+  "coverage": "partially-researched",
+  "auto_summary": "Washington County, MD shows 1 existing IGSA facility, and active community resistance.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1,
+    "facility": 2
   }
 }

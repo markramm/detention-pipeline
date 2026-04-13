@@ -2,14 +2,15 @@
   "fips": "16083",
   "county": "Twin Falls County, ID",
   "state": "ID",
-  "score": 40,
-  "signal_types": 1,
-  "rank": 474,
-  "total_counties": 1991,
-  "percentile": 76,
+  "score": 54,
+  "signal_types": 3,
+  "rank": 337,
+  "total_counties": 1998,
+  "percentile": 83,
   "coverage": "unresearched",
   "auto_summary": "Twin Falls County, ID shows 3 existing IGSA facilities.",
   "entry_types": {
-    "igsa": 3
+    "igsa": 3,
+    "facility": 1
   }
 }

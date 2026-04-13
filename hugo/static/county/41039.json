@@ -2,14 +2,15 @@
   "fips": "41039",
   "county": "Lane County, OR",
   "state": "OR",
-  "score": 50,
-  "signal_types": 1,
-  "rank": 333,
-  "total_counties": 1991,
-  "percentile": 83,
-  "coverage": "unresearched",
-  "auto_summary": "Lane County, OR shows 3 existing IGSA facilities.",
+  "score": 51,
+  "signal_types": 2,
+  "rank": 383,
+  "total_counties": 1998,
+  "percentile": 81,
+  "coverage": "partially-researched",
+  "auto_summary": "Lane County, OR shows 3 existing IGSA facilities, and active community resistance.",
   "entry_types": {
-    "igsa": 3
+    "igsa": 3,
+    "county-fight": 1
   }
 }

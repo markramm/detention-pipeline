@@ -4,9 +4,9 @@
   "state": "NM",
   "score": 56,
   "signal_types": 3,
-  "rank": 265,
-  "total_counties": 1991,
-  "percentile": 87,
+  "rank": 300,
+  "total_counties": 1998,
+  "percentile": 85,
   "coverage": "unresearched",
   "auto_summary": "Hidalgo County, NM shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {

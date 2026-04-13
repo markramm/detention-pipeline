@@ -2,14 +2,16 @@
   "fips": "02020",
   "county": "Anchorage Municipality, AK",
   "state": "AK",
-  "score": 64,
-  "signal_types": 2,
-  "rank": 219,
-  "total_counties": 1991,
-  "percentile": 89,
-  "coverage": "unresearched",
-  "auto_summary": "Anchorage Municipality, AK shows 5 existing IGSA facilities.",
+  "score": 113,
+  "signal_types": 5,
+  "rank": 37,
+  "total_counties": 1998,
+  "percentile": 98,
+  "coverage": "partially-researched",
+  "auto_summary": "Anchorage Municipality, AK shows 5 existing IGSA facilities, and active community resistance.",
   "entry_types": {
-    "igsa": 5
+    "igsa": 5,
+    "county-fight": 1,
+    "facility": 1
   }
 }

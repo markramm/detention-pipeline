@@ -2,14 +2,15 @@
   "fips": "21047",
   "county": "Christian County, KY",
   "state": "KY",
-  "score": 10,
-  "signal_types": 1,
-  "rank": 1008,
-  "total_counties": 1991,
+  "score": 11,
+  "signal_types": 2,
+  "rank": 1016,
+  "total_counties": 1998,
   "percentile": 49,
   "coverage": "unresearched",
   "auto_summary": "Christian County, KY shows 1 existing IGSA facility.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 1,
+    "facility": 1
   }
 }

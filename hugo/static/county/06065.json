@@ -4,9 +4,9 @@
   "state": "CA",
   "score": 49,
   "signal_types": 3,
-  "rank": 336,
-  "total_counties": 1991,
-  "percentile": 83,
+  "rank": 401,
+  "total_counties": 1998,
+  "percentile": 80,
   "coverage": "unresearched",
   "auto_summary": "Riverside County, CA shows 2 existing IGSA facilities, and 1 ANC contract.",
   "entry_types": {

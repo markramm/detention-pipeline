@@ -2,15 +2,17 @@
   "fips": "32003",
   "county": "Clark County, NV",
   "state": "NV",
-  "score": 37,
-  "signal_types": 2,
-  "rank": 506,
-  "total_counties": 1991,
-  "percentile": 75,
-  "coverage": "unresearched",
-  "auto_summary": "Clark County, NV shows 3 existing IGSA facilities, and 1 287(g) agreement.",
+  "score": 87,
+  "signal_types": 5,
+  "rank": 124,
+  "total_counties": 1998,
+  "percentile": 94,
+  "coverage": "partially-researched",
+  "auto_summary": "Clark County, NV shows 3 existing IGSA facilities, 1 287(g) agreement, and active community resistance.",
   "entry_types": {
     "287g-agreement": 1,
-    "igsa": 3
+    "igsa": 3,
+    "county-fight": 1,
+    "facility": 2
   }
 }

@@ -2,15 +2,16 @@
   "fips": "28045",
   "county": "Hancock County, MS",
   "state": "MS",
-  "score": 45,
-  "signal_types": 3,
-  "rank": 365,
-  "total_counties": 1991,
-  "percentile": 82,
+  "score": 84,
+  "signal_types": 5,
+  "rank": 148,
+  "total_counties": 1998,
+  "percentile": 93,
   "coverage": "unresearched",
   "auto_summary": "Hancock County, MS shows 1 existing IGSA facility, and 1 ANC contract.",
   "entry_types": {
     "anc-contract": 1,
-    "igsa": 1
+    "igsa": 1,
+    "facility": 1
   }
 }

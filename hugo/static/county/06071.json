@@ -2,15 +2,16 @@
   "fips": "06071",
   "county": "San Bernardino County, CA",
   "state": "CA",
-  "score": 85,
+  "score": 86,
   "signal_types": 3,
-  "rank": 145,
-  "total_counties": 1991,
-  "percentile": 93,
+  "rank": 128,
+  "total_counties": 1998,
+  "percentile": 94,
   "coverage": "unresearched",
   "auto_summary": "San Bernardino County, CA shows 7 existing IGSA facilities, and 3 ANC contracts.",
   "entry_types": {
     "anc-contract": 3,
-    "igsa": 7
+    "igsa": 7,
+    "facility": 1
   }
 }

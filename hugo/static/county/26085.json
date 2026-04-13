@@ -2,10 +2,10 @@
   "fips": "26085",
   "county": "Lake County, MI",
   "state": "MI",
-  "score": 115,
+  "score": 114,
   "signal_types": 7,
-  "rank": 39,
-  "total_counties": 1991,
+  "rank": 34,
+  "total_counties": 1998,
   "percentile": 98,
   "coverage": "partially-researched",
   "auto_summary": "Lake County, MI shows 1 existing IGSA facility, 2 ANC contracts, budget distress, and 1 real estate trace.",
@@ -13,6 +13,7 @@
     "anc-contract": 2,
     "budget-distress": 1,
     "igsa": 1,
+    "facility": 1,
     "real-estate-trace": 1
   }
 }

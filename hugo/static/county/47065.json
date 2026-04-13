@@ -2,14 +2,15 @@
   "fips": "47065",
   "county": "Hamilton County, TN",
   "state": "TN",
-  "score": 54,
-  "signal_types": 2,
-  "rank": 300,
-  "total_counties": 1991,
-  "percentile": 85,
-  "coverage": "unresearched",
-  "auto_summary": "Hamilton County, TN shows 3 existing IGSA facilities.",
+  "score": 77,
+  "signal_types": 4,
+  "rank": 186,
+  "total_counties": 1998,
+  "percentile": 91,
+  "coverage": "partially-researched",
+  "auto_summary": "Hamilton County, TN shows 3 existing IGSA facilities, and active community resistance.",
   "entry_types": {
-    "igsa": 3
+    "igsa": 3,
+    "county-fight": 1
   }
 }

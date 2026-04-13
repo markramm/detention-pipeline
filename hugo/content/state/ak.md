@@ -4,5 +4,5 @@ type: state
 layout: single
 state_abbr: "AK"
 county_count: 15
-entry_count: 26
+entry_count: 31
 ---

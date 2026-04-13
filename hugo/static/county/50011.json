@@ -2,14 +2,16 @@
   "fips": "50011",
   "county": "Franklin County, VT",
   "state": "VT",
-  "score": 50,
-  "signal_types": 1,
-  "rank": 328,
-  "total_counties": 1991,
-  "percentile": 84,
-  "coverage": "unresearched",
-  "auto_summary": "Franklin County, VT shows 3 existing IGSA facilities.",
+  "score": 73,
+  "signal_types": 4,
+  "rank": 203,
+  "total_counties": 1998,
+  "percentile": 90,
+  "coverage": "partially-researched",
+  "auto_summary": "Franklin County, VT shows 3 existing IGSA facilities, and active community resistance.",
   "entry_types": {
-    "igsa": 3
+    "igsa": 3,
+    "county-fight": 1,
+    "facility": 1
   }
 }

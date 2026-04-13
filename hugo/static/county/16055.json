@@ -2,15 +2,16 @@
   "fips": "16055",
   "county": "Kootenai County, ID",
   "state": "ID",
-  "score": 34,
-  "signal_types": 2,
-  "rank": 525,
-  "total_counties": 1991,
-  "percentile": 74,
+  "score": 58,
+  "signal_types": 4,
+  "rank": 281,
+  "total_counties": 1998,
+  "percentile": 86,
   "coverage": "unresearched",
   "auto_summary": "Kootenai County, ID shows 1 existing IGSA facility, and 2 287(g) agreements.",
   "entry_types": {
     "287g-agreement": 2,
-    "igsa": 1
+    "igsa": 1,
+    "facility": 1
   }
 }

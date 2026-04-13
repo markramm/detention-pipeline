@@ -2,15 +2,17 @@
   "fips": "08005",
   "county": "Arapahoe County, CO",
   "state": "CO",
-  "score": 64,
-  "signal_types": 2,
-  "rank": 216,
-  "total_counties": 1991,
-  "percentile": 89,
-  "coverage": "unresearched",
-  "auto_summary": "Arapahoe County, CO shows 2 existing IGSA facilities, and 3 ANC contracts.",
+  "score": 112,
+  "signal_types": 5,
+  "rank": 38,
+  "total_counties": 1998,
+  "percentile": 98,
+  "coverage": "partially-researched",
+  "auto_summary": "Arapahoe County, CO shows 2 existing IGSA facilities, 3 ANC contracts, and active community resistance.",
   "entry_types": {
     "anc-contract": 3,
-    "igsa": 2
+    "igsa": 2,
+    "county-fight": 1,
+    "facility": 1
   }
 }

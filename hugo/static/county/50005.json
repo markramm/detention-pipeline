@@ -1,0 +1,15 @@
+{
+  "fips": "50005",
+  "county": "Caledonia County, VT",
+  "state": "VT",
+  "score": 22,
+  "signal_types": 3,
+  "rank": 872,
+  "total_counties": 1998,
+  "percentile": 56,
+  "coverage": "partially-researched",
+  "auto_summary": "Caledonia County, VT shows active community resistance.",
+  "entry_types": {
+    "county-fight": 1
+  }
+}

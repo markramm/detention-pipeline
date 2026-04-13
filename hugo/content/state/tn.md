@@ -4,5 +4,5 @@ type: state
 layout: single
 state_abbr: "TN"
 county_count: 55
-entry_count: 83
+entry_count: 93
 ---

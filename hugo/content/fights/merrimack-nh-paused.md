@@ -1,19 +1,19 @@
 ---
-title: "Merrimack NH — ICE Processing Center Paused After Community Opposition"
+title: "Merrimack NH — ICE Processing Center Scrapped But DHS Won't Rule Out NH"
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "33011"
 state: "NH"
 county: "Hillsborough"
 repo_path: "kb/industry/county-fights/merrimack-nh-paused.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-12"
 summary: "Community in Merrimack NH blocked an ICE processing center. The fight produced leaked ICE planning documents revealing the 34-facility Detention Reengineering Initiative for the first time."
-source_count: 2
+source_count: 7
 type: "fights"
 layout: "single"
-status: "blocked"
-outcome: "Paused. Community opposition halted the project. The NH government released internal ICE planning documents that revealed the Detention Reengineering Initiative to the public for the first time."
+status: "won"
+outcome: "Won (conditionally). Community opposition + Gov. Ayotte pressure forced Sec. Noem to scrap Merrimack facility Feb 24, 2026. However, DHS Sec. nominee Mullin and ICE Director Lyons both refused to rule out future NH facilities as of April 2026. State Rep. Thomas monitoring Merrimack and Hudson warehouses."
 vote_tally: ""
 facility: "merrimack-nh-warehouse"
 ---
@@ -26,6 +26,7 @@ The Merrimack fight produced the single most important disclosure in the detenti
 - The September 30, 2026 deadline
 - The "reengineering" language and hub-and-spoke model
 - The capacity targets (1,000-1,500 for processing centers, 7,000-10,000 for mega-centers)
+- The $38 billion nationwide price tag
 
 The American Immigration Council's definitive analysis of the program was based largely on these documents.
 
@@ -33,9 +34,35 @@ See [merrimack-nh-warehouse](/facilities/merrimack-nh-warehouse/) for the facili
 
 ## The Fight
 
-Community opposition paused the project. The estimated cost ($300M) and the small-town setting made it politically untenable. The facility remains in planning but is not advancing.
+Community opposition paused and then killed the project. Key dynamics:
+
+- **Christmas Eve bombshell**: Washington Post reported the plan on Dec 24, 2025, catching the town of ~30,000 off guard
+- **Town manager blindsided**: Merrimack Town Manager Paul Micali said he was "surprised" to learn of the plans
+- **Bipartisan opposition**: Both Republican Gov. Ayotte and the all-Democratic congressional delegation opposed the facility
+- **ACLU document release**: ACLU-NH obtained and released internal ICE planning documents on Feb 3, 2026, proving state officials had known for weeks
+- **Governor forced disclosure**: Ayotte released the full DHS "Detention Reengineering Initiative" documents on Feb 13
+- **Scrapped Feb 24, 2026**: Ayotte announced DHS Sec. Noem agreed not to move forward
+
+## NOT Over: The Conditional Victory
+
+Despite the Merrimack scrapping, the fight continues:
+
+- **March 18, 2026**: DHS Secretary nominee Markwayne Mullin refused to rule out NH facility during confirmation
+- **March 25, 2026**: Acting ICE Director Todd Lyons in writing: "ICE is assessing a variety of locations throughout the country"
+- **April 2026**: State Rep. Wendy Thomas monitoring the Merrimack warehouse AND a **Hudson warehouse** as potential alternative sites
+- **Congressional response**: NH delegation introduced legislation requiring ICE to get written community approval before building facilities; Sen. Hassan introduced separate bill requiring state/local approval
+
+## Legislative Responses
+
+- **HB 1609** (Rep. David Meuse): Would prohibit NH and its subdivisions from spending money on immigrant detention facilities or property for such use. Public hearing held Jan 15, 2026. Would NOT affect 287(g) agreements.
+- **Federal legislation**: NH's four-member congressional delegation introduced bills requiring ICE community consultation and state/local approval
 
 ## Sources
 
 - [American Immigration Council: ICE's Warehouse Purchases Herald New Model (Feb 24, 2026)](https://www.americanimmigrationcouncil.org/blog/ice-buys-warehouses-immigration-detention/)
 - [NPR: ICE's detention expansion meets resistance (Mar 17, 2026)](https://www.npr.org/2026/03/17/nx-s1-5736087/ices-detention-expansion-meets-resistance-in-communities-across-the-political-spectrum)
+- [DHS Won't Rule Out ICE Facility in NH — InDepthNH (Apr 10, 2026)](https://indepthnh.org/2026/04/10/dhs-wont-rule-out-ice-facility-in-new-hampshire/)
+- [Trump's DHS Nominee Won't Rule Out NH — InDepthNH (Mar 20, 2026)](https://indepthnh.org/2026/03/20/trumps-dhs-nominee-wont-rule-out-a-new-hampshire-ice-facility/)
+- [Local activists claim victory — Maine Beacon](https://mainebeacon.com/local-activists-claim-victory-as-ice-cancels-new-hampshire-warehouse-plan/)
+- [ICE to ditch plan — NEPM](https://www.nepm.org/nh-news/2026-02-24/ayotte-ice-detention-merrimack-newhampshire)
+- [NH Dems attempt to prohibit state funds for detention — NH Bulletin (Jan 20, 2026)](https://newhampshirebulletin.com/2026/01/20/new-hampshire-dems-attempt-to-prohibit-use-of-state-and-local-funds-for-immigrant-detention/)

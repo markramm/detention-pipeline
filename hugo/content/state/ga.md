@@ -3,6 +3,6 @@ title: "Georgia"
 type: state
 layout: single
 state_abbr: "GA"
-county_count: 99
-entry_count: 164
+county_count: 100
+entry_count: 165
 ---

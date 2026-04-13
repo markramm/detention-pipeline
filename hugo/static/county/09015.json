@@ -1,0 +1,15 @@
+{
+  "fips": "09015",
+  "county": "Windham County, CT",
+  "state": "CT",
+  "score": 2,
+  "signal_types": 1,
+  "rank": 1996,
+  "total_counties": 1998,
+  "percentile": 0,
+  "coverage": "partially-researched",
+  "auto_summary": "Windham County, CT shows 1 real estate trace.",
+  "entry_types": {
+    "real-estate-trace": 1
+  }
+}

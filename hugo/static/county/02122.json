@@ -2,14 +2,15 @@
   "fips": "02122",
   "county": "Kenai Peninsula Borough, AK",
   "state": "AK",
-  "score": 64,
-  "signal_types": 2,
-  "rank": 215,
-  "total_counties": 1991,
-  "percentile": 89,
-  "coverage": "unresearched",
-  "auto_summary": "Kenai Peninsula Borough, AK shows 2 existing IGSA facilities.",
+  "score": 87,
+  "signal_types": 4,
+  "rank": 120,
+  "total_counties": 1998,
+  "percentile": 94,
+  "coverage": "partially-researched",
+  "auto_summary": "Kenai Peninsula Borough, AK shows 2 existing IGSA facilities, and active community resistance.",
   "entry_types": {
-    "igsa": 2
+    "igsa": 2,
+    "county-fight": 1
   }
 }

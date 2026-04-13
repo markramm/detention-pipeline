@@ -7,7 +7,7 @@ fips: "18019"
 state: "IN"
 county: "Clark"
 repo_path: "kb/facilities/clark-county-jail-clark-in.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-13"
 summary: "IGSA detention facility in Clark, IN."
 source_count: 0
 source_url: "https://github.com/vera-institute/ice-detention-trends"
@@ -24,3 +24,5 @@ avg_daily_pop: "85"
 ---
 
 USMS IGA facility: Clark County Jail in Clark County, IN. Average daily population: 85.
+
+**UPDATE 2026-04-13**: Clark County Jail became a major ICE detention hub in April 2025 under a rider to the existing USMS contract. ICE capacity: 150 beds. Rate: $70-90/day. 336+ ICE detainees processed by October 2025. See detailed entry: kb/industry/facilities/clark-county-jail-in.md

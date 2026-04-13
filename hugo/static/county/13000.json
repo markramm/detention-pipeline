@@ -1,0 +1,15 @@
+{
+  "fips": "13000",
+  "county": "13000",
+  "state": "GA",
+  "score": 37,
+  "signal_types": 3,
+  "rank": 564,
+  "total_counties": 1998,
+  "percentile": 72,
+  "coverage": "unresearched",
+  "auto_summary": "13000 shows 3 ANC contracts.",
+  "entry_types": {
+    "anc-contract": 3
+  }
+}

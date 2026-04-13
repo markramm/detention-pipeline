@@ -4,5 +4,5 @@ type: state
 layout: single
 state_abbr: "UT"
 county_count: 15
-entry_count: 36
+entry_count: 38
 ---

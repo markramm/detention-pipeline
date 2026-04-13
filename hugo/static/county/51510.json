@@ -2,14 +2,15 @@
   "fips": "51510",
   "county": "Alexandria city, VA",
   "state": "VA",
-  "score": 20,
-  "signal_types": 1,
-  "rank": 855,
-  "total_counties": 1991,
-  "percentile": 57,
+  "score": 55,
+  "signal_types": 3,
+  "rank": 331,
+  "total_counties": 1998,
+  "percentile": 83,
   "coverage": "unresearched",
-  "auto_summary": "Alexandria city, VA shows 2 existing IGSA facilities.",
+  "auto_summary": "Alexandria city, VA shows 2 existing IGSA facilities, and 3 ANC contracts.",
   "entry_types": {
+    "anc-contract": 3,
     "igsa": 2
   }
 }

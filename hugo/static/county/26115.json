@@ -2,14 +2,15 @@
   "fips": "26115",
   "county": "Monroe County, MI",
   "state": "MI",
-  "score": 77,
+  "score": 76,
   "signal_types": 4,
-  "rank": 162,
-  "total_counties": 1991,
-  "percentile": 92,
+  "rank": 192,
+  "total_counties": 1998,
+  "percentile": 90,
   "coverage": "unresearched",
   "auto_summary": "Monroe County, MI shows 2 existing IGSA facilities.",
   "entry_types": {
-    "igsa": 2
+    "igsa": 2,
+    "facility": 1
   }
 }

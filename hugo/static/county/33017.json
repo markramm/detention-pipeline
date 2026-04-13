@@ -2,14 +2,16 @@
   "fips": "33017",
   "county": "Strafford County, NH",
   "state": "NH",
-  "score": 63,
-  "signal_types": 4,
-  "rank": 222,
-  "total_counties": 1991,
-  "percentile": 89,
-  "coverage": "unresearched",
-  "auto_summary": "Strafford County, NH shows 1 existing IGSA facility.",
+  "score": 90,
+  "signal_types": 5,
+  "rank": 99,
+  "total_counties": 1998,
+  "percentile": 95,
+  "coverage": "partially-researched",
+  "auto_summary": "Strafford County, NH shows 1 existing IGSA facility, and active community resistance.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1,
+    "facility": 1
   }
 }

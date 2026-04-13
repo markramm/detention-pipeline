@@ -2,15 +2,16 @@
   "fips": "21085",
   "county": "Grayson County, KY",
   "state": "KY",
-  "score": 41,
-  "signal_types": 2,
-  "rank": 432,
-  "total_counties": 1991,
-  "percentile": 78,
+  "score": 89,
+  "signal_types": 5,
+  "rank": 116,
+  "total_counties": 1998,
+  "percentile": 94,
   "coverage": "unresearched",
   "auto_summary": "Grayson County, KY shows 2 existing IGSA facilities, and 3 287(g) agreements.",
   "entry_types": {
     "287g-agreement": 3,
-    "igsa": 2
+    "igsa": 2,
+    "facility": 1
   }
 }

@@ -2,14 +2,15 @@
   "fips": "28093",
   "county": "Marshall County, MS",
   "state": "MS",
-  "score": 5,
-  "signal_types": 1,
-  "rank": 1244,
-  "total_counties": 1991,
-  "percentile": 38,
-  "coverage": "unresearched",
-  "auto_summary": "Marshall County, MS shows budget distress.",
+  "score": 19,
+  "signal_types": 3,
+  "rank": 947,
+  "total_counties": 1998,
+  "percentile": 53,
+  "coverage": "partially-researched",
+  "auto_summary": "Marshall County, MS shows budget distress, and active community resistance.",
   "entry_types": {
-    "budget-distress": 1
+    "budget-distress": 1,
+    "county-fight": 1
   }
 }

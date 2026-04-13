@@ -2,15 +2,16 @@
   "fips": "01105",
   "county": "Perry County, AL",
   "state": "AL",
-  "score": 52,
-  "signal_types": 3,
-  "rank": 321,
-  "total_counties": 1991,
-  "percentile": 84,
+  "score": 100,
+  "signal_types": 6,
+  "rank": 63,
+  "total_counties": 1998,
+  "percentile": 97,
   "coverage": "unresearched",
   "auto_summary": "Perry County, AL shows 2 existing IGSA facilities, and budget distress.",
   "entry_types": {
     "budget-distress": 1,
-    "igsa": 2
+    "igsa": 2,
+    "facility": 1
   }
 }

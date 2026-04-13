@@ -2,18 +2,20 @@
   "fips": "26163",
   "county": "Wayne County, MI",
   "state": "MI",
-  "score": 165,
-  "signal_types": 8,
-  "rank": 4,
-  "total_counties": 1991,
+  "score": 175,
+  "signal_types": 9,
+  "rank": 3,
+  "total_counties": 1998,
   "percentile": 100,
   "coverage": "well-researched",
-  "auto_summary": "Wayne County, MI shows 4 existing IGSA facilities, 1 ANC contract, commission activity, communications discipline pattern, and 1 real estate trace.",
+  "auto_summary": "Wayne County, MI shows 4 existing IGSA facilities, 1 ANC contract, commission activity, communications discipline pattern, 1 real estate trace, and active community resistance.",
   "entry_types": {
     "anc-contract": 1,
     "commission-activity": 1,
     "comms-discipline": 1,
     "igsa": 4,
+    "county-fight": 1,
+    "facility": 1,
     "real-estate-trace": 1
   }
 }

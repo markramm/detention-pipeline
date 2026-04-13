@@ -1,0 +1,26 @@
+---
+title: "The Geo Group, INC. — 70Cdcr25Fc0000007 (GA) $188,600"
+entry_type: "ice-contract"
+signal_label: "ice-contract"
+signal_color: "#666"
+fips: ""
+state: ""
+county: ""
+repo_path: "kb/ice-contracts/the-geo-group-inc-70cdcr25fc0000007-ga-188-600.md"
+lastmod: "2026-04-12"
+summary: "Agency: Department of Homeland Security"
+source_count: 0
+type: "entry"
+layout: "single"
+---
+
+ICE contract award.
+
+Recipient: THE GEO GROUP, INC.
+Award ID: 70CDCR25FC0000007
+Amount: $188,600.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS TASK ORDER FUNDS DETENTION SERVICES TO HOUSE AND SAFEGUARD ILLEGAL ALIENS IN SUPPORT OF ENFORCEMENT AND REMOVAL OPERATIONS (ERO) AT ROBERT A. DEYTON DETENTION FACILITY
+Period: 2025-07-23 to 2026-07-22
+Location: None, GA

@@ -2,14 +2,16 @@
   "fips": "24027",
   "county": "Howard County, MD",
   "state": "MD",
-  "score": 39,
-  "signal_types": 3,
-  "rank": 477,
-  "total_counties": 1991,
-  "percentile": 76,
-  "coverage": "unresearched",
-  "auto_summary": "Howard County, MD shows 1 existing IGSA facility.",
+  "score": 77,
+  "signal_types": 5,
+  "rank": 185,
+  "total_counties": 1998,
+  "percentile": 91,
+  "coverage": "partially-researched",
+  "auto_summary": "Howard County, MD shows 1 existing IGSA facility, and active community resistance.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1,
+    "facility": 1
   }
 }

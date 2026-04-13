@@ -2,15 +2,17 @@
   "fips": "21185",
   "county": "Oldham County, KY",
   "state": "KY",
-  "score": 31,
-  "signal_types": 2,
-  "rank": 541,
-  "total_counties": 1991,
-  "percentile": 73,
-  "coverage": "unresearched",
-  "auto_summary": "Oldham County, KY shows 1 existing IGSA facility, and 2 287(g) agreements.",
+  "score": 80,
+  "signal_types": 5,
+  "rank": 177,
+  "total_counties": 1998,
+  "percentile": 91,
+  "coverage": "partially-researched",
+  "auto_summary": "Oldham County, KY shows 1 existing IGSA facility, 2 287(g) agreements, and active community resistance.",
   "entry_types": {
     "287g-agreement": 2,
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1,
+    "facility": 1
   }
 }

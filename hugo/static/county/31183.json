@@ -2,15 +2,16 @@
   "fips": "31183",
   "county": "Wheeler County, NE",
   "state": "NE",
-  "score": 19,
-  "signal_types": 2,
-  "rank": 869,
-  "total_counties": 1991,
-  "percentile": 56,
-  "coverage": "unresearched",
-  "auto_summary": "Wheeler County, NE shows 1 287(g) agreement, and budget distress.",
+  "score": 41,
+  "signal_types": 4,
+  "rank": 474,
+  "total_counties": 1998,
+  "percentile": 76,
+  "coverage": "partially-researched",
+  "auto_summary": "Wheeler County, NE shows 1 287(g) agreement, budget distress, and active community resistance.",
   "entry_types": {
     "287g-agreement": 1,
-    "budget-distress": 1
+    "budget-distress": 1,
+    "county-fight": 1
   }
 }

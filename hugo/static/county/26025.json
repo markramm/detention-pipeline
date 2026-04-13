@@ -2,14 +2,15 @@
   "fips": "26025",
   "county": "Calhoun County, MI",
   "state": "MI",
-  "score": 57,
+  "score": 56,
   "signal_types": 4,
-  "rank": 251,
-  "total_counties": 1991,
-  "percentile": 87,
+  "rank": 302,
+  "total_counties": 1998,
+  "percentile": 85,
   "coverage": "unresearched",
   "auto_summary": "Calhoun County, MI shows 1 existing IGSA facility.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 1,
+    "facility": 1
   }
 }

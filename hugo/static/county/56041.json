@@ -2,15 +2,17 @@
   "fips": "56041",
   "county": "Uinta County, WY",
   "state": "WY",
-  "score": 16,
-  "signal_types": 2,
-  "rank": 895,
-  "total_counties": 1991,
-  "percentile": 55,
-  "coverage": "partially-researched",
-  "auto_summary": "Uinta County, WY shows 1 existing IGSA facility, and sheriff network activity.",
+  "score": 65,
+  "signal_types": 5,
+  "rank": 247,
+  "total_counties": 1998,
+  "percentile": 88,
+  "coverage": "well-researched",
+  "auto_summary": "Uinta County, WY shows 1 existing IGSA facility, sheriff network activity, and active community resistance.",
   "entry_types": {
     "igsa": 1,
+    "county-fight": 1,
+    "facility": 1,
     "sheriff-network": 1
   }
 }

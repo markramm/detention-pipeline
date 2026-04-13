@@ -2,15 +2,17 @@
   "fips": "20103",
   "county": "Leavenworth County, KS",
   "state": "KS",
-  "score": 37,
-  "signal_types": 3,
-  "rank": 512,
-  "total_counties": 1991,
-  "percentile": 74,
-  "coverage": "unresearched",
-  "auto_summary": "Leavenworth County, KS shows 1 existing IGSA facility, and 2 ANC contracts.",
+  "score": 76,
+  "signal_types": 5,
+  "rank": 195,
+  "total_counties": 1998,
+  "percentile": 90,
+  "coverage": "partially-researched",
+  "auto_summary": "Leavenworth County, KS shows 1 existing IGSA facility, 2 ANC contracts, and active community resistance.",
   "entry_types": {
     "anc-contract": 2,
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1,
+    "facility": 1
   }
 }
