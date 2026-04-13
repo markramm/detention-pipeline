@@ -7,10 +7,6 @@ tags:
 - jem
 - tn
 importance: 5
-state: "TN"
-county: "Knox County"
-fips: "47093"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Knox County Sheriff’s Office.

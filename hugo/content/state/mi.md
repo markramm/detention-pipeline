@@ -3,6 +3,6 @@ title: "Michigan"
 type: state
 layout: single
 state_abbr: "MI"
-county_count: 44
-entry_count: 74
+county_count: 15
+entry_count: 40
 ---

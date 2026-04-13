@@ -2,15 +2,14 @@
   "fips": "48237",
   "county": "Jack County, TX",
   "state": "TX",
-  "score": 40,
-  "signal_types": 3,
-  "rank": 510,
-  "total_counties": 1998,
-  "percentile": 74,
+  "score": 25,
+  "signal_types": 2,
+  "rank": 723,
+  "total_counties": 1187,
+  "percentile": 39,
   "coverage": "unresearched",
-  "auto_summary": "Jack County, TX shows 1 287(g) agreement, and budget distress.",
+  "auto_summary": "Jack County, TX shows 1 287(g) agreement.",
   "entry_types": {
-    "287g-agreement": 1,
-    "budget-distress": 1
+    "287g-agreement": 1
   }
 }

@@ -1,0 +1,20 @@
+---
+id: akima-global-services-llc-1333bj22f01150001-va-748-416
+title: AKIMA GLOBAL SERVICES, LLC — 1333BJ22F01150001 (VA) $748,416
+type: anc-contract
+tags:
+- anc-contract
+- va
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: AKIMA GLOBAL SERVICES, LLC
+Award ID: 1333BJ22F01150001
+Amount: $748,415.51
+Agency: Department of Commerce
+Sub-Agency: U.S. Patent and Trademark Office
+Description: PATENT TRIAL & APPEAL BOARD DOCUMENT ADMINISTRATIVE SUPPORT TO INCLUDE USER LEVEL IT SUPPORT, ADMINISTRATIVE & USER SUPPORT TO ORAL HEARINGS, PREPARATION & PROCESSING OF EX PARTE APPEALS, REEXAMINATION PROCEEDINGS & AMERICA INVENTS ACT PROCEEDINGS.
+Period: 2022-01-29 to 2023-07-29
+Location: None, VA

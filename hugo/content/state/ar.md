@@ -3,6 +3,6 @@ title: "Arkansas"
 type: state
 layout: single
 state_abbr: "AR"
-county_count: 54
-entry_count: 97
+county_count: 25
+entry_count: 60
 ---

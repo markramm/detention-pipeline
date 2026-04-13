@@ -1,0 +1,20 @@
+---
+id: chugach-information-technology-llc-70z04419f19003600-va-4-810-699
+title: CHUGACH INFORMATION TECHNOLOGY LLC — 70Z04419F19003600 (VA) $4,810,699
+type: anc-contract
+tags:
+- anc-contract
+- va
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: CHUGACH INFORMATION TECHNOLOGY LLC
+Award ID: 70Z04419F19003600
+Amount: $4,810,699.19
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Coast Guard
+Description: CONTRACTOR SUPPORT SERVICES (FIELD SUPPORT REPRESENTATIVES (FSR)) FOR ELECTRONIC AND INFORMATION TECHNOLOGY SYSTEMS INSTALLED ON USCG NATIONAL SECURITY CUTTERS (NSC) ON SITE AT NSC HOME PORTS.
+Period: 2019-09-26 to 2024-08-25
+Location: None, VA

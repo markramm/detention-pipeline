@@ -16,7 +16,6 @@ tags:
 - fl
 - broward
 importance: 7
-source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 ---
 
 Florida CFO found Broward County overspent its budget by $190 million. This creates fiscal vulnerability even in a large urban county.

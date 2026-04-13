@@ -3,6 +3,6 @@ title: "North Dakota"
 type: state
 layout: single
 state_abbr: "ND"
-county_count: 38
-entry_count: 58
+county_count: 17
+entry_count: 30
 ---

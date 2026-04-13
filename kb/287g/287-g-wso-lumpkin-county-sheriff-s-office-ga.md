@@ -7,10 +7,6 @@ tags:
 - wso
 - ga
 importance: 5
-state: "GA"
-county: "Lumpkin County"
-fips: "13187"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Lumpkin County Sheriff’s Office.

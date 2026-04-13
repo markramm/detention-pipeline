@@ -7,10 +7,9 @@ fips: "12099"
 state: "FL"
 county: "PALM BEACH"
 repo_path: "kb/anc/the-geo-group-inc-ice-palm-beach-fl-59993453.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in FL ($59,993,453.20)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

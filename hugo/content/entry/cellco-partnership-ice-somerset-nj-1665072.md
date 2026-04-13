@@ -7,10 +7,9 @@ fips: "34035"
 state: "NJ"
 county: "SOMERSET"
 repo_path: "kb/anc/cellco-partnership-ice-somerset-nj-1665072.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to CELLCO PARTNERSHIP in NJ ($1,665,071.60)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

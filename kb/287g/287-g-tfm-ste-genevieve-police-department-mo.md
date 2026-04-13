@@ -7,10 +7,6 @@ tags:
 - tfm
 - mo
 importance: 5
-state: "MO"
-county: "Ste. Genevieve County"
-fips: "29186"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Ste. Genevieve Police Department.

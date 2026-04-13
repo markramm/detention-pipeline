@@ -7,10 +7,6 @@ tags:
 - wso
 - nv
 importance: 5
-state: "NV"
-county: "Clark County"
-fips: "32003"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Las Vegas Metropolitan Police Department.

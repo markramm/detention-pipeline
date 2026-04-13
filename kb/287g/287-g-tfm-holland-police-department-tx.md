@@ -7,10 +7,6 @@ tags:
 - tfm
 - tx
 importance: 5
-state: "TX"
-county: "Bell County"
-fips: "48027"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Holland Police Department.

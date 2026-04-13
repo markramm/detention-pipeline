@@ -7,10 +7,6 @@ tags:
 - jem
 - ne
 importance: 5
-state: "NE"
-county: "Dakota County"
-fips: "31043"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Dakota County Sheriff’s Office.

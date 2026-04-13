@@ -7,10 +7,9 @@ fips: "06029"
 state: "CA"
 county: "KERN"
 repo_path: "kb/anc/the-geo-group-inc-ice-kern-ca-66190763.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in CA ($66,190,762.72)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

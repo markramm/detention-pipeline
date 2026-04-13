@@ -7,10 +7,6 @@ tags:
 - jem
 - sc
 importance: 5
-state: "SC"
-county: "York County"
-fips: "45091"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and York County Sheriff’s Office.

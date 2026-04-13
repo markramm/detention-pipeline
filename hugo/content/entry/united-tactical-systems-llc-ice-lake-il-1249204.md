@@ -7,10 +7,9 @@ fips: "17097"
 state: "IL"
 county: "LAKE"
 repo_path: "kb/anc/united-tactical-systems-llc-ice-lake-il-1249204.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to UNITED TACTICAL SYSTEMS, LLC in IL ($1,249,203.75)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

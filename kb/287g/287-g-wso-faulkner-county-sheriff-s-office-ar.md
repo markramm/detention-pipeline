@@ -7,10 +7,6 @@ tags:
 - wso
 - ar
 importance: 5
-state: "AR"
-county: "Faulkner County"
-fips: "05045"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Faulkner County Sheriff’s Office.

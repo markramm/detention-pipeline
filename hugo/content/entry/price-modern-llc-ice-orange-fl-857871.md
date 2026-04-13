@@ -7,10 +7,9 @@ fips: "12095"
 state: "FL"
 county: "ORANGE"
 repo_path: "kb/anc/price-modern-llc-ice-orange-fl-857871.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to PRICE MODERN LLC in FL ($857,871.15)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

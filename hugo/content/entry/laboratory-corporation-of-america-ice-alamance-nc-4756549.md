@@ -7,10 +7,9 @@ fips: "37001"
 state: "NC"
 county: "ALAMANCE"
 repo_path: "kb/anc/laboratory-corporation-of-america-ice-alamance-nc-4756549.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to LABORATORY CORPORATION OF AMERICA in NC ($4,756,549.09)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -2,15 +2,14 @@
   "fips": "38009",
   "county": "Bottineau County, ND",
   "state": "ND",
-  "score": 79,
-  "signal_types": 5,
-  "rank": 181,
-  "total_counties": 1998,
-  "percentile": 91,
+  "score": 49,
+  "signal_types": 4,
+  "rank": 433,
+  "total_counties": 1187,
+  "percentile": 64,
   "coverage": "unresearched",
-  "auto_summary": "Bottineau County, ND shows 1 existing IGSA facility, and budget distress.",
+  "auto_summary": "Bottineau County, ND shows 1 existing IGSA facility.",
   "entry_types": {
-    "budget-distress": 1,
     "igsa": 1
   }
 }

@@ -18,7 +18,6 @@ tags:
 - ice-contract
 - pa
 importance: 7
-source_url: "https://www.usaspending.gov"
 ---
 
 ICE contract.

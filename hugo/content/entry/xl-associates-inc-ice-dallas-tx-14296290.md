@@ -7,10 +7,9 @@ fips: "48113"
 state: "TX"
 county: "DALLAS"
 repo_path: "kb/anc/xl-associates-inc-ice-dallas-tx-14296290.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to XL ASSOCIATES, INC. in TX ($14,296,289.83)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

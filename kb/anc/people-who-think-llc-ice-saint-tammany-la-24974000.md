@@ -4,7 +4,7 @@ title: "PEOPLE WHO THINK, L.L.C. — ICE SAINT TAMMANY, LA $24,974,000"
 type: anc-contract
 county: "SAINT TAMMANY"
 state: "LA"
-fips: "22103"
+fips: ""
 contractor: "PEOPLE WHO THINK, L.L.C."
 parent_anc: ""
 contract_value: "$24,974,000.00"
@@ -18,7 +18,6 @@ tags:
 - ice-contract
 - la
 importance: 7
-source_url: "https://www.usaspending.gov"
 ---
 
 ICE contract.

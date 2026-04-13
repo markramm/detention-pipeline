@@ -1,0 +1,26 @@
+---
+title: "Koniag Management Solutions LLC — 86614821C00007 (AK) $7,958,564"
+entry_type: "anc-contract"
+signal_label: "ANC Contract"
+signal_color: "#c49025"
+fips: ""
+state: ""
+county: ""
+repo_path: "kb/anc/koniag-management-solutions-llc-86614821c00007-ak-7-958-564.md"
+lastmod: "2026-04-13"
+summary: "Federal contract awarded to ANC subsidiary in ."
+source_count: 0
+type: "entry"
+layout: "single"
+---
+
+USAspending contract award.
+
+Recipient: KONIAG MANAGEMENT SOLUTIONS LLC
+Award ID: 86614821C00007
+Amount: $7,958,564.46
+Agency: Department of Housing and Urban Development
+Sub-Agency: Department of Housing and Urban Development
+Description: PROVIDE SUPPORT SERVICES TO IMPLEMENT AND MONITOR THE ISSUANCE OF THE EMERGENCY RENTAL ASSISTANCE VOUCHERS THROUGH PROGRAM OVERSIGHT AND ANALYSIS. THE SUPPORT SERVICES SHALL INCLUDE:  FINANCIAL MANAGEMENT AND REPORTING VOUCHER UTILIZATION AND ANALY
+Period: 2021-09-01 to 2025-08-31
+Location: None, AK

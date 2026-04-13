@@ -7,9 +7,6 @@ tags:
 - wso
 - w. va.
 importance: 5
-state: "WV"
-county: "State: W. Va."
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and West Virginia Division of Corrections and Rehabilitation.

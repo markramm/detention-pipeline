@@ -2,15 +2,14 @@
   "fips": "48283",
   "county": "La Salle County, TX",
   "state": "TX",
-  "score": 35,
-  "signal_types": 2,
-  "rank": 588,
-  "total_counties": 1998,
-  "percentile": 71,
+  "score": 30,
+  "signal_types": 1,
+  "rank": 620,
+  "total_counties": 1187,
+  "percentile": 48,
   "coverage": "unresearched",
-  "auto_summary": "La Salle County, TX shows 3 existing IGSA facilities, and budget distress.",
+  "auto_summary": "La Salle County, TX shows 3 existing IGSA facilities.",
   "entry_types": {
-    "budget-distress": 1,
     "igsa": 3
   }
 }

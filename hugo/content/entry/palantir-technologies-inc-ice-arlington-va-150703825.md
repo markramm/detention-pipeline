@@ -7,10 +7,9 @@ fips: "51013"
 state: "VA"
 county: "ARLINGTON"
 repo_path: "kb/anc/palantir-technologies-inc-ice-arlington-va-150703825.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to PALANTIR TECHNOLOGIES INC. in VA ($150,703,824.61)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

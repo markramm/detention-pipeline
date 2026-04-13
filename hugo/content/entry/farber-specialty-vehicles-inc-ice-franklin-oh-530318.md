@@ -7,10 +7,9 @@ fips: "39049"
 state: "OH"
 county: "FRANKLIN"
 repo_path: "kb/anc/farber-specialty-vehicles-inc-ice-franklin-oh-530318.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to FARBER SPECIALTY VEHICLES, INC in OH ($530,318.00)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -4,9 +4,9 @@
   "state": "IN",
   "score": 10,
   "signal_types": 1,
-  "rank": 1136,
-  "total_counties": 1998,
-  "percentile": 43,
+  "rank": 1126,
+  "total_counties": 1187,
+  "percentile": 5,
   "coverage": "unresearched",
   "auto_summary": "Allen County, IN shows 1 existing IGSA facility.",
   "entry_types": {

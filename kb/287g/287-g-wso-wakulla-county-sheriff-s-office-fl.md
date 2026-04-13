@@ -7,10 +7,6 @@ tags:
 - wso
 - fl
 importance: 5
-state: "FL"
-county: "Wakulla County"
-fips: "12129"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Wakulla County Sheriff’s Office.

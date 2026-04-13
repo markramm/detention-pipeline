@@ -2,16 +2,15 @@
   "fips": "06025",
   "county": "Imperial County, CA",
   "state": "CA",
-  "score": 101,
-  "signal_types": 4,
-  "rank": 54,
-  "total_counties": 1998,
-  "percentile": 97,
+  "score": 123,
+  "signal_types": 5,
+  "rank": 24,
+  "total_counties": 1187,
+  "percentile": 98,
   "coverage": "unresearched",
-  "auto_summary": "Imperial County, CA shows 6 existing IGSA facilities, 3 ANC contracts, and budget distress.",
+  "auto_summary": "Imperial County, CA shows 6 existing IGSA facilities, and 3 ANC contracts.",
   "entry_types": {
     "anc-contract": 3,
-    "budget-distress": 1,
     "igsa": 6,
     "facility": 1
   }

@@ -7,10 +7,9 @@ fips: "51107"
 state: "VA"
 county: "LOUDOUN"
 repo_path: "kb/anc/the-kace-company-llc-ice-loudoun-va-18061214.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE KACE COMPANY, LLC. in VA ($18,061,214.29)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

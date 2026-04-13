@@ -1,0 +1,20 @@
+---
+id: aleut-information-technology-llc-12639526f0251-co-1-268-699
+title: ALEUT INFORMATION TECHNOLOGY LLC — 12639526F0251 (CO) $1,268,699
+type: anc-contract
+tags:
+- anc-contract
+- co
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: ALEUT INFORMATION TECHNOLOGY LLC
+Award ID: 12639526F0251
+Amount: $1,268,698.74
+Agency: Department of Agriculture
+Sub-Agency: Animal and Plant Health Inspection Service
+Description: THE PURPOSE OF THIS ORDER IS TO PROVIDE DEVELOPMENT SUPPORT FOR EFILE SYSTEM FUNCTIONALITY IN SALESFORCE. THE WORK WILL INCLUDE UPDATES TO APPLICATION ENTRY AND REVIEW FEATURES BASED ON  POLICY OR REGULATORY CHANGES, OVERHAULING KEY FEATURES (SUCH AS
+Period: 2026-03-01 to 2026-12-03
+Location: None, CO

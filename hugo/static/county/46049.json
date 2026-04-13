@@ -2,15 +2,14 @@
   "fips": "46049",
   "county": "Faulk County, SD",
   "state": "SD",
-  "score": 67,
-  "signal_types": 4,
-  "rank": 226,
-  "total_counties": 1998,
-  "percentile": 89,
+  "score": 52,
+  "signal_types": 3,
+  "rank": 394,
+  "total_counties": 1187,
+  "percentile": 67,
   "coverage": "unresearched",
-  "auto_summary": "Faulk County, SD shows 1 existing IGSA facility, and budget distress.",
+  "auto_summary": "Faulk County, SD shows 1 existing IGSA facility.",
   "entry_types": {
-    "budget-distress": 1,
     "igsa": 1
   }
 }

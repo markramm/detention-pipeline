@@ -1,0 +1,20 @@
+---
+id: asrc-federal-facilities-logistics-llc-spe4a626fa8zn-nj-4-290
+title: ASRC FEDERAL FACILITIES LOGISTICS, LLC — SPE4A626FA8ZN (NJ) $4,290
+type: anc-contract
+tags:
+- anc-contract
+- nj
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FACILITIES LOGISTICS, LLC
+Award ID: SPE4A626FA8ZN
+Amount: $4,290.36
+Agency: Department of Defense
+Sub-Agency: Defense Logistics Agency
+Description: 4570051559!LUBRICATING OIL,ENG
+Period: 2025-11-19 to 2025-12-01
+Location: None, NJ

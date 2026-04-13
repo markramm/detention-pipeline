@@ -3,6 +3,6 @@ title: "New York"
 type: state
 layout: single
 state_abbr: "NY"
-county_count: 46
-entry_count: 113
+county_count: 43
+entry_count: 103
 ---

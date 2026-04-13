@@ -7,10 +7,9 @@ fips: "12081"
 state: "FL"
 county: "Manatee County"
 repo_path: "kb/287g/287-g-wso-manatee-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Manatee County Sheriff’s Office, signed May 6, 2019."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

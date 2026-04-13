@@ -7,10 +7,9 @@ fips: "04013"
 state: "AZ"
 county: "MARICOPA"
 repo_path: "kb/anc/inserso-corporation-ice-maricopa-az-50176102.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to INSERSO CORPORATION in AZ ($50,176,102.22)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

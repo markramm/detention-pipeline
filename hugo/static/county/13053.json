@@ -2,15 +2,14 @@
   "fips": "13053",
   "county": "Chattahoochee County, GA",
   "state": "GA",
-  "score": 52,
-  "signal_types": 4,
-  "rank": 370,
-  "total_counties": 1998,
-  "percentile": 81,
+  "score": 37,
+  "signal_types": 3,
+  "rank": 536,
+  "total_counties": 1187,
+  "percentile": 55,
   "coverage": "unresearched",
-  "auto_summary": "Chattahoochee County, GA shows 3 ANC contracts, and budget distress.",
+  "auto_summary": "Chattahoochee County, GA shows 3 ANC contracts.",
   "entry_types": {
-    "anc-contract": 3,
-    "budget-distress": 1
+    "anc-contract": 3
   }
 }

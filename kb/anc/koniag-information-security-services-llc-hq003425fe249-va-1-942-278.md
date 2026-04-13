@@ -1,0 +1,20 @@
+---
+id: koniag-information-security-services-llc-hq003425fe249-va-1-942-278
+title: KONIAG INFORMATION SECURITY SERVICES LLC — HQ003425FE249 (VA) $1,942,278
+type: anc-contract
+tags:
+- anc-contract
+- va
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: KONIAG INFORMATION SECURITY SERVICES LLC
+Award ID: HQ003425FE249
+Amount: $1,942,277.50
+Agency: Department of Defense
+Sub-Agency: Washington Headquarters Services
+Description: EMPLOY AGILE METHODOLOGIES TO SUSTAIN, MAINTAIN, AND ENHANCE THE DEFENSE ACQUISITION VISIBILITY ENVIRONMENT (DAVE) AND ACQUISITION INFORMATION REPOSITORY (AIR) CAPABILITIES TO MAINTAIN CURRENCY WITH CHANGES IN POLICY OR STATUTE.
+Period: 2025-07-24 to 2025-12-23
+Location: None, VA

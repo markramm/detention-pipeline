@@ -813,10 +813,17 @@ def main():
     else:
         heat_data = []
 
-    # Clean and recreate content
+    # Clean and recreate content, preserving manually-authored directories
+    PRESERVE_DIRS = {"blog"}
     if CONTENT_PATH.exists():
-        shutil.rmtree(CONTENT_PATH)
-    CONTENT_PATH.mkdir(parents=True)
+        for child in list(CONTENT_PATH.iterdir()):
+            if child.name in PRESERVE_DIRS:
+                continue
+            if child.is_dir():
+                shutil.rmtree(child)
+            else:
+                child.unlink()
+    CONTENT_PATH.mkdir(parents=True, exist_ok=True)
 
     print("Scanning KB entries...")
     parsed = scan_all_entries()

@@ -7,10 +7,9 @@ fips: "06073"
 state: "CA"
 county: "SAN DIEGO"
 repo_path: "kb/anc/corecivic-inc-ice-san-diego-ca-103696872.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to CORECIVIC, INC. in CA ($103,696,871.68)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

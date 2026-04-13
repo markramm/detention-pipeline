@@ -1,0 +1,20 @@
+---
+id: akima-facilities-operations-llc-75n98026f00001-md-82-165
+title: AKIMA FACILITIES OPERATIONS LLC — 75N98026F00001 (MD) $82,165
+type: anc-contract
+tags:
+- anc-contract
+- md
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: AKIMA FACILITIES OPERATIONS LLC
+Award ID: 75N98026F00001
+Amount: $82,164.92
+Agency: Department of Health and Human Services
+Sub-Agency: National Institutes of Health
+Description: PCA-OD-01507; THIS EMERGENCY REPAIR RESTORES BUILDING 13 ELEVATOR #5 TO SAFE, CODE-COMPLIANT OPERATION FOLLOWING FLOOD CONDITIONS THAT DAMAGED ELEVATOR EQUIPMENT AND CAUSED THE UNIT TO BE REMOVED FROM SERVICE OR PLACED IN AN UNSAFE/LIMITED CONDITION.
+Period: 2026-03-01 to 2026-06-30
+Location: None, MD

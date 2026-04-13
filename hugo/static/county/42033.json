@@ -2,15 +2,14 @@
   "fips": "42033",
   "county": "Clearfield County, PA",
   "state": "PA",
-  "score": 89,
-  "signal_types": 4,
-  "rank": 112,
-  "total_counties": 1998,
-  "percentile": 94,
+  "score": 74,
+  "signal_types": 3,
+  "rank": 189,
+  "total_counties": 1187,
+  "percentile": 84,
   "coverage": "unresearched",
-  "auto_summary": "Clearfield County, PA shows 2 existing IGSA facilities, and budget distress.",
+  "auto_summary": "Clearfield County, PA shows 2 existing IGSA facilities.",
   "entry_types": {
-    "budget-distress": 1,
     "igsa": 2
   }
 }

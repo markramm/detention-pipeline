@@ -7,10 +7,9 @@ fips: "22071"
 state: "LA"
 county: "ORLEANS"
 repo_path: "kb/anc/price-modern-llc-ice-orleans-la-761579.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to PRICE MODERN LLC in LA ($761,578.61)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

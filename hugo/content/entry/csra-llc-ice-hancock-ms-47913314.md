@@ -7,10 +7,9 @@ fips: "28045"
 state: "MS"
 county: "HANCOCK"
 repo_path: "kb/anc/csra-llc-ice-hancock-ms-47913314.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to CSRA LLC in MS ($47,913,314.26)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -7,10 +7,9 @@ fips: "06037"
 state: "CA"
 county: "LOS ANGELES"
 repo_path: "kb/anc/the-geo-group-inc-ice-los-angeles-ca-83367984.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in CA ($83,367,984.37)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

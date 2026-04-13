@@ -1,0 +1,20 @@
+---
+id: chugach-consolidated-solutions-llc-w15qkn26fa085-nj-86-713
+title: CHUGACH CONSOLIDATED SOLUTIONS, LLC — W15QKN26FA085 (NJ) $86,713
+type: anc-contract
+tags:
+- anc-contract
+- nj
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: CHUGACH CONSOLIDATED SOLUTIONS, LLC
+Award ID: W15QKN26FA085
+Amount: $86,712.85
+Agency: Department of Defense
+Sub-Agency: Department of the Army
+Description: AAL - PROVIDE ALL LABOR AND MATERIALS TO ENSURE FIRE ALARM CONTROL PANEL DIALER SUPERVISION AND COMMUNICATION WITH B-173 POLICE DESK. PROVIDE ALL LABOR AND MATERIAL TO REPLACE THE EXISTING FIRE ALARM CONTROL PANELS, DIALERS OR RE-PROGRAM PER SOW.
+Period: 2025-12-19 to 2026-09-30
+Location: None, NJ

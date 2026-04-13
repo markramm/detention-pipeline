@@ -7,10 +7,6 @@ tags:
 - tfm
 - pa
 importance: 5
-state: "PA"
-county: "Franklin County"
-fips: "42055"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Fannett Township Constables Office.

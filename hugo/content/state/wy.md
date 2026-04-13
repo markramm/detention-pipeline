@@ -3,6 +3,6 @@ title: "Wyoming"
 type: state
 layout: single
 state_abbr: "WY"
-county_count: 19
-entry_count: 43
+county_count: 18
+entry_count: 41
 ---

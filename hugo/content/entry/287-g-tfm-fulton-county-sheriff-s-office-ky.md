@@ -7,10 +7,9 @@ fips: "21075"
 state: "KY"
 county: "Fulton County"
 repo_path: "kb/287g/287-g-tfm-fulton-county-sheriff-s-office-ky.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Fulton County Sheriff’s Office, signed November 10, 2025."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

@@ -1,0 +1,20 @@
+---
+id: columbus-county-ga-columbus-city-council-2025-11-24-to-authorize-the-director-of-the-department-of-neighborhoods-to-enter-into-grant
+title: 'Columbus County GA — Columbus City Council 2025-11-24: To authorize the Director of the Department of Neighborhoods to enter into grant'
+type: commission-activity
+tags:
+- commission-activity
+- ga
+- moderate
+importance: 5
+---
+
+County commission agenda item matching detention pipeline keywords.
+
+Meeting: Columbus City Council
+Date: 2025-11-24
+Agenda Item: To authorize the Director of the Department of Neighborhoods to enter into grant agreements with not-for-profit agency EPIC Youth in support of Boys of ICE x Grades + Games School Program; to authorize the expenditure from the General Fund for programming. ($12,500.00)
+
+Matched keywords: \bICE\b
+
+Full text: 

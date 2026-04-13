@@ -2,14 +2,16 @@
   "fips": "41029",
   "county": "Jackson County, OR",
   "state": "OR",
-  "score": 30,
-  "signal_types": 1,
-  "rank": 680,
-  "total_counties": 1998,
-  "percentile": 66,
-  "coverage": "unresearched",
-  "auto_summary": "Jackson County, OR shows 3 existing IGSA facilities.",
+  "score": 53,
+  "signal_types": 4,
+  "rank": 391,
+  "total_counties": 1187,
+  "percentile": 67,
+  "coverage": "partially-researched",
+  "auto_summary": "Jackson County, OR shows 3 existing IGSA facilities, and active community resistance.",
   "entry_types": {
-    "igsa": 3
+    "igsa": 3,
+    "county-fight": 1,
+    "facility": 1
   }
 }

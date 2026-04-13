@@ -7,10 +7,9 @@ fips: "37119"
 state: "NC"
 county: "MECKLENBURG"
 repo_path: "kb/anc/10gfedsupply-llc-ice-mecklenburg-nc-704997.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to 10GFEDSUPPLY, LLC in NC ($704,996.57)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

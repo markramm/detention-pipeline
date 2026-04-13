@@ -7,10 +7,6 @@ tags:
 - wso
 - id
 importance: 5
-state: "ID"
-county: "Bingham County"
-fips: "16011"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Bingham County Sheriff’s Office.

@@ -7,10 +7,9 @@ fips: "13215"
 state: "GA"
 county: "MUSCOGEE"
 repo_path: "kb/anc/silas-frazier-realty-llc-ice-muscogee-ga-563333.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to SILAS FRAZIER REALTY, LLC in GA ($563,333.29)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

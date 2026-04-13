@@ -2,15 +2,14 @@
   "fips": "48489",
   "county": "Willacy County, TX",
   "state": "TX",
-  "score": 100,
-  "signal_types": 4,
-  "rank": 58,
-  "total_counties": 1998,
-  "percentile": 97,
+  "score": 85,
+  "signal_types": 3,
+  "rank": 138,
+  "total_counties": 1187,
+  "percentile": 88,
   "coverage": "unresearched",
-  "auto_summary": "Willacy County, TX shows 3 existing IGSA facilities, and budget distress.",
+  "auto_summary": "Willacy County, TX shows 3 existing IGSA facilities.",
   "entry_types": {
-    "budget-distress": 1,
     "igsa": 3
   }
 }

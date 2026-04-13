@@ -7,10 +7,6 @@ tags:
 - wso
 - id
 importance: 5
-state: "ID"
-county: "Gooding County"
-fips: "16047"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Gooding County Sheriff’s Office.

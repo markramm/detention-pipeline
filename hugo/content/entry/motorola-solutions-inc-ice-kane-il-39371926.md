@@ -7,10 +7,9 @@ fips: "17089"
 state: "IL"
 county: "KANE"
 repo_path: "kb/anc/motorola-solutions-inc-ice-kane-il-39371926.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to MOTOROLA SOLUTIONS, INC. in IL ($39,371,926.13)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -1,0 +1,20 @@
+---
+id: chugach-consolidated-solutions-llc-n4019222f4333-gu-417-880
+title: CHUGACH CONSOLIDATED SOLUTIONS, LLC — N4019222F4333 (GU) $417,880
+type: anc-contract
+tags:
+- anc-contract
+- gu
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: CHUGACH CONSOLIDATED SOLUTIONS, LLC
+Award ID: N4019222F4333
+Amount: $417,880.00
+Agency: Department of Defense
+Sub-Agency: Department of the Navy
+Description: WON 1714763, 8A-MACC PROJECT IS INTENDED TO INSTALL AN ADJUSTABLE FLOOR MOUNTED AUTOPSY STATION WITH CENTER SINK, RELOCATE EXHAUST DUCT AND INTAKE SYSTEM TO WALL ABOVE NEWLY INSTALLED SINK, INSTALL NEW SUPPLY AIR DUCT AND DIFFUSER ON OPPOSITE WALL.
+Period: 2022-09-23 to 2024-10-30
+Location: None, GU

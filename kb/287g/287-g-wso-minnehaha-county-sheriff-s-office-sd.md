@@ -7,10 +7,6 @@ tags:
 - wso
 - sd
 importance: 5
-state: "SD"
-county: "Minnehaha County"
-fips: "46099"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Minnehaha County Sheriff’s Office.

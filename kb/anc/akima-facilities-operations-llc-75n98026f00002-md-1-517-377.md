@@ -1,0 +1,20 @@
+---
+id: akima-facilities-operations-llc-75n98026f00002-md-1-517-377
+title: AKIMA FACILITIES OPERATIONS LLC — 75N98026F00002 (MD) $1,517,377
+type: anc-contract
+tags:
+- anc-contract
+- md
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: AKIMA FACILITIES OPERATIONS LLC
+Award ID: 75N98026F00002
+Amount: $1,517,377.42
+Agency: Department of Health and Human Services
+Sub-Agency: National Institutes of Health
+Description: PCA-OD-01524 PROVIDE ON-DEMAND ELEVATOR OPERATIONAL SUPPORT TO MAINTAIN SAFE BUILDING OPERATIONS, SUPPORT LIFE-SAFETY EVENTS, AND MINIMIZE DOWNTIME DURING CONDITIONS REQUIRING MANUAL OPERATION, ELEVATOR RECALL, FIRE ALARM SHUTDOWN SUPPORT, AND REMOVA
+Period: 2026-03-01 to 2026-06-30
+Location: None, MD

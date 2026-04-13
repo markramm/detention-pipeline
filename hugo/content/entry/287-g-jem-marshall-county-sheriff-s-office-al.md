@@ -7,10 +7,9 @@ fips: "01095"
 state: "AL"
 county: "Marshall County"
 repo_path: "kb/287g/287-g-jem-marshall-county-sheriff-s-office-al.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Marshall County Sheriff’s Office, signed September 22, 2025."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

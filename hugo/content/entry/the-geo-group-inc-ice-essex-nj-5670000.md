@@ -7,10 +7,9 @@ fips: "34013"
 state: "NJ"
 county: "ESSEX"
 repo_path: "kb/anc/the-geo-group-inc-ice-essex-nj-5670000.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in NJ ($5,670,000.00)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

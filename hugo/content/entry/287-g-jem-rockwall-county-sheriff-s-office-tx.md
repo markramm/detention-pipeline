@@ -7,10 +7,9 @@ fips: "48397"
 state: "TX"
 county: "Rockwall County"
 repo_path: "kb/287g/287-g-jem-rockwall-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Rockwall County Sheriff’s Office, signed June 9, 2020."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

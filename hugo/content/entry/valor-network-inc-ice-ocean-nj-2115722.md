@@ -7,10 +7,9 @@ fips: "34029"
 state: "NJ"
 county: "OCEAN"
 repo_path: "kb/anc/valor-network-inc-ice-ocean-nj-2115722.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to VALOR NETWORK, INC. in NJ ($2,115,722.00)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

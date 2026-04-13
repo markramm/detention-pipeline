@@ -7,10 +7,6 @@ tags:
 - wso
 - ut
 importance: 5
-state: "UT"
-county: "Cache County"
-fips: "49005"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Cache County Sheriff’s Office.

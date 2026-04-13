@@ -7,9 +7,6 @@ tags:
 - wso
 - mi
 importance: 5
-state: "MI"
-county: "Berrian County"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Berrian County Sheriff’s Office.

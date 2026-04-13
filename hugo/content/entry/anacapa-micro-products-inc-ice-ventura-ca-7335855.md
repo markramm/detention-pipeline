@@ -7,10 +7,9 @@ fips: "06111"
 state: "CA"
 county: "VENTURA"
 repo_path: "kb/anc/anacapa-micro-products-inc-ice-ventura-ca-7335855.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to ANACAPA MICRO PRODUCTS, INC. in CA ($7,335,854.77)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

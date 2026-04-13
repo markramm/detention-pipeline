@@ -1,0 +1,20 @@
+---
+id: akima-systems-engineering-llc-70z0g324fesd50002-va-3-275-363
+title: AKIMA SYSTEMS ENGINEERING LLC — 70Z0G324FESD50002 (VA) $3,275,363
+type: anc-contract
+tags:
+- anc-contract
+- va
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: AKIMA SYSTEMS ENGINEERING LLC
+Award ID: 70Z0G324FESD50002
+Amount: $3,275,363.24
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Coast Guard
+Description: SUPPORT SERVICES TO INCLUDE: INTEGRATION OF NAIS WITH  OTHER U.S. COAST GUARD SYSTEMS, DEVELOP/UPDATE/TEST TO MEET NAIS  REQUIREMENTS, DEVELOP/UPDATE AIS STANDARDS, AND ASSIST WITH SYSTEM  CONFIGURATION AND CHANGE MANAGEMENT.
+Period: 2024-09-17 to 2026-09-16
+Location: None, VA

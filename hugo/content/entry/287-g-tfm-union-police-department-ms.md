@@ -7,10 +7,9 @@ fips: "28101"
 state: "MS"
 county: "Newton County"
 repo_path: "kb/287g/287-g-tfm-union-police-department-ms.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Union Police Department, signed February 10, 2026."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

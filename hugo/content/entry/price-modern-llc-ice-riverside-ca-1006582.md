@@ -7,10 +7,9 @@ fips: "06065"
 state: "CA"
 county: "RIVERSIDE"
 repo_path: "kb/anc/price-modern-llc-ice-riverside-ca-1006582.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to PRICE MODERN LLC in CA ($1,006,581.59)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

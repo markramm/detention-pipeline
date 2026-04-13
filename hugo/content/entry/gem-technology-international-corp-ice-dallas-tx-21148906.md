@@ -7,10 +7,9 @@ fips: "48113"
 state: "TX"
 county: "DALLAS"
 repo_path: "kb/anc/gem-technology-international-corp-ice-dallas-tx-21148906.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to GEM TECHNOLOGY INTERNATIONAL, CORP in TX ($21,148,905.90)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

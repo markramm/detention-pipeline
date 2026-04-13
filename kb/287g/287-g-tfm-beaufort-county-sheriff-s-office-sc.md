@@ -7,10 +7,6 @@ tags:
 - tfm
 - sc
 importance: 5
-state: "SC"
-county: "Beaufort County"
-fips: "45013"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Beaufort County Sheriff’s Office.

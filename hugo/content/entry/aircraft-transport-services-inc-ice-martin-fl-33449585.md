@@ -7,10 +7,9 @@ fips: "12085"
 state: "FL"
 county: "MARTIN"
 repo_path: "kb/anc/aircraft-transport-services-inc-ice-martin-fl-33449585.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to AIRCRAFT TRANSPORT SERVICES, INC. in FL ($33,449,584.51)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

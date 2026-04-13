@@ -7,10 +7,9 @@ fips: "08001"
 state: "CO"
 county: "ADAMS"
 repo_path: "kb/anc/the-geo-group-inc-ice-adams-co-22381614.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in CO ($22,381,614.07)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

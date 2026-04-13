@@ -7,10 +7,6 @@ tags:
 - wso
 - tx
 importance: 5
-state: "TX"
-county: "Somervell County"
-fips: "48425"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Somervell County Sheriff’s Office.

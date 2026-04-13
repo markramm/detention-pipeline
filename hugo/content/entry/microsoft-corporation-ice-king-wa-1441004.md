@@ -7,10 +7,9 @@ fips: "53033"
 state: "WA"
 county: "KING"
 repo_path: "kb/anc/microsoft-corporation-ice-king-wa-1441004.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to MICROSOFT CORPORATION in WA ($1,441,003.71)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -7,10 +7,9 @@ fips: "48163"
 state: "TX"
 county: "Frio County"
 repo_path: "kb/287g/287-g-tfm-frio-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Frio County Sheriff’s Office, signed September 22, 2025."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

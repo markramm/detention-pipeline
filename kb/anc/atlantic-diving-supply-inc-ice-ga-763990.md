@@ -2,9 +2,9 @@
 id: atlantic-diving-supply-inc-ice-ga-763990
 title: "ATLANTIC DIVING SUPPLY, INC. — ICE GA $763,990"
 type: anc-contract
-county: "(state-level)"
+county: ""
 state: "GA"
-fips: "13000"
+fips: ""
 contractor: "ATLANTIC DIVING SUPPLY, INC."
 parent_anc: ""
 contract_value: "$763,990.36"
@@ -18,7 +18,6 @@ tags:
 - ice-contract
 - ga
 importance: 7
-source_url: "https://www.usaspending.gov"
 ---
 
 ICE contract.

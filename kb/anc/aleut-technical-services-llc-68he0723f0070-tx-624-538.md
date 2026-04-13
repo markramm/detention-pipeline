@@ -1,0 +1,20 @@
+---
+id: aleut-technical-services-llc-68he0723f0070-tx-624-538
+title: ALEUT TECHNICAL SERVICES, LLC — 68HE0723F0070 (TX) $624,538
+type: anc-contract
+tags:
+- anc-contract
+- tx
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: ALEUT TECHNICAL SERVICES, LLC
+Award ID: 68HE0723F0070
+Amount: $624,537.80
+Agency: Environmental Protection Agency
+Sub-Agency: Environmental Protection Agency
+Description: ENFORCEMENT SUPPORT TASK ORDER UNDER THE REGION 6 ENFORCEMENT SUPPORT SERVICES (ESS) CONTRACT - ENFORCEMENT SUPPORT SERVICES INCLUDE PRP SEARCH ACTIVITIES, GENERAL ENFORCEMENT SUPPORT, PRE-LITIGATION SUPPORT, COST RECOVERY SUPPORT FOR VARIOUS SITES.
+Period: 2023-05-31 to 2026-05-31
+Location: None, TX

@@ -7,10 +7,6 @@ tags:
 - tfm
 - tx
 importance: 5
-state: "TX"
-county: "San Augustine County"
-fips: "48405"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and San Augustine County Sheriff’s Office.

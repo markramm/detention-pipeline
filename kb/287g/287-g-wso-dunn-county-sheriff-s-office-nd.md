@@ -7,10 +7,6 @@ tags:
 - wso
 - nd
 importance: 5
-state: "ND"
-county: "Dunn County"
-fips: "38025"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Dunn County Sheriff’s Office.

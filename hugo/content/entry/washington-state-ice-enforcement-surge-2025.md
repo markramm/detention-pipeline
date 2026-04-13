@@ -7,7 +7,7 @@ fips: ""
 state: "WA"
 county: ""
 repo_path: "kb/industry/notes/washington-state-ice-enforcement-surge-2025.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-13"
 summary: "Washington is a sanctuary state (Keep Washington Working Act, 2019) that prohibits state/local law enforcement from aiding federal civil immigration enforcement — yet it hosts the Northwest ICE..."
 source_count: 14
 type: "entry"
@@ -96,6 +96,18 @@ Yakima had federal detainees under IGSA since 1996 (required to sunset under KWW
 | Benton | 53005 | 30 | igsa: 3 | Arrests jumped 12x (5 to 60) in 2025 |
 | Okanogan | 53047 | 25 | igsa: 2, budget-distress: 1 | Sheriff testified in DC; devised own compliance method |
 | Pend Oreille | 53051 | 20 | igsa: 2 | Sheriff Blakeslee testified on immigration law conflicts |
+
+### Thurston County (FIPS 53067) — No Heatmap Signal, But Active
+
+Thurston County (Olympia, the state capital) has **no heatmap signal** — no IGSAs, no ANC contracts — but is a significant story:
+- 3 ICE enforcement incidents in one week (Jun 2025)
+- Maximo Londonio (Olympia resident, green card holder) detained 2 months at NWIPC over 23-year-old conviction
+- $11.9M in federal funding threatened over sanctuary status
+- 5,000+ "No Kings" protesters, 1,500+ "ICE Out Everywhere" rally at State Capitol
+- Sheriff Sanders explicitly refuses ICE cooperation
+- Mayor Payne coordinating county-wide preparedness with Commissioner Mejia
+
+See detailed entry: [Thurston County WA — Olympia sanctuary under pressure](thurston-county-wa-olympia-sanctuary-under-pressure.md)
 
 ## Key Data Source
 

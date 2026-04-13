@@ -7,10 +7,9 @@ fips: "13067"
 state: "GA"
 county: "COBB"
 repo_path: "kb/anc/glock-inc-ice-cobb-ga-1575000.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to GLOCK, INC. in GA ($1,575,000.00)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -7,10 +7,6 @@ tags:
 - jem
 - la
 importance: 5
-state: "LA"
-county: "Bossier Parish"
-fips: "22015"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Bossier Parish Sheriff’s Office.

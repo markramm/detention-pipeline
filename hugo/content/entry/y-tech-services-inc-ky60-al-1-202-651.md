@@ -1,0 +1,26 @@
+---
+title: "Y-TECH SERVICES, INC. — KY60 (AL) $1,202,651"
+entry_type: "anc-contract"
+signal_label: "ANC Contract"
+signal_color: "#c49025"
+fips: ""
+state: ""
+county: ""
+repo_path: "kb/anc/y-tech-services-inc-ky60-al-1-202-651.md"
+lastmod: "2026-04-13"
+summary: "Federal contract awarded to ANC subsidiary in ."
+source_count: 0
+type: "entry"
+layout: "single"
+---
+
+USAspending contract award.
+
+Recipient: Y-TECH SERVICES, INC.
+Award ID: KY60
+Amount: $1,202,650.90
+Agency: Department of Defense
+Sub-Agency: Department of the Army
+Description: IGF::OT::IGF  1. THIS TASK ORDER (KY60) ENTITLED, "AVIATION INTEGRATION AND MAINTENANCE SUPPORT (AIMS) IS ISSUED ON A COST PLUS FIXED FEE BASIS IN ACCORDANCE WITH THE TERMS AND CONDITIONS OF BASE CONTRACT W15P7T-14-D-A502.   2. SERVICES SHALL BE PERFORMED IN ACCORDANCE WITH THE PERFORMANCE WORK STATEMENT (PWS) ENTITLED, "UTILITY HELICOPTER FMS SUPPORT TO MEXICO" DATED 25 SEPTEMBER 2015 AS FOUND IN SECTION C OF THIS TASK ORDER.   3. TASK ORDER KY59 HAS A 12-MONTH PERIOD OF PERFORMANCE.  THE PERIOD OF PERFORMANCE IS FROM 05 FEBRUARY 2016 TO 04 FEBRUARY 2017.   4. THE TOTAL COST PLUS FIXED FEE FOR THIS TASK ORDER IS: $1,249,640.62.
+Period: 2016-01-29 to 2017-02-04
+Location: None, AL

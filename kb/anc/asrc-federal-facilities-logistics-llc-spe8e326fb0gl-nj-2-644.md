@@ -1,0 +1,20 @@
+---
+id: asrc-federal-facilities-logistics-llc-spe8e326fb0gl-nj-2-644
+title: ASRC FEDERAL FACILITIES LOGISTICS, LLC — SPE8E326FB0GL (NJ) $2,644
+type: anc-contract
+tags:
+- anc-contract
+- nj
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FACILITIES LOGISTICS, LLC
+Award ID: SPE8E326FB0GL
+Amount: $2,643.66
+Agency: Department of Defense
+Sub-Agency: Defense Logistics Agency
+Description: 4570202672!BUTTERFLY VALVE: 3 IN PIPE SIZE, 300 PSI
+Period: 2025-12-08 to 2025-12-30
+Location: None, NJ

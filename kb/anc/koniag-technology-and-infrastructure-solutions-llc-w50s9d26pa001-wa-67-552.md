@@ -1,0 +1,20 @@
+---
+id: koniag-technology-and-infrastructure-solutions-llc-w50s9d26pa001-wa-67-552
+title: KONIAG TECHNOLOGY AND INFRASTRUCTURE SOLUTIONS, LLC — W50S9D26PA001 (WA) $67,552
+type: anc-contract
+tags:
+- anc-contract
+- wa
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: KONIAG TECHNOLOGY AND INFRASTRUCTURE SOLUTIONS, LLC
+Award ID: W50S9D26PA001
+Amount: $67,552.08
+Agency: Department of Defense
+Sub-Agency: Department of the Army
+Description: THIS IS A NON-PERSONAL SERVICES REQUIREMENT TO PROVIDE THE NECESSARY LEVEL OF ADMINISTRATIVE, PROFESSIONAL, AND TECHNICAL SUPPORT REQUIRED TO FACILITATE THE OVERALL OBJECTIVES OF THE WANG DRUG DEMAND REDUCTION PROGRAM (DDRP) FOR FY 26.
+Period: 2025-11-19 to 2026-03-31
+Location: None, WA

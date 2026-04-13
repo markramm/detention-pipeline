@@ -7,10 +7,6 @@ tags:
 - wso
 - ga
 importance: 5
-state: "GA"
-county: "Tift County"
-fips: "13277"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Tift County Sheriff’s Office.

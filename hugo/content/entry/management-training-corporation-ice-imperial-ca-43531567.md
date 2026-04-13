@@ -7,10 +7,9 @@ fips: "06025"
 state: "CA"
 county: "IMPERIAL"
 repo_path: "kb/anc/management-training-corporation-ice-imperial-ca-43531567.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to MANAGEMENT & TRAINING CORPORATION in CA ($43,531,566.60)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

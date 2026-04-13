@@ -3,6 +3,6 @@ title: "Oklahoma"
 type: state
 layout: single
 state_abbr: "OK"
-county_count: 45
-entry_count: 76
+county_count: 22
+entry_count: 47
 ---

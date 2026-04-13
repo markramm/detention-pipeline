@@ -7,10 +7,6 @@ tags:
 - tfm
 - va
 importance: 5
-state: "VA"
-county: "Smyth County"
-fips: "51173"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Smyth County Sheriff’s Office.

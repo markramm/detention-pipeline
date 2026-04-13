@@ -1,0 +1,20 @@
+---
+id: akima-data-management-llc-fa283525f0009-ma-435-842
+title: AKIMA DATA MANAGEMENT LLC — FA283525F0009 (MA) $435,842
+type: anc-contract
+tags:
+- anc-contract
+- ma
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: AKIMA DATA MANAGEMENT LLC
+Award ID: FA283525F0009
+Amount: $435,842.10
+Agency: Department of Defense
+Sub-Agency: Department of the Air Force
+Description: PROVIDE SERVICES, SOLUTIONS, INFRASTRUCTURE, SUPPORT FOR COMMERCIAL INTERNET FOR HANSCOM AIR FORCE BASE CUSTOMERS. CONTRACTOR SHALL FURNISH PERSONNEL, EQUIPMENT, REPAIR PARTS, SUPPLIES, SERVICES, MATERIALS NECESSARY TO PERFORM IAW PWS.
+Period: 2024-12-23 to 2027-12-22
+Location: None, MA

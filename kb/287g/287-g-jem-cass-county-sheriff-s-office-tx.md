@@ -7,10 +7,6 @@ tags:
 - jem
 - tx
 importance: 5
-state: "TX"
-county: "Cass County"
-fips: "48067"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Cass County Sheriff’s Office.

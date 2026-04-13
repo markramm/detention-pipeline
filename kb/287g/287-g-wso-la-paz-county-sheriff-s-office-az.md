@@ -7,10 +7,6 @@ tags:
 - wso
 - az
 importance: 5
-state: "AZ"
-county: "La Paz County"
-fips: "04012"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and La Paz County Sheriff’s Office.

@@ -7,10 +7,6 @@ tags:
 - jem
 - ar
 importance: 5
-state: "AR"
-county: "Benton County"
-fips: "05007"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Benton County Sheriff’s Office.

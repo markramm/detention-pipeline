@@ -2,16 +2,15 @@
   "fips": "22003",
   "county": "Allen Parish, LA",
   "state": "LA",
-  "score": 125,
+  "score": 128,
   "signal_types": 5,
-  "rank": 19,
-  "total_counties": 1998,
+  "rank": 16,
+  "total_counties": 1187,
   "percentile": 99,
   "coverage": "unresearched",
-  "auto_summary": "Allen Parish, LA shows 4 existing IGSA facilities, 1 287(g) agreement, and budget distress.",
+  "auto_summary": "Allen Parish, LA shows 4 existing IGSA facilities, and 1 287(g) agreement.",
   "entry_types": {
     "287g-agreement": 1,
-    "budget-distress": 1,
     "igsa": 4,
     "facility": 1
   }

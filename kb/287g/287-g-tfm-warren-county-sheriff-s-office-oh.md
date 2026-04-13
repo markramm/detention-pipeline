@@ -7,10 +7,6 @@ tags:
 - tfm
 - oh
 importance: 5
-state: "OH"
-county: "Warren County"
-fips: "39165"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Warren County Sheriff’s Office.

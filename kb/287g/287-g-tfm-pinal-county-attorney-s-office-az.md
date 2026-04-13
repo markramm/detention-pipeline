@@ -7,10 +7,6 @@ tags:
 - tfm
 - az
 importance: 5
-state: "AZ"
-county: "Pinal County"
-fips: "04021"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Pinal County Attorney’s Office.

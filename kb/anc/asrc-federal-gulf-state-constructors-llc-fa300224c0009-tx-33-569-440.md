@@ -1,0 +1,20 @@
+---
+id: asrc-federal-gulf-state-constructors-llc-fa300224c0009-tx-33-569-440
+title: ASRC FEDERAL GULF STATE CONSTRUCTORS LLC — FA300224C0009 (TX) $33,569,440
+type: anc-contract
+tags:
+- anc-contract
+- tx
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL GULF STATE CONSTRUCTORS LLC
+Award ID: FA300224C0009
+Amount: $33,569,439.70
+Agency: Department of Defense
+Sub-Agency: Department of the Air Force
+Description: COMPREHENSIVE BASE OPERATION SUPPORT (BOS) FUNCTIONS IAW THE PWS FOR SHEPPARD AFB, TO INCLUDE OPERATIONS AND MAINTENANCE, ENGINEERING, ENVIRONMENTAL, EMERGENCY MANAGEMENT, REAL PROPERTY, FINANCIAL MANAGEMENT, AND ALL RELATED SERVICES.
+Period: 2024-08-01 to 2026-07-31
+Location: None, TX

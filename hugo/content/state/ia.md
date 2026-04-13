@@ -3,6 +3,6 @@ title: "Iowa"
 type: state
 layout: single
 state_abbr: "IA"
-county_count: 67
-entry_count: 81
+county_count: 11
+entry_count: 24
 ---

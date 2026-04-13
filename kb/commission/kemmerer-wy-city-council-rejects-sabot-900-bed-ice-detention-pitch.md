@@ -25,7 +25,6 @@ tags:
 - akima
 - rejected
 importance: 7
-source_url: "https://webapi.legistar.com"
 ---
 
 Sabot Consulting (cofounded by Darren Chiappinelli) pitched the Kemmerer City Council on a 900-bed immigration detention facility. City would own the jail via municipal bond issuance. Akima Corporation (Nana Regional Corp/ANC subsidiary) would operate under ICE contract. ICE sought 850-950 beds within 2 hours of SLC airport.

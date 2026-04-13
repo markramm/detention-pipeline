@@ -4,14 +4,13 @@
   "state": "LA",
   "score": 109,
   "signal_types": 6,
-  "rank": 43,
-  "total_counties": 1998,
-  "percentile": 98,
+  "rank": 57,
+  "total_counties": 1187,
+  "percentile": 95,
   "coverage": "partially-researched",
-  "auto_summary": "St. Tammany Parish, LA shows 1 existing IGSA facility, 1 287(g) agreement, 1 ANC contract, and 1 real estate trace.",
+  "auto_summary": "St. Tammany Parish, LA shows 1 existing IGSA facility, 1 287(g) agreement, and 1 real estate trace.",
   "entry_types": {
     "287g-agreement": 1,
-    "anc-contract": 1,
     "igsa": 1,
     "real-estate-trace": 1
   }

@@ -7,10 +7,9 @@ fips: "13139"
 state: "GA"
 county: "HALL"
 repo_path: "kb/anc/all-points-logistics-llc-ice-hall-ga-6455304.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to ALL POINTS LOGISTICS, LLC in GA ($6,455,304.07)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

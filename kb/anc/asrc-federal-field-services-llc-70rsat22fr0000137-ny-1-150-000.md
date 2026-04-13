@@ -1,0 +1,20 @@
+---
+id: asrc-federal-field-services-llc-70rsat22fr0000137-ny-1-150-000
+title: ASRC FEDERAL FIELD SERVICES, LLC — 70RSAT22FR0000137 (NY) $1,150,000
+type: anc-contract
+tags:
+- anc-contract
+- ny
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FIELD SERVICES, LLC
+Award ID: 70RSAT22FR0000137
+Amount: $1,150,000.00
+Agency: Department of Homeland Security
+Sub-Agency: Office of Procurement Operations
+Description: THE TASK ORDER IS TO PROVIDE FUNDING FOR SUPPORT TO THE DOE CESER FOR WORK INVOLVING THE USE OF THE EXISTING ELECTRICAL RANGE FACILITY AT PIADC FOR CYBER RESEARCH, ELECTRICAL INFRASTRUCTURE RESEARCH, AND OPERATION FOR MULTI-AGENCY EXERCISES.
+Period: 2022-09-19 to 2027-07-30
+Location: None, NY

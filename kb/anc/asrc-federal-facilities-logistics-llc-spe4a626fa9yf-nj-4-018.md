@@ -1,0 +1,20 @@
+---
+id: asrc-federal-facilities-logistics-llc-spe4a626fa9yf-nj-4-018
+title: ASRC FEDERAL FACILITIES LOGISTICS, LLC — SPE4A626FA9YF (NJ) $4,018
+type: anc-contract
+tags:
+- anc-contract
+- nj
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FACILITIES LOGISTICS, LLC
+Award ID: SPE4A626FA9YF
+Amount: $4,017.50
+Agency: Department of Defense
+Sub-Agency: Defense Logistics Agency
+Description: 4570061602!BRAKE FLUID,AUTOMOT
+Period: 2025-11-20 to 2025-12-01
+Location: None, NJ

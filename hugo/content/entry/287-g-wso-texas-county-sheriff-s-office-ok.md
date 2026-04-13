@@ -7,10 +7,9 @@ fips: "40139"
 state: "OK"
 county: "Texas County"
 repo_path: "kb/287g/287-g-wso-texas-county-sheriff-s-office-ok.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Texas County Sheriff’s Office, signed July 23, 2025."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

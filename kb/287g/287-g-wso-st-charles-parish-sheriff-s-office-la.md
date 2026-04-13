@@ -7,9 +7,6 @@ tags:
 - wso
 - la
 importance: 5
-state: "LA"
-county: "German Coast County"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and St. Charles Parish Sheriff’s Office.

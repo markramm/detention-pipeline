@@ -7,10 +7,9 @@ fips: "22003"
 state: "LA"
 county: "Allen Parish"
 repo_path: "kb/287g/287-g-tfm-ward-5-marshal-s-office-la.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Ward 5 Marshal’s Office, signed December 15, 2025."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

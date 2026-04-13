@@ -4,9 +4,9 @@
   "state": "NY",
   "score": 53,
   "signal_types": 4,
-  "rank": 344,
-  "total_counties": 1998,
-  "percentile": 83,
+  "rank": 374,
+  "total_counties": 1187,
+  "percentile": 68,
   "coverage": "unresearched",
   "auto_summary": "Jefferson County, NY shows 1 existing IGSA facility.",
   "entry_types": {

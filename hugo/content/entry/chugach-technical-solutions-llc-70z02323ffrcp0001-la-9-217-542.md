@@ -1,0 +1,26 @@
+---
+title: "Chugach Technical Solutions LLC — 70Z02323Ffrcp0001 (LA) $9,217,542"
+entry_type: "anc-contract"
+signal_label: "ANC Contract"
+signal_color: "#c49025"
+fips: ""
+state: ""
+county: ""
+repo_path: "kb/anc/chugach-technical-solutions-llc-70z02323ffrcp0001-la-9-217-542.md"
+lastmod: "2026-04-13"
+summary: "Federal contract awarded to ANC subsidiary in ."
+source_count: 0
+type: "entry"
+layout: "single"
+---
+
+USAspending contract award.
+
+Recipient: CHUGACH TECHNICAL SOLUTIONS LLC
+Award ID: 70Z02323FFRCP0001
+Amount: $9,217,542.24
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Coast Guard
+Description: OBTAIN CONTRACTOR SUPPORT SERVICES FOR THE USCG PATROL BOAT ACQUISITION OFFICE (CG-9125) FRC PRO LOCKPORT LOUISIANA. ADMINISTRATIVE, LOGISTICS AND SYSTEMS ENGINEERING SUPPORT SERVICES, IN ADDITION TO TRAVEL. POP 01/05/23-01/06/26.
+Period: 2023-01-05 to 2026-07-05
+Location: None, LA

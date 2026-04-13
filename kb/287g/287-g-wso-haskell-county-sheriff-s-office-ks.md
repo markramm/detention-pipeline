@@ -7,10 +7,6 @@ tags:
 - wso
 - ks
 importance: 5
-state: "KS"
-county: "Haskell County"
-fips: "20081"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Haskell County Sheriff’s Office.

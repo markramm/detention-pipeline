@@ -4,9 +4,9 @@
   "state": "AZ",
   "score": 10,
   "signal_types": 1,
-  "rank": 1131,
-  "total_counties": 1998,
-  "percentile": 43,
+  "rank": 1121,
+  "total_counties": 1187,
+  "percentile": 6,
   "coverage": "unresearched",
   "auto_summary": "Gila County, AZ shows 1 existing IGSA facility.",
   "entry_types": {

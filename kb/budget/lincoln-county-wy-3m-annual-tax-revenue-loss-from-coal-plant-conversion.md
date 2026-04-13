@@ -20,7 +20,6 @@ tags:
 - coal
 - energy-transition
 importance: 7
-source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"
 ---
 
 Lincoln County lost approximately $3 million in annual tax revenue when the first Naughton coal unit was converted to natural gas in 2020, mostly from decreased severance tax on lost coal production at the Kemmerer coal mine. Remaining two coal units scheduled for conversion.

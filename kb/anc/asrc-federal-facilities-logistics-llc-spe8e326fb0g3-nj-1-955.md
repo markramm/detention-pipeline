@@ -1,0 +1,20 @@
+---
+id: asrc-federal-facilities-logistics-llc-spe8e326fb0g3-nj-1-955
+title: ASRC FEDERAL FACILITIES LOGISTICS, LLC — SPE8E326FB0G3 (NJ) $1,955
+type: anc-contract
+tags:
+- anc-contract
+- nj
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FACILITIES LOGISTICS, LLC
+Award ID: SPE8E326FB0G3
+Amount: $1,955.16
+Agency: Department of Defense
+Sub-Agency: Defense Logistics Agency
+Description: 4570200162!FLEXIBLE COUPLING: DUCTILE IRON, 2 1/2 I
+Period: 2025-12-08 to 2025-12-22
+Location: None, NJ

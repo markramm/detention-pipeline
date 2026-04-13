@@ -1,0 +1,20 @@
+---
+id: chugach-dynamic-solutions-llc-19aqmm24c0072-va-3-722-539
+title: CHUGACH DYNAMIC SOLUTIONS LLC — 19AQMM24C0072 (VA) $3,722,539
+type: anc-contract
+tags:
+- anc-contract
+- va
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: CHUGACH DYNAMIC SOLUTIONS LLC
+Award ID: 19AQMM24C0072
+Amount: $3,722,539.01
+Agency: Department of State
+Sub-Agency: Department of State
+Description: TECHNICAL & PROGRAM OVERSIGHT SERVICES TO INCLUDE: SYSTEMS INSTALLATION AND ACCEPTANCE, SYSTEMS INTEGRATION, SYSTEMS DEVELOPMENT AND TESTING, SYSTEMS AND INFORMATION ENGINEERING, AND A VARIETY OF OTHER TECHNICAL SUPPORT SERVICES.
+Period: 2024-06-11 to 2026-06-10
+Location: None, VA

@@ -1,0 +1,20 @@
+---
+id: akima-systems-engineering-llc-89503024fwa400961-nm
+title: AKIMA SYSTEMS ENGINEERING LLC — 89503024FWA400961 (NM)
+type: anc-contract
+tags:
+- anc-contract
+- nm
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: AKIMA SYSTEMS ENGINEERING LLC
+Award ID: 89503024FWA400961
+Amount: $0.00
+Agency: Department of Energy
+Sub-Agency: Department of Energy
+Description: THE WESTERN AREA POWER ADMINISTRATION (WAPA), ROCKY MOUNTAIN REGION (RMR) REQUIRES THE INSTALLATION OF A VIDEO SURVEILLANCE SYSTEM (VSS) AT SHIPROCK SUBSTATION, 287-317 ROAD 6893, WATERFLOW, NM, 87421 (36.79715040000, -108.47734344000). THIS IS A 2-P
+Period: 2024-09-26 to 2026-04-30
+Location: None, NM

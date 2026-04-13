@@ -7,10 +7,9 @@ fips: "06059"
 state: "CA"
 county: "ORANGE"
 repo_path: "kb/anc/deloitte-consulting-llp-ice-orange-ca-18784492.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to DELOITTE CONSULTING LLP in CA ($18,784,491.51)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

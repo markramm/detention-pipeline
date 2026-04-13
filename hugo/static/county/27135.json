@@ -2,15 +2,14 @@
   "fips": "27135",
   "county": "Roseau County, MN",
   "state": "MN",
-  "score": 36,
+  "score": 34,
   "signal_types": 3,
-  "rank": 567,
-  "total_counties": 1998,
-  "percentile": 72,
+  "rank": 564,
+  "total_counties": 1187,
+  "percentile": 52,
   "coverage": "unresearched",
-  "auto_summary": "Roseau County, MN shows 1 existing IGSA facility, and budget distress.",
+  "auto_summary": "Roseau County, MN shows 1 existing IGSA facility.",
   "entry_types": {
-    "budget-distress": 1,
     "igsa": 1
   }
 }

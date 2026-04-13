@@ -7,10 +7,9 @@ fips: "20173"
 state: "KS"
 county: "SEDGWICK"
 repo_path: "kb/anc/leading-technology-composites-inc-ice-sedgwick-ks-7586652.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to LEADING TECHNOLOGY COMPOSITES INC in KS ($7,586,652.00)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

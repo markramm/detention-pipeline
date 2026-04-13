@@ -7,10 +7,9 @@ fips: "13215"
 state: "GA"
 county: "MUSCOGEE"
 repo_path: "kb/anc/kcorp-reliance-company-inc-ice-muscogee-ga-4939517.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to KCORP RELIANCE COMPANY, INC. in GA ($4,939,517.34)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

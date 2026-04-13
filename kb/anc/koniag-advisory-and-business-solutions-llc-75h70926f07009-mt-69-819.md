@@ -1,0 +1,20 @@
+---
+id: koniag-advisory-and-business-solutions-llc-75h70926f07009-mt-69-819
+title: KONIAG ADVISORY AND BUSINESS SOLUTIONS, LLC — 75H70926F07009 (MT) $69,819
+type: anc-contract
+tags:
+- anc-contract
+- mt
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: KONIAG ADVISORY AND BUSINESS SOLUTIONS, LLC
+Award ID: 75H70926F07009
+Amount: $69,818.72
+Agency: Department of Health and Human Services
+Sub-Agency: Indian Health Service
+Description: FPSU JANITOR I $370,694.16
+Period: 2026-02-11 to 2027-02-15
+Location: None, MT

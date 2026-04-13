@@ -1,0 +1,20 @@
+---
+id: akima-facilities-operations-llc-w911s826fa056-ca-179-565
+title: AKIMA FACILITIES OPERATIONS LLC — W911S826FA056 (CA) $179,565
+type: anc-contract
+tags:
+- anc-contract
+- ca
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: AKIMA FACILITIES OPERATIONS LLC
+Award ID: W911S826FA056
+Amount: $179,564.79
+Agency: Department of Defense
+Sub-Agency: Department of the Army
+Description: BASE OPERATIONS SUPPORT SERVICES (BOSS), FOR THE SHARPE ARMY DEPORT, LATHROP, CALIFORNIA. THE SERVICES INCLUDE FACILITIES MAINTENANCE, CUSTODIAL SERVICES, SOLID WASTE MANAGEMENT, GROUNDS MAINTENANCE, WATER, AND WASTEWATER TREATMENT PLANT OPERATIONS.
+Period: 2025-12-01 to 2026-01-31
+Location: None, CA

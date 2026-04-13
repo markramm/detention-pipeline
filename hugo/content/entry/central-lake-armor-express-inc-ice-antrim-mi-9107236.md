@@ -7,10 +7,9 @@ fips: "26009"
 state: "MI"
 county: "ANTRIM"
 repo_path: "kb/anc/central-lake-armor-express-inc-ice-antrim-mi-9107236.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to CENTRAL LAKE ARMOR EXPRESS INC in MI ($9,107,235.80)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

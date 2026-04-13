@@ -7,10 +7,9 @@ fips: "12117"
 state: "FL"
 county: "Seminole County"
 repo_path: "kb/287g/287-g-tfm-winter-springs-police-department-fl.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Winter Springs Police Department, signed June 5, 2025."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

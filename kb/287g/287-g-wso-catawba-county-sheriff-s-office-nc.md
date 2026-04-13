@@ -7,10 +7,6 @@ tags:
 - wso
 - nc
 importance: 5
-state: "NC"
-county: "Catawba County"
-fips: "37035"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Catawba County Sheriff’s Office.

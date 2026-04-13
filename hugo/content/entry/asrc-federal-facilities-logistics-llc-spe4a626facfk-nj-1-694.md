@@ -1,0 +1,26 @@
+---
+title: "Asrc Federal Facilities Logistics, LLC — Spe4A626Facfk (NJ) $1,694"
+entry_type: "anc-contract"
+signal_label: "ANC Contract"
+signal_color: "#c49025"
+fips: ""
+state: ""
+county: ""
+repo_path: "kb/anc/asrc-federal-facilities-logistics-llc-spe4a626facfk-nj-1-694.md"
+lastmod: "2026-04-13"
+summary: "Federal contract awarded to ANC subsidiary in ."
+source_count: 0
+type: "entry"
+layout: "single"
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FACILITIES LOGISTICS, LLC
+Award ID: SPE4A626FACFK
+Amount: $1,694.25
+Agency: Department of Defense
+Sub-Agency: Defense Logistics Agency
+Description: 4570386568!ANTIFREEZE
+Period: 2026-01-02 to 2026-01-20
+Location: None, NJ

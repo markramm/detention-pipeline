@@ -2,15 +2,14 @@
   "fips": "42119",
   "county": "Union County, PA",
   "state": "PA",
-  "score": 25,
-  "signal_types": 2,
-  "rank": 812,
-  "total_counties": 1998,
-  "percentile": 59,
+  "score": 20,
+  "signal_types": 1,
+  "rank": 885,
+  "total_counties": 1187,
+  "percentile": 25,
   "coverage": "unresearched",
-  "auto_summary": "Union County, PA shows 2 existing IGSA facilities, and budget distress.",
+  "auto_summary": "Union County, PA shows 2 existing IGSA facilities.",
   "entry_types": {
-    "budget-distress": 1,
     "igsa": 2
   }
 }

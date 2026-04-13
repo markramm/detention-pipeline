@@ -7,10 +7,6 @@ tags:
 - jem
 - al
 importance: 5
-state: "AL"
-county: "Elmore County"
-fips: "01051"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Elmore County Sheriff’s Office.

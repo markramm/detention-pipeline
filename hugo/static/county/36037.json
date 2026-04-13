@@ -2,16 +2,15 @@
   "fips": "36037",
   "county": "Genesee County, NY",
   "state": "NY",
-  "score": 121,
-  "signal_types": 6,
-  "rank": 24,
-  "total_counties": 1998,
-  "percentile": 99,
+  "score": 106,
+  "signal_types": 5,
+  "rank": 64,
+  "total_counties": 1187,
+  "percentile": 95,
   "coverage": "unresearched",
-  "auto_summary": "Genesee County, NY shows 3 existing IGSA facilities, 3 ANC contracts, and budget distress.",
+  "auto_summary": "Genesee County, NY shows 3 existing IGSA facilities, and 3 ANC contracts.",
   "entry_types": {
     "anc-contract": 3,
-    "budget-distress": 1,
     "igsa": 3,
     "facility": 1
   }

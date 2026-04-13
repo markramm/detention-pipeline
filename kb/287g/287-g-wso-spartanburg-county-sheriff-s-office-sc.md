@@ -7,10 +7,6 @@ tags:
 - wso
 - sc
 importance: 5
-state: "SC"
-county: "Spartanburg County"
-fips: "45083"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Spartanburg County Sheriff’s Office.

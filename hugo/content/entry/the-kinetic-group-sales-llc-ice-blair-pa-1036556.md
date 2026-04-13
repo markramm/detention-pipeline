@@ -7,10 +7,9 @@ fips: "42013"
 state: "PA"
 county: "BLAIR"
 repo_path: "kb/anc/the-kinetic-group-sales-llc-ice-blair-pa-1036556.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE KINETIC GROUP SALES LLC in PA ($1,036,556.28)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

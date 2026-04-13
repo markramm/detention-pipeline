@@ -3,6 +3,6 @@ title: "Missouri"
 type: state
 layout: single
 state_abbr: "MO"
-county_count: 60
-entry_count: 102
+county_count: 28
+entry_count: 65
 ---

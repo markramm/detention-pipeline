@@ -7,10 +7,9 @@ fips: "48249"
 state: "TX"
 county: "Jim Wells County"
 repo_path: "kb/287g/287-g-jem-jim-wells-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Jim Wells County Sheriff’s Office, signed February 28, 2025."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

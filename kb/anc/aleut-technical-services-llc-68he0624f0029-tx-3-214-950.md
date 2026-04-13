@@ -1,0 +1,20 @@
+---
+id: aleut-technical-services-llc-68he0624f0029-tx-3-214-950
+title: ALEUT TECHNICAL SERVICES, LLC — 68HE0624F0029 (TX) $3,214,950
+type: anc-contract
+tags:
+- anc-contract
+- tx
+importance: 5
+---
+
+USAspending contract award.
+
+Recipient: ALEUT TECHNICAL SERVICES, LLC
+Award ID: 68HE0624F0029
+Amount: $3,214,950.05
+Agency: Environmental Protection Agency
+Sub-Agency: Environmental Protection Agency
+Description: SUPERFUND RECORDS MANAGEMENT TASK ORDER UNDER THE REGION 6 ENFORCEMENT SUPPORT SERVICES CONTRACT - THIS TASK ORDER INCLUDES ALL R6 SUPERFUND RECORDS MANAGEMENT SERVICES TO INCLUDE DOCUMENT PREPPING, SCANNING, INDEXING, CONVERTING, DIGITIZING AND OVER
+Period: 2024-09-26 to 2028-11-15
+Location: None, TX

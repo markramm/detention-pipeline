@@ -7,10 +7,9 @@ fips: "20091"
 state: "KS"
 county: "JOHNSON"
 repo_path: "kb/anc/firelake-construction-inc-ice-johnson-ks-1086044.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to FIRELAKE CONSTRUCTION INC in KS ($1,086,043.53)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

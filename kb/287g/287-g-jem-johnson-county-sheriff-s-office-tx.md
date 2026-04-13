@@ -7,10 +7,6 @@ tags:
 - jem
 - tx
 importance: 5
-state: "TX"
-county: "Johnson County"
-fips: "48251"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Johnson County Sheriff’s Office.

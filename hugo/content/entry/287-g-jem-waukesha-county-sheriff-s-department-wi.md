@@ -7,10 +7,9 @@ fips: "55133"
 state: "WI"
 county: "Waukesha County"
 repo_path: "kb/287g/287-g-jem-waukesha-county-sheriff-s-department-wi.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Waukesha County Sheriff’s Department, signed June 10, 2020."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

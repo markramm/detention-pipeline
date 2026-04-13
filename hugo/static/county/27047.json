@@ -2,16 +2,17 @@
   "fips": "27047",
   "county": "Freeborn County, MN",
   "state": "MN",
-  "score": 53,
-  "signal_types": 4,
-  "rank": 350,
-  "total_counties": 1998,
-  "percentile": 82,
-  "coverage": "unresearched",
-  "auto_summary": "Freeborn County, MN shows 1 existing IGSA facility, 1 287(g) agreement, and budget distress.",
+  "score": 78,
+  "signal_types": 5,
+  "rank": 171,
+  "total_counties": 1187,
+  "percentile": 86,
+  "coverage": "partially-researched",
+  "auto_summary": "Freeborn County, MN shows 1 existing IGSA facility, 1 287(g) agreement, and active community resistance.",
   "entry_types": {
     "287g-agreement": 1,
-    "budget-distress": 1,
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1,
+    "facility": 1
   }
 }

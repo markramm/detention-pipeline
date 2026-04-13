@@ -7,10 +7,9 @@ fips: "26163"
 state: "MI"
 county: "Wayne"
 repo_path: "kb/commission/romulus-mi-city-and-state-file-lawsuit-to-block-ice-detention-facility.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "City of Romulus and Michigan AG filed suit Mar 2026 to block ICE warehouse-to-detention conversion. 700-800 protesters; Governor Whitmer notably silent."
 source_count: 1
-source_url: "https://webapi.legistar.com"
 type: "entry"
 layout: "single"
 ---

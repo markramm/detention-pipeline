@@ -7,10 +7,9 @@ fips: "01053"
 state: "AL"
 county: "ESCAMBIA"
 repo_path: "kb/anc/summome-native-ventures-llc-ice-escambia-al-3852258.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to SUMMOME NATIVE VENTURES LLC in AL ($3,852,257.74)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

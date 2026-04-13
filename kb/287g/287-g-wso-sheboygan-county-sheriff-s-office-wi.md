@@ -7,10 +7,6 @@ tags:
 - wso
 - wi
 importance: 5
-state: "WI"
-county: "Sheboygan County"
-fips: "55117"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Sheboygan County Sheriff’s Office.

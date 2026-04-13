@@ -18,7 +18,6 @@ tags:
 - ice-contract
 - oh
 importance: 7
-source_url: "https://www.usaspending.gov"
 ---
 
 ICE contract.

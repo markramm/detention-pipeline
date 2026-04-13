@@ -7,10 +7,9 @@ fips: "48339"
 state: "TX"
 county: "MONTGOMERY"
 repo_path: "kb/anc/the-geo-group-inc-ice-montgomery-tx-48312099.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to THE GEO GROUP, INC. in TX ($48,312,099.25)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

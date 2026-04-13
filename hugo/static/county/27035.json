@@ -2,15 +2,17 @@
   "fips": "27035",
   "county": "Crow Wing County, MN",
   "state": "MN",
-  "score": 45,
-  "signal_types": 3,
-  "rank": 438,
-  "total_counties": 1998,
-  "percentile": 78,
-  "coverage": "unresearched",
-  "auto_summary": "Crow Wing County, MN shows 1 existing IGSA facility, and 2 287(g) agreements.",
+  "score": 85,
+  "signal_types": 5,
+  "rank": 140,
+  "total_counties": 1187,
+  "percentile": 88,
+  "coverage": "partially-researched",
+  "auto_summary": "Crow Wing County, MN shows 1 existing IGSA facility, 2 287(g) agreements, and active community resistance.",
   "entry_types": {
     "287g-agreement": 2,
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1,
+    "facility": 1
   }
 }

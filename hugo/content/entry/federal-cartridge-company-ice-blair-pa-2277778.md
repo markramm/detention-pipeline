@@ -7,10 +7,9 @@ fips: "42013"
 state: "PA"
 county: "BLAIR"
 repo_path: "kb/anc/federal-cartridge-company-ice-blair-pa-2277778.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to FEDERAL CARTRIDGE COMPANY in PA ($2,277,778.27)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

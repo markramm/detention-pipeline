@@ -7,10 +7,9 @@ fips: "08013"
 state: "CO"
 county: "BOULDER"
 repo_path: "kb/anc/bi-incorporated-ice-boulder-co-108343853.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to B.I. INCORPORATED in CO ($108,343,853.00)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -7,10 +7,6 @@ tags:
 - wso
 - ok
 importance: 5
-state: "OK"
-county: "Muskogee County"
-fips: "40101"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Muskogee County Sheriff’s Office.

@@ -7,10 +7,9 @@ fips: "48027"
 state: "TX"
 county: "BELL"
 repo_path: "kb/anc/csi-aviation-inc-ice-bell-tx-673421847.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "Federal contract awarded to CSI AVIATION, INC in TX ($673,421,847.00)."
 source_count: 0
-source_url: "https://www.usaspending.gov"
 type: "entry"
 layout: "single"
 ---

@@ -7,10 +7,9 @@ fips: "45075"
 state: "SC"
 county: "Orangeburg County"
 repo_path: "kb/287g/287-g-tfm-santee-police-department-sc.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Santee Police Department, signed December 16, 2025."
 source_count: 1
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 type: "entry"
 layout: "single"
 ---

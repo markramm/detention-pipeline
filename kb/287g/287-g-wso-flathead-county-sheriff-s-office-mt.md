@@ -7,10 +7,6 @@ tags:
 - wso
 - mt
 importance: 5
-state: "MT"
-county: "Flathead County"
-fips: "30029"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Flathead County Sheriff’s Office.

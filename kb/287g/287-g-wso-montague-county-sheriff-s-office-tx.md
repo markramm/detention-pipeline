@@ -7,10 +7,6 @@ tags:
 - wso
 - tx
 importance: 5
-state: "TX"
-county: "Montague County"
-fips: "48337"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Montague County Sheriff’s Office.

@@ -7,10 +7,6 @@ tags:
 - tfm
 - la
 importance: 5
-state: "LA"
-county: "Allen Parish"
-fips: "22003"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Ward 5 Marshal’s Office.

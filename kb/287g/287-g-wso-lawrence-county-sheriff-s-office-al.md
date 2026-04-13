@@ -7,10 +7,6 @@ tags:
 - wso
 - al
 importance: 5
-state: "AL"
-county: "Lawrence County"
-fips: "01079"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Lawrence County Sheriff’s Office.

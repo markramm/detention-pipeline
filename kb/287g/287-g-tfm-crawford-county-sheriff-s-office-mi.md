@@ -7,10 +7,6 @@ tags:
 - tfm
 - mi
 importance: 5
-state: "MI"
-county: "Crawford County"
-fips: "26039"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Crawford County Sheriff’s Office.

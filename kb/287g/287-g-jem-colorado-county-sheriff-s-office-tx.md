@@ -7,10 +7,6 @@ tags:
 - jem
 - tx
 importance: 5
-state: "TX"
-county: "Colorado County"
-fips: "48089"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Colorado County Sheriff’s Office.

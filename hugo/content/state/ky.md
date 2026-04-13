@@ -3,6 +3,6 @@ title: "Kentucky"
 type: state
 layout: single
 state_abbr: "KY"
-county_count: 71
-entry_count: 108
+county_count: 30
+entry_count: 59
 ---

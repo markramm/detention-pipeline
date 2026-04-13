@@ -7,10 +7,6 @@ tags:
 - tfm
 - nc
 importance: 5
-state: "NC"
-county: "Avery County"
-fips: "37011"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Newland Police Department.

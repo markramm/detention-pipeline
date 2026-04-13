@@ -7,10 +7,6 @@ tags:
 - wso
 - fl
 importance: 5
-state: "FL"
-county: "Martin County"
-fips: "12085"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Martin County Sheriff’s Office.

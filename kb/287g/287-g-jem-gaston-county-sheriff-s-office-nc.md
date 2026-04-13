@@ -7,10 +7,6 @@ tags:
 - jem
 - nc
 importance: 5
-state: "NC"
-county: "Gaston County"
-fips: "37071"
-source_url: "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
 ---
 
 287(g) agreement between ICE and Gaston County Sheriff’s Office.
