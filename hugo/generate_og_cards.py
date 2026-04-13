@@ -101,8 +101,9 @@ def draw_gradient_bg(draw):
 def composite_heatmap(img, heatmap_src, opacity=60):
     """Place the heatmap as a hero image in the top portion of the card.
 
-    The map is scaled down to fit the top ~55% of the card, with text
-    rendered below it. Returns the card with the map composited in.
+    The map is scaled to fill the full card width, cropped to the top 55%
+    of the card height. This ensures the map is large and visible at
+    social media preview sizes.
     """
     if heatmap_src is None:
         return img
@@ -110,22 +111,23 @@ def composite_heatmap(img, heatmap_src, opacity=60):
     hm = heatmap_src.copy().convert("RGB")
     src_w, src_h = hm.size
 
-    # Crop to the central/southern US where hot spots are
-    crop_top = int(src_h * 0.12)
-    crop_bottom = int(src_h * 0.92)
-    hm = hm.crop((0, crop_top, src_w, crop_bottom))
+    # Scale to fill full card width
+    scale = W / src_w
+    new_h = int(src_h * scale)
+    hm = hm.resize((W, new_h), Image.LANCZOS)
 
-    # Scale to fit top portion of card (55% height)
+    # Crop vertically: take a slice that shows the map well
+    # Offset down a bit to skip empty space above the map
     map_h = int(H * 0.55)
-    map_w = int(hm.width * map_h / hm.height)
-    if map_w > W:
-        map_w = W
-        map_h = int(hm.height * map_w / hm.width)
-    hm = hm.resize((map_w, map_h), Image.LANCZOS)
+    # Start from ~15% down to skip the top empty area
+    y_start = int(new_h * 0.15)
+    y_end = y_start + map_h
+    if y_end > new_h:
+        y_end = new_h
+        y_start = y_end - map_h
+    hm = hm.crop((0, y_start, W, y_end))
 
-    # Center horizontally
-    x_offset = (W - map_w) // 2
-    img.paste(hm, (x_offset, 0))
+    img.paste(hm, (0, 0))
     return img
 
 
