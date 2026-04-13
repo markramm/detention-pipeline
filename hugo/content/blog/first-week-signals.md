@@ -1,13 +1,13 @@
 ---
-title: "First Week: What the Data Showed"
+title: "Launch Night: What the Data Showed"
 type: blog
 layout: single
 date: 2026-04-12
-summary: "20 county fights documented. Nine secret Colorado hold rooms. 50,000 people in minus-20-degree weather. The site's first week surfaced stories the heatmap alone couldn't see."
+summary: "20 county fights documented. Nine secret Colorado hold rooms. 50,000 people in minus-20-degree weather. The site's first night surfaced stories the heatmap alone couldn't see."
 author: "Mark Ramm"
 ---
 
-The site launched with 13 documented county fights. One week later, there are 20 — and each new one came from following signals the heatmap flagged but hadn't explained.
+The site launched with 13 documented county fights. By morning, there are 20 — and each new one came from following signals the heatmap flagged but hadn't explained.
 
 ---
 
