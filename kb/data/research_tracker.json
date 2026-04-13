@@ -1,5 +1,29 @@
 {
   "counties": {
+    "01003": {
+      "last_researched": "2026-04-12",
+      "notes": "Baldwin AL \u2014 $64M jail expansion, 7 287(g) (Task Force Model), ICE raid epicenter (15+ warrantless construction raids), Garcia Venegas v. ICE class-action (IJ), ~50 detained at school sites, civil rights records requests Nov 2025"
+    },
+    "01055": {
+      "last_researched": "2026-04-12",
+      "notes": "Etowah AL \u2014 865-bed zombie prison reopened Feb 2025, notorious conditions history (no outdoor rec, medical neglect, longest stays), ICE closed 2022 for deficiencies, Sheriff Horton reopened under Trump/Homan pressure"
+    },
+    "01097": {
+      "last_researched": "2026-04-12",
+      "notes": "Mobile AL \u2014 Sheriff Paul Burch 287(g), couple hundred detained transported to Hancock MS, targeting interstate areas, limited Metro Jail capacity"
+    },
+    "01101": {
+      "last_researched": "2026-04-12",
+      "notes": "Montgomery AL \u2014 ICE field office, Montgomery City Jail IGSA (<72hr holding), ICE Birmingham office coordinates statewide enforcement"
+    },
+    "01105": {
+      "last_researched": "2026-04-12",
+      "notes": "Perry AL \u2014 LCS Corrections private prison 738 beds, opened 2006, ICE/USMS IGSA, low current pop, budget-distressed Black Belt county, never housed Perry County prisoners"
+    },
+    "01107": {
+      "last_researched": "2026-04-12",
+      "notes": "Pickens AL \u2014 Transfer holding point for ICE, Iranian doctoral student + Hernandez Martinez held before transfer, civil rights records requests filed Nov 2025, budget distress"
+    },
     "04013": {
       "last_researched": "2026-04-10",
       "notes": "Maricopa \u2014 Surprise warehouse"
@@ -172,17 +196,161 @@
       "last_researched": "2026-04-12",
       "notes": "Winn \u2014 score 101, WCC 1491 avg daily (highest LA), LaSalle Corrections, overcapacity, conditions crisis"
     },
+    "24001": {
+      "last_researched": "2026-04-12",
+      "notes": "Allegany County \u2014 287(g) signed 2025 (WSO), part of 9-county defiance bloc"
+    },
+    "24003": {
+      "last_researched": "2026-04-12",
+      "notes": "Anne Arundel County \u2014 Dropped 287(g) 2018, still 710 foreign-born bookings/270 detainers/140 pickups in 2025"
+    },
+    "24013": {
+      "last_researched": "2026-04-12",
+      "notes": "Carroll County \u2014 287(g) signed 2025, Sheriff DeWees vowed defiance after ban, Maldonado-Deras case"
+    },
+    "24019": {
+      "last_researched": "2026-04-12",
+      "notes": "Dorchester County \u2014 Secure Communities only, no specific 2025-2026 findings"
+    },
+    "24021": {
+      "last_researched": "2026-04-12",
+      "notes": "Frederick County \u2014 287(g) since 2008, Sheriff Jenkins longest-standing program, terminated by ban, looking at legal challenge"
+    },
+    "24023": {
+      "last_researched": "2026-04-12",
+      "notes": "Garrett County \u2014 287(g) signed 2025, posted update on sheriff website after ban"
+    },
+    "24025": {
+      "last_researched": "2026-04-12",
+      "notes": "Harford County \u2014 Pre-existing 287(g), Sheriff Gahler positive indications of legal action against ban"
+    },
+    "24027": {
+      "last_researched": "2026-04-12",
+      "notes": "Howard County \u2014 Elkridge stealth ICE facility blocked, permit revoked Feb 2, emergency ban on private detention centers"
+    },
+    "24033": {
+      "last_researched": "2026-04-12",
+      "notes": "Prince Georges County \u2014 Executive Order No. 9-2026, 4-bill anti-ICE package Apr 2026, employment ban for ICE/CBP workers, safe spaces act"
+    },
+    "24037": {
+      "last_researched": "2026-04-12",
+      "notes": "St. Marys County \u2014 287(g) signed Mar 3 2025, 6 detainers, Sheriff Steve Hall, terminated by state ban"
+    },
+    "24043": {
+      "last_researched": "2026-04-12",
+      "notes": "Washington County \u2014 Williamsport warehouse $102.4M, $113M reno contract, TRO, DHS pause, commissioners pro-ICE, sheriff 287(g) until May"
+    },
+    "24045": {
+      "last_researched": "2026-04-12",
+      "notes": "Wicomico County \u2014 287(g) tabled Nov 2025 under AG guidance, Sheriff Lewis weighing legal options"
+    },
+    "24047": {
+      "last_researched": "2026-04-12",
+      "notes": "Worcester County \u2014 Secure Communities only, Sheriff Crisafulli opposed ICE Breaker Act"
+    },
+    "24510": {
+      "last_researched": "2026-04-12",
+      "notes": "Baltimore City \u2014 Fallon Building ICE holding rooms, Legionella contamination Nov 2025, overcrowding, judge ordered closure"
+    },
+    "25001": {
+      "last_researched": "2026-04-12",
+      "notes": "Barnstable MA (Cape Cod) \u2014 Heatmap signals (score 27) but no specific 2025-2026 ICE detention news found beyond statewide patterns."
+    },
+    "25005": {
+      "last_researched": "2026-04-12",
+      "notes": "Bristol MA \u2014 Former Hodgson ICE fortress (terminated 2021, $800K settlement). New Sheriff Heroux enacted info-sharing firewall Nov 2025; zero ICE transfers since. Score 27."
+    },
+    "25009": {
+      "last_researched": "2026-04-12",
+      "notes": "Essex MA \u2014 Region 3 courthouse arrest epicenter (227+ in 2025). Lawrence/Lynn/Chelsea Latino communities targeted. ICE alleged assault on lawful permanent resident. Score 37."
+    },
+    "25013": {
+      "last_researched": "2026-04-12",
+      "notes": "Hampden MA (Springfield) \u2014 DA office communicating with ICE (special victims unit contacted ICE Feb 2025). Part of courthouse arrest pattern. Score 27."
+    },
+    "25017": {
+      "last_researched": "2026-04-12",
+      "notes": "Middlesex MA \u2014 Burlington ICE field office (de facto detention, conditions crisis) + Hanscom Field deportation flights (114+ in 2025). Two critical pipeline nodes. Score 37."
+    },
+    "25023": {
+      "last_researched": "2026-04-12",
+      "notes": "Plymouth MA \u2014 PCCF only MA county ICE detention, 526 beds, IGSA through 2029, $215/day, 85% no-threat detainees. ~$35M/yr revenue. NOT in heatmap but most significant MA detention site."
+    },
+    "25025": {
+      "last_researched": "2026-04-12",
+      "notes": "Suffolk MA (Boston) \u2014 Police ignored all 57 ICE detainers (2025), Wu banned ICE from city property (Feb 2026), ended ICE detention 2019. But 136+ courthouse arrests in Region 5. Score 47."
+    },
+    "26025": {
+      "last_researched": "2026-04-12",
+      "notes": "Calhoun MI \u2014 630-bed county jail IGSA (DROIGSA-07-0019) + 287(g) WSO model. Revenue-driven: 275 local inmates in 630-bed jail, rents excess to feds. Battle Creek."
+    },
+    "26033": {
+      "last_researched": "2026-04-12",
+      "notes": "Chippewa MI \u2014 120-bed county jail IGSA, Sault Ste Marie, Upper Peninsula Canadian border. Remote access challenges for attorneys/families. Budget-distress signal."
+    },
+    "26039": {
+      "last_researched": "2026-04-12",
+      "notes": "Crawford MI \u2014 287(g) task force model signed Sep 2025. Rural northern MI. No IGSA detention."
+    },
+    "26081": {
+      "last_researched": "2026-04-12",
+      "notes": "Kent MI \u2014 Grand Rapids ICE office expansion (10yr GSA lease, Waters Center), sanctuary policy fight, GR Rapid Response to ICE community group, East GR considering enforcement limits. No 287(g) or IGSA."
+    },
+    "26085": {
+      "last_researched": "2026-04-12",
+      "notes": "Lake MI \u2014 North Lake Processing Center (GEO Group), 1800 beds, $87M/yr contract, 1300+ avg daily pop. Nenko Gantchev death Dec 15 2025, medical neglect, 800+ habeas petitions. Largest Midwest ICE facility."
+    },
     "26115": {
       "last_researched": "2026-04-12",
-      "notes": "Monroe MI \u2014 IGSA, Romulus spillover, habeas wave"
+      "notes": "Monroe MI \u2014 County jail IGSA (DROIGSA-08-0025), habeas corpus wave epicenter (Lopez-Campos ruling Aug 2025), 4 signal types score 77."
+    },
+    "26143": {
+      "last_researched": "2026-04-12",
+      "notes": "Roscommon MI \u2014 287(g) task force model signed Jun 5 2025. Rural northern MI. No IGSA detention. Budget-distress signal."
+    },
+    "26147": {
+      "last_researched": "2026-04-12",
+      "notes": "St. Clair MI \u2014 County jail IGSA, Port Huron, Canadian border (Blue Water Bridge). Sheriff Mat King. No 287(g) despite legislative pressure."
     },
     "26163": {
-      "last_researched": "2026-04-10",
-      "notes": "Wayne MI \u2014 Romulus, 8 signal types"
+      "last_researched": "2026-04-12",
+      "notes": "Wayne MI \u2014 Romulus $34.7M warehouse PAUSED under DHS Mullin review Apr 1. AG Nessel + City lawsuit Mar 24. 700+ protesters. Highest MI heatmap score (165, 8 types). Coalition to Shut the Camps weekly demos."
     },
     "27163": {
       "last_researched": "2026-04-12",
       "notes": "Washington MN \u2014 Woodbury fight blocked"
+    },
+    "28001": {
+      "last_researched": "2026-04-12",
+      "notes": "Adams MS -- ACCC 2260 beds, CoreCivic, 2nd largest ICE facility nationally, Rodriguez death Dec 2025, budget-distress signal"
+    },
+    "28045": {
+      "last_researched": "2026-04-12",
+      "notes": "Hancock MS -- Public Safety Complex, IGSA since 2020, Gulf Coast transit hub, Swamp Sweep intake"
+    },
+    "28047": {
+      "last_researched": "2026-04-12",
+      "notes": "Harrison MS -- Dual-model 287(g) JEM+WSO, Gulf Coast enforcement, Swamp Sweep target area"
+    },
+    "28049": {
+      "last_researched": "2026-04-12",
+      "notes": "Hinds MS -- Jackson metro, pending 287(g) through State Auditor"
+    },
+    "28089": {
+      "last_researched": "2026-04-12",
+      "notes": "Madison MS -- IGSA since 2018, ICE arrests in Canton Dec 2025"
+    },
+    "28093": {
+      "last_researched": "2026-04-12",
+      "notes": "Marshall MS -- Byhalia 8500-bed mega warehouse BLOCKED by Wicker/Noem Feb 2026"
+    },
+    "28131": {
+      "last_researched": "2026-04-12",
+      "notes": "Stone MS -- Only county with all 3 287(g) models (JEM+WSO+TFM)"
+    },
+    "28135": {
+      "last_researched": "2026-04-12",
+      "notes": "Tallahatchie MS -- CoreCivic TCCF, 252 ICE beds, expansion Feb 2025"
     },
     "29077": {
       "last_researched": "2026-04-12",
@@ -475,9 +643,37 @@
     "51147": {
       "last_researched": "2026-04-12",
       "notes": "Prince Edward VA \u2014 Farmville CoreCivic $71.4M"
+    },
+    "53005": {
+      "last_researched": "2026-04-12",
+      "notes": "Benton WA \u2014 Arrests jumped 12x (5 to 60) in 2025, agricultural region, Operation Black Rose"
+    },
+    "53033": {
+      "last_researched": "2026-04-12",
+      "notes": "King WA \u2014 1,019 arrests (44% statewide), 7-jurisdiction moratorium, DHS pre-solicitation for 1,635-bed facility, World Cup pressure"
+    },
+    "53047": {
+      "last_researched": "2026-04-12",
+      "notes": "Okanogan WA \u2014 Sheriff testified in DC on immigration conflicts, devised own KWW compliance, low arrest numbers"
+    },
+    "53051": {
+      "last_researched": "2026-04-12",
+      "notes": "Pend Oreille WA \u2014 Sheriff Blakeslee testified on immigration law conflicts, minimal specific enforcement data"
+    },
+    "53053": {
+      "last_researched": "2026-04-12",
+      "notes": "Pierce WA \u2014 NWIPC location (1,575 beds GEO), 6-month moratorium passed 5-2, 2018 zoning blocks expansion"
+    },
+    "53077": {
+      "last_researched": "2026-04-12",
+      "notes": "Yakima WA \u2014 Highest per-capita ICE arrests in state (180/100K), 477 in 2025, agricultural heartland, ICE Air flights, courthouse surveillance"
     }
   },
   "states": {
+    "AL": {
+      "last_researched": "2026-04-12",
+      "notes": "Etowah 865-bed zombie prison reopened Feb 2025, Baldwin $64M expansion + 7 287(g) + construction raids + IJ lawsuit (US citizen detained 2x), Perry County private prison (LCS 738 beds), Pickens transfer holding point, 13+ 287(g) agencies, HB13 Laken Riley Act passed House Mar 2026, ALEA-ICE trucking partnership, arrests doubled 2025, Haitian TPS holder detained Birmingham Mar 2026. Deep."
+    },
     "AZ": {
       "last_researched": "2026-04-10",
       "notes": "Pinal 11,200-bed cluster, Brad Miller rogue 287(g), Surprise warehouse, Maricopa. Deep."
@@ -518,9 +714,17 @@
       "last_researched": "2026-04-12",
       "notes": "10 facilities documented (9 existing + Angola new), 7500+ detainees, 2nd after TX, 98% for-profit (GEO+LaSalle). Angola Camp 57 hunger strike, Pine Prairie 2x capacity, Basile sexual abuse conviction, Hammond 9000-bed warehouse proposed, Orleans Sheriff v ICE lawsuit, Operation GEAUX/Catahoula Crunch, $1/day forced labor SCOTUS case. Deep."
     },
+    "MA": {
+      "last_researched": "2026-04-12",
+      "notes": "Plymouth County PCCF 526 beds (only county ICE facility in MA, IGSA through 2029, $215/day, ~$35M/yr), Burlington field office de facto detention (conditions crisis, congressional oversight), Hanscom Field 114+ deportation flights (2x previous year), 7030+ ICE arrests (5x Biden), 614 courthouse arrests (2x 2024), DOC 287(g) since 2007 (2047 transfers), Bristol County reversed (Heroux info firewall Nov 2025, zero transfers since), PROTECT Act passed House Mar 2026, Healey EO 650 bans new 287(g) but defends DOC agreement. Deep."
+    },
+    "MD": {
+      "last_researched": "2026-04-12",
+      "notes": "Williamsport/Hagerstown 1500-bed warehouse (paused, TRO, DHS review, $102.4M+$113M reno, NEPA lawsuit, Apr 15 hearing), Elkridge Howard Co stealth facility blocked, Baltimore Fallon Building Legionella/overcrowding, 287(g) ban (9 counties, Feb 2026) + 9-sheriff defiance + legal challenge, Community Trust Act (House 92-37, Senate 29-13), Dignity Not Detention Act, Prince Georges 4-bill anti-ICE package, 3300+ arrested 2025 (50%+ non-criminal). Deep."
+    },
     "MI": {
-      "last_researched": "2026-04-10",
-      "notes": "Wayne/Romulus lawsuit, North Lake Baldwin. Monroe County spillover confirmed."
+      "last_researched": "2026-04-12",
+      "notes": "DEEP UPDATE: Romulus $34.7M warehouse paused under DHS Mullin review of Noem-era contracts (Apr 1). North Lake Baldwin enriched: Nenko Gantchev death Dec 15 2025, 800+ habeas petitions (most granted), $87M/yr GEO contract, 1300+ avg daily pop, medical neglect/911 call spikes. 7 agencies signed 287(g) (Jackson/Berrien/Calhoun WSO, Roscommon/Crawford/Taylor TF), Genesee+Center Line withdrew. 4 county jails with IGSAs (Calhoun/Chippewa/Monroe/St. Clair) held 346 combined Jun 2025. Kent Co ICE office expansion (10yr GSA lease Grand Rapids). 4300+ arrests Jan 2025-Mar 2026, 9x increase non-criminal arrests. Senate bills SB508/510 advancing."
     },
     "MN": {
       "last_researched": "2026-04-12",
@@ -529,6 +733,10 @@
     "MO": {
       "last_researched": "2026-04-12",
       "notes": "Greene County flagged but not deeply researched. KC fight already documented."
+    },
+    "MS": {
+      "last_researched": "2026-04-12",
+      "notes": "MS comprehensive: Adams County CC (2nd largest ICE facility, 2260 beds, CoreCivic, Rodriguez death Dec 2025), Tallahatchie CC (252 ICE beds, CoreCivic expansion Feb 2025), Hancock County PSC (Gulf Coast transit hub), Byhalia warehouse fight (8500-bed mega site blocked by Wicker/Noem Feb 2026), mandatory 287(g) for all county jails (SB 2511), Glacier Act funding (SB 2329), Swamp Sweep enforcement ops, Stone County triple-model 287(g)"
     },
     "NC": {
       "last_researched": "2026-04-12",
@@ -585,6 +793,10 @@
     "VA": {
       "last_researched": "2026-04-12",
       "notes": "Farmville CoreCivic $71.4M, Youngkin\u2192Spanberger reversal, Loudoun 287(g) ban bill, Buckingham school SROs. Deep."
+    },
+    "WA": {
+      "last_researched": "2026-04-12",
+      "notes": "WA sanctuary state under siege: NWIPC (1,575 beds, GEO, Tacoma) with $69M contract extension, 12 hunger strikes in 2026, sexual assault lawsuit; 2,100+ arrests Oct 2024-Mar 2026; Yakima 180/100K highest per capita; DHS pre-solicitation for 1,635-bed new facility; 7 jurisdictions passed moratoriums; AG Bondi threatened criminal prosecution of state officials"
     }
   }
 }
