@@ -1,165 +1,203 @@
 {{ define "main" }}
 <div class="page-content" style="max-width:none; padding:0;">
 
-  {{/* ── Hero ── */}}
-  <div style="background:var(--bg-deep); color:var(--text-light); padding:40px 24px 48px; text-align:center;">
-    <h2 class="serif" style="font-size:36px; font-weight:400; letter-spacing:-0.02em; margin-bottom:8px; max-width:700px; margin-left:auto; margin-right:auto;">
-      Is your county being pitched for ICE detention?
-    </h2>
-    <p style="font-size:14px; color:#8a8892; max-width:560px; margin:0 auto 20px; line-height:1.6;">
-      Tracking {{ .Params.total_entries | default 2232 }} signals across {{ .Params.total_counties | default 986 }} counties.
-      Data for activists, journalists, researchers, and policymakers.
-    </p>
-    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-      <a href="/map/" class="btn" style="background:var(--accent); color:white; border-color:var(--accent); font-size:13px; padding:10px 20px;">
-        Explore the heat map →
-      </a>
-      <a href="/county/" class="btn" style="background:transparent; color:#8a8892; border-color:#353542; font-size:13px; padding:10px 20px;">
-        Search by county
-      </a>
-    </div>
+  {{/* ── Hero: Narrative-driven ── */}}
+  <div style="background:var(--bg-deep); color:var(--text-light); padding:56px 24px 64px; position:relative; overflow:hidden;">
+    <div style="position:absolute; inset:0; background:radial-gradient(ellipse at 30% 20%, rgba(201,59,59,0.06) 0%, transparent 60%), radial-gradient(ellipse at 70% 80%, rgba(212,106,47,0.04) 0%, transparent 50%); pointer-events:none;"></div>
 
-    {{/* ── Audience Routing ── */}}
-    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:8px; max-width:860px; margin:20px auto 0;">
-      <a href="/start/" style="display:block; padding:12px 16px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.08); border-radius:4px; text-decoration:none; transition:all 0.12s;">
-        <div style="font-size:13px; color:var(--text-light); font-weight:500; margin-bottom:2px;">Fighting a proposal?</div>
-        <div style="font-size:11px; color:#6a6878;">5-step action guide for your community</div>
-      </a>
-      <a href="/players/" style="display:block; padding:12px 16px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.08); border-radius:4px; text-decoration:none; transition:all 0.12s;">
-        <div style="font-size:13px; color:var(--text-light); font-weight:500; margin-bottom:2px;">Investigating the industry?</div>
-        <div style="font-size:11px; color:#6a6878;">Contractors, revolving door, money flows</div>
-      </a>
-      <a href="/network/" style="display:block; padding:12px 16px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.08); border-radius:4px; text-decoration:none; transition:all 0.12s;">
-        <div style="font-size:13px; color:var(--text-light); font-weight:500; margin-bottom:2px;">Reporting on detention?</div>
-        <div style="font-size:11px; color:#6a6878;">Network maps, sourced data, conflict matrix</div>
-      </a>
-      <a href="/coverage/" style="display:block; padding:12px 16px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.08); border-radius:4px; text-decoration:none; transition:all 0.12s;">
-        <div style="font-size:13px; color:var(--text-light); font-weight:500; margin-bottom:2px;">Extending the data?</div>
-        <div style="font-size:11px; color:#6a6878;">Coverage gaps, methodology, contribute</div>
-      </a>
-    </div>
-  </div>
+    <div style="max-width:820px; margin:0 auto; position:relative;">
+      <div class="mono" style="font-size:13px; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); margin-bottom:16px; font-weight:500;">Open-Source Investigation</div>
 
-  {{/* ── Key Numbers ── */}}
-  <div style="max-width:1200px; margin:-24px auto 0; padding:0 24px; position:relative; z-index:10;">
-    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(140px, 1fr)); gap:10px;">
-      {{ $stats := slice
-        (dict "val" (.Params.total_counties | default 986) "label" "Counties tracked" "href" "/county/")
-        (dict "val" (.Params.total_facilities | default 495) "label" "IGSA Facilities" "href" "/facilities/")
-        (dict "val" (.Params.total_fights | default 13) "label" "County fights" "href" "/fights/")
-        (dict "val" (.Params.total_contractors | default 25) "label" "Contractors profiled" "href" "/players/contractors/")
-        (dict "val" (.Params.max_score | default 129) "label" "Highest heat score" "href" "/county/")
-      }}
-      {{ range $stats }}
-      <a href="{{ .href }}" class="card" style="text-align:center; padding:14px; text-decoration:none;">
-        <div class="mono" style="font-size:24px; font-weight:500; line-height:1; color:var(--text-primary);">{{ .val }}</div>
-        <div class="mono dim" style="font-size:8px; letter-spacing:0.08em; text-transform:uppercase; margin-top:4px;">{{ .label }}</div>
-      </a>
-      {{ end }}
-    </div>
-  </div>
+      <h2 class="serif" style="font-size:clamp(32px, 5vw, 48px); font-weight:400; letter-spacing:-0.025em; margin-bottom:20px; line-height:1.15;">
+        The U.S. is building a <span style="color:var(--accent);">mass detention system</span> — county by county, contract by contract
+      </h2>
 
-  <div style="max-width:1200px; margin:0 auto; padding:32px 24px 48px;">
+      <p style="font-size:18px; color:rgba(232,230,225,0.7); max-width:640px; line-height:1.7; margin-bottom:32px;">
+        Since January 2025, ICE has signed hundreds of new agreements with local jails, purchased warehouses for conversion into mega-centers, and expanded 287(g) programs from a handful of agencies to
+        thousands. This site tracks it all — {{ .Params.total_entries | default 3992 }} signals across {{ .Params.total_counties | default 1988 }} counties — so communities can see what's coming before it arrives.
+      </p>
 
-    {{/* ── Active County Fights ── */}}
-    <div style="margin-bottom:40px;">
-      <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:12px;">
-        <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase;">Active County Fights</h2>
-        <a href="/fights/" style="font-size:11px; color:var(--accent-warm); text-decoration:none;">View all →</a>
+      <div style="display:flex; gap:14px; flex-wrap:wrap; margin-bottom:40px;">
+        <a href="/map/" class="btn" style="background:var(--accent); color:white; border-color:var(--accent); font-size:16px; padding:14px 28px;">
+          Explore the heat map
+        </a>
+        <a href="/start/" class="btn" style="background:rgba(255,255,255,0.08); color:var(--text-light); border-color:rgba(255,255,255,0.15); font-size:16px; padding:14px 28px;">
+          I'm fighting a proposal
+        </a>
+        <a href="/county/" class="btn" style="background:transparent; color:rgba(232,230,225,0.6); border-color:rgba(255,255,255,0.12); font-size:16px; padding:14px 28px;">
+          Look up my county
+        </a>
       </div>
 
-      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:10px;">
+      {{/* ── Key numbers that tell a story ── */}}
+      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(160px, 1fr)); gap:1px; background:rgba(255,255,255,0.06); border-radius:6px; overflow:hidden;">
+        {{ $story_stats := slice
+          (dict "val" "1,988" "label" "Counties with signals" "detail" "Federal contracts, 287(g), real estate traces")
+          (dict "val" "43" "label" "Community fights tracked" "detail" "Blocked, contested, or won by residents")
+          (dict "val" "80%" "label" "Non-criminal detainees" "detail" "Typical rate across documented facilities")
+          (dict "val" "$1.07B" "label" "Warehouse spending" "detail" "11 warehouse purchases under DHS review")
+        }}
+        {{ range $story_stats }}
+        <div style="background:rgba(10,10,15,0.85); padding:20px 22px;">
+          <div class="mono" style="font-size:28px; font-weight:500; line-height:1; color:var(--text-light); margin-bottom:6px;">{{ .val }}</div>
+          <div style="font-size:15px; color:rgba(232,230,225,0.75); font-weight:500; margin-bottom:3px;">{{ .label }}</div>
+          <div style="font-size:14px; color:rgba(232,230,225,0.45); line-height:1.4;">{{ .detail }}</div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  {{/* ── Active Fights ── */}}
+  <div style="max-width:1200px; margin:0 auto; padding:40px 24px 0;">
+    <div style="margin-bottom:48px;">
+      <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:18px;">
+        <h2 style="font-size:15px; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:var(--accent);">Active County Fights</h2>
+        <a href="/fights/" style="font-size:15px; color:var(--accent-warm); text-decoration:none; font-weight:500;">View all {{ .Params.total_fights | default 43 }} fights &rarr;</a>
+      </div>
+
+      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:14px;">
         {{ range first 4 (where site.RegularPages "Params.entry_type" "county-fight") }}
-        <div class="card" style="border-left:3px solid {{ cond (eq .Params.status "contested") "var(--accent)" "#2a8a5a" }};">
+        <div class="card" style="border-left:4px solid {{ cond (eq .Params.status "contested") "var(--accent)" (cond (eq .Params.status "blocked") "#2a8a5a" (cond (eq .Params.status "litigation") "var(--accent-warm)" "#5a4fa5")) }}; padding:20px 24px;">
           <a href="{{ .RelPermalink }}">
-            <div class="card-title" style="font-size:13px;">{{ .Title }}</div>
-            <div class="card-meta">
-              {{ with .Params.status }}{{ . | title }}{{ end }}
-              {{ with .Params.county }} · {{ . }}, {{ end }}{{ .Params.state }}
+            <div class="card-title" style="font-size:17px; margin-bottom:6px;">{{ .Title }}</div>
+            <div style="font-size:15px; color:var(--text-dim); margin-bottom:8px;">
+              {{ with .Params.status }}<span class="mono" style="font-size:13px; letter-spacing:0.06em; text-transform:uppercase; font-weight:500; {{ if eq . "contested" }}color:var(--accent);{{ else if eq . "blocked" }}color:#2a8a5a;{{ else if eq . "litigation" }}color:var(--accent-warm);{{ end }}">{{ . }}</span> &middot; {{ end }}
+              {{ with .Params.county }}{{ . }}, {{ end }}{{ .Params.state }}
             </div>
+            {{ with .Params.outcome }}
+            <div style="font-size:15px; color:var(--text-secondary); line-height:1.6;">{{ . | truncate 150 }}</div>
+            {{ end }}
           </a>
         </div>
         {{ end }}
       </div>
     </div>
+  </div>
 
-    {{/* ── What This Site Does ── */}}
-    <div style="margin-bottom:40px;">
-      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px;">What This Site Does</h2>
-      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:10px;">
-        <a href="/map/" class="card" style="border-left:3px solid var(--accent); text-decoration:none; padding:14px 18px;">
-          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Heat Map</div>
-          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">{{ .Params.total_counties | default 986 }} counties scored by signal convergence. Interactive, zoomable, with facility overlay.</div>
+  {{/* ── Audience paths: Activists, Journalists, Researchers ── */}}
+  <div style="max-width:1200px; margin:0 auto; padding:0 24px;">
+    <div style="margin-bottom:48px;">
+      <h2 class="serif" style="font-size:28px; font-weight:400; margin-bottom:24px;">Built for the people who need it</h2>
+
+      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:20px;">
+
+        {{/* Activists */}}
+        <a href="/start/" style="display:block; padding:32px 30px; background:white; border:2px solid var(--border); border-radius:6px; text-decoration:none; transition:all 0.15s; border-left:5px solid var(--accent);" onmouseover="this.style.borderColor='var(--accent)'" onmouseout="this.style.borderColor='var(--border)'; this.style.borderLeftColor='var(--accent)'">
+          <div class="mono" style="font-size:13px; letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); margin-bottom:10px; font-weight:500;">For Activists</div>
+          <div style="font-size:22px; font-weight:600; color:var(--text-primary); margin-bottom:10px; line-height:1.3;">Your county is being pitched. Here's how to fight back.</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6; margin-bottom:16px;">
+            A 5-step action guide built from 13 real community fights. Includes FOIA request templates, the consultant playbook they'll use against you, and the counter-tactics that actually work.
+          </div>
+          <div style="font-size:16px; color:var(--accent); font-weight:600;">Start the action guide &rarr;</div>
         </a>
-        <a href="/tactics/" class="card" style="border-left:3px solid var(--accent-warm); text-decoration:none; padding:14px 18px;">
-          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Playbook &amp; Counter-Playbook</div>
-          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">10 consultant tactics and 9 community counter-tactics, sourced from 13 real fights.</div>
+
+        {{/* Journalists */}}
+        <a href="/players/" style="display:block; padding:32px 30px; background:white; border:2px solid var(--border); border-radius:6px; text-decoration:none; transition:all 0.15s; border-left:5px solid var(--accent-warm);" onmouseover="this.style.borderColor='var(--accent-warm)'" onmouseout="this.style.borderColor='var(--border)'; this.style.borderLeftColor='var(--accent-warm)'">
+          <div class="mono" style="font-size:13px; letter-spacing:0.1em; text-transform:uppercase; color:var(--accent-warm); margin-bottom:10px; font-weight:500;">For Journalists</div>
+          <div style="font-size:22px; font-weight:600; color:var(--text-primary); margin-bottom:10px; line-height:1.3;">Sourced data for the stories that need telling.</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6; margin-bottom:16px;">
+            Contractor profiles with contract values. Revolving door network maps. Conflict-of-interest matrix. Death and conditions records. Every claim sourced to government filings, court records, or news reporting.
+          </div>
+          <div style="font-size:16px; color:var(--accent-warm); font-weight:600;">Explore the network &rarr;</div>
         </a>
-        <a href="/foia/" class="card" style="border-left:3px solid var(--signal-commission); text-decoration:none; padding:14px 18px;">
-          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">FOIA Generator</div>
-          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">Ready-to-send public records requests targeting detention pipeline activity in your county.</div>
-        </a>
-        <a href="/facilities/" class="card" style="border-left:3px solid var(--signal-igsa); text-decoration:none; padding:14px 18px;">
-          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Facilities Directory</div>
-          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">{{ .Params.total_facilities | default 495 }} IGSA facilities with operators, contract types, and conditions records.</div>
-        </a>
-        <a href="/network/" class="card" style="border-left:3px solid var(--signal-comms); text-decoration:none; padding:14px 18px;">
-          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Network Visualization</div>
-          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">Revolving door between government and private detention industry. Conflict-of-interest matrix.</div>
-        </a>
-        <a href="/coverage/" class="card" style="border-left:3px solid var(--signal-budget); text-decoration:none; padding:14px 18px;">
-          <div style="font-size:14px; font-weight:500; margin-bottom:3px; color:var(--text-primary);">Coverage Gaps</div>
-          <div style="font-size:12px; color:var(--text-dim); line-height:1.5;">Where investigation is most needed. Adopt a county and help fill the gaps.</div>
+
+        {{/* Researchers */}}
+        <a href="/county/" style="display:block; padding:32px 30px; background:white; border:2px solid var(--border); border-radius:6px; text-decoration:none; transition:all 0.15s; border-left:5px solid var(--signal-commission);" onmouseover="this.style.borderColor='var(--signal-commission)'" onmouseout="this.style.borderColor='var(--border)'; this.style.borderLeftColor='var(--signal-commission)'">
+          <div class="mono" style="font-size:13px; letter-spacing:0.1em; text-transform:uppercase; color:var(--signal-commission); margin-bottom:10px; font-weight:500;">For Researchers</div>
+          <div style="font-size:22px; font-weight:600; color:var(--text-primary); margin-bottom:10px; line-height:1.3;">County-level data on the detention expansion.</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6; margin-bottom:16px;">
+            {{ .Params.total_counties | default 1988 }} counties scored by signal convergence. IGSA contracts, 287(g) agreements, USAspending data, budget distress indicators. Open data, CC-BY-SA licensed, with full methodology documentation.
+          </div>
+          <div style="font-size:16px; color:var(--signal-commission); font-weight:600;">Browse county data &rarr;</div>
         </a>
       </div>
     </div>
+  </div>
+
+  {{/* ── Tools section ── */}}
+  <div style="background:var(--bg-content-alt); border-top:1px solid var(--border); border-bottom:1px solid var(--border); padding:48px 24px;">
+    <div style="max-width:1200px; margin:0 auto;">
+      <h2 class="serif" style="font-size:28px; font-weight:400; margin-bottom:8px;">Tools</h2>
+      <p style="font-size:17px; color:var(--text-secondary); margin-bottom:28px; max-width:700px;">Interactive resources for investigation and action.</p>
+
+      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:16px;">
+        <a href="/map/" class="card" style="border-left:4px solid var(--accent); text-decoration:none; padding:24px 26px;">
+          <div style="font-size:19px; font-weight:600; margin-bottom:6px; color:var(--text-primary);">Heat Map</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6;">{{ .Params.total_counties | default 1988 }} counties scored by signal convergence. Interactive, zoomable, with facility overlay.</div>
+        </a>
+        <a href="/tactics/" class="card" style="border-left:4px solid var(--accent-warm); text-decoration:none; padding:24px 26px;">
+          <div style="font-size:19px; font-weight:600; margin-bottom:6px; color:var(--text-primary);">Playbook &amp; Counter-Playbook</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6;">10 consultant tactics and 9 community counter-tactics, sourced from real fights.</div>
+        </a>
+        <a href="/foia/" class="card" style="border-left:4px solid var(--signal-commission); text-decoration:none; padding:24px 26px;">
+          <div style="font-size:19px; font-weight:600; margin-bottom:6px; color:var(--text-primary);">FOIA Generator</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6;">Ready-to-send public records requests targeting detention pipeline activity in your county.</div>
+        </a>
+        <a href="/facilities/" class="card" style="border-left:4px solid var(--signal-igsa); text-decoration:none; padding:24px 26px;">
+          <div style="font-size:19px; font-weight:600; margin-bottom:6px; color:var(--text-primary);">Facilities Directory</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6;">{{ .Params.total_facilities | default 1189 }} IGSA facilities with operators, contract types, and conditions records.</div>
+        </a>
+        <a href="/network/" class="card" style="border-left:4px solid var(--signal-comms); text-decoration:none; padding:24px 26px;">
+          <div style="font-size:19px; font-weight:600; margin-bottom:6px; color:var(--text-primary);">Network Visualization</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6;">Revolving door between government and the private detention industry.</div>
+        </a>
+        <a href="/coverage/" class="card" style="border-left:4px solid var(--signal-budget); text-decoration:none; padding:24px 26px;">
+          <div style="font-size:19px; font-weight:600; margin-bottom:6px; color:var(--text-primary);">Coverage Gaps</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6;">Where investigation is most needed. Adopt a county and help fill the gaps.</div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div style="max-width:1200px; margin:0 auto; padding:40px 24px 48px;">
 
     {{/* ── Two-column: Top Counties + Key Players ── */}}
-    <div style="display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-bottom:40px;">
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:32px; margin-bottom:48px;">
 
       <div>
-        <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:12px;">
-          <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase;">Hottest Counties</h2>
-          <a href="/county/" style="font-size:11px; color:var(--accent-warm); text-decoration:none;">View all →</a>
+        <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:16px;">
+          <h2 style="font-size:15px; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:var(--text-secondary);">Hottest Counties</h2>
+          <a href="/county/" style="font-size:15px; color:var(--accent-warm); text-decoration:none; font-weight:500;">View all &rarr;</a>
         </div>
         {{ range first 8 (sort (where site.RegularPages "Type" "county") ".Params.score" "desc") }}
-        <a href="{{ .RelPermalink }}" style="display:block; padding:6px 0; border-bottom:1px solid var(--border); text-decoration:none;">
-          <div style="display:flex; align-items:baseline; gap:8px;">
-            <span class="score-pill {{ cond (ge .Params.score 70.0) "score-hot" "score-warm" }}" style="font-size:12px; min-width:36px; text-align:center;">{{ .Params.score }}</span>
-            <span style="font-size:13px; color:var(--text-primary); flex:1;">{{ .Title }}</span>
-            <span class="mono dim" style="font-size:10px;">{{ .Params.signal_types }} signals</span>
+        <a href="{{ .RelPermalink }}" style="display:block; padding:10px 0; border-bottom:1px solid var(--border); text-decoration:none;">
+          <div style="display:flex; align-items:baseline; gap:10px;">
+            <span class="score-pill {{ cond (ge .Params.score 70.0) "score-hot" "score-warm" }}" style="min-width:42px; text-align:center;">{{ .Params.score }}</span>
+            <span style="font-size:16px; color:var(--text-primary); flex:1;">{{ .Title }}</span>
+            <span class="mono" style="font-size:13px; color:var(--text-dim);">{{ .Params.signal_types }} signals</span>
           </div>
           {{ with .Params.auto_summary }}
-          <div style="font-size:11px; color:var(--text-dim); margin-top:2px; padding-left:52px; line-height:1.4;">{{ . }}</div>
+          <div style="font-size:15px; color:var(--text-dim); margin-top:4px; padding-left:52px; line-height:1.5;">{{ . }}</div>
           {{ end }}
         </a>
         {{ end }}
       </div>
 
       <div>
-        <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:12px;">
-          <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase;">Key Players</h2>
-          <a href="/players/" style="font-size:11px; color:var(--accent-warm); text-decoration:none;">View all →</a>
+        <div style="display:flex; justify-content:space-between; align-items:baseline; margin-bottom:16px;">
+          <h2 style="font-size:15px; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:var(--text-secondary);">Key Players</h2>
+          <a href="/players/" style="font-size:15px; color:var(--accent-warm); text-decoration:none; font-weight:500;">View all &rarr;</a>
         </div>
         {{ range first 6 (where site.RegularPages "Params.entry_type" "contractor") }}
-        <div class="card" style="padding:8px 12px; margin-bottom:6px;">
+        <div class="card" style="padding:14px 18px; margin-bottom:8px;">
           <a href="{{ .RelPermalink }}">
-            <div style="display:flex; align-items:center; gap:6px;">
+            <div style="display:flex; align-items:center; gap:8px;">
               <span class="signal-dot" style="background:#8a5a2a;"></span>
-              <span class="card-title" style="font-size:12.5px; margin:0;">{{ .Title }}</span>
+              <span class="card-title" style="font-size:17px; margin:0;">{{ .Title }}</span>
             </div>
             {{ with .Params.summary }}
-            <div style="font-size:11px; color:var(--text-dim); margin-top:2px; padding-left:13px; line-height:1.4;">{{ . }}</div>
+            <div style="font-size:15px; color:var(--text-dim); margin-top:4px; padding-left:15px; line-height:1.5;">{{ . }}</div>
             {{ end }}
           </a>
         </div>
         {{ end }}
         {{ range first 3 (where site.RegularPages "Params.entry_type" "person") }}
-        <div class="card" style="padding:8px 12px; margin-bottom:6px;">
+        <div class="card" style="padding:14px 18px; margin-bottom:8px;">
           <a href="{{ .RelPermalink }}">
-            <div style="display:flex; align-items:center; gap:6px;">
-              <span class="signal-dot" style="background:#5a2a8a;"></span>
-              <span class="card-title" style="font-size:12.5px; margin:0;">{{ .Title }}</span>
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span class="signal-dot" style="background:#5a4fa5;"></span>
+              <span class="card-title" style="font-size:17px; margin:0;">{{ .Title }}</span>
             </div>
           </a>
         </div>
@@ -169,37 +207,46 @@
     </div>
 
     {{/* ── Read the Reporting ── */}}
-    <div style="margin-bottom:40px;">
-      <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px;">Read the Reporting</h2>
-      <div style="padding:20px 24px; background:var(--bg-deep); border-radius:5px; color:var(--text-light);">
-        <p class="serif" style="font-size:20px; font-weight:400; margin-bottom:8px; letter-spacing:-0.01em;">
-          The investigation behind the data
-        </p>
-        <p style="font-size:13.5px; color:rgba(232,230,225,0.6); line-height:1.7; margin-bottom:14px; max-width:600px;">
-          This site is the data layer for an ongoing investigation by The RAMM.
-          The reporting traces the detention pipeline from consultant pitch decks
-          to commission votes to warehouse purchases — and names the people profiting.
-        </p>
-        <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" class="btn" style="background:var(--accent); color:white; border-color:var(--accent); font-size:13px;" target="_blank" rel="noopener">
-          Read "The Detention Architecture" →
-        </a>
+    <div style="margin-bottom:48px;">
+      <div style="padding:36px 36px; background:var(--bg-deep); border-radius:6px; color:var(--text-light); position:relative; overflow:hidden;">
+        <div style="position:absolute; inset:0; background:radial-gradient(ellipse at 80% 50%, rgba(212,106,47,0.08) 0%, transparent 60%); pointer-events:none;"></div>
+        <div style="position:relative;">
+          <div class="mono" style="font-size:13px; letter-spacing:0.1em; text-transform:uppercase; color:var(--accent-warm); margin-bottom:14px;">From The RAMM</div>
+          <p class="serif" style="font-size:28px; font-weight:400; margin-bottom:14px; letter-spacing:-0.01em; line-height:1.3;">
+            The investigation behind the data
+          </p>
+          <p style="font-size:17px; color:rgba(232,230,225,0.65); line-height:1.7; margin-bottom:22px; max-width:620px;">
+            This site is the data layer for an ongoing investigation by The RAMM.
+            The reporting traces the detention pipeline from consultant pitch decks
+            to commission votes to warehouse purchases — and names the people profiting.
+          </p>
+          <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" class="btn" style="background:var(--accent-warm); color:white; border-color:var(--accent-warm); font-size:16px;" target="_blank" rel="noopener">
+            Read "The Detention Architecture" &rarr;
+          </a>
+        </div>
       </div>
     </div>
 
     {{/* ── Call to Action ── */}}
-    <div style="text-align:center; padding:32px 24px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border);">
-      <h2 class="serif" style="font-size:22px; font-weight:400; margin-bottom:6px;">Help build the early warning system</h2>
-      <p style="font-size:13px; color:var(--text-secondary); margin-bottom:16px; max-width:500px; margin-left:auto; margin-right:auto;">
+    <div style="text-align:center; padding:44px 36px; background:white; border-radius:6px; border:2px solid var(--border);">
+      <h2 class="serif" style="font-size:28px; font-weight:400; margin-bottom:12px;">Help build the early warning system</h2>
+      <p style="font-size:17px; color:var(--text-secondary); margin-bottom:24px; max-width:580px; margin-left:auto; margin-right:auto; line-height:1.6;">
         Most counties have only automated signals. Local knowledge makes the difference.
         Submit tips, investigate your county, or contribute data directly.
       </p>
-      <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-        <a href="/contribute/" class="btn btn-accent">How to contribute →</a>
-        <a href="/foia/" class="btn">FOIA Generator</a>
-        <a href="https://github.com/markramm/detention-pipeline" class="btn" target="_blank" rel="noopener">View on GitHub</a>
+      <div style="display:flex; gap:14px; justify-content:center; flex-wrap:wrap;">
+        <a href="/contribute/" class="btn btn-accent" style="font-size:16px; padding:14px 28px;">How to contribute &rarr;</a>
+        <a href="/foia/" class="btn" style="font-size:16px; padding:14px 28px;">FOIA Generator</a>
+        <a href="https://github.com/markramm/detention-pipeline" class="btn" style="font-size:16px; padding:14px 28px;" target="_blank" rel="noopener">View on GitHub</a>
       </div>
     </div>
 
   </div>
 </div>
+
+<style>
+@media (max-width: 768px) {
+  [style*="grid-template-columns:1fr 1fr"] { grid-template-columns: 1fr !important; }
+}
+</style>
 {{ end }}

@@ -18,203 +18,58 @@
 </div>
 
 <div class="page-content">
-  <div style="padding-top: 24px; margin-bottom: 32px;">
+  <div style="padding-top:28px; margin-bottom:36px;">
     <div style="display:flex; align-items:baseline; gap:16px; flex-wrap:wrap;">
-      <h1 class="serif" style="font-size:32px; font-weight:400; letter-spacing:-0.02em;">{{ .Title }}</h1>
-      <span class="mono dim" style="font-size:12px;">FIPS {{ $fips }}</span>
+      <h1 class="serif" style="font-size:36px; font-weight:400; letter-spacing:-0.02em;">{{ .Title }}</h1>
+      <span class="mono dim" style="font-size:15px;">FIPS {{ $fips }}</span>
     </div>
 
-    <div style="display:flex; gap:24px; margin-top:12px; flex-wrap:wrap; align-items:center;">
-      <div>
-        <div class="mono" style="font-size:42px; font-weight:500; line-height:1; color:{{ cond (ge $score 70) "var(--accent-hot)" (cond (ge $score 40) "var(--accent-warm)" "var(--text-secondary)") }};">{{ $score }}</div>
-        <div class="mono dim" style="font-size:9px; letter-spacing:0.1em; text-transform:uppercase; margin-top:2px;">Heat Score</div>
+    <div style="display:flex; gap:28px; margin-top:16px; flex-wrap:wrap; align-items:flex-start;">
+      <div style="flex-shrink:0;">
+        <div class="mono" style="font-size:48px; font-weight:500; line-height:1; color:{{ cond (ge $score 70) "var(--accent-hot)" (cond (ge $score 40) "var(--accent-warm)" "var(--text-secondary)") }};">{{ $score }}</div>
+        <div class="mono dim" style="font-size:13px; letter-spacing:0.1em; text-transform:uppercase; margin-top:4px;">Heat Score</div>
       </div>
-      {{ with .Params.auto_summary }}
-      <p style="font-size:15px; color:var(--text-primary); line-height:1.6; margin-top:10px; max-width:540px;">
-        {{ . }}
-      </p>
-      {{ end }}
-      <div style="font-size:14px; color:var(--text-secondary); line-height:1.6; max-width:520px;">
-        {{ if le $rank 3 }}
-        This county has <strong>{{ $sigTypes }} independent signal types</strong> — <strong>#{{ $rank }} nationally</strong> out of {{ $total }} tracked counties. Multiple converging indicators suggest active pipeline activity.
-        {{ else if ge $pct 95 }}
-        This county has <strong>{{ $sigTypes }} independent signal types</strong>, placing it in the <strong>top {{ sub 100 $pct }}%</strong> nationally (#{{ $rank }} of {{ $total }}). Multiple converging indicators suggest active pipeline activity.
-        {{ else if ge $pct 75 }}
-        This county has <strong>{{ $sigTypes }} signal types</strong>, ranking <strong>#{{ $rank }} of {{ $total }}</strong> tracked counties. The convergence of multiple independent signals warrants attention.
-        {{ else if ge $pct 50 }}
-        This county has <strong>{{ $sigTypes }} signal types</strong>, ranking #{{ $rank }} of {{ $total }} tracked counties.
-        {{ else }}
-        This county has signals detected but ranks in the lower half of tracked counties.
+      <div style="flex:1; min-width:280px;">
+        {{ with .Params.auto_summary }}
+        <p style="font-size:17px; color:var(--text-primary); line-height:1.6; margin-bottom:10px; max-width:560px;">
+          {{ . }}
+        </p>
         {{ end }}
-        <a href="/methodology/" style="color:var(--accent-warm); text-decoration:none; font-size:12px;">How is this calculated?</a>
+        <div style="font-size:16px; color:var(--text-secondary); line-height:1.6; max-width:540px;">
+          {{ if le $rank 3 }}
+          This county has <strong>{{ $sigTypes }} independent signal types</strong> &mdash; <strong>#{{ $rank }} nationally</strong> out of {{ $total }} tracked counties. Multiple converging indicators suggest active pipeline activity.
+          {{ else if ge $pct 95 }}
+          This county has <strong>{{ $sigTypes }} independent signal types</strong>, placing it in the <strong>top {{ sub 100 $pct }}%</strong> nationally (#{{ $rank }} of {{ $total }}). Multiple converging indicators suggest active pipeline activity.
+          {{ else if ge $pct 75 }}
+          This county has <strong>{{ $sigTypes }} signal types</strong>, ranking <strong>#{{ $rank }} of {{ $total }}</strong> tracked counties. The convergence of multiple independent signals warrants attention.
+          {{ else if ge $pct 50 }}
+          This county has <strong>{{ $sigTypes }} signal types</strong>, ranking #{{ $rank }} of {{ $total }} tracked counties.
+          {{ else }}
+          This county has signals detected but ranks in the lower half of tracked counties.
+          {{ end }}
+          <a href="/methodology/" style="color:var(--accent-warm); text-decoration:none; font-size:14px;">How is this calculated?</a>
+        </div>
       </div>
     </div>
 
-    <div style="display:flex; gap:8px; margin-top:12px; flex-wrap:wrap; align-items:center;">
+    <div style="display:flex; gap:10px; margin-top:16px; flex-wrap:wrap; align-items:center;">
       {{ if eq $coverage "well-researched" }}
-      <span class="signal-badge" style="background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;" title="Multiple human-researched signal types present — commission activity, news coverage, or investigative findings">Well researched</span>
+      <span class="signal-badge" title="Multiple human-researched signal types present">Well researched</span>
       {{ else if eq $coverage "partially-researched" }}
-      <span class="signal-badge" style="background:rgba(196,144,37,0.08); border-color:rgba(196,144,37,0.2); color:#c49025;" title="At least one human-researched signal plus automated data. More investigation could reveal additional signals.">Partially researched</span>
+      <span class="signal-badge" style="background:rgba(196,144,37,0.08); border-color:rgba(196,144,37,0.2); color:#c49025;" title="At least one human-researched signal plus automated data">Partially researched</span>
       {{ else }}
-      <span class="signal-badge" style="background:rgba(90,106,122,0.08); border-color:rgba(90,106,122,0.2); color:#5a6a7a;" title="Only automated signals (287(g), IGSA, ANC contracts, USDA budget data). No one has investigated on the ground yet.">Automated signals only — help investigate</span>
+      <span class="signal-badge" style="background:rgba(90,106,122,0.08); border-color:rgba(90,106,122,0.2); color:#5a6a7a;" title="Only automated signals — no one has investigated on the ground yet">Automated signals only &mdash; help investigate</span>
       {{ end }}
     </div>
 
-    <div style="display:flex; gap:8px; margin-top:12px; flex-wrap:wrap;">
-      <a href="{{ $repoURL }}/issues/new?template=tip.yml&county={{ .Title | urlquery }}&state={{ $state }}" class="btn btn-accent btn-sm">Report a tip about this county</a>
-      <a href="/map/" class="btn btn-sm">View on map</a>
-      {{ with $state }}<a href="/state/{{ lower . }}/" class="btn btn-sm">All {{ . }} counties</a>{{ end }}
+    <div style="display:flex; gap:10px; margin-top:16px; flex-wrap:wrap;">
+      <a href="{{ $repoURL }}/issues/new?template=tip.yml&county={{ .Title | urlquery }}&state={{ $state }}" class="btn btn-accent">Report a tip about this county</a>
+      <a href="/map/" class="btn">View on map</a>
+      {{ with $state }}<a href="/state/{{ lower . }}/" class="btn">All {{ . }} counties</a>{{ end }}
     </div>
   </div>
 
-  {{/* ── Research Guide: show what's missing and how to investigate ── */}}
-  {{ if ne $coverage "well-researched" }}
-
-  {{/* Determine which human-researchable signal types are present */}}
-  {{ $hasCommission := false }}{{ $hasComms := false }}{{ $hasSheriff := false }}
-  {{ $hasRealEstate := false }}{{ $hasJob := false }}{{ $hasLegislative := false }}
-  {{ range $entries }}
-    {{ if eq .Params.entry_type "commission-activity" }}{{ $hasCommission = true }}{{ end }}
-    {{ if eq .Params.entry_type "comms-discipline" }}{{ $hasComms = true }}{{ end }}
-    {{ if eq .Params.entry_type "sheriff-network" }}{{ $hasSheriff = true }}{{ end }}
-    {{ if eq .Params.entry_type "real-estate-trace" }}{{ $hasRealEstate = true }}{{ end }}
-    {{ if eq .Params.entry_type "job-posting" }}{{ $hasJob = true }}{{ end }}
-    {{ if eq .Params.entry_type "legislative-trace" }}{{ $hasLegislative = true }}{{ end }}
-  {{ end }}
-
-  <div style="margin-bottom:24px; padding:20px 24px; background:var(--bg-content-alt); border-radius:5px; border-left:3px solid {{ cond (eq $coverage "unresearched") "var(--accent)" "#c49025" }};">
-    <h3 style="font-size:14px; font-weight:600; margin-bottom:4px;">
-      {{ if eq $coverage "unresearched" }}This county needs investigation{{ else }}More research needed{{ end }}
-    </h3>
-    <p style="font-size:12.5px; color:var(--text-secondary); line-height:1.6; margin-bottom:14px;">
-      {{ if eq $coverage "unresearched" }}
-      We only have automated signals here — no one has investigated on the ground yet.
-      {{ else }}
-      This county has some human research, but key areas haven't been checked yet.
-      {{ end }}
-      Each item below is a specific gap you can help fill. Even one check makes a difference.
-    </p>
-
-    <div style="display:grid; gap:8px; margin-bottom:14px;">
-
-      {{ if not $hasCommission }}
-      <div style="padding:10px 14px; background:white; border-radius:4px; border:1px solid var(--border);">
-        <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
-          <span class="signal-dot" style="background:var(--signal-commission);"></span>
-          <span style="font-size:12px; font-weight:600;">Commission Activity</span>
-          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">missing</span>
-        </div>
-        <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
-          Search your county commission agenda archive and meeting minutes for keywords:
-          <span class="mono" style="font-size:10px; background:rgba(0,0,0,0.05); padding:1px 4px; border-radius:2px;">IGSA</span>
-          <span class="mono" style="font-size:10px; background:rgba(0,0,0,0.05); padding:1px 4px; border-radius:2px;">ICE</span>
-          <span class="mono" style="font-size:10px; background:rgba(0,0,0,0.05); padding:1px 4px; border-radius:2px;">detention</span>
-          <span class="mono" style="font-size:10px; background:rgba(0,0,0,0.05); padding:1px 4px; border-radius:2px;">bed capacity</span>
-          <span class="mono" style="font-size:10px; background:rgba(0,0,0,0.05); padding:1px 4px; border-radius:2px;">federal partnership</span>.
-          Check for closed-session items about "real estate" or "economic development" — the pitch often happens behind closed doors.
-          Many counties publish agendas at <span class="mono" style="font-size:10px;">legistar.com</span> or their county website.
-        </div>
-      </div>
-      {{ end }}
-
-      {{ if not $hasSheriff }}
-      <div style="padding:10px 14px; background:white; border-radius:4px; border:1px solid var(--border);">
-        <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
-          <span class="signal-dot" style="background:var(--signal-sheriff);"></span>
-          <span style="font-size:12px; font-weight:600;">Sheriff Network Activity</span>
-          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">missing</span>
-        </div>
-        <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
-          Has your sheriff attended conferences hosted by detention consultants or industry groups?
-          Check your sheriff's public statements, social media, and press releases for mentions of immigration enforcement partnerships.
-          Look for attendance at National Sheriffs' Association events or meetings with <a href="/players/contractors/sabot-consulting/" style="color:var(--accent-warm);">Sabot Consulting</a> or similar firms.
-        </div>
-      </div>
-      {{ end }}
-
-      {{ if not $hasComms }}
-      <div style="padding:10px 14px; background:white; border-radius:4px; border:1px solid var(--border);">
-        <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
-          <span class="signal-dot" style="background:var(--signal-comms);"></span>
-          <span style="font-size:12px; font-weight:600;">Communications Discipline</span>
-          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">missing</span>
-        </div>
-        <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
-          Look for signs of coordinated messaging from county officials about detention: identical talking points, references to NDAs,
-          opposition framed as "uninformed" or "outside agitators," deflection from public comment, or unusual restrictions on public records.
-          Check local news coverage for quotes from officials that echo consultant language like "revenue opportunity" or "bed guarantee."
-        </div>
-      </div>
-      {{ end }}
-
-      {{ if not $hasRealEstate }}
-      <div style="padding:10px 14px; background:white; border-radius:4px; border:1px solid var(--border);">
-        <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
-          <span class="signal-dot" style="background:var(--signal-realestate);"></span>
-          <span style="font-size:12px; font-weight:600;">Real Estate Trace</span>
-          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">missing</span>
-        </div>
-        <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
-          Check county property records for recent purchases of large industrial buildings, warehouses, or former retail distribution centers.
-          Look for federal government (GSA/DHS) property acquisitions. Cross-reference with commercial real estate listings
-          for buildings over 100,000 sq ft near county jails or existing correctional facilities.
-        </div>
-      </div>
-      {{ end }}
-
-      {{ if not $hasJob }}
-      <div style="padding:10px 14px; background:white; border-radius:4px; border:1px solid var(--border);">
-        <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
-          <span class="signal-dot" style="background:var(--signal-job);"></span>
-          <span style="font-size:12px; font-weight:600;">Job Posting</span>
-          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">missing</span>
-        </div>
-        <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
-          Search LinkedIn, Indeed, and company career pages for detention-related job postings in {{ with $state }}{{ . }}{{ end }}.
-          Look for positions mentioning "ICE compliance," "detention operations," "facility activation," or job titles at known contractors
-          like <a href="/players/contractors/" style="color:var(--accent-warm);">Sabot Consulting, MVM, Ahtna</a>.
-          Postings for correctional officers or facility staff near this county could signal an upcoming facility.
-        </div>
-      </div>
-      {{ end }}
-
-      {{ if not $hasLegislative }}
-      <div style="padding:10px 14px; background:white; border-radius:4px; border:1px solid var(--border);">
-        <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
-          <span class="signal-dot" style="background:var(--signal-legislative);"></span>
-          <span style="font-size:12px; font-weight:600;">Legislative Trace</span>
-          <span class="signal-badge" style="font-size:8px; background:rgba(201,59,59,0.06); border-color:rgba(201,59,59,0.15); color:var(--accent);">missing</span>
-        </div>
-        <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.6;">
-          Check your state legislature for bills related to immigration detention, IGSA agreements, or county authority to contract
-          with federal agencies. Some states have introduced bills to block detention agreements; others have expanded authority.
-          Search your state's bill tracker for keywords: <span class="mono" style="font-size:10px; background:rgba(0,0,0,0.05); padding:1px 4px; border-radius:2px;">detention</span>
-          <span class="mono" style="font-size:10px; background:rgba(0,0,0,0.05); padding:1px 4px; border-radius:2px;">IGSA</span>
-          <span class="mono" style="font-size:10px; background:rgba(0,0,0,0.05); padding:1px 4px; border-radius:2px;">immigration enforcement</span>.
-        </div>
-      </div>
-      {{ end }}
-
-    </div>
-
-    <div style="padding:12px 16px; background:white; border-radius:4px; border:1px solid var(--border); margin-bottom:14px;">
-      <h4 style="font-size:11px; font-weight:600; margin-bottom:6px; text-transform:uppercase; letter-spacing:0.04em; color:var(--text-dim);">How to submit findings</h4>
-      <ol style="font-size:11.5px; color:var(--text-secondary); line-height:1.8; padding-left:18px; margin:0;">
-        <li>Gather a source URL, date, and brief description of what you found</li>
-        <li>Submit via the tip form (easiest) or add an entry directly to the GitHub repo</li>
-        <li>We verify every submission and add it to the system — your county's coverage depth improves</li>
-      </ol>
-    </div>
-
-    <div style="display:flex; gap:8px; flex-wrap:wrap;">
-      <a href="/foia/" class="btn btn-sm">Generate a FOIA request →</a>
-      <a href="{{ $repoURL }}/issues/new?template=tip.yml&county={{ .Title | urlquery }}&state={{ $state }}" class="btn btn-accent btn-sm">Submit what you find →</a>
-      <a href="/coverage/" class="btn btn-sm">View all coverage gaps</a>
-    </div>
-  </div>
-  {{ end }}
-
-  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+  <h2 style="font-size:15px; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:var(--text-secondary); margin-bottom:14px; padding-bottom:8px; border-bottom:2px solid var(--border);">
     Signal Breakdown
   </h2>
 
@@ -236,11 +91,11 @@
       "legislative-trace" (dict "label" "Legislative Trace" "color" "var(--signal-legislative)" "anchor" "signal-legislative")
     ) $stype }}
 
-    <div style="margin-bottom:20px;">
-      <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+    <div style="margin-bottom:24px;">
+      <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
         <span class="signal-dot" style="background:{{ $meta.color }};"></span>
-        <a href="/methodology/#{{ $meta.anchor }}" style="font-size:14px; font-weight:500; color:inherit; text-decoration:none; border-bottom:1px dotted var(--text-secondary);">{{ $meta.label }}</a>
-        <span class="mono dim" style="font-size:11px;">{{ len $typeEntries }} {{ if eq (len $typeEntries) 1 }}entry{{ else }}entries{{ end }}</span>
+        <a href="/methodology/#{{ $meta.anchor }}" style="font-size:17px; font-weight:500; color:inherit; text-decoration:none; border-bottom:1px dotted var(--text-secondary);">{{ $meta.label }}</a>
+        <span class="mono dim" style="font-size:14px;">{{ len $typeEntries }} {{ if eq (len $typeEntries) 1 }}entry{{ else }}entries{{ end }}</span>
       </div>
 
       {{ range $typeEntries }}
@@ -248,11 +103,11 @@
         <a href="{{ .RelPermalink }}">
           <div class="card-title">{{ .Title }}</div>
           {{ with .Params.summary }}
-          <div style="font-size:12.5px; color:var(--text-secondary); margin-top:2px; line-height:1.5;">{{ . }}</div>
+          <div style="font-size:15px; color:var(--text-secondary); margin-top:4px; line-height:1.6;">{{ . }}</div>
           {{ end }}
-          <div class="card-meta" style="margin-top:3px;">
-            {{ with .Params.county }}{{ . }} · {{ end }}{{ .Params.state }}
-            {{ with .Params.fips }} · FIPS {{ . }}{{ end }}
+          <div class="card-meta" style="margin-top:6px;">
+            {{ with .Params.county }}{{ . }} &middot; {{ end }}{{ .Params.state }}
+            {{ with .Params.fips }} &middot; FIPS {{ . }}{{ end }}
           </div>
         </a>
       </div>
@@ -262,9 +117,95 @@
   {{ end }}
 
   {{ if not $entries }}
-  <p style="color:var(--text-dim); font-style:italic; padding:20px 0;">
+  <p style="color:var(--text-dim); font-style:italic; padding:20px 0; font-size:16px;">
     No individual entries found for this county. The heat score may be derived from state-level signals.
   </p>
+  {{ end }}
+
+  {{/* ── Help Investigate (compact CTA, after signal data) ── */}}
+  {{ if ne $coverage "well-researched" }}
+
+  {{ $hasCommission := false }}{{ $hasComms := false }}{{ $hasSheriff := false }}
+  {{ $hasRealEstate := false }}{{ $hasJob := false }}{{ $hasLegislative := false }}
+  {{ range $entries }}
+    {{ if eq .Params.entry_type "commission-activity" }}{{ $hasCommission = true }}{{ end }}
+    {{ if eq .Params.entry_type "comms-discipline" }}{{ $hasComms = true }}{{ end }}
+    {{ if eq .Params.entry_type "sheriff-network" }}{{ $hasSheriff = true }}{{ end }}
+    {{ if eq .Params.entry_type "real-estate-trace" }}{{ $hasRealEstate = true }}{{ end }}
+    {{ if eq .Params.entry_type "job-posting" }}{{ $hasJob = true }}{{ end }}
+    {{ if eq .Params.entry_type "legislative-trace" }}{{ $hasLegislative = true }}{{ end }}
+  {{ end }}
+
+  <div style="margin-top:32px; padding:24px 28px; background:var(--bg-content-alt); border-radius:6px; border:1px solid var(--border);">
+    <div style="display:flex; align-items:baseline; justify-content:space-between; flex-wrap:wrap; gap:8px; margin-bottom:16px;">
+      <h3 style="font-size:17px; font-weight:600;">Help investigate this county</h3>
+      <a href="{{ $repoURL }}/issues/new?template=tip.yml&county={{ .Title | urlquery }}&state={{ $state }}" class="btn btn-accent btn-sm">Submit a tip &rarr;</a>
+    </div>
+
+    <p style="font-size:15px; color:var(--text-secondary); line-height:1.5; margin-bottom:16px;">
+      {{ if eq $coverage "unresearched" }}Only automated signals so far &mdash; no one has investigated on the ground.{{ else }}Some research exists, but these gaps remain.{{ end }}
+      Pick one and check it:
+    </p>
+
+    <table style="width:100%; border-collapse:collapse; font-size:15px;">
+      {{ if not $hasCommission }}
+      <tr style="border-bottom:1px solid var(--border);">
+        <td style="padding:10px 0; width:28px; vertical-align:top;"><span class="signal-dot" style="background:var(--signal-commission); margin-top:4px;"></span></td>
+        <td style="padding:10px 8px; font-weight:500; white-space:nowrap; vertical-align:top;">Commission</td>
+        <td style="padding:10px 0; color:var(--text-secondary);">Search county meeting minutes for
+          <span class="mono" style="font-size:13px; background:rgba(0,0,0,0.05); padding:1px 5px; border-radius:2px;">IGSA</span>
+          <span class="mono" style="font-size:13px; background:rgba(0,0,0,0.05); padding:1px 5px; border-radius:2px;">ICE</span>
+          <span class="mono" style="font-size:13px; background:rgba(0,0,0,0.05); padding:1px 5px; border-radius:2px;">detention</span>
+        </td>
+      </tr>
+      {{ end }}
+      {{ if not $hasSheriff }}
+      <tr style="border-bottom:1px solid var(--border);">
+        <td style="padding:10px 0; width:28px; vertical-align:top;"><span class="signal-dot" style="background:var(--signal-sheriff); margin-top:4px;"></span></td>
+        <td style="padding:10px 8px; font-weight:500; white-space:nowrap; vertical-align:top;">Sheriff</td>
+        <td style="padding:10px 0; color:var(--text-secondary);">Check sheriff's statements and social media for ICE partnership mentions</td>
+      </tr>
+      {{ end }}
+      {{ if not $hasComms }}
+      <tr style="border-bottom:1px solid var(--border);">
+        <td style="padding:10px 0; width:28px; vertical-align:top;"><span class="signal-dot" style="background:var(--signal-comms); margin-top:4px;"></span></td>
+        <td style="padding:10px 8px; font-weight:500; white-space:nowrap; vertical-align:top;">Comms</td>
+        <td style="padding:10px 0; color:var(--text-secondary);">Look for coordinated talking points or NDA references from county officials</td>
+      </tr>
+      {{ end }}
+      {{ if not $hasRealEstate }}
+      <tr style="border-bottom:1px solid var(--border);">
+        <td style="padding:10px 0; width:28px; vertical-align:top;"><span class="signal-dot" style="background:var(--signal-realestate); margin-top:4px;"></span></td>
+        <td style="padding:10px 8px; font-weight:500; white-space:nowrap; vertical-align:top;">Real estate</td>
+        <td style="padding:10px 0; color:var(--text-secondary);">Check property records for large warehouse or industrial purchases by GSA/DHS</td>
+      </tr>
+      {{ end }}
+      {{ if not $hasJob }}
+      <tr style="border-bottom:1px solid var(--border);">
+        <td style="padding:10px 0; width:28px; vertical-align:top;"><span class="signal-dot" style="background:var(--signal-job); margin-top:4px;"></span></td>
+        <td style="padding:10px 8px; font-weight:500; white-space:nowrap; vertical-align:top;">Jobs</td>
+        <td style="padding:10px 0; color:var(--text-secondary);">Search LinkedIn/Indeed for "ICE compliance" or "detention operations" in {{ with $state }}{{ . }}{{ end }}</td>
+      </tr>
+      {{ end }}
+      {{ if not $hasLegislative }}
+      <tr>
+        <td style="padding:10px 0; width:28px; vertical-align:top;"><span class="signal-dot" style="background:var(--signal-legislative); margin-top:4px;"></span></td>
+        <td style="padding:10px 8px; font-weight:500; white-space:nowrap; vertical-align:top;">Legislative</td>
+        <td style="padding:10px 0; color:var(--text-secondary);">Search state bill tracker for
+          <span class="mono" style="font-size:13px; background:rgba(0,0,0,0.05); padding:1px 5px; border-radius:2px;">detention</span>
+          <span class="mono" style="font-size:13px; background:rgba(0,0,0,0.05); padding:1px 5px; border-radius:2px;">IGSA</span>
+          bills
+        </td>
+      </tr>
+      {{ end }}
+    </table>
+
+    <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:18px; padding-top:16px; border-top:1px solid var(--border);">
+      <a href="/foia/" class="btn btn-sm">Generate a FOIA request &rarr;</a>
+      <a href="/coverage/" class="btn btn-sm">View all coverage gaps</a>
+      <a href="/start/" class="btn btn-sm">Full investigation guide</a>
+    </div>
+  </div>
   {{ end }}
 </div>
 {{ end }}
