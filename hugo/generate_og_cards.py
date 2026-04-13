@@ -362,18 +362,42 @@ def generate_player_card(fonts, title, summary, player_type, signal_color_hex, o
     img.save(output_path, "PNG", optimize=True)
 
 
-def generate_blog_card(fonts, title, summary, date, output_path, heatmap_src=None):
-    """Generate OG card for a blog post. Map on top, text below."""
+def generate_blog_card(fonts, title, summary, date, output_path, heatmap_src=None, hero_image=None):
+    """Generate OG card for a blog post. Hero image on top, text below.
+
+    If the blog post has a `hero` frontmatter field pointing to an image,
+    that image is used instead of the default heatmap.
+    """
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    # Place heatmap in top portion
-    img = composite_heatmap(img, heatmap_src)
+    # Use custom hero image if provided, otherwise fall back to heatmap
+    if hero_image:
+        hero = Image.open(hero_image).convert("RGB")
+        # Scale to fit top 55% of card, maintaining aspect ratio
+        map_h = int(H * 0.55)
+        map_w = int(hero.width * map_h / hero.height)
+        if map_w > W:
+            # Crop width to fit
+            scale = W / hero.width
+            map_w = W
+            map_h = int(hero.height * scale)
+            if map_h > int(H * 0.55):
+                map_h = int(H * 0.55)
+        hero = hero.resize((max(map_w, W), map_h), Image.LANCZOS)
+        # Center crop if wider than card
+        if hero.width > W:
+            left = (hero.width - W) // 2
+            hero = hero.crop((left, 0, left + W, map_h))
+        x_offset = (W - hero.width) // 2
+        img.paste(hero, (x_offset, 0))
+    else:
+        img = composite_heatmap(img, heatmap_src)
+
     draw = ImageDraw.Draw(img)
 
     LM = 80
-    # Text starts below the map
     text_top = int(H * 0.55) + 12
 
     # Accent bar + type label
@@ -490,10 +514,22 @@ def main():
                 text = md.read_text()
                 fm = _parse_frontmatter(text)
                 if fm:
+                    # Check for custom hero image
+                    hero_path = None
+                    if fm.get("hero"):
+                        hp = md.parent / fm["hero"]
+                        if hp.exists():
+                            hero_path = str(hp)
+                        else:
+                            # Try static directory
+                            hp2 = Path("static") / fm["hero"].lstrip("/")
+                            if hp2.exists():
+                                hero_path = str(hp2)
                     generate_blog_card(fonts, fm.get("title", ""), fm.get("summary", ""),
                                       fm.get("date", ""),
                                       out / f"blog-{md.stem}.png",
-                                      heatmap_src=heatmap_src)
+                                      heatmap_src=heatmap_src,
+                                      hero_image=hero_path)
                     generated += 1
                     blog_count += 1
             print(f"  Generated {blog_count} blog cards")

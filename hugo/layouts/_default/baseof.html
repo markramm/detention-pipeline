@@ -32,7 +32,11 @@
   {{- $ogImage = printf "/og/county-%s.png" .Params.fips -}}
 {{- else if eq .Type "blog" -}}
   {{- if .IsPage -}}
-    {{- $ogImage = printf "/og/blog-%s.png" .File.ContentBaseName -}}
+    {{- if .Params.og_image -}}
+      {{- $ogImage = .Params.og_image -}}
+    {{- else -}}
+      {{- $ogImage = printf "/og/blog-%s.png" .File.ContentBaseName -}}
+    {{- end -}}
   {{- end -}}
 {{- else if eq .Type "fights" -}}
   {{- if .IsPage -}}
