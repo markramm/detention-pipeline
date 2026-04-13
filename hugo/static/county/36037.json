@@ -7,7 +7,7 @@
   "rank": 64,
   "total_counties": 1187,
   "percentile": 95,
-  "coverage": "unresearched",
+  "coverage": "partially-researched",
   "auto_summary": "Genesee County, NY shows 3 existing IGSA facilities, and 3 ANC contracts.",
   "entry_types": {
     "anc-contract": 3,

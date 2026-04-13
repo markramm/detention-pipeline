@@ -65,7 +65,8 @@ SIGNAL_META = {k: v for k, v in ENTRY_TYPE_META.items() if v.get("weight")}
 # Coverage depth classification
 AUTOMATED_TYPES = {"287g-agreement", "anc-contract", "igsa", "budget-distress"}
 HUMAN_TYPES = {"commission-activity", "comms-discipline", "sheriff-network",
-               "real-estate-trace", "job-posting", "county-fight", "legislative-trace"}
+               "real-estate-trace", "job-posting", "county-fight", "legislative-trace",
+               "contract", "analysis", "event", "person", "organization"}
 
 STATE_NAMES = {
     "AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas",

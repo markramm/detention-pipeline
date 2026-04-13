@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/arapahoe-county-county-co-board-of-county-commissioners-study-session-2026-03-17-3-30-pm-detention-medical-center-expansion-tour-arapahoe-county-detention-cente.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-13"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

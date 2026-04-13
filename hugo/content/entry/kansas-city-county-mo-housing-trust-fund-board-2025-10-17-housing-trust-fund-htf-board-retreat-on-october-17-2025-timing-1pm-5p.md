@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/kansas-city-county-mo-housing-trust-fund-board-2025-10-17-housing-trust-fund-htf-board-retreat-on-october-17-2025-timing-1pm-5p.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-13"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"
