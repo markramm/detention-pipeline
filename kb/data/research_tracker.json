@@ -121,8 +121,8 @@
       "notes": "Los Angeles CA \u2014 14 IGSAs, hub for enforcement coordination, Adelanto adjacent"
     },
     "06067": {
-      "last_researched": "2026-04-12",
-      "notes": "Sacramento CA \u2014 ICE agent attacked Mar 2026, DHS used to pressure sanctuary"
+      "last_researched": "2026-04-13",
+      "notes": "Sacramento CA \u2014 State capital ICE enforcement hub: John Moss Federal Building improvised detention (congressional oversight blocked), Florin Rd Home Depot raid (Jul 2025, 12 arrested, ACLU court order challenge), courthouse arrests (~40 detained, Dec 2025 injunction), Xa Lee incident (Mar 2026, DHS anti-sanctuary messaging), AAPI community targeting, city council sanctuary reaffirmation + ban ICE from city property, Sacramento RISE Hub, 4 IGSAs, 3 ANC contracts ($35.8M G4S transport)"
     },
     "06071": {
       "last_researched": "2026-04-12",
@@ -512,6 +512,38 @@
       "last_researched": "2026-04-12",
       "notes": "Wayne MI \u2014 Romulus $34.7M warehouse PAUSED under DHS Mullin review Apr 1. AG Nessel + City lawsuit Mar 24. 700+ protesters. Highest MI heatmap score (165, 8 types). Coalition to Shut the Camps weekly demos."
     },
+    "27035": {
+      "last_researched": "2026-04-13",
+      "notes": "Crow Wing MN -- Dual 287(g) TFM+WSO signed Mar 2025 by Sheriff Klang without board approval, IGSA since Nov 2025, 30-50 ICE detainees, $102/day, 286 beds, AG opinion says illegal, community demanding board discussion"
+    },
+    "27047": {
+      "last_researched": "2026-04-13",
+      "notes": "Freeborn MN -- ACLU won preliminary injunction Jan 16 2026 blocking 287(g) WSO, first successful legal challenge in MN, 138-bed jail, IGSA active, budget-distressed county"
+    },
+    "27053": {
+      "last_researched": "2026-04-13",
+      "notes": "Hennepin MN -- Sheriff Witt refused ICE agreements, does not honor detainers, courthouse arrest Feb 10 2026, Metro Surge epicenter, federal hold facility in Bloomington (avg daily pop 36)"
+    },
+    "27067": {
+      "last_researched": "2026-04-13",
+      "notes": "Kandiyohi MN -- Largest MN ICE site, 150 of 190 beds for ICE, 22-year IGSA, 287(g) WSO May 2025 not operationalized, board chairman criticized ICE cowboys, 100-person vigil Nov 2025"
+    },
+    "27105": {
+      "last_researched": "2026-04-13",
+      "notes": "Nobles MN -- Worthington, highest foreign-born % in MN (1 in 3), JBS 2100+ employees, ICE surge devastated economy, no JBS raid but fear alone suppressed business, IGSA only no 287(g)"
+    },
+    "27135": {
+      "last_researched": "2026-04-13",
+      "notes": "Roseau MN -- Canadian border, CBP port of entry, IGSA legacy holding, budget-distressed (USDA 3/10), no 287(g), no specific ICE enforcement activity found beyond statewide operations"
+    },
+    "27137": {
+      "last_researched": "2026-04-13",
+      "notes": "St. Louis MN -- Duluth hold room, Duluth Public Schools led federal lawsuit Feb 2026 challenging sensitive locations rescission, children as young as 5 detained, hearing Apr 10 2026"
+    },
+    "27141": {
+      "last_researched": "2026-04-13",
+      "notes": "Sherburne MN -- 19-year IGSA, 131 avg daily ICE pop, $110/day, 304 peak 2019, dropped to 2/day 2023-24, 287(g) application on hold after AG opinion, ICOM campaign active"
+    },
     "27163": {
       "last_researched": "2026-04-12",
       "notes": "Washington MN \u2014 Woodbury fight blocked"
@@ -884,6 +916,22 @@
       "last_researched": "2026-04-12",
       "notes": "Tulsa County \u2014 80% no convictions"
     },
+    "41011": {
+      "last_researched": "2026-04-13",
+      "notes": "Coos County OR \u2014 ICE detention center proposal (Lakeside/Shutter Creek tent camp), Commissioner Taylor courted DHS, 2-1 commission rejected ICE cooperation proclamation Feb 2025, community blocked facility, KVG contractor paused but door open"
+    },
+    "41019": {
+      "last_researched": "2026-04-13",
+      "notes": "Douglas County OR \u2014 ICE RFI for 300+ employee office in Roseburg (Mar 2026), one of only 3 NW cities listed on SAM.gov, community divided, part of Southern Oregon Analyst Group intelligence network"
+    },
+    "41029": {
+      "last_researched": "2026-04-13",
+      "notes": "Jackson County OR \u2014 Medford ICE field office (10-county hub), July 2025 cannabis raids as ICE pretext (17 detained, GEO bus pre-staged), Flock ALPR data shared with HSI, Southern Oregon Analyst Group, ICE in county-owned building via private sublease, Josephine Co HSI MOU"
+    },
+    "41035": {
+      "last_researched": "2026-04-13",
+      "notes": "Klamath County OR \u2014 ICE arrest in Klamath Falls Oct 2025, sheriff refused to comment on sanctuary compliance (unlike Coos/Josephine/Curry), Flock ALPR cameras deployed, part of Southern Oregon Analyst Group"
+    },
     "41039": {
       "last_researched": "2026-04-13",
       "notes": "Lane County OR -- Sheriff ICE backdoor at county jail, Oct 2025 lobby detentions, ACLU documented pattern (bail notifications, back entrance access), new Sheriff Wilkerson pledges sanctuary compliance, 15+ detained Nov 2025, Eugene PD auditor investigation, 550% detainment spike"
@@ -1031,6 +1079,10 @@
     "53053": {
       "last_researched": "2026-04-12",
       "notes": "Pierce WA \u2014 NWIPC location (1,575 beds GEO), 6-month moratorium passed 5-2, 2018 zoning blocks expansion"
+    },
+    "53067": {
+      "last_researched": "2026-04-13",
+      "notes": "Thurston WA (Olympia) \u2014 State capital sanctuary city, NO heatmap signal but active ICE enforcement (3 incidents in 1 week Jun 2025), Maximo Londonio detention (green card holder, 2 months NWIPC), Sheriff Sanders explicit non-cooperation, $11.9M federal funding threat, massive protest hub (5K+ No Kings, 1.5K ICE Out), Mayor Payne coordination plan, Strengthening Sanctuary Alliance, HB 2641 (ban hiring ex-ICE)"
     },
     "53077": {
       "last_researched": "2026-04-12",

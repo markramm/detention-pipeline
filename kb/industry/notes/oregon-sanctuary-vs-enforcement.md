@@ -57,6 +57,23 @@ Federal Judge Kasubhai ruled in February 2026 that ICE's warrantless arrests in 
 - [OPB: Kotek denounces ICE operations](https://www.opb.org/article/2026/01/24/kotek-denounces-ice-operations-in-oregon-says-legistlature-will-respond/)
 - [Oregon Capital Chronicle: Kotek signs 8 immigrant protection bills](https://oregoncapitalchronicle.com/2026/04/09/oregon-governor-signs-slew-of-bills-protecting-immigrants-amid-federal-crackdown/)
 
+## Southern Oregon: The Conservative Corridor
+
+Southern Oregon (Coos, Douglas, Jackson, Josephine, Klamath counties) presents a different enforcement pattern than the Portland/Lane County urban corridor. Rather than dramatic jail lobbies or Operation Black Rose street sweeps, the south has a **surveillance infrastructure** that makes sanctuary functionally hollow:
+
+- **Flock ALPR cameras** deployed across Medford, Central Point, Klamath Falls, Josephine County, and Jackson County sheriff's offices — with documented data sharing to ICE/HSI
+- **Southern Oregon Analyst Group** — informal intelligence-sharing network (2021-2024) including ICE/HSI agents alongside local analysts from Jackson, Josephine, Douglas, and Klamath counties
+- **Cannabis raid pretext** — July 30, 2025 DEA-led raids in Jackson County used as cover for 17 ICE arrests; GEO bus pre-staged at Medford ICE facility
+- **Detention facility shopping** — After Newport rejection, ICE scouted Coos County (Lakeside, Shutter Creek); Commissioner Taylor personally courted DHS
+- **Roseburg office expansion** — March 2026 RFI for 300+ ICE employees in Douglas County
+- **ICE property backdoor** — Medford field office housed in Jackson County-owned building through private sublease
+
 ## Cross-References
 
 - See also: [lane-county-or-ice-jail-backdoor](../county-fights/lane-county-or-ice-jail-backdoor.md) — detailed Lane County county-fight entry with jail backdoor pattern, new sheriff appointment, and November 2025 raids
+- See also: [jackson-county-or-cannabis-raid-ice-pretext](../county-fights/jackson-county-or-cannabis-raid-ice-pretext.md) — Jackson County cannabis raid pretext and surveillance infrastructure
+- See also: [coos-county-or-ice-detention-proposal](../county-fights/coos-county-or-ice-detention-proposal.md) — Coos County ICE detention center proposal and Commissioner Taylor
+- See also: [douglas-county-or-ice-office-expansion](../county-fights/douglas-county-or-ice-office-expansion.md) — ICE seeking 300+ employee office in Roseburg
+- See also: [klamath-county-or-ice-enforcement](../county-fights/klamath-county-or-ice-enforcement.md) — Klamath County enforcement activity and sheriff silence
+- See also: [southern-oregon-ice-surveillance-network](southern-oregon-ice-surveillance-network.md) — Flock/ALPR, analyst groups, and ICE backdoors across southern Oregon
+- See also: [medford-ice-field-office-or](../facilities/medford-ice-field-office-or.md) — Medford ICE field office covering 10 southern/central Oregon counties

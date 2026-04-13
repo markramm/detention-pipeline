@@ -18,7 +18,13 @@ source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trend
 tags:
 - igsa
 - mn
-importance: 5
+importance: 6
 source_url: "https://github.com/vera-institute/ice-detention-trends"
+research_status: working
+last_researched: "2026-04-13"
 ---
-IGSA facility: Nobles Co. Jail in Nobles County, MN.
+IGSA facility: Nobles Co. Jail in Nobles County, MN. IGSA only, no 287(g).
+
+Worthington has highest proportion of foreign-born residents in MN (1 in 3 immigrants). JBS meatpacking plant employs 2,100+. ICE surge devastated local economy — businesses feared they "might not survive." No JBS raid materialized but fear alone suppressed economic activity.
+
+See: kb/industry/notes/nobles-county-worthington-ice-economic-devastation.md for full research.

@@ -117,6 +117,15 @@ The closed Federal Correctional Institution in Dublin (Alameda County), shuttere
 6. **Conditions crisis**: Multiple deaths, lawsuits, conditions reports — this is where the human cost story is strongest
 7. **Political dynamics**: County-level splits (San Diego County sues ICE while Escondido cooperates)
 
+## Sacramento County — State Capital Enforcement Hub
+
+Sacramento (FIPS 06067, heatmap score 85) has emerged as a major enforcement flashpoint. See detailed entries:
+- **Facility**: [John Moss Federal Building](../facilities/john-moss-federal-building-sacramento-ca.md) — improvised ICE holding, congressional oversight blocked
+- **County fight**: [Sacramento sanctuary vs. ICE](../county-fights/sacramento-ca-sanctuary-vs-ice-enforcement.md) — 4-front fight
+- **Research note**: [Sacramento enforcement hub](sacramento-county-ice-enforcement-hub-2025-2026.md) — full timeline, 4 IGSAs, $35.8M G4S contracts
+
+Key incidents: Florin Road Home Depot raid (Jul 2025), courthouse arrests (~40 detained), Xa Lee vehicle incident (Mar 2026), AAPI community targeting, city council banning ICE from property.
+
 ## Research Gaps
 
 - [ ] Exact current population at each facility (TRAC data needed)
@@ -127,3 +136,5 @@ The closed Federal Correctional Institution in Dublin (Alameda County), shuttere
 - [ ] Whether GEO/CoreCivic are lobbying against AB 1633
 - [ ] Any warehouse-style facility proposals (none found yet)
 - [ ] Kern County local government stance on Mesa Verde / Golden State / California City
+- [ ] Sacramento Rio Cosumnes Correctional Center current ICE detainee population
+- [ ] Status of Sacramento city council vote on banning ICE from city property

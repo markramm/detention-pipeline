@@ -19,7 +19,13 @@ source: "Vera Institute ICE Detention Trends (vera-institute/ice-detention-trend
 tags:
 - hold
 - mn
-importance: 5
+importance: 7
 source_url: "https://github.com/vera-institute/ice-detention-trends"
+research_status: working
+last_researched: "2026-04-13"
 ---
 Hold facility: US INS/Detention & Deportation in Hennepin County, MN. Average daily population: 36.
+
+Federal hold facility in Bloomington (not under county control). Hennepin County Sheriff Dawanna Witt refused new ICE agreements, does not honor ICE detainers (unconstitutional), does not ask inmates about immigration status. ICE agents arrested man in Hennepin County Government Center lobby Feb 10, 2026.
+
+See: kb/industry/county-fights/hennepin-mn-sheriff-resists-ice-cooperation.md for full research.
