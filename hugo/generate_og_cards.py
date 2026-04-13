@@ -71,7 +71,7 @@ def load_fonts():
     for name, size in [("mono_sm", 14), ("mono", 18), ("mono_lg", 24),
                        ("mono_xl", 36), ("mono_xxl", 56),
                        ("sans_sm", 14), ("sans", 18), ("sans_lg", 24),
-                       ("sans_xl", 32), ("title", 42)]:
+                       ("sans_xl", 32), ("title", 42), ("title_xl", 56)]:
         family = "Menlo" if "mono" in name else "Helvetica"
         try:
             fonts[name] = ImageFont.truetype(family, size)
@@ -361,36 +361,38 @@ def generate_blog_card(fonts, title, summary, date, output_path):
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    # Type label
-    draw.rectangle([40, 60, 40 + 10, 60 + 30], fill=ACCENT_WARM)
-    draw.text((60, 62), "UPDATE", fill=TEXT_DIM, font=fonts["mono"])
-    if date:
-        draw.text((160, 62), date.upper(), fill=TEXT_DIM, font=fonts["mono_sm"])
+    LM = 80  # left margin — generous for social media cropping
 
-    # Title (wrapped)
+    # Type label
+    draw.rectangle([LM, 50, LM + 12, 50 + 36], fill=ACCENT_WARM)
+    draw.text((LM + 22, 52), "UPDATE", fill=TEXT_MID, font=fonts["mono_lg"])
+    if date:
+        draw.text((LM + 160, 56), date.upper(), fill=TEXT_DIM, font=fonts["mono"])
+
+    # Title (wrapped, large)
     title_clean = title or "Pipeline Update"
     words = title_clean.split()
     lines = []
     current = ""
     for w in words:
-        if len(current + " " + w) < 35:
+        if len(current + " " + w) < 28:
             current = (current + " " + w).strip()
         else:
             lines.append(current)
             current = w
     if current:
         lines.append(current)
-    for i, line in enumerate(lines[:3]):
-        draw.text((40, 120 + i * 48), line, fill=TEXT_LIGHT, font=fonts["title"])
+    for i, line in enumerate(lines[:2]):
+        draw.text((LM, 110 + i * 64), line, fill=TEXT_LIGHT, font=fonts["title_xl"])
 
-    # Summary (wrapped)
-    summary_y = 120 + min(len(lines), 3) * 48 + 20
+    # Summary (wrapped, readable)
+    summary_y = 110 + min(len(lines), 2) * 64 + 24
     if summary:
         words = summary.split()
         lines = []
         current = ""
         for w in words:
-            if len(current + " " + w) < 65:
+            if len(current + " " + w) < 50:
                 current = (current + " " + w).strip()
             else:
                 lines.append(current)
@@ -398,9 +400,9 @@ def generate_blog_card(fonts, title, summary, date, output_path):
         if current:
             lines.append(current)
         for i, line in enumerate(lines[:4]):
-            draw.text((40, summary_y + i * 26), line, fill=TEXT_MID, font=fonts["sans"])
+            draw.text((LM, summary_y + i * 32), line, fill=TEXT_MID, font=fonts["sans_lg"])
 
-    draw.rectangle([40, H - 100, 200, H - 97], fill=ACCENT_WARM)
+    draw.rectangle([LM, H - 100, LM + 200, H - 96], fill=ACCENT_WARM)
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
 
