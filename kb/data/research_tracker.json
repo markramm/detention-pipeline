@@ -64,6 +64,46 @@
       "last_researched": "2026-04-10",
       "notes": "Pinal \u2014 11,200 beds, Brad Miller, Eloy, La Palma, Florence SPC"
     },
+    "05007": {
+      "last_researched": "2026-04-13",
+      "notes": "Benton AR \u2014 287(g) national model, 450+ ICE arrests Jan-Oct 2025 (4% of all US 287g arrests), 1.5/day, jail enforcement model, feeds NW AR pipeline to Washington County then Louisiana"
+    },
+    "05013": {
+      "last_researched": "2026-04-13",
+      "notes": "Calhoun AR \u2014 No specific ICE detention findings, budget-distressed rural county, heatmap signals (287g-agreement:10, budget-distress:1)"
+    },
+    "05039": {
+      "last_researched": "2026-04-13",
+      "notes": "Dallas AR \u2014 No specific ICE detention findings, budget-distressed rural county, heatmap signals (287g-agreement:10, budget-distress:1)"
+    },
+    "05045": {
+      "last_researched": "2026-04-13",
+      "notes": "Faulkner AR (Conway) \u2014 No specific ICE detention findings beyond heatmap signals (igsa:2, 287g-agreement:9), likely complying with Act 654 mandate"
+    },
+    "05047": {
+      "last_researched": "2026-04-13",
+      "notes": "Franklin AR \u2014 815-acre site, proposed 3000-bed CoreCivic mega-prison, ICE agents + Joe Profiri spotted Sept 2025, sheriff opposes, community opposes, legislature wont fund $825M, potential ICE facility diversion"
+    },
+    "05085": {
+      "last_researched": "2026-04-13",
+      "notes": "Lonoke AR \u2014 Detention center with USMS IGA, no specific ICE detention findings beyond heatmap signals (igsa:2, 287g-agreement:8)"
+    },
+    "05091": {
+      "last_researched": "2026-04-13",
+      "notes": "Miller AR \u2014 Jail in Texarkana, IGSA with ICE, Task Force Model 287(g), 21 ICE detainees reported Dec 2025, AR-TX border corridor"
+    },
+    "05119": {
+      "last_researched": "2026-04-13",
+      "notes": "Pulaski AR (Little Rock) \u2014 Largest county jail in AR (1530 beds, 1200+ daily), ICE field office in Little Rock, National Guard 18 personnel deployed, student walkouts Feb 2026, no current ICE detention IGSA found (city jail stopped ICE holding 2016)"
+    },
+    "05131": {
+      "last_researched": "2026-04-13",
+      "notes": "Sebastian AR \u2014 2879-bed detention center Fort Smith, ICE inspection Jun 2025, 287(g), National Guard 10 personnel deployed, large capacity potential"
+    },
+    "05143": {
+      "last_researched": "2026-04-13",
+      "notes": "Washington AR \u2014 710-bed detention center in Fayetteville, IGSA with ICE, transfer hub in NW AR pipeline, ICE inspection Apr 2025, 287(g) MOA, Springdale resistance (police chief refused ICE, mayor protective)"
+    },
     "06001": {
       "last_researched": "2026-04-12",
       "notes": "Alameda CA \u2014 FCI Dublin fight, unanimous county opposition to ICE conversion"
@@ -131,6 +171,38 @@
     "13259": {
       "last_researched": "2026-04-12",
       "notes": "Stewart GA \u2014 1,800+, 13 deaths, sexual assault investigation"
+    },
+    "16001": {
+      "last_researched": "2026-04-13",
+      "notes": "Ada ID \u2014 Sheriff Matt Clifford opposes mandatory 287(g), voluntarily notifies ICE on bookings, no formal agreement, heatmap score 30"
+    },
+    "16019": {
+      "last_researched": "2026-04-13",
+      "notes": "Bonneville ID \u2014 287(g) WSO model signed 7/11/2025, heatmap score 37"
+    },
+    "16027": {
+      "last_researched": "2026-04-13",
+      "notes": "Canyon ID \u2014 Dale G Haile Detention Center IGSA (523 beds, $54/night, 30+ year contract), Wilder racetrack mass raid Oct 2025 (200+ officers, 400 detained, 105 arrested, ~75 deported), ACLU class-action Rodriguez v Porter filed Feb 2026, Sheriff Donahue opposes mandatory 287(g)"
+    },
+    "16031": {
+      "last_researched": "2026-04-13",
+      "notes": "Cassia ID \u2014 No specific enforcement activity found beyond heatmap signals, score 20"
+    },
+    "16051": {
+      "last_researched": "2026-04-13",
+      "notes": "Jefferson ID \u2014 144-bed detention center is ISP transport destination for 287(g) deportation pipeline, $300K state funding, 40+ transported by Oct 2025"
+    },
+    "16055": {
+      "last_researched": "2026-04-13",
+      "notes": "Kootenai ID \u2014 Cross-state detention hub, USMS agreement + 287(g) JE+WSO (8/28/2025), bypasses WA sanctuary law, 80% holds from WA/MT arrests, Sheriff Bob Norris pro-enforcement, transfers to Tacoma NW Detention Center"
+    },
+    "16065": {
+      "last_researched": "2026-04-13",
+      "notes": "Madison ID \u2014 No specific enforcement activity found beyond heatmap signals, score 25"
+    },
+    "16083": {
+      "last_researched": "2026-04-13",
+      "notes": "Twin Falls ID \u2014 IGSA facility (HEL-144), highest heatmap score (40), 4 IGSA signals, southern ID processing hub, detainees transferred 9hr to Las Vegas NV, Jan 2025 arrest of children ages 6 and 11"
     },
     "17031": {
       "last_researched": "2026-04-12",
@@ -464,6 +536,50 @@
       "last_researched": "2026-04-12",
       "notes": "Greene MO \u2014 flagged, not deeply researched"
     },
+    "30003": {
+      "last_researched": "2026-04-13",
+      "notes": "Big Horn MT \u2014 No specific 2025-2026 ICE enforcement activity found; heatmap score 42 from existing signals"
+    },
+    "30013": {
+      "last_researched": "2026-04-13",
+      "notes": "Cascade MT (Great Falls) \u2014 Only MT jail authorized for long-term ICE detention, 70%+ of $14M budget from federal detainee contracts, CBP contract $115/day (Oct 2025-Sep 2026), sheriff pushing for $150/day direct ICE contract, pending 287(g)"
+    },
+    "30021": {
+      "last_researched": "2026-04-13",
+      "notes": "Dawson MT \u2014 No specific 2025-2026 ICE enforcement activity found; heatmap score 42 from existing IGSA/287g signals"
+    },
+    "30029": {
+      "last_researched": "2026-04-13",
+      "notes": "Flathead MT \u2014 287(g) WSO since 2020, Sheriff Heino defended agreement against community opposition Jan 2026, Bigfork worksite raid 17 detained Mar 2025, 135+ detained in NW MT in 2025"
+    },
+    "30031": {
+      "last_researched": "2026-04-13",
+      "notes": "Gallatin MT \u2014 5-year 287(g) WSO agreement, County Attorney Cromwell refused ICE records access Oct 2025, AG Knudsen demanded rescission by Apr 6, Cromwell says no formal policy exists; 6 alleged TdA gang members arrested early 2025; county attorney advised against ICE detention agreement Apr 2025"
+    },
+    "30033": {
+      "last_researched": "2026-04-13",
+      "notes": "Garfield MT \u2014 287(g) Task Force Model signed Aug 2025 by Undersheriff Aaron Conner, 4800 sq mi eastern MT county, 50% overtime reimbursed by federal grant"
+    },
+    "30049": {
+      "last_researched": "2026-04-13",
+      "notes": "Lewis and Clark MT \u2014 Helena sanctuary city resolution passed Jan 2026, rescinded Mar 2026 under AG Knudsen cease-and-desist; new draft resolution in progress Apr 2026; Helena arrest Jul 2025 catalyzed grassroots movement"
+    },
+    "30071": {
+      "last_researched": "2026-04-13",
+      "notes": "Phillips MT \u2014 No specific 2025-2026 ICE enforcement activity found; heatmap score 42 from existing signals"
+    },
+    "30073": {
+      "last_researched": "2026-04-13",
+      "notes": "Pondera MT \u2014 No specific 2025-2026 ICE enforcement activity found; heatmap score 42 from existing signals"
+    },
+    "30087": {
+      "last_researched": "2026-04-13",
+      "notes": "Rosebud MT \u2014 No specific 2025-2026 ICE enforcement activity found; heatmap score 42 from existing signals"
+    },
+    "30101": {
+      "last_researched": "2026-04-13",
+      "notes": "Toole MT \u2014 No specific 2025-2026 ICE enforcement activity found; heatmap score 42 from existing signals"
+    },
     "31043": {
       "last_researched": "2026-04-13",
       "notes": "Dakota NE \u2014 287(g) jail model since 2018, South Sioux City, DHS CRCL found ongoing concerns re: racial profiling, first NE 287(g)"
@@ -495,6 +611,38 @@
     "31183": {
       "last_researched": "2026-04-13",
       "notes": "Wheeler NE \u2014 287(g) task force model (most aggressive), approved May 2025, ~800 pop, no jail, highway corridor enforcement on US-281"
+    },
+    "32003": {
+      "last_researched": "2026-04-13",
+      "notes": "Clark NV \u2014 LVMPD 287(g) signed Jun 2025, 633 ICE arrests through Oct 2025, 240+ transferred since Dec 2025. ACLU lawsuit dismissed Mar 2026, appealed to NV Supreme Court Apr 2026. Henderson Detention Center IGSA since 2010, 93 ICE beds, 35/day, .5M/yr revenue (down from .3M), net loss on contract. CCDC is largest single ICE arrest source in NV."
+    },
+    "32005": {
+      "last_researched": "2026-04-13",
+      "notes": "Douglas NV \u2014 First NV 287(g) in years, signed Feb 2025, warrant service officer model only. Sheriff clarified no field immigration enforcement or sweeps. Initial ICE website listed both WSO and task force models but corrected to WSO only."
+    },
+    "32009": {
+      "last_researched": "2026-04-13",
+      "notes": "Esmeralda NV \u2014 No specific ICE enforcement activity found in 2025-2026 research. Budget distress signal only."
+    },
+    "32019": {
+      "last_researched": "2026-04-13",
+      "notes": "Lyon NV \u2014 Finalizing 287(g) WSO documentation as of mid-2025. Sheriff says patrol deputies will NOT arrest on immigration status alone. Will notify ICE of illegal aliens found during booking and hold on federal detainers."
+    },
+    "32021": {
+      "last_researched": "2026-04-13",
+      "notes": "Mineral NV \u2014 Active 287(g) warrant service officer model, ONLY NV jurisdiction pursuing task force model (field enforcement). Tiny budget-distressed county (~4,500 pop). Details sparse."
+    },
+    "32023": {
+      "last_researched": "2026-04-13",
+      "notes": "Nye NV \u2014 Nye County Detention Center IGSA terminated Nov 2024 (5-0 vote), sheriff says no desire to revive. ICE paid M vs M actual cost. Failed 2024 audit (medical, conditions). CoreCivic Nevada Southern Detention Center in Pahrump: 250 ICE contract beds, running at 461+, tent expansion proposed (450 beds). Key overcrowding hotspot."
+    },
+    "32031": {
+      "last_researched": "2026-04-13",
+      "notes": "Washoe NV \u2014 Washoe County Jail ICE pop surged 16 to 46/day (Sep-Nov 2025, 200% increase). No 287(g) but has IGSA. 36K FEMA/HSGP grant approved Aug 2025 for ICE holding cells and office space. Student walkouts Jan 2026. Northern NV anti-ICE protests in Reno/Carson City."
+    },
+    "32033": {
+      "last_researched": "2026-04-13",
+      "notes": "White Pine NV \u2014 No specific ICE enforcement activity found in 2025-2026 research. Budget distress signal only."
     },
     "33001": {
       "last_researched": "2026-04-12",
@@ -867,6 +1015,42 @@
     "53077": {
       "last_researched": "2026-04-12",
       "notes": "Yakima WA \u2014 Highest per-capita ICE arrests in state (180/100K), 477 in 2025, agricultural heartland, ICE Air flights, courthouse surveillance"
+    },
+    "56005": {
+      "last_researched": "2026-04-13",
+      "notes": "Campbell WY \u2014 287(g) Warrant Service Model, 306-bed detention center in Gillette, ICE planning new ERO office in Gillette"
+    },
+    "56007": {
+      "last_researched": "2026-04-13",
+      "notes": "Carbon WY \u2014 287(g) under review by County Attorney as of Aug 2025, Sheriff Bakken exploring ICE warrant execution, not yet finalized"
+    },
+    "56015": {
+      "last_researched": "2026-04-13",
+      "notes": "Goshen WY \u2014 No specific ICE activity found in 2025-2026 research beyond general WHP statewide 287(g) coverage"
+    },
+    "56021": {
+      "last_researched": "2026-04-13",
+      "notes": "Laramie WY \u2014 Primary 287(g) hub, 25 deputies sworn in Oct 2025, 257 ICE detainees Sep-Jan, $120/day, $75K invoiced, Nov trucker operation (40 deportations), ACLU criticism of wide net"
+    },
+    "56025": {
+      "last_researched": "2026-04-13",
+      "notes": "Natrona WY \u2014 IGSA since Jul 2025, 44 Aurora overflow detainees at $95/day, 287(g) Warrant Service, only ICE ERO office in WY (Casper), inactive cases warehoused, Rodriguez Cuban deportation case"
+    },
+    "56029": {
+      "last_researched": "2026-04-13",
+      "notes": "Park WY \u2014 No specific ICE activity found in 2025-2026 research beyond general WHP statewide 287(g) coverage"
+    },
+    "56037": {
+      "last_researched": "2026-04-13",
+      "notes": "Sweetwater WY \u2014 First WY 287(g) Task Force, 30 ICE beds (expanded from 15), $3M projected revenue, I-80 corridor hub, accepts Teton/Lincoln/Sublette detainees, ICE wants Rock Springs office"
+    },
+    "56041": {
+      "last_researched": "2026-04-13",
+      "notes": "Uinta WY \u2014 County jail holds up to 25 ICE detainees since May 2025 at $120/day ($40-50K/mo), multi-state including UT; failed CoreCivic 1000-bed facility 2017-2020 (community opposition via WyoSayNo)"
+    },
+    "56043": {
+      "last_researched": "2026-04-13",
+      "notes": "Washakie WY \u2014 No specific ICE activity found in 2025-2026 research beyond general WHP statewide 287(g) coverage"
     }
   },
   "states": {
@@ -877,6 +1061,10 @@
     "AL": {
       "last_researched": "2026-04-12",
       "notes": "Etowah 865-bed zombie prison reopened Feb 2025, Baldwin $64M expansion + 7 287(g) + construction raids + IJ lawsuit (US citizen detained 2x), Perry County private prison (LCS 738 beds), Pickens transfer holding point, 13+ 287(g) agencies, HB13 Laken Riley Act passed House Mar 2026, ALEA-ICE trucking partnership, arrests doubled 2025, Haitian TPS holder detained Birmingham Mar 2026. Deep."
+    },
+    "AR": {
+      "last_researched": "2026-04-13",
+      "notes": "Arkansas: Act 654 mandates all sheriffs 287(g), 40 agencies signed, 2600+ arrests 2025 (176% increase), Benton County 450+ arrests (4% of US 287g), NW AR pipeline (Benton->Washington->Louisiana), Franklin County 3000-bed CoreCivic mega-prison/ICE site (contested, unfunded), National Guard 40 personnel deployed, State Police 287g, Springdale resistance (police chief refused ICE cooperation), student walkouts Feb 2026, No Kings 25K protesters Mar 2026"
     },
     "AZ": {
       "last_researched": "2026-04-10",
@@ -905,6 +1093,10 @@
     "IA": {
       "last_researched": "2026-04-13",
       "notes": "Iowa \u2014 5 active IGSA jails (Hardin, Woodbury, Linn, Polk, Muscatine), Operation ICE Wall (ISP-ICE weigh station scheme), Iowa DPS 287g Task Force MOA (Mar 2025), National Guard supporting ICE (Sept 2025-Sept 2026), 633 detained thru Jun 2025, multiple federal judges finding due process violations, Muscatine secret contract w/ gag clause, Woodbury $70M new jail projecting $2.3M ICE revenue, JBS Ottumwa 200 visa revocations"
+    },
+    "ID": {
+      "last_researched": "2026-04-13",
+      "notes": "Idaho \u2014 797% arrest surge H1 2025, 10 active 287(g) agencies (8 new since Jan 2025), Wilder racetrack mass raid Oct 2025 (ACLU class-action Rodriguez v Porter), $5.1B dairy workforce crisis, 3 failed mandatory 287(g) bills, ISP $300K transport pipeline, cross-state Spokane-to-Kootenai detention bypass"
     },
     "IL": {
       "last_researched": "2026-04-12",
@@ -950,6 +1142,10 @@
       "last_researched": "2026-04-12",
       "notes": "MS comprehensive: Adams County CC (2nd largest ICE facility, 2260 beds, CoreCivic, Rodriguez death Dec 2025), Tallahatchie CC (252 ICE beds, CoreCivic expansion Feb 2025), Hancock County PSC (Gulf Coast transit hub), Byhalia warehouse fight (8500-bed mega site blocked by Wicker/Noem Feb 2026), mandatory 287(g) for all county jails (SB 2511), Glacier Act funding (SB 2329), Swamp Sweep enforcement ops, Stone County triple-model 287(g)"
     },
+    "MT": {
+      "last_researched": "2026-04-13",
+      "notes": "Montana \u2014 4 active 287(g) agreements (DOJ/MHP Task Force, Flathead WSO, Gallatin WSO, Garfield Task Force), Cascade County only long-term ICE jail (70% budget from federal detainees, $115/day CBP contract), Helena sanctuary resolution passed Jan 2026 then rescinded Mar 2026 under AG Knudsen threat, Gallatin County attorney ICE records fight ongoing, HB278 traffic-stop immigration checks, Bigfork 17-person worksite raid Mar 2025, massive protest movement (thousands at No Kings rallies)"
+    },
     "NC": {
       "last_researched": "2026-04-12",
       "notes": "27 287(g) agencies (3rd nationally), Operation Charlottes Web 1,300+ arrests (60%+ non-criminal), 3 proposed facilities (Rivers 1,300 GEO, Concord warehouse 1,500, Greensboro AHA), Alamance sheriff capacity limits, Brookford Task Force Model, courthouse/health targeting. Deep."
@@ -973,6 +1169,10 @@
     "NM": {
       "last_researched": "2026-04-12",
       "notes": "Curry County only 287(g), forced to terminate by Immigrant Safety Act May 2026."
+    },
+    "NV": {
+      "last_researched": "2026-04-13",
+      "notes": "NV \u2014 2,155+ ICE arrests in 2025 (3x 2024), 70% from jail pipeline. CoreCivic Nevada Southern 462 ICE at 250-cap, tent expansion proposed. Henderson IGSA losing money. LVMPD 287(g) Jun 2025 (633 arrests), ACLU suit appealed to NV Supreme Court Apr 2026. Nye County terminated IGSA Nov 2024 (audit failures, cost subsidy). Washoe FEMA-funded ICE upgrade. 287(g) expanded to 4 jurisdictions. Gov Lombardo deployed National Guard, first state off sanctuary list."
     },
     "NY": {
       "last_researched": "2026-04-12",
@@ -1025,6 +1225,10 @@
     "WA": {
       "last_researched": "2026-04-12",
       "notes": "WA sanctuary state under siege: NWIPC (1,575 beds, GEO, Tacoma) with $69M contract extension, 12 hunger strikes in 2026, sexual assault lawsuit; 2,100+ arrests Oct 2024-Mar 2026; Yakima 180/100K highest per capita; DHS pre-solicitation for 1,635-bed new facility; 7 jurisdictions passed moratoriums; AG Bondi threatened criminal prosecution of state officials"
+    },
+    "WY": {
+      "last_researched": "2026-04-13",
+      "notes": "WY full research: 5 county 287(g)s (Campbell, Carbon, Laramie, Natrona, Sweetwater), WHP statewide 287(g), county jails as Aurora overflow (Natrona 44 detainees $95/day, Laramie 257 detainees $120/day, Sweetwater 30 beds $3M projected, Uinta 25 beds $120/day), failed CoreCivic 1000-bed Evanston facility (2017-2020), Nov 2025 trucker operation (40 deportations), ICE ERO office in Casper + planned Gillette/Rock Springs offices, anti-sanctuary legislation passed, ICE watch hotline launched Jackson Mar 2026"
     }
   }
 }
