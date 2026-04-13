@@ -82,7 +82,7 @@ def load_fonts():
 
 def load_heatmap_overlay():
     """Load the cropped heatmap screenshot for compositing into cards."""
-    hm_path = Path(__file__).parent / "static" / "og" / "heatmap-cropped.png"
+    hm_path = Path(__file__).parent / "static" / "og" / "heatmap-clean.png"
     if not hm_path.exists():
         return None
     return Image.open(hm_path).convert("RGBA")
@@ -99,37 +99,20 @@ def draw_gradient_bg(draw):
 
 
 def composite_heatmap(img, heatmap_src, opacity=60):
-    """Composite heatmap onto right side of card as faded background."""
+    """Use the heatmap screenshot as the card background, dimmed for text readability."""
     if heatmap_src is None:
         return img
-    # Resize heatmap to fill right portion of card
-    hm = heatmap_src.copy()
-    # Scale to card height, positioned right-aligned
-    scale = H / hm.height
-    new_w = int(hm.width * scale)
-    hm = hm.resize((new_w, H), Image.LANCZOS)
-    # Offset so it sits on the right side
-    x_offset = W - new_w + 80  # push slightly right so it bleeds off edge
-    # Fade the heatmap
-    alpha = hm.split()[3]
-    alpha = alpha.point(lambda p: int(p * opacity / 255))
-    hm.putalpha(alpha)
-    # Create a fade gradient from left (fully transparent) to right (visible)
-    from PIL import ImageDraw as ID2
-    fade = Image.new("L", (new_w, H), 0)
-    fade_draw = ID2.Draw(fade)
-    for x in range(new_w):
-        t = x / new_w
-        # Stronger fade on left side to protect text
-        v = int(255 * max(0, (t - 0.3) / 0.7)) if t > 0.3 else 0
-        fade_draw.line([(x, 0), (x, H)], fill=v)
-    hm_alpha = hm.split()[3]
-    hm_alpha = Image.composite(hm_alpha, Image.new("L", hm_alpha.size, 0), fade)
-    hm.putalpha(hm_alpha)
-    # Convert base image to RGBA for compositing
-    base = img.convert("RGBA")
-    base.paste(hm, (x_offset, 0), hm)
-    return base.convert("RGB")
+
+    # Resize heatmap to fill entire card
+    hm = heatmap_src.copy().convert("RGBA")
+    hm = hm.resize((W, H), Image.LANCZOS)
+
+    # Darken the heatmap so text is readable on top
+    # Blend with a dark overlay at the given opacity (0=full map, 100=fully dark)
+    dark = Image.new("RGBA", (W, H), (10, 10, 15, int(255 * opacity / 100)))
+    hm = Image.alpha_composite(hm, dark)
+
+    return hm.convert("RGB")
 
 
 def draw_brand(draw, fonts):
@@ -309,7 +292,7 @@ def generate_fight_card(fonts, title, summary, status, state, output_path, heatm
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    img = composite_heatmap(img, heatmap_src, opacity=35)
+    img = composite_heatmap(img, heatmap_src, opacity=50)
     draw = ImageDraw.Draw(img)
 
     LM = 80
@@ -366,7 +349,7 @@ def generate_player_card(fonts, title, summary, player_type, signal_color_hex, o
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    img = composite_heatmap(img, heatmap_src, opacity=35)
+    img = composite_heatmap(img, heatmap_src, opacity=50)
     draw = ImageDraw.Draw(img)
 
     LM = 80
@@ -427,7 +410,7 @@ def generate_blog_card(fonts, title, summary, date, output_path, heatmap_src=Non
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    img = composite_heatmap(img, heatmap_src, opacity=40)
+    img = composite_heatmap(img, heatmap_src, opacity=50)
     draw = ImageDraw.Draw(img)
 
     LM = 80
