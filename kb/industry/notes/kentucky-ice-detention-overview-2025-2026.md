@@ -3,7 +3,7 @@ id: kentucky-ice-detention-overview-2025-2026
 title: "Kentucky — 659% detention surge, 287(g) explosion, overcrowding crisis, mandatory cooperation bills"
 type: note
 state: KY
-importance: 8
+importance: 9
 tags:
 - 287g-explosion
 - detention-surge
@@ -12,6 +12,8 @@ tags:
 - hb47-mandatory-287g
 - lwvky-report
 - habeas-corpus
+- open-records
+- gop-mandatory-cooperation
 - kentucky
 research_status: working
 last_researched: "2026-04-13"
@@ -19,7 +21,7 @@ last_researched: "2026-04-13"
 
 # Kentucky: ICE Detention and Enforcement Overview (2025-2026)
 
-Kentucky has experienced one of the most dramatic expansions of ICE detention in the country. From a single jail (Boone County) holding ~120 detainees in January 2025, the system grew to nine county jails holding 1,041 detainees by February 2026 — a **659% increase**. The state also saw 22 law enforcement agencies sign 287(g) agreements in 2025, and legislation filed to mandate all police agencies cooperate with ICE.
+Kentucky has experienced one of the most dramatic expansions of ICE detention in the country. From a single jail (Boone County) holding ~120 detainees in January 2025, the system grew to **11 county jails** holding **1,041 average daily population** by early 2026 — a **659% increase**. The state now has **24 law enforcement agencies** with 287(g) agreements, and GOP legislation is advancing to mandate all police agencies cooperate with ICE statewide. An estimated **~3,500 ICE arrests** have been made since inauguration from the Louisville and Bowling Green sub-offices alone.
 
 ## The Detention Surge
 
@@ -27,13 +29,13 @@ Kentucky has experienced one of the most dramatic expansions of ICE detention in
 
 - **Jan 21, 2025**: 120.5 average daily ICE detainee population (Boone County only)
 - **Aug 18, 2025**: 915 detainees across nine county jails (659% increase)
-- **Sep 2025**: 434 detainees
-- **Feb 2026**: 1,041 detainees (doubled again in 5 months)
-- **72% noncriminal**: 751 of 1,041 detainees have no criminal record or pending charges (up from 47% previously)
+- **Sep 2025**: 434 detainees (temporary dip)
+- **Early 2026**: **1,041 avg daily pop** across **11 county jails** (up from 434 in Sep 2025 — more than doubled in ~5 months)
+- **72% noncriminal**: 751 of 1,041 detainees have no criminal record or pending charges (up from 47% previously — a dramatic shift toward civil enforcement)
 
 ### ICE Arrest Statistics
 
-- Between Trump inauguration (Jan 20, 2025) and March 10, 2026: ~3,500 arrests linked to Louisville and Bowling Green ICE sub-offices
+- **~3,500 ICE arrests** since inauguration (Jan 20, 2025) from Louisville and Bowling Green ICE sub-offices (per LPM, April 2026)
 - This nearly equals the total arrests during the final 2 years and 3 months of Biden's term
 - Jan-Jul 2025: 1,293 ICE arrests — 37.6% increase over same period in 2024
 - **78% deportation rate** under Trump's second term vs. 42% under Biden
@@ -44,7 +46,9 @@ Kentucky has experienced one of the most dramatic expansions of ICE detention in
 
 Coordinated multi-agency operation in Western Kentucky resulting in 81 administrative arrests. 25 criminally charged (illegal reentry, firearms, controlled substances). Coordinated by HSI Nashville and ICE/ERO Chicago.
 
-## The Nine Contracting County Jails (as of Feb 2026)
+## The Eleven Contracting County Jails (as of Early 2026)
+
+> **Updated April 2026**: The number of contracting jails has grown from nine to **11**. Two additional jails have entered ICE detention contracts since the original LWVKY report. Specific facility identifications for the two newest jails are pending confirmation.
 
 | Facility | FIPS | ICE Detainees | Capacity | Notes |
 |----------|------|---------------|----------|-------|
@@ -60,7 +64,7 @@ Coordinated multi-agency operation in Western Kentucky resulting in 81 administr
 
 ## The 287(g) Explosion
 
-Before 2025, only Grayson County (since 2015) and a handful of others participated. By late 2025, **22 law enforcement agencies** had active 287(g) agreements — all signed in 2025. By early 2026, this had grown to **30 contracts across 24 agencies**, with 20 using the problematic Task Force Model.
+Before 2025, only Grayson County (since 2015) and a handful of others participated. By late 2025, 22 law enforcement agencies had active 287(g) agreements — all signed in 2025. By early 2026, this had grown to **30 contracts across 24 law enforcement agencies**, with 20 using the problematic Task Force Model. The continued expansion to **24 agencies** makes Kentucky one of the most aggressive 287(g) adopters in the country relative to population.
 
 ### Financial Incentives (implemented Oct 2025)
 
@@ -90,7 +94,7 @@ Northern Kentucky jails (Boone, Campbell, Kenton) structure their ICE agreements
 - Kenton County: $88/day per federal detainee
 - Oldham County: $73/day per federal detainee (vs. $40 for local inmates)
 
-## Legislation: HB 47 and SB 86 (2026 Session)
+## Legislation: GOP Bills to Mandate ICE Cooperation Statewide (2026 Session)
 
 ### House Bill 47
 
@@ -152,9 +156,11 @@ Eight residents spoke at Jan 21 fiscal court meeting. Judge/Executive Steve Pend
 ### Oldham County Transparency Fight
 
 - Community group questioned detention center profits
-- AG ruling: Oldham County Detention Center violated Kentucky Open Records Act by withholding ICE contract records
-- Must disclose: written agreements, payment proof, revenue/cost communications
+- **AG ruling (2026)**: Oldham County Detention Center violated Kentucky Open Records Act by withholding ICE contract records
+- **Ordered to disclose**: written agreements, ICE payment records, revenue/cost communications
+- Ruling establishes precedent: county jails profiting from ICE detention must disclose financial terms under state open records law
 - Context: $23 million facility opened 2018; proposed $8.1M revenue, more than half from federal prisoners
+- Source: Fox 56 — "Kentucky jail must disclose how much it's paid to hold immigration detainees"
 
 ## League of Women Voters of Kentucky Report (March 12, 2026)
 

@@ -60,6 +60,10 @@
       "last_researched": "2026-04-10",
       "notes": "Maricopa \u2014 Surprise warehouse"
     },
+    "04019": {
+      "last_researched": "2026-04-13",
+      "notes": "Marana 513-bed (775 requested) MTC facility on former state prison, sole-source ICE contract target Nov 2026. Sheriff Nanos caught lying re ICE/BP cooperation (Taco Bell incident), ACLU lawsuit for records, board threatening removal by Apr 21. County/Tucson/South Tucson resolutions opposing facility, ordinances restricting ICE use of county property. GOP senators filing AG complaint. ICE arrests tripled in AZ FY2025 (6000+)."
+    },
     "04021": {
       "last_researched": "2026-04-10",
       "notes": "Pinal \u2014 11,200 beds, Brad Miller, Eloy, La Palma, Florence SPC"
@@ -153,8 +157,8 @@
       "notes": "Hillsborough FL \u2014 $320K detention request"
     },
     "12085": {
-      "last_researched": "2026-04-10",
-      "notes": "Martin FL \u2014 early 287(g) adopter, Indiantown"
+      "last_researched": "2026-04-13",
+      "notes": "Martin Co FL \u2014 $738K enforcement grant, 2nd highest encounter rate, 400+ arrests since Aug 2025, Stuart ICE sub-office, Indiantown joint operation (11 arrests)"
     },
     "12086": {
       "last_researched": "2026-04-10",
@@ -163,6 +167,10 @@
     "12099": {
       "last_researched": "2026-04-10",
       "notes": "Palm Beach FL \u2014 118 DIOs, belly of the beast"
+    },
+    "12103": {
+      "last_researched": "2026-04-13",
+      "notes": "Pinellas FL \u2014 Tampa Bay designated ICE holding facility, 60pct detainee increase, 200 on floor, sheriff Gualtieri pressuring all chiefs 287g, DeSantis removal threats, 2922 regional arrests, 100+ protest Jun 2025"
     },
     "13049": {
       "last_researched": "2026-04-10",
@@ -581,8 +589,16 @@
       "notes": "Tallahatchie MS -- CoreCivic TCCF, 252 ICE beds, expansion Feb 2025"
     },
     "29077": {
-      "last_researched": "2026-04-12",
-      "notes": "Greene MO \u2014 flagged, not deeply researched"
+      "last_researched": "2026-04-13",
+      "notes": "Greene County Jail 233 ICE detainees, 375-bed capacity, $100/day, Miles Young case"
+    },
+    "29153": {
+      "last_researched": "2026-04-13",
+      "notes": "Ozark County \u2014 ICE contract $110/night + $1.10/mile transport, 525-mile runs, part of Ozarks corridor"
+    },
+    "29181": {
+      "last_researched": "2026-04-13",
+      "notes": "Ripley County \u2014 possible transport waypoint, 6m48s visitor engagement, needs FOIA"
     },
     "30003": {
       "last_researched": "2026-04-13",
@@ -776,6 +792,10 @@
       "last_researched": "2026-04-12",
       "notes": "Curry NM \u2014 only 287(g), forced to terminate"
     },
+    "36003": {
+      "last_researched": "2026-04-13",
+      "notes": "Allegany Co \u2014 jail holding ICE at $95/day, Village 287g, Batavia overflow"
+    },
     "36009": {
       "last_researched": "2026-04-12",
       "notes": "Cattaraugus \u2014 287(g) task force model, 10 ICE arrests 2025 (0 in 2024)"
@@ -815,6 +835,10 @@
     "36101": {
       "last_researched": "2026-04-12",
       "notes": "Steuben \u2014 Dual 287(g) + US Marshals 3yr contract (Feb 2026), community packed chambers demanding rescission"
+    },
+    "36111": {
+      "last_researched": "2026-04-13",
+      "notes": "Ulster Co \u2014 sanctuary county, sheriff Figueroa, adjacent to Chester/New Windsor ICE expansion"
     },
     "37001": {
       "last_researched": "2026-04-12",
@@ -881,8 +905,8 @@
       "notes": "Cuyahoga \u2014 No ICE contract, but 351 arrests in Cleveland. East Cleveland GTFO ordinance (first in OH). Score 50."
     },
     "39049": {
-      "last_researched": "2026-04-12",
-      "notes": "Franklin \u2014 Operation Buckeye epicenter, 701+ arrests 2025, 20 courthouse arrests, city passed 287(g) ban + moratorium. Score 18."
+      "last_researched": "2026-04-13",
+      "notes": "Franklin Co OH \u2014 20 courthouse arrests, sheriff handed 50 to ICE H1 2025"
     },
     "39055": {
       "last_researched": "2026-04-12",
@@ -937,8 +961,8 @@
       "notes": "Lane County OR -- Sheriff ICE backdoor at county jail, Oct 2025 lobby detentions, ACLU documented pattern (bail notifications, back entrance access), new Sheriff Wilkerson pledges sanctuary compliance, 15+ detained Nov 2025, Eugene PD auditor investigation, 550% detainment spike"
     },
     "42003": {
-      "last_researched": "2026-04-12",
-      "notes": "Allegheny PA \u2014 resistance, stealth 287(g) reversed"
+      "last_researched": "2026-04-13",
+      "notes": "Allegheny PA \u2014 Council 11-3 ICE ban Mar 2026, arrests tripled (448\u21921425 in 2025 + 358 Jan-Feb 2026), sheriff courthouse cooperation despite denials, Emilianos raid 16 detained, Ambridge saturation patrol, Kittanning DMV 13 detained, municipal 287g chaos (Munhall/Stowe reversed, Springdale retained, Robinson disputed, Coraopolis overturned 4-3), Casa San Jose 250+ volunteer tracking network, Pittsburgh office 810 booked as regional hub"
     },
     "45019": {
       "last_researched": "2026-04-13",
@@ -1207,8 +1231,8 @@
       "notes": "Metro Surge (2 killed, 50-75K marched), 3 fights blocked, AG 287(g) opinion, ACLU Freeborn injunction. Deep."
     },
     "MO": {
-      "last_researched": "2026-04-12",
-      "notes": "Greene County flagged but not deeply researched. KC fight already documented."
+      "last_researched": "2026-04-13",
+      "notes": "Greene Co 233 ICE detainees, Ozarks corridor, 60+ 287g, arrests tripled, rural jails competing for contracts"
     },
     "MS": {
       "last_researched": "2026-04-12",

@@ -10,7 +10,7 @@ outcome: "Columbus passed 287(g) ban and detention facility moratorium; courthou
 importance: 8
 tags: [operation-buckeye, columbus, sanctuary, 287g-ban, moratorium, courthouse-arrests, ohio]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-04-13"
 ---
 
 # Columbus/Franklin County: Anti-ICE Measures After Operation Buckeye
@@ -25,9 +25,11 @@ Columbus became the epicenter of Ohio's immigration enforcement controversy afte
 - **Franklin County Sheriff cooperation**: In first half of 2025, jail handed 50 people to ICE (vs 11 in all of 2024)
 - **Courthouse arrests**: 20 ICE arrests at Franklin County Municipal Court in 2025; activists pushing for rule change
 - **City response**: Columbus passed measures blocking 287(g) agreements and imposing moratorium on private detention centers
+- **Detention ban**: Columbus City Council banned ICE detention centers in city limits (confirmed in ACLU "ICE in Ohio" report, March 2026)
 - **Zoning defense**: Columbus moving to block construction of private, for-profit detention centers through zoning/permitting
 - **Student protests**: Central Ohio high school students protested ICE; teacher unions condemned ICE activity near schools (Jan 2026)
 - **Total central Ohio arrests**: 701+ in 2025 (421 Jan-Oct + 280 Operation Buckeye)
+- **ACLU lawsuit**: ACLU Ohio + partners sued ICE/DHS over warrantless arrests (March 19, 2026) — Columbus arrests cited as evidence
 
 ## Sources
 - [DHS Touts Success of Operation Buckeye (Jan 8, 2026)](https://www.dhs.gov/news/2026/01/08/dhs-touts-success-operation-buckeye-arresting-more-280-illegal-aliens-including)

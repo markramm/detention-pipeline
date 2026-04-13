@@ -6,7 +6,7 @@ state: OH
 importance: 6
 tags: [legislation, democratic-response, detention-standards, ohio, resistance]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-04-13"
 ---
 
 # Ohio Legislative Response to ICE Expansion
@@ -29,14 +29,17 @@ Ohio House Democrats introduced eight bills in early 2026 to respond to the Trum
 
 ### ACLU Federal Lawsuit
 - **Filed**: March 19, 2026
+- **Plaintiffs**: ACLU Ohio + partner organizations
 - **Against**: ICE and Department of Homeland Security
-- **Claim**: Warrantless arrests
+- **Claim**: Warrantless arrests — part of broader pattern documented in ACLU's "ICE in Ohio" report (March 2026)
 - **Forum**: Federal court
+- **Context from ACLU report**: 810 detainees across 6 facilities (up 75%), 20 287(g) agreements across 16 agencies (600% growth), Franklin County sheriff handed 50 to ICE in H1 2025 vs 11 in all 2024
 
 ### Local Policy Actions
-- Columbus: 287(g) ban + detention facility moratorium
+- Columbus: 287(g) ban + detention facility moratorium + City Council banned ICE detention centers in city limits (ACLU March 2026 report)
 - East Cleveland: GTFO ordinance (first in Ohio)
 - Multiple Ohio cities rethinking ICE cooperation
+- Franklin County courthouse: 20 ICE arrests inside courthouse in 2025; activists pushing for judicial rule change
 
 ## Sources
 - [New bill sets minimum standards for immigration detention centers - Ideastream (Feb 9, 2026)](https://www.ideastream.org/government-politics/2026-02-09/new-bill-sets-minimum-standards-for-immigration-detention-centers-in-ohio)

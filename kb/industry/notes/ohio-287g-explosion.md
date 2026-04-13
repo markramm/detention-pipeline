@@ -6,7 +6,7 @@ state: OH
 importance: 9
 tags: [287g, expansion, aclu-report, ohio, pattern]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-04-13"
 ---
 
 # Ohio: 287(g) Explosion — Zero to Twenty in One Year
@@ -27,7 +27,8 @@ Ohio went from zero 287(g) agreements at the start of Trump's second term (Janua
 - **Financial incentive**: If every jail bed in contracted Ohio facilities were filled, the financial gain would exceed $54 million total
 - **AG opinion** (Aug 2025): Ohio AG Dave Yost ruled county commissioners may enter ICE agreements on behalf of the sheriff, though the sheriff lacks independent contracting authority — sheriffs have proceeded anyway
 - **IGSA expansion**: Detention sites expanded from 2 (Geauga, Seneca) to 6 by end of 2025 (added Butler, Mahoning, NEOCC, CCNO)
-- **Detention capacity**: 670 immigrants detained in Ohio facilities (as of early 2026)
+- **Detention capacity**: 810 detainees across 6 facilities as of March 2026 (up 75% from earlier counts; previously reported as 670)
+- **Clermont County**: Signed 287(g) but gets ZERO reimbursement from ICE — only free training and IT equipment. A cautionary example of counties subsidizing federal enforcement at local taxpayer expense
 
 ## Pattern Match
 This mirrors the nationwide pattern: states go from zero or minimal 287(g) agreements to double digits within months once the first agreements are signed. The bounty system economics (per-diem payments to counties) and political signaling create a cascade effect. Ohio's trajectory matches SC and UT almost exactly.
