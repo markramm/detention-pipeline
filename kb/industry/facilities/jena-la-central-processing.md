@@ -17,15 +17,27 @@ tags:
 - louisiana-hub
 - mahmoud-khalil
 - college-students-detained
-research_status: stub
+research_status: working
+last_researched: "2026-04-12"
 ---
 
 # Central Louisiana ICE Processing Center
 
-1,160-bed ICE processing center in Jena, Louisiana, operated by [[geo-group|GEO Group]]. Part of the Louisiana detention cluster alongside the [[alexandria-la-staging-facility|Alexandria Staging Facility]]. Notable for holding detained college students including Mahmoud Khalil (Columbia University) and Badar Khan Suri.
+1,160-bed ICE processing center in Jena, LaSalle Parish, operated by [[geo-group|GEO Group]]. The **8th largest ICE facility in the United States** by population (1,176 detainees as of January 2025). Part of the Louisiana detention cluster alongside the [[alexandria-la-staging-facility|Alexandria Staging Facility]]. Notable for holding detained college students including Mahmoud Khalil (Columbia University) and Badar Khan Suri.
+
+## Mahmoud Khalil Case
+
+Mahmoud Khalil, a Columbia University student activist and lead negotiator in the Gaza Solidarity Encampment, was arrested by ICE on March 8, 2025 and transported to LaSalle/Central Louisiana IPC in Jena. A federal judge ordered his release on June 20, 2025, stating "there is an effort to use the immigration charge here to punish the petitioner" for his speech. The Third Circuit subsequently ruled (January 2026) that Khalil must exhaust the immigration court system first.
+
+## $1/Day Forced Labor
+
+GEO Group faces a Supreme Court case (*Raul Novoa v. GEO Group*) originating from this facility and others, over paying detainees as little as **$1/day** for forced labor, including allegedly depriving detainees of food, water, and hygiene supplies to coerce work. The Supreme Court rejected GEO Group's appeal for immunity in February 2026.
 
 ## Sources
 
 - [ICE: 2026 Central Louisiana ICE Processing Center inspection](https://www.ice.gov/node/69624)
 - [CNN: Complaints inside Louisiana and Texas ICE detention centers (Mar 2025)](https://www.cnn.com/2025/03/26/us/mahmoud-khalil-badar-khan-suri/index.html)
 - [The Advocate: What to know about the ICE facility in Jena](https://www.theadvocate.com/acadiana/news/what-you-need-to-know-about-the-ice-facility-in-jena/article_08ed8d4d-ecca-487a-a46f-3636aae707e6.html)
+- [Louisiana Illuminator: GEO Group $1/day labor (Mar 2025)](https://lailluminator.com/2025/03/20/ice-detain/)
+- [NPR: Khalil interview after release (Jun 2025)](https://www.npr.org/2025/06/23/nx-s1-5441691/mahmoud-khalil-interview)
+- [NOLA.com: ICE Jena Louisiana deportation center draws spotlight](https://www.nola.com/news/ice-jena-louisiana-deportation-center/article_5f54efce-3f64-4dec-9571-b49eb06320ac.html)

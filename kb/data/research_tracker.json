@@ -1,51 +1,386 @@
 {
-  "states": {
-    "AZ": { "last_researched": "2026-04-10", "notes": "Pinal 11,200-bed cluster, Brad Miller rogue 287(g), Surprise warehouse, Maricopa. Deep." },
-    "CO": { "last_researched": "2026-04-12", "notes": "9 secret hold rooms, Aurora GEO 1,530 beds, 3 new facilities planned (2,560 beds). Deep." },
-    "CT": { "last_researched": "2026-04-12", "notes": "Killingly tip only — 1.3M sqft warehouse, no end user. Monitoring." },
-    "FL": { "last_researched": "2026-04-10", "notes": "Broward, Miami-Dade, Palm Beach, Hillsborough, Martin, Bradford, Charlton GA crossover. Deep." },
-    "GA": { "last_researched": "2026-04-12", "notes": "Folkston 3,000-bed GEO merger, Stewart 1,800+ with deaths/sexual assault, Fulton anti-ICE resolution." },
-    "IN": { "last_researched": "2026-04-12", "notes": "Marion County 8,500-bed mega-facility proposed, jail at capacity, Miami Correctional activated." },
-    "MI": { "last_researched": "2026-04-10", "notes": "Wayne/Romulus lawsuit, North Lake Baldwin. Monroe County spillover confirmed." },
-    "MN": { "last_researched": "2026-04-12", "notes": "Metro Surge (2 killed, 50-75K marched), 3 fights blocked, AG 287(g) opinion, ACLU Freeborn injunction. Deep." },
-    "MO": { "last_researched": "2026-04-12", "notes": "Greene County flagged but not deeply researched. KC fight already documented." },
-    "NM": { "last_researched": "2026-04-12", "notes": "Curry County only 287(g), forced to terminate by Immigrant Safety Act May 2026." },
-    "OK": { "last_researched": "2026-04-12", "notes": "OKC warehouse blocked, Choctaw Nation purchase, $175M enforcement economy, 80% no-conviction rate." },
-    "OR": { "last_researched": "2026-04-12", "notes": "Sanctuary since 1987 but 1,100 arrests. Operation Black Rose, Palantir ELITE. Lane County sheriff backdoor. Newport fight. Deep." },
-    "PA": { "last_researched": "2026-04-12", "notes": "Allegheny stealth 287(g) reversed. Tremont/Hamburg warehouse fights already documented." },
-    "SC": { "last_researched": "2026-04-12", "notes": "3→37 287(g) in one year, SLED 47 TFM agents, H.4764 forced participation, Lexington churning. Deep." },
-    "TX": { "last_researched": "2026-04-12", "notes": "Webb CoreCivic, Frio/Pearsall 1,759 avg. Harris/Bexar background only — need fresh web search." },
-    "VA": { "last_researched": "2026-04-12", "notes": "Farmville CoreCivic $71.4M, Youngkin→Spanberger reversal, Loudoun 287(g) ban bill, Buckingham school SROs. Deep." }
-  },
   "counties": {
-    "04013": { "last_researched": "2026-04-10", "notes": "Maricopa — Surprise warehouse" },
-    "04021": { "last_researched": "2026-04-10", "notes": "Pinal — 11,200 beds, Brad Miller, Eloy, La Palma, Florence SPC" },
-    "08001": { "last_researched": "2026-04-12", "notes": "Adams CO — Aurora ICE Processing Center, GEO, conditions report" },
-    "08005": { "last_researched": "2026-04-12", "notes": "Arapahoe CO — Detention medical expansion, ICE Denver hold room" },
-    "09015": { "last_researched": "2026-04-12", "notes": "Windham CT — Killingly warehouse tip, monitoring" },
-    "12011": { "last_researched": "2026-04-10", "notes": "Broward FL — BTC $43M, death in custody, sheriff coerced" },
-    "12057": { "last_researched": "2026-04-10", "notes": "Hillsborough FL — $320K detention request" },
-    "12085": { "last_researched": "2026-04-10", "notes": "Martin FL — early 287(g) adopter, Indiantown" },
-    "12086": { "last_researched": "2026-04-10", "notes": "Miami-Dade FL — Alligator Alcatraz" },
-    "12099": { "last_researched": "2026-04-10", "notes": "Palm Beach FL — 118 DIOs, belly of the beast" },
-    "13049": { "last_researched": "2026-04-10", "notes": "Charlton GA — Folkston 3,000-bed GEO merger, $96M" },
-    "13259": { "last_researched": "2026-04-12", "notes": "Stewart GA — 1,800+, 13 deaths, sexual assault investigation" },
-    "18097": { "last_researched": "2026-04-12", "notes": "Marion IN — 8,500-bed mega-facility proposed" },
-    "26163": { "last_researched": "2026-04-10", "notes": "Wayne MI — Romulus, 8 signal types" },
-    "26115": { "last_researched": "2026-04-12", "notes": "Monroe MI — IGSA, Romulus spillover, habeas wave" },
-    "27163": { "last_researched": "2026-04-12", "notes": "Washington MN — Woodbury fight blocked" },
-    "29077": { "last_researched": "2026-04-12", "notes": "Greene MO — flagged, not deeply researched" },
-    "35009": { "last_researched": "2026-04-12", "notes": "Curry NM — only 287(g), forced to terminate" },
-    "40109": { "last_researched": "2026-04-12", "notes": "Oklahoma County — OKC warehouse blocked" },
-    "40143": { "last_researched": "2026-04-12", "notes": "Tulsa County — 80% no convictions" },
-    "41039": { "last_researched": "2026-04-12", "notes": "Lane OR — sheriff backdoor, Cottage Grove raid" },
-    "42003": { "last_researched": "2026-04-12", "notes": "Allegheny PA — resistance, stealth 287(g) reversed" },
-    "45019": { "last_researched": "2026-04-12", "notes": "Charleston SC — Operation Last Stand, 287(g) re-entry" },
-    "45063": { "last_researched": "2026-04-12", "notes": "Lexington SC — 12 beds churning" },
-    "48163": { "last_researched": "2026-04-12", "notes": "Frio TX — Pearsall 1,759 avg, GEO" },
-    "48479": { "last_researched": "2026-04-10", "notes": "Webb TX — CoreCivic, Sabot Laredo posting" },
-    "51013": { "last_researched": "2026-04-12", "notes": "Arlington VA — ICE HQ effect, not local detention" },
-    "51107": { "last_researched": "2026-04-12", "notes": "Loudoun VA — 287(g) ban bill, Spanberger deadline" },
-    "51147": { "last_researched": "2026-04-12", "notes": "Prince Edward VA — Farmville CoreCivic $71.4M" }
+    "04013": {
+      "last_researched": "2026-04-10",
+      "notes": "Maricopa \u2014 Surprise warehouse"
+    },
+    "04021": {
+      "last_researched": "2026-04-10",
+      "notes": "Pinal \u2014 11,200 beds, Brad Miller, Eloy, La Palma, Florence SPC"
+    },
+    "06001": {
+      "last_researched": "2026-04-12",
+      "notes": "Alameda CA \u2014 FCI Dublin fight, unanimous county opposition to ICE conversion"
+    },
+    "06025": {
+      "last_researched": "2026-04-12",
+      "notes": "Imperial CA \u2014 Score 100, MTC facility, 2 deaths in custody, ICE missed death report deadline"
+    },
+    "06029": {
+      "last_researched": "2026-04-12",
+      "notes": "Kern CA \u2014 3 facilities (CA City, Mesa Verde, GSA), ~3,760 beds, DOJ conditions findings"
+    },
+    "06037": {
+      "last_researched": "2026-04-12",
+      "notes": "Los Angeles CA \u2014 14 IGSAs, hub for enforcement coordination, Adelanto adjacent"
+    },
+    "06067": {
+      "last_researched": "2026-04-12",
+      "notes": "Sacramento CA \u2014 ICE agent attacked Mar 2026, DHS used to pressure sanctuary"
+    },
+    "06071": {
+      "last_researched": "2026-04-12",
+      "notes": "San Bernardino CA \u2014 Adelanto 2,690 beds, 3 deaths, federal lawsuit, solitary tripled"
+    },
+    "06073": {
+      "last_researched": "2026-04-12",
+      "notes": "San Diego CA \u2014 23 IGSAs, Otay Mesa overcrowded, county sues ICE, 1500% arrest surge, Escondido fight"
+    },
+    "08001": {
+      "last_researched": "2026-04-12",
+      "notes": "Adams CO \u2014 Aurora ICE Processing Center, GEO, conditions report"
+    },
+    "08005": {
+      "last_researched": "2026-04-12",
+      "notes": "Arapahoe CO \u2014 Detention medical expansion, ICE Denver hold room"
+    },
+    "09015": {
+      "last_researched": "2026-04-12",
+      "notes": "Windham CT \u2014 Killingly warehouse tip, monitoring"
+    },
+    "12011": {
+      "last_researched": "2026-04-10",
+      "notes": "Broward FL \u2014 BTC $43M, death in custody, sheriff coerced"
+    },
+    "12057": {
+      "last_researched": "2026-04-10",
+      "notes": "Hillsborough FL \u2014 $320K detention request"
+    },
+    "12085": {
+      "last_researched": "2026-04-10",
+      "notes": "Martin FL \u2014 early 287(g) adopter, Indiantown"
+    },
+    "12086": {
+      "last_researched": "2026-04-10",
+      "notes": "Miami-Dade FL \u2014 Alligator Alcatraz"
+    },
+    "12099": {
+      "last_researched": "2026-04-10",
+      "notes": "Palm Beach FL \u2014 118 DIOs, belly of the beast"
+    },
+    "13049": {
+      "last_researched": "2026-04-10",
+      "notes": "Charlton GA \u2014 Folkston 3,000-bed GEO merger, $96M"
+    },
+    "13259": {
+      "last_researched": "2026-04-12",
+      "notes": "Stewart GA \u2014 1,800+, 13 deaths, sexual assault investigation"
+    },
+    "17031": {
+      "last_researched": "2026-04-12",
+      "notes": "Cook County \u2014 Broadview facility, Midway Blitz hub, SA charging protocol, courthouse arrests, Broadview 6 prosecutions"
+    },
+    "17091": {
+      "last_researched": "2026-04-12",
+      "notes": "Kankakee \u2014 Jerome Combs lost ICE contract, $6.5M/yr revenue gone, budget pressure"
+    },
+    "17111": {
+      "last_researched": "2026-04-12",
+      "notes": "McHenry \u2014 Lost $10M/yr ICE contract, sheriff publicly wants to help ICE"
+    },
+    "18097": {
+      "last_researched": "2026-04-12",
+      "notes": "Marion IN \u2014 8,500-bed mega-facility proposed"
+    },
+    "22003": {
+      "last_researched": "2026-04-12",
+      "notes": "Allen Parish \u2014 score 131, sheriff-operated 165-bed facility, 6 IGSAs, highest LA score"
+    },
+    "22025": {
+      "last_researched": "2026-04-12",
+      "notes": "Catahoula \u2014 score 101, Operation Catahoula Crunch namesake"
+    },
+    "22029": {
+      "last_researched": "2026-04-12",
+      "notes": "Concordia \u2014 score 121, River Correctional 600-bed LaSalle Corrections, IGSA since 2019"
+    },
+    "22039": {
+      "last_researched": "2026-04-12",
+      "notes": "Evangeline \u2014 score 121, Pine Prairie (2x capacity) + South LA IPC (Basile, sexual abuse conviction, forced labor)"
+    },
+    "22049": {
+      "last_researched": "2026-04-12",
+      "notes": "Jackson \u2014 score 101, JPCC 1252-bed LaSalle, $74/day per detainee (3x state rate)"
+    },
+    "22059": {
+      "last_researched": "2026-04-12",
+      "notes": "LaSalle Parish \u2014 score 91, Central LA IPC 1160-bed GEO (8th largest US), Khalil detention, $1/day SCOTUS case"
+    },
+    "22071": {
+      "last_researched": "2026-04-12",
+      "notes": "Orleans \u2014 score 119, Sheriff Hutson v ICE lawsuit, sanctuary policy, Catahoula Crunch target"
+    },
+    "22073": {
+      "last_researched": "2026-04-12",
+      "notes": "Ouachita \u2014 score 101, Richwood CC 1129-bed LaSalle, overcapacity"
+    },
+    "22105": {
+      "last_researched": "2026-04-12",
+      "notes": "Tangipahoa \u2014 score 56, Hammond 9000-bed warehouse proposed, officials not contacted"
+    },
+    "22125": {
+      "last_researched": "2026-04-12",
+      "notes": "West Feliciana \u2014 Angola prison Louisiana Lockup Camp 57, 416 beds, opened Sep 2025, hunger strike"
+    },
+    "22127": {
+      "last_researched": "2026-04-12",
+      "notes": "Winn \u2014 score 101, WCC 1491 avg daily (highest LA), LaSalle Corrections, overcapacity, conditions crisis"
+    },
+    "26115": {
+      "last_researched": "2026-04-12",
+      "notes": "Monroe MI \u2014 IGSA, Romulus spillover, habeas wave"
+    },
+    "26163": {
+      "last_researched": "2026-04-10",
+      "notes": "Wayne MI \u2014 Romulus, 8 signal types"
+    },
+    "27163": {
+      "last_researched": "2026-04-12",
+      "notes": "Washington MN \u2014 Woodbury fight blocked"
+    },
+    "29077": {
+      "last_researched": "2026-04-12",
+      "notes": "Greene MO \u2014 flagged, not deeply researched"
+    },
+    "34003": {
+      "last_researched": "2026-04-12",
+      "notes": "Bergen \u2014 ICE jail contract lawsuit year 3, mediation failed, May 2026 expiry. Score 42."
+    },
+    "34005": {
+      "last_researched": "2026-04-12",
+      "notes": "Burlington \u2014 McGuire-Dix-Lakehurst military base. Score 10."
+    },
+    "34013": {
+      "last_researched": "2026-04-12",
+      "notes": "Essex \u2014 Delaney Hall 1,000-bed GEO, mayor arrest, detainee death, escape, conditions. Score 98."
+    },
+    "34015": {
+      "last_researched": "2026-04-12",
+      "notes": "Gloucester \u2014 heatmap signals but no county-specific news found. Score 52."
+    },
+    "34017": {
+      "last_researched": "2026-04-12",
+      "notes": "Hudson \u2014 ended ICE contract Nov 2021. Historical fight, resolved. Score 34."
+    },
+    "34023": {
+      "last_researched": "2026-04-12",
+      "notes": "Middlesex \u2014 heatmap signals, no county-specific news. Score 34."
+    },
+    "34025": {
+      "last_researched": "2026-04-12",
+      "notes": "Monmouth \u2014 heatmap signals, no county-specific 2025-2026 news. Score 34."
+    },
+    "34027": {
+      "last_researched": "2026-04-12",
+      "notes": "Morris \u2014 Roxbury $129M warehouse fight, state+township lawsuit, bipartisan opposition. NOT in heatmap but major finding."
+    },
+    "34029": {
+      "last_researched": "2026-04-12",
+      "notes": "Ocean \u2014 McGuire-Dix-Lakehurst military base straddles Burlington/Ocean. Score 38."
+    },
+    "34031": {
+      "last_researched": "2026-04-12",
+      "notes": "Passaic \u2014 heatmap signals, no county-specific news. Score 34."
+    },
+    "34035": {
+      "last_researched": "2026-04-12",
+      "notes": "Somerset \u2014 heatmap signals, no county-specific news. Score 22."
+    },
+    "34037": {
+      "last_researched": "2026-04-12",
+      "notes": "Sussex \u2014 heatmap signals, no county-specific news. Score 34."
+    },
+    "34039": {
+      "last_researched": "2026-04-12",
+      "notes": "Union \u2014 Elizabeth CoreCivic 300-bed, 3rd Circuit upheld operation, contract extension. Score 10."
+    },
+    "35009": {
+      "last_researched": "2026-04-12",
+      "notes": "Curry NM \u2014 only 287(g), forced to terminate"
+    },
+    "37001": {
+      "last_researched": "2026-04-12",
+      "notes": "Alamance \u2014 Sheriff Johnson ended ICE jail contract (overcrowding), negotiating former state prison for 70 beds"
+    },
+    "37025": {
+      "last_researched": "2026-04-12",
+      "notes": "Cabarrus \u2014 Concord warehouse, 1 of 21 cities, 1,500 beds proposed"
+    },
+    "37081": {
+      "last_researched": "2026-04-12",
+      "notes": "Guilford \u2014 American Hebrew Academy pitched for detention, city passed defensive 2,500ft zoning"
+    },
+    "37091": {
+      "last_researched": "2026-04-12",
+      "notes": "Hertford \u2014 Rivers Correctional 1,300 GEO, closed 2021, reopening negotiations, prior abuse"
+    },
+    "37119": {
+      "last_researched": "2026-04-12",
+      "notes": "Mecklenburg \u2014 Charlottes Web hub, 19 courthouse arrests, health facility arrest, sheriff shift"
+    },
+    "40109": {
+      "last_researched": "2026-04-12",
+      "notes": "Oklahoma County \u2014 OKC warehouse blocked"
+    },
+    "40143": {
+      "last_researched": "2026-04-12",
+      "notes": "Tulsa County \u2014 80% no convictions"
+    },
+    "41039": {
+      "last_researched": "2026-04-12",
+      "notes": "Lane OR \u2014 sheriff backdoor, Cottage Grove raid"
+    },
+    "42003": {
+      "last_researched": "2026-04-12",
+      "notes": "Allegheny PA \u2014 resistance, stealth 287(g) reversed"
+    },
+    "45019": {
+      "last_researched": "2026-04-12",
+      "notes": "Charleston SC \u2014 Operation Last Stand, 287(g) re-entry"
+    },
+    "45063": {
+      "last_researched": "2026-04-12",
+      "notes": "Lexington SC \u2014 12 beds churning"
+    },
+    "48163": {
+      "last_researched": "2026-04-12",
+      "notes": "Frio TX \u2014 Pearsall 1,759 avg, GEO"
+    },
+    "48479": {
+      "last_researched": "2026-04-10",
+      "notes": "Webb TX \u2014 CoreCivic, Sabot Laredo posting"
+    },
+    "49011": {
+      "last_researched": "2026-04-12",
+      "notes": "Davis \u2014 3 ANC contracts, regional jail network node"
+    },
+    "49035": {
+      "last_researched": "2026-04-12",
+      "notes": "Salt Lake \u2014 $145M mega-center, DHS pause, water+sewage weapons, GEO transport $10.4M"
+    },
+    "49049": {
+      "last_researched": "2026-04-12",
+      "notes": "Utah County \u2014 TFM+WSO 287(g), unanimous override of public opposition"
+    },
+    "49051": {
+      "last_researched": "2026-04-12",
+      "notes": "Wasatch \u2014 WSO 287(g), ICE transfers tripled (7\u219253)"
+    },
+    "49057": {
+      "last_researched": "2026-04-12",
+      "notes": "Weber \u2014 TFM 287(g), largest agency in state"
+    },
+    "51013": {
+      "last_researched": "2026-04-12",
+      "notes": "Arlington VA \u2014 ICE HQ effect, not local detention"
+    },
+    "51107": {
+      "last_researched": "2026-04-12",
+      "notes": "Loudoun VA \u2014 287(g) ban bill, Spanberger deadline"
+    },
+    "51147": {
+      "last_researched": "2026-04-12",
+      "notes": "Prince Edward VA \u2014 Farmville CoreCivic $71.4M"
+    }
+  },
+  "states": {
+    "AZ": {
+      "last_researched": "2026-04-10",
+      "notes": "Pinal 11,200-bed cluster, Brad Miller rogue 287(g), Surprise warehouse, Maricopa. Deep."
+    },
+    "CA": {
+      "last_researched": "2026-04-12",
+      "notes": "7 facilities $500M+, sanctuary paradox, Adelanto deaths/lawsuit, Otay Mesa county sues ICE, CA City $130M CoreCivic, Imperial deaths, FCI Dublin fight, AB1633 50% tax, SD 1500% arrest surge. Deep."
+    },
+    "CO": {
+      "last_researched": "2026-04-12",
+      "notes": "9 secret hold rooms, Aurora GEO 1,530 beds, 3 new facilities planned (2,560 beds). Deep."
+    },
+    "CT": {
+      "last_researched": "2026-04-12",
+      "notes": "Killingly tip only \u2014 1.3M sqft warehouse, no end user. Monitoring."
+    },
+    "FL": {
+      "last_researched": "2026-04-10",
+      "notes": "Broward, Miami-Dade, Palm Beach, Hillsborough, Martin, Bradford, Charlton GA crossover. Deep."
+    },
+    "GA": {
+      "last_researched": "2026-04-12",
+      "notes": "Folkston 3,000-bed GEO merger, Stewart 1,800+ with deaths/sexual assault, Fulton anti-ICE resolution."
+    },
+    "IL": {
+      "last_researched": "2026-04-12",
+      "notes": "Operation Midway Blitz 4,500+ arrests, Broadview de facto prison (TRO), SA charging protocol for ICE agents, courthouse targeting, Way Forward Act blocks county cooperation, Kankakee/McHenry budget pressure. Deep."
+    },
+    "IN": {
+      "last_researched": "2026-04-12",
+      "notes": "Marion County 8,500-bed mega-facility proposed, jail at capacity, Miami Correctional activated."
+    },
+    "LA": {
+      "last_researched": "2026-04-12",
+      "notes": "10 facilities documented (9 existing + Angola new), 7500+ detainees, 2nd after TX, 98% for-profit (GEO+LaSalle). Angola Camp 57 hunger strike, Pine Prairie 2x capacity, Basile sexual abuse conviction, Hammond 9000-bed warehouse proposed, Orleans Sheriff v ICE lawsuit, Operation GEAUX/Catahoula Crunch, $1/day forced labor SCOTUS case. Deep."
+    },
+    "MI": {
+      "last_researched": "2026-04-10",
+      "notes": "Wayne/Romulus lawsuit, North Lake Baldwin. Monroe County spillover confirmed."
+    },
+    "MN": {
+      "last_researched": "2026-04-12",
+      "notes": "Metro Surge (2 killed, 50-75K marched), 3 fights blocked, AG 287(g) opinion, ACLU Freeborn injunction. Deep."
+    },
+    "MO": {
+      "last_researched": "2026-04-12",
+      "notes": "Greene County flagged but not deeply researched. KC fight already documented."
+    },
+    "NC": {
+      "last_researched": "2026-04-12",
+      "notes": "27 287(g) agencies (3rd nationally), Operation Charlottes Web 1,300+ arrests (60%+ non-criminal), 3 proposed facilities (Rivers 1,300 GEO, Concord warehouse 1,500, Greensboro AHA), Alamance sheriff capacity limits, Brookford Task Force Model, courthouse/health targeting. Deep."
+    },
+    "NJ": {
+      "last_researched": "2026-04-12",
+      "notes": "Delaney Hall 1,000-bed GEO (death, escape, mayor arrest), Elizabeth 300-bed CoreCivic (contract extension), Roxbury $129M warehouse (state lawsuit), McGuire-Dix-Lakehurst military base, 3 sanctuary laws signed, 287(g) ban codified, Bergen contract fight year 3. Deep."
+    },
+    "NM": {
+      "last_researched": "2026-04-12",
+      "notes": "Curry County only 287(g), forced to terminate by Immigrant Safety Act May 2026."
+    },
+    "OK": {
+      "last_researched": "2026-04-12",
+      "notes": "OKC warehouse blocked, Choctaw Nation purchase, $175M enforcement economy, 80% no-conviction rate."
+    },
+    "OR": {
+      "last_researched": "2026-04-12",
+      "notes": "Sanctuary since 1987 but 1,100 arrests. Operation Black Rose, Palantir ELITE. Lane County sheriff backdoor. Newport fight. Deep."
+    },
+    "PA": {
+      "last_researched": "2026-04-12",
+      "notes": "Allegheny stealth 287(g) reversed. Tremont/Hamburg warehouse fights already documented."
+    },
+    "SC": {
+      "last_researched": "2026-04-12",
+      "notes": "3\u219237 287(g) in one year, SLED 47 TFM agents, H.4764 forced participation, Lexington churning. Deep."
+    },
+    "TX": {
+      "last_researched": "2026-04-12",
+      "notes": "Webb CoreCivic, Frio/Pearsall 1,759 avg. Harris/Bexar background only \u2014 need fresh web search."
+    },
+    "UT": {
+      "last_researched": "2026-04-12",
+      "notes": "SLC $145M mega-center (paused DHS review), 0\u219211 287(g) in one year, 4 Task Force Model, GEO pre-contract, 4,164 arrests. Deep."
+    },
+    "VA": {
+      "last_researched": "2026-04-12",
+      "notes": "Farmville CoreCivic $71.4M, Youngkin\u2192Spanberger reversal, Loudoun 287(g) ban bill, Buckingham school SROs. Deep."
+    }
   }
 }

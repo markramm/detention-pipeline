@@ -12,10 +12,11 @@ contract_type: federal-purchase
 status: contested
 importance: 7
 tags: [warehouse-conversion, detention-reengineering, regional-processing-center, new-jersey, lawsuit, bipartisan-opposition]
-research_status: enriched
+research_status: working
 purchase_price: "$129.3 million"
 markup: "137% over value"
 prior_owner: "Goldman Sachs (former majority owner)"
+planned_staff: "~1,000"
 ---
 
 # Roxbury NJ Warehouse — ICE Regional Processing Center
@@ -42,9 +43,17 @@ DHS purchased a **470,000-square-foot warehouse** at 1879 Route 46 in Roxbury, N
 
 New Jersey Governor Sherrill, Attorney General Davenport, and Roxbury Township filed a **joint lawsuit** against ICE and DHS over plans to convert the warehouse into a mass detention facility.
 
+## Staffing and Infrastructure
+
+- **Planned staff**: ~1,000 employees
+- **Known infrastructure**: Only 4 toilets in current configuration (for up to 1,500 detainees)
+- **Renovation contract**: Federal government planned to execute by end of March 2026, completion within 90 days, potentially opening June 2026
+
 ## Political Dynamics
 
 The facility has sparked **bipartisan backlash** in New Jersey, described by critics as the work of "an agency out of control." This opposition crosses party lines in a state that also faces military base detention plans at [[jbmdl-nj-military|Joint Base McGuire-Dix-Lakehurst]].
+
+Key organizers include **Tom Kelleher** (Mount Olive/Roxbury Visibility Brigade) and **William Angus** (No ICE Northern Jersey Alliance). The entire NJ Democratic congressional delegation mobilized against the facility. See [[roxbury-nj-lawsuit]] for full legal fight details.
 
 ## Sources
 
