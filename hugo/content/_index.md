@@ -7,5 +7,5 @@ total_states: 56
 total_facilities: 1294
 total_fights: 92
 total_contractors: 25
-max_score: 179
+max_score: 163
 ---

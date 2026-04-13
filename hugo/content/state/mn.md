@@ -3,6 +3,6 @@ title: "Minnesota"
 type: state
 layout: single
 state_abbr: "MN"
-county_count: 17
+county_count: 18
 entry_count: 47
 ---

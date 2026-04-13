@@ -161,10 +161,19 @@
   const PAGE_SIZE = 50;
 
   function classify(county) {
+    // Only count signals that are direct (county-specific), not state-propagated
     const sigs = Object.keys(county.signals);
-    const humanCount = sigs.filter(s => HUMAN_TYPES.has(s)).length;
-    if (humanCount >= 2) return 'well';
-    if (humanCount === 1) return 'partial';
+    const directHuman = sigs.filter(s => {
+      if (!HUMAN_TYPES.has(s)) return false;
+      const sig = county.signals[s];
+      // New format: {count: N, propagated: M} — direct = count - propagated
+      if (typeof sig === 'object' && sig.propagated) {
+        return sig.count > sig.propagated; // has at least one direct entry
+      }
+      return true; // old format (just a number) or no propagated field = all direct
+    }).length;
+    if (directHuman >= 2) return 'well';
+    if (directHuman === 1) return 'partial';
     return 'unresearched';
   }
 

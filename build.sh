@@ -39,12 +39,24 @@ for fips, data in sorted(county_data.items(), key=lambda x: -x[1]['score']):
         continue
     county_name = FIPS_TO_COUNTY.get(fips, fips)
     signals_detail = {}
+    # Direct (county-specific) signals
     for stype, titles in data['signals'].items():
         if titles:
             signals_detail[stype] = {
                 'count': len(titles),
                 'entries': titles[:5]
             }
+    # Propagated (state-level) signals — merge with direct
+    for stype, titles in data.get('propagated', {}).items():
+        if titles:
+            if stype in signals_detail:
+                signals_detail[stype]['propagated'] = len(titles)
+            else:
+                signals_detail[stype] = {
+                    'count': len(titles),
+                    'entries': titles[:5],
+                    'propagated': len(titles)
+                }
     output.append({
         'fips': fips,
         'county': county_name,

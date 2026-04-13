@@ -140,6 +140,22 @@ def parse_frontmatter(filepath):
     return fields
 
 
+def resolve_county_to_fips(county_name, state):
+    """Try to resolve a county name + state to a FIPS code using the loaded lookup."""
+    if not county_name or not state or not FIPS_TO_COUNTY:
+        return ""
+    # Normalize county name for matching
+    county_lower = county_name.lower().replace(" county", "").replace(" parish", "").strip()
+    for fips, name in FIPS_TO_COUNTY.items():
+        # FIPS_TO_COUNTY values are like "Lexington County, SC"
+        name_lower = name.lower()
+        name_county = name_lower.split(",")[0].replace(" county", "").replace(" parish", "").strip()
+        name_state = name.split(",")[-1].strip() if "," in name else ""
+        if name_county == county_lower and name_state == state:
+            return fips
+    return ""
+
+
 def scan_kb(kb_path, entry_type_override=None):
     """Scan a KB directory for entries with FIPS codes. Returns list of (fips, state, entry_type, title)."""
     entries = []
@@ -153,6 +169,7 @@ def scan_kb(kb_path, entry_type_override=None):
             fields = parse_frontmatter(filepath)
             fips = fields.get("fips", "")
             state = fields.get("state", "")
+            county = fields.get("county", "")
             entry_type = entry_type_override or fields.get("type", "unknown")
             title = fields.get("title", fname)
             contract_class = fields.get("contract_class", "")
@@ -161,6 +178,10 @@ def scan_kb(kb_path, entry_type_override=None):
             # they're valuable in the KB but too noisy for the heat map
             if entry_type == "ice-contract" and contract_class != "detention-related":
                 continue
+
+            # Try to resolve FIPS from county name if missing
+            if not fips and county and state:
+                fips = resolve_county_to_fips(county, state)
 
             if fips or state:
                 entries.append({
@@ -174,8 +195,8 @@ def scan_kb(kb_path, entry_type_override=None):
 
 def score_counties(igsa_path, pipeline_path):
     """Score all counties by signal convergence."""
-    # county_data[fips] = {signals: {type: [titles]}, state: str, score: int}
-    county_data = defaultdict(lambda: {"signals": defaultdict(list), "state": "", "score": 0})
+    # county_data[fips] = {signals: {type: [titles]}, propagated: {type: [titles]}, state: str, score: int}
+    county_data = defaultdict(lambda: {"signals": defaultdict(list), "propagated": defaultdict(list), "state": "", "score": 0})
 
     # Scan IGSA holders
     for entry in scan_kb(igsa_path, entry_type_override="igsa"):
@@ -195,23 +216,35 @@ def score_counties(igsa_path, pipeline_path):
             county_data[fips]["signals"][etype].append(entry["title"])
             county_data[fips]["state"] = state
         elif state:
-            # State-level signals (job postings, legislative traces) — apply to all counties in state
+            # State-level signals — propagate to all counties in state at reduced weight
             for cfips, cdata in county_data.items():
                 if cdata["state"] == state:
-                    cdata["signals"][etype].append(entry["title"])
+                    cdata["propagated"][etype].append(entry["title"])
+
+    # Propagation weight — state-level entries contribute 25% of normal weight
+    PROPAGATION_FACTOR = 0.25
 
     # Calculate scores
     for fips, data in county_data.items():
         score = 0
+        # Score direct (county-specific) signals at full weight
         for signal_type, entries in data["signals"].items():
             weight = WEIGHTS.get(signal_type, 1)
             cap = MAX_ENTRIES_PER_TYPE.get(signal_type, 5)
             capped_count = min(len(entries), cap)
             score += weight * capped_count
+        # Score propagated (state-level) signals at reduced weight
+        for signal_type, entries in data["propagated"].items():
+            # Only count propagated signals for types not already present as direct
+            if signal_type not in data["signals"]:
+                weight = WEIGHTS.get(signal_type, 1)
+                cap = MAX_ENTRIES_PER_TYPE.get(signal_type, 5)
+                capped_count = min(len(entries), cap)
+                score += int(weight * capped_count * PROPAGATION_FACTOR)
         data["score"] = score
+
         # Bonus for signal diversity (multiple signal types = convergence)
-        # This is the key insight: 3 different signal types in one county
-        # is far more predictive than 10 entries of the same type
+        # Only count direct signals for the diversity bonus — propagated don't count
         signal_types = len([t for t in data["signals"] if data["signals"][t]])
         if signal_types >= 3:
             data["score"] += 10 * (signal_types - 2)  # +10 per type beyond 2
@@ -271,13 +304,26 @@ def main():
         output = []
         for fips, data in ranked:
             county_name = FIPS_TO_COUNTY.get(fips, fips)
+            # Merge direct and propagated signals, preserving entry titles
+            signals = {}
+            for k, v in data["signals"].items():
+                if v:
+                    signals[k] = {"count": len(v), "entries": v[:5]}
+            for k, v in data["propagated"].items():
+                if v:
+                    if k in signals:
+                        # Has both direct and propagated — add propagated count
+                        signals[k]["propagated"] = len(v)
+                    else:
+                        # Only propagated (state-level, no county-specific entry)
+                        signals[k] = {"count": len(v), "entries": v[:5], "propagated": len(v)}
             output.append({
                 "fips": fips,
                 "county": county_name,
                 "state": data["state"],
                 "score": data["score"],
                 "signal_types": len([t for t in data["signals"] if data["signals"][t]]),
-                "signals": {k: len(v) for k, v in data["signals"].items() if v},
+                "signals": signals,
             })
         print(json.dumps(output, indent=2))
 
