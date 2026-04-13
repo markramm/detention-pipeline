@@ -99,20 +99,34 @@ def draw_gradient_bg(draw):
 
 
 def composite_heatmap(img, heatmap_src, opacity=60):
-    """Use the heatmap screenshot as the card background, dimmed for text readability."""
+    """Place the heatmap as a hero image in the top portion of the card.
+
+    The map is scaled down to fit the top ~55% of the card, with text
+    rendered below it. Returns the card with the map composited in.
+    """
     if heatmap_src is None:
         return img
 
-    # Resize heatmap to fill entire card
-    hm = heatmap_src.copy().convert("RGBA")
-    hm = hm.resize((W, H), Image.LANCZOS)
+    hm = heatmap_src.copy().convert("RGB")
+    src_w, src_h = hm.size
 
-    # Darken the heatmap so text is readable on top
-    # Blend with a dark overlay at the given opacity (0=full map, 100=fully dark)
-    dark = Image.new("RGBA", (W, H), (10, 10, 15, int(255 * opacity / 100)))
-    hm = Image.alpha_composite(hm, dark)
+    # Crop to the central/southern US where hot spots are
+    crop_top = int(src_h * 0.12)
+    crop_bottom = int(src_h * 0.92)
+    hm = hm.crop((0, crop_top, src_w, crop_bottom))
 
-    return hm.convert("RGB")
+    # Scale to fit top portion of card (55% height)
+    map_h = int(H * 0.55)
+    map_w = int(hm.width * map_h / hm.height)
+    if map_w > W:
+        map_w = W
+        map_h = int(hm.height * map_w / hm.width)
+    hm = hm.resize((map_w, map_h), Image.LANCZOS)
+
+    # Center horizontally
+    x_offset = (W - map_w) // 2
+    img.paste(hm, (x_offset, 0))
+    return img
 
 
 def draw_brand(draw, fonts):
@@ -159,38 +173,30 @@ def draw_score_badge(draw, fonts, score, x, y):
 
 
 def generate_default_card(fonts, output_path, heatmap_src=None):
-    """Generate the default site-wide OG card."""
+    """Generate the default site-wide OG card. Map on top, text below."""
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    # Composite heatmap first (behind text)
-    img = composite_heatmap(img, heatmap_src, opacity=30)
+    img = composite_heatmap(img, heatmap_src)
     draw = ImageDraw.Draw(img)
 
     LM = 80
+    text_top = int(H * 0.55) + 12
 
-    # Title
-    draw.text((LM, 70), "Detention Pipeline", fill=TEXT_LIGHT, font=fonts["title_xl"])
-    draw.text((LM, 135), "Early Warning System", fill=ACCENT, font=fonts["mono_xl"])
-
-    # Subtitle
-    draw.text((LM, 200), "Tracking signal convergence across", fill=TEXT_MID, font=fonts["sans_xl"])
-    draw.text((LM, 240), "U.S. counties to detect ICE detention", fill=TEXT_MID, font=fonts["sans_xl"])
-    draw.text((LM, 280), "expansion before it happens.", fill=TEXT_MID, font=fonts["sans_xl"])
+    # Title + subtitle
+    draw.text((LM, text_top), "Detention Pipeline", fill=TEXT_LIGHT, font=fonts["title"])
+    draw.text((LM, text_top + 48), "Early Warning System", fill=ACCENT, font=fonts["mono_lg"])
 
     # Stats
-    stats_y = 350
+    stats_y = text_top + 90
     stats = [("1,988", "Counties"), ("43", "Fights"), ("85", "Facilities")]
     sx = LM
     for val, label in stats:
         draw.text((sx, stats_y), val, fill=TEXT_LIGHT, font=fonts["mono_xl"])
         bbox = fonts["mono_xl"].getbbox(val)
-        draw.text((sx, stats_y + 42), label.upper(), fill=TEXT_DIM, font=fonts["mono"])
-        sx += (bbox[2] - bbox[0]) + 80
-
-    # Accent line
-    draw.rectangle([LM, 440, LM + 240, 444], fill=ACCENT)
+        draw.text((sx, stats_y + 38), label.upper(), fill=TEXT_DIM, font=fonts["mono"])
+        sx += (bbox[2] - bbox[0]) + 70
 
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
@@ -287,72 +293,48 @@ def generate_state_card(fonts, state_abbr, state_name, counties, output_path):
 
 
 def generate_fight_card(fonts, title, summary, status, state, output_path, heatmap_src=None):
-    """Generate OG card for a county fight page."""
+    """Generate OG card for a county fight page. Map on top, text below."""
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    img = composite_heatmap(img, heatmap_src, opacity=30)
+    img = composite_heatmap(img, heatmap_src)
     draw = ImageDraw.Draw(img)
 
     LM = 80
+    text_top = int(H * 0.55) + 12
 
     # Status badge
     status_color = ACCENT if status == "contested" else (212, 106, 47) if status == "litigation" else (42, 138, 90)
-    draw.rectangle([LM, 50, LM + 12, 50 + 36], fill=status_color)
-    draw.text((LM + 22, 52), "COUNTY FIGHT", fill=TEXT_MID, font=fonts["mono_lg"])
-    draw.text((LM + 240, 52), (status or "").upper(), fill=status_color, font=fonts["mono_lg"])
+    draw.rectangle([LM, text_top, LM + 12, text_top + 28], fill=status_color)
+    draw.text((LM + 22, text_top), "COUNTY FIGHT", fill=TEXT_MID, font=fonts["mono_lg"])
+    draw.text((LM + 240, text_top), (status or "").upper(), fill=status_color, font=fonts["mono_lg"])
 
-    # Title (may need wrapping)
+    # Title
     title_clean = title.split(" — ")[0] if " — " in title else title
-    words = title_clean.split()
-    lines = []
-    current = ""
-    for w in words:
-        if len(current + " " + w) < 28:
-            current = (current + " " + w).strip()
-        else:
-            lines.append(current)
-            current = w
-    if current:
-        lines.append(current)
-    for i, line in enumerate(lines[:2]):
-        draw.text((LM, 110 + i * 64), line, fill=TEXT_LIGHT, font=fonts["title_xl"])
-    summary_y = 110 + min(len(lines), 2) * 64 + 24
+    trunc_title = title_clean[:55] + ("..." if len(title_clean) > 55 else "")
+    draw.text((LM, text_top + 40), trunc_title, fill=TEXT_LIGHT, font=fonts["title"])
 
-    # Summary (wrapped)
+    # Summary (one line)
     if summary:
-        words = summary.split()
-        lines = []
-        current = ""
-        for w in words:
-            if len(current + " " + w) < 50:
-                current = (current + " " + w).strip()
-            else:
-                lines.append(current)
-                current = w
-        if current:
-            lines.append(current)
-        for i, line in enumerate(lines[:4]):
-            draw.text((LM, summary_y + i * 32), line, fill=TEXT_MID, font=fonts["sans_lg"])
-
-    # Accent
-    draw.rectangle([LM, H - 100, LM + 200, H - 96], fill=status_color)
+        trunc = summary[:90] + ("..." if len(summary) > 90 else "")
+        draw.text((LM, text_top + 90), trunc, fill=TEXT_MID, font=fonts["sans"])
 
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
 
 
 def generate_player_card(fonts, title, summary, player_type, signal_color_hex, output_path, heatmap_src=None):
-    """Generate OG card for a player/organization page."""
+    """Generate OG card for a player/organization page. Map on top, text below."""
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    img = composite_heatmap(img, heatmap_src, opacity=30)
+    img = composite_heatmap(img, heatmap_src)
     draw = ImageDraw.Draw(img)
 
     LM = 80
+    text_top = int(H * 0.55) + 12
 
     # Parse hex color
     try:
@@ -363,98 +345,52 @@ def generate_player_card(fonts, title, summary, player_type, signal_color_hex, o
 
     # Type label
     type_label = (player_type or "player").upper().replace("-", " ")
-    draw.rectangle([LM, 50, LM + 12, 50 + 36], fill=color)
-    draw.text((LM + 22, 52), type_label, fill=TEXT_MID, font=fonts["mono_lg"])
+    draw.rectangle([LM, text_top, LM + 12, text_top + 28], fill=color)
+    draw.text((LM + 22, text_top), type_label, fill=TEXT_MID, font=fonts["mono_lg"])
 
-    # Title (wrapped)
+    # Title
     title_clean = title.split(" — ")[0] if " — " in title else title
-    words = title_clean.split()
-    lines = []
-    current = ""
-    for w in words:
-        if len(current + " " + w) < 28:
-            current = (current + " " + w).strip()
-        else:
-            lines.append(current)
-            current = w
-    if current:
-        lines.append(current)
-    for i, line in enumerate(lines[:2]):
-        draw.text((LM, 110 + i * 64), line, fill=TEXT_LIGHT, font=fonts["title_xl"])
-    summary_y = 110 + min(len(lines), 2) * 64 + 24
+    trunc_title = title_clean[:55] + ("..." if len(title_clean) > 55 else "")
+    draw.text((LM, text_top + 40), trunc_title, fill=TEXT_LIGHT, font=fonts["title"])
 
-    # Summary
+    # Summary (one line)
     if summary:
-        words = summary.split()
-        lines = []
-        current = ""
-        for w in words:
-            if len(current + " " + w) < 50:
-                current = (current + " " + w).strip()
-            else:
-                lines.append(current)
-                current = w
-        if current:
-            lines.append(current)
-        for i, line in enumerate(lines[:4]):
-            draw.text((LM, summary_y + i * 32), line, fill=TEXT_MID, font=fonts["sans_lg"])
+        trunc = summary[:90] + ("..." if len(summary) > 90 else "")
+        draw.text((LM, text_top + 90), trunc, fill=TEXT_MID, font=fonts["sans"])
 
-    draw.rectangle([LM, H - 100, LM + 200, H - 96], fill=color)
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
 
 
 def generate_blog_card(fonts, title, summary, date, output_path, heatmap_src=None):
-    """Generate OG card for a blog post."""
+    """Generate OG card for a blog post. Map on top, text below."""
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    img = composite_heatmap(img, heatmap_src, opacity=30)
+    # Place heatmap in top portion
+    img = composite_heatmap(img, heatmap_src)
     draw = ImageDraw.Draw(img)
 
     LM = 80
+    # Text starts below the map
+    text_top = int(H * 0.55) + 12
 
-    # Type label
-    draw.rectangle([LM, 50, LM + 12, 50 + 36], fill=ACCENT_WARM)
-    draw.text((LM + 22, 52), "UPDATE", fill=TEXT_MID, font=fonts["mono_lg"])
+    # Accent bar + type label
+    draw.rectangle([LM, text_top, LM + 12, text_top + 28], fill=ACCENT_WARM)
+    draw.text((LM + 22, text_top), "UPDATE", fill=TEXT_MID, font=fonts["mono_lg"])
     if date:
-        draw.text((LM + 160, 56), date.upper(), fill=TEXT_DIM, font=fonts["mono"])
+        draw.text((LM + 160, text_top + 2), date.upper(), fill=TEXT_DIM, font=fonts["mono"])
 
-    # Title (wrapped, large)
+    # Title
     title_clean = title or "Pipeline Update"
-    words = title_clean.split()
-    lines = []
-    current = ""
-    for w in words:
-        if len(current + " " + w) < 28:
-            current = (current + " " + w).strip()
-        else:
-            lines.append(current)
-            current = w
-    if current:
-        lines.append(current)
-    for i, line in enumerate(lines[:2]):
-        draw.text((LM, 110 + i * 64), line, fill=TEXT_LIGHT, font=fonts["title_xl"])
+    draw.text((LM, text_top + 40), title_clean, fill=TEXT_LIGHT, font=fonts["title"])
 
-    # Summary (wrapped, readable)
-    summary_y = 110 + min(len(lines), 2) * 64 + 24
+    # Summary (one line)
     if summary:
-        words = summary.split()
-        lines = []
-        current = ""
-        for w in words:
-            if len(current + " " + w) < 50:
-                current = (current + " " + w).strip()
-            else:
-                lines.append(current)
-                current = w
-        if current:
-            lines.append(current)
-        for i, line in enumerate(lines[:4]):
-            draw.text((LM, summary_y + i * 32), line, fill=TEXT_MID, font=fonts["sans_lg"])
+        trunc = summary[:90] + ("..." if len(summary) > 90 else "")
+        draw.text((LM, text_top + 90), trunc, fill=TEXT_MID, font=fonts["sans"])
 
-    draw.rectangle([LM, H - 100, LM + 200, H - 96], fill=ACCENT_WARM)
     draw_brand(draw, fonts)
     img.save(output_path, "PNG", optimize=True)
 
