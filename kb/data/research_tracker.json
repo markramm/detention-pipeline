@@ -92,6 +92,42 @@
       "last_researched": "2026-04-12",
       "notes": "Marion IN \u2014 8,500-bed mega-facility proposed"
     },
+    "20013": {
+      "last_researched": "2026-04-12",
+      "notes": "Brown KS - All three 287(g) models signed Nov 2025 (JEM + TFM + WSO), most aggressive county in KS"
+    },
+    "20017": {
+      "last_researched": "2026-04-12",
+      "notes": "Chase County KS - sole remaining county ICE jail, 148 beds, overcrowded 18/33 days, conditions crisis (medical neglect, floor sleeping), IGSA, budget-dependent"
+    },
+    "20055": {
+      "last_researched": "2026-04-12",
+      "notes": "Finney KS (Garden City) - IGSA + WSO 287(g), ~175 daily ICE detainees, 13% noncitizen pop, meatpacking economy, community fear"
+    },
+    "20103": {
+      "last_researched": "2026-04-12",
+      "notes": "Leavenworth KS - CoreCivic 1,033-bed Midwest Regional Reception Center, permit approved 4-1 Mar 10 2026, $60M/yr revenue, community fight lost"
+    },
+    "20125": {
+      "last_researched": "2026-04-12",
+      "notes": "Montgomery KS - heatmap signals but no specific 2025-2026 findings, 287(g) county"
+    },
+    "20159": {
+      "last_researched": "2026-04-12",
+      "notes": "Rice KS - Historical IGSA (ended 2014), no current ICE detention, former major facility"
+    },
+    "20173": {
+      "last_researched": "2026-04-12",
+      "notes": "Sedgwick KS (Wichita) - WSO 287(g) Nov 2025, 167 ICE holds Jan-Oct 2025, largest county jail in KS"
+    },
+    "20177": {
+      "last_researched": "2026-04-12",
+      "notes": "Shawnee KS (Topeka) - Task Force Model 287(g) Jul 2025, 6 deputies trained, one of only 2 TFM agencies in KS"
+    },
+    "20209": {
+      "last_researched": "2026-04-12",
+      "notes": "Wyandotte KS (KCK) - 2yr moratorium on detention permits approved 4-2 by Planning Commission Feb 2026, preemptive defense"
+    },
     "22003": {
       "last_researched": "2026-04-12",
       "notes": "Allen Parish \u2014 score 131, sheriff-operated 165-bed facility, 6 IGSAs, highest LA score"
@@ -152,6 +188,34 @@
       "last_researched": "2026-04-12",
       "notes": "Greene MO \u2014 flagged, not deeply researched"
     },
+    "33001": {
+      "last_researched": "2026-04-12",
+      "notes": "Belknap \u2014 Sheriff signed 287(g), score 26"
+    },
+    "33007": {
+      "last_researched": "2026-04-12",
+      "notes": "Coos \u2014 FCI Berlin 204+ ICE detainees (80% non-criminal), Carroll/Colebrook/Gorham/Pittsburg/Whitefield PDs all 287(g), Gorham town voted to recommend withdrawal"
+    },
+    "33009": {
+      "last_researched": "2026-04-12",
+      "notes": "Grafton \u2014 Sheriff signed 287(g), score 19"
+    },
+    "33011": {
+      "last_researched": "2026-04-12",
+      "notes": "Hillsborough \u2014 Merrimack warehouse scrapped but DHS won't rule out, Sheriff 287(g), Hudson warehouse monitored"
+    },
+    "33013": {
+      "last_researched": "2026-04-12",
+      "notes": "Merrimack County \u2014 score 63, no specific 2025-2026 findings beyond statewide 287(g) pattern"
+    },
+    "33015": {
+      "last_researched": "2026-04-12",
+      "notes": "Rockingham \u2014 Sheriff signed 287(g) Apr 2025, Auburn/Candia/Epping PDs also signed, immigration arrests confirmed, score 63"
+    },
+    "33017": {
+      "last_researched": "2026-04-12",
+      "notes": "Strafford \u2014 County jail holds 145 ICE detainees ($150/day, $9M/yr), 68% non-criminal, Dems voted 22-11 to renegotiate IGSA, budget rejected 29-4 in protest"
+    },
     "34003": {
       "last_researched": "2026-04-12",
       "notes": "Bergen \u2014 ICE jail contract lawsuit year 3, mediation failed, May 2026 expiry. Score 42."
@@ -208,6 +272,46 @@
       "last_researched": "2026-04-12",
       "notes": "Curry NM \u2014 only 287(g), forced to terminate"
     },
+    "36009": {
+      "last_researched": "2026-04-12",
+      "notes": "Cattaraugus \u2014 287(g) task force model, 10 ICE arrests 2025 (0 in 2024)"
+    },
+    "36029": {
+      "last_researched": "2026-04-12",
+      "notes": "Erie \u2014 ICE arrests surged 59\u2192620 (2024\u21922025), no confirmed 287(g) or IGSA"
+    },
+    "36037": {
+      "last_researched": "2026-04-12",
+      "notes": "Genesee \u2014 Batavia federal facility 745+ detainees (650 cap), OIG inspection failures, 226 charter flights, medical crisis, solitary top-10"
+    },
+    "36059": {
+      "last_researched": "2026-04-12",
+      "notes": "Nassau \u2014 287(g) Feb 2025, 95/night, 50 cells, detainee death Sep 2025 (Santos Reyes-Banegas), AG investigating"
+    },
+    "36061": {
+      "last_researched": "2026-04-12",
+      "notes": "New York (Manhattan) \u2014 26 Federal Plaza holding cells, class action trial May 2026, secret 9th floor"
+    },
+    "36063": {
+      "last_researched": "2026-04-12",
+      "notes": "Niagara \u2014 287(g) signed May 2025 then sheriff pulled back Jan 2026, requires warrants"
+    },
+    "36065": {
+      "last_researched": "2026-04-12",
+      "notes": "Oneida \u2014 Camden police 287(g) task force signed July 2025 after ICE took restaurant owner"
+    },
+    "36071": {
+      "last_researched": "2026-04-12",
+      "notes": "Orange \u2014 Chester warehouse 1500-bed proposal killed by community, but New Windsor/Woodbury still possible. Jail already holds ICE detainees (324 in 2024)"
+    },
+    "36081": {
+      "last_researched": "2026-04-12",
+      "notes": "Queens \u2014 NYC AOR hub, 1200+ arrested first 8 weeks 2026, 76% no criminal history"
+    },
+    "36101": {
+      "last_researched": "2026-04-12",
+      "notes": "Steuben \u2014 Dual 287(g) + US Marshals 3yr contract (Feb 2026), community packed chambers demanding rescission"
+    },
     "37001": {
       "last_researched": "2026-04-12",
       "notes": "Alamance \u2014 Sheriff Johnson ended ICE jail contract (overcrowding), negotiating former state prison for 70 beds"
@@ -227,6 +331,46 @@
     "37119": {
       "last_researched": "2026-04-12",
       "notes": "Mecklenburg \u2014 Charlottes Web hub, 19 courthouse arrests, health facility arrest, sheriff shift"
+    },
+    "39015": {
+      "last_researched": "2026-04-12",
+      "notes": "Brown \u2014 287(g) signals in heatmap but no specific 2025-2026 ICE agreement details found. Score 21."
+    },
+    "39017": {
+      "last_researched": "2026-04-12",
+      "notes": "Butler \u2014 $14M+ ICE revenue, 287(g) jail+task force, Operation Buckeye detention site, conditions complaints, $20M projected 2026"
+    },
+    "39035": {
+      "last_researched": "2026-04-12",
+      "notes": "Cuyahoga \u2014 No ICE contract, but 351 arrests in Cleveland. East Cleveland GTFO ordinance (first in OH). Score 50."
+    },
+    "39049": {
+      "last_researched": "2026-04-12",
+      "notes": "Franklin \u2014 Operation Buckeye epicenter, 701+ arrests 2025, 20 courthouse arrests, city passed 287(g) ban + moratorium. Score 18."
+    },
+    "39055": {
+      "last_researched": "2026-04-12",
+      "notes": "Geauga \u2014 Original ICE site, ~50/day, secret contract, ACLU Ohio Supreme Court lawsuit."
+    },
+    "39099": {
+      "last_researched": "2026-04-12",
+      "notes": "Mahoning \u2014 500 ICE detainees across 2 facilities (NEOCC CoreCivic 784 beds + county jail 100/day), 7th busiest deportation airport, protests. Score 40."
+    },
+    "39117": {
+      "last_researched": "2026-04-12",
+      "notes": "Morrow \u2014 Historical ICE site, contract ended 2021 (zero detainees Feb 2021), jail renovation underway. Score 20."
+    },
+    "39129": {
+      "last_researched": "2026-04-12",
+      "notes": "Pickaway \u2014 IGSA signal in heatmap but no current ICE detention activity found. Score 20."
+    },
+    "39147": {
+      "last_researched": "2026-04-12",
+      "notes": "Seneca \u2014 Original ICE site, ~62/day, $90/day ($10 profit margin), 287(g), transparent (released invoices). Score 49."
+    },
+    "39171": {
+      "last_researched": "2026-04-12",
+      "notes": "Williams \u2014 CCNO regional jail (5 counties), 96 ICE beds, $117/day, 8-2 board vote, Lucas County dissent. Score N/A (not in heatmap)."
     },
     "40109": {
       "last_researched": "2026-04-12",
@@ -251,6 +395,46 @@
     "45063": {
       "last_researched": "2026-04-12",
       "notes": "Lexington SC \u2014 12 beds churning"
+    },
+    "47009": {
+      "last_researched": "2026-04-12",
+      "notes": "Blount \u2014 heatmap signals, part of East TN 287(g) network, no county-specific news found"
+    },
+    "47011": {
+      "last_researched": "2026-04-12",
+      "notes": "Bradley \u2014 Dual 287(g) (JEM + WSO), highest 287(g) score in heatmap"
+    },
+    "47037": {
+      "last_researched": "2026-04-12",
+      "notes": "Davidson \u2014 Nashville ICE-THP 600+ stops, 40-100 detained, profiling scandal, THP rejected further ICE ops Mar 2026"
+    },
+    "47065": {
+      "last_researched": "2026-04-12",
+      "notes": "Hamilton \u2014 287(g) JEM active, 500+ arrests, sheriff refused 60 ICE transit beds, 100+ protested Jan 2026"
+    },
+    "47093": {
+      "last_researched": "2026-04-12",
+      "notes": "Knox \u2014 3,470 ICE detentions in 2025 (4x increase), losing money at $83-114/day vs $140 cost, AKIN monitoring"
+    },
+    "47141": {
+      "last_researched": "2026-04-12",
+      "notes": "Putnam \u2014 First TN 287(g) (Feb 2025), first Task Force Model (Jun 2025), 36 ICE beds, 231 detainers"
+    },
+    "47157": {
+      "last_researched": "2026-04-12",
+      "notes": "Shelby \u2014 Memphis Safe Task Force 1044+ arrests, state of emergency Oct 2025, 77% no convictions, Yasser Soza student detained, anti-ICE march Jan 2026"
+    },
+    "47167": {
+      "last_researched": "2026-04-12",
+      "notes": "Tipton \u2014 West TN Detention Facility (Mason), 600-bed CoreCivic, reopened Sep 2025, ~450 detainees by end 2025"
+    },
+    "47187": {
+      "last_researched": "2026-04-12",
+      "notes": "Williamson \u2014 Sheriff researching 287(g) but not yet signed, political pressure growing"
+    },
+    "47189": {
+      "last_researched": "2026-04-12",
+      "notes": "Wilson \u2014 16,000-bed Lebanon mega-center blocked by Republican revolt Feb 2026, deal killed by Blackburn"
     },
     "48163": {
       "last_researched": "2026-04-12",
@@ -326,6 +510,10 @@
       "last_researched": "2026-04-12",
       "notes": "Marion County 8,500-bed mega-facility proposed, jail at capacity, Miami Correctional activated."
     },
+    "KS": {
+      "last_researched": "2026-04-12",
+      "notes": "Leavenworth CoreCivic 1,033-bed permit approved 4-1 (Mar 2026), Chase County 148-bed sole county jail overcrowded (18/33 days over capacity, conditions crisis), 20+ 287(g) agencies (from 3 in Jan 2025), HB 2372 veto override forces ICE cooperation, Prairie Band Potawatomi exited $30M mega-center design contract, Wyandotte County 2yr moratorium, SW Kansas (Finney/Garden City) enforcement hotspot. Deep."
+    },
     "LA": {
       "last_researched": "2026-04-12",
       "notes": "10 facilities documented (9 existing + Angola new), 7500+ detainees, 2nd after TX, 98% for-profit (GEO+LaSalle). Angola Camp 57 hunger strike, Pine Prairie 2x capacity, Basile sexual abuse conviction, Hammond 9000-bed warehouse proposed, Orleans Sheriff v ICE lawsuit, Operation GEAUX/Catahoula Crunch, $1/day forced labor SCOTUS case. Deep."
@@ -346,6 +534,10 @@
       "last_researched": "2026-04-12",
       "notes": "27 287(g) agencies (3rd nationally), Operation Charlottes Web 1,300+ arrests (60%+ non-criminal), 3 proposed facilities (Rivers 1,300 GEO, Concord warehouse 1,500, Greensboro AHA), Alamance sheriff capacity limits, Brookford Task Force Model, courthouse/health targeting. Deep."
     },
+    "NH": {
+      "last_researched": "2026-04-12",
+      "notes": "Merrimack warehouse scrapped Feb 2026 but DHS won't rule out NH (Apr 2026). FCI Berlin 204+ ICE detainees (80% non-criminal). Strafford County jail 145 detainees, $9M/yr IGSA, Dems voted 22-11 to renegotiate. 15 287(g) agencies (only New England state), ACLU-NH FOIA lawsuit for training docs. Town meetings in Gorham/Ossipee voted to recommend 287(g) withdrawal. HB 1609 would ban state/local detention funding. Deep."
+    },
     "NJ": {
       "last_researched": "2026-04-12",
       "notes": "Delaney Hall 1,000-bed GEO (death, escape, mayor arrest), Elizabeth 300-bed CoreCivic (contract extension), Roxbury $129M warehouse (state lawsuit), McGuire-Dix-Lakehurst military base, 3 sanctuary laws signed, 287(g) ban codified, Bergen contract fight year 3. Deep."
@@ -353,6 +545,14 @@
     "NM": {
       "last_researched": "2026-04-12",
       "notes": "Curry County only 287(g), forced to terminate by Immigrant Safety Act May 2026."
+    },
+    "NY": {
+      "last_researched": "2026-04-12",
+      "notes": "Batavia 745+ (650 cap), 26 Federal Plaza secret 9th floor trial May 2026, Chester warehouse killed by community, 12 287(g) agreements in 9 counties (from 1 pre-2025), county jails 6x increase (2800 in 7mo vs 500/yr), Nassau detainee death, Niagara sheriff pullback, Camden police 287(g) after ICE took restaurant owner, Hochul 287(g) ban bill vs NY4All, private prisons illegal forces IGSA pipeline. Deep."
+    },
+    "OH": {
+      "last_researched": "2026-04-12",
+      "notes": "6 facilities (Butler $14M+, NEOCC 784 CoreCivic, Mahoning 500 combined, Seneca, Geauga secret contract, CCNO 96 beds), 0-to-20 287(g) in one year, Operation Buckeye 280+ arrests, $13.2M+ detention economy, ACLU lawsuit, East Cleveland GTFO ordinance, 8-bill Democratic package. Deep."
     },
     "OK": {
       "last_researched": "2026-04-12",
@@ -369,6 +569,10 @@
     "SC": {
       "last_researched": "2026-04-12",
       "notes": "3\u219237 287(g) in one year, SLED 47 TFM agents, H.4764 forced participation, Lexington churning. Deep."
+    },
+    "TN": {
+      "last_researched": "2026-04-12",
+      "notes": "Mason 600-bed CoreCivic (reopened Sep 2025), Lebanon 16K mega-center killed by Republican revolt Feb 2026, Memphis Safe Task Force (state of emergency, 1044+ arrests, Natl Guard), Nashville ICE-THP operation (600 stops, profiling scandal, THP rejected ICE), 287(g) explosion 14->60+ agencies via SB6002, Knox County 3470 detentions (losing money), Putnam first Task Force Model, Hamilton 500+ arrests but refused 60 ICE beds, Bradley dual 287(g). Deep."
     },
     "TX": {
       "last_researched": "2026-04-12",
