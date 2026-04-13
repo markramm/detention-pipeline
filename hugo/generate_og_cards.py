@@ -165,7 +165,7 @@ def generate_default_card(fonts, output_path, heatmap_src=None):
     draw_gradient_bg(draw)
 
     # Composite heatmap first (behind text)
-    img = composite_heatmap(img, heatmap_src, opacity=50)
+    img = composite_heatmap(img, heatmap_src, opacity=30)
     draw = ImageDraw.Draw(img)
 
     LM = 80
@@ -292,7 +292,7 @@ def generate_fight_card(fonts, title, summary, status, state, output_path, heatm
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    img = composite_heatmap(img, heatmap_src, opacity=50)
+    img = composite_heatmap(img, heatmap_src, opacity=30)
     draw = ImageDraw.Draw(img)
 
     LM = 80
@@ -349,7 +349,7 @@ def generate_player_card(fonts, title, summary, player_type, signal_color_hex, o
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    img = composite_heatmap(img, heatmap_src, opacity=50)
+    img = composite_heatmap(img, heatmap_src, opacity=30)
     draw = ImageDraw.Draw(img)
 
     LM = 80
@@ -410,7 +410,7 @@ def generate_blog_card(fonts, title, summary, date, output_path, heatmap_src=Non
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    img = composite_heatmap(img, heatmap_src, opacity=50)
+    img = composite_heatmap(img, heatmap_src, opacity=30)
     draw = ImageDraw.Draw(img)
 
     LM = 80
