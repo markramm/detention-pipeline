@@ -11,6 +11,7 @@ tags:
 - performance-bonuses
 - structural-analysis
 research_status: working
+last_researched: "2026-04-13"
 ---
 
 # South Carolina: The Fastest 287(g) Expansion
@@ -44,8 +45,24 @@ Starting October 1, 2025, DHS reimburses 287(g) agencies:
 
 ICE arrested **3,000+ people** in SC in 2025, more than doubling the prior year total.
 
+## H.4764 Update (April 2026)
+
+The SC House passed H.4764 on April 2, 2026, voting 85-30. The bill now moves to the Senate. Despite unanimous public opposition at the first hearing (Feb 17), and the ACLU's "Deputized for Disaster" report documenting racial profiling and civil rights violations, the bill advanced on party lines.
+
+## Related County-Level Entries
+
+- **Lexington County**: [lexington-county-detention-center-sc](../facilities/lexington-county-detention-center-sc.md) — 781 detainees churned through 12 beds in 2025
+- **Charleston County**: [charleston-county-detention-center-sc](../facilities/charleston-county-detention-center-sc.md) — 881 arrests, 30% of all SC enforcement
+- **Richland County**: [strom-thurmond-holdroom-columbia-sc](../facilities/strom-thurmond-holdroom-columbia-sc.md) — Secret hold room, 416 detained in 2025
+- **Richland County**: [ice-opla-office-columbia-sc](../facilities/ice-opla-office-columbia-sc.md) — $4.3M OPLA office, 10-year lease
+- **Charleston fight**: [charleston-county-sc-racial-profiling-ice](../county-fights/charleston-county-sc-racial-profiling-ice.md) — Documented racial profiling in traffic stops
+- **Three-county synthesis**: [sc-midlands-enforcement-infrastructure](sc-midlands-enforcement-infrastructure.md)
+
 ## Sources
 
 - [WIS-TV: SC agencies partnering with ICE](https://www.wistv.com/2026/01/29/which-south-carolina-law-enforcement-agencies-partner-with-ice/)
 - [Post & Courier: Lexington County beds churning](https://www.postandcourier.com/columbia/news/ice-lexington-sc-detention-center-immigration/article_ae0912ad-f0e3-4677-af4d-2b39fb54e87d.html)
 - [Post & Courier: ICE arrests doubled in Upstate](https://www.postandcourier.com/greenville/news/upstate-south-carolina-ice-immigration-arrests/article_fe0e0642-4325-4240-9431-79c3bc2c4ab1.html)
+- [ACLU-SC: 287(g) Agreements in South Carolina](https://www.aclusc.org/287g-agreements-in-south-carolina/)
+- [ACLU-SC: As Forced ICE Collaboration Bill advances](https://www.aclusc.org/press-releases/as-forced-ice-collaboration-bill-advances-aclu-reports-on-damage-to-public-trust-and-civil-rights/)
+- [Spectrum: South Carolina House passes ICE partnership bill](https://spectrumlocalnews.com/sc/south-carolina/news/2026/04/02/south-carolina-ice-bill)

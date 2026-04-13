@@ -56,3 +56,7 @@ Federal Judge Kasubhai ruled in February 2026 that ICE's warrantless arrests in 
 - [ACLU Oregon: Open letter to Lane County Sheriff](https://www.aclu-or.org/en/press-releases/open-letter-lane-county-sheriffs-office-about-illegal-collaboration-ice)
 - [OPB: Kotek denounces ICE operations](https://www.opb.org/article/2026/01/24/kotek-denounces-ice-operations-in-oregon-says-legistlature-will-respond/)
 - [Oregon Capital Chronicle: Kotek signs 8 immigrant protection bills](https://oregoncapitalchronicle.com/2026/04/09/oregon-governor-signs-slew-of-bills-protecting-immigrants-amid-federal-crackdown/)
+
+## Cross-References
+
+- See also: [lane-county-or-ice-jail-backdoor](../county-fights/lane-county-or-ice-jail-backdoor.md) — detailed Lane County county-fight entry with jail backdoor pattern, new sheriff appointment, and November 2025 raids

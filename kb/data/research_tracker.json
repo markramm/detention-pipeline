@@ -133,12 +133,12 @@
       "notes": "San Diego CA \u2014 23 IGSAs, Otay Mesa overcrowded, county sues ICE, 1500% arrest surge, Escondido fight"
     },
     "08001": {
-      "last_researched": "2026-04-12",
-      "notes": "Adams CO \u2014 Aurora ICE Processing Center, GEO, conditions report"
+      "last_researched": "2026-04-13",
+      "notes": "Adams CO \u2014 Aurora ICE Processing Center (GEO, 1530 beds) in county; health investigation blocked by GEO Jan 2026; ICE revoked body writs June 2025; commissioners solidarity statement Jan 2026; Rep. Lorena Garcia legislation; top-5 ICE arrests statewide 2025; Jan 2025 DEA/ICE raid ~50 arrested"
     },
     "08005": {
-      "last_researched": "2026-04-12",
-      "notes": "Arapahoe CO \u2014 Detention medical expansion, ICE Denver hold room"
+      "last_researched": "2026-04-13",
+      "notes": "Arapahoe CO \u2014 DENHOLD hold room in Centennial (~1400 detainees Jan-Oct 2025, busiest of 9 statewide, bedless, 72hr rule violated); 3rd-highest ICE arrests statewide 2025; Aurora MOU debate delayed April 2026; Sheriff Tyler Brown cautious; NGP Group landlord $2.2M/yr"
     },
     "09015": {
       "last_researched": "2026-04-12",
@@ -208,6 +208,10 @@
       "last_researched": "2026-04-12",
       "notes": "Cook County \u2014 Broadview facility, Midway Blitz hub, SA charging protocol, courthouse arrests, Broadview 6 prosecutions"
     },
+    "17089": {
+      "last_researched": "2026-04-13",
+      "notes": "Kane County IL -- Operation Midway Blitz suburban hotspot, ICE courthouse arrests (Aug 2025), physician documenting arrests was himself arrested, Aurora unanimously passed anti-ICE city property ordinance Nov 2025, St. Charles refused, Motorola Solutions ICE contracts (ALPR/tactical comms), TRUST Act blocks sheriff cooperation but ICE operates independently"
+    },
     "17091": {
       "last_researched": "2026-04-12",
       "notes": "Kankakee \u2014 Jerome Combs lost ICE contract, $6.5M/yr revenue gone, budget pressure"
@@ -215,6 +219,18 @@
     "17111": {
       "last_researched": "2026-04-12",
       "notes": "McHenry \u2014 Lost $10M/yr ICE contract, sheriff publicly wants to help ICE"
+    },
+    "18019": {
+      "last_researched": "2026-04-13",
+      "notes": "Clark IN -- Jeffersonville jail = southern IN ICE detention hub since Apr 2025, 150-bed ICE capacity, 336+ processed by Oct 2025, $70-90/day, Do Something Southern Indiana opposition group"
+    },
+    "18025": {
+      "last_researched": "2026-04-13",
+      "notes": "Crawford IN -- Budget distress 4/10 (population loss, low education, rural). No 287(g), no ICE facility. Low priority."
+    },
+    "18061": {
+      "last_researched": "2026-04-13",
+      "notes": "Harrison IN -- Corydon PD dual 287(g) TFM+WSO (Sep 2025), 213-bed jail, adjacent to Clark County ICE facility, Louisville border corridor, 94.5% white county (pop 40K), FAIRNESS Act (SB 76) effective Jul 2026"
     },
     "18097": {
       "last_researched": "2026-04-12",
@@ -869,20 +885,24 @@
       "notes": "Tulsa County \u2014 80% no convictions"
     },
     "41039": {
-      "last_researched": "2026-04-12",
-      "notes": "Lane OR \u2014 sheriff backdoor, Cottage Grove raid"
+      "last_researched": "2026-04-13",
+      "notes": "Lane County OR -- Sheriff ICE backdoor at county jail, Oct 2025 lobby detentions, ACLU documented pattern (bail notifications, back entrance access), new Sheriff Wilkerson pledges sanctuary compliance, 15+ detained Nov 2025, Eugene PD auditor investigation, 550% detainment spike"
     },
     "42003": {
       "last_researched": "2026-04-12",
       "notes": "Allegheny PA \u2014 resistance, stealth 287(g) reversed"
     },
     "45019": {
-      "last_researched": "2026-04-12",
-      "notes": "Charleston SC \u2014 Operation Last Stand, 287(g) re-entry"
+      "last_researched": "2026-04-13",
+      "notes": "Charleston SC \u2014 881 arrests in 9 months (30% of all SC), 287g WSO Mar 2025, Operation Last Stand 80 arrests Jun 2025, North Charleston racial profiling Nov 2025, SLED/SCHP coordination"
     },
     "45063": {
-      "last_researched": "2026-04-12",
-      "notes": "Lexington SC \u2014 12 beds churning"
+      "last_researched": "2026-04-13",
+      "notes": "Lexington SC \u2014 12-bed churning hub, 781 detainees 2025, 287g JEM since 2020, $67.95/day rate, Sheriff Koon, refuses to disclose charges, 2/3 deported had no conviction"
+    },
+    "45079": {
+      "last_researched": "2026-04-13",
+      "notes": "Richland SC \u2014 Strom Thurmond secret hold room (416 detained 2025, 150% increase), building sale announced Apr 2026, new OPLA office $4.3M 10yr lease at 1441 Main St, ICE doubling Midlands arrests"
     },
     "46023": {
       "last_researched": "2026-04-13",
@@ -981,8 +1001,8 @@
       "notes": "Franklin VT \u2014 NWSCF detention facility (262 beds, $185/day MOU), Pleasant Valley Farm dairy raid (8 arrested Apr 2025), Swanton Sector CBP hub, highest VT heatmap score"
     },
     "51013": {
-      "last_researched": "2026-04-12",
-      "notes": "Arlington VA \u2014 ICE HQ effect, not local detention"
+      "last_researched": "2026-04-13",
+      "notes": "Arlington VA -- ICE administrative/surveillance hub, Arlington Immigration Court (Crystal City, one of busiest), 5 ATD contracts linked to BI/GEO Group ISAP monitoring, fusion center processes GPS/surveillance data, county removed Section 7 ICE cooperation May 2025, sheriff ended cooperation Dec 2022, ICE agents surveilling courthouse exits"
     },
     "51107": {
       "last_researched": "2026-04-12",

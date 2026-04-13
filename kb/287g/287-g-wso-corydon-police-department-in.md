@@ -21,4 +21,8 @@ County: Harrison County
 State: IN
 FIPS: 18061
 
+Corydon PD (population ~3,150) holds both TFM and WSO agreements. The WSO model allows officers to serve ICE administrative warrants in the jail. Combined with the TFM (proactive street enforcement), this gives a small-town PD comprehensive immigration enforcement powers. Adjacent Clark County Jail (Jeffersonville, 30 min east) serves as the receiving ICE detention facility.
+
+Note: The Harrison County Sheriff's Office (Sheriff Nick Smith) has NOT signed a 287(g) agreement. Only Corydon PD has this authority.
+
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
