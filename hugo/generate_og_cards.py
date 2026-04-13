@@ -80,6 +80,14 @@ def load_fonts():
     return fonts
 
 
+def load_heatmap_overlay():
+    """Load the cropped heatmap screenshot for compositing into cards."""
+    hm_path = Path(__file__).parent / "static" / "og" / "heatmap-cropped.png"
+    if not hm_path.exists():
+        return None
+    return Image.open(hm_path).convert("RGBA")
+
+
 def draw_gradient_bg(draw):
     """Draw subtle gradient background."""
     for y in range(H):
@@ -88,6 +96,40 @@ def draw_gradient_bg(draw):
         g = int(10 + t * 7)
         b = int(15 + t * 9)
         draw.line([(0, y), (W, y)], fill=(r, g, b))
+
+
+def composite_heatmap(img, heatmap_src, opacity=60):
+    """Composite heatmap onto right side of card as faded background."""
+    if heatmap_src is None:
+        return img
+    # Resize heatmap to fill right portion of card
+    hm = heatmap_src.copy()
+    # Scale to card height, positioned right-aligned
+    scale = H / hm.height
+    new_w = int(hm.width * scale)
+    hm = hm.resize((new_w, H), Image.LANCZOS)
+    # Offset so it sits on the right side
+    x_offset = W - new_w + 80  # push slightly right so it bleeds off edge
+    # Fade the heatmap
+    alpha = hm.split()[3]
+    alpha = alpha.point(lambda p: int(p * opacity / 255))
+    hm.putalpha(alpha)
+    # Create a fade gradient from left (fully transparent) to right (visible)
+    from PIL import ImageDraw as ID2
+    fade = Image.new("L", (new_w, H), 0)
+    fade_draw = ID2.Draw(fade)
+    for x in range(new_w):
+        t = x / new_w
+        # Stronger fade on left side to protect text
+        v = int(255 * max(0, (t - 0.3) / 0.7)) if t > 0.3 else 0
+        fade_draw.line([(x, 0), (x, H)], fill=v)
+    hm_alpha = hm.split()[3]
+    hm_alpha = Image.composite(hm_alpha, Image.new("L", hm_alpha.size, 0), fade)
+    hm.putalpha(hm_alpha)
+    # Convert base image to RGBA for compositing
+    base = img.convert("RGBA")
+    base.paste(hm, (x_offset, 0), hm)
+    return base.convert("RGB")
 
 
 def draw_brand(draw, fonts):
@@ -133,11 +175,15 @@ def draw_score_badge(draw, fonts, score, x, y):
     return tw + 30
 
 
-def generate_default_card(fonts, output_path):
+def generate_default_card(fonts, output_path, heatmap_src=None):
     """Generate the default site-wide OG card."""
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
+
+    # Composite heatmap first (behind text)
+    img = composite_heatmap(img, heatmap_src, opacity=50)
+    draw = ImageDraw.Draw(img)
 
     LM = 80
 
@@ -257,11 +303,14 @@ def generate_state_card(fonts, state_abbr, state_name, counties, output_path):
     img.save(output_path, "PNG", optimize=True)
 
 
-def generate_fight_card(fonts, title, summary, status, state, output_path):
+def generate_fight_card(fonts, title, summary, status, state, output_path, heatmap_src=None):
     """Generate OG card for a county fight page."""
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
+
+    img = composite_heatmap(img, heatmap_src, opacity=35)
+    draw = ImageDraw.Draw(img)
 
     LM = 80
 
@@ -311,11 +360,14 @@ def generate_fight_card(fonts, title, summary, status, state, output_path):
     img.save(output_path, "PNG", optimize=True)
 
 
-def generate_player_card(fonts, title, summary, player_type, signal_color_hex, output_path):
+def generate_player_card(fonts, title, summary, player_type, signal_color_hex, output_path, heatmap_src=None):
     """Generate OG card for a player/organization page."""
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
+
+    img = composite_heatmap(img, heatmap_src, opacity=35)
+    draw = ImageDraw.Draw(img)
 
     LM = 80
 
@@ -369,13 +421,16 @@ def generate_player_card(fonts, title, summary, player_type, signal_color_hex, o
     img.save(output_path, "PNG", optimize=True)
 
 
-def generate_blog_card(fonts, title, summary, date, output_path):
+def generate_blog_card(fonts, title, summary, date, output_path, heatmap_src=None):
     """Generate OG card for a blog post."""
     img = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(img)
     draw_gradient_bg(draw)
 
-    LM = 80  # left margin — generous for social media cropping
+    img = composite_heatmap(img, heatmap_src, opacity=40)
+    draw = ImageDraw.Draw(img)
+
+    LM = 80
 
     # Type label
     draw.rectangle([LM, 50, LM + 12, 50 + 36], fill=ACCENT_WARM)
@@ -441,9 +496,16 @@ def main():
 
     generated = 0
 
+    # Load heatmap overlay for cards that use it
+    heatmap_src = load_heatmap_overlay()
+    if heatmap_src:
+        print(f"  Loaded heatmap overlay for compositing")
+    else:
+        print(f"  No heatmap overlay found (run screenshot first)")
+
     # Default card
     if not args.type or args.type == "default":
-        generate_default_card(fonts, out / "default.png")
+        generate_default_card(fonts, out / "default.png", heatmap_src=heatmap_src)
         print(f"  Generated default card")
         generated += 1
 
@@ -481,7 +543,7 @@ def main():
                 if fm:
                     generate_fight_card(fonts, fm.get("title", ""), fm.get("summary", ""),
                                        fm.get("status", ""), fm.get("state", ""),
-                                       out / f"fight-{md.stem}.png")
+                                       out / f"fight-{md.stem}.png", heatmap_src=heatmap_src)
                     generated += 1
             print(f"  Generated fight cards")
 
@@ -496,7 +558,8 @@ def main():
                         generate_player_card(fonts, fm.get("title", ""), fm.get("summary", ""),
                                             fm.get("entry_type", fm.get("player_type", "")),
                                             fm.get("signal_color", "#d46a2f"),
-                                            out / f"player-{md.stem}.png")
+                                            out / f"player-{md.stem}.png",
+                                            heatmap_src=heatmap_src)
                         generated += 1
             print(f"  Generated player cards")
 
@@ -510,7 +573,8 @@ def main():
                 if fm:
                     generate_blog_card(fonts, fm.get("title", ""), fm.get("summary", ""),
                                       fm.get("date", ""),
-                                      out / f"blog-{md.stem}.png")
+                                      out / f"blog-{md.stem}.png",
+                                      heatmap_src=heatmap_src)
                     generated += 1
                     blog_count += 1
             print(f"  Generated {blog_count} blog cards")
