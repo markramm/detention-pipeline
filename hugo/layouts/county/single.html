@@ -79,22 +79,22 @@
     {{ $typeEntries := where $entries "Params.entry_type" $stype }}
     {{ if $typeEntries }}
     {{ $meta := index (dict
-      "igsa" (dict "label" "IGSA Facility" "color" "var(--signal-igsa)" "anchor" "signal-igsa")
-      "287g-agreement" (dict "label" "287(g) Agreement" "color" "var(--signal-287g)" "anchor" "signal-287g")
-      "anc-contract" (dict "label" "ANC Contract" "color" "var(--signal-anc)" "anchor" "signal-anc")
-      "commission-activity" (dict "label" "Commission Activity" "color" "var(--signal-commission)" "anchor" "signal-commission")
-      "job-posting" (dict "label" "Job Posting" "color" "var(--signal-job)" "anchor" "signal-job")
-      "sheriff-network" (dict "label" "Sheriff Network" "color" "var(--signal-sheriff)" "anchor" "signal-sheriff")
-      "comms-discipline" (dict "label" "Comms Discipline" "color" "var(--signal-comms)" "anchor" "signal-comms")
-      "budget-distress" (dict "label" "Budget Distress" "color" "var(--signal-budget)" "anchor" "signal-budget")
-      "real-estate-trace" (dict "label" "Real Estate Trace" "color" "var(--signal-realestate)" "anchor" "signal-realestate")
-      "legislative-trace" (dict "label" "Legislative Trace" "color" "var(--signal-legislative)" "anchor" "signal-legislative")
+      "igsa" (dict "label" "IGSA Facility" "color" "var(--signal-igsa)" "anchor" "signal-igsa" "desc" "Intergovernmental Service Agreement — a contract where a county jail holds ICE detainees for a daily rate")
+      "287g-agreement" (dict "label" "287(g) Agreement" "color" "var(--signal-287g)" "anchor" "signal-287g" "desc" "Local law enforcement deputized to enforce federal immigration law — can be jail-only or street-level")
+      "anc-contract" (dict "label" "ANC Contract" "color" "var(--signal-anc)" "anchor" "signal-anc" "desc" "Alaska Native Corporation sole-source contract for ICE detention services, transportation, or facility management")
+      "commission-activity" (dict "label" "Commission Activity" "color" "var(--signal-commission)" "anchor" "signal-commission" "desc" "County commission or city council has discussed, voted on, or been petitioned about ICE-related matters")
+      "job-posting" (dict "label" "Job Posting" "color" "var(--signal-job)" "anchor" "signal-job" "desc" "Consulting firm or contractor actively recruiting for detention-related work in this area")
+      "sheriff-network" (dict "label" "Sheriff Network" "color" "var(--signal-sheriff)" "anchor" "signal-sheriff" "desc" "Sheriff identified in recruitment networks pitching ICE cooperation to county commissioners")
+      "comms-discipline" (dict "label" "Comms Discipline" "color" "var(--signal-comms)" "anchor" "signal-comms" "desc" "Coordinated messaging pattern detected — talking points, PR playbook, or scripted responses about ICE cooperation")
+      "budget-distress" (dict "label" "Budget Distress" "color" "var(--signal-budget)" "anchor" "signal-budget" "desc" "County facing financial pressure that makes ICE detention revenue an attractive proposition")
+      "real-estate-trace" (dict "label" "Real Estate Trace" "color" "var(--signal-realestate)" "anchor" "signal-realestate" "desc" "Property transaction, lease, or building permit linked to potential detention facility development")
+      "legislative-trace" (dict "label" "Legislative Trace" "color" "var(--signal-legislative)" "anchor" "signal-legislative" "desc" "State-level legislation affecting immigration enforcement in this county")
     ) $stype }}
 
     <div style="margin-bottom:24px;">
       <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
         <span class="signal-dot" style="background:{{ $meta.color }};"></span>
-        <a href="/methodology/#{{ $meta.anchor }}" style="font-size:17px; font-weight:500; color:inherit; text-decoration:none; border-bottom:1px dotted var(--text-secondary);">{{ $meta.label }}</a>
+        <a href="/methodology/#{{ $meta.anchor }}" style="font-size:17px; font-weight:500; color:inherit; text-decoration:none; border-bottom:1px dotted var(--text-secondary);" title="{{ $meta.desc }}">{{ $meta.label }}</a>
         <span class="mono dim" style="font-size:14px;">{{ len $typeEntries }} {{ if eq (len $typeEntries) 1 }}entry{{ else }}entries{{ end }}</span>
       </div>
 

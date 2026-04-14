@@ -80,8 +80,20 @@
     </div>
   </div>
   <div id="map-legend" class="map-overlay">
-    <span class="legend-label">Heat</span>
-    <div><div class="legend-bar" id="legend-bar"></div></div>
+    <div style="display:flex;align-items:center;gap:10px;">
+      <span class="legend-label">Heat score</span>
+      <span class="legend-label" style="color:#3a3845;">Low</span>
+      <div><div class="legend-bar" id="legend-bar"></div></div>
+      <span class="legend-label" style="color:#e84545;">High</span>
+    </div>
+    <div style="display:flex;align-items:center;gap:6px;margin-left:12px;border-left:1px solid #2a2a35;padding-left:12px;">
+      <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#e8c840;opacity:0.7;"></span>
+      <span class="legend-label">Facility</span>
+    </div>
+    <div style="display:flex;align-items:center;gap:6px;margin-left:12px;border-left:1px solid #2a2a35;padding-left:12px;">
+      <span style="display:inline-block;width:8px;height:8px;background:#12121a;border:1px solid #353542;"></span>
+      <span class="legend-label">No signals</span>
+    </div>
   </div>
   <div id="map-stats" class="map-overlay">
     <div class="m-stat"><div class="m-stat-val" id="s-counties">—</div><div class="m-stat-label">Counties</div></div>
