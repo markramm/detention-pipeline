@@ -1,0 +1,79 @@
+{{/* County search box — include on any page that needs it */}}
+{{/* Usage: {{ partial "county-search.html" . }} */}}
+<div class="county-search-wrap" style="position:relative; max-width:400px;">
+  <style>
+    .county-search-wrap input {
+      font-family: 'DM Mono', monospace; font-size: 13px;
+      background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12);
+      color: #e8e6e1; padding: 10px 14px 10px 34px; border-radius: 4px;
+      width: 100%; outline: none; transition: border-color 0.12s;
+    }
+    .county-search-wrap input:focus { border-color: rgba(255,255,255,0.25); }
+    .county-search-wrap input::placeholder { color: rgba(255,255,255,0.25); }
+    .county-search-wrap .cs-icon {
+      position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+      color: rgba(255,255,255,0.2); font-size: 13px; pointer-events: none;
+    }
+    .cs-results {
+      position: absolute; top: 100%; left: 0; right: 0; margin-top: 4px;
+      background: #111118; border: 1px solid #2a2a35; border-radius: 4px;
+      max-height: 300px; overflow-y: auto; display: none;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.5); z-index: 100;
+    }
+    .cs-results.open { display: block; }
+    .cs-result {
+      padding: 8px 14px; cursor: pointer; font-size: 13px; color: #8a8892;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    .cs-result:hover { background: rgba(255,255,255,0.04); color: #e8e6e1; }
+    .cs-result .cs-score {
+      font-family: 'DM Mono', monospace; font-size: 11px;
+      padding: 1px 6px; border-radius: 2px;
+    }
+  </style>
+  <span class="cs-icon">&#x2315;</span>
+  <input type="text" class="cs-input" placeholder="Search by county name..." autocomplete="off" />
+  <div class="cs-results"></div>
+</div>
+<script>
+(function(){
+  const wrap=document.currentScript.previousElementSibling;
+  const input=wrap.querySelector('.cs-input'), results=wrap.querySelector('.cs-results');
+  let names=null, sel=-1;
+  function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+  function sc(s){return s>=70?'#e84545':s>=40?'#d46a2f':s>=15?'#8a8892':'#55535e'}
+  function load(){
+    if(names)return Promise.resolve();
+    return Promise.all([fetch('/fips_names.json').then(r=>r.json()),fetch('/heat_data.json').then(r=>r.json())])
+      .then(([fn,heat])=>{
+        const H={};heat.forEach(d=>H[d.fips]=d);
+        names=Object.entries(fn).map(([fips,name])=>({fips,name,lower:name.toLowerCase(),score:(H[fips]||{}).score||0}));
+      });
+  }
+  input.addEventListener('focus',()=>load());
+  input.addEventListener('input',()=>{
+    load().then(()=>{
+      const q=input.value.trim().toLowerCase();
+      if(q.length<2){results.classList.remove('open');return}
+      const matches=names.filter(c=>c.lower.includes(q)).sort((a,b)=>b.score-a.score).slice(0,12);
+      if(!matches.length){results.innerHTML='<div class="cs-result" style="color:#3a3845;cursor:default;">No counties found</div>';results.classList.add('open');return}
+      results.innerHTML=matches.map(m=>{
+        const badge=m.score>0?`<span class="cs-score" style="color:${sc(m.score)}">${m.score}</span>`:'';
+        return `<div class="cs-result" data-fips="${m.fips}">${esc(m.name)} ${badge}</div>`;
+      }).join('');
+      results.classList.add('open');sel=-1;
+      results.querySelectorAll('.cs-result[data-fips]').forEach(el=>{
+        el.addEventListener('click',()=>{window.location.href='/county/'+el.dataset.fips+'/';});
+      });
+    });
+  });
+  input.addEventListener('keydown',(e)=>{
+    const items=results.querySelectorAll('.cs-result[data-fips]');
+    if(e.key==='ArrowDown'){e.preventDefault();sel=Math.min(sel+1,items.length-1);items.forEach((el,i)=>el.style.background=i===sel?'rgba(255,255,255,0.04)':'');}
+    else if(e.key==='ArrowUp'){e.preventDefault();sel=Math.max(sel-1,0);items.forEach((el,i)=>el.style.background=i===sel?'rgba(255,255,255,0.04)':'');}
+    else if(e.key==='Enter'&&sel>=0&&items[sel]){window.location.href='/county/'+items[sel].dataset.fips+'/';}
+    else if(e.key==='Escape'){results.classList.remove('open');input.blur();}
+  });
+  document.addEventListener('click',(e)=>{if(!wrap.contains(e.target))results.classList.remove('open')});
+})();
+</script>

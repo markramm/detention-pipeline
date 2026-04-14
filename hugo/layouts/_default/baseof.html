@@ -356,7 +356,8 @@ body {
       <a href="/map/" {{ if hasPrefix .RelPermalink "/map" }}class="active"{{ end }}>Map</a>
       <a href="/fights/" {{ if hasPrefix .RelPermalink "/fights" }}class="active"{{ end }}>Fights</a>
       <a href="/pipeline/" {{ if eq .RelPermalink "/pipeline/" }}class="active"{{ end }}>Pipeline</a>
-      <a href="/blog/" {{ if hasPrefix .RelPermalink "/blog" }}class="active"{{ end }}>Updates</a>
+      <a href="/blog/" {{ if hasPrefix .RelPermalink "/blog" }}class="active"{{ end }}>Blog</a>
+      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
       <div class="nav-group">
         <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") (hasPrefix .RelPermalink "/timeline") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Investigate</button>
         <div class="nav-dropdown">
@@ -392,7 +393,8 @@ body {
   <a href="/map/">Map</a>
   <a href="/fights/">Fights</a>
   <a href="/pipeline/">Pipeline</a>
-  <a href="/blog/">Updates</a>
+  <a href="/blog/">Blog</a>
+  <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
   <a href="/tactics/">Tactics</a>
   <span class="mobile-nav-group-label">Investigate</span>
   <a href="/county/" style="padding-left:12px;">Counties</a>

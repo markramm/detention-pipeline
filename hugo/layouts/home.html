@@ -24,9 +24,13 @@
         <a href="/start/" class="btn" style="background:rgba(255,255,255,0.08); color:var(--text-light); border-color:rgba(255,255,255,0.15); font-size:16px; padding:14px 28px;">
           I'm fighting a proposal
         </a>
-        <a href="/county/" class="btn" style="background:transparent; color:rgba(232,230,225,0.6); border-color:rgba(255,255,255,0.12); font-size:16px; padding:14px 28px;">
+        <a href="/map/" class="btn" style="background:transparent; color:rgba(232,230,225,0.6); border-color:rgba(255,255,255,0.12); font-size:16px; padding:14px 28px;">
           Look up my county
         </a>
+      </div>
+
+      <div style="margin-bottom:32px;">
+        {{ partial "county-search.html" . }}
       </div>
 
       {{/* ── Key numbers that tell a story ── */}}
