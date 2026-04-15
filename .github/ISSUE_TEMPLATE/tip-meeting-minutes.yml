@@ -1,0 +1,69 @@
+name: "Tip: Meeting Minutes URL"
+description: Share a link to where your county posts commission or council meeting minutes
+title: "[TIP] Meeting minutes: "
+labels: ["tip", "meeting-minutes"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us monitor your county's commission meetings. If you know where meeting minutes, agendas, or video archives are posted online, one good URL gives us a permanent monitoring target.
+
+  - type: input
+    id: county
+    attributes:
+      label: County
+      description: County name (e.g. "Bradford County")
+      placeholder: County name
+    validations:
+      required: true
+
+  - type: input
+    id: state
+    attributes:
+      label: State
+      description: Two-letter state abbreviation
+      placeholder: FL
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Meeting minutes URL
+      description: Link to where the county or city posts meeting minutes, agendas, or video archives
+      placeholder: https://
+    validations:
+      required: true
+
+  - type: dropdown
+    id: body_type
+    attributes:
+      label: Which body?
+      description: What government body does this URL cover?
+      options:
+        - County commission / board of supervisors
+        - City council
+        - Sheriff's office / corrections board
+        - Planning / zoning board
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: format
+    attributes:
+      label: Format
+      description: How are the minutes published?
+      options:
+        - Legistar portal
+        - Granicus video archive
+        - PDF documents on county website
+        - HTML pages on county website
+        - Other CMS or portal
+        - Not sure
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else useful — how far back the archive goes, whether agendas are separate from minutes, etc.

@@ -1,0 +1,66 @@
+name: "Tip: Local News Coverage"
+description: Share a local news article about detention, ICE, or immigration enforcement in your area
+title: "[TIP] Local coverage: "
+labels: ["tip", "local-coverage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Local news coverage is the hardest signal to find at scale. If you've seen a story in your local paper, TV station, or community news site about detention, ICE, or immigration enforcement activity, sharing the link helps us enormously.
+
+  - type: input
+    id: county
+    attributes:
+      label: County
+      description: County or city the story covers
+      placeholder: County name
+    validations:
+      required: true
+
+  - type: input
+    id: state
+    attributes:
+      label: State
+      description: Two-letter state abbreviation
+      placeholder: FL
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Article URL
+      description: Link to the news article
+      placeholder: https://
+    validations:
+      required: true
+
+  - type: input
+    id: outlet
+    attributes:
+      label: News outlet
+      description: Name of the publication or station
+      placeholder: "e.g. Springfield Daily News, WKTV Channel 7"
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: What does it cover?
+      description: Brief summary of what the article reports
+      placeholder: "The county commission voted to explore a federal partnership for the old warehouse on Route 9..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: signal_type
+    attributes:
+      label: What signal does this relate to?
+      options:
+        - County commission discussing ICE/detention
+        - New or expanded detention facility
+        - Sheriff or law enforcement ICE cooperation
+        - Real estate / warehouse / building conversion
+        - Community opposition or organizing
+        - Budget or fiscal issues related to detention
+        - Contractor or consultant activity
+        - Other

@@ -67,6 +67,30 @@
       <a href="/map/" class="btn">View on map</a>
       {{ with $state }}<a href="/state/{{ lower . }}/" class="btn">All {{ . }} counties</a>{{ end }}
     </div>
+
+    {{/* ── Quick Tip Actions ── */}}
+    {{ $countyEnc := .Title | urlquery }}
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:10px; margin-top:20px;">
+      <a href="{{ $repoURL }}/issues/new?template=tip-meeting-minutes.yml&title={{ printf "[TIP] Meeting minutes: %s, %s" .Title $state | urlquery }}&county={{ $countyEnc }}&state={{ $state }}" style="display:flex; align-items:center; gap:10px; padding:12px 16px; background:white; border:1px solid var(--border); border-radius:5px; text-decoration:none; color:var(--text-secondary); font-size:14px; transition:border-color 0.12s;" onmouseover="this.style.borderColor='var(--text-dim)'" onmouseout="this.style.borderColor='var(--border)'">
+        <span style="font-size:18px; flex-shrink:0; width:24px; text-align:center;">&#128196;</span>
+        <span><strong style="color:var(--text-primary);">Submit minutes link</strong><br>Where does this county post meeting minutes?</span>
+      </a>
+      <a href="{{ $repoURL }}/issues/new?template=tip-local-coverage.yml&title={{ printf "[TIP] Local coverage: %s, %s" .Title $state | urlquery }}&county={{ $countyEnc }}&state={{ $state }}" style="display:flex; align-items:center; gap:10px; padding:12px 16px; background:white; border:1px solid var(--border); border-radius:5px; text-decoration:none; color:var(--text-secondary); font-size:14px; transition:border-color 0.12s;" onmouseover="this.style.borderColor='var(--text-dim)'" onmouseout="this.style.borderColor='var(--border)'">
+        <span style="font-size:18px; flex-shrink:0; width:24px; text-align:center;">&#128240;</span>
+        <span><strong style="color:var(--text-primary);">Share local coverage</strong><br>Link a news article about detention or ICE here</span>
+      </a>
+      <a href="{{ $repoURL }}/issues/new?template=tip-closed-session.yml&title={{ printf "[TIP] Closed session: %s, %s" .Title $state | urlquery }}&county={{ $countyEnc }}&state={{ $state }}" style="display:flex; align-items:center; gap:10px; padding:12px 16px; background:white; border:1px solid var(--border); border-radius:5px; text-decoration:none; color:var(--text-secondary); font-size:14px; transition:border-color 0.12s;" onmouseover="this.style.borderColor='var(--text-dim)'" onmouseout="this.style.borderColor='var(--border)'">
+        <span style="font-size:18px; flex-shrink:0; width:24px; text-align:center;">&#128274;</span>
+        <span><strong style="color:var(--text-primary);">Report closed session</strong><br>Saw a suspicious executive session on the agenda?</span>
+      </a>
+      <a href="{{ $repoURL }}/issues/new?template=tip-building-activity.yml&title={{ printf "[TIP] Building activity: %s, %s" .Title $state | urlquery }}&county={{ $countyEnc }}&state={{ $state }}" style="display:flex; align-items:center; gap:10px; padding:12px 16px; background:white; border:1px solid var(--border); border-radius:5px; text-decoration:none; color:var(--text-secondary); font-size:14px; transition:border-color 0.12s;" onmouseover="this.style.borderColor='var(--text-dim)'" onmouseout="this.style.borderColor='var(--border)'">
+        <span style="font-size:18px; flex-shrink:0; width:24px; text-align:center;">&#127959;</span>
+        <span><strong style="color:var(--text-primary);">Flag building activity</strong><br>Construction, fencing, or conversion at a site?</span>
+      </a>
+    </div>
+    <div style="margin-top:10px; font-size:13px; color:var(--text-dim);">
+      Need to share something privately? Email <a href="mailto:markramm.tcp+tips@pm.me?subject={{ printf "Private tip: %s, %s" .Title $state | urlquery }}" style="color:var(--accent-warm); text-decoration:none;">markramm.tcp+tips@pm.me</a>
+    </div>
   </div>
 
   <h2 style="font-size:15px; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:var(--text-secondary); margin-bottom:14px; padding-bottom:8px; border-bottom:2px solid var(--border);">
@@ -201,9 +225,13 @@
     </table>
 
     <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:18px; padding-top:16px; border-top:1px solid var(--border);">
+      <a href="{{ $repoURL }}/issues/new?template=tip.yml&county={{ .Title | urlquery }}&state={{ $state }}" class="btn btn-accent btn-sm">Submit a tip &rarr;</a>
       <a href="/foia/" class="btn btn-sm">Generate a FOIA request &rarr;</a>
       <a href="/coverage/" class="btn btn-sm">View all coverage gaps</a>
       <a href="/start/" class="btn btn-sm">Full investigation guide</a>
+    </div>
+    <div style="margin-top:10px; font-size:13px; color:var(--text-dim);">
+      Sensitive information? Email <a href="mailto:markramm.tcp+tips@pm.me?subject={{ printf "Private tip: %s, %s" .Title $state | urlquery }}" style="color:var(--accent-warm); text-decoration:none;">markramm.tcp+tips@pm.me</a> for confidential tips.
     </div>
   </div>
   {{ end }}

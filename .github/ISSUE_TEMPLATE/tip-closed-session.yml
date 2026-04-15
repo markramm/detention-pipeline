@@ -1,0 +1,70 @@
+name: "Tip: Closed Session Activity"
+description: Report a closed or executive session discussing detention, federal partnerships, or suspicious real estate
+title: "[TIP] Closed session: "
+labels: ["tip", "closed-session", "high-priority"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Closed and executive sessions about "real estate acquisition" or "federal partnerships" are among the earliest signals in the detention pipeline. These appear on public agendas but the discussion is private. If you attended or watched a meeting where this happened, your report is uniquely valuable.
+
+        **Note:** Only report information that was publicly visible (agenda items, post-session announcements, public votes). Do not share anything covered by attorney-client privilege or legally confidential proceedings.
+
+  - type: input
+    id: county
+    attributes:
+      label: County
+      description: County name
+      placeholder: County name
+    validations:
+      required: true
+
+  - type: input
+    id: state
+    attributes:
+      label: State
+      description: Two-letter state abbreviation
+      placeholder: FL
+    validations:
+      required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: Meeting date
+      description: When did this meeting occur?
+      placeholder: "2026-04-14"
+    validations:
+      required: true
+
+  - type: input
+    id: body
+    attributes:
+      label: Which body?
+      description: County commission, city council, etc.
+      placeholder: "County Commission"
+    validations:
+      required: true
+
+  - type: textarea
+    id: agenda_item
+    attributes:
+      label: Agenda description
+      description: How was the closed session described on the public agenda?
+      placeholder: "Executive session to discuss real estate acquisition pursuant to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: observation
+    attributes:
+      label: What did you observe?
+      description: What happened before or after the closed session? Any public votes, announcements, or context?
+      placeholder: "After the closed session, the commission voted 4-1 to authorize the county attorney to negotiate..."
+
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: Link to the agenda, video, or news coverage if available
+      placeholder: https://
