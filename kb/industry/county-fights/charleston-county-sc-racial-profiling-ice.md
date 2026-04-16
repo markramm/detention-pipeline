@@ -19,7 +19,7 @@ tags:
 - 287g-wso
 - fourth-amendment
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-04-16"
 ---
 
 # Charleston County SC — Racial Profiling in ICE Traffic Stop Operations
@@ -40,6 +40,7 @@ On November 3, 2025, a coordinated ICE enforcement operation in North Charleston
   - ICE moved in with unmarked vehicles after troopers made stops.
 - **November 2025**: Reports of construction site enforcement activity across Richland County.
 - **March-April 2026**: ACLU-SC publishes "5 Ugly Facts" report citing Charleston operations; opposes H.4764.
+- **April 14, 2026**: Community tip — ICE operation reported near Cosgrove Bridge in North Charleston. "Masked officers taking multiple Hispanic males into custody." Photos submitted showing law enforcement vehicles. Pattern consistent with prior traffic stop operations. ([GitHub tip #35](https://github.com/markramm/detention-pipeline/issues/35), Carolina Courier via Facebook)
 
 ## Community Impact
 
