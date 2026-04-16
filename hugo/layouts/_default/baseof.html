@@ -370,8 +370,6 @@ body {
       <a href="/fights/" {{ if hasPrefix .RelPermalink "/fights" }}class="active"{{ end }}>Fights</a>
       <a href="/pipeline/" {{ if eq .RelPermalink "/pipeline/" }}class="active"{{ end }}>Pipeline</a>
       <a href="/tactics/" {{ if eq .RelPermalink "/tactics/" }}class="active"{{ end }}>Tactics</a>
-      <a href="/blog/" {{ if hasPrefix .RelPermalink "/blog" }}class="active"{{ end }}>Blog</a>
-      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
       <div class="nav-group">
         <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") (hasPrefix .RelPermalink "/resources") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Help Build</button>
         <div class="nav-dropdown">
@@ -383,6 +381,8 @@ body {
           <a href="/methodology/">Methodology</a>
         </div>
       </div>
+      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
+      <a href="/blog/" {{ if hasPrefix .RelPermalink "/blog" }}class="active"{{ end }}>Blog</a>
       <a href="/start/" class="nav-start">Start Here</a>
     </nav>
     <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
@@ -403,8 +403,6 @@ body {
   <a href="/fights/">Fights</a>
   <a href="/pipeline/">Pipeline</a>
   <a href="/tactics/">Tactics</a>
-  <a href="/blog/">Blog</a>
-  <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
   <span class="mobile-nav-group-label">Help Build</span>
   <a href="/contribute/" style="padding-left:12px;">Contribute</a>
   <a href="/coverage/" style="padding-left:12px;">Coverage Gaps</a>
@@ -412,6 +410,8 @@ body {
   <a href="/develop/" style="padding-left:12px;">Develop</a>
   <a href="/resources/" style="padding-left:12px;">Resources</a>
   <a href="/methodology/" style="padding-left:12px;">Methodology</a>
+  <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
+  <a href="/blog/">Blog</a>
 </nav>
 
 <main id="main-content">
