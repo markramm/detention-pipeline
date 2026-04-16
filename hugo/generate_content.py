@@ -170,7 +170,18 @@ def parse_entry(filepath):
 
 def esc(s):
     """Escape string for YAML frontmatter."""
-    return s.replace('"', '\\"').replace('\n', ' ')
+    # Replace literal backslash-letter sequences that YAML interprets as escapes
+    s = s.replace("\\R\\N", " ").replace("\\r\\n", " ")
+    s = s.replace("\\R", " ").replace("\\N", " ").replace("\\T", " ")
+    s = s.replace("\\P", " ").replace("\\S", " ")
+    s = s.replace("\\r", " ").replace("\\n", " ").replace("\\t", " ")
+    # Replace actual control characters
+    s = s.replace("\r\n", " ").replace("\r", " ").replace("\n", " ")
+    s = s.replace('"', '\\"')
+    # Collapse multiple spaces
+    while "  " in s:
+        s = s.replace("  ", " ")
+    return s.strip()
 
 
 def normalize_title(title):

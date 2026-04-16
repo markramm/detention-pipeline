@@ -289,9 +289,26 @@ async def fetch_legistar(session, client, endpoint, params=None):
         return []
 
 
+def sanitize_yaml_string(s):
+    """Remove characters that break YAML frontmatter in .md files."""
+    # Replace literal \r\n, \R\N, and actual CR/LF with spaces
+    s = s.replace("\r\n", " ").replace("\r", " ").replace("\n", " ")
+    s = s.replace("\\r\\n", " ").replace("\\R\\N", " ")
+    s = s.replace("\\r", " ").replace("\\n", " ")
+    s = s.replace("\\R", " ").replace("\\N", " ")
+    s = s.replace("\\T", " ").replace("\\t", " ")
+    s = s.replace("\\P", " ").replace("\\S", " ")
+    # Collapse multiple spaces
+    while "  " in s:
+        s = s.replace("  ", " ")
+    return s.strip()
+
+
 def make_entry(county, state, fips, event_name, event_date, item_title,
                item_text, signal, keywords, meeting_type):
     """Create a commission-activity entry dict."""
+    item_title = sanitize_yaml_string(item_title)
+    event_name = sanitize_yaml_string(event_name)
     title = f"{county} County {state} — {event_name} {event_date}: {item_title[:80]}"
     return {
         "entry_type": "commission-activity",
