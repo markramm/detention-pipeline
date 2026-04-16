@@ -1,8 +1,10 @@
-__pycache__/
-*.pyc
-.pyrite/
-.DS_Store
-/tmp/
 
-# Generated site output — built by GitHub Actions, not committed
+__pycache__/
+.DS_Store
+.pyrite/
+*.pyc
 /docs/
+/tmp/
+# Generated site output — built by GitHub Actions, not committed
+drafts/
+interview-ref/

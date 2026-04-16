@@ -354,12 +354,8 @@ body {
     </a>
     <nav class="site-nav" aria-label="Main navigation">
       <a href="/map/" {{ if hasPrefix .RelPermalink "/map" }}class="active"{{ end }}>Map</a>
-      <a href="/fights/" {{ if hasPrefix .RelPermalink "/fights" }}class="active"{{ end }}>Fights</a>
-      <a href="/pipeline/" {{ if eq .RelPermalink "/pipeline/" }}class="active"{{ end }}>Pipeline</a>
-      <a href="/blog/" {{ if hasPrefix .RelPermalink "/blog" }}class="active"{{ end }}>Blog</a>
-      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
       <div class="nav-group">
-        <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") (hasPrefix .RelPermalink "/timeline") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Investigate</button>
+        <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") (hasPrefix .RelPermalink "/timeline") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Explore</button>
         <div class="nav-dropdown">
           <a href="/county/">Counties</a>
           <a href="/state/">By State</a>
@@ -371,7 +367,11 @@ body {
           <a href="/foia/">FOIA Generator</a>
         </div>
       </div>
+      <a href="/fights/" {{ if hasPrefix .RelPermalink "/fights" }}class="active"{{ end }}>Fights</a>
+      <a href="/pipeline/" {{ if eq .RelPermalink "/pipeline/" }}class="active"{{ end }}>Pipeline</a>
       <a href="/tactics/" {{ if eq .RelPermalink "/tactics/" }}class="active"{{ end }}>Tactics</a>
+      <a href="/blog/" {{ if hasPrefix .RelPermalink "/blog" }}class="active"{{ end }}>Blog</a>
+      <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
       <div class="nav-group">
         <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") (hasPrefix .RelPermalink "/resources") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Help Build</button>
         <div class="nav-dropdown">
@@ -391,12 +391,7 @@ body {
 <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
   <a href="/start/" class="nav-start-mobile">Start Here →</a>
   <a href="/map/">Map</a>
-  <a href="/fights/">Fights</a>
-  <a href="/pipeline/">Pipeline</a>
-  <a href="/blog/">Blog</a>
-  <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
-  <a href="/tactics/">Tactics</a>
-  <span class="mobile-nav-group-label">Investigate</span>
+  <span class="mobile-nav-group-label">Explore</span>
   <a href="/county/" style="padding-left:12px;">Counties</a>
   <a href="/state/" style="padding-left:12px;">By State</a>
   <a href="/signals/" style="padding-left:12px;">By Signal Type</a>
@@ -405,6 +400,11 @@ body {
   <a href="/network/" style="padding-left:12px;">Network</a>
   <a href="/facilities/" style="padding-left:12px;">Facilities</a>
   <a href="/foia/" style="padding-left:12px;">FOIA Generator</a>
+  <a href="/fights/">Fights</a>
+  <a href="/pipeline/">Pipeline</a>
+  <a href="/tactics/">Tactics</a>
+  <a href="/blog/">Blog</a>
+  <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
   <span class="mobile-nav-group-label">Help Build</span>
   <a href="/contribute/" style="padding-left:12px;">Contribute</a>
   <a href="/coverage/" style="padding-left:12px;">Coverage Gaps</a>
