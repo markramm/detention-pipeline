@@ -97,11 +97,29 @@ For the people using the site as a research tool:
 
 ---
 
+## The Tips Started Coming In
+
+Then the loop closed all the way. Five people filed tips through the site's GitHub submission forms in a single day.
+
+A user in New Jersey flagged the [Roxbury warehouse fight](/fights/roxbury-nj-lawsuit/) — we already had it documented. "You may already have this," they wrote. We did, and their tip confirmed the coverage is reaching the right communities.
+
+A woman named Brandy Armstrong in Mississippi submitted meeting minutes URLs for three counties: [Adams](https://www.youtube.com/playlist?list=PL1HtmGtH_xoeuC7ysLFjT7wAsnDS40UYF) (YouTube recordings of board meetings — this is the county with the 2,260-bed CoreCivic facility), [Harrison](https://harrisoncountyms.gov/goverment/board_of_supervisors/board_agendas___minutes/index.php) (PDF agendas going back years), and [Hancock](https://hancockcoms.portal.civicclerk.com/) (CivicClerk portal with minutes and video). Primary source material for ongoing monitoring of three counties where ICE detention is actively expanding.
+
+And then this, from someone in South Carolina:
+
+> *"14 Apr 2026 Carolina Courier post: Reader reports of ICE operations in North Charleston this morning near the Cosgrove Bridge. ICE involvement unconfirmed, though readers report masked officers taking multiple Hispanic males into custody."*
+
+They included photos. North Charleston — the same area where we documented [racial profiling in traffic stop operations](/fights/charleston-county-sc-racial-profiling-ice/) going back to November 2025. The tip was filed the same day the operation happened. It's now in the timeline as the most recent incident in a documented pattern.
+
+This is what the site was built for. Not just data flowing down to communities, but intelligence flowing back up. The heatmap finds the signals. Visitors show us where to look. The research confirms what they already suspected. And then they come back with what they see on the ground.
+
+---
+
 ## What's Next
 
-The coverage page shows where we're thin. The map shows where the signals are. And if you visit a county page and spend three minutes reading it, we'll know something is happening there.
+The coverage page shows where we're thin. The map shows where the signals are. The tip forms are on every county page. And if you visit a county page and spend three minutes reading it, we'll know something is happening there.
 
-Every page you visit tells us something.
+Every page you visit tells us something. Every tip closes the loop.
 
 ---
 
