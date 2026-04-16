@@ -137,20 +137,20 @@ body {
   background: rgba(201,59,59,0.12); padding: 2px 6px;
   border: 1px solid rgba(201,59,59,0.2); border-radius: 2px;
 }
-.site-nav { display: flex; gap: 4px; align-items: center; }
+.site-nav { display: flex; gap: 2px; align-items: center; flex-wrap: nowrap; }
 .site-nav a {
-  font-size: 14px; color: rgba(232,230,225,0.65); text-decoration: none;
-  padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
-  font-weight: 400;
+  font-size: 13px; color: rgba(232,230,225,0.65); text-decoration: none;
+  padding: 6px 10px; border-radius: 3px; transition: all 0.12s;
+  font-weight: 400; white-space: nowrap;
 }
-.nav-search { position: relative; margin-right: 4px; }
+.nav-search { position: relative; margin-right: 2px; }
 .nav-search input {
   font-family: 'DM Mono', monospace; font-size: 11px;
   background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1);
-  color: #e8e6e1; padding: 5px 10px 5px 26px; border-radius: 3px;
-  width: 140px; outline: none; transition: all 0.15s;
+  color: #e8e6e1; padding: 5px 8px 5px 24px; border-radius: 3px;
+  width: 120px; outline: none; transition: all 0.15s;
 }
-.nav-search input:focus { width: 220px; border-color: rgba(255,255,255,0.25); background: rgba(255,255,255,0.08); }
+.nav-search input:focus { width: 200px; border-color: rgba(255,255,255,0.25); background: rgba(255,255,255,0.08); }
 .nav-search input::placeholder { color: rgba(255,255,255,0.2); }
 .nav-search .ns-icon { position: absolute; left: 8px; top: 50%; transform: translateY(-50%); color: rgba(255,255,255,0.2); font-size: 11px; pointer-events: none; }
 .nav-search .ns-hint { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); font-family: 'DM Mono', monospace; font-size: 9px; color: rgba(255,255,255,0.15); pointer-events: none; border: 1px solid rgba(255,255,255,0.1); padding: 0 4px; border-radius: 2px; line-height: 1.6; }
@@ -268,7 +268,7 @@ body {
 .nav-group { position: relative; }
 .nav-group-trigger {
   cursor: pointer; display: inline-flex; align-items: center; gap: 3px;
-  font-size: 14px; color: rgba(232,230,225,0.65); padding: 6px 12px;
+  font-size: 13px; color: rgba(232,230,225,0.65); padding: 6px 10px;
   border-radius: 3px; transition: all 0.12s; background: none; border: none;
   font-family: inherit; font-weight: 400;
 }
@@ -414,7 +414,6 @@ body {
       </div>
       <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);" target="_blank" rel="noopener">The Investigation</a>
       <a href="/blog/" {{ if hasPrefix .RelPermalink "/blog" }}class="active"{{ end }}>Blog</a>
-      <a href="/start/" class="nav-start">Start Here</a>
     </nav>
     <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
   </div>
