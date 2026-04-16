@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/san-diego-county-county-ca-board-of-supervisors-2026-01-13-general-services-authorization-to-advertise-and-award-a-public-works-contract.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

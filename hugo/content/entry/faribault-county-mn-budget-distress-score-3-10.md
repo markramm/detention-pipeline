@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/budget/faribault-county-mn-budget-distress-score-3-10.md"
-lastmod: "2026-04-13"
+lastmod: "2026-04-16"
 summary: "Budget distress indicators for ."
 source_count: 1
 type: "entry"

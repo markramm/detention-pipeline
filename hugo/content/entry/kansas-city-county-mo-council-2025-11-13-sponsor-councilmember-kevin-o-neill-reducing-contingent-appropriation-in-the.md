@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/kansas-city-county-mo-council-2025-11-13-sponsor-councilmember-kevin-o-neill-reducing-contingent-appropriation-in-the.md"
-lastmod: "2026-04-13"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

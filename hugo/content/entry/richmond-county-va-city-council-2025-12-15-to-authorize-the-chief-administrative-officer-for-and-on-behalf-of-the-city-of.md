@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/richmond-county-va-city-council-2025-12-15-to-authorize-the-chief-administrative-officer-for-and-on-behalf-of-the-city-of.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

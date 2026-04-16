@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/broward-county-county-fl-county-commission-2026-04-14-motion-to-authorize-county-administrator-or-her-written-designee-to-execute-the.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

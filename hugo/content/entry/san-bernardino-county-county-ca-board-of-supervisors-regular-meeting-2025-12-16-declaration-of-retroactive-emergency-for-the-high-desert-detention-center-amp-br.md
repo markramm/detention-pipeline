@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/san-bernardino-county-county-ca-board-of-supervisors-regular-meeting-2025-12-16-declaration-of-retroactive-emergency-for-the-high-desert-detention-center-amp-br.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

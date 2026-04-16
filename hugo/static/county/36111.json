@@ -2,14 +2,15 @@
   "fips": "36111",
   "county": "Ulster County, NY",
   "state": "NY",
-  "score": 20,
-  "signal_types": 1,
-  "rank": 571,
+  "score": 21,
+  "signal_types": 2,
+  "rank": 492,
   "total_counties": 1192,
-  "percentile": 52,
-  "coverage": "unresearched",
-  "auto_summary": "Ulster County, NY shows 2 existing IGSA facilities.",
+  "percentile": 59,
+  "coverage": "partially-researched",
+  "auto_summary": "Ulster County, NY shows 2 existing IGSA facilities, and active community resistance.",
   "entry_types": {
-    "igsa": 2
+    "igsa": 2,
+    "county-fight": 1
   }
 }

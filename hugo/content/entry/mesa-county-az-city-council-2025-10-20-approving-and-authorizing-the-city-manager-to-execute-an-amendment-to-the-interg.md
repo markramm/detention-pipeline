@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/mesa-county-az-city-council-2025-10-20-approving-and-authorizing-the-city-manager-to-execute-an-amendment-to-the-interg.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

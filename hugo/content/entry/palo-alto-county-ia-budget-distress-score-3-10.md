@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/budget/palo-alto-county-ia-budget-distress-score-3-10.md"
-lastmod: "2026-04-13"
+lastmod: "2026-04-16"
 summary: "Budget distress indicators for ."
 source_count: 1
 type: "entry"

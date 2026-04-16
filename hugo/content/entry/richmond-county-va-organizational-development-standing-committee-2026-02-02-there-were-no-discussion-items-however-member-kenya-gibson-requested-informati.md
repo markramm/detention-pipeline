@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/richmond-county-va-organizational-development-standing-committee-2026-02-02-there-were-no-discussion-items-however-member-kenya-gibson-requested-informati.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

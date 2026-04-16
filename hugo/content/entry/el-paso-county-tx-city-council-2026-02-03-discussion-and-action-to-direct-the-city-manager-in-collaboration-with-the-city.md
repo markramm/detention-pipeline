@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/el-paso-county-tx-city-council-2026-02-03-discussion-and-action-to-direct-the-city-manager-in-collaboration-with-the-city.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

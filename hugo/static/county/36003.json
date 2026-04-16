@@ -2,14 +2,15 @@
   "fips": "36003",
   "county": "Allegany County, NY",
   "state": "NY",
-  "score": 21,
-  "signal_types": 1,
-  "rank": 406,
+  "score": 22,
+  "signal_types": 2,
+  "rank": 394,
   "total_counties": 1192,
-  "percentile": 66,
-  "coverage": "unresearched",
-  "auto_summary": "Allegany County, NY shows 1 existing IGSA facility.",
+  "percentile": 67,
+  "coverage": "partially-researched",
+  "auto_summary": "Allegany County, NY shows 1 existing IGSA facility, and active community resistance.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1
   }
 }

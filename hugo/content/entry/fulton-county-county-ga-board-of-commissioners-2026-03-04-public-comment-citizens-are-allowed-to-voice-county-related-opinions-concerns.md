@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/fulton-county-county-ga-board-of-commissioners-2026-03-04-public-comment-citizens-are-allowed-to-voice-county-related-opinions-concerns.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

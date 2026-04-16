@@ -4,5 +4,5 @@ type: state
 layout: single
 state_abbr: "OH"
 county_count: 18
-entry_count: 43
+entry_count: 44
 ---

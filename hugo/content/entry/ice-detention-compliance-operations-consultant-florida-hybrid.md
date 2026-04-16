@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/jobs/ice-detention-compliance-operations-consultant-florida-hybrid.md"
-lastmod: "2026-04-13"
+lastmod: "2026-04-16"
 summary: "Sabot Consulting job posting for ICE detention compliance consultant in Florida (hybrid), requiring NDS 2025 expertise. Signals active Florida IGSA pipeline development."
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/richmond-county-va-organizational-development-standing-committee-2026-03-02-superintendent-kamras-stated-that-there-had-been-a-slight-decrease-due-to-the-ch.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

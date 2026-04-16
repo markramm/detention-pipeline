@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/el-paso-county-tx-city-council-work-session-2026-04-13-discussion-and-action-on-motion-from-city-council-on-february-3-2026-directing.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

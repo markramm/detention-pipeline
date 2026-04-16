@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/kansas-city-county-mo-finance-governance-and-public-safety-committee-2026-01-06-sponsor-city-manager-s-office-committee-substitute-waiving-the-limitations-e.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

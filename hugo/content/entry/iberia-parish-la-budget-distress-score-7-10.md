@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/budget/iberia-parish-la-budget-distress-score-7-10.md"
-lastmod: "2026-04-13"
+lastmod: "2026-04-16"
 summary: "Budget distress indicators for ."
 source_count: 1
 type: "entry"

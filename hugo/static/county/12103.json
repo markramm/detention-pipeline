@@ -2,9 +2,9 @@
   "fips": "12103",
   "county": "Pinellas County, FL",
   "state": "FL",
-  "score": 65,
-  "signal_types": 3,
-  "rank": 41,
+  "score": 76,
+  "signal_types": 4,
+  "rank": 32,
   "total_counties": 1192,
   "percentile": 97,
   "coverage": "unresearched",
@@ -12,6 +12,7 @@
   "entry_types": {
     "287g-agreement": 3,
     "anc-contract": 3,
-    "igsa": 1
+    "igsa": 1,
+    "note": 1
   }
 }

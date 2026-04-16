@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/richmond-county-va-finance-and-economic-development-standing-committee-2026-01-21-katie-mcconnell-deputy-director-of-the-department-of-economic-development-prov.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

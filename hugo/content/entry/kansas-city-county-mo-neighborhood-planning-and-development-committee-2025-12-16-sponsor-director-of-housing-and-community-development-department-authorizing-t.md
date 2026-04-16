@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/kansas-city-county-mo-neighborhood-planning-and-development-committee-2025-12-16-sponsor-director-of-housing-and-community-development-department-authorizing-t.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

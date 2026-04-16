@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/richmond-county-va-education-and-human-services-standing-committee-2026-02-12-member-breton-asked-what-impact-the-ice-storm-had-on-rps.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

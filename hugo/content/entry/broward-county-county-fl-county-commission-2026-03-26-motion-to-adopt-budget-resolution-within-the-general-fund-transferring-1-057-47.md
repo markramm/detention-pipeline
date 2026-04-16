@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/broward-county-county-fl-county-commission-2026-03-26-motion-to-adopt-budget-resolution-within-the-general-fund-transferring-1-057-47.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

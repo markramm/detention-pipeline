@@ -2,16 +2,17 @@
   "fips": "39049",
   "county": "Franklin County, OH",
   "state": "OH",
-  "score": 40,
+  "score": 41,
   "signal_types": 4,
-  "rank": 172,
+  "rank": 164,
   "total_counties": 1192,
   "percentile": 86,
-  "coverage": "partially-researched",
-  "auto_summary": "Franklin County, OH shows 1 existing IGSA facility, and 1 ANC contract.",
+  "coverage": "well-researched",
+  "auto_summary": "Franklin County, OH shows 1 existing IGSA facility, 1 ANC contract, and active community resistance.",
   "entry_types": {
     "anc-contract": 1,
     "igsa": 1,
+    "county-fight": 1,
     "event": 1
   }
 }

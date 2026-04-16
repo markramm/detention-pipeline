@@ -1,0 +1,20 @@
+---
+id: dane-county-county-wi-park-commission-2026-01-28-authorizing-a-permanent-limited-easement-and-temporary-limited-easement-at-ice-a
+title: 'Dane County County WI — Park Commission 2026-01-28: AUTHORIZING A PERMANENT LIMITED EASEMENT AND TEMPORARY LIMITED EASEMENT AT ICE A'
+type: commission-activity
+tags:
+- commission-activity
+- wi
+- moderate
+importance: 5
+---
+
+County commission agenda item matching detention pipeline keywords.
+
+Meeting: Park Commission
+Date: 2026-01-28
+Agenda Item: AUTHORIZING A PERMANENT LIMITED EASEMENT AND TEMPORARY LIMITED EASEMENT AT ICE AGE TRAIL JUNCTION AREA TO CITY OF FITCHBURG
+
+Matched keywords: \bICE\b
+
+Full text: 

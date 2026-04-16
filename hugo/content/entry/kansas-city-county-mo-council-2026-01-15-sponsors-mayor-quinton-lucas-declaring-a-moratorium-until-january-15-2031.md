@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/kansas-city-county-mo-council-2026-01-15-sponsors-mayor-quinton-lucas-declaring-a-moratorium-until-january-15-2031.md"
-lastmod: "2026-04-13"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

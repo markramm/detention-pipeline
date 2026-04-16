@@ -8,8 +8,8 @@ state: "FL"
 county: "Martin"
 repo_path: "kb/facilities/martin-county-jail-martin-fl.md"
 lastmod: "2026-04-13"
-summary: "IGSA detention facility in Martin, FL. Second-highest encounter rate statewide. $738K enforcement grant, 400+ arrests since Aug 2025, Stuart ICE sub-office operations."
-source_count: 3
+summary: "IGSA detention facility in Martin, FL."
+source_count: 0
 source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Martin County Jail"
@@ -31,4 +31,6 @@ Martin County has the **second-highest encounter rate statewide**. The ICE Stuar
 
 The Martin County Sheriff received a **$738,000 state grant** (Dec 2025) for enforcement equipment including rapid DNA testing, surveillance cameras, and tactical radios.
 
-A joint operation in **Indiantown** resulted in 11 arrests.
+A joint operation in **Indiantown** (agricultural community in western Martin County) resulted in 11 arrests.
+
+See: [Martin County FL enforcement hub note](../industry/notes/martin-county-fl-ice-enforcement-hub.md)

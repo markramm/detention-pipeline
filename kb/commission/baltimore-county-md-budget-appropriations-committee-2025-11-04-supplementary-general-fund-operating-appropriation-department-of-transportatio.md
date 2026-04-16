@@ -1,0 +1,23 @@
+---
+id: baltimore-county-md-budget-appropriations-committee-2025-11-04-supplementary-general-fund-operating-appropriation-department-of-transportatio
+title: 'Baltimore County MD — Budget & Appropriations Committee 2025-11-04: Supplementary General Fund Operating Appropriation – Department of Transportatio'
+type: commission-activity
+tags:
+- commission-activity
+- md
+- moderate
+importance: 5
+---
+
+County commission agenda item matching detention pipeline keywords.
+
+Meeting: Budget & Appropriations Committee
+Date: 2025-11-04
+Agenda Item: Supplementary General Fund Operating Appropriation – Department of Transportation – $4,457,580
+
+FOR the purpose of providing a Supplementary General Fund Operating Appropriation in the amount of $4,457,580 to the Department of Transportation – Service 688 (Snow and Ice Control), to provide funding to balance the Department of Transportation’s Fiscal Year 2025 budget for a deficit caused by snow removal costs; and providing for a special effective date.
+
+
+Matched keywords: \bICE\b
+
+Full text: 

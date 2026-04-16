@@ -8,8 +8,8 @@ state: "FL"
 county: "Pinellas"
 repo_path: "kb/facilities/pinellas-county-jail-pinellas-fl.md"
 lastmod: "2026-04-13"
-summary: "Tampa Bay's designated ICE holding facility. 60% detainee increase since Jan 2025, 200 on floor, sheriff pressuring 287(g), 2,922 regional arrests."
-source_count: 3
+summary: "IGSA detention facility in Pinellas, FL."
+source_count: 0
 source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
 facility_name: "Pinellas County Jail"
@@ -32,3 +32,5 @@ Pinellas County Jail serves as **Tampa Bay's designated ICE holding facility**. 
 Sheriff Bob Gualtieri has pressured all Tampa Bay police chiefs to sign **287(g) agreements**, backed by Governor DeSantis threatening removal of non-compliant officials. The Tampa Bay region has seen **2,922 immigration arrests**.
 
 **100+ demonstrators** protested at the jail in June 2025.
+
+See: [Pinellas County FL Tampa Bay ICE holding note](../industry/notes/pinellas-county-fl-tampa-bay-ice-holding.md)

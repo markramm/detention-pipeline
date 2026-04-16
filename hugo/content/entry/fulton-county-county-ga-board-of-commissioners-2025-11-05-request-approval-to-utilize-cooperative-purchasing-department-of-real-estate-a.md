@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/fulton-county-county-ga-board-of-commissioners-2025-11-05-request-approval-to-utilize-cooperative-purchasing-department-of-real-estate-a.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

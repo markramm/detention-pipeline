@@ -7,7 +7,7 @@ fips: ""
 state: ""
 county: ""
 repo_path: "kb/commission/san-diego-county-county-ca-board-of-supervisors-2025-12-09-sheriff-request-for-authorization-to-issue-a-competitive-solicitation-for-phar.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"
