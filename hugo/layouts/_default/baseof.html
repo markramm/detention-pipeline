@@ -143,6 +143,31 @@ body {
   padding: 6px 12px; border-radius: 3px; transition: all 0.12s;
   font-weight: 400;
 }
+.nav-search { position: relative; margin-right: 4px; }
+.nav-search input {
+  font-family: 'DM Mono', monospace; font-size: 11px;
+  background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1);
+  color: #e8e6e1; padding: 5px 10px 5px 26px; border-radius: 3px;
+  width: 140px; outline: none; transition: all 0.15s;
+}
+.nav-search input:focus { width: 220px; border-color: rgba(255,255,255,0.25); background: rgba(255,255,255,0.08); }
+.nav-search input::placeholder { color: rgba(255,255,255,0.2); }
+.nav-search .ns-icon { position: absolute; left: 8px; top: 50%; transform: translateY(-50%); color: rgba(255,255,255,0.2); font-size: 11px; pointer-events: none; }
+.nav-search .ns-hint { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); font-family: 'DM Mono', monospace; font-size: 9px; color: rgba(255,255,255,0.15); pointer-events: none; border: 1px solid rgba(255,255,255,0.1); padding: 0 4px; border-radius: 2px; line-height: 1.6; }
+.nav-search input:focus ~ .ns-hint { display: none; }
+.ns-results {
+  position: absolute; top: 100%; left: 0; margin-top: 4px;
+  background: #111118; border: 1px solid #2a2a35; border-radius: 4px;
+  min-width: 300px; max-height: 340px; overflow-y: auto; display: none;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.6); z-index: 200;
+}
+.ns-results.open { display: block; }
+.ns-result {
+  padding: 8px 14px; cursor: pointer; font-size: 12px; color: #8a8892;
+  display: flex; justify-content: space-between; align-items: center;
+}
+.ns-result:hover, .ns-result.sel { background: rgba(255,255,255,0.04); color: #e8e6e1; }
+.ns-score { font-family: 'DM Mono', monospace; font-size: 11px; padding: 1px 6px; border-radius: 2px; }
 .site-nav a:hover { color: var(--text-light); background: rgba(255,255,255,0.06); }
 .site-nav a.active { color: var(--text-light); background: rgba(255,255,255,0.08); }
 
@@ -353,6 +378,12 @@ body {
       <span class="brand-tag">Early Warning</span>
     </a>
     <nav class="site-nav" aria-label="Main navigation">
+      <div class="nav-search">
+        <span class="ns-icon">&#x2315;</span>
+        <input type="text" id="nav-county-search" placeholder="Find a county..." autocomplete="off" />
+        <span class="ns-hint">/</span>
+        <div class="ns-results" id="nav-search-results"></div>
+      </div>
       <a href="/map/" {{ if hasPrefix .RelPermalink "/map" }}class="active"{{ end }}>Map</a>
       <div class="nav-group">
         <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") (hasPrefix .RelPermalink "/timeline") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Explore</button>
@@ -495,6 +526,51 @@ body {
     });
   });
   document.addEventListener('click',function(e){if(!e.target.closest('.nav-group'))closeAll()});
+})();
+</script>
+<script>
+// Global county search in nav bar
+(function(){
+  var si=document.getElementById('nav-county-search'),sr=document.getElementById('nav-search-results');
+  if(!si||!sr)return;
+  var names=null,sel=-1;
+  function esc(s){var d=document.createElement('div');d.textContent=s;return d.innerHTML}
+  function sc(s){return s>=70?'#e84545':s>=40?'#d46a2f':s>=15?'#8a8892':'#55535e'}
+  function load(){
+    if(names)return Promise.resolve();
+    return Promise.all([fetch('/fips_names.json').then(function(r){return r.json()}),fetch('/heat_data.json').then(function(r){return r.json()})])
+      .then(function(d){
+        var fn=d[0],heat=d[1],H={};
+        heat.forEach(function(e){H[e.fips]=e});
+        names=Object.entries(fn).map(function(e){return{fips:e[0],name:e[1],lower:e[1].toLowerCase(),score:(H[e[0]]||{}).score||0}});
+      });
+  }
+  si.addEventListener('focus',function(){load()});
+  si.addEventListener('input',function(){
+    load().then(function(){
+      var q=si.value.trim().toLowerCase();
+      if(q.length<2){sr.classList.remove('open');return}
+      var matches=names.filter(function(c){return c.lower.includes(q)}).sort(function(a,b){return b.score-a.score}).slice(0,10);
+      if(!matches.length){sr.innerHTML='<div class="ns-result" style="color:#3a3845;cursor:default;">No counties found</div>';sr.classList.add('open');return}
+      sr.innerHTML=matches.map(function(m){
+        var badge=m.score>0?'<span class="ns-score" style="color:'+sc(m.score)+'">'+m.score+'</span>':'';
+        return '<div class="ns-result" data-fips="'+m.fips+'">'+esc(m.name)+' '+badge+'</div>';
+      }).join('');
+      sr.classList.add('open');sel=-1;
+      sr.querySelectorAll('.ns-result[data-fips]').forEach(function(el){
+        el.addEventListener('click',function(){window.location.href='/county/'+el.dataset.fips+'/';});
+      });
+    });
+  });
+  si.addEventListener('keydown',function(e){
+    var items=sr.querySelectorAll('.ns-result[data-fips]');
+    if(e.key==='ArrowDown'){e.preventDefault();sel=Math.min(sel+1,items.length-1);items.forEach(function(el,i){el.classList.toggle('sel',i===sel)});}
+    else if(e.key==='ArrowUp'){e.preventDefault();sel=Math.max(sel-1,0);items.forEach(function(el,i){el.classList.toggle('sel',i===sel)});}
+    else if(e.key==='Enter'&&sel>=0&&items[sel]){window.location.href='/county/'+items[sel].dataset.fips+'/';}
+    else if(e.key==='Escape'){sr.classList.remove('open');si.blur();}
+  });
+  document.addEventListener('click',function(e){if(!si.parentElement.contains(e.target))sr.classList.remove('open')});
+  document.addEventListener('keydown',function(e){if(e.key==='/'&&document.activeElement.tagName!=='INPUT'&&document.activeElement.tagName!=='TEXTAREA'){e.preventDefault();si.focus();}});
 })();
 </script>
 </body>

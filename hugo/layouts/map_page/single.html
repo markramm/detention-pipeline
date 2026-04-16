@@ -28,16 +28,6 @@
   .m-stat { background: #111118; border: 1px solid #2a2a35; border-radius: 4px; padding: 6px 12px; text-align: center; }
   .m-stat-val { font-family: 'DM Mono', monospace; font-size: 14px; font-weight: 500; color: #e8e6e1; line-height: 1; }
   .m-stat-label { font-family: 'DM Mono', monospace; font-size: 7px; letter-spacing: 0.1em; text-transform: uppercase; color: #55535e; margin-top: 2px; }
-  #map-search { top: 8px; right: 70px; }
-  #map-search input { font-family: 'DM Mono', monospace; font-size: 12px; background: #111118; border: 1px solid #2a2a35; color: #e8e6e1; padding: 7px 12px 7px 30px; border-radius: 4px; width: 220px; outline: none; transition: border-color 0.12s; }
-  #map-search input:focus { border-color: #55535e; }
-  #map-search input::placeholder { color: #3a3845; }
-  #map-search .search-icon { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: #3a3845; font-size: 12px; pointer-events: none; }
-  #search-results { position: absolute; top: 100%; left: 0; right: 0; margin-top: 2px; background: #111118; border: 1px solid #2a2a35; border-radius: 4px; max-height: 280px; overflow-y: auto; display: none; box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
-  #search-results.open { display: block; }
-  .search-result { padding: 8px 12px; cursor: pointer; font-size: 12px; color: #8a8892; display: flex; justify-content: space-between; align-items: center; }
-  .search-result:hover { background: rgba(255,255,255,0.04); color: #e8e6e1; }
-  .search-result .sr-score { font-family: 'DM Mono', monospace; font-size: 11px; padding: 1px 6px; border-radius: 2px; }
   #map-zoom { top: 50%; right: 20px; transform: translateY(-50%); display: flex; flex-direction: column; gap: 1px; }
   .z-btn { width: 30px; height: 30px; background: #111118; border: 1px solid #2a2a35; color: #8a8892; font-family: 'DM Mono', monospace; font-size: 14px; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.1s; }
   .z-btn:hover { background: #22222f; color: #e8e6e1; }
@@ -108,11 +98,6 @@
   <div id="map-stats" class="map-overlay">
     <div class="m-stat"><div class="m-stat-val" id="s-counties">—</div><div class="m-stat-label">Counties</div></div>
     <div class="m-stat"><div class="m-stat-val" id="s-max">—</div><div class="m-stat-label">Max Score</div></div>
-  </div>
-  <div id="map-search" class="map-overlay" style="position:relative;">
-    <span class="search-icon">&#x2315;</span>
-    <input type="text" id="county-search" placeholder="Search county..." autocomplete="off" />
-    <div id="search-results"></div>
   </div>
   <div id="map-zoom" class="map-overlay">
     <button class="z-btn" id="zi">+</button>
@@ -226,35 +211,6 @@ function showTip(ev,d){
 }
 function moveTip(ev){let x=ev.clientX+14,y=ev.clientY+14;if(x+tip.offsetWidth>window.innerWidth-14)x=ev.clientX-tip.offsetWidth-14;if(y+tip.offsetHeight>window.innerHeight-14)y=ev.clientY-tip.offsetHeight-14;tip.style.left=x+'px';tip.style.top=y+'px'}
 function hideTip(){tip.classList.remove('vis')}
-init().then(()=>{
-  // County search
-  const si=document.getElementById('county-search'), sr=document.getElementById('search-results');
-  const allNames=Object.entries(FN).map(([fips,name])=>({fips,name,lower:name.toLowerCase(),score:(H[fips]||{}).score||0}));
-  let sel=-1;
-  si.addEventListener('input',()=>{
-    const q=si.value.trim().toLowerCase();
-    if(q.length<2){sr.classList.remove('open');return}
-    const matches=allNames.filter(c=>c.lower.includes(q)).sort((a,b)=>b.score-a.score).slice(0,12);
-    if(!matches.length){sr.innerHTML='<div class="search-result" style="color:#3a3845;cursor:default;">No counties found</div>';sr.classList.add('open');return}
-    sr.innerHTML=matches.map((m,i)=>{
-      const sc=m.score>0?`<span class="sr-score" style="color:${m.score>=70?'#e84545':m.score>=40?'#d46a2f':m.score>=15?'#8a8892':'#55535e'}">${m.score}</span>`:'';
-      return `<div class="search-result" data-fips="${m.fips}" data-idx="${i}">${esc(m.name)} ${sc}</div>`;
-    }).join('');
-    sr.classList.add('open');sel=-1;
-    sr.querySelectorAll('.search-result[data-fips]').forEach(el=>{
-      el.addEventListener('click',()=>{ window.location.href='/county/'+el.dataset.fips+'/'; });
-    });
-  });
-  si.addEventListener('keydown',(e)=>{
-    const items=sr.querySelectorAll('.search-result[data-fips]');
-    if(e.key==='ArrowDown'){e.preventDefault();sel=Math.min(sel+1,items.length-1);items.forEach((el,i)=>el.style.background=i===sel?'rgba(255,255,255,0.04)':'');}
-    else if(e.key==='ArrowUp'){e.preventDefault();sel=Math.max(sel-1,0);items.forEach((el,i)=>el.style.background=i===sel?'rgba(255,255,255,0.04)':'');}
-    else if(e.key==='Enter'&&sel>=0&&items[sel]){window.location.href='/county/'+items[sel].dataset.fips+'/';}
-    else if(e.key==='Escape'){sr.classList.remove('open');si.blur();}
-  });
-  document.addEventListener('click',(e)=>{if(!si.contains(e.target)&&!sr.contains(e.target))sr.classList.remove('open')});
-  // Focus search on / key
-  document.addEventListener('keydown',(e)=>{if(e.key==='/'&&document.activeElement!==si){e.preventDefault();si.focus();}});
-}).catch(e=>{ console.error('Map init failed:', e); document.getElementById('map-header').insertAdjacentHTML('beforeend','<div style="color:#e84545;font-size:11px;margin-top:8px;">Map data failed to load. Try refreshing.</div>'); });
+init().catch(e=>{ console.error('Map init failed:', e); document.getElementById('map-header').insertAdjacentHTML('beforeend','<div style="color:#e84545;font-size:11px;margin-top:8px;">Map data failed to load. Try refreshing.</div>'); });
 </script>
 {{ end }}
