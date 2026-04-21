@@ -1,14 +1,24 @@
 ---
 id: elliptic-inc-70cmsd24p00000147
-title: ELLIPTIC INC — 70CMSD24P00000147 (MI) $18,000
+title: 'ELLIPTIC INC — 70CMSD24P00000147 (MI) $18,000'
 type: ice-contract
+state: 'MI'
+contractor: 'ELLIPTIC INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$18,000.00'
+contract_type: 'federal-contract'
+award_date: '2024-09-30'
+usaspending_id: '70CMSD24P00000147'
+source: 'USAspending.gov (award 70CMSD24P00000147)'
+signal_strength: 'weak'
+notes: 'ELLIPTIC SOFTWARE'
 tags:
 - ice-contract
 - other
 - other-ice
 - mi
 importance: 5
-state: 'MI'
 ---
 
 ICE contract award.

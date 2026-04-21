@@ -1,16 +1,19 @@
 ---
 id: logan-county-ar-usda-distress
-title: Logan County, AR — Budget Distress (score 3/10)
+title: 'Logan County, AR — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Logan County'
+state: 'AR'
+fips: '05083'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ar
 - population-loss
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Logan County'
-fips: '05083'
 ---
 
 County-level fiscal distress indicators for Logan County, AR.

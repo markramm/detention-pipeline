@@ -1,16 +1,19 @@
 ---
 id: wheeler-county-ne-usda-distress
-title: Wheeler County, NE — Budget Distress (score 3/10)
+title: 'Wheeler County, NE — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Wheeler County'
+state: 'NE'
+fips: '31183'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ne
 - population-loss
 - non-metro
 importance: 5
-state: 'NE'
-county: 'Wheeler County'
-fips: '31183'
 ---
 
 County-level fiscal distress indicators for Wheeler County, NE.

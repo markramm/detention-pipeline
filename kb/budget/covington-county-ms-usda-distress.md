@@ -1,16 +1,19 @@
 ---
 id: covington-county-ms-usda-distress
-title: Covington County, MS — Budget Distress (score 4/10)
+title: 'Covington County, MS — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Covington County'
+state: 'MS'
+fips: '28031'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ms
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Covington County'
-fips: '28031'
 ---
 
 County-level fiscal distress indicators for Covington County, MS.

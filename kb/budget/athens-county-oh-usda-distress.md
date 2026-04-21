@@ -1,16 +1,19 @@
 ---
 id: athens-county-oh-usda-distress
-title: Athens County, OH — Budget Distress (score 4/10)
+title: 'Athens County, OH — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Athens County'
+state: 'OH'
+fips: '39009'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Athens County'
-fips: '39009'
 ---
 
 County-level fiscal distress indicators for Athens County, OH.

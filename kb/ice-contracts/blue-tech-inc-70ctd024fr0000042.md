@@ -1,14 +1,24 @@
 ---
 id: blue-tech-inc-70ctd024fr0000042
-title: BLUE TECH INC. — 70CTD024FR0000042 (TX) $22,616
+title: 'BLUE TECH INC. — 70CTD024FR0000042 (TX) $22,616'
 type: ice-contract
+state: 'TX'
+contractor: 'BLUE TECH INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$22,615.95'
+contract_type: 'federal-contract'
+award_date: '2024-08-19'
+usaspending_id: '70CTD024FR0000042'
+source: 'USAspending.gov (award 70CTD024FR0000042)'
+signal_strength: 'weak'
+notes: 'CISCO BRAND WEBEX ROOM KIT BAR/ ROOM NAVIGATOR VIDEO TELE-CONFERENCING EQUIPMENT FOR ICE/HSI'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw26fc0000010
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW26FC0000010 (FL) $658,549
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW26FC0000010 (FL) $658,549'
 type: ice-contract
+state: 'FL'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$658,549.36'
+contract_type: 'federal-contract'
+award_date: '2026-01-26'
+usaspending_id: '70CMSW26FC0000010'
+source: 'USAspending.gov (award 70CMSW26FC0000010)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES MISSION CRITICAL LAW ENFORCEMENT EQUIPMENT IN SUPPORT OF ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

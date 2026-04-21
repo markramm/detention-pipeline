@@ -1,16 +1,19 @@
 ---
 id: trousdale-county-tn-usda-distress
-title: Trousdale County, TN — Budget Distress (score 3/10)
+title: 'Trousdale County, TN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Trousdale County'
+state: 'TN'
+fips: '47169'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tn
 - low-employment
 - low-education-attainment
 importance: 5
-state: 'TN'
-county: 'Trousdale County'
-fips: '47169'
 ---
 
 County-level fiscal distress indicators for Trousdale County, TN.

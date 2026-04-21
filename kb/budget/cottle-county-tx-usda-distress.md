@@ -1,16 +1,19 @@
 ---
 id: cottle-county-tx-usda-distress
-title: Cottle County, TX — Budget Distress (score 3/10)
+title: 'Cottle County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cottle County'
+state: 'TX'
+fips: '48101'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Cottle County'
-fips: '48101'
 ---
 
 County-level fiscal distress indicators for Cottle County, TX.

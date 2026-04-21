@@ -1,16 +1,19 @@
 ---
 id: floyd-county-ia-usda-distress
-title: Floyd County, IA — Budget Distress (score 3/10)
+title: 'Floyd County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Floyd County'
+state: 'IA'
+fips: '19067'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Floyd County'
-fips: '19067'
 ---
 
 County-level fiscal distress indicators for Floyd County, IA.

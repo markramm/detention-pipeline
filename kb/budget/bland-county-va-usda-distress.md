@@ -1,7 +1,13 @@
 ---
 id: bland-county-va-usda-distress
-title: Bland County, VA — Budget Distress (score 5/10)
+title: 'Bland County, VA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Bland County'
+state: 'VA'
+fips: '51021'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - va
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Bland County'
-fips: '51021'
 ---
 
 County-level fiscal distress indicators for Bland County, VA.

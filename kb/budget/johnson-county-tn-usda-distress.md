@@ -1,7 +1,13 @@
 ---
 id: johnson-county-tn-usda-distress
-title: Johnson County, TN — Budget Distress (score 7/10)
+title: 'Johnson County, TN — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Johnson County'
+state: 'TN'
+fips: '47091'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tn
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TN'
-county: 'Johnson County'
-fips: '47091'
 ---
 
 County-level fiscal distress indicators for Johnson County, TN.

@@ -1,14 +1,24 @@
 ---
 id: kcorp-support-services-inc-hscemr15p00026
-title: KCORP SUPPORT SERVICES, INC — HSCEMR15P00026 (CA) $1,177,753
+title: 'KCORP SUPPORT SERVICES, INC — HSCEMR15P00026 (CA) $1,177,753'
 type: ice-contract
+state: 'CA'
+contractor: 'KCORP SUPPORT SERVICES, INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,177,752.90'
+contract_type: 'federal-contract'
+award_date: '2015-09-30'
+usaspending_id: 'HSCEMR15P00026'
+source: 'USAspending.gov (award HSCEMR15P00026)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF SAN PEDRO SPC OPERATION AND MAINTENANCE'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

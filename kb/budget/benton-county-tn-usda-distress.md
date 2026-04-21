@@ -1,7 +1,13 @@
 ---
 id: benton-county-tn-usda-distress
-title: Benton County, TN — Budget Distress (score 4/10)
+title: 'Benton County, TN — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Benton County'
+state: 'TN'
+fips: '47005'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tn
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TN'
-county: 'Benton County'
-fips: '47005'
 ---
 
 County-level fiscal distress indicators for Benton County, TN.

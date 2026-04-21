@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd25fc0000004
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD25FC0000004 (DC) $15,960
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD25FC0000004 (DC) $15,960'
 type: ice-contract
+state: 'DC'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$15,960.00'
+contract_type: 'federal-contract'
+award_date: '2025-02-28'
+usaspending_id: '70CMSD25FC0000004'
+source: 'USAspending.gov (award 70CMSD25FC0000004)'
+signal_strength: 'weak'
+notes: 'BPA CALL FOR MULTI-FUNCTIONAL DEVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

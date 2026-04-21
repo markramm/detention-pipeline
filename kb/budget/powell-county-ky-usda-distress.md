@@ -1,7 +1,13 @@
 ---
 id: powell-county-ky-usda-distress
-title: Powell County, KY — Budget Distress (score 4/10)
+title: 'Powell County, KY — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Powell County'
+state: 'KY'
+fips: '21197'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Powell County'
-fips: '21197'
 ---
 
 County-level fiscal distress indicators for Powell County, KY.

@@ -1,7 +1,13 @@
 ---
 id: lunenburg-county-va-usda-distress
-title: Lunenburg County, VA — Budget Distress (score 6/10)
+title: 'Lunenburg County, VA — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Lunenburg County'
+state: 'VA'
+fips: '51111'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - va
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Lunenburg County'
-fips: '51111'
 ---
 
 County-level fiscal distress indicators for Lunenburg County, VA.

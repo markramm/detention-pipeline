@@ -1,16 +1,19 @@
 ---
 id: tripp-county-sd-usda-distress
-title: Tripp County, SD — Budget Distress (score 3/10)
+title: 'Tripp County, SD — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Tripp County'
+state: 'SD'
+fips: '46123'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sd
 - population-loss
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Tripp County'
-fips: '46123'
 ---
 
 County-level fiscal distress indicators for Tripp County, SD.

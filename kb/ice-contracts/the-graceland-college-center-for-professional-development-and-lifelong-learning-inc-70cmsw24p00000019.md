@@ -1,14 +1,24 @@
 ---
 id: the-graceland-college-center-for-professional-development-and-lifelong-learning-inc-70cmsw24p00000019
-title: THE GRACELAND COLLEGE CENTER FOR PROFESSIONAL DEVELOPMENT AND LIFELONG LEARNING, INC — 70CMSW24P00000019 (KS) $7,600
+title: 'THE GRACELAND COLLEGE CENTER FOR PROFESSIONAL DEVELOPMENT AND LIFELONG LEARNING, INC — 70CMSW24P00000019 (KS) $7,600'
 type: ice-contract
+state: 'KS'
+contractor: 'THE GRACELAND COLLEGE CENTER FOR PROFESSIONAL DEVELOPMENT AND LIFELONG LEARNING, INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$7,600.00'
+contract_type: 'federal-contract'
+award_date: '2024-08-13'
+usaspending_id: '70CMSW24P00000019'
+source: 'USAspending.gov (award 70CMSW24P00000019)'
+signal_strength: 'weak'
+notes: 'GROUP TRAINING SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - ks
 importance: 5
-state: 'KS'
 ---
 
 ICE contract award.

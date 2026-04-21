@@ -1,16 +1,19 @@
 ---
 id: baca-county-co-usda-distress
-title: Baca County, CO — Budget Distress (score 3/10)
+title: 'Baca County, CO — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Baca County'
+state: 'CO'
+fips: '08009'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - co
 - population-loss
 - non-metro
 importance: 5
-state: 'CO'
-county: 'Baca County'
-fips: '08009'
 ---
 
 County-level fiscal distress indicators for Baca County, CO.

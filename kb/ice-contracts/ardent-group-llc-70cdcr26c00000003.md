@@ -1,24 +1,24 @@
 ---
 id: ardent-group-llc-70cdcr26c00000003
-title: ARDENT GROUP, LLC — 70CDCR26C00000003 (CO) $9,296,000
+title: 'ARDENT GROUP, LLC — 70CDCR26C00000003 (CO) $9,296,000'
 type: ice-contract
+state: 'CO'
+contractor: 'ARDENT GROUP, LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$9,296,000.00'
+contract_type: 'federal-contract'
+award_date: '2025-10-25'
+usaspending_id: '70CDCR26C00000003'
+source: 'USAspending.gov (award 70CDCR26C00000003)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS CONTRACT IS TO PROVIDE ICE HEALTH SERVICE CORPS WITH A PHARMACY BENEFIT MANAGER TO MANAGE FORMULARY, CLAIMS PROCESSING, PHARMACY NETWORK ADMINISTRATION, AND BENEFIT PLAN DESIGN.'
 tags:
 - ice-contract
 - other
 - detention-related
 - co
 importance: 5
-state: 'CO'
-county: 'SUMMIT'
-fips: '08117'
-contractor: 'ARDENT GROUP, LLC'
-contract_value: '$9,296,000.00'
-contract_type: 'federal-contract'
-award_date: '2025-10-25'
-usaspending_id: '70CDCR26C00000003'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THE PURPOSE OF THIS CONTRACT IS TO PROVIDE ICE HEALTH SERVICE CORPS WITH A PHARMACY BENEFIT MANAGER TO MANAGE FORMULARY, CLAIMS PROCESSING, PHARMACY NETWORK ADMINISTRATION, AND BENEFIT PLAN DESIGN.'
 ---
 
 ICE contract award.

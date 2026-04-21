@@ -1,14 +1,24 @@
 ---
 id: kurrent-logic-llc-70ctd021fr0000015
-title: KURRENT LOGIC LLC — 70CTD021FR0000015 (MD) $17,789,943
+title: 'KURRENT LOGIC LLC — 70CTD021FR0000015 (MD) $17,789,943'
 type: ice-contract
+state: 'MD'
+contractor: 'KURRENT LOGIC LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$17,789,943.18'
+contract_type: 'federal-contract'
+award_date: '2020-12-17'
+usaspending_id: '70CTD021FR0000015'
+source: 'USAspending.gov (award 70CTD021FR0000015)'
+signal_strength: 'weak'
+notes: 'OPERATIONAL SYSTEMS DEVELOPMENT AND MANAGEMENT INFORMATION SYSTEMS SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

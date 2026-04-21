@@ -1,16 +1,19 @@
 ---
 id: thayer-county-ne-usda-distress
-title: Thayer County, NE — Budget Distress (score 3/10)
+title: 'Thayer County, NE — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Thayer County'
+state: 'NE'
+fips: '31169'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ne
 - population-loss
 - non-metro
 importance: 5
-state: 'NE'
-county: 'Thayer County'
-fips: '31169'
 ---
 
 County-level fiscal distress indicators for Thayer County, NE.

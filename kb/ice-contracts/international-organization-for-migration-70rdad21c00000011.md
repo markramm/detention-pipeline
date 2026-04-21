@@ -1,14 +1,24 @@
 ---
 id: international-organization-for-migration-70rdad21c00000011
-title: INTERNATIONAL ORGANIZATION FOR MIGRATION — 70RDAD21C00000011 (DC) $29,090,367
+title: 'INTERNATIONAL ORGANIZATION FOR MIGRATION — 70RDAD21C00000011 (DC) $29,090,367'
 type: ice-contract
+state: 'DC'
+contractor: 'INTERNATIONAL ORGANIZATION FOR MIGRATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$29,090,367.00'
+contract_type: 'federal-contract'
+award_date: '2021-08-13'
+usaspending_id: '70RDAD21C00000011'
+source: 'USAspending.gov (award 70RDAD21C00000011)'
+signal_strength: 'weak'
+notes: 'THE CONTRACT WILL ASSIST WITH UP TO 3,000 BENEFICIARIES UNDER THE FAMILY REUNIFICATION TASK FORCE.  THE CONTRACTOR WILL ASSIST WITH THE APPLICATION PROCESS AND SUBSEQUENT ACTIONS REQUIRED FOR ENTRY INTO THE U.S. TO INCLUDE ASSISTANCE WITH SCHEDULING'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw25fr0000062
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FR0000062 (VA) $30,535
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FR0000062 (VA) $30,535'
 type: ice-contract
+state: 'VA'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$30,535.37'
+contract_type: 'federal-contract'
+award_date: '2025-07-28'
+usaspending_id: '70CMSW25FR0000062'
+source: 'USAspending.gov (award 70CMSW25FR0000062)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES HYDRATION KITS FOR MANDATED LAW ENFORCEMENT TRAINING CLASSES TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

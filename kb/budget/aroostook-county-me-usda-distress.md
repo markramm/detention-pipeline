@@ -1,16 +1,19 @@
 ---
 id: aroostook-county-me-usda-distress
-title: Aroostook County, ME — Budget Distress (score 3/10)
+title: 'Aroostook County, ME — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Aroostook County'
+state: 'ME'
+fips: '23003'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - me
 - population-loss
 - non-metro
 importance: 5
-state: 'ME'
-county: 'Aroostook County'
-fips: '23003'
 ---
 
 County-level fiscal distress indicators for Aroostook County, ME.

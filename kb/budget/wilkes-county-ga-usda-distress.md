@@ -1,7 +1,13 @@
 ---
 id: wilkes-county-ga-usda-distress
-title: Wilkes County, GA — Budget Distress (score 4/10)
+title: 'Wilkes County, GA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Wilkes County'
+state: 'GA'
+fips: '13317'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Wilkes County'
-fips: '13317'
 ---
 
 County-level fiscal distress indicators for Wilkes County, GA.

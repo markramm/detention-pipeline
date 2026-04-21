@@ -1,14 +1,24 @@
 ---
 id: kelley-create-co-70cmsd24fr0000007
-title: KELLEY CREATE CO — 70CMSD24FR0000007 (TX) $5,112
+title: 'KELLEY CREATE CO — 70CMSD24FR0000007 (TX) $5,112'
 type: ice-contract
+state: 'TX'
+contractor: 'KELLEY CREATE CO'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$5,112.00'
+contract_type: 'federal-contract'
+award_date: '2024-03-04'
+usaspending_id: '70CMSD24FR0000007'
+source: 'USAspending.gov (award 70CMSD24FR0000007)'
+signal_strength: 'weak'
+notes: 'COPIER LEASE'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

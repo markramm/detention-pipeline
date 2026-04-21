@@ -1,16 +1,19 @@
 ---
 id: greenwood-county-ks-usda-distress
-title: Greenwood County, KS — Budget Distress (score 3/10)
+title: 'Greenwood County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Greenwood County'
+state: 'KS'
+fips: '20073'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - population-loss
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Greenwood County'
-fips: '20073'
 ---
 
 County-level fiscal distress indicators for Greenwood County, KS.

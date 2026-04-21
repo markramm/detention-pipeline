@@ -1,7 +1,13 @@
 ---
 id: cibola-county-nm-usda-distress
-title: Cibola County, NM — Budget Distress (score 6/10)
+title: 'Cibola County, NM — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Cibola County'
+state: 'NM'
+fips: '35006'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nm
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Cibola County'
-fips: '35006'
 ---
 
 County-level fiscal distress indicators for Cibola County, NM.

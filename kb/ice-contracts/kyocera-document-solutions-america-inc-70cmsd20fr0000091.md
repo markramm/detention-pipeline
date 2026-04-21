@@ -1,14 +1,24 @@
 ---
 id: kyocera-document-solutions-america-inc-70cmsd20fr0000091
-title: KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD20FR0000091 (NJ) $6,460
+title: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD20FR0000091 (NJ) $6,460'
 type: ice-contract
+state: 'NJ'
+contractor: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$6,459.60'
+contract_type: 'federal-contract'
+award_date: '2020-07-14'
+usaspending_id: '70CMSD20FR0000091'
+source: 'USAspending.gov (award 70CMSD20FR0000091)'
+signal_strength: 'weak'
+notes: 'FY20 PROCURE A NEW COPIER FOR ADELANTO, CA TO REPLACE THE SHARP COPIER.'
 tags:
 - ice-contract
 - other
 - other-ice
 - nj
 importance: 5
-state: 'NJ'
 ---
 
 ICE contract award.

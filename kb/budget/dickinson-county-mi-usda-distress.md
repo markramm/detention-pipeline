@@ -1,16 +1,19 @@
 ---
 id: dickinson-county-mi-usda-distress
-title: Dickinson County, MI — Budget Distress (score 3/10)
+title: 'Dickinson County, MI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Dickinson County'
+state: 'MI'
+fips: '26043'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mi
 - population-loss
 - non-metro
 importance: 5
-state: 'MI'
-county: 'Dickinson County'
-fips: '26043'
 ---
 
 County-level fiscal distress indicators for Dickinson County, MI.

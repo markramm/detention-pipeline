@@ -1,16 +1,19 @@
 ---
 id: pulaski-county-il-usda-distress
-title: Pulaski County, IL — Budget Distress (score 3/10)
+title: 'Pulaski County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Pulaski County'
+state: 'IL'
+fips: '17153'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Pulaski County'
-fips: '17153'
 ---
 
 County-level fiscal distress indicators for Pulaski County, IL.

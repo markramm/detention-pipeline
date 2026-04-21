@@ -1,7 +1,13 @@
 ---
 id: pike-county-mo-usda-distress
-title: Pike County, MO — Budget Distress (score 4/10)
+title: 'Pike County, MO — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Pike County'
+state: 'MO'
+fips: '29163'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mo
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'MO'
-county: 'Pike County'
-fips: '29163'
 ---
 
 County-level fiscal distress indicators for Pike County, MO.

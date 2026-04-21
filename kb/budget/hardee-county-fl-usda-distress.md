@@ -1,7 +1,13 @@
 ---
 id: hardee-county-fl-usda-distress
-title: Hardee County, FL — Budget Distress (score 7/10)
+title: 'Hardee County, FL — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Hardee County'
+state: 'FL'
+fips: '12049'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - fl
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'FL'
-county: 'Hardee County'
-fips: '12049'
 ---
 
 County-level fiscal distress indicators for Hardee County, FL.

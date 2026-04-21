@@ -1,14 +1,24 @@
 ---
 id: skopenow-inc-70cmsd25p00000110
-title: SKOPENOW INC. — 70CMSD25P00000110 (VA) $19,500
+title: 'SKOPENOW INC. — 70CMSD25P00000110 (VA) $19,500'
 type: ice-contract
+state: 'VA'
+contractor: 'SKOPENOW INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$19,500.00'
+contract_type: 'federal-contract'
+award_date: '2025-08-01'
+usaspending_id: '70CMSD25P00000110'
+source: 'USAspending.gov (award 70CMSD25P00000110)'
+signal_strength: 'weak'
+notes: 'THE AWARD PROVIDES SKOPENOW ONLINE SOFTWARE RENEWAL LICENSES FOR BUILDING INTELLIGENCE REPORTS FOR LAW ENFORCEMENT INVESTIGATIONS, FOR ICE HOMELAND SECURITY INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

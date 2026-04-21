@@ -1,14 +1,23 @@
 ---
 id: mvm-inc-70cdcr26fr0000053
-title: MVM, INC. — 70CDCR26FR0000053 (TX)
+title: 'MVM, INC. — 70CDCR26FR0000053 (TX)'
 type: ice-contract
+state: 'TX'
+contractor: 'MVM, INC.'
+contractor_type: 'transport'
+contract_class: 'other-ice'
+contract_type: 'federal-contract'
+award_date: '2026-04-01'
+usaspending_id: '70CDCR26FR0000053'
+source: 'USAspending.gov (award 70CDCR26FR0000053)'
+signal_strength: 'weak'
+notes: 'THIS TASK ORDER PROVIDES NATIONWIDE TRANSPORTATION OF UNACCOMPANIED MINORS AND FAMILY UNITS FOR FISCAL YEAR 2026.'
 tags:
 - ice-contract
 - transport
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

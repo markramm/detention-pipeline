@@ -1,16 +1,19 @@
 ---
 id: greene-county-il-usda-distress
-title: Greene County, IL — Budget Distress (score 3/10)
+title: 'Greene County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Greene County'
+state: 'IL'
+fips: '17061'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Greene County'
-fips: '17061'
 ---
 
 County-level fiscal distress indicators for Greene County, IL.

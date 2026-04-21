@@ -1,14 +1,24 @@
 ---
 id: autos-vega-inc-70cmsd25p00000089
-title: AUTOS VEGA INC — 70CMSD25P00000089 (PR) $4,773
+title: 'AUTOS VEGA INC — 70CMSD25P00000089 (PR) $4,773'
 type: ice-contract
+state: 'PR'
+contractor: 'AUTOS VEGA INC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$4,772.82'
+contract_type: 'federal-contract'
+award_date: '2025-08-13'
+usaspending_id: '70CMSD25P00000089'
+source: 'USAspending.gov (award 70CMSD25P00000089)'
+signal_strength: 'strong'
+notes: 'THIS AWARD PROVIDES NEEDED REPAIRS TO AN ICE ENFORCEMENT AND REMOVAL OPERATIONS FLEET VEHICLE IN SAN JUAN, PR USED IN LAW ENFORCEMENT OPERATIONS.'
 tags:
 - ice-contract
 - other
 - detention-related
 - pr
 importance: 5
-state: 'PR'
 ---
 
 ICE contract award.

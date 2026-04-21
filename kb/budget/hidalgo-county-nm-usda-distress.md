@@ -1,7 +1,13 @@
 ---
 id: hidalgo-county-nm-usda-distress
-title: Hidalgo County, NM — Budget Distress (score 6/10)
+title: 'Hidalgo County, NM — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Hidalgo County'
+state: 'NM'
+fips: '35023'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nm
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Hidalgo County'
-fips: '35023'
 ---
 
 County-level fiscal distress indicators for Hidalgo County, NM.

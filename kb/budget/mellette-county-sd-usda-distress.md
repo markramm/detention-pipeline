@@ -1,7 +1,13 @@
 ---
 id: mellette-county-sd-usda-distress
-title: Mellette County, SD — Budget Distress (score 9/10)
+title: 'Mellette County, SD — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Mellette County'
+state: 'SD'
+fips: '46095'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - sd
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Mellette County'
-fips: '46095'
 ---
 
 County-level fiscal distress indicators for Mellette County, SD.

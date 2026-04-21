@@ -1,24 +1,24 @@
 ---
 id: chenega-facilities-management-llc-70cmsw18fr0000002
-title: CHENEGA FACILITIES MANAGEMENT LLC — 70CMSW18FR0000002 (NY) $28,471,542
+title: 'CHENEGA FACILITIES MANAGEMENT LLC — 70CMSW18FR0000002 (NY) $28,471,542'
 type: ice-contract
+state: 'NY'
+contractor: 'CHENEGA FACILITIES MANAGEMENT LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$28,471,541.79'
+contract_type: 'federal-contract'
+award_date: '2017-11-22'
+usaspending_id: '70CMSW18FR0000002'
+source: 'USAspending.gov (award 70CMSW18FR0000002)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF OPERATIONS AND MAINTENANCE AT SPC BATAVIA, NY'
 tags:
 - ice-contract
 - other
 - other-ice
 - ny
 importance: 5
-state: 'NY'
-county: 'GENESEE'
-fips: '36037'
-contractor: 'CHENEGA FACILITIES MANAGEMENT LLC'
-contract_value: '$28,471,541.79'
-contract_type: 'federal-contract'
-award_date: '2017-11-22'
-usaspending_id: '70CMSW18FR0000002'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'IGF::OT::IGF OPERATIONS AND MAINTENANCE AT SPC BATAVIA, NY'
 ---
 
 ICE contract award.

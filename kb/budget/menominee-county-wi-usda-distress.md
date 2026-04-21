@@ -1,16 +1,19 @@
 ---
 id: menominee-county-wi-usda-distress
-title: Menominee County, WI — Budget Distress (score 4/10)
+title: 'Menominee County, WI — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Menominee County'
+state: 'WI'
+fips: '55078'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wi
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'WI'
-county: 'Menominee County'
-fips: '55078'
 ---
 
 County-level fiscal distress indicators for Menominee County, WI.

@@ -1,16 +1,19 @@
 ---
 id: haskell-county-ks-usda-distress
-title: Haskell County, KS — Budget Distress (score 3/10)
+title: 'Haskell County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Haskell County'
+state: 'KS'
+fips: '20081'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - population-loss
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Haskell County'
-fips: '20081'
 ---
 
 County-level fiscal distress indicators for Haskell County, KS.

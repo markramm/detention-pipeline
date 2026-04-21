@@ -1,7 +1,13 @@
 ---
 id: dixie-county-fl-usda-distress
-title: Dixie County, FL — Budget Distress (score 4/10)
+title: 'Dixie County, FL — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Dixie County'
+state: 'FL'
+fips: '12029'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - fl
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'FL'
-county: 'Dixie County'
-fips: '12029'
 ---
 
 County-level fiscal distress indicators for Dixie County, FL.

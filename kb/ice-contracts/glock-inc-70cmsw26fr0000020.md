@@ -1,14 +1,24 @@
 ---
 id: glock-inc-70cmsw26fr0000020
-title: GLOCK, INC. — 70CMSW26FR0000020 (GA) $159,998
+title: 'GLOCK, INC. — 70CMSW26FR0000020 (GA) $159,998'
 type: ice-contract
+state: 'GA'
+contractor: 'GLOCK, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$159,998.00'
+contract_type: 'federal-contract'
+award_date: '2026-03-13'
+usaspending_id: '70CMSW26FR0000020'
+source: 'USAspending.gov (award 70CMSW26FR0000020)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES FIREARM REPAIR PARTS FOR LAW ENFORCEMENT AGENTS IN THE FIELD FOR THE OFFICE OF FIREARM AND TACTICAL PROGRAMS (OFTP).'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

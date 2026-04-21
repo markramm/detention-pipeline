@@ -1,7 +1,13 @@
 ---
 id: costilla-county-co-usda-distress
-title: Costilla County, CO — Budget Distress (score 6/10)
+title: 'Costilla County, CO — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Costilla County'
+state: 'CO'
+fips: '08023'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - co
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'CO'
-county: 'Costilla County'
-fips: '08023'
 ---
 
 County-level fiscal distress indicators for Costilla County, CO.

@@ -1,14 +1,24 @@
 ---
 id: axon-enterprise-inc-70cmsw25fr0000043
-title: AXON ENTERPRISE, INC. — 70CMSW25FR0000043 (GA) $387,801
+title: 'AXON ENTERPRISE, INC. — 70CMSW25FR0000043 (GA) $387,801'
 type: ice-contract
+state: 'GA'
+contractor: 'AXON ENTERPRISE, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$387,800.78'
+contract_type: 'federal-contract'
+award_date: '2025-05-30'
+usaspending_id: '70CMSW25FR0000043'
+source: 'USAspending.gov (award 70CMSW25FR0000043)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES TASER EQUIPMENT AND ANCILLARY ACCESSORIES TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS AT FORT BENNING, GA.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

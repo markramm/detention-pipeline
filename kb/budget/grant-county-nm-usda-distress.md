@@ -1,16 +1,19 @@
 ---
 id: grant-county-nm-usda-distress
-title: Grant County, NM — Budget Distress (score 3/10)
+title: 'Grant County, NM — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Grant County'
+state: 'NM'
+fips: '35017'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nm
 - population-loss
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Grant County'
-fips: '35017'
 ---
 
 County-level fiscal distress indicators for Grant County, NM.

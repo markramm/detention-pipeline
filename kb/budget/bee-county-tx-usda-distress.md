@@ -1,7 +1,13 @@
 ---
 id: bee-county-tx-usda-distress
-title: Bee County, TX — Budget Distress (score 5/10)
+title: 'Bee County, TX — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Bee County'
+state: 'TX'
+fips: '48025'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tx
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Bee County'
-fips: '48025'
 ---
 
 County-level fiscal distress indicators for Bee County, TX.

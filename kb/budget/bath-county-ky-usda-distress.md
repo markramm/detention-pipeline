@@ -1,7 +1,13 @@
 ---
 id: bath-county-ky-usda-distress
-title: Bath County, KY — Budget Distress (score 5/10)
+title: 'Bath County, KY — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Bath County'
+state: 'KY'
+fips: '21011'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ky
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Bath County'
-fips: '21011'
 ---
 
 County-level fiscal distress indicators for Bath County, KY.

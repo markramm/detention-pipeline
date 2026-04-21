@@ -1,7 +1,13 @@
 ---
 id: covington-city-va-usda-distress
-title: Covington city, VA — Budget Distress (score 4/10)
+title: 'Covington city, VA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Covington city'
+state: 'VA'
+fips: '51580'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - va
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Covington city'
-fips: '51580'
 ---
 
 County-level fiscal distress indicators for Covington city, VA.

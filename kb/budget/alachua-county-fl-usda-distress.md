@@ -1,15 +1,18 @@
 ---
 id: alachua-county-fl-usda-distress
-title: Alachua County, FL — Budget Distress (score 3/10)
+title: 'Alachua County, FL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Alachua County'
+state: 'FL'
+fips: '12001'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - fl
 - persistent-poverty
 importance: 5
-state: 'FL'
-county: 'Alachua County'
-fips: '12001'
 ---
 
 County-level fiscal distress indicators for Alachua County, FL.

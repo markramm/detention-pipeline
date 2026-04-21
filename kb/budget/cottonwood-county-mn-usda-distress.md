@@ -1,16 +1,19 @@
 ---
 id: cottonwood-county-mn-usda-distress
-title: Cottonwood County, MN — Budget Distress (score 3/10)
+title: 'Cottonwood County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cottonwood County'
+state: 'MN'
+fips: '27033'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Cottonwood County'
-fips: '27033'
 ---
 
 County-level fiscal distress indicators for Cottonwood County, MN.

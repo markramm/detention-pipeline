@@ -1,14 +1,23 @@
 ---
 id: mcp-computer-products-inc-70ctd020fr0000269
-title: MCP COMPUTER PRODUCTS INC — 70CTD020FR0000269 (CA)
+title: 'MCP COMPUTER PRODUCTS INC — 70CTD020FR0000269 (CA)'
 type: ice-contract
+state: 'CA'
+contractor: 'MCP COMPUTER PRODUCTS INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_type: 'federal-contract'
+award_date: '2020-09-16'
+usaspending_id: '70CTD020FR0000269'
+source: 'USAspending.gov (award 70CTD020FR0000269)'
+signal_strength: 'weak'
+notes: 'VTC EQUIPMENT'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

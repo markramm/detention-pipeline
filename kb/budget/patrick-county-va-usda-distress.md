@@ -1,16 +1,19 @@
 ---
 id: patrick-county-va-usda-distress
-title: Patrick County, VA — Budget Distress (score 3/10)
+title: 'Patrick County, VA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Patrick County'
+state: 'VA'
+fips: '51141'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - va
 - population-loss
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Patrick County'
-fips: '51141'
 ---
 
 County-level fiscal distress indicators for Patrick County, VA.

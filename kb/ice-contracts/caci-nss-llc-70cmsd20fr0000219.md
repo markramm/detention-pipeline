@@ -1,24 +1,24 @@
 ---
 id: caci-nss-llc-70cmsd20fr0000219
-title: CACI NSS, LLC — 70CMSD20FR0000219 (VA) $106,045,477
+title: 'CACI NSS, LLC — 70CMSD20FR0000219 (VA) $106,045,477'
 type: ice-contract
+state: 'VA'
+contractor: 'CACI NSS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$106,045,477.18'
+contract_type: 'federal-contract'
+award_date: '2020-09-28'
+usaspending_id: '70CMSD20FR0000219'
+source: 'USAspending.gov (award 70CMSD20FR0000219)'
+signal_strength: 'weak'
+notes: 'HSI DATA AND ANALYTICAL SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
-county: 'FAIRFAX'
-fips: '51600'
-contractor: 'CACI NSS, LLC'
-contract_value: '$106,045,477.18'
-contract_type: 'federal-contract'
-award_date: '2020-09-28'
-usaspending_id: '70CMSD20FR0000219'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'HSI DATA AND ANALYTICAL SUPPORT SERVICES'
 ---
 
 ICE contract award.

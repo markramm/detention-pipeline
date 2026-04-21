@@ -1,16 +1,19 @@
 ---
 id: crawford-county-mi-usda-distress
-title: Crawford County, MI — Budget Distress (score 3/10)
+title: 'Crawford County, MI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Crawford County'
+state: 'MI'
+fips: '26039'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mi
 - population-loss
 - non-metro
 importance: 5
-state: 'MI'
-county: 'Crawford County'
-fips: '26039'
 ---
 
 County-level fiscal distress indicators for Crawford County, MI.

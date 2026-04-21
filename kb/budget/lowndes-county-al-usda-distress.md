@@ -1,7 +1,13 @@
 ---
 id: lowndes-county-al-usda-distress
-title: Lowndes County, AL — Budget Distress (score 7/10)
+title: 'Lowndes County, AL — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Lowndes County'
+state: 'AL'
+fips: '01085'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - al
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - low-employment
 importance: 5
-state: 'AL'
-county: 'Lowndes County'
-fips: '01085'
 ---
 
 County-level fiscal distress indicators for Lowndes County, AL.

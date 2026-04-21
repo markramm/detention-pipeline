@@ -1,14 +1,24 @@
 ---
 id: lexmark-international-inc-hscemd16f00094
-title: LEXMARK INTERNATIONAL, INC. — HSCEMD16F00094 (KY) $127,800
+title: 'LEXMARK INTERNATIONAL, INC. — HSCEMD16F00094 (KY) $127,800'
 type: ice-contract
+state: 'KY'
+contractor: 'LEXMARK INTERNATIONAL, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$127,800.00'
+contract_type: 'federal-contract'
+award_date: '2016-08-02'
+usaspending_id: 'HSCEMD16F00094'
+source: 'USAspending.gov (award HSCEMD16F00094)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF NEW CONTRACT TO PROVIDE LEASE AND MAINTENANCE FOR COPIERS'
 tags:
 - ice-contract
 - other
 - other-ice
 - ky
 importance: 5
-state: 'KY'
 ---
 
 ICE contract award.

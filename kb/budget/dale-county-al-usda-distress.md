@@ -1,16 +1,19 @@
 ---
 id: dale-county-al-usda-distress
-title: Dale County, AL — Budget Distress (score 3/10)
+title: 'Dale County, AL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Dale County'
+state: 'AL'
+fips: '01045'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - al
 - low-employment
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Dale County'
-fips: '01045'
 ---
 
 County-level fiscal distress indicators for Dale County, AL.

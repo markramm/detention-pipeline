@@ -1,14 +1,24 @@
 ---
 id: bayshore-transportation-system-inc-70cmsw26p00000015
-title: BAYSHORE TRANSPORTATION SYSTEM, INC. — 70CMSW26P00000015 (PA) $13,112
+title: 'BAYSHORE TRANSPORTATION SYSTEM, INC. — 70CMSW26P00000015 (PA) $13,112'
 type: ice-contract
+state: 'PA'
+contractor: 'BAYSHORE TRANSPORTATION SYSTEM, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$13,112.00'
+contract_type: 'federal-contract'
+award_date: '2026-02-17'
+usaspending_id: '70CMSW26P00000015'
+source: 'USAspending.gov (award 70CMSW26P00000015)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS PURCHASE ORDER IS TO PROCURE FURNITURE MOVING SERVICES FOR THE ALLENTOWN PA OFFICE'
 tags:
 - ice-contract
 - other
 - other-ice
 - pa
 importance: 5
-state: 'PA'
 ---
 
 ICE contract award.

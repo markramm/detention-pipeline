@@ -1,14 +1,24 @@
 ---
 id: enterprise-technology-solutions-inc-70ctd025fr0000005
-title: ENTERPRISE TECHNOLOGY SOLUTIONS, INC. — 70CTD025FR0000005 (DC) $186,348
+title: 'ENTERPRISE TECHNOLOGY SOLUTIONS, INC. — 70CTD025FR0000005 (DC) $186,348'
 type: ice-contract
+state: 'DC'
+contractor: 'ENTERPRISE TECHNOLOGY SOLUTIONS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$186,347.70'
+contract_type: 'federal-contract'
+award_date: '2024-12-29'
+usaspending_id: '70CTD025FR0000005'
+source: 'USAspending.gov (award 70CTD025FR0000005)'
+signal_strength: 'weak'
+notes: 'NEW DISCOVER TASKER LICENSES CONTRACT NASA SEWP CONTRACT NNG15SD76B'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: scott-county-il-usda-distress
-title: Scott County, IL — Budget Distress (score 3/10)
+title: 'Scott County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Scott County'
+state: 'IL'
+fips: '17171'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Scott County'
-fips: '17171'
 ---
 
 County-level fiscal distress indicators for Scott County, IL.

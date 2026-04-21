@@ -1,14 +1,24 @@
 ---
 id: wildflower-international-ltd-70cmsd25fr0000065
-title: WILDFLOWER INTERNATIONAL, LTD. — 70CMSD25FR0000065 (NM) $126,750
+title: 'WILDFLOWER INTERNATIONAL, LTD. — 70CMSD25FR0000065 (NM) $126,750'
 type: ice-contract
+state: 'NM'
+contractor: 'WILDFLOWER INTERNATIONAL, LTD.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$126,749.90'
+contract_type: 'federal-contract'
+award_date: '2025-09-04'
+usaspending_id: '70CMSD25FR0000065'
+source: 'USAspending.gov (award 70CMSD25FR0000065)'
+signal_strength: 'weak'
+notes: 'THIS ORDER PROVIDES SOLID STATE DRIVES TO READ AND WRITE DATA FOR THE CYBER CRIMES CENTER DURING FORENSIC INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - nm
 importance: 5
-state: 'NM'
 ---
 
 ICE contract award.

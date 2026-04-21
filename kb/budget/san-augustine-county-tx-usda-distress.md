@@ -1,7 +1,13 @@
 ---
 id: san-augustine-county-tx-usda-distress
-title: San Augustine County, TX — Budget Distress (score 9/10)
+title: 'San Augustine County, TX — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'San Augustine County'
+state: 'TX'
+fips: '48405'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tx
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'San Augustine County'
-fips: '48405'
 ---
 
 County-level fiscal distress indicators for San Augustine County, TX.

@@ -1,7 +1,13 @@
 ---
 id: clark-county-id-usda-distress
-title: Clark County, ID — Budget Distress (score 4/10)
+title: 'Clark County, ID — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Clark County'
+state: 'ID'
+fips: '16033'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - id
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'ID'
-county: 'Clark County'
-fips: '16033'
 ---
 
 County-level fiscal distress indicators for Clark County, ID.

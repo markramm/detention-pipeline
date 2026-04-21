@@ -1,16 +1,19 @@
 ---
 id: lincoln-parish-la-usda-distress
-title: Lincoln Parish, LA — Budget Distress (score 4/10)
+title: 'Lincoln Parish, LA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Lincoln Parish'
+state: 'LA'
+fips: '22061'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - la
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Lincoln Parish'
-fips: '22061'
 ---
 
 County-level fiscal distress indicators for Lincoln Parish, LA.

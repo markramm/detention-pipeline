@@ -1,7 +1,13 @@
 ---
 id: charlton-county-ga-usda-distress
-title: Charlton County, GA — Budget Distress (score 4/10)
+title: 'Charlton County, GA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Charlton County'
+state: 'GA'
+fips: '13049'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Charlton County'
-fips: '13049'
 ---
 
 County-level fiscal distress indicators for Charlton County, GA.

@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd20fr0000013
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD20FR0000013 (NY) $8,700
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD20FR0000013 (NY) $8,700'
 type: ice-contract
+state: 'NY'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$8,700.00'
+contract_type: 'federal-contract'
+award_date: '2020-02-12'
+usaspending_id: '70CMSD20FR0000013'
+source: 'USAspending.gov (award 70CMSD20FR0000013)'
+signal_strength: 'weak'
+notes: 'COPIER LEASE FOR ICE OPLA - VAN NUYS, CA'
 tags:
 - ice-contract
 - other
 - other-ice
 - ny
 importance: 5
-state: 'NY'
 ---
 
 ICE contract award.

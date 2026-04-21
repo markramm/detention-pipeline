@@ -1,16 +1,19 @@
 ---
 id: whitley-county-ky-usda-distress
-title: Whitley County, KY — Budget Distress (score 4/10)
+title: 'Whitley County, KY — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Whitley County'
+state: 'KY'
+fips: '21235'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Whitley County'
-fips: '21235'
 ---
 
 County-level fiscal distress indicators for Whitley County, KY.

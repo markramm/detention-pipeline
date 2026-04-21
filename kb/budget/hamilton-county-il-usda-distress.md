@@ -1,16 +1,19 @@
 ---
 id: hamilton-county-il-usda-distress
-title: Hamilton County, IL — Budget Distress (score 3/10)
+title: 'Hamilton County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Hamilton County'
+state: 'IL'
+fips: '17065'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Hamilton County'
-fips: '17065'
 ---
 
 County-level fiscal distress indicators for Hamilton County, IL.

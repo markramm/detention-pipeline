@@ -1,7 +1,13 @@
 ---
 id: washington-county-nc-usda-distress
-title: Washington County, NC — Budget Distress (score 6/10)
+title: 'Washington County, NC — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Washington County'
+state: 'NC'
+fips: '37187'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nc
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'NC'
-county: 'Washington County'
-fips: '37187'
 ---
 
 County-level fiscal distress indicators for Washington County, NC.

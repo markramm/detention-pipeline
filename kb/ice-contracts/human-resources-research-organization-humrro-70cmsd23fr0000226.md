@@ -1,14 +1,24 @@
 ---
 id: human-resources-research-organization-humrro-70cmsd23fr0000226
-title: HUMAN RESOURCES RESEARCH ORGANIZATION (HUMRRO) — 70CMSD23FR0000226 (VA) $1,356,010
+title: 'HUMAN RESOURCES RESEARCH ORGANIZATION (HUMRRO) — 70CMSD23FR0000226 (VA) $1,356,010'
 type: ice-contract
+state: 'VA'
+contractor: 'HUMAN RESOURCES RESEARCH ORGANIZATION (HUMRRO)'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,356,009.77'
+contract_type: 'federal-contract'
+award_date: '2023-09-29'
+usaspending_id: '70CMSD23FR0000226'
+source: 'USAspending.gov (award 70CMSD23FR0000226)'
+signal_strength: 'weak'
+notes: 'PHYSICAL FITNESS TESTING - OHC'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

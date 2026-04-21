@@ -1,7 +1,13 @@
 ---
 id: sullivan-county-pa-usda-distress
-title: Sullivan County, PA — Budget Distress (score 4/10)
+title: 'Sullivan County, PA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Sullivan County'
+state: 'PA'
+fips: '42113'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'PA'
-county: 'Sullivan County'
-fips: '42113'
 ---
 
 County-level fiscal distress indicators for Sullivan County, PA.

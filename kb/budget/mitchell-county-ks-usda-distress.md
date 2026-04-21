@@ -1,16 +1,19 @@
 ---
 id: mitchell-county-ks-usda-distress
-title: Mitchell County, KS — Budget Distress (score 3/10)
+title: 'Mitchell County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Mitchell County'
+state: 'KS'
+fips: '20123'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - population-loss
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Mitchell County'
-fips: '20123'
 ---
 
 County-level fiscal distress indicators for Mitchell County, KS.

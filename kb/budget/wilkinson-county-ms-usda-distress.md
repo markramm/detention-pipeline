@@ -1,7 +1,13 @@
 ---
 id: wilkinson-county-ms-usda-distress
-title: Wilkinson County, MS — Budget Distress (score 9/10)
+title: 'Wilkinson County, MS — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Wilkinson County'
+state: 'MS'
+fips: '28157'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Wilkinson County'
-fips: '28157'
 ---
 
 County-level fiscal distress indicators for Wilkinson County, MS.

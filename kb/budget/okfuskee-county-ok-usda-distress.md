@@ -1,7 +1,13 @@
 ---
 id: okfuskee-county-ok-usda-distress
-title: Okfuskee County, OK — Budget Distress (score 6/10)
+title: 'Okfuskee County, OK — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Okfuskee County'
+state: 'OK'
+fips: '40107'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ok
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Okfuskee County'
-fips: '40107'
 ---
 
 County-level fiscal distress indicators for Okfuskee County, OK.

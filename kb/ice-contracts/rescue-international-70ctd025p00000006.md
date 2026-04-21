@@ -1,14 +1,24 @@
 ---
 id: rescue-international-70ctd025p00000006
-title: RESCUE INTERNATIONAL — 70CTD025P00000006 (VA) $88,020
+title: 'RESCUE INTERNATIONAL — 70CTD025P00000006 (VA) $88,020'
 type: ice-contract
+state: 'VA'
+contractor: 'RESCUE INTERNATIONAL'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$88,020.00'
+contract_type: 'federal-contract'
+award_date: '2025-07-01'
+usaspending_id: '70CTD025P00000006'
+source: 'USAspending.gov (award 70CTD025P00000006)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS AWARD IS TO SUPPLY REMOTE INTERNET SERVICES FOR AGENTS WORKING ON THE SOUTH WEST BORDER. THIS INTERNET SERVICE WILL ASSIST AGENTS WITH BORDER THE CRISES AS ORDERED BY MULTIPLE EXECUTIVE ORDERS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

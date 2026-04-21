@@ -1,14 +1,24 @@
 ---
 id: paragon-professional-services-llc-70cdcr25fr0000087
-title: PARAGON PROFESSIONAL SERVICES LLC — 70CDCR25FR0000087 (AK) $10,572,216
+title: 'PARAGON PROFESSIONAL SERVICES LLC — 70CDCR25FR0000087 (AK) $10,572,216'
 type: ice-contract
+state: 'AK'
+contractor: 'PARAGON PROFESSIONAL SERVICES LLC'
+contractor_type: 'guard-services'
+contract_class: 'detention-related'
+contract_value: '$10,572,215.94'
+contract_type: 'federal-contract'
+award_date: '2025-05-28'
+usaspending_id: '70CDCR25FR0000087'
+source: 'USAspending.gov (award 70CDCR25FR0000087)'
+signal_strength: 'strong'
+notes: 'THE CONTRACT PROVIDES TRANSPORTATION OF DETAINEES FOR MULTIPLE FIELD OFFICES. THIS TASK ORDER PROVIDES FUNDING FOR THE TRANSPORTATION OF ICE DETAINEES FOR ICE ENFORCEMENT AND REMOVAL OPERATIONS (ERO) BOSTON FIELD OFFICE.'
 tags:
 - ice-contract
 - guard-services
 - detention-related
 - ak
 importance: 5
-state: 'AK'
 ---
 
 ICE contract award.

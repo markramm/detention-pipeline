@@ -1,16 +1,19 @@
 ---
 id: fountain-county-in-usda-distress
-title: Fountain County, IN — Budget Distress (score 3/10)
+title: 'Fountain County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Fountain County'
+state: 'IN'
+fips: '18045'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Fountain County'
-fips: '18045'
 ---
 
 County-level fiscal distress indicators for Fountain County, IN.

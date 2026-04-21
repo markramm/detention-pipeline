@@ -1,7 +1,13 @@
 ---
 id: bacon-county-ga-usda-distress
-title: Bacon County, GA — Budget Distress (score 6/10)
+title: 'Bacon County, GA — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Bacon County'
+state: 'GA'
+fips: '13005'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Bacon County'
-fips: '13005'
 ---
 
 County-level fiscal distress indicators for Bacon County, GA.

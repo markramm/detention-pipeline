@@ -1,16 +1,19 @@
 ---
 id: woodson-county-ks-usda-distress
-title: Woodson County, KS — Budget Distress (score 3/10)
+title: 'Woodson County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Woodson County'
+state: 'KS'
+fips: '20207'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - population-loss
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Woodson County'
-fips: '20207'
 ---
 
 County-level fiscal distress indicators for Woodson County, KS.

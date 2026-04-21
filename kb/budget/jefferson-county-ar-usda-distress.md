@@ -1,16 +1,19 @@
 ---
 id: jefferson-county-ar-usda-distress
-title: Jefferson County, AR — Budget Distress (score 3/10)
+title: 'Jefferson County, AR — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Jefferson County'
+state: 'AR'
+fips: '05069'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ar
 - population-loss
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Jefferson County'
-fips: '05069'
 ---
 
 County-level fiscal distress indicators for Jefferson County, AR.

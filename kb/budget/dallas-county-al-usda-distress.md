@@ -1,7 +1,13 @@
 ---
 id: dallas-county-al-usda-distress
-title: Dallas County, AL — Budget Distress (score 6/10)
+title: 'Dallas County, AL — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Dallas County'
+state: 'AL'
+fips: '01047'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - al
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Dallas County'
-fips: '01047'
 ---
 
 County-level fiscal distress indicators for Dallas County, AL.

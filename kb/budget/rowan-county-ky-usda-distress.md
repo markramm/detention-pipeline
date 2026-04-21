@@ -1,16 +1,19 @@
 ---
 id: rowan-county-ky-usda-distress
-title: Rowan County, KY — Budget Distress (score 4/10)
+title: 'Rowan County, KY — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Rowan County'
+state: 'KY'
+fips: '21205'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Rowan County'
-fips: '21205'
 ---
 
 County-level fiscal distress indicators for Rowan County, KY.

@@ -1,24 +1,24 @@
 ---
 id: corecivic-inc-70cdcr25fr0000033
-title: CORECIVIC, INC. — 70CDCR25FR0000033 (KS) $10,208,400
+title: 'CORECIVIC, INC. — 70CDCR25FR0000033 (KS) $10,208,400'
 type: ice-contract
+state: 'KS'
+contractor: 'CORECIVIC, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$10,208,400.00'
+contract_type: 'federal-contract'
+award_date: '2025-03-07'
+usaspending_id: '70CDCR25FR0000033'
+source: 'USAspending.gov (award 70CDCR25FR0000033)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS TASK ORDER IS TO PROVIDE FUNDING FOR THE HOUSING, TRANSPORTATION AND MEDICAL FOR ICE ALIENS AT THE MIDWEST DETENTION CENTER IN LEAVENWORTH, KS.'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - ks
 importance: 5
-state: 'KS'
-county: 'LEAVENWORTH'
-fips: '20103'
-contractor: 'CORECIVIC, INC.'
-contract_value: '$10,208,400.00'
-contract_type: 'federal-contract'
-award_date: '2025-03-07'
-usaspending_id: '70CDCR25FR0000033'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THE PURPOSE OF THIS TASK ORDER IS TO PROVIDE FUNDING FOR THE HOUSING, TRANSPORTATION AND MEDICAL FOR ICE ALIENS AT THE MIDWEST DETENTION CENTER IN LEAVENWORTH, KS.'
 ---
 
 ICE contract award.

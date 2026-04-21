@@ -1,16 +1,19 @@
 ---
 id: moody-county-sd-usda-distress
-title: Moody County, SD — Budget Distress (score 3/10)
+title: 'Moody County, SD — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Moody County'
+state: 'SD'
+fips: '46101'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sd
 - population-loss
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Moody County'
-fips: '46101'
 ---
 
 County-level fiscal distress indicators for Moody County, SD.

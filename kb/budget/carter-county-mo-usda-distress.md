@@ -1,7 +1,13 @@
 ---
 id: carter-county-mo-usda-distress
-title: Carter County, MO — Budget Distress (score 5/10)
+title: 'Carter County, MO — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Carter County'
+state: 'MO'
+fips: '29035'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - mo
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'MO'
-county: 'Carter County'
-fips: '29035'
 ---
 
 County-level fiscal distress indicators for Carter County, MO.

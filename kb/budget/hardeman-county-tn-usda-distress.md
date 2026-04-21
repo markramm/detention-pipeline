@@ -1,7 +1,13 @@
 ---
 id: hardeman-county-tn-usda-distress
-title: Hardeman County, TN — Budget Distress (score 6/10)
+title: 'Hardeman County, TN — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Hardeman County'
+state: 'TN'
+fips: '47069'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tn
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TN'
-county: 'Hardeman County'
-fips: '47069'
 ---
 
 County-level fiscal distress indicators for Hardeman County, TN.

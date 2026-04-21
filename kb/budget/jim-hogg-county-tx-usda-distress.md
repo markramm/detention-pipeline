@@ -1,7 +1,13 @@
 ---
 id: jim-hogg-county-tx-usda-distress
-title: Jim Hogg County, TX — Budget Distress (score 4/10)
+title: 'Jim Hogg County, TX — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Jim Hogg County'
+state: 'TX'
+fips: '48247'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Jim Hogg County'
-fips: '48247'
 ---
 
 County-level fiscal distress indicators for Jim Hogg County, TX.

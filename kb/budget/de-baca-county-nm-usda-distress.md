@@ -1,16 +1,19 @@
 ---
 id: de-baca-county-nm-usda-distress
-title: De Baca County, NM — Budget Distress (score 3/10)
+title: 'De Baca County, NM — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'De Baca County'
+state: 'NM'
+fips: '35011'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nm
 - population-loss
 - non-metro
 importance: 5
-state: 'NM'
-county: 'De Baca County'
-fips: '35011'
 ---
 
 County-level fiscal distress indicators for De Baca County, NM.

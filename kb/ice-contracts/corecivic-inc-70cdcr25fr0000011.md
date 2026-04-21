@@ -1,24 +1,24 @@
 ---
 id: corecivic-inc-70cdcr25fr0000011
-title: CORECIVIC, INC. — 70CDCR25FR0000011 (CA) $114,347,554
+title: 'CORECIVIC, INC. — 70CDCR25FR0000011 (CA) $114,347,554'
 type: ice-contract
+state: 'CA'
+contractor: 'CORECIVIC, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$114,347,553.96'
+contract_type: 'federal-contract'
+award_date: '2024-12-20'
+usaspending_id: '70CDCR25FR0000011'
+source: 'USAspending.gov (award 70CDCR25FR0000011)'
+signal_strength: 'strong'
+notes: 'DETENTION SERVICES FOR SAN DIEGO AOR AT OTAY MESA'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - ca
 importance: 5
-state: 'CA'
-county: 'SAN DIEGO'
-fips: '06073'
-contractor: 'CORECIVIC, INC.'
-contract_value: '$114,347,553.96'
-contract_type: 'federal-contract'
-award_date: '2024-12-20'
-usaspending_id: '70CDCR25FR0000011'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'DETENTION SERVICES FOR SAN DIEGO AOR AT OTAY MESA'
 ---
 
 ICE contract award.

@@ -1,7 +1,13 @@
 ---
 id: barbour-county-al-usda-distress
-title: Barbour County, AL — Budget Distress (score 9/10)
+title: 'Barbour County, AL — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Barbour County'
+state: 'AL'
+fips: '01005'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - al
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Barbour County'
-fips: '01005'
 ---
 
 County-level fiscal distress indicators for Barbour County, AL.

@@ -1,14 +1,24 @@
 ---
 id: leading-technology-composites-inc-70cmsw25fr0000022
-title: LEADING TECHNOLOGY COMPOSITES INC — 70CMSW25FR0000022 (KS) $148,162
+title: 'LEADING TECHNOLOGY COMPOSITES INC — 70CMSW25FR0000022 (KS) $148,162'
 type: ice-contract
+state: 'KS'
+contractor: 'LEADING TECHNOLOGY COMPOSITES INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$148,161.78'
+contract_type: 'federal-contract'
+award_date: '2025-03-28'
+usaspending_id: '70CMSW25FR0000022'
+source: 'USAspending.gov (award 70CMSW25FR0000022)'
+signal_strength: 'weak'
+notes: 'PURCHASE OF LAW ENFORCEMENT EQUIPMENT (BALLISTIC PLATES) FOR TRAINING PURPOSES FOR THE OFFICE OF FIREARMS AND TACTICAL PROGRAMS (OFTP).'
 tags:
 - ice-contract
 - other
 - other-ice
 - ks
 importance: 5
-state: 'KS'
 ---
 
 ICE contract award.

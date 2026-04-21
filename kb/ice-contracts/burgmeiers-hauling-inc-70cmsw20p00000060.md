@@ -1,14 +1,24 @@
 ---
 id: burgmeiers-hauling-inc-70cmsw20p00000060
-title: BURGMEIERS HAULING INC — 70CMSW20P00000060 (PA) $21,872
+title: 'BURGMEIERS HAULING INC — 70CMSW20P00000060 (PA) $21,872'
 type: ice-contract
+state: 'PA'
+contractor: 'BURGMEIERS HAULING INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$21,872.00'
+contract_type: 'federal-contract'
+award_date: '2020-09-15'
+usaspending_id: '70CMSW20P00000060'
+source: 'USAspending.gov (award 70CMSW20P00000060)'
+signal_strength: 'weak'
+notes: 'SOLID WASTE, PAPER SHREDDING AND RECYCLING REMOVAL SERVICES FOR OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - pa
 importance: 5
-state: 'PA'
 ---
 
 ICE contract award.

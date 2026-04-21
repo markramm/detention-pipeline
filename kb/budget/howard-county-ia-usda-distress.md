@@ -1,16 +1,19 @@
 ---
 id: howard-county-ia-usda-distress
-title: Howard County, IA — Budget Distress (score 3/10)
+title: 'Howard County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Howard County'
+state: 'IA'
+fips: '19089'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Howard County'
-fips: '19089'
 ---
 
 County-level fiscal distress indicators for Howard County, IA.

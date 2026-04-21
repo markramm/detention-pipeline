@@ -1,7 +1,13 @@
 ---
 id: gilmer-county-wv-usda-distress
-title: Gilmer County, WV — Budget Distress (score 4/10)
+title: 'Gilmer County, WV — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Gilmer County'
+state: 'WV'
+fips: '54021'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wv
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Gilmer County'
-fips: '54021'
 ---
 
 County-level fiscal distress indicators for Gilmer County, WV.

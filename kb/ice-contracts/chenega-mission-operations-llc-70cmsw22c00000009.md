@@ -1,14 +1,24 @@
 ---
 id: chenega-mission-operations-llc-70cmsw22c00000009
-title: CHENEGA MISSION OPERATIONS, LLC — 70CMSW22C00000009 (FL) $13,175,592
+title: 'CHENEGA MISSION OPERATIONS, LLC — 70CMSW22C00000009 (FL) $13,175,592'
 type: ice-contract
+state: 'FL'
+contractor: 'CHENEGA MISSION OPERATIONS, LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$13,175,592.43'
+contract_type: 'federal-contract'
+award_date: '2022-09-23'
+usaspending_id: '70CMSW22C00000009'
+source: 'USAspending.gov (award 70CMSW22C00000009)'
+signal_strength: 'strong'
+notes: 'DINING FACILITY CONSTRUCTION AT THE KROME SERVICE PROCESSING CENTER (SPC)'
 tags:
 - ice-contract
 - other
 - detention-related
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: essex-county-vt-usda-distress
-title: Essex County, VT — Budget Distress (score 3/10)
+title: 'Essex County, VT — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Essex County'
+state: 'VT'
+fips: '50009'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - vt
 - population-loss
 - non-metro
 importance: 5
-state: 'VT'
-county: 'Essex County'
-fips: '50009'
 ---
 
 County-level fiscal distress indicators for Essex County, VT.

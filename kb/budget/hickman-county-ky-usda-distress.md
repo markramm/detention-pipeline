@@ -1,16 +1,19 @@
 ---
 id: hickman-county-ky-usda-distress
-title: Hickman County, KY — Budget Distress (score 3/10)
+title: 'Hickman County, KY — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Hickman County'
+state: 'KY'
+fips: '21105'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
 - population-loss
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Hickman County'
-fips: '21105'
 ---
 
 County-level fiscal distress indicators for Hickman County, KY.

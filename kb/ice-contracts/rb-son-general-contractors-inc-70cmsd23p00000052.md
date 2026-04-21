@@ -1,14 +1,24 @@
 ---
 id: rb-son-general-contractors-inc-70cmsd23p00000052
-title: RB & SON GENERAL CONTRACTORS INC — 70CMSD23P00000052 (NY) $43,200
+title: 'RB & SON GENERAL CONTRACTORS INC — 70CMSD23P00000052 (NY) $43,200'
 type: ice-contract
+state: 'NY'
+contractor: 'RB & SON GENERAL CONTRACTORS INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$43,200.00'
+contract_type: 'federal-contract'
+award_date: '2023-08-30'
+usaspending_id: '70CMSD23P00000052'
+source: 'USAspending.gov (award 70CMSD23P00000052)'
+signal_strength: 'weak'
+notes: 'PREVENTIVE MAINTENANCE SERVICE ON HVAC SYSTEM'
 tags:
 - ice-contract
 - other
 - other-ice
 - ny
 importance: 5
-state: 'NY'
 ---
 
 ICE contract award.

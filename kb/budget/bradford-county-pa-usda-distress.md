@@ -1,16 +1,19 @@
 ---
 id: bradford-county-pa-usda-distress
-title: Bradford County, PA — Budget Distress (score 3/10)
+title: 'Bradford County, PA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Bradford County'
+state: 'PA'
+fips: '42015'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
 - population-loss
 - non-metro
 importance: 5
-state: 'PA'
-county: 'Bradford County'
-fips: '42015'
 ---
 
 County-level fiscal distress indicators for Bradford County, PA.

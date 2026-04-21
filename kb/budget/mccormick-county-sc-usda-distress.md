@@ -1,16 +1,19 @@
 ---
 id: mccormick-county-sc-usda-distress
-title: McCormick County, SC — Budget Distress (score 3/10)
+title: 'McCormick County, SC — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'McCormick County'
+state: 'SC'
+fips: '45065'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sc
 - low-employment
 - non-metro
 importance: 5
-state: 'SC'
-county: 'McCormick County'
-fips: '45065'
 ---
 
 County-level fiscal distress indicators for McCormick County, SC.

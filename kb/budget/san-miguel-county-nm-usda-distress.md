@@ -1,7 +1,13 @@
 ---
 id: san-miguel-county-nm-usda-distress
-title: San Miguel County, NM — Budget Distress (score 6/10)
+title: 'San Miguel County, NM — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'San Miguel County'
+state: 'NM'
+fips: '35047'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nm
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'NM'
-county: 'San Miguel County'
-fips: '35047'
 ---
 
 County-level fiscal distress indicators for San Miguel County, NM.

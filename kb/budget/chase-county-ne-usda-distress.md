@@ -1,16 +1,19 @@
 ---
 id: chase-county-ne-usda-distress
-title: Chase County, NE — Budget Distress (score 3/10)
+title: 'Chase County, NE — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Chase County'
+state: 'NE'
+fips: '31029'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ne
 - population-loss
 - non-metro
 importance: 5
-state: 'NE'
-county: 'Chase County'
-fips: '31029'
 ---
 
 County-level fiscal distress indicators for Chase County, NE.

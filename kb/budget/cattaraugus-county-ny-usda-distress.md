@@ -1,16 +1,19 @@
 ---
 id: cattaraugus-county-ny-usda-distress
-title: Cattaraugus County, NY — Budget Distress (score 3/10)
+title: 'Cattaraugus County, NY — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cattaraugus County'
+state: 'NY'
+fips: '36009'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ny
 - population-loss
 - non-metro
 importance: 5
-state: 'NY'
-county: 'Cattaraugus County'
-fips: '36009'
 ---
 
 County-level fiscal distress indicators for Cattaraugus County, NY.

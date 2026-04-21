@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd24fr0000005
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD24FR0000005 (VA) $16,704
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD24FR0000005 (VA) $16,704'
 type: ice-contract
+state: 'VA'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$16,704.00'
+contract_type: 'federal-contract'
+award_date: '2024-02-08'
+usaspending_id: '70CMSD24FR0000005'
+source: 'USAspending.gov (award 70CMSD24FR0000005)'
+signal_strength: 'weak'
+notes: 'MFD FOR STERLING/ANNANDLE COPIER'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

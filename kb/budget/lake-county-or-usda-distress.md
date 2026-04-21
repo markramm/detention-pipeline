@@ -1,16 +1,19 @@
 ---
 id: lake-county-or-usda-distress
-title: Lake County, OR — Budget Distress (score 3/10)
+title: 'Lake County, OR — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Lake County'
+state: 'OR'
+fips: '41037'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - or
 - low-employment
 - non-metro
 importance: 5
-state: 'OR'
-county: 'Lake County'
-fips: '41037'
 ---
 
 County-level fiscal distress indicators for Lake County, OR.

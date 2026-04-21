@@ -1,14 +1,24 @@
 ---
 id: thomson-reuters-special-services-llc-70cmsd18p00000145
-title: THOMSON REUTERS SPECIAL SERVICES LLC — 70CMSD18P00000145 (VA) $4,002,548
+title: 'THOMSON REUTERS SPECIAL SERVICES LLC — 70CMSD18P00000145 (VA) $4,002,548'
 type: ice-contract
+state: 'VA'
+contractor: 'THOMSON REUTERS SPECIAL SERVICES LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$4,002,547.80'
+contract_type: 'federal-contract'
+award_date: '2018-09-20'
+usaspending_id: '70CMSD18P00000145'
+source: 'USAspending.gov (award 70CMSD18P00000145)'
+signal_strength: 'weak'
+notes: 'RISK MITITGATION SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

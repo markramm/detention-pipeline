@@ -1,7 +1,13 @@
 ---
 id: blaine-county-ok-usda-distress
-title: Blaine County, OK — Budget Distress (score 5/10)
+title: 'Blaine County, OK — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Blaine County'
+state: 'OK'
+fips: '40011'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ok
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Blaine County'
-fips: '40011'
 ---
 
 County-level fiscal distress indicators for Blaine County, OK.

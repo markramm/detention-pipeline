@@ -1,7 +1,13 @@
 ---
 id: guadalupe-county-nm-usda-distress
-title: Guadalupe County, NM — Budget Distress (score 4/10)
+title: 'Guadalupe County, NM — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Guadalupe County'
+state: 'NM'
+fips: '35019'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nm
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Guadalupe County'
-fips: '35019'
 ---
 
 County-level fiscal distress indicators for Guadalupe County, NM.

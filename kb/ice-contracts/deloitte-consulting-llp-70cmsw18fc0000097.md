@@ -1,14 +1,24 @@
 ---
 id: deloitte-consulting-llp-70cmsw18fc0000097
-title: DELOITTE CONSULTING LLP — 70CMSW18FC0000097 (DC) $9,144,382
+title: 'DELOITTE CONSULTING LLP — 70CMSW18FC0000097 (DC) $9,144,382'
 type: ice-contract
+state: 'DC'
+contractor: 'DELOITTE CONSULTING LLP'
+contractor_type: 'consulting'
+contract_class: 'other-ice'
+contract_value: '$9,144,381.60'
+contract_type: 'federal-contract'
+award_date: '2018-09-13'
+usaspending_id: '70CMSW18FC0000097'
+source: 'USAspending.gov (award 70CMSW18FC0000097)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF POLICY AND AUDIT REMEDIATION SUPPORT SERVICES FOR OFM'
 tags:
 - ice-contract
 - consulting
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

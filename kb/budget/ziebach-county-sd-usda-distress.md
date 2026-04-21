@@ -1,7 +1,13 @@
 ---
 id: ziebach-county-sd-usda-distress
-title: Ziebach County, SD — Budget Distress (score 6/10)
+title: 'Ziebach County, SD — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Ziebach County'
+state: 'SD'
+fips: '46137'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - sd
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Ziebach County'
-fips: '46137'
 ---
 
 County-level fiscal distress indicators for Ziebach County, SD.

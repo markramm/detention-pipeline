@@ -1,7 +1,13 @@
 ---
 id: tattnall-county-ga-usda-distress
-title: Tattnall County, GA — Budget Distress (score 7/10)
+title: 'Tattnall County, GA — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Tattnall County'
+state: 'GA'
+fips: '13267'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Tattnall County'
-fips: '13267'
 ---
 
 County-level fiscal distress indicators for Tattnall County, GA.

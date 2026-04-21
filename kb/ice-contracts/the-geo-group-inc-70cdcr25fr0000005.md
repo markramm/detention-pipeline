@@ -1,24 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr25fr0000005
-title: THE GEO GROUP, INC. — 70CDCR25FR0000005 (FL) $59,993,453
+title: 'THE GEO GROUP, INC. — 70CDCR25FR0000005 (FL) $59,993,453'
 type: ice-contract
+state: 'FL'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$59,993,453.20'
+contract_type: 'federal-contract'
+award_date: '2024-10-16'
+usaspending_id: '70CDCR25FR0000005'
+source: 'USAspending.gov (award 70CDCR25FR0000005)'
+signal_strength: 'strong'
+notes: 'DETENTION, TRANSPORTATION, AND MEDICAL SERVICES FOR DENVER (AURORA) CONTRACT DETENTION FACILITY'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - fl
 importance: 5
-state: 'FL'
-county: 'PALM BEACH'
-fips: '12099'
-contractor: 'THE GEO GROUP, INC.'
-contract_value: '$59,993,453.20'
-contract_type: 'federal-contract'
-award_date: '2024-10-16'
-usaspending_id: '70CDCR25FR0000005'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'DETENTION, TRANSPORTATION, AND MEDICAL SERVICES FOR DENVER (AURORA) CONTRACT DETENTION FACILITY'
 ---
 
 ICE contract award.

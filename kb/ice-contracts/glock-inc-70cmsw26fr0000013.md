@@ -1,24 +1,24 @@
 ---
 id: glock-inc-70cmsw26fr0000013
-title: GLOCK, INC. — 70CMSW26FR0000013 (GA) $1,068,147
+title: 'GLOCK, INC. — 70CMSW26FR0000013 (GA) $1,068,147'
 type: ice-contract
+state: 'GA'
+contractor: 'GLOCK, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,068,147.00'
+contract_type: 'federal-contract'
+award_date: '2026-02-11'
+usaspending_id: '70CMSW26FR0000013'
+source: 'USAspending.gov (award 70CMSW26FR0000013)'
+signal_strength: 'weak'
+notes: 'THIS DELIVERY AWARD PROCURES GLOCK 19 DUTY WEAPONS AND ANCILLARY ACCESSORIES TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
-county: 'COBB'
-fips: '13067'
-contractor: 'GLOCK, INC.'
-contract_value: '$1,068,147.00'
-contract_type: 'federal-contract'
-award_date: '2026-02-11'
-usaspending_id: '70CMSW26FR0000013'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THIS DELIVERY AWARD PROCURES GLOCK 19 DUTY WEAPONS AND ANCILLARY ACCESSORIES TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: columbiana-county-oh-usda-distress
-title: Columbiana County, OH — Budget Distress (score 3/10)
+title: 'Columbiana County, OH — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Columbiana County'
+state: 'OH'
+fips: '39029'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
 - population-loss
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Columbiana County'
-fips: '39029'
 ---
 
 County-level fiscal distress indicators for Columbiana County, OH.

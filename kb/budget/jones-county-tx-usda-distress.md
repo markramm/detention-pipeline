@@ -1,7 +1,13 @@
 ---
 id: jones-county-tx-usda-distress
-title: Jones County, TX — Budget Distress (score 5/10)
+title: 'Jones County, TX — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Jones County'
+state: 'TX'
+fips: '48253'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tx
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
-state: 'TX'
-county: 'Jones County'
-fips: '48253'
 ---
 
 County-level fiscal distress indicators for Jones County, TX.

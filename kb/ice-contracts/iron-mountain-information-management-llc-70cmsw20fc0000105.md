@@ -1,14 +1,24 @@
 ---
 id: iron-mountain-information-management-llc-70cmsw20fc0000105
-title: IRON MOUNTAIN INFORMATION MANAGEMENT LLC — 70CMSW20FC0000105 (DC) $3,825,662
+title: 'IRON MOUNTAIN INFORMATION MANAGEMENT LLC — 70CMSW20FC0000105 (DC) $3,825,662'
 type: ice-contract
+state: 'DC'
+contractor: 'IRON MOUNTAIN INFORMATION MANAGEMENT LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$3,825,661.82'
+contract_type: 'federal-contract'
+award_date: '2020-09-29'
+usaspending_id: '70CMSW20FC0000105'
+source: 'USAspending.gov (award 70CMSW20FC0000105)'
+signal_strength: 'weak'
+notes: 'OFFSITE RECORDS STORAGE'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

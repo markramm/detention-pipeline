@@ -1,16 +1,19 @@
 ---
 id: jackson-county-il-usda-distress
-title: Jackson County, IL — Budget Distress (score 4/10)
+title: 'Jackson County, IL — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Jackson County'
+state: 'IL'
+fips: '17077'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Jackson County'
-fips: '17077'
 ---
 
 County-level fiscal distress indicators for Jackson County, IL.

@@ -1,7 +1,13 @@
 ---
 id: hempstead-county-ar-usda-distress
-title: Hempstead County, AR — Budget Distress (score 6/10)
+title: 'Hempstead County, AR — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Hempstead County'
+state: 'AR'
+fips: '05057'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ar
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Hempstead County'
-fips: '05057'
 ---
 
 County-level fiscal distress indicators for Hempstead County, AR.

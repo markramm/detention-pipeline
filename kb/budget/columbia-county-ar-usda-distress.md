@@ -1,7 +1,13 @@
 ---
 id: columbia-county-ar-usda-distress
-title: Columbia County, AR — Budget Distress (score 6/10)
+title: 'Columbia County, AR — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Columbia County'
+state: 'AR'
+fips: '05027'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ar
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Columbia County'
-fips: '05027'
 ---
 
 County-level fiscal distress indicators for Columbia County, AR.

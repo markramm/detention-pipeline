@@ -1,7 +1,13 @@
 ---
 id: bullock-county-al-usda-distress
-title: Bullock County, AL — Budget Distress (score 9/10)
+title: 'Bullock County, AL — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Bullock County'
+state: 'AL'
+fips: '01011'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - al
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Bullock County'
-fips: '01011'
 ---
 
 County-level fiscal distress indicators for Bullock County, AL.

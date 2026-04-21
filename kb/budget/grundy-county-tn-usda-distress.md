@@ -1,7 +1,13 @@
 ---
 id: grundy-county-tn-usda-distress
-title: Grundy County, TN — Budget Distress (score 4/10)
+title: 'Grundy County, TN — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Grundy County'
+state: 'TN'
+fips: '47061'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tn
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TN'
-county: 'Grundy County'
-fips: '47061'
 ---
 
 County-level fiscal distress indicators for Grundy County, TN.

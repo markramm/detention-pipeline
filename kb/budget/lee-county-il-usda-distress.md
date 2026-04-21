@@ -1,16 +1,19 @@
 ---
 id: lee-county-il-usda-distress
-title: Lee County, IL — Budget Distress (score 3/10)
+title: 'Lee County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Lee County'
+state: 'IL'
+fips: '17103'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Lee County'
-fips: '17103'
 ---
 
 County-level fiscal distress indicators for Lee County, IL.

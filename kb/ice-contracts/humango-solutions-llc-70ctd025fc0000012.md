@@ -1,14 +1,24 @@
 ---
 id: humango-solutions-llc-70ctd025fc0000012
-title: HUMANGO SOLUTIONS, LLC — 70CTD025FC0000012 (OK) $51,202
+title: 'HUMANGO SOLUTIONS, LLC — 70CTD025FC0000012 (OK) $51,202'
 type: ice-contract
+state: 'OK'
+contractor: 'HUMANGO SOLUTIONS, LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$51,202.41'
+contract_type: 'federal-contract'
+award_date: '2025-08-06'
+usaspending_id: '70CTD025FC0000012'
+source: 'USAspending.gov (award 70CTD025FC0000012)'
+signal_strength: 'strong'
+notes: 'PROVIDES THE PROCUREMENT & INSTALLATION OF VIDEO TELECONFERENCING EQUIPMENT FOR THE ENFORCEMENT & REMOVAL OPERATIONS SITE LOCATED IN CIMARRON, OK.'
 tags:
 - ice-contract
 - other
 - detention-related
 - ok
 importance: 5
-state: 'OK'
 ---
 
 ICE contract award.

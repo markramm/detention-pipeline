@@ -1,16 +1,19 @@
 ---
 id: kleberg-county-tx-usda-distress
-title: Kleberg County, TX — Budget Distress (score 4/10)
+title: 'Kleberg County, TX — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Kleberg County'
+state: 'TX'
+fips: '48273'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Kleberg County'
-fips: '48273'
 ---
 
 County-level fiscal distress indicators for Kleberg County, TX.

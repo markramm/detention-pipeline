@@ -1,14 +1,24 @@
 ---
 id: skopenow-inc-70cmsd24p00000081
-title: SKOPENOW INC. — 70CMSD24P00000081 (DC) $19,500
+title: 'SKOPENOW INC. — 70CMSD24P00000081 (DC) $19,500'
 type: ice-contract
+state: 'DC'
+contractor: 'SKOPENOW INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$19,500.00'
+contract_type: 'federal-contract'
+award_date: '2024-08-01'
+usaspending_id: '70CMSD24P00000081'
+source: 'USAspending.gov (award 70CMSD24P00000081)'
+signal_strength: 'weak'
+notes: 'SKOPENOW ENTERPRISE LICENSES'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

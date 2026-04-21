@@ -1,14 +1,24 @@
 ---
 id: blue-steel-ranges-llc-70cmsd24p00000050
-title: BLUE STEEL RANGES, LLC — 70CMSD24P00000050 (MI) $38,850
+title: 'BLUE STEEL RANGES, LLC — 70CMSD24P00000050 (MI) $38,850'
 type: ice-contract
+state: 'MI'
+contractor: 'BLUE STEEL RANGES, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$38,850.00'
+contract_type: 'federal-contract'
+award_date: '2024-06-15'
+usaspending_id: '70CMSD24P00000050'
+source: 'USAspending.gov (award 70CMSD24P00000050)'
+signal_strength: 'weak'
+notes: 'FIREARMS RANGE RENTAL FEES'
 tags:
 - ice-contract
 - other
 - other-ice
 - mi
 importance: 5
-state: 'MI'
 ---
 
 ICE contract award.

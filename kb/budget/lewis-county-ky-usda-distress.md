@@ -1,7 +1,13 @@
 ---
 id: lewis-county-ky-usda-distress
-title: Lewis County, KY — Budget Distress (score 9/10)
+title: 'Lewis County, KY — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Lewis County'
+state: 'KY'
+fips: '21135'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ky
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Lewis County'
-fips: '21135'
 ---
 
 County-level fiscal distress indicators for Lewis County, KY.

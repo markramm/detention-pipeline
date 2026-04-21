@@ -1,7 +1,13 @@
 ---
 id: jefferson-county-ga-usda-distress
-title: Jefferson County, GA — Budget Distress (score 4/10)
+title: 'Jefferson County, GA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Jefferson County'
+state: 'GA'
+fips: '13163'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Jefferson County'
-fips: '13163'
 ---
 
 County-level fiscal distress indicators for Jefferson County, GA.

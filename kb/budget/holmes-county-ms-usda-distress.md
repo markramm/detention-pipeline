@@ -1,7 +1,13 @@
 ---
 id: holmes-county-ms-usda-distress
-title: Holmes County, MS — Budget Distress (score 7/10)
+title: 'Holmes County, MS — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Holmes County'
+state: 'MS'
+fips: '28051'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - low-employment
 importance: 5
-state: 'MS'
-county: 'Holmes County'
-fips: '28051'
 ---
 
 County-level fiscal distress indicators for Holmes County, MS.

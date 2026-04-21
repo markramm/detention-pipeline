@@ -1,16 +1,19 @@
 ---
 id: warren-county-il-usda-distress
-title: Warren County, IL — Budget Distress (score 3/10)
+title: 'Warren County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Warren County'
+state: 'IL'
+fips: '17187'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Warren County'
-fips: '17187'
 ---
 
 County-level fiscal distress indicators for Warren County, IL.

@@ -1,14 +1,23 @@
 ---
 id: caci-inc-federal-70cmsd26fr0000026
-title: CACI, INC. - FEDERAL — 70CMSD26FR0000026 (VA)
+title: 'CACI, INC. - FEDERAL — 70CMSD26FR0000026 (VA)'
 type: ice-contract
+state: 'VA'
+contractor: 'CACI, INC. - FEDERAL'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_type: 'federal-contract'
+award_date: '2026-03-30'
+usaspending_id: '70CMSD26FR0000026'
+source: 'USAspending.gov (award 70CMSD26FR0000026)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES AN INTELLIGENCE ANALYSIS SERVICE CONTRACT FOR HOMELAND SECURITY INVESTIGATIONS IN SUPPORT OF ONGOING CRIMINAL INVESTIGATIONS FOR ICE.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

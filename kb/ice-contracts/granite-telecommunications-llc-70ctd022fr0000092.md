@@ -1,14 +1,24 @@
 ---
 id: granite-telecommunications-llc-70ctd022fr0000092
-title: GRANITE TELECOMMUNICATIONS, LLC — 70CTD022FR0000092 (DC) $8,625,307
+title: 'GRANITE TELECOMMUNICATIONS, LLC — 70CTD022FR0000092 (DC) $8,625,307'
 type: ice-contract
+state: 'DC'
+contractor: 'GRANITE TELECOMMUNICATIONS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$8,625,307.35'
+contract_type: 'federal-contract'
+award_date: '2022-08-01'
+usaspending_id: '70CTD022FR0000092'
+source: 'USAspending.gov (award 70CTD022FR0000092)'
+signal_strength: 'weak'
+notes: 'NEW TASK ORDER - LOCAL TELECOMMUNICATIONS SERVICES "VOICE"'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

@@ -1,7 +1,13 @@
 ---
 id: karnes-county-tx-usda-distress
-title: Karnes County, TX — Budget Distress (score 6/10)
+title: 'Karnes County, TX — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Karnes County'
+state: 'TX'
+fips: '48255'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tx
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Karnes County'
-fips: '48255'
 ---
 
 County-level fiscal distress indicators for Karnes County, TX.

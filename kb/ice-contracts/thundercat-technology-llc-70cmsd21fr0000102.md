@@ -1,14 +1,24 @@
 ---
 id: thundercat-technology-llc-70cmsd21fr0000102
-title: THUNDERCAT TECHNOLOGY, LLC — 70CMSD21FR0000102 (VA) $1,653,392
+title: 'THUNDERCAT TECHNOLOGY, LLC — 70CMSD21FR0000102 (VA) $1,653,392'
 type: ice-contract
+state: 'VA'
+contractor: 'THUNDERCAT TECHNOLOGY, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,653,392.00'
+contract_type: 'federal-contract'
+award_date: '2021-08-09'
+usaspending_id: '70CMSD21FR0000102'
+source: 'USAspending.gov (award 70CMSD21FR0000102)'
+signal_strength: 'weak'
+notes: 'TRAFFIC JAM LICENSES'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

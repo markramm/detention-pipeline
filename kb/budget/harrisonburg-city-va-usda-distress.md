@@ -1,15 +1,18 @@
 ---
 id: harrisonburg-city-va-usda-distress
-title: Harrisonburg city, VA — Budget Distress (score 3/10)
+title: 'Harrisonburg city, VA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Harrisonburg city'
+state: 'VA'
+fips: '51660'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - va
 - persistent-poverty
 importance: 5
-state: 'VA'
-county: 'Harrisonburg city'
-fips: '51660'
 ---
 
 County-level fiscal distress indicators for Harrisonburg city, VA.

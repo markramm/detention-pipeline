@@ -1,7 +1,13 @@
 ---
 id: bennett-county-sd-usda-distress
-title: Bennett County, SD — Budget Distress (score 8/10)
+title: 'Bennett County, SD — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Bennett County'
+state: 'SD'
+fips: '46007'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - sd
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Bennett County'
-fips: '46007'
 ---
 
 County-level fiscal distress indicators for Bennett County, SD.

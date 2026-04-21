@@ -1,14 +1,24 @@
 ---
 id: h-m-pitt-labs-inc-70cmsw20p00000014
-title: H. M. PITT LABS, INC. — 70CMSW20P00000014 (CA) $5,015
+title: 'H. M. PITT LABS, INC. — 70CMSW20P00000014 (CA) $5,015'
 type: ice-contract
+state: 'CA'
+contractor: 'H. M. PITT LABS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$5,015.00'
+contract_type: 'federal-contract'
+award_date: '2020-03-27'
+usaspending_id: '70CMSW20P00000014'
+source: 'USAspending.gov (award 70CMSW20P00000014)'
+signal_strength: 'weak'
+notes: 'AIR QUALITY TESTING'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

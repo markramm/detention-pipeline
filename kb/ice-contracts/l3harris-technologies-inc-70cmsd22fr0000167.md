@@ -1,24 +1,24 @@
 ---
 id: l3harris-technologies-inc-70cmsd22fr0000167
-title: L3HARRIS TECHNOLOGIES, INC. — 70CMSD22FR0000167 (FL) $4,386,500
+title: 'L3HARRIS TECHNOLOGIES, INC. — 70CMSD22FR0000167 (FL) $4,386,500'
 type: ice-contract
+state: 'FL'
+contractor: 'L3HARRIS TECHNOLOGIES, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$4,386,500.00'
+contract_type: 'federal-contract'
+award_date: '2022-09-22'
+usaspending_id: '70CMSD22FR0000167'
+source: 'USAspending.gov (award 70CMSD22FR0000167)'
+signal_strength: 'weak'
+notes: 'EQUIPMENT TO DETERMINE THE LOCATION OF TARGETED MOBILE HANDSETS TO INVESTIGATE CRIMES AND THREATS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
-county: 'BREVARD'
-fips: '12009'
-contractor: 'L3HARRIS TECHNOLOGIES, INC.'
-contract_value: '$4,386,500.00'
-contract_type: 'federal-contract'
-award_date: '2022-09-22'
-usaspending_id: '70CMSD22FR0000167'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'EQUIPMENT TO DETERMINE THE LOCATION OF TARGETED MOBILE HANDSETS TO INVESTIGATE CRIMES AND THREATS.'
 ---
 
 ICE contract award.

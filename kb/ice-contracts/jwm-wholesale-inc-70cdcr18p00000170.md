@@ -1,14 +1,24 @@
 ---
 id: jwm-wholesale-inc-70cdcr18p00000170
-title: JWM WHOLESALE, INC. — 70CDCR18P00000170 (TX) $57,823
+title: 'JWM WHOLESALE, INC. — 70CDCR18P00000170 (TX) $57,823'
 type: ice-contract
+state: 'TX'
+contractor: 'JWM WHOLESALE, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$57,822.79'
+contract_type: 'federal-contract'
+award_date: '2018-09-17'
+usaspending_id: '70CDCR18P00000170'
+source: 'USAspending.gov (award 70CDCR18P00000170)'
+signal_strength: 'strong'
+notes: 'IGF::CL::IGF CLOTHING FOR DETAINEES'
 tags:
 - ice-contract
 - other
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

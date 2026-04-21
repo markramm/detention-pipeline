@@ -1,16 +1,19 @@
 ---
 id: san-juan-county-ut-usda-distress
-title: San Juan County, UT — Budget Distress (score 4/10)
+title: 'San Juan County, UT — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'San Juan County'
+state: 'UT'
+fips: '49037'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ut
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'UT'
-county: 'San Juan County'
-fips: '49037'
 ---
 
 County-level fiscal distress indicators for San Juan County, UT.

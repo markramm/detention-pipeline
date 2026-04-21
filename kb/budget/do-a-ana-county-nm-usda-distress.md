@@ -1,15 +1,18 @@
 ---
 id: do-a-ana-county-nm-usda-distress
-title: Doña Ana County, NM — Budget Distress (score 3/10)
+title: 'Doña Ana County, NM — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Doña Ana County'
+state: 'NM'
+fips: '35013'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nm
 - persistent-poverty
 importance: 5
-state: 'NM'
-county: 'Doña Ana County'
-fips: '35013'
 ---
 
 County-level fiscal distress indicators for Doña Ana County, NM.

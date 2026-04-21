@@ -1,15 +1,18 @@
 ---
 id: tangipahoa-parish-la-usda-distress
-title: Tangipahoa Parish, LA — Budget Distress (score 3/10)
+title: 'Tangipahoa Parish, LA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Tangipahoa Parish'
+state: 'LA'
+fips: '22105'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - la
 - persistent-poverty
 importance: 5
-state: 'LA'
-county: 'Tangipahoa Parish'
-fips: '22105'
 ---
 
 County-level fiscal distress indicators for Tangipahoa Parish, LA.

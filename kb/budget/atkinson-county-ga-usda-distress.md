@@ -1,7 +1,13 @@
 ---
 id: atkinson-county-ga-usda-distress
-title: Atkinson County, GA — Budget Distress (score 5/10)
+title: 'Atkinson County, GA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Atkinson County'
+state: 'GA'
+fips: '13003'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Atkinson County'
-fips: '13003'
 ---
 
 County-level fiscal distress indicators for Atkinson County, GA.

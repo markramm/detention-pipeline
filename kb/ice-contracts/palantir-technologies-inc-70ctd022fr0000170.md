@@ -1,24 +1,24 @@
 ---
 id: palantir-technologies-inc-70ctd022fr0000170
-title: PALANTIR TECHNOLOGIES INC. — 70CTD022FR0000170 (VA) $150,703,825
+title: 'PALANTIR TECHNOLOGIES INC. — 70CTD022FR0000170 (VA) $150,703,825'
 type: ice-contract
+state: 'VA'
+contractor: 'PALANTIR TECHNOLOGIES INC.'
+contractor_type: 'technology'
+contract_class: 'other-ice'
+contract_value: '$150,703,824.61'
+contract_type: 'federal-contract'
+award_date: '2022-09-26'
+usaspending_id: '70CTD022FR0000170'
+source: 'USAspending.gov (award 70CTD022FR0000170)'
+signal_strength: 'weak'
+notes: 'INVESTIGATIVE CASE MANAGEMENT (ICM) OPERATIONS AND MAINTENANCE (O&M) SUPPORT SERVICES AND CUSTOM ENHANCEMENTS'
 tags:
 - ice-contract
 - technology
 - other-ice
 - va
 importance: 5
-state: 'VA'
-county: 'ARLINGTON'
-fips: '51013'
-contractor: 'PALANTIR TECHNOLOGIES INC.'
-contract_value: '$150,703,824.61'
-contract_type: 'federal-contract'
-award_date: '2022-09-26'
-usaspending_id: '70CTD022FR0000170'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'INVESTIGATIVE CASE MANAGEMENT (ICM) OPERATIONS AND MAINTENANCE (O&M) SUPPORT SERVICES AND CUSTOM ENHANCEMENTS'
 ---
 
 ICE contract award.

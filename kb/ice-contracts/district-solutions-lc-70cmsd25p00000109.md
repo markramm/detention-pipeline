@@ -1,14 +1,24 @@
 ---
 id: district-solutions-lc-70cmsd25p00000109
-title: DISTRICT SOLUTIONS LC — 70CMSD25P00000109 (VA) $11,763
+title: 'DISTRICT SOLUTIONS LC — 70CMSD25P00000109 (VA) $11,763'
 type: ice-contract
+state: 'VA'
+contractor: 'DISTRICT SOLUTIONS LC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$11,762.89'
+contract_type: 'federal-contract'
+award_date: '2025-08-28'
+usaspending_id: '70CMSD25P00000109'
+source: 'USAspending.gov (award 70CMSD25P00000109)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ICE HEADQUARTERS WITH INSTALLATION OF ICE SPECIFIC LAW ENFORCEMENT AND SAFETY EQUIPMENT ON A FLEET VEHICLE.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

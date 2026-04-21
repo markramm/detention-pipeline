@@ -1,16 +1,19 @@
 ---
 id: redwood-county-mn-usda-distress
-title: Redwood County, MN — Budget Distress (score 3/10)
+title: 'Redwood County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Redwood County'
+state: 'MN'
+fips: '27127'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Redwood County'
-fips: '27127'
 ---
 
 County-level fiscal distress indicators for Redwood County, MN.

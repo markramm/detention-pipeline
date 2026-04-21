@@ -1,14 +1,24 @@
 ---
 id: sna-international-llc-70cmsd25fr0000034
-title: SNA INTERNATIONAL LLC — 70CMSD25FR0000034 (DC) $6,242,903
+title: 'SNA INTERNATIONAL LLC — 70CMSD25FR0000034 (DC) $6,242,903'
 type: ice-contract
+state: 'DC'
+contractor: 'SNA INTERNATIONAL LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$6,242,902.54'
+contract_type: 'federal-contract'
+award_date: '2025-05-22'
+usaspending_id: '70CMSD25FR0000034'
+source: 'USAspending.gov (award 70CMSD25FR0000034)'
+signal_strength: 'strong'
+notes: 'THIS AWARD PROVIDES RAPID DNA TESTS, EQUIPMENT, AND SERVICES FOR ICE ENFORCEMENT AND REMOVAL OPERATIONS (ERO) FIELD OFFICES TO VERIFY BIOLOGICAL RELATIVES.'
 tags:
 - ice-contract
 - other
 - detention-related
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

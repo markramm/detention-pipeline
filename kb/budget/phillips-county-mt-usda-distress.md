@@ -1,16 +1,19 @@
 ---
 id: phillips-county-mt-usda-distress
-title: Phillips County, MT — Budget Distress (score 3/10)
+title: 'Phillips County, MT — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Phillips County'
+state: 'MT'
+fips: '30071'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mt
 - population-loss
 - non-metro
 importance: 5
-state: 'MT'
-county: 'Phillips County'
-fips: '30071'
 ---
 
 County-level fiscal distress indicators for Phillips County, MT.

@@ -1,24 +1,24 @@
 ---
 id: leading-technology-composites-inc-70cmsw25fr0000150
-title: LEADING TECHNOLOGY COMPOSITES INC — 70CMSW25FR0000150 (KS) $5,194,181
+title: 'LEADING TECHNOLOGY COMPOSITES INC — 70CMSW25FR0000150 (KS) $5,194,181'
 type: ice-contract
+state: 'KS'
+contractor: 'LEADING TECHNOLOGY COMPOSITES INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$5,194,181.43'
+contract_type: 'federal-contract'
+award_date: '2025-09-29'
+usaspending_id: '70CMSW25FR0000150'
+source: 'USAspending.gov (award 70CMSW25FR0000150)'
+signal_strength: 'weak'
+notes: 'THIS DELIVERY ORDER PROCURES NEUTRAL BUOYANT BALLISTIC RIFLE PLATES TO SUPPORT ARMED AGENTS AND ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS (OFTP).'
 tags:
 - ice-contract
 - other
 - other-ice
 - ks
 importance: 5
-state: 'KS'
-county: 'SEDGWICK'
-fips: '20173'
-contractor: 'LEADING TECHNOLOGY COMPOSITES INC'
-contract_value: '$5,194,181.43'
-contract_type: 'federal-contract'
-award_date: '2025-09-29'
-usaspending_id: '70CMSW25FR0000150'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THIS DELIVERY ORDER PROCURES NEUTRAL BUOYANT BALLISTIC RIFLE PLATES TO SUPPORT ARMED AGENTS AND ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS (OFTP).'
 ---
 
 ICE contract award.

@@ -1,7 +1,13 @@
 ---
 id: winston-county-ms-usda-distress
-title: Winston County, MS — Budget Distress (score 6/10)
+title: 'Winston County, MS — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Winston County'
+state: 'MS'
+fips: '28159'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Winston County'
-fips: '28159'
 ---
 
 County-level fiscal distress indicators for Winston County, MS.

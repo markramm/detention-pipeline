@@ -1,16 +1,19 @@
 ---
 id: livingston-county-il-usda-distress
-title: Livingston County, IL — Budget Distress (score 3/10)
+title: 'Livingston County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Livingston County'
+state: 'IL'
+fips: '17105'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Livingston County'
-fips: '17105'
 ---
 
 County-level fiscal distress indicators for Livingston County, IL.

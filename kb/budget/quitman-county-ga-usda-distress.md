@@ -1,7 +1,13 @@
 ---
 id: quitman-county-ga-usda-distress
-title: Quitman County, GA — Budget Distress (score 6/10)
+title: 'Quitman County, GA — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Quitman County'
+state: 'GA'
+fips: '13239'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Quitman County'
-fips: '13239'
 ---
 
 County-level fiscal distress indicators for Quitman County, GA.

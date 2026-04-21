@@ -1,16 +1,19 @@
 ---
 id: harding-county-nm-usda-distress
-title: Harding County, NM — Budget Distress (score 3/10)
+title: 'Harding County, NM — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Harding County'
+state: 'NM'
+fips: '35021'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nm
 - population-loss
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Harding County'
-fips: '35021'
 ---
 
 County-level fiscal distress indicators for Harding County, NM.

@@ -1,16 +1,19 @@
 ---
 id: bowman-county-nd-usda-distress
-title: Bowman County, ND — Budget Distress (score 3/10)
+title: 'Bowman County, ND — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Bowman County'
+state: 'ND'
+fips: '38011'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nd
 - population-loss
 - non-metro
 importance: 5
-state: 'ND'
-county: 'Bowman County'
-fips: '38011'
 ---
 
 County-level fiscal distress indicators for Bowman County, ND.

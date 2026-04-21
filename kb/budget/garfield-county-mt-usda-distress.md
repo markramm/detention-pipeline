@@ -1,16 +1,19 @@
 ---
 id: garfield-county-mt-usda-distress
-title: Garfield County, MT — Budget Distress (score 3/10)
+title: 'Garfield County, MT — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Garfield County'
+state: 'MT'
+fips: '30033'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mt
 - population-loss
 - non-metro
 importance: 5
-state: 'MT'
-county: 'Garfield County'
-fips: '30033'
 ---
 
 County-level fiscal distress indicators for Garfield County, MT.

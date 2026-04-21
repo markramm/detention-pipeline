@@ -1,16 +1,19 @@
 ---
 id: imperial-county-ca-usda-distress
-title: Imperial County, CA — Budget Distress (score 5/10)
+title: 'Imperial County, CA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Imperial County'
+state: 'CA'
+fips: '06025'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ca
 - persistent-poverty
 - low-employment
 importance: 5
-state: 'CA'
-county: 'Imperial County'
-fips: '06025'
 ---
 
 County-level fiscal distress indicators for Imperial County, CA.

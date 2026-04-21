@@ -1,16 +1,19 @@
 ---
 id: northumberland-county-pa-usda-distress
-title: Northumberland County, PA — Budget Distress (score 3/10)
+title: 'Northumberland County, PA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Northumberland County'
+state: 'PA'
+fips: '42097'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
 - population-loss
 - non-metro
 importance: 5
-state: 'PA'
-county: 'Northumberland County'
-fips: '42097'
 ---
 
 County-level fiscal distress indicators for Northumberland County, PA.

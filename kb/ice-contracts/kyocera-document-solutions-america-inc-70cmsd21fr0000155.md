@@ -1,14 +1,24 @@
 ---
 id: kyocera-document-solutions-america-inc-70cmsd21fr0000155
-title: KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD21FR0000155 (TX) $26,074
+title: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD21FR0000155 (TX) $26,074'
 type: ice-contract
+state: 'TX'
+contractor: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$26,073.92'
+contract_type: 'federal-contract'
+award_date: '2021-09-13'
+usaspending_id: '70CMSD21FR0000155'
+source: 'USAspending.gov (award 70CMSD21FR0000155)'
+signal_strength: 'weak'
+notes: 'PURCHASE 4 MULTIFUNCTION DEVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

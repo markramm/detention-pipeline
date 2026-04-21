@@ -1,14 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr25fr0000097
-title: THE GEO GROUP, INC. — 70CDCR25FR0000097 (FL) $49,978,428
+title: 'THE GEO GROUP, INC. — 70CDCR25FR0000097 (FL) $49,978,428'
 type: ice-contract
+state: 'FL'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$49,978,428.00'
+contract_type: 'federal-contract'
+award_date: '2024-08-18'
+usaspending_id: '70CDCR25FR0000097'
+source: 'USAspending.gov (award 70CDCR25FR0000097)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS CONTRACT IS TO PROVIDE DETENTION AND TRANSPORTATION SERVICES AT MONTGOMERY PROCESSING CENTER (MPC) IN HOUSTON, TX. THE PURPOSE OF THIS NEW TASK ORDER IS TO ADD FUNDING FOR THE CONTINUANCE OF SERVICES.'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

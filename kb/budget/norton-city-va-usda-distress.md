@@ -1,7 +1,13 @@
 ---
 id: norton-city-va-usda-distress
-title: Norton city, VA — Budget Distress (score 6/10)
+title: 'Norton city, VA — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Norton city'
+state: 'VA'
+fips: '51720'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - va
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Norton city'
-fips: '51720'
 ---
 
 County-level fiscal distress indicators for Norton city, VA.

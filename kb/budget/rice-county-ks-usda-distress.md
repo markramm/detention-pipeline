@@ -1,16 +1,19 @@
 ---
 id: rice-county-ks-usda-distress
-title: Rice County, KS — Budget Distress (score 3/10)
+title: 'Rice County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Rice County'
+state: 'KS'
+fips: '20159'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - population-loss
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Rice County'
-fips: '20159'
 ---
 
 County-level fiscal distress indicators for Rice County, KS.

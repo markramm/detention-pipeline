@@ -1,14 +1,24 @@
 ---
 id: airborne-outfitters-llc-70cmsw25fc0000022
-title: AIRBORNE OUTFITTERS LLC — 70CMSW25FC0000022 (GA) $93,952
+title: 'AIRBORNE OUTFITTERS LLC — 70CMSW25FC0000022 (GA) $93,952'
 type: ice-contract
+state: 'GA'
+contractor: 'AIRBORNE OUTFITTERS LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$93,951.60'
+contract_type: 'federal-contract'
+award_date: '2025-03-11'
+usaspending_id: '70CMSW25FC0000022'
+source: 'USAspending.gov (award 70CMSW25FC0000022)'
+signal_strength: 'weak'
+notes: 'PURCHASE OF LAW ENFORCEMENT COLT REPLACEMENT PARTS (UPPER RECEIVER ASSEMBLY, EJECTION PORT COVER ASSEMBLY, COVER HINGE PIN, SPRING, COVER) FOR THE OFFICE OF FIREARMS AND TACTICAL PROGRAMS (OFTP).'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

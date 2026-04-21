@@ -1,24 +1,24 @@
 ---
 id: corecivic-inc-70cdcr25fr0000122
-title: CORECIVIC, INC. — 70CDCR25FR0000122 (CA) $56,983,382
+title: 'CORECIVIC, INC. — 70CDCR25FR0000122 (CA) $56,983,382'
 type: ice-contract
+state: 'CA'
+contractor: 'CORECIVIC, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$56,983,382.25'
+contract_type: 'federal-contract'
+award_date: '2025-09-01'
+usaspending_id: '70CDCR25FR0000122'
+source: 'USAspending.gov (award 70CDCR25FR0000122)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS TASK ORDER IS FOR COMPREHENSIVE DETENTION AND TRANSPORTATION SERVICES FOR HOUSING CRIMINAL ALIENS AT CALIFORNIA CITY DETENTION CENTER IN CALIFORNIA CITY, CA.'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - ca
 importance: 5
-state: 'CA'
-county: 'KERN'
-fips: '06029'
-contractor: 'CORECIVIC, INC.'
-contract_value: '$56,983,382.25'
-contract_type: 'federal-contract'
-award_date: '2025-09-01'
-usaspending_id: '70CDCR25FR0000122'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THE PURPOSE OF THIS TASK ORDER IS FOR COMPREHENSIVE DETENTION AND TRANSPORTATION SERVICES FOR HOUSING CRIMINAL ALIENS AT CALIFORNIA CITY DETENTION CENTER IN CALIFORNIA CITY, CA.'
 ---
 
 ICE contract award.

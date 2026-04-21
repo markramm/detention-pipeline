@@ -1,7 +1,13 @@
 ---
 id: rolette-county-nd-usda-distress
-title: Rolette County, ND — Budget Distress (score 6/10)
+title: 'Rolette County, ND — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Rolette County'
+state: 'ND'
+fips: '38079'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nd
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'ND'
-county: 'Rolette County'
-fips: '38079'
 ---
 
 County-level fiscal distress indicators for Rolette County, ND.

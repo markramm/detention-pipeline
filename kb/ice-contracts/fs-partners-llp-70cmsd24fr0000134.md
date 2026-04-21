@@ -1,14 +1,24 @@
 ---
 id: fs-partners-llp-70cmsd24fr0000134
-title: FS PARTNERS, LLP — 70CMSD24FR0000134 (VA) $240,257
+title: 'FS PARTNERS, LLP — 70CMSD24FR0000134 (VA) $240,257'
 type: ice-contract
+state: 'VA'
+contractor: 'FS PARTNERS, LLP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$240,257.34'
+contract_type: 'federal-contract'
+award_date: '2024-09-19'
+usaspending_id: '70CMSD24FR0000134'
+source: 'USAspending.gov (award 70CMSD24FR0000134)'
+signal_strength: 'weak'
+notes: 'ULTRAKIT TX1'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

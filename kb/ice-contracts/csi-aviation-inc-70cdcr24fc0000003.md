@@ -1,14 +1,23 @@
 ---
 id: csi-aviation-inc-70cdcr24fc0000003
-title: CSI AVIATION, INC — 70CDCR24FC0000003 (TX)
+title: 'CSI AVIATION, INC — 70CDCR24FC0000003 (TX)'
 type: ice-contract
+state: 'TX'
+contractor: 'CSI AVIATION, INC'
+contractor_type: 'air-operations'
+contract_class: 'other-ice'
+contract_type: 'federal-contract'
+award_date: '2024-03-19'
+usaspending_id: '70CDCR24FC0000003'
+source: 'USAspending.gov (award 70CDCR24FC0000003)'
+signal_strength: 'weak'
+notes: 'BPA CALL FOR AIR CHARTER SERVICES'
 tags:
 - ice-contract
 - air-operations
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

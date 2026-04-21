@@ -1,14 +1,24 @@
 ---
 id: packet-forensics-llc-70cmsd20p00000084
-title: PACKET FORENSICS LLC — 70CMSD20P00000084 (VA) $57,422
+title: 'PACKET FORENSICS LLC — 70CMSD20P00000084 (VA) $57,422'
 type: ice-contract
+state: 'VA'
+contractor: 'PACKET FORENSICS LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$57,422.00'
+contract_type: 'federal-contract'
+award_date: '2020-06-08'
+usaspending_id: '70CMSD20P00000084'
+source: 'USAspending.gov (award 70CMSD20P00000084)'
+signal_strength: 'weak'
+notes: 'INTERCEPT PROBE SOFTWARE AND HARDWARE MAINTENANCE'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: savantage-financial-services-inc-70ctd024fr0000003
-title: SAVANTAGE FINANCIAL SERVICES, INC. — 70CTD024FR0000003 (MD) $37,466,526
+title: 'SAVANTAGE FINANCIAL SERVICES, INC. — 70CTD024FR0000003 (MD) $37,466,526'
 type: ice-contract
+state: 'MD'
+contractor: 'SAVANTAGE FINANCIAL SERVICES, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$37,466,525.94'
+contract_type: 'federal-contract'
+award_date: '2024-01-01'
+usaspending_id: '70CTD024FR0000003'
+source: 'USAspending.gov (award 70CTD024FR0000003)'
+signal_strength: 'weak'
+notes: 'FEDERAL FINANCIAL MANAGEMENT SYSTEM (FFMS) OPERATIONS AND MAINTENANCE (O&M) SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

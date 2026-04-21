@@ -1,14 +1,24 @@
 ---
 id: the-kinetic-group-sales-llc-70cmsw24fr0000013
-title: THE KINETIC GROUP SALES LLC — 70CMSW24FR0000013 (MN) $1,298,700
+title: 'THE KINETIC GROUP SALES LLC — 70CMSW24FR0000013 (MN) $1,298,700'
 type: ice-contract
+state: 'MN'
+contractor: 'THE KINETIC GROUP SALES LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,298,700.00'
+contract_type: 'federal-contract'
+award_date: '2024-02-06'
+usaspending_id: '70CMSW24FR0000013'
+source: 'USAspending.gov (award 70CMSW24FR0000013)'
+signal_strength: 'weak'
+notes: '.223 REMINGTON CALIBER DUTY AMMUNITION (62 GRAIN) TO SUPPORT ARMED ICE AGENTS IN THE FIELD.'
 tags:
 - ice-contract
 - other
 - other-ice
 - mn
 importance: 5
-state: 'MN'
 ---
 
 ICE contract award.

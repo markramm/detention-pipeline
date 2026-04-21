@@ -1,14 +1,24 @@
 ---
 id: credence-dynamo-solutions-llc-70cmsd24fr0000019
-title: CREDENCE DYNAMO SOLUTIONS LLC — 70CMSD24FR0000019 (VA) $3,139,379
+title: 'CREDENCE DYNAMO SOLUTIONS LLC — 70CMSD24FR0000019 (VA) $3,139,379'
 type: ice-contract
+state: 'VA'
+contractor: 'CREDENCE DYNAMO SOLUTIONS LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$3,139,379.45'
+contract_type: 'federal-contract'
+award_date: '2024-03-30'
+usaspending_id: '70CMSD24FR0000019'
+source: 'USAspending.gov (award 70CMSD24FR0000019)'
+signal_strength: 'weak'
+notes: 'PROGRAM OPERATION SUPPORT SERVICES (POS) RECOMPETE. PROVIDE FEDERAL STAFF WITH TECHNICAL, ANALYTICAL, AND PROGRAM SUPORT FOR SPECIFIC ICE HSI SEVP PROCESSES, PLANNING, AND OPERATIONAL ACTIVITIES.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

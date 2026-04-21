@@ -1,7 +1,13 @@
 ---
 id: todd-county-sd-usda-distress
-title: Todd County, SD — Budget Distress (score 6/10)
+title: 'Todd County, SD — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Todd County'
+state: 'SD'
+fips: '46121'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - sd
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Todd County'
-fips: '46121'
 ---
 
 County-level fiscal distress indicators for Todd County, SD.

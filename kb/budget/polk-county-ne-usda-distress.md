@@ -1,16 +1,19 @@
 ---
 id: polk-county-ne-usda-distress
-title: Polk County, NE — Budget Distress (score 3/10)
+title: 'Polk County, NE — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Polk County'
+state: 'NE'
+fips: '31143'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ne
 - population-loss
 - non-metro
 importance: 5
-state: 'NE'
-county: 'Polk County'
-fips: '31143'
 ---
 
 County-level fiscal distress indicators for Polk County, NE.

@@ -1,14 +1,24 @@
 ---
 id: oxygen-forensics-inc-70cmsd22p00000065
-title: OXYGEN FORENSICS INC — 70CMSD22P00000065 (VA) $127,443
+title: 'OXYGEN FORENSICS INC — 70CMSD22P00000065 (VA) $127,443'
 type: ice-contract
+state: 'VA'
+contractor: 'OXYGEN FORENSICS INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$127,443.00'
+contract_type: 'federal-contract'
+award_date: '2022-09-30'
+usaspending_id: '70CMSD22P00000065'
+source: 'USAspending.gov (award 70CMSD22P00000065)'
+signal_strength: 'weak'
+notes: 'OXYGEN FORENSIC DETECTIVE'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

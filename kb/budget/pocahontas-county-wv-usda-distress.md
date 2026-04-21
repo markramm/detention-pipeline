@@ -1,7 +1,13 @@
 ---
 id: pocahontas-county-wv-usda-distress
-title: Pocahontas County, WV — Budget Distress (score 6/10)
+title: 'Pocahontas County, WV — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Pocahontas County'
+state: 'WV'
+fips: '54075'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - wv
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Pocahontas County'
-fips: '54075'
 ---
 
 County-level fiscal distress indicators for Pocahontas County, WV.

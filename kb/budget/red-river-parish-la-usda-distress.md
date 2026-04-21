@@ -1,7 +1,13 @@
 ---
 id: red-river-parish-la-usda-distress
-title: Red River Parish, LA — Budget Distress (score 7/10)
+title: 'Red River Parish, LA — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Red River Parish'
+state: 'LA'
+fips: '22081'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Red River Parish'
-fips: '22081'
 ---
 
 County-level fiscal distress indicators for Red River Parish, LA.

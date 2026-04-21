@@ -1,14 +1,24 @@
 ---
 id: cmi-management-llc-70cmsw26p00000006
-title: CMI MANAGEMENT, LLC — 70CMSW26P00000006 (MN) $55,668
+title: 'CMI MANAGEMENT, LLC — 70CMSW26P00000006 (MN) $55,668'
 type: ice-contract
+state: 'MN'
+contractor: 'CMI MANAGEMENT, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$55,668.30'
+contract_type: 'federal-contract'
+award_date: '2026-01-16'
+usaspending_id: '70CMSW26P00000006'
+source: 'USAspending.gov (award 70CMSW26P00000006)'
+signal_strength: 'weak'
+notes: 'THIS AWARD HAS A SINGLE VENDOR PURCHASING AND INSTALLING ELECTRICAL AND WIRING EQUIPMENT AT FT. SNELLING TO SUPPORT ICE- OFFICE OF ASSETS AND FACILITIES MANAGEMENT.'
 tags:
 - ice-contract
 - other
 - other-ice
 - mn
 importance: 5
-state: 'MN'
 ---
 
 ICE contract award.

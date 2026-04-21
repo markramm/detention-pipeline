@@ -1,14 +1,24 @@
 ---
 id: corecivic-inc-70cdcr25fr0000095
-title: CORECIVIC, INC. — 70CDCR25FR0000095 (TX) $18,973,557
+title: 'CORECIVIC, INC. — 70CDCR25FR0000095 (TX) $18,973,557'
 type: ice-contract
+state: 'TX'
+contractor: 'CORECIVIC, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$18,973,556.86'
+contract_type: 'federal-contract'
+award_date: '2025-08-18'
+usaspending_id: '70CDCR25FR0000095'
+source: 'USAspending.gov (award 70CDCR25FR0000095)'
+signal_strength: 'strong'
+notes: 'THIS CONTRACT PROVIDES DETENTION AND TRANSPORTATION SERVICES AT HOUSTON CONTRACT DETENTION FACILITY. THE PURPOSE OF THIS MODIFICATION IS TO ADD FUNDING FOR DETENTION AND TRANSPORTATION SERVICES AND EXTEND THE PERIOD OF PERFORMANCE TO MATCH FUNDING.'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

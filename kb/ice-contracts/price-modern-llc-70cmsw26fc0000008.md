@@ -1,14 +1,24 @@
 ---
 id: price-modern-llc-70cmsw26fc0000008
-title: PRICE MODERN LLC — 70CMSW26FC0000008 (AZ) $11,315
+title: 'PRICE MODERN LLC — 70CMSW26FC0000008 (AZ) $11,315'
 type: ice-contract
+state: 'AZ'
+contractor: 'PRICE MODERN LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$11,315.35'
+contract_type: 'federal-contract'
+award_date: '2026-01-15'
+usaspending_id: '70CMSW26FC0000008'
+source: 'USAspending.gov (award 70CMSW26FC0000008)'
+signal_strength: 'weak'
+notes: 'FURNITURE DESIGN SERVICES FOR HSI NOGALES, AZ'
 tags:
 - ice-contract
 - other
 - other-ice
 - az
 importance: 5
-state: 'AZ'
 ---
 
 ICE contract award.

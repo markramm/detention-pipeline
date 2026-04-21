@@ -1,7 +1,13 @@
 ---
 id: coosa-county-al-usda-distress
-title: Coosa County, AL — Budget Distress (score 4/10)
+title: 'Coosa County, AL — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Coosa County'
+state: 'AL'
+fips: '01037'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - al
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Coosa County'
-fips: '01037'
 ---
 
 County-level fiscal distress indicators for Coosa County, AL.

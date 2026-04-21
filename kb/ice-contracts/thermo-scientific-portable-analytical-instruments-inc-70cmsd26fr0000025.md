@@ -1,14 +1,24 @@
 ---
 id: thermo-scientific-portable-analytical-instruments-inc-70cmsd26fr0000025
-title: THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUMENTS INC. — 70CMSD26FR0000025 (MA) $26,000
+title: 'THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUMENTS INC. — 70CMSD26FR0000025 (MA) $26,000'
 type: ice-contract
+state: 'MA'
+contractor: 'THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUMENTS INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$26,000.00'
+contract_type: 'federal-contract'
+award_date: '2026-03-27'
+usaspending_id: '70CMSD26FR0000025'
+source: 'USAspending.gov (award 70CMSD26FR0000025)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES HANDHELD NARCOTICS ANALYZER, WHICH SUPPORTS HOMELAND SECURITY INVESTIGATIONS IN CONDUCTING CRIMINAL INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ma
 importance: 5
-state: 'MA'
 ---
 
 ICE contract award.

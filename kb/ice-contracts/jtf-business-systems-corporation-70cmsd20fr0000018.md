@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd20fr0000018
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD20FR0000018 (VA) $12,300
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD20FR0000018 (VA) $12,300'
 type: ice-contract
+state: 'VA'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$12,300.00'
+contract_type: 'federal-contract'
+award_date: '2020-02-24'
+usaspending_id: '70CMSD20FR0000018'
+source: 'USAspending.gov (award 70CMSD20FR0000018)'
+signal_strength: 'weak'
+notes: 'NEW LEASE FOR COPIER LOCATED IN DETROIT MI'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

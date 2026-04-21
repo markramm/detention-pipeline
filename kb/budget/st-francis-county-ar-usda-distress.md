@@ -1,7 +1,13 @@
 ---
 id: st-francis-county-ar-usda-distress
-title: St. Francis County, AR — Budget Distress (score 9/10)
+title: 'St. Francis County, AR — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'St. Francis County'
+state: 'AR'
+fips: '05123'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ar
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AR'
-county: 'St. Francis County'
-fips: '05123'
 ---
 
 County-level fiscal distress indicators for St. Francis County, AR.

@@ -1,7 +1,13 @@
 ---
 id: estill-county-ky-usda-distress
-title: Estill County, KY — Budget Distress (score 9/10)
+title: 'Estill County, KY — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Estill County'
+state: 'KY'
+fips: '21065'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ky
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Estill County'
-fips: '21065'
 ---
 
 County-level fiscal distress indicators for Estill County, KY.

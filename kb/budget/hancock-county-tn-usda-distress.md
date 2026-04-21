@@ -1,7 +1,13 @@
 ---
 id: hancock-county-tn-usda-distress
-title: Hancock County, TN — Budget Distress (score 7/10)
+title: 'Hancock County, TN — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Hancock County'
+state: 'TN'
+fips: '47067'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tn
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TN'
-county: 'Hancock County'
-fips: '47067'
 ---
 
 County-level fiscal distress indicators for Hancock County, TN.

@@ -1,7 +1,13 @@
 ---
 id: early-county-ga-usda-distress
-title: Early County, GA — Budget Distress (score 7/10)
+title: 'Early County, GA — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Early County'
+state: 'GA'
+fips: '13099'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Early County'
-fips: '13099'
 ---
 
 County-level fiscal distress indicators for Early County, GA.

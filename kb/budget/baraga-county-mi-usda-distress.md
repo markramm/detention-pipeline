@@ -1,16 +1,19 @@
 ---
 id: baraga-county-mi-usda-distress
-title: Baraga County, MI — Budget Distress (score 3/10)
+title: 'Baraga County, MI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Baraga County'
+state: 'MI'
+fips: '26013'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mi
 - low-employment
 - non-metro
 importance: 5
-state: 'MI'
-county: 'Baraga County'
-fips: '26013'
 ---
 
 County-level fiscal distress indicators for Baraga County, MI.

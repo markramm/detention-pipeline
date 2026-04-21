@@ -1,16 +1,19 @@
 ---
 id: mason-county-il-usda-distress
-title: Mason County, IL — Budget Distress (score 3/10)
+title: 'Mason County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Mason County'
+state: 'IL'
+fips: '17125'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Mason County'
-fips: '17125'
 ---
 
 County-level fiscal distress indicators for Mason County, IL.

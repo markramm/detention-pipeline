@@ -1,14 +1,24 @@
 ---
 id: salient-crgt-inc-70cdcr24fr0000059
-title: SALIENT CRGT, INC. — 70CDCR24FR0000059 (DC) $28,477,949
+title: 'SALIENT CRGT, INC. — 70CDCR24FR0000059 (DC) $28,477,949'
 type: ice-contract
+state: 'DC'
+contractor: 'SALIENT CRGT, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$28,477,949.37'
+contract_type: 'federal-contract'
+award_date: '2024-09-23'
+usaspending_id: '70CDCR24FR0000059'
+source: 'USAspending.gov (award 70CDCR24FR0000059)'
+signal_strength: 'strong'
+notes: 'ANALYTIC AND PROGRAM MANAGEMENT SERVICES FOR ERO'
 tags:
 - ice-contract
 - other
 - detention-related
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

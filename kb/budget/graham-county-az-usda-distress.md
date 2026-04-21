@@ -1,16 +1,19 @@
 ---
 id: graham-county-az-usda-distress
-title: Graham County, AZ — Budget Distress (score 3/10)
+title: 'Graham County, AZ — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Graham County'
+state: 'AZ'
+fips: '04009'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - az
 - low-employment
 - non-metro
 importance: 5
-state: 'AZ'
-county: 'Graham County'
-fips: '04009'
 ---
 
 County-level fiscal distress indicators for Graham County, AZ.

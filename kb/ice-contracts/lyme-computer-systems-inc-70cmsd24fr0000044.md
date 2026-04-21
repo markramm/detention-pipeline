@@ -1,14 +1,24 @@
 ---
 id: lyme-computer-systems-inc-70cmsd24fr0000044
-title: LYME COMPUTER SYSTEMS, INC. — 70CMSD24FR0000044 (DC) $9,625
+title: 'LYME COMPUTER SYSTEMS, INC. — 70CMSD24FR0000044 (DC) $9,625'
 type: ice-contract
+state: 'DC'
+contractor: 'LYME COMPUTER SYSTEMS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$9,624.55'
+contract_type: 'federal-contract'
+award_date: '2024-07-01'
+usaspending_id: '70CMSD24FR0000044'
+source: 'USAspending.gov (award 70CMSD24FR0000044)'
+signal_strength: 'weak'
+notes: '3D PRINTER SOFTWARE'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

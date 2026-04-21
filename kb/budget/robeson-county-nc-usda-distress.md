@@ -1,16 +1,19 @@
 ---
 id: robeson-county-nc-usda-distress
-title: Robeson County, NC — Budget Distress (score 4/10)
+title: 'Robeson County, NC — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Robeson County'
+state: 'NC'
+fips: '37155'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nc
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'NC'
-county: 'Robeson County'
-fips: '37155'
 ---
 
 County-level fiscal distress indicators for Robeson County, NC.

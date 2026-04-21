@@ -1,7 +1,13 @@
 ---
 id: emanuel-county-ga-usda-distress
-title: Emanuel County, GA — Budget Distress (score 5/10)
+title: 'Emanuel County, GA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Emanuel County'
+state: 'GA'
+fips: '13107'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Emanuel County'
-fips: '13107'
 ---
 
 County-level fiscal distress indicators for Emanuel County, GA.

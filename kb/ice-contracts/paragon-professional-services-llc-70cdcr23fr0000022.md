@@ -1,24 +1,24 @@
 ---
 id: paragon-professional-services-llc-70cdcr23fr0000022
-title: PARAGON PROFESSIONAL SERVICES LLC — 70CDCR23FR0000022 (NY) $3,920,413
+title: 'PARAGON PROFESSIONAL SERVICES LLC — 70CDCR23FR0000022 (NY) $3,920,413'
 type: ice-contract
+state: 'NY'
+contractor: 'PARAGON PROFESSIONAL SERVICES LLC'
+contractor_type: 'guard-services'
+contract_class: 'detention-related'
+contract_value: '$3,920,413.19'
+contract_type: 'federal-contract'
+award_date: '2023-04-01'
+usaspending_id: '70CDCR23FR0000022'
+source: 'USAspending.gov (award 70CDCR23FR0000022)'
+signal_strength: 'strong'
+notes: 'TRANSPORTATION AND GUARD SERVICES FOR NYC AOR'
 tags:
 - ice-contract
 - guard-services
 - detention-related
 - ny
 importance: 5
-state: 'NY'
-county: 'NEW YORK'
-fips: '36061'
-contractor: 'PARAGON PROFESSIONAL SERVICES LLC'
-contract_value: '$3,920,413.19'
-contract_type: 'federal-contract'
-award_date: '2023-04-01'
-usaspending_id: '70CDCR23FR0000022'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'TRANSPORTATION AND GUARD SERVICES FOR NYC AOR'
 ---
 
 ICE contract award.

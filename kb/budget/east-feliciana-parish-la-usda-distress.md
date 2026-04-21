@@ -1,7 +1,13 @@
 ---
 id: east-feliciana-parish-la-usda-distress
-title: East Feliciana Parish, LA — Budget Distress (score 5/10)
+title: 'East Feliciana Parish, LA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'East Feliciana Parish'
+state: 'LA'
+fips: '22037'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
-state: 'LA'
-county: 'East Feliciana Parish'
-fips: '22037'
 ---
 
 County-level fiscal distress indicators for East Feliciana Parish, LA.

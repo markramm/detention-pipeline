@@ -1,16 +1,19 @@
 ---
 id: defiance-county-oh-usda-distress
-title: Defiance County, OH — Budget Distress (score 3/10)
+title: 'Defiance County, OH — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Defiance County'
+state: 'OH'
+fips: '39039'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
 - population-loss
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Defiance County'
-fips: '39039'
 ---
 
 County-level fiscal distress indicators for Defiance County, OH.

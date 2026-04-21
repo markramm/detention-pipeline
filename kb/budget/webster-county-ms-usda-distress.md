@@ -1,16 +1,19 @@
 ---
 id: webster-county-ms-usda-distress
-title: Webster County, MS — Budget Distress (score 3/10)
+title: 'Webster County, MS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Webster County'
+state: 'MS'
+fips: '28155'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ms
 - population-loss
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Webster County'
-fips: '28155'
 ---
 
 County-level fiscal distress indicators for Webster County, MS.

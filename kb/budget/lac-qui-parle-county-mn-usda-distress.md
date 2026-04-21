@@ -1,16 +1,19 @@
 ---
 id: lac-qui-parle-county-mn-usda-distress
-title: Lac qui Parle County, MN — Budget Distress (score 3/10)
+title: 'Lac qui Parle County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Lac qui Parle County'
+state: 'MN'
+fips: '27073'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Lac qui Parle County'
-fips: '27073'
 ---
 
 County-level fiscal distress indicators for Lac qui Parle County, MN.

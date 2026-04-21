@@ -1,14 +1,24 @@
 ---
 id: panamerica-computers-inc-70ctd026fr0000011
-title: PANAMERICA COMPUTERS, INC. — 70CTD026FR0000011 (DC) $439,707
+title: 'PANAMERICA COMPUTERS, INC. — 70CTD026FR0000011 (DC) $439,707'
 type: ice-contract
+state: 'DC'
+contractor: 'PANAMERICA COMPUTERS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$439,706.52'
+contract_type: 'federal-contract'
+award_date: '2026-01-08'
+usaspending_id: '70CTD026FR0000011'
+source: 'USAspending.gov (award 70CTD026FR0000011)'
+signal_strength: 'weak'
+notes: 'THIS PROCUREMENT IS FOR APPLICATION PERFORMANCE MONITORING SOFTWARE TO SUPPORT THE SOLUTIONS DELIVERY DIVISION (SDD) WITHIN OCIO SUPPORTS THE OPERATIONS & MAINTENANCE (O&M) OF ALL MAJOR ENFORCEMENT SYSTEMS WITHIN ICE, INCLUDING SYSTEMS THAT A'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

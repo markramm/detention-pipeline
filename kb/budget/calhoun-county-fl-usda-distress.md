@@ -1,7 +1,13 @@
 ---
 id: calhoun-county-fl-usda-distress
-title: Calhoun County, FL — Budget Distress (score 4/10)
+title: 'Calhoun County, FL — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Calhoun County'
+state: 'FL'
+fips: '12013'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - fl
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'FL'
-county: 'Calhoun County'
-fips: '12013'
 ---
 
 County-level fiscal distress indicators for Calhoun County, FL.

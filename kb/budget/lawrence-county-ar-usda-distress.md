@@ -1,16 +1,19 @@
 ---
 id: lawrence-county-ar-usda-distress
-title: Lawrence County, AR — Budget Distress (score 3/10)
+title: 'Lawrence County, AR — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Lawrence County'
+state: 'AR'
+fips: '05075'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ar
 - population-loss
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Lawrence County'
-fips: '05075'
 ---
 
 County-level fiscal distress indicators for Lawrence County, AR.

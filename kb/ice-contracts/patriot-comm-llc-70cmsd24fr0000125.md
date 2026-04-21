@@ -1,14 +1,24 @@
 ---
 id: patriot-comm-llc-70cmsd24fr0000125
-title: PATRIOT COMM LLC — 70CMSD24FR0000125 (TX) $190,687
+title: 'PATRIOT COMM LLC — 70CMSD24FR0000125 (TX) $190,687'
 type: ice-contract
+state: 'TX'
+contractor: 'PATRIOT COMM LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$190,686.60'
+contract_type: 'federal-contract'
+award_date: '2024-09-12'
+usaspending_id: '70CMSD24FR0000125'
+source: 'USAspending.gov (award 70CMSD24FR0000125)'
+signal_strength: 'weak'
+notes: 'WIRELESS HEADSETS'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

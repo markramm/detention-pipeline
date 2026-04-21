@@ -1,16 +1,19 @@
 ---
 id: tucker-county-wv-usda-distress
-title: Tucker County, WV — Budget Distress (score 3/10)
+title: 'Tucker County, WV — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Tucker County'
+state: 'WV'
+fips: '54093'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wv
 - population-loss
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Tucker County'
-fips: '54093'
 ---
 
 County-level fiscal distress indicators for Tucker County, WV.

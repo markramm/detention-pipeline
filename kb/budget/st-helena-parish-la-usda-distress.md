@@ -1,16 +1,19 @@
 ---
 id: st-helena-parish-la-usda-distress
-title: St. Helena Parish, LA — Budget Distress (score 4/10)
+title: 'St. Helena Parish, LA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'St. Helena Parish'
+state: 'LA'
+fips: '22091'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - la
 - persistent-poverty
 - low-education-attainment
 importance: 5
-state: 'LA'
-county: 'St. Helena Parish'
-fips: '22091'
 ---
 
 County-level fiscal distress indicators for St. Helena Parish, LA.

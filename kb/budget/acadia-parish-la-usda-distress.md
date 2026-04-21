@@ -1,16 +1,19 @@
 ---
 id: acadia-parish-la-usda-distress
-title: Acadia Parish, LA — Budget Distress (score 4/10)
+title: 'Acadia Parish, LA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Acadia Parish'
+state: 'LA'
+fips: '22001'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - la
 - persistent-poverty
 - low-education-attainment
 importance: 5
-state: 'LA'
-county: 'Acadia Parish'
-fips: '22001'
 ---
 
 County-level fiscal distress indicators for Acadia Parish, LA.

@@ -1,16 +1,19 @@
 ---
 id: chaves-county-nm-usda-distress
-title: Chaves County, NM — Budget Distress (score 4/10)
+title: 'Chaves County, NM — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Chaves County'
+state: 'NM'
+fips: '35005'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nm
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Chaves County'
-fips: '35005'
 ---
 
 County-level fiscal distress indicators for Chaves County, NM.

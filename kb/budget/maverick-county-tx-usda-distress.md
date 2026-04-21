@@ -1,15 +1,18 @@
 ---
 id: maverick-county-tx-usda-distress
-title: Maverick County, TX — Budget Distress (score 3/10)
+title: 'Maverick County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Maverick County'
+state: 'TX'
+fips: '48323'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - persistent-poverty
 importance: 5
-state: 'TX'
-county: 'Maverick County'
-fips: '48323'
 ---
 
 County-level fiscal distress indicators for Maverick County, TX.

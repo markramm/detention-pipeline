@@ -1,16 +1,19 @@
 ---
 id: henderson-county-il-usda-distress
-title: Henderson County, IL — Budget Distress (score 3/10)
+title: 'Henderson County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Henderson County'
+state: 'IL'
+fips: '17071'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Henderson County'
-fips: '17071'
 ---
 
 County-level fiscal distress indicators for Henderson County, IL.

@@ -1,14 +1,24 @@
 ---
 id: kyocera-document-solutions-america-inc-70cmsd22fr0000095
-title: KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD22FR0000095 (NJ) $5,504
+title: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD22FR0000095 (NJ) $5,504'
 type: ice-contract
+state: 'NJ'
+contractor: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$5,503.68'
+contract_type: 'federal-contract'
+award_date: '2022-08-26'
+usaspending_id: '70CMSD22FR0000095'
+source: 'USAspending.gov (award 70CMSD22FR0000095)'
+signal_strength: 'weak'
+notes: 'COPIER LEASE AND MAINTENANCE'
 tags:
 - ice-contract
 - other
 - other-ice
 - nj
 importance: 5
-state: 'NJ'
 ---
 
 ICE contract award.

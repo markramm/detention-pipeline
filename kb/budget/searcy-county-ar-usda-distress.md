@@ -1,7 +1,13 @@
 ---
 id: searcy-county-ar-usda-distress
-title: Searcy County, AR — Budget Distress (score 6/10)
+title: 'Searcy County, AR — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Searcy County'
+state: 'AR'
+fips: '05129'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ar
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Searcy County'
-fips: '05129'
 ---
 
 County-level fiscal distress indicators for Searcy County, AR.

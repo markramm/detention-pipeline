@@ -1,16 +1,19 @@
 ---
 id: white-county-il-usda-distress
-title: White County, IL — Budget Distress (score 3/10)
+title: 'White County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'White County'
+state: 'IL'
+fips: '17193'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'White County'
-fips: '17193'
 ---
 
 County-level fiscal distress indicators for White County, IL.

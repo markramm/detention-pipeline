@@ -1,14 +1,24 @@
 ---
 id: the-language-doctors-inc-70cmsd20fr0000193
-title: THE LANGUAGE DOCTORS, INC — 70CMSD20FR0000193 (DC) $589,274
+title: 'THE LANGUAGE DOCTORS, INC — 70CMSD20FR0000193 (DC) $589,274'
 type: ice-contract
+state: 'DC'
+contractor: 'THE LANGUAGE DOCTORS, INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$589,274.12'
+contract_type: 'federal-contract'
+award_date: '2020-09-18'
+usaspending_id: '70CMSD20FR0000193'
+source: 'USAspending.gov (award 70CMSD20FR0000193)'
+signal_strength: 'weak'
+notes: 'SERVICES FOR DEAF AND HARD OF HEARING, VISUALLY IMPAIRED AND DISABLED COMMUNITIES'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

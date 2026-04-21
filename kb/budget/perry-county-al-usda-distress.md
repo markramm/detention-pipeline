@@ -1,7 +1,13 @@
 ---
 id: perry-county-al-usda-distress
-title: Perry County, AL — Budget Distress (score 9/10)
+title: 'Perry County, AL — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Perry County'
+state: 'AL'
+fips: '01105'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - al
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Perry County'
-fips: '01105'
 ---
 
 County-level fiscal distress indicators for Perry County, AL.

@@ -1,14 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr26fr0000031
-title: THE GEO GROUP, INC. — 70CDCR26FR0000031 (FL) $9,292,800
+title: 'THE GEO GROUP, INC. — 70CDCR26FR0000031 (FL) $9,292,800'
 type: ice-contract
+state: 'FL'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$9,292,800.00'
+contract_type: 'federal-contract'
+award_date: '2025-12-20'
+usaspending_id: '70CDCR26FR0000031'
+source: 'USAspending.gov (award 70CDCR26FR0000031)'
+signal_strength: 'strong'
+notes: 'DETENTION SERVICES AT THE DESERT VIEW ANNEX LOCATED IN ADELANTO, CA FOR LOS ANGELES AREA OF RESPONSIBILITY'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

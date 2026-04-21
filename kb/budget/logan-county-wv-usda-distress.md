@@ -1,7 +1,13 @@
 ---
 id: logan-county-wv-usda-distress
-title: Logan County, WV — Budget Distress (score 9/10)
+title: 'Logan County, WV — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Logan County'
+state: 'WV'
+fips: '54045'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - wv
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Logan County'
-fips: '54045'
 ---
 
 County-level fiscal distress indicators for Logan County, WV.

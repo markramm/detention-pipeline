@@ -1,24 +1,24 @@
 ---
 id: data-systems-analysts-inc-70ctd024fr0000031
-title: DATA SYSTEMS ANALYSTS INC — 70CTD024FR0000031 (PA) $8,356,199
+title: 'DATA SYSTEMS ANALYSTS INC — 70CTD024FR0000031 (PA) $8,356,199'
 type: ice-contract
+state: 'PA'
+contractor: 'DATA SYSTEMS ANALYSTS INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$8,356,199.19'
+contract_type: 'federal-contract'
+award_date: '2024-07-01'
+usaspending_id: '70CTD024FR0000031'
+source: 'USAspending.gov (award 70CTD024FR0000031)'
+signal_strength: 'weak'
+notes: 'AMB #21163 NEW CONTRACT FOR VICTIM INFORMATION NOTIFICATION EXCHANGE (VINE) SUPPORT ANTICIPATED POP: 7/1/2024 - 6/30/2025 ACOR: ATA HAFEEZ, ATA.HAFEEZ@ICE.DHS.GOV, (202) 421-6222'
 tags:
 - ice-contract
 - other
 - other-ice
 - pa
 importance: 5
-state: 'PA'
-county: 'BUCKS'
-fips: '42017'
-contractor: 'DATA SYSTEMS ANALYSTS INC'
-contract_value: '$8,356,199.19'
-contract_type: 'federal-contract'
-award_date: '2024-07-01'
-usaspending_id: '70CTD024FR0000031'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'AMB #21163 NEW CONTRACT FOR VICTIM INFORMATION NOTIFICATION EXCHANGE (VINE) SUPPORT ANTICIPATED POP: 7/1/2024 - 6/30/2025 ACOR: ATA HAFEEZ, ATA.HAFEEZ@ICE.DHS.GOV, (202) 421-6222'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: american-firearms-school-llc-hscedm15p00006
-title: AMERICAN FIREARMS SCHOOL, LLC — HSCEDM15P00006 (MA) $11,100
+title: 'AMERICAN FIREARMS SCHOOL, LLC — HSCEDM15P00006 (MA) $11,100'
 type: ice-contract
+state: 'MA'
+contractor: 'AMERICAN FIREARMS SCHOOL, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$11,100.00'
+contract_type: 'federal-contract'
+award_date: '2014-12-02'
+usaspending_id: 'HSCEDM15P00006'
+source: 'USAspending.gov (award HSCEDM15P00006)'
+signal_strength: 'weak'
+notes: 'CREATE A NEW CONTRACT TO OBTAIN AN INDOOR FIRING RANGE FOR THE WINTER MONTHS. IGF::OT::IGF'
 tags:
 - ice-contract
 - other
 - other-ice
 - ma
 importance: 5
-state: 'MA'
 ---
 
 ICE contract award.

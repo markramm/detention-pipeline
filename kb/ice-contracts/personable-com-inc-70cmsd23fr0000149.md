@@ -1,14 +1,24 @@
 ---
 id: personable-com-inc-70cmsd23fr0000149
-title: PERSONABLE.COM, INC. — 70CMSD23FR0000149 (DC) $559,963
+title: 'PERSONABLE.COM, INC. — 70CMSD23FR0000149 (DC) $559,963'
 type: ice-contract
+state: 'DC'
+contractor: 'PERSONABLE.COM, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$559,963.04'
+contract_type: 'federal-contract'
+award_date: '2023-09-01'
+usaspending_id: '70CMSD23FR0000149'
+source: 'USAspending.gov (award 70CMSD23FR0000149)'
+signal_strength: 'weak'
+notes: 'SCANWRITER STANDARD EXCEL ANNUAL MAINTENANCE LICENSES'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

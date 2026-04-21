@@ -1,16 +1,19 @@
 ---
 id: cochran-county-tx-usda-distress
-title: Cochran County, TX — Budget Distress (score 3/10)
+title: 'Cochran County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cochran County'
+state: 'TX'
+fips: '48079'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - low-education-attainment
 importance: 5
-state: 'TX'
-county: 'Cochran County'
-fips: '48079'
 ---
 
 County-level fiscal distress indicators for Cochran County, TX.

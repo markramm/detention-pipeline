@@ -1,15 +1,18 @@
 ---
 id: charlottesville-city-va-usda-distress
-title: Charlottesville city, VA — Budget Distress (score 3/10)
+title: 'Charlottesville city, VA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Charlottesville city'
+state: 'VA'
+fips: '51540'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - va
 - persistent-poverty
 importance: 5
-state: 'VA'
-county: 'Charlottesville city'
-fips: '51540'
 ---
 
 County-level fiscal distress indicators for Charlottesville city, VA.

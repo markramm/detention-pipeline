@@ -1,16 +1,19 @@
 ---
 id: martin-county-in-usda-distress
-title: Martin County, IN — Budget Distress (score 3/10)
+title: 'Martin County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Martin County'
+state: 'IN'
+fips: '18101'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Martin County'
-fips: '18101'
 ---
 
 County-level fiscal distress indicators for Martin County, IN.

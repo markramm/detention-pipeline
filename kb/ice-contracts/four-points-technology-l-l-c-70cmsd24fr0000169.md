@@ -1,14 +1,24 @@
 ---
 id: four-points-technology-l-l-c-70cmsd24fr0000169
-title: FOUR POINTS TECHNOLOGY, L.L.C. — 70CMSD24FR0000169 (DC) $125,000
+title: 'FOUR POINTS TECHNOLOGY, L.L.C. — 70CMSD24FR0000169 (DC) $125,000'
 type: ice-contract
+state: 'DC'
+contractor: 'FOUR POINTS TECHNOLOGY, L.L.C.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$125,000.00'
+contract_type: 'federal-contract'
+award_date: '2024-09-29'
+usaspending_id: '70CMSD24FR0000169'
+source: 'USAspending.gov (award 70CMSD24FR0000169)'
+signal_strength: 'weak'
+notes: 'PERSONNEL EMERGENCY NOTIFICATION SYSTEM (PENS) SOFTWARE AND SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

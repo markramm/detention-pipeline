@@ -1,16 +1,19 @@
 ---
 id: keith-county-ne-usda-distress
-title: Keith County, NE — Budget Distress (score 3/10)
+title: 'Keith County, NE — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Keith County'
+state: 'NE'
+fips: '31101'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ne
 - population-loss
 - non-metro
 importance: 5
-state: 'NE'
-county: 'Keith County'
-fips: '31101'
 ---
 
 County-level fiscal distress indicators for Keith County, NE.

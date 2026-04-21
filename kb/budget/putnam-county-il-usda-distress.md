@@ -1,16 +1,19 @@
 ---
 id: putnam-county-il-usda-distress
-title: Putnam County, IL — Budget Distress (score 3/10)
+title: 'Putnam County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Putnam County'
+state: 'IL'
+fips: '17155'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Putnam County'
-fips: '17155'
 ---
 
 County-level fiscal distress indicators for Putnam County, IL.

@@ -1,7 +1,13 @@
 ---
 id: winn-parish-la-usda-distress
-title: Winn Parish, LA — Budget Distress (score 6/10)
+title: 'Winn Parish, LA — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Winn Parish'
+state: 'LA'
+fips: '22127'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Winn Parish'
-fips: '22127'
 ---
 
 County-level fiscal distress indicators for Winn Parish, LA.

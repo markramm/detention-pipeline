@@ -1,16 +1,19 @@
 ---
 id: scott-county-ms-usda-distress
-title: Scott County, MS — Budget Distress (score 5/10)
+title: 'Scott County, MS — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Scott County'
+state: 'MS'
+fips: '28123'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
 - persistent-poverty
 - population-loss
 importance: 5
-state: 'MS'
-county: 'Scott County'
-fips: '28123'
 ---
 
 County-level fiscal distress indicators for Scott County, MS.

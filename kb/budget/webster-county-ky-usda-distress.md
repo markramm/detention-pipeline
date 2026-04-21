@@ -1,7 +1,13 @@
 ---
 id: webster-county-ky-usda-distress
-title: Webster County, KY — Budget Distress (score 4/10)
+title: 'Webster County, KY — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Webster County'
+state: 'KY'
+fips: '21233'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Webster County'
-fips: '21233'
 ---
 
 County-level fiscal distress indicators for Webster County, KY.

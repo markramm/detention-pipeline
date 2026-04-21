@@ -1,14 +1,24 @@
 ---
 id: quantico-tactical-incorporated-70cmsw25p00000078
-title: QUANTICO TACTICAL INCORPORATED — 70CMSW25P00000078 (NC) $60,965
+title: 'QUANTICO TACTICAL INCORPORATED — 70CMSW25P00000078 (NC) $60,965'
 type: ice-contract
+state: 'NC'
+contractor: 'QUANTICO TACTICAL INCORPORATED'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$60,964.80'
+contract_type: 'federal-contract'
+award_date: '2025-09-22'
+usaspending_id: '70CMSW25P00000078'
+source: 'USAspending.gov (award 70CMSW25P00000078)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES MULTIPLE DISTRACTION DEVICES TO SUPPORT LAW ENFORCEMENT OPERATIONS AND ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - nc
 importance: 5
-state: 'NC'
 ---
 
 ICE contract award.

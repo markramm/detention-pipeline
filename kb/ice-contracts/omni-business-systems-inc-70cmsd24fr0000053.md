@@ -1,14 +1,24 @@
 ---
 id: omni-business-systems-inc-70cmsd24fr0000053
-title: OMNI BUSINESS SYSTEMS, INC — 70CMSD24FR0000053 (NY) $2,656
+title: 'OMNI BUSINESS SYSTEMS, INC — 70CMSD24FR0000053 (NY) $2,656'
 type: ice-contract
+state: 'NY'
+contractor: 'OMNI BUSINESS SYSTEMS, INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$2,656.08'
+contract_type: 'federal-contract'
+award_date: '2024-07-08'
+usaspending_id: '70CMSD24FR0000053'
+source: 'USAspending.gov (award 70CMSD24FR0000053)'
+signal_strength: 'weak'
+notes: 'MFD LEASE'
 tags:
 - ice-contract
 - other
 - other-ice
 - ny
 importance: 5
-state: 'NY'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: throckmorton-county-tx-usda-distress
-title: Throckmorton County, TX — Budget Distress (score 3/10)
+title: 'Throckmorton County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Throckmorton County'
+state: 'TX'
+fips: '48447'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Throckmorton County'
-fips: '48447'
 ---
 
 County-level fiscal distress indicators for Throckmorton County, TX.

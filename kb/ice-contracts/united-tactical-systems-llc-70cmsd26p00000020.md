@@ -1,14 +1,24 @@
 ---
 id: united-tactical-systems-llc-70cmsd26p00000020
-title: UNITED TACTICAL SYSTEMS, LLC — 70CMSD26P00000020 (SC) $8,000
+title: 'UNITED TACTICAL SYSTEMS, LLC — 70CMSD26P00000020 (SC) $8,000'
 type: ice-contract
+state: 'SC'
+contractor: 'UNITED TACTICAL SYSTEMS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$8,000.00'
+contract_type: 'federal-contract'
+award_date: '2026-02-09'
+usaspending_id: '70CMSD26P00000020'
+source: 'USAspending.gov (award 70CMSD26P00000020)'
+signal_strength: 'weak'
+notes: 'THIS PURCHASE ORDER IS FOR A CUSTOMIZED 3-DAY PEPPERBALL TRAINING FOR HOMELAND SECURITY INVESTIGATIONS ACADEMY.'
 tags:
 - ice-contract
 - other
 - other-ice
 - sc
 importance: 5
-state: 'SC'
 ---
 
 ICE contract award.

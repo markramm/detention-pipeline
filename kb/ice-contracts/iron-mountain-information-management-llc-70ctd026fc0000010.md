@@ -1,14 +1,24 @@
 ---
 id: iron-mountain-information-management-llc-70ctd026fc0000010
-title: IRON MOUNTAIN INFORMATION MANAGEMENT LLC — 70CTD026FC0000010 (DC) $311,352
+title: 'IRON MOUNTAIN INFORMATION MANAGEMENT LLC — 70CTD026FC0000010 (DC) $311,352'
 type: ice-contract
+state: 'DC'
+contractor: 'IRON MOUNTAIN INFORMATION MANAGEMENT LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$311,351.60'
+contract_type: 'federal-contract'
+award_date: '2026-02-13'
+usaspending_id: '70CTD026FC0000010'
+source: 'USAspending.gov (award 70CTD026FC0000010)'
+signal_strength: 'weak'
+notes: 'CALL PROVIDES RECORDS STORAGE,DIGITAL SCANNING,SCANNING QUALITY ASSURANCE & CONTROL,SECURE RECORDS DISPOSITION,TRANSPORTATION, & RECORDS & ELECTRONIC RECORDS MANAGEMENT SUPPORT SERVICES FOR IMMIGRATION & CUSTOMS ENFORCEMENT FACILITIES'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

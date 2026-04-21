@@ -1,14 +1,24 @@
 ---
 id: axis-global-enterprises-inc-70cmsw20c00000014
-title: AXIS GLOBAL ENTERPRISES, INC. — 70CMSW20C00000014 (TX) $466,989
+title: 'AXIS GLOBAL ENTERPRISES, INC. — 70CMSW20C00000014 (TX) $466,989'
 type: ice-contract
+state: 'TX'
+contractor: 'AXIS GLOBAL ENTERPRISES, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$466,989.39'
+contract_type: 'federal-contract'
+award_date: '2020-09-25'
+usaspending_id: '70CMSW20C00000014'
+source: 'USAspending.gov (award 70CMSW20C00000014)'
+signal_strength: 'strong'
+notes: 'NURSE CALL STATION, PORT ISABEL DETENTION CENTER'
 tags:
 - ice-contract
 - other
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

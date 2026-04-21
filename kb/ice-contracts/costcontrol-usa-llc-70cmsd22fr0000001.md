@@ -1,14 +1,24 @@
 ---
 id: costcontrol-usa-llc-70cmsd22fr0000001
-title: COSTCONTROL USA, LLC — 70CMSD22FR0000001 (MD) $34,390
+title: 'COSTCONTROL USA, LLC — 70CMSD22FR0000001 (MD) $34,390'
 type: ice-contract
+state: 'MD'
+contractor: 'COSTCONTROL USA, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$34,390.00'
+contract_type: 'federal-contract'
+award_date: '2021-11-10'
+usaspending_id: '70CMSD22FR0000001'
+source: 'USAspending.gov (award 70CMSD22FR0000001)'
+signal_strength: 'weak'
+notes: 'COSTPERFORM ANNUAL SOFTWARE MAINTENANCE'
 tags:
 - ice-contract
 - other
 - other-ice
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

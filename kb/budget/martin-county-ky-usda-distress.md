@@ -1,7 +1,13 @@
 ---
 id: martin-county-ky-usda-distress
-title: Martin County, KY — Budget Distress (score 7/10)
+title: 'Martin County, KY — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Martin County'
+state: 'KY'
+fips: '21159'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ky
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Martin County'
-fips: '21159'
 ---
 
 County-level fiscal distress indicators for Martin County, KY.

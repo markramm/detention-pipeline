@@ -1,16 +1,19 @@
 ---
 id: schuylkill-county-pa-usda-distress
-title: Schuylkill County, PA — Budget Distress (score 3/10)
+title: 'Schuylkill County, PA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Schuylkill County'
+state: 'PA'
+fips: '42107'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
 - population-loss
 - non-metro
 importance: 5
-state: 'PA'
-county: 'Schuylkill County'
-fips: '42107'
 ---
 
 County-level fiscal distress indicators for Schuylkill County, PA.

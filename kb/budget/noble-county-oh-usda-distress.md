@@ -1,7 +1,13 @@
 ---
 id: noble-county-oh-usda-distress
-title: Noble County, OH — Budget Distress (score 4/10)
+title: 'Noble County, OH — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Noble County'
+state: 'OH'
+fips: '39121'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Noble County'
-fips: '39121'
 ---
 
 County-level fiscal distress indicators for Noble County, OH.

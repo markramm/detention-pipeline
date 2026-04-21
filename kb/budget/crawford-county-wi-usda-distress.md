@@ -1,16 +1,19 @@
 ---
 id: crawford-county-wi-usda-distress
-title: Crawford County, WI — Budget Distress (score 3/10)
+title: 'Crawford County, WI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Crawford County'
+state: 'WI'
+fips: '55023'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wi
 - population-loss
 - non-metro
 importance: 5
-state: 'WI'
-county: 'Crawford County'
-fips: '55023'
 ---
 
 County-level fiscal distress indicators for Crawford County, WI.

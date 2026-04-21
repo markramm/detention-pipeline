@@ -1,7 +1,13 @@
 ---
 id: dewey-county-sd-usda-distress
-title: Dewey County, SD — Budget Distress (score 6/10)
+title: 'Dewey County, SD — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Dewey County'
+state: 'SD'
+fips: '46041'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - sd
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Dewey County'
-fips: '46041'
 ---
 
 County-level fiscal distress indicators for Dewey County, SD.

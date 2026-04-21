@@ -1,16 +1,19 @@
 ---
 id: dickey-county-nd-usda-distress
-title: Dickey County, ND — Budget Distress (score 3/10)
+title: 'Dickey County, ND — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Dickey County'
+state: 'ND'
+fips: '38021'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nd
 - population-loss
 - non-metro
 importance: 5
-state: 'ND'
-county: 'Dickey County'
-fips: '38021'
 ---
 
 County-level fiscal distress indicators for Dickey County, ND.

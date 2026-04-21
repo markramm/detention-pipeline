@@ -1,14 +1,24 @@
 ---
 id: william-s-hein-co-inc-70cmsd24p00000089
-title: WILLIAM S. HEIN & CO., INC. — 70CMSD24P00000089 (TX) $13,288
+title: 'WILLIAM S. HEIN & CO., INC. — 70CMSD24P00000089 (TX) $13,288'
 type: ice-contract
+state: 'TX'
+contractor: 'WILLIAM S. HEIN & CO., INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$13,288.50'
+contract_type: 'federal-contract'
+award_date: '2024-09-30'
+usaspending_id: '70CMSD24P00000089'
+source: 'USAspending.gov (award 70CMSD24P00000089)'
+signal_strength: 'weak'
+notes: 'ONLINE LAW LIBRARY ACCESS'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

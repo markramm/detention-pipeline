@@ -1,7 +1,13 @@
 ---
 id: monroe-county-wv-usda-distress
-title: Monroe County, WV — Budget Distress (score 4/10)
+title: 'Monroe County, WV — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Monroe County'
+state: 'WV'
+fips: '54063'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wv
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Monroe County'
-fips: '54063'
 ---
 
 County-level fiscal distress indicators for Monroe County, WV.

@@ -1,16 +1,19 @@
 ---
 id: fayette-county-in-usda-distress
-title: Fayette County, IN — Budget Distress (score 3/10)
+title: 'Fayette County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Fayette County'
+state: 'IN'
+fips: '18041'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Fayette County'
-fips: '18041'
 ---
 
 County-level fiscal distress indicators for Fayette County, IN.

@@ -1,15 +1,18 @@
 ---
 id: brooks-county-ga-usda-distress
-title: Brooks County, GA — Budget Distress (score 3/10)
+title: 'Brooks County, GA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Brooks County'
+state: 'GA'
+fips: '13027'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
 - persistent-poverty
 importance: 5
-state: 'GA'
-county: 'Brooks County'
-fips: '13027'
 ---
 
 County-level fiscal distress indicators for Brooks County, GA.

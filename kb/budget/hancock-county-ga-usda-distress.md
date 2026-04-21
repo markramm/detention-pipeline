@@ -1,7 +1,13 @@
 ---
 id: hancock-county-ga-usda-distress
-title: Hancock County, GA — Budget Distress (score 9/10)
+title: 'Hancock County, GA — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Hancock County'
+state: 'GA'
+fips: '13141'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Hancock County'
-fips: '13141'
 ---
 
 County-level fiscal distress indicators for Hancock County, GA.

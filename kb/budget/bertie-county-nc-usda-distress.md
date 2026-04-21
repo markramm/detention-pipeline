@@ -1,7 +1,13 @@
 ---
 id: bertie-county-nc-usda-distress
-title: Bertie County, NC — Budget Distress (score 6/10)
+title: 'Bertie County, NC — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Bertie County'
+state: 'NC'
+fips: '37015'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nc
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'NC'
-county: 'Bertie County'
-fips: '37015'
 ---
 
 County-level fiscal distress indicators for Bertie County, NC.

@@ -1,16 +1,19 @@
 ---
 id: scioto-county-oh-usda-distress
-title: Scioto County, OH — Budget Distress (score 3/10)
+title: 'Scioto County, OH — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Scioto County'
+state: 'OH'
+fips: '39145'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
 - low-employment
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Scioto County'
-fips: '39145'
 ---
 
 County-level fiscal distress indicators for Scioto County, OH.

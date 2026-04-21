@@ -1,16 +1,19 @@
 ---
 id: jackson-county-co-usda-distress
-title: Jackson County, CO — Budget Distress (score 3/10)
+title: 'Jackson County, CO — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Jackson County'
+state: 'CO'
+fips: '08057'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - co
 - population-loss
 - non-metro
 importance: 5
-state: 'CO'
-county: 'Jackson County'
-fips: '08057'
 ---
 
 County-level fiscal distress indicators for Jackson County, CO.

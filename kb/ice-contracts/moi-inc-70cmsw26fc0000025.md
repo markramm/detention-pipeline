@@ -1,14 +1,24 @@
 ---
 id: moi-inc-70cmsw26fc0000025
-title: MOI, INC. — 70CMSW26FC0000025 (SC) $272,891
+title: 'MOI, INC. — 70CMSW26FC0000025 (SC) $272,891'
 type: ice-contract
+state: 'SC'
+contractor: 'MOI, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$272,890.65'
+contract_type: 'federal-contract'
+award_date: '2026-03-17'
+usaspending_id: '70CMSW26FC0000025'
+source: 'USAspending.gov (award 70CMSW26FC0000025)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES FURNITURE AND ASSOCIATED SERVICES FOR THE OFFICE OF THE PRINCIPAL LEGAL ADVISOR (OPLA).'
 tags:
 - ice-contract
 - other
 - other-ice
 - sc
 importance: 5
-state: 'SC'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: jasper-county-il-usda-distress
-title: Jasper County, IL — Budget Distress (score 3/10)
+title: 'Jasper County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Jasper County'
+state: 'IL'
+fips: '17079'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Jasper County'
-fips: '17079'
 ---
 
 County-level fiscal distress indicators for Jasper County, IL.

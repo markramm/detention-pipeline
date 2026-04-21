@@ -1,16 +1,19 @@
 ---
 id: iosco-county-mi-usda-distress
-title: Iosco County, MI — Budget Distress (score 3/10)
+title: 'Iosco County, MI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Iosco County'
+state: 'MI'
+fips: '26069'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mi
 - population-loss
 - non-metro
 importance: 5
-state: 'MI'
-county: 'Iosco County'
-fips: '26069'
 ---
 
 County-level fiscal distress indicators for Iosco County, MI.

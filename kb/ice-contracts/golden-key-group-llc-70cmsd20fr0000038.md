@@ -1,14 +1,24 @@
 ---
 id: golden-key-group-llc-70cmsd20fr0000038
-title: GOLDEN KEY GROUP, LLC — 70CMSD20FR0000038 (DC) $1,734,458
+title: 'GOLDEN KEY GROUP, LLC — 70CMSD20FR0000038 (DC) $1,734,458'
 type: ice-contract
+state: 'DC'
+contractor: 'GOLDEN KEY GROUP, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,734,458.40'
+contract_type: 'federal-contract'
+award_date: '2020-04-04'
+usaspending_id: '70CMSD20FR0000038'
+source: 'USAspending.gov (award 70CMSD20FR0000038)'
+signal_strength: 'weak'
+notes: 'ADMINISTRATIVE AND OPERATIONAL SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

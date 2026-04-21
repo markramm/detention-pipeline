@@ -1,7 +1,13 @@
 ---
 id: coal-county-ok-usda-distress
-title: Coal County, OK — Budget Distress (score 7/10)
+title: 'Coal County, OK — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Coal County'
+state: 'OK'
+fips: '40029'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ok
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Coal County'
-fips: '40029'
 ---
 
 County-level fiscal distress indicators for Coal County, OK.

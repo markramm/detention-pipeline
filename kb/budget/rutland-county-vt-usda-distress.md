@@ -1,16 +1,19 @@
 ---
 id: rutland-county-vt-usda-distress
-title: Rutland County, VT — Budget Distress (score 3/10)
+title: 'Rutland County, VT — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Rutland County'
+state: 'VT'
+fips: '50021'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - vt
 - population-loss
 - non-metro
 importance: 5
-state: 'VT'
-county: 'Rutland County'
-fips: '50021'
 ---
 
 County-level fiscal distress indicators for Rutland County, VT.

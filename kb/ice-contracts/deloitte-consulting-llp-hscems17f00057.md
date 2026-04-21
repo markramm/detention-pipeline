@@ -1,14 +1,24 @@
 ---
 id: deloitte-consulting-llp-hscems17f00057
-title: DELOITTE CONSULTING LLP — HSCEMS17F00057 (DC) $4,273,820
+title: 'DELOITTE CONSULTING LLP — HSCEMS17F00057 (DC) $4,273,820'
 type: ice-contract
+state: 'DC'
+contractor: 'DELOITTE CONSULTING LLP'
+contractor_type: 'consulting'
+contract_class: 'other-ice'
+contract_value: '$4,273,819.77'
+contract_type: 'federal-contract'
+award_date: '2017-08-31'
+usaspending_id: 'HSCEMS17F00057'
+source: 'USAspending.gov (award HSCEMS17F00057)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF AUDIT REMEDIATION SUPPORT SERVICES'
 tags:
 - ice-contract
 - consulting
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

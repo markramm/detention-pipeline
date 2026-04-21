@@ -1,16 +1,19 @@
 ---
 id: grant-county-nd-usda-distress
-title: Grant County, ND — Budget Distress (score 3/10)
+title: 'Grant County, ND — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Grant County'
+state: 'ND'
+fips: '38037'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nd
 - population-loss
 - non-metro
 importance: 5
-state: 'ND'
-county: 'Grant County'
-fips: '38037'
 ---
 
 County-level fiscal distress indicators for Grant County, ND.

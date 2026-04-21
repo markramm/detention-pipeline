@@ -1,16 +1,19 @@
 ---
 id: koochiching-county-mn-usda-distress
-title: Koochiching County, MN — Budget Distress (score 3/10)
+title: 'Koochiching County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Koochiching County'
+state: 'MN'
+fips: '27071'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Koochiching County'
-fips: '27071'
 ---
 
 County-level fiscal distress indicators for Koochiching County, MN.

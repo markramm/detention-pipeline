@@ -1,14 +1,24 @@
 ---
 id: coho-construction-management-llc-70cmsw25c00000021
-title: COHO CONSTRUCTION MANAGEMENT LLC — 70CMSW25C00000021 (WI) $2,601,212
+title: 'COHO CONSTRUCTION MANAGEMENT LLC — 70CMSW25C00000021 (WI) $2,601,212'
 type: ice-contract
+state: 'WI'
+contractor: 'COHO CONSTRUCTION MANAGEMENT LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$2,601,211.89'
+contract_type: 'federal-contract'
+award_date: '2025-09-16'
+usaspending_id: '70CMSW25C00000021'
+source: 'USAspending.gov (award 70CMSW25C00000021)'
+signal_strength: 'strong'
+notes: 'THIS AWARD PROVIDES FACILITY CONDITION ASSESSMENTS, WHICH IS REQUIRED TO SUPPORT FACILITY CONDITION INDEXES, AND REAL PROPERTY INVENTORY INFORMATION AND RELATED SERVICES FOR THE OFFICE OF ASSEST AND FACILITY MANAGEMENT (OAFM).'
 tags:
 - ice-contract
 - other
 - detention-related
 - wi
 importance: 5
-state: 'WI'
 ---
 
 ICE contract award.

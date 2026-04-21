@@ -1,7 +1,13 @@
 ---
 id: rockcastle-county-ky-usda-distress
-title: Rockcastle County, KY — Budget Distress (score 5/10)
+title: 'Rockcastle County, KY — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Rockcastle County'
+state: 'KY'
+fips: '21203'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ky
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Rockcastle County'
-fips: '21203'
 ---
 
 County-level fiscal distress indicators for Rockcastle County, KY.

@@ -1,14 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw25p00000026
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW25P00000026 (VA) $9,135
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW25P00000026 (VA) $9,135'
 type: ice-contract
+state: 'VA'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$9,135.00'
+contract_type: 'federal-contract'
+award_date: '2025-06-13'
+usaspending_id: '70CMSW25P00000026'
+source: 'USAspending.gov (award 70CMSW25P00000026)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES VERTEX SLING BAGS TO SUPPORT THE ARMED AGENTS IN THE FIELD AND THE ICE- OFFICE OF FIREARMS AND TACTICAL TRAINING.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

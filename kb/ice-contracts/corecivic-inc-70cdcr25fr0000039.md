@@ -1,14 +1,24 @@
 ---
 id: corecivic-inc-70cdcr25fr0000039
-title: CORECIVIC, INC. — 70CDCR25FR0000039 (CA) $13,658,622
+title: 'CORECIVIC, INC. — 70CDCR25FR0000039 (CA) $13,658,622'
 type: ice-contract
+state: 'CA'
+contractor: 'CORECIVIC, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$13,658,622.28'
+contract_type: 'federal-contract'
+award_date: '2025-04-01'
+usaspending_id: '70CDCR25FR0000039'
+source: 'USAspending.gov (award 70CDCR25FR0000039)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS TASK ORDER IS TO ESTABLISH A DETENTION FACILITY WITHIN THE CALIFORNIA CITY CORRECTIONAL FACILITY IN SUPPORT OF THE PRESIDENT''S DECLARATION OF A NATIONAL EMERGENCY AT THE SOUTHERN BORDER.'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

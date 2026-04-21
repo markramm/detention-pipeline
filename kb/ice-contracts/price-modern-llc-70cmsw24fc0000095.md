@@ -1,14 +1,24 @@
 ---
 id: price-modern-llc-70cmsw24fc0000095
-title: PRICE MODERN LLC — 70CMSW24FC0000095 (PR) $504,515
+title: 'PRICE MODERN LLC — 70CMSW24FC0000095 (PR) $504,515'
 type: ice-contract
+state: 'PR'
+contractor: 'PRICE MODERN LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$504,515.43'
+contract_type: 'federal-contract'
+award_date: '2024-08-23'
+usaspending_id: '70CMSW24FC0000095'
+source: 'USAspending.gov (award 70CMSW24FC0000095)'
+signal_strength: 'weak'
+notes: 'RAC PONCE OFFICE DESIGN, FURNITURE AND ASSOCIATED SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - pr
 importance: 5
-state: 'PR'
 ---
 
 ICE contract award.

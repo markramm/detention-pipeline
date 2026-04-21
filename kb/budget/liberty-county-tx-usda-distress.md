@@ -1,16 +1,19 @@
 ---
 id: liberty-county-tx-usda-distress
-title: Liberty County, TX — Budget Distress (score 3/10)
+title: 'Liberty County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Liberty County'
+state: 'TX'
+fips: '48291'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - low-employment
 - low-education-attainment
 importance: 5
-state: 'TX'
-county: 'Liberty County'
-fips: '48291'
 ---
 
 County-level fiscal distress indicators for Liberty County, TX.

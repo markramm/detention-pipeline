@@ -1,16 +1,19 @@
 ---
 id: cass-county-in-usda-distress
-title: Cass County, IN — Budget Distress (score 3/10)
+title: 'Cass County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cass County'
+state: 'IN'
+fips: '18017'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Cass County'
-fips: '18017'
 ---
 
 County-level fiscal distress indicators for Cass County, IN.

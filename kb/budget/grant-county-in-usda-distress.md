@@ -1,16 +1,19 @@
 ---
 id: grant-county-in-usda-distress
-title: Grant County, IN — Budget Distress (score 3/10)
+title: 'Grant County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Grant County'
+state: 'IN'
+fips: '18053'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Grant County'
-fips: '18053'
 ---
 
 County-level fiscal distress indicators for Grant County, IN.

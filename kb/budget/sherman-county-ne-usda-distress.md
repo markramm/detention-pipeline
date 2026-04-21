@@ -1,16 +1,19 @@
 ---
 id: sherman-county-ne-usda-distress
-title: Sherman County, NE — Budget Distress (score 3/10)
+title: 'Sherman County, NE — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Sherman County'
+state: 'NE'
+fips: '31163'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ne
 - population-loss
 - non-metro
 importance: 5
-state: 'NE'
-county: 'Sherman County'
-fips: '31163'
 ---
 
 County-level fiscal distress indicators for Sherman County, NE.

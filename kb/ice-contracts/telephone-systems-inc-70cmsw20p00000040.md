@@ -1,14 +1,24 @@
 ---
 id: telephone-systems-inc-70cmsw20p00000040
-title: TELEPHONE SYSTEMS, INC. — 70CMSW20P00000040 (FL) $66,978
+title: 'TELEPHONE SYSTEMS, INC. — 70CMSW20P00000040 (FL) $66,978'
 type: ice-contract
+state: 'FL'
+contractor: 'TELEPHONE SYSTEMS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$66,978.00'
+contract_type: 'federal-contract'
+award_date: '2020-08-01'
+usaspending_id: '70CMSW20P00000040'
+source: 'USAspending.gov (award 70CMSW20P00000040)'
+signal_strength: 'weak'
+notes: 'TELEPHONE MAINTENANCE SERVICES FOR FT, BENNING GA (OFTP).'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

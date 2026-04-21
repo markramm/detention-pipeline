@@ -1,14 +1,24 @@
 ---
 id: whelen-engineering-company-inc-70cmsd26fr0000009
-title: WHELEN ENGINEERING COMPANY, INC. — 70CMSD26FR0000009 (CT) $47,330
+title: 'WHELEN ENGINEERING COMPANY, INC. — 70CMSD26FR0000009 (CT) $47,330'
 type: ice-contract
+state: 'CT'
+contractor: 'WHELEN ENGINEERING COMPANY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$47,330.49'
+contract_type: 'federal-contract'
+award_date: '2026-01-13'
+usaspending_id: '70CMSD26FR0000009'
+source: 'USAspending.gov (award 70CMSD26FR0000009)'
+signal_strength: 'weak'
+notes: 'THIS ORDER PROVIDES PORTABLE RETROFIT KITS FOR LAW ENFORCEMENT VEHICLES TO ENSURE COMPLIANCE, OFFICER SAFETY, AND PUBLIC SAFETY DURING INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ct
 importance: 5
-state: 'CT'
 ---
 
 ICE contract award.

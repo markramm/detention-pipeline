@@ -1,7 +1,13 @@
 ---
 id: yukon-koyukuk-census-area-ak-usda-distress
-title: Yukon-Koyukuk Census Area, AK — Budget Distress (score 6/10)
+title: 'Yukon-Koyukuk Census Area, AK — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Yukon-Koyukuk Census Area'
+state: 'AK'
+fips: '02290'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ak
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'AK'
-county: 'Yukon-Koyukuk Census Area'
-fips: '02290'
 ---
 
 County-level fiscal distress indicators for Yukon-Koyukuk Census Area, AK.

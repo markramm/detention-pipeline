@@ -1,16 +1,19 @@
 ---
 id: sac-county-ia-usda-distress
-title: Sac County, IA — Budget Distress (score 3/10)
+title: 'Sac County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Sac County'
+state: 'IA'
+fips: '19161'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Sac County'
-fips: '19161'
 ---
 
 County-level fiscal distress indicators for Sac County, IA.

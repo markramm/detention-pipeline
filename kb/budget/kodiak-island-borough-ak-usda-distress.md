@@ -1,16 +1,19 @@
 ---
 id: kodiak-island-borough-ak-usda-distress
-title: Kodiak Island Borough, AK — Budget Distress (score 3/10)
+title: 'Kodiak Island Borough, AK — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Kodiak Island Borough'
+state: 'AK'
+fips: '02150'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ak
 - population-loss
 - non-metro
 importance: 5
-state: 'AK'
-county: 'Kodiak Island Borough'
-fips: '02150'
 ---
 
 County-level fiscal distress indicators for Kodiak Island Borough, AK.

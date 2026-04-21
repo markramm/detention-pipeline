@@ -1,16 +1,19 @@
 ---
 id: graham-county-ks-usda-distress
-title: Graham County, KS — Budget Distress (score 3/10)
+title: 'Graham County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Graham County'
+state: 'KS'
+fips: '20065'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - population-loss
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Graham County'
-fips: '20065'
 ---
 
 County-level fiscal distress indicators for Graham County, KS.

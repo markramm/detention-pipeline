@@ -1,16 +1,19 @@
 ---
 id: gray-county-tx-usda-distress
-title: Gray County, TX — Budget Distress (score 3/10)
+title: 'Gray County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Gray County'
+state: 'TX'
+fips: '48179'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Gray County'
-fips: '48179'
 ---
 
 County-level fiscal distress indicators for Gray County, TX.

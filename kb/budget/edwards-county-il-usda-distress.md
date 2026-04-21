@@ -1,16 +1,19 @@
 ---
 id: edwards-county-il-usda-distress
-title: Edwards County, IL — Budget Distress (score 3/10)
+title: 'Edwards County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Edwards County'
+state: 'IL'
+fips: '17047'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Edwards County'
-fips: '17047'
 ---
 
 County-level fiscal distress indicators for Edwards County, IL.

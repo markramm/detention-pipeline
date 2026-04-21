@@ -1,14 +1,24 @@
 ---
 id: escondido-city-of-70cmsd25p00000004
-title: ESCONDIDO, CITY OF — 70CMSD25P00000004 (CA) $20,000
+title: 'ESCONDIDO, CITY OF — 70CMSD25P00000004 (CA) $20,000'
 type: ice-contract
+state: 'CA'
+contractor: 'ESCONDIDO, CITY OF'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$20,000.00'
+contract_type: 'federal-contract'
+award_date: '2025-01-01'
+usaspending_id: '70CMSD25P00000004'
+source: 'USAspending.gov (award 70CMSD25P00000004)'
+signal_strength: 'weak'
+notes: 'FIRING RANGE'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

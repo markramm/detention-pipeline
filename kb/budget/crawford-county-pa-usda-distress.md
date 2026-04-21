@@ -1,16 +1,19 @@
 ---
 id: crawford-county-pa-usda-distress
-title: Crawford County, PA — Budget Distress (score 3/10)
+title: 'Crawford County, PA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Crawford County'
+state: 'PA'
+fips: '42039'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
 - population-loss
 - non-metro
 importance: 5
-state: 'PA'
-county: 'Crawford County'
-fips: '42039'
 ---
 
 County-level fiscal distress indicators for Crawford County, PA.

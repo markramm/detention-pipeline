@@ -1,14 +1,24 @@
 ---
 id: solutions-managements-services-llc-70cmsw25c00000006
-title: SOLUTIONS & MANAGEMENTS SERVICES LLC — 70CMSW25C00000006 (FL) $1,179,712
+title: 'SOLUTIONS & MANAGEMENTS SERVICES LLC — 70CMSW25C00000006 (FL) $1,179,712'
 type: ice-contract
+state: 'FL'
+contractor: 'SOLUTIONS & MANAGEMENTS SERVICES LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$1,179,712.39'
+contract_type: 'federal-contract'
+award_date: '2025-04-03'
+usaspending_id: '70CMSW25C00000006'
+source: 'USAspending.gov (award 70CMSW25C00000006)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS CONTRACT IS TO INSTALL FIBER OPTIC CABLES, LAN CABLES, SECURITY CAMERAS, AND CARDS IN SUPPORT OF THE KROME SERVICE PROCESSING CENTER NETWORK BACKBONE PROJECT.'
 tags:
 - ice-contract
 - other
 - detention-related
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

@@ -1,7 +1,13 @@
 ---
 id: knott-county-ky-usda-distress
-title: Knott County, KY — Budget Distress (score 8/10)
+title: 'Knott County, KY — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Knott County'
+state: 'KY'
+fips: '21119'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ky
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Knott County'
-fips: '21119'
 ---
 
 County-level fiscal distress indicators for Knott County, KY.

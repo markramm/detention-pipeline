@@ -1,7 +1,13 @@
 ---
 id: mcmullen-county-tx-usda-distress
-title: McMullen County, TX — Budget Distress (score 6/10)
+title: 'McMullen County, TX — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'McMullen County'
+state: 'TX'
+fips: '48311'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tx
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'McMullen County'
-fips: '48311'
 ---
 
 County-level fiscal distress indicators for McMullen County, TX.

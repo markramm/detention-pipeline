@@ -1,16 +1,19 @@
 ---
 id: dougherty-county-ga-usda-distress
-title: Dougherty County, GA — Budget Distress (score 5/10)
+title: 'Dougherty County, GA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Dougherty County'
+state: 'GA'
+fips: '13095'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
 - persistent-poverty
 - population-loss
 importance: 5
-state: 'GA'
-county: 'Dougherty County'
-fips: '13095'
 ---
 
 County-level fiscal distress indicators for Dougherty County, GA.

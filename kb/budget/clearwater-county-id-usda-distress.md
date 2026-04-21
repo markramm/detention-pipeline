@@ -1,7 +1,13 @@
 ---
 id: clearwater-county-id-usda-distress
-title: Clearwater County, ID — Budget Distress (score 5/10)
+title: 'Clearwater County, ID — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Clearwater County'
+state: 'ID'
+fips: '16035'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - id
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'ID'
-county: 'Clearwater County'
-fips: '16035'
 ---
 
 County-level fiscal distress indicators for Clearwater County, ID.

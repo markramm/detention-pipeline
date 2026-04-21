@@ -1,14 +1,24 @@
 ---
 id: cox-virginia-telcom-l-l-c-70cmsd25p00000103
-title: COX VIRGINIA TELCOM, L.L.C — 70CMSD25P00000103 (VA) $99,898
+title: 'COX VIRGINIA TELCOM, L.L.C — 70CMSD25P00000103 (VA) $99,898'
 type: ice-contract
+state: 'VA'
+contractor: 'COX VIRGINIA TELCOM, L.L.C'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$99,898.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-20'
+usaspending_id: '70CMSD25P00000103'
+source: 'USAspending.gov (award 70CMSD25P00000103)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES INTERNET SERVICES, WHICH ALLOWS HOMELAND SECURITY INVESTIGATIONS PERSONNEL TO ACCESS ICE INTRANET WEBSITES AND DATABASES ON A SECURED CONNECTION TO SUPPORT ONGOING CRIMINAL INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

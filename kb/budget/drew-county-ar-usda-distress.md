@@ -1,16 +1,19 @@
 ---
 id: drew-county-ar-usda-distress
-title: Drew County, AR — Budget Distress (score 3/10)
+title: 'Drew County, AR — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Drew County'
+state: 'AR'
+fips: '05043'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ar
 - population-loss
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Drew County'
-fips: '05043'
 ---
 
 County-level fiscal distress indicators for Drew County, AR.

@@ -1,14 +1,24 @@
 ---
 id: spectrum-security-services-inc-70cdcr25fr0000003
-title: SPECTRUM SECURITY SERVICES, INC. — 70CDCR25FR0000003 (CA) $26,134,700
+title: 'SPECTRUM SECURITY SERVICES, INC. — 70CDCR25FR0000003 (CA) $26,134,700'
 type: ice-contract
+state: 'CA'
+contractor: 'SPECTRUM SECURITY SERVICES, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$26,134,700.00'
+contract_type: 'federal-contract'
+award_date: '2024-10-31'
+usaspending_id: '70CDCR25FR0000003'
+source: 'USAspending.gov (award 70CDCR25FR0000003)'
+signal_strength: 'strong'
+notes: 'DETENTION TRANSPORTATION SERVICES FOR LOS ANGELESE AOR'
 tags:
 - ice-contract
 - other
 - detention-related
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

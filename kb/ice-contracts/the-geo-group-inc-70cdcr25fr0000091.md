@@ -1,14 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr25fr0000091
-title: THE GEO GROUP, INC. — 70CDCR25FR0000091 (TX) $41,566,523
+title: 'THE GEO GROUP, INC. — 70CDCR25FR0000091 (TX) $41,566,523'
 type: ice-contract
+state: 'TX'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$41,566,522.85'
+contract_type: 'federal-contract'
+award_date: '2025-08-06'
+usaspending_id: '70CDCR25FR0000091'
+source: 'USAspending.gov (award 70CDCR25FR0000091)'
+signal_strength: 'strong'
+notes: 'THIS TASK ORDER PROVIDES DETENTION AND TRANSPORTATION SERVICES AT THE SOUTH TEXAS ICE IMMIGRATION PROCESSING CENTER (STIPC).'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

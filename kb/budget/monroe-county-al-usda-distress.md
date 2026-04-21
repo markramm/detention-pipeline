@@ -1,7 +1,13 @@
 ---
 id: monroe-county-al-usda-distress
-title: Monroe County, AL — Budget Distress (score 9/10)
+title: 'Monroe County, AL — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Monroe County'
+state: 'AL'
+fips: '01099'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - al
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Monroe County'
-fips: '01099'
 ---
 
 County-level fiscal distress indicators for Monroe County, AL.

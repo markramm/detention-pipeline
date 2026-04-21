@@ -1,16 +1,19 @@
 ---
 id: terrell-county-ga-usda-distress
-title: Terrell County, GA — Budget Distress (score 5/10)
+title: 'Terrell County, GA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Terrell County'
+state: 'GA'
+fips: '13273'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
 - persistent-poverty
 - population-loss
 importance: 5
-state: 'GA'
-county: 'Terrell County'
-fips: '13273'
 ---
 
 County-level fiscal distress indicators for Terrell County, GA.

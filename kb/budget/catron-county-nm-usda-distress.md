@@ -1,16 +1,19 @@
 ---
 id: catron-county-nm-usda-distress
-title: Catron County, NM — Budget Distress (score 3/10)
+title: 'Catron County, NM — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Catron County'
+state: 'NM'
+fips: '35003'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nm
 - low-employment
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Catron County'
-fips: '35003'
 ---
 
 County-level fiscal distress indicators for Catron County, NM.

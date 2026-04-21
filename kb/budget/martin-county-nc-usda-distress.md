@@ -1,16 +1,19 @@
 ---
 id: martin-county-nc-usda-distress
-title: Martin County, NC — Budget Distress (score 3/10)
+title: 'Martin County, NC — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Martin County'
+state: 'NC'
+fips: '37117'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nc
 - population-loss
 - non-metro
 importance: 5
-state: 'NC'
-county: 'Martin County'
-fips: '37117'
 ---
 
 County-level fiscal distress indicators for Martin County, NC.

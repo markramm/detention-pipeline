@@ -1,14 +1,24 @@
 ---
 id: kcorp-support-services-inc-hscems16c00002
-title: KCORP SUPPORT SERVICES, INC — HSCEMS16C00002 (CA) $2,412,249
+title: 'KCORP SUPPORT SERVICES, INC — HSCEMS16C00002 (CA) $2,412,249'
 type: ice-contract
+state: 'CA'
+contractor: 'KCORP SUPPORT SERVICES, INC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$2,412,248.52'
+contract_type: 'federal-contract'
+award_date: '2016-09-10'
+usaspending_id: 'HSCEMS16C00002'
+source: 'USAspending.gov (award HSCEMS16C00002)'
+signal_strength: 'strong'
+notes: 'IGF::OT::IGF EL CENTRO SERVICE PROCESSING CENTER (SPC) MAINTENANCE SERVICES'
 tags:
 - ice-contract
 - other
 - detention-related
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

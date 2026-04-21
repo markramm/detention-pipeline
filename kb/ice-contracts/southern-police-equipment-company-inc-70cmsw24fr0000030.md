@@ -1,14 +1,24 @@
 ---
 id: southern-police-equipment-company-inc-70cmsw24fr0000030
-title: SOUTHERN POLICE EQUIPMENT COMPANY, INC. — 70CMSW24FR0000030 (GA) $22,183
+title: 'SOUTHERN POLICE EQUIPMENT COMPANY, INC. — 70CMSW24FR0000030 (GA) $22,183'
 type: ice-contract
+state: 'GA'
+contractor: 'SOUTHERN POLICE EQUIPMENT COMPANY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$22,182.64'
+contract_type: 'federal-contract'
+award_date: '2024-03-15'
+usaspending_id: '70CMSW24FR0000030'
+source: 'USAspending.gov (award 70CMSW24FR0000030)'
+signal_strength: 'weak'
+notes: 'PURCHASE OF LAW ENFORCEMENT BACKPACKS FOR THE RAPID RESPONSE TEAM (RRT).'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

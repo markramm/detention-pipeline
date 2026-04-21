@@ -1,16 +1,19 @@
 ---
 id: hot-springs-county-wy-usda-distress
-title: Hot Springs County, WY — Budget Distress (score 3/10)
+title: 'Hot Springs County, WY — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Hot Springs County'
+state: 'WY'
+fips: '56017'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wy
 - population-loss
 - non-metro
 importance: 5
-state: 'WY'
-county: 'Hot Springs County'
-fips: '56017'
 ---
 
 County-level fiscal distress indicators for Hot Springs County, WY.

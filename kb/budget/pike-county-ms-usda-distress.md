@@ -1,16 +1,19 @@
 ---
 id: pike-county-ms-usda-distress
-title: Pike County, MS — Budget Distress (score 4/10)
+title: 'Pike County, MS — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Pike County'
+state: 'MS'
+fips: '28113'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ms
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Pike County'
-fips: '28113'
 ---
 
 County-level fiscal distress indicators for Pike County, MS.

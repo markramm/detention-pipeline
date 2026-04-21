@@ -1,24 +1,24 @@
 ---
 id: corecivic-inc-70cdcr24fr0000051
-title: CORECIVIC, INC. — 70CDCR24FR0000051 (TX) $52,488,893
+title: 'CORECIVIC, INC. — 70CDCR24FR0000051 (TX) $52,488,893'
 type: ice-contract
+state: 'TX'
+contractor: 'CORECIVIC, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$52,488,893.00'
+contract_type: 'federal-contract'
+award_date: '2024-08-18'
+usaspending_id: '70CDCR24FR0000051'
+source: 'USAspending.gov (award 70CDCR24FR0000051)'
+signal_strength: 'strong'
+notes: 'NEW TASK ORDER (OP4) AND FUNDING FOR DETENTION AND TRANSPORTATION SERVICES AT HOUSTON CDF'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - tx
 importance: 5
-state: 'TX'
-county: 'HARRIS'
-fips: '48201'
-contractor: 'CORECIVIC, INC.'
-contract_value: '$52,488,893.00'
-contract_type: 'federal-contract'
-award_date: '2024-08-18'
-usaspending_id: '70CDCR24FR0000051'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'NEW TASK ORDER (OP4) AND FUNDING FOR DETENTION AND TRANSPORTATION SERVICES AT HOUSTON CDF'
 ---
 
 ICE contract award.

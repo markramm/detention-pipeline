@@ -1,16 +1,19 @@
 ---
 id: fulton-county-il-usda-distress
-title: Fulton County, IL — Budget Distress (score 3/10)
+title: 'Fulton County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Fulton County'
+state: 'IL'
+fips: '17057'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Fulton County'
-fips: '17057'
 ---
 
 County-level fiscal distress indicators for Fulton County, IL.

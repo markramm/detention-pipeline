@@ -1,16 +1,19 @@
 ---
 id: butler-county-ky-usda-distress
-title: Butler County, KY — Budget Distress (score 3/10)
+title: 'Butler County, KY — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Butler County'
+state: 'KY'
+fips: '21031'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
 - population-loss
 - low-education-attainment
 importance: 5
-state: 'KY'
-county: 'Butler County'
-fips: '21031'
 ---
 
 County-level fiscal distress indicators for Butler County, KY.

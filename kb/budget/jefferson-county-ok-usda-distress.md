@@ -1,7 +1,13 @@
 ---
 id: jefferson-county-ok-usda-distress
-title: Jefferson County, OK — Budget Distress (score 4/10)
+title: 'Jefferson County, OK — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Jefferson County'
+state: 'OK'
+fips: '40067'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Jefferson County'
-fips: '40067'
 ---
 
 County-level fiscal distress indicators for Jefferson County, OK.

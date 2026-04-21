@@ -1,14 +1,24 @@
 ---
 id: fcn-inc-70cmsd24fc0000015
-title: FCN, INC. — 70CMSD24FC0000015 (TX) $146,293
+title: 'FCN, INC. — 70CMSD24FC0000015 (TX) $146,293'
 type: ice-contract
+state: 'TX'
+contractor: 'FCN, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$146,293.00'
+contract_type: 'federal-contract'
+award_date: '2024-06-12'
+usaspending_id: '70CMSD24FC0000015'
+source: 'USAspending.gov (award 70CMSD24FC0000015)'
+signal_strength: 'weak'
+notes: 'FY24 INVESTMENTS LAPTOPS FOR OVERHIRES 100 HP ELITEBOOK 840 G10 LAPTOPS ITSR REQ0761620'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

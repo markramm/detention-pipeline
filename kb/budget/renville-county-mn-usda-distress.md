@@ -1,16 +1,19 @@
 ---
 id: renville-county-mn-usda-distress
-title: Renville County, MN — Budget Distress (score 3/10)
+title: 'Renville County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Renville County'
+state: 'MN'
+fips: '27129'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Renville County'
-fips: '27129'
 ---
 
 County-level fiscal distress indicators for Renville County, MN.

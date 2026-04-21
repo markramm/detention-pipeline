@@ -1,14 +1,24 @@
 ---
 id: dlh-llc-70cdcr19fr0000007
-title: DLH, LLC — 70CDCR19FR0000007 (MD) $4,450,650
+title: 'DLH, LLC — 70CDCR19FR0000007 (MD) $4,450,650'
 type: ice-contract
+state: 'MD'
+contractor: 'DLH, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$4,450,649.51'
+contract_type: 'federal-contract'
+award_date: '2019-03-11'
+usaspending_id: '70CDCR19FR0000007'
+source: 'USAspending.gov (award 70CDCR19FR0000007)'
+signal_strength: 'weak'
+notes: 'JUVENILE FAMILY RESIDENTIAL MANAGEMENT UNIT INSPECTIONS'
 tags:
 - ice-contract
 - other
 - other-ice
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

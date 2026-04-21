@@ -1,14 +1,24 @@
 ---
 id: software-information-resource-corp-70cmsd23fr0000011
-title: SOFTWARE INFORMATION RESOURCE CORP. — 70CMSD23FR0000011 (DC) $105,617
+title: 'SOFTWARE INFORMATION RESOURCE CORP. — 70CMSD23FR0000011 (DC) $105,617'
 type: ice-contract
+state: 'DC'
+contractor: 'SOFTWARE INFORMATION RESOURCE CORP.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$105,617.08'
+contract_type: 'federal-contract'
+award_date: '2023-02-01'
+usaspending_id: '70CMSD23FR0000011'
+source: 'USAspending.gov (award 70CMSD23FR0000011)'
+signal_strength: 'weak'
+notes: 'SOFTWARE SUBSCRIPTION LICENESE RENEWAL'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

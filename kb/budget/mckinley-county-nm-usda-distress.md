@@ -1,7 +1,13 @@
 ---
 id: mckinley-county-nm-usda-distress
-title: McKinley County, NM — Budget Distress (score 6/10)
+title: 'McKinley County, NM — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'McKinley County'
+state: 'NM'
+fips: '35031'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nm
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'NM'
-county: 'McKinley County'
-fips: '35031'
 ---
 
 County-level fiscal distress indicators for McKinley County, NM.

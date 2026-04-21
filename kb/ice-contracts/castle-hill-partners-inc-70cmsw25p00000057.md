@@ -1,24 +1,24 @@
 ---
 id: castle-hill-partners-inc-70cmsw25p00000057
-title: CASTLE HILL PARTNERS, INC — 70CMSW25P00000057 (CA) $2,221,250
+title: 'CASTLE HILL PARTNERS, INC — 70CMSW25P00000057 (CA) $2,221,250'
 type: ice-contract
+state: 'CA'
+contractor: 'CASTLE HILL PARTNERS, INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$2,221,250.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-09'
+usaspending_id: '70CMSW25P00000057'
+source: 'USAspending.gov (award 70CMSW25P00000057)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES UPFIT, GRAPHIC WRAP DESIGN AND APPLICATION FOR LAW ENFORCEMENT VEHICLES, ON BEHALF OF OFFICE OF ASSET AND FACILITIES MANAGEMENT.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
-county: 'SANTA CLARA'
-fips: '06085'
-contractor: 'CASTLE HILL PARTNERS, INC'
-contract_value: '$2,221,250.00'
-contract_type: 'federal-contract'
-award_date: '2025-09-09'
-usaspending_id: '70CMSW25P00000057'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THIS AWARD PROCURES UPFIT, GRAPHIC WRAP DESIGN AND APPLICATION FOR LAW ENFORCEMENT VEHICLES, ON BEHALF OF OFFICE OF ASSET AND FACILITIES MANAGEMENT.'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: gogebic-county-mi-usda-distress
-title: Gogebic County, MI — Budget Distress (score 3/10)
+title: 'Gogebic County, MI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Gogebic County'
+state: 'MI'
+fips: '26053'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mi
 - population-loss
 - non-metro
 importance: 5
-state: 'MI'
-county: 'Gogebic County'
-fips: '26053'
 ---
 
 County-level fiscal distress indicators for Gogebic County, MI.

@@ -1,16 +1,19 @@
 ---
 id: del-norte-county-ca-usda-distress
-title: Del Norte County, CA — Budget Distress (score 3/10)
+title: 'Del Norte County, CA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Del Norte County'
+state: 'CA'
+fips: '06015'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ca
 - low-employment
 - non-metro
 importance: 5
-state: 'CA'
-county: 'Del Norte County'
-fips: '06015'
 ---
 
 County-level fiscal distress indicators for Del Norte County, CA.

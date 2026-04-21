@@ -1,16 +1,19 @@
 ---
 id: wood-county-wi-usda-distress
-title: Wood County, WI — Budget Distress (score 3/10)
+title: 'Wood County, WI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Wood County'
+state: 'WI'
+fips: '55141'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wi
 - population-loss
 - non-metro
 importance: 5
-state: 'WI'
-county: 'Wood County'
-fips: '55141'
 ---
 
 County-level fiscal distress indicators for Wood County, WI.

@@ -1,7 +1,13 @@
 ---
 id: barnwell-county-sc-usda-distress
-title: Barnwell County, SC — Budget Distress (score 6/10)
+title: 'Barnwell County, SC — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Barnwell County'
+state: 'SC'
+fips: '45011'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - sc
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'SC'
-county: 'Barnwell County'
-fips: '45011'
 ---
 
 County-level fiscal distress indicators for Barnwell County, SC.

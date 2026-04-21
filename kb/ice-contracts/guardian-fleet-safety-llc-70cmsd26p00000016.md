@@ -1,14 +1,24 @@
 ---
 id: guardian-fleet-safety-llc-70cmsd26p00000016
-title: GUARDIAN FLEET SAFETY LLC — 70CMSD26P00000016 (MN) $13,418
+title: 'GUARDIAN FLEET SAFETY LLC — 70CMSD26P00000016 (MN) $13,418'
 type: ice-contract
+state: 'MN'
+contractor: 'GUARDIAN FLEET SAFETY LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$13,418.19'
+contract_type: 'federal-contract'
+award_date: '2026-02-03'
+usaspending_id: '70CMSD26P00000016'
+source: 'USAspending.gov (award 70CMSD26P00000016)'
+signal_strength: 'strong'
+notes: 'THIS AWARD PROVIDES ICE ENFORCEMENT AND REMOVAL OPERATIONS ST PAUL WITH INSTALLATION OF LAW ENFORCEMENT AND SAFETY EQUIPMENT ON A FLEET VEHICLE.'
 tags:
 - ice-contract
 - other
 - detention-related
 - mn
 importance: 5
-state: 'MN'
 ---
 
 ICE contract award.

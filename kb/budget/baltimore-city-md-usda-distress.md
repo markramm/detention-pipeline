@@ -1,16 +1,19 @@
 ---
 id: baltimore-city-md-usda-distress
-title: Baltimore city, MD — Budget Distress (score 5/10)
+title: 'Baltimore city, MD — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Baltimore city'
+state: 'MD'
+fips: '24510'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - md
 - persistent-poverty
 - population-loss
 importance: 5
-state: 'MD'
-county: 'Baltimore city'
-fips: '24510'
 ---
 
 County-level fiscal distress indicators for Baltimore city, MD.

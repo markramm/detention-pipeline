@@ -1,7 +1,13 @@
 ---
 id: mora-county-nm-usda-distress
-title: Mora County, NM — Budget Distress (score 5/10)
+title: 'Mora County, NM — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Mora County'
+state: 'NM'
+fips: '35033'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nm
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Mora County'
-fips: '35033'
 ---
 
 County-level fiscal distress indicators for Mora County, NM.

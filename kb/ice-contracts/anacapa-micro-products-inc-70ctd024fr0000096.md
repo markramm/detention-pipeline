@@ -1,24 +1,24 @@
 ---
 id: anacapa-micro-products-inc-70ctd024fr0000096
-title: ANACAPA MICRO PRODUCTS, INC. — 70CTD024FR0000096 (CA) $3,927,152
+title: 'ANACAPA MICRO PRODUCTS, INC. — 70CTD024FR0000096 (CA) $3,927,152'
 type: ice-contract
+state: 'CA'
+contractor: 'ANACAPA MICRO PRODUCTS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$3,927,151.99'
+contract_type: 'federal-contract'
+award_date: '2024-09-30'
+usaspending_id: '70CTD024FR0000096'
+source: 'USAspending.gov (award 70CTD024FR0000096)'
+signal_strength: 'weak'
+notes: 'CISCO BRAND CATALYST 9300/9400 SERIES SWITCHES FOR ICE/OCIO'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
-county: 'VENTURA'
-fips: '06111'
-contractor: 'ANACAPA MICRO PRODUCTS, INC.'
-contract_value: '$3,927,151.99'
-contract_type: 'federal-contract'
-award_date: '2024-09-30'
-usaspending_id: '70CTD024FR0000096'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'CISCO BRAND CATALYST 9300/9400 SERIES SWITCHES FOR ICE/OCIO'
 ---
 
 ICE contract award.

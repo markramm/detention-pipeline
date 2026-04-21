@@ -1,14 +1,24 @@
 ---
 id: kyocera-document-solutions-america-inc-70cmsd20fr0000049
-title: KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD20FR0000049 (NJ) $26,974
+title: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD20FR0000049 (NJ) $26,974'
 type: ice-contract
+state: 'NJ'
+contractor: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$26,973.60'
+contract_type: 'federal-contract'
+award_date: '2020-04-23'
+usaspending_id: '70CMSD20FR0000049'
+source: 'USAspending.gov (award 70CMSD20FR0000049)'
+signal_strength: 'strong'
+notes: 'COPIER LEASE FOR ERO DALLAS AND SAN ANGELO, TX'
 tags:
 - ice-contract
 - other
 - detention-related
 - nj
 importance: 5
-state: 'NJ'
 ---
 
 ICE contract award.

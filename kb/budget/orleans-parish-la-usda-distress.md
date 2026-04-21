@@ -1,15 +1,18 @@
 ---
 id: orleans-parish-la-usda-distress
-title: Orleans Parish, LA — Budget Distress (score 3/10)
+title: 'Orleans Parish, LA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Orleans Parish'
+state: 'LA'
+fips: '22071'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - la
 - persistent-poverty
 importance: 5
-state: 'LA'
-county: 'Orleans Parish'
-fips: '22071'
 ---
 
 County-level fiscal distress indicators for Orleans Parish, LA.

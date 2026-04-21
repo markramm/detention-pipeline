@@ -1,16 +1,19 @@
 ---
 id: otero-county-co-usda-distress
-title: Otero County, CO — Budget Distress (score 3/10)
+title: 'Otero County, CO — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Otero County'
+state: 'CO'
+fips: '08089'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - co
 - population-loss
 - non-metro
 importance: 5
-state: 'CO'
-county: 'Otero County'
-fips: '08089'
 ---
 
 County-level fiscal distress indicators for Otero County, CO.

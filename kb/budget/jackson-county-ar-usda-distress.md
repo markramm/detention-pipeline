@@ -1,7 +1,13 @@
 ---
 id: jackson-county-ar-usda-distress
-title: Jackson County, AR — Budget Distress (score 5/10)
+title: 'Jackson County, AR — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Jackson County'
+state: 'AR'
+fips: '05067'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ar
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Jackson County'
-fips: '05067'
 ---
 
 County-level fiscal distress indicators for Jackson County, AR.

@@ -1,14 +1,24 @@
 ---
 id: really-right-stuff-llc-70cmsw25p00000023
-title: REALLY RIGHT STUFF LLC — 70CMSW25P00000023 (UT) $20,275
+title: 'REALLY RIGHT STUFF LLC — 70CMSW25P00000023 (UT) $20,275'
 type: ice-contract
+state: 'UT'
+contractor: 'REALLY RIGHT STUFF LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$20,275.04'
+contract_type: 'federal-contract'
+award_date: '2025-06-06'
+usaspending_id: '70CMSW25P00000023'
+source: 'USAspending.gov (award 70CMSW25P00000023)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES TRIPOD EQUIPMENT VITAL TO SNIPER TRAINING TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ut
 importance: 5
-state: 'UT'
 ---
 
 ICE contract award.

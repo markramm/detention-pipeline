@@ -1,7 +1,13 @@
 ---
 id: socorro-county-nm-usda-distress
-title: Socorro County, NM — Budget Distress (score 9/10)
+title: 'Socorro County, NM — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Socorro County'
+state: 'NM'
+fips: '35053'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nm
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Socorro County'
-fips: '35053'
 ---
 
 County-level fiscal distress indicators for Socorro County, NM.

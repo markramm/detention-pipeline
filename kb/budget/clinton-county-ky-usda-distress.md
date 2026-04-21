@@ -1,16 +1,19 @@
 ---
 id: clinton-county-ky-usda-distress
-title: Clinton County, KY — Budget Distress (score 4/10)
+title: 'Clinton County, KY — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Clinton County'
+state: 'KY'
+fips: '21053'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Clinton County'
-fips: '21053'
 ---
 
 County-level fiscal distress indicators for Clinton County, KY.

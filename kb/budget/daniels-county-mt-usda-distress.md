@@ -1,16 +1,19 @@
 ---
 id: daniels-county-mt-usda-distress
-title: Daniels County, MT — Budget Distress (score 3/10)
+title: 'Daniels County, MT — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Daniels County'
+state: 'MT'
+fips: '30019'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mt
 - population-loss
 - non-metro
 importance: 5
-state: 'MT'
-county: 'Daniels County'
-fips: '30019'
 ---
 
 County-level fiscal distress indicators for Daniels County, MT.

@@ -1,14 +1,24 @@
 ---
 id: fisher-scientific-company-l-l-c-70cmsd25fr0000142
-title: FISHER SCIENTIFIC COMPANY L.L.C. — 70CMSD25FR0000142 (CO) $32,952
+title: 'FISHER SCIENTIFIC COMPANY L.L.C. — 70CMSD25FR0000142 (CO) $32,952'
 type: ice-contract
+state: 'CO'
+contractor: 'FISHER SCIENTIFIC COMPANY L.L.C.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$32,951.80'
+contract_type: 'federal-contract'
+award_date: '2025-09-19'
+usaspending_id: '70CMSD25FR0000142'
+source: 'USAspending.gov (award 70CMSD25FR0000142)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES A HANDHELD ANALYZER THAT ALLOWS FIELD AGENTS TO EFFECTIVELY TEST FOR NARCOTICS ONSITE TO GATHER FORENSIC DATA FOR THE HOMELAND SECURITY INVESTIGATIONS DENVER OFFICE.'
 tags:
 - ice-contract
 - other
 - other-ice
 - co
 importance: 5
-state: 'CO'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: greene-county-pa-usda-distress
-title: Greene County, PA — Budget Distress (score 3/10)
+title: 'Greene County, PA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Greene County'
+state: 'PA'
+fips: '42059'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
 - population-loss
 - non-metro
 importance: 5
-state: 'PA'
-county: 'Greene County'
-fips: '42059'
 ---
 
 County-level fiscal distress indicators for Greene County, PA.

@@ -1,7 +1,13 @@
 ---
 id: crawford-county-in-usda-distress
-title: Crawford County, IN — Budget Distress (score 4/10)
+title: 'Crawford County, IN — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Crawford County'
+state: 'IN'
+fips: '18025'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Crawford County'
-fips: '18025'
 ---
 
 County-level fiscal distress indicators for Crawford County, IN.

@@ -1,7 +1,13 @@
 ---
 id: brunswick-county-va-usda-distress
-title: Brunswick County, VA — Budget Distress (score 5/10)
+title: 'Brunswick County, VA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Brunswick County'
+state: 'VA'
+fips: '51025'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - va
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Brunswick County'
-fips: '51025'
 ---
 
 County-level fiscal distress indicators for Brunswick County, VA.

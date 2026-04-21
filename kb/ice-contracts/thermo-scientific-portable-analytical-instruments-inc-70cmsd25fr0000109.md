@@ -1,14 +1,24 @@
 ---
 id: thermo-scientific-portable-analytical-instruments-inc-70cmsd25fr0000109
-title: THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUMENTS INC. — 70CMSD25FR0000109 (MA) $35,309
+title: 'THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUMENTS INC. — 70CMSD25FR0000109 (MA) $35,309'
 type: ice-contract
+state: 'MA'
+contractor: 'THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUMENTS INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$35,309.32'
+contract_type: 'federal-contract'
+award_date: '2025-08-22'
+usaspending_id: '70CMSD25FR0000109'
+source: 'USAspending.gov (award 70CMSD25FR0000109)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ICE HOMELAND SECURITY INVESTIGATIONS NEW ORLEANS OFFICE WITH HANDHELD FENTANYL AND METHAMPHETAMINE DETECTORS IN SUPPORT OF ONGOING LAW ENFORCEMENT INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ma
 importance: 5
-state: 'MA'
 ---
 
 ICE contract award.

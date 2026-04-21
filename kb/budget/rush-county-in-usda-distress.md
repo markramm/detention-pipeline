@@ -1,16 +1,19 @@
 ---
 id: rush-county-in-usda-distress
-title: Rush County, IN — Budget Distress (score 3/10)
+title: 'Rush County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Rush County'
+state: 'IN'
+fips: '18139'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Rush County'
-fips: '18139'
 ---
 
 County-level fiscal distress indicators for Rush County, IN.

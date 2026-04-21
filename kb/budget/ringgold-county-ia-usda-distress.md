@@ -1,16 +1,19 @@
 ---
 id: ringgold-county-ia-usda-distress
-title: Ringgold County, IA — Budget Distress (score 3/10)
+title: 'Ringgold County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Ringgold County'
+state: 'IA'
+fips: '19159'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Ringgold County'
-fips: '19159'
 ---
 
 County-level fiscal distress indicators for Ringgold County, IA.

@@ -1,14 +1,24 @@
 ---
 id: pacer-service-center-70cmsd22p00000042
-title: PACER SERVICE CENTER — 70CMSD22P00000042 (TX) $164,336
+title: 'PACER SERVICE CENTER — 70CMSD22P00000042 (TX) $164,336'
 type: ice-contract
+state: 'TX'
+contractor: 'PACER SERVICE CENTER'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$164,336.24'
+contract_type: 'federal-contract'
+award_date: '2022-07-01'
+usaspending_id: '70CMSD22P00000042'
+source: 'USAspending.gov (award 70CMSD22P00000042)'
+signal_strength: 'weak'
+notes: 'PUBLIC ACCESS TO COURT ELECTRONIC RECORDS'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

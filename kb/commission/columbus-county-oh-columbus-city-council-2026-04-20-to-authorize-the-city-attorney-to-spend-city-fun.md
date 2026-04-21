@@ -1,0 +1,26 @@
+---
+id: columbus-county-oh-columbus-city-council-2026-04-20-to-authorize-the-city-attorney-to-spend-city-fun
+title: 'Columbus County OH — Columbus City Council 2026-04-20: To authorize the City Attorney to spend City funds to acquire and accept in good'
+type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
+tags:
+- commission-activity
+- oh
+- weak
+importance: 5
+---
+
+County commission agenda item matching detention pipeline keywords.
+
+Meeting: Columbus City Council
+Date: 2026-04-20
+Agenda Item: To authorize the City Attorney to spend City funds to acquire and accept in good faith certain fee simple and lesser real estate located in the vicinity of the west side of Lockbourne Road between Moler Road and Markison Avenue, and contract for associated professional services in order for the Department of Public Utilities to timely complete the acquisition of Real Estate for the Sheldon - Lockbourne HSTS Elimination Project; to authorize an amendment to the 2025 Capital Improvement Budget; to authorize the transfer of cash and appropriation between projects within the Sanitary Bond Fund; to authorize the expenditure of up to $10,000.00 from the Sanitary Bond Fund; and to declare an emergency. ($10,000.00)
+
+Matched keywords: real estate.*(?:acquisition|purchase|federal)
+
+Full text:

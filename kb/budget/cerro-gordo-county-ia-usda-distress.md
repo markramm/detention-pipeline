@@ -1,16 +1,19 @@
 ---
 id: cerro-gordo-county-ia-usda-distress
-title: Cerro Gordo County, IA — Budget Distress (score 3/10)
+title: 'Cerro Gordo County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cerro Gordo County'
+state: 'IA'
+fips: '19033'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Cerro Gordo County'
-fips: '19033'
 ---
 
 County-level fiscal distress indicators for Cerro Gordo County, IA.

@@ -1,16 +1,19 @@
 ---
 id: cavalier-county-nd-usda-distress
-title: Cavalier County, ND — Budget Distress (score 3/10)
+title: 'Cavalier County, ND — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cavalier County'
+state: 'ND'
+fips: '38019'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nd
 - population-loss
 - non-metro
 importance: 5
-state: 'ND'
-county: 'Cavalier County'
-fips: '38019'
 ---
 
 County-level fiscal distress indicators for Cavalier County, ND.

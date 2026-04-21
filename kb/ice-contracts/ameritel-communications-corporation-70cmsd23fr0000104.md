@@ -1,14 +1,24 @@
 ---
 id: ameritel-communications-corporation-70cmsd23fr0000104
-title: AMERITEL COMMUNICATIONS CORPORATION — 70CMSD23FR0000104 (NH) $3,400
+title: 'AMERITEL COMMUNICATIONS CORPORATION — 70CMSD23FR0000104 (NH) $3,400'
 type: ice-contract
+state: 'NH'
+contractor: 'AMERITEL COMMUNICATIONS CORPORATION'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$3,399.84'
+contract_type: 'federal-contract'
+award_date: '2023-08-03'
+usaspending_id: '70CMSD23FR0000104'
+source: 'USAspending.gov (award 70CMSD23FR0000104)'
+signal_strength: 'strong'
+notes: 'NEW COPIER LEASE (5YEARS) CONTRACT    MULTI-FUNCTION DEVICE SPECIFICATION INTAKE TEMPLATE FOR MACHINE DETAILS.   ERO BOSTON FIELD OFFICE SUB OFFICE MANCHESTER NH'
 tags:
 - ice-contract
 - other
 - detention-related
 - nh
 importance: 5
-state: 'NH'
 ---
 
 ICE contract award.

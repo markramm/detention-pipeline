@@ -1,16 +1,19 @@
 ---
 id: seminole-county-ga-usda-distress
-title: Seminole County, GA — Budget Distress (score 4/10)
+title: 'Seminole County, GA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Seminole County'
+state: 'GA'
+fips: '13253'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Seminole County'
-fips: '13253'
 ---
 
 County-level fiscal distress indicators for Seminole County, GA.

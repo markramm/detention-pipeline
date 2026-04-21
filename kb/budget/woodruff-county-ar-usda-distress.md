@@ -1,7 +1,13 @@
 ---
 id: woodruff-county-ar-usda-distress
-title: Woodruff County, AR — Budget Distress (score 7/10)
+title: 'Woodruff County, AR — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Woodruff County'
+state: 'AR'
+fips: '05147'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ar
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Woodruff County'
-fips: '05147'
 ---
 
 County-level fiscal distress indicators for Woodruff County, AR.

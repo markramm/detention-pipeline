@@ -1,16 +1,19 @@
 ---
 id: montgomery-county-il-usda-distress
-title: Montgomery County, IL — Budget Distress (score 3/10)
+title: 'Montgomery County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Montgomery County'
+state: 'IL'
+fips: '17135'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Montgomery County'
-fips: '17135'
 ---
 
 County-level fiscal distress indicators for Montgomery County, IL.

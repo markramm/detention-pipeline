@@ -1,14 +1,24 @@
 ---
 id: chesapeake-systems-international-llc-70ctd025p00000001
-title: CHESAPEAKE SYSTEMS INTERNATIONAL, LLC — 70CTD025P00000001 (DC) $11,866
+title: 'CHESAPEAKE SYSTEMS INTERNATIONAL, LLC — 70CTD025P00000001 (DC) $11,866'
 type: ice-contract
+state: 'DC'
+contractor: 'CHESAPEAKE SYSTEMS INTERNATIONAL, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$11,866.00'
+contract_type: 'federal-contract'
+award_date: '2024-11-01'
+usaspending_id: '70CTD025P00000001'
+source: 'USAspending.gov (award 70CTD025P00000001)'
+signal_strength: 'weak'
+notes: 'QUANTUM TAPE MAINTENANCE RENEWAL VIA FIRST SOURCE III, CTR# TBD, POP 11/1/2024-10/31/2025. ACOR: JEFFREY HOWARD. JEFFREY.HOWARD@ICE.DHS.GOV (202) 441-8441'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

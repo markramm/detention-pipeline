@@ -1,7 +1,13 @@
 ---
 id: madison-county-fl-usda-distress
-title: Madison County, FL — Budget Distress (score 6/10)
+title: 'Madison County, FL — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Madison County'
+state: 'FL'
+fips: '12079'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - fl
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'FL'
-county: 'Madison County'
-fips: '12079'
 ---
 
 County-level fiscal distress indicators for Madison County, FL.

@@ -1,16 +1,19 @@
 ---
 id: abbeville-county-sc-usda-distress
-title: Abbeville County, SC — Budget Distress (score 3/10)
+title: 'Abbeville County, SC — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Abbeville County'
+state: 'SC'
+fips: '45001'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sc
 - population-loss
 - non-metro
 importance: 5
-state: 'SC'
-county: 'Abbeville County'
-fips: '45001'
 ---
 
 County-level fiscal distress indicators for Abbeville County, SC.

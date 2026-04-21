@@ -1,24 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr25fr0000009
-title: THE GEO GROUP, INC. — 70CDCR25FR0000009 (CA) $120,393,306
+title: 'THE GEO GROUP, INC. — 70CDCR25FR0000009 (CA) $120,393,306'
 type: ice-contract
+state: 'CA'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$120,393,306.26'
+contract_type: 'federal-contract'
+award_date: '2024-12-20'
+usaspending_id: '70CDCR25FR0000009'
+source: 'USAspending.gov (award 70CDCR25FR0000009)'
+signal_strength: 'strong'
+notes: 'DETENTION SERVICES FOR LOS ANGELES AOR AT ADELANTO DETENTION FACILITY'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - ca
 importance: 5
-state: 'CA'
-county: 'LOS ANGELES'
-fips: '06037'
-contractor: 'THE GEO GROUP, INC.'
-contract_value: '$120,393,306.26'
-contract_type: 'federal-contract'
-award_date: '2024-12-20'
-usaspending_id: '70CDCR25FR0000009'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'DETENTION SERVICES FOR LOS ANGELES AOR AT ADELANTO DETENTION FACILITY'
 ---
 
 ICE contract award.

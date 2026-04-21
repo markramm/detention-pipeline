@@ -1,16 +1,19 @@
 ---
 id: walthall-county-ms-usda-distress
-title: Walthall County, MS — Budget Distress (score 4/10)
+title: 'Walthall County, MS — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Walthall County'
+state: 'MS'
+fips: '28147'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ms
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Walthall County'
-fips: '28147'
 ---
 
 County-level fiscal distress indicators for Walthall County, MS.

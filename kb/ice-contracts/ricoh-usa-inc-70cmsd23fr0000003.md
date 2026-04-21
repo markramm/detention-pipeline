@@ -1,14 +1,24 @@
 ---
 id: ricoh-usa-inc-70cmsd23fr0000003
-title: RICOH USA INC — 70CMSD23FR0000003 (CT) $15,028
+title: 'RICOH USA INC — 70CMSD23FR0000003 (CT) $15,028'
 type: ice-contract
+state: 'CT'
+contractor: 'RICOH USA INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$15,028.32'
+contract_type: 'federal-contract'
+award_date: '2023-01-03'
+usaspending_id: '70CMSD23FR0000003'
+source: 'USAspending.gov (award 70CMSD23FR0000003)'
+signal_strength: 'weak'
+notes: 'NEW MSD COPIER - LEASE DHS/ICE/OPLA HARTFORD, CT 450 MAIN ST, RM483 HARTFORD, CT 06103 POC: COURTNEY GATES-GRACESON'
 tags:
 - ice-contract
 - other
 - other-ice
 - ct
 importance: 5
-state: 'CT'
 ---
 
 ICE contract award.

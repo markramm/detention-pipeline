@@ -1,16 +1,19 @@
 ---
 id: wheatland-county-mt-usda-distress
-title: Wheatland County, MT — Budget Distress (score 3/10)
+title: 'Wheatland County, MT — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Wheatland County'
+state: 'MT'
+fips: '30107'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mt
 - population-loss
 - non-metro
 importance: 5
-state: 'MT'
-county: 'Wheatland County'
-fips: '30107'
 ---
 
 County-level fiscal distress indicators for Wheatland County, MT.

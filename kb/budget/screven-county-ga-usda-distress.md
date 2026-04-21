@@ -1,16 +1,19 @@
 ---
 id: screven-county-ga-usda-distress
-title: Screven County, GA — Budget Distress (score 3/10)
+title: 'Screven County, GA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Screven County'
+state: 'GA'
+fips: '13251'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
 - population-loss
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Screven County'
-fips: '13251'
 ---
 
 County-level fiscal distress indicators for Screven County, GA.

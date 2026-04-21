@@ -1,16 +1,19 @@
 ---
 id: kinney-county-tx-usda-distress
-title: Kinney County, TX — Budget Distress (score 3/10)
+title: 'Kinney County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Kinney County'
+state: 'TX'
+fips: '48271'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - low-employment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Kinney County'
-fips: '48271'
 ---
 
 County-level fiscal distress indicators for Kinney County, TX.

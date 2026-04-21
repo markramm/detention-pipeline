@@ -1,7 +1,13 @@
 ---
 id: leslie-county-ky-usda-distress
-title: Leslie County, KY — Budget Distress (score 8/10)
+title: 'Leslie County, KY — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Leslie County'
+state: 'KY'
+fips: '21131'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ky
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Leslie County'
-fips: '21131'
 ---
 
 County-level fiscal distress indicators for Leslie County, KY.

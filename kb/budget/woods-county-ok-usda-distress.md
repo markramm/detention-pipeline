@@ -1,16 +1,19 @@
 ---
 id: woods-county-ok-usda-distress
-title: Woods County, OK — Budget Distress (score 3/10)
+title: 'Woods County, OK — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Woods County'
+state: 'OK'
+fips: '40151'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
 - population-loss
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Woods County'
-fips: '40151'
 ---
 
 County-level fiscal distress indicators for Woods County, OK.

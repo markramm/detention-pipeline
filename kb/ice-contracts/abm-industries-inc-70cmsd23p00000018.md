@@ -1,14 +1,23 @@
 ---
 id: abm-industries-inc-70cmsd23p00000018
-title: ABM INDUSTRIES INC — 70CMSD23P00000018 (HI)
+title: 'ABM INDUSTRIES INC — 70CMSD23P00000018 (HI)'
 type: ice-contract
+state: 'HI'
+contractor: 'ABM INDUSTRIES INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_type: 'federal-contract'
+award_date: '2023-02-28'
+usaspending_id: '70CMSD23P00000018'
+source: 'USAspending.gov (award 70CMSD23P00000018)'
+signal_strength: 'weak'
+notes: '16 PARKING SPACES HNL AIRPORT'
 tags:
 - ice-contract
 - other
 - other-ice
 - hi
 importance: 5
-state: 'HI'
 ---
 
 ICE contract award.

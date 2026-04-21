@@ -1,16 +1,19 @@
 ---
 id: miner-county-sd-usda-distress
-title: Miner County, SD — Budget Distress (score 3/10)
+title: 'Miner County, SD — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Miner County'
+state: 'SD'
+fips: '46097'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sd
 - population-loss
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Miner County'
-fips: '46097'
 ---
 
 County-level fiscal distress indicators for Miner County, SD.

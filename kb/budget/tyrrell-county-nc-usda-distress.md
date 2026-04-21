@@ -1,7 +1,13 @@
 ---
 id: tyrrell-county-nc-usda-distress
-title: Tyrrell County, NC — Budget Distress (score 4/10)
+title: 'Tyrrell County, NC — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Tyrrell County'
+state: 'NC'
+fips: '37177'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nc
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'NC'
-county: 'Tyrrell County'
-fips: '37177'
 ---
 
 County-level fiscal distress indicators for Tyrrell County, NC.

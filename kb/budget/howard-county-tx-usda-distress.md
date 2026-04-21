@@ -1,16 +1,19 @@
 ---
 id: howard-county-tx-usda-distress
-title: Howard County, TX — Budget Distress (score 3/10)
+title: 'Howard County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Howard County'
+state: 'TX'
+fips: '48227'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - low-employment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Howard County'
-fips: '48227'
 ---
 
 County-level fiscal distress indicators for Howard County, TX.

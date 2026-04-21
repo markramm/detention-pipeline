@@ -1,7 +1,13 @@
 ---
 id: tyler-county-wv-usda-distress
-title: Tyler County, WV — Budget Distress (score 5/10)
+title: 'Tyler County, WV — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Tyler County'
+state: 'WV'
+fips: '54095'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - wv
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Tyler County'
-fips: '54095'
 ---
 
 County-level fiscal distress indicators for Tyler County, WV.

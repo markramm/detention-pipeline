@@ -1,14 +1,24 @@
 ---
 id: amergis-healthcare-staffing-inc-70cdcr24fr0000061
-title: AMERGIS HEALTHCARE STAFFING, INC. — 70CDCR24FR0000061 (MD) $37,624,992
+title: 'AMERGIS HEALTHCARE STAFFING, INC. — 70CDCR24FR0000061 (MD) $37,624,992'
 type: ice-contract
+state: 'MD'
+contractor: 'AMERGIS HEALTHCARE STAFFING, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$37,624,991.73'
+contract_type: 'federal-contract'
+award_date: '2024-09-23'
+usaspending_id: '70CDCR24FR0000061'
+source: 'USAspending.gov (award 70CDCR24FR0000061)'
+signal_strength: 'strong'
+notes: 'MEDICAL STAFFING SERVICES FOR THE ICE HEALTH SERVICE CORPS (IHSC)'
 tags:
 - ice-contract
 - other
 - detention-related
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

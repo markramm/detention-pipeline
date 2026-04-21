@@ -1,16 +1,19 @@
 ---
 id: whitman-county-wa-usda-distress
-title: Whitman County, WA — Budget Distress (score 4/10)
+title: 'Whitman County, WA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Whitman County'
+state: 'WA'
+fips: '53075'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wa
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'WA'
-county: 'Whitman County'
-fips: '53075'
 ---
 
 County-level fiscal distress indicators for Whitman County, WA.

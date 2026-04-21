@@ -1,16 +1,19 @@
 ---
 id: knox-county-in-usda-distress
-title: Knox County, IN — Budget Distress (score 3/10)
+title: 'Knox County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Knox County'
+state: 'IN'
+fips: '18083'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Knox County'
-fips: '18083'
 ---
 
 County-level fiscal distress indicators for Knox County, IN.

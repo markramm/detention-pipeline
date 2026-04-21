@@ -1,7 +1,13 @@
 ---
 id: humphreys-county-ms-usda-distress
-title: Humphreys County, MS — Budget Distress (score 6/10)
+title: 'Humphreys County, MS — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Humphreys County'
+state: 'MS'
+fips: '28053'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Humphreys County'
-fips: '28053'
 ---
 
 County-level fiscal distress indicators for Humphreys County, MS.

@@ -1,16 +1,19 @@
 ---
 id: van-buren-county-ia-usda-distress
-title: Van Buren County, IA — Budget Distress (score 3/10)
+title: 'Van Buren County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Van Buren County'
+state: 'IA'
+fips: '19177'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Van Buren County'
-fips: '19177'
 ---
 
 County-level fiscal distress indicators for Van Buren County, IA.

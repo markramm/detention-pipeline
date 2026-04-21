@@ -1,16 +1,19 @@
 ---
 id: alleghany-county-va-usda-distress
-title: Alleghany County, VA — Budget Distress (score 3/10)
+title: 'Alleghany County, VA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Alleghany County'
+state: 'VA'
+fips: '51005'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - va
 - population-loss
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Alleghany County'
-fips: '51005'
 ---
 
 County-level fiscal distress indicators for Alleghany County, VA.

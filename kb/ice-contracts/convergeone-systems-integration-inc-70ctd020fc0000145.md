@@ -1,14 +1,24 @@
 ---
 id: convergeone-systems-integration-inc-70ctd020fc0000145
-title: CONVERGEONE SYSTEMS INTEGRATION, INC. — 70CTD020FC0000145 (DC) $53,145
+title: 'CONVERGEONE SYSTEMS INTEGRATION, INC. — 70CTD020FC0000145 (DC) $53,145'
 type: ice-contract
+state: 'DC'
+contractor: 'CONVERGEONE SYSTEMS INTEGRATION, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$53,145.40'
+contract_type: 'federal-contract'
+award_date: '2020-09-16'
+usaspending_id: '70CTD020FC0000145'
+source: 'USAspending.gov (award 70CTD020FC0000145)'
+signal_strength: 'weak'
+notes: 'TELEPHONE SYSTEM VOICE OVER INTERNET PROTOCOL VOIP'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

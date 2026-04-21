@@ -1,16 +1,19 @@
 ---
 id: murray-county-mn-usda-distress
-title: Murray County, MN — Budget Distress (score 3/10)
+title: 'Murray County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Murray County'
+state: 'MN'
+fips: '27101'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Murray County'
-fips: '27101'
 ---
 
 County-level fiscal distress indicators for Murray County, MN.

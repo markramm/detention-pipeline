@@ -1,7 +1,13 @@
 ---
 id: jefferson-county-ms-usda-distress
-title: Jefferson County, MS — Budget Distress (score 8/10)
+title: 'Jefferson County, MS — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Jefferson County'
+state: 'MS'
+fips: '28063'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Jefferson County'
-fips: '28063'
 ---
 
 County-level fiscal distress indicators for Jefferson County, MS.

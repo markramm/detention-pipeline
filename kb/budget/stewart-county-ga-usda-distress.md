@@ -1,7 +1,13 @@
 ---
 id: stewart-county-ga-usda-distress
-title: Stewart County, GA — Budget Distress (score 6/10)
+title: 'Stewart County, GA — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Stewart County'
+state: 'GA'
+fips: '13259'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
-state: 'GA'
-county: 'Stewart County'
-fips: '13259'
 ---
 
 County-level fiscal distress indicators for Stewart County, GA.

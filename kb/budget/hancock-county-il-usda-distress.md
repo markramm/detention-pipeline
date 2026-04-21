@@ -1,16 +1,19 @@
 ---
 id: hancock-county-il-usda-distress
-title: Hancock County, IL — Budget Distress (score 3/10)
+title: 'Hancock County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Hancock County'
+state: 'IL'
+fips: '17067'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Hancock County'
-fips: '17067'
 ---
 
 County-level fiscal distress indicators for Hancock County, IL.

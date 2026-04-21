@@ -1,16 +1,19 @@
 ---
 id: marion-county-wv-usda-distress
-title: Marion County, WV — Budget Distress (score 3/10)
+title: 'Marion County, WV — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Marion County'
+state: 'WV'
+fips: '54049'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wv
 - population-loss
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Marion County'
-fips: '54049'
 ---
 
 County-level fiscal distress indicators for Marion County, WV.

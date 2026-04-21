@@ -1,16 +1,19 @@
 ---
 id: neshoba-county-ms-usda-distress
-title: Neshoba County, MS — Budget Distress (score 4/10)
+title: 'Neshoba County, MS — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Neshoba County'
+state: 'MS'
+fips: '28099'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ms
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Neshoba County'
-fips: '28099'
 ---
 
 County-level fiscal distress indicators for Neshoba County, MS.

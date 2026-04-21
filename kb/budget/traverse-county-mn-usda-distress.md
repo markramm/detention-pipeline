@@ -1,16 +1,19 @@
 ---
 id: traverse-county-mn-usda-distress
-title: Traverse County, MN — Budget Distress (score 3/10)
+title: 'Traverse County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Traverse County'
+state: 'MN'
+fips: '27155'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Traverse County'
-fips: '27155'
 ---
 
 County-level fiscal distress indicators for Traverse County, MN.

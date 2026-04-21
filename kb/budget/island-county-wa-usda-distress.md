@@ -1,16 +1,19 @@
 ---
 id: island-county-wa-usda-distress
-title: Island County, WA — Budget Distress (score 3/10)
+title: 'Island County, WA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Island County'
+state: 'WA'
+fips: '53029'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wa
 - low-employment
 - non-metro
 importance: 5
-state: 'WA'
-county: 'Island County'
-fips: '53029'
 ---
 
 County-level fiscal distress indicators for Island County, WA.

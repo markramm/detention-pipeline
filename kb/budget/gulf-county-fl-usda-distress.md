@@ -1,16 +1,19 @@
 ---
 id: gulf-county-fl-usda-distress
-title: Gulf County, FL — Budget Distress (score 3/10)
+title: 'Gulf County, FL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Gulf County'
+state: 'FL'
+fips: '12045'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - fl
 - low-employment
 - non-metro
 importance: 5
-state: 'FL'
-county: 'Gulf County'
-fips: '12045'
 ---
 
 County-level fiscal distress indicators for Gulf County, FL.

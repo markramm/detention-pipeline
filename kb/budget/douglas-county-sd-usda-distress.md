@@ -1,16 +1,19 @@
 ---
 id: douglas-county-sd-usda-distress
-title: Douglas County, SD — Budget Distress (score 3/10)
+title: 'Douglas County, SD — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Douglas County'
+state: 'SD'
+fips: '46043'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sd
 - population-loss
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Douglas County'
-fips: '46043'
 ---
 
 County-level fiscal distress indicators for Douglas County, SD.

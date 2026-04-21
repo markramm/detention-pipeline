@@ -1,14 +1,24 @@
 ---
 id: affigent-llc-70cmsd24fr0000097
-title: AFFIGENT, LLC — 70CMSD24FR0000097 (VA) $28,475
+title: 'AFFIGENT, LLC — 70CMSD24FR0000097 (VA) $28,475'
 type: ice-contract
+state: 'VA'
+contractor: 'AFFIGENT, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$28,475.01'
+contract_type: 'federal-contract'
+award_date: '2024-09-21'
+usaspending_id: '70CMSD24FR0000097'
+source: 'USAspending.gov (award 70CMSD24FR0000097)'
+signal_strength: 'weak'
+notes: 'CROWDSTRIKE'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: ameritel-communications-corporation-70cmsd23fr0000005
-title: AMERITEL COMMUNICATIONS CORPORATION — 70CMSD23FR0000005 (TX) $5,697
+title: 'AMERITEL COMMUNICATIONS CORPORATION — 70CMSD23FR0000005 (TX) $5,697'
 type: ice-contract
+state: 'TX'
+contractor: 'AMERITEL COMMUNICATIONS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$5,697.12'
+contract_type: 'federal-contract'
+award_date: '2022-12-19'
+usaspending_id: '70CMSD23FR0000005'
+source: 'USAspending.gov (award 70CMSD23FR0000005)'
+signal_strength: 'weak'
+notes: 'LEASE A NEW COPIER FOR LAREDO, TX (SAN ANTONIO OCC)'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

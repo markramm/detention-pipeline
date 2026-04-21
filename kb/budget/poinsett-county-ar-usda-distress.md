@@ -1,7 +1,13 @@
 ---
 id: poinsett-county-ar-usda-distress
-title: Poinsett County, AR — Budget Distress (score 6/10)
+title: 'Poinsett County, AR — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Poinsett County'
+state: 'AR'
+fips: '05111'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ar
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
-state: 'AR'
-county: 'Poinsett County'
-fips: '05111'
 ---
 
 County-level fiscal distress indicators for Poinsett County, AR.

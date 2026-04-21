@@ -1,7 +1,13 @@
 ---
 id: ben-hill-county-ga-usda-distress
-title: Ben Hill County, GA — Budget Distress (score 5/10)
+title: 'Ben Hill County, GA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Ben Hill County'
+state: 'GA'
+fips: '13017'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Ben Hill County'
-fips: '13017'
 ---
 
 County-level fiscal distress indicators for Ben Hill County, GA.

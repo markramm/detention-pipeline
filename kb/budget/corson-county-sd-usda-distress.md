@@ -1,7 +1,13 @@
 ---
 id: corson-county-sd-usda-distress
-title: Corson County, SD — Budget Distress (score 8/10)
+title: 'Corson County, SD — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Corson County'
+state: 'SD'
+fips: '46031'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - sd
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Corson County'
-fips: '46031'
 ---
 
 County-level fiscal distress indicators for Corson County, SD.

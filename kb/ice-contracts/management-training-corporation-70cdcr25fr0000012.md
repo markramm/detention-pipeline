@@ -1,24 +1,24 @@
 ---
 id: management-training-corporation-70cdcr25fr0000012
-title: MANAGEMENT & TRAINING CORPORATION — 70CDCR25FR0000012 (UT) $47,203,837
+title: 'MANAGEMENT & TRAINING CORPORATION — 70CDCR25FR0000012 (UT) $47,203,837'
 type: ice-contract
+state: 'UT'
+contractor: 'MANAGEMENT & TRAINING CORPORATION'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$47,203,837.48'
+contract_type: 'federal-contract'
+award_date: '2024-12-20'
+usaspending_id: '70CDCR25FR0000012'
+source: 'USAspending.gov (award 70CDCR25FR0000012)'
+signal_strength: 'strong'
+notes: 'DETENTION SERVICES'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - ut
 importance: 5
-state: 'UT'
-county: 'DAVIS'
-fips: '49011'
-contractor: 'MANAGEMENT & TRAINING CORPORATION'
-contract_value: '$47,203,837.48'
-contract_type: 'federal-contract'
-award_date: '2024-12-20'
-usaspending_id: '70CDCR25FR0000012'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'DETENTION SERVICES'
 ---
 
 ICE contract award.

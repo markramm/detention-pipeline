@@ -1,7 +1,13 @@
 ---
 id: west-carroll-parish-la-usda-distress
-title: West Carroll Parish, LA — Budget Distress (score 7/10)
+title: 'West Carroll Parish, LA — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'West Carroll Parish'
+state: 'LA'
+fips: '22123'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'West Carroll Parish'
-fips: '22123'
 ---
 
 County-level fiscal distress indicators for West Carroll Parish, LA.

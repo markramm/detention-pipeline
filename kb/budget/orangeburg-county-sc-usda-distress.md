@@ -1,16 +1,19 @@
 ---
 id: orangeburg-county-sc-usda-distress
-title: Orangeburg County, SC — Budget Distress (score 4/10)
+title: 'Orangeburg County, SC — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Orangeburg County'
+state: 'SC'
+fips: '45075'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sc
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'SC'
-county: 'Orangeburg County'
-fips: '45075'
 ---
 
 County-level fiscal distress indicators for Orangeburg County, SC.

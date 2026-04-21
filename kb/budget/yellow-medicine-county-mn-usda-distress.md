@@ -1,16 +1,19 @@
 ---
 id: yellow-medicine-county-mn-usda-distress
-title: Yellow Medicine County, MN — Budget Distress (score 3/10)
+title: 'Yellow Medicine County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Yellow Medicine County'
+state: 'MN'
+fips: '27173'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Yellow Medicine County'
-fips: '27173'
 ---
 
 County-level fiscal distress indicators for Yellow Medicine County, MN.

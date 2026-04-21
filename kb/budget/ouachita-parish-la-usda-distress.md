@@ -1,15 +1,18 @@
 ---
 id: ouachita-parish-la-usda-distress
-title: Ouachita Parish, LA — Budget Distress (score 3/10)
+title: 'Ouachita Parish, LA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Ouachita Parish'
+state: 'LA'
+fips: '22073'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - la
 - persistent-poverty
 importance: 5
-state: 'LA'
-county: 'Ouachita Parish'
-fips: '22073'
 ---
 
 County-level fiscal distress indicators for Ouachita Parish, LA.

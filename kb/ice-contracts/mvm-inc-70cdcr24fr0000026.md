@@ -1,24 +1,24 @@
 ---
 id: mvm-inc-70cdcr24fr0000026
-title: MVM, INC. — 70CDCR24FR0000026 (TX) $142,022,108
+title: 'MVM, INC. — 70CDCR24FR0000026 (TX) $142,022,108'
 type: ice-contract
+state: 'TX'
+contractor: 'MVM, INC.'
+contractor_type: 'transport'
+contract_class: 'other-ice'
+contract_value: '$142,022,108.11'
+contract_type: 'federal-contract'
+award_date: '2024-04-01'
+usaspending_id: '70CDCR24FR0000026'
+source: 'USAspending.gov (award 70CDCR24FR0000026)'
+signal_strength: 'weak'
+notes: 'UNACCOMPANIED CHILDREN AND FAMILY UNIT TRANSPORTATION TO'
 tags:
 - ice-contract
 - transport
 - other-ice
 - tx
 importance: 5
-state: 'TX'
-county: 'HIDALGO'
-fips: '48215'
-contractor: 'MVM, INC.'
-contract_value: '$142,022,108.11'
-contract_type: 'federal-contract'
-award_date: '2024-04-01'
-usaspending_id: '70CDCR24FR0000026'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'UNACCOMPANIED CHILDREN AND FAMILY UNIT TRANSPORTATION TO'
 ---
 
 ICE contract award.

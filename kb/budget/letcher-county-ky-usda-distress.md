@@ -1,7 +1,13 @@
 ---
 id: letcher-county-ky-usda-distress
-title: Letcher County, KY — Budget Distress (score 8/10)
+title: 'Letcher County, KY — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Letcher County'
+state: 'KY'
+fips: '21133'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ky
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Letcher County'
-fips: '21133'
 ---
 
 County-level fiscal distress indicators for Letcher County, KY.

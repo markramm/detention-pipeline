@@ -1,16 +1,19 @@
 ---
 id: columbus-county-nc-usda-distress
-title: Columbus County, NC — Budget Distress (score 4/10)
+title: 'Columbus County, NC — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Columbus County'
+state: 'NC'
+fips: '37047'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nc
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'NC'
-county: 'Columbus County'
-fips: '37047'
 ---
 
 County-level fiscal distress indicators for Columbus County, NC.

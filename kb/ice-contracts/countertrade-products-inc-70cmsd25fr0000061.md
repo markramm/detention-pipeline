@@ -1,14 +1,24 @@
 ---
 id: countertrade-products-inc-70cmsd25fr0000061
-title: COUNTERTRADE PRODUCTS, INC. — 70CMSD25FR0000061 (CO) $63,225
+title: 'COUNTERTRADE PRODUCTS, INC. — 70CMSD25FR0000061 (CO) $63,225'
 type: ice-contract
+state: 'CO'
+contractor: 'COUNTERTRADE PRODUCTS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$63,225.20'
+contract_type: 'federal-contract'
+award_date: '2025-07-21'
+usaspending_id: '70CMSD25FR0000061'
+source: 'USAspending.gov (award 70CMSD25FR0000061)'
+signal_strength: 'weak'
+notes: 'THIS ORDER PROVIDES LAPTOPS FOR HOMELAND SECURITY INVESTIGATIONS AGENTS TO ACCESS, UPDATE, AND PREPARE ELECTRONIC EVIDENCE.'
 tags:
 - ice-contract
 - other
 - other-ice
 - co
 importance: 5
-state: 'CO'
 ---
 
 ICE contract award.

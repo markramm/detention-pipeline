@@ -1,16 +1,19 @@
 ---
 id: stevens-county-mn-usda-distress
-title: Stevens County, MN — Budget Distress (score 3/10)
+title: 'Stevens County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Stevens County'
+state: 'MN'
+fips: '27149'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Stevens County'
-fips: '27149'
 ---
 
 County-level fiscal distress indicators for Stevens County, MN.

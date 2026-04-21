@@ -1,7 +1,13 @@
 ---
 id: dooly-county-ga-usda-distress
-title: Dooly County, GA — Budget Distress (score 7/10)
+title: 'Dooly County, GA — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Dooly County'
+state: 'GA'
+fips: '13093'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Dooly County'
-fips: '13093'
 ---
 
 County-level fiscal distress indicators for Dooly County, GA.

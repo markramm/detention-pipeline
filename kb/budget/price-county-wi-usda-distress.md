@@ -1,16 +1,19 @@
 ---
 id: price-county-wi-usda-distress
-title: Price County, WI — Budget Distress (score 3/10)
+title: 'Price County, WI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Price County'
+state: 'WI'
+fips: '55099'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wi
 - population-loss
 - non-metro
 importance: 5
-state: 'WI'
-county: 'Price County'
-fips: '55099'
 ---
 
 County-level fiscal distress indicators for Price County, WI.

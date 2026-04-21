@@ -1,16 +1,19 @@
 ---
 id: garza-county-tx-usda-distress
-title: Garza County, TX — Budget Distress (score 3/10)
+title: 'Garza County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Garza County'
+state: 'TX'
+fips: '48169'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - low-employment
 - low-education-attainment
 importance: 5
-state: 'TX'
-county: 'Garza County'
-fips: '48169'
 ---
 
 County-level fiscal distress indicators for Garza County, TX.

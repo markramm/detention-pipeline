@@ -1,16 +1,19 @@
 ---
 id: lafayette-county-ms-usda-distress
-title: Lafayette County, MS — Budget Distress (score 4/10)
+title: 'Lafayette County, MS — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Lafayette County'
+state: 'MS'
+fips: '28071'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ms
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Lafayette County'
-fips: '28071'
 ---
 
 County-level fiscal distress indicators for Lafayette County, MS.

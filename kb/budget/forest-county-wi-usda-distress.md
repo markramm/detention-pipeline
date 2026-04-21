@@ -1,16 +1,19 @@
 ---
 id: forest-county-wi-usda-distress
-title: Forest County, WI — Budget Distress (score 3/10)
+title: 'Forest County, WI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Forest County'
+state: 'WI'
+fips: '55041'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wi
 - population-loss
 - non-metro
 importance: 5
-state: 'WI'
-county: 'Forest County'
-fips: '55041'
 ---
 
 County-level fiscal distress indicators for Forest County, WI.

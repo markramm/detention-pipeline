@@ -1,14 +1,24 @@
 ---
 id: comcast-government-services-llc-70cmsd25p00000153
-title: COMCAST GOVERNMENT SERVICES LLC — 70CMSD25P00000153 (VA) $10,911
+title: 'COMCAST GOVERNMENT SERVICES LLC — 70CMSD25P00000153 (VA) $10,911'
 type: ice-contract
+state: 'VA'
+contractor: 'COMCAST GOVERNMENT SERVICES LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$10,910.89'
+contract_type: 'federal-contract'
+award_date: '2025-09-25'
+usaspending_id: '70CMSD25P00000153'
+source: 'USAspending.gov (award 70CMSD25P00000153)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES INTERNET SERVICES, WHICH ALLOWS HOMELAND SECURITY INVESTIGATIONS PERSONNEL TO ACCESS ICE INTRANET WEBSITES AND DATABASES ON A SECURED CONNECTION TO SUPPORT ONGOING CRIMINAL INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

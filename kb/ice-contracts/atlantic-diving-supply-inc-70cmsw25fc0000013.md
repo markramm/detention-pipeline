@@ -1,14 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw25fc0000013
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FC0000013 (FL) $16,429
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FC0000013 (FL) $16,429'
 type: ice-contract
+state: 'FL'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$16,428.90'
+contract_type: 'federal-contract'
+award_date: '2025-02-11'
+usaspending_id: '70CMSW25FC0000013'
+source: 'USAspending.gov (award 70CMSW25FC0000013)'
+signal_strength: 'weak'
+notes: 'PURCHASE OF LAW ENFORCEMENT EQUIPMENT FOR SOAD 2ND QTR COURSE TRAINING'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

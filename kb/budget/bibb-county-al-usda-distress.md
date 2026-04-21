@@ -1,16 +1,19 @@
 ---
 id: bibb-county-al-usda-distress
-title: Bibb County, AL — Budget Distress (score 3/10)
+title: 'Bibb County, AL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Bibb County'
+state: 'AL'
+fips: '01007'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - al
 - low-employment
 - low-education-attainment
 importance: 5
-state: 'AL'
-county: 'Bibb County'
-fips: '01007'
 ---
 
 County-level fiscal distress indicators for Bibb County, AL.

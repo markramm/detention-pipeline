@@ -1,16 +1,19 @@
 ---
 id: fremont-county-ia-usda-distress
-title: Fremont County, IA — Budget Distress (score 3/10)
+title: 'Fremont County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Fremont County'
+state: 'IA'
+fips: '19071'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Fremont County'
-fips: '19071'
 ---
 
 County-level fiscal distress indicators for Fremont County, IA.

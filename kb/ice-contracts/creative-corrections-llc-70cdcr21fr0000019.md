@@ -1,14 +1,24 @@
 ---
 id: creative-corrections-llc-70cdcr21fr0000019
-title: CREATIVE CORRECTIONS, LLC — 70CDCR21FR0000019 (MD) $30,052,059
+title: 'CREATIVE CORRECTIONS, LLC — 70CDCR21FR0000019 (MD) $30,052,059'
 type: ice-contract
+state: 'MD'
+contractor: 'CREATIVE CORRECTIONS, LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$30,052,058.70'
+contract_type: 'federal-contract'
+award_date: '2021-03-18'
+usaspending_id: '70CDCR21FR0000019'
+source: 'USAspending.gov (award 70CDCR21FR0000019)'
+signal_strength: 'strong'
+notes: 'DETAINEE DEATH REVIEWS AND INSPECTIONS'
 tags:
 - ice-contract
 - other
 - detention-related
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

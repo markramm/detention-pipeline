@@ -1,16 +1,19 @@
 ---
 id: stone-county-ar-usda-distress
-title: Stone County, AR — Budget Distress (score 3/10)
+title: 'Stone County, AR — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Stone County'
+state: 'AR'
+fips: '05137'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ar
 - low-employment
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Stone County'
-fips: '05137'
 ---
 
 County-level fiscal distress indicators for Stone County, AR.

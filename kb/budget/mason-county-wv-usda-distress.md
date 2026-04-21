@@ -1,16 +1,19 @@
 ---
 id: mason-county-wv-usda-distress
-title: Mason County, WV — Budget Distress (score 3/10)
+title: 'Mason County, WV — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Mason County'
+state: 'WV'
+fips: '54053'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wv
 - low-employment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Mason County'
-fips: '54053'
 ---
 
 County-level fiscal distress indicators for Mason County, WV.

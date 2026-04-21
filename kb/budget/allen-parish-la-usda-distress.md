@@ -1,7 +1,13 @@
 ---
 id: allen-parish-la-usda-distress
-title: Allen Parish, LA — Budget Distress (score 4/10)
+title: 'Allen Parish, LA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Allen Parish'
+state: 'LA'
+fips: '22003'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - la
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Allen Parish'
-fips: '22003'
 ---
 
 County-level fiscal distress indicators for Allen Parish, LA.

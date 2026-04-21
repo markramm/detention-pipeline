@@ -1,14 +1,23 @@
 ---
 id: strategic-operational-solutions-inc-70ctd026fr0000014
-title: STRATEGIC OPERATIONAL SOLUTIONS INC — 70CTD026FR0000014 (DC)
+title: 'STRATEGIC OPERATIONAL SOLUTIONS INC — 70CTD026FR0000014 (DC)'
 type: ice-contract
+state: 'DC'
+contractor: 'STRATEGIC OPERATIONAL SOLUTIONS INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_type: 'federal-contract'
+award_date: '2026-04-01'
+usaspending_id: '70CTD026FR0000014'
+source: 'USAspending.gov (award 70CTD026FR0000014)'
+signal_strength: 'weak'
+notes: 'THIS TASK ORDER PROVIDES OPERATIONS & MAINTENANCE SUPPORT SERVICES HOMELAND SECURITY INVESTIGATIONS, COUNTER THREAT LEAD DEVELOPMENT FOR IT SUPPORT TO MAINTAIN THE LEADTRAC APPLICATION AND BUSINESS PROCESSES IN SUPPORT OF MISSION REQUIREMENTS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

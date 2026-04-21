@@ -1,14 +1,24 @@
 ---
 id: child-rescue-coalition-inc-70cmsd22p00000063
-title: CHILD RESCUE COALITION, INC. — 70CMSD22P00000063 (VA) $240,000
+title: 'CHILD RESCUE COALITION, INC. — 70CMSD22P00000063 (VA) $240,000'
 type: ice-contract
+state: 'VA'
+contractor: 'CHILD RESCUE COALITION, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$240,000.00'
+contract_type: 'federal-contract'
+award_date: '2022-07-20'
+usaspending_id: '70CMSD22P00000063'
+source: 'USAspending.gov (award 70CMSD22P00000063)'
+signal_strength: 'weak'
+notes: 'FORENSIC SOFTWARE AND SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

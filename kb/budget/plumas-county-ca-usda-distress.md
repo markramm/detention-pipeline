@@ -1,16 +1,19 @@
 ---
 id: plumas-county-ca-usda-distress
-title: Plumas County, CA — Budget Distress (score 3/10)
+title: 'Plumas County, CA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Plumas County'
+state: 'CA'
+fips: '06063'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ca
 - population-loss
 - non-metro
 importance: 5
-state: 'CA'
-county: 'Plumas County'
-fips: '06063'
 ---
 
 County-level fiscal distress indicators for Plumas County, CA.

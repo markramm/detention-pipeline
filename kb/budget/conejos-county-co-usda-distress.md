@@ -1,16 +1,19 @@
 ---
 id: conejos-county-co-usda-distress
-title: Conejos County, CO — Budget Distress (score 3/10)
+title: 'Conejos County, CO — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Conejos County'
+state: 'CO'
+fips: '08021'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - co
 - population-loss
 - non-metro
 importance: 5
-state: 'CO'
-county: 'Conejos County'
-fips: '08021'
 ---
 
 County-level fiscal distress indicators for Conejos County, CO.

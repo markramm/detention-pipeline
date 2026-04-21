@@ -1,14 +1,24 @@
 ---
 id: deloitte-consulting-llp-70cmsd21fr0000045
-title: DELOITTE CONSULTING LLP — 70CMSD21FR0000045 (VA) $82,378
+title: 'DELOITTE CONSULTING LLP — 70CMSD21FR0000045 (VA) $82,378'
 type: ice-contract
+state: 'VA'
+contractor: 'DELOITTE CONSULTING LLP'
+contractor_type: 'consulting'
+contract_class: 'other-ice'
+contract_value: '$82,377.69'
+contract_type: 'federal-contract'
+award_date: '2021-04-15'
+usaspending_id: '70CMSD21FR0000045'
+source: 'USAspending.gov (award 70CMSD21FR0000045)'
+signal_strength: 'weak'
+notes: 'CYBER RECON SUPPORT SERVICES'
 tags:
 - ice-contract
 - consulting
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

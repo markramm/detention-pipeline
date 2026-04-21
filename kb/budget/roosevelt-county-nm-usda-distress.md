@@ -1,16 +1,19 @@
 ---
 id: roosevelt-county-nm-usda-distress
-title: Roosevelt County, NM — Budget Distress (score 4/10)
+title: 'Roosevelt County, NM — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Roosevelt County'
+state: 'NM'
+fips: '35041'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nm
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Roosevelt County'
-fips: '35041'
 ---
 
 County-level fiscal distress indicators for Roosevelt County, NM.

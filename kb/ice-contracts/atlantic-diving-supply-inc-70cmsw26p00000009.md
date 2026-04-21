@@ -1,24 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw26p00000009
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW26P00000009 (FL) $4,344,461
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW26P00000009 (FL) $4,344,461'
 type: ice-contract
+state: 'FL'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$4,344,460.80'
+contract_type: 'federal-contract'
+award_date: '2026-03-17'
+usaspending_id: '70CMSW26P00000009'
+source: 'USAspending.gov (award 70CMSW26P00000009)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES HIGH PERFORMANCE SUPPRESSORS AND ADAPTERS FOR DUTY ISSUED ICE WEAPONS TO SUPPORT ARMED AGENTS AND ICE- OFFICE OF FIREARMS AND TRAINING PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
-county: 'PINELLAS'
-fips: '12103'
-contractor: 'ATLANTIC DIVING SUPPLY, INC.'
-contract_value: '$4,344,460.80'
-contract_type: 'federal-contract'
-award_date: '2026-03-17'
-usaspending_id: '70CMSW26P00000009'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THIS AWARD PROVIDES HIGH PERFORMANCE SUPPRESSORS AND ADAPTERS FOR DUTY ISSUED ICE WEAPONS TO SUPPORT ARMED AGENTS AND ICE- OFFICE OF FIREARMS AND TRAINING PROGRAMS.'
 ---
 
 ICE contract award.

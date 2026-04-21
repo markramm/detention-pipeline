@@ -1,7 +1,13 @@
 ---
 id: chicot-county-ar-usda-distress
-title: Chicot County, AR — Budget Distress (score 8/10)
+title: 'Chicot County, AR — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Chicot County'
+state: 'AR'
+fips: '05017'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ar
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Chicot County'
-fips: '05017'
 ---
 
 County-level fiscal distress indicators for Chicot County, AR.

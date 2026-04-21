@@ -1,14 +1,24 @@
 ---
 id: optimo-information-technology-llc-70cmsw20c00000009
-title: OPTIMO INFORMATION TECHNOLOGY LLC — 70CMSW20C00000009 (DC) $4,492,800
+title: 'OPTIMO INFORMATION TECHNOLOGY LLC — 70CMSW20C00000009 (DC) $4,492,800'
 type: ice-contract
+state: 'DC'
+contractor: 'OPTIMO INFORMATION TECHNOLOGY LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$4,492,800.00'
+contract_type: 'federal-contract'
+award_date: '2020-09-28'
+usaspending_id: '70CMSW20C00000009'
+source: 'USAspending.gov (award 70CMSW20C00000009)'
+signal_strength: 'weak'
+notes: 'DATA ANALYTICS REPORTING'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

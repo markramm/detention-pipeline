@@ -1,14 +1,24 @@
 ---
 id: global-recovery-group-llc-70cdcr26fr0000003
-title: GLOBAL RECOVERY GROUP, LLC — 70CDCR26FR0000003 (VA) $5,678,837
+title: 'GLOBAL RECOVERY GROUP, LLC — 70CDCR26FR0000003 (VA) $5,678,837'
 type: ice-contract
+state: 'VA'
+contractor: 'GLOBAL RECOVERY GROUP, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$5,678,837.00'
+contract_type: 'federal-contract'
+award_date: '2025-10-27'
+usaspending_id: '70CDCR26FR0000003'
+source: 'USAspending.gov (award 70CDCR26FR0000003)'
+signal_strength: 'weak'
+notes: 'TO AWARD A TASK ORDER FOR SKIP TRACING SERVICES IN ACCORDANCE WITH THE ATTACHED STATEMENT OF WORK'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

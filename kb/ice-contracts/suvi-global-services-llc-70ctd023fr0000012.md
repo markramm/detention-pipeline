@@ -1,14 +1,24 @@
 ---
 id: suvi-global-services-llc-70ctd023fr0000012
-title: SUVI GLOBAL SERVICES LLC — 70CTD023FR0000012 (VA) $5,224,610
+title: 'SUVI GLOBAL SERVICES LLC — 70CTD023FR0000012 (VA) $5,224,610'
 type: ice-contract
+state: 'VA'
+contractor: 'SUVI GLOBAL SERVICES LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$5,224,610.31'
+contract_type: 'federal-contract'
+award_date: '2023-07-01'
+usaspending_id: '70CTD023FR0000012'
+source: 'USAspending.gov (award 70CTD023FR0000012)'
+signal_strength: 'weak'
+notes: 'HSI INNOVATION LAB FIELD SUPPORT REPRESENTATIVE SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

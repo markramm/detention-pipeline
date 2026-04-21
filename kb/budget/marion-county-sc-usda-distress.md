@@ -1,7 +1,13 @@
 ---
 id: marion-county-sc-usda-distress
-title: Marion County, SC — Budget Distress (score 7/10)
+title: 'Marion County, SC — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Marion County'
+state: 'SC'
+fips: '45067'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - sc
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'SC'
-county: 'Marion County'
-fips: '45067'
 ---
 
 County-level fiscal distress indicators for Marion County, SC.

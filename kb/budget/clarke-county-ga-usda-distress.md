@@ -1,15 +1,18 @@
 ---
 id: clarke-county-ga-usda-distress
-title: Clarke County, GA — Budget Distress (score 3/10)
+title: 'Clarke County, GA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Clarke County'
+state: 'GA'
+fips: '13059'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
 - persistent-poverty
 importance: 5
-state: 'GA'
-county: 'Clarke County'
-fips: '13059'
 ---
 
 County-level fiscal distress indicators for Clarke County, GA.

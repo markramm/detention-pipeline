@@ -1,16 +1,19 @@
 ---
 id: fergus-county-mt-usda-distress
-title: Fergus County, MT — Budget Distress (score 3/10)
+title: 'Fergus County, MT — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Fergus County'
+state: 'MT'
+fips: '30027'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mt
 - population-loss
 - non-metro
 importance: 5
-state: 'MT'
-county: 'Fergus County'
-fips: '30027'
 ---
 
 County-level fiscal distress indicators for Fergus County, MT.

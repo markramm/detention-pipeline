@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd22fr0000019
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD22FR0000019 (PR) $13,440
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD22FR0000019 (PR) $13,440'
 type: ice-contract
+state: 'PR'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$13,440.00'
+contract_type: 'federal-contract'
+award_date: '2022-04-01'
+usaspending_id: '70CMSD22FR0000019'
+source: 'USAspending.gov (award 70CMSD22FR0000019)'
+signal_strength: 'weak'
+notes: 'MULTI-FUNCTIONAL DEVICE (MFD) LEASE'
 tags:
 - ice-contract
 - other
 - other-ice
 - pr
 importance: 5
-state: 'PR'
 ---
 
 ICE contract award.

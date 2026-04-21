@@ -1,14 +1,24 @@
 ---
 id: gee-whiz-software-llc-70cmsd26p00000029
-title: GEE WHIZ SOFTWARE, LLC — 70CMSD26P00000029 (DC) $58,202
+title: 'GEE WHIZ SOFTWARE, LLC — 70CMSD26P00000029 (DC) $58,202'
 type: ice-contract
+state: 'DC'
+contractor: 'GEE WHIZ SOFTWARE, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$58,202.00'
+contract_type: 'federal-contract'
+award_date: '2026-04-01'
+usaspending_id: '70CMSD26P00000029'
+source: 'USAspending.gov (award 70CMSD26P00000029)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ICE-HOMELAND SECURITY INVESTIGATIONS WITH BANKSCAN SOFTWARE SUPPORT FOR CONVERSION OF BANK AND CREDIT CARD STATEMENTS INTO ELECTRONIC FORMATS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

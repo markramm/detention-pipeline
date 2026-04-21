@@ -1,14 +1,24 @@
 ---
 id: yerkes-south-inc-70cmsw25c00000019
-title: YERKES SOUTH INC. — 70CMSW25C00000019 (TX) $4,054,135
+title: 'YERKES SOUTH INC. — 70CMSW25C00000019 (TX) $4,054,135'
 type: ice-contract
+state: 'TX'
+contractor: 'YERKES SOUTH INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$4,054,135.30'
+contract_type: 'federal-contract'
+award_date: '2025-09-23'
+usaspending_id: '70CMSW25C00000019'
+source: 'USAspending.gov (award 70CMSW25C00000019)'
+signal_strength: 'strong'
+notes: 'THIS AWARD PROVIDES ROOF REPLACEMENT/REPAIRS AT THE PORT ISABEL DETENTION CENTER (PIDC) IN LOS FRESNOS, TX TO SUPPORT ICE- OFFICE OF ADMINISTRATION FACILITIES AND MANAGEMENT.'
 tags:
 - ice-contract
 - other
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

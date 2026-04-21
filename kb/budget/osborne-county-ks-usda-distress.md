@@ -1,16 +1,19 @@
 ---
 id: osborne-county-ks-usda-distress
-title: Osborne County, KS — Budget Distress (score 3/10)
+title: 'Osborne County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Osborne County'
+state: 'KS'
+fips: '20141'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - population-loss
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Osborne County'
-fips: '20141'
 ---
 
 County-level fiscal distress indicators for Osborne County, KS.

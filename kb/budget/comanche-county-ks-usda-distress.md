@@ -1,16 +1,19 @@
 ---
 id: comanche-county-ks-usda-distress
-title: Comanche County, KS — Budget Distress (score 3/10)
+title: 'Comanche County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Comanche County'
+state: 'KS'
+fips: '20033'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - population-loss
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Comanche County'
-fips: '20033'
 ---
 
 County-level fiscal distress indicators for Comanche County, KS.

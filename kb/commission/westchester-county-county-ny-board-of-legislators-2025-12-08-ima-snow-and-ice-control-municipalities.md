@@ -2,14 +2,17 @@
 id: westchester-county-county-ny-board-of-legislators-2025-12-08-ima-snow-and-ice-control-municipalities
 title: 'Westchester County County NY — Board of Legislators 2025-12-08: IMA-Snow and Ice Control-Municipalities'
 type: commission-activity
+county: 'Westchester County'
+state: 'NY'
+fips: '36119'
+source: 'Legistar (Westchester County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
 tags:
 - commission-activity
 - ny
 - moderate
 importance: 5
-state: 'NY'
-county: 'Westchester County'
-fips: '36119'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: IMA-Snow and Ice Control-Municipalities
 
 Matched keywords: \bICE\b
 
-Full text: 
+Full text:

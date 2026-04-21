@@ -1,16 +1,19 @@
 ---
 id: decatur-county-ga-usda-distress
-title: Decatur County, GA — Budget Distress (score 4/10)
+title: 'Decatur County, GA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Decatur County'
+state: 'GA'
+fips: '13087'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Decatur County'
-fips: '13087'
 ---
 
 County-level fiscal distress indicators for Decatur County, GA.

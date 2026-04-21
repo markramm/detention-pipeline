@@ -1,14 +1,24 @@
 ---
 id: avaya-federal-solutions-inc-70ctd025fc0000038
-title: AVAYA FEDERAL SOLUTIONS, INC. — 70CTD025FC0000038 (CO) $32,940
+title: 'AVAYA FEDERAL SOLUTIONS, INC. — 70CTD025FC0000038 (CO) $32,940'
 type: ice-contract
+state: 'CO'
+contractor: 'AVAYA FEDERAL SOLUTIONS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$32,940.26'
+contract_type: 'federal-contract'
+award_date: '2025-09-29'
+usaspending_id: '70CTD025FC0000038'
+source: 'USAspending.gov (award 70CTD025FC0000038)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS BPA CALL IS TO SUPPLY VOICE OVER INTERNET PROTOCOL (VOIP) PHONES, ALONG WITH THE REQUIRED SOFTWARE, INSTALLATION, AND PRODUCT TRAINING SERVICES.'
 tags:
 - ice-contract
 - other
 - other-ice
 - co
 importance: 5
-state: 'CO'
 ---
 
 ICE contract award.

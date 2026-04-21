@@ -1,16 +1,19 @@
 ---
 id: beckham-county-ok-usda-distress
-title: Beckham County, OK — Budget Distress (score 3/10)
+title: 'Beckham County, OK — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Beckham County'
+state: 'OK'
+fips: '40009'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
 - low-employment
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Beckham County'
-fips: '40009'
 ---
 
 County-level fiscal distress indicators for Beckham County, OK.

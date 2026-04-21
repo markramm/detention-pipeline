@@ -1,16 +1,19 @@
 ---
 id: monroe-county-ia-usda-distress
-title: Monroe County, IA — Budget Distress (score 3/10)
+title: 'Monroe County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Monroe County'
+state: 'IA'
+fips: '19135'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Monroe County'
-fips: '19135'
 ---
 
 County-level fiscal distress indicators for Monroe County, IA.

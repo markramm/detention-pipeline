@@ -1,14 +1,24 @@
 ---
 id: charter-communications-operating-llc-70cmsd22p00000057
-title: CHARTER COMMUNICATIONS OPERATING LLC — 70CMSD22P00000057 (MO) $81,024
+title: 'CHARTER COMMUNICATIONS OPERATING LLC — 70CMSD22P00000057 (MO) $81,024'
 type: ice-contract
+state: 'MO'
+contractor: 'CHARTER COMMUNICATIONS OPERATING LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$81,024.00'
+contract_type: 'federal-contract'
+award_date: '2022-08-01'
+usaspending_id: '70CMSD22P00000057'
+source: 'USAspending.gov (award 70CMSD22P00000057)'
+signal_strength: 'weak'
+notes: 'INTERNET SUBSCRIPTION PROGRAMMING'
 tags:
 - ice-contract
 - other
 - other-ice
 - mo
 importance: 5
-state: 'MO'
 ---
 
 ICE contract award.

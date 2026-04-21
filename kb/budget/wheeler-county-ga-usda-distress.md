@@ -1,7 +1,13 @@
 ---
 id: wheeler-county-ga-usda-distress
-title: Wheeler County, GA — Budget Distress (score 7/10)
+title: 'Wheeler County, GA — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Wheeler County'
+state: 'GA'
+fips: '13309'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Wheeler County'
-fips: '13309'
 ---
 
 County-level fiscal distress indicators for Wheeler County, GA.

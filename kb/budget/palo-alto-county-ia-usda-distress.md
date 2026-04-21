@@ -1,16 +1,19 @@
 ---
 id: palo-alto-county-ia-usda-distress
-title: Palo Alto County, IA — Budget Distress (score 3/10)
+title: 'Palo Alto County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Palo Alto County'
+state: 'IA'
+fips: '19147'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Palo Alto County'
-fips: '19147'
 ---
 
 County-level fiscal distress indicators for Palo Alto County, IA.

@@ -1,16 +1,19 @@
 ---
 id: danville-city-va-usda-distress
-title: Danville city, VA — Budget Distress (score 3/10)
+title: 'Danville city, VA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Danville city'
+state: 'VA'
+fips: '51590'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - va
 - population-loss
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Danville city'
-fips: '51590'
 ---
 
 County-level fiscal distress indicators for Danville city, VA.

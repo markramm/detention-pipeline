@@ -1,16 +1,19 @@
 ---
 id: ripley-county-mo-usda-distress
-title: Ripley County, MO — Budget Distress (score 4/10)
+title: 'Ripley County, MO — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Ripley County'
+state: 'MO'
+fips: '29181'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mo
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'MO'
-county: 'Ripley County'
-fips: '29181'
 ---
 
 County-level fiscal distress indicators for Ripley County, MO.

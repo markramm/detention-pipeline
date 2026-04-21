@@ -1,14 +1,24 @@
 ---
 id: workwear-outfitters-llc-70cmsd26fr0000008
-title: WORKWEAR OUTFITTERS, LLC — 70CMSD26FR0000008 (TN) $311,298
+title: 'WORKWEAR OUTFITTERS, LLC — 70CMSD26FR0000008 (TN) $311,298'
 type: ice-contract
+state: 'TN'
+contractor: 'WORKWEAR OUTFITTERS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$311,298.24'
+contract_type: 'federal-contract'
+award_date: '2026-01-08'
+usaspending_id: '70CMSD26FR0000008'
+source: 'USAspending.gov (award 70CMSD26FR0000008)'
+signal_strength: 'weak'
+notes: 'THIS AWARD IS FOR THE PURCHASE OF WEATHER-RESISTANT COLD-WEATHER JACKETS FOR HOMELAND SECURITY INVESTIGATIONS TO SUPPORT LAW ENFORCEMENT FIELD OPERATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - tn
 importance: 5
-state: 'TN'
 ---
 
 ICE contract award.

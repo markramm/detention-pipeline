@@ -1,14 +1,24 @@
 ---
 id: the-american-correctional-association-70cdcr26p00000004
-title: THE AMERICAN CORRECTIONAL ASSOCIATION — 70CDCR26P00000004 (FL) $15,550
+title: 'THE AMERICAN CORRECTIONAL ASSOCIATION — 70CDCR26P00000004 (FL) $15,550'
 type: ice-contract
+state: 'FL'
+contractor: 'THE AMERICAN CORRECTIONAL ASSOCIATION'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$15,550.00'
+contract_type: 'federal-contract'
+award_date: '2026-03-31'
+usaspending_id: '70CDCR26P00000004'
+source: 'USAspending.gov (award 70CDCR26P00000004)'
+signal_strength: 'strong'
+notes: 'PURCHASE ORDER AWARD FOR RE-ACCREDITATION SERVICES AT KROME SERVICE PROCESSING CENTER (KROME SPC). SERVICES INCLUDE DOCUMENT REVIEW, ON-SITE ASSESSMENT, ISSUANCE OF AN ACCREDITATION DECISION AND REPORT, IN ACCORDANCE WITH DETENTION FACILITY STANDARDS'
 tags:
 - ice-contract
 - other
 - detention-related
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

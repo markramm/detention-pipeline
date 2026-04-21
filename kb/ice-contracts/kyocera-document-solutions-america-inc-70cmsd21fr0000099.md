@@ -1,14 +1,24 @@
 ---
 id: kyocera-document-solutions-america-inc-70cmsd21fr0000099
-title: KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD21FR0000099 (CA) $13,852
+title: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC — 70CMSD21FR0000099 (CA) $13,852'
 type: ice-contract
+state: 'CA'
+contractor: 'KYOCERA DOCUMENT SOLUTIONS AMERICA INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$13,852.28'
+contract_type: 'federal-contract'
+award_date: '2021-07-29'
+usaspending_id: '70CMSD21FR0000099'
+source: 'USAspending.gov (award 70CMSD21FR0000099)'
+signal_strength: 'weak'
+notes: 'COPIER LEASE AND MAINTENANCE'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

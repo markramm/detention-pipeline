@@ -1,16 +1,19 @@
 ---
 id: judith-basin-county-mt-usda-distress
-title: Judith Basin County, MT — Budget Distress (score 3/10)
+title: 'Judith Basin County, MT — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Judith Basin County'
+state: 'MT'
+fips: '30045'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mt
 - population-loss
 - non-metro
 importance: 5
-state: 'MT'
-county: 'Judith Basin County'
-fips: '30045'
 ---
 
 County-level fiscal distress indicators for Judith Basin County, MT.

@@ -1,16 +1,19 @@
 ---
 id: logan-county-ne-usda-distress
-title: Logan County, NE — Budget Distress (score 3/10)
+title: 'Logan County, NE — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Logan County'
+state: 'NE'
+fips: '31113'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ne
 - population-loss
 - non-metro
 importance: 5
-state: 'NE'
-county: 'Logan County'
-fips: '31113'
 ---
 
 County-level fiscal distress indicators for Logan County, NE.

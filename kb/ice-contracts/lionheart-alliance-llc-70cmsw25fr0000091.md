@@ -1,14 +1,24 @@
 ---
 id: lionheart-alliance-llc-70cmsw25fr0000091
-title: LIONHEART ALLIANCE, LLC — 70CMSW25FR0000091 (VA) $27,550
+title: 'LIONHEART ALLIANCE, LLC — 70CMSW25FR0000091 (VA) $27,550'
 type: ice-contract
+state: 'VA'
+contractor: 'LIONHEART ALLIANCE, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$27,550.00'
+contract_type: 'federal-contract'
+award_date: '2025-08-18'
+usaspending_id: '70CMSW25FR0000091'
+source: 'USAspending.gov (award 70CMSW25FR0000091)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES SPECIALIZED BALLISTIC HELMETS TO LAW ENFORCEMENT AGENTS FOR ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

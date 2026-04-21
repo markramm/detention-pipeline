@@ -1,16 +1,19 @@
 ---
 id: keweenaw-county-mi-usda-distress
-title: Keweenaw County, MI — Budget Distress (score 3/10)
+title: 'Keweenaw County, MI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Keweenaw County'
+state: 'MI'
+fips: '26083'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mi
 - population-loss
 - non-metro
 importance: 5
-state: 'MI'
-county: 'Keweenaw County'
-fips: '26083'
 ---
 
 County-level fiscal distress indicators for Keweenaw County, MI.

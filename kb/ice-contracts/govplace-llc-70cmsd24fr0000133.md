@@ -1,14 +1,24 @@
 ---
 id: govplace-llc-70cmsd24fr0000133
-title: GOVPLACE, LLC — 70CMSD24FR0000133 (VA) $352,001
+title: 'GOVPLACE, LLC — 70CMSD24FR0000133 (VA) $352,001'
 type: ice-contract
+state: 'VA'
+contractor: 'GOVPLACE, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$352,000.58'
+contract_type: 'federal-contract'
+award_date: '2024-09-10'
+usaspending_id: '70CMSD24FR0000133'
+source: 'USAspending.gov (award 70CMSD24FR0000133)'
+signal_strength: 'weak'
+notes: 'CISCO SMARTNET.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

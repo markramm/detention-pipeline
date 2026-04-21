@@ -1,16 +1,19 @@
 ---
 id: hutchinson-county-tx-usda-distress
-title: Hutchinson County, TX — Budget Distress (score 3/10)
+title: 'Hutchinson County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Hutchinson County'
+state: 'TX'
+fips: '48233'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Hutchinson County'
-fips: '48233'
 ---
 
 County-level fiscal distress indicators for Hutchinson County, TX.

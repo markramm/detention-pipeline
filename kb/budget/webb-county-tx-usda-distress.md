@@ -1,15 +1,18 @@
 ---
 id: webb-county-tx-usda-distress
-title: Webb County, TX — Budget Distress (score 3/10)
+title: 'Webb County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Webb County'
+state: 'TX'
+fips: '48479'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - persistent-poverty
 importance: 5
-state: 'TX'
-county: 'Webb County'
-fips: '48479'
 ---
 
 County-level fiscal distress indicators for Webb County, TX.

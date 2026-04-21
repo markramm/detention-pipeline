@@ -1,16 +1,19 @@
 ---
 id: wyoming-county-ny-usda-distress
-title: Wyoming County, NY — Budget Distress (score 3/10)
+title: 'Wyoming County, NY — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Wyoming County'
+state: 'NY'
+fips: '36121'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ny
 - population-loss
 - non-metro
 importance: 5
-state: 'NY'
-county: 'Wyoming County'
-fips: '36121'
 ---
 
 County-level fiscal distress indicators for Wyoming County, NY.

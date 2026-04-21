@@ -1,7 +1,13 @@
 ---
 id: kusilvak-census-area-ak-usda-distress
-title: Kusilvak Census Area, AK — Budget Distress (score 7/10)
+title: 'Kusilvak Census Area, AK — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Kusilvak Census Area'
+state: 'AK'
+fips: '02158'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ak
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AK'
-county: 'Kusilvak Census Area'
-fips: '02158'
 ---
 
 County-level fiscal distress indicators for Kusilvak Census Area, AK.

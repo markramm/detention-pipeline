@@ -1,16 +1,19 @@
 ---
 id: avery-county-nc-usda-distress
-title: Avery County, NC — Budget Distress (score 3/10)
+title: 'Avery County, NC — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Avery County'
+state: 'NC'
+fips: '37011'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nc
 - low-employment
 - non-metro
 importance: 5
-state: 'NC'
-county: 'Avery County'
-fips: '37011'
 ---
 
 County-level fiscal distress indicators for Avery County, NC.

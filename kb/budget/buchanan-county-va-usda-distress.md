@@ -1,7 +1,13 @@
 ---
 id: buchanan-county-va-usda-distress
-title: Buchanan County, VA — Budget Distress (score 9/10)
+title: 'Buchanan County, VA — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Buchanan County'
+state: 'VA'
+fips: '51027'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - va
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Buchanan County'
-fips: '51027'
 ---
 
 County-level fiscal distress indicators for Buchanan County, VA.

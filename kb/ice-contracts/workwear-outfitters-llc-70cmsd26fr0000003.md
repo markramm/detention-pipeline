@@ -1,14 +1,24 @@
 ---
 id: workwear-outfitters-llc-70cmsd26fr0000003
-title: WORKWEAR OUTFITTERS, LLC — 70CMSD26FR0000003 (TN) $689,554
+title: 'WORKWEAR OUTFITTERS, LLC — 70CMSD26FR0000003 (TN) $689,554'
 type: ice-contract
+state: 'TN'
+contractor: 'WORKWEAR OUTFITTERS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$689,553.70'
+contract_type: 'federal-contract'
+award_date: '2025-12-17'
+usaspending_id: '70CMSD26FR0000003'
+source: 'USAspending.gov (award 70CMSD26FR0000003)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES GEAR AND UNIFORMS FOR HOMELAND SECURITY INVESTIGATIONS IMMIGRATION AND CUSTOMS ENFORCEMENT ACADEMY STUDENTS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - tn
 importance: 5
-state: 'TN'
 ---
 
 ICE contract award.

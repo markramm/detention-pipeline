@@ -1,14 +1,24 @@
 ---
 id: booz-allen-hamilton-inc-hscems16f00011
-title: BOOZ ALLEN HAMILTON INC — HSCEMS16F00011 (DC) $1,582,757
+title: 'BOOZ ALLEN HAMILTON INC — HSCEMS16F00011 (DC) $1,582,757'
 type: ice-contract
+state: 'DC'
+contractor: 'BOOZ ALLEN HAMILTON INC'
+contractor_type: 'consulting'
+contract_class: 'other-ice'
+contract_value: '$1,582,756.89'
+contract_type: 'federal-contract'
+award_date: '2016-02-09'
+usaspending_id: 'HSCEMS16F00011'
+source: 'USAspending.gov (award HSCEMS16F00011)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF PRIVACY COMPLIANCE AND RECORDS MANAGEMENT SUPPORT SERVICES'
 tags:
 - ice-contract
 - consulting
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

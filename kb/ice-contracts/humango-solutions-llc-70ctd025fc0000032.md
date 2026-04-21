@@ -1,14 +1,24 @@
 ---
 id: humango-solutions-llc-70ctd025fc0000032
-title: HUMANGO SOLUTIONS, LLC — 70CTD025FC0000032 (IL) $36,071
+title: 'HUMANGO SOLUTIONS, LLC — 70CTD025FC0000032 (IL) $36,071'
 type: ice-contract
+state: 'IL'
+contractor: 'HUMANGO SOLUTIONS, LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$36,071.44'
+contract_type: 'federal-contract'
+award_date: '2025-09-19'
+usaspending_id: '70CTD025FC0000032'
+source: 'USAspending.gov (award 70CTD025FC0000032)'
+signal_strength: 'strong'
+notes: 'PROVIDES THE PROCUREMENT & INSTALLATION OF VIDEO TELECONFERENCING EQUIPMENT FOR THE ENFORCEMENT & REMOVAL OPERATIONS SITE LOCATED IN ROCK ISLAND, IL.'
 tags:
 - ice-contract
 - other
 - detention-related
 - il
 importance: 5
-state: 'IL'
 ---
 
 ICE contract award.

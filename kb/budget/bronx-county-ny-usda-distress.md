@@ -1,15 +1,18 @@
 ---
 id: bronx-county-ny-usda-distress
-title: Bronx County, NY — Budget Distress (score 3/10)
+title: 'Bronx County, NY — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Bronx County'
+state: 'NY'
+fips: '36005'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ny
 - persistent-poverty
 importance: 5
-state: 'NY'
-county: 'Bronx County'
-fips: '36005'
 ---
 
 County-level fiscal distress indicators for Bronx County, NY.

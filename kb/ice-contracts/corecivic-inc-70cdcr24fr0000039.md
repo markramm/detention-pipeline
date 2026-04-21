@@ -1,14 +1,24 @@
 ---
 id: corecivic-inc-70cdcr24fr0000039
-title: CORECIVIC, INC. — 70CDCR24FR0000039 (TN) $24,394,912
+title: 'CORECIVIC, INC. — 70CDCR24FR0000039 (TN) $24,394,912'
 type: ice-contract
+state: 'TN'
+contractor: 'CORECIVIC, INC.'
+contractor_type: 'private-prison'
+contract_class: 'other-ice'
+contract_value: '$24,394,912.37'
+contract_type: 'federal-contract'
+award_date: '2024-08-01'
+usaspending_id: '70CDCR24FR0000039'
+source: 'USAspending.gov (award 70CDCR24FR0000039)'
+signal_strength: 'strong'
+notes: 'T. DON HUTTO FY24 TASK ORDER'
 tags:
 - ice-contract
 - private-prison
 - other-ice
 - tn
 importance: 5
-state: 'TN'
 ---
 
 ICE contract award.

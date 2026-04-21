@@ -1,7 +1,13 @@
 ---
 id: greene-county-ms-usda-distress
-title: Greene County, MS — Budget Distress (score 4/10)
+title: 'Greene County, MS — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Greene County'
+state: 'MS'
+fips: '28041'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ms
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Greene County'
-fips: '28041'
 ---
 
 County-level fiscal distress indicators for Greene County, MS.

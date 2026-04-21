@@ -1,16 +1,19 @@
 ---
 id: wilbarger-county-tx-usda-distress
-title: Wilbarger County, TX — Budget Distress (score 3/10)
+title: 'Wilbarger County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Wilbarger County'
+state: 'TX'
+fips: '48487'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Wilbarger County'
-fips: '48487'
 ---
 
 County-level fiscal distress indicators for Wilbarger County, TX.

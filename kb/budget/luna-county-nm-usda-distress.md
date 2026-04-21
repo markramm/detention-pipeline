@@ -1,7 +1,13 @@
 ---
 id: luna-county-nm-usda-distress
-title: Luna County, NM — Budget Distress (score 5/10)
+title: 'Luna County, NM — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Luna County'
+state: 'NM'
+fips: '35029'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nm
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'NM'
-county: 'Luna County'
-fips: '35029'
 ---
 
 County-level fiscal distress indicators for Luna County, NM.

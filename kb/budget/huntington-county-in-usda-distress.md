@@ -1,16 +1,19 @@
 ---
 id: huntington-county-in-usda-distress
-title: Huntington County, IN — Budget Distress (score 3/10)
+title: 'Huntington County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Huntington County'
+state: 'IN'
+fips: '18069'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Huntington County'
-fips: '18069'
 ---
 
 County-level fiscal distress indicators for Huntington County, IN.

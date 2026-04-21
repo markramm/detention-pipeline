@@ -1,15 +1,18 @@
 ---
 id: philadelphia-county-pa-usda-distress
-title: Philadelphia County, PA — Budget Distress (score 3/10)
+title: 'Philadelphia County, PA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Philadelphia County'
+state: 'PA'
+fips: '42101'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
 - persistent-poverty
 importance: 5
-state: 'PA'
-county: 'Philadelphia County'
-fips: '42101'
 ---
 
 County-level fiscal distress indicators for Philadelphia County, PA.

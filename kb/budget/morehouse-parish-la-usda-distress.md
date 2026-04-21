@@ -1,7 +1,13 @@
 ---
 id: morehouse-parish-la-usda-distress
-title: Morehouse Parish, LA — Budget Distress (score 7/10)
+title: 'Morehouse Parish, LA — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Morehouse Parish'
+state: 'LA'
+fips: '22067'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - low-employment
 importance: 5
-state: 'LA'
-county: 'Morehouse Parish'
-fips: '22067'
 ---
 
 County-level fiscal distress indicators for Morehouse Parish, LA.

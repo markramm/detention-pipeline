@@ -1,14 +1,24 @@
 ---
 id: personable-com-inc-70cmsd23fr0000026
-title: PERSONABLE.COM, INC. — 70CMSD23FR0000026 (CA) $8,076
+title: 'PERSONABLE.COM, INC. — 70CMSD23FR0000026 (CA) $8,076'
 type: ice-contract
+state: 'CA'
+contractor: 'PERSONABLE.COM, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$8,076.39'
+contract_type: 'federal-contract'
+award_date: '2023-09-27'
+usaspending_id: '70CMSD23FR0000026'
+source: 'USAspending.gov (award 70CMSD23FR0000026)'
+signal_strength: 'weak'
+notes: 'SCANWRITER  MAINTENANCE'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

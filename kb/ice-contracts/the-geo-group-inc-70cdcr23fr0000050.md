@@ -1,24 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr23fr0000050
-title: THE GEO GROUP, INC. — 70CDCR23FR0000050 (TX) $55,018,504
+title: 'THE GEO GROUP, INC. — 70CDCR23FR0000050 (TX) $55,018,504'
 type: ice-contract
+state: 'TX'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$55,018,504.16'
+contract_type: 'federal-contract'
+award_date: '2023-08-18'
+usaspending_id: '70CDCR23FR0000050'
+source: 'USAspending.gov (award 70CDCR23FR0000050)'
+signal_strength: 'strong'
+notes: 'MONTGOMERY PROCESSING CENTER DETENTION SERVICES'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - tx
 importance: 5
-state: 'TX'
-county: 'MONTGOMERY'
-fips: '48339'
-contractor: 'THE GEO GROUP, INC.'
-contract_value: '$55,018,504.16'
-contract_type: 'federal-contract'
-award_date: '2023-08-18'
-usaspending_id: '70CDCR23FR0000050'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'MONTGOMERY PROCESSING CENTER DETENTION SERVICES'
 ---
 
 ICE contract award.

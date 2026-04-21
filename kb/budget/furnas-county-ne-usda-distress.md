@@ -1,16 +1,19 @@
 ---
 id: furnas-county-ne-usda-distress
-title: Furnas County, NE — Budget Distress (score 3/10)
+title: 'Furnas County, NE — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Furnas County'
+state: 'NE'
+fips: '31065'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ne
 - population-loss
 - non-metro
 importance: 5
-state: 'NE'
-county: 'Furnas County'
-fips: '31065'
 ---
 
 County-level fiscal distress indicators for Furnas County, NE.

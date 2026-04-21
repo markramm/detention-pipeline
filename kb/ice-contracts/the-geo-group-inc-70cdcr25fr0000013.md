@@ -1,24 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr25fr0000013
-title: THE GEO GROUP, INC. — 70CDCR25FR0000013 (CA) $66,190,763
+title: 'THE GEO GROUP, INC. — 70CDCR25FR0000013 (CA) $66,190,763'
 type: ice-contract
+state: 'CA'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$66,190,762.72'
+contract_type: 'federal-contract'
+award_date: '2024-12-20'
+usaspending_id: '70CDCR25FR0000013'
+source: 'USAspending.gov (award 70CDCR25FR0000013)'
+signal_strength: 'strong'
+notes: 'HOUSING FOR DETAINEES'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - ca
 importance: 5
-state: 'CA'
-county: 'KERN'
-fips: '06029'
-contractor: 'THE GEO GROUP, INC.'
-contract_value: '$66,190,762.72'
-contract_type: 'federal-contract'
-award_date: '2024-12-20'
-usaspending_id: '70CDCR25FR0000013'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'HOUSING FOR DETAINEES'
 ---
 
 ICE contract award.

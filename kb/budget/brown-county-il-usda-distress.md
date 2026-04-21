@@ -1,7 +1,13 @@
 ---
 id: brown-county-il-usda-distress
-title: Brown County, IL — Budget Distress (score 6/10)
+title: 'Brown County, IL — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Brown County'
+state: 'IL'
+fips: '17009'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - il
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Brown County'
-fips: '17009'
 ---
 
 County-level fiscal distress indicators for Brown County, IL.

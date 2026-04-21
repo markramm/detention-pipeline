@@ -1,16 +1,19 @@
 ---
 id: coke-county-tx-usda-distress
-title: Coke County, TX — Budget Distress (score 3/10)
+title: 'Coke County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Coke County'
+state: 'TX'
+fips: '48081'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Coke County'
-fips: '48081'
 ---
 
 County-level fiscal distress indicators for Coke County, TX.

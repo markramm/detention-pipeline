@@ -1,24 +1,24 @@
 ---
 id: olin-winchester-llc-70cmsw23fr0000112
-title: OLIN WINCHESTER LLC — 70CMSW23FR0000112 (IL) $533,036
+title: 'OLIN WINCHESTER LLC — 70CMSW23FR0000112 (IL) $533,036'
 type: ice-contract
+state: 'IL'
+contractor: 'OLIN WINCHESTER LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$533,036.16'
+contract_type: 'federal-contract'
+award_date: '2023-09-20'
+usaspending_id: '70CMSW23FR0000112'
+source: 'USAspending.gov (award 70CMSW23FR0000112)'
+signal_strength: 'weak'
+notes: '9MM LUGER READILY IDENTIFIABLE TRAINING AMMUNITION (RITA) FOR OFTP'
 tags:
 - ice-contract
 - other
 - other-ice
 - il
 importance: 5
-state: 'IL'
-county: 'MADISON'
-fips: '17119'
-contractor: 'OLIN WINCHESTER LLC'
-contract_value: '$533,036.16'
-contract_type: 'federal-contract'
-award_date: '2023-09-20'
-usaspending_id: '70CMSW23FR0000112'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: '9MM LUGER READILY IDENTIFIABLE TRAINING AMMUNITION (RITA) FOR OFTP'
 ---
 
 ICE contract award.

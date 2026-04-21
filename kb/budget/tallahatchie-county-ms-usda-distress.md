@@ -1,7 +1,13 @@
 ---
 id: tallahatchie-county-ms-usda-distress
-title: Tallahatchie County, MS — Budget Distress (score 6/10)
+title: 'Tallahatchie County, MS — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Tallahatchie County'
+state: 'MS'
+fips: '28135'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Tallahatchie County'
-fips: '28135'
 ---
 
 County-level fiscal distress indicators for Tallahatchie County, MS.

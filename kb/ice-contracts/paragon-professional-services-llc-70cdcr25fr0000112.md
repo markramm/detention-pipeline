@@ -1,14 +1,24 @@
 ---
 id: paragon-professional-services-llc-70cdcr25fr0000112
-title: PARAGON PROFESSIONAL SERVICES LLC — 70CDCR25FR0000112 (AK) $57,131,182
+title: 'PARAGON PROFESSIONAL SERVICES LLC — 70CDCR25FR0000112 (AK) $57,131,182'
 type: ice-contract
+state: 'AK'
+contractor: 'PARAGON PROFESSIONAL SERVICES LLC'
+contractor_type: 'guard-services'
+contract_class: 'detention-related'
+contract_value: '$57,131,181.71'
+contract_type: 'federal-contract'
+award_date: '2025-09-30'
+usaspending_id: '70CDCR25FR0000112'
+source: 'USAspending.gov (award 70CDCR25FR0000112)'
+signal_strength: 'strong'
+notes: 'THIS CONTRACT PROVIDES DETENTION AND TRANSPORTATION SERVICES AT THE EL PASO SERVICE PROCESSING CENTER. THE PURPOSE OF THIS MODIFICATION IS TO ISSUE A NEW TASK ORDER AND ADD FUNDING FOR THESE SERVICES.'
 tags:
 - ice-contract
 - guard-services
 - detention-related
 - ak
 importance: 5
-state: 'AK'
 ---
 
 ICE contract award.

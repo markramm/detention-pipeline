@@ -1,14 +1,24 @@
 ---
 id: at-t-enterprises-llc-70cmsd23p00000106
-title: AT&T ENTERPRISES, LLC — 70CMSD23P00000106 (VA) $639,887
+title: 'AT&T ENTERPRISES, LLC — 70CMSD23P00000106 (VA) $639,887'
 type: ice-contract
+state: 'VA'
+contractor: 'AT&T ENTERPRISES, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$639,886.68'
+contract_type: 'federal-contract'
+award_date: '2023-09-07'
+usaspending_id: '70CMSD23P00000106'
+source: 'USAspending.gov (award 70CMSD23P00000106)'
+signal_strength: 'weak'
+notes: 'DATA ANALYST SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

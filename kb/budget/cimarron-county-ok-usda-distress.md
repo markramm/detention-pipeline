@@ -1,16 +1,19 @@
 ---
 id: cimarron-county-ok-usda-distress
-title: Cimarron County, OK — Budget Distress (score 3/10)
+title: 'Cimarron County, OK — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cimarron County'
+state: 'OK'
+fips: '40025'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
 - population-loss
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Cimarron County'
-fips: '40025'
 ---
 
 County-level fiscal distress indicators for Cimarron County, OK.

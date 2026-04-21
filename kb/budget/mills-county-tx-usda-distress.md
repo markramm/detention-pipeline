@@ -1,16 +1,19 @@
 ---
 id: mills-county-tx-usda-distress
-title: Mills County, TX — Budget Distress (score 3/10)
+title: 'Mills County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Mills County'
+state: 'TX'
+fips: '48333'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Mills County'
-fips: '48333'
 ---
 
 County-level fiscal distress indicators for Mills County, TX.

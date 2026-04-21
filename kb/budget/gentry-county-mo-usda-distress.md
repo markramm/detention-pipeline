@@ -1,16 +1,19 @@
 ---
 id: gentry-county-mo-usda-distress
-title: Gentry County, MO — Budget Distress (score 3/10)
+title: 'Gentry County, MO — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Gentry County'
+state: 'MO'
+fips: '29075'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mo
 - population-loss
 - non-metro
 importance: 5
-state: 'MO'
-county: 'Gentry County'
-fips: '29075'
 ---
 
 County-level fiscal distress indicators for Gentry County, MO.

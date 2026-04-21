@@ -1,16 +1,19 @@
 ---
 id: caldwell-county-ky-usda-distress
-title: Caldwell County, KY — Budget Distress (score 3/10)
+title: 'Caldwell County, KY — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Caldwell County'
+state: 'KY'
+fips: '21033'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
 - population-loss
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Caldwell County'
-fips: '21033'
 ---
 
 County-level fiscal distress indicators for Caldwell County, KY.

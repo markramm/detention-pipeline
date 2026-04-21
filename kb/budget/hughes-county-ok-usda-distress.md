@@ -1,7 +1,13 @@
 ---
 id: hughes-county-ok-usda-distress
-title: Hughes County, OK — Budget Distress (score 8/10)
+title: 'Hughes County, OK — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Hughes County'
+state: 'OK'
+fips: '40063'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ok
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Hughes County'
-fips: '40063'
 ---
 
 County-level fiscal distress indicators for Hughes County, OK.

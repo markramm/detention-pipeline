@@ -1,14 +1,24 @@
 ---
 id: fs-partners-llp-70ctd024fr0000060
-title: FS PARTNERS, LLP — 70CTD024FR0000060 (VA) $38,016
+title: 'FS PARTNERS, LLP — 70CTD024FR0000060 (VA) $38,016'
 type: ice-contract
+state: 'VA'
+contractor: 'FS PARTNERS, LLP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$38,016.04'
+contract_type: 'federal-contract'
+award_date: '2024-09-11'
+usaspending_id: '70CTD024FR0000060'
+source: 'USAspending.gov (award 70CTD024FR0000060)'
+signal_strength: 'weak'
+notes: 'AWARD FOR NEXUS LICENSES - SUPPORT AND MAINTENANCE RENEWAL'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

@@ -1,7 +1,13 @@
 ---
 id: sumter-county-al-usda-distress
-title: Sumter County, AL — Budget Distress (score 6/10)
+title: 'Sumter County, AL — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Sumter County'
+state: 'AL'
+fips: '01119'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - al
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Sumter County'
-fips: '01119'
 ---
 
 County-level fiscal distress indicators for Sumter County, AL.

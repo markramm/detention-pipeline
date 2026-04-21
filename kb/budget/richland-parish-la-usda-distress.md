@@ -1,7 +1,13 @@
 ---
 id: richland-parish-la-usda-distress
-title: Richland Parish, LA — Budget Distress (score 6/10)
+title: 'Richland Parish, LA — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Richland Parish'
+state: 'LA'
+fips: '22083'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
-state: 'LA'
-county: 'Richland Parish'
-fips: '22083'
 ---
 
 County-level fiscal distress indicators for Richland Parish, LA.

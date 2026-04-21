@@ -1,7 +1,13 @@
 ---
 id: culberson-county-tx-usda-distress
-title: Culberson County, TX — Budget Distress (score 7/10)
+title: 'Culberson County, TX — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Culberson County'
+state: 'TX'
+fips: '48109'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tx
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Culberson County'
-fips: '48109'
 ---
 
 County-level fiscal distress indicators for Culberson County, TX.

@@ -1,16 +1,19 @@
 ---
 id: union-county-ar-usda-distress
-title: Union County, AR — Budget Distress (score 3/10)
+title: 'Union County, AR — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Union County'
+state: 'AR'
+fips: '05139'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ar
 - population-loss
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Union County'
-fips: '05139'
 ---
 
 County-level fiscal distress indicators for Union County, AR.

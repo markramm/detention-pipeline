@@ -1,7 +1,13 @@
 ---
 id: knox-county-ky-usda-distress
-title: Knox County, KY — Budget Distress (score 7/10)
+title: 'Knox County, KY — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Knox County'
+state: 'KY'
+fips: '21121'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ky
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Knox County'
-fips: '21121'
 ---
 
 County-level fiscal distress indicators for Knox County, KY.

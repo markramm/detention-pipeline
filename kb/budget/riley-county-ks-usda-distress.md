@@ -1,15 +1,18 @@
 ---
 id: riley-county-ks-usda-distress
-title: Riley County, KS — Budget Distress (score 3/10)
+title: 'Riley County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Riley County'
+state: 'KS'
+fips: '20161'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - persistent-poverty
 importance: 5
-state: 'KS'
-county: 'Riley County'
-fips: '20161'
 ---
 
 County-level fiscal distress indicators for Riley County, KS.

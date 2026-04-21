@@ -1,16 +1,19 @@
 ---
 id: sandusky-county-oh-usda-distress
-title: Sandusky County, OH — Budget Distress (score 3/10)
+title: 'Sandusky County, OH — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Sandusky County'
+state: 'OH'
+fips: '39143'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
 - population-loss
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Sandusky County'
-fips: '39143'
 ---
 
 County-level fiscal distress indicators for Sandusky County, OH.

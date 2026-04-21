@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd22fr0000007
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD22FR0000007 (CA) $18,000
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD22FR0000007 (CA) $18,000'
 type: ice-contract
+state: 'CA'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$18,000.00'
+contract_type: 'federal-contract'
+award_date: '2022-01-24'
+usaspending_id: '70CMSD22FR0000007'
+source: 'USAspending.gov (award 70CMSD22FR0000007)'
+signal_strength: 'weak'
+notes: 'MULTI-FUNCTIONAL DEVICE (MFD) LEASE'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

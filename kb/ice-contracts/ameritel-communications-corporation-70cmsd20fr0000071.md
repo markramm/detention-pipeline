@@ -1,14 +1,24 @@
 ---
 id: ameritel-communications-corporation-70cmsd20fr0000071
-title: AMERITEL COMMUNICATIONS CORPORATION — 70CMSD20FR0000071 (MD) $11,767
+title: 'AMERITEL COMMUNICATIONS CORPORATION — 70CMSD20FR0000071 (MD) $11,767'
 type: ice-contract
+state: 'MD'
+contractor: 'AMERITEL COMMUNICATIONS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$11,767.20'
+contract_type: 'federal-contract'
+award_date: '2020-06-18'
+usaspending_id: '70CMSD20FR0000071'
+source: 'USAspending.gov (award 70CMSD20FR0000071)'
+signal_strength: 'weak'
+notes: 'LEASE ONE (1) COLOR MFD FOR OPLA BALTIMORE'
 tags:
 - ice-contract
 - other
 - other-ice
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

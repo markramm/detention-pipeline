@@ -1,7 +1,13 @@
 ---
 id: wyoming-county-wv-usda-distress
-title: Wyoming County, WV — Budget Distress (score 6/10)
+title: 'Wyoming County, WV — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Wyoming County'
+state: 'WV'
+fips: '54109'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - wv
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Wyoming County'
-fips: '54109'
 ---
 
 County-level fiscal distress indicators for Wyoming County, WV.

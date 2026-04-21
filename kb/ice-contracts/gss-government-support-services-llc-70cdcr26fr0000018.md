@@ -1,24 +1,24 @@
 ---
 id: gss-government-support-services-llc-70cdcr26fr0000018
-title: GSS - GOVERNMENT SUPPORT SERVICES LLC — 70CDCR26FR0000018 (FL) $741,000
+title: 'GSS - GOVERNMENT SUPPORT SERVICES LLC — 70CDCR26FR0000018 (FL) $741,000'
 type: ice-contract
+state: 'FL'
+contractor: 'GSS - GOVERNMENT SUPPORT SERVICES LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$741,000.00'
+contract_type: 'federal-contract'
+award_date: '2025-12-16'
+usaspending_id: '70CDCR26FR0000018'
+source: 'USAspending.gov (award 70CDCR26FR0000018)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS TASK ORDER IS TO OBTAIN SKIP TRACING SERVICES FOR ENFORCEMENT AND REMOVAL OPERATIONS (ERO).'
 tags:
 - ice-contract
 - other
 - detention-related
 - fl
 importance: 5
-state: 'FL'
-county: 'SANTA ROSA'
-fips: '12113'
-contractor: 'GSS - GOVERNMENT SUPPORT SERVICES LLC'
-contract_value: '$741,000.00'
-contract_type: 'federal-contract'
-award_date: '2025-12-16'
-usaspending_id: '70CDCR26FR0000018'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THE PURPOSE OF THIS TASK ORDER IS TO OBTAIN SKIP TRACING SERVICES FOR ENFORCEMENT AND REMOVAL OPERATIONS (ERO).'
 ---
 
 ICE contract award.

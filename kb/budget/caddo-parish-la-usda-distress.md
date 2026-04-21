@@ -1,15 +1,18 @@
 ---
 id: caddo-parish-la-usda-distress
-title: Caddo Parish, LA — Budget Distress (score 3/10)
+title: 'Caddo Parish, LA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Caddo Parish'
+state: 'LA'
+fips: '22017'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - la
 - persistent-poverty
 importance: 5
-state: 'LA'
-county: 'Caddo Parish'
-fips: '22017'
 ---
 
 County-level fiscal distress indicators for Caddo Parish, LA.

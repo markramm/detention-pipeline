@@ -1,14 +1,24 @@
 ---
 id: sayari-analytics-llc-70cmsd23p00000077
-title: SAYARI ANALYTICS, LLC — 70CMSD23P00000077 (VA) $70,122
+title: 'SAYARI ANALYTICS, LLC — 70CMSD23P00000077 (VA) $70,122'
 type: ice-contract
+state: 'VA'
+contractor: 'SAYARI ANALYTICS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$70,122.00'
+contract_type: 'federal-contract'
+award_date: '2023-08-05'
+usaspending_id: '70CMSD23P00000077'
+source: 'USAspending.gov (award 70CMSD23P00000077)'
+signal_strength: 'weak'
+notes: 'SAYARI GRAPH ANALYST APPLICATION SOFTWARE LICENSE'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

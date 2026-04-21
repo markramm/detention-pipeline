@@ -1,7 +1,13 @@
 ---
 id: vernon-parish-la-usda-distress
-title: Vernon Parish, LA — Budget Distress (score 5/10)
+title: 'Vernon Parish, LA — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Vernon Parish'
+state: 'LA'
+fips: '22115'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Vernon Parish'
-fips: '22115'
 ---
 
 County-level fiscal distress indicators for Vernon Parish, LA.

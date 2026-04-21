@@ -1,14 +1,24 @@
 ---
 id: deloitte-consulting-llp-70cmsd19fr0000029
-title: DELOITTE CONSULTING LLP — 70CMSD19FR0000029 (DC) $10,403,082
+title: 'DELOITTE CONSULTING LLP — 70CMSD19FR0000029 (DC) $10,403,082'
 type: ice-contract
+state: 'DC'
+contractor: 'DELOITTE CONSULTING LLP'
+contractor_type: 'consulting'
+contract_class: 'other-ice'
+contract_value: '$10,403,081.73'
+contract_type: 'federal-contract'
+award_date: '2019-08-12'
+usaspending_id: '70CMSD19FR0000029'
+source: 'USAspending.gov (award 70CMSD19FR0000029)'
+signal_strength: 'weak'
+notes: 'VSP&IO SUPPORT SERVICES'
 tags:
 - ice-contract
 - consulting
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

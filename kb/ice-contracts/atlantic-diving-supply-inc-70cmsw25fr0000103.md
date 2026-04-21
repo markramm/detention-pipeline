@@ -1,14 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw25fr0000103
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FR0000103 (VA) $99,535
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FR0000103 (VA) $99,535'
 type: ice-contract
+state: 'VA'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$99,535.00'
+contract_type: 'federal-contract'
+award_date: '2025-08-29'
+usaspending_id: '70CMSW25FR0000103'
+source: 'USAspending.gov (award 70CMSW25FR0000103)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES GLOCK DUTY RED DOT PISTOL SIGHTS TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

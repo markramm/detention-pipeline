@@ -1,16 +1,19 @@
 ---
 id: payne-county-ok-usda-distress
-title: Payne County, OK — Budget Distress (score 4/10)
+title: 'Payne County, OK — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Payne County'
+state: 'OK'
+fips: '40119'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Payne County'
-fips: '40119'
 ---
 
 County-level fiscal distress indicators for Payne County, OK.

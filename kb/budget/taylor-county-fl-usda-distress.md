@@ -1,7 +1,13 @@
 ---
 id: taylor-county-fl-usda-distress
-title: Taylor County, FL — Budget Distress (score 4/10)
+title: 'Taylor County, FL — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Taylor County'
+state: 'FL'
+fips: '12123'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - fl
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'FL'
-county: 'Taylor County'
-fips: '12123'
 ---
 
 County-level fiscal distress indicators for Taylor County, FL.

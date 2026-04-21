@@ -1,7 +1,13 @@
 ---
 id: clay-county-wv-usda-distress
-title: Clay County, WV — Budget Distress (score 8/10)
+title: 'Clay County, WV — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Clay County'
+state: 'WV'
+fips: '54015'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - wv
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
-state: 'WV'
-county: 'Clay County'
-fips: '54015'
 ---
 
 County-level fiscal distress indicators for Clay County, WV.

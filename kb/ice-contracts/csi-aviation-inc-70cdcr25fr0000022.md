@@ -1,24 +1,24 @@
 ---
 id: csi-aviation-inc-70cdcr25fr0000022
-title: CSI AVIATION, INC — 70CDCR25FR0000022 (AZ) $562,049,742
+title: 'CSI AVIATION, INC — 70CDCR25FR0000022 (AZ) $562,049,742'
 type: ice-contract
+state: 'AZ'
+contractor: 'CSI AVIATION, INC'
+contractor_type: 'air-operations'
+contract_class: 'detention-related'
+contract_value: '$562,049,742.00'
+contract_type: 'federal-contract'
+award_date: '2025-03-01'
+usaspending_id: '70CDCR25FR0000022'
+source: 'USAspending.gov (award 70CDCR25FR0000022)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS TASK ORDER IS TO PROVIDE DAILY SCHEDULED LARGE AIRCRAFT & SPECIAL HIGH RISK CHARTER FLIGHTS TO FACILITATE ICE''S ENFORCEMENT AND REMOVAL OPERATIONS OF ILLEGAL ALIENS.'
 tags:
 - ice-contract
 - air-operations
 - detention-related
 - az
 importance: 5
-state: 'AZ'
-county: 'MARICOPA'
-fips: '04013'
-contractor: 'CSI AVIATION, INC'
-contract_value: '$562,049,742.00'
-contract_type: 'federal-contract'
-award_date: '2025-03-01'
-usaspending_id: '70CDCR25FR0000022'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THE PURPOSE OF THIS TASK ORDER IS TO PROVIDE DAILY SCHEDULED LARGE AIRCRAFT & SPECIAL HIGH RISK CHARTER FLIGHTS TO FACILITATE ICE''S ENFORCEMENT AND REMOVAL OPERATIONS OF ILLEGAL ALIENS.'
 ---
 
 ICE contract award.

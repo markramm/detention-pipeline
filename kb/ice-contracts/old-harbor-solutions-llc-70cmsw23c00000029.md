@@ -1,24 +1,24 @@
 ---
 id: old-harbor-solutions-llc-70cmsw23c00000029
-title: OLD HARBOR SOLUTIONS LLC — 70CMSW23C00000029 (GA) $4,815,839
+title: 'OLD HARBOR SOLUTIONS LLC — 70CMSW23C00000029 (GA) $4,815,839'
 type: ice-contract
+state: 'GA'
+contractor: 'OLD HARBOR SOLUTIONS LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$4,815,839.33'
+contract_type: 'federal-contract'
+award_date: '2023-09-25'
+usaspending_id: '70CMSW23C00000029'
+source: 'USAspending.gov (award 70CMSW23C00000029)'
+signal_strength: 'weak'
+notes: 'FORT MOORE TRAINING SUPPORT SERVICES, OFTP, SDU'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
-county: 'CHATTAHOOCHEE'
-fips: '13053'
-contractor: 'OLD HARBOR SOLUTIONS LLC'
-contract_value: '$4,815,839.33'
-contract_type: 'federal-contract'
-award_date: '2023-09-25'
-usaspending_id: '70CMSW23C00000029'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'FORT MOORE TRAINING SUPPORT SERVICES, OFTP, SDU'
 ---
 
 ICE contract award.

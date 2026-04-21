@@ -1,16 +1,19 @@
 ---
 id: muhlenberg-county-ky-usda-distress
-title: Muhlenberg County, KY — Budget Distress (score 3/10)
+title: 'Muhlenberg County, KY — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Muhlenberg County'
+state: 'KY'
+fips: '21177'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
 - population-loss
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Muhlenberg County'
-fips: '21177'
 ---
 
 County-level fiscal distress indicators for Muhlenberg County, KY.

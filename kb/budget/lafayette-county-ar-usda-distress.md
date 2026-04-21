@@ -1,7 +1,13 @@
 ---
 id: lafayette-county-ar-usda-distress
-title: Lafayette County, AR — Budget Distress (score 7/10)
+title: 'Lafayette County, AR — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Lafayette County'
+state: 'AR'
+fips: '05073'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ar
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Lafayette County'
-fips: '05073'
 ---
 
 County-level fiscal distress indicators for Lafayette County, AR.

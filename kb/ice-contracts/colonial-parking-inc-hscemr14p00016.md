@@ -1,14 +1,24 @@
 ---
 id: colonial-parking-inc-hscemr14p00016
-title: COLONIAL PARKING, INC — HSCEMR14P00016 (DC) $1,222,830
+title: 'COLONIAL PARKING, INC — HSCEMR14P00016 (DC) $1,222,830'
 type: ice-contract
+state: 'DC'
+contractor: 'COLONIAL PARKING, INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,222,830.00'
+contract_type: 'federal-contract'
+award_date: '2014-09-01'
+usaspending_id: 'HSCEMR14P00016'
+source: 'USAspending.gov (award HSCEMR14P00016)'
+signal_strength: 'weak'
+notes: 'PARKING 66 SPACES AT TECHWORLD IGF::OT::IGF'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

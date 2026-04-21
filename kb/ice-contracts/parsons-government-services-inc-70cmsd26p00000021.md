@@ -1,14 +1,24 @@
 ---
 id: parsons-government-services-inc-70cmsd26p00000021
-title: PARSONS GOVERNMENT SERVICES INC. — 70CMSD26P00000021 (DC) $168,408
+title: 'PARSONS GOVERNMENT SERVICES INC. — 70CMSD26P00000021 (DC) $168,408'
 type: ice-contract
+state: 'DC'
+contractor: 'PARSONS GOVERNMENT SERVICES INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$168,408.00'
+contract_type: 'federal-contract'
+award_date: '2026-02-11'
+usaspending_id: '70CMSD26P00000021'
+source: 'USAspending.gov (award 70CMSD26P00000021)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES PARSONS SOFTWARE AND ARES GATEWAY SERVICES WHICH ASSIST HOMELAND SECURITY INVESTIGATIONS'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

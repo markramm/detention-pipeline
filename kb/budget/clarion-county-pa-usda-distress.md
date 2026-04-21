@@ -1,16 +1,19 @@
 ---
 id: clarion-county-pa-usda-distress
-title: Clarion County, PA — Budget Distress (score 3/10)
+title: 'Clarion County, PA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Clarion County'
+state: 'PA'
+fips: '42031'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
 - population-loss
 - non-metro
 importance: 5
-state: 'PA'
-county: 'Clarion County'
-fips: '42031'
 ---
 
 County-level fiscal distress indicators for Clarion County, PA.

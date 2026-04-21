@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd25fc0000048
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD25FC0000048 (VA) $91,791
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD25FC0000048 (VA) $91,791'
 type: ice-contract
+state: 'VA'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$91,791.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-30'
+usaspending_id: '70CMSD25FC0000048'
+source: 'USAspending.gov (award 70CMSD25FC0000048)'
+signal_strength: 'strong'
+notes: 'THE AWARD IS TO LEASE MULTIFUNCTION DEVICES WITH MAINTENANCE, PARTS AND SUPPLIES FOR ENFORCEMENT & REMOVAL OPERATIONS, SAN DIEGO FIELD OFFICE.'
 tags:
 - ice-contract
 - other
 - detention-related
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

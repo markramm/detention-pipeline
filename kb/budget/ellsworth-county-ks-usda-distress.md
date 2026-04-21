@@ -1,7 +1,13 @@
 ---
 id: ellsworth-county-ks-usda-distress
-title: Ellsworth County, KS — Budget Distress (score 5/10)
+title: 'Ellsworth County, KS — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Ellsworth County'
+state: 'KS'
+fips: '20053'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ks
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Ellsworth County'
-fips: '20053'
 ---
 
 County-level fiscal distress indicators for Ellsworth County, KS.

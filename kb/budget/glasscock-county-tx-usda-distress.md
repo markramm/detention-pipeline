@@ -1,16 +1,19 @@
 ---
 id: glasscock-county-tx-usda-distress
-title: Glasscock County, TX — Budget Distress (score 3/10)
+title: 'Glasscock County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Glasscock County'
+state: 'TX'
+fips: '48173'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Glasscock County'
-fips: '48173'
 ---
 
 County-level fiscal distress indicators for Glasscock County, TX.

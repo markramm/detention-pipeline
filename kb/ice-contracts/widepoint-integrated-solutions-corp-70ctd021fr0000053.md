@@ -1,14 +1,24 @@
 ---
 id: widepoint-integrated-solutions-corp-70ctd021fr0000053
-title: WIDEPOINT INTEGRATED SOLUTIONS CORP — 70CTD021FR0000053 (DC) $89,642,938
+title: 'WIDEPOINT INTEGRATED SOLUTIONS CORP — 70CTD021FR0000053 (DC) $89,642,938'
 type: ice-contract
+state: 'DC'
+contractor: 'WIDEPOINT INTEGRATED SOLUTIONS CORP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$89,642,937.80'
+contract_type: 'federal-contract'
+award_date: '2021-03-16'
+usaspending_id: '70CTD021FR0000053'
+source: 'USAspending.gov (award 70CTD021FR0000053)'
+signal_strength: 'weak'
+notes: 'DHS CWMS IDIQ TASK ORDER'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

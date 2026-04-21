@@ -1,14 +1,24 @@
 ---
 id: avaya-federal-solutions-inc-70cmsd22fr0000086
-title: AVAYA FEDERAL SOLUTIONS, INC. — 70CMSD22FR0000086 (VA) $3,152,469
+title: 'AVAYA FEDERAL SOLUTIONS, INC. — 70CMSD22FR0000086 (VA) $3,152,469'
 type: ice-contract
+state: 'VA'
+contractor: 'AVAYA FEDERAL SOLUTIONS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$3,152,468.74'
+contract_type: 'federal-contract'
+award_date: '2022-08-02'
+usaspending_id: '70CMSD22FR0000086'
+source: 'USAspending.gov (award 70CMSD22FR0000086)'
+signal_strength: 'weak'
+notes: 'SEVP TELEPHONY OPERATIONS & MANAGEMENT SUPPORT'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: solv-llc-70cmsw24fr0000034
-title: SOLV LLC — 70CMSW24FR0000034 (DC) $1,770,771
+title: 'SOLV LLC — 70CMSW24FR0000034 (DC) $1,770,771'
 type: ice-contract
+state: 'DC'
+contractor: 'SOLV LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,770,771.00'
+contract_type: 'federal-contract'
+award_date: '2024-03-22'
+usaspending_id: '70CMSW24FR0000034'
+source: 'USAspending.gov (award 70CMSW24FR0000034)'
+signal_strength: 'weak'
+notes: 'ENERGY AND SUSTAINABILITY AND ENVIRONMENTAL SERVICES FOR THE OFFICE OF ASSET AND FACILITIES MANAGEMENT (OAFM)'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: johnston-county-ok-usda-distress
-title: Johnston County, OK — Budget Distress (score 4/10)
+title: 'Johnston County, OK — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Johnston County'
+state: 'OK'
+fips: '40069'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Johnston County'
-fips: '40069'
 ---
 
 County-level fiscal distress indicators for Johnston County, OK.

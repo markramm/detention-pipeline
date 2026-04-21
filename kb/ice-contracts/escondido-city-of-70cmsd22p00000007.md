@@ -1,14 +1,24 @@
 ---
 id: escondido-city-of-70cmsd22p00000007
-title: ESCONDIDO, CITY OF — 70CMSD22P00000007 (CA) $34,200
+title: 'ESCONDIDO, CITY OF — 70CMSD22P00000007 (CA) $34,200'
 type: ice-contract
+state: 'CA'
+contractor: 'ESCONDIDO, CITY OF'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$34,200.00'
+contract_type: 'federal-contract'
+award_date: '2022-01-01'
+usaspending_id: '70CMSD22P00000007'
+source: 'USAspending.gov (award 70CMSD22P00000007)'
+signal_strength: 'weak'
+notes: 'FIRING RANGE RENTAL'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

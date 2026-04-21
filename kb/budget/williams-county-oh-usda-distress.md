@@ -1,16 +1,19 @@
 ---
 id: williams-county-oh-usda-distress
-title: Williams County, OH — Budget Distress (score 3/10)
+title: 'Williams County, OH — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Williams County'
+state: 'OH'
+fips: '39171'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
 - population-loss
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Williams County'
-fips: '39171'
 ---
 
 County-level fiscal distress indicators for Williams County, OH.

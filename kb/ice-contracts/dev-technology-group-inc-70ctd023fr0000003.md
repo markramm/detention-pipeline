@@ -1,14 +1,24 @@
 ---
 id: dev-technology-group-inc-70ctd023fr0000003
-title: DEV TECHNOLOGY GROUP INC — 70CTD023FR0000003 (DC) $20,240,049
+title: 'DEV TECHNOLOGY GROUP INC — 70CTD023FR0000003 (DC) $20,240,049'
 type: ice-contract
+state: 'DC'
+contractor: 'DEV TECHNOLOGY GROUP INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$20,240,049.25'
+contract_type: 'federal-contract'
+award_date: '2022-12-15'
+usaspending_id: '70CTD023FR0000003'
+source: 'USAspending.gov (award 70CTD023FR0000003)'
+signal_strength: 'weak'
+notes: 'MICROSOFT M365 OPERATIONS AND MAINTENANCE (O&M) SHAREPOINT COLLAB DOMAIN SWIFT'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

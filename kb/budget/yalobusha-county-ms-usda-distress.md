@@ -1,7 +1,13 @@
 ---
 id: yalobusha-county-ms-usda-distress
-title: Yalobusha County, MS — Budget Distress (score 7/10)
+title: 'Yalobusha County, MS — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Yalobusha County'
+state: 'MS'
+fips: '28161'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Yalobusha County'
-fips: '28161'
 ---
 
 County-level fiscal distress indicators for Yalobusha County, MS.

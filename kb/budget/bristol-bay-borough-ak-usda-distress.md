@@ -1,16 +1,19 @@
 ---
 id: bristol-bay-borough-ak-usda-distress
-title: Bristol Bay Borough, AK — Budget Distress (score 3/10)
+title: 'Bristol Bay Borough, AK — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Bristol Bay Borough'
+state: 'AK'
+fips: '02060'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ak
 - population-loss
 - non-metro
 importance: 5
-state: 'AK'
-county: 'Bristol Bay Borough'
-fips: '02060'
 ---
 
 County-level fiscal distress indicators for Bristol Bay Borough, AK.

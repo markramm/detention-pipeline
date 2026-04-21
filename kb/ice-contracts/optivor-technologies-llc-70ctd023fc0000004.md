@@ -1,14 +1,24 @@
 ---
 id: optivor-technologies-llc-70ctd023fc0000004
-title: OPTIVOR TECHNOLOGIES, LLC — 70CTD023FC0000004 (CA) $26,586
+title: 'OPTIVOR TECHNOLOGIES, LLC — 70CTD023FC0000004 (CA) $26,586'
 type: ice-contract
+state: 'CA'
+contractor: 'OPTIVOR TECHNOLOGIES, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$26,585.61'
+contract_type: 'federal-contract'
+award_date: '2023-04-05'
+usaspending_id: '70CTD023FC0000004'
+source: 'USAspending.gov (award 70CTD023FC0000004)'
+signal_strength: 'weak'
+notes: 'BPA-PRIVATE BRANCH EXCHANGE AND VOICE OVER INTERNET PROTOCOL FOR SAN DIEGO OFFICE'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

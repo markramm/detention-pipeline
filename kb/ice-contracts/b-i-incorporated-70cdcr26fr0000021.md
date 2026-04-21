@@ -1,14 +1,24 @@
 ---
 id: b-i-incorporated-70cdcr26fr0000021
-title: B.I. INCORPORATED — 70CDCR26FR0000021 (CO) $1,624,500
+title: 'B.I. INCORPORATED — 70CDCR26FR0000021 (CO) $1,624,500'
 type: ice-contract
+state: 'CO'
+contractor: 'B.I. INCORPORATED'
+contractor_type: 'monitoring'
+contract_class: 'detention-related'
+contract_value: '$1,624,500.00'
+contract_type: 'federal-contract'
+award_date: '2025-12-16'
+usaspending_id: '70CDCR26FR0000021'
+source: 'USAspending.gov (award 70CDCR26FR0000021)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS TASK ORDER IS TO OBTAIN SKIP TRACING SERVICES FOR ENFORCEMENT AND REMOVAL OPERATIONS (ERO).'
 tags:
 - ice-contract
 - monitoring
 - detention-related
 - co
 importance: 5
-state: 'CO'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: integrated-biometrics-llc-70cmsd25p00000062
-title: INTEGRATED BIOMETRICS, LLC — 70CMSD25P00000062 (SC) $26,226
+title: 'INTEGRATED BIOMETRICS, LLC — 70CMSD25P00000062 (SC) $26,226'
 type: ice-contract
+state: 'SC'
+contractor: 'INTEGRATED BIOMETRICS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$26,226.48'
+contract_type: 'federal-contract'
+award_date: '2025-07-15'
+usaspending_id: '70CMSD25P00000062'
+source: 'USAspending.gov (award 70CMSD25P00000062)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ICE - HOMELAND SECURITY INVESTIGATIONS MIAMI OFFICE WITH FINGERPRINT SCANNERS IN SUPPORT OF ONGOING LAW ENFORCEMENT INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - sc
 importance: 5
-state: 'SC'
 ---
 
 ICE contract award.

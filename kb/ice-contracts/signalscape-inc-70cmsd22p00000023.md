@@ -1,14 +1,24 @@
 ---
 id: signalscape-inc-70cmsd22p00000023
-title: SIGNALSCAPE INC — 70CMSD22P00000023 (CA) $35,953
+title: 'SIGNALSCAPE INC — 70CMSD22P00000023 (CA) $35,953'
 type: ice-contract
+state: 'CA'
+contractor: 'SIGNALSCAPE INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$35,952.89'
+contract_type: 'federal-contract'
+award_date: '2022-05-01'
+usaspending_id: '70CMSD22P00000023'
+source: 'USAspending.gov (award 70CMSD22P00000023)'
+signal_strength: 'weak'
+notes: 'MAINTENANCE OF STARWITNESS FIELD INTERVIEWERS FOR USE AT PORTS OF ENTRY'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

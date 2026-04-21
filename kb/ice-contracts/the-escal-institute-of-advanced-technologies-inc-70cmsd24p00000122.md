@@ -1,14 +1,24 @@
 ---
 id: the-escal-institute-of-advanced-technologies-inc-70cmsd24p00000122
-title: THE ESCAL INSTITUTE OF ADVANCED TECHNOLOGIES, INC. — 70CMSD24P00000122 (VA) $999,838
+title: 'THE ESCAL INSTITUTE OF ADVANCED TECHNOLOGIES, INC. — 70CMSD24P00000122 (VA) $999,838'
 type: ice-contract
+state: 'VA'
+contractor: 'THE ESCAL INSTITUTE OF ADVANCED TECHNOLOGIES, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$999,838.40'
+contract_type: 'federal-contract'
+award_date: '2024-09-09'
+usaspending_id: '70CMSD24P00000122'
+source: 'USAspending.gov (award 70CMSD24P00000122)'
+signal_strength: 'weak'
+notes: 'SANS TRAINING'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

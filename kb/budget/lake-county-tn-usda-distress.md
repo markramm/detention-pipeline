@@ -1,7 +1,13 @@
 ---
 id: lake-county-tn-usda-distress
-title: Lake County, TN — Budget Distress (score 9/10)
+title: 'Lake County, TN — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Lake County'
+state: 'TN'
+fips: '47095'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tn
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TN'
-county: 'Lake County'
-fips: '47095'
 ---
 
 County-level fiscal distress indicators for Lake County, TN.

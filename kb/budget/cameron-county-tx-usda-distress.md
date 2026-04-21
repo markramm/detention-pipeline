@@ -1,15 +1,18 @@
 ---
 id: cameron-county-tx-usda-distress
-title: Cameron County, TX — Budget Distress (score 3/10)
+title: 'Cameron County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cameron County'
+state: 'TX'
+fips: '48061'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - persistent-poverty
 importance: 5
-state: 'TX'
-county: 'Cameron County'
-fips: '48061'
 ---
 
 County-level fiscal distress indicators for Cameron County, TX.

@@ -1,7 +1,13 @@
 ---
 id: polk-county-tx-usda-distress
-title: Polk County, TX — Budget Distress (score 4/10)
+title: 'Polk County, TX — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Polk County'
+state: 'TX'
+fips: '48373'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Polk County'
-fips: '48373'
 ---
 
 County-level fiscal distress indicators for Polk County, TX.

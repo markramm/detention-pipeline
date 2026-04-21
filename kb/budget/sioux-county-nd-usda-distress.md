@@ -1,7 +1,13 @@
 ---
 id: sioux-county-nd-usda-distress
-title: Sioux County, ND — Budget Distress (score 6/10)
+title: 'Sioux County, ND — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Sioux County'
+state: 'ND'
+fips: '38085'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nd
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'ND'
-county: 'Sioux County'
-fips: '38085'
 ---
 
 County-level fiscal distress indicators for Sioux County, ND.

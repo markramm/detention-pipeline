@@ -1,14 +1,24 @@
 ---
 id: humango-solutions-llc-70ctd025fc0000030
-title: HUMANGO SOLUTIONS, LLC — 70CTD025FC0000030 (TX) $678,886
+title: 'HUMANGO SOLUTIONS, LLC — 70CTD025FC0000030 (TX) $678,886'
 type: ice-contract
+state: 'TX'
+contractor: 'HUMANGO SOLUTIONS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$678,886.03'
+contract_type: 'federal-contract'
+award_date: '2025-09-19'
+usaspending_id: '70CTD025FC0000030'
+source: 'USAspending.gov (award 70CTD025FC0000030)'
+signal_strength: 'weak'
+notes: 'PROVIDES THE PROCUREMENT & INSTALLATION OF VIDEO TELECONFERENCING EQUIPMENT FOR THE OFFICE OF LEADERSHIP & CAREER DEVELOPMENT (OLCD) SITE LOCATED IN IRVING, TX.'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

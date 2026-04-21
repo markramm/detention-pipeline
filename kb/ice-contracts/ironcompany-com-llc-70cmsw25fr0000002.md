@@ -1,14 +1,24 @@
 ---
 id: ironcompany-com-llc-70cmsw25fr0000002
-title: IRONCOMPANY.COM, LLC — 70CMSW25FR0000002 (TX) $11,205
+title: 'IRONCOMPANY.COM, LLC — 70CMSW25FR0000002 (TX) $11,205'
 type: ice-contract
+state: 'TX'
+contractor: 'IRONCOMPANY.COM, LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$11,205.00'
+contract_type: 'federal-contract'
+award_date: '2025-01-31'
+usaspending_id: '70CMSW25FR0000002'
+source: 'USAspending.gov (award 70CMSW25FR0000002)'
+signal_strength: 'strong'
+notes: 'PRO-25-ERO-0056  LOUISVILLE KENTUCKY'
 tags:
 - ice-contract
 - other
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

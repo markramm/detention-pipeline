@@ -1,14 +1,24 @@
 ---
 id: widepoint-integrated-solutions-corp-70cmsd21fr0000058
-title: WIDEPOINT INTEGRATED SOLUTIONS CORP — 70CMSD21FR0000058 (VA) $2,655,258
+title: 'WIDEPOINT INTEGRATED SOLUTIONS CORP — 70CMSD21FR0000058 (VA) $2,655,258'
 type: ice-contract
+state: 'VA'
+contractor: 'WIDEPOINT INTEGRATED SOLUTIONS CORP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$2,655,257.91'
+contract_type: 'federal-contract'
+award_date: '2021-05-25'
+usaspending_id: '70CMSD21FR0000058'
+source: 'USAspending.gov (award 70CMSD21FR0000058)'
+signal_strength: 'weak'
+notes: 'CELLULAR WIRELESS DATA SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

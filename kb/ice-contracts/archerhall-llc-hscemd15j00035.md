@@ -1,14 +1,24 @@
 ---
 id: archerhall-llc-hscemd15j00035
-title: ARCHERHALL LLC — HSCEMD15J00035 (CA) $31,016
+title: 'ARCHERHALL LLC — HSCEMD15J00035 (CA) $31,016'
 type: ice-contract
+state: 'CA'
+contractor: 'ARCHERHALL LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$31,015.62'
+contract_type: 'federal-contract'
+award_date: '2015-06-04'
+usaspending_id: 'HSCEMD15J00035'
+source: 'USAspending.gov (award HSCEMD15J00035)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF DOCUMENT IMAGING AND TRANSLATION SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

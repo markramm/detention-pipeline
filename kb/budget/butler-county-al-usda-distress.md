@@ -1,7 +1,13 @@
 ---
 id: butler-county-al-usda-distress
-title: Butler County, AL — Budget Distress (score 4/10)
+title: 'Butler County, AL — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Butler County'
+state: 'AL'
+fips: '01013'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - al
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Butler County'
-fips: '01013'
 ---
 
 County-level fiscal distress indicators for Butler County, AL.

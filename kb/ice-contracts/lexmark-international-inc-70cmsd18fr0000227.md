@@ -1,14 +1,24 @@
 ---
 id: lexmark-international-inc-70cmsd18fr0000227
-title: LEXMARK INTERNATIONAL, INC. — 70CMSD18FR0000227 (KY) $20,532
+title: 'LEXMARK INTERNATIONAL, INC. — 70CMSD18FR0000227 (KY) $20,532'
 type: ice-contract
+state: 'KY'
+contractor: 'LEXMARK INTERNATIONAL, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$20,532.00'
+contract_type: 'federal-contract'
+award_date: '2018-09-10'
+usaspending_id: '70CMSD18FR0000227'
+source: 'USAspending.gov (award 70CMSD18FR0000227)'
+signal_strength: 'weak'
+notes: 'COPY MACHINES NEEDED TO REPLACE BROKEN ONES IN THE FIELD OFFICE'
 tags:
 - ice-contract
 - other
 - other-ice
 - ky
 importance: 5
-state: 'KY'
 ---
 
 ICE contract award.

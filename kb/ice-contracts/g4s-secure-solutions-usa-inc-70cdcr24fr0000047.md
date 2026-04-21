@@ -1,14 +1,24 @@
 ---
 id: g4s-secure-solutions-usa-inc-70cdcr24fr0000047
-title: G4S SECURE SOLUTIONS (USA) INC. — 70CDCR24FR0000047 (CA) $16,634,144
+title: 'G4S SECURE SOLUTIONS (USA) INC. — 70CDCR24FR0000047 (CA) $16,634,144'
 type: ice-contract
+state: 'CA'
+contractor: 'G4S SECURE SOLUTIONS (USA) INC.'
+contractor_type: 'private-security'
+contract_class: 'detention-related'
+contract_value: '$16,634,143.80'
+contract_type: 'federal-contract'
+award_date: '2024-07-30'
+usaspending_id: '70CDCR24FR0000047'
+source: 'USAspending.gov (award 70CDCR24FR0000047)'
+signal_strength: 'strong'
+notes: 'TRANSPORTATION -ARMED DETENTION OFFICERS TRANSPORTATION SERVICES'
 tags:
 - ice-contract
 - private-security
 - detention-related
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

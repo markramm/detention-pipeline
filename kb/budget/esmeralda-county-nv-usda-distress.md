@@ -1,16 +1,19 @@
 ---
 id: esmeralda-county-nv-usda-distress
-title: Esmeralda County, NV — Budget Distress (score 3/10)
+title: 'Esmeralda County, NV — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Esmeralda County'
+state: 'NV'
+fips: '32009'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nv
 - population-loss
 - non-metro
 importance: 5
-state: 'NV'
-county: 'Esmeralda County'
-fips: '32009'
 ---
 
 County-level fiscal distress indicators for Esmeralda County, NV.

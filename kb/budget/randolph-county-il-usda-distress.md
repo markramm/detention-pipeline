@@ -1,16 +1,19 @@
 ---
 id: randolph-county-il-usda-distress
-title: Randolph County, IL — Budget Distress (score 3/10)
+title: 'Randolph County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Randolph County'
+state: 'IL'
+fips: '17157'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Randolph County'
-fips: '17157'
 ---
 
 County-level fiscal distress indicators for Randolph County, IL.

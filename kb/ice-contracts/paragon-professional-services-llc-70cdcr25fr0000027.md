@@ -1,24 +1,24 @@
 ---
 id: paragon-professional-services-llc-70cdcr25fr0000027
-title: PARAGON PROFESSIONAL SERVICES LLC — 70CDCR25FR0000027 (NY) $5,902,664
+title: 'PARAGON PROFESSIONAL SERVICES LLC — 70CDCR25FR0000027 (NY) $5,902,664'
 type: ice-contract
+state: 'NY'
+contractor: 'PARAGON PROFESSIONAL SERVICES LLC'
+contractor_type: 'guard-services'
+contract_class: 'detention-related'
+contract_value: '$5,902,664.00'
+contract_type: 'federal-contract'
+award_date: '2025-04-01'
+usaspending_id: '70CDCR25FR0000027'
+source: 'USAspending.gov (award 70CDCR25FR0000027)'
+signal_strength: 'strong'
+notes: 'THIS TASK ORDER IS FOR TRANSPORTATION AND GUARD SERVICES FOR THE ENFORCEMENT AND REMOVAL OPERATIONS, NYC AREA OF RESPONSIBILITY TO ACHIEVE THE ICE MISSION TO SAFELY TRANSPORT DETAINED ALIENS.'
 tags:
 - ice-contract
 - guard-services
 - detention-related
 - ny
 importance: 5
-state: 'NY'
-county: 'NEW YORK'
-fips: '36061'
-contractor: 'PARAGON PROFESSIONAL SERVICES LLC'
-contract_value: '$5,902,664.00'
-contract_type: 'federal-contract'
-award_date: '2025-04-01'
-usaspending_id: '70CDCR25FR0000027'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THIS TASK ORDER IS FOR TRANSPORTATION AND GUARD SERVICES FOR THE ENFORCEMENT AND REMOVAL OPERATIONS, NYC AREA OF RESPONSIBILITY TO ACHIEVE THE ICE MISSION TO SAFELY TRANSPORT DETAINED ALIENS.'
 ---
 
 ICE contract award.

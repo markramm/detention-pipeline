@@ -1,24 +1,24 @@
 ---
 id: bowhead-marine-support-services-llc-70cmsd22c00000003
-title: BOWHEAD MARINE SUPPORT SERVICES LLC — 70CMSD22C00000003 (TX) $41,122,569
+title: 'BOWHEAD MARINE SUPPORT SERVICES LLC — 70CMSD22C00000003 (TX) $41,122,569'
 type: ice-contract
+state: 'TX'
+contractor: 'BOWHEAD MARINE SUPPORT SERVICES LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$41,122,568.62'
+contract_type: 'federal-contract'
+award_date: '2022-08-29'
+usaspending_id: '70CMSD22C00000003'
+source: 'USAspending.gov (award 70CMSD22C00000003)'
+signal_strength: 'weak'
+notes: 'OPLA PLANET ADMINISTRATIVE SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
-county: 'COLLIN'
-fips: '48085'
-contractor: 'BOWHEAD MARINE SUPPORT SERVICES LLC'
-contract_value: '$41,122,568.62'
-contract_type: 'federal-contract'
-award_date: '2022-08-29'
-usaspending_id: '70CMSD22C00000003'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'OPLA PLANET ADMINISTRATIVE SUPPORT SERVICES'
 ---
 
 ICE contract award.

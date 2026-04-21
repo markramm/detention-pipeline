@@ -1,16 +1,19 @@
 ---
 id: russell-county-ky-usda-distress
-title: Russell County, KY — Budget Distress (score 4/10)
+title: 'Russell County, KY — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Russell County'
+state: 'KY'
+fips: '21207'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ky
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'KY'
-county: 'Russell County'
-fips: '21207'
 ---
 
 County-level fiscal distress indicators for Russell County, KY.

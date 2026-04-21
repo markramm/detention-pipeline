@@ -1,14 +1,24 @@
 ---
 id: kelley-create-co-70cmsd24fr0000004
-title: KELLEY CREATE CO — 70CMSD24FR0000004 (CA) $7,088
+title: 'KELLEY CREATE CO — 70CMSD24FR0000004 (CA) $7,088'
 type: ice-contract
+state: 'CA'
+contractor: 'KELLEY CREATE CO'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$7,088.40'
+contract_type: 'federal-contract'
+award_date: '2024-03-01'
+usaspending_id: '70CMSD24FR0000004'
+source: 'USAspending.gov (award 70CMSD24FR0000004)'
+signal_strength: 'weak'
+notes: 'LEASE A NEW COPIER FOR CONCORD, CA (FACILITIES)'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

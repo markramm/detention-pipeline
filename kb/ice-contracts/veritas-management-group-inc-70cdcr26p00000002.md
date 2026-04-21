@@ -1,14 +1,24 @@
 ---
 id: veritas-management-group-inc-70cdcr26p00000002
-title: VERITAS MANAGEMENT GROUP, INC. — 70CDCR26P00000002 (GA) $1,593,399
+title: 'VERITAS MANAGEMENT GROUP, INC. — 70CDCR26P00000002 (GA) $1,593,399'
 type: ice-contract
+state: 'GA'
+contractor: 'VERITAS MANAGEMENT GROUP, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$1,593,398.60'
+contract_type: 'federal-contract'
+award_date: '2026-03-03'
+usaspending_id: '70CDCR26P00000002'
+source: 'USAspending.gov (award 70CDCR26P00000002)'
+signal_strength: 'strong'
+notes: 'THIS IS A CONTRACT FOR BASE AND FOUR POSSIBLE ONE-YEAR OPTIONS TO PROVIDE RELIGIOUS SERVICES AT FIVE ICE DETENTION FACILITIES IN BATAVIA, NY; KROME, FL; PORT ISABELL, TX; EL PASO, TX; FLORENCE, AZ AND NAVAL STATION GUANTANAMO BAY (NSGB), CUBA.'
 tags:
 - ice-contract
 - other
 - detention-related
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

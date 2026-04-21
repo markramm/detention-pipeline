@@ -1,14 +1,24 @@
 ---
 id: leidos-security-detection-automation-inc-70cdcr24p00000018
-title: LEIDOS SECURITY DETECTION & AUTOMATION, INC. — 70CDCR24P00000018 (FL) $6,200
+title: 'LEIDOS SECURITY DETECTION & AUTOMATION, INC. — 70CDCR24P00000018 (FL) $6,200'
 type: ice-contract
+state: 'FL'
+contractor: 'LEIDOS SECURITY DETECTION & AUTOMATION, INC.'
+contractor_type: 'technology'
+contract_class: 'other-ice'
+contract_value: '$6,200.00'
+contract_type: 'federal-contract'
+award_date: '2024-08-01'
+usaspending_id: '70CDCR24P00000018'
+source: 'USAspending.gov (award 70CDCR24P00000018)'
+signal_strength: 'weak'
+notes: 'ANNUAL SERVICE AND MAINTENANCE PLANS FOR KROME SPC X-RAY MACHINE.'
 tags:
 - ice-contract
 - technology
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

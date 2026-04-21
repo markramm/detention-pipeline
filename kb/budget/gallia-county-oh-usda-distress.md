@@ -1,16 +1,19 @@
 ---
 id: gallia-county-oh-usda-distress
-title: Gallia County, OH — Budget Distress (score 3/10)
+title: 'Gallia County, OH — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Gallia County'
+state: 'OH'
+fips: '39053'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
 - population-loss
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Gallia County'
-fips: '39053'
 ---
 
 County-level fiscal distress indicators for Gallia County, OH.

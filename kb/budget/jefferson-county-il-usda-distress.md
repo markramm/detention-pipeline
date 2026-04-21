@@ -1,16 +1,19 @@
 ---
 id: jefferson-county-il-usda-distress
-title: Jefferson County, IL — Budget Distress (score 3/10)
+title: 'Jefferson County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Jefferson County'
+state: 'IL'
+fips: '17081'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Jefferson County'
-fips: '17081'
 ---
 
 County-level fiscal distress indicators for Jefferson County, IL.

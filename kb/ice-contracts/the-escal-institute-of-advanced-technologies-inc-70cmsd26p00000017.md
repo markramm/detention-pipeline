@@ -1,14 +1,24 @@
 ---
 id: the-escal-institute-of-advanced-technologies-inc-70cmsd26p00000017
-title: THE ESCAL INSTITUTE OF ADVANCED TECHNOLOGIES, INC. — 70CMSD26P00000017 (VA) $474,947
+title: 'THE ESCAL INSTITUTE OF ADVANCED TECHNOLOGIES, INC. — 70CMSD26P00000017 (VA) $474,947'
 type: ice-contract
+state: 'VA'
+contractor: 'THE ESCAL INSTITUTE OF ADVANCED TECHNOLOGIES, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$474,947.20'
+contract_type: 'federal-contract'
+award_date: '2026-04-13'
+usaspending_id: '70CMSD26P00000017'
+source: 'USAspending.gov (award 70CMSD26P00000017)'
+signal_strength: 'weak'
+notes: 'THIS ORDER PROVIDES SANS FORENSIC INVESTIGATIONS TRAINING FOR HOMELAND SECURITY INVESTIGATIONS AGENTS TO ACHIEVE THE MISSION.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

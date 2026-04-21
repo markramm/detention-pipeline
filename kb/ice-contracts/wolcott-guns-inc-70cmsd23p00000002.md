@@ -1,14 +1,24 @@
 ---
 id: wolcott-guns-inc-70cmsd23p00000002
-title: WOLCOTT GUNS INC — 70CMSD23P00000002 (NY) $21,600
+title: 'WOLCOTT GUNS INC — 70CMSD23P00000002 (NY) $21,600'
 type: ice-contract
+state: 'NY'
+contractor: 'WOLCOTT GUNS INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$21,600.00'
+contract_type: 'federal-contract'
+award_date: '2023-02-01'
+usaspending_id: '70CMSD23P00000002'
+source: 'USAspending.gov (award 70CMSD23P00000002)'
+signal_strength: 'weak'
+notes: 'RENTAL OF INDOOR FIRING RANGE.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ny
 importance: 5
-state: 'NY'
 ---
 
 ICE contract award.

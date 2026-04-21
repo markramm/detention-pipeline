@@ -1,14 +1,24 @@
 ---
 id: integral-federal-inc-hscemd16faf002
-title: INTEGRAL FEDERAL, INC. — HSCEMD16FAF002 (DC) $4,200,935
+title: 'INTEGRAL FEDERAL, INC. — HSCEMD16FAF002 (DC) $4,200,935'
 type: ice-contract
+state: 'DC'
+contractor: 'INTEGRAL FEDERAL, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$4,200,935.03'
+contract_type: 'federal-contract'
+award_date: '2016-05-01'
+usaspending_id: 'HSCEMD16FAF002'
+source: 'USAspending.gov (award HSCEMD16FAF002)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF  INTEL ANALYST SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

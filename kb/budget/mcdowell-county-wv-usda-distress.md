@@ -1,7 +1,13 @@
 ---
 id: mcdowell-county-wv-usda-distress
-title: McDowell County, WV — Budget Distress (score 9/10)
+title: 'McDowell County, WV — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'McDowell County'
+state: 'WV'
+fips: '54047'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - wv
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'McDowell County'
-fips: '54047'
 ---
 
 County-level fiscal distress indicators for McDowell County, WV.

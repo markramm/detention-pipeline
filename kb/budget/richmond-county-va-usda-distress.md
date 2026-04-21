@@ -1,7 +1,13 @@
 ---
 id: richmond-county-va-usda-distress
-title: Richmond County, VA — Budget Distress (score 4/10)
+title: 'Richmond County, VA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Richmond County'
+state: 'VA'
+fips: '51159'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - va
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'VA'
-county: 'Richmond County'
-fips: '51159'
 ---
 
 County-level fiscal distress indicators for Richmond County, VA.

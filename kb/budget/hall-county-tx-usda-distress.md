@@ -1,16 +1,19 @@
 ---
 id: hall-county-tx-usda-distress
-title: Hall County, TX — Budget Distress (score 3/10)
+title: 'Hall County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Hall County'
+state: 'TX'
+fips: '48191'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Hall County'
-fips: '48191'
 ---
 
 County-level fiscal distress indicators for Hall County, TX.

@@ -1,16 +1,19 @@
 ---
 id: marion-county-al-usda-distress
-title: Marion County, AL — Budget Distress (score 3/10)
+title: 'Marion County, AL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Marion County'
+state: 'AL'
+fips: '01093'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - al
 - population-loss
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Marion County'
-fips: '01093'
 ---
 
 County-level fiscal distress indicators for Marion County, AL.

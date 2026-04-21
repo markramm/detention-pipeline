@@ -1,7 +1,13 @@
 ---
 id: sunflower-county-ms-usda-distress
-title: Sunflower County, MS — Budget Distress (score 8/10)
+title: 'Sunflower County, MS — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Sunflower County'
+state: 'MS'
+fips: '28133'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'MS'
-county: 'Sunflower County'
-fips: '28133'
 ---
 
 County-level fiscal distress indicators for Sunflower County, MS.

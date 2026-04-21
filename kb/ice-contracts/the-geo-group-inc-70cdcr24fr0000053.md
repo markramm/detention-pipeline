@@ -1,24 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr24fr0000053
-title: THE GEO GROUP, INC. — 70CDCR24FR0000053 (FL) $42,926,175
+title: 'THE GEO GROUP, INC. — 70CDCR24FR0000053 (FL) $42,926,175'
 type: ice-contract
+state: 'FL'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$42,926,174.75'
+contract_type: 'federal-contract'
+award_date: '2024-09-01'
+usaspending_id: '70CDCR24FR0000053'
+source: 'USAspending.gov (award 70CDCR24FR0000053)'
+signal_strength: 'strong'
+notes: 'NEW TASK ORDER TO PROVIDE FUNDING TO HOUSE AND TRANSPORT ICE DETAINEES AT BROWARD TRANSITIONAL CENTER'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - fl
 importance: 5
-state: 'FL'
-county: 'BROWARD'
-fips: '12011'
-contractor: 'THE GEO GROUP, INC.'
-contract_value: '$42,926,174.75'
-contract_type: 'federal-contract'
-award_date: '2024-09-01'
-usaspending_id: '70CDCR24FR0000053'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'NEW TASK ORDER TO PROVIDE FUNDING TO HOUSE AND TRANSPORT ICE DETAINEES AT BROWARD TRANSITIONAL CENTER'
 ---
 
 ICE contract award.

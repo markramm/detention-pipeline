@@ -1,16 +1,19 @@
 ---
 id: clearfield-county-pa-usda-distress
-title: Clearfield County, PA — Budget Distress (score 3/10)
+title: 'Clearfield County, PA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Clearfield County'
+state: 'PA'
+fips: '42033'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
 - population-loss
 - non-metro
 importance: 5
-state: 'PA'
-county: 'Clearfield County'
-fips: '42033'
 ---
 
 County-level fiscal distress indicators for Clearfield County, PA.

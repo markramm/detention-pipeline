@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd20fr0000201
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD20FR0000201 (DC) $8,940
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD20FR0000201 (DC) $8,940'
 type: ice-contract
+state: 'DC'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$8,940.00'
+contract_type: 'federal-contract'
+award_date: '2020-09-17'
+usaspending_id: '70CMSD20FR0000201'
+source: 'USAspending.gov (award 70CMSD20FR0000201)'
+signal_strength: 'weak'
+notes: 'MULTI-FUNCTIONAL DEVICE (MFD) LEASE'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

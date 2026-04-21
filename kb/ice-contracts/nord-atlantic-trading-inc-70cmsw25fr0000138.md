@@ -1,14 +1,24 @@
 ---
 id: nord-atlantic-trading-inc-70cmsw25fr0000138
-title: NORD/ATLANTIC TRADING, INC. — 70CMSW25FR0000138 (FL) $82,246
+title: 'NORD/ATLANTIC TRADING, INC. — 70CMSW25FR0000138 (FL) $82,246'
 type: ice-contract
+state: 'FL'
+contractor: 'NORD/ATLANTIC TRADING, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$82,246.30'
+contract_type: 'federal-contract'
+award_date: '2025-09-25'
+usaspending_id: '70CMSW25FR0000138'
+source: 'USAspending.gov (award 70CMSW25FR0000138)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES BALLISTIC HELMET MOUNTS TO SUPPORT LAW ENFORCEMENT OPERATIONS AND ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

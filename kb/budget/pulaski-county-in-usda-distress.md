@@ -1,16 +1,19 @@
 ---
 id: pulaski-county-in-usda-distress
-title: Pulaski County, IN — Budget Distress (score 3/10)
+title: 'Pulaski County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Pulaski County'
+state: 'IN'
+fips: '18131'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - non-metro
 importance: 5
-state: 'IN'
-county: 'Pulaski County'
-fips: '18131'
 ---
 
 County-level fiscal distress indicators for Pulaski County, IN.

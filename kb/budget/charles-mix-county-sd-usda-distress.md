@@ -1,16 +1,19 @@
 ---
 id: charles-mix-county-sd-usda-distress
-title: Charles Mix County, SD — Budget Distress (score 4/10)
+title: 'Charles Mix County, SD — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Charles Mix County'
+state: 'SD'
+fips: '46023'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sd
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Charles Mix County'
-fips: '46023'
 ---
 
 County-level fiscal distress indicators for Charles Mix County, SD.

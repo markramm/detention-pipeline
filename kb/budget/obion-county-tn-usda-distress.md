@@ -1,7 +1,13 @@
 ---
 id: obion-county-tn-usda-distress
-title: Obion County, TN — Budget Distress (score 4/10)
+title: 'Obion County, TN — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Obion County'
+state: 'TN'
+fips: '47131'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tn
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TN'
-county: 'Obion County'
-fips: '47131'
 ---
 
 County-level fiscal distress indicators for Obion County, TN.

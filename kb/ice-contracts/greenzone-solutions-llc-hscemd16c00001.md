@@ -1,14 +1,24 @@
 ---
 id: greenzone-solutions-llc-hscemd16c00001
-title: GREENZONE SOLUTIONS LLC — HSCEMD16C00001 (VA) $3,655,403
+title: 'GREENZONE SOLUTIONS LLC — HSCEMD16C00001 (VA) $3,655,403'
 type: ice-contract
+state: 'VA'
+contractor: 'GREENZONE SOLUTIONS LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$3,655,402.67'
+contract_type: 'federal-contract'
+award_date: '2016-02-02'
+usaspending_id: 'HSCEMD16C00001'
+source: 'USAspending.gov (award HSCEMD16C00001)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF ANALYTICAL SUPPORT SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

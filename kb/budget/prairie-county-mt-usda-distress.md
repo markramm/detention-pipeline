@@ -1,16 +1,19 @@
 ---
 id: prairie-county-mt-usda-distress
-title: Prairie County, MT — Budget Distress (score 3/10)
+title: 'Prairie County, MT — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Prairie County'
+state: 'MT'
+fips: '30079'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mt
 - population-loss
 - non-metro
 importance: 5
-state: 'MT'
-county: 'Prairie County'
-fips: '30079'
 ---
 
 County-level fiscal distress indicators for Prairie County, MT.

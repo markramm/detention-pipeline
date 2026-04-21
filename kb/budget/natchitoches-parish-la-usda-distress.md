@@ -1,16 +1,19 @@
 ---
 id: natchitoches-parish-la-usda-distress
-title: Natchitoches Parish, LA — Budget Distress (score 4/10)
+title: 'Natchitoches Parish, LA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Natchitoches Parish'
+state: 'LA'
+fips: '22069'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - la
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Natchitoches Parish'
-fips: '22069'
 ---
 
 County-level fiscal distress indicators for Natchitoches Parish, LA.

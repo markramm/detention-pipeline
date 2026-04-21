@@ -1,24 +1,24 @@
 ---
 id: kpb-services-llc-70cmsw26fr0000001
-title: KPB SERVICES LLC — 70CMSW26FR0000001 (KS) $29,914,916
+title: 'KPB SERVICES LLC — 70CMSW26FR0000001 (KS) $29,914,916'
 type: ice-contract
+state: 'KS'
+contractor: 'KPB SERVICES LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$29,914,916.00'
+contract_type: 'federal-contract'
+award_date: '2025-11-29'
+usaspending_id: '70CMSW26FR0000001'
+source: 'USAspending.gov (award 70CMSW26FR0000001)'
+signal_strength: 'strong'
+notes: 'DUE DILIGENCE SERVICES AND CONCEPT DESIGN FOR PROCESSING CENTERS AND MEGA CENTERS THROUGHOUT THE UNITED STATES'
 tags:
 - ice-contract
 - other
 - detention-related
 - ks
 importance: 5
-state: 'KS'
-county: 'JACKSON'
-fips: '20085'
-contractor: 'KPB SERVICES LLC'
-contract_value: '$29,914,916.00'
-contract_type: 'federal-contract'
-award_date: '2025-11-29'
-usaspending_id: '70CMSW26FR0000001'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'DUE DILIGENCE SERVICES AND CONCEPT DESIGN FOR PROCESSING CENTERS AND MEGA CENTERS THROUGHOUT THE UNITED STATES'
 ---
 
 ICE contract award.

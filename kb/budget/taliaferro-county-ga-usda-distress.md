@@ -1,7 +1,13 @@
 ---
 id: taliaferro-county-ga-usda-distress
-title: Taliaferro County, GA — Budget Distress (score 6/10)
+title: 'Taliaferro County, GA — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Taliaferro County'
+state: 'GA'
+fips: '13265'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Taliaferro County'
-fips: '13265'
 ---
 
 County-level fiscal distress indicators for Taliaferro County, GA.

@@ -1,16 +1,19 @@
 ---
 id: faribault-county-mn-usda-distress
-title: Faribault County, MN — Budget Distress (score 3/10)
+title: 'Faribault County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Faribault County'
+state: 'MN'
+fips: '27043'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Faribault County'
-fips: '27043'
 ---
 
 County-level fiscal distress indicators for Faribault County, MN.

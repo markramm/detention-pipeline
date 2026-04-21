@@ -1,16 +1,19 @@
 ---
 id: mercer-county-wv-usda-distress
-title: Mercer County, WV — Budget Distress (score 3/10)
+title: 'Mercer County, WV — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Mercer County'
+state: 'WV'
+fips: '54055'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wv
 - population-loss
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Mercer County'
-fips: '54055'
 ---
 
 County-level fiscal distress indicators for Mercer County, WV.

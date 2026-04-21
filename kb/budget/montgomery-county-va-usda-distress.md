@@ -1,15 +1,18 @@
 ---
 id: montgomery-county-va-usda-distress
-title: Montgomery County, VA — Budget Distress (score 3/10)
+title: 'Montgomery County, VA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Montgomery County'
+state: 'VA'
+fips: '51121'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - va
 - persistent-poverty
 importance: 5
-state: 'VA'
-county: 'Montgomery County'
-fips: '51121'
 ---
 
 County-level fiscal distress indicators for Montgomery County, VA.

@@ -1,7 +1,13 @@
 ---
 id: sabine-parish-la-usda-distress
-title: Sabine Parish, LA — Budget Distress (score 7/10)
+title: 'Sabine Parish, LA — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Sabine Parish'
+state: 'LA'
+fips: '22085'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -10,9 +16,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Sabine Parish'
-fips: '22085'
 ---
 
 County-level fiscal distress indicators for Sabine Parish, LA.

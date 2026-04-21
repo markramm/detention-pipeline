@@ -1,16 +1,19 @@
 ---
 id: monroe-county-oh-usda-distress
-title: Monroe County, OH — Budget Distress (score 3/10)
+title: 'Monroe County, OH — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Monroe County'
+state: 'OH'
+fips: '39111'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
 - population-loss
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Monroe County'
-fips: '39111'
 ---
 
 County-level fiscal distress indicators for Monroe County, OH.

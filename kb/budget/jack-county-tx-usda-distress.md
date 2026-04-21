@@ -1,16 +1,19 @@
 ---
 id: jack-county-tx-usda-distress
-title: Jack County, TX — Budget Distress (score 3/10)
+title: 'Jack County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Jack County'
+state: 'TX'
+fips: '48237'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - low-employment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Jack County'
-fips: '48237'
 ---
 
 County-level fiscal distress indicators for Jack County, TX.

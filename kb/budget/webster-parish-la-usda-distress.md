@@ -1,7 +1,13 @@
 ---
 id: webster-parish-la-usda-distress
-title: Webster Parish, LA — Budget Distress (score 8/10)
+title: 'Webster Parish, LA — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Webster Parish'
+state: 'LA'
+fips: '22119'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Webster Parish'
-fips: '22119'
 ---
 
 County-level fiscal distress indicators for Webster Parish, LA.

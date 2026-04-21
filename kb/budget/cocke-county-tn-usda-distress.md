@@ -1,7 +1,13 @@
 ---
 id: cocke-county-tn-usda-distress
-title: Cocke County, TN — Budget Distress (score 5/10)
+title: 'Cocke County, TN — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Cocke County'
+state: 'TN'
+fips: '47029'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - tn
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TN'
-county: 'Cocke County'
-fips: '47029'
 ---
 
 County-level fiscal distress indicators for Cocke County, TN.

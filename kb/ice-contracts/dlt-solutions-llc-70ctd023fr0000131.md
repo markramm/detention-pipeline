@@ -1,14 +1,24 @@
 ---
 id: dlt-solutions-llc-70ctd023fr0000131
-title: DLT SOLUTIONS, LLC — 70CTD023FR0000131 (DC) $101,421
+title: 'DLT SOLUTIONS, LLC — 70CTD023FR0000131 (DC) $101,421'
 type: ice-contract
+state: 'DC'
+contractor: 'DLT SOLUTIONS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$101,421.41'
+contract_type: 'federal-contract'
+award_date: '2023-09-29'
+usaspending_id: '70CTD023FR0000131'
+source: 'USAspending.gov (award 70CTD023FR0000131)'
+signal_strength: 'weak'
+notes: 'PROVIDE PLURALSIGHT A SKILLS ASSESSMENT AND DEVELOPMENT PLATFORM SOLUTION IN SUPPORT OF DHS/ICE/OCIO/IAD'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

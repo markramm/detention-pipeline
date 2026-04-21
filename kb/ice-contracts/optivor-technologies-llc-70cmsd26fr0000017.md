@@ -1,14 +1,24 @@
 ---
 id: optivor-technologies-llc-70cmsd26fr0000017
-title: OPTIVOR TECHNOLOGIES, LLC — 70CMSD26FR0000017 (FL) $384,188
+title: 'OPTIVOR TECHNOLOGIES, LLC — 70CMSD26FR0000017 (FL) $384,188'
 type: ice-contract
+state: 'FL'
+contractor: 'OPTIVOR TECHNOLOGIES, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$384,187.80'
+contract_type: 'federal-contract'
+award_date: '2026-02-26'
+usaspending_id: '70CMSD26FR0000017'
+source: 'USAspending.gov (award 70CMSD26FR0000017)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES HANDHELD SCANNERS FOR FIELD ATTORNEYS USE IN COURT TO EFFECTIVELY SECURE PRIVATE INFORMATION AND EVIDENCE FOR THE HOMELAND SECURITY INVESTIGATIONS OFFICE OF THE PRINCIPAL LEGAL ADVISOR.'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: van-buren-county-mi-usda-distress
-title: Van Buren County, MI — Budget Distress (score 3/10)
+title: 'Van Buren County, MI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Van Buren County'
+state: 'MI'
+fips: '26159'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mi
 - population-loss
 - non-metro
 importance: 5
-state: 'MI'
-county: 'Van Buren County'
-fips: '26159'
 ---
 
 County-level fiscal distress indicators for Van Buren County, MI.

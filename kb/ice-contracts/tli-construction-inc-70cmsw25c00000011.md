@@ -1,24 +1,24 @@
 ---
 id: tli-construction-inc-70cmsw25c00000011
-title: TLI CONSTRUCTION, INC. — 70CMSW25C00000011 (GA) $3,067,675
+title: 'TLI CONSTRUCTION, INC. — 70CMSW25C00000011 (GA) $3,067,675'
 type: ice-contract
+state: 'GA'
+contractor: 'TLI CONSTRUCTION, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$3,067,675.42'
+contract_type: 'federal-contract'
+award_date: '2025-07-29'
+usaspending_id: '70CMSW25C00000011'
+source: 'USAspending.gov (award 70CMSW25C00000011)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS AWARD IS TO PROVIDE DESIGN AND BUILD SERVICES FOR FISKE AMMUNITION HOLDING AREA IN FT. BENNING GA, OFFICE OF ASSET AND FACILITIES MANAGEMENT (OAFM).'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
-county: 'TALBOT'
-fips: '13263'
-contractor: 'TLI CONSTRUCTION, INC.'
-contract_value: '$3,067,675.42'
-contract_type: 'federal-contract'
-award_date: '2025-07-29'
-usaspending_id: '70CMSW25C00000011'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THE PURPOSE OF THIS AWARD IS TO PROVIDE DESIGN AND BUILD SERVICES FOR FISKE AMMUNITION HOLDING AREA IN FT. BENNING GA, OFFICE OF ASSET AND FACILITIES MANAGEMENT (OAFM).'
 ---
 
 ICE contract award.

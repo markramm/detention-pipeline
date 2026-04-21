@@ -1,16 +1,19 @@
 ---
 id: ottawa-county-ks-usda-distress
-title: Ottawa County, KS — Budget Distress (score 3/10)
+title: 'Ottawa County, KS — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Ottawa County'
+state: 'KS'
+fips: '20143'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ks
 - population-loss
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Ottawa County'
-fips: '20143'
 ---
 
 County-level fiscal distress indicators for Ottawa County, KS.

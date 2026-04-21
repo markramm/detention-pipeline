@@ -1,16 +1,19 @@
 ---
 id: comanche-county-tx-usda-distress
-title: Comanche County, TX — Budget Distress (score 3/10)
+title: 'Comanche County, TX — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Comanche County'
+state: 'TX'
+fips: '48093'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
 - population-loss
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Comanche County'
-fips: '48093'
 ---
 
 County-level fiscal distress indicators for Comanche County, TX.

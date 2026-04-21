@@ -1,14 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr26fr0000042
-title: THE GEO GROUP, INC. — 70CDCR26FR0000042 (CA) $32,705,814
+title: 'THE GEO GROUP, INC. — 70CDCR26FR0000042 (CA) $32,705,814'
 type: ice-contract
+state: 'CA'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$32,705,814.49'
+contract_type: 'federal-contract'
+award_date: '2025-12-20'
+usaspending_id: '70CDCR26FR0000042'
+source: 'USAspending.gov (award 70CDCR26FR0000042)'
+signal_strength: 'strong'
+notes: 'THIS IS TO ESTABLISH NEW TASK ORDER FOR DETENTION SERVICES AT THE MESA VERDE AND GOLDEN STATE ICE DETENTION FACILITY IN THE SAN FRANSCISCO AREA OF RESPONSIBILITY'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

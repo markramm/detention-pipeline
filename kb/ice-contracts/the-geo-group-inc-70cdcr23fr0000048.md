@@ -1,24 +1,24 @@
 ---
 id: the-geo-group-inc-70cdcr23fr0000048
-title: THE GEO GROUP, INC. — 70CDCR23FR0000048 (FL) $38,861,166
+title: 'THE GEO GROUP, INC. — 70CDCR23FR0000048 (FL) $38,861,166'
 type: ice-contract
+state: 'FL'
+contractor: 'THE GEO GROUP, INC.'
+contractor_type: 'private-prison'
+contract_class: 'detention-related'
+contract_value: '$38,861,166.19'
+contract_type: 'federal-contract'
+award_date: '2023-09-01'
+usaspending_id: '70CDCR23FR0000048'
+source: 'USAspending.gov (award 70CDCR23FR0000048)'
+signal_strength: 'strong'
+notes: 'BROWARD COUNTY, FL DETENTION AND TRANSPORTATION SERVICES'
 tags:
 - ice-contract
 - private-prison
 - detention-related
 - fl
 importance: 5
-state: 'FL'
-county: 'BROWARD'
-fips: '12011'
-contractor: 'THE GEO GROUP, INC.'
-contract_value: '$38,861,166.19'
-contract_type: 'federal-contract'
-award_date: '2023-09-01'
-usaspending_id: '70CDCR23FR0000048'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'BROWARD COUNTY, FL DETENTION AND TRANSPORTATION SERVICES'
 ---
 
 ICE contract award.

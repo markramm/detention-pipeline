@@ -1,7 +1,13 @@
 ---
 id: randolph-county-wv-usda-distress
-title: Randolph County, WV — Budget Distress (score 4/10)
+title: 'Randolph County, WV — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Randolph County'
+state: 'WV'
+fips: '54083'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wv
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Randolph County'
-fips: '54083'
 ---
 
 County-level fiscal distress indicators for Randolph County, WV.

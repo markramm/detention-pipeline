@@ -1,14 +1,24 @@
 ---
 id: quantico-tactical-incorporated-70cmsw25fr0000026
-title: QUANTICO TACTICAL INCORPORATED — 70CMSW25FR0000026 (GA) $126,770
+title: 'QUANTICO TACTICAL INCORPORATED — 70CMSW25FR0000026 (GA) $126,770'
 type: ice-contract
+state: 'GA'
+contractor: 'QUANTICO TACTICAL INCORPORATED'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$126,769.53'
+contract_type: 'federal-contract'
+award_date: '2025-04-15'
+usaspending_id: '70CMSW25FR0000026'
+source: 'USAspending.gov (award 70CMSW25FR0000026)'
+signal_strength: 'weak'
+notes: 'THE AWARD PROVIDES LESS-LETHAL WEAPON OPTIONS TO CONTROL CROWD DEMONSTRATIONS FOR THE ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS AT FORT BENNING, GA.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

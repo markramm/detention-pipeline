@@ -1,14 +1,24 @@
 ---
 id: sp-plus-llc-70cmsd24p00000022
-title: SP PLUS LLC — 70CMSD24P00000022 (CA) $585,060
+title: 'SP PLUS LLC — 70CMSD24P00000022 (CA) $585,060'
 type: ice-contract
+state: 'CA'
+contractor: 'SP PLUS LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$585,060.00'
+contract_type: 'federal-contract'
+award_date: '2024-03-15'
+usaspending_id: '70CMSD24P00000022'
+source: 'USAspending.gov (award 70CMSD24P00000022)'
+signal_strength: 'weak'
+notes: 'LEASE OF PARKING SPACES'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

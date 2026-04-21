@@ -1,16 +1,19 @@
 ---
 id: butler-county-ia-usda-distress
-title: Butler County, IA — Budget Distress (score 3/10)
+title: 'Butler County, IA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Butler County'
+state: 'IA'
+fips: '19023'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ia
 - population-loss
 - non-metro
 importance: 5
-state: 'IA'
-county: 'Butler County'
-fips: '19023'
 ---
 
 County-level fiscal distress indicators for Butler County, IA.

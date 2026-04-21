@@ -1,16 +1,19 @@
 ---
 id: de-witt-county-il-usda-distress
-title: De Witt County, IL — Budget Distress (score 3/10)
+title: 'De Witt County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'De Witt County'
+state: 'IL'
+fips: '17039'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'De Witt County'
-fips: '17039'
 ---
 
 County-level fiscal distress indicators for De Witt County, IL.

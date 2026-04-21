@@ -1,16 +1,19 @@
 ---
 id: grant-county-ok-usda-distress
-title: Grant County, OK — Budget Distress (score 3/10)
+title: 'Grant County, OK — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Grant County'
+state: 'OK'
+fips: '40053'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
 - population-loss
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Grant County'
-fips: '40053'
 ---
 
 County-level fiscal distress indicators for Grant County, OK.

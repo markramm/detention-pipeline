@@ -1,16 +1,19 @@
 ---
 id: sibley-county-mn-usda-distress
-title: Sibley County, MN — Budget Distress (score 3/10)
+title: 'Sibley County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Sibley County'
+state: 'MN'
+fips: '27143'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Sibley County'
-fips: '27143'
 ---
 
 County-level fiscal distress indicators for Sibley County, MN.

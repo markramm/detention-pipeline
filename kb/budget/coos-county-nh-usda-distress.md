@@ -1,16 +1,19 @@
 ---
 id: coos-county-nh-usda-distress
-title: Coos County, NH — Budget Distress (score 3/10)
+title: 'Coos County, NH — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Coos County'
+state: 'NH'
+fips: '33007'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nh
 - population-loss
 - non-metro
 importance: 5
-state: 'NH'
-county: 'Coos County'
-fips: '33007'
 ---
 
 County-level fiscal distress indicators for Coos County, NH.

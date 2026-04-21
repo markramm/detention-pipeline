@@ -1,7 +1,13 @@
 ---
 id: newton-county-tx-usda-distress
-title: Newton County, TX — Budget Distress (score 4/10)
+title: 'Newton County, TX — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Newton County'
+state: 'TX'
+fips: '48351'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - tx
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'TX'
-county: 'Newton County'
-fips: '48351'
 ---
 
 County-level fiscal distress indicators for Newton County, TX.

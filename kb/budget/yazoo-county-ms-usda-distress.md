@@ -1,7 +1,13 @@
 ---
 id: yazoo-county-ms-usda-distress
-title: Yazoo County, MS — Budget Distress (score 8/10)
+title: 'Yazoo County, MS — Budget Distress (score 8/10)'
 type: budget-distress
+county: 'Yazoo County'
+state: 'MS'
+fips: '28163'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ms
@@ -10,9 +16,6 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
-state: 'MS'
-county: 'Yazoo County'
-fips: '28163'
 ---
 
 County-level fiscal distress indicators for Yazoo County, MS.

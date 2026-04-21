@@ -1,14 +1,24 @@
 ---
 id: kcorp-support-services-inc-70cmsw19fr0000010
-title: KCORP SUPPORT SERVICES, INC — 70CMSW19FR0000010 (CA) $625,115
+title: 'KCORP SUPPORT SERVICES, INC — 70CMSW19FR0000010 (CA) $625,115'
 type: ice-contract
+state: 'CA'
+contractor: 'KCORP SUPPORT SERVICES, INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$625,114.87'
+contract_type: 'federal-contract'
+award_date: '2019-02-14'
+usaspending_id: '70CMSW19FR0000010'
+source: 'USAspending.gov (award 70CMSW19FR0000010)'
+signal_strength: 'weak'
+notes: 'IGF::OT::IGF OPERATIONS AND MAINTENANCE SAN PEDRO CA FACILITY'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

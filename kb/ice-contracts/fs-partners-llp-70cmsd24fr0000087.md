@@ -1,14 +1,24 @@
 ---
 id: fs-partners-llp-70cmsd24fr0000087
-title: FS PARTNERS, LLP — 70CMSD24FR0000087 (CO) $120,777
+title: 'FS PARTNERS, LLP — 70CMSD24FR0000087 (CO) $120,777'
 type: ice-contract
+state: 'CO'
+contractor: 'FS PARTNERS, LLP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$120,777.13'
+contract_type: 'federal-contract'
+award_date: '2024-08-12'
+usaspending_id: '70CMSD24FR0000087'
+source: 'USAspending.gov (award 70CMSD24FR0000087)'
+signal_strength: 'weak'
+notes: 'HP PRINTERS'
 tags:
 - ice-contract
 - other
 - other-ice
 - co
 importance: 5
-state: 'CO'
 ---
 
 ICE contract award.

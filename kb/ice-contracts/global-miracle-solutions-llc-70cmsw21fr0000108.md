@@ -1,14 +1,24 @@
 ---
 id: global-miracle-solutions-llc-70cmsw21fr0000108
-title: GLOBAL MIRACLE SOLUTIONS LLC — 70CMSW21FR0000108 (DC) $5,466,697
+title: 'GLOBAL MIRACLE SOLUTIONS LLC — 70CMSW21FR0000108 (DC) $5,466,697'
 type: ice-contract
+state: 'DC'
+contractor: 'GLOBAL MIRACLE SOLUTIONS LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$5,466,696.57'
+contract_type: 'federal-contract'
+award_date: '2021-09-14'
+usaspending_id: '70CMSW21FR0000108'
+source: 'USAspending.gov (award 70CMSW21FR0000108)'
+signal_strength: 'weak'
+notes: 'REGULATORY EVALUATION AND DEVELOPMENT SUPPORT SERVICES (REDSS)'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

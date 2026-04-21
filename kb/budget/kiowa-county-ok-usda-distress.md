@@ -1,16 +1,19 @@
 ---
 id: kiowa-county-ok-usda-distress
-title: Kiowa County, OK — Budget Distress (score 3/10)
+title: 'Kiowa County, OK — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Kiowa County'
+state: 'OK'
+fips: '40075'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
 - population-loss
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Kiowa County'
-fips: '40075'
 ---
 
 County-level fiscal distress indicators for Kiowa County, OK.

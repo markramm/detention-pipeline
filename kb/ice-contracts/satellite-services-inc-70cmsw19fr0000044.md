@@ -1,14 +1,24 @@
 ---
 id: satellite-services-inc-70cmsw19fr0000044
-title: SATELLITE SERVICES INC — 70CMSW19FR0000044 (AZ) $11,038,807
+title: 'SATELLITE SERVICES INC — 70CMSW19FR0000044 (AZ) $11,038,807'
 type: ice-contract
+state: 'AZ'
+contractor: 'SATELLITE SERVICES INC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$11,038,806.73'
+contract_type: 'federal-contract'
+award_date: '2019-07-15'
+usaspending_id: '70CMSW19FR0000044'
+source: 'USAspending.gov (award 70CMSW19FR0000044)'
+signal_strength: 'strong'
+notes: 'OPERATIONS AND MAINTENANCE SERVICES AT FLORENCE SERVICE PROCESSING CENTER (SPC)'
 tags:
 - ice-contract
 - other
 - detention-related
 - az
 importance: 5
-state: 'AZ'
 ---
 
 ICE contract award.

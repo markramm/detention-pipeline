@@ -1,16 +1,19 @@
 ---
 id: wilkinson-county-ga-usda-distress
-title: Wilkinson County, GA — Budget Distress (score 3/10)
+title: 'Wilkinson County, GA — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Wilkinson County'
+state: 'GA'
+fips: '13319'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
 - population-loss
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Wilkinson County'
-fips: '13319'
 ---
 
 County-level fiscal distress indicators for Wilkinson County, GA.

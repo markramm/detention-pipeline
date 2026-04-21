@@ -1,16 +1,19 @@
 ---
 id: stephenson-county-il-usda-distress
-title: Stephenson County, IL — Budget Distress (score 3/10)
+title: 'Stephenson County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Stephenson County'
+state: 'IL'
+fips: '17177'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Stephenson County'
-fips: '17177'
 ---
 
 County-level fiscal distress indicators for Stephenson County, IL.

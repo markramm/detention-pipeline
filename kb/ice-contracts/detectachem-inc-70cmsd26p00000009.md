@@ -1,14 +1,24 @@
 ---
 id: detectachem-inc-70cmsd26p00000009
-title: DETECTACHEM INC. — 70CMSD26P00000009 (TX) $24,921
+title: 'DETECTACHEM INC. — 70CMSD26P00000009 (TX) $24,921'
 type: ice-contract
+state: 'TX'
+contractor: 'DETECTACHEM INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$24,921.26'
+contract_type: 'federal-contract'
+award_date: '2026-01-23'
+usaspending_id: '70CMSD26P00000009'
+source: 'USAspending.gov (award 70CMSD26P00000009)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ICE HOMELAND SECURITY INVESTIGATIONS ORLANDO WITH A PORTABLE CHEMICAL DETECTION AND ANALYSIS DEVICE FOR USE IN SUPPORT OF LAW ENFORCEMENT INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

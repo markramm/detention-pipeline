@@ -1,14 +1,24 @@
 ---
 id: celerity-government-solutions-llc-70cmsd25fc0000011
-title: CELERITY GOVERNMENT SOLUTIONS LLC — 70CMSD25FC0000011 (DC) $10,005,243
+title: 'CELERITY GOVERNMENT SOLUTIONS LLC — 70CMSD25FC0000011 (DC) $10,005,243'
 type: ice-contract
+state: 'DC'
+contractor: 'CELERITY GOVERNMENT SOLUTIONS LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$10,005,242.54'
+contract_type: 'federal-contract'
+award_date: '2025-06-13'
+usaspending_id: '70CMSD25FC0000011'
+source: 'USAspending.gov (award 70CMSD25FC0000011)'
+signal_strength: 'weak'
+notes: 'THIS AWARD FUNDS CALL FIVE UNDER BACKGROUND INVESTIGATION SERVICES II, WHICH SUPPORTS BACKGROUND INVESTIGATION SERVICES FOR INVESTIGATION REPORTS OF CONTRACTORS, AND FEDERAL EMPLOYEES TO THE OFFICE OF PROFESSIONAL RESPONSIBILITY.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

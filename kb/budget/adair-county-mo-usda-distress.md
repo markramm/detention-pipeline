@@ -1,16 +1,19 @@
 ---
 id: adair-county-mo-usda-distress
-title: Adair County, MO — Budget Distress (score 4/10)
+title: 'Adair County, MO — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Adair County'
+state: 'MO'
+fips: '29001'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mo
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'MO'
-county: 'Adair County'
-fips: '29001'
 ---
 
 County-level fiscal distress indicators for Adair County, MO.

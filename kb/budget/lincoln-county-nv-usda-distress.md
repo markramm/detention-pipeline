@@ -1,16 +1,19 @@
 ---
 id: lincoln-county-nv-usda-distress
-title: Lincoln County, NV — Budget Distress (score 3/10)
+title: 'Lincoln County, NV — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Lincoln County'
+state: 'NV'
+fips: '32017'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nv
 - low-employment
 - non-metro
 importance: 5
-state: 'NV'
-county: 'Lincoln County'
-fips: '32017'
 ---
 
 County-level fiscal distress indicators for Lincoln County, NV.

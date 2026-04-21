@@ -1,14 +1,24 @@
 ---
 id: price-modern-llc-70cmsw19fc0000054
-title: PRICE MODERN LLC — 70CMSW19FC0000054 (IA) $7,443
+title: 'PRICE MODERN LLC — 70CMSW19FC0000054 (IA) $7,443'
 type: ice-contract
+state: 'IA'
+contractor: 'PRICE MODERN LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$7,442.65'
+contract_type: 'federal-contract'
+award_date: '2019-08-23'
+usaspending_id: '70CMSW19FC0000054'
+source: 'USAspending.gov (award 70CMSW19FC0000054)'
+signal_strength: 'weak'
+notes: 'FURNITURE DESIGN'
 tags:
 - ice-contract
 - other
 - other-ice
 - ia
 importance: 5
-state: 'IA'
 ---
 
 ICE contract award.

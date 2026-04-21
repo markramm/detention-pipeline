@@ -1,16 +1,19 @@
 ---
 id: glacier-county-mt-usda-distress
-title: Glacier County, MT — Budget Distress (score 4/10)
+title: 'Glacier County, MT — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Glacier County'
+state: 'MT'
+fips: '30035'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mt
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'MT'
-county: 'Glacier County'
-fips: '30035'
 ---
 
 County-level fiscal distress indicators for Glacier County, MT.

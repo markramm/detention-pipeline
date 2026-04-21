@@ -1,7 +1,13 @@
 ---
 id: madison-parish-la-usda-distress
-title: Madison Parish, LA — Budget Distress (score 9/10)
+title: 'Madison Parish, LA — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Madison Parish'
+state: 'LA'
+fips: '22065'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Madison Parish'
-fips: '22065'
 ---
 
 County-level fiscal distress indicators for Madison Parish, LA.

@@ -1,7 +1,13 @@
 ---
 id: halifax-county-nc-usda-distress
-title: Halifax County, NC — Budget Distress (score 6/10)
+title: 'Halifax County, NC — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Halifax County'
+state: 'NC'
+fips: '37083'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - nc
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'NC'
-county: 'Halifax County'
-fips: '37083'
 ---
 
 County-level fiscal distress indicators for Halifax County, NC.

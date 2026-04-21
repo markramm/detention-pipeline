@@ -1,14 +1,24 @@
 ---
 id: cerifi-llc-70cmsd24p00000132
-title: CERIFI LLC — 70CMSD24P00000132 (GA) $142,500
+title: 'CERIFI LLC — 70CMSD24P00000132 (GA) $142,500'
 type: ice-contract
+state: 'GA'
+contractor: 'CERIFI LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$142,500.00'
+contract_type: 'federal-contract'
+award_date: '2024-09-16'
+usaspending_id: '70CMSD24P00000132'
+source: 'USAspending.gov (award 70CMSD24P00000132)'
+signal_strength: 'weak'
+notes: 'CONTINUING LEGAL EDUCATION SERVICES - OPLA'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

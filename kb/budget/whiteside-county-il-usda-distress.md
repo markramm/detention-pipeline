@@ -1,16 +1,19 @@
 ---
 id: whiteside-county-il-usda-distress
-title: Whiteside County, IL — Budget Distress (score 3/10)
+title: 'Whiteside County, IL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Whiteside County'
+state: 'IL'
+fips: '17195'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - il
 - population-loss
 - non-metro
 importance: 5
-state: 'IL'
-county: 'Whiteside County'
-fips: '17195'
 ---
 
 County-level fiscal distress indicators for Whiteside County, IL.

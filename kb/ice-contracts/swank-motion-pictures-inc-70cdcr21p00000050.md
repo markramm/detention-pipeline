@@ -1,14 +1,24 @@
 ---
 id: swank-motion-pictures-inc-70cdcr21p00000050
-title: SWANK MOTION PICTURES, INC. — 70CDCR21P00000050 (DC) $83,160
+title: 'SWANK MOTION PICTURES, INC. — 70CDCR21P00000050 (DC) $83,160'
 type: ice-contract
+state: 'DC'
+contractor: 'SWANK MOTION PICTURES, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$83,160.45'
+contract_type: 'federal-contract'
+award_date: '2021-09-07'
+usaspending_id: '70CDCR21P00000050'
+source: 'USAspending.gov (award 70CDCR21P00000050)'
+signal_strength: 'strong'
+notes: 'PUBLIC NON-THEATRICAL PERFORMANCE MOVIE COPYRIGHT LICENSE FEE FOR CORRECTIONAL INSTITUTIONS. VENDOR: SWANK MOTION PICTURE, INC.'
 tags:
 - ice-contract
 - other
 - detention-related
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

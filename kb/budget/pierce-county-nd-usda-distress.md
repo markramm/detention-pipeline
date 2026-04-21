@@ -1,16 +1,19 @@
 ---
 id: pierce-county-nd-usda-distress
-title: Pierce County, ND — Budget Distress (score 3/10)
+title: 'Pierce County, ND — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Pierce County'
+state: 'ND'
+fips: '38069'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nd
 - population-loss
 - non-metro
 importance: 5
-state: 'ND'
-county: 'Pierce County'
-fips: '38069'
 ---
 
 County-level fiscal distress indicators for Pierce County, ND.

@@ -1,16 +1,19 @@
 ---
 id: newton-county-in-usda-distress
-title: Newton County, IN — Budget Distress (score 3/10)
+title: 'Newton County, IN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Newton County'
+state: 'IN'
+fips: '18111'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - in
 - population-loss
 - low-education-attainment
 importance: 5
-state: 'IN'
-county: 'Newton County'
-fips: '18111'
 ---
 
 County-level fiscal distress indicators for Newton County, IN.

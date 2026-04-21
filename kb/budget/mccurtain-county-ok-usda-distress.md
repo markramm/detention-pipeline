@@ -1,7 +1,13 @@
 ---
 id: mccurtain-county-ok-usda-distress
-title: McCurtain County, OK — Budget Distress (score 6/10)
+title: 'McCurtain County, OK — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'McCurtain County'
+state: 'OK'
+fips: '40089'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ok
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'OK'
-county: 'McCurtain County'
-fips: '40089'
 ---
 
 County-level fiscal distress indicators for McCurtain County, OK.

@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd20fr0000088
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD20FR0000088 (TX) $8,400
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD20FR0000088 (TX) $8,400'
 type: ice-contract
+state: 'TX'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$8,400.00'
+contract_type: 'federal-contract'
+award_date: '2020-07-13'
+usaspending_id: '70CMSD20FR0000088'
+source: 'USAspending.gov (award 70CMSD20FR0000088)'
+signal_strength: 'weak'
+notes: 'LEASED COPIER FOR THE EL PASO OCC'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

@@ -1,7 +1,13 @@
 ---
 id: ashley-county-ar-usda-distress
-title: Ashley County, AR — Budget Distress (score 4/10)
+title: 'Ashley County, AR — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Ashley County'
+state: 'AR'
+fips: '05003'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ar
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Ashley County'
-fips: '05003'
 ---
 
 County-level fiscal distress indicators for Ashley County, AR.

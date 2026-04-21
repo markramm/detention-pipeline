@@ -1,7 +1,13 @@
 ---
 id: webster-county-wv-usda-distress
-title: Webster County, WV — Budget Distress (score 9/10)
+title: 'Webster County, WV — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Webster County'
+state: 'WV'
+fips: '54101'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - wv
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'WV'
-county: 'Webster County'
-fips: '54101'
 ---
 
 County-level fiscal distress indicators for Webster County, WV.

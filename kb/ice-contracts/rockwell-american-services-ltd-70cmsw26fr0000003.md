@@ -1,14 +1,24 @@
 ---
 id: rockwell-american-services-ltd-70cmsw26fr0000003
-title: ROCKWELL AMERICAN SERVICES, LTD. — 70CMSW26FR0000003 (IL) $349,000
+title: 'ROCKWELL AMERICAN SERVICES, LTD. — 70CMSW26FR0000003 (IL) $349,000'
 type: ice-contract
+state: 'IL'
+contractor: 'ROCKWELL AMERICAN SERVICES, LTD.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$349,000.00'
+contract_type: 'federal-contract'
+award_date: '2025-12-08'
+usaspending_id: '70CMSW26FR0000003'
+source: 'USAspending.gov (award 70CMSW26FR0000003)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS AWARD IS TO PROCURE BOXED MEALS FOR DETAINEES AT AN ICE FACILITY LOCATED IN BROADVIEW, IL SUPPORTING ICE- OFFICE OF ASSETS AND FACILITIES MANAGEMENT.'
 tags:
 - ice-contract
 - other
 - detention-related
 - il
 importance: 5
-state: 'IL'
 ---
 
 ICE contract award.

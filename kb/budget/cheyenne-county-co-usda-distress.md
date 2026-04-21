@@ -1,16 +1,19 @@
 ---
 id: cheyenne-county-co-usda-distress
-title: Cheyenne County, CO — Budget Distress (score 3/10)
+title: 'Cheyenne County, CO — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Cheyenne County'
+state: 'CO'
+fips: '08017'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - co
 - population-loss
 - non-metro
 importance: 5
-state: 'CO'
-county: 'Cheyenne County'
-fips: '08017'
 ---
 
 County-level fiscal distress indicators for Cheyenne County, CO.

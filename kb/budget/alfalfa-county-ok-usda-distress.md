@@ -1,16 +1,19 @@
 ---
 id: alfalfa-county-ok-usda-distress
-title: Alfalfa County, OK — Budget Distress (score 3/10)
+title: 'Alfalfa County, OK — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Alfalfa County'
+state: 'OK'
+fips: '40003'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
 - low-employment
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Alfalfa County'
-fips: '40003'
 ---
 
 County-level fiscal distress indicators for Alfalfa County, OK.

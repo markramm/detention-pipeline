@@ -1,14 +1,24 @@
 ---
 id: trukinetics-llc-70cmsd24p00000093
-title: TRUKINETICS, LLC — 70CMSD24P00000093 (GA) $27,748
+title: 'TRUKINETICS, LLC — 70CMSD24P00000093 (GA) $27,748'
 type: ice-contract
+state: 'GA'
+contractor: 'TRUKINETICS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$27,748.00'
+contract_type: 'federal-contract'
+award_date: '2024-08-12'
+usaspending_id: '70CMSD24P00000093'
+source: 'USAspending.gov (award 70CMSD24P00000093)'
+signal_strength: 'weak'
+notes: 'SPECIAL RESPONSE TEAM MANDATORY 40 HOUR TRAINING'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

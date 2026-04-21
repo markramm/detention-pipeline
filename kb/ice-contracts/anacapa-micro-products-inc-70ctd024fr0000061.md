@@ -1,14 +1,24 @@
 ---
 id: anacapa-micro-products-inc-70ctd024fr0000061
-title: ANACAPA MICRO PRODUCTS, INC. — 70CTD024FR0000061 (CA) $336,192
+title: 'ANACAPA MICRO PRODUCTS, INC. — 70CTD024FR0000061 (CA) $336,192'
 type: ice-contract
+state: 'CA'
+contractor: 'ANACAPA MICRO PRODUCTS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$336,192.28'
+contract_type: 'federal-contract'
+award_date: '2024-09-06'
+usaspending_id: '70CTD024FR0000061'
+source: 'USAspending.gov (award 70CTD024FR0000061)'
+signal_strength: 'weak'
+notes: 'AWARD FOR CISCO ISE LICENSING AND IMPLEMENTATION SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: jtf-business-systems-corporation-70cmsd24p00000033
-title: JTF BUSINESS SYSTEMS CORPORATION — 70CMSD24P00000033 (MA) $3,960
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD24P00000033 (MA) $3,960'
 type: ice-contract
+state: 'MA'
+contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$3,960.00'
+contract_type: 'federal-contract'
+award_date: '2024-05-01'
+usaspending_id: '70CMSD24P00000033'
+source: 'USAspending.gov (award 70CMSD24P00000033)'
+signal_strength: 'strong'
+notes: 'NEW COPIER LEASE (5 YEAR)  REPLACING 70CMSD19FR0000015   ERO BOSTON FIELD OFFICE LOCATION: 1000 DISTRICT AVE. BURLINGTON, MA 01803 POP 5/1/24 - 4/30/25'
 tags:
 - ice-contract
 - other
 - detention-related
 - ma
 importance: 5
-state: 'MA'
 ---
 
 ICE contract award.

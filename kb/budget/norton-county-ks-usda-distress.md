@@ -1,7 +1,13 @@
 ---
 id: norton-county-ks-usda-distress
-title: Norton County, KS — Budget Distress (score 5/10)
+title: 'Norton County, KS — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Norton County'
+state: 'KS'
+fips: '20137'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ks
@@ -9,9 +15,6 @@ tags:
 - low-employment
 - non-metro
 importance: 5
-state: 'KS'
-county: 'Norton County'
-fips: '20137'
 ---
 
 County-level fiscal distress indicators for Norton County, KS.

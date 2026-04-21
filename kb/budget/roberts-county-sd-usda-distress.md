@@ -1,16 +1,19 @@
 ---
 id: roberts-county-sd-usda-distress
-title: Roberts County, SD — Budget Distress (score 4/10)
+title: 'Roberts County, SD — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Roberts County'
+state: 'SD'
+fips: '46109'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sd
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Roberts County'
-fips: '46109'
 ---
 
 County-level fiscal distress indicators for Roberts County, SD.

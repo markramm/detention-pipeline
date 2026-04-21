@@ -1,16 +1,19 @@
 ---
 id: clay-county-ar-usda-distress
-title: Clay County, AR — Budget Distress (score 3/10)
+title: 'Clay County, AR — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Clay County'
+state: 'AR'
+fips: '05021'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ar
 - population-loss
 - non-metro
 importance: 5
-state: 'AR'
-county: 'Clay County'
-fips: '05021'
 ---
 
 County-level fiscal distress indicators for Clay County, AR.

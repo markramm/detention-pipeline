@@ -1,16 +1,19 @@
 ---
 id: evans-county-ga-usda-distress
-title: Evans County, GA — Budget Distress (score 4/10)
+title: 'Evans County, GA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Evans County'
+state: 'GA'
+fips: '13109'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ga
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Evans County'
-fips: '13109'
 ---
 
 County-level fiscal distress indicators for Evans County, GA.

@@ -1,7 +1,13 @@
 ---
 id: alexander-county-il-usda-distress
-title: Alexander County, IL — Budget Distress (score 7/10)
+title: 'Alexander County, IL — Budget Distress (score 7/10)'
 type: budget-distress
+county: 'Alexander County'
+state: 'IL'
+fips: '17003'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - il
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - low-employment
 importance: 5
-state: 'IL'
-county: 'Alexander County'
-fips: '17003'
 ---
 
 County-level fiscal distress indicators for Alexander County, IL.

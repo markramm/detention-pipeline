@@ -1,7 +1,13 @@
 ---
 id: lafayette-county-fl-usda-distress
-title: Lafayette County, FL — Budget Distress (score 4/10)
+title: 'Lafayette County, FL — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Lafayette County'
+state: 'FL'
+fips: '12067'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - fl
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'FL'
-county: 'Lafayette County'
-fips: '12067'
 ---
 
 County-level fiscal distress indicators for Lafayette County, FL.

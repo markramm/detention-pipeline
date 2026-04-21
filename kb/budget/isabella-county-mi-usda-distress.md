@@ -1,16 +1,19 @@
 ---
 id: isabella-county-mi-usda-distress
-title: Isabella County, MI — Budget Distress (score 4/10)
+title: 'Isabella County, MI — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Isabella County'
+state: 'MI'
+fips: '26073'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mi
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'MI'
-county: 'Isabella County'
-fips: '26073'
 ---
 
 County-level fiscal distress indicators for Isabella County, MI.

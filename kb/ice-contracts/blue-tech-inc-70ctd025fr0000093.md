@@ -1,14 +1,24 @@
 ---
 id: blue-tech-inc-70ctd025fr0000093
-title: BLUE TECH INC. — 70CTD025FR0000093 (DC) $471,393
+title: 'BLUE TECH INC. — 70CTD025FR0000093 (DC) $471,393'
 type: ice-contract
+state: 'DC'
+contractor: 'BLUE TECH INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$471,392.67'
+contract_type: 'federal-contract'
+award_date: '2025-09-17'
+usaspending_id: '70CTD025FR0000093'
+source: 'USAspending.gov (award 70CTD025FR0000093)'
+signal_strength: 'weak'
+notes: 'PROVIDES THE PROCUREMENT & INSTALLATION OF VIDEO TELECONFERENCING EQUIPMENT FOR COMMAND CENTER AND CONFERENCE RM 10027 AND 10027A FOR ICE''S POTOMAC CENTER NORTH (PTN) SITE LOCATED IN WASHINGTON DC.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

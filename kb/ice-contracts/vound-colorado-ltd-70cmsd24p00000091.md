@@ -1,14 +1,24 @@
 ---
 id: vound-colorado-ltd-70cmsd24p00000091
-title: VOUND COLORADO, LTD. — 70CMSD24P00000091 (AL) $12,227
+title: 'VOUND COLORADO, LTD. — 70CMSD24P00000091 (AL) $12,227'
 type: ice-contract
+state: 'AL'
+contractor: 'VOUND COLORADO, LTD.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$12,227.00'
+contract_type: 'federal-contract'
+award_date: '2024-09-27'
+usaspending_id: '70CMSD24P00000091'
+source: 'USAspending.gov (award 70CMSD24P00000091)'
+signal_strength: 'weak'
+notes: 'RENEWAL INTELLA SOFTWARE LICENSES'
 tags:
 - ice-contract
 - other
 - other-ice
 - al
 importance: 5
-state: 'AL'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: model-1-commercial-vehicles-inc-70cmsd25p00000023
-title: MODEL 1 COMMERCIAL VEHICLES, INC. — 70CMSD25P00000023 (AZ) $7,891
+title: 'MODEL 1 COMMERCIAL VEHICLES, INC. — 70CMSD25P00000023 (AZ) $7,891'
 type: ice-contract
+state: 'AZ'
+contractor: 'MODEL 1 COMMERCIAL VEHICLES, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$7,891.18'
+contract_type: 'federal-contract'
+award_date: '2025-04-07'
+usaspending_id: '70CMSD25P00000023'
+source: 'USAspending.gov (award 70CMSD25P00000023)'
+signal_strength: 'strong'
+notes: 'THIS AWARD IS TO PROVIDE NEEDED REPAIRS TO AN ENFORCEMENT AND REMOVAL OPERATIONS FLEET VEHICLE IN GLENDALE, AZ USED TO TRANSPORT ILLEGAL ALIENS.'
 tags:
 - ice-contract
 - other
 - detention-related
 - az
 importance: 5
-state: 'AZ'
 ---
 
 ICE contract award.

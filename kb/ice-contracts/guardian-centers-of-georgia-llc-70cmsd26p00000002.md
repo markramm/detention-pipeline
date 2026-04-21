@@ -1,14 +1,24 @@
 ---
 id: guardian-centers-of-georgia-llc-70cmsd26p00000002
-title: GUARDIAN CENTERS OF GEORGIA, LLC — 70CMSD26P00000002 (GA) $486,750
+title: 'GUARDIAN CENTERS OF GEORGIA, LLC — 70CMSD26P00000002 (GA) $486,750'
 type: ice-contract
+state: 'GA'
+contractor: 'GUARDIAN CENTERS OF GEORGIA, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$486,749.68'
+contract_type: 'federal-contract'
+award_date: '2026-01-11'
+usaspending_id: '70CMSD26P00000002'
+source: 'USAspending.gov (award 70CMSD26P00000002)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ICE HOMELAND SECURITY INVESTIGATIONS INTERNATIONAL OPERATIONS WITH FACILITIES AND TRAINING SUPPORT SERVICES FOR TRAINING OF LAW ENFORCEMENT AGENTS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

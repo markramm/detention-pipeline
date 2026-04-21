@@ -1,14 +1,24 @@
 ---
 id: ameritel-communications-corporation-70cmsd23fr0000113
-title: AMERITEL COMMUNICATIONS CORPORATION — 70CMSD23FR0000113 (MA) $13,940
+title: 'AMERITEL COMMUNICATIONS CORPORATION — 70CMSD23FR0000113 (MA) $13,940'
 type: ice-contract
+state: 'MA'
+contractor: 'AMERITEL COMMUNICATIONS CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$13,939.56'
+contract_type: 'federal-contract'
+award_date: '2023-08-09'
+usaspending_id: '70CMSD23FR0000113'
+source: 'USAspending.gov (award 70CMSD23FR0000113)'
+signal_strength: 'weak'
+notes: 'LEASING 3 COPIERS FOR BOSTON CCO'
 tags:
 - ice-contract
 - other
 - other-ice
 - ma
 importance: 5
-state: 'MA'
 ---
 
 ICE contract award.

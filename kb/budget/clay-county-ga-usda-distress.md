@@ -1,7 +1,13 @@
 ---
 id: clay-county-ga-usda-distress
-title: Clay County, GA — Budget Distress (score 6/10)
+title: 'Clay County, GA — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Clay County'
+state: 'GA'
+fips: '13061'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - ga
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'GA'
-county: 'Clay County'
-fips: '13061'
 ---
 
 County-level fiscal distress indicators for Clay County, GA.

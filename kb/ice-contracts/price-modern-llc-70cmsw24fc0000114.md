@@ -1,14 +1,24 @@
 ---
 id: price-modern-llc-70cmsw24fc0000114
-title: PRICE MODERN LLC — 70CMSW24FC0000114 (MD) $167,582
+title: 'PRICE MODERN LLC — 70CMSW24FC0000114 (MD) $167,582'
 type: ice-contract
+state: 'MD'
+contractor: 'PRICE MODERN LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$167,581.85'
+contract_type: 'federal-contract'
+award_date: '2024-09-17'
+usaspending_id: '70CMSW24FC0000114'
+source: 'USAspending.gov (award 70CMSW24FC0000114)'
+signal_strength: 'weak'
+notes: 'CONTRACT: 70RDAD22A00000001 ICE PROJECT ID: PRO-24-HSI-0237ICE | SAC MIAMI - FORENSIC LAB. TO EXPAND THE HSI MIAMI COMPUTER FORENSICS CAPABILITIES IN SUPPORT OF INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

@@ -1,16 +1,19 @@
 ---
 id: crawford-county-oh-usda-distress
-title: Crawford County, OH — Budget Distress (score 3/10)
+title: 'Crawford County, OH — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Crawford County'
+state: 'OH'
+fips: '39033'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - oh
 - population-loss
 - non-metro
 importance: 5
-state: 'OH'
-county: 'Crawford County'
-fips: '39033'
 ---
 
 County-level fiscal distress indicators for Crawford County, OH.

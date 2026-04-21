@@ -1,7 +1,13 @@
 ---
 id: bent-county-co-usda-distress
-title: Bent County, CO — Budget Distress (score 4/10)
+title: 'Bent County, CO — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Bent County'
+state: 'CO'
+fips: '08011'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - co
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'CO'
-county: 'Bent County'
-fips: '08011'
 ---
 
 County-level fiscal distress indicators for Bent County, CO.

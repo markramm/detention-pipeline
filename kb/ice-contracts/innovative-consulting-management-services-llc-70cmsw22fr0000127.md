@@ -1,14 +1,24 @@
 ---
 id: innovative-consulting-management-services-llc-70cmsw22fr0000127
-title: INNOVATIVE CONSULTING & MANAGEMENT SERVICES, LLC — 70CMSW22FR0000127 (FL) $16,582,646
+title: 'INNOVATIVE CONSULTING & MANAGEMENT SERVICES, LLC — 70CMSW22FR0000127 (FL) $16,582,646'
 type: ice-contract
+state: 'FL'
+contractor: 'INNOVATIVE CONSULTING & MANAGEMENT SERVICES, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$16,582,646.30'
+contract_type: 'federal-contract'
+award_date: '2022-09-22'
+usaspending_id: '70CMSW22FR0000127'
+source: 'USAspending.gov (award 70CMSW22FR0000127)'
+signal_strength: 'weak'
+notes: 'KROME OPERATIONS AND MAINTENANCE SERVICES'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

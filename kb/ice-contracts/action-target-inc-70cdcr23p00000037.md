@@ -1,14 +1,24 @@
 ---
 id: action-target-inc-70cdcr23p00000037
-title: ACTION TARGET INC — 70CDCR23P00000037 (FL) $19,600
+title: 'ACTION TARGET INC — 70CDCR23P00000037 (FL) $19,600'
 type: ice-contract
+state: 'FL'
+contractor: 'ACTION TARGET INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$19,600.00'
+contract_type: 'federal-contract'
+award_date: '2023-09-20'
+usaspending_id: '70CDCR23P00000037'
+source: 'USAspending.gov (award 70CDCR23P00000037)'
+signal_strength: 'weak'
+notes: 'ANNUAL MAINTENANCE AGREEMENT NEEDED FOR KROME SPC GUN RANGE BULLET TRAP & TARGET SYSTEM.'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

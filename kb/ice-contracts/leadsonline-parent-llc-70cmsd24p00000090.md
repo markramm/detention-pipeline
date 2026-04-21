@@ -1,14 +1,24 @@
 ---
 id: leadsonline-parent-llc-70cmsd24p00000090
-title: LEADSONLINE PARENT, LLC — 70CMSD24P00000090 (TX) $11,325
+title: 'LEADSONLINE PARENT, LLC — 70CMSD24P00000090 (TX) $11,325'
 type: ice-contract
+state: 'TX'
+contractor: 'LEADSONLINE PARENT, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$11,325.00'
+contract_type: 'federal-contract'
+award_date: '2024-08-15'
+usaspending_id: '70CMSD24P00000090'
+source: 'USAspending.gov (award 70CMSD24P00000090)'
+signal_strength: 'weak'
+notes: 'SOFTWARE SUBSCRIPTION'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

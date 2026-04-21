@@ -1,7 +1,13 @@
 ---
 id: bienville-parish-la-usda-distress
-title: Bienville Parish, LA — Budget Distress (score 9/10)
+title: 'Bienville Parish, LA — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Bienville Parish'
+state: 'LA'
+fips: '22013'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Bienville Parish'
-fips: '22013'
 ---
 
 County-level fiscal distress indicators for Bienville Parish, LA.

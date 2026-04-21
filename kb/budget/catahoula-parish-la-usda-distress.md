@@ -1,7 +1,13 @@
 ---
 id: catahoula-parish-la-usda-distress
-title: Catahoula Parish, LA — Budget Distress (score 9/10)
+title: 'Catahoula Parish, LA — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'Catahoula Parish'
+state: 'LA'
+fips: '22025'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'Catahoula Parish'
-fips: '22025'
 ---
 
 County-level fiscal distress indicators for Catahoula Parish, LA.

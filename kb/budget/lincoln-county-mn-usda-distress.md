@@ -1,16 +1,19 @@
 ---
 id: lincoln-county-mn-usda-distress
-title: Lincoln County, MN — Budget Distress (score 3/10)
+title: 'Lincoln County, MN — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Lincoln County'
+state: 'MN'
+fips: '27081'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mn
 - population-loss
 - non-metro
 importance: 5
-state: 'MN'
-county: 'Lincoln County'
-fips: '27081'
 ---
 
 County-level fiscal distress indicators for Lincoln County, MN.

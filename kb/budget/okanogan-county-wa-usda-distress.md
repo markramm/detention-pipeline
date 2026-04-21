@@ -1,16 +1,19 @@
 ---
 id: okanogan-county-wa-usda-distress
-title: Okanogan County, WA — Budget Distress (score 4/10)
+title: 'Okanogan County, WA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Okanogan County'
+state: 'WA'
+fips: '53047'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wa
 - persistent-poverty
 - non-metro
 importance: 5
-state: 'WA'
-county: 'Okanogan County'
-fips: '53047'
 ---
 
 County-level fiscal distress indicators for Okanogan County, WA.

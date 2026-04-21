@@ -1,7 +1,13 @@
 ---
 id: east-carroll-parish-la-usda-distress
-title: East Carroll Parish, LA — Budget Distress (score 9/10)
+title: 'East Carroll Parish, LA — Budget Distress (score 9/10)'
 type: budget-distress
+county: 'East Carroll Parish'
+state: 'LA'
+fips: '22035'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - la
@@ -11,9 +17,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'LA'
-county: 'East Carroll Parish'
-fips: '22035'
 ---
 
 County-level fiscal distress indicators for East Carroll Parish, LA.

@@ -1,7 +1,13 @@
 ---
 id: jefferson-county-pa-usda-distress
-title: Jefferson County, PA — Budget Distress (score 4/10)
+title: 'Jefferson County, PA — Budget Distress (score 4/10)'
 type: budget-distress
+county: 'Jefferson County'
+state: 'PA'
+fips: '42065'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - pa
@@ -9,9 +15,6 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
-state: 'PA'
-county: 'Jefferson County'
-fips: '42065'
 ---
 
 County-level fiscal distress indicators for Jefferson County, PA.

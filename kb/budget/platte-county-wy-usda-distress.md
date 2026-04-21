@@ -1,16 +1,19 @@
 ---
 id: platte-county-wy-usda-distress
-title: Platte County, WY — Budget Distress (score 3/10)
+title: 'Platte County, WY — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Platte County'
+state: 'WY'
+fips: '56031'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - wy
 - population-loss
 - non-metro
 importance: 5
-state: 'WY'
-county: 'Platte County'
-fips: '56031'
 ---
 
 County-level fiscal distress indicators for Platte County, WY.

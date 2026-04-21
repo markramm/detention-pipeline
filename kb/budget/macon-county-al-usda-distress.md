@@ -1,16 +1,19 @@
 ---
 id: macon-county-al-usda-distress
-title: Macon County, AL — Budget Distress (score 5/10)
+title: 'Macon County, AL — Budget Distress (score 5/10)'
 type: budget-distress
+county: 'Macon County'
+state: 'AL'
+fips: '01087'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - al
 - persistent-poverty
 - population-loss
 importance: 5
-state: 'AL'
-county: 'Macon County'
-fips: '01087'
 ---
 
 County-level fiscal distress indicators for Macon County, AL.

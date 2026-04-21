@@ -1,16 +1,19 @@
 ---
 id: tillman-county-ok-usda-distress
-title: Tillman County, OK — Budget Distress (score 3/10)
+title: 'Tillman County, OK — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Tillman County'
+state: 'OK'
+fips: '40141'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ok
 - population-loss
 - non-metro
 importance: 5
-state: 'OK'
-county: 'Tillman County'
-fips: '40141'
 ---
 
 County-level fiscal distress indicators for Tillman County, OK.

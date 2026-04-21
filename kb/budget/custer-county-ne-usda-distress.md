@@ -1,16 +1,19 @@
 ---
 id: custer-county-ne-usda-distress
-title: Custer County, NE — Budget Distress (score 3/10)
+title: 'Custer County, NE — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Custer County'
+state: 'NE'
+fips: '31041'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - ne
 - population-loss
 - non-metro
 importance: 5
-state: 'NE'
-county: 'Custer County'
-fips: '31041'
 ---
 
 County-level fiscal distress indicators for Custer County, NE.

@@ -1,16 +1,19 @@
 ---
 id: edmunds-county-sd-usda-distress
-title: Edmunds County, SD — Budget Distress (score 3/10)
+title: 'Edmunds County, SD — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Edmunds County'
+state: 'SD'
+fips: '46045'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - sd
 - population-loss
 - non-metro
 importance: 5
-state: 'SD'
-county: 'Edmunds County'
-fips: '46045'
 ---
 
 County-level fiscal distress indicators for Edmunds County, SD.

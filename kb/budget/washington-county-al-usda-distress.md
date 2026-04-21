@@ -1,16 +1,19 @@
 ---
 id: washington-county-al-usda-distress
-title: Washington County, AL — Budget Distress (score 3/10)
+title: 'Washington County, AL — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Washington County'
+state: 'AL'
+fips: '01129'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - al
 - population-loss
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Washington County'
-fips: '01129'
 ---
 
 County-level fiscal distress indicators for Washington County, AL.

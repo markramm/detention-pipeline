@@ -1,7 +1,13 @@
 ---
 id: choctaw-county-al-usda-distress
-title: Choctaw County, AL — Budget Distress (score 6/10)
+title: 'Choctaw County, AL — Budget Distress (score 6/10)'
 type: budget-distress
+county: 'Choctaw County'
+state: 'AL'
+fips: '01023'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'strong'
 tags:
 - budget-distress
 - al
@@ -9,9 +15,6 @@ tags:
 - population-loss
 - non-metro
 importance: 5
-state: 'AL'
-county: 'Choctaw County'
-fips: '01023'
 ---
 
 County-level fiscal distress indicators for Choctaw County, AL.

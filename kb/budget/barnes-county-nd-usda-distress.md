@@ -1,16 +1,19 @@
 ---
 id: barnes-county-nd-usda-distress
-title: Barnes County, ND — Budget Distress (score 3/10)
+title: 'Barnes County, ND — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Barnes County'
+state: 'ND'
+fips: '38003'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nd
 - population-loss
 - non-metro
 importance: 5
-state: 'ND'
-county: 'Barnes County'
-fips: '38003'
 ---
 
 County-level fiscal distress indicators for Barnes County, ND.

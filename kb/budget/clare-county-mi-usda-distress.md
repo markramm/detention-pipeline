@@ -1,16 +1,19 @@
 ---
 id: clare-county-mi-usda-distress
-title: Clare County, MI — Budget Distress (score 3/10)
+title: 'Clare County, MI — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Clare County'
+state: 'MI'
+fips: '26035'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - mi
 - population-loss
 - non-metro
 importance: 5
-state: 'MI'
-county: 'Clare County'
-fips: '26035'
 ---
 
 County-level fiscal distress indicators for Clare County, MI.

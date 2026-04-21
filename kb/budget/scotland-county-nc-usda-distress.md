@@ -1,16 +1,19 @@
 ---
 id: scotland-county-nc-usda-distress
-title: Scotland County, NC — Budget Distress (score 3/10)
+title: 'Scotland County, NC — Budget Distress (score 3/10)'
 type: budget-distress
+county: 'Scotland County'
+state: 'NC'
+fips: '37165'
+source: 'USDA ERS County Typology Codes 2025'
+source_url: 'https://www.ers.usda.gov/data-products/county-typology-codes/'
+signal_strength: 'moderate'
 tags:
 - budget-distress
 - nc
 - low-employment
 - non-metro
 importance: 5
-state: 'NC'
-county: 'Scotland County'
-fips: '37165'
 ---
 
 County-level fiscal distress indicators for Scotland County, NC.
