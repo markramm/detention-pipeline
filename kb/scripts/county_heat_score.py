@@ -130,6 +130,10 @@ def resolve_county_to_fips(county_name, state):
 def scan_kb(kb_path, entry_type_override=None):
     """Scan a KB directory for entries with FIPS codes. Returns list of (fips, state, entry_type, title)."""
     entries = []
+    if not kb_path:
+        # igsa-holders KB is not always available (it's a separate private
+        # repo); the caller already warned.
+        return entries
     for root, dirs, files in os.walk(kb_path):
         # Skip hidden dirs
         dirs[:] = [d for d in dirs if not d.startswith(".")]

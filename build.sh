@@ -5,6 +5,7 @@
 set -e
 
 echo "Generating heat scores..."
+mkdir -p docs
 cd kb/scripts
 python3 -c "
 import json, os, sys
@@ -13,25 +14,18 @@ from county_heat_score import load_fips_lookup, score_counties, FIPS_TO_COUNTY
 
 load_fips_lookup()
 
-county_data = score_counties('../../kb/../kb/../kb', '../../kb')
-
-# Try standard paths
+# igsa-holders lives in a separate private repo; find it if available,
+# otherwise score without IGSA data (CI case).
 igsa_candidates = [
     os.path.expanduser('~/tcp-kb-internal/igsa-holders'),
     '../igsa-holders',
     '../../igsa-holders',
 ]
-igsa_path = None
-for p in igsa_candidates:
-    if os.path.isdir(p):
-        igsa_path = p
-        break
-
+igsa_path = next((p for p in igsa_candidates if os.path.isdir(p)), None)
 if not igsa_path:
     print('Warning: igsa-holders KB not found, scoring without IGSA data', file=sys.stderr)
-    county_data = score_counties(None, os.path.abspath('../../kb'))
-else:
-    county_data = score_counties(igsa_path, os.path.abspath('../../kb'))
+
+county_data = score_counties(igsa_path, os.path.abspath('../../kb'))
 
 output = []
 for fips, data in sorted(county_data.items(), key=lambda x: -x[1]['score']):
