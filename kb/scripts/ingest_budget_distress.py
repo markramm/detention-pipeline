@@ -289,52 +289,19 @@ def main():
     if args.dry_run:
         return
 
-    if entries:
-        # Write directly to KB as markdown files (not JSON for kb import)
-        budget_dir = Path(__file__).parent.parent / "budget"
-        budget_dir.mkdir(parents=True, exist_ok=True)
+    # Enrich entries with the metadata the direct-write path used to add
+    # inline, so json_to_entries.py's converter produces identical output.
+    for entry in entries:
+        entry.setdefault("source", "USDA ERS County Typology Codes 2025")
+        entry.setdefault("source_url", "https://www.ers.usda.gov/data-products/county-typology-codes/")
 
-        # Clear existing auto-generated budget entries (keep manually created ones)
-        for existing in budget_dir.glob("*-usda-distress-*.md"):
-            existing.unlink()
-
-        written = 0
-        for entry in entries:
-            slug = re.sub(r"[^a-z0-9]+", "-", entry["title"].lower().split("—")[0].strip())[:60].strip("-")
-            slug = f"{slug}-usda-distress"
-            filepath = budget_dir / f"{slug}.md"
-
-            lines = [
-                "---",
-                f'id: {slug}',
-                f'title: "{entry["title"]}"',
-                f'type: budget-distress',
-                f'county: "{entry["county"]}"',
-                f'state: "{entry["state"]}"',
-                f'fips: "{entry["fips"]}"',
-                f'signal_strength: "{entry["signal_strength"]}"',
-                f'source: "USDA ERS County Typology Codes 2025"',
-                f'source_url: "https://www.ers.usda.gov/data-products/county-typology-codes/"',
-                "tags:",
-            ]
-            for tag in entry["tags"]:
-                lines.append(f"- {tag}")
-            lines.extend([
-                f"importance: 5",
-                "---",
-                "",
-                entry["body"],
-                "",
-            ])
-            filepath.write_text("\n".join(lines), encoding="utf-8")
-            written += 1
-
-        print(f"Wrote {written} entries to {budget_dir}/")
-
-        # Also write JSON for reference
-        with open(args.output, "w") as f:
-            json.dump(entries, f, indent=2)
-        print(f"JSON copy saved to {args.output}")
+    # Emit JSON only. run_ingest_ci.sh pipes this through json_to_entries.py,
+    # which writes stable-slug markdown to kb/budget/ with idempotent
+    # content-hash skip. No more direct writes here: keeps the whole ingest
+    # atomic against git rollback.
+    with open(args.output, "w") as f:
+        json.dump(entries, f, indent=2)
+    print(f"Wrote {len(entries)} entries to {args.output}")
 
 
 if __name__ == "__main__":

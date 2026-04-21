@@ -133,7 +133,7 @@ def render_frontmatter(entry):
     return lines, entry_id, entry_type
 
 
-def write_entry(entry, dry_run=False):
+def write_entry(entry, dry_run=False, stats=None):
     entry_type = entry.get("entry_type") or entry.get("type") or "note"
     subdir = ENTRY_TYPE_TO_DIR.get(entry_type)
     if not subdir:
@@ -148,8 +148,20 @@ def write_entry(entry, dry_run=False):
     out_dir = KB_ROOT / subdir
     out_path = out_dir / f"{entry_id}.md"
 
+    # Skip writes when the file exists with identical content. This keeps
+    # re-ingest cheap (no mtime churn) and the CI diff small (only genuine
+    # changes land in the weekly PR).
+    existing = out_path.read_text(encoding="utf-8") if out_path.exists() else None
+    if existing == content:
+        if stats is not None:
+            stats["unchanged"] += 1
+        return out_path
+
+    status = "UPDATE" if existing is not None else "CREATE"
+    if stats is not None:
+        stats["created" if existing is None else "updated"] += 1
+
     if dry_run:
-        status = "UPDATE" if out_path.exists() else "CREATE"
         print(f"  [{status}] {out_path.relative_to(KB_ROOT)}")
         return out_path
 
@@ -164,8 +176,7 @@ def main():
     p.add_argument("--dry-run", action="store_true", help="Preview without writing")
     args = p.parse_args()
 
-    total_created = 0
-    total_skipped = 0
+    stats = {"created": 0, "updated": 0, "unchanged": 0, "unroutable": 0}
     for json_file in args.files:
         path = Path(json_file)
         if not path.exists():
@@ -182,14 +193,17 @@ def main():
 
         print(f"── {path.name}: {len(entries)} entries ──")
         for entry in entries:
-            result = write_entry(entry, dry_run=args.dry_run)
-            if result:
-                total_created += 1
-            else:
-                total_skipped += 1
+            result = write_entry(entry, dry_run=args.dry_run, stats=stats)
+            if result is None:
+                stats["unroutable"] += 1
 
-    print(f"\nWrote {total_created} entries, skipped {total_skipped}")
-    return 0 if total_skipped == 0 else 1
+    total_touched = stats["created"] + stats["updated"]
+    print(
+        f"\n{stats['created']} created, {stats['updated']} updated, "
+        f"{stats['unchanged']} unchanged, {stats['unroutable']} unroutable "
+        f"(touched {total_touched}/{total_touched + stats['unchanged']})"
+    )
+    return 0 if stats["unroutable"] == 0 else 1
 
 
 if __name__ == "__main__":
