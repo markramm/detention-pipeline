@@ -32,41 +32,31 @@ STATIC_PATH = Path("static")
 DATA_PATH = Path("data")
 
 # Metadata for all entry types — signals, industry, facilities
+sys.path.insert(0, str(Path(__file__).parent.parent / "kb" / "scripts"))
+from schema import load_schema
+
+_SCHEMA = load_schema()
+
+# Mirror the historical dict shape for downstream code: only the subset of
+# fields this module has always consumed (label, color, weight, section).
+# Templates that need more (anchor, description, css_var) read the full
+# entry_types.json published below.
 ENTRY_TYPE_META = {
-    # Pipeline signals (scored in heat map)
-    "287g-agreement":      {"label": "287(g) Agreement",    "color": "#d46a2f", "weight": 7,  "section": "signals"},
-    "anc-contract":        {"label": "ANC Contract",        "color": "#c49025", "weight": 8,  "section": "signals"},
-    "budget-distress":     {"label": "Budget Distress",     "color": "#9a4fb5", "weight": 5,  "section": "signals"},
-    "commission-activity": {"label": "Commission Activity", "color": "#8a9f2a", "weight": 7,  "section": "signals"},
-    "comms-discipline":    {"label": "Comms Discipline",    "color": "#6a5fb5", "weight": 6,  "section": "signals"},
-    "job-posting":         {"label": "Job Posting",         "color": "#2a9f6f", "weight": 7,  "section": "signals"},
-    "legislative-trace":   {"label": "Legislative Trace",   "color": "#5f6a7a", "weight": 1,  "section": "signals"},
-    "real-estate-trace":   {"label": "Real Estate Trace",   "color": "#b54f8a", "weight": 2,  "section": "signals"},
-    "sheriff-network":     {"label": "Sheriff Network",     "color": "#2a7fb5", "weight": 6,  "section": "signals"},
-    # Industry types
-    "contractor":          {"label": "Contractor",          "color": "#8a5a2a", "section": "players"},
-    "person":              {"label": "Person",              "color": "#5a2a8a", "section": "players"},
-    "financial-flow":      {"label": "Financial Flow",      "color": "#8a2a5a", "section": "players"},
-    "analysis":            {"label": "Analysis",            "color": "#5a6a8a", "section": "players"},
-    "contract":            {"label": "Contract",            "color": "#c49025", "section": "players"},
-    "organization":        {"label": "Organization",        "color": "#4a7ab5", "section": "organizations"},
-    "personnel-flow":      {"label": "Personnel Flow",      "color": "#7a4ab5", "section": "players"},
-    "county-fight":        {"label": "County Fight",        "color": "#2a8a5a", "section": "fights"},
-    "event":               {"label": "Event",               "color": "#5a7a6a", "section": "players"},
-    "note":                {"label": "Research Note",       "color": "#6a6a6a", "section": "entry"},
-    # Facilities
-    "igsa":                {"label": "IGSA Facility",       "color": "#c93b3b", "weight": 10, "section": "facilities"},
-    "facility":            {"label": "Facility",            "color": "#c93b3b", "section": "facilities"},
+    name: {
+        "label": meta["label"],
+        "color": meta["color"],
+        "section": meta.get("section", "entry"),
+        **({"weight": meta["weight"]} if meta.get("weight") else {}),
+    }
+    for name, meta in _SCHEMA.entry_types.items()
 }
 
-# Signal types only (for signal index pages and heat score)
+# Signal types only (scored in heat map).
 SIGNAL_META = {k: v for k, v in ENTRY_TYPE_META.items() if v.get("weight")}
 
-# Coverage depth classification
-AUTOMATED_TYPES = {"287g-agreement", "anc-contract", "igsa", "budget-distress"}
-HUMAN_TYPES = {"commission-activity", "comms-discipline", "sheriff-network",
-               "real-estate-trace", "job-posting", "county-fight", "legislative-trace",
-               "contract", "analysis", "event", "person", "organization"}
+# Coverage depth classification — from schema.
+AUTOMATED_TYPES = set(_SCHEMA.coverage.get("automated", []))
+HUMAN_TYPES = set(_SCHEMA.coverage.get("human", []))
 
 STATE_NAMES = {
     "AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas",
@@ -803,8 +793,11 @@ def copy_static_assets(heat_data):
         json.dump(heat_data, f)
     with open(DATA_PATH / "signals.json", "w") as f:
         json.dump(SIGNAL_META, f, indent=2)
+    # entry_types.json carries the full schema (label, color, weight,
+    # section, anchor, description, css_var, etc.) so Hugo templates
+    # can render signal metadata without hardcoding a parallel copy.
     with open(DATA_PATH / "entry_types.json", "w") as f:
-        json.dump(ENTRY_TYPE_META, f, indent=2)
+        json.dump(_SCHEMA.entry_types, f, indent=2)
 
     STATIC_PATH.mkdir(parents=True, exist_ok=True)
     docs = Path("../docs")

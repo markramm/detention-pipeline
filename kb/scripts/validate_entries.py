@@ -22,10 +22,14 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+from schema import load_schema
+
 KB_PATH = Path(__file__).parent.parent
+SCHEMA = load_schema()
 
 VALID_STATES = {
-    "AL","AK","AZ","AR","CA","CO","CT","DE","DC","FL","GA","GU","HI","ID",
+    "AL","AK","AS","AZ","AR","CA","CO","CT","DE","DC","FL","GA","GU","HI","ID",
     "IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT",
     "NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA","PR","RI",
     "SC","SD","TN","TX","UT","VT","VA","VI","WA","WV","WI","WY","CU","MP",
@@ -34,44 +38,9 @@ VALID_STATES = {
 
 FIPS_PATTERN = re.compile(r"^\d{5}$")
 
-# Required fields by entry type (from kb.yaml)
-REQUIRED_FIELDS = {
-    "commission-activity": ["title", "county", "state", "fips"],
-    "budget-distress": ["title", "county", "state", "fips"],
-    "real-estate-trace": ["title", "county", "state", "fips"],
-    "job-posting": ["title", "state"],
-    "sheriff-network": ["title", "county", "state", "fips"],
-    "anc-contract": ["title", "county", "state", "fips"],
-    "comms-discipline": ["title", "county", "state", "fips"],
-    "287g-agreement": ["title", "state"],
-    "legislative-trace": ["title", "state"],
-    "igsa": ["title", "state"],
-    "facility": ["title", "state"],
-    "contractor": ["title"],
-    "person": ["title"],
-    "organization": ["title"],
-    "county-fight": ["title", "state"],
-    "financial-flow": ["title"],
-    "analysis": ["title"],
-    "contract": ["title"],
-    "event": ["title"],
-    "note": ["title"],
-}
-
-# Entry types that should have source_url (auto-ingested)
-SHOULD_HAVE_SOURCE_URL = {
-    "igsa", "287g-agreement", "anc-contract", "budget-distress",
-    "commission-activity", "job-posting",
-}
-
-# Known source URLs by entry type
-SOURCE_URLS = {
-    "igsa": "https://github.com/vera-institute/ice-detention-trends",
-    "287g-agreement": "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/",
-    "anc-contract": "https://www.usaspending.gov",
-    "budget-distress": "https://www.ers.usda.gov/data-products/county-typology-codes/",
-    "commission-activity": "https://webapi.legistar.com",
-}
+REQUIRED_FIELDS = SCHEMA.required_fields()
+SHOULD_HAVE_SOURCE_URL = SCHEMA.source_url_required()
+SOURCE_URLS = SCHEMA.source_url_defaults()
 
 
 def parse_frontmatter(filepath):

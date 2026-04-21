@@ -36,40 +36,15 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-# Signal type weights
-# Tier 1: Proves federal detention relationship exists or is being built
-# Tier 2: Active pipeline signals — someone is working on a deal
-# Tier 3: Conditions that make a county a target
-# Tier 4: Context — useful but not predictive alone
-WEIGHTS = {
-    "igsa": 10,              # Tier 1: existing federal detention agreement
-    "anc-contract": 8,       # Tier 1: federal money flowing for detention services (legacy)
-    "ice-contract": 8,       # Tier 1: federal money flowing for detention services
-    "287g-agreement": 7,     # Tier 1.5: local LE already cooperating with ICE
-    "commission-activity": 7, # Tier 2: democratic process engaged on detention
-    "job-posting": 7,        # Tier 2: consultant actively hiring for this geography
-    "sheriff-network": 6,    # Tier 2: sheriff recruited at conference, pitching commissioners
-    "comms-discipline": 6,   # Tier 2: playbook communications pattern detected
-    "budget-distress": 5,    # Tier 3: county is financially vulnerable to the pitch
-    "real-estate-trace": 2,  # Tier 3: building exists, but buildings are everywhere
-    "legislative-trace": 1,  # Tier 4: state-level context
-}
+sys.path.insert(0, str(Path(__file__).parent))
+from schema import load_schema
 
-# Per-entry caps to prevent one signal type from dominating
-# (9 warehouses shouldn't outscore 1 IGSA)
-MAX_ENTRIES_PER_TYPE = {
-    "igsa": 5,               # Multiple IGSAs in a county is meaningful (up to a point)
-    "anc-contract": 3,       # Multiple contracts = deeper relationship (legacy)
-    "ice-contract": 3,       # Multiple contracts = deeper relationship
-    "287g-agreement": 3,     # Multiple models (JEM+TFM+WSO) = deeper cooperation
-    "real-estate-trace": 2,  # Cap at 2 — more warehouses doesn't mean more likely
-    "commission-activity": 5, # Each meeting/vote is distinct signal
-    "job-posting": 3,
-    "comms-discipline": 3,
-    "budget-distress": 2,
-    "sheriff-network": 3,
-    "legislative-trace": 2,
-}
+# Weights and caps come from kb/schema.yaml. See schema comments for the
+# tiering rationale (Tier 1: federal relationship exists; Tier 2: active
+# pipeline; Tier 3: vulnerability; Tier 4: context).
+_SCHEMA = load_schema()
+WEIGHTS = _SCHEMA.weights()
+MAX_ENTRIES_PER_TYPE = _SCHEMA.max_entries()
 
 # FIPS to county name lookup
 FIPS_TO_COUNTY = {}

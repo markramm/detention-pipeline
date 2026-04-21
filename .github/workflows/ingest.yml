@@ -1,0 +1,120 @@
+name: Weekly ingest
+
+on:
+  schedule:
+    # Tuesdays 13:00 UTC (08:00 CT)
+    - cron: "0 13 * * 2"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Lookback window (days)"
+        required: false
+        default: "180"
+      only:
+        description: "Run only one source (legistar, 287g, usaspending, jobs, budget)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.151.2
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python deps
+        run: pip install aiohttp
+
+      - name: Install Hugo
+        run: |
+          wget -O /tmp/hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          sudo dpkg -i /tmp/hugo.deb
+
+      - name: Snapshot pre-ingest heat scores
+        run: |
+          mkdir -p docs
+          ./build.sh
+          cp docs/heat_data.json /tmp/heat_before.json
+
+      - name: Run ingest
+        id: ingest
+        continue-on-error: true
+        run: |
+          DAYS="${{ github.event.inputs.days || '180' }}"
+          ONLY="${{ github.event.inputs.only || '' }}"
+          ARGS="--days $DAYS"
+          [ -n "$ONLY" ] && ARGS="$ARGS --only $ONLY"
+          ./run_ingest_ci.sh $ARGS
+
+      - name: Generate diff summary
+        run: |
+          python3 kb/scripts/ingest_diff.py \
+            --heat-before /tmp/heat_before.json \
+            --heat-after docs/heat_data.json \
+            > /tmp/ingest_summary.md
+          cat /tmp/ingest_summary.md
+
+      - name: Check for changes
+        id: check
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open PR
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          INGEST_OUTCOME: ${{ steps.ingest.outcome }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          BRANCH="ingest/$(date -u +%Y-%m-%d)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add kb/ hugo/content/ hugo/data/ hugo/static/
+          git commit -m "Weekly ingest $(date -u +%Y-%m-%d)"
+          git push -u origin "$BRANCH"
+
+          {
+            if [ "$INGEST_OUTCOME" != "success" ]; then
+              echo "> ⚠️ One or more ingest sources failed — see [run logs]($RUN_URL)."
+              echo ""
+            fi
+            cat /tmp/ingest_summary.md
+          } > /tmp/pr_body.md
+
+          gh pr create \
+            --title "Weekly ingest $(date -u +%Y-%m-%d)" \
+            --body-file /tmp/pr_body.md \
+            --base main \
+            --head "$BRANCH" \
+            --label "ingest"
+
+      - name: Open issue on full failure
+        if: steps.ingest.outcome != 'success' && steps.check.outputs.changed == 'false'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Weekly ingest failed $(date -u +%Y-%m-%d)" \
+            --body "All ingest sources failed and produced no changes. See [run logs](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})." \
+            --label "ingest,bug"

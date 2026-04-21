@@ -62,7 +62,10 @@ for fips, data in sorted(county_data.items(), key=lambda x: -x[1]['score']):
         'county': county_name,
         'state': data['state'],
         'score': data['score'],
-        'signal_types': len([t for t in data['signals'] if data['signals'][t]]),
+        # Count ALL signal categories shown on the site (direct + propagated),
+        # matching len(signals_detail). Earlier this counted direct only,
+        # which made \"3 signals on page, count says 1\" for propagated rows.
+        'signal_types': len(signals_detail),
         'signals': signals_detail,
     })
 
@@ -74,4 +77,8 @@ print(f'Max score: {output[0][\"score\"]} ({output[0][\"county\"]})')
 "
 
 cd ../..
+
+echo "Validating heat_data.json contract..."
+python3 kb/scripts/test_heat_contract.py
+
 echo "Done. Commit and push to update GitHub Pages."

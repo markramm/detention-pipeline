@@ -385,6 +385,10 @@ def main():
                 continue
             seen_award_ids.add(award_id)
             entry = create_entry(award, dry_run=args.dry_run)
+            # ANC contractors are filed under anc/ by ingest_usaspending.py.
+            # Skip them here to avoid duplicate IDs between anc/ and ice-contracts/.
+            if entry.get("contractor_type") == "anc":
+                continue
             all_entries.append(entry)
 
         has_next = data.get("page_metadata", {}).get("hasNext", False)
