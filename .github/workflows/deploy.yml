@@ -32,9 +32,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python deps
+        run: pip install pyyaml
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
+      - name: Generate heat scores
+        run: ./build.sh
+
+      - name: Generate Hugo content
+        run: |
+          cd hugo
+          python3 generate_content.py
 
       - name: Build with Hugo
         env:

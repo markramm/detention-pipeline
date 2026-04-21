@@ -8,3 +8,26 @@ __pycache__/
 # Generated site output — built by GitHub Actions, not committed
 drafts/
 interview-ref/
+
+# Generated Hugo content — rebuilt every deploy by generate_content.py.
+# Only hugo/content/blog/ is hand-written.
+/hugo/content/*
+!/hugo/content/blog/
+!/hugo/content/blog/**
+
+# Generated Hugo data files (from generate_content.py, generate_network.py,
+# generate_timeline.py). summaries.json is an authored LLM input — keep it.
+/hugo/data/entry_types.json
+/hugo/data/heat.json
+/hugo/data/signals.json
+/hugo/data/network.json
+/hugo/data/timeline.json
+
+# Generated static payloads (heat map, facilities overlay, per-county JSON,
+# network/timeline copies). counties-albers-10m.json and fips_names.json
+# are authored reference data — keep them.
+/hugo/static/heat_data.json
+/hugo/static/facilities_map.json
+/hugo/static/network.json
+/hugo/static/timeline.json
+/hugo/static/county/
