@@ -61,6 +61,13 @@ STAGE_DIR="/tmp/dp_ingest"
 mkdir -p "$STAGE_DIR"
 rm -f "$STAGE_DIR"/*.json  # start each run with clean staging
 
+echo "── Running unit tests ──"
+if ! python3 -m pytest "$SCRIPTS_DIR/tests/" -q; then
+  echo "  FAIL: unit tests failed — aborting before any ingest runs." >&2
+  exit 1
+fi
+echo ""
+
 echo "═══════════════════════════════════════════"
 echo "  Detention Pipeline — CI Ingestion"
 echo "═══════════════════════════════════════════"

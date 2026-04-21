@@ -39,7 +39,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install Python deps
-        run: pip install aiohttp
+        run: pip install aiohttp pyyaml pytest
 
       - name: Install Hugo
         run: |
