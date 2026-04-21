@@ -2,14 +2,20 @@
 id: 287-g-wso-laramie-county-sheriff-s-office-wy
 title: '287(g) WSO: Laramie County Sheriff’s Office (WY)'
 type: 287g-agreement
+county: 'Laramie County'
+state: 'WY'
+fips: '56021'
+agency: 'Laramie County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'June 12, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed June 12, 2025'
 tags:
 - 287g
 - wso
 - wy
 importance: 5
-state: 'WY'
-county: 'Laramie County'
-fips: '56021'
 ---
 
 287(g) agreement between ICE and Laramie County Sheriff’s Office.

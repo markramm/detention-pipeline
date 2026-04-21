@@ -2,14 +2,20 @@
 id: 287-g-wso-morgan-county-sheriff-s-office-ga
 title: '287(g) WSO: Morgan County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Morgan County'
+state: 'GA'
+fips: '13211'
+agency: 'Morgan County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'February 28, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed February 28, 2025'
 tags:
 - 287g
 - wso
 - ga
 importance: 5
-state: 'GA'
-county: 'Morgan County'
-fips: '13211'
 ---
 
 287(g) agreement between ICE and Morgan County Sheriff’s Office.

@@ -2,12 +2,18 @@
 id: 287-g-tfm-texas-office-of-the-attorney-general-tx
 title: '287(g) TFM: Texas Office of the Attorney General (TX)'
 type: 287g-agreement
+state: 'TX'
+agency: 'Texas Office of the Attorney General'
+model: 'TFM'
+signed_date: 'January 30, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed January 30, 2025'
 tags:
 - 287g
 - tfm
 - tx
 importance: 5
-state: 'TX'
 ---
 
 287(g) agreement between ICE and Texas Office of the Attorney General.

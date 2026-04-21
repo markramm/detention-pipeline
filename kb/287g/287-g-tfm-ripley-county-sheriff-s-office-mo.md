@@ -2,14 +2,20 @@
 id: 287-g-tfm-ripley-county-sheriff-s-office-mo
 title: '287(g) TFM: Ripley County Sheriff’s Office (MO)'
 type: 287g-agreement
+county: 'Ripley County'
+state: 'MO'
+fips: '29181'
+agency: 'Ripley County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'December 18, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed December 18, 2025'
 tags:
 - 287g
 - tfm
 - mo
 importance: 5
-state: 'MO'
-county: 'Ripley County'
-fips: '29181'
 ---
 
 287(g) agreement between ICE and Ripley County Sheriff’s Office.

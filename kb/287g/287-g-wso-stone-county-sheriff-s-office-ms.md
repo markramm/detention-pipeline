@@ -2,14 +2,20 @@
 id: 287-g-wso-stone-county-sheriff-s-office-ms
 title: '287(g) WSO: Stone County Sheriff’s Office (MS)'
 type: 287g-agreement
+county: 'Stone County'
+state: 'MS'
+fips: '28131'
+agency: 'Stone County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'July 7, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed July 7, 2025'
 tags:
 - 287g
 - wso
 - ms
 importance: 5
-state: 'MS'
-county: 'Stone County'
-fips: '28131'
 ---
 
 287(g) agreement between ICE and Stone County Sheriff’s Office.

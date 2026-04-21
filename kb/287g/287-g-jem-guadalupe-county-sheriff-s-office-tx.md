@@ -2,14 +2,20 @@
 id: 287-g-jem-guadalupe-county-sheriff-s-office-tx
 title: '287(g) JEM: Guadalupe County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Guadalupe County'
+state: 'TX'
+fips: '48187'
+agency: 'Guadalupe County Sheriff’s Office'
+model: 'JEM'
+signed_date: 'December 2, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed December 2, 2025'
 tags:
 - 287g
 - jem
 - tx
 importance: 5
-state: 'TX'
-county: 'Guadalupe County'
-fips: '48187'
 ---
 
 287(g) agreement between ICE and Guadalupe County Sheriff’s Office.

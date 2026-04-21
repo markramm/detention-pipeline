@@ -2,14 +2,20 @@
 id: 287-g-jem-clay-county-sheriff-s-office-fl
 title: '287(g) JEM: Clay County Sheriff’s Office (FL)'
 type: 287g-agreement
+county: 'Clay County'
+state: 'FL'
+fips: '12019'
+agency: 'Clay County Sheriff’s Office'
+model: 'JEM'
+signed_date: 'March 11, 2020'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed March 11, 2020'
 tags:
 - 287g
 - jem
 - fl
 importance: 5
-state: 'FL'
-county: 'Clay County'
-fips: '12019'
 ---
 
 287(g) agreement between ICE and Clay County Sheriff’s Office.

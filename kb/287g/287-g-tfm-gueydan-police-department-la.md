@@ -2,14 +2,20 @@
 id: 287-g-tfm-gueydan-police-department-la
 title: '287(g) TFM: Gueydan Police Department (LA)'
 type: 287g-agreement
+county: 'Vermilion Parish'
+state: 'LA'
+fips: '22113'
+agency: 'Gueydan Police Department'
+model: 'TFM'
+signed_date: 'December 12, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed December 12, 2025'
 tags:
 - 287g
 - tfm
 - la
 importance: 5
-state: 'LA'
-county: 'Vermilion Parish'
-fips: '22113'
 ---
 
 287(g) agreement between ICE and Gueydan Police Department.

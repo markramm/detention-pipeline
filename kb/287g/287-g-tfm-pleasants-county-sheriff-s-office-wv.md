@@ -1,15 +1,21 @@
 ---
 id: 287-g-tfm-pleasants-county-sheriff-s-office-wv
-title: '287(g) TFM: Pleasants County Sheriff’s Office (W. Va.)'
+title: '287(g) TFM: Pleasants County Sheriff’s Office (WV)'
 type: 287g-agreement
+county: 'Pleasants County'
+state: 'WV'
+fips: '54073'
+agency: 'Pleasants County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'February 10, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed February 10, 2026'
 tags:
 - 287g
 - tfm
-- w. va.
+- wv
 importance: 5
-state: 'WV'
-county: 'Pleasants County'
-fips: '54073'
 ---
 
 287(g) agreement between ICE and Pleasants County Sheriff’s Office.
@@ -17,7 +23,7 @@ fips: '54073'
 Model: TFM
 Signed: February 10, 2026
 County: Pleasants County
-State: W. Va.
-FIPS: unresolved
+State: WV
+FIPS: 54073
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

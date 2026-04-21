@@ -2,14 +2,20 @@
 id: 287-g-tfm-medina-county-sheriff-s-office-tx
 title: '287(g) TFM: Medina County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Medina County'
+state: 'TX'
+fips: '48325'
+agency: 'Medina County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'March 26, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed March 26, 2025'
 tags:
 - 287g
 - tfm
 - tx
 importance: 5
-state: 'TX'
-county: 'Medina County'
-fips: '48325'
 ---
 
 287(g) agreement between ICE and Medina County Sheriff’s Office.

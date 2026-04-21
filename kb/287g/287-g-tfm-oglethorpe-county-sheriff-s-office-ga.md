@@ -2,14 +2,20 @@
 id: 287-g-tfm-oglethorpe-county-sheriff-s-office-ga
 title: '287(g) TFM: Oglethorpe County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Oglethorpe County'
+state: 'GA'
+fips: '13221'
+agency: 'Oglethorpe County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'October 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed October 17, 2025'
 tags:
 - 287g
 - tfm
 - ga
 importance: 5
-state: 'GA'
-county: 'Oglethorpe County'
-fips: '13221'
 ---
 
 287(g) agreement between ICE and Oglethorpe County Sheriff’s Office.

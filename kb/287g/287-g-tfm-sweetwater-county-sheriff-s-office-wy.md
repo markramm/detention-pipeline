@@ -2,14 +2,20 @@
 id: 287-g-tfm-sweetwater-county-sheriff-s-office-wy
 title: '287(g) TFM: Sweetwater County Sheriff’s Office (WY)'
 type: 287g-agreement
+county: 'Sweetwater County'
+state: 'WY'
+fips: '56037'
+agency: 'Sweetwater County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'April 24, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed April 24, 2025'
 tags:
 - 287g
 - tfm
 - wy
 importance: 5
-state: 'WY'
-county: 'Sweetwater County'
-fips: '56037'
 ---
 
 287(g) agreement between ICE and Sweetwater County Sheriff’s Office.

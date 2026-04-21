@@ -2,12 +2,18 @@
 id: 287-g-tfm-louisiana-department-of-wildlife-fisheries-la
 title: '287(g) TFM: Louisiana Department of Wildlife & Fisheries (LA)'
 type: 287g-agreement
+state: 'LA'
+agency: 'Louisiana Department of Wildlife & Fisheries'
+model: 'TFM'
+signed_date: 'May 20, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed May 20, 2025'
 tags:
 - 287g
 - tfm
 - la
 importance: 5
-state: 'LA'
 ---
 
 287(g) agreement between ICE and Louisiana Department of Wildlife & Fisheries.

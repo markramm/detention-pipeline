@@ -2,12 +2,18 @@
 id: 287-g-wso-rappahannock-shenandoah-warren-regional-jail-authority-va
 title: '287(g) WSO: Rappahannock, Shenandoah, Warren Regional Jail Authority (VA)'
 type: 287g-agreement
+state: 'VA'
+agency: 'Rappahannock, Shenandoah, Warren Regional Jail Authority'
+model: 'WSO'
+signed_date: 'August 28, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'WSO model agreement signed August 28, 2025'
 tags:
 - 287g
 - wso
 - va
 importance: 5
-state: 'VA'
 ---
 
 287(g) agreement between ICE and Rappahannock, Shenandoah, Warren Regional Jail Authority.

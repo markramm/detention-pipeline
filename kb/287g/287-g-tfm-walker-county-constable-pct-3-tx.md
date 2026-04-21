@@ -2,14 +2,20 @@
 id: 287-g-tfm-walker-county-constable-pct-3-tx
 title: '287(g) TFM: Walker County Constable Pct 3 (TX)'
 type: 287g-agreement
+county: 'Walker County'
+state: 'TX'
+fips: '48471'
+agency: 'Walker County Constable Pct 3'
+model: 'TFM'
+signed_date: 'September 9, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed September 9, 2025'
 tags:
 - 287g
 - tfm
 - tx
 importance: 5
-state: 'TX'
-county: 'Walker County'
-fips: '48471'
 ---
 
 287(g) agreement between ICE and Walker County Constable Pct 3.

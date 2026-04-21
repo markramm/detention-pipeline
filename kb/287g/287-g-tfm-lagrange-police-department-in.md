@@ -2,14 +2,20 @@
 id: 287-g-tfm-lagrange-police-department-in
 title: '287(g) TFM: LaGrange Police Department (IN)'
 type: 287g-agreement
+county: 'LaGrange County'
+state: 'IN'
+fips: '18087'
+agency: 'LaGrange Police Department'
+model: 'TFM'
+signed_date: 'November 6, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed November 6, 2025'
 tags:
 - 287g
 - tfm
 - in
 importance: 5
-state: 'IN'
-county: 'LaGrange County'
-fips: '18087'
 ---
 
 287(g) agreement between ICE and LaGrange Police Department.

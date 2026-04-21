@@ -2,12 +2,18 @@
 id: 287-g-tfm-manheim-borough-police-department-pa
 title: '287(g) TFM: Manheim Borough Police Department (PA)'
 type: 287g-agreement
+state: 'PA'
+agency: 'Manheim Borough Police Department'
+model: 'TFM'
+signed_date: 'June 18, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed June 18, 2025'
 tags:
 - 287g
 - tfm
 - pa
 importance: 5
-state: 'PA'
 ---
 
 287(g) agreement between ICE and Manheim Borough Police Department.

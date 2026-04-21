@@ -2,14 +2,20 @@
 id: 287-g-wso-rutherford-county-sheriff-s-office-tn
 title: '287(g) WSO: Rutherford County Sheriff’s Office (TN)'
 type: 287g-agreement
+county: 'Rutherford County'
+state: 'TN'
+fips: '47149'
+agency: 'Rutherford County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'August 28, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed August 28, 2025'
 tags:
 - 287g
 - wso
 - tn
 importance: 5
-state: 'TN'
-county: 'Rutherford County'
-fips: '47149'
 ---
 
 287(g) agreement between ICE and Rutherford County Sheriff’s Office.

@@ -2,14 +2,20 @@
 id: 287-g-wso-keller-police-department-tx
 title: '287(g) WSO: Keller Police Department (TX)'
 type: 287g-agreement
+county: 'Tarrant County'
+state: 'TX'
+fips: '48439'
+agency: 'Keller Police Department'
+model: 'WSO'
+signed_date: 'August 28, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'WSO model agreement signed August 28, 2025'
 tags:
 - 287g
 - wso
 - tx
 importance: 5
-state: 'TX'
-county: 'Tarrant County'
-fips: '48439'
 ---
 
 287(g) agreement between ICE and Keller Police Department.

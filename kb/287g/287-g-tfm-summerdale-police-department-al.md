@@ -2,14 +2,20 @@
 id: 287-g-tfm-summerdale-police-department-al
 title: '287(g) TFM: Summerdale Police Department (AL)'
 type: 287g-agreement
+county: 'Baldwin County'
+state: 'AL'
+fips: '01003'
+agency: 'Summerdale Police Department'
+model: 'TFM'
+signed_date: 'December 10, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed December 10, 2025'
 tags:
 - 287g
 - tfm
 - al
 importance: 5
-state: 'AL'
-county: 'Baldwin County'
-fips: '01003'
 ---
 
 287(g) agreement between ICE and Summerdale Police Department.

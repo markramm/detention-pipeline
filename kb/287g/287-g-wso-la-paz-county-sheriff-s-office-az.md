@@ -2,14 +2,20 @@
 id: 287-g-wso-la-paz-county-sheriff-s-office-az
 title: '287(g) WSO: La Paz County Sheriff’s Office (AZ)'
 type: 287g-agreement
+county: 'La Paz County'
+state: 'AZ'
+fips: '04012'
+agency: 'La Paz County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'February 27, 2020'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed February 27, 2020'
 tags:
 - 287g
 - wso
 - az
 importance: 5
-state: 'AZ'
-county: 'La Paz County'
-fips: '04012'
 ---
 
 287(g) agreement between ICE and La Paz County Sheriff’s Office.

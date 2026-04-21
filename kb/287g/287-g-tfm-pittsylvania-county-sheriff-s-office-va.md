@@ -2,14 +2,20 @@
 id: 287-g-tfm-pittsylvania-county-sheriff-s-office-va
 title: '287(g) TFM: Pittsylvania County Sheriff’s Office (VA)'
 type: 287g-agreement
+county: 'Pittsylvania County'
+state: 'VA'
+fips: '51143'
+agency: 'Pittsylvania County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'June 13, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed June 13, 2025'
 tags:
 - 287g
 - tfm
 - va
 importance: 5
-state: 'VA'
-county: 'Pittsylvania County'
-fips: '51143'
 ---
 
 287(g) agreement between ICE and Pittsylvania County Sheriff’s Office.

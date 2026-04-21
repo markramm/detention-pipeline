@@ -2,14 +2,20 @@
 id: 287-g-wso-crook-county-sheriff-s-office-wy
 title: '287(g) WSO: Crook County Sheriff’s Office (WY)'
 type: 287g-agreement
+county: 'Crook County'
+state: 'WY'
+fips: '56011'
+agency: 'Crook County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'January 7, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed January 7, 2026'
 tags:
 - 287g
 - wso
 - wy
 importance: 5
-state: 'WY'
-county: 'Crook County'
-fips: '56011'
 ---
 
 287(g) agreement between ICE and Crook County Sheriff’s Office.

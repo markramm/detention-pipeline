@@ -2,14 +2,20 @@
 id: 287-g-tfm-greensboro-police-department-in
 title: '287(g) TFM: Greensboro Police Department (IN)'
 type: 287g-agreement
+county: 'Henry County'
+state: 'IN'
+fips: '18065'
+agency: 'Greensboro Police Department'
+model: 'TFM'
+signed_date: 'December 9, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed December 9, 2025'
 tags:
 - 287g
 - tfm
 - in
 importance: 5
-state: 'IN'
-county: 'Henry County'
-fips: '18065'
 ---
 
 287(g) agreement between ICE and Greensboro Police Department.

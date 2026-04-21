@@ -2,14 +2,20 @@
 id: 287-g-wso-cache-county-sheriff-s-office-ut
 title: '287(g) WSO: Cache County Sheriff’s Office (UT)'
 type: 287g-agreement
+county: 'Cache County'
+state: 'UT'
+fips: '49005'
+agency: 'Cache County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'August 4, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed August 4, 2025'
 tags:
 - 287g
 - wso
 - ut
 importance: 5
-state: 'UT'
-county: 'Cache County'
-fips: '49005'
 ---
 
 287(g) agreement between ICE and Cache County Sheriff’s Office.

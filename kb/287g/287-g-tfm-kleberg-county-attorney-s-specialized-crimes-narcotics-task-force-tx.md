@@ -2,14 +2,20 @@
 id: 287-g-tfm-kleberg-county-attorney-s-specialized-crimes-narcotics-task-force-tx
 title: '287(g) TFM: Kleberg County Attorney’s Specialized Crimes & Narcotics Task Force (TX)'
 type: 287g-agreement
+county: 'Kleberg County'
+state: 'TX'
+fips: '48273'
+agency: 'Kleberg County Attorney’s Specialized Crimes & Narcotics Task Force'
+model: 'TFM'
+signed_date: 'December 16, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed December 16, 2025'
 tags:
 - 287g
 - tfm
 - tx
 importance: 5
-state: 'TX'
-county: 'Kleberg County'
-fips: '48273'
 ---
 
 287(g) agreement between ICE and Kleberg County Attorney’s Specialized Crimes & Narcotics Task Force.

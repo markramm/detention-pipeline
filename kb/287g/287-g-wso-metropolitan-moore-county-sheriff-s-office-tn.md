@@ -2,14 +2,20 @@
 id: 287-g-wso-metropolitan-moore-county-sheriff-s-office-tn
 title: '287(g) WSO: Metropolitan Moore County Sheriff’s Office (TN)'
 type: 287g-agreement
+county: 'Moore County'
+state: 'TN'
+fips: '47127'
+agency: 'Metropolitan Moore County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'November 6, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed November 6, 2025'
 tags:
 - 287g
 - wso
 - tn
 importance: 5
-state: 'TN'
-county: 'Moore County'
-fips: '47127'
 ---
 
 287(g) agreement between ICE and Metropolitan Moore County Sheriff’s Office.

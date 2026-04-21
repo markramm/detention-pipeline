@@ -2,14 +2,20 @@
 id: 287-g-tfm-gaines-township-pa-state-constable-pa
 title: '287(g) TFM: Gaines Township PA State Constable (PA)'
 type: 287g-agreement
+county: 'Tioga County'
+state: 'PA'
+fips: '42117'
+agency: 'Gaines Township PA State Constable'
+model: 'TFM'
+signed_date: 'October 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed October 17, 2025'
 tags:
 - 287g
 - tfm
 - pa
 importance: 5
-state: 'PA'
-county: 'Tioga County'
-fips: '42117'
 ---
 
 287(g) agreement between ICE and Gaines Township PA State Constable.

@@ -2,14 +2,20 @@
 id: 287-g-wso-schleicher-county-sheriff-s-office-tx
 title: '287(g) WSO: Schleicher County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Schleicher County'
+state: 'TX'
+fips: '48413'
+agency: 'Schleicher County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'April 2, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed April 2, 2025'
 tags:
 - 287g
 - wso
 - tx
 importance: 5
-state: 'TX'
-county: 'Schleicher County'
-fips: '48413'
 ---
 
 287(g) agreement between ICE and Schleicher County Sheriff’s Office.

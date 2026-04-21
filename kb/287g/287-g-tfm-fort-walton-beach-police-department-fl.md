@@ -2,14 +2,20 @@
 id: 287-g-tfm-fort-walton-beach-police-department-fl
 title: '287(g) TFM: Fort Walton Beach Police Department (FL)'
 type: 287g-agreement
+county: 'Okaloosa County'
+state: 'FL'
+fips: '12091'
+agency: 'Fort Walton Beach Police Department'
+model: 'TFM'
+signed_date: 'August 4, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed August 4, 2025'
 tags:
 - 287g
 - tfm
 - fl
 importance: 5
-state: 'FL'
-county: 'Okaloosa County'
-fips: '12091'
 ---
 
 287(g) agreement between ICE and Fort Walton Beach Police Department.

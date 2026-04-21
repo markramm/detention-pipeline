@@ -2,14 +2,20 @@
 id: 287-g-tfm-palmetto-police-department-fl
 title: '287(g) TFM: Palmetto Police Department (FL)'
 type: 287g-agreement
+county: 'Manatee County'
+state: 'FL'
+fips: '12081'
+agency: 'Palmetto Police Department'
+model: 'TFM'
+signed_date: 'September 22, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed September 22, 2025'
 tags:
 - 287g
 - tfm
 - fl
 importance: 5
-state: 'FL'
-county: 'Manatee County'
-fips: '12081'
 ---
 
 287(g) agreement between ICE and Palmetto Police Department.

@@ -2,14 +2,20 @@
 id: 287-g-wso-utah-county-sheriff-s-office-ut
 title: '287(g) WSO: Utah County Sheriff’s Office (UT)'
 type: 287g-agreement
+county: 'Utah County'
+state: 'UT'
+fips: '49049'
+agency: 'Utah County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'July 24, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed July 24, 2025'
 tags:
 - 287g
 - wso
 - ut
 importance: 5
-state: 'UT'
-county: 'Utah County'
-fips: '49049'
 ---
 
 287(g) agreement between ICE and Utah County Sheriff’s Office.

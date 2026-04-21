@@ -2,14 +2,20 @@
 id: 287-g-tfm-upshur-county-sheriff-s-office-tx
 title: '287(g) TFM: Upshur County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Upshur County'
+state: 'TX'
+fips: '48459'
+agency: 'Upshur County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'December 8, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed December 8, 2025'
 tags:
 - 287g
 - tfm
 - tx
 importance: 5
-state: 'TX'
-county: 'Upshur County'
-fips: '48459'
 ---
 
 287(g) agreement between ICE and Upshur County Sheriff’s Office.

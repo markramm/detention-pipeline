@@ -2,14 +2,20 @@
 id: 287-g-tfm-butler-county-sheriff-s-office-ky
 title: '287(g) TFM: Butler County Sheriff’s Office (KY)'
 type: 287g-agreement
+county: 'Butler County'
+state: 'KY'
+fips: '21031'
+agency: 'Butler County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'September 9, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed September 9, 2025'
 tags:
 - 287g
 - tfm
 - ky
 importance: 5
-state: 'KY'
-county: 'Butler County'
-fips: '21031'
 ---
 
 287(g) agreement between ICE and Butler County Sheriff’s Office.

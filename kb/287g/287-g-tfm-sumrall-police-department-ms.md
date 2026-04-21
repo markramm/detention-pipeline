@@ -2,14 +2,20 @@
 id: 287-g-tfm-sumrall-police-department-ms
 title: '287(g) TFM: Sumrall Police Department (MS)'
 type: 287g-agreement
+county: 'Lamar County'
+state: 'MS'
+fips: '28073'
+agency: 'Sumrall Police Department'
+model: 'TFM'
+signed_date: 'October 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed October 17, 2025'
 tags:
 - 287g
 - tfm
 - ms
 importance: 5
-state: 'MS'
-county: 'Lamar County'
-fips: '28073'
 ---
 
 287(g) agreement between ICE and Sumrall Police Department.

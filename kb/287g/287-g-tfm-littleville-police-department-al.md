@@ -2,14 +2,20 @@
 id: 287-g-tfm-littleville-police-department-al
 title: '287(g) TFM: Littleville Police Department (AL)'
 type: 287g-agreement
+county: 'Colbert County'
+state: 'AL'
+fips: '01033'
+agency: 'Littleville Police Department'
+model: 'TFM'
+signed_date: 'February 10, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed February 10, 2026'
 tags:
 - 287g
 - tfm
 - al
 importance: 5
-state: 'AL'
-county: 'Colbert County'
-fips: '01033'
 ---
 
 287(g) agreement between ICE and Littleville Police Department.

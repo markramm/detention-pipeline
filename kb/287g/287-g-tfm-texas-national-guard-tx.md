@@ -2,12 +2,18 @@
 id: 287-g-tfm-texas-national-guard-tx
 title: '287(g) TFM: Texas National Guard (TX)'
 type: 287g-agreement
+state: 'TX'
+agency: 'Texas National Guard'
+model: 'TFM'
+signed_date: 'April 10, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed April 10, 2025'
 tags:
 - 287g
 - tfm
 - tx
 importance: 5
-state: 'TX'
 ---
 
 287(g) agreement between ICE and Texas National Guard.

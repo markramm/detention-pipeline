@@ -2,14 +2,20 @@
 id: 287-g-wso-turner-county-sheriff-s-office-ga
 title: '287(g) WSO: Turner County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Turner County'
+state: 'GA'
+fips: '13287'
+agency: 'Turner County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'December 16, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed December 16, 2025'
 tags:
 - 287g
 - wso
 - ga
 importance: 5
-state: 'GA'
-county: 'Turner County'
-fips: '13287'
 ---
 
 287(g) agreement between ICE and Turner County Sheriff’s Office.

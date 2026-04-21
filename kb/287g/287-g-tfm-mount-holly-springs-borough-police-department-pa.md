@@ -2,14 +2,20 @@
 id: 287-g-tfm-mount-holly-springs-borough-police-department-pa
 title: '287(g) TFM: Mount Holly Springs Borough Police Department (PA)'
 type: 287g-agreement
+county: 'Cumberland County'
+state: 'PA'
+fips: '42041'
+agency: 'Mount Holly Springs Borough Police Department'
+model: 'TFM'
+signed_date: 'February 14, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed February 14, 2026'
 tags:
 - 287g
 - tfm
 - pa
 importance: 5
-state: 'PA'
-county: 'Cumberland County'
-fips: '42041'
 ---
 
 287(g) agreement between ICE and Mount Holly Springs Borough Police Department.

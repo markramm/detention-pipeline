@@ -2,14 +2,20 @@
 id: 287-g-jem-dakota-county-sheriff-s-office-ne
 title: '287(g) JEM: Dakota County Sheriff’s Office (NE)'
 type: 287g-agreement
+county: 'Dakota County'
+state: 'NE'
+fips: '31043'
+agency: 'Dakota County Sheriff’s Office'
+model: 'JEM'
+signed_date: 'June 9, 2020'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed June 9, 2020'
 tags:
 - 287g
 - jem
 - ne
 importance: 5
-state: 'NE'
-county: 'Dakota County'
-fips: '31043'
 ---
 
 287(g) agreement between ICE and Dakota County Sheriff’s Office.

@@ -2,14 +2,20 @@
 id: 287-g-tfm-blount-county-sheriff-s-office-al
 title: '287(g) TFM: Blount County Sheriff’s Office (AL)'
 type: 287g-agreement
+county: 'Blount County'
+state: 'AL'
+fips: '01009'
+agency: 'Blount County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'January 26, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed January 26, 2026'
 tags:
 - 287g
 - tfm
 - al
 importance: 5
-state: 'AL'
-county: 'Blount County'
-fips: '01009'
 ---
 
 287(g) agreement between ICE and Blount County Sheriff’s Office.

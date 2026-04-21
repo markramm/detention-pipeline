@@ -2,14 +2,20 @@
 id: 287-g-wso-lamar-county-sheriff-s-office-tx
 title: '287(g) WSO: Lamar County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Lamar County'
+state: 'TX'
+fips: '48277'
+agency: 'Lamar County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'October 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed October 17, 2025'
 tags:
 - 287g
 - wso
 - tx
 importance: 5
-state: 'TX'
-county: 'Lamar County'
-fips: '48277'
 ---
 
 287(g) agreement between ICE and Lamar County Sheriff’s Office.

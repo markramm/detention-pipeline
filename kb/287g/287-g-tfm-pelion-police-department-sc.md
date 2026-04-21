@@ -2,14 +2,20 @@
 id: 287-g-tfm-pelion-police-department-sc
 title: '287(g) TFM: Pelion Police Department (SC)'
 type: 287g-agreement
+county: 'Lexington County'
+state: 'SC'
+fips: '45063'
+agency: 'Pelion Police Department'
+model: 'TFM'
+signed_date: 'December 18, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed December 18, 2025'
 tags:
 - 287g
 - tfm
 - sc
 importance: 5
-state: 'SC'
-county: 'Lexington County'
-fips: '45063'
 ---
 
 287(g) agreement between ICE and Pelion Police Department.

@@ -2,14 +2,20 @@
 id: 287-g-tfm-pennsylvania-state-constable-office-honey-brook-precinct-1-pa
 title: '287(g) TFM: Pennsylvania State Constable Office Honey Brook Precinct 1 (PA)'
 type: 287g-agreement
+county: 'Chester County'
+state: 'PA'
+fips: '42029'
+agency: 'Pennsylvania State Constable Office Honey Brook Precinct 1'
+model: 'TFM'
+signed_date: 'October 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed October 17, 2025'
 tags:
 - 287g
 - tfm
 - pa
 importance: 5
-state: 'PA'
-county: 'Chester County'
-fips: '42029'
 ---
 
 287(g) agreement between ICE and Pennsylvania State Constable Office Honey Brook Precinct 1.

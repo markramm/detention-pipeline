@@ -2,14 +2,20 @@
 id: 287-g-tfm-greene-washington-regional-police-department-pa
 title: '287(g) TFM: Greene Washington Regional Police Department (PA)'
 type: 287g-agreement
+county: 'Greene County'
+state: 'PA'
+fips: '42059'
+agency: 'Greene Washington Regional Police Department'
+model: 'TFM'
+signed_date: 'January 30, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed January 30, 2026'
 tags:
 - 287g
 - tfm
 - pa
 importance: 5
-state: 'PA'
-county: 'Greene County'
-fips: '42059'
 ---
 
 287(g) agreement between ICE and Greene Washington Regional Police Department.

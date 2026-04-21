@@ -2,14 +2,20 @@
 id: 287-g-wso-parker-county-sheriff-s-office-tx
 title: '287(g) WSO: Parker County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Parker County'
+state: 'TX'
+fips: '48367'
+agency: 'Parker County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'February 27, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed February 27, 2025'
 tags:
 - 287g
 - wso
 - tx
 importance: 5
-state: 'TX'
-county: 'Parker County'
-fips: '48367'
 ---
 
 287(g) agreement between ICE and Parker County Sheriff’s Office.

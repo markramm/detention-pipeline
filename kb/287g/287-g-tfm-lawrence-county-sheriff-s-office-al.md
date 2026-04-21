@@ -2,14 +2,20 @@
 id: 287-g-tfm-lawrence-county-sheriff-s-office-al
 title: '287(g) TFM: Lawrence County Sheriff’s Office (AL)'
 type: 287g-agreement
+county: 'Lawrence County'
+state: 'AL'
+fips: '01079'
+agency: 'Lawrence County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'June 18, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed June 18, 2025'
 tags:
 - 287g
 - tfm
 - al
 importance: 5
-state: 'AL'
-county: 'Lawrence County'
-fips: '01079'
 ---
 
 287(g) agreement between ICE and Lawrence County Sheriff’s Office.

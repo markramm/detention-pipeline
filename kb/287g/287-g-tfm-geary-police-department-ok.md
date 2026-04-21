@@ -2,14 +2,20 @@
 id: 287-g-tfm-geary-police-department-ok
 title: '287(g) TFM: Geary Police Department (OK)'
 type: 287g-agreement
+county: 'Blaine County'
+state: 'OK'
+fips: '40011'
+agency: 'Geary Police Department'
+model: 'TFM'
+signed_date: 'September 9, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed September 9, 2025'
 tags:
 - 287g
 - tfm
 - ok
 importance: 5
-state: 'OK'
-county: 'Blaine County'
-fips: '40011'
 ---
 
 287(g) agreement between ICE and Geary Police Department.

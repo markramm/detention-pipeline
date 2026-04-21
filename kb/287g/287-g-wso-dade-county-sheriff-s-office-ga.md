@@ -2,14 +2,20 @@
 id: 287-g-wso-dade-county-sheriff-s-office-ga
 title: '287(g) WSO: Dade County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Dade County'
+state: 'GA'
+fips: '13083'
+agency: 'Dade County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'March 26, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed March 26, 2025'
 tags:
 - 287g
 - wso
 - ga
 importance: 5
-state: 'GA'
-county: 'Dade County'
-fips: '13083'
 ---
 
 287(g) agreement between ICE and Dade County Sheriff’s Office.

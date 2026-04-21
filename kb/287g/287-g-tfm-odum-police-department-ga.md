@@ -2,14 +2,20 @@
 id: 287-g-tfm-odum-police-department-ga
 title: '287(g) TFM: Odum Police Department (GA)'
 type: 287g-agreement
+county: 'Wayne County'
+state: 'GA'
+fips: '13305'
+agency: 'Odum Police Department'
+model: 'TFM'
+signed_date: 'January 26, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed January 26, 2026'
 tags:
 - 287g
 - tfm
 - ga
 importance: 5
-state: 'GA'
-county: 'Wayne County'
-fips: '13305'
 ---
 
 287(g) agreement between ICE and Odum Police Department.

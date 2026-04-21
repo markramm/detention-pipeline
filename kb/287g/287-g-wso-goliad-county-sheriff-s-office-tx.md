@@ -2,14 +2,20 @@
 id: 287-g-wso-goliad-county-sheriff-s-office-tx
 title: '287(g) WSO: Goliad County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Goliad County'
+state: 'TX'
+fips: '48175'
+agency: 'Goliad County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'February 18, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed February 18, 2025'
 tags:
 - 287g
 - wso
 - tx
 importance: 5
-state: 'TX'
-county: 'Goliad County'
-fips: '48175'
 ---
 
 287(g) agreement between ICE and Goliad County Sheriff’s Office.

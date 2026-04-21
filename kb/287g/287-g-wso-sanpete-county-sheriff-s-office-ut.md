@@ -2,14 +2,20 @@
 id: 287-g-wso-sanpete-county-sheriff-s-office-ut
 title: '287(g) WSO: Sanpete County Sheriff’s Office (UT)'
 type: 287g-agreement
+county: 'Sanpete County'
+state: 'UT'
+fips: '49039'
+agency: 'Sanpete County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'November 20, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed November 20, 2025'
 tags:
 - 287g
 - wso
 - ut
 importance: 5
-state: 'UT'
-county: 'Sanpete County'
-fips: '49039'
 ---
 
 287(g) agreement between ICE and Sanpete County Sheriff’s Office.

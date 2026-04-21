@@ -2,14 +2,20 @@
 id: 287-g-tfm-yoakum-police-department-tx
 title: '287(g) TFM: Yoakum Police Department (TX)'
 type: 287g-agreement
+county: 'Yoakum County'
+state: 'TX'
+fips: '48501'
+agency: 'Yoakum Police Department'
+model: 'TFM'
+signed_date: 'November 24, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed November 24, 2025'
 tags:
 - 287g
 - tfm
 - tx
 importance: 5
-state: 'TX'
-county: 'Yoakum County'
-fips: '48501'
 ---
 
 287(g) agreement between ICE and Yoakum Police Department.

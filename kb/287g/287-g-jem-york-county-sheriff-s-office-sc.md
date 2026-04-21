@@ -2,14 +2,20 @@
 id: 287-g-jem-york-county-sheriff-s-office-sc
 title: '287(g) JEM: York County Sheriff’s Office (SC)'
 type: 287g-agreement
+county: 'York County'
+state: 'SC'
+fips: '45091'
+agency: 'York County Sheriff’s Office'
+model: 'JEM'
+signed_date: 'June 9, 2020'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed June 9, 2020'
 tags:
 - 287g
 - jem
 - sc
 importance: 5
-state: 'SC'
-county: 'York County'
-fips: '45091'
 ---
 
 287(g) agreement between ICE and York County Sheriff’s Office.

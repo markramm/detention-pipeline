@@ -2,14 +2,20 @@
 id: 287-g-tfm-crawford-county-sheriff-s-office-mi
 title: '287(g) TFM: Crawford County Sheriff’s Office (MI)'
 type: 287g-agreement
+county: 'Crawford County'
+state: 'MI'
+fips: '26039'
+agency: 'Crawford County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'September 9, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed September 9, 2025'
 tags:
 - 287g
 - tfm
 - mi
 importance: 5
-state: 'MI'
-county: 'Crawford County'
-fips: '26039'
 ---
 
 287(g) agreement between ICE and Crawford County Sheriff’s Office.

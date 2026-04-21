@@ -2,14 +2,20 @@
 id: 287-g-tfm-alice-police-department-tx
 title: '287(g) TFM: Alice Police Department (TX)'
 type: 287g-agreement
+county: 'Jim Wells County'
+state: 'TX'
+fips: '48249'
+agency: 'Alice Police Department'
+model: 'TFM'
+signed_date: 'December 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed December 17, 2025'
 tags:
 - 287g
 - tfm
 - tx
 importance: 5
-state: 'TX'
-county: 'Jim Wells County'
-fips: '48249'
 ---
 
 287(g) agreement between ICE and Alice Police Department.

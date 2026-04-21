@@ -2,14 +2,20 @@
 id: 287-g-jem-matagorda-county-sheriff-s-office-tx
 title: '287(g) JEM: Matagorda County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Matagorda County'
+state: 'TX'
+fips: '48321'
+agency: 'Matagorda County Sheriff’s Office'
+model: 'JEM'
+signed_date: 'March 13, 2020'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed March 13, 2020'
 tags:
 - 287g
 - jem
 - tx
 importance: 5
-state: 'TX'
-county: 'Matagorda County'
-fips: '48321'
 ---
 
 287(g) agreement between ICE and Matagorda County Sheriff’s Office.

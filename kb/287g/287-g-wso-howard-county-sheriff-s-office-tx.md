@@ -2,14 +2,20 @@
 id: 287-g-wso-howard-county-sheriff-s-office-tx
 title: '287(g) WSO: Howard County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Howard County'
+state: 'TX'
+fips: '48227'
+agency: 'Howard County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'October 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed October 17, 2025'
 tags:
 - 287g
 - wso
 - tx
 importance: 5
-state: 'TX'
-county: 'Howard County'
-fips: '48227'
 ---
 
 287(g) agreement between ICE and Howard County Sheriff’s Office.

@@ -2,14 +2,20 @@
 id: 287-g-jem-collin-county-sheriff-s-office-tx
 title: '287(g) JEM: Collin County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Collin County'
+state: 'TX'
+fips: '48085'
+agency: 'Collin County Sheriff’s Office'
+model: 'JEM'
+signed_date: 'January 26, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed January 26, 2026'
 tags:
 - 287g
 - jem
 - tx
 importance: 5
-state: 'TX'
-county: 'Collin County'
-fips: '48085'
 ---
 
 287(g) agreement between ICE and Collin County Sheriff’s Office.

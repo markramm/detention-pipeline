@@ -2,14 +2,20 @@
 id: 287-g-tfm-estill-springs-police-department-tn
 title: '287(g) TFM: Estill Springs Police Department (TN)'
 type: 287g-agreement
+county: 'Franklin County'
+state: 'TN'
+fips: '47051'
+agency: 'Estill Springs Police Department'
+model: 'TFM'
+signed_date: 'January 7, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed January 7, 2026'
 tags:
 - 287g
 - tfm
 - tn
 importance: 5
-state: 'TN'
-county: 'Franklin County'
-fips: '47051'
 ---
 
 287(g) agreement between ICE and Estill Springs Police Department.

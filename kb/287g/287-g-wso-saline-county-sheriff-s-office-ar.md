@@ -2,14 +2,20 @@
 id: 287-g-wso-saline-county-sheriff-s-office-ar
 title: '287(g) WSO: Saline County Sheriff’s Office (AR)'
 type: 287g-agreement
+county: 'Saline County'
+state: 'AR'
+fips: '05125'
+agency: 'Saline County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'June 12, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed June 12, 2025'
 tags:
 - 287g
 - wso
 - ar
 importance: 5
-state: 'AR'
-county: 'Saline County'
-fips: '05125'
 ---
 
 287(g) agreement between ICE and Saline County Sheriff’s Office.

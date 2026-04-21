@@ -2,14 +2,20 @@
 id: 287-g-tfm-appling-county-sheriff-s-office-ga
 title: '287(g) TFM: Appling County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Appling County'
+state: 'GA'
+fips: '13001'
+agency: 'Appling County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'February 14, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed February 14, 2026'
 tags:
 - 287g
 - tfm
 - ga
 importance: 5
-state: 'GA'
-county: 'Appling County'
-fips: '13001'
 ---
 
 287(g) agreement between ICE and Appling County Sheriff’s Office.

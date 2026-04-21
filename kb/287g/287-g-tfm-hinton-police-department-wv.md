@@ -1,15 +1,21 @@
 ---
 id: 287-g-tfm-hinton-police-department-wv
-title: '287(g) TFM: Hinton Police Department (W. Va.)'
+title: '287(g) TFM: Hinton Police Department (WV)'
 type: 287g-agreement
+county: 'Summers County'
+state: 'WV'
+fips: '54089'
+agency: 'Hinton Police Department'
+model: 'TFM'
+signed_date: 'January 26, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed January 26, 2026'
 tags:
 - 287g
 - tfm
-- w. va.
+- wv
 importance: 5
-state: 'WV'
-county: 'Summers County'
-fips: '54089'
 ---
 
 287(g) agreement between ICE and Hinton Police Department.
@@ -17,7 +23,7 @@ fips: '54089'
 Model: TFM
 Signed: January 26, 2026
 County: Summers County
-State: W. Va.
-FIPS: unresolved
+State: WV
+FIPS: 54089
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

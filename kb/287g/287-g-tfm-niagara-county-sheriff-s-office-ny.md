@@ -2,14 +2,20 @@
 id: 287-g-tfm-niagara-county-sheriff-s-office-ny
 title: '287(g) TFM: Niagara County Sheriff’s Office (NY)'
 type: 287g-agreement
+county: 'Niagara County'
+state: 'NY'
+fips: '36063'
+agency: 'Niagara County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'May 8, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed May 8, 2025'
 tags:
 - 287g
 - tfm
 - ny
 importance: 5
-state: 'NY'
-county: 'Niagara County'
-fips: '36063'
 ---
 
 287(g) agreement between ICE and Niagara County Sheriff’s Office.

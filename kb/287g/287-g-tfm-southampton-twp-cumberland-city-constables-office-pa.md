@@ -2,14 +2,20 @@
 id: 287-g-tfm-southampton-twp-cumberland-city-constables-office-pa
 title: '287(g) TFM: Southampton Twp. Cumberland City, Constables Office (PA)'
 type: 287g-agreement
+county: 'Cumberland County'
+state: 'PA'
+fips: '42041'
+agency: 'Southampton Twp. Cumberland City, Constables Office'
+model: 'TFM'
+signed_date: 'September 9, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed September 9, 2025'
 tags:
 - 287g
 - tfm
 - pa
 importance: 5
-state: 'PA'
-county: 'Cumberland County'
-fips: '42041'
 ---
 
 287(g) agreement between ICE and Southampton Twp. Cumberland City, Constables Office.

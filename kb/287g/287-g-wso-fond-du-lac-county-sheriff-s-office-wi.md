@@ -2,14 +2,20 @@
 id: 287-g-wso-fond-du-lac-county-sheriff-s-office-wi
 title: '287(g) WSO: Fond du Lac County Sheriff’s Office (WI)'
 type: 287g-agreement
+county: 'Fond du Lac County'
+state: 'WI'
+fips: '55039'
+agency: 'Fond du Lac County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'June 5, 2020'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed June 5, 2020'
 tags:
 - 287g
 - wso
 - wi
 importance: 5
-state: 'WI'
-county: 'Fond du Lac County'
-fips: '55039'
 ---
 
 287(g) agreement between ICE and Fond du Lac County Sheriff’s Office.

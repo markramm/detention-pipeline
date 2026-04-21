@@ -2,14 +2,20 @@
 id: 287-g-jem-floyd-county-sheriff-s-office-ga
 title: '287(g) JEM: Floyd County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Floyd County'
+state: 'GA'
+fips: '13115'
+agency: 'Floyd County Sheriff’s Office'
+model: 'JEM'
+signed_date: 'June 10, 2020'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed June 10, 2020'
 tags:
 - 287g
 - jem
 - ga
 importance: 5
-state: 'GA'
-county: 'Floyd County'
-fips: '13115'
 ---
 
 287(g) agreement between ICE and Floyd County Sheriff’s Office.

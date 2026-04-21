@@ -2,14 +2,20 @@
 id: 287-g-wso-tooele-county-sheriff-s-office-ut
 title: '287(g) WSO: Tooele County Sheriff’s Office (UT)'
 type: 287g-agreement
+county: 'Tooele County'
+state: 'UT'
+fips: '49045'
+agency: 'Tooele County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'June 25, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed June 25, 2025'
 tags:
 - 287g
 - wso
 - ut
 importance: 5
-state: 'UT'
-county: 'Tooele County'
-fips: '49045'
 ---
 
 287(g) agreement between ICE and Tooele County Sheriff’s Office.

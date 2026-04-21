@@ -2,14 +2,20 @@
 id: 287-g-jem-monroe-county-sheriff-s-office-ga
 title: '287(g) JEM: Monroe County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Monroe County'
+state: 'GA'
+fips: '13207'
+agency: 'Monroe County Sheriff’s Office'
+model: 'JEM'
+signed_date: 'February 24, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed February 24, 2025'
 tags:
 - 287g
 - jem
 - ga
 importance: 5
-state: 'GA'
-county: 'Monroe County'
-fips: '13207'
 ---
 
 287(g) agreement between ICE and Monroe County Sheriff’s Office.

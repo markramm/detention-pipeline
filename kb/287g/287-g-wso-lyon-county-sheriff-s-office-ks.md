@@ -2,14 +2,20 @@
 id: 287-g-wso-lyon-county-sheriff-s-office-ks
 title: '287(g) WSO: Lyon County Sheriff’s Office (KS)'
 type: 287g-agreement
+county: 'Lyon County'
+state: 'KS'
+fips: '20111'
+agency: 'Lyon County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'December 2, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed December 2, 2025'
 tags:
 - 287g
 - wso
 - ks
 importance: 5
-state: 'KS'
-county: 'Lyon County'
-fips: '20111'
 ---
 
 287(g) agreement between ICE and Lyon County Sheriff’s Office.

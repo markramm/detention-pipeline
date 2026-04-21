@@ -2,14 +2,20 @@
 id: 287-g-wso-bibb-county-sheriff-s-office-ga
 title: '287(g) WSO: Bibb County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Bibb County'
+state: 'GA'
+fips: '13021'
+agency: 'Bibb County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'February 27, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed February 27, 2025'
 tags:
 - 287g
 - wso
 - ga
 importance: 5
-state: 'GA'
-county: 'Bibb County'
-fips: '13021'
 ---
 
 287(g) agreement between ICE and Bibb County Sheriff’s Office.

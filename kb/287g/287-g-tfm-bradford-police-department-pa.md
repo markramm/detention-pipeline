@@ -2,14 +2,20 @@
 id: 287-g-tfm-bradford-police-department-pa
 title: '287(g) TFM: Bradford Police Department (PA)'
 type: 287g-agreement
+county: 'McKean County'
+state: 'PA'
+fips: '42083'
+agency: 'Bradford Police Department'
+model: 'TFM'
+signed_date: 'January 26, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed January 26, 2026'
 tags:
 - 287g
 - tfm
 - pa
 importance: 5
-state: 'PA'
-county: 'McKean County'
-fips: '42083'
 ---
 
 287(g) agreement between ICE and Bradford Police Department.

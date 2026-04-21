@@ -2,14 +2,20 @@
 id: 287-g-wso-rusk-county-sheriff-s-office-tx
 title: '287(g) WSO: Rusk County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Rusk County'
+state: 'TX'
+fips: '48401'
+agency: 'Rusk County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'March 5, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed March 5, 2025'
 tags:
 - 287g
 - wso
 - tx
 importance: 5
-state: 'TX'
-county: 'Rusk County'
-fips: '48401'
 ---
 
 287(g) agreement between ICE and Rusk County Sheriff’s Office.

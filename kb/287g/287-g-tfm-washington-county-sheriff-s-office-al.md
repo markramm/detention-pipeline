@@ -2,14 +2,20 @@
 id: 287-g-tfm-washington-county-sheriff-s-office-al
 title: '287(g) TFM: Washington County Sheriff’s Office (AL)'
 type: 287g-agreement
+county: 'Washington County'
+state: 'AL'
+fips: '01129'
+agency: 'Washington County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'October 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed October 17, 2025'
 tags:
 - 287g
 - tfm
 - al
 importance: 5
-state: 'AL'
-county: 'Washington County'
-fips: '01129'
 ---
 
 287(g) agreement between ICE and Washington County Sheriff’s Office.

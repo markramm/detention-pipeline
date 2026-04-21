@@ -2,14 +2,20 @@
 id: 287-g-wso-tyler-county-sheriff-s-office-tx
 title: '287(g) WSO: Tyler County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Tyler County'
+state: 'TX'
+fips: '48457'
+agency: 'Tyler County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'November 19, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed November 19, 2025'
 tags:
 - 287g
 - wso
 - tx
 importance: 5
-state: 'TX'
-county: 'Tyler County'
-fips: '48457'
 ---
 
 287(g) agreement between ICE and Tyler County Sheriff’s Office.

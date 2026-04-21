@@ -2,14 +2,20 @@
 id: 287-g-jem-nebraska-department-of-correctional-services-ne
 title: '287(g) JEM: Nebraska Department of Correctional Services (NE)'
 type: 287g-agreement
+county: 'Lincoln County'
+state: 'NE'
+fips: '31111'
+agency: 'Nebraska Department of Correctional Services'
+model: 'JEM'
+signed_date: 'October 15, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed October 15, 2025'
 tags:
 - 287g
 - jem
 - ne
 importance: 5
-state: 'NE'
-county: 'Lincoln County'
-fips: '31111'
 ---
 
 287(g) agreement between ICE and Nebraska Department of Correctional Services.

@@ -2,14 +2,20 @@
 id: 287-g-tfm-caney-police-department-ks
 title: '287(g) TFM: Caney Police Department (KS)'
 type: 287g-agreement
+county: 'Montgomery'
+state: 'KS'
+fips: '20125'
+agency: 'Caney Police Department'
+model: 'TFM'
+signed_date: 'February 10, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed February 10, 2026'
 tags:
 - 287g
 - tfm
 - ks
 importance: 5
-state: 'KS'
-county: 'Montgomery'
-fips: '20125'
 ---
 
 287(g) agreement between ICE and Caney Police Department.

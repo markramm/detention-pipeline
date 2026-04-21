@@ -2,14 +2,20 @@
 id: 287-g-tfm-titus-county-sheriff-s-office-tx
 title: '287(g) TFM: Titus County Sheriff’s Office (TX)'
 type: 287g-agreement
+county: 'Titus County'
+state: 'TX'
+fips: '48449'
+agency: 'Titus County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'March 10, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed March 10, 2025'
 tags:
 - 287g
 - tfm
 - tx
 importance: 5
-state: 'TX'
-county: 'Titus County'
-fips: '48449'
 ---
 
 287(g) agreement between ICE and Titus County Sheriff’s Office.

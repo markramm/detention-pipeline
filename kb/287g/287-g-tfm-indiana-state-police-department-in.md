@@ -2,12 +2,18 @@
 id: 287-g-tfm-indiana-state-police-department-in
 title: '287(g) TFM: Indiana State Police Department (IN)'
 type: 287g-agreement
+state: 'IN'
+agency: 'Indiana State Police Department'
+model: 'TFM'
+signed_date: 'August 4, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed August 4, 2025'
 tags:
 - 287g
 - tfm
 - in
 importance: 5
-state: 'IN'
 ---
 
 287(g) agreement between ICE and Indiana State Police Department.

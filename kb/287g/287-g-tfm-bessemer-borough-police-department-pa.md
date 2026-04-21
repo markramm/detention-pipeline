@@ -2,14 +2,20 @@
 id: 287-g-tfm-bessemer-borough-police-department-pa
 title: '287(g) TFM: Bessemer Borough Police Department (PA)'
 type: 287g-agreement
+county: 'Lawrence County'
+state: 'PA'
+fips: '42073'
+agency: 'Bessemer Borough Police Department'
+model: 'TFM'
+signed_date: 'January 26, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed January 26, 2026'
 tags:
 - 287g
 - tfm
 - pa
 importance: 5
-state: 'PA'
-county: 'Lawrence County'
-fips: '42073'
 ---
 
 287(g) agreement between ICE and Bessemer Borough Police Department.

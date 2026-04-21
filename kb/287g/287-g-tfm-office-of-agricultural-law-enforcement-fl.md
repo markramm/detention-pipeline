@@ -2,12 +2,18 @@
 id: 287-g-tfm-office-of-agricultural-law-enforcement-fl
 title: '287(g) TFM: Office of Agricultural Law Enforcement (FL)'
 type: 287g-agreement
+state: 'FL'
+agency: 'Office of Agricultural Law Enforcement'
+model: 'TFM'
+signed_date: 'June 11, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed June 11, 2025'
 tags:
 - 287g
 - tfm
 - fl
 importance: 5
-state: 'FL'
 ---
 
 287(g) agreement between ICE and Office of Agricultural Law Enforcement.

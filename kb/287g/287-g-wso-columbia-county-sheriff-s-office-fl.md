@@ -2,14 +2,20 @@
 id: 287-g-wso-columbia-county-sheriff-s-office-fl
 title: '287(g) WSO: Columbia County Sheriff’s Office (FL)'
 type: 287g-agreement
+county: 'Columbia County'
+state: 'FL'
+fips: '12023'
+agency: 'Columbia County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'May 6, 2019'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed May 6, 2019'
 tags:
 - 287g
 - wso
 - fl
 importance: 5
-state: 'FL'
-county: 'Columbia County'
-fips: '12023'
 ---
 
 287(g) agreement between ICE and Columbia County Sheriff’s Office.

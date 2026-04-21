@@ -2,14 +2,20 @@
 id: 287-g-wso-marion-county-sheriff-s-office-al
 title: '287(g) WSO: Marion County Sheriff’s Office (AL)'
 type: 287g-agreement
+county: 'Marion County'
+state: 'AL'
+fips: '01093'
+agency: 'Marion County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'July 23, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed July 23, 2025'
 tags:
 - 287g
 - wso
 - al
 importance: 5
-state: 'AL'
-county: 'Marion County'
-fips: '01093'
 ---
 
 287(g) agreement between ICE and Marion County Sheriff’s Office.

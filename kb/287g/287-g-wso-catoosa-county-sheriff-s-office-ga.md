@@ -2,14 +2,20 @@
 id: 287-g-wso-catoosa-county-sheriff-s-office-ga
 title: '287(g) WSO: Catoosa County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Catoosa County'
+state: 'GA'
+fips: '13047'
+agency: 'Catoosa County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'May 22, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed May 22, 2025'
 tags:
 - 287g
 - wso
 - ga
 importance: 5
-state: 'GA'
-county: 'Catoosa County'
-fips: '13047'
 ---
 
 287(g) agreement between ICE and Catoosa County Sheriff’s Office.

@@ -2,14 +2,20 @@
 id: 287-g-tfm-pearl-police-department-ms
 title: '287(g) TFM: Pearl Police Department (MS)'
 type: 287g-agreement
+county: 'Rankin County'
+state: 'MS'
+fips: '28121'
+agency: 'Pearl Police Department'
+model: 'TFM'
+signed_date: 'February 10, 2026'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed February 10, 2026'
 tags:
 - 287g
 - tfm
 - ms
 importance: 5
-state: 'MS'
-county: 'Rankin County'
-fips: '28121'
 ---
 
 287(g) agreement between ICE and Pearl Police Department.

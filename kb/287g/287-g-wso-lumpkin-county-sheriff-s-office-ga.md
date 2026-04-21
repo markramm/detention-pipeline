@@ -2,14 +2,20 @@
 id: 287-g-wso-lumpkin-county-sheriff-s-office-ga
 title: '287(g) WSO: Lumpkin County Sheriff’s Office (GA)'
 type: 287g-agreement
+county: 'Lumpkin County'
+state: 'GA'
+fips: '13187'
+agency: 'Lumpkin County Sheriff’s Office'
+model: 'WSO'
+signed_date: 'March 27, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed March 27, 2025'
 tags:
 - 287g
 - wso
 - ga
 importance: 5
-state: 'GA'
-county: 'Lumpkin County'
-fips: '13187'
 ---
 
 287(g) agreement between ICE and Lumpkin County Sheriff’s Office.

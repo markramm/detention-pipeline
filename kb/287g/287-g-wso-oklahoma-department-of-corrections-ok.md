@@ -2,12 +2,18 @@
 id: 287-g-wso-oklahoma-department-of-corrections-ok
 title: '287(g) WSO: Oklahoma Department of Corrections (OK)'
 type: 287g-agreement
+state: 'OK'
+agency: 'Oklahoma Department of Corrections'
+model: 'WSO'
+signed_date: 'February 25, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'WSO model agreement signed February 25, 2025'
 tags:
 - 287g
 - wso
 - ok
 importance: 5
-state: 'OK'
 ---
 
 287(g) agreement between ICE and Oklahoma Department of Corrections.

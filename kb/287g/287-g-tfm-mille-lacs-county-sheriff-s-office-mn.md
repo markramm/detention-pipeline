@@ -2,14 +2,20 @@
 id: 287-g-tfm-mille-lacs-county-sheriff-s-office-mn
 title: '287(g) TFM: Mille Lacs County Sheriff’s Office (MN)'
 type: 287g-agreement
+county: 'Mille Lacs County'
+state: 'MN'
+fips: '27095'
+agency: 'Mille Lacs County Sheriff’s Office'
+model: 'TFM'
+signed_date: 'June 18, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'TFM model agreement signed June 18, 2025'
 tags:
 - 287g
 - tfm
 - mn
 importance: 5
-state: 'MN'
-county: 'Mille Lacs County'
-fips: '27095'
 ---
 
 287(g) agreement between ICE and Mille Lacs County Sheriff’s Office.
