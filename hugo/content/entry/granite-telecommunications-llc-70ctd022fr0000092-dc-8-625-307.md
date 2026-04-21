@@ -1,13 +1,13 @@
 ---
 title: "Granite Telecommunications, LLC — 70Ctd022Fr0000092 (DC) $8,625,307"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/granite-telecommunications-llc-70ctd022fr0000092-dc-8-625-307.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GRANITE TELECOMMUNICATIONS, LLC"
 source_count: 0
 type: "entry"

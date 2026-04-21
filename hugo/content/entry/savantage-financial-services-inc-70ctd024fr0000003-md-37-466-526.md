@@ -1,13 +1,13 @@
 ---
 title: "Savantage Financial Services, INC. — 70Ctd024Fr0000003 (MD) $37,466,526"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/savantage-financial-services-inc-70ctd024fr0000003-md-37-466-526.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SAVANTAGE FINANCIAL SERVICES, INC."
 source_count: 0
 type: "entry"

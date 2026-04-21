@@ -7,7 +7,7 @@ fips: "20035"
 state: "KS"
 county: "Cowley County"
 repo_path: "kb/287g/287-g-wso-cowley-county-sheriff-s-office-ks.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Cowley County Sheriff’s Office, signed March 5, 2025."
 source_count: 1
 type: "entry"

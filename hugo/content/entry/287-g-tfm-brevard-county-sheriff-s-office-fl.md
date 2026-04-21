@@ -7,7 +7,7 @@ fips: "12009"
 state: "FL"
 county: "Brevard County"
 repo_path: "kb/287g/287-g-tfm-brevard-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Brevard County Sheriff’s Office, signed February 24, 2025."
 source_count: 1
 type: "entry"

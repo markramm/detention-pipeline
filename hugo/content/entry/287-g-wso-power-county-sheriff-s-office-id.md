@@ -7,7 +7,7 @@ fips: "16077"
 state: "ID"
 county: "Power County"
 repo_path: "kb/287g/287-g-wso-power-county-sheriff-s-office-id.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Power County Sheriff’s Office, signed November 20, 2020."
 source_count: 1
 type: "entry"

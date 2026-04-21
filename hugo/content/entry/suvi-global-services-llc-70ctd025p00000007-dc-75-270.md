@@ -1,13 +1,13 @@
 ---
 title: "Suvi Global Services LLC — 70Ctd025P00000007 (DC) $75,270"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/suvi-global-services-llc-70ctd025p00000007-dc-75-270.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SUVI GLOBAL SERVICES LLC"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "42075"
 state: "PA"
 county: "Lebanon County"
 repo_path: "kb/287g/287-g-tfm-lebanon-county-district-attorney-s-office-pa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Lebanon County District Attorney’s Office, signed February 10, 2026."
 source_count: 1
 type: "entry"

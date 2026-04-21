@@ -1,13 +1,13 @@
 ---
 title: "Model 1 Commercial Vehicles, INC. — 70Cmsd25P00000024 (AZ) $4,590"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/model-1-commercial-vehicles-inc-70cmsd25p00000024-az-4-590.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MODEL 1 COMMERCIAL VEHICLES, INC."
 source_count: 0
 type: "entry"

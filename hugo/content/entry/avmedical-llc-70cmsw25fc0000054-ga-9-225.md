@@ -1,13 +1,13 @@
 ---
 title: "AVMEDICAL LLC — 70CMSW25FC0000054 (GA) $9,225"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/avmedical-llc-70cmsw25fc0000054-ga-9-225.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

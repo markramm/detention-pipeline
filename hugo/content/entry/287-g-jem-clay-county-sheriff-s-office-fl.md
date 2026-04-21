@@ -7,7 +7,7 @@ fips: "12019"
 state: "FL"
 county: "Clay County"
 repo_path: "kb/287g/287-g-jem-clay-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Clay County Sheriff’s Office, signed March 11, 2020."
 source_count: 1
 type: "entry"

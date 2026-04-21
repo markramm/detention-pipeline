@@ -1,13 +1,13 @@
 ---
 title: "Convergeone Systems Integration, INC. — 70Ctd021Fc0000067 (VA) $35,752"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/convergeone-systems-integration-inc-70ctd021fc0000067-va-35-752.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CONVERGEONE SYSTEMS INTEGRATION, INC."
 source_count: 0
 type: "entry"

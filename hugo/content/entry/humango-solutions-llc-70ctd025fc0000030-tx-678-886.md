@@ -1,13 +1,13 @@
 ---
 title: "Humango Solutions, LLC — 70Ctd025Fc0000030 (TX) $678,886"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/humango-solutions-llc-70ctd025fc0000030-tx-678-886.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HUMANGO SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

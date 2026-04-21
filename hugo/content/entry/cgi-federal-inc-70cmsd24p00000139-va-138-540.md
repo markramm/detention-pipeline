@@ -1,13 +1,13 @@
 ---
 title: "CGI FEDERAL INC. — 70CMSD24P00000139 (VA) $138,540"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/cgi-federal-inc-70cmsd24p00000139-va-138-540.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

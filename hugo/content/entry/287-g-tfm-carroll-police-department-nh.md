@@ -7,7 +7,7 @@ fips: ""
 state: "NH"
 county: ""
 repo_path: "kb/287g/287-g-tfm-carroll-police-department-nh.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Carroll Police Department, signed July 2, 2025."
 source_count: 1
 type: "entry"

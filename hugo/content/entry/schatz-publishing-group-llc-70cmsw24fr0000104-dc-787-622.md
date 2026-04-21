@@ -1,13 +1,13 @@
 ---
 title: "Schatz Publishing Group, LLC — 70Cmsw24Fr0000104 (DC) $787,622"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/schatz-publishing-group-llc-70cmsw24fr0000104-dc-787-622.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SCHATZ PUBLISHING GROUP, LLC"
 source_count: 0
 type: "entry"

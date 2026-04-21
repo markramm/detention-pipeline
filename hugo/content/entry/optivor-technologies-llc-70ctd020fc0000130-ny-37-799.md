@@ -1,13 +1,13 @@
 ---
 title: "Optivor Technologies, LLC — 70Ctd020Fc0000130 (NY) $37,799"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NY"
 county: ""
 repo_path: "kb/ice-contracts/optivor-technologies-llc-70ctd020fc0000130-ny-37-799.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: OPTIVOR TECHNOLOGIES, LLC"
 source_count: 0
 type: "entry"

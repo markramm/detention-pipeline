@@ -1,13 +1,13 @@
 ---
 title: "Global Precision Systems, LLC — 70Cmsw20Fr0000034 (CA) $8,848,155"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/global-precision-systems-llc-70cmsw20fr0000034-ca-8-848-155.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GLOBAL PRECISION SYSTEMS, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Eeg Enterprises INC — 70Cmsd21P00000109 (DC) $12,620"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/eeg-enterprises-inc-70cmsd21p00000109-dc-12-620.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

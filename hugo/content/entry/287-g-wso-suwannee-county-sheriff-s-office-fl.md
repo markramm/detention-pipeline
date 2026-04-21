@@ -7,7 +7,7 @@ fips: "12121"
 state: "FL"
 county: "Suwannee County"
 repo_path: "kb/287g/287-g-wso-suwannee-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Suwannee County Sheriff’s Office, signed October 15, 2019."
 source_count: 1
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Deloitte Consulting Llp — 70Cmsw20Fr0000005 (DC) $22,637"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/deloitte-consulting-llp-70cmsw20fr0000005-dc-22-637.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DELOITTE CONSULTING LLP"
 source_count: 0
 type: "entry"

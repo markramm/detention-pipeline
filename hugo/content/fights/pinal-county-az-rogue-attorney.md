@@ -3,11 +3,11 @@ title: "Pinal County AZ — County Attorney Signs Rogue 287(g), Board Declares I
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "04021"
 state: "AZ"
 county: "Pinal"
 repo_path: "kb/industry/county-fights/pinal-county-az-rogue-attorney.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-20"
 summary: "County Attorney Brad Miller signed a 287(g) with ICE without board approval; Board unanimously declared it illegal and sued. Active litigation in Maricopa County Superior Court as of April 2026."
 source_count: 12
 type: "fights"

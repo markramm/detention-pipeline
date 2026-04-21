@@ -1,13 +1,13 @@
 ---
 title: "22Nd Century Technologies, INC. — 70Ctd019Fr0000321 (DC) $710,116"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/22nd-century-technologies-inc-70ctd019fr0000321-dc-710-116.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: 22ND CENTURY TECHNOLOGIES, INC."
 source_count: 0
 type: "entry"

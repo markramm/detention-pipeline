@@ -7,7 +7,7 @@ fips: "20003"
 state: "KS"
 county: "Anderson County"
 repo_path: "kb/287g/287-g-wso-anderson-county-sheriff-s-office-ks.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Anderson County Sheriff’s Office, signed June 11, 2025."
 source_count: 1
 type: "entry"

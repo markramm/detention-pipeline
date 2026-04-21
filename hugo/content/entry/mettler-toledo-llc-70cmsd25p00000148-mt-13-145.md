@@ -1,13 +1,13 @@
 ---
 title: "Mettler-Toledo LLC — 70Cmsd25P00000148 (MT) $13,145"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MT"
 county: ""
 repo_path: "kb/ice-contracts/mettler-toledo-llc-70cmsd25p00000148-mt-13-145.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

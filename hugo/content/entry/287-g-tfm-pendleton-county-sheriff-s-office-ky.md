@@ -7,7 +7,7 @@ fips: "21191"
 state: "KY"
 county: "Pendleton County"
 repo_path: "kb/287g/287-g-tfm-pendleton-county-sheriff-s-office-ky.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Pendleton County Sheriff’s Office, signed January 26, 2026."
 source_count: 1
 type: "entry"

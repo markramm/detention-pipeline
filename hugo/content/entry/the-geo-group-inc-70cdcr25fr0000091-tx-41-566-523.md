@@ -1,13 +1,13 @@
 ---
 title: "The Geo Group, INC. — 70Cdcr25Fr0000091 (TX) $41,566,523"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/the-geo-group-inc-70cdcr25fr0000091-tx-41-566-523.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

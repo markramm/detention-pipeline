@@ -7,7 +7,7 @@ fips: "47019"
 state: "TN"
 county: "Carter County"
 repo_path: "kb/287g/287-g-wso-carter-county-sheriff-s-office-tn.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Carter County Sheriff’s Office, signed November 4, 2025."
 source_count: 1
 type: "entry"

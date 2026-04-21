@@ -7,7 +7,7 @@ fips: ""
 state: "KY"
 county: ""
 repo_path: "kb/287g/287-g-tfm-heritage-creek-police-department-ky.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Heritage Creek Police Department, signed April 29, 2025."
 source_count: 1
 type: "entry"

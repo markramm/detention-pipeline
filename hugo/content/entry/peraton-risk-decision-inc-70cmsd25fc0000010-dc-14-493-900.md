@@ -1,13 +1,13 @@
 ---
 title: "Peraton Risk Decision INC. — 70Cmsd25Fc0000010 (DC) $14,493,900"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/peraton-risk-decision-inc-70cmsd25fc0000010-dc-14-493-900.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PERATON RISK DECISION INC."
 source_count: 0
 type: "entry"

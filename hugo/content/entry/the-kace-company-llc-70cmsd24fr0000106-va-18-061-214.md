@@ -1,13 +1,13 @@
 ---
 title: "The Kace Company, LLC. — 70Cmsd24Fr0000106 (VA) $18,061,214"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/the-kace-company-llc-70cmsd24fr0000106-va-18-061-214.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THE KACE COMPANY, LLC."
 source_count: 0
 type: "entry"

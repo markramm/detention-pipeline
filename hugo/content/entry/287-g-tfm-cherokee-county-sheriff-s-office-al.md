@@ -7,7 +7,7 @@ fips: "01019"
 state: "AL"
 county: "Cherokee County"
 repo_path: "kb/287g/287-g-tfm-cherokee-county-sheriff-s-office-al.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Cherokee County Sheriff’s Office, signed February 10, 2026."
 source_count: 1
 type: "entry"

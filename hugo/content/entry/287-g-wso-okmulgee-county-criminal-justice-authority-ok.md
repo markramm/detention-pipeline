@@ -7,7 +7,7 @@ fips: "40111"
 state: "OK"
 county: "Okmulgee County"
 repo_path: "kb/287g/287-g-wso-okmulgee-county-criminal-justice-authority-ok.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Okmulgee County Criminal Justice Authority, signed February 24, 2025."
 source_count: 1
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Rescue Phone INC — 70Cmsw25P00000006 (MD) $44,400"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/rescue-phone-inc-70cmsw25p00000006-md-44-400.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Comcast Cable Communications Management LLC — 70Cmsd25P00000037 (WA) $24,600"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "WA"
 county: ""
 repo_path: "kb/ice-contracts/comcast-cable-communications-management-llc-70cmsd25p00000037-wa-24-600.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COMCAST CABLE COMMUNICATIONS MANAGEMENT LLC"
 source_count: 0
 type: "entry"

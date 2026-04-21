@@ -1,13 +1,13 @@
 ---
 title: "Ameritel Communications Corporation — 70Cmsd24Fr0000032 (NY) $3,001"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NY"
 county: ""
 repo_path: "kb/ice-contracts/ameritel-communications-corporation-70cmsd24fr0000032-ny-3-001.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AMERITEL COMMUNICATIONS CORPORATION"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Management Concepts, INC — 70Cmsw23Fr0000051 (VA) $9,524"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/management-concepts-inc-70cmsw23fr0000051-va-9-524.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MANAGEMENT CONCEPTS, INC"
 source_count: 0
 type: "entry"

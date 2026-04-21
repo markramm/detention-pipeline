@@ -7,7 +7,7 @@ fips: "39103"
 state: "OH"
 county: "Medina County"
 repo_path: "kb/287g/287-g-tfm-spencer-police-department-oh.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Spencer Police Department, signed October 17, 2025."
 source_count: 1
 type: "entry"

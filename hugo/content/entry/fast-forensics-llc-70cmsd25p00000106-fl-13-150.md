@@ -1,13 +1,13 @@
 ---
 title: "Fast Forensics, LLC — 70Cmsd25P00000106 (FL) $13,150"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/fast-forensics-llc-70cmsd25p00000106-fl-13-150.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

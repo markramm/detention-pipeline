@@ -7,7 +7,7 @@ fips: "21031"
 state: "KY"
 county: "Butler County"
 repo_path: "kb/287g/287-g-jem-butler-county-sheriff-s-office-ky.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Butler County Sheriff’s Office, signed September 9, 2025."
 source_count: 1
 type: "entry"

@@ -7,7 +7,7 @@ fips: "12039"
 state: "FL"
 county: "Gadsden County"
 repo_path: "kb/287g/287-g-tfm-midway-police-department-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Midway Police Department, signed November 19, 2025."
 source_count: 1
 type: "entry"

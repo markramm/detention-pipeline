@@ -1,13 +1,13 @@
 ---
-title: "Lassen County County CA — Board of Supervisors 2026-01-13: LASSEN COUNTY ADULT DETENTION HVAC RETROFIT PROJECT\nSUBJECT: Award of Lassen Cou"
+title: "Lassen County County CA — Board of Supervisors 2026-01-13: LASSEN COUNTY ADULT DETENTION HVAC RETROFIT PROJECT SUBJECT: Award of Lassen Cou"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "06035"
+state: "CA"
+county: "Lassen County"
 repo_path: "kb/commission/lassen-county-county-ca-board-of-supervisors-2026-01-13-lassen-county-adult-detention-hvac-retrofit-project-subject-award-of-lassen-cou.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

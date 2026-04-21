@@ -1,13 +1,13 @@
 ---
 title: "Integral Federal, INC. — Hscemd16Faf002 (DC) $4,200,935"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/integral-federal-inc-hscemd16faf002-dc-4-200-935.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: INTEGRAL FEDERAL, INC."
 source_count: 0
 type: "entry"

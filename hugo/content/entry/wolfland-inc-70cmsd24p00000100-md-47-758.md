@@ -1,13 +1,13 @@
 ---
 title: "WOLFLAND, INC. — 70CMSD24P00000100 (MD) $47,758"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/wolfland-inc-70cmsd24p00000100-md-47-758.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

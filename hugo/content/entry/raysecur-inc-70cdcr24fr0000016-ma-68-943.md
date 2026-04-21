@@ -1,13 +1,13 @@
 ---
 title: "RAYSECUR INC — 70CDCR24FR0000016 (MA) $68,943"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MA"
 county: ""
 repo_path: "kb/ice-contracts/raysecur-inc-70cdcr24fr0000016-ma-68-943.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

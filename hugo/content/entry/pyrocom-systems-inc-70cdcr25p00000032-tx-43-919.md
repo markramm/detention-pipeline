@@ -1,13 +1,13 @@
 ---
 title: "Pyrocom Systems INC — 70Cdcr25P00000032 (TX) $43,919"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/pyrocom-systems-inc-70cdcr25p00000032-tx-43-919.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

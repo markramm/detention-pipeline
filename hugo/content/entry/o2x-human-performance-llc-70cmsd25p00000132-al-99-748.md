@@ -1,13 +1,13 @@
 ---
 title: "O2X Human Performance, LLC — 70Cmsd25P00000132 (AL) $99,748"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AL"
 county: ""
 repo_path: "kb/ice-contracts/o2x-human-performance-llc-70cmsd25p00000132-al-99-748.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: O2X HUMAN PERFORMANCE, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Cambio Consulting Group LLC — 70Cmsd24Fr0000023 (NY) $236,052"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NY"
 county: ""
 repo_path: "kb/ice-contracts/cambio-consulting-group-llc-70cmsd24fr0000023-ny-236-052.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CAMBIO CONSULTING GROUP LLC"
 source_count: 0
 type: "entry"

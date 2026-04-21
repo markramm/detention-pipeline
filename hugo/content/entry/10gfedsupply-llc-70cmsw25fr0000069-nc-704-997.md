@@ -1,13 +1,13 @@
 ---
 title: "10Gfedsupply, LLC — 70Cmsw25Fr0000069 (NC) $704,997"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NC"
 county: ""
 repo_path: "kb/ice-contracts/10gfedsupply-llc-70cmsw25fr0000069-nc-704-997.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

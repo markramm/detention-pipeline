@@ -1,20 +1,20 @@
 ---
 title: "Akima Global Services, LLC — 70Cdcr25Fr0000110 (AZ) $18,913,800"
-entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+entry_type: "anc-contract"
+signal_label: "ANC Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
-repo_path: "kb/ice-contracts/akima-global-services-llc-70cdcr25fr0000110-az-18-913-800.md"
-lastmod: "2026-04-12"
-summary: "Recipient: AKIMA GLOBAL SERVICES, LLC"
+repo_path: "kb/anc/akima-global-services-llc-70cdcr25fr0000110-az-18-913-800.md"
+lastmod: "2026-04-20"
+summary: "Federal contract awarded to ANC subsidiary in AZ."
 source_count: 0
 type: "entry"
 layout: "single"
 ---
 
-ICE contract award.
+USAspending contract award.
 
 Recipient: AKIMA GLOBAL SERVICES, LLC
 Award ID: 70CDCR25FR0000110

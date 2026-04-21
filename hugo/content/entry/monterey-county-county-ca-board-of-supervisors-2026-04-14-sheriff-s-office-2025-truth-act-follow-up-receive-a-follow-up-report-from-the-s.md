@@ -1,13 +1,13 @@
 ---
-title: "Monterey County County CA — Board of Supervisors 2026-04-14: Sheriff's Office 2025 TRUTH Act follow up:\nReceive a follow up report from the S"
+title: "Monterey County County CA — Board of Supervisors 2026-04-14: Sheriff's Office 2025 TRUTH Act follow up: Receive a follow up report from the S"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "06053"
+state: "CA"
+county: "Monterey County"
 repo_path: "kb/commission/monterey-county-county-ca-board-of-supervisors-2026-04-14-sheriff-s-office-2025-truth-act-follow-up-receive-a-follow-up-report-from-the-s.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

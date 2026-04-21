@@ -3,11 +3,11 @@ title: "Lewis and Clark County MT — Helena sanctuary city resolution passed th
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "30049"
 state: "MT"
 county: "Lewis and Clark"
 repo_path: "kb/industry/county-fights/helena-mt-sanctuary-city-fight.md"
-lastmod: "2026-04-13"
+lastmod: "2026-04-20"
 summary: "Helena became the center of Montana's immigration enforcement battle in early 2026. After months of public organizing, the Helena City Commission voted on January 26, 2026 to approve a resolution..."
 source_count: 8
 type: "fights"

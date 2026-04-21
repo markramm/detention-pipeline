@@ -1,13 +1,13 @@
 ---
 title: "Colonial Parking, INC — Hscemr14P00016 (DC) $1,222,830"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/colonial-parking-inc-hscemr14p00016-dc-1-222-830.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COLONIAL PARKING, INC"
 source_count: 0
 type: "entry"

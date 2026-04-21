@@ -1,13 +1,13 @@
 ---
 title: "Garcias Janitorial — 70Cmsd23P00000109 (NM) $95,300"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NM"
 county: ""
 repo_path: "kb/ice-contracts/garcias-janitorial-70cmsd23p00000109-nm-95-300.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Path Consulting LLC — 70Cmsd25P00000057 (VA) $35,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/path-consulting-llc-70cmsd25p00000057-va-35-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

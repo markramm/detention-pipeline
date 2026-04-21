@@ -1,13 +1,13 @@
 ---
 title: "Paragon Systems INC — 70Cmsd23Fc0000024 (TX) $3,486,970"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/paragon-systems-inc-70cmsd23fc0000024-tx-3-486-970.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

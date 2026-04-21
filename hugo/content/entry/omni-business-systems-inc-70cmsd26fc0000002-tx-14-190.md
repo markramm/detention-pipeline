@@ -1,13 +1,13 @@
 ---
 title: "Omni Business Systems, INC — 70Cmsd26Fc0000002 (TX) $14,190"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/omni-business-systems-inc-70cmsd26fc0000002-tx-14-190.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: OMNI BUSINESS SYSTEMS, INC"
 source_count: 0
 type: "entry"

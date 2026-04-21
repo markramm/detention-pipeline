@@ -1,13 +1,13 @@
 ---
 title: "C & C International Computers & Consultants, INC. — 70Ctd020Fr0000301 (DC)"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/c-c-international-computers-consultants-inc-70ctd020fr0000301-dc.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: C & C INTERNATIONAL COMPUTERS & CONSULTANTS, INC."
 source_count: 0
 type: "entry"

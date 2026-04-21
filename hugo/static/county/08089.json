@@ -2,14 +2,15 @@
   "fips": "08089",
   "county": "Otero County, CO",
   "state": "CO",
-  "score": 10,
-  "signal_types": 1,
-  "rank": 801,
-  "total_counties": 1192,
-  "percentile": 33,
+  "score": 15,
+  "signal_types": 2,
+  "rank": 834,
+  "total_counties": 2019,
+  "percentile": 59,
   "coverage": "unresearched",
-  "auto_summary": "Otero County, CO shows 1 existing IGSA facility.",
+  "auto_summary": "Otero County, CO shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

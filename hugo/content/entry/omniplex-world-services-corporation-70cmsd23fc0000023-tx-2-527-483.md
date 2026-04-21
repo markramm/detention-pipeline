@@ -1,13 +1,13 @@
 ---
 title: "Omniplex World Services Corporation — 70Cmsd23Fc0000023 (TX) $2,527,483"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/omniplex-world-services-corporation-70cmsd23fc0000023-tx-2-527-483.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: OMNIPLEX WORLD SERVICES CORPORATION"
 source_count: 0
 type: "entry"

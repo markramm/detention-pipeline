@@ -1,13 +1,13 @@
 ---
 title: "FS PARTNERS, LLP — 70CTD021FR0000082 (DC) $260,660"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/fs-partners-llp-70ctd021fr0000082-dc-260-660.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

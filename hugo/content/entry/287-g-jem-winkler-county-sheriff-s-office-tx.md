@@ -7,7 +7,7 @@ fips: "48495"
 state: "TX"
 county: "Winkler County"
 repo_path: "kb/287g/287-g-jem-winkler-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Winkler County Sheriff’s Office, signed March 21, 2025."
 source_count: 1
 type: "entry"

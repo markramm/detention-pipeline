@@ -1,13 +1,13 @@
 ---
 title: "Global Resource Solutions INC — Hscemr17F00039 (DC) $4,340,737"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/global-resource-solutions-inc-hscemr17f00039-dc-4-340-737.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GLOBAL RESOURCE SOLUTIONS INC"
 source_count: 0
 type: "entry"

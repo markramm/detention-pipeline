@@ -2,16 +2,17 @@
   "fips": "08001",
   "county": "Adams County, CO",
   "state": "CO",
-  "score": 77,
-  "signal_types": 3,
-  "rank": 31,
-  "total_counties": 1192,
-  "percentile": 97,
+  "score": 88,
+  "signal_types": 4,
+  "rank": 33,
+  "total_counties": 2019,
+  "percentile": 98,
   "coverage": "partially-researched",
   "auto_summary": "Adams County, CO shows 4 existing IGSA facilities, 2 ANC contracts, and active community resistance.",
   "entry_types": {
     "anc-contract": 2,
     "igsa": 4,
-    "county-fight": 1
+    "county-fight": 1,
+    "facility": 1
   }
 }

@@ -7,7 +7,7 @@ fips: "20147"
 state: "KS"
 county: "Phillips County"
 repo_path: "kb/287g/287-g-wso-phillips-county-sheriff-s-department-ks.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Phillips County Sheriff’s Department, signed December 8, 2025."
 source_count: 1
 type: "entry"

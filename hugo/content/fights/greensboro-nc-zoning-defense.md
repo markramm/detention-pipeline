@@ -3,11 +3,11 @@ title: "Greensboro NC — Preemptive Zoning Defense Against ICE Detention at Ame
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "37081"
 state: "NC"
 county: "Guilford"
 repo_path: "kb/industry/county-fights/greensboro-nc-zoning-defense.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "ACLU obtained heavily redacted FOIA documents showing Baptiste Group (Georgia-based) pitched the 100-acre former American Hebrew Academy campus to ICE as \"highly suitable for ICE detention..."
 source_count: 2
 type: "fights"

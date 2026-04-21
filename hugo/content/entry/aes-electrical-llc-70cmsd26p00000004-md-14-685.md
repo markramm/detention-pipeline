@@ -1,13 +1,13 @@
 ---
 title: "Aes Electrical, LLC — 70Cmsd26P00000004 (MD) $14,685"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/aes-electrical-llc-70cmsd26p00000004-md-14-685.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

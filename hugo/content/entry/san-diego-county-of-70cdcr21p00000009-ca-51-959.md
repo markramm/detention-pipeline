@@ -1,13 +1,13 @@
 ---
 title: "San Diego, County Of — 70Cdcr21P00000009 (CA) $51,959"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/san-diego-county-of-70cdcr21p00000009-ca-51-959.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SAN DIEGO, COUNTY OF"
 source_count: 0
 type: "entry"

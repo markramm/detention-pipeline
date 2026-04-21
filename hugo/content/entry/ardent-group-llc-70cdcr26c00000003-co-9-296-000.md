@@ -1,13 +1,13 @@
 ---
 title: "Ardent Group, LLC — 70Cdcr26C00000003 (CO) $9,296,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CO"
 county: ""
 repo_path: "kb/ice-contracts/ardent-group-llc-70cdcr26c00000003-co-9-296-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

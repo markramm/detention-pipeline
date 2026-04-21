@@ -7,7 +7,7 @@ fips: "13207"
 state: "GA"
 county: "Monroe County"
 repo_path: "kb/287g/287-g-jem-monroe-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Monroe County Sheriff’s Office, signed February 24, 2025."
 source_count: 1
 type: "entry"

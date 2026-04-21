@@ -1,13 +1,13 @@
 ---
 title: "New Tech Solutions, INC. — 70Cmsd25Fr0000095 (CA) $39,194"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/new-tech-solutions-inc-70cmsd25fr0000095-ca-39-194.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: NEW TECH SOLUTIONS, INC."
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "48127"
 state: "TX"
 county: "Dimmit County"
 repo_path: "kb/287g/287-g-wso-dimmit-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Dimmit County Sheriff’s Office, signed December 10, 2025."
 source_count: 1
 type: "entry"

@@ -2,16 +2,17 @@
   "fips": "01003",
   "county": "Baldwin County, AL",
   "state": "AL",
-  "score": 63,
+  "score": 69,
   "signal_types": 4,
-  "rank": 47,
-  "total_counties": 1192,
-  "percentile": 96,
-  "coverage": "unresearched",
-  "auto_summary": "Baldwin County, AL shows 1 existing IGSA facility, and 6 287(g) agreements.",
+  "rank": 58,
+  "total_counties": 2019,
+  "percentile": 97,
+  "coverage": "partially-researched",
+  "auto_summary": "Baldwin County, AL shows 1 existing IGSA facility, 6 287(g) agreements, and active community resistance.",
   "entry_types": {
     "287g-agreement": 6,
     "igsa": 1,
+    "county-fight": 1,
     "facility": 1
   }
 }

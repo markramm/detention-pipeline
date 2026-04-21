@@ -1,13 +1,13 @@
 ---
 title: "Paragon Professional Services LLC — 70Cdcr23Fr0000063 (TX) $64,019,920"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/paragon-professional-services-llc-70cdcr23fr0000063-tx-64-019-920.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PARAGON PROFESSIONAL SERVICES LLC"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "48423"
 state: "TX"
 county: "Smith County"
 repo_path: "kb/287g/287-g-jem-smith-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Smith County Sheriff’s Office, signed June 9, 2020."
 source_count: 1
 type: "entry"

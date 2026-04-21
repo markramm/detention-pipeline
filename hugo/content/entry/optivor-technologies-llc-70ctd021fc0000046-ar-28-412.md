@@ -1,13 +1,13 @@
 ---
 title: "Optivor Technologies, LLC — 70Ctd021Fc0000046 (AR) $28,412"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AR"
 county: ""
 repo_path: "kb/ice-contracts/optivor-technologies-llc-70ctd021fc0000046-ar-28-412.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: OPTIVOR TECHNOLOGIES, LLC"
 source_count: 0
 type: "entry"

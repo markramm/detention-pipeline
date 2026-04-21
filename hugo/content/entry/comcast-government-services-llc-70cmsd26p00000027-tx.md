@@ -1,13 +1,13 @@
 ---
 title: "Comcast Government Services LLC — 70Cmsd26P00000027 (TX)"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/comcast-government-services-llc-70cmsd26p00000027-tx.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COMCAST GOVERNMENT SERVICES LLC"
 source_count: 0
 type: "entry"

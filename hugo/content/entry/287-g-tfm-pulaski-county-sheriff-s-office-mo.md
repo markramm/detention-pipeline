@@ -7,7 +7,7 @@ fips: "29169"
 state: "MO"
 county: "Pulaski County"
 repo_path: "kb/287g/287-g-tfm-pulaski-county-sheriff-s-office-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Pulaski County Sheriff’s Office, signed July 29, 2025."
 source_count: 1
 type: "entry"

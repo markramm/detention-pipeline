@@ -1,13 +1,13 @@
 ---
 title: "First American Title Insurance Company — 70Cmsw26P00000001 (CA) $25,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/first-american-title-insurance-company-70cmsw26p00000001-ca-25-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FIRST AMERICAN TITLE INSURANCE COMPANY"
 source_count: 0
 type: "entry"

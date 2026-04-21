@@ -1,13 +1,13 @@
 ---
-title: "Oklahoma County County OK — Board of County Commissioners 2025-12-17: Discussion and possible action regarding a Contract Amendment between the Board "
+title: "Oklahoma County County OK — Board of County Commissioners 2025-12-17: Discussion and possible action regarding a Contract Amendment between the Board"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "40109"
+state: "OK"
+county: "Oklahoma County"
 repo_path: "kb/commission/oklahoma-county-county-ok-board-of-county-commissioners-2025-12-17-discussion-and-possible-action-regarding-a-contract-amendment-between-the-board.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

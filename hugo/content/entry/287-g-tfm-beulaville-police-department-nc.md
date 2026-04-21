@@ -7,7 +7,7 @@ fips: "37061"
 state: "NC"
 county: "Duplin County"
 repo_path: "kb/287g/287-g-tfm-beulaville-police-department-nc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Beulaville Police Department, signed October 17, 2025."
 source_count: 1
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Prime Masonry, LLC — 70Cmsw25C00000013 (TX) $113,999"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/prime-masonry-llc-70cmsw25c00000013-tx-113-999.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Akima Global Services, LLC — 70Cdcr22Fr0000016 (NY) $25,728,828"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NY"
 county: ""
 repo_path: "kb/ice-contracts/akima-global-services-llc-70cdcr22fr0000016-ny-25-728-828.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AKIMA GLOBAL SERVICES, LLC"
 source_count: 0
 type: "entry"

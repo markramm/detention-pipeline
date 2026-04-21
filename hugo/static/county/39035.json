@@ -2,14 +2,15 @@
   "fips": "39035",
   "county": "Cuyahoga County, OH",
   "state": "OH",
-  "score": 51,
+  "score": 55,
   "signal_types": 2,
-  "rank": 92,
-  "total_counties": 1192,
-  "percentile": 92,
-  "coverage": "unresearched",
-  "auto_summary": "Cuyahoga County, OH shows 4 existing IGSA facilities.",
+  "rank": 111,
+  "total_counties": 2019,
+  "percentile": 95,
+  "coverage": "partially-researched",
+  "auto_summary": "Cuyahoga County, OH shows 4 existing IGSA facilities, and active community resistance.",
   "entry_types": {
-    "igsa": 4
+    "igsa": 4,
+    "county-fight": 1
   }
 }

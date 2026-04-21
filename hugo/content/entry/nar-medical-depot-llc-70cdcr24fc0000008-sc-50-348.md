@@ -1,13 +1,13 @@
 ---
 title: "Nar Medical Depot, LLC — 70Cdcr24Fc0000008 (SC) $50,348"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "SC"
 county: ""
 repo_path: "kb/ice-contracts/nar-medical-depot-llc-70cdcr24fc0000008-sc-50-348.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: NAR MEDICAL DEPOT, LLC"
 source_count: 0
 type: "entry"

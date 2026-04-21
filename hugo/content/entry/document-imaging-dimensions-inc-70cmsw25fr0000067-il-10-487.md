@@ -1,13 +1,13 @@
 ---
 title: "Document Imaging Dimensions INC. — 70Cmsw25Fr0000067 (IL) $10,487"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IL"
 county: ""
 repo_path: "kb/ice-contracts/document-imaging-dimensions-inc-70cmsw25fr0000067-il-10-487.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DOCUMENT IMAGING DIMENSIONS INC."
 source_count: 0
 type: "entry"

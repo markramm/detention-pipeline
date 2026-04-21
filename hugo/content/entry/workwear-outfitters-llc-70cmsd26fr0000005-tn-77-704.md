@@ -1,13 +1,13 @@
 ---
 title: "Workwear Outfitters, LLC — 70Cmsd26Fr0000005 (TN) $77,704"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TN"
 county: ""
 repo_path: "kb/ice-contracts/workwear-outfitters-llc-70cmsd26fr0000005-tn-77-704.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: WORKWEAR OUTFITTERS, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Fulcrum Contracting Group LLC — 70Cmsw25C00000026 (TX) $209,622"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/fulcrum-contracting-group-llc-70cmsw25c00000026-tx-209-622.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FULCRUM CONTRACTING GROUP LLC"
 source_count: 0
 type: "entry"

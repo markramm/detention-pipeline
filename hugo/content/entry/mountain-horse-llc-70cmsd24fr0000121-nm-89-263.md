@@ -1,13 +1,13 @@
 ---
 title: "Mountain Horse LLC — 70Cmsd24Fr0000121 (NM) $89,263"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NM"
 county: ""
 repo_path: "kb/ice-contracts/mountain-horse-llc-70cmsd24fr0000121-nm-89-263.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

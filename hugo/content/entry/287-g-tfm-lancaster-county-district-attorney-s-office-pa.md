@@ -7,7 +7,7 @@ fips: "42071"
 state: "PA"
 county: "Lancaster County"
 repo_path: "kb/287g/287-g-tfm-lancaster-county-district-attorney-s-office-pa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Lancaster County District Attorney’s Office, signed August 28, 2025."
 source_count: 1
 type: "entry"

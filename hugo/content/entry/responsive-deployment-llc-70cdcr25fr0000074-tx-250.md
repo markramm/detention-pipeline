@@ -1,13 +1,13 @@
 ---
 title: "Responsive Deployment LLC — 70Cdcr25Fr0000074 (TX) $250"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/responsive-deployment-llc-70cdcr25fr0000074-tx-250.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: RESPONSIVE DEPLOYMENT LLC"
 source_count: 0
 type: "entry"

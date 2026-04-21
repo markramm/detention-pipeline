@@ -1,13 +1,13 @@
 ---
 title: "Escondido, City Of — 70Cmsd24P00000008 (CA) $26,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/escondido-city-of-70cmsd24p00000008-ca-26-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

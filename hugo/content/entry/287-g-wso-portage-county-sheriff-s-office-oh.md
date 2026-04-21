@@ -7,7 +7,7 @@ fips: "39133"
 state: "OH"
 county: "Portage County"
 repo_path: "kb/287g/287-g-wso-portage-county-sheriff-s-office-oh.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Portage County Sheriff’s Office, signed March 17, 2025."
 source_count: 1
 type: "entry"

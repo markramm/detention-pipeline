@@ -1,13 +1,13 @@
 ---
 title: "Paperless Innovations INC — 70Cmsd21P00000126 (SC) $1,834,824"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "SC"
 county: ""
 repo_path: "kb/ice-contracts/paperless-innovations-inc-70cmsd21p00000126-sc-1-834-824.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PAPERLESS INNOVATIONS INC"
 source_count: 0
 type: "entry"

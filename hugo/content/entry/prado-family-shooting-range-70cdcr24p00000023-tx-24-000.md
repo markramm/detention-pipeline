@@ -1,13 +1,13 @@
 ---
 title: "Prado Family Shooting Range — 70Cdcr24P00000023 (TX) $24,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/prado-family-shooting-range-70cdcr24p00000023-tx-24-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PRADO FAMILY SHOOTING RANGE"
 source_count: 0
 type: "entry"

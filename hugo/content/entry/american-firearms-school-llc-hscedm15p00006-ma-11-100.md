@@ -1,13 +1,13 @@
 ---
 title: "American Firearms School, LLC — Hscedm15P00006 (Ma) $11,100"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MA"
 county: ""
 repo_path: "kb/ice-contracts/american-firearms-school-llc-hscedm15p00006-ma-11-100.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AMERICAN FIREARMS SCHOOL, LLC"
 source_count: 0
 type: "entry"

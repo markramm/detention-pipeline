@@ -1,13 +1,13 @@
 ---
 title: "Great Falls Paper Company — 70Cmsw25Fr0000076 (MT) $27,316"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MT"
 county: ""
 repo_path: "kb/ice-contracts/great-falls-paper-company-70cmsw25fr0000076-mt-27-316.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GREAT FALLS PAPER COMPANY"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Gettysburg Addresses, INC. — 70Cmsd25Fr0000005 (PA) $85,850"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "PA"
 county: ""
 repo_path: "kb/ice-contracts/gettysburg-addresses-inc-70cmsd25fr0000005-pa-85-850.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GETTYSBURG ADDRESSES, INC."
 source_count: 0
 type: "entry"

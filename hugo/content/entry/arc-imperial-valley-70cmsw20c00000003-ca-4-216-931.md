@@ -1,13 +1,13 @@
 ---
 title: "Arc - Imperial Valley — 70Cmsw20C00000003 (CA) $4,216,931"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/arc-imperial-valley-70cmsw20c00000003-ca-4-216-931.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ARC - IMPERIAL VALLEY"
 source_count: 0
 type: "entry"

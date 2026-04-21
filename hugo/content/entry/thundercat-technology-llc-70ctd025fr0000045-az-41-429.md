@@ -1,13 +1,13 @@
 ---
 title: "Thundercat Technology, LLC — 70Ctd025Fr0000045 (AZ) $41,429"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/thundercat-technology-llc-70ctd025fr0000045-az-41-429.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THUNDERCAT TECHNOLOGY, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Lionheart Alliance, LLC — 70Cmsw26Fc0000013 (VA) $736,080"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/lionheart-alliance-llc-70cmsw26fc0000013-va-736-080.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LIONHEART ALLIANCE, LLC"
 source_count: 0
 type: "entry"

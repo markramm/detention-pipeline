@@ -1,13 +1,13 @@
 ---
 title: "Corp Ten International — 70Cmsd24P00000140 (VA) $3,338,826"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/corp-ten-international-70cmsd24p00000140-va-3-338-826.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CORP TEN INTERNATIONAL"
 source_count: 0
 type: "entry"

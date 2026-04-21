@@ -7,7 +7,7 @@ fips: "13131"
 state: "GA"
 county: "Grady County"
 repo_path: "kb/287g/287-g-wso-grady-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Grady County Sheriff’s Office, signed January 7, 2026."
 source_count: 1
 type: "entry"

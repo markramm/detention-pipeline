@@ -1,13 +1,13 @@
 ---
 title: "Capgemini Government Solutions LLC — 70Cdcr26Fr0000024 (VA) $4,816,782"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/capgemini-government-solutions-llc-70cdcr26fr0000024-va-4-816-782.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CAPGEMINI GOVERNMENT SOLUTIONS LLC"
 source_count: 0
 type: "entry"

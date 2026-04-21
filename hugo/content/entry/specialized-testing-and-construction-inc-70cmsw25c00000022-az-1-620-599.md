@@ -1,13 +1,13 @@
 ---
 title: "Specialized Testing And Construction, INC. — 70Cmsw25C00000022 (AZ) $1,620,599"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/specialized-testing-and-construction-inc-70cmsw25c00000022-az-1-620-599.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SPECIALIZED TESTING AND CONSTRUCTION, INC."
 source_count: 0
 type: "entry"

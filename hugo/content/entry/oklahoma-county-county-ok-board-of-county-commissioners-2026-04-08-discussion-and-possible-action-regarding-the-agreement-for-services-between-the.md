@@ -1,13 +1,13 @@
 ---
-title: "Oklahoma County County OK — Board of County Commissioners 2026-04-08: Discussion and possible action regarding the Agreement for Services between the "
+title: "Oklahoma County County OK — Board of County Commissioners 2026-04-08: Discussion and possible action regarding the Agreement for Services between the"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "40109"
+state: "OK"
+county: "Oklahoma County"
 repo_path: "kb/commission/oklahoma-county-county-ok-board-of-county-commissioners-2026-04-08-discussion-and-possible-action-regarding-the-agreement-for-services-between-the.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

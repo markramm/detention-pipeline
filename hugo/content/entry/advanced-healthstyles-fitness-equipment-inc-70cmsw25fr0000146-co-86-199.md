@@ -1,13 +1,13 @@
 ---
 title: "Advanced Healthstyles Fitness Equipment, INC. — 70Cmsw25Fr0000146 (CO) $86,199"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CO"
 county: ""
 repo_path: "kb/ice-contracts/advanced-healthstyles-fitness-equipment-inc-70cmsw25fr0000146-co-86-199.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ADVANCED HEALTHSTYLES FITNESS EQUIPMENT, INC."
 source_count: 0
 type: "entry"

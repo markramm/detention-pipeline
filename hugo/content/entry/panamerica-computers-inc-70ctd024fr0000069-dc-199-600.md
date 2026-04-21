@@ -1,13 +1,13 @@
 ---
 title: "Panamerica Computers, INC. — 70Ctd024Fr0000069 (DC) $199,600"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/panamerica-computers-inc-70ctd024fr0000069-dc-199-600.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PANAMERICA COMPUTERS, INC."
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "48423"
 state: "TX"
 county: "Smith County"
 repo_path: "kb/287g/287-g-tfm-smith-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Smith County Sheriff’s Office, signed February 18, 2025."
 source_count: 1
 type: "entry"

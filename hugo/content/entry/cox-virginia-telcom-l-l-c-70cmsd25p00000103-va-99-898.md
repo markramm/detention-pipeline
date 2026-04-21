@@ -1,13 +1,13 @@
 ---
 title: "Cox Virginia Telcom, L.L.C — 70Cmsd25P00000103 (VA) $99,898"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/cox-virginia-telcom-l-l-c-70cmsd25p00000103-va-99-898.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COX VIRGINIA TELCOM, L.L.C"
 source_count: 0
 type: "entry"

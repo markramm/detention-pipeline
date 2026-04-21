@@ -1,13 +1,13 @@
 ---
 title: "Greenzone Solutions LLC — Hscemd16C00001 (VA) $3,655,403"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/greenzone-solutions-llc-hscemd16c00001-va-3-655-403.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GREENZONE SOLUTIONS LLC"
 source_count: 0
 type: "entry"

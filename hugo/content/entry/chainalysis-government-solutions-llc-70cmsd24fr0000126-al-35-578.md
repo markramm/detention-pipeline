@@ -1,13 +1,13 @@
 ---
 title: "Chainalysis Government Solutions, LLC — 70Cmsd24Fr0000126 (AL) $35,578"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AL"
 county: ""
 repo_path: "kb/ice-contracts/chainalysis-government-solutions-llc-70cmsd24fr0000126-al-35-578.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CHAINALYSIS GOVERNMENT SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

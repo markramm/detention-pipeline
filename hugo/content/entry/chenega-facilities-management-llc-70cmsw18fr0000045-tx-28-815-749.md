@@ -1,13 +1,13 @@
 ---
 title: "Chenega Facilities Management LLC — 70Cmsw18Fr0000045 (TX) $28,815,749"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/chenega-facilities-management-llc-70cmsw18fr0000045-tx-28-815-749.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CHENEGA FACILITIES MANAGEMENT LLC"
 source_count: 0
 type: "entry"

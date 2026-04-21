@@ -1,13 +1,13 @@
 ---
 title: "Anacapa Micro Products, INC. — 70Ctd024Fr0000096 (CA) $3,927,152"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/anacapa-micro-products-inc-70ctd024fr0000096-ca-3-927-152.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ANACAPA MICRO PRODUCTS, INC."
 source_count: 0
 type: "entry"

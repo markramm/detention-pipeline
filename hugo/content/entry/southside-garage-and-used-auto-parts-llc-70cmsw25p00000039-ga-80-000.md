@@ -1,13 +1,13 @@
 ---
 title: "Southside Garage And Used Auto Parts LLC — 70Cmsw25P00000039 (GA) $80,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/southside-garage-and-used-auto-parts-llc-70cmsw25p00000039-ga-80-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SOUTHSIDE GARAGE AND USED AUTO PARTS LLC"
 source_count: 0
 type: "entry"

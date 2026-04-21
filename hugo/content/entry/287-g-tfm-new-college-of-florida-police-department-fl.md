@@ -7,7 +7,7 @@ fips: ""
 state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-new-college-of-florida-police-department-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and New College of Florida Police Department, signed April 15, 2025."
 source_count: 1
 type: "entry"

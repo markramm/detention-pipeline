@@ -1,13 +1,13 @@
 ---
 title: "O'Reilly Media, INC. — 70Cmsd23Fr0000064 (VA) $165,182"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/o-reilly-media-inc-70cmsd23fr0000064-va-165-182.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: O'REILLY MEDIA, INC."
 source_count: 0
 type: "entry"

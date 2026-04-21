@@ -4,12 +4,13 @@
   "state": "VA",
   "score": 11,
   "signal_types": 2,
-  "rank": 742,
-  "total_counties": 1192,
-  "percentile": 38,
-  "coverage": "unresearched",
-  "auto_summary": "Hanover County, VA shows 1 existing IGSA facility.",
+  "rank": 1056,
+  "total_counties": 2019,
+  "percentile": 48,
+  "coverage": "partially-researched",
+  "auto_summary": "Hanover County, VA shows 1 existing IGSA facility, and active community resistance.",
   "entry_types": {
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1
   }
 }

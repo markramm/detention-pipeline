@@ -7,7 +7,7 @@ fips: "22103"
 state: "LA"
 county: "St. Tammany Parish"
 repo_path: "kb/287g/287-g-tfm-pearl-river-police-department-la.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Pearl River Police Department, signed September 22, 2025."
 source_count: 1
 type: "entry"

@@ -7,7 +7,7 @@ fips: "51027"
 state: "VA"
 county: "Buchanan County"
 repo_path: "kb/287g/287-g-tfm-buchanan-county-sheriff-s-office-va.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Buchanan County Sheriff’s Office, signed June 11, 2025."
 source_count: 1
 type: "entry"

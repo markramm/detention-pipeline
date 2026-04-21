@@ -1,13 +1,13 @@
 ---
 title: "Kcorp Reliance Company, INC. — 70Cmsw23C00000001 (GA) $4,939,517"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/kcorp-reliance-company-inc-70cmsw23c00000001-ga-4-939-517.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: KCORP RELIANCE COMPANY, INC."
 source_count: 0
 type: "entry"

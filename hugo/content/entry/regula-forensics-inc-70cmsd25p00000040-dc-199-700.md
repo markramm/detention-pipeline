@@ -1,13 +1,13 @@
 ---
 title: "Regula Forensics INC — 70Cmsd25P00000040 (DC) $199,700"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/regula-forensics-inc-70cmsd25p00000040-dc-199-700.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: REGULA FORENSICS INC"
 source_count: 0
 type: "entry"

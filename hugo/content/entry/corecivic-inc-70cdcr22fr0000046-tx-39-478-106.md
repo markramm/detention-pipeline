@@ -1,13 +1,13 @@
 ---
 title: "CORECIVIC, INC. — 70CDCR22FR0000046 (TX) $39,478,106"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/corecivic-inc-70cdcr22fr0000046-tx-39-478-106.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

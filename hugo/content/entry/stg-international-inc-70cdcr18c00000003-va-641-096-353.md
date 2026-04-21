@@ -1,13 +1,13 @@
 ---
 title: "Stg International, INC. — 70Cdcr18C00000003 (VA) $641,096,353"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/stg-international-inc-70cdcr18c00000003-va-641-096-353.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: STG INTERNATIONAL, INC."
 source_count: 0
 type: "entry"

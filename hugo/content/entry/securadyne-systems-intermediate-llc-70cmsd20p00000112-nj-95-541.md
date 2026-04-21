@@ -1,13 +1,13 @@
 ---
 title: "Securadyne Systems Intermediate LLC — 70Cmsd20P00000112 (NJ) $95,541"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NJ"
 county: ""
 repo_path: "kb/ice-contracts/securadyne-systems-intermediate-llc-70cmsd20p00000112-nj-95-541.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SECURADYNE SYSTEMS INTERMEDIATE LLC"
 source_count: 0
 type: "entry"

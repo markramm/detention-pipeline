@@ -1,13 +1,13 @@
 ---
 title: "Centripetal Networks, LLC — 70Cmsd24P00000063 (VA) $291,864"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/centripetal-networks-llc-70cmsd24p00000063-va-291-864.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CENTRIPETAL NETWORKS, LLC"
 source_count: 0
 type: "entry"

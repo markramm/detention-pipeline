@@ -1,13 +1,13 @@
 ---
 title: "Rio Grande Valley Communications Group — 70Cmsd23P00000073 (TX) $269,044"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/rio-grande-valley-communications-group-70cmsd23p00000073-tx-269-044.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: RIO GRANDE VALLEY COMMUNICATIONS GROUP"
 source_count: 0
 type: "entry"

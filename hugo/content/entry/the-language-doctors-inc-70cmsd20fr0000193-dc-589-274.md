@@ -1,13 +1,13 @@
 ---
 title: "The Language Doctors, INC — 70Cmsd20Fr0000193 (DC) $589,274"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/the-language-doctors-inc-70cmsd20fr0000193-dc-589-274.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THE LANGUAGE DOCTORS, INC"
 source_count: 0
 type: "entry"

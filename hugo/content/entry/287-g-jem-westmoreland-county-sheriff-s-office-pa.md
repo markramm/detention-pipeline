@@ -7,7 +7,7 @@ fips: "42129"
 state: "PA"
 county: "Westmoreland County"
 repo_path: "kb/287g/287-g-jem-westmoreland-county-sheriff-s-office-pa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Westmoreland County Sheriff’s Office, signed October 17, 2025."
 source_count: 1
 type: "entry"

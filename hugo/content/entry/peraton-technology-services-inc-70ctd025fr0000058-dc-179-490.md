@@ -1,13 +1,13 @@
 ---
 title: "Peraton Technology Services INC. — 70Ctd025Fr0000058 (DC) $179,490"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/peraton-technology-services-inc-70ctd025fr0000058-dc-179-490.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PERATON TECHNOLOGY SERVICES INC."
 source_count: 0
 type: "entry"

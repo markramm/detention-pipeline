@@ -1,13 +1,13 @@
 ---
 title: "Everyday Hero Cpr LLC — 70Cmsd24Fr0000009 (TX) $162,908"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/everyday-hero-cpr-llc-70cmsd24fr0000009-tx-162-908.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: EVERYDAY HERO CPR LLC"
 source_count: 0
 type: "entry"

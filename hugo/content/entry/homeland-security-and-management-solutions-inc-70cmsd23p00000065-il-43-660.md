@@ -1,13 +1,13 @@
 ---
 title: "Homeland Security And Management Solutions, INC. — 70Cmsd23P00000065 (IL) $43,660"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IL"
 county: ""
 repo_path: "kb/ice-contracts/homeland-security-and-management-solutions-inc-70cmsd23p00000065-il-43-660.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HOMELAND SECURITY AND MANAGEMENT SOLUTIONS, INC."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Panamerica Computers, INC. — 70Cmsd24Fr0000084 (VA) $4,994,509"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/panamerica-computers-inc-70cmsd24fr0000084-va-4-994-509.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PANAMERICA COMPUTERS, INC."
 source_count: 0
 type: "entry"

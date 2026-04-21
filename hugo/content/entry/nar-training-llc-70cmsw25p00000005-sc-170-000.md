@@ -1,13 +1,13 @@
 ---
 title: "Nar Training LLC — 70Cmsw25P00000005 (SC) $170,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "SC"
 county: ""
 repo_path: "kb/ice-contracts/nar-training-llc-70cmsw25p00000005-sc-170-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "45019"
 state: "SC"
 county: "Charleston County"
 repo_path: "kb/287g/287-g-wso-charleston-county-sheriff-s-office-sc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Charleston County Sheriff’s Office, signed March 10, 2025."
 source_count: 1
 type: "entry"

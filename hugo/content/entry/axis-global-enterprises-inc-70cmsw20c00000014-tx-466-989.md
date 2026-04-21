@@ -1,13 +1,13 @@
 ---
 title: "Axis Global Enterprises, INC. — 70Cmsw20C00000014 (TX) $466,989"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/axis-global-enterprises-inc-70cmsw20c00000014-tx-466-989.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AXIS GLOBAL ENTERPRISES, INC."
 source_count: 0
 type: "entry"

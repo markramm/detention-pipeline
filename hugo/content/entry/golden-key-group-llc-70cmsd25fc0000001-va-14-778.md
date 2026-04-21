@@ -1,13 +1,13 @@
 ---
 title: "Golden Key Group, LLC — 70Cmsd25Fc0000001 (VA) $14,778"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/golden-key-group-llc-70cmsd25fc0000001-va-14-778.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GOLDEN KEY GROUP, LLC"
 source_count: 0
 type: "entry"

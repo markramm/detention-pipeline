@@ -1,13 +1,13 @@
 ---
 title: "Chattahoochee Trailer LLC — 70Cmsw25P00000015 (GA) $5,895"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/chattahoochee-trailer-llc-70cmsw25p00000015-ga-5-895.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CHATTAHOOCHEE TRAILER LLC"
 source_count: 0
 type: "entry"

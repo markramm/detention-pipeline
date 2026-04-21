@@ -1,13 +1,13 @@
 ---
 title: "Mbf Industries, INC. — 70Cmsw24Fr0000096 (FL) $910,274"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/mbf-industries-inc-70cmsw24fr0000096-fl-910-274.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MBF INDUSTRIES, INC."
 source_count: 0
 type: "entry"

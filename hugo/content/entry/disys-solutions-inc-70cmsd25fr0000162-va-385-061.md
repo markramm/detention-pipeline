@@ -1,13 +1,13 @@
 ---
 title: "Disys Solutions, INC. — 70Cmsd25Fr0000162 (VA) $385,061"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/disys-solutions-inc-70cmsd25fr0000162-va-385-061.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DISYS SOLUTIONS, INC."
 source_count: 0
 type: "entry"

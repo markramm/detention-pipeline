@@ -1,13 +1,13 @@
 ---
 title: "Countertrade Products, INC. — 70Ctd025Fr0000095 (AZ) $10,104,235"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/countertrade-products-inc-70ctd025fr0000095-az-10-104-235.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COUNTERTRADE PRODUCTS, INC."
 source_count: 0
 type: "entry"

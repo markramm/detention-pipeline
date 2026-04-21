@@ -1,13 +1,13 @@
 ---
 title: "Macro Companies, INC. — 70Cmsd26Fr0000014 (MN) $40,701"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MN"
 county: ""
 repo_path: "kb/ice-contracts/macro-companies-inc-70cmsd26fr0000014-mn-40-701.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MACRO COMPANIES, INC."
 source_count: 0
 type: "entry"

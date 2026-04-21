@@ -3,11 +3,11 @@ title: "Flathead County MT — Community calls to end 287(g) agreement; sheriff 
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "30029"
 state: "MT"
 county: "Flathead"
 repo_path: "kb/industry/county-fights/flathead-county-mt-287g-opposition.md"
-lastmod: "2026-04-13"
+lastmod: "2026-04-20"
 summary: "Flathead County has held a 287(g) Warrant Service Officer agreement since 2020, allowing ICE to deputize local officers to serve administrative warrants on detainees in the county jail. In January..."
 source_count: 4
 type: "fights"

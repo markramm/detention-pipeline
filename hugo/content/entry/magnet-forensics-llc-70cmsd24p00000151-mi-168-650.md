@@ -1,13 +1,13 @@
 ---
 title: "Magnet Forensics, LLC — 70Cmsd24P00000151 (MI) $168,650"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MI"
 county: ""
 repo_path: "kb/ice-contracts/magnet-forensics-llc-70cmsd24p00000151-mi-168-650.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MAGNET FORENSICS, LLC"
 source_count: 0
 type: "entry"

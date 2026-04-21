@@ -1,13 +1,13 @@
 ---
 title: "Foster & Freeman Usa INC — 70Cmsd25P00000066 (VA) $99,408"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/foster-freeman-usa-inc-70cmsd25p00000066-va-99-408.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FOSTER & FREEMAN USA INC"
 source_count: 0
 type: "entry"

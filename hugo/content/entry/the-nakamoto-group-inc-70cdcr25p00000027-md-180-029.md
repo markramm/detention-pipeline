@@ -1,13 +1,13 @@
 ---
 title: "The Nakamoto Group, INC. — 70Cdcr25P00000027 (MD) $180,029"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/the-nakamoto-group-inc-70cdcr25p00000027-md-180-029.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THE NAKAMOTO GROUP, INC."
 source_count: 0
 type: "entry"

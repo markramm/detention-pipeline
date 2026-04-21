@@ -1,13 +1,13 @@
 ---
 title: "Akira Technologies INC. — 70Cmsd24Fr0000060 (VA) $314,512"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/akira-technologies-inc-70cmsd24fr0000060-va-314-512.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AKIRA TECHNOLOGIES INC."
 source_count: 0
 type: "entry"

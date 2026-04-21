@@ -1,13 +1,13 @@
 ---
 title: "Tri-State Camera Exch. INC. — 70Cmsd24Fr0000196 (DC) $17,960"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/tri-state-camera-exch-inc-70cmsd24fr0000196-dc-17-960.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TRI-STATE CAMERA EXCH. INC."
 source_count: 0
 type: "entry"

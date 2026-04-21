@@ -1,13 +1,13 @@
 ---
 title: "Tomahawk Strategic Solutions LLC — 70Cmsw25P00000034 (TN) $43,500"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TN"
 county: ""
 repo_path: "kb/ice-contracts/tomahawk-strategic-solutions-llc-70cmsw25p00000034-tn-43-500.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TOMAHAWK STRATEGIC SOLUTIONS LLC"
 source_count: 0
 type: "entry"

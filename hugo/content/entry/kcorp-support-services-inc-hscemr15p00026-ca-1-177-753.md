@@ -1,13 +1,13 @@
 ---
 title: "Kcorp Support Services, INC — Hscemr15P00026 (CA) $1,177,753"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/kcorp-support-services-inc-hscemr15p00026-ca-1-177-753.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: KCORP SUPPORT SERVICES, INC"
 source_count: 0
 type: "entry"

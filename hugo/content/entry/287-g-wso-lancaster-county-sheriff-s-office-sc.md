@@ -7,7 +7,7 @@ fips: "45057"
 state: "SC"
 county: "Lancaster County"
 repo_path: "kb/287g/287-g-wso-lancaster-county-sheriff-s-office-sc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Lancaster County Sheriff’s Office, signed April 2, 2025."
 source_count: 1
 type: "entry"

@@ -7,7 +7,7 @@ fips: ""
 state: "FL"
 county: ""
 repo_path: "kb/287g/287-g-tfm-indian-creek-village-department-of-public-safety-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Indian Creek Village Department of Public Safety, signed July 7, 2025."
 source_count: 1
 type: "entry"

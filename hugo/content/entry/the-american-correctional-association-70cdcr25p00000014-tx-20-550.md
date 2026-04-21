@@ -1,13 +1,13 @@
 ---
 title: "The American Correctional Association — 70Cdcr25P00000014 (TX) $20,550"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/the-american-correctional-association-70cdcr25p00000014-tx-20-550.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THE AMERICAN CORRECTIONAL ASSOCIATION"
 source_count: 0
 type: "entry"

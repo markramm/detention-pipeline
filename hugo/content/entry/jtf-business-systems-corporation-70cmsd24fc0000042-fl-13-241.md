@@ -1,13 +1,13 @@
 ---
 title: "Jtf Business Systems Corporation — 70Cmsd24Fc0000042 (FL) $13,241"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/jtf-business-systems-corporation-70cmsd24fc0000042-fl-13-241.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: JTF BUSINESS SYSTEMS CORPORATION"
 source_count: 0
 type: "entry"

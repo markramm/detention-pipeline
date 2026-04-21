@@ -1,13 +1,13 @@
 ---
 title: "Federal Express Corporation — 70Cmsw18Fr0000003 (DC) $135,569"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/federal-express-corporation-70cmsw18fr0000003-dc-135-569.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FEDERAL EXPRESS CORPORATION"
 source_count: 0
 type: "entry"

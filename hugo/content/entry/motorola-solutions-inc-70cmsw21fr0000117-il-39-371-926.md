@@ -1,13 +1,13 @@
 ---
 title: "Motorola Solutions, INC. — 70Cmsw21Fr0000117 (IL) $39,371,926"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IL"
 county: ""
 repo_path: "kb/ice-contracts/motorola-solutions-inc-70cmsw21fr0000117-il-39-371-926.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MOTOROLA SOLUTIONS, INC."
 source_count: 0
 type: "entry"

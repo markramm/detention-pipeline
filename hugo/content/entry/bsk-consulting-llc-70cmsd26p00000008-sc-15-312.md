@@ -1,13 +1,13 @@
 ---
 title: "Bsk Consulting LLC — 70Cmsd26P00000008 (SC) $15,312"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "SC"
 county: ""
 repo_path: "kb/ice-contracts/bsk-consulting-llc-70cmsd26p00000008-sc-15-312.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

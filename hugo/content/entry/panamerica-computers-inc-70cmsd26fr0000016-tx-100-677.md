@@ -1,13 +1,13 @@
 ---
 title: "Panamerica Computers, INC. — 70Cmsd26Fr0000016 (TX) $100,677"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/panamerica-computers-inc-70cmsd26fr0000016-tx-100-677.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PANAMERICA COMPUTERS, INC."
 source_count: 0
 type: "entry"

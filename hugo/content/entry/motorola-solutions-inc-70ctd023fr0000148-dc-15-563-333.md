@@ -1,13 +1,13 @@
 ---
 title: "Motorola Solutions, INC. — 70Ctd023Fr0000148 (DC) $15,563,333"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/motorola-solutions-inc-70ctd023fr0000148-dc-15-563-333.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MOTOROLA SOLUTIONS, INC."
 source_count: 0
 type: "entry"

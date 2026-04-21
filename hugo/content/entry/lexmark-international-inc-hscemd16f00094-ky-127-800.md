@@ -1,13 +1,13 @@
 ---
 title: "Lexmark International, INC. — Hscemd16F00094 (KY) $127,800"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "KY"
 county: ""
 repo_path: "kb/ice-contracts/lexmark-international-inc-hscemd16f00094-ky-127-800.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LEXMARK INTERNATIONAL, INC."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Language Bank, INC. — 70Cmsd25Fc0000016 (TX) $2,788"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/language-bank-inc-70cmsd25fc0000016-tx-2-788.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

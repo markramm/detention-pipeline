@@ -1,13 +1,13 @@
 ---
 title: "Dh Technologies, INC. — 70Ctd025Fr0000070 (DC) $59,090"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/dh-technologies-inc-70ctd025fr0000070-dc-59-090.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DH TECHNOLOGIES, INC."
 source_count: 0
 type: "entry"

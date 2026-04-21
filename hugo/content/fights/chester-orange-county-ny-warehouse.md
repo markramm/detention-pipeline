@@ -3,11 +3,11 @@ title: "Orange County NY — Community opposition kills Chester warehouse (for n
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "36071"
 state: "NY"
 county: "Orange"
 repo_path: "kb/industry/county-fights/chester-orange-county-ny-warehouse.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "One of the highest-profile community victories against ICE's Detention Reengineering Initiative. Residents mobilized rapidly after DHS proposed converting a former Pep Boys distribution warehouse..."
 source_count: 1
 type: "fights"

@@ -7,7 +7,7 @@ fips: "12033"
 state: "FL"
 county: "Escambia County"
 repo_path: "kb/287g/287-g-tfm-district-board-of-trustees-of-pensacola-state-college-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and District Board of Trustees of Pensacola State College, signed September 9, 2025."
 source_count: 1
 type: "entry"

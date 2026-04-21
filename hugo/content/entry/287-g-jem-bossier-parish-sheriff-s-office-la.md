@@ -7,7 +7,7 @@ fips: "22015"
 state: "LA"
 county: "Bossier Parish"
 repo_path: "kb/287g/287-g-jem-bossier-parish-sheriff-s-office-la.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Bossier Parish Sheriff’s Office, signed February 28, 2025."
 source_count: 1
 type: "entry"

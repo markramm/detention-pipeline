@@ -1,13 +1,13 @@
 ---
 title: "BAHFED CORP — 70CMSD25FR0000043 (OR) $131,287"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "OR"
 county: ""
 repo_path: "kb/ice-contracts/bahfed-corp-70cmsd25fr0000043-or-131-287.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

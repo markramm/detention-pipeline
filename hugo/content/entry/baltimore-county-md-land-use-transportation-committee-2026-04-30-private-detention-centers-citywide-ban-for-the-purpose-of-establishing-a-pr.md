@@ -1,13 +1,13 @@
 ---
-title: "Baltimore County MD — Land Use & Transportation Committee 2026-04-30: Private Detention Centers – Citywide Ban  FOR the purpose of establishing a pr"
+title: "Baltimore County MD — Land Use & Transportation Committee 2026-04-30: Private Detention Centers – Citywide Ban FOR the purpose of establishing a pr"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "24005"
+state: "MD"
+county: "Baltimore County"
 repo_path: "kb/commission/baltimore-county-md-land-use-transportation-committee-2026-04-30-private-detention-centers-citywide-ban-for-the-purpose-of-establishing-a-pr.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

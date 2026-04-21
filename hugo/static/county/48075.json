@@ -2,14 +2,15 @@
   "fips": "48075",
   "county": "Childress County, TX",
   "state": "TX",
-  "score": 7,
-  "signal_types": 1,
-  "rank": 1029,
-  "total_counties": 1192,
-  "percentile": 14,
+  "score": 19,
+  "signal_types": 2,
+  "rank": 738,
+  "total_counties": 2019,
+  "percentile": 63,
   "coverage": "unresearched",
-  "auto_summary": "Childress County, TX shows 1 287(g) agreement.",
+  "auto_summary": "Childress County, TX shows 1 287(g) agreement, and budget distress.",
   "entry_types": {
-    "287g-agreement": 1
+    "287g-agreement": 1,
+    "budget-distress": 1
   }
 }

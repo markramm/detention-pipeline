@@ -7,7 +7,7 @@ fips: "37047"
 state: "NC"
 county: "Columbus County"
 repo_path: "kb/287g/287-g-tfm-columbus-county-sheriff-s-office-nc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Columbus County Sheriff’s Office, signed September 22, 2025."
 source_count: 1
 type: "entry"

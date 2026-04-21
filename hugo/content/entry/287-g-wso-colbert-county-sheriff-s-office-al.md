@@ -7,7 +7,7 @@ fips: "01033"
 state: "AL"
 county: "Colbert County"
 repo_path: "kb/287g/287-g-wso-colbert-county-sheriff-s-office-al.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Colbert County Sheriff’s Office, signed May 8, 2025."
 source_count: 1
 type: "entry"

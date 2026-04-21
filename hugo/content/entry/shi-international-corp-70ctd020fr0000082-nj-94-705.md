@@ -1,13 +1,13 @@
 ---
 title: "Shi International Corp — 70Ctd020Fr0000082 (NJ) $94,705"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NJ"
 county: ""
 repo_path: "kb/ice-contracts/shi-international-corp-70ctd020fr0000082-nj-94-705.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SHI INTERNATIONAL CORP"
 source_count: 0
 type: "entry"

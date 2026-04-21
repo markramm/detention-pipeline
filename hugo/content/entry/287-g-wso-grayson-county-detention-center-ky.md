@@ -7,7 +7,7 @@ fips: "21085"
 state: "KY"
 county: "Grayson County"
 repo_path: "kb/287g/287-g-wso-grayson-county-detention-center-ky.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Grayson County Detention Center, signed March 5, 2025."
 source_count: 1
 type: "entry"

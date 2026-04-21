@@ -1,13 +1,13 @@
 ---
 title: "Immixtechnology INC — 70Ctd022Fr0000015 (DC) $18,712,537"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/immixtechnology-inc-70ctd022fr0000015-dc-18-712-537.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

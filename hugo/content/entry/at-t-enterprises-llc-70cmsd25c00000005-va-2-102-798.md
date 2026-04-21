@@ -1,13 +1,13 @@
 ---
 title: "At&T Enterprises, LLC — 70Cmsd25C00000005 (VA) $2,102,798"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/at-t-enterprises-llc-70cmsd25c00000005-va-2-102-798.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AT&T ENTERPRISES, LLC"
 source_count: 0
 type: "entry"

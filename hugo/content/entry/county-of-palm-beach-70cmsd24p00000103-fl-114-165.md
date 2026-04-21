@@ -1,13 +1,13 @@
 ---
 title: "County Of Palm Beach — 70Cmsd24P00000103 (FL) $114,165"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/county-of-palm-beach-70cmsd24p00000103-fl-114-165.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COUNTY OF PALM BEACH"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "The Geo Group, INC. — 70Cdcr24Fc0000005 (GA) $489,732"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/the-geo-group-inc-70cdcr24fc0000005-ga-489-732.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

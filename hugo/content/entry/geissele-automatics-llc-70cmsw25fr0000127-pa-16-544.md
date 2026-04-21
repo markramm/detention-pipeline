@@ -1,13 +1,13 @@
 ---
 title: "Geissele Automatics LLC — 70Cmsw25Fr0000127 (PA) $16,544"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "PA"
 county: ""
 repo_path: "kb/ice-contracts/geissele-automatics-llc-70cmsw25fr0000127-pa-16-544.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GEISSELE AUTOMATICS LLC"
 source_count: 0
 type: "entry"

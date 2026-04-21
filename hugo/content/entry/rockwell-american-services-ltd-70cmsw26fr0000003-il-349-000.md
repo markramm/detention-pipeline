@@ -1,13 +1,13 @@
 ---
 title: "Rockwell American Services, Ltd. — 70Cmsw26Fr0000003 (IL) $349,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IL"
 county: ""
 repo_path: "kb/ice-contracts/rockwell-american-services-ltd-70cmsw26fr0000003-il-349-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ROCKWELL AMERICAN SERVICES, LTD."
 source_count: 0
 type: "entry"

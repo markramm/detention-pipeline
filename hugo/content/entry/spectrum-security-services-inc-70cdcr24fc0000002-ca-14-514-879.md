@@ -1,13 +1,13 @@
 ---
 title: "Spectrum Security Services, INC. — 70Cdcr24Fc0000002 (CA) $14,514,879"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/spectrum-security-services-inc-70cdcr24fc0000002-ca-14-514-879.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SPECTRUM SECURITY SERVICES, INC."
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "48343"
 state: "TX"
 county: "Morris County"
 repo_path: "kb/287g/287-g-tfm-morris-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Morris County Sheriff’s Office, signed December 2, 2025."
 source_count: 1
 type: "entry"

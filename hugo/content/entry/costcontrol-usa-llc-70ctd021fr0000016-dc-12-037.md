@@ -1,13 +1,13 @@
 ---
 title: "Costcontrol Usa, LLC — 70Ctd021Fr0000016 (DC) $12,037"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/costcontrol-usa-llc-70ctd021fr0000016-dc-12-037.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COSTCONTROL USA, LLC"
 source_count: 0
 type: "entry"

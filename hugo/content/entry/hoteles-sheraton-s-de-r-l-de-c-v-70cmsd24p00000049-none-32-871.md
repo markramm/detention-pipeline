@@ -1,13 +1,13 @@
 ---
 title: "Hoteles Sheraton, S. DE R.L. DE C.V. — 70Cmsd24P00000049 (None) $32,871"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "US"
 county: ""
 repo_path: "kb/ice-contracts/hoteles-sheraton-s-de-r-l-de-c-v-70cmsd24p00000049-none-32-871.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HOTELES SHERATON, S. DE R.L. DE C.V."
 source_count: 0
 type: "entry"

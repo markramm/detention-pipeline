@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Board Of Commissioners 2025-10-23: Proposed Substitute To File #25-4222\N\Nresolution To Assess Needs And Improve The"
+title: "Cook County County IL — Board Of Commissioners 2025-10-23: Proposed Substitute To File #25-4222 resolution To Assess Needs And Improve The"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "17031"
+state: "IL"
+county: "Cook County"
 repo_path: "kb/commission/cook-county-county-il-board-of-commissioners-2025-10-23-proposed-substitute-to-file-25-4222-resolution-to-assess-needs-and-improve-the.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

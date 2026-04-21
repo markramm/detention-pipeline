@@ -1,13 +1,13 @@
 ---
 title: "Deloitte Consulting Llp — 70Cmsd19Fr0000029 (DC) $10,403,082"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/deloitte-consulting-llp-70cmsd19fr0000029-dc-10-403-082.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DELOITTE CONSULTING LLP"
 source_count: 0
 type: "entry"

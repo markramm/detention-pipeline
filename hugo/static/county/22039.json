@@ -2,15 +2,15 @@
   "fips": "22039",
   "county": "Evangeline Parish, LA",
   "state": "LA",
-  "score": 64,
+  "score": 73,
   "signal_types": 3,
-  "rank": 46,
-  "total_counties": 1192,
-  "percentile": 96,
+  "rank": 53,
+  "total_counties": 2019,
+  "percentile": 97,
   "coverage": "unresearched",
   "auto_summary": "Evangeline Parish, LA shows 2 existing IGSA facilities, and budget distress.",
   "entry_types": {
-    "budget-distress": 1,
+    "budget-distress": 2,
     "igsa": 2,
     "facility": 2
   }

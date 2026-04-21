@@ -1,13 +1,13 @@
 ---
 title: "Bi2 Technologies, LLC — 70Ctd025C00000001 (DC) $4,575,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/bi2-technologies-llc-70ctd025c00000001-dc-4-575-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: BI2 TECHNOLOGIES, LLC"
 source_count: 0
 type: "entry"

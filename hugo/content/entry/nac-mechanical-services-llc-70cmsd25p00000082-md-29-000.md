@@ -1,13 +1,13 @@
 ---
 title: "Nac Mechanical Services, LLC — 70Cmsd25P00000082 (MD) $29,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/nac-mechanical-services-llc-70cmsd25p00000082-md-29-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: NAC MECHANICAL SERVICES, LLC"
 source_count: 0
 type: "entry"

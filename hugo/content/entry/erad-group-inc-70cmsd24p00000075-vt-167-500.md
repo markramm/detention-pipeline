@@ -1,13 +1,13 @@
 ---
 title: "ERAD GROUP, INC. — 70CMSD24P00000075 (VT) $167,500"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VT"
 county: ""
 repo_path: "kb/ice-contracts/erad-group-inc-70cmsd24p00000075-vt-167-500.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

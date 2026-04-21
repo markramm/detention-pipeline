@@ -4,9 +4,9 @@
   "state": "CO",
   "score": 46,
   "signal_types": 2,
-  "rank": 119,
-  "total_counties": 1192,
-  "percentile": 90,
+  "rank": 183,
+  "total_counties": 2019,
+  "percentile": 91,
   "coverage": "unresearched",
   "auto_summary": "El Paso County, CO shows 2 existing IGSA facilities, and 2 ANC contracts.",
   "entry_types": {

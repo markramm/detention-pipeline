@@ -1,13 +1,13 @@
 ---
 title: "Regan Technologies Corp — 70Cmsd25Fr0000064 (CT) $43,080"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CT"
 county: ""
 repo_path: "kb/ice-contracts/regan-technologies-corp-70cmsd25fr0000064-ct-43-080.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: REGAN TECHNOLOGIES CORP"
 source_count: 0
 type: "entry"

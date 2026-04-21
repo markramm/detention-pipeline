@@ -1,13 +1,13 @@
 ---
 title: "Ets-Lindgren INC — 70Cmsw25C00000015 (IL) $110,400"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IL"
 county: ""
 repo_path: "kb/ice-contracts/ets-lindgren-inc-70cmsw25c00000015-il-110-400.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

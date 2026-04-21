@@ -1,13 +1,13 @@
 ---
 title: "Lafayette Instrument Company, LLC — 70Cmsd24P00000083 (IN) $19,140"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IN"
 county: ""
 repo_path: "kb/ice-contracts/lafayette-instrument-company-llc-70cmsd24p00000083-in-19-140.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LAFAYETTE INSTRUMENT COMPANY, LLC"
 source_count: 0
 type: "entry"

@@ -1,0 +1,15 @@
+{
+  "fips": "37051",
+  "county": "Cumberland County, NC",
+  "state": "NC",
+  "score": 21,
+  "signal_types": 1,
+  "rank": 630,
+  "total_counties": 2019,
+  "percentile": 69,
+  "coverage": "partially-researched",
+  "auto_summary": "Cumberland County, NC shows commission activity.",
+  "entry_types": {
+    "commission-activity": 2
+  }
+}

@@ -1,13 +1,13 @@
 ---
 title: "Wildflower International, Ltd. — 70Ctd025Fr0000112 (DC) $606,997"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/wildflower-international-ltd-70ctd025fr0000112-dc-606-997.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: WILDFLOWER INTERNATIONAL, LTD."
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "42005"
 state: "PA"
 county: "Armstrong County"
 repo_path: "kb/287g/287-g-tfm-kittanning-borough-police-department-pa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Kittanning Borough Police Department, signed January 8, 2026."
 source_count: 1
 type: "entry"

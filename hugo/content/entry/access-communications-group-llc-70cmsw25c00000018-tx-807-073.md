@@ -1,13 +1,13 @@
 ---
 title: "Access Communications Group, LLC — 70Cmsw25C00000018 (TX) $807,073"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/access-communications-group-llc-70cmsw25c00000018-tx-807-073.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ACCESS COMMUNICATIONS GROUP, LLC"
 source_count: 0
 type: "entry"

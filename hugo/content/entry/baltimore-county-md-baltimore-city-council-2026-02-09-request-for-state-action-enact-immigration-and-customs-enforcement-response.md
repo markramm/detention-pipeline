@@ -1,13 +1,13 @@
 ---
-title: "Baltimore County MD — Baltimore City Council 2026-02-09: Request for State Action – Enact Immigration and Customs Enforcement  Response "
+title: "Baltimore County MD — Baltimore City Council 2026-02-09: Request for State Action – Enact Immigration and Customs Enforcement Response"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "24005"
+state: "MD"
+county: "Baltimore County"
 repo_path: "kb/commission/baltimore-county-md-baltimore-city-council-2026-02-09-request-for-state-action-enact-immigration-and-customs-enforcement-response.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

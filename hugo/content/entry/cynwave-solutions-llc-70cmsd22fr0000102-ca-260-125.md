@@ -1,13 +1,13 @@
 ---
 title: "Cynwave Solutions, LLC — 70Cmsd22Fr0000102 (CA) $260,125"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/cynwave-solutions-llc-70cmsd22fr0000102-ca-260-125.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CYNWAVE SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

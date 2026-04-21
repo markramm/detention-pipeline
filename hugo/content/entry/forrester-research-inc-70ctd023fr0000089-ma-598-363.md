@@ -1,13 +1,13 @@
 ---
 title: "Forrester Research, INC. — 70Ctd023Fr0000089 (Ma) $598,363"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MA"
 county: ""
 repo_path: "kb/ice-contracts/forrester-research-inc-70ctd023fr0000089-ma-598-363.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FORRESTER RESEARCH, INC."
 source_count: 0
 type: "entry"

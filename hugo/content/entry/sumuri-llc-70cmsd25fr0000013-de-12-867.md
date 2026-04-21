@@ -1,13 +1,13 @@
 ---
 title: "SUMURI LLC — 70CMSD25FR0000013 (DE) $12,867"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DE"
 county: ""
 repo_path: "kb/ice-contracts/sumuri-llc-70cmsd25fr0000013-de-12-867.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

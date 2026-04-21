@@ -1,13 +1,13 @@
 ---
 title: "Holitna Construction, LLC — 70Cmsw26Fr0000023 (ID) $33,762"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "ID"
 county: ""
 repo_path: "kb/ice-contracts/holitna-construction-llc-70cmsw26fr0000023-id-33-762.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HOLITNA CONSTRUCTION, LLC"
 source_count: 0
 type: "entry"

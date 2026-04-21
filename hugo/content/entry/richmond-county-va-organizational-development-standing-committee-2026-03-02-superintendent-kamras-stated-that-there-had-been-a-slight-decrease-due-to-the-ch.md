@@ -1,13 +1,13 @@
 ---
-title: "Richmond County VA — Organizational Development Standing Committee  2026-03-02: Superintendent Kamras stated that there had been a slight decrease due to the ch"
+title: "Richmond County VA — Organizational Development Standing Committee 2026-03-02: Superintendent Kamras stated that there had been a slight decrease due to the ch"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "51159"
+state: "VA"
+county: "Richmond County"
 repo_path: "kb/commission/richmond-county-va-organizational-development-standing-committee-2026-03-02-superintendent-kamras-stated-that-there-had-been-a-slight-decrease-due-to-the-ch.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

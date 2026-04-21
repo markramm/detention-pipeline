@@ -1,13 +1,13 @@
 ---
 title: "Stephen Paul Mangum — 70Cmsd25P00000133 (VA) $82,690"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/stephen-paul-mangum-70cmsd25p00000133-va-82-690.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

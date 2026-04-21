@@ -1,0 +1,15 @@
+{
+  "fips": "54025",
+  "county": "Greenbrier County, WV",
+  "state": "WV",
+  "score": 13,
+  "signal_types": 1,
+  "rank": 922,
+  "total_counties": 2019,
+  "percentile": 54,
+  "coverage": "unresearched",
+  "auto_summary": "Greenbrier County, WV shows 1 287(g) agreement.",
+  "entry_types": {
+    "287g-agreement": 1
+  }
+}

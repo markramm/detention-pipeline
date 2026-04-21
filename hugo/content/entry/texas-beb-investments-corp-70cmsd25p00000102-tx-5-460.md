@@ -1,13 +1,13 @@
 ---
 title: "Texas Beb Investments Corp — 70Cmsd25P00000102 (TX) $5,460"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/texas-beb-investments-corp-70cmsd25p00000102-tx-5-460.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TEXAS BEB INVESTMENTS CORP"
 source_count: 0
 type: "entry"

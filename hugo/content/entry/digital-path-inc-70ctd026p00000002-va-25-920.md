@@ -1,13 +1,13 @@
 ---
 title: "DIGITAL PATH INC — 70CTD026P00000002 (VA) $25,920"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/digital-path-inc-70ctd026p00000002-va-25-920.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

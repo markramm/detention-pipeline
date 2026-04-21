@@ -1,13 +1,13 @@
 ---
 title: "Avaya Federal Solutions, INC. — 70Ctd025Fc0000042 (FL) $4,417"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/avaya-federal-solutions-inc-70ctd025fc0000042-fl-4-417.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AVAYA FEDERAL SOLUTIONS, INC."
 source_count: 0
 type: "entry"

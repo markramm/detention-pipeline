@@ -1,13 +1,13 @@
 ---
 title: "The Rand Corporation — 70Cmsw23Fr0000096 (DC) $2,276,600"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/the-rand-corporation-70cmsw23fr0000096-dc-2-276-600.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THE RAND CORPORATION"
 source_count: 0
 type: "entry"

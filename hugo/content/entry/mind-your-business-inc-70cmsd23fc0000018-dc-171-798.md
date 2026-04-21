@@ -1,13 +1,13 @@
 ---
 title: "Mind Your Business INC — 70Cmsd23Fc0000018 (DC) $171,798"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/mind-your-business-inc-70cmsd23fc0000018-dc-171-798.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MIND YOUR BUSINESS INC"
 source_count: 0
 type: "entry"

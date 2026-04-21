@@ -7,7 +7,7 @@ fips: "12033"
 state: "FL"
 county: "Escambia County"
 repo_path: "kb/287g/287-g-wso-escambia-county-board-of-county-commissioners-department-of-corrections-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Escambia County Board of County Commissioners/ Department of Corrections, signed February 26, 2025."
 source_count: 1
 type: "entry"

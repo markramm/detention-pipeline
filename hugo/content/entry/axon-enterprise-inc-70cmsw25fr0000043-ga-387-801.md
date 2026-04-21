@@ -1,13 +1,13 @@
 ---
 title: "Axon Enterprise, INC. — 70Cmsw25Fr0000043 (GA) $387,801"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/axon-enterprise-inc-70cmsw25fr0000043-ga-387-801.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AXON ENTERPRISE, INC."
 source_count: 0
 type: "entry"

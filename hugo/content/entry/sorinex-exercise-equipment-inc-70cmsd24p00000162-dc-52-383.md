@@ -1,13 +1,13 @@
 ---
 title: "Sorinex Exercise Equipment INC — 70Cmsd24P00000162 (DC) $52,383"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/sorinex-exercise-equipment-inc-70cmsd24p00000162-dc-52-383.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SORINEX EXERCISE EQUIPMENT INC"
 source_count: 0
 type: "entry"

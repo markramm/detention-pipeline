@@ -7,7 +7,7 @@ fips: "56021"
 state: "WY"
 county: "Laramie County"
 repo_path: "kb/287g/287-g-tfm-laramie-county-sheriff-s-office-wy.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Laramie County Sheriff’s Office, signed June 11, 2025."
 source_count: 1
 type: "entry"

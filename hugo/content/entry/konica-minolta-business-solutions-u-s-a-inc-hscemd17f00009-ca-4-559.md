@@ -1,13 +1,13 @@
 ---
 title: "Konica Minolta Business Solutions U.S.A, INC. — Hscemd17F00009 (CA) $4,559"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/konica-minolta-business-solutions-u-s-a-inc-hscemd17f00009-ca-4-559.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: KONICA MINOLTA BUSINESS SOLUTIONS U.S.A, INC."
 source_count: 0
 type: "entry"

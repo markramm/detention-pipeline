@@ -1,13 +1,13 @@
 ---
 title: "Coho Construction Management LLC — 70Cmsw25C00000021 (WI) $2,601,212"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "WI"
 county: ""
 repo_path: "kb/ice-contracts/coho-construction-management-llc-70cmsw25c00000021-wi-2-601-212.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COHO CONSTRUCTION MANAGEMENT LLC"
 source_count: 0
 type: "entry"

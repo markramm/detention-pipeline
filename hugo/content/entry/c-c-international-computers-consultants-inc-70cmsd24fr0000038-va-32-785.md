@@ -1,13 +1,13 @@
 ---
 title: "C & C International Computers & Consultants, INC. — 70Cmsd24Fr0000038 (VA) $32,785"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/c-c-international-computers-consultants-inc-70cmsd24fr0000038-va-32-785.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: C & C INTERNATIONAL COMPUTERS & CONSULTANTS, INC."
 source_count: 0
 type: "entry"

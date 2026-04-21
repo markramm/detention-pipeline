@@ -1,13 +1,13 @@
 ---
 title: "Keyway Locksmith INC — 70Cmsd25P00000022 (DC) $6,500"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/keyway-locksmith-inc-70cmsd25p00000022-dc-6-500.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: KEYWAY LOCKSMITH INC"
 source_count: 0
 type: "entry"

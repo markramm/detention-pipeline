@@ -7,7 +7,7 @@ fips: "37027"
 state: "NC"
 county: "Caldwell County"
 repo_path: "kb/287g/287-g-wso-caldwell-county-sheriff-s-office-nc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Caldwell County Sheriff’s Office, signed March 19, 2020."
 source_count: 1
 type: "entry"

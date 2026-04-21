@@ -1,13 +1,13 @@
 ---
 title: "Bialek Corporation Of Maryland — 70Cmsw25Fc0000030 (MD) $516,266"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/bialek-corporation-of-maryland-70cmsw25fc0000030-md-516-266.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: BIALEK CORPORATION OF MARYLAND"
 source_count: 0
 type: "entry"

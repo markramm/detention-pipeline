@@ -1,13 +1,13 @@
 ---
 title: "Life Safety Group, LLC — 70Cdcr19P00000080 (TX) $96,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/life-safety-group-llc-70cdcr19p00000080-tx-96-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LIFE SAFETY GROUP, LLC"
 source_count: 0
 type: "entry"

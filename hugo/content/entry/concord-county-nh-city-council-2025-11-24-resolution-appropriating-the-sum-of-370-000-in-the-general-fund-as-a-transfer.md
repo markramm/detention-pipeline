@@ -1,13 +1,13 @@
 ---
-title: "Concord County NH — City Council 2025-11-24: Resolution appropriating the sum of $370,000, in the General Fund as a transfer "
+title: "Concord County NH — City Council 2025-11-24: Resolution appropriating the sum of $370,000, in the General Fund as a transfer"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "33013"
+state: "NH"
+county: "Merrimack County"
 repo_path: "kb/commission/concord-county-nh-city-council-2025-11-24-resolution-appropriating-the-sum-of-370-000-in-the-general-fund-as-a-transfer.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "13113"
 state: "GA"
 county: "Fayette County"
 repo_path: "kb/287g/287-g-wso-fayette-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Fayette County Sheriff’s Office, signed September 9, 2025."
 source_count: 1
 type: "entry"

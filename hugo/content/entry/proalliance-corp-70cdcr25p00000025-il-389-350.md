@@ -1,13 +1,13 @@
 ---
 title: "Proalliance Corp — 70Cdcr25P00000025 (IL) $389,350"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IL"
 county: ""
 repo_path: "kb/ice-contracts/proalliance-corp-70cdcr25p00000025-il-389-350.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

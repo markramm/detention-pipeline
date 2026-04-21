@@ -1,13 +1,13 @@
 ---
 title: "Strategic Resources, Incorporated — 70Cmsd23Fc0000027 (DC)"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/strategic-resources-incorporated-70cmsd23fc0000027-dc.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: STRATEGIC RESOURCES, INCORPORATED"
 source_count: 0
 type: "entry"

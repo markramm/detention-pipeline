@@ -1,13 +1,13 @@
 ---
 title: "Ensign-Bickford Aerospace & Defense Company — 70Cmsd24P00000168 (DC) $81,728"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/ensign-bickford-aerospace-defense-company-70cmsd24p00000168-dc-81-728.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ENSIGN-BICKFORD AEROSPACE & DEFENSE COMPANY"
 source_count: 0
 type: "entry"

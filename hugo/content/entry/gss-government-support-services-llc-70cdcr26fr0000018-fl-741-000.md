@@ -1,13 +1,13 @@
 ---
 title: "Gss - Government Support Services LLC — 70Cdcr26Fr0000018 (FL) $741,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/gss-government-support-services-llc-70cdcr26fr0000018-fl-741-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GSS - GOVERNMENT SUPPORT SERVICES LLC"
 source_count: 0
 type: "entry"

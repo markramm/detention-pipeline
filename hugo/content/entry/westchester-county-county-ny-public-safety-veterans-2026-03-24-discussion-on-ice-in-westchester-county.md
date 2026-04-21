@@ -1,13 +1,13 @@
 ---
-title: "Westchester County County NY — Public Safety & Veterans 2026-03-24: Discussion on ICE in Westchester County   "
+title: "Westchester County County NY — Public Safety & Veterans 2026-03-24: Discussion on ICE in Westchester County"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "36119"
+state: "NY"
+county: "Westchester County"
 repo_path: "kb/commission/westchester-county-county-ny-public-safety-veterans-2026-03-24-discussion-on-ice-in-westchester-county.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

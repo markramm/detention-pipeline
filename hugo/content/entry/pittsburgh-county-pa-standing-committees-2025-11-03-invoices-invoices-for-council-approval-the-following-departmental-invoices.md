@@ -1,13 +1,13 @@
 ---
-title: "Pittsburgh County PA — Standing Committees 2025-11-03: INVOICES  INVOICES FOR COUNCIL APPROVAL  The following departmental invoices"
+title: "Pittsburgh County PA — Standing Committees 2025-11-03: INVOICES INVOICES FOR COUNCIL APPROVAL The following departmental invoices"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "42003"
+state: "PA"
+county: "Allegheny County"
 repo_path: "kb/commission/pittsburgh-county-pa-standing-committees-2025-11-03-invoices-invoices-for-council-approval-the-following-departmental-invoices.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

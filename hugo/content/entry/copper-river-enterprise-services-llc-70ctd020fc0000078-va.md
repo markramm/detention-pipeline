@@ -1,13 +1,13 @@
 ---
 title: "Copper River Enterprise Services, LLC — 70Ctd020Fc0000078 (VA)"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/copper-river-enterprise-services-llc-70ctd020fc0000078-va.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COPPER RIVER ENTERPRISE SERVICES, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Capgemini Government Solutions LLC — 70Cdcr18Fc0000021 (VA) $50,880,905"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/capgemini-government-solutions-llc-70cdcr18fc0000021-va-50-880-905.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CAPGEMINI GOVERNMENT SOLUTIONS LLC"
 source_count: 0
 type: "entry"

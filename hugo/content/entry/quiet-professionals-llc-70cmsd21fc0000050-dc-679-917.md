@@ -1,13 +1,13 @@
 ---
 title: "Quiet Professionals, LLC — 70Cmsd21Fc0000050 (DC) $679,917"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/quiet-professionals-llc-70cmsd21fc0000050-dc-679-917.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: QUIET PROFESSIONALS, LLC"
 source_count: 0
 type: "entry"

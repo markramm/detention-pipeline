@@ -1,13 +1,13 @@
 ---
 title: "Edgesource Corporation — 70Cmsd25P00000095 (DC) $515,611"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/edgesource-corporation-70cmsd25p00000095-dc-515-611.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: EDGESOURCE CORPORATION"
 source_count: 0
 type: "entry"

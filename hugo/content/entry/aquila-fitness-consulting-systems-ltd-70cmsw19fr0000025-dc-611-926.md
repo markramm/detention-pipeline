@@ -1,13 +1,13 @@
 ---
 title: "Aquila Fitness Consulting Systems Ltd — 70Cmsw19Fr0000025 (DC) $611,926"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/aquila-fitness-consulting-systems-ltd-70cmsw19fr0000025-dc-611-926.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AQUILA FITNESS CONSULTING SYSTEMS LTD"
 source_count: 0
 type: "entry"

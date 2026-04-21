@@ -3,11 +3,11 @@ title: "Farmville Detention Center — Prince Edward County VA (CoreCivic, forme
 entry_type: "facility"
 signal_label: "Facility"
 signal_color: "#c93b3b"
-fips: ""
+fips: "51147"
 state: "VA"
 county: "Prince Edward"
 repo_path: "kb/industry/facilities/farmville-detention-center-va.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "The Farmville Detention Center in Prince Edward County, Virginia is a 732-bed ICE detention facility that was acquired by CoreCivic on July 1, 2025 for $71.4 million from Immigration Centers of..."
 source_count: 4
 layout: "single"

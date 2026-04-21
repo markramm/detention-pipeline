@@ -1,13 +1,13 @@
 ---
 title: "Technical And Project Engineering, LLC — 70Ctd020Fr0000190 (DC) $991,219"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/technical-and-project-engineering-llc-70ctd020fr0000190-dc-991-219.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TECHNICAL AND PROJECT ENGINEERING, LLC"
 source_count: 0
 type: "entry"

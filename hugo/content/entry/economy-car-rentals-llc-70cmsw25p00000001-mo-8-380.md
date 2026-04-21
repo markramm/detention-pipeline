@@ -1,13 +1,13 @@
 ---
 title: "Economy Car Rentals LLC — 70Cmsw25P00000001 (MO) $8,380"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MO"
 county: ""
 repo_path: "kb/ice-contracts/economy-car-rentals-llc-70cmsw25p00000001-mo-8-380.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ECONOMY CAR RENTALS LLC"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "48413"
 state: "TX"
 county: "Schleicher County"
 repo_path: "kb/287g/287-g-wso-schleicher-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Schleicher County Sheriff’s Office, signed April 2, 2025."
 source_count: 1
 type: "entry"

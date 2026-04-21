@@ -1,13 +1,13 @@
 ---
 title: "The Arora Group, INC. — 70Cdcr24Fr0000035 (LA) $54,308,292"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "LA"
 county: ""
 repo_path: "kb/ice-contracts/the-arora-group-inc-70cdcr24fr0000035-la-54-308-292.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THE ARORA GROUP, INC."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Laboratory Corporation Of America — 70Cdcr24Fc0000006 (NC)"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NC"
 county: ""
 repo_path: "kb/ice-contracts/laboratory-corporation-of-america-70cdcr24fc0000006-nc.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LABORATORY CORPORATION OF AMERICA"
 source_count: 0
 type: "entry"

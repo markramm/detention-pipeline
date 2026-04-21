@@ -1,13 +1,13 @@
 ---
 title: "Kore 125 John Carpenter LLC — 70Cmsd24P00000020 (TX) $17,400"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/kore-125-john-carpenter-llc-70cmsd24p00000020-tx-17-400.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: KORE 125 JOHN CARPENTER LLC"
 source_count: 0
 type: "entry"

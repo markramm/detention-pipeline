@@ -1,13 +1,13 @@
 ---
 title: "Cynwave Solutions, LLC — 70Cmsd23Fr0000123 (UT) $100,491"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "UT"
 county: ""
 repo_path: "kb/ice-contracts/cynwave-solutions-llc-70cmsd23fr0000123-ut-100-491.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CYNWAVE SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

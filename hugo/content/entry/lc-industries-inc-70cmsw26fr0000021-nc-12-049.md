@@ -1,13 +1,13 @@
 ---
 title: "Lc Industries INC — 70Cmsw26Fr0000021 (NC) $12,049"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NC"
 county: ""
 repo_path: "kb/ice-contracts/lc-industries-inc-70cmsw26fr0000021-nc-12-049.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

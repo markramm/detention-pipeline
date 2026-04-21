@@ -1,13 +1,13 @@
 ---
 title: "Cartridge Technologies, LLC — 70Cmsd22P00000120 (TX) $12,658"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/cartridge-technologies-llc-70cmsd22p00000120-tx-12-658.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CARTRIDGE TECHNOLOGIES, LLC"
 source_count: 0
 type: "entry"

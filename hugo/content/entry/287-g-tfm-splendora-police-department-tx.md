@@ -7,7 +7,7 @@ fips: ""
 state: "TX"
 county: ""
 repo_path: "kb/287g/287-g-tfm-splendora-police-department-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Splendora Police Department, signed June 13, 2025."
 source_count: 1
 type: "entry"

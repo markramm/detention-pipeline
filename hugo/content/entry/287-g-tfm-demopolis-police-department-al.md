@@ -7,7 +7,7 @@ fips: "01091"
 state: "AL"
 county: "Marengo County"
 repo_path: "kb/287g/287-g-tfm-demopolis-police-department-al.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Demopolis Police Department, signed January 26, 2026."
 source_count: 1
 type: "entry"

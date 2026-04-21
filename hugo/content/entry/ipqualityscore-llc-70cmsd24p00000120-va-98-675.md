@@ -1,13 +1,13 @@
 ---
 title: "Ipqualityscore, LLC — 70Cmsd24P00000120 (VA) $98,675"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/ipqualityscore-llc-70cmsd24p00000120-va-98-675.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
-title: "Alameda County County CA — City Council 2025-10-21: Adoption of Resolution Authorizing the City Attorney to Negotiate and Execute a "
+title: "Alameda County County CA — City Council 2025-10-21: Adoption of Resolution Authorizing the City Attorney to Negotiate and Execute a"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "06001"
+state: "CA"
+county: "Alameda County"
 repo_path: "kb/commission/alameda-county-county-ca-city-council-2025-10-21-adoption-of-resolution-authorizing-the-city-attorney-to-negotiate-and-execute-a.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

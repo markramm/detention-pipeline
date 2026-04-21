@@ -1,13 +1,13 @@
 ---
 title: "Aquila Fitness Consulting Systems Ltd — 70Cmsw24Fr0000043 (FL) $246,208"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/aquila-fitness-consulting-systems-ltd-70cmsw24fr0000043-fl-246-208.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AQUILA FITNESS CONSULTING SYSTEMS LTD"
 source_count: 0
 type: "entry"

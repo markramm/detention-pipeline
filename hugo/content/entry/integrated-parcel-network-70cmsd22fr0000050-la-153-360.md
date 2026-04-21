@@ -1,13 +1,13 @@
 ---
 title: "Integrated Parcel Network — 70Cmsd22Fr0000050 (LA) $153,360"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "LA"
 county: ""
 repo_path: "kb/ice-contracts/integrated-parcel-network-70cmsd22fr0000050-la-153-360.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: INTEGRATED PARCEL NETWORK"
 source_count: 0
 type: "entry"

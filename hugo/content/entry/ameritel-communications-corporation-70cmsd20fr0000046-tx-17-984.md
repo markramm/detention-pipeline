@@ -1,13 +1,13 @@
 ---
 title: "Ameritel Communications Corporation — 70Cmsd20Fr0000046 (TX) $17,984"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/ameritel-communications-corporation-70cmsd20fr0000046-tx-17-984.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AMERITEL COMMUNICATIONS CORPORATION"
 source_count: 0
 type: "entry"

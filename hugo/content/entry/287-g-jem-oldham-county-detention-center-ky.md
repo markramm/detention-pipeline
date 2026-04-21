@@ -7,7 +7,7 @@ fips: "21185"
 state: "KY"
 county: "Oldham County"
 repo_path: "kb/287g/287-g-jem-oldham-county-detention-center-ky.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Oldham County Detention Center, signed March 10, 2025."
 source_count: 1
 type: "entry"

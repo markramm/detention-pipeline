@@ -1,13 +1,13 @@
 ---
 title: "BLUE TECH INC. — 70CMSD25FR0000152 (CA) $59,597"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/blue-tech-inc-70cmsd25fr0000152-ca-59-597.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

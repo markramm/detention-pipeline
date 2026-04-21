@@ -1,13 +1,13 @@
 ---
 title: "Price Modern LLC — 70Cmsw26Fc0000018 (MD) $99,991"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/price-modern-llc-70cmsw26fc0000018-md-99-991.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Frontline Marketing, LLC — 70Cmsw23P00000023 (TX) $22,912"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/frontline-marketing-llc-70cmsw23p00000023-tx-22-912.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FRONTLINE MARKETING, LLC"
 source_count: 0
 type: "entry"

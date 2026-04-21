@@ -1,13 +1,13 @@
 ---
 title: "National Law Enforcement Telecommunication System (Nlets), INC — 70Ctd020P00000014 (AZ) $436,192"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/national-law-enforcement-telecommunication-system-nlets-inc-70ctd020p00000014-az-436-192.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: NATIONAL LAW ENFORCEMENT TELECOMMUNICATION SYSTEM (NLETS), INC"
 source_count: 0
 type: "entry"

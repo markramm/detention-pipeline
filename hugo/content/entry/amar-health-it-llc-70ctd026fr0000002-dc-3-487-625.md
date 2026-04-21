@@ -1,13 +1,13 @@
 ---
 title: "Amar Health It, LLC — 70Ctd026Fr0000002 (DC) $3,487,625"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/amar-health-it-llc-70ctd026fr0000002-dc-3-487-625.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

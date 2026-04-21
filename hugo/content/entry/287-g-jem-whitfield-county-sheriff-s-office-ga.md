@@ -7,7 +7,7 @@ fips: "13313"
 state: "GA"
 county: "Whitfield County"
 repo_path: "kb/287g/287-g-jem-whitfield-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Whitfield County Sheriff’s Office, signed June 9, 2020."
 source_count: 1
 type: "entry"

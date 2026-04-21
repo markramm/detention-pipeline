@@ -1,13 +1,13 @@
 ---
 title: "Eg&R Engineering Pc — 70Cmsw24C00000021 (TX) $1,545,910"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/eg-r-engineering-pc-70cmsw24c00000021-tx-1-545-910.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

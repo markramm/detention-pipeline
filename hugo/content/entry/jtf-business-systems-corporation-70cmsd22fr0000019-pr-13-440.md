@@ -1,13 +1,13 @@
 ---
 title: "Jtf Business Systems Corporation — 70Cmsd22Fr0000019 (Pr) $13,440"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "PR"
 county: ""
 repo_path: "kb/ice-contracts/jtf-business-systems-corporation-70cmsd22fr0000019-pr-13-440.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: JTF BUSINESS SYSTEMS CORPORATION"
 source_count: 0
 type: "entry"

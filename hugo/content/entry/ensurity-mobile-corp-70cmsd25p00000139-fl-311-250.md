@@ -1,13 +1,13 @@
 ---
 title: "Ensurity Mobile Corp. — 70Cmsd25P00000139 (FL) $311,250"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/ensurity-mobile-corp-70cmsd25p00000139-fl-311-250.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ENSURITY MOBILE CORP."
 source_count: 0
 type: "entry"

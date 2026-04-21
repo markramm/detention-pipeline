@@ -1,13 +1,13 @@
 ---
 title: "Aircraft Transport Services, INC. — 70Cdcr20Fr0000057 (DC) $60,775,016"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/aircraft-transport-services-inc-70cdcr20fr0000057-dc-60-775-016.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AIRCRAFT TRANSPORT SERVICES, INC."
 source_count: 0
 type: "entry"

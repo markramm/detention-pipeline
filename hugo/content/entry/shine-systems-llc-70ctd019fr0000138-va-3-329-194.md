@@ -1,13 +1,13 @@
 ---
 title: "Shine Systems, LLC — 70Ctd019Fr0000138 (VA) $3,329,194"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/shine-systems-llc-70ctd019fr0000138-va-3-329-194.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

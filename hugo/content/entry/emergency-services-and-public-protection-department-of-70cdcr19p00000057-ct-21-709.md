@@ -1,13 +1,13 @@
 ---
 title: "Emergency Services And Public Protection, Department Of — 70Cdcr19P00000057 (CT) $21,709"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CT"
 county: ""
 repo_path: "kb/ice-contracts/emergency-services-and-public-protection-department-of-70cdcr19p00000057-ct-21-709.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: EMERGENCY SERVICES AND PUBLIC PROTECTION, DEPARTMENT OF"
 source_count: 0
 type: "entry"

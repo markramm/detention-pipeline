@@ -1,13 +1,13 @@
 ---
 title: "Lenco Industries, INC. — 70Cmsd25P00000031 (Ma) $10,822"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MA"
 county: ""
 repo_path: "kb/ice-contracts/lenco-industries-inc-70cmsd25p00000031-ma-10-822.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LENCO INDUSTRIES, INC."
 source_count: 0
 type: "entry"

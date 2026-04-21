@@ -1,13 +1,13 @@
 ---
 title: "Safe America Media LLC — 70Cmsw25Fr0000082 (VA) $15,000,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/safe-america-media-llc-70cmsw25fr0000082-va-15-000-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SAFE AMERICA MEDIA LLC"
 source_count: 0
 type: "entry"

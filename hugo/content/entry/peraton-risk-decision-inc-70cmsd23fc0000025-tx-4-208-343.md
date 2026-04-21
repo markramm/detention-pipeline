@@ -1,13 +1,13 @@
 ---
 title: "Peraton Risk Decision INC. — 70Cmsd23Fc0000025 (TX) $4,208,343"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/peraton-risk-decision-inc-70cmsd23fc0000025-tx-4-208-343.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PERATON RISK DECISION INC."
 source_count: 0
 type: "entry"

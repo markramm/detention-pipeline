@@ -1,13 +1,13 @@
 ---
 title: "Phaeton Solutions LLC — 70Cmsd24P00000152 (VA) $330,711"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/phaeton-solutions-llc-70cmsd24p00000152-va-330-711.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PHAETON SOLUTIONS LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Sos International LLC — 70Cdcr25Fr0000065 (VA) $250"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/sos-international-llc-70cdcr25fr0000065-va-250.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SOS INTERNATIONAL LLC"
 source_count: 0
 type: "entry"

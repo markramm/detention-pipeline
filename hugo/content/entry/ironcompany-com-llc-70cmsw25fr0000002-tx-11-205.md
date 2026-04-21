@@ -1,13 +1,13 @@
 ---
 title: "Ironcompany.Com, LLC — 70Cmsw25Fr0000002 (TX) $11,205"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/ironcompany-com-llc-70cmsw25fr0000002-tx-11-205.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: IRONCOMPANY.COM, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Standard-Blazar, LLC — 70Cmsd25Fr0000038 (VA) $23,012"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/standard-blazar-llc-70cmsd25fr0000038-va-23-012.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: STANDARD-BLAZAR, LLC"
 source_count: 0
 type: "entry"

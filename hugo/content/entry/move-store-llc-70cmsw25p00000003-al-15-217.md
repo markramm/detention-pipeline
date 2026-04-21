@@ -1,13 +1,13 @@
 ---
 title: "MOVE & STORE LLC — 70CMSW25P00000003 (AL) $15,217"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AL"
 county: ""
 repo_path: "kb/ice-contracts/move-store-llc-70cmsw25p00000003-al-15-217.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

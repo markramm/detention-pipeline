@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Finance Committee 2026-03-11: PROPOSED INTERGOVERNMENTAL AGREEMENT  Department:  Bureau of Economic Developm"
+title: "Cook County County IL — Finance Committee 2026-03-11: PROPOSED INTERGOVERNMENTAL AGREEMENT Department: Bureau of Economic Developm"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "17031"
+state: "IL"
+county: "Cook County"
 repo_path: "kb/commission/cook-county-county-il-finance-committee-2026-03-11-proposed-intergovernmental-agreement-department-bureau-of-economic-developm.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

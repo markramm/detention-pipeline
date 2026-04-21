@@ -7,7 +7,7 @@ fips: "29077"
 state: "MO"
 county: "Greene County"
 repo_path: "kb/287g/287-g-tfm-walnut-grove-police-department-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Walnut Grove Police Department, signed December 2, 2025."
 source_count: 1
 type: "entry"

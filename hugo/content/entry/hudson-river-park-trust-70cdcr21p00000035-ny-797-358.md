@@ -1,13 +1,13 @@
 ---
 title: "Hudson River Park Trust — 70Cdcr21P00000035 (NY) $797,358"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NY"
 county: ""
 repo_path: "kb/ice-contracts/hudson-river-park-trust-70cdcr21p00000035-ny-797-358.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HUDSON RIVER PARK TRUST"
 source_count: 0
 type: "entry"

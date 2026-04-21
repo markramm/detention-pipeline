@@ -1,13 +1,13 @@
 ---
 title: "Kcorp Support Services, INC — 70Cmsw19Fr0000010 (CA) $625,115"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/kcorp-support-services-inc-70cmsw19fr0000010-ca-625-115.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: KCORP SUPPORT SERVICES, INC"
 source_count: 0
 type: "entry"

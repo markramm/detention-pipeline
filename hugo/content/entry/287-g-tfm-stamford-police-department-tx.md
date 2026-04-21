@@ -7,7 +7,7 @@ fips: "48253"
 state: "TX"
 county: "Jones County"
 repo_path: "kb/287g/287-g-tfm-stamford-police-department-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Stamford Police Department, signed January 26, 2026."
 source_count: 1
 type: "entry"

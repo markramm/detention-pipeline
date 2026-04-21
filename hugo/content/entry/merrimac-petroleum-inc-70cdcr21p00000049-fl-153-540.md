@@ -1,13 +1,13 @@
 ---
 title: "Merrimac Petroleum, INC — 70Cdcr21P00000049 (FL) $153,540"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/merrimac-petroleum-inc-70cdcr21p00000049-fl-153-540.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MERRIMAC PETROLEUM, INC"
 source_count: 0
 type: "entry"

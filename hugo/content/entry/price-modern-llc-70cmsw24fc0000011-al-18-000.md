@@ -1,13 +1,13 @@
 ---
 title: "Price Modern LLC — 70Cmsw24Fc0000011 (AL) $18,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AL"
 county: ""
 repo_path: "kb/ice-contracts/price-modern-llc-70cmsw24fc0000011-al-18-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

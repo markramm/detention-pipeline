@@ -1,13 +1,13 @@
 ---
 title: "Hartford Parking Authority — 70Cdcr21P00000033 (CT) $94,380"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CT"
 county: ""
 repo_path: "kb/ice-contracts/hartford-parking-authority-70cdcr21p00000033-ct-94-380.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HARTFORD PARKING AUTHORITY"
 source_count: 0
 type: "entry"

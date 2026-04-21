@@ -1,13 +1,13 @@
 ---
 title: "CGI FEDERAL INC. — 70CTD024FR0000051 (VA) $244,168"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/cgi-federal-inc-70ctd024fr0000051-va-244-168.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

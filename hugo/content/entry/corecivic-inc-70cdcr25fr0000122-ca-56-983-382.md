@@ -1,13 +1,13 @@
 ---
 title: "CORECIVIC, INC. — 70CDCR25FR0000122 (CA) $56,983,382"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/corecivic-inc-70cdcr25fr0000122-ca-56-983-382.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -2,15 +2,16 @@
   "fips": "12003",
   "county": "Baker County, FL",
   "state": "FL",
-  "score": 55,
+  "score": 62,
   "signal_types": 3,
-  "rank": 70,
-  "total_counties": 1192,
-  "percentile": 94,
+  "rank": 76,
+  "total_counties": 2019,
+  "percentile": 96,
   "coverage": "unresearched",
   "auto_summary": "Baker County, FL shows 2 existing IGSA facilities, and 2 287(g) agreements.",
   "entry_types": {
     "287g-agreement": 2,
-    "igsa": 2
+    "igsa": 2,
+    "facility": 1
   }
 }

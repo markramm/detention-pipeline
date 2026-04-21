@@ -1,13 +1,13 @@
 ---
 title: "Facility Maintenance Corp LLC — 70Cdcr19P00000039 (NY)"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NY"
 county: ""
 repo_path: "kb/ice-contracts/facility-maintenance-corp-llc-70cdcr19p00000039-ny.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FACILITY MAINTENANCE CORP LLC"
 source_count: 0
 type: "entry"

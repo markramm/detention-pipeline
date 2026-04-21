@@ -1,13 +1,13 @@
 ---
 title: "Disaster Management Group, LLC — 70Cdcr25Fr0000058 (FL) $250"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/disaster-management-group-llc-70cdcr25fr0000058-fl-250.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DISASTER MANAGEMENT GROUP, LLC"
 source_count: 0
 type: "entry"

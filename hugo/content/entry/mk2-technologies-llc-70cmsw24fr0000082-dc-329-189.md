@@ -1,13 +1,13 @@
 ---
 title: "Mk2 Technologies LLC — 70Cmsw24Fr0000082 (DC) $329,189"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/mk2-technologies-llc-70cmsw24fr0000082-dc-329-189.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MK2 TECHNOLOGIES LLC"
 source_count: 0
 type: "entry"

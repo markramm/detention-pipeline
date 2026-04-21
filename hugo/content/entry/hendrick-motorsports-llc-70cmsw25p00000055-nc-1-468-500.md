@@ -1,13 +1,13 @@
 ---
 title: "Hendrick Motorsports LLC — 70Cmsw25P00000055 (NC) $1,468,500"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NC"
 county: ""
 repo_path: "kb/ice-contracts/hendrick-motorsports-llc-70cmsw25p00000055-nc-1-468-500.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HENDRICK MOTORSPORTS LLC"
 source_count: 0
 type: "entry"

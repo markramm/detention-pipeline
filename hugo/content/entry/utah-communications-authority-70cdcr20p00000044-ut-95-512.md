@@ -1,13 +1,13 @@
 ---
 title: "Utah Communications Authority — 70Cdcr20P00000044 (UT) $95,512"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "UT"
 county: ""
 repo_path: "kb/ice-contracts/utah-communications-authority-70cdcr20p00000044-ut-95-512.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: UTAH COMMUNICATIONS AUTHORITY"
 source_count: 0
 type: "entry"

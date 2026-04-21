@@ -1,13 +1,13 @@
 ---
 title: "Lafayette Instrument Company, LLC — 70Cmsd25P00000129 (TX) $92,396"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/lafayette-instrument-company-llc-70cmsd25p00000129-tx-92-396.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LAFAYETTE INSTRUMENT COMPANY, LLC"
 source_count: 0
 type: "entry"

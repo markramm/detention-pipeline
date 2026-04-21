@@ -1,13 +1,13 @@
 ---
 title: "Management & Training Corporation — 70Cdcr25Fr0000068 (UT) $250"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "UT"
 county: ""
 repo_path: "kb/ice-contracts/management-training-corporation-70cdcr25fr0000068-ut-250.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MANAGEMENT & TRAINING CORPORATION"
 source_count: 0
 type: "entry"

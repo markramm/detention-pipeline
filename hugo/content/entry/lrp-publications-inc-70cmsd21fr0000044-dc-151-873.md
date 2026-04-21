@@ -1,13 +1,13 @@
 ---
 title: "Lrp Publications, INC. — 70Cmsd21Fr0000044 (DC) $151,873"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/lrp-publications-inc-70cmsd21fr0000044-dc-151-873.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LRP PUBLICATIONS, INC."
 source_count: 0
 type: "entry"

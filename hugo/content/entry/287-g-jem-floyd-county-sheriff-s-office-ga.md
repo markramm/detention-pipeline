@@ -7,7 +7,7 @@ fips: "13115"
 state: "GA"
 county: "Floyd County"
 repo_path: "kb/287g/287-g-jem-floyd-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Floyd County Sheriff’s Office, signed June 10, 2020."
 source_count: 1
 type: "entry"

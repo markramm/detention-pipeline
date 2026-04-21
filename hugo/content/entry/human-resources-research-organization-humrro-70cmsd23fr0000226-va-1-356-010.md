@@ -1,13 +1,13 @@
 ---
 title: "Human Resources Research Organization (Humrro) — 70Cmsd23Fr0000226 (VA) $1,356,010"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/human-resources-research-organization-humrro-70cmsd23fr0000226-va-1-356-010.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HUMAN RESOURCES RESEARCH ORGANIZATION (HUMRRO)"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Quantico Tactical Incorporated — 70Cmsw24Fr0000147 (NC) $86,829"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NC"
 county: ""
 repo_path: "kb/ice-contracts/quantico-tactical-incorporated-70cmsw24fr0000147-nc-86-829.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: QUANTICO TACTICAL INCORPORATED"
 source_count: 0
 type: "entry"

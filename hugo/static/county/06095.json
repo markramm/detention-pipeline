@@ -1,0 +1,15 @@
+{
+  "fips": "06095",
+  "county": "Solano County, CA",
+  "state": "CA",
+  "score": 27,
+  "signal_types": 1,
+  "rank": 478,
+  "total_counties": 2019,
+  "percentile": 76,
+  "coverage": "partially-researched",
+  "auto_summary": "Solano County, CA shows commission activity.",
+  "entry_types": {
+    "commission-activity": 3
+  }
+}

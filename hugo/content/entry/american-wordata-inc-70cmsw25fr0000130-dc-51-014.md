@@ -1,13 +1,13 @@
 ---
 title: "American Wordata, INC — 70Cmsw25Fr0000130 (DC) $51,014"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/american-wordata-inc-70cmsw25fr0000130-dc-51-014.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AMERICAN WORDATA, INC"
 source_count: 0
 type: "entry"

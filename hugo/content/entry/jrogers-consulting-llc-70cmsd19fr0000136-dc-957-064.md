@@ -1,13 +1,13 @@
 ---
 title: "Jrogers Consulting LLC — 70Cmsd19Fr0000136 (DC) $957,064"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/jrogers-consulting-llc-70cmsd19fr0000136-dc-957-064.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: JROGERS CONSULTING LLC"
 source_count: 0
 type: "entry"

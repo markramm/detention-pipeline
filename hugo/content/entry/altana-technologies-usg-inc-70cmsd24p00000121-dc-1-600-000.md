@@ -1,13 +1,13 @@
 ---
 title: "Altana Technologies Usg INC — 70Cmsd24P00000121 (DC) $1,600,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/altana-technologies-usg-inc-70cmsd24p00000121-dc-1-600-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ALTANA TECHNOLOGIES USG INC"
 source_count: 0
 type: "entry"

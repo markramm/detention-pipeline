@@ -1,13 +1,13 @@
 ---
 title: "Aeec-Argentys LLC — 70Ctd021Fr0000137 (DC) $9,006,369"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/aeec-argentys-llc-70ctd021fr0000137-dc-9-006-369.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

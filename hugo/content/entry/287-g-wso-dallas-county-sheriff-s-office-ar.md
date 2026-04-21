@@ -7,7 +7,7 @@ fips: "05039"
 state: "AR"
 county: "Dallas County"
 repo_path: "kb/287g/287-g-wso-dallas-county-sheriff-s-office-ar.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Dallas County Sheriff’s Office, signed September 9, 2025."
 source_count: 1
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Central Lake Armor Express INC — Hscems17J00163 (MI) $1,104,237"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MI"
 county: ""
 repo_path: "kb/ice-contracts/central-lake-armor-express-inc-hscems17j00163-mi-1-104-237.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CENTRAL LAKE ARMOR EXPRESS INC"
 source_count: 0
 type: "entry"

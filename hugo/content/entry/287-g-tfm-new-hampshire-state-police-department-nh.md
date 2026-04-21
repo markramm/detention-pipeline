@@ -7,7 +7,7 @@ fips: ""
 state: "NH"
 county: ""
 repo_path: "kb/287g/287-g-tfm-new-hampshire-state-police-department-nh.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and New Hampshire State Police Department, signed April 25, 2025."
 source_count: 1
 type: "entry"

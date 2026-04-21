@@ -1,13 +1,13 @@
 ---
 title: "Metaphase Consulting LLC — 70Cmsw26Fr0000004 (DC) $1,157,447"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/metaphase-consulting-llc-70cmsw26fr0000004-dc-1-157-447.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: METAPHASE CONSULTING LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Advanced Graphix, LLC — 70Cmsw25P00000054 (PA) $75,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "PA"
 county: ""
 repo_path: "kb/ice-contracts/advanced-graphix-llc-70cmsw25p00000054-pa-75-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ADVANCED GRAPHIX, LLC"
 source_count: 0
 type: "entry"

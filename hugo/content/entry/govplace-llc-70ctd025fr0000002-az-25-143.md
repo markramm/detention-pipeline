@@ -1,13 +1,13 @@
 ---
 title: "GOVPLACE, LLC — 70CTD025FR0000002 (AZ) $25,143"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/govplace-llc-70ctd025fr0000002-az-25-143.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Academy Lock & Key, INC. — 70Cmsw26P00000021 (GA) $19,972"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/academy-lock-key-inc-70cmsw26p00000021-ga-19-972.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ACADEMY LOCK & KEY, INC."
 source_count: 0
 type: "entry"

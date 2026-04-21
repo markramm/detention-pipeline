@@ -1,13 +1,13 @@
 ---
 title: "Optivor Technologies, LLC — 70Ctd024Fc0000004 (DC) $150,722"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/optivor-technologies-llc-70ctd024fc0000004-dc-150-722.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: OPTIVOR TECHNOLOGIES, LLC"
 source_count: 0
 type: "entry"

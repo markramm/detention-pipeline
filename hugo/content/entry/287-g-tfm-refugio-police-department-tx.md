@@ -7,7 +7,7 @@ fips: "48391"
 state: "TX"
 county: "Refugio County"
 repo_path: "kb/287g/287-g-tfm-refugio-police-department-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Refugio Police Department, signed January 8, 2026."
 source_count: 1
 type: "entry"

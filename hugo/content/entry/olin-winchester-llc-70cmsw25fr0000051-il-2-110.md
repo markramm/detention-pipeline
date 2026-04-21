@@ -1,13 +1,13 @@
 ---
 title: "Olin Winchester LLC — 70Cmsw25Fr0000051 (IL) $2,110"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IL"
 county: ""
 repo_path: "kb/ice-contracts/olin-winchester-llc-70cmsw25fr0000051-il-2-110.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

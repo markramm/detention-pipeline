@@ -1,13 +1,13 @@
 ---
 title: "Convergeone Government Solutions, LLC — 70Ctd023Fc0000031 (GA) $24,035"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/convergeone-government-solutions-llc-70ctd023fc0000031-ga-24-035.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CONVERGEONE GOVERNMENT SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

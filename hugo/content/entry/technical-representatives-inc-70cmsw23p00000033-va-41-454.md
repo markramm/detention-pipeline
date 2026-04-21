@@ -1,13 +1,13 @@
 ---
 title: "Technical Representatives, INC — 70Cmsw23P00000033 (VA) $41,454"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/technical-representatives-inc-70cmsw23p00000033-va-41-454.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TECHNICAL REPRESENTATIVES, INC"
 source_count: 0
 type: "entry"

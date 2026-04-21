@@ -2,14 +2,15 @@
   "fips": "54021",
   "county": "Gilmer County, WV",
   "state": "WV",
-  "score": 10,
-  "signal_types": 1,
-  "rank": 810,
-  "total_counties": 1192,
-  "percentile": 32,
+  "score": 15,
+  "signal_types": 2,
+  "rank": 837,
+  "total_counties": 2019,
+  "percentile": 59,
   "coverage": "unresearched",
-  "auto_summary": "Gilmer County, WV shows 1 existing IGSA facility.",
+  "auto_summary": "Gilmer County, WV shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

@@ -1,13 +1,13 @@
 ---
 title: "East Rio Hondo Water Supply Corp — 70Cmsw19P00000005 (TX) $1,130,055"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/east-rio-hondo-water-supply-corp-70cmsw19p00000005-tx-1-130-055.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: EAST RIO HONDO WATER SUPPLY CORP"
 source_count: 0
 type: "entry"

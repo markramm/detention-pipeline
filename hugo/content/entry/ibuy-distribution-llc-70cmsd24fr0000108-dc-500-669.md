@@ -1,13 +1,13 @@
 ---
 title: "Ibuy Distribution LLC — 70Cmsd24Fr0000108 (DC) $500,669"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/ibuy-distribution-llc-70cmsd24fr0000108-dc-500-669.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: IBUY DISTRIBUTION LLC"
 source_count: 0
 type: "entry"

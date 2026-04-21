@@ -3,11 +3,11 @@ title: "Folkston ICE Processing Center — Charlton County GA (ICA / D. Ray Jame
 entry_type: "facility"
 signal_label: "Facility"
 signal_color: "#c93b3b"
-fips: ""
+fips: "13049"
 state: "GA"
 county: "Charlton"
 repo_path: "kb/industry/facilities/folkston-ipc-charlton-ga.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-20"
 summary: "3,000-bed GEO Group facility (merged with D. Ray James) in Charlton County GA -- nation's largest ICE detention center. 16 deaths, systemic violations, and economic capture of a 12,000-person county."
 source_count: 14
 layout: "single"

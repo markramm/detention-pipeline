@@ -7,7 +7,7 @@ fips: ""
 state: "MO"
 county: ""
 repo_path: "kb/287g/287-g-tfm-saint-mary-police-department-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Saint Mary Police Department, signed April 28, 2025."
 source_count: 1
 type: "entry"

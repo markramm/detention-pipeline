@@ -1,13 +1,13 @@
 ---
 title: "Metaphase Consulting LLC — 70Cmsw23Fr0000072 (VA) $2,228,249"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/metaphase-consulting-llc-70cmsw23fr0000072-va-2-228-249.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: METAPHASE CONSULTING LLC"
 source_count: 0
 type: "entry"

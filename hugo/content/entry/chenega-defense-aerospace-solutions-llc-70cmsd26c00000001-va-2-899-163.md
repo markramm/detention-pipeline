@@ -1,13 +1,13 @@
 ---
 title: "Chenega Defense & Aerospace Solutions, LLC — 70Cmsd26C00000001 (VA) $2,899,163"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/chenega-defense-aerospace-solutions-llc-70cmsd26c00000001-va-2-899-163.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CHENEGA DEFENSE & AEROSPACE SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

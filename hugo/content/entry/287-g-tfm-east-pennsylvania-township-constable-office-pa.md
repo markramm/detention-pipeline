@@ -7,7 +7,7 @@ fips: "42041"
 state: "PA"
 county: "Cumberland County"
 repo_path: "kb/287g/287-g-tfm-east-pennsylvania-township-constable-office-pa.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and East Pennsylvania Township Constable Office, signed August 28, 2025."
 source_count: 1
 type: "entry"

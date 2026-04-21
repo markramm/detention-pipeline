@@ -1,13 +1,13 @@
 ---
 title: "The Geo Group, INC. — 70Cdcr24Fr0000012 (CA) $32,758,676"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/the-geo-group-inc-70cdcr24fr0000012-ca-32-758-676.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

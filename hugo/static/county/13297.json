@@ -4,13 +4,15 @@
   "state": "GA",
   "score": 41,
   "signal_types": 4,
-  "rank": 163,
-  "total_counties": 1192,
-  "percentile": 86,
-  "coverage": "partially-researched",
-  "auto_summary": "Walton County, GA shows 1 287(g) agreement, and communications discipline pattern.",
+  "rank": 240,
+  "total_counties": 2019,
+  "percentile": 88,
+  "coverage": "well-researched",
+  "auto_summary": "Walton County, GA shows 1 287(g) agreement, communications discipline pattern, and active community resistance.",
   "entry_types": {
     "287g-agreement": 1,
-    "comms-discipline": 1
+    "comms-discipline": 1,
+    "county-fight": 1,
+    "facility": 1
   }
 }

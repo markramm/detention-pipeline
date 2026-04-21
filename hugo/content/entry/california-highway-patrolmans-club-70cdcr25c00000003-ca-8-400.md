@@ -1,13 +1,13 @@
 ---
 title: "California Highway Patrolmans Club — 70Cdcr25C00000003 (CA) $8,400"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/california-highway-patrolmans-club-70cdcr25c00000003-ca-8-400.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CALIFORNIA HIGHWAY PATROLMANS CLUB"
 source_count: 0
 type: "entry"

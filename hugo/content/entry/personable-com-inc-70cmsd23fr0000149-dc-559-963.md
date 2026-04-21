@@ -1,13 +1,13 @@
 ---
 title: "Personable.Com, INC. — 70Cmsd23Fr0000149 (DC) $559,963"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/personable-com-inc-70cmsd23fr0000149-dc-559-963.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PERSONABLE.COM, INC."
 source_count: 0
 type: "entry"

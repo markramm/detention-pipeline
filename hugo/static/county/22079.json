@@ -4,13 +4,14 @@
   "state": "LA",
   "score": 37,
   "signal_types": 3,
-  "rank": 204,
-  "total_counties": 1192,
-  "percentile": 83,
+  "rank": 284,
+  "total_counties": 2019,
+  "percentile": 86,
   "coverage": "unresearched",
   "auto_summary": "Rapides Parish, LA shows 1 existing IGSA facility, and 2 ANC contracts.",
   "entry_types": {
     "anc-contract": 2,
-    "igsa": 1
+    "igsa": 1,
+    "facility": 1
   }
 }

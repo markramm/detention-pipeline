@@ -1,13 +1,13 @@
 ---
 title: "Chainalysis Government Solutions, LLC — 70Cmsd24Fr0000068 (VA) $3,442,936"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/chainalysis-government-solutions-llc-70cmsd24fr0000068-va-3-442-936.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CHAINALYSIS GOVERNMENT SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

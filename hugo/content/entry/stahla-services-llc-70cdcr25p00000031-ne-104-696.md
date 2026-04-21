@@ -1,13 +1,13 @@
 ---
 title: "Stahla Services, LLC — 70Cdcr25P00000031 (NE) $104,696"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NE"
 county: ""
 repo_path: "kb/ice-contracts/stahla-services-llc-70cdcr25p00000031-ne-104-696.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: STAHLA SERVICES, LLC"
 source_count: 0
 type: "entry"

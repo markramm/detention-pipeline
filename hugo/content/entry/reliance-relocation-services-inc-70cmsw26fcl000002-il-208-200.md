@@ -1,13 +1,13 @@
 ---
 title: "Reliance Relocation Services, INC — 70Cmsw26Fcl000002 (IL) $208,200"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IL"
 county: ""
 repo_path: "kb/ice-contracts/reliance-relocation-services-inc-70cmsw26fcl000002-il-208-200.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: RELIANCE RELOCATION SERVICES, INC"
 source_count: 0
 type: "entry"

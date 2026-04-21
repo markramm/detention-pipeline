@@ -1,13 +1,13 @@
 ---
 title: "Dentrust Dental International, INC. — 70Cmsd24C00000002 (TX) $290,708"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/dentrust-dental-international-inc-70cmsd24c00000002-tx-290-708.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DENTRUST DENTAL INTERNATIONAL, INC."
 source_count: 0
 type: "entry"

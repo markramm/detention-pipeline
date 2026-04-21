@@ -1,13 +1,13 @@
 ---
 title: "Regan Technologies Corp — 70Ctd025Fr0000073 (OK) $28,482"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "OK"
 county: ""
 repo_path: "kb/ice-contracts/regan-technologies-corp-70ctd025fr0000073-ok-28-482.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: REGAN TECHNOLOGIES CORP"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Tli Construction, INC. — 70Cmsw25C00000011 (GA) $3,067,675"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/tli-construction-inc-70cmsw25c00000011-ga-3-067-675.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TLI CONSTRUCTION, INC."
 source_count: 0
 type: "entry"

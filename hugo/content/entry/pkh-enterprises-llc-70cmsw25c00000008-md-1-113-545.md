@@ -1,13 +1,13 @@
 ---
 title: "Pkh Enterprises, LLC — 70Cmsw25C00000008 (MD) $1,113,545"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/pkh-enterprises-llc-70cmsw25c00000008-md-1-113-545.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PKH ENTERPRISES, LLC"
 source_count: 0
 type: "entry"

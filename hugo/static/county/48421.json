@@ -2,14 +2,15 @@
   "fips": "48421",
   "county": "Sherman County, TX",
   "state": "TX",
-  "score": 7,
-  "signal_types": 1,
-  "rank": 1130,
-  "total_counties": 1192,
-  "percentile": 5,
+  "score": 19,
+  "signal_types": 2,
+  "rank": 749,
+  "total_counties": 2019,
+  "percentile": 63,
   "coverage": "unresearched",
-  "auto_summary": "Sherman County, TX shows 1 287(g) agreement.",
+  "auto_summary": "Sherman County, TX shows 1 287(g) agreement, and budget distress.",
   "entry_types": {
-    "287g-agreement": 1
+    "287g-agreement": 1,
+    "budget-distress": 1
   }
 }

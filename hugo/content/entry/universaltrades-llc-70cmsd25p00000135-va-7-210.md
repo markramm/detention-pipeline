@@ -1,13 +1,13 @@
 ---
 title: "Universaltrades, LLC — 70Cmsd25P00000135 (VA) $7,210"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/universaltrades-llc-70cmsd25p00000135-va-7-210.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: UNIVERSALTRADES, LLC"
 source_count: 0
 type: "entry"

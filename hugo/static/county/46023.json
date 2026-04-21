@@ -2,14 +2,15 @@
   "fips": "46023",
   "county": "Charles Mix County, SD",
   "state": "SD",
-  "score": 1,
-  "signal_types": 1,
-  "rank": 1191,
-  "total_counties": 1192,
-  "percentile": 0,
+  "score": 6,
+  "signal_types": 2,
+  "rank": 1208,
+  "total_counties": 2019,
+  "percentile": 40,
   "coverage": "partially-researched",
-  "auto_summary": "",
+  "auto_summary": "Charles Mix County, SD shows budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "event": 1
   }
 }

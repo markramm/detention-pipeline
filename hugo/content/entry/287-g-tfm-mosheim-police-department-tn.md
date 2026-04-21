@@ -7,7 +7,7 @@ fips: "47059"
 state: "TN"
 county: "Greene County"
 repo_path: "kb/287g/287-g-tfm-mosheim-police-department-tn.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Mosheim Police Department, signed September 9, 2025."
 source_count: 1
 type: "entry"

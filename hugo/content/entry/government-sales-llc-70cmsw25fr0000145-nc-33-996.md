@@ -1,13 +1,13 @@
 ---
 title: "Government Sales, LLC — 70Cmsw25Fr0000145 (NC) $33,996"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NC"
 county: ""
 repo_path: "kb/ice-contracts/government-sales-llc-70cmsw25fr0000145-nc-33-996.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GOVERNMENT SALES, LLC"
 source_count: 0
 type: "entry"

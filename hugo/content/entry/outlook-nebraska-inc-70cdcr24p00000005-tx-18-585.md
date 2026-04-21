@@ -1,13 +1,13 @@
 ---
 title: "Outlook-Nebraska, INC. — 70Cdcr24P00000005 (TX) $18,585"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/outlook-nebraska-inc-70cdcr24p00000005-tx-18-585.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: OUTLOOK-NEBRASKA, INC."
 source_count: 0
 type: "entry"

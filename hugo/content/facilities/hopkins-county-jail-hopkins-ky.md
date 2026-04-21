@@ -18,7 +18,7 @@ status: "active"
 bed_count: ""
 facility_type: "USMS IGA"
 city: "Madisonville"
-address: "2250 Laffoon Trl "
+address: "2250 Laffoon Trl"
 aor: "Chicago"
 avg_daily_pop: "181"
 ---

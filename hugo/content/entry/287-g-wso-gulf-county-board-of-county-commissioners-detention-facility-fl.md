@@ -7,7 +7,7 @@ fips: "12045"
 state: "FL"
 county: "Gulf County"
 repo_path: "kb/287g/287-g-wso-gulf-county-board-of-county-commissioners-detention-facility-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Gulf County Board of County Commissioners /Detention Facility, signed February 26, 2025."
 source_count: 1
 type: "entry"

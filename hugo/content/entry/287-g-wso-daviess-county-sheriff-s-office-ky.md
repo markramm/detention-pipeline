@@ -7,7 +7,7 @@ fips: "21059"
 state: "KY"
 county: "Daviess County"
 repo_path: "kb/287g/287-g-wso-daviess-county-sheriff-s-office-ky.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Daviess County Sheriff’s Office, signed March 10, 2025."
 source_count: 1
 type: "entry"

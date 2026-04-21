@@ -1,13 +1,13 @@
 ---
 title: "Thundercat Technology, LLC — 70Cmsd25Fr0000110 (VA) $90,354"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/thundercat-technology-llc-70cmsd25fr0000110-va-90-354.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THUNDERCAT TECHNOLOGY, LLC"
 source_count: 0
 type: "entry"

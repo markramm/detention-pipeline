@@ -1,13 +1,13 @@
 ---
 title: "Insight Technology Solutions, LLC — 70Cmsd23Fr0000001 (VA) $14,638,011"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/insight-technology-solutions-llc-70cmsd23fr0000001-va-14-638-011.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: INSIGHT TECHNOLOGY SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

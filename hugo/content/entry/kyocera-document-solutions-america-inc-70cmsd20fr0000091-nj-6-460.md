@@ -1,13 +1,13 @@
 ---
 title: "Kyocera Document Solutions America INC — 70Cmsd20Fr0000091 (NJ) $6,460"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NJ"
 county: ""
 repo_path: "kb/ice-contracts/kyocera-document-solutions-america-inc-70cmsd20fr0000091-nj-6-460.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: KYOCERA DOCUMENT SOLUTIONS AMERICA INC"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "05125"
 state: "AR"
 county: "Saline County"
 repo_path: "kb/287g/287-g-wso-saline-county-sheriff-s-office-ar.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Saline County Sheriff’s Office, signed June 12, 2025."
 source_count: 1
 type: "entry"

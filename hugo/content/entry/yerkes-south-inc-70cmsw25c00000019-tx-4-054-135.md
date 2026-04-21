@@ -1,13 +1,13 @@
 ---
 title: "Yerkes South INC. — 70Cmsw25C00000019 (TX) $4,054,135"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/yerkes-south-inc-70cmsw25c00000019-tx-4-054-135.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

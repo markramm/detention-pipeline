@@ -1,13 +1,13 @@
 ---
 title: "Convergint Technologies LLC — 70Cmsd23P00000115 (TX) $16,829"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/convergint-technologies-llc-70cmsd23p00000115-tx-16-829.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CONVERGINT TECHNOLOGIES LLC"
 source_count: 0
 type: "entry"

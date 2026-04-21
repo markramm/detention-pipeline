@@ -1,13 +1,13 @@
 ---
 title: "Altitude Technologies INC. — 70Cdcr25P00000029 (OK) $22,372"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "OK"
 county: ""
 repo_path: "kb/ice-contracts/altitude-technologies-inc-70cdcr25p00000029-ok-22-372.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ALTITUDE TECHNOLOGIES INC."
 source_count: 0
 type: "entry"

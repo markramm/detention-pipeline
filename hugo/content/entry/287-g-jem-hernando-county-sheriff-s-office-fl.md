@@ -7,7 +7,7 @@ fips: "12053"
 state: "FL"
 county: "Hernando County"
 repo_path: "kb/287g/287-g-jem-hernando-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Hernando County Sheriff’s Office, signed June 9, 2020."
 source_count: 1
 type: "entry"

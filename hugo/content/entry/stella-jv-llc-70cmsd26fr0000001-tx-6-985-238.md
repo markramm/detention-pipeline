@@ -1,13 +1,13 @@
 ---
 title: "STELLA JV, LLC — 70CMSD26FR0000001 (TX) $6,985,238"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/stella-jv-llc-70cmsd26fr0000001-tx-6-985-238.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

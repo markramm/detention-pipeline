@@ -1,13 +1,13 @@
 ---
 title: "Absolute Perfection INC — 70Cmsw25P00000053 (MD) $54,527"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/absolute-perfection-inc-70cmsw25p00000053-md-54-527.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ABSOLUTE PERFECTION INC"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "37011"
 state: "NC"
 county: "Avery County"
 repo_path: "kb/287g/287-g-wso-avery-county-sheriff-s-office-nc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Avery County Sheriff’s Office, signed July 23, 2020."
 source_count: 1
 type: "entry"

@@ -7,7 +7,7 @@ fips: "45077"
 state: "SC"
 county: "Pickens County"
 repo_path: "kb/287g/287-g-tfm-pickens-county-sheriff-s-office-sc.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Pickens County Sheriff’s Office, signed May 16, 2025."
 source_count: 1
 type: "entry"

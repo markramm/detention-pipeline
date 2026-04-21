@@ -1,13 +1,13 @@
 ---
 title: "Recovery Solutions Of South Carolina, LLC — 70Cdcr22Fr0000030 (SC) $3,600,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "SC"
 county: ""
 repo_path: "kb/ice-contracts/recovery-solutions-of-south-carolina-llc-70cdcr22fr0000030-sc-3-600-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: RECOVERY SOLUTIONS OF SOUTH CAROLINA, LLC"
 source_count: 0
 type: "entry"

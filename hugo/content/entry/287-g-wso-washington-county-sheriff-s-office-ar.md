@@ -7,7 +7,7 @@ fips: "05143"
 state: "AR"
 county: "Washington County"
 repo_path: "kb/287g/287-g-wso-washington-county-sheriff-s-office-ar.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Washington County Sheriff’s Office, signed July 29, 2025."
 source_count: 1
 type: "entry"

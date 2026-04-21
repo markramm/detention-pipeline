@@ -1,13 +1,13 @@
 ---
-title: "San Diego County County CA — Board Of Supervisors 2026-03-24: Time Certain: 3:00 P.M. item 18: Fiscal Year 2026-27 Budget Strategy Presentati"
+title: "San Diego County County CA — Board Of Supervisors 2026-03-24: Time Certain: 3:00 P.M. Item 18: Fiscal Year 2026-27 Budget Strategy Presentati"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "06073"
+state: "CA"
+county: "San Diego County"
 repo_path: "kb/commission/san-diego-county-county-ca-board-of-supervisors-2026-03-24-time-certain-3-00-p-m-item-18-fiscal-year-2026-27-budget-strategy-presentati.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

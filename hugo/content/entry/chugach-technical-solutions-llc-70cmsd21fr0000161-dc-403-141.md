@@ -1,13 +1,13 @@
 ---
 title: "Chugach Technical Solutions LLC — 70Cmsd21Fr0000161 (DC) $403,141"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/chugach-technical-solutions-llc-70cmsd21fr0000161-dc-403-141.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CHUGACH TECHNICAL SOLUTIONS LLC"
 source_count: 0
 type: "entry"

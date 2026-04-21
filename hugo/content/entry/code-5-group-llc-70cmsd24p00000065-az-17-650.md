@@ -1,13 +1,13 @@
 ---
 title: "CODE 5 GROUP LLC — 70CMSD24P00000065 (AZ) $17,650"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/code-5-group-llc-70cmsd24p00000065-az-17-650.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

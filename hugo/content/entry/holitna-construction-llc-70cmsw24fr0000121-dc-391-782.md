@@ -1,13 +1,13 @@
 ---
 title: "Holitna Construction, LLC — 70Cmsw24Fr0000121 (DC) $391,782"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/holitna-construction-llc-70cmsw24fr0000121-dc-391-782.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HOLITNA CONSTRUCTION, LLC"
 source_count: 0
 type: "entry"

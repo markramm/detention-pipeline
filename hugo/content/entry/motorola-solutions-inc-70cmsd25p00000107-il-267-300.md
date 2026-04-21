@@ -1,13 +1,13 @@
 ---
 title: "Motorola Solutions, INC. — 70Cmsd25P00000107 (IL) $267,300"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "IL"
 county: ""
 repo_path: "kb/ice-contracts/motorola-solutions-inc-70cmsd25p00000107-il-267-300.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MOTOROLA SOLUTIONS, INC."
 source_count: 0
 type: "entry"

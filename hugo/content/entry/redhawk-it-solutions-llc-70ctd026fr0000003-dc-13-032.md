@@ -1,13 +1,13 @@
 ---
 title: "Redhawk It Solutions, LLC — 70Ctd026Fr0000003 (DC) $13,032"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/redhawk-it-solutions-llc-70ctd026fr0000003-dc-13-032.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: REDHAWK IT SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Greenbrier Government Solutions INC — 70Ctd024Fr0000071 (WV) $10,093,407"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "WV"
 county: ""
 repo_path: "kb/ice-contracts/greenbrier-government-solutions-inc-70ctd024fr0000071-wv-10-093-407.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GREENBRIER GOVERNMENT SOLUTIONS INC"
 source_count: 0
 type: "entry"

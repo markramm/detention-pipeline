@@ -1,13 +1,13 @@
 ---
 title: "New Tech Solutions, INC. — 70Ctd025Fr0000041 (VA) $83,147"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/new-tech-solutions-inc-70ctd025fr0000041-va-83-147.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: NEW TECH SOLUTIONS, INC."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Ohio Department Of Administrative Services — 70Cdcr21P00000019 (OH) $75,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "OH"
 county: ""
 repo_path: "kb/ice-contracts/ohio-department-of-administrative-services-70cdcr21p00000019-oh-75-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: OHIO DEPARTMENT OF ADMINISTRATIVE SERVICES"
 source_count: 0
 type: "entry"

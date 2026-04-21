@@ -1,13 +1,13 @@
 ---
 title: "RICOH USA INC — 70CMSD22FR0000127 (CO) $17,268"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CO"
 county: ""
 repo_path: "kb/ice-contracts/ricoh-usa-inc-70cmsd22fr0000127-co-17-268.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

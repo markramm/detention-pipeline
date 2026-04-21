@@ -1,13 +1,13 @@
 ---
 title: "Akira Technologies INC. — 70Cdcr24Fr0000071 (CA) $18,708"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/akira-technologies-inc-70cdcr24fr0000071-ca-18-708.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AKIRA TECHNOLOGIES INC."
 source_count: 0
 type: "entry"

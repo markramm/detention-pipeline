@@ -1,13 +1,13 @@
 ---
-title: "Pima County County AZ — Board of Supervisors 2026-02-03: Opposing ICE Detention Center in Marana\nRESOLUTION NO. 2026 - 4, of the Board of"
+title: "Pima County County AZ — Board of Supervisors 2026-02-03: Opposing ICE Detention Center in Marana RESOLUTION NO. 2026 - 4, of the Board of"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "04019"
+state: "AZ"
+county: "Pima County"
 repo_path: "kb/commission/pima-county-county-az-board-of-supervisors-2026-02-03-opposing-ice-detention-center-in-marana-resolution-no-2026-4-of-the-board-of.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

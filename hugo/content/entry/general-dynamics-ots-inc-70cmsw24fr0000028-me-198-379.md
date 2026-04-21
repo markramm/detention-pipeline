@@ -1,13 +1,13 @@
 ---
 title: "General Dynamics - Ots, INC. — 70Cmsw24Fr0000028 (ME) $198,379"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "ME"
 county: ""
 repo_path: "kb/ice-contracts/general-dynamics-ots-inc-70cmsw24fr0000028-me-198-379.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GENERAL DYNAMICS - OTS, INC."
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "55071"
 state: "WI"
 county: "Manitowoc County"
 repo_path: "kb/287g/287-g-wso-manitowoc-county-sheriff-s-office-wi.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Manitowoc County Sheriff’s Office, signed June 5, 2020."
 source_count: 1
 type: "entry"

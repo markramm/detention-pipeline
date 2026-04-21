@@ -1,13 +1,13 @@
 ---
 title: "Guidehouse INC. — 70Cmsw24Fr0000089 (DC) $1,327,150"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/guidehouse-inc-70cmsw24fr0000089-dc-1-327-150.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "SIG SAUER INC. — 70CMSW25FC0000035 (GA) $90,854"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/sig-sauer-inc-70cmsw25fc0000035-ga-90-854.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

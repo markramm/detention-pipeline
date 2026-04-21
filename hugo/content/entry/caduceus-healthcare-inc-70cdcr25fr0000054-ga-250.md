@@ -1,13 +1,13 @@
 ---
 title: "Caduceus Healthcare INC — 70Cdcr25Fr0000054 (GA) $250"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/caduceus-healthcare-inc-70cdcr25fr0000054-ga-250.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CADUCEUS HEALTHCARE INC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Techop Solutions International, INC. — 70Cmsd26Fr0000002 (VA) $7,103,923"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/techop-solutions-international-inc-70cmsd26fr0000002-va-7-103-923.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TECHOP SOLUTIONS INTERNATIONAL, INC."
 source_count: 0
 type: "entry"

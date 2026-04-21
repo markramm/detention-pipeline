@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Board Of Commissioners 2025-11-20: Proposed Resolution  approval Of Salary Schedules Negotiated Between The Chief"
+title: "Cook County County IL — Board Of Commissioners 2025-11-20: Proposed Resolution Approval Of Salary Schedules Negotiated Between The Chief"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "17031"
+state: "IL"
+county: "Cook County"
 repo_path: "kb/commission/cook-county-county-il-board-of-commissioners-2025-11-20-proposed-resolution-approval-of-salary-schedules-negotiated-between-the-chief.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

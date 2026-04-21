@@ -1,13 +1,13 @@
 ---
 title: "Signalscape INC — 70Cmsd24P00000171 (DC) $12,040"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/signalscape-inc-70cmsd24p00000171-dc-12-040.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

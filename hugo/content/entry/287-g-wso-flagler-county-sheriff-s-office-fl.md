@@ -7,7 +7,7 @@ fips: "12035"
 state: "FL"
 county: "Flagler County"
 repo_path: "kb/287g/287-g-wso-flagler-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Flagler County Sheriff’s Office, signed September 9, 2019."
 source_count: 1
 type: "entry"

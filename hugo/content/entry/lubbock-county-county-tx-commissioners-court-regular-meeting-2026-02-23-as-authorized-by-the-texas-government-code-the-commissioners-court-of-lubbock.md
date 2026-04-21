@@ -1,13 +1,13 @@
 ---
-title: "Lubbock County County TX — Commissioners Court Regular Meeting 2026-02-23: As authorized by the Texas Government Code, the Commissioners' Court of Lubbock "
+title: "Lubbock County County TX — Commissioners Court Regular Meeting 2026-02-23: As authorized by the Texas Government Code, the Commissioners' Court of Lubbock"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "48303"
+state: "TX"
+county: "Lubbock County"
 repo_path: "kb/commission/lubbock-county-county-tx-commissioners-court-regular-meeting-2026-02-23-as-authorized-by-the-texas-government-code-the-commissioners-court-of-lubbock.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

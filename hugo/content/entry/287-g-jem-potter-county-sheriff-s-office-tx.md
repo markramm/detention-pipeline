@@ -7,7 +7,7 @@ fips: "48375"
 state: "TX"
 county: "Potter County"
 repo_path: "kb/287g/287-g-jem-potter-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Potter County Sheriff’s Office, signed March 2, 2020."
 source_count: 1
 type: "entry"

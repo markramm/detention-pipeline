@@ -7,7 +7,7 @@ fips: "13139"
 state: "GA"
 county: "Hall County"
 repo_path: "kb/287g/287-g-jem-hall-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Hall County Sheriff’s Office, signed June 9, 2020."
 source_count: 1
 type: "entry"

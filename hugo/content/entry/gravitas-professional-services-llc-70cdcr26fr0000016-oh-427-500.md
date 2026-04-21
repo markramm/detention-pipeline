@@ -1,13 +1,13 @@
 ---
 title: "Gravitas Professional Services, LLC — 70Cdcr26Fr0000016 (OH) $427,500"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "OH"
 county: ""
 repo_path: "kb/ice-contracts/gravitas-professional-services-llc-70cdcr26fr0000016-oh-427-500.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GRAVITAS PROFESSIONAL SERVICES, LLC"
 source_count: 0
 type: "entry"

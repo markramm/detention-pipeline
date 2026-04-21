@@ -1,13 +1,13 @@
 ---
 title: "Government Scientific Source INC — 70Cmsd25P00000081 (VA) $41,611"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/government-scientific-source-inc-70cmsd25p00000081-va-41-611.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GOVERNMENT SCIENTIFIC SOURCE INC"
 source_count: 0
 type: "entry"

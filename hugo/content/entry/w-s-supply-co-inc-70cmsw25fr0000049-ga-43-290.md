@@ -1,13 +1,13 @@
 ---
 title: "W & S Supply CO INC — 70Cmsw25Fr0000049 (GA) $43,290"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/w-s-supply-co-inc-70cmsw25fr0000049-ga-43-290.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

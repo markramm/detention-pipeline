@@ -1,0 +1,15 @@
+{
+  "fips": "24005",
+  "county": "Baltimore County, MD",
+  "state": "MD",
+  "score": 42,
+  "signal_types": 1,
+  "rank": 220,
+  "total_counties": 2019,
+  "percentile": 89,
+  "coverage": "partially-researched",
+  "auto_summary": "Baltimore County, MD shows commission activity.",
+  "entry_types": {
+    "commission-activity": 8
+  }
+}

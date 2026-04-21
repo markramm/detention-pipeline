@@ -1,13 +1,13 @@
 ---
 title: "The Kinetic Group Sales LLC — Hscems14J00030 (ID) $56,344"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "ID"
 county: ""
 repo_path: "kb/ice-contracts/the-kinetic-group-sales-llc-hscems14j00030-id-56-344.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THE KINETIC GROUP SALES LLC"
 source_count: 0
 type: "entry"

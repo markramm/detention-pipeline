@@ -1,13 +1,13 @@
 ---
 title: "Global Recovery Group, LLC — 70Cdcr26Fr0000003 (VA) $5,678,837"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/global-recovery-group-llc-70cdcr26fr0000003-va-5-678-837.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: GLOBAL RECOVERY GROUP, LLC"
 source_count: 0
 type: "entry"

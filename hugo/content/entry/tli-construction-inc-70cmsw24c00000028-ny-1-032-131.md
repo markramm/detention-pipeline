@@ -1,13 +1,13 @@
 ---
 title: "Tli Construction, INC. — 70Cmsw24C00000028 (NY) $1,032,131"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NY"
 county: ""
 repo_path: "kb/ice-contracts/tli-construction-inc-70cmsw24c00000028-ny-1-032-131.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TLI CONSTRUCTION, INC."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Toro Defense Contracting, LLC — 70Cdcr24P00000030 (TX) $20,500"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/toro-defense-contracting-llc-70cdcr24p00000030-tx-20-500.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TORO DEFENSE CONTRACTING, LLC"
 source_count: 0
 type: "entry"

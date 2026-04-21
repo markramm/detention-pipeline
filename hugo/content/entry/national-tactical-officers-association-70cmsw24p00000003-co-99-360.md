@@ -1,13 +1,13 @@
 ---
 title: "National Tactical Officers Association — 70Cmsw24P00000003 (CO) $99,360"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CO"
 county: ""
 repo_path: "kb/ice-contracts/national-tactical-officers-association-70cmsw24p00000003-co-99-360.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: NATIONAL TACTICAL OFFICERS ASSOCIATION"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "The Mount Vernon Ladies' Association Of The Union — 70Cmsd24P00000042 (VA) $12,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/the-mount-vernon-ladies-association-of-the-union-70cmsd24p00000042-va-12-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THE MOUNT VERNON LADIES' ASSOCIATION OF THE UNION"
 source_count: 0
 type: "entry"

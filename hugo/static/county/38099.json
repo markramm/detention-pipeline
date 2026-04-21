@@ -2,14 +2,15 @@
   "fips": "38099",
   "county": "Walsh County, ND",
   "state": "ND",
-  "score": 21,
-  "signal_types": 1,
-  "rank": 415,
-  "total_counties": 1192,
-  "percentile": 65,
+  "score": 26,
+  "signal_types": 2,
+  "rank": 508,
+  "total_counties": 2019,
+  "percentile": 75,
   "coverage": "unresearched",
-  "auto_summary": "Walsh County, ND shows 1 existing IGSA facility.",
+  "auto_summary": "Walsh County, ND shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

@@ -1,13 +1,13 @@
 ---
 title: "Kelley Create CO — 70Cmsd21Fr0000090 (FL) $32,224"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/kelley-create-co-70cmsd21fr0000090-fl-32-224.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

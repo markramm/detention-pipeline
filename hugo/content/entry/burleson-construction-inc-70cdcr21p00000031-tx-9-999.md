@@ -1,13 +1,13 @@
 ---
 title: "Burleson Construction, INC. — 70Cdcr21P00000031 (TX) $9,999"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/burleson-construction-inc-70cdcr21p00000031-tx-9-999.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: BURLESON CONSTRUCTION, INC."
 source_count: 0
 type: "entry"

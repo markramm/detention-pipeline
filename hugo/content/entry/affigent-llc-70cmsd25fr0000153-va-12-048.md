@@ -1,13 +1,13 @@
 ---
 title: "AFFIGENT, LLC — 70CMSD25FR0000153 (VA) $12,048"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/affigent-llc-70cmsd25fr0000153-va-12-048.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

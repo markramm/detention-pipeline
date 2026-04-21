@@ -18,7 +18,7 @@ status: "active"
 bed_count: ""
 facility_type: "USMS IGA"
 city: "Rome"
-address: "2526 New Calhoun Highway "
+address: "2526 New Calhoun Highway"
 aor: "Atlanta"
 avg_daily_pop: "2"
 ---

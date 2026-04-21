@@ -2,15 +2,17 @@
   "fips": "40109",
   "county": "Oklahoma County, OK",
   "state": "OK",
-  "score": 43,
-  "signal_types": 2,
-  "rank": 141,
-  "total_counties": 1192,
-  "percentile": 88,
-  "coverage": "unresearched",
-  "auto_summary": "Oklahoma County, OK shows 2 existing IGSA facilities, and 1 ANC contract.",
+  "score": 99,
+  "signal_types": 4,
+  "rank": 26,
+  "total_counties": 2019,
+  "percentile": 99,
+  "coverage": "well-researched",
+  "auto_summary": "Oklahoma County, OK shows 2 existing IGSA facilities, 1 ANC contract, commission activity, and active community resistance.",
   "entry_types": {
     "anc-contract": 1,
-    "igsa": 2
+    "commission-activity": 80,
+    "igsa": 2,
+    "county-fight": 1
   }
 }

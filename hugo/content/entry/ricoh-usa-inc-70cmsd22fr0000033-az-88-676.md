@@ -1,13 +1,13 @@
 ---
 title: "RICOH USA INC — 70CMSD22FR0000033 (AZ) $88,676"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/ricoh-usa-inc-70cmsd22fr0000033-az-88-676.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

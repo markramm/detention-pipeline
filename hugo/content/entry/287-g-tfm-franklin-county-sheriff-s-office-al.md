@@ -7,7 +7,7 @@ fips: "01059"
 state: "AL"
 county: "Franklin County"
 repo_path: "kb/287g/287-g-tfm-franklin-county-sheriff-s-office-al.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Franklin County Sheriff’s Office, signed November 6, 2025."
 source_count: 1
 type: "entry"

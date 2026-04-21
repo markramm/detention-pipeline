@@ -3,11 +3,11 @@ title: "Elizabeth Contract Detention Facility — CoreCivic ICE Detention Center
 entry_type: "facility"
 signal_label: "Facility"
 signal_color: "#c93b3b"
-fips: ""
+fips: "34039"
 state: "NJ"
 county: "Union"
 repo_path: "kb/industry/facilities/elizabeth-detention-center-nj.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "The Elizabeth Contract Detention Facility in Elizabeth, NJ is a 300-bed CoreCivic-operated ICE detention center, operational since 1997. It is the older of New Jersey's two active ICE detention..."
 source_count: 6
 layout: "single"

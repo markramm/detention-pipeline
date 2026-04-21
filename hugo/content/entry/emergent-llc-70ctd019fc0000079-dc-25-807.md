@@ -1,13 +1,13 @@
 ---
 title: "EMERGENT, LLC — 70CTD019FC0000079 (DC) $25,807"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/emergent-llc-70ctd019fc0000079-dc-25-807.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

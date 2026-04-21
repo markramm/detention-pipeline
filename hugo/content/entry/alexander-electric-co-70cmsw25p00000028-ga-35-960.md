@@ -1,13 +1,13 @@
 ---
 title: "Alexander Electric CO. — 70Cmsw25P00000028 (GA) $35,960"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/alexander-electric-co-70cmsw25p00000028-ga-35-960.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ALEXANDER ELECTRIC CO."
 source_count: 0
 type: "entry"

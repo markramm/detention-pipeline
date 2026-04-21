@@ -1,13 +1,13 @@
 ---
 title: "Holitna Construction, LLC — 70Cmsw24Fr0000007 (AK) $124,325"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AK"
 county: ""
 repo_path: "kb/ice-contracts/holitna-construction-llc-70cmsw24fr0000007-ak-124-325.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HOLITNA CONSTRUCTION, LLC"
 source_count: 0
 type: "entry"

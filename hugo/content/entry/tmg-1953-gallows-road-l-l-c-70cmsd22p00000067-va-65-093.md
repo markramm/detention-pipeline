@@ -1,13 +1,13 @@
 ---
 title: "Tmg 1953 Gallows Road, L.L.C. — 70Cmsd22P00000067 (VA) $65,093"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/tmg-1953-gallows-road-l-l-c-70cmsd22p00000067-va-65-093.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TMG 1953 GALLOWS ROAD, L.L.C."
 source_count: 0
 type: "entry"

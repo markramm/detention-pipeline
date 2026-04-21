@@ -1,13 +1,13 @@
 ---
 title: "Deloitte Consulting Llp — 70Cdcr20Fr0000070 (VA) $69,678,847"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/deloitte-consulting-llp-70cdcr20fr0000070-va-69-678-847.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DELOITTE CONSULTING LLP"
 source_count: 0
 type: "entry"

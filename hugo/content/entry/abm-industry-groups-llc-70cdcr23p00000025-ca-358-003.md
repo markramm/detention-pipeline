@@ -1,13 +1,13 @@
 ---
 title: "Abm Industry Groups, LLC — 70Cdcr23P00000025 (CA) $358,003"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/abm-industry-groups-llc-70cdcr23p00000025-ca-358-003.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ABM INDUSTRY GROUPS, LLC"
 source_count: 0
 type: "entry"

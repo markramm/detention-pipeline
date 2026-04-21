@@ -2,16 +2,19 @@
   "fips": "04013",
   "county": "Maricopa County, AZ",
   "state": "AZ",
-  "score": 128,
-  "signal_types": 5,
+  "score": 145,
+  "signal_types": 6,
   "rank": 6,
-  "total_counties": 1192,
-  "percentile": 99,
-  "coverage": "partially-researched",
-  "auto_summary": "Maricopa County, AZ shows 8 existing IGSA facilities, 3 ANC contracts, and 5 real estate traces.",
+  "total_counties": 2019,
+  "percentile": 100,
+  "coverage": "well-researched",
+  "auto_summary": "Maricopa County, AZ shows 8 existing IGSA facilities, 3 ANC contracts, commission activity, 5 real estate traces, and active community resistance.",
   "entry_types": {
     "anc-contract": 3,
+    "commission-activity": 1,
     "igsa": 8,
+    "county-fight": 1,
+    "facility": 1,
     "real-estate-trace": 5
   }
 }

@@ -7,7 +7,7 @@ fips: "48285"
 state: "TX"
 county: "Lavaca County"
 repo_path: "kb/287g/287-g-tfm-lavaca-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Lavaca County Sheriff’s Office, signed September 9, 2025."
 source_count: 1
 type: "entry"

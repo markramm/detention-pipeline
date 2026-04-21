@@ -1,13 +1,13 @@
 ---
 title: "Software Information Resource Corp. — 70Cmsd25Fr0000074 (DC) $85,255"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/software-information-resource-corp-70cmsd25fr0000074-dc-85-255.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SOFTWARE INFORMATION RESOURCE CORP."
 source_count: 0
 type: "entry"

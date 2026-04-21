@@ -1,13 +1,13 @@
 ---
 title: "Advantix Engineering Corp — 70Cmsw23C00000013 (Pr) $4,801,764"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "PR"
 county: ""
 repo_path: "kb/ice-contracts/advantix-engineering-corp-70cmsw23c00000013-pr-4-801-764.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ADVANTIX ENGINEERING CORP"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Akima Global Services, LLC — 70Cdcr24Fr0000065 (AZ) $37,409,835"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/akima-global-services-llc-70cdcr24fr0000065-az-37-409-835.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AKIMA GLOBAL SERVICES, LLC"
 source_count: 0
 type: "entry"

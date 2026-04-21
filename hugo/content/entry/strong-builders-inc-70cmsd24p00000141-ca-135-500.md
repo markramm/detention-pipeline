@@ -1,13 +1,13 @@
 ---
 title: "Strong Builders, INC — 70Cmsd24P00000141 (CA) $135,500"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/strong-builders-inc-70cmsd24p00000141-ca-135-500.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: STRONG BUILDERS, INC"
 source_count: 0
 type: "entry"

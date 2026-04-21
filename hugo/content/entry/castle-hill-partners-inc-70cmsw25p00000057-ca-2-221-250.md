@@ -1,13 +1,13 @@
 ---
 title: "Castle Hill Partners, INC — 70Cmsw25P00000057 (CA) $2,221,250"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/castle-hill-partners-inc-70cmsw25p00000057-ca-2-221-250.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CASTLE HILL PARTNERS, INC"
 source_count: 0
 type: "entry"

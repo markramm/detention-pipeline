@@ -1,13 +1,13 @@
 ---
 title: "Classic Air Charter INC. — 70Cdcr18Fr0000002 (NY) $794,320,930"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NY"
 county: ""
 repo_path: "kb/ice-contracts/classic-air-charter-inc-70cdcr18fr0000002-ny-794-320-930.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CLASSIC AIR CHARTER INC."
 source_count: 0
 type: "entry"

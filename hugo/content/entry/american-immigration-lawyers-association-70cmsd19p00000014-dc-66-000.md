@@ -1,13 +1,13 @@
 ---
 title: "American Immigration Lawyers Association — 70Cmsd19P00000014 (DC) $66,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/american-immigration-lawyers-association-70cmsd19p00000014-dc-66-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: AMERICAN IMMIGRATION LAWYERS ASSOCIATION"
 source_count: 0
 type: "entry"

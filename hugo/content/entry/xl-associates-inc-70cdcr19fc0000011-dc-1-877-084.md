@@ -1,13 +1,13 @@
 ---
 title: "Xl Associates, INC. — 70Cdcr19Fc0000011 (DC) $1,877,084"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/xl-associates-inc-70cdcr19fc0000011-dc-1-877-084.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

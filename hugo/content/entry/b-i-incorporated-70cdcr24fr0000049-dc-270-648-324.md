@@ -1,13 +1,13 @@
 ---
 title: "B.I. Incorporated — 70Cdcr24Fr0000049 (DC) $270,648,324"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/b-i-incorporated-70cdcr24fr0000049-dc-270-648-324.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

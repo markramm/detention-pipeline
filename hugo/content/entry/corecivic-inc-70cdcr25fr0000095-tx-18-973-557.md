@@ -1,13 +1,13 @@
 ---
 title: "CORECIVIC, INC. — 70CDCR25FR0000095 (TX) $18,973,557"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/corecivic-inc-70cdcr25fr0000095-tx-18-973-557.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

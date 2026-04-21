@@ -1,13 +1,13 @@
 ---
-title: "Broward County County FL — County Commission 2026-01-22: MOTION TO ADOPT budget Resolution within the General Fund transferring $746,940 "
+title: "Broward County County FL — County Commission 2026-01-22: MOTION TO ADOPT budget Resolution within the General Fund transferring $746,940"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "12011"
+state: "FL"
+county: "Broward County"
 repo_path: "kb/commission/broward-county-county-fl-county-commission-2026-01-22-motion-to-adopt-budget-resolution-within-the-general-fund-transferring-746-940.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

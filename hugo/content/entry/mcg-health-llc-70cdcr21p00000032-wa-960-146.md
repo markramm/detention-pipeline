@@ -1,13 +1,13 @@
 ---
 title: "MCG HEALTH, LLC. — 70CDCR21P00000032 (WA) $960,146"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "WA"
 county: ""
 repo_path: "kb/ice-contracts/mcg-health-llc-70cdcr21p00000032-wa-960-146.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

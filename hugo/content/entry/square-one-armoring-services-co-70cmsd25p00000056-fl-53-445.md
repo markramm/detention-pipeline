@@ -1,13 +1,13 @@
 ---
 title: "Square One Armoring Services CO — 70Cmsd25P00000056 (FL) $53,445"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/square-one-armoring-services-co-70cmsd25p00000056-fl-53-445.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SQUARE ONE ARMORING SERVICES CO"
 source_count: 0
 type: "entry"

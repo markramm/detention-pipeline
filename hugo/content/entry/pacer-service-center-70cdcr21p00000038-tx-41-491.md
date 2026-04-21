@@ -1,13 +1,13 @@
 ---
 title: "Pacer Service Center — 70Cdcr21P00000038 (TX) $41,491"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/pacer-service-center-70cdcr21p00000038-tx-41-491.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PACER SERVICE CENTER"
 source_count: 0
 type: "entry"

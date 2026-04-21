@@ -18,7 +18,7 @@ status: "active"
 bed_count: ""
 facility_type: "Unknown"
 city: "Stanton"
-address: "301 North Saint Peter Street "
+address: "301 North Saint Peter Street"
 aor: "El Paso"
 avg_daily_pop: ""
 ---

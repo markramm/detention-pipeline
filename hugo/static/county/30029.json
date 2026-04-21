@@ -2,15 +2,16 @@
   "fips": "30029",
   "county": "Flathead County, MT",
   "state": "MT",
-  "score": 38,
+  "score": 44,
   "signal_types": 3,
-  "rank": 181,
-  "total_counties": 1192,
-  "percentile": 85,
-  "coverage": "unresearched",
-  "auto_summary": "Flathead County, MT shows 1 existing IGSA facility, and 1 287(g) agreement.",
+  "rank": 196,
+  "total_counties": 2019,
+  "percentile": 90,
+  "coverage": "partially-researched",
+  "auto_summary": "Flathead County, MT shows 1 existing IGSA facility, 1 287(g) agreement, and active community resistance.",
   "entry_types": {
     "287g-agreement": 1,
-    "igsa": 1
+    "igsa": 1,
+    "county-fight": 1
   }
 }

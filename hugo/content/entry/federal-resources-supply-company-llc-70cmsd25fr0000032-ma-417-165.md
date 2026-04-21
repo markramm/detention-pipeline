@@ -1,13 +1,13 @@
 ---
 title: "Federal Resources Supply Company, LLC — 70Cmsd25Fr0000032 (Ma) $417,165"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MA"
 county: ""
 repo_path: "kb/ice-contracts/federal-resources-supply-company-llc-70cmsd25fr0000032-ma-417-165.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FEDERAL RESOURCES SUPPLY COMPANY, LLC"
 source_count: 0
 type: "entry"

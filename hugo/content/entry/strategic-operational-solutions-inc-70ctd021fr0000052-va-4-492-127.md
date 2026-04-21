@@ -1,13 +1,13 @@
 ---
 title: "Strategic Operational Solutions INC — 70Ctd021Fr0000052 (VA) $4,492,127"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/strategic-operational-solutions-inc-70ctd021fr0000052-va-4-492-127.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: STRATEGIC OPERATIONAL SOLUTIONS INC"
 source_count: 0
 type: "entry"

@@ -1,0 +1,15 @@
+{
+  "fips": "19061",
+  "county": "Dubuque County, IA",
+  "state": "IA",
+  "score": 1,
+  "signal_types": 1,
+  "rank": 2018,
+  "total_counties": 2019,
+  "percentile": 0,
+  "coverage": "partially-researched",
+  "auto_summary": "Dubuque County, IA shows active community resistance.",
+  "entry_types": {
+    "county-fight": 1
+  }
+}

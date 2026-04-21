@@ -7,7 +7,7 @@ fips: "48205"
 state: "TX"
 county: "Hartley County"
 repo_path: "kb/287g/287-g-tfm-hartley-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Hartley County Sheriff’s Office, signed July 23, 2025."
 source_count: 1
 type: "entry"

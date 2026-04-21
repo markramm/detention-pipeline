@@ -1,13 +1,13 @@
 ---
 title: "Deloitte Consulting Llp — 70Ctd023Fr0000088 (VA) $25,888,361"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/deloitte-consulting-llp-70ctd023fr0000088-va-25-888-361.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DELOITTE CONSULTING LLP"
 source_count: 0
 type: "entry"

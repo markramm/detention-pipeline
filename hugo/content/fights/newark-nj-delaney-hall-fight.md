@@ -3,11 +3,11 @@ title: "Newark NJ — City vs. GEO Group/ICE Over Delaney Hall Permits and Condi
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "34013"
 state: "NJ"
 county: "Essex"
 repo_path: "kb/industry/county-fights/newark-nj-delaney-hall-fight.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "The City of Newark has waged an aggressive legal and political fight against the reopening of Delaney Hall, a 1,000-bed GEO Group ICE detention facility that opened May 1, 2025 as the largest ICE..."
 source_count: 11
 type: "fights"

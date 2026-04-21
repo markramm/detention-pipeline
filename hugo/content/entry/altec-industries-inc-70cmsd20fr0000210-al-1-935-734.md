@@ -1,13 +1,13 @@
 ---
 title: "Altec Industries, INC. — 70Cmsd20Fr0000210 (AL) $1,935,734"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AL"
 county: ""
 repo_path: "kb/ice-contracts/altec-industries-inc-70cmsd20fr0000210-al-1-935-734.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ALTEC INDUSTRIES, INC."
 source_count: 0
 type: "entry"

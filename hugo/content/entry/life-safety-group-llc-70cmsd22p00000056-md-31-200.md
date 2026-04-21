@@ -1,13 +1,13 @@
 ---
 title: "Life Safety Group, LLC — 70Cmsd22P00000056 (MD) $31,200"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/life-safety-group-llc-70cmsd22p00000056-md-31-200.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LIFE SAFETY GROUP, LLC"
 source_count: 0
 type: "entry"

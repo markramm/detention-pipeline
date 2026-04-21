@@ -1,13 +1,13 @@
 ---
 title: "State Industrial Products Corp — 70Cdcr21P00000062 (AZ) $216,439"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/state-industrial-products-corp-70cdcr21p00000062-az-216-439.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: STATE INDUSTRIAL PRODUCTS CORP"
 source_count: 0
 type: "entry"

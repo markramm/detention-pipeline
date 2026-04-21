@@ -3,11 +3,11 @@ title: "Roxbury NJ — Governor, AG, and Township Sue to Block ICE Processing Ce
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "34027"
 state: "NJ"
 county: "Morris"
 repo_path: "kb/industry/county-fights/roxbury-nj-lawsuit.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "NJ Governor, AG, and Roxbury Township jointly sued to block a 470K sq ft ICE warehouse. Project NINJA organized 1,500+ community members -- broadest multi-level legal opposition of any facility fight."
 source_count: 9
 type: "fights"

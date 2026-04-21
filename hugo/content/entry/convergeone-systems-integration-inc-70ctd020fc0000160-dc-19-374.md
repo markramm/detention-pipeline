@@ -1,13 +1,13 @@
 ---
 title: "Convergeone Systems Integration, INC. — 70Ctd020Fc0000160 (DC) $19,374"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/convergeone-systems-integration-inc-70ctd020fc0000160-dc-19-374.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CONVERGEONE SYSTEMS INTEGRATION, INC."
 source_count: 0
 type: "entry"

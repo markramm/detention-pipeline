@@ -1,13 +1,13 @@
 ---
 title: "Apl Access & Security, INC. — 70Cmsw25Fr0000116 (AZ) $99,913"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/apl-access-security-inc-70cmsw25fr0000116-az-99-913.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: APL ACCESS & SECURITY, INC."
 source_count: 0
 type: "entry"

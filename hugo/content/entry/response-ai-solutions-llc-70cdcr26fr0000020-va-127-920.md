@@ -1,13 +1,13 @@
 ---
 title: "Response Ai Solutions, LLC — 70Cdcr26Fr0000020 (VA) $127,920"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/response-ai-solutions-llc-70cdcr26fr0000020-va-127-920.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: RESPONSE AI SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

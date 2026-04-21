@@ -7,7 +7,7 @@ fips: "48183"
 state: "TX"
 county: "Gregg County"
 repo_path: "kb/287g/287-g-jem-gregg-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) JEM agreement between ICE and Gregg County Sheriff’s Office, signed March 17, 2025."
 source_count: 1
 type: "entry"

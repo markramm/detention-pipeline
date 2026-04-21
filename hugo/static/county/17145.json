@@ -2,14 +2,15 @@
   "fips": "17145",
   "county": "Perry County, IL",
   "state": "IL",
-  "score": 10,
-  "signal_types": 1,
-  "rank": 880,
-  "total_counties": 1192,
-  "percentile": 26,
+  "score": 15,
+  "signal_types": 2,
+  "rank": 845,
+  "total_counties": 2019,
+  "percentile": 58,
   "coverage": "unresearched",
-  "auto_summary": "Perry County, IL shows 1 existing IGSA facility.",
+  "auto_summary": "Perry County, IL shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
+    "budget-distress": 1,
     "igsa": 1
   }
 }

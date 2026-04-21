@@ -1,13 +1,13 @@
 ---
 title: "Credence Management Solutions Limited Liability Company — 70Ctd024Fr0000012 (DC) $10,016,364"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/credence-management-solutions-limited-liability-company-70ctd024fr0000012-dc-10-016-364.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: CREDENCE MANAGEMENT SOLUTIONS LIMITED LIABILITY COMPANY"
 source_count: 0
 type: "entry"

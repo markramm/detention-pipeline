@@ -1,13 +1,13 @@
 ---
 title: "Thomson Reuters Special Services LLC — 70Cmsd18P00000145 (VA) $4,002,548"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/thomson-reuters-special-services-llc-70cmsd18p00000145-va-4-002-548.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THOMSON REUTERS SPECIAL SERVICES LLC"
 source_count: 0
 type: "entry"

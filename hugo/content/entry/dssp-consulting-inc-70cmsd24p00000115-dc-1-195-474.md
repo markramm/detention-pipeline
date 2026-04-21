@@ -1,13 +1,13 @@
 ---
 title: "Dssp Consulting, INC. — 70Cmsd24P00000115 (DC) $1,195,474"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/dssp-consulting-inc-70cmsd24p00000115-dc-1-195-474.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DSSP CONSULTING, INC."
 source_count: 0
 type: "entry"

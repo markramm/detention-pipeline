@@ -1,13 +1,13 @@
 ---
 title: "Vermont State Colleges — 70Cmsw23P00000032 (VT) $3,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VT"
 county: ""
 repo_path: "kb/ice-contracts/vermont-state-colleges-70cmsw23p00000032-vt-3-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: VERMONT STATE COLLEGES"
 source_count: 0
 type: "entry"

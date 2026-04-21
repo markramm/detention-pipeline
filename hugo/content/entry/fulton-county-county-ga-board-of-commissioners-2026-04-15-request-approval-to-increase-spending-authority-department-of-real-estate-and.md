@@ -1,13 +1,13 @@
 ---
-title: "Fulton County County GA — Board of Commissioners 2026-04-15: Request approval to increase spending authority - Department of Real Estate and "
+title: "Fulton County County GA — Board of Commissioners 2026-04-15: Request approval to increase spending authority - Department of Real Estate and"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "13121"
+state: "GA"
+county: "Fulton County"
 repo_path: "kb/commission/fulton-county-county-ga-board-of-commissioners-2026-04-15-request-approval-to-increase-spending-authority-department-of-real-estate-and.md"
-lastmod: "2026-04-16"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

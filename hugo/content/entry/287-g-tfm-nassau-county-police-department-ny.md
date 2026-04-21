@@ -7,7 +7,7 @@ fips: "36059"
 state: "NY"
 county: "Nassau County"
 repo_path: "kb/287g/287-g-tfm-nassau-county-police-department-ny.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Nassau County Police Department, signed March 10, 2025."
 source_count: 1
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "EMERGENT, LLC — 70CTD025FR0000072 (VA) $82,900"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/emergent-llc-70ctd025fr0000072-va-82-900.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

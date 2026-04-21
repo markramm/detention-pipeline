@@ -1,13 +1,13 @@
 ---
 title: "Summome Native Ventures LLC — 70Cmsw23P00000014 (AL) $3,852,258"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AL"
 county: ""
 repo_path: "kb/ice-contracts/summome-native-ventures-llc-70cmsw23p00000014-al-3-852-258.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SUMMOME NATIVE VENTURES LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Teksouth Corporation — 70Cdcr23P00000004 (AL) $10,245"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AL"
 county: ""
 repo_path: "kb/ice-contracts/teksouth-corporation-70cdcr23p00000004-al-10-245.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TEKSOUTH CORPORATION"
 source_count: 0
 type: "entry"

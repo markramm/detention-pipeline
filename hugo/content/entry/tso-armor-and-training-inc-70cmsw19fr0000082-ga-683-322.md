@@ -1,13 +1,13 @@
 ---
 title: "Tso Armor And Training, INC. — 70Cmsw19Fr0000082 (GA) $683,322"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/tso-armor-and-training-inc-70cmsw19fr0000082-ga-683-322.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TSO ARMOR AND TRAINING, INC."
 source_count: 0
 type: "entry"

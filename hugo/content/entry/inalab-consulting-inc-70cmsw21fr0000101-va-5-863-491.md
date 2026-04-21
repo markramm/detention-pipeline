@@ -1,13 +1,13 @@
 ---
 title: "Inalab Consulting, INC. — 70Cmsw21Fr0000101 (VA) $5,863,491"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/inalab-consulting-inc-70cmsw21fr0000101-va-5-863-491.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: INALAB CONSULTING, INC."
 source_count: 0
 type: "entry"

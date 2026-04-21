@@ -1,13 +1,13 @@
 ---
 title: "Iron Mountain Information Management LLC — 70Cmsw20Fc0000105 (DC) $3,825,662"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/iron-mountain-information-management-llc-70cmsw20fc0000105-dc-3-825-662.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: IRON MOUNTAIN INFORMATION MANAGEMENT LLC"
 source_count: 0
 type: "entry"

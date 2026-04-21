@@ -1,13 +1,13 @@
 ---
 title: "ALVAREZ LLC — 70CMSD25FR0000083 (VA) $51,603"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/alvarez-llc-70cmsd25fr0000083-va-51-603.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

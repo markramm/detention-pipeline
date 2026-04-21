@@ -3,11 +3,11 @@ title: "Salt Lake City UT — Protests, Water Restrictions, and Mayor Opposition
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "49035"
 state: "UT"
 county: "Salt Lake"
 repo_path: "kb/industry/county-fights/salt-lake-city-ut-mega-center-fight.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Community in Salt Lake City contested a $145.4M mega center for 7,500-10,000 beds. City imposed water restrictions following Social Circle model; purchase already completed limits options."
 source_count: 4
 type: "fights"

@@ -7,7 +7,7 @@ fips: "47175"
 state: "TN"
 county: "Van Buren County"
 repo_path: "kb/287g/287-g-wso-van-buren-county-sheriff-s-office-tn.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) WSO agreement between ICE and Van Buren County Sheriff’s Office, signed November 14, 2025."
 source_count: 1
 type: "entry"

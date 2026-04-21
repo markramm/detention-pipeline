@@ -1,13 +1,13 @@
 ---
 title: "National Protective Services, LLC — 70Cdcr26Fr0000022 (TX) $909,750"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/national-protective-services-llc-70cdcr26fr0000022-tx-909-750.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: NATIONAL PROTECTIVE SERVICES, LLC"
 source_count: 0
 type: "entry"

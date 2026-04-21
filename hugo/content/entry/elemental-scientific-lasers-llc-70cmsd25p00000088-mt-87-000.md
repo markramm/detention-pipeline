@@ -1,13 +1,13 @@
 ---
 title: "Elemental Scientific Lasers, LLC — 70Cmsd25P00000088 (MT) $87,000"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MT"
 county: ""
 repo_path: "kb/ice-contracts/elemental-scientific-lasers-llc-70cmsd25p00000088-mt-87-000.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ELEMENTAL SCIENTIFIC LASERS, LLC"
 source_count: 0
 type: "entry"

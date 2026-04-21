@@ -1,13 +1,13 @@
 ---
 title: "Four Points Technology, L.L.C. — 70Ctd024Fr0000007 (DC) $2,555,394"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/four-points-technology-l-l-c-70ctd024fr0000007-dc-2-555-394.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FOUR POINTS TECHNOLOGY, L.L.C."
 source_count: 0
 type: "entry"

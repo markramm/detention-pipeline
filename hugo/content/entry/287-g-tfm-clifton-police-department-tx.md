@@ -7,7 +7,7 @@ fips: "48035"
 state: "TX"
 county: "Bosque County"
 repo_path: "kb/287g/287-g-tfm-clifton-police-department-tx.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Clifton Police Department, signed September 22, 2025."
 source_count: 1
 type: "entry"

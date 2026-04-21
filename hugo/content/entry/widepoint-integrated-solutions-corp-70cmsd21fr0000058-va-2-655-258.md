@@ -1,13 +1,13 @@
 ---
 title: "Widepoint Integrated Solutions Corp — 70Cmsd21Fr0000058 (VA) $2,655,258"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/widepoint-integrated-solutions-corp-70cmsd21fr0000058-va-2-655-258.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: WIDEPOINT INTEGRATED SOLUTIONS CORP"
 source_count: 0
 type: "entry"

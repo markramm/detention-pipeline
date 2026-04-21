@@ -1,13 +1,13 @@
 ---
 title: "Dev Technology Group INC — 70Ctd023Fr0000002 (DC) $3,566,934"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/dev-technology-group-inc-70ctd023fr0000002-dc-3-566-934.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DEV TECHNOLOGY GROUP INC"
 source_count: 0
 type: "entry"

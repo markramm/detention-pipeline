@@ -1,13 +1,13 @@
 ---
 title: "Transource Services Corp. — 70Cmsd25Fr0000161 (AZ) $27,863"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/transource-services-corp-70cmsd25fr0000161-az-27-863.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TRANSOURCE SERVICES CORP."
 source_count: 0
 type: "entry"

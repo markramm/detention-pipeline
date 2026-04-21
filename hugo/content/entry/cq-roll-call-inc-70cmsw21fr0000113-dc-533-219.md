@@ -1,13 +1,13 @@
 ---
 title: "Cq-Roll Call, INC — 70Cmsw21Fr0000113 (DC) $533,219"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/cq-roll-call-inc-70cmsw21fr0000113-dc-533-219.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

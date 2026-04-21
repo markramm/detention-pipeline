@@ -1,13 +1,13 @@
 ---
 title: "Peraton Technology Services INC. — 70Cmsd22Fr0000190 (VA) $742,396"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/peraton-technology-services-inc-70cmsd22fr0000190-va-742-396.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PERATON TECHNOLOGY SERVICES INC."
 source_count: 0
 type: "entry"

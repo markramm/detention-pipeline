@@ -1,13 +1,13 @@
 ---
 title: "SHRED N GO, INC. — 70CMSD25P00000123 (MN) $3,908"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MN"
 county: ""
 repo_path: "kb/ice-contracts/shred-n-go-inc-70cmsd25p00000123-mn-3-908.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

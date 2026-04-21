@@ -1,13 +1,13 @@
 ---
 title: "Mashima Electric LLC — 70Cmsw24C00000014 (HI) $88,438"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "HI"
 county: ""
 repo_path: "kb/ice-contracts/mashima-electric-llc-70cmsw24c00000014-hi-88-438.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: MASHIMA ELECTRIC LLC"
 source_count: 0
 type: "entry"

@@ -1,0 +1,15 @@
+{
+  "fips": "06017",
+  "county": "El Dorado County, CA",
+  "state": "CA",
+  "score": 27,
+  "signal_types": 1,
+  "rank": 481,
+  "total_counties": 2019,
+  "percentile": 76,
+  "coverage": "partially-researched",
+  "auto_summary": "El Dorado County, CA shows commission activity.",
+  "entry_types": {
+    "commission-activity": 3
+  }
+}

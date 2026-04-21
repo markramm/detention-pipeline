@@ -1,13 +1,13 @@
 ---
 title: "Environmental Systems Research Institute, INC. — 70Cmsd24Fr0000064 (VA) $580,353"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/environmental-systems-research-institute-inc-70cmsd24fr0000064-va-580-353.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE, INC."
 source_count: 0
 type: "entry"

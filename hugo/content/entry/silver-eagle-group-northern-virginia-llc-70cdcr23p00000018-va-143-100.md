@@ -1,13 +1,13 @@
 ---
 title: "Silver Eagle Group Northern Virginia LLC — 70Cdcr23P00000018 (VA) $143,100"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/silver-eagle-group-northern-virginia-llc-70cdcr23p00000018-va-143-100.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SILVER EAGLE GROUP NORTHERN VIRGINIA LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Southern Police Equipment Company, INC. — 70Cdcr24Fr0000067 (VA) $12,627"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/southern-police-equipment-company-inc-70cdcr24fr0000067-va-12-627.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: SOUTHERN POLICE EQUIPMENT COMPANY, INC."
 source_count: 0
 type: "entry"

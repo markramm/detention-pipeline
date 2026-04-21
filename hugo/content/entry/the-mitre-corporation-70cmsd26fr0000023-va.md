@@ -1,13 +1,13 @@
 ---
 title: "The Mitre Corporation — 70Cmsd26Fr0000023 (VA)"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/the-mitre-corporation-70cmsd26fr0000023-va.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: THE MITRE CORPORATION"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Commit Enterprises INC — 70Cdcr24Fr0000060 (DC) $4,292,105"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/commit-enterprises-inc-70cdcr24fr0000060-dc-4-292-105.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: COMMIT ENTERPRISES INC"
 source_count: 0
 type: "entry"

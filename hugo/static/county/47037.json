@@ -2,14 +2,15 @@
   "fips": "47037",
   "county": "Davidson County, TN",
   "state": "TN",
-  "score": 44,
-  "signal_types": 2,
-  "rank": 134,
-  "total_counties": 1192,
-  "percentile": 89,
-  "coverage": "partially-researched",
-  "auto_summary": "Davidson County, TN shows 3 existing IGSA facilities, and active community resistance.",
+  "score": 88,
+  "signal_types": 3,
+  "rank": 32,
+  "total_counties": 2019,
+  "percentile": 98,
+  "coverage": "well-researched",
+  "auto_summary": "Davidson County, TN shows 3 existing IGSA facilities, commission activity, and active community resistance.",
   "entry_types": {
+    "commission-activity": 4,
     "igsa": 3,
     "county-fight": 1
   }

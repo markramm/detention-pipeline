@@ -1,13 +1,13 @@
 ---
 title: "C & C International Computers & Consultants, INC. — 70Ctd022Fr0000030 (WA) $4,020"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "WA"
 county: ""
 repo_path: "kb/ice-contracts/c-c-international-computers-consultants-inc-70ctd022fr0000030-wa-4-020.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: C & C INTERNATIONAL COMPUTERS & CONSULTANTS, INC."
 source_count: 0
 type: "entry"

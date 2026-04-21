@@ -1,13 +1,13 @@
 ---
 title: "Federal Lock & Safe INC — 70Cmsd24P00000149 (VA) $6,381"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/federal-lock-safe-inc-70cmsd24p00000149-va-6-381.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FEDERAL LOCK & SAFE INC"
 source_count: 0
 type: "entry"

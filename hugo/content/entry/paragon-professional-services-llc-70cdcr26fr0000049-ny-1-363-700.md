@@ -1,13 +1,13 @@
 ---
 title: "Paragon Professional Services LLC — 70Cdcr26Fr0000049 (NY) $1,363,700"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NY"
 county: ""
 repo_path: "kb/ice-contracts/paragon-professional-services-llc-70cdcr26fr0000049-ny-1-363-700.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PARAGON PROFESSIONAL SERVICES LLC"
 source_count: 0
 type: "entry"

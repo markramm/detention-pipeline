@@ -1,13 +1,13 @@
 ---
 title: "R M L Huntsville Chevrolet LLC — 70Cmsd26P00000023 (AL) $8,797"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AL"
 county: ""
 repo_path: "kb/ice-contracts/r-m-l-huntsville-chevrolet-llc-70cmsd26p00000023-al-8-797.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: R M L HUNTSVILLE CHEVROLET LLC"
 source_count: 0
 type: "entry"

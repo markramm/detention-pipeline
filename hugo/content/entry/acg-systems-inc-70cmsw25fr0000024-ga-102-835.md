@@ -1,13 +1,13 @@
 ---
 title: "Acg Systems, INC. — 70Cmsw25Fr0000024 (GA) $102,835"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/acg-systems-inc-70cmsw25fr0000024-ga-102-835.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

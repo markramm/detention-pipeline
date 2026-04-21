@@ -1,13 +1,13 @@
 ---
 title: "Lexisnexis Risk Solutions INC — 70Cmsd21C00000001 (GA) $22,132,743"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/lexisnexis-risk-solutions-inc-70cmsd21c00000001-ga-22-132-743.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: LEXISNEXIS RISK SOLUTIONS INC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Tecolote Research, INC. — 70Cmsw23P00000025 (CA) $31,590"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/tecolote-research-inc-70cmsw23p00000025-ca-31-590.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TECOLOTE RESEARCH, INC."
 source_count: 0
 type: "entry"

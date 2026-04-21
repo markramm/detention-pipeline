@@ -1,13 +1,13 @@
 ---
 title: "Impres Technology Solutions, INC — 70Cmsd26Fr0000020 (TX) $425,123"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/impres-technology-solutions-inc-70cmsd26fr0000020-tx-425-123.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: IMPRES TECHNOLOGY SOLUTIONS, INC"
 source_count: 0
 type: "entry"

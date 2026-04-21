@@ -3,11 +3,11 @@ title: "Kansas City MO — Platform Ventures Warehouse Deal Blocked by Community
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "29095"
 state: "MO"
 county: "Jackson"
 repo_path: "kb/industry/county-fights/kansas-city-mo-platform-ventures.md"
-lastmod: "2026-04-11"
+lastmod: "2026-04-20"
 summary: "Community in Kansas City blocked a 7,500-bed mega center through student walkouts, mass protests, and a general strike. Platform Ventures withdrew Feb 12, 2026 after Port KC severed ties."
 source_count: 5
 type: "fights"

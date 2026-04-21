@@ -1,13 +1,13 @@
 ---
 title: "SIG SAUER INC. — 70CMSW26FC0000009 (NH) $1,384,110"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NH"
 county: ""
 repo_path: "kb/ice-contracts/sig-sauer-inc-70cmsw26fc0000009-nh-1-384-110.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

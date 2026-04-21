@@ -1,13 +1,13 @@
 ---
 title: "Widepoint Integrated Solutions Corp — 70Cmsw25Fr0000056 (GA) $19,112"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "GA"
 county: ""
 repo_path: "kb/ice-contracts/widepoint-integrated-solutions-corp-70cmsw25fr0000056-ga-19-112.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: WIDEPOINT INTEGRATED SOLUTIONS CORP"
 source_count: 0
 type: "entry"

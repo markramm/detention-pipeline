@@ -1,13 +1,13 @@
 ---
 title: "Tidewater Distributors LLC — 70Cmsw24Fr0000025 (VA) $34,845"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/tidewater-distributors-llc-70cmsw24fr0000025-va-34-845.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TIDEWATER DISTRIBUTORS LLC"
 source_count: 0
 type: "entry"

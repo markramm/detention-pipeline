@@ -1,13 +1,13 @@
 ---
 title: "Homeland Security And Management Solutions, INC. — 70Cmsd23P00000090 (TX) $79,885"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/homeland-security-and-management-solutions-inc-70cmsd23p00000090-tx-79-885.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: HOMELAND SECURITY AND MANAGEMENT SOLUTIONS, INC."
 source_count: 0
 type: "entry"

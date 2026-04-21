@@ -1,13 +1,13 @@
 ---
 title: "Versaterm Public Safety Us INC — 70Cmsd22Fr0000036 (VA) $134,193"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/versaterm-public-safety-us-inc-70cmsd22fr0000036-va-134-193.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: VERSATERM PUBLIC SAFETY US INC"
 source_count: 0
 type: "entry"

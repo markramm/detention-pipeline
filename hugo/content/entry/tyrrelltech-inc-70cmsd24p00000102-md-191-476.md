@@ -1,13 +1,13 @@
 ---
 title: "Tyrrelltech, INC. — 70Cmsd24P00000102 (MD) $191,476"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MD"
 county: ""
 repo_path: "kb/ice-contracts/tyrrelltech-inc-70cmsd24p00000102-md-191-476.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

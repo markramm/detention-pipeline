@@ -4,13 +4,14 @@
   "state": "IA",
   "score": 22,
   "signal_types": 3,
-  "rank": 405,
-  "total_counties": 1192,
-  "percentile": 66,
-  "coverage": "unresearched",
-  "auto_summary": "Muscatine County, IA shows 1 existing IGSA facility.",
+  "rank": 624,
+  "total_counties": 2019,
+  "percentile": 69,
+  "coverage": "partially-researched",
+  "auto_summary": "Muscatine County, IA shows 1 existing IGSA facility, and active community resistance.",
   "entry_types": {
     "igsa": 1,
+    "county-fight": 1,
     "facility": 1
   }
 }

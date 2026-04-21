@@ -1,13 +1,13 @@
 ---
 title: "Dh Technologies, INC. — 70Ctd025Fr0000061 (VA) $934,629"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/dh-technologies-inc-70ctd025fr0000061-va-934-629.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DH TECHNOLOGIES, INC."
 source_count: 0
 type: "entry"

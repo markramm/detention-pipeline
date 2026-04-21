@@ -1,13 +1,13 @@
 ---
 title: "Techops Specialty Vehicles, LLC — 70Cmsd23Fr0000239 (DC) $2,400,358"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/techops-specialty-vehicles-llc-70cmsd23fr0000239-dc-2-400-358.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: TECHOPS SPECIALTY VEHICLES, LLC"
 source_count: 0
 type: "entry"

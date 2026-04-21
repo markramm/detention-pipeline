@@ -1,13 +1,13 @@
 ---
 title: "KZF DESIGN INC — 70CMSW22FR0000136 (DC) $794,910"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/kzf-design-inc-70cmsw22fr0000136-dc-794-910.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

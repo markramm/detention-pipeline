@@ -1,5 +1,5 @@
 ---
-title: "US Marshals  SDTX — Hidalgo, TX"
+title: "US Marshals SDTX — Hidalgo, TX"
 entry_type: "igsa"
 signal_label: "IGSA Facility"
 signal_color: "#c93b3b"
@@ -12,7 +12,7 @@ summary: "IGSA detention facility in Hidalgo, TX."
 source_count: 0
 source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
-facility_name: "US Marshals  SDTX"
+facility_name: "US Marshals SDTX"
 operator: ""
 status: "active"
 bed_count: ""

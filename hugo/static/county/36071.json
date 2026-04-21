@@ -4,14 +4,15 @@
   "state": "NY",
   "score": 61,
   "signal_types": 4,
-  "rank": 52,
-  "total_counties": 1192,
+  "rank": 82,
+  "total_counties": 2019,
   "percentile": 96,
-  "coverage": "unresearched",
-  "auto_summary": "Orange County, NY shows 2 existing IGSA facilities, and 1 ANC contract.",
+  "coverage": "partially-researched",
+  "auto_summary": "Orange County, NY shows 2 existing IGSA facilities, 1 ANC contract, and active community resistance.",
   "entry_types": {
     "anc-contract": 1,
     "igsa": 2,
+    "county-fight": 1,
     "facility": 1
   }
 }

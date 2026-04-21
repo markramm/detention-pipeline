@@ -7,7 +7,7 @@ fips: "29009"
 state: "MO"
 county: "Barry County"
 repo_path: "kb/287g/287-g-tfm-washburn-police-department-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Washburn Police Department, signed November 4, 2025."
 source_count: 1
 type: "entry"

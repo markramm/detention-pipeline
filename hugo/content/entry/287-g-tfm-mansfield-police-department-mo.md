@@ -7,7 +7,7 @@ fips: "29229"
 state: "MO"
 county: "Wright County"
 repo_path: "kb/287g/287-g-tfm-mansfield-police-department-mo.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Mansfield Police Department, signed January 7, 2026."
 source_count: 1
 type: "entry"

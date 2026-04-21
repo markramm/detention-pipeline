@@ -1,13 +1,13 @@
 ---
 title: "New Life Chinese Laundry, INC — 70Cdcr19P00000024 (CA) $12,311"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "CA"
 county: ""
 repo_path: "kb/ice-contracts/new-life-chinese-laundry-inc-70cdcr19p00000024-ca-12-311.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: NEW LIFE CHINESE LAUNDRY, INC"
 source_count: 0
 type: "entry"

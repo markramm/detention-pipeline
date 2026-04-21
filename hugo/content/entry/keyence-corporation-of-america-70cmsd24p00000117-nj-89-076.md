@@ -1,13 +1,13 @@
 ---
 title: "Keyence Corporation Of America — 70Cmsd24P00000117 (NJ) $89,076"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "NJ"
 county: ""
 repo_path: "kb/ice-contracts/keyence-corporation-of-america-70cmsd24p00000117-nj-89-076.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: KEYENCE CORPORATION OF AMERICA"
 source_count: 0
 type: "entry"

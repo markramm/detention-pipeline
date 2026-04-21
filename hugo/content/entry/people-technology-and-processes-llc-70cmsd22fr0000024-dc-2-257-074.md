@@ -1,13 +1,13 @@
 ---
 title: "People, Technology And Processes, LLC — 70Cmsd22Fr0000024 (DC) $2,257,074"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/people-technology-and-processes-llc-70cmsd22fr0000024-dc-2-257-074.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PEOPLE, TECHNOLOGY AND PROCESSES, LLC"
 source_count: 0
 type: "entry"

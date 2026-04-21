@@ -1,13 +1,13 @@
 ---
 title: "Recana Solutions, L.L.C. — 70Cdcr25Fr0000071 (TX) $250"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "TX"
 county: ""
 repo_path: "kb/ice-contracts/recana-solutions-l-l-c-70cdcr25fr0000071-tx-250.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: RECANA SOLUTIONS, L.L.C."
 source_count: 0
 type: "entry"

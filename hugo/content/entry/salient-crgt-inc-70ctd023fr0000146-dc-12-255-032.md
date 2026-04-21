@@ -1,13 +1,13 @@
 ---
 title: "Salient Crgt, INC. — 70Ctd023Fr0000146 (DC) $12,255,032"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/salient-crgt-inc-70ctd023fr0000146-dc-12-255-032.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

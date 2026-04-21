@@ -1,13 +1,13 @@
 ---
 title: "Flightwave Aerospace Systems Corporation — 70Cmsd23P00000062 (VA) $63,800"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "VA"
 county: ""
 repo_path: "kb/ice-contracts/flightwave-aerospace-systems-corporation-70cmsd23p00000062-va-63-800.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: FLIGHTWAVE AEROSPACE SYSTEMS CORPORATION"
 source_count: 0
 type: "entry"

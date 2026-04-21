@@ -7,7 +7,7 @@ fips: "12113"
 state: "FL"
 county: "Santa Rosa County"
 repo_path: "kb/287g/287-g-tfm-milton-police-department-fl.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Milton Police Department, signed December 10, 2025."
 source_count: 1
 type: "entry"

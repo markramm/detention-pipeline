@@ -1,13 +1,13 @@
 ---
 title: "Sos Solutions, LLC. — 70Cmsd24P00000002 (AZ) $30,332"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "AZ"
 county: ""
 repo_path: "kb/ice-contracts/sos-solutions-llc-70cmsd24p00000002-az-30-332.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: ""
 state: "IN"
 county: ""
 repo_path: "kb/287g/287-g-tfm-indiana-state-police-department-in.md"
-lastmod: "2026-04-10"
+lastmod: "2026-04-20"
 summary: "287(g) TFM agreement between ICE and Indiana State Police Department, signed August 4, 2025."
 source_count: 1
 type: "entry"

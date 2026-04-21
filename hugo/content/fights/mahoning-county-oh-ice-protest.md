@@ -3,11 +3,11 @@ title: "Mahoning County OH — Community opposition to ICE jail and deportation 
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "39099"
 state: "OH"
 county: "Mahoning"
 repo_path: "kb/industry/county-fights/mahoning-county-oh-ice-protest.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Youngstown has become a major ICE detention and deportation hub, with two facilities holding approximately 500 ICE detainees and the Youngstown-Warren Regional Airport serving as the 7th busiest..."
 source_count: 4
 type: "fights"

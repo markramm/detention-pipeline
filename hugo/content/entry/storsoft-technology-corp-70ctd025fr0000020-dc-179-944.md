@@ -1,13 +1,13 @@
 ---
 title: "Storsoft Technology Corp — 70Ctd025Fr0000020 (DC) $179,944"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/storsoft-technology-corp-70ctd025fr0000020-dc-179-944.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: STORSOFT TECHNOLOGY CORP"
 source_count: 0
 type: "entry"

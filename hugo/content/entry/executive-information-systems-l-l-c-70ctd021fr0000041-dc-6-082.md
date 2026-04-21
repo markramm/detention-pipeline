@@ -1,13 +1,13 @@
 ---
 title: "Executive Information Systems, L.L.C. — 70Ctd021Fr0000041 (DC) $6,082"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/executive-information-systems-l-l-c-70ctd021fr0000041-dc-6-082.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: EXECUTIVE INFORMATION SYSTEMS, L.L.C."
 source_count: 0
 type: "entry"

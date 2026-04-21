@@ -1,13 +1,13 @@
 ---
 title: "Veteran Technology Partners Ii LLC — 70Ctd020Fr0000266 (DC) $93,787"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/veteran-technology-partners-ii-llc-70ctd020fr0000266-dc-93-787.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: VETERAN TECHNOLOGY PARTNERS II LLC"
 source_count: 0
 type: "entry"

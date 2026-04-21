@@ -1,13 +1,13 @@
 ---
 title: "Dallas Childrens Advocacy Center — 70Cmsd24P00000137 (DC) $120,500"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "DC"
 county: ""
 repo_path: "kb/ice-contracts/dallas-childrens-advocacy-center-70cmsd24p00000137-dc-120-500.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: DALLAS CHILDRENS ADVOCACY CENTER"
 source_count: 0
 type: "entry"

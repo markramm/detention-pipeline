@@ -1,13 +1,13 @@
 ---
 title: "Viken Detection Corporation — 70Cmsd26P00000028 (Ma) $75,225"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "MA"
 county: ""
 repo_path: "kb/ice-contracts/viken-detection-corporation-70cmsd26p00000028-ma-75-225.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: VIKEN DETECTION CORPORATION"
 source_count: 0
 type: "entry"

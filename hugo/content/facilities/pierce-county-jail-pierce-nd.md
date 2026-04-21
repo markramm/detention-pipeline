@@ -18,7 +18,7 @@ status: "active"
 bed_count: ""
 facility_type: "Other"
 city: "Rugby"
-address: "110 Industial Park Road "
+address: "110 Industial Park Road"
 aor: "St. Paul"
 avg_daily_pop: "1"
 ---

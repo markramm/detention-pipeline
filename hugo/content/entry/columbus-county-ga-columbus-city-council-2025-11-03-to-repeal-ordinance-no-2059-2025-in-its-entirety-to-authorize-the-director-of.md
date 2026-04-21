@@ -1,13 +1,13 @@
 ---
-title: "Columbus County GA — Columbus City Council 2025-11-03: To repeal Ordinance No. 2059-2025 in its entirety; to authorize the Director of "
+title: "Columbus County GA — Columbus City Council 2025-11-03: To repeal Ordinance No. 2059-2025 in its entirety; to authorize the Director of"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: ""
-state: ""
-county: ""
+fips: "13215"
+state: "GA"
+county: "Muscogee County"
 repo_path: "kb/commission/columbus-county-ga-columbus-city-council-2025-11-03-to-repeal-ordinance-no-2059-2025-in-its-entirety-to-authorize-the-director-of.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

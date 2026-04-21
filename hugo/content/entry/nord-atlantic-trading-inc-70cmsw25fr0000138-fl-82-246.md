@@ -1,13 +1,13 @@
 ---
 title: "Nord/Atlantic Trading, INC. — 70Cmsw25Fr0000138 (FL) $82,246"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "FL"
 county: ""
 repo_path: "kb/ice-contracts/nord-atlantic-trading-inc-70cmsw25fr0000138-fl-82-246.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: NORD/ATLANTIC TRADING, INC."
 source_count: 0
 type: "entry"

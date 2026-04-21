@@ -1,0 +1,15 @@
+{
+  "fips": "27139",
+  "county": "Scott County, MN",
+  "state": "MN",
+  "score": 2,
+  "signal_types": 1,
+  "rank": 2014,
+  "total_counties": 2019,
+  "percentile": 0,
+  "coverage": "partially-researched",
+  "auto_summary": "Scott County, MN shows active community resistance.",
+  "entry_types": {
+    "county-fight": 2
+  }
+}

@@ -1,13 +1,13 @@
 ---
 title: "Puerto Rico Telephone CO, INC — 70Cmsd20P00000179 (Pr) $11,209"
 entry_type: "ice-contract"
-signal_label: "ice-contract"
-signal_color: "#666"
+signal_label: "ICE Contract"
+signal_color: "#c49025"
 fips: ""
-state: ""
+state: "PR"
 county: ""
 repo_path: "kb/ice-contracts/puerto-rico-telephone-co-inc-70cmsd20p00000179-pr-11-209.md"
-lastmod: "2026-04-12"
+lastmod: "2026-04-20"
 summary: "Recipient: PUERTO RICO TELEPHONE CO, INC"
 source_count: 0
 type: "entry"

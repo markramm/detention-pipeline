@@ -3,11 +3,11 @@ title: "Columbus/Franklin County OH — Anti-ICE measures after Operation Buckey
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: ""
+fips: "39049"
 state: "OH"
 county: "Franklin"
 repo_path: "kb/industry/county-fights/columbus-oh-anti-ice-measures.md"
-lastmod: "2026-04-13"
+lastmod: "2026-04-20"
 summary: "Columbus became the epicenter of Ohio's immigration enforcement controversy after ICE launched \"Operation Buckeye\" in December 2025, arresting more than 280 people in the Columbus area in one week...."
 source_count: 6
 type: "fights"
