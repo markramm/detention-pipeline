@@ -1,0 +1,162 @@
+{{/*
+  Type-specific schema.org structured data. Picks the most useful @type
+  per page section. Keeps Article as a fallback.
+
+  Consumers: search engines, social media unfurls, knowledge-graph tools.
+  See GitHub issue #27 for the design rationale.
+*/}}
+{{- $section := .Section -}}
+{{- $type := .Type -}}
+{{- $layout := .Layout -}}
+{{- $url := .Permalink -}}
+{{- $title := .Title -}}
+{{- $desc := .Params.summary | default .Params.auto_summary | default (printf "%s — detention pipeline signals" .Title) -}}
+{{- $lastmod := .Params.lastmod -}}
+{{- $publisher := dict "@type" "Organization" "name" "The RAMM" "url" "https://theramm.substack.com" -}}
+{{- $isPartOf := dict "@type" "WebSite" "name" "Detention Pipeline" "url" "https://detention-pipeline.transparencycascade.org/" -}}
+
+{{- $data := dict "@context" "https://schema.org" -}}
+
+{{- /* County pages -> Dataset + spatialCoverage Place */ -}}
+{{- if or (eq $section "county") (eq $type "county") -}}
+  {{- $county := $title -}}
+  {{- $score := .Params.score | default 0 -}}
+  {{- $types := .Params.signal_types | default 0 -}}
+  {{- $rank := .Params.rank | default 0 -}}
+  {{- $data = merge $data (dict
+    "@type" "Dataset"
+    "name" (printf "%s — Detention Pipeline Signals" $county)
+    "description" $desc
+    "url" $url
+    "creator" $publisher
+    "isPartOf" $isPartOf
+    "variableMeasured" "detention pipeline signal convergence score"
+    "spatialCoverage" (dict
+      "@type" "Place"
+      "name" $county
+      "address" (dict "@type" "PostalAddress" "addressRegion" .Params.state "addressCountry" "US")
+    )
+  ) -}}
+  {{- if $score -}}
+    {{- $data = merge $data (dict "keywords" (printf "heat score %v, rank %v of %v, %v signal types" $score $rank .Params.total_counties $types)) -}}
+  {{- end -}}
+
+{{- /* Fight pages -> NewsArticle about a GovernmentOrganization */ -}}
+{{- else if or (eq $section "fights") (eq $type "fights") -}}
+  {{- $data = merge $data (dict
+    "@type" "NewsArticle"
+    "headline" $title
+    "description" $desc
+    "url" $url
+    "publisher" $publisher
+    "isPartOf" $isPartOf
+  ) -}}
+  {{- with .Params.county -}}
+    {{- $data = merge $data (dict
+      "about" (dict
+        "@type" "GovernmentOrganization"
+        "name" (printf "%s County" .)
+        "address" (dict "@type" "PostalAddress" "addressRegion" $.Params.state "addressCountry" "US")
+      )
+    ) -}}
+  {{- end -}}
+  {{- with $lastmod -}}
+    {{- $data = merge $data (dict "dateModified" .) -}}
+  {{- end -}}
+
+{{- /* Facility pages -> CivicStructure (or Place for un-built proposals) */ -}}
+{{- else if or (eq $section "facilities") (eq $type "facilities") -}}
+  {{- $addr := dict "@type" "PostalAddress" "addressCountry" "US" -}}
+  {{- with .Params.state -}}{{- $addr = merge $addr (dict "addressRegion" .) -}}{{- end -}}
+  {{- with .Params.city -}}{{- $addr = merge $addr (dict "addressLocality" .) -}}{{- end -}}
+  {{- with .Params.address -}}{{- $addr = merge $addr (dict "streetAddress" .) -}}{{- end -}}
+  {{- $data = merge $data (dict
+    "@type" "CivicStructure"
+    "name" $title
+    "description" $desc
+    "url" $url
+    "address" $addr
+    "isPartOf" $isPartOf
+  ) -}}
+  {{- with .Params.operator -}}
+    {{- $data = merge $data (dict "owner" (dict "@type" "Organization" "name" .)) -}}
+  {{- end -}}
+
+{{- /* Contractor pages -> Organization */ -}}
+{{- else if or (eq $section "contractors") (in .RelPermalink "/players/contractors/") -}}
+  {{- $data = merge $data (dict
+    "@type" "Organization"
+    "name" $title
+    "description" $desc
+    "url" $url
+    "isPartOf" $isPartOf
+  ) -}}
+  {{- with .Params.headquarters -}}
+    {{- $data = merge $data (dict "address" (dict "@type" "PostalAddress" "addressLocality" .)) -}}
+  {{- end -}}
+  {{- with .Params.founded -}}
+    {{- $data = merge $data (dict "foundingDate" .) -}}
+  {{- end -}}
+
+{{- /* Organization index pages + org entries -> Organization */ -}}
+{{- else if or (eq $section "organizations") (in .RelPermalink "/organizations/") -}}
+  {{- $data = merge $data (dict
+    "@type" "Organization"
+    "name" $title
+    "description" $desc
+    "url" $url
+    "isPartOf" $isPartOf
+  ) -}}
+
+{{- /* Person pages -> Person */ -}}
+{{- else if or (eq $section "people") (in .RelPermalink "/players/people/") -}}
+  {{- $data = merge $data (dict
+    "@type" "Person"
+    "name" $title
+    "description" $desc
+    "url" $url
+  ) -}}
+  {{- with .Params.role -}}
+    {{- $data = merge $data (dict "jobTitle" .) -}}
+  {{- end -}}
+
+{{- /* State pages -> Place (addressRegion only) */ -}}
+{{- else if or (eq $section "state") (eq $type "state") -}}
+  {{- $stateAbbr := .Params.state_abbr | default .Params.state -}}
+  {{- $data = merge $data (dict
+    "@type" "Place"
+    "name" $title
+    "description" $desc
+    "url" $url
+    "address" (dict "@type" "PostalAddress" "addressRegion" $stateAbbr "addressCountry" "US")
+  ) -}}
+
+{{- /* Signal index pages -> CollectionPage */ -}}
+{{- else if or (eq $section "signals") (eq $type "signals") -}}
+  {{- $data = merge $data (dict
+    "@type" "CollectionPage"
+    "name" $title
+    "description" $desc
+    "url" $url
+    "isPartOf" $isPartOf
+  ) -}}
+
+{{- /* Default fallback for entry/, blog/, static pages -> Article */ -}}
+{{- else -}}
+  {{- $data = merge $data (dict
+    "@type" "Article"
+    "headline" $title
+    "description" $desc
+    "url" $url
+    "publisher" $publisher
+    "isPartOf" $isPartOf
+  ) -}}
+  {{- with $lastmod -}}
+    {{- $data = merge $data (dict "dateModified" .) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Emit */ -}}
+<script type="application/ld+json">
+{{ $data | jsonify (dict "indent" "  ") | safeJS }}
+</script>

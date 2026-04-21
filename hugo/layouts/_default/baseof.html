@@ -76,26 +76,7 @@
 }
 </script>
 {{ if and .IsPage (not .IsHome) }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "{{ .Title }}",
-  "description": "{{ $desc }}",
-  {{ with .Params.lastmod }}"dateModified": "{{ . }}",{{ end }}
-  "url": "{{ .Permalink }}",
-  "publisher": {
-    "@type": "Organization",
-    "name": "The RAMM",
-    "url": "https://theramm.substack.com"
-  },
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "Detention Pipeline",
-    "url": "https://detention-pipeline.transparencycascade.org/"
-  }
-}
-</script>
+{{ partial "schema-org.html" . }}
 {{ end }}
 <!-- Privacy-friendly analytics by Plausible -->
 <script async src="https://plausible.io/js/pa-M-497ZEFkxmAoPGY4QkPC.js"></script>
