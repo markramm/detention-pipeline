@@ -56,6 +56,35 @@ def slugify(text):
     return text.strip("-")[:SLUG_MAX].rstrip("-")
 
 
+def stable_slug(entry: dict) -> str | None:
+    """Compute a stable slug for entry types whose title contains volatile
+    data (scores, dollar amounts). Returns None if no stable form applies,
+    letting the caller fall back to title-based slugging.
+
+    Rules:
+      budget-distress  -> <county>-<state>-usda-distress   (drop score)
+      anc-contract     -> <recipient>-<award-id>           (drop amount/location)
+      ice-contract     -> <recipient>-<award-id>           (drop amount/state)
+    """
+    etype = entry.get("entry_type") or entry.get("type")
+
+    if etype == "budget-distress":
+        county = (entry.get("county") or "").strip()
+        state = (entry.get("state") or "").strip()
+        if county and state:
+            return slugify(f"{county} {state}") + "-usda-distress"
+        return None
+
+    if etype in ("anc-contract", "ice-contract"):
+        award_id = entry.get("usaspending_id") or entry.get("award_id") or ""
+        contractor = entry.get("contractor") or ""
+        if award_id and contractor:
+            return f"{slugify(contractor)}-{slugify(award_id)}"
+        return None
+
+    return None
+
+
 def yaml_escape(value):
     """Quote a scalar value for YAML frontmatter."""
     if value is None:
@@ -71,7 +100,14 @@ def render_frontmatter(entry):
     """Return list of frontmatter lines (without the --- delimiters)."""
     lines = []
     entry_type = entry.get("entry_type") or entry.get("type") or "note"
-    entry_id = entry.get("id") or slugify(entry.get("title", "untitled"))
+    # Prefer explicit id, then a stable per-type slug (so URLs don't churn
+    # when scores recompute or contract amounts are modified on USAspending),
+    # then fall back to slugifying the title.
+    entry_id = (
+        entry.get("id")
+        or stable_slug(entry)
+        or slugify(entry.get("title", "untitled"))
+    )
     title = entry.get("title", "")
     tags = entry.get("tags") or [entry_type]
     importance = entry.get("importance", 5)
