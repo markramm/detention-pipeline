@@ -1,0 +1,21 @@
+---
+id: asrc-federal-facilities-logistics-llc-spe7lx26f070r
+title: ASRC FEDERAL FACILITIES LOGISTICS, LLC — SPE7LX26F070R (NJ) $3,178
+type: anc-contract
+tags:
+- anc-contract
+- nj
+importance: 5
+state: 'NJ'
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FACILITIES LOGISTICS, LLC
+Award ID: SPE7LX26F070R
+Amount: $3,177.81
+Agency: Department of Defense
+Sub-Agency: Defense Logistics Agency
+Description: 8511820315!TIRE,PNEUMATIC,AIRC
+Period: 2025-12-17 to 2025-12-29
+Location: None, NJ

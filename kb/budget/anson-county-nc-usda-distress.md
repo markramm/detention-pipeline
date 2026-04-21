@@ -1,0 +1,22 @@
+---
+id: anson-county-nc-usda-distress
+title: Anson County, NC — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- nc
+- low-employment
+- low-education-attainment
+importance: 5
+state: 'NC'
+county: 'Anson County'
+fips: '37007'
+---
+
+County-level fiscal distress indicators for Anson County, NC.
+
+Distress score: 3/10
+Indicators: low employment, low education attainment
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

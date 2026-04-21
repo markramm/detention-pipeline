@@ -1,0 +1,21 @@
+---
+id: koniag-advisory-and-business-solutions-llc-75h70926f07011
+title: KONIAG ADVISORY AND BUSINESS SOLUTIONS, LLC — 75H70926F07011 (MT) $86,862
+type: anc-contract
+tags:
+- anc-contract
+- mt
+importance: 5
+state: 'MT'
+---
+
+USAspending contract award.
+
+Recipient: KONIAG ADVISORY AND BUSINESS SOLUTIONS, LLC
+Award ID: 75H70926F07011
+Amount: $86,862.16
+Agency: Department of Health and Human Services
+Sub-Agency: Indian Health Service
+Description: NCSU: 1FTE-GENERAL MAINTENANCE WORKER, 12 MONTHS
+Period: 2026-03-12 to 2027-05-14
+Location: None, MT

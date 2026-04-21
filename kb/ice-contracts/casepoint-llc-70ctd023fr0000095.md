@@ -1,0 +1,23 @@
+---
+id: casepoint-llc-70ctd023fr0000095
+title: CASEPOINT, LLC — 70CTD023FR0000095 (DC) $5,315,818
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+state: 'DC'
+---
+
+ICE contract award.
+
+Recipient: CASEPOINT, LLC
+Award ID: 70CTD023FR0000095
+Amount: $5,315,818.21
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: EDISCOVERY ICE SOFTWARE AS A SOLUTION (EDSICE SAAS)
+Period: 2023-09-30 to 2026-11-14
+Location: None, DC

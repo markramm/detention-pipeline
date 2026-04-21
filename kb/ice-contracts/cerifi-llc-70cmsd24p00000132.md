@@ -1,0 +1,23 @@
+---
+id: cerifi-llc-70cmsd24p00000132
+title: CERIFI LLC — 70CMSD24P00000132 (GA) $142,500
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- ga
+importance: 5
+state: 'GA'
+---
+
+ICE contract award.
+
+Recipient: CERIFI LLC
+Award ID: 70CMSD24P00000132
+Amount: $142,500.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: CONTINUING LEGAL EDUCATION SERVICES - OPLA
+Period: 2024-09-16 to 2025-09-15
+Location: None, GA

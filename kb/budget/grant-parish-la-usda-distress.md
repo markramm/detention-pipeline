@@ -1,0 +1,22 @@
+---
+id: grant-parish-la-usda-distress
+title: Grant Parish, LA — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- la
+- low-employment
+- low-education-attainment
+importance: 5
+state: 'LA'
+county: 'Grant Parish'
+fips: '22043'
+---
+
+County-level fiscal distress indicators for Grant Parish, LA.
+
+Distress score: 3/10
+Indicators: low employment, low education attainment
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

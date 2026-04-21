@@ -1,0 +1,24 @@
+---
+id: jefferson-county-ok-usda-distress
+title: Jefferson County, OK — Budget Distress (score 4/10)
+type: budget-distress
+tags:
+- budget-distress
+- ok
+- population-loss
+- low-education-attainment
+- non-metro
+importance: 5
+state: 'OK'
+county: 'Jefferson County'
+fips: '40067'
+---
+
+County-level fiscal distress indicators for Jefferson County, OK.
+
+Distress score: 4/10
+Indicators: population loss, low education attainment, non-metro (rural)
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

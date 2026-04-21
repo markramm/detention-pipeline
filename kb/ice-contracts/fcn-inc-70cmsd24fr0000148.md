@@ -1,0 +1,23 @@
+---
+id: fcn-inc-70cmsd24fr0000148
+title: FCN, INC. — 70CMSD24FR0000148 (VA) $23,526
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+state: 'VA'
+---
+
+ICE contract award.
+
+Recipient: FCN, INC.
+Award ID: 70CMSD24FR0000148
+Amount: $23,526.48
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: CORTEX ARCHIVING
+Period: 2024-09-30 to 2025-09-29
+Location: None, VA

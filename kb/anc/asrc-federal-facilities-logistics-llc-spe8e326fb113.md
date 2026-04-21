@@ -1,0 +1,21 @@
+---
+id: asrc-federal-facilities-logistics-llc-spe8e326fb113
+title: ASRC FEDERAL FACILITIES LOGISTICS, LLC — SPE8E326FB113 (NJ) $23,484
+type: anc-contract
+tags:
+- anc-contract
+- nj
+importance: 5
+state: 'NJ'
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FACILITIES LOGISTICS, LLC
+Award ID: SPE8E326FB113
+Amount: $23,484.00
+Agency: Department of Defense
+Sub-Agency: Defense Logistics Agency
+Description: 4570332140!PC 130-330 P.S.K. MODULATOR ASSY
+Period: 2025-12-19 to 2026-03-20
+Location: None, NJ

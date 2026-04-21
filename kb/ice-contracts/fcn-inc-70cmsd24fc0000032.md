@@ -1,0 +1,23 @@
+---
+id: fcn-inc-70cmsd24fc0000032
+title: FCN, INC. — 70CMSD24FC0000032 (DC) $167,969
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+state: 'DC'
+---
+
+ICE contract award.
+
+Recipient: FCN, INC.
+Award ID: 70CMSD24FC0000032
+Amount: $167,969.35
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: HP ELITEBOOK 860 G10 LIGHTWEIGHT NOTEBOOK TASK ORDER
+Period: 2024-08-30 to 2024-09-30
+Location: None, DC

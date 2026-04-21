@@ -1,0 +1,23 @@
+---
+id: blue-tech-inc-70ctd024fr0000090
+title: BLUE TECH INC. — 70CTD024FR0000090 (DC) $113,508
+type: ice-contract
+tags:
+- ice-contract
+- other
+- detention-related
+- dc
+importance: 5
+state: 'DC'
+---
+
+ICE contract award.
+
+Recipient: BLUE TECH INC.
+Award ID: 70CTD024FR0000090
+Amount: $113,508.49
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: CISCO WEBEX ROOM KITS VIDEO TELE-CONFERENCING PRODUCTS, CONFIGURATION AND INSTALLATION FOR ICE/ERO
+Period: 2024-09-27 to 2025-04-26
+Location: None, DC

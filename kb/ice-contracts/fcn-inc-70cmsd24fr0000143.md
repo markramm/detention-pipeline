@@ -1,0 +1,23 @@
+---
+id: fcn-inc-70cmsd24fr0000143
+title: FCN, INC. — 70CMSD24FR0000143 (VA) $42,488
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+state: 'VA'
+---
+
+ICE contract award.
+
+Recipient: FCN, INC.
+Award ID: 70CMSD24FR0000143
+Amount: $42,488.12
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: FORENSIC LICENSE SERVER
+Period: 2024-09-30 to 2025-09-29
+Location: None, VA

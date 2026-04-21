@@ -1,0 +1,23 @@
+---
+id: fcn-inc-70cmsd24fc0000038
+title: FCN, INC. — 70CMSD24FC0000038 (MD) $11,775
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- md
+importance: 5
+state: 'MD'
+---
+
+ICE contract award.
+
+Recipient: FCN, INC.
+Award ID: 70CMSD24FC0000038
+Amount: $11,775.41
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: COMPUTER EQUIPMENT
+Period: 2024-09-13 to 2024-10-11
+Location: None, MD

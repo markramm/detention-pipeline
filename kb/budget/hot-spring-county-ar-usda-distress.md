@@ -1,0 +1,22 @@
+---
+id: hot-spring-county-ar-usda-distress
+title: Hot Spring County, AR — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- ar
+- low-employment
+- non-metro
+importance: 5
+state: 'AR'
+county: 'Hot Spring County'
+fips: '05059'
+---
+
+County-level fiscal distress indicators for Hot Spring County, AR.
+
+Distress score: 3/10
+Indicators: low employment, non-metro (rural)
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

@@ -1,0 +1,23 @@
+---
+id: big-stone-county-mn-usda-distress
+title: Big Stone County, MN — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- mn
+- population-loss
+- non-metro
+importance: 5
+state: 'MN'
+county: 'Big Stone County'
+fips: '27011'
+---
+
+County-level fiscal distress indicators for Big Stone County, MN.
+
+Distress score: 3/10
+Indicators: population loss, non-metro (rural)
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

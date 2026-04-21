@@ -1,0 +1,23 @@
+---
+id: fcn-inc-70cmsd24fr0000105
+title: FCN, INC. — 70CMSD24FR0000105 (VA) $119,300
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+state: 'VA'
+---
+
+ICE contract award.
+
+Recipient: FCN, INC.
+Award ID: 70CMSD24FR0000105
+Amount: $119,300.33
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: FORCEPOINT RENEWAL.
+Period: 2024-09-15 to 2025-09-14
+Location: None, VA

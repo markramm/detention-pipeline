@@ -1,0 +1,22 @@
+---
+id: lyon-county-ky-usda-distress
+title: Lyon County, KY — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- ky
+- low-employment
+- non-metro
+importance: 5
+state: 'KY'
+county: 'Lyon County'
+fips: '21143'
+---
+
+County-level fiscal distress indicators for Lyon County, KY.
+
+Distress score: 3/10
+Indicators: low employment, non-metro (rural)
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

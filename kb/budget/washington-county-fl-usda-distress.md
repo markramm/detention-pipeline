@@ -1,0 +1,22 @@
+---
+id: washington-county-fl-usda-distress
+title: Washington County, FL — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- fl
+- low-employment
+- low-education-attainment
+importance: 5
+state: 'FL'
+county: 'Washington County'
+fips: '12133'
+---
+
+County-level fiscal distress indicators for Washington County, FL.
+
+Distress score: 3/10
+Indicators: low employment, low education attainment
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

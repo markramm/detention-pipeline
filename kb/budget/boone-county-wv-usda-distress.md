@@ -1,0 +1,24 @@
+---
+id: boone-county-wv-usda-distress
+title: Boone County, WV — Budget Distress (score 5/10)
+type: budget-distress
+tags:
+- budget-distress
+- wv
+- population-loss
+- low-employment
+- low-education-attainment
+importance: 5
+state: 'WV'
+county: 'Boone County'
+fips: '54005'
+---
+
+County-level fiscal distress indicators for Boone County, WV.
+
+Distress score: 5/10
+Indicators: population loss, low employment, low education attainment
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

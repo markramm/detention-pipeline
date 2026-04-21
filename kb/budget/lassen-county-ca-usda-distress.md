@@ -1,0 +1,22 @@
+---
+id: lassen-county-ca-usda-distress
+title: Lassen County, CA — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- ca
+- low-employment
+- non-metro
+importance: 5
+state: 'CA'
+county: 'Lassen County'
+fips: '06035'
+---
+
+County-level fiscal distress indicators for Lassen County, CA.
+
+Distress score: 3/10
+Indicators: low employment, non-metro (rural)
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

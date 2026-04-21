@@ -1,0 +1,21 @@
+---
+id: akima-infrastructure-protection-llc-70cdcr26fr0000007
+title: AKIMA INFRASTRUCTURE PROTECTION LLC — 70CDCR26FR0000007 (TX) $24,538,402
+type: anc-contract
+tags:
+- anc-contract
+- tx
+importance: 5
+state: 'TX'
+---
+
+USAspending contract award.
+
+Recipient: AKIMA INFRASTRUCTURE PROTECTION LLC
+Award ID: 70CDCR26FR0000007
+Amount: $24,538,402.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS CONTRACT PROVIDES DETENTION AND TRANSPORTATION SUPPORT SERVICES AT THE PORT ISABEL DETENTION CENTER.
+Period: 2025-12-01 to 2026-05-31
+Location: None, TX

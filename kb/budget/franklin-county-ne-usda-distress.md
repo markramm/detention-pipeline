@@ -1,0 +1,23 @@
+---
+id: franklin-county-ne-usda-distress
+title: Franklin County, NE — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- ne
+- population-loss
+- non-metro
+importance: 5
+state: 'NE'
+county: 'Franklin County'
+fips: '31061'
+---
+
+County-level fiscal distress indicators for Franklin County, NE.
+
+Distress score: 3/10
+Indicators: population loss, non-metro (rural)
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

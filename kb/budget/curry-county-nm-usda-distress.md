@@ -1,0 +1,22 @@
+---
+id: curry-county-nm-usda-distress
+title: Curry County, NM — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- nm
+- low-employment
+- non-metro
+importance: 5
+state: 'NM'
+county: 'Curry County'
+fips: '35009'
+---
+
+County-level fiscal distress indicators for Curry County, NM.
+
+Distress score: 3/10
+Indicators: low employment, non-metro (rural)
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

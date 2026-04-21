@@ -1,0 +1,21 @@
+---
+id: asrc-federal-facilities-logistics-llc-spe8es26f060h
+title: ASRC FEDERAL FACILITIES LOGISTICS, LLC — SPE8ES26F060H (NJ) $5,632
+type: anc-contract
+tags:
+- anc-contract
+- nj
+importance: 5
+state: 'NJ'
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FACILITIES LOGISTICS, LLC
+Award ID: SPE8ES26F060H
+Amount: $5,632.32
+Agency: Department of Defense
+Sub-Agency: Defense Logistics Agency
+Description: 8511767878!EPOXY COATING KIT
+Period: 2025-11-20 to 2025-12-01
+Location: None, NJ

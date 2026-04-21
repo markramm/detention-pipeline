@@ -1,0 +1,23 @@
+---
+id: emergent-llc-70ctd024fc0000014
+title: EMERGENT, LLC — 70CTD024FC0000014 (DC) $2,688,109
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+state: 'DC'
+---
+
+ICE contract award.
+
+Recipient: EMERGENT, LLC
+Award ID: 70CTD024FC0000014
+Amount: $2,688,108.75
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: ADOBE DIGITAL MEDIA SOFTWARE LICENSES FOR ICE/OCIO
+Period: 2024-07-15 to 2025-07-14
+Location: None, DC

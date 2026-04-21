@@ -1,0 +1,23 @@
+---
+id: pocahontas-county-ia-usda-distress
+title: Pocahontas County, IA — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- ia
+- population-loss
+- non-metro
+importance: 5
+state: 'IA'
+county: 'Pocahontas County'
+fips: '19151'
+---
+
+County-level fiscal distress indicators for Pocahontas County, IA.
+
+Distress score: 3/10
+Indicators: population loss, non-metro (rural)
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

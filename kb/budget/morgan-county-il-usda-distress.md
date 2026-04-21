@@ -1,0 +1,23 @@
+---
+id: morgan-county-il-usda-distress
+title: Morgan County, IL — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- il
+- population-loss
+- non-metro
+importance: 5
+state: 'IL'
+county: 'Morgan County'
+fips: '17137'
+---
+
+County-level fiscal distress indicators for Morgan County, IL.
+
+Distress score: 3/10
+Indicators: population loss, non-metro (rural)
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

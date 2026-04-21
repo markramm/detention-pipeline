@@ -1,0 +1,23 @@
+---
+id: mckesson-corporation-70cdcr26fr0000011
+title: MCKESSON CORPORATION — 70CDCR26FR0000011 (TX) $5,000,000
+type: ice-contract
+tags:
+- ice-contract
+- other
+- detention-related
+- tx
+importance: 5
+state: 'TX'
+---
+
+ICE contract award.
+
+Recipient: MCKESSON CORPORATION
+Award ID: 70CDCR26FR0000011
+Amount: $5,000,000.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THE PURPOSE OF THIS CONTRACT IS TO PROVIDE ICE HEALTH SERVICE CORPS WITH PHARMACEUTICAL PRODUCTS.
+Period: 2026-01-30 to 2027-01-29
+Location: None, TX

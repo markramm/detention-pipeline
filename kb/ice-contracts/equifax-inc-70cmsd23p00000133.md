@@ -1,0 +1,23 @@
+---
+id: equifax-inc-70cmsd23p00000133
+title: EQUIFAX INC — 70CMSD23P00000133 (GA) $199,002
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- ga
+importance: 5
+state: 'GA'
+---
+
+ICE contract award.
+
+Recipient: EQUIFAX INC
+Award ID: 70CMSD23P00000133
+Amount: $199,002.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: EQUIFAX SUPPORT SERVICES
+Period: 2023-09-30 to 2026-09-29
+Location: None, GA

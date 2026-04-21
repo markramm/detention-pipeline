@@ -1,0 +1,23 @@
+---
+id: union-county-nm-usda-distress
+title: Union County, NM — Budget Distress (score 4/10)
+type: budget-distress
+tags:
+- budget-distress
+- nm
+- low-employment
+- low-education-attainment
+- non-metro
+importance: 5
+state: 'NM'
+county: 'Union County'
+fips: '35059'
+---
+
+County-level fiscal distress indicators for Union County, NM.
+
+Distress score: 4/10
+Indicators: low employment, low education attainment, non-metro (rural)
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

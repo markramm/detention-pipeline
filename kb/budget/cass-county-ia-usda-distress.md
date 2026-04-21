@@ -1,0 +1,23 @@
+---
+id: cass-county-ia-usda-distress
+title: Cass County, IA — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- ia
+- population-loss
+- non-metro
+importance: 5
+state: 'IA'
+county: 'Cass County'
+fips: '19029'
+---
+
+County-level fiscal distress indicators for Cass County, IA.
+
+Distress score: 3/10
+Indicators: population loss, non-metro (rural)
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

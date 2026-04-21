@@ -1,0 +1,22 @@
+---
+id: sanders-county-mt-usda-distress
+title: Sanders County, MT — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- mt
+- low-employment
+- non-metro
+importance: 5
+state: 'MT'
+county: 'Sanders County'
+fips: '30089'
+---
+
+County-level fiscal distress indicators for Sanders County, MT.
+
+Distress score: 3/10
+Indicators: low employment, non-metro (rural)
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

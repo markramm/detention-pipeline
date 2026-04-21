@@ -1,0 +1,23 @@
+---
+id: grant-county-or-usda-distress
+title: Grant County, OR — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- or
+- population-loss
+- non-metro
+importance: 5
+state: 'OR'
+county: 'Grant County'
+fips: '41023'
+---
+
+County-level fiscal distress indicators for Grant County, OR.
+
+Distress score: 3/10
+Indicators: population loss, non-metro (rural)
+
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

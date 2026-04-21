@@ -1,0 +1,27 @@
+---
+id: mingo-county-wv-usda-distress
+title: Mingo County, WV — Budget Distress (score 9/10)
+type: budget-distress
+tags:
+- budget-distress
+- wv
+- persistent-poverty
+- population-loss
+- low-employment
+- low-education-attainment
+- non-metro
+importance: 5
+state: 'WV'
+county: 'Mingo County'
+fips: '54059'
+---
+
+County-level fiscal distress indicators for Mingo County, WV.
+
+Distress score: 9/10
+Indicators: persistent poverty (USDA ERS), population loss, low employment, low education attainment, non-metro (rural)
+
+USDA ERS classifies this county as persistently impoverished.
+Population declining — shrinking tax base increases vulnerability to 'economic development' pitches.
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

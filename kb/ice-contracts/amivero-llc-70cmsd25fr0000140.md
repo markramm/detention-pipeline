@@ -1,0 +1,23 @@
+---
+id: amivero-llc-70cmsd25fr0000140
+title: AMIVERO LLC — 70CMSD25FR0000140 (DC) $3,353,718
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+state: 'DC'
+---
+
+ICE contract award.
+
+Recipient: AMIVERO LLC
+Award ID: 70CMSD25FR0000140
+Amount: $3,353,718.27
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD PROVIDES THE ICE OFFICE OF PROFESSIONAL RESPONSIBILITY WITH INTERNET-BASED THREAT RISK MITIGATION AND PROACTIVE MONITORING SERVICES, INCLUDING VULNERABILITY ASSESSMENTS.
+Period: 2025-09-22 to 2026-09-21
+Location: None, DC

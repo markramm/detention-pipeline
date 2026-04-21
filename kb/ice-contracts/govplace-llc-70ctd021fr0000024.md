@@ -1,0 +1,23 @@
+---
+id: govplace-llc-70ctd021fr0000024
+title: GOVPLACE, LLC — 70CTD021FR0000024 (DC) $113,774
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+state: 'DC'
+---
+
+ICE contract award.
+
+Recipient: GOVPLACE, LLC
+Award ID: 70CTD021FR0000024
+Amount: $113,773.50
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: APPDYNAMICS SOFTWARE LICENSES
+Period: 2021-01-07 to 2022-01-06
+Location: None, DC

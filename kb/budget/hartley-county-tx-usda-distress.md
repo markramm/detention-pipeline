@@ -1,0 +1,22 @@
+---
+id: hartley-county-tx-usda-distress
+title: Hartley County, TX — Budget Distress (score 3/10)
+type: budget-distress
+tags:
+- budget-distress
+- tx
+- low-employment
+- non-metro
+importance: 5
+state: 'TX'
+county: 'Hartley County'
+fips: '48205'
+---
+
+County-level fiscal distress indicators for Hartley County, TX.
+
+Distress score: 3/10
+Indicators: low employment, non-metro (rural)
+
+
+Sources: USDA ERS County Typology Codes (2025), BLS Local Area Unemployment Statistics

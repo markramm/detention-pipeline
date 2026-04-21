@@ -1,0 +1,23 @@
+---
+id: blue-tech-inc-70ctd022fr0000108
+title: BLUE TECH INC. — 70CTD022FR0000108 (CA) $127,433
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- ca
+importance: 5
+state: 'CA'
+---
+
+ICE contract award.
+
+Recipient: BLUE TECH INC.
+Award ID: 70CTD022FR0000108
+Amount: $127,432.54
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: ANNANDALE, VA VTC
+Period: 2022-07-07 to 2023-06-06
+Location: None, CA

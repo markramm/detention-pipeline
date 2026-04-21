@@ -1,0 +1,23 @@
+---
+id: impres-technology-solutions-inc-70cmsd25fr0000088
+title: IMPRES TECHNOLOGY SOLUTIONS, INC — 70CMSD25FR0000088 (VA) $100,000
+type: ice-contract
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+state: 'VA'
+---
+
+ICE contract award.
+
+Recipient: IMPRES TECHNOLOGY SOLUTIONS, INC
+Award ID: 70CMSD25FR0000088
+Amount: $99,999.98
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS CONTRACT IS FOR TINTRI VMSTORE SUPPORT TO MAINTAIN HOMELAND SECURITY INVESTIGATIONS IT INFRASTRUCTURE, ENSURING HIGH-PERFORMANCE VIRTUAL STORAGE, AI-DRIVEN ANALYTICS, AND COMPATIBILITY WITH EXISTING SYSTEMS CRITICAL FOR OPERATIONS
+Period: 2025-09-30 to 2026-09-29
+Location: None, VA

@@ -1,0 +1,21 @@
+---
+id: asrc-federal-facilities-logistics-llc-spe8es26f167l
+title: ASRC FEDERAL FACILITIES LOGISTICS, LLC — SPE8ES26F167L (NJ) $1,755
+type: anc-contract
+tags:
+- anc-contract
+- nj
+importance: 5
+state: 'NJ'
+---
+
+USAspending contract award.
+
+Recipient: ASRC FEDERAL FACILITIES LOGISTICS, LLC
+Award ID: SPE8ES26F167L
+Amount: $1,755.22
+Agency: Department of Defense
+Sub-Agency: Defense Logistics Agency
+Description: 8511780908!PUTTY
+Period: 2025-11-26 to 2025-12-04
+Location: None, NJ
