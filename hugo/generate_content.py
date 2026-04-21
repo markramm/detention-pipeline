@@ -33,6 +33,7 @@ DATA_PATH = Path("data")
 
 # Metadata for all entry types — signals, industry, facilities
 sys.path.insert(0, str(Path(__file__).parent.parent / "kb" / "scripts"))
+from frontmatter import parse as parse_frontmatter_yaml
 from schema import load_schema
 
 _SCHEMA = load_schema()
@@ -105,38 +106,25 @@ def parse_entry(filepath):
     """Parse a KB markdown entry into frontmatter dict + body."""
     with open(filepath) as f:
         content = f.read()
-    if not content.startswith("---"):
-        return None, content
-    try:
-        end = content.index("---", 3)
-    except ValueError:
+    parsed = parse_frontmatter_yaml(content)
+    if parsed is None:
         return None, content
 
-    fields = {}
-    list_fields = {}
-    current_list_key = None
-    for line in content[3:end].split("\n"):
-        stripped = line.strip()
-        if not stripped:
-            current_list_key = None
-            continue
-        if stripped.startswith("- ") and current_list_key:
-            list_fields.setdefault(current_list_key, []).append(stripped[2:])
-            continue
-        if ":" in stripped and not stripped.startswith("-"):
-            key, val = stripped.split(":", 1)
-            key = key.strip()
-            val = val.strip().strip("'\"")
-            if not val:
-                current_list_key = key
-            else:
-                current_list_key = None
-                fields[key] = val
-
-    fields["tags"] = list_fields.get("tags", [])
+    # Preserve the historical contract: tags always present as list,
+    # `_list_fields` dict for the handful of other list-typed fields.
+    fields: dict = {}
+    list_fields: dict = {}
+    for k, v in parsed.fields.items():
+        if isinstance(v, list):
+            list_fields[k] = v
+            if k == "tags":
+                fields["tags"] = v
+        else:
+            fields[k] = v
+    fields.setdefault("tags", list_fields.get("tags", []))
     fields["_list_fields"] = list_fields
 
-    body = content[end + 3:].strip()
+    body = parsed.body.strip()
 
     # Extract FIPS/state/county from body if not in frontmatter
     if not fields.get("fips") or not fields.get("state"):

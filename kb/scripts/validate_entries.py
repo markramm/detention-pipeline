@@ -23,6 +23,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+from frontmatter import parse as parse_frontmatter_yaml
 from schema import load_schema
 
 KB_PATH = Path(__file__).parent.parent
@@ -44,26 +45,16 @@ SOURCE_URLS = SCHEMA.source_url_defaults()
 
 
 def parse_frontmatter(filepath):
-    """Parse YAML frontmatter from a markdown file. Returns (fields_dict, raw_text)."""
+    """Parse YAML frontmatter via the shared yaml.safe_load-based parser.
+    Returns (fields_dict, raw_text) to keep the historical call-shape."""
     text = filepath.read_text(encoding="utf-8")
-    if not text.startswith("---"):
+    parsed = parse_frontmatter_yaml(text)
+    if parsed is None:
         return None, text
-    try:
-        end = text.index("---", 3)
-    except ValueError:
-        return None, text
-
-    fields = {}
-    for line in text[3:end].split("\n"):
-        line = line.strip()
-        if not line or line.startswith("-") or line.startswith("#"):
-            continue
-        if ":" in line:
-            key, val = line.split(":", 1)
-            key = key.strip()
-            val = val.strip().strip('"').strip("'")
-            if key and val:
-                fields[key] = val
+    # Strip scalar-empty entries so validation "field missing" checks behave
+    # the same way they did with the old hand-rolled parser.
+    fields = {k: v for k, v in parsed.fields.items()
+              if v != "" or isinstance(v, (list, dict))}
     return fields, text
 
 

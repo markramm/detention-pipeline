@@ -37,6 +37,7 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+from frontmatter import parse as parse_frontmatter_yaml
 from schema import load_schema
 
 # Weights and caps come from kb/schema.yaml. See schema comments for the
@@ -78,26 +79,21 @@ def load_fips_lookup():
 
 
 def parse_frontmatter(filepath):
-    """Extract fields from YAML frontmatter and body text."""
+    """Extract fields from YAML frontmatter (and fallback to body scan for
+    fips/state/county that older entries store inline in the body)."""
     with open(filepath) as f:
         content = f.read()
-    if not content.startswith("---"):
+    parsed = parse_frontmatter_yaml(content)
+    if parsed is None:
         return {}
-    try:
-        end = content.index("---", 3)
-    except ValueError:
-        return {}
-    fields = {}
-    for line in content[3:end].split("\n"):
-        if ":" in line and not line.startswith(" ") and not line.startswith("-"):
-            key, val = line.split(":", 1)
-            fields[key.strip()] = val.strip().strip("'\"")
+    # Coerce list values (tags etc) to strings the rest of this file expects
+    # as scalars. Scanning scorer only cares about scalar fields.
+    fields = {k: v for k, v in parsed.fields.items() if not isinstance(v, list)}
 
-    # If fips/state not in frontmatter, try to extract from body text
-    # (287g-agreement entries store these in the body)
+    # If fips/state not in frontmatter, fall back to the body (287g entries
+    # and similar legacy shapes carry these inline).
     if not fields.get("fips") or not fields.get("state"):
-        body = content[end + 3:]
-        for line in body.split("\n"):
+        for line in parsed.body.split("\n"):
             line = line.strip()
             if line.startswith("FIPS:") and not fields.get("fips"):
                 val = line.split(":", 1)[1].strip()

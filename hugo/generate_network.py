@@ -10,43 +10,34 @@ Run from hugo/ directory:
 
 import json
 import re
+import sys
 from pathlib import Path
 
 KB_PATH = Path("../kb")
 DATA_PATH = Path("data")
 
+sys.path.insert(0, str(Path(__file__).parent.parent / "kb" / "scripts"))
+from frontmatter import parse as parse_frontmatter_yaml
+
+
 def parse_frontmatter(filepath):
-    """Parse YAML frontmatter from a markdown file."""
+    """Parse YAML frontmatter, preserving the historical (fields, body)
+    contract and the _lists side-channel for list-typed fields."""
     with open(filepath) as f:
         content = f.read()
-    if not content.startswith("---"):
+    parsed = parse_frontmatter_yaml(content)
+    if parsed is None:
         return {}, content
-    try:
-        end = content.index("---", 3)
-    except ValueError:
-        return {}, content
-    fields = {}
-    list_fields = {}
-    current_list = None
-    for line in content[3:end].split("\n"):
-        s = line.strip()
-        if not s:
-            current_list = None
-            continue
-        if s.startswith("- ") and current_list:
-            list_fields.setdefault(current_list, []).append(s[2:])
-            continue
-        if ":" in s and not s.startswith("-"):
-            k, v = s.split(":", 1)
-            k = k.strip()
-            v = v.strip().strip("'\"")
-            if not v:
-                current_list = k
-            else:
-                current_list = None
-                fields[k] = v
+
+    fields: dict = {}
+    list_fields: dict = {}
+    for k, v in parsed.fields.items():
+        if isinstance(v, list):
+            list_fields[k] = v
+        else:
+            fields[k] = v
     fields["_lists"] = list_fields
-    body = content[end+3:].strip()
+    body = parsed.body.strip()
     return fields, body
 
 

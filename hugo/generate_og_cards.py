@@ -540,19 +540,13 @@ def main():
 
 
 def _parse_frontmatter(text):
-    """Quick frontmatter parser for OG card generation."""
-    if not text.startswith("---"):
-        return None
-    try:
-        end = text.index("---", 3)
-    except ValueError:
-        return None
-    fm = {}
-    for line in text[3:end].split("\n"):
-        if ":" in line:
-            key, val = line.split(":", 1)
-            fm[key.strip()] = val.strip().strip('"')
-    return fm
+    """Frontmatter parser backed by yaml.safe_load (via kb/scripts/frontmatter.py)."""
+    import sys
+    from pathlib import Path
+    sys.path.insert(0, str(Path(__file__).parent.parent / "kb" / "scripts"))
+    from frontmatter import parse as _parse
+    result = _parse(text)
+    return result.fields if result else None
 
 
 if __name__ == "__main__":
