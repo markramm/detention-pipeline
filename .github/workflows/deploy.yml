@@ -38,7 +38,10 @@ jobs:
           python-version: "3.12"
 
       - name: Install Python deps
-        run: pip install pyyaml
+        run: pip install pyyaml pytest
+
+      - name: Run unit tests
+        run: python3 -m pytest kb/scripts/tests/ -q
 
       - name: Setup Pages
         id: pages
