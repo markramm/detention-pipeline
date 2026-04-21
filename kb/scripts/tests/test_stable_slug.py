@@ -113,14 +113,18 @@ class TestSlugify:
     def test_em_dash_to_hyphen(self):
         assert slugify("foo — bar") == "foo-bar"
 
-    def test_curly_apostrophe_dropped_entirely(self):
-        """Curly apostrophe is stripped (not replaced) -> the letters close up.
-        Straight apostrophe becomes a hyphen. The existing on-disk
-        'sheriff-s-office' slug came from Pyrite with straight quotes;
-        new ingests with curly quotes yield 'sheriffs-office'. Documenting
-        the current behavior so future drift is noticed."""
-        assert slugify("Sheriff\u2019s Office") == "sheriffs-office"
-        assert slugify("Sheriff's Office") == "sheriff-s-office"
+    def test_curly_apostrophe_matches_straight(self):
+        """Curly apostrophe (U+2019) must slug the same as straight ASCII '.
+        Prison Policy emits curly quotes; existing on-disk entries use the
+        straight-apostrophe form produced by Pyrite. If these diverge the
+        ingester creates duplicate files."""
+        curly = slugify("Sheriff\u2019s Office")
+        straight = slugify("Sheriff's Office")
+        assert curly == straight == "sheriff-s-office"
+
+    def test_curly_double_quote_dropped(self):
+        """Curly double quotes get stripped (Pyrite behaviour)."""
+        assert slugify("\u201cFoo\u201d Bar") == "foo-bar"
 
     def test_collapses_separators(self):
         assert slugify("foo___bar---baz") == "foo-bar-baz"

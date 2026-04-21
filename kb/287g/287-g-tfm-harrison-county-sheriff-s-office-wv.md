@@ -1,5 +1,5 @@
 ---
-id: 287-g-tfm-harrison-county-sheriff-s-office-w-va
+id: 287-g-tfm-harrison-county-sheriff-s-office-wv
 title: '287(g) TFM: Harrison County Sheriff’s Office (W. Va.)'
 type: 287g-agreement
 tags:

@@ -1,5 +1,5 @@
 ---
-id: 287-g-tfm-richwood-police-department-w-va
+id: 287-g-tfm-richwood-police-department-wv
 title: '287(g) TFM: Richwood Police Department (W. Va.)'
 type: 287g-agreement
 tags:

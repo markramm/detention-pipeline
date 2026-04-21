@@ -1,5 +1,5 @@
 ---
-id: 287-g-wso-west-virginia-division-of-corrections-and-rehabilitation-w-va
+id: 287-g-wso-west-virginia-division-of-corrections-and-rehabilitation-wv
 title: '287(g) WSO: West Virginia Division of Corrections and Rehabilitation (W. Va.)'
 type: 287g-agreement
 tags:

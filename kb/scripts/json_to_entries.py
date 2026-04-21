@@ -51,7 +51,13 @@ def slugify(text):
     with entries previously created via `kb import`."""
     text = text.lower()
     text = re.sub(r"[\u2014\u2013\u2212]", "-", text)  # em/en/minus dash
-    text = re.sub(r"[\u2018\u2019\u201c\u201d]", "", text)  # curly quotes
+    # Curly *double* quotes get stripped (Pyrite behaviour). Curly single
+    # quotes / apostrophes are replaced with ' so they collapse to the
+    # same separator the straight apostrophe does — otherwise Prison
+    # Policy's "Sheriff's" (with U+2019) yields sheriffs-office while
+    # the existing entries have sheriff-s-office.
+    text = re.sub(r"[\u201c\u201d]", "", text)      # curly double quotes
+    text = re.sub(r"[\u2018\u2019]", "'", text)     # curly single -> straight
     text = text.replace("$", "")  # currency sign stripped outright
     # Every non-alphanumeric becomes a separator (hyphen / apostrophe /
     # parens / colon / comma / period all collapse here).

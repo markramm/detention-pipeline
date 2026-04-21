@@ -1,5 +1,5 @@
 ---
-id: 287-g-tfm-white-sulphur-springs-police-department-w-va
+id: 287-g-tfm-white-sulphur-springs-police-department-wv
 title: '287(g) TFM: White Sulphur Springs Police Department (W. Va.)'
 type: 287g-agreement
 tags:

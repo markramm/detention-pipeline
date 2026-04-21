@@ -1,6 +1,6 @@
 ---
-id: 287-g-tfm-moorefield-police-department-w-va
-title: '287(g) TFM: Moorefield Police Department (W. Va.)'
+id: 287-g-tfm-hardy-county-sheriff-s-office-wv
+title: '287(g) TFM: Hardy County Sheriff’s Office (W. Va.)'
 type: 287g-agreement
 tags:
 - 287g
@@ -12,10 +12,10 @@ county: 'Hardy County'
 fips: '54031'
 ---
 
-287(g) agreement between ICE and Moorefield Police Department.
+287(g) agreement between ICE and Hardy County Sheriff’s Office.
 
 Model: TFM
-Signed: January 30, 2026
+Signed: December 15, 2025
 County: Hardy County
 State: W. Va.
 FIPS: unresolved

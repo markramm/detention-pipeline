@@ -1,5 +1,5 @@
 ---
-id: 287-g-tfm-village-of-clearview-police-department-w-va
+id: 287-g-tfm-village-of-clearview-police-department-wv
 title: '287(g) TFM: Village of Clearview Police Department (W. Va.)'
 type: 287g-agreement
 tags:

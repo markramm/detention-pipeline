@@ -1,6 +1,6 @@
 ---
-id: 287-g-tfm-mineral-county-sheriff-s-office-w-va
-title: '287(g) TFM: Mineral County Sheriff’s Office (W. Va.)'
+id: 287-g-tfm-summersville-police-department-wv
+title: '287(g) TFM: Summersville Police Department (W. Va.)'
 type: 287g-agreement
 tags:
 - 287g
@@ -8,15 +8,15 @@ tags:
 - w. va.
 importance: 5
 state: 'WV'
-county: 'Mineral County'
-fips: '54057'
+county: 'Nicholas County'
+fips: '54067'
 ---
 
-287(g) agreement between ICE and Mineral County Sheriff’s Office.
+287(g) agreement between ICE and Summersville Police Department.
 
 Model: TFM
 Signed: December 8, 2025
-County: Mineral County
+County: Nicholas County
 State: W. Va.
 FIPS: unresolved
 

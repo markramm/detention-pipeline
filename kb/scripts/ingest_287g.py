@@ -44,7 +44,7 @@ STATE_ABBR_NORMALIZE = {
     "Ore.": "OR", "Pa.": "PA", "R.I.": "RI", "S.C.": "SC",
     "S.D.": "SD", "Tenn.": "TN", "Texas": "TX", "Tex.": "TX",
     "Utah": "UT", "Vt.": "VT", "Va.": "VA", "Wash.": "WA",
-    "W.Va.": "WV", "Wis.": "WI", "Wyo.": "WY", "D.C.": "DC",
+    "W.Va.": "WV", "W. Va.": "WV", "Wis.": "WI", "Wyo.": "WY", "D.C.": "DC",
     "Guam": "GU", "P.R.": "PR", "V.I.": "VI",
     # Also accept standard abbreviations
     "AL": "AL", "AK": "AK", "AZ": "AZ", "AR": "AR", "CA": "CA",
@@ -242,7 +242,15 @@ def fetch_prison_policy_data():
         if not agency or not state_raw:
             continue
 
-        state = STATE_ABBR_NORMALIZE.get(state_raw, state_raw)
+        # Normalize state: try literal, then space-collapsed, then fall back.
+        state = (
+            STATE_ABBR_NORMALIZE.get(state_raw)
+            or STATE_ABBR_NORMALIZE.get(state_raw.replace(" ", ""))
+            or state_raw
+        )
+        if state == state_raw and len(state) > 2:
+            # Last-resort warning: something like "W. Va." that we didn't map.
+            print(f"  WARN: unrecognized state '{state_raw}'", file=sys.stderr)
 
         # Create one entry per model type that has a date
         models = []

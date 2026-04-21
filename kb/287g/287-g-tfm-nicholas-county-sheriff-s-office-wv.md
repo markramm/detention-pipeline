@@ -1,6 +1,6 @@
 ---
-id: 287-g-tfm-summersville-police-department-w-va
-title: '287(g) TFM: Summersville Police Department (W. Va.)'
+id: 287-g-tfm-nicholas-county-sheriff-s-office-wv
+title: '287(g) TFM: Nicholas County Sheriff’s Office (W. Va.)'
 type: 287g-agreement
 tags:
 - 287g
@@ -12,10 +12,10 @@ county: 'Nicholas County'
 fips: '54067'
 ---
 
-287(g) agreement between ICE and Summersville Police Department.
+287(g) agreement between ICE and Nicholas County Sheriff’s Office.
 
 Model: TFM
-Signed: December 8, 2025
+Signed: January 7, 2026
 County: Nicholas County
 State: W. Va.
 FIPS: unresolved

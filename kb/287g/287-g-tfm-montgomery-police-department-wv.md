@@ -1,5 +1,5 @@
 ---
-id: 287-g-tfm-montgomery-police-department-w-va
+id: 287-g-tfm-montgomery-police-department-wv
 title: '287(g) TFM: Montgomery Police Department (W. Va.)'
 type: 287g-agreement
 tags:
