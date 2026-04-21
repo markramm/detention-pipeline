@@ -1,14 +1,21 @@
 ---
 id: ice-detention-compliance-operations-consultant-laredo-tx
-title: ICE Detention Compliance Operations Consultant — Laredo, TX
+title: 'ICE Detention Compliance Operations Consultant — Laredo, TX'
 type: job-posting
+county: 'Webb'
+state: 'TX'
+fips: '48479'
+employer: 'Sabot Consulting'
+position_title: 'ICE Detention Compliance Operations Consultant'
+location: 'Laredo, TX'
+source: 'LinkedIn/Indeed, identified via RAMM research'
+signal_strength: 'strong'
+notes: 'Laredo TX is a border city. Webb County already has an IGSA. This may indicate expansion or new facility.'
 tags:
 - job-posting
 - tx
 - sabot-consulting
 importance: 5
-state: 'TX'
-county: 'Laredo'
 ---
 
 Job posting: ICE Detention Compliance Operations Consultant

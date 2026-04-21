@@ -106,7 +106,9 @@ KNOWN_POSTINGS = [
         "employer": "Sabot Consulting",
         "position_title": "Project Manager - Detention & Corrections",
         "location": "United States",
-        "state": "",
+        # National/remote role — no specific state. Use 'US' marker so the
+        # entry passes validation (schema requires state for job-posting).
+        "state": "US",
         "requirements": "Detention facility construction/renovation project management",
         "source": "LinkedIn/Indeed, identified via RAMM research",
         "signal_strength": "moderate",
