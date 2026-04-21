@@ -1,13 +1,13 @@
 ---
 title: "Akima Infrastructure Protection LLC — 70Cdcr25Fr0000094 (NY) $4,461,680"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/akima-infrastructure-protection-llc-70cdcr25fr0000094-ny-4-461-680.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: AKIMA INFRASTRUCTURE PROTECTION LLC"
 source_count: 0
 type: "entry"

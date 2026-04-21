@@ -1,13 +1,13 @@
 ---
 title: "Atlantic Diving Supply, INC. — 70Cmsw26Fc0000023 (VA) $450,996"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/atlantic-diving-supply-inc-70cmsw26fc0000023-va-450-996.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ATLANTIC DIVING SUPPLY, INC."
 source_count: 0
 type: "entry"

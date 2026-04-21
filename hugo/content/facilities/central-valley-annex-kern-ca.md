@@ -18,7 +18,7 @@ status: "active"
 bed_count: ""
 facility_type: "Unknown"
 city: "Mcfarland"
-address: "254 Taylor Avenue"
+address: "254 Taylor Avenue "
 aor: "San Francisco"
 avg_daily_pop: "1"
 ---

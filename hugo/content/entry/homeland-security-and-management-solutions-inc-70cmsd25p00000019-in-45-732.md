@@ -1,13 +1,13 @@
 ---
 title: "Homeland Security And Management Solutions, INC. — 70Cmsd25P00000019 (IN) $45,732"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "IN"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/homeland-security-and-management-solutions-inc-70cmsd25p00000019-in-45-732.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: HOMELAND SECURITY AND MANAGEMENT SOLUTIONS, INC."
 source_count: 0
 type: "entry"

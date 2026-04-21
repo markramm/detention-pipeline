@@ -1,13 +1,13 @@
 ---
 title: "The Mitre Corporation — 70Cmsw23Fr0000111 (VA) $1,182,457"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-mitre-corporation-70cmsw23fr0000111-va-1-182-457.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THE MITRE CORPORATION"
 source_count: 0
 type: "entry"

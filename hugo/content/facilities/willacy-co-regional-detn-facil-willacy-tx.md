@@ -1,5 +1,5 @@
 ---
-title: "Willacy Co Regional Detn Facil — Willacy, TX"
+title: "Willacy Co  Regional Detn Facil — Willacy, TX"
 entry_type: "igsa"
 signal_label: "IGSA Facility"
 signal_color: "#c93b3b"
@@ -12,7 +12,7 @@ summary: "IGSA detention facility in Willacy, TX."
 source_count: 0
 source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
-facility_name: "Willacy Co Regional Detn Facil"
+facility_name: "Willacy Co  Regional Detn Facil"
 operator: ""
 status: "active"
 bed_count: ""

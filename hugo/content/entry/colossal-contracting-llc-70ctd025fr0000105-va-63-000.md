@@ -1,13 +1,13 @@
 ---
 title: "Colossal Contracting LLC — 70Ctd025Fr0000105 (VA) $63,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/colossal-contracting-llc-70ctd025fr0000105-va-63-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: COLOSSAL CONTRACTING LLC"
 source_count: 0
 type: "entry"

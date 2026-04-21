@@ -1,13 +1,13 @@
 ---
 title: "Pegasus Support Services LLC — 70Cmsw24Fr0000071 (GA) $5,048,359"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/pegasus-support-services-llc-70cmsw24fr0000071-ga-5-048-359.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PEGASUS SUPPORT SERVICES LLC"
 source_count: 0
 type: "entry"

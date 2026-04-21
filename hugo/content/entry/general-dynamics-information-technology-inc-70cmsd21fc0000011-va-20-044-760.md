@@ -1,13 +1,13 @@
 ---
 title: "General Dynamics Information Technology, INC. — 70Cmsd21Fc0000011 (VA) $20,044,760"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/general-dynamics-information-technology-inc-70cmsd21fc0000011-va-20-044-760.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC."
 source_count: 0
 type: "entry"

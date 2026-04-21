@@ -1,13 +1,13 @@
 ---
 title: "Gold Type Business Machines, INC. — 70Cdcr25P00000028 (NJ) $12,600"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NJ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/gold-type-business-machines-inc-70cdcr25p00000028-nj-12-600.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GOLD TYPE BUSINESS MACHINES, INC."
 source_count: 0
 type: "entry"

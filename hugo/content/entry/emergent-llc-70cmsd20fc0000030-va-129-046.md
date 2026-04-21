@@ -1,13 +1,13 @@
 ---
 title: "EMERGENT, LLC — 70CMSD20FC0000030 (VA) $129,046"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/emergent-llc-70cmsd20fc0000030-va-129-046.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

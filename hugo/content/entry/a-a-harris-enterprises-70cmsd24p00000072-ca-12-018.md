@@ -1,13 +1,13 @@
 ---
 title: "A&A Harris Enterprises — 70Cmsd24P00000072 (CA) $12,018"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/a-a-harris-enterprises-70cmsd24p00000072-ca-12-018.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: A&A HARRIS ENTERPRISES"
 source_count: 0
 type: "entry"

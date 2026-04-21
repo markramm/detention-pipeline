@@ -1,13 +1,13 @@
 ---
 title: "Jtf Business Systems Corporation — 70Cmsd20Fr0000009 (NY) $8,700"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/jtf-business-systems-corporation-70cmsd20fr0000009-ny-8-700.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: JTF BUSINESS SYSTEMS CORPORATION"
 source_count: 0
 type: "entry"

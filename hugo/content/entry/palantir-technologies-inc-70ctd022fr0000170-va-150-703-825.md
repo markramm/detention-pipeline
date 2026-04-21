@@ -1,13 +1,13 @@
 ---
 title: "Palantir Technologies INC. — 70Ctd022Fr0000170 (VA) $150,703,825"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/palantir-technologies-inc-70ctd022fr0000170-va-150-703-825.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PALANTIR TECHNOLOGIES INC."
 source_count: 0
 type: "entry"

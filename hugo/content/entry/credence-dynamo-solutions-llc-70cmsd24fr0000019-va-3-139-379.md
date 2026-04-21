@@ -1,13 +1,13 @@
 ---
 title: "Credence Dynamo Solutions LLC — 70Cmsd24Fr0000019 (VA) $3,139,379"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/credence-dynamo-solutions-llc-70cmsd24fr0000019-va-3-139-379.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CREDENCE DYNAMO SOLUTIONS LLC"
 source_count: 0
 type: "entry"

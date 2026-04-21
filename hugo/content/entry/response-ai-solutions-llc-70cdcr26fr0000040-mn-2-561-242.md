@@ -1,13 +1,13 @@
 ---
 title: "Response Ai Solutions, LLC — 70Cdcr26Fr0000040 (MN) $2,561,242"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MN"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/response-ai-solutions-llc-70cdcr26fr0000040-mn-2-561-242.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: RESPONSE AI SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

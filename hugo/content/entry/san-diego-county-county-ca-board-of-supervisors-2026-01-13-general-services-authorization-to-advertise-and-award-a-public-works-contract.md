@@ -1,13 +1,13 @@
 ---
-title: "San Diego County County CA — Board Of Supervisors 2026-01-13: General Services - Authorization To Advertise And Award A Public Works Contract"
+title: "San Diego County County CA — Board Of Supervisors 2026-01-13: General Services - Authorization To Advertise And Award A Public Works Contract "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "06073"
-state: "CA"
-county: "San Diego County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/san-diego-county-county-ca-board-of-supervisors-2026-01-13-general-services-authorization-to-advertise-and-award-a-public-works-contract.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

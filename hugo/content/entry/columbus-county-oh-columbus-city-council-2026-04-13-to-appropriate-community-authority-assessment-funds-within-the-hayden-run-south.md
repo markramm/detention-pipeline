@@ -1,13 +1,13 @@
 ---
-title: "Columbus County OH — Columbus City Council 2026-04-13: To appropriate community authority assessment funds within the Hayden Run South"
+title: "Columbus County OH — Columbus City Council 2026-04-13: To appropriate community authority assessment funds within the Hayden Run South "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "39049"
-state: "OH"
-county: "Franklin County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/columbus-county-oh-columbus-city-council-2026-04-13-to-appropriate-community-authority-assessment-funds-within-the-hayden-run-south.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

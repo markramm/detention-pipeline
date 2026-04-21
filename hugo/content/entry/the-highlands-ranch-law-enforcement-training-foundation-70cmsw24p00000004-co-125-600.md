@@ -1,13 +1,13 @@
 ---
 title: "The Highlands Ranch Law Enforcement Training Foundation — 70Cmsw24P00000004 (CO) $125,600"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CO"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-highlands-ranch-law-enforcement-training-foundation-70cmsw24p00000004-co-125-600.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THE HIGHLANDS RANCH LAW ENFORCEMENT TRAINING FOUNDATION"
 source_count: 0
 type: "entry"

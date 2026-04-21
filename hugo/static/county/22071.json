@@ -2,16 +2,15 @@
   "fips": "22071",
   "county": "Orleans Parish, LA",
   "state": "LA",
-  "score": 69,
-  "signal_types": 4,
-  "rank": 59,
-  "total_counties": 2019,
-  "percentile": 97,
+  "score": 54,
+  "signal_types": 3,
+  "rank": 80,
+  "total_counties": 1192,
+  "percentile": 93,
   "coverage": "partially-researched",
-  "auto_summary": "Orleans Parish, LA shows 2 existing IGSA facilities, 1 ANC contract, budget distress, and active community resistance.",
+  "auto_summary": "Orleans Parish, LA shows 2 existing IGSA facilities, 1 ANC contract, and active community resistance.",
   "entry_types": {
     "anc-contract": 1,
-    "budget-distress": 1,
     "igsa": 2,
     "county-fight": 1
   }

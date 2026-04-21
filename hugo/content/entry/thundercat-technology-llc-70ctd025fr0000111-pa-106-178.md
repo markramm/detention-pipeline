@@ -1,13 +1,13 @@
 ---
 title: "Thundercat Technology, LLC — 70Ctd025Fr0000111 (PA) $106,178"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/thundercat-technology-llc-70ctd025fr0000111-pa-106-178.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THUNDERCAT TECHNOLOGY, LLC"
 source_count: 0
 type: "entry"

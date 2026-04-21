@@ -1,13 +1,13 @@
 ---
-title: "Broward County County FL — County Commission 2026-04-14: MOTION TO AUTHORIZE County Administrator or her written designee to execute the"
+title: "Broward County County FL — County Commission 2026-04-14: MOTION TO AUTHORIZE County Administrator or her written designee to execute the "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "12011"
-state: "FL"
-county: "Broward County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/broward-county-county-fl-county-commission-2026-04-14-motion-to-authorize-county-administrator-or-her-written-designee-to-execute-the.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

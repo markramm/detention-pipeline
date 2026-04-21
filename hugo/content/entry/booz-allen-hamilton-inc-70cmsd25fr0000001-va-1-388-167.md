@@ -1,13 +1,13 @@
 ---
 title: "Booz Allen Hamilton INC — 70Cmsd25Fr0000001 (VA) $1,388,167"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/booz-allen-hamilton-inc-70cmsd25fr0000001-va-1-388-167.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: BOOZ ALLEN HAMILTON INC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Pherson Associates, LLC — 70Cmsd23Fr0000160 (TX) $1,079,302"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/pherson-associates-llc-70cmsd23fr0000160-tx-1-079-302.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PHERSON ASSOCIATES, LLC"
 source_count: 0
 type: "entry"

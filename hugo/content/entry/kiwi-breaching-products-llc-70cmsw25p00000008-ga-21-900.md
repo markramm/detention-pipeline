@@ -1,13 +1,13 @@
 ---
 title: "Kiwi Breaching Products LLC — 70Cmsw25P00000008 (GA) $21,900"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/kiwi-breaching-products-llc-70cmsw25p00000008-ga-21-900.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: KIWI BREACHING PRODUCTS LLC"
 source_count: 0
 type: "entry"

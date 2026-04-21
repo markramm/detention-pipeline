@@ -1,13 +1,13 @@
 ---
-title: "Monterey County County CA — Board of Supervisors 2026-01-27: a. Receive a report from the Sheriff’s Office related to U.S. Immigration and C"
+title: "Monterey County County CA — Board of Supervisors 2026-01-27: a.  Receive a report from the Sheriff’s Office related to U.S. Immigration and C"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "06053"
-state: "CA"
-county: "Monterey County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/monterey-county-county-ca-board-of-supervisors-2026-01-27-a-receive-a-report-from-the-sheriff-s-office-related-to-u-s-immigration-and-c.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

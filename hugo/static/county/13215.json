@@ -2,15 +2,14 @@
   "fips": "13215",
   "county": "Muscogee County, GA",
   "state": "GA",
-  "score": 64,
-  "signal_types": 2,
-  "rank": 72,
-  "total_counties": 2019,
-  "percentile": 96,
-  "coverage": "partially-researched",
-  "auto_summary": "Muscogee County, GA shows 3 ANC contracts, and commission activity.",
+  "score": 24,
+  "signal_types": 1,
+  "rank": 384,
+  "total_counties": 1192,
+  "percentile": 68,
+  "coverage": "unresearched",
+  "auto_summary": "Muscogee County, GA shows 3 ANC contracts.",
   "entry_types": {
-    "anc-contract": 3,
-    "commission-activity": 24
+    "anc-contract": 3
   }
 }

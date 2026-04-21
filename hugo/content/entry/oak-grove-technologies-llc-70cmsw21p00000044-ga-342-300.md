@@ -1,13 +1,13 @@
 ---
 title: "Oak Grove Technologies, LLC — 70Cmsw21P00000044 (GA) $342,300"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/oak-grove-technologies-llc-70cmsw21p00000044-ga-342-300.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: OAK GROVE TECHNOLOGIES, LLC"
 source_count: 0
 type: "entry"

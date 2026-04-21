@@ -1,13 +1,13 @@
 ---
 title: "Iron Mountain Information Management LLC — 70Cmsd21Fc0000012 (Ma)"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/iron-mountain-information-management-llc-70cmsd21fc0000012-ma.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: IRON MOUNTAIN INFORMATION MANAGEMENT LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Jtf Business Systems Corporation — 70Cmsd24Fc0000040 (TX) $29,900"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/jtf-business-systems-corporation-70cmsd24fc0000040-tx-29-900.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: JTF BUSINESS SYSTEMS CORPORATION"
 source_count: 0
 type: "entry"

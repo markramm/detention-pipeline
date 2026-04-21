@@ -1,13 +1,13 @@
 ---
 title: "Konica Minolta Business Solutions U.S.A, INC. — 70Cmsd22Fr0000047 (AZ) $8,765"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AZ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/konica-minolta-business-solutions-u-s-a-inc-70cmsd22fr0000047-az-8-765.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: KONICA MINOLTA BUSINESS SOLUTIONS U.S.A, INC."
 source_count: 0
 type: "entry"

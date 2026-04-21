@@ -7,7 +7,7 @@ fips: "29229"
 state: "MO"
 county: "Wright County"
 repo_path: "kb/287g/287-g-tfm-mountain-grove-police-department-mo.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Mountain Grove Police Department, signed December 8, 2025."
 source_count: 1
 type: "entry"

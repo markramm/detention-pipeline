@@ -1,13 +1,13 @@
 ---
 title: "Lone Star Armory, INC — 70Cmsw21P00000017 (Pr) $20,574"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PR"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/lone-star-armory-inc-70cmsw21p00000017-pr-20-574.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LONE STAR ARMORY, INC"
 source_count: 0
 type: "entry"

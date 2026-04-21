@@ -1,13 +1,13 @@
 ---
 title: "Paragon Professional Services LLC — 70Cdcr25Fr0000087 (AK) $10,572,216"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AK"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/paragon-professional-services-llc-70cdcr25fr0000087-ak-10-572-216.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PARAGON PROFESSIONAL SERVICES LLC"
 source_count: 0
 type: "entry"

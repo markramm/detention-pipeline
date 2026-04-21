@@ -1,13 +1,13 @@
 ---
 title: "G4S Secure Solutions (Usa) INC. — 70Cdcr26Fr0000039 (GA) $4,308,447"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/g4s-secure-solutions-usa-inc-70cdcr26fr0000039-ga-4-308-447.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: G4S SECURE SOLUTIONS (USA) INC."
 source_count: 0
 type: "entry"

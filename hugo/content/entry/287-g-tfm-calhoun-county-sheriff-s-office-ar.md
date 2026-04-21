@@ -7,7 +7,7 @@ fips: "05013"
 state: "AR"
 county: "Calhoun County"
 repo_path: "kb/287g/287-g-tfm-calhoun-county-sheriff-s-office-ar.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Calhoun County Sheriff’s Office, signed January 7, 2026."
 source_count: 1
 type: "entry"

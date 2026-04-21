@@ -1,13 +1,13 @@
 ---
 title: "GOVPLACE, LLC — 70CMSD24FR0000185 (VA) $63,724"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/govplace-llc-70cmsd24fr0000185-va-63-724.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

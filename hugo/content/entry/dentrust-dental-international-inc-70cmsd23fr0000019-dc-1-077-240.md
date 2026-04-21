@@ -1,13 +1,13 @@
 ---
 title: "Dentrust Dental International, INC. — 70Cmsd23Fr0000019 (DC) $1,077,240"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/dentrust-dental-international-inc-70cmsd23fr0000019-dc-1-077-240.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DENTRUST DENTAL INTERNATIONAL, INC."
 source_count: 0
 type: "entry"

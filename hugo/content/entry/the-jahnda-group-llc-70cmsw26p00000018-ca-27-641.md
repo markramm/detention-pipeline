@@ -1,13 +1,13 @@
 ---
 title: "The Jahnda Group, LLC — 70Cmsw26P00000018 (CA) $27,641"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-jahnda-group-llc-70cmsw26p00000018-ca-27-641.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THE JAHNDA GROUP, LLC"
 source_count: 0
 type: "entry"

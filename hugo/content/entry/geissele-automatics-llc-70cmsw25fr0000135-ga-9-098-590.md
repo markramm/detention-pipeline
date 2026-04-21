@@ -1,13 +1,13 @@
 ---
 title: "Geissele Automatics LLC — 70Cmsw25Fr0000135 (GA) $9,098,590"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/geissele-automatics-llc-70cmsw25fr0000135-ga-9-098-590.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GEISSELE AUTOMATICS LLC"
 source_count: 0
 type: "entry"

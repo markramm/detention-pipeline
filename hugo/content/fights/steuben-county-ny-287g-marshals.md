@@ -3,11 +3,11 @@ title: "Steuben County NY — Dual 287(g) + U.S. Marshals contract, community pu
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "36101"
+fips: ""
 state: "NY"
 county: "Steuben"
 repo_path: "kb/industry/county-fights/steuben-county-ny-287g-marshals.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Steuben County has one of the most layered ICE collaboration arrangements in New York: dual 287(g) agreements plus a new U.S. Marshals Service contract with an ICE rider."
 source_count: 2
 type: "fights"

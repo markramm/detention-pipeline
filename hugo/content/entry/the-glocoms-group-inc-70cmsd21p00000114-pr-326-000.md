@@ -1,13 +1,13 @@
 ---
 title: "The Glocoms Group INC — 70Cmsd21P00000114 (Pr) $326,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PR"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-glocoms-group-inc-70cmsd21p00000114-pr-326-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THE GLOCOMS GROUP INC"
 source_count: 0
 type: "entry"

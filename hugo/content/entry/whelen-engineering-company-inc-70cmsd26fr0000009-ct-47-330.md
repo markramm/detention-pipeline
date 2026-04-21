@@ -1,13 +1,13 @@
 ---
 title: "Whelen Engineering Company, INC. — 70Cmsd26Fr0000009 (CT) $47,330"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CT"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/whelen-engineering-company-inc-70cmsd26fr0000009-ct-47-330.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: WHELEN ENGINEERING COMPANY, INC."
 source_count: 0
 type: "entry"

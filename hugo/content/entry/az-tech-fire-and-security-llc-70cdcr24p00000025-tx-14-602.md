@@ -1,13 +1,13 @@
 ---
 title: "AZ-Tech Fire And Security LLC — 70Cdcr24P00000025 (TX) $14,602"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/az-tech-fire-and-security-llc-70cdcr24p00000025-tx-14-602.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: AZ-TECH FIRE AND SECURITY LLC"
 source_count: 0
 type: "entry"

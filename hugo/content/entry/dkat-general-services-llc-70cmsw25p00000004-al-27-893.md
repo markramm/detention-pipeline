@@ -1,13 +1,13 @@
 ---
 title: "Dkat General Services, LLC — 70Cmsw25P00000004 (AL) $27,893"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/dkat-general-services-llc-70cmsw25p00000004-al-27-893.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DKAT GENERAL SERVICES, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Adb Consulting Services LLC — 70Ctd024Fr0000076 (WV) $26,203"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "WV"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/adb-consulting-services-llc-70ctd024fr0000076-wv-26-203.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ADB CONSULTING SERVICES LLC"
 source_count: 0
 type: "entry"

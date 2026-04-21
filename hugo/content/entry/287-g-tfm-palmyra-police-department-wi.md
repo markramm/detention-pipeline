@@ -7,7 +7,7 @@ fips: "55055"
 state: "WI"
 county: "Jefferson County"
 repo_path: "kb/287g/287-g-tfm-palmyra-police-department-wi.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Palmyra Police Department, signed September 22, 2025."
 source_count: 1
 type: "entry"

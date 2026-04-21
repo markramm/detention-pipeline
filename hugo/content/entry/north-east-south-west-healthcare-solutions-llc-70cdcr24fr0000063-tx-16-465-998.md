@@ -1,13 +1,13 @@
 ---
 title: "North East South West Healthcare Solutions, LLC — 70Cdcr24Fr0000063 (TX) $16,465,998"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/north-east-south-west-healthcare-solutions-llc-70cdcr24fr0000063-tx-16-465-998.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: NORTH EAST SOUTH WEST HEALTHCARE SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

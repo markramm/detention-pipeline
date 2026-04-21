@@ -7,7 +7,7 @@ fips: "13287"
 state: "GA"
 county: "Turner County"
 repo_path: "kb/287g/287-g-jem-turner-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Turner County Sheriff’s Office, signed December 16, 2025."
 source_count: 1
 type: "entry"

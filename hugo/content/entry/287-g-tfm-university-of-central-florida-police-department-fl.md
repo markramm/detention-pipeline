@@ -7,7 +7,7 @@ fips: "12095"
 state: "FL"
 county: "Orange County"
 repo_path: "kb/287g/287-g-tfm-university-of-central-florida-police-department-fl.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and University of Central Florida Police Department, signed July 24, 2025."
 source_count: 1
 type: "entry"

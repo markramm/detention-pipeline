@@ -1,13 +1,13 @@
 ---
 title: "BLUE TECH INC. — 70CMSD25FR0000090 (TX) $97,749"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/blue-tech-inc-70cmsd25fr0000090-tx-97-749.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

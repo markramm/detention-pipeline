@@ -3,11 +3,11 @@ title: "Baldwin County AL — Construction site raids, US citizen detained twice
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "01003"
+fips: ""
 state: "AL"
 county: "Baldwin"
 repo_path: "kb/industry/county-fights/baldwin-county-al-construction-raids.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Since January 2025, ICE has conducted at least 15 warrantless, suspicionless raids on private construction sites in Baldwin County, Alabama. These operations have detained scores of workers — and at..."
 source_count: 8
 type: "fights"

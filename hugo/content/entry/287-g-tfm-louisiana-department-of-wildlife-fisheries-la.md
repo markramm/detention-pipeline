@@ -7,7 +7,7 @@ fips: ""
 state: "LA"
 county: ""
 repo_path: "kb/287g/287-g-tfm-louisiana-department-of-wildlife-fisheries-la.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Louisiana Department of Wildlife & Fisheries, signed May 20, 2025."
 source_count: 1
 type: "entry"

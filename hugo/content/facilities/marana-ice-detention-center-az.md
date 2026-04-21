@@ -7,7 +7,7 @@ fips: "04019"
 state: "AZ"
 county: "Pima"
 repo_path: "kb/industry/facilities/marana-ice-detention-center-az.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-13"
 summary: "The Marana Community Correctional Treatment Facility is a former Arizona state prison that MTC (Management & Training Corporation) is converting into a 513-bed ICE detention center for men. Located..."
 source_count: 12
 layout: "single"

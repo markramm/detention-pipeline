@@ -7,7 +7,7 @@ fips: "13221"
 state: "GA"
 county: "Oglethorpe County"
 repo_path: "kb/287g/287-g-tfm-oglethorpe-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Oglethorpe County Sheriff’s Office, signed October 17, 2025."
 source_count: 1
 type: "entry"

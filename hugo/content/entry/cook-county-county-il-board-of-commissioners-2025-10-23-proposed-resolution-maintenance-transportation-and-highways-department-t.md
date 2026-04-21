@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Board Of Commissioners 2025-10-23: Proposed Resolution, Maintenance (Transportation And Highways) Department: T"
+title: "Cook County County IL — Board of Commissioners 2025-10-23: PROPOSED RESOLUTION, MAINTENANCE (TRANSPORTATION AND HIGHWAYS)  Department:  T"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "17031"
-state: "IL"
-county: "Cook County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/cook-county-county-il-board-of-commissioners-2025-10-23-proposed-resolution-maintenance-transportation-and-highways-department-t.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

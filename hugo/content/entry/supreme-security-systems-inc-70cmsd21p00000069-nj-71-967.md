@@ -1,13 +1,13 @@
 ---
 title: "Supreme Security Systems, INC. — 70Cmsd21P00000069 (NJ) $71,967"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NJ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/supreme-security-systems-inc-70cmsd21p00000069-nj-71-967.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: SUPREME SECURITY SYSTEMS, INC."
 source_count: 0
 type: "entry"

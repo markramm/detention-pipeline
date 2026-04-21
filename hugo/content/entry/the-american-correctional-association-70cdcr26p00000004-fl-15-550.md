@@ -1,13 +1,13 @@
 ---
 title: "The American Correctional Association — 70Cdcr26P00000004 (FL) $15,550"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-american-correctional-association-70cdcr26p00000004-fl-15-550.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THE AMERICAN CORRECTIONAL ASSOCIATION"
 source_count: 0
 type: "entry"

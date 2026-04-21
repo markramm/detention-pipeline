@@ -7,7 +7,7 @@ fips: "01041"
 state: "AL"
 county: "Crenshaw County"
 repo_path: "kb/287g/287-g-wso-crenshaw-county-sheriff-s-office-al.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Crenshaw County Sheriff’s Office, signed April 16, 2025."
 source_count: 1
 type: "entry"

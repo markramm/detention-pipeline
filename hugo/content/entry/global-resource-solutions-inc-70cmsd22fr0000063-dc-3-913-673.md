@@ -1,13 +1,13 @@
 ---
 title: "Global Resource Solutions INC — 70Cmsd22Fr0000063 (DC) $3,913,673"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/global-resource-solutions-inc-70cmsd22fr0000063-dc-3-913-673.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GLOBAL RESOURCE SOLUTIONS INC"
 source_count: 0
 type: "entry"

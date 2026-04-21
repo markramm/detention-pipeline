@@ -2,16 +2,15 @@
   "fips": "34003",
   "county": "Bergen County, NJ",
   "state": "NJ",
-  "score": 29,
-  "signal_types": 3,
-  "rank": 429,
-  "total_counties": 2019,
-  "percentile": 79,
-  "coverage": "partially-researched",
-  "auto_summary": "Bergen County, NJ shows 1 existing IGSA facility, 1 ANC contract, and active community resistance.",
+  "score": 18,
+  "signal_types": 2,
+  "rank": 588,
+  "total_counties": 1192,
+  "percentile": 51,
+  "coverage": "unresearched",
+  "auto_summary": "Bergen County, NJ shows 1 existing IGSA facility, and 1 ANC contract.",
   "entry_types": {
     "anc-contract": 1,
-    "igsa": 1,
-    "county-fight": 1
+    "igsa": 1
   }
 }

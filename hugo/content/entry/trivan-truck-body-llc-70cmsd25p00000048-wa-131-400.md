@@ -1,13 +1,13 @@
 ---
 title: "Trivan Truck Body, LLC — 70Cmsd25P00000048 (WA) $131,400"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "WA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/trivan-truck-body-llc-70cmsd25p00000048-wa-131-400.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: TRIVAN TRUCK BODY, LLC"
 source_count: 0
 type: "entry"

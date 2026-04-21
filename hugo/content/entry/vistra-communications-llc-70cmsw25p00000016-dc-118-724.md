@@ -1,13 +1,13 @@
 ---
 title: "Vistra Communications, LLC — 70Cmsw25P00000016 (DC) $118,724"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/vistra-communications-llc-70cmsw25p00000016-dc-118-724.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: VISTRA COMMUNICATIONS, LLC"
 source_count: 0
 type: "entry"

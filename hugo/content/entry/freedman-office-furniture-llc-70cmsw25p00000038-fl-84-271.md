@@ -1,13 +1,13 @@
 ---
 title: "Freedman Office Furniture, LLC — 70Cmsw25P00000038 (FL) $84,271"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/freedman-office-furniture-llc-70cmsw25p00000038-fl-84-271.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: FREEDMAN OFFICE FURNITURE, LLC"
 source_count: 0
 type: "entry"

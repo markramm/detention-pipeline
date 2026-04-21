@@ -7,7 +7,7 @@ fips: "48015"
 state: "TX"
 county: "Austin County"
 repo_path: "kb/287g/287-g-wso-austin-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Austin County Sheriff’s Office, signed April 16, 2025."
 source_count: 1
 type: "entry"

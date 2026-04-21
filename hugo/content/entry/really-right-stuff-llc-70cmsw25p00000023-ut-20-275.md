@@ -1,13 +1,13 @@
 ---
 title: "Really Right Stuff LLC — 70Cmsw25P00000023 (UT) $20,275"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "UT"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/really-right-stuff-llc-70cmsw25p00000023-ut-20-275.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: REALLY RIGHT STUFF LLC"
 source_count: 0
 type: "entry"

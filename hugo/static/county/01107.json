@@ -2,15 +2,15 @@
   "fips": "01107",
   "county": "Pickens County, AL",
   "state": "AL",
-  "score": 48,
+  "score": 37,
   "signal_types": 3,
-  "rank": 159,
-  "total_counties": 2019,
-  "percentile": 92,
+  "rank": 191,
+  "total_counties": 1192,
+  "percentile": 84,
   "coverage": "unresearched",
   "auto_summary": "Pickens County, AL shows 1 existing IGSA facility, and budget distress.",
   "entry_types": {
-    "budget-distress": 2,
+    "budget-distress": 1,
     "igsa": 1,
     "facility": 1
   }

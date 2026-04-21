@@ -1,13 +1,13 @@
 ---
 title: "Axon Enterprise, INC. — 70Cmsw25Fr0000011 (AZ) $5,076,758"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AZ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/axon-enterprise-inc-70cmsw25fr0000011-az-5-076-758.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: AXON ENTERPRISE, INC."
 source_count: 0
 type: "entry"

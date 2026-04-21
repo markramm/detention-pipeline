@@ -7,7 +7,7 @@ fips: "29079"
 state: "MO"
 county: "Grundy County"
 repo_path: "kb/287g/287-g-tfm-grundy-county-sheriff-s-office-mo.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Grundy County Sheriff’s Office, signed January 26, 2026."
 source_count: 1
 type: "entry"

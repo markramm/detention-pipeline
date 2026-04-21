@@ -1,13 +1,13 @@
 ---
 title: "Active Deployment Systems, LLC — 70Cdcr25Fr0000060 (TX) $250"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/active-deployment-systems-llc-70cdcr25fr0000060-tx-250.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ACTIVE DEPLOYMENT SYSTEMS, LLC"
 source_count: 0
 type: "entry"

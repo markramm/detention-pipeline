@@ -1,20 +1,20 @@
 ---
 title: "Akima Infrastructure Protection LLC — 70Cdcr25Fr0000092 (FL) $71,098,381"
-entry_type: "anc-contract"
-signal_label: "ANC Contract"
-signal_color: "#c49025"
+entry_type: "ice-contract"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
-repo_path: "kb/anc/akima-infrastructure-protection-llc-70cdcr25fr0000092-fl-71-098-381.md"
-lastmod: "2026-04-20"
-summary: "Federal contract awarded to ANC subsidiary in FL."
+repo_path: "kb/ice-contracts/akima-infrastructure-protection-llc-70cdcr25fr0000092-fl-71-098-381.md"
+lastmod: "2026-04-12"
+summary: "Recipient: AKIMA INFRASTRUCTURE PROTECTION LLC"
 source_count: 0
 type: "entry"
 layout: "single"
 ---
 
-USAspending contract award.
+ICE contract award.
 
 Recipient: AKIMA INFRASTRUCTURE PROTECTION LLC
 Award ID: 70CDCR25FR0000092

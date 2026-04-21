@@ -3,11 +3,11 @@ title: "Bristol County MA — From Hodgson's ICE fortress to Heroux's informatio
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "25005"
+fips: ""
 state: "MA"
 county: "Bristol County"
 repo_path: "kb/industry/county-fights/bristol-county-ma-ice-reversal.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Bristol County under Sheriff Thomas Hodgson (1997-2022) was one of the most aggressive ICE-collaborating jurisdictions in the entire country:"
 source_count: 6
 type: "fights"

@@ -1,13 +1,13 @@
 ---
 title: "Leading Technology Composites INC — 70Cmsw25Fr0000150 (KS) $5,194,181"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "KS"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/leading-technology-composites-inc-70cmsw25fr0000150-ks-5-194-181.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LEADING TECHNOLOGY COMPOSITES INC"
 source_count: 0
 type: "entry"

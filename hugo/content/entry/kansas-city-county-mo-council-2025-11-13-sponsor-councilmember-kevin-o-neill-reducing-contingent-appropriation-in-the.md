@@ -1,13 +1,13 @@
 ---
-title: "Kansas City County MO — Council 2025-11-13: Sponsor: Councilmember Kevin O’Neill Reducing Contingent Appropriation in the"
+title: "Kansas City County MO — Council 2025-11-13: Sponsor: Councilmember Kevin O’Neill  Reducing Contingent Appropriation in the"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "29095"
-state: "MO"
-county: "Jackson County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/kansas-city-county-mo-council-2025-11-13-sponsor-councilmember-kevin-o-neill-reducing-contingent-appropriation-in-the.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Integrityone Partners, INC. — 70Ctd024Fc0000011 (DC) $12,127,166"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/integrityone-partners-inc-70ctd024fc0000011-dc-12-127-166.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INTEGRITYONE PARTNERS, INC."
 source_count: 0
 type: "entry"

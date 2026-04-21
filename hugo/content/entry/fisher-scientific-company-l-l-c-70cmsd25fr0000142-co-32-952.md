@@ -1,13 +1,13 @@
 ---
 title: "Fisher Scientific Company L.L.C. — 70Cmsd25Fr0000142 (CO) $32,952"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CO"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/fisher-scientific-company-l-l-c-70cmsd25fr0000142-co-32-952.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: FISHER SCIENTIFIC COMPANY L.L.C."
 source_count: 0
 type: "entry"

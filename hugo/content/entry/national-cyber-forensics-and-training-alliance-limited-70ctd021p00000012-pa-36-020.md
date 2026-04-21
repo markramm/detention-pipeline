@@ -1,13 +1,13 @@
 ---
 title: "National Cyber-Forensics And Training Alliance Limited — 70Ctd021P00000012 (PA) $36,020"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/national-cyber-forensics-and-training-alliance-limited-70ctd021p00000012-pa-36-020.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: NATIONAL CYBER-FORENSICS AND TRAINING ALLIANCE LIMITED"
 source_count: 0
 type: "entry"

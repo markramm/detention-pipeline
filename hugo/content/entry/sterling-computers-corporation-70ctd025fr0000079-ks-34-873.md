@@ -1,13 +1,13 @@
 ---
 title: "Sterling Computers Corporation — 70Ctd025Fr0000079 (KS) $34,873"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "KS"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/sterling-computers-corporation-70ctd025fr0000079-ks-34-873.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: STERLING COMPUTERS CORPORATION"
 source_count: 0
 type: "entry"

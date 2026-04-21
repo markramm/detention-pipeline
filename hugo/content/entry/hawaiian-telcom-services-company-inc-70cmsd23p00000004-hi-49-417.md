@@ -1,13 +1,13 @@
 ---
 title: "Hawaiian Telcom Services Company, INC — 70Cmsd23P00000004 (HI) $49,417"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "HI"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/hawaiian-telcom-services-company-inc-70cmsd23p00000004-hi-49-417.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: HAWAIIAN TELCOM SERVICES COMPANY, INC"
 source_count: 0
 type: "entry"

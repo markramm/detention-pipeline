@@ -1,13 +1,13 @@
 ---
 title: "C & C International Computers & Consultants, INC. — 70Ctd021Fr0000080 (DC) $16,344"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/c-c-international-computers-consultants-inc-70ctd021fr0000080-dc-16-344.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: C & C INTERNATIONAL COMPUTERS & CONSULTANTS, INC."
 source_count: 0
 type: "entry"

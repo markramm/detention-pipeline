@@ -1,13 +1,13 @@
 ---
 title: "Abm Federal Sales, INC. — 70Cmsd24Fc0000028 (MO) $44,195"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MO"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/abm-federal-sales-inc-70cmsd24fc0000028-mo-44-195.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ABM FEDERAL SALES, INC."
 source_count: 0
 type: "entry"

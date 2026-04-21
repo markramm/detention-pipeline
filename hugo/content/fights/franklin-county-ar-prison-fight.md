@@ -3,11 +3,11 @@ title: "Franklin County AR — Fight over 3,000-bed mega-prison / possible ICE f
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "05047"
+fips: ""
 state: "AR"
 county: "Franklin"
 repo_path: "kb/industry/county-fights/franklin-county-ar-prison-fight.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-13"
 summary: "Franklin County residents and their own sheriff are opposing a $825 million, 3,000-bed prison that Governor Sanders announced in October 2024. The opposition intensified dramatically in September..."
 source_count: 5
 type: "fights"

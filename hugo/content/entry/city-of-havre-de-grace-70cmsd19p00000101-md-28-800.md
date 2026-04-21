@@ -1,13 +1,13 @@
 ---
 title: "City Of Havre DE Grace — 70Cmsd19P00000101 (MD) $28,800"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/city-of-havre-de-grace-70cmsd19p00000101-md-28-800.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CITY OF HAVRE DE GRACE"
 source_count: 0
 type: "entry"

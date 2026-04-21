@@ -1,13 +1,13 @@
 ---
 title: "Price Modern LLC — 70Cmsw23Fc0000059 (FL) $857,871"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/price-modern-llc-70cmsw23fc0000059-fl-857-871.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

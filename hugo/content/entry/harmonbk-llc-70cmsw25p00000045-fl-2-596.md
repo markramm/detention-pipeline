@@ -1,13 +1,13 @@
 ---
 title: "HARMONBK LLC — 70CMSW25P00000045 (FL) $2,596"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/harmonbk-llc-70cmsw25p00000045-fl-2-596.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

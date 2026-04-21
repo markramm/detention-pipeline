@@ -1,13 +1,13 @@
 ---
 title: "Paragon Professional Services LLC — 70Cdcr24Fr0000028 (MD) $3,375,513"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/paragon-professional-services-llc-70cdcr24fr0000028-md-3-375-513.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PARAGON PROFESSIONAL SERVICES LLC"
 source_count: 0
 type: "entry"

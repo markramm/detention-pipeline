@@ -1,13 +1,13 @@
 ---
 title: "General Dynamics Ordnance And Tactical Systems - Simunition Operations, INC. — 70Cmsw25Fr0000143 (CT) $99,772"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CT"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/general-dynamics-ordnance-and-tactical-systems-simunition-operations-inc-70cmsw25fr0000143-ct-99-772.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GENERAL DYNAMICS ORDNANCE AND TACTICAL SYSTEMS - SIMUNITION OPERATIONS, INC."
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "12017"
 state: "FL"
 county: "Citrus County"
 repo_path: "kb/287g/287-g-wso-citrus-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Citrus County Sheriff’s Office, signed February 26, 2025."
 source_count: 1
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Low Kountry Ink Mobile Notary LLC — 70Cdcr25Fr0000098 (CA) $167,401"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/low-kountry-ink-mobile-notary-llc-70cdcr25fr0000098-ca-167-401.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LOW KOUNTRY INK MOBILE NOTARY LLC"
 source_count: 0
 type: "entry"

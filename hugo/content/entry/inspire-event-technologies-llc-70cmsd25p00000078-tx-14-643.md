@@ -1,13 +1,13 @@
 ---
 title: "Inspire Event Technologies, LLC — 70Cmsd25P00000078 (TX) $14,643"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/inspire-event-technologies-llc-70cmsd25p00000078-tx-14-643.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INSPIRE EVENT TECHNOLOGIES, LLC"
 source_count: 0
 type: "entry"

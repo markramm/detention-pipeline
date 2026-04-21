@@ -1,13 +1,13 @@
 ---
 title: "H.B.D., Incorporated — 70Cmsw20P00000016 (NC) $32,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/h-b-d-incorporated-70cmsw20p00000016-nc-32-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: H.B.D., INCORPORATED"
 source_count: 0
 type: "entry"

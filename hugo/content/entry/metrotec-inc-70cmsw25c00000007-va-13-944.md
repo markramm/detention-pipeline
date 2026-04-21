@@ -1,13 +1,13 @@
 ---
 title: "METROTEC, INC. — 70CMSW25C00000007 (VA) $13,944"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/metrotec-inc-70cmsw25c00000007-va-13-944.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

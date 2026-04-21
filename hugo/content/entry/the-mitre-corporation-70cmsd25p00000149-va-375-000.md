@@ -1,13 +1,13 @@
 ---
 title: "The Mitre Corporation — 70Cmsd25P00000149 (VA) $375,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-mitre-corporation-70cmsd25p00000149-va-375-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THE MITRE CORPORATION"
 source_count: 0
 type: "entry"

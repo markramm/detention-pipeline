@@ -1,13 +1,13 @@
 ---
 title: "Data Systems Analysts INC — 70Ctd020Fr0000248 (PA) $13,631,650"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/data-systems-analysts-inc-70ctd020fr0000248-pa-13-631-650.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DATA SYSTEMS ANALYSTS INC"
 source_count: 0
 type: "entry"

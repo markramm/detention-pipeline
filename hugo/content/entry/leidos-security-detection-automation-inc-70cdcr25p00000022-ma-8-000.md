@@ -1,13 +1,13 @@
 ---
 title: "Leidos Security Detection & Automation, INC. — 70Cdcr25P00000022 (Ma) $8,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/leidos-security-detection-automation-inc-70cdcr25p00000022-ma-8-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LEIDOS SECURITY DETECTION & AUTOMATION, INC."
 source_count: 0
 type: "entry"

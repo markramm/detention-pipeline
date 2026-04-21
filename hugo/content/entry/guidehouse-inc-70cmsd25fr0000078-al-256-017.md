@@ -1,13 +1,13 @@
 ---
 title: "Guidehouse INC. — 70Cmsd25Fr0000078 (AL) $256,017"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/guidehouse-inc-70cmsd25fr0000078-al-256-017.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

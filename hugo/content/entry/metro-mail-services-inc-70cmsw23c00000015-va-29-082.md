@@ -1,13 +1,13 @@
 ---
 title: "Metro Mail Services INC — 70Cmsw23C00000015 (VA) $29,082"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/metro-mail-services-inc-70cmsw23c00000015-va-29-082.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: METRO MAIL SERVICES INC"
 source_count: 0
 type: "entry"

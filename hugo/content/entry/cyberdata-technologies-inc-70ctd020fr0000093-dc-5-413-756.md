@@ -1,13 +1,13 @@
 ---
 title: "Cyberdata Technologies, INC. — 70Ctd020Fr0000093 (DC) $5,413,756"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/cyberdata-technologies-inc-70ctd020fr0000093-dc-5-413-756.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CYBERDATA TECHNOLOGIES, INC."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Digital Barriers Usa INC — 70Cmsd22P00000041 (VA) $34,500"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/digital-barriers-usa-inc-70cmsd22p00000041-va-34-500.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DIGITAL BARRIERS USA INC"
 source_count: 0
 type: "entry"

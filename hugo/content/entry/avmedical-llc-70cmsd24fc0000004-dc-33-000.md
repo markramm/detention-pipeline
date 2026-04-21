@@ -1,13 +1,13 @@
 ---
 title: "AVMEDICAL LLC — 70CMSD24FC0000004 (DC) $33,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/avmedical-llc-70cmsd24fc0000004-dc-33-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

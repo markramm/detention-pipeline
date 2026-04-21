@@ -1,13 +1,13 @@
 ---
 title: "Solutions & Managements Services LLC — 70Cmsw25C00000003 (MD) $992,146"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/solutions-managements-services-llc-70cmsw25c00000003-md-992-146.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: SOLUTIONS & MANAGEMENTS SERVICES LLC"
 source_count: 0
 type: "entry"

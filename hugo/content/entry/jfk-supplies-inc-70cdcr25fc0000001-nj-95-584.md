@@ -1,13 +1,13 @@
 ---
 title: "Jfk Supplies INC — 70Cdcr25Fc0000001 (NJ) $95,584"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NJ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/jfk-supplies-inc-70cdcr25fc0000001-nj-95-584.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Mckesson Corporation — 70Cdcr26Fr0000011 (TX) $5,000,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/mckesson-corporation-70cdcr26fr0000011-tx-5-000-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: MCKESSON CORPORATION"
 source_count: 0
 type: "entry"

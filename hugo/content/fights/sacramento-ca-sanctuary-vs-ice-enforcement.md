@@ -3,11 +3,11 @@ title: "Sacramento CA — State Capital Sanctuary City vs. Federal ICE Escalatio
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "06067"
+fips: ""
 state: "CA"
 county: "Sacramento"
 repo_path: "kb/industry/county-fights/sacramento-ca-sanctuary-vs-ice-enforcement.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-13"
 summary: "Sacramento — California's state capital and a sanctuary city since 1985 — is engaged in a multi-front conflict with federal immigration enforcement. The city and county are fighting ICE on at least..."
 source_count: 5
 type: "fights"

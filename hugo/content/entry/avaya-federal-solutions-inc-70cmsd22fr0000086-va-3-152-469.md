@@ -1,13 +1,13 @@
 ---
 title: "Avaya Federal Solutions, INC. — 70Cmsd22Fr0000086 (VA) $3,152,469"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/avaya-federal-solutions-inc-70cmsd22fr0000086-va-3-152-469.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: AVAYA FEDERAL SOLUTIONS, INC."
 source_count: 0
 type: "entry"

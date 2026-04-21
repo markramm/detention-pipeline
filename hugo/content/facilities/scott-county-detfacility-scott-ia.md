@@ -18,7 +18,7 @@ status: "active"
 bed_count: ""
 facility_type: "USMS IGA"
 city: "Davenport"
-address: "400 West 4th Street"
+address: "400 West 4th Street "
 aor: "St. Paul"
 avg_daily_pop: "3"
 ---

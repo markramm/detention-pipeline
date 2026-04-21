@@ -1,13 +1,13 @@
 ---
 title: "Anacapa Micro Products, INC. — 70Cmsd25Fr0000067 (VA) $1,859,921"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/anacapa-micro-products-inc-70cmsd25fr0000067-va-1-859-921.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ANACAPA MICRO PRODUCTS, INC."
 source_count: 0
 type: "entry"

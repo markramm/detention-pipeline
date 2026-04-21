@@ -1,13 +1,13 @@
 ---
 title: "Managed Care Advisors, INC. — 70Cmsd21Fc0000002 (DC) $4,574,318"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/managed-care-advisors-inc-70cmsd21fc0000002-dc-4-574-318.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: MANAGED CARE ADVISORS, INC."
 source_count: 0
 type: "entry"

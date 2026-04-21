@@ -2,15 +2,14 @@
   "fips": "36065",
   "county": "Oneida County, NY",
   "state": "NY",
-  "score": 58,
+  "score": 52,
   "signal_types": 2,
-  "rank": 92,
-  "total_counties": 2019,
-  "percentile": 95,
-  "coverage": "partially-researched",
-  "auto_summary": "Oneida County, NY shows 4 existing IGSA facilities, and active community resistance.",
+  "rank": 86,
+  "total_counties": 1192,
+  "percentile": 93,
+  "coverage": "unresearched",
+  "auto_summary": "Oneida County, NY shows 4 existing IGSA facilities.",
   "entry_types": {
-    "igsa": 4,
-    "county-fight": 1
+    "igsa": 4
   }
 }

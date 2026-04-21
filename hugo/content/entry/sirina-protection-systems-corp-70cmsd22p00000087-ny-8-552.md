@@ -1,13 +1,13 @@
 ---
 title: "Sirina Protection Systems Corp — 70Cmsd22P00000087 (NY) $8,552"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/sirina-protection-systems-corp-70cmsd22p00000087-ny-8-552.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: SIRINA PROTECTION SYSTEMS CORP"
 source_count: 0
 type: "entry"

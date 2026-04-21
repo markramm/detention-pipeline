@@ -1,13 +1,13 @@
 ---
 title: "Crossroads Courier INC — 70Cdcr22P00000033 (NV) $61,092"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NV"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/crossroads-courier-inc-70cdcr22p00000033-nv-61-092.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CROSSROADS COURIER INC"
 source_count: 0
 type: "entry"

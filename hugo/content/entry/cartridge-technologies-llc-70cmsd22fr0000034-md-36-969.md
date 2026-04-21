@@ -1,13 +1,13 @@
 ---
 title: "Cartridge Technologies, LLC — 70Cmsd22Fr0000034 (MD) $36,969"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/cartridge-technologies-llc-70cmsd22fr0000034-md-36-969.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CARTRIDGE TECHNOLOGIES, LLC"
 source_count: 0
 type: "entry"

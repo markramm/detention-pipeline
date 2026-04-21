@@ -1,13 +1,13 @@
 ---
 title: "Enprovera Corp — 70Cdcr26Fr0000013 (FL) $34,552"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/enprovera-corp-70cdcr26fr0000013-fl-34-552.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

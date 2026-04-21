@@ -1,13 +1,13 @@
 ---
 title: "Talton Communications INC — 70Cdcr25Fr0000105 (AL) $10,400"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/talton-communications-inc-70cdcr25fr0000105-al-10-400.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: TALTON COMMUNICATIONS INC"
 source_count: 0
 type: "entry"

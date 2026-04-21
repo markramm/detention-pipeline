@@ -1,13 +1,13 @@
 ---
 title: "Unit Solutions, INC. — 70Cdcr25P00000038 (CA) $20,922"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/unit-solutions-inc-70cdcr25p00000038-ca-20-922.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: UNIT SOLUTIONS, INC."
 source_count: 0
 type: "entry"

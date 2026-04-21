@@ -3,11 +3,11 @@ title: "Oneida County NY — Camden police chief signed 287(g) after ICE took re
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "36065"
+fips: ""
 state: "NY"
 county: "Oneida"
 repo_path: "kb/industry/county-fights/camden-oneida-county-ny-287g.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "A case study in how ICE enforcement actions can flip a community toward collaboration rather than resistance."
 source_count: 2
 type: "fights"

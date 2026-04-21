@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Legislation and Intergovernmental Relations Committee 2026-03-11: PROPOSED RESOLUTION A RESOLUTION URGING CONGRESS NOT TO ALLOCATE ADDITIONAL F"
+title: "Cook County County IL — Legislation and Intergovernmental Relations Committee 2026-03-11: PROPOSED RESOLUTION  A RESOLUTION URGING CONGRESS NOT TO ALLOCATE ADDITIONAL F"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "17031"
-state: "IL"
-county: "Cook County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/cook-county-county-il-legislation-and-intergovernmental-relations-committee-2026-03-11-proposed-resolution-a-resolution-urging-congress-not-to-allocate-additional-f.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

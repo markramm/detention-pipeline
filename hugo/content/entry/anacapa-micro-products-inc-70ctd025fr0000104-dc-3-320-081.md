@@ -1,13 +1,13 @@
 ---
 title: "Anacapa Micro Products, INC. — 70Ctd025Fr0000104 (DC) $3,320,081"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/anacapa-micro-products-inc-70ctd025fr0000104-dc-3-320-081.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ANACAPA MICRO PRODUCTS, INC."
 source_count: 0
 type: "entry"

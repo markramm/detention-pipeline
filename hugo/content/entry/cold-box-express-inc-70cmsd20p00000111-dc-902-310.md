@@ -1,13 +1,13 @@
 ---
 title: "Cold Box Express, INC. — 70Cmsd20P00000111 (DC) $902,310"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/cold-box-express-inc-70cmsd20p00000111-dc-902-310.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: COLD BOX EXPRESS, INC."
 source_count: 0
 type: "entry"

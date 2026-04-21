@@ -1,13 +1,13 @@
 ---
 title: "Omni Business Systems, INC — 70Cmsd24Fr0000053 (NY) $2,656"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/omni-business-systems-inc-70cmsd24fr0000053-ny-2-656.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: OMNI BUSINESS SYSTEMS, INC"
 source_count: 0
 type: "entry"

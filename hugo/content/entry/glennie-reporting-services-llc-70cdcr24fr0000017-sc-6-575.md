@@ -1,13 +1,13 @@
 ---
 title: "Glennie Reporting Services LLC — 70Cdcr24Fr0000017 (SC) $6,575"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "SC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/glennie-reporting-services-llc-70cdcr24fr0000017-sc-6-575.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GLENNIE REPORTING SERVICES LLC"
 source_count: 0
 type: "entry"

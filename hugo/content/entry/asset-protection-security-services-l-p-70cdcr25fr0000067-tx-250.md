@@ -1,13 +1,13 @@
 ---
 title: "Asset Protection & Security Services, L.P. — 70Cdcr25Fr0000067 (TX) $250"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/asset-protection-security-services-l-p-70cdcr25fr0000067-tx-250.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ASSET PROTECTION & SECURITY SERVICES, L.P."
 source_count: 0
 type: "entry"

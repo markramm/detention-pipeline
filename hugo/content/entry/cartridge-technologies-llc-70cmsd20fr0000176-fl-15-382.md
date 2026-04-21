@@ -1,13 +1,13 @@
 ---
 title: "Cartridge Technologies, LLC — 70Cmsd20Fr0000176 (FL) $15,382"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/cartridge-technologies-llc-70cmsd20fr0000176-fl-15-382.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CARTRIDGE TECHNOLOGIES, LLC"
 source_count: 0
 type: "entry"

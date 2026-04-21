@@ -1,13 +1,13 @@
 ---
 title: "Western Door Federal, LLC — 70Cmsw24Fr0000044 (VA) $2,525,217"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/western-door-federal-llc-70cmsw24fr0000044-va-2-525-217.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: WESTERN DOOR FEDERAL, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Creative Corrections, LLC — 70Cdcr21Fr0000019 (MD) $30,052,059"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/creative-corrections-llc-70cdcr21fr0000019-md-30-052-059.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CREATIVE CORRECTIONS, LLC"
 source_count: 0
 type: "entry"

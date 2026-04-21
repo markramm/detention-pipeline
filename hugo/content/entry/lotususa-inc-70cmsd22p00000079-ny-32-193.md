@@ -1,13 +1,13 @@
 ---
 title: "LOTUSUSA, INC. — 70CMSD22P00000079 (NY) $32,193"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/lotususa-inc-70cmsd22p00000079-ny-32-193.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

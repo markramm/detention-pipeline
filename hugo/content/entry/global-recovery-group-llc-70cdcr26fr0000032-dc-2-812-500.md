@@ -1,13 +1,13 @@
 ---
 title: "Global Recovery Group, LLC — 70Cdcr26Fr0000032 (DC) $2,812,500"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/global-recovery-group-llc-70cdcr26fr0000032-dc-2-812-500.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GLOBAL RECOVERY GROUP, LLC"
 source_count: 0
 type: "entry"

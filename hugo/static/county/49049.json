@@ -4,15 +4,14 @@
   "state": "UT",
   "score": 73,
   "signal_types": 4,
-  "rank": 52,
-  "total_counties": 2019,
+  "rank": 36,
+  "total_counties": 1192,
   "percentile": 97,
-  "coverage": "partially-researched",
-  "auto_summary": "Utah County, UT shows 2 existing IGSA facilities, 2 287(g) agreements, 1 ANC contract, and active community resistance.",
+  "coverage": "unresearched",
+  "auto_summary": "Utah County, UT shows 2 existing IGSA facilities, 2 287(g) agreements, and 1 ANC contract.",
   "entry_types": {
     "287g-agreement": 2,
     "anc-contract": 1,
-    "igsa": 2,
-    "county-fight": 1
+    "igsa": 2
   }
 }

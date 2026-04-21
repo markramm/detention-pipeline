@@ -1,13 +1,13 @@
 ---
 title: "Holitna Construction, LLC — 70Cmsw25Fr0000052 (NV) $908,443"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NV"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/holitna-construction-llc-70cmsw25fr0000052-nv-908-443.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: HOLITNA CONSTRUCTION, LLC"
 source_count: 0
 type: "entry"

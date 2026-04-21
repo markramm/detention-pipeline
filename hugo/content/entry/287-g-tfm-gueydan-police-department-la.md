@@ -7,7 +7,7 @@ fips: "22113"
 state: "LA"
 county: "Vermilion Parish"
 repo_path: "kb/287g/287-g-tfm-gueydan-police-department-la.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Gueydan Police Department, signed December 12, 2025."
 source_count: 1
 type: "entry"

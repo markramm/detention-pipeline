@@ -1,13 +1,13 @@
 ---
 title: "Widepoint Integrated Solutions Corp — 70Ctd021Fr0000053 (DC) $89,642,938"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/widepoint-integrated-solutions-corp-70ctd021fr0000053-dc-89-642-938.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: WIDEPOINT INTEGRATED SOLUTIONS CORP"
 source_count: 0
 type: "entry"

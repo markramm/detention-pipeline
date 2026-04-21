@@ -1,13 +1,13 @@
 ---
 title: "Hamilton Enterprises, LLC — 70Cmsw24Fr0000114 (DC) $5,672,483"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/hamilton-enterprises-llc-70cmsw24fr0000114-dc-5-672-483.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: HAMILTON ENTERPRISES, LLC"
 source_count: 0
 type: "entry"

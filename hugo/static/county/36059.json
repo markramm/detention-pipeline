@@ -2,16 +2,15 @@
   "fips": "36059",
   "county": "Nassau County, NY",
   "state": "NY",
-  "score": 54,
+  "score": 48,
   "signal_types": 3,
-  "rank": 120,
-  "total_counties": 2019,
-  "percentile": 94,
-  "coverage": "partially-researched",
-  "auto_summary": "Nassau County, NY shows 2 existing IGSA facilities, 1 287(g) agreement, and active community resistance.",
+  "rank": 110,
+  "total_counties": 1192,
+  "percentile": 91,
+  "coverage": "unresearched",
+  "auto_summary": "Nassau County, NY shows 2 existing IGSA facilities, and 1 287(g) agreement.",
   "entry_types": {
     "287g-agreement": 1,
-    "igsa": 2,
-    "county-fight": 1
+    "igsa": 2
   }
 }

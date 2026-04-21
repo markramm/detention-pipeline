@@ -1,13 +1,13 @@
 ---
 title: "Lyme Computer Systems, INC. — 70Cmsd25Fr0000134 (VA) $251,896"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/lyme-computer-systems-inc-70cmsd25fr0000134-va-251-896.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LYME COMPUTER SYSTEMS, INC."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Management & Training Corporation — 70Cdcr24Fr0000008 (UT) $45,858,510"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "UT"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/management-training-corporation-70cdcr24fr0000008-ut-45-858-510.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: MANAGEMENT & TRAINING CORPORATION"
 source_count: 0
 type: "entry"

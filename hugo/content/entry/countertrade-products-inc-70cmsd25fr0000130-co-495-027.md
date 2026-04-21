@@ -1,13 +1,13 @@
 ---
 title: "Countertrade Products, INC. — 70Cmsd25Fr0000130 (CO) $495,027"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CO"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/countertrade-products-inc-70cmsd25fr0000130-co-495-027.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: COUNTERTRADE PRODUCTS, INC."
 source_count: 0
 type: "entry"

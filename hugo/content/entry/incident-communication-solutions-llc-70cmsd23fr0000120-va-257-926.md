@@ -1,13 +1,13 @@
 ---
 title: "Incident Communication Solutions LLC — 70Cmsd23Fr0000120 (VA) $257,926"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/incident-communication-solutions-llc-70cmsd23fr0000120-va-257-926.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INCIDENT COMMUNICATION SOLUTIONS LLC"
 source_count: 0
 type: "entry"

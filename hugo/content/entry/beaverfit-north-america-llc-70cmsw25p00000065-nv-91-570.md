@@ -1,13 +1,13 @@
 ---
 title: "Beaverfit North America LLC — 70Cmsw25P00000065 (NV) $91,570"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NV"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/beaverfit-north-america-llc-70cmsw25p00000065-nv-91-570.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: BEAVERFIT NORTH AMERICA LLC"
 source_count: 0
 type: "entry"

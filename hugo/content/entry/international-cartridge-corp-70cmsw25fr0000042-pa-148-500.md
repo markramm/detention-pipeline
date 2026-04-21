@@ -1,13 +1,13 @@
 ---
 title: "International Cartridge Corp — 70Cmsw25Fr0000042 (PA) $148,500"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/international-cartridge-corp-70cmsw25fr0000042-pa-148-500.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INTERNATIONAL CARTRIDGE CORP"
 source_count: 0
 type: "entry"

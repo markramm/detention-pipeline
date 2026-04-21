@@ -1,13 +1,13 @@
 ---
 title: "Cinka Construction & Consulting Services LLC — 70Cmsw22C00000015 (TX) $2,367,567"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/cinka-construction-consulting-services-llc-70cmsw22c00000015-tx-2-367-567.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CINKA CONSTRUCTION & CONSULTING SERVICES LLC"
 source_count: 0
 type: "entry"

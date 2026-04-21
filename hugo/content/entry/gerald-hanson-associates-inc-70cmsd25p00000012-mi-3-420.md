@@ -1,13 +1,13 @@
 ---
 title: "Gerald Hanson & Associates, INC. — 70Cmsd25P00000012 (MI) $3,420"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MI"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/gerald-hanson-associates-inc-70cmsd25p00000012-mi-3-420.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GERALD HANSON & ASSOCIATES, INC."
 source_count: 0
 type: "entry"

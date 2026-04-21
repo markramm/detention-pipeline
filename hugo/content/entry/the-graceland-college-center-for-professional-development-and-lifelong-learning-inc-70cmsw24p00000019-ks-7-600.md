@@ -1,13 +1,13 @@
 ---
 title: "The Graceland College Center For Professional Development And Lifelong Learning, INC — 70Cmsw24P00000019 (KS) $7,600"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "KS"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-graceland-college-center-for-professional-development-and-lifelong-learning-inc-70cmsw24p00000019-ks-7-600.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THE GRACELAND COLLEGE CENTER FOR PROFESSIONAL DEVELOPMENT AND LIFELONG LEARNING, INC"
 source_count: 0
 type: "entry"

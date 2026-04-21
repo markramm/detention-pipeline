@@ -7,7 +7,7 @@ fips: "33015"
 state: "NH"
 county: "Rockingham County"
 repo_path: "kb/287g/287-g-tfm-rockingham-county-sheriff-s-office-nh.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Rockingham County Sheriff’s Office, signed April 24, 2025."
 source_count: 1
 type: "entry"

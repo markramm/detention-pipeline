@@ -1,13 +1,13 @@
 ---
 title: "Hertrich Fleet Services INC — 70Cmsw25P00000041 (DE) $86,380"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DE"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/hertrich-fleet-services-inc-70cmsw25p00000041-de-86-380.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: HERTRICH FLEET SERVICES INC"
 source_count: 0
 type: "entry"

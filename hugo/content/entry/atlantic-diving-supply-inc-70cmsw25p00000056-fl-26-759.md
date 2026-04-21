@@ -1,13 +1,13 @@
 ---
 title: "Atlantic Diving Supply, INC. — 70Cmsw25P00000056 (FL) $26,759"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/atlantic-diving-supply-inc-70cmsw25p00000056-fl-26-759.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ATLANTIC DIVING SUPPLY, INC."
 source_count: 0
 type: "entry"

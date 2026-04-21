@@ -1,13 +1,13 @@
 ---
 title: "Iron Mountain Information Management LLC — 70Cmsd23Fc0000007 (VA) $9,587"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/iron-mountain-information-management-llc-70cmsd23fc0000007-va-9-587.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: IRON MOUNTAIN INFORMATION MANAGEMENT LLC"
 source_count: 0
 type: "entry"

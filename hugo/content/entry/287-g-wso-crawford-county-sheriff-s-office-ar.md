@@ -7,7 +7,7 @@ fips: "05033"
 state: "AR"
 county: "Crawford County"
 repo_path: "kb/287g/287-g-wso-crawford-county-sheriff-s-office-ar.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Crawford County Sheriff’s Office, signed July 25, 2025."
 source_count: 1
 type: "entry"

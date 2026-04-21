@@ -1,13 +1,13 @@
 ---
 title: "Per-Geesh Teksol Jv, LLC — 70Cmsw25C00000012 (Pr) $3,792,744"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PR"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/per-geesh-teksol-jv-llc-70cmsw25c00000012-pr-3-792-744.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PER-GEESH TEKSOL JV, LLC"
 source_count: 0
 type: "entry"

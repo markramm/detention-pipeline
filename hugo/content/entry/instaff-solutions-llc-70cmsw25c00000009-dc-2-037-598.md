@@ -1,13 +1,13 @@
 ---
 title: "Instaff Solutions LLC — 70Cmsw25C00000009 (DC) $2,037,598"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/instaff-solutions-llc-70cmsw25c00000009-dc-2-037-598.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INSTAFF SOLUTIONS LLC"
 source_count: 0
 type: "entry"

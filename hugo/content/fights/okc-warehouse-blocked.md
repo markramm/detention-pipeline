@@ -3,11 +3,11 @@ title: "Oklahoma City OK — 416K SF Warehouse Proposal Blocked by Property Owne
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "40109"
+fips: ""
 state: "OK"
 county: "Oklahoma"
 repo_path: "kb/industry/county-fights/okc-warehouse-blocked.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "DHS sent a letter to the OKC Planning Department (received Dec 23, 2025) stating intent to purchase a 415,981 sqft warehouse at 2800 S. Council Road for up to 1,500 ICE beds. Community protests at..."
 source_count: 3
 type: "fights"

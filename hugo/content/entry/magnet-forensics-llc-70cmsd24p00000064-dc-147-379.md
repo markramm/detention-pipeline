@@ -1,13 +1,13 @@
 ---
 title: "Magnet Forensics, LLC — 70Cmsd24P00000064 (DC) $147,379"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/magnet-forensics-llc-70cmsd24p00000064-dc-147-379.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: MAGNET FORENSICS, LLC"
 source_count: 0
 type: "entry"

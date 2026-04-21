@@ -1,13 +1,13 @@
 ---
 title: "Booz Allen Hamilton INC — Hscems16F00011 (DC) $1,582,757"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/booz-allen-hamilton-inc-hscems16f00011-dc-1-582-757.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: BOOZ ALLEN HAMILTON INC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "L3Harris Technologies, INC. — 70Cmsd25C00000009 (VA) $12,626,200"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/l3harris-technologies-inc-70cmsd25c00000009-va-12-626-200.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: L3HARRIS TECHNOLOGIES, INC."
 source_count: 0
 type: "entry"

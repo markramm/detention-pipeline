@@ -1,13 +1,13 @@
 ---
 title: "Public Safety & Correctional Services, Maryland Dept Of — 70Cdcr20P00000088 (MD) $10,142"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/public-safety-correctional-services-maryland-dept-of-70cdcr20p00000088-md-10-142.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PUBLIC SAFETY & CORRECTIONAL SERVICES, MARYLAND DEPT OF"
 source_count: 0
 type: "entry"

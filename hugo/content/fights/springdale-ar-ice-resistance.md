@@ -3,11 +3,11 @@ title: "Springdale AR — Diverse boomtown resists ICE cooperation despite state
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "05143"
+fips: ""
 state: "AR"
 county: "Washington"
 repo_path: "kb/industry/county-fights/springdale-ar-ice-resistance.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-13"
 summary: "Springdale, Arkansas (pop. 89,000) — one of the most diverse cities in the South, with 25%+ foreign-born residents and 42% Hispanic population — is pushing back against ICE enforcement despite..."
 source_count: 4
 type: "fights"

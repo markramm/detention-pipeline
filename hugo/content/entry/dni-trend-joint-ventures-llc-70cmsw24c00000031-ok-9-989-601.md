@@ -1,13 +1,13 @@
 ---
 title: "Dni Trend Joint Ventures, LLC — 70Cmsw24C00000031 (OK) $9,989,601"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "OK"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/dni-trend-joint-ventures-llc-70cmsw24c00000031-ok-9-989-601.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DNI TREND JOINT VENTURES, LLC"
 source_count: 0
 type: "entry"

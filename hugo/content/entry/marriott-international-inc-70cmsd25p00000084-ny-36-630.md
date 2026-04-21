@@ -1,13 +1,13 @@
 ---
 title: "Marriott International, INC. — 70Cmsd25P00000084 (NY) $36,630"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/marriott-international-inc-70cmsd25p00000084-ny-36-630.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: MARRIOTT INTERNATIONAL, INC."
 source_count: 0
 type: "entry"

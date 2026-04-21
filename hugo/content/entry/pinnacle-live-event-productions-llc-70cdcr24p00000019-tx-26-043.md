@@ -1,13 +1,13 @@
 ---
 title: "Pinnacle Live Event Productions, LLC — 70Cdcr24P00000019 (TX) $26,043"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/pinnacle-live-event-productions-llc-70cdcr24p00000019-tx-26-043.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PINNACLE LIVE EVENT PRODUCTIONS, LLC"
 source_count: 0
 type: "entry"

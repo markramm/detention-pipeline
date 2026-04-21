@@ -1,13 +1,13 @@
 ---
 title: "Convergeone Systems Integration, INC. — 70Ctd022Fc0000003 (TX) $77,980"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/convergeone-systems-integration-inc-70ctd022fc0000003-tx-77-980.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CONVERGEONE SYSTEMS INTEGRATION, INC."
 source_count: 0
 type: "entry"

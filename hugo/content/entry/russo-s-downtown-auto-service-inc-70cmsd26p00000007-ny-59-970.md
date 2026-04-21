@@ -1,13 +1,13 @@
 ---
 title: "Russo'S Downtown Auto Service, INC — 70Cmsd26P00000007 (NY) $59,970"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/russo-s-downtown-auto-service-inc-70cmsd26p00000007-ny-59-970.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: RUSSO'S DOWNTOWN AUTO SERVICE, INC"
 source_count: 0
 type: "entry"

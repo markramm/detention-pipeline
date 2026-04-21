@@ -1,13 +1,13 @@
 ---
 title: "Lexisnexis Special Services INC — 70Cmsd25Fc0000019 (DC) $90,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/lexisnexis-special-services-inc-70cmsd25fc0000019-dc-90-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LEXISNEXIS SPECIAL SERVICES INC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "BLUEHAWK LLC — 70CDCR26FR0000019 (DC) $2,656,328"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/bluehawk-llc-70cdcr26fr0000019-dc-2-656-328.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

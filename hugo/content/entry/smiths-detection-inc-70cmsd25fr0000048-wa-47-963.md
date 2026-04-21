@@ -1,13 +1,13 @@
 ---
 title: "Smiths Detection INC. — 70Cmsd25Fr0000048 (WA) $47,963"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "WA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/smiths-detection-inc-70cmsd25fr0000048-wa-47-963.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: SMITHS DETECTION INC."
 source_count: 0
 type: "entry"

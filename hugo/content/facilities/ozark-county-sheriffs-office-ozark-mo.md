@@ -18,7 +18,7 @@ status: "active"
 bed_count: ""
 facility_type: "IGSA"
 city: "Gainesville"
-address: "1818 County Rd 806"
+address: "1818 County Rd 806 "
 aor: "Chicago"
 avg_daily_pop: "24"
 ---

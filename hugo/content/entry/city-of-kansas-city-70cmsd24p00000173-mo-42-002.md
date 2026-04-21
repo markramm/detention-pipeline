@@ -1,13 +1,13 @@
 ---
 title: "City Of Kansas City — 70Cmsd24P00000173 (MO) $42,002"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MO"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/city-of-kansas-city-70cmsd24p00000173-mo-42-002.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

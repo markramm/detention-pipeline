@@ -1,13 +1,13 @@
 ---
-title: "Galveston County County TX — Commissioners Court 2026-03-02: 26-76-0302-C Constable Precinct 1- Requesting approval of the Certification of"
+title: "Galveston County County TX — Commissioners Court  2026-03-02: 26-76-0302-C Constable Precinct 1- Requesting approval of the Certification of "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "48167"
-state: "TX"
-county: "Galveston County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/galveston-county-county-tx-commissioners-court-2026-03-02-26-76-0302-c-constable-precinct-1-requesting-approval-of-the-certification-of.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Integrated Security Technologies, INC — 70Cmsd25Fr0000009 (DC) $13,669"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/integrated-security-technologies-inc-70cmsd25fr0000009-dc-13-669.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INTEGRATED SECURITY TECHNOLOGIES, INC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Jtf Business Systems Corporation — 70Cmsd19Fr0000020 (VA) $13,908"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/jtf-business-systems-corporation-70cmsd19fr0000020-va-13-908.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: JTF BUSINESS SYSTEMS CORPORATION"
 source_count: 0
 type: "entry"

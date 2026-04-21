@@ -1,13 +1,13 @@
 ---
 title: "Lionbridge Global Solutions Ii INC. — 70Cdcr24Fr0000022 (DC) $5,324,459"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/lionbridge-global-solutions-ii-inc-70cdcr24fr0000022-dc-5-324-459.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LIONBRIDGE GLOBAL SOLUTIONS II INC."
 source_count: 0
 type: "entry"

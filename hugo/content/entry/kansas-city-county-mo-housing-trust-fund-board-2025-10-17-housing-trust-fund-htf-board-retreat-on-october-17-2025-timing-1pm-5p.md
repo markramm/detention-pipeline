@@ -1,13 +1,13 @@
 ---
-title: "Kansas City County MO — Housing Trust Fund Board 2025-10-17: Housing Trust Fund (HTF) Board Retreat on October 17,2025 Timing: 1PM – 5P"
+title: "Kansas City County MO — Housing Trust Fund Board 2025-10-17: Housing Trust Fund (HTF)  Board Retreat on October 17,2025  Timing: 1PM – 5P"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "29095"
-state: "MO"
-county: "Jackson County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/kansas-city-county-mo-housing-trust-fund-board-2025-10-17-housing-trust-fund-htf-board-retreat-on-october-17-2025-timing-1pm-5p.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
-title: "Kansas City County MO — Council 2025-12-18: Sponsor: Director of Housing and Community Development Department Authorizing t"
+title: "Kansas City County MO — Council 2025-12-18: Sponsor: Director of Housing and Community Development Department\n\nAuthorizing t"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "29095"
-state: "MO"
-county: "Jackson County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/kansas-city-county-mo-council-2025-12-18-sponsor-director-of-housing-and-community-development-department-authorizing-t.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

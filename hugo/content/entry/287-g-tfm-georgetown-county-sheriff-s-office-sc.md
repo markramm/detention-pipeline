@@ -7,7 +7,7 @@ fips: "45043"
 state: "SC"
 county: "Georgetown County"
 repo_path: "kb/287g/287-g-tfm-georgetown-county-sheriff-s-office-sc.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Georgetown County Sheriff’s Office, signed July 15, 2025."
 source_count: 1
 type: "entry"

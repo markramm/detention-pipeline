@@ -7,7 +7,7 @@ fips: "12031"
 state: "FL"
 county: "Duval County"
 repo_path: "kb/287g/287-g-jem-jacksonville-sheriff-s-office-fl.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Jacksonville Sheriff’s Office, signed June 9, 2020."
 source_count: 1
 type: "entry"

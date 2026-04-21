@@ -7,7 +7,7 @@ fips: "48137"
 state: "TX"
 county: "Edwards County"
 repo_path: "kb/287g/287-g-tfm-edwards-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Edwards County Sheriff’s Office, signed February 14, 2026."
 source_count: 1
 type: "entry"

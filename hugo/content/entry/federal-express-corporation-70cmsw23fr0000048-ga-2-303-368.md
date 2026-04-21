@@ -1,13 +1,13 @@
 ---
 title: "Federal Express Corporation — 70Cmsw23Fr0000048 (GA) $2,303,368"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/federal-express-corporation-70cmsw23fr0000048-ga-2-303-368.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: FEDERAL EXPRESS CORPORATION"
 source_count: 0
 type: "entry"

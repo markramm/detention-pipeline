@@ -1,13 +1,13 @@
 ---
 title: "Acquisition Logistics LLC — 70Cdcr26Fr0000001 (TX) $598,444,871"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/acquisition-logistics-llc-70cdcr26fr0000001-tx-598-444-871.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ACQUISITION LOGISTICS LLC"
 source_count: 0
 type: "entry"

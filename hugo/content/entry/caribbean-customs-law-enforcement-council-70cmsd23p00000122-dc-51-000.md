@@ -1,13 +1,13 @@
 ---
 title: "Caribbean Customs Law Enforcement Council — 70Cmsd23P00000122 (DC) $51,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/caribbean-customs-law-enforcement-council-70cmsd23p00000122-dc-51-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CARIBBEAN CUSTOMS LAW ENFORCEMENT COUNCIL"
 source_count: 0
 type: "entry"

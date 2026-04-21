@@ -1,13 +1,13 @@
 ---
 title: "Lasalle Corrections V LLC — 70Cdcr25Fr0000049 (LA) $250"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "LA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/lasalle-corrections-v-llc-70cdcr25fr0000049-la-250.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LASALLE CORRECTIONS V LLC"
 source_count: 0
 type: "entry"

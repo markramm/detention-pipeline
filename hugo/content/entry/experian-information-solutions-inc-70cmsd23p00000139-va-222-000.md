@@ -1,13 +1,13 @@
 ---
 title: "Experian Information Solutions, INC. — 70Cmsd23P00000139 (VA) $222,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/experian-information-solutions-inc-70cmsd23p00000139-va-222-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: EXPERIAN INFORMATION SOLUTIONS, INC."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "All American Cabling, LLC — 70Cmsd25P00000156 (MI) $5,954"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MI"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/all-american-cabling-llc-70cmsd25p00000156-mi-5-954.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ALL AMERICAN CABLING, LLC"
 source_count: 0
 type: "entry"

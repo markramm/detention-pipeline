@@ -1,13 +1,13 @@
 ---
 title: "Oxygen Forensics INC — 70Cmsd24P00000157 (VA) $126,914"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/oxygen-forensics-inc-70cmsd24p00000157-va-126-914.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: OXYGEN FORENSICS INC"
 source_count: 0
 type: "entry"

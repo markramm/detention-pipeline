@@ -4,13 +4,12 @@
   "state": "NJ",
   "score": 11,
   "signal_types": 2,
-  "rank": 1065,
-  "total_counties": 2019,
-  "percentile": 47,
+  "rank": 754,
+  "total_counties": 1192,
+  "percentile": 37,
   "coverage": "unresearched",
   "auto_summary": "Union County, NJ shows 1 existing IGSA facility.",
   "entry_types": {
-    "igsa": 1,
-    "facility": 1
+    "igsa": 1
   }
 }

@@ -7,7 +7,7 @@ fips: "01003"
 state: "AL"
 county: "Baldwin County"
 repo_path: "kb/287g/287-g-tfm-loxley-police-department-al.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Loxley Police Department, signed January 7, 2026."
 source_count: 1
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Vital Records Holdings, LLC — 70Cmsd25P00000113 (NJ) $6,630"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NJ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/vital-records-holdings-llc-70cmsd25p00000113-nj-6-630.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: VITAL RECORDS HOLDINGS, LLC"
 source_count: 0
 type: "entry"

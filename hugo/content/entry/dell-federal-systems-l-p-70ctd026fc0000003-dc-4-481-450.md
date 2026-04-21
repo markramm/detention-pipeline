@@ -1,13 +1,13 @@
 ---
 title: "Dell Federal Systems L.P — 70Ctd026Fc0000003 (DC) $4,481,450"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/dell-federal-systems-l-p-70ctd026fc0000003-dc-4-481-450.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DELL FEDERAL SYSTEMS L.P"
 source_count: 0
 type: "entry"

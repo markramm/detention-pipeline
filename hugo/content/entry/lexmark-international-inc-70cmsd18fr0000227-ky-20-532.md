@@ -1,13 +1,13 @@
 ---
 title: "Lexmark International, INC. — 70Cmsd18Fr0000227 (KY) $20,532"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "KY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/lexmark-international-inc-70cmsd18fr0000227-ky-20-532.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LEXMARK INTERNATIONAL, INC."
 source_count: 0
 type: "entry"

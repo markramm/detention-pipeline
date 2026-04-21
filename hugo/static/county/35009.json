@@ -2,16 +2,15 @@
   "fips": "35009",
   "county": "Curry County, NM",
   "state": "NM",
-  "score": 48,
-  "signal_types": 3,
-  "rank": 158,
-  "total_counties": 2019,
-  "percentile": 92,
+  "score": 27,
+  "signal_types": 2,
+  "rank": 287,
+  "total_counties": 1192,
+  "percentile": 76,
   "coverage": "unresearched",
-  "auto_summary": "Curry County, NM shows 1 existing IGSA facility, 1 287(g) agreement, and budget distress.",
+  "auto_summary": "Curry County, NM shows 1 existing IGSA facility, and 1 287(g) agreement.",
   "entry_types": {
     "287g-agreement": 1,
-    "budget-distress": 1,
     "igsa": 1
   }
 }

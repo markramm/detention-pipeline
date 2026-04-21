@@ -1,13 +1,13 @@
 ---
 title: "Thomson Reuters Special Services LLC — 70Cmsd25C00000008 (DC) $1,750,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/thomson-reuters-special-services-llc-70cmsd25c00000008-dc-1-750-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THOMSON REUTERS SPECIAL SERVICES LLC"
 source_count: 0
 type: "entry"

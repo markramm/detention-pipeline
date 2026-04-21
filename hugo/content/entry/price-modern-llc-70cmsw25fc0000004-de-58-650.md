@@ -1,13 +1,13 @@
 ---
 title: "Price Modern LLC — 70Cmsw25Fc0000004 (DE) $58,650"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DE"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/price-modern-llc-70cmsw25fc0000004-de-58-650.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

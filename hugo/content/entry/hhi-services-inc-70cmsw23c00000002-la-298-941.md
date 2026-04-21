@@ -1,13 +1,13 @@
 ---
 title: "Hhi Services, INC. — 70Cmsw23C00000002 (LA) $298,941"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "LA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/hhi-services-inc-70cmsw23c00000002-la-298-941.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

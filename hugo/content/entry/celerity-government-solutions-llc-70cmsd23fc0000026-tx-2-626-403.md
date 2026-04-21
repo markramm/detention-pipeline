@@ -1,13 +1,13 @@
 ---
 title: "Celerity Government Solutions LLC — 70Cmsd23Fc0000026 (TX) $2,626,403"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/celerity-government-solutions-llc-70cmsd23fc0000026-tx-2-626-403.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CELERITY GOVERNMENT SOLUTIONS LLC"
 source_count: 0
 type: "entry"

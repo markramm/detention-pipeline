@@ -1,13 +1,13 @@
 ---
 title: "William S. Hein & CO., INC. — 70Cmsd24P00000089 (TX) $13,288"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/william-s-hein-co-inc-70cmsd24p00000089-tx-13-288.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: WILLIAM S. HEIN & CO., INC."
 source_count: 0
 type: "entry"

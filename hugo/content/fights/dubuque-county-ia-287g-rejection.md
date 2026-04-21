@@ -3,11 +3,11 @@ title: "Dubuque County IA — Sheriff rejects 287(g) despite pressure from natio
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "19061"
+fips: ""
 state: "IA"
 county: "Dubuque County"
 repo_path: "kb/industry/county-fights/dubuque-county-ia-287g-rejection.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-13"
 summary: "Dubuque County Sheriff Joseph Kennedy declined the 287(g) ICE Task Force program invitation in May 2025, despite pressure from the National Sheriff's Association. Kennedy cited jail capacity (160 of..."
 source_count: 4
 type: "fights"

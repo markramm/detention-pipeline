@@ -1,13 +1,13 @@
 ---
 title: "Motor Vehicles, New York State Department Of — 70Cmsd19P00000020 (NY) $51,250"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/motor-vehicles-new-york-state-department-of-70cmsd19p00000020-ny-51-250.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: MOTOR VEHICLES, NEW YORK STATE DEPARTMENT OF"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Forensic Media Services, Ltd. — 70Cmsd22P00000105 (VA) $30,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/forensic-media-services-ltd-70cmsd22p00000105-va-30-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: FORENSIC MEDIA SERVICES, LTD."
 source_count: 0
 type: "entry"

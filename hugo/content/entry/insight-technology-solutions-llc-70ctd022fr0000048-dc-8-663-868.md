@@ -1,13 +1,13 @@
 ---
 title: "Insight Technology Solutions, LLC — 70Ctd022Fr0000048 (DC) $8,663,868"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/insight-technology-solutions-llc-70ctd022fr0000048-dc-8-663-868.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INSIGHT TECHNOLOGY SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

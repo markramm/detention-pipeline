@@ -1,13 +1,13 @@
 ---
 title: "Advanced Computer Concepts, INC. — 70Cdcr24Fr0000064 (TX) $41,131"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/advanced-computer-concepts-inc-70cdcr24fr0000064-tx-41-131.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ADVANCED COMPUTER CONCEPTS, INC."
 source_count: 0
 type: "entry"

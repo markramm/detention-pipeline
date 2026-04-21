@@ -1,13 +1,13 @@
 ---
 title: "Superior Reporting Services LLC — 70Cdcr25P00000002 (TX) $525"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/superior-reporting-services-llc-70cdcr25p00000002-tx-525.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: SUPERIOR REPORTING SERVICES LLC"
 source_count: 0
 type: "entry"

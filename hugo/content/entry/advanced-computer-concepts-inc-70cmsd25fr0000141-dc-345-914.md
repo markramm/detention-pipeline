@@ -1,13 +1,13 @@
 ---
 title: "Advanced Computer Concepts, INC. — 70Cmsd25Fr0000141 (DC) $345,914"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/advanced-computer-concepts-inc-70cmsd25fr0000141-dc-345-914.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ADVANCED COMPUTER CONCEPTS, INC."
 source_count: 0
 type: "entry"

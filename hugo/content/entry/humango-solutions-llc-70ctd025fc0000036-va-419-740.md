@@ -1,13 +1,13 @@
 ---
 title: "Humango Solutions, LLC — 70Ctd025Fc0000036 (VA) $419,740"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/humango-solutions-llc-70ctd025fc0000036-va-419-740.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: HUMANGO SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

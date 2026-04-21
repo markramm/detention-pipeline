@@ -1,13 +1,13 @@
 ---
 title: "Caci, INC. - Federal — 70Cmsd22Fc0000030 (TX) $1,163,861"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/caci-inc-federal-70cmsd22fc0000030-tx-1-163-861.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CACI, INC. - FEDERAL"
 source_count: 0
 type: "entry"

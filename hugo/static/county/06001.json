@@ -2,16 +2,15 @@
   "fips": "06001",
   "county": "Alameda County, CA",
   "state": "CA",
-  "score": 48,
-  "signal_types": 3,
-  "rank": 165,
-  "total_counties": 2019,
-  "percentile": 92,
-  "coverage": "well-researched",
-  "auto_summary": "Alameda County, CA shows 2 ANC contracts, commission activity, and active community resistance.",
+  "score": 17,
+  "signal_types": 2,
+  "rank": 618,
+  "total_counties": 1192,
+  "percentile": 48,
+  "coverage": "partially-researched",
+  "auto_summary": "Alameda County, CA shows 2 ANC contracts, and active community resistance.",
   "entry_types": {
     "anc-contract": 2,
-    "commission-activity": 3,
     "county-fight": 1
   }
 }

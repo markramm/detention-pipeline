@@ -1,13 +1,13 @@
 ---
 title: "American Alarm & Communications, INC. — 70Cdcr20P00000057 (Ma) $58,899"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/american-alarm-communications-inc-70cdcr20p00000057-ma-58-899.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: AMERICAN ALARM & COMMUNICATIONS, INC."
 source_count: 0
 type: "entry"

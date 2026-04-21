@@ -1,13 +1,13 @@
 ---
 title: "Supplysource DC, LLC — 70Cmsw25Fc0000125 (VA) $95,734"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/supplysource-dc-llc-70cmsw25fc0000125-va-95-734.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: SUPPLYSOURCE DC, LLC"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: ""
 state: "TX"
 county: ""
 repo_path: "kb/287g/287-g-tfm-texas-office-of-the-attorney-general-tx.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Texas Office of the Attorney General, signed January 30, 2025."
 source_count: 1
 type: "entry"

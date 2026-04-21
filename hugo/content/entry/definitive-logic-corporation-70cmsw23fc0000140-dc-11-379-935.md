@@ -1,13 +1,13 @@
 ---
 title: "Definitive Logic Corporation — 70Cmsw23Fc0000140 (DC) $11,379,935"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/definitive-logic-corporation-70cmsw23fc0000140-dc-11-379-935.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DEFINITIVE LOGIC CORPORATION"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "The Geo Group, INC. — 70Cdcr26Fr0000050 (NJ) $5,670,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NJ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-geo-group-inc-70cdcr26fr0000050-nj-5-670-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "G4S Secure Solutions (Usa) INC. — 70Cdcr25Fr0000015 (TX) $7,099,350"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/g4s-secure-solutions-usa-inc-70cdcr25fr0000015-tx-7-099-350.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: G4S SECURE SOLUTIONS (USA) INC."
 source_count: 0
 type: "entry"

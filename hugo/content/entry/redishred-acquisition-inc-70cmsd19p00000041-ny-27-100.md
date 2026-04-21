@@ -1,13 +1,13 @@
 ---
 title: "Redishred Acquisition INC — 70Cmsd19P00000041 (NY) $27,100"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/redishred-acquisition-inc-70cmsd19p00000041-ny-27-100.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: REDISHRED ACQUISITION INC"
 source_count: 0
 type: "entry"

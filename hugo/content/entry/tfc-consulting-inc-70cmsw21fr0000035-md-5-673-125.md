@@ -1,13 +1,13 @@
 ---
 title: "Tfc Consulting INC. — 70Cmsw21Fr0000035 (MD) $5,673,125"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/tfc-consulting-inc-70cmsw21fr0000035-md-5-673-125.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

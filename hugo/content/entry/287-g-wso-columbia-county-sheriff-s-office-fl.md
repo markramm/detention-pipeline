@@ -7,7 +7,7 @@ fips: "12023"
 state: "FL"
 county: "Columbia County"
 repo_path: "kb/287g/287-g-wso-columbia-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Columbia County Sheriff’s Office, signed May 6, 2019."
 source_count: 1
 type: "entry"

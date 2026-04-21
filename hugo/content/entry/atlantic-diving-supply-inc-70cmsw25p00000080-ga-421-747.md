@@ -1,13 +1,13 @@
 ---
 title: "Atlantic Diving Supply, INC. — 70Cmsw25P00000080 (GA) $421,747"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/atlantic-diving-supply-inc-70cmsw25p00000080-ga-421-747.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ATLANTIC DIVING SUPPLY, INC."
 source_count: 0
 type: "entry"

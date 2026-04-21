@@ -1,13 +1,13 @@
 ---
 title: "PROQUEST LLC — 70CMSD25P00000108 (TX) $58,363"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/proquest-llc-70cmsd25p00000108-tx-58-363.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

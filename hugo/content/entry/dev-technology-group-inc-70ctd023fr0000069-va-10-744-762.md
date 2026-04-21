@@ -1,13 +1,13 @@
 ---
 title: "Dev Technology Group INC — 70Ctd023Fr0000069 (VA) $10,744,762"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/dev-technology-group-inc-70ctd023fr0000069-va-10-744-762.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DEV TECHNOLOGY GROUP INC"
 source_count: 0
 type: "entry"

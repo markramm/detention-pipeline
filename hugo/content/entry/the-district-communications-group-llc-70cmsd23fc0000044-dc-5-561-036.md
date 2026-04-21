@@ -1,13 +1,13 @@
 ---
 title: "The District Communications Group LLC — 70Cmsd23Fc0000044 (DC) $5,561,036"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-district-communications-group-llc-70cmsd23fc0000044-dc-5-561-036.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THE DISTRICT COMMUNICATIONS GROUP LLC"
 source_count: 0
 type: "entry"

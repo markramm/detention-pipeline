@@ -1,13 +1,13 @@
 ---
 title: "Chevin Fleet Solutions LLC — 70Cmsw25Fr0000106 (DC) $1,588,388"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/chevin-fleet-solutions-llc-70cmsw25fr0000106-dc-1-588-388.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CHEVIN FLEET SOLUTIONS LLC"
 source_count: 0
 type: "entry"

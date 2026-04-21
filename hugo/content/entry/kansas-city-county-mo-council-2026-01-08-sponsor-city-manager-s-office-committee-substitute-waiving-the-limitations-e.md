@@ -1,13 +1,13 @@
 ---
-title: "Kansas City County MO — Council 2026-01-08: Sponsor: City Manager’s Office COMMITTEE SUBSTITUTE Waiving the limitations e"
+title: "Kansas City County MO — Council 2026-01-08: Sponsor: City Manager’s Office \nCOMMITTEE SUBSTITUTE \n\nWaiving the limitations e"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "29095"
-state: "MO"
-county: "Jackson County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/kansas-city-county-mo-council-2026-01-08-sponsor-city-manager-s-office-committee-substitute-waiving-the-limitations-e.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

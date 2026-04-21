@@ -1,13 +1,13 @@
 ---
 title: "Clarke Electric LLC — 70Cmsd24P00000032 (SD) $34,196"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "SD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/clarke-electric-llc-70cmsd24p00000032-sd-34-196.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

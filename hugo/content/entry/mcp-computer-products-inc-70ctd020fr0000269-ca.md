@@ -1,13 +1,13 @@
 ---
 title: "Mcp Computer Products INC — 70Ctd020Fr0000269 (CA)"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/mcp-computer-products-inc-70ctd020fr0000269-ca.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: MCP COMPUTER PRODUCTS INC"
 source_count: 0
 type: "entry"

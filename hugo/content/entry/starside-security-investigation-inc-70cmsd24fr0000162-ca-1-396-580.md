@@ -1,13 +1,13 @@
 ---
 title: "Starside Security & Investigation INC — 70Cmsd24Fr0000162 (CA) $1,396,580"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/starside-security-investigation-inc-70cmsd24fr0000162-ca-1-396-580.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: STARSIDE SECURITY & INVESTIGATION INC"
 source_count: 0
 type: "entry"

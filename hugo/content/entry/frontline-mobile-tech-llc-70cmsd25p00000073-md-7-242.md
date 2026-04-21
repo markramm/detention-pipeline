@@ -1,13 +1,13 @@
 ---
 title: "Frontline Mobile Tech, LLC — 70Cmsd25P00000073 (MD) $7,242"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/frontline-mobile-tech-llc-70cmsd25p00000073-md-7-242.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: FRONTLINE MOBILE TECH, LLC"
 source_count: 0
 type: "entry"

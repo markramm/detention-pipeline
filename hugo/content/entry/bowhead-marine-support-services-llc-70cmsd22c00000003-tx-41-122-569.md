@@ -1,13 +1,13 @@
 ---
 title: "Bowhead Marine Support Services LLC — 70Cmsd22C00000003 (TX) $41,122,569"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/bowhead-marine-support-services-llc-70cmsd22c00000003-tx-41-122-569.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: BOWHEAD MARINE SUPPORT SERVICES LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Macro Companies, INC. — 70Cmsd24Fr0000161 (LA) $10,269"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "LA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/macro-companies-inc-70cmsd24fr0000161-la-10-269.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: MACRO COMPANIES, INC."
 source_count: 0
 type: "entry"

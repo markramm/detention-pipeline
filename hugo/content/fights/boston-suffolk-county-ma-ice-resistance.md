@@ -3,11 +3,11 @@ title: "Boston/Suffolk County MA — Multi-layered ICE resistance: police ignore
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "25025"
+fips: ""
 state: "MA"
 county: "Suffolk County"
 repo_path: "kb/industry/county-fights/boston-suffolk-county-ma-ice-resistance.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Boston Police Department received 57 ICE detainer requests in 2025 — and ignored all of them. This is consistent with Boston's Trust Act, which bans Boston police from holding immigrants in custody..."
 source_count: 8
 type: "fights"

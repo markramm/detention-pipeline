@@ -1,13 +1,13 @@
 ---
 title: "Api Group Life Safety Usa LLC — 70Cmsw24C00000025 (CO) $328,521"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CO"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/api-group-life-safety-usa-llc-70cmsw24c00000025-co-328-521.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: API GROUP LIFE SAFETY USA LLC"
 source_count: 0
 type: "entry"

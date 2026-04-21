@@ -7,7 +7,7 @@ fips: "12071"
 state: "FL"
 county: "Lee County"
 repo_path: "kb/287g/287-g-tfm-lee-county-port-authority-police-fl.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Lee County Port Authority Police, signed July 2, 2025."
 source_count: 1
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Quantico Tactical Incorporated — 70Cmsw26P00000012 (NC)"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/quantico-tactical-incorporated-70cmsw26p00000012-nc.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: QUANTICO TACTICAL INCORPORATED"
 source_count: 0
 type: "entry"

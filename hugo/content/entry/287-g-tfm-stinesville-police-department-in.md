@@ -7,7 +7,7 @@ fips: "18105"
 state: "IN"
 county: "Monroe County"
 repo_path: "kb/287g/287-g-tfm-stinesville-police-department-in.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Stinesville Police Department, signed February 10, 2026."
 source_count: 1
 type: "entry"

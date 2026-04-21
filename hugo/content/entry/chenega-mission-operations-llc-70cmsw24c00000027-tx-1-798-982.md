@@ -1,13 +1,13 @@
 ---
 title: "Chenega Mission Operations, LLC — 70Cmsw24C00000027 (TX) $1,798,982"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/chenega-mission-operations-llc-70cmsw24c00000027-tx-1-798-982.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CHENEGA MISSION OPERATIONS, LLC"
 source_count: 0
 type: "entry"

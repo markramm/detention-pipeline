@@ -1,13 +1,13 @@
 ---
 title: "Alpha Omega Integration LLC — 70Ctd020Fr0000280 (DC) $44,146,191"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/alpha-omega-integration-llc-70ctd020fr0000280-dc-44-146-191.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ALPHA OMEGA INTEGRATION LLC"
 source_count: 0
 type: "entry"

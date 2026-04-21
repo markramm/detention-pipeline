@@ -1,13 +1,13 @@
 ---
 title: "West Publishing Corporation — 70Cmsd24Fr0000178 (TX) $65,407"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/west-publishing-corporation-70cmsd24fr0000178-tx-65-407.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: WEST PUBLISHING CORPORATION"
 source_count: 0
 type: "entry"

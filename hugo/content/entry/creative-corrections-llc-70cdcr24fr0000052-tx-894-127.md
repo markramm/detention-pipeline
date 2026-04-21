@@ -1,13 +1,13 @@
 ---
 title: "Creative Corrections, LLC — 70Cdcr24Fr0000052 (TX) $894,127"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/creative-corrections-llc-70cdcr24fr0000052-tx-894-127.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CREATIVE CORRECTIONS, LLC"
 source_count: 0
 type: "entry"

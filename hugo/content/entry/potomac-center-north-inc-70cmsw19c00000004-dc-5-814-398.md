@@ -1,13 +1,13 @@
 ---
 title: "Potomac Center North INC — 70Cmsw19C00000004 (DC) $5,814,398"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/potomac-center-north-inc-70cmsw19c00000004-dc-5-814-398.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: POTOMAC CENTER NORTH INC"
 source_count: 0
 type: "entry"

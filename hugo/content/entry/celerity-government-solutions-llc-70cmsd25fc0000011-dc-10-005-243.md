@@ -1,13 +1,13 @@
 ---
 title: "Celerity Government Solutions LLC — 70Cmsd25Fc0000011 (DC) $10,005,243"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/celerity-government-solutions-llc-70cmsd25fc0000011-dc-10-005-243.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CELERITY GOVERNMENT SOLUTIONS LLC"
 source_count: 0
 type: "entry"

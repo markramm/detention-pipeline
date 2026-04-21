@@ -1,13 +1,13 @@
 ---
 title: "Leadsonline Parent, LLC — 70Cmsd24P00000076 (DC) $70,226"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/leadsonline-parent-llc-70cmsd24p00000076-dc-70-226.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LEADSONLINE PARENT, LLC"
 source_count: 0
 type: "entry"

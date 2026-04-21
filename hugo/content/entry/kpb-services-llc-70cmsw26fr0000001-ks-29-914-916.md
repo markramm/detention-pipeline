@@ -1,13 +1,13 @@
 ---
 title: "Kpb Services LLC — 70Cmsw26Fr0000001 (KS) $29,914,916"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "KS"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/kpb-services-llc-70cmsw26fr0000001-ks-29-914-916.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

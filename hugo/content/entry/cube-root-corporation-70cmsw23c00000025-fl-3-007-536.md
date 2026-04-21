@@ -1,13 +1,13 @@
 ---
 title: "Cube Root Corporation — 70Cmsw23C00000025 (FL) $3,007,536"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/cube-root-corporation-70cmsw23c00000025-fl-3-007-536.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CUBE ROOT CORPORATION"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: ""
 state: "AR"
 county: "Bowie County"
 repo_path: "kb/287g/287-g-tfm-texarkana-police-department-ar.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Texarkana Police Department, signed July 11, 2025."
 source_count: 1
 type: "entry"

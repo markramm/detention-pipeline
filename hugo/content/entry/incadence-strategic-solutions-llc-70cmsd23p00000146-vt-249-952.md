@@ -1,13 +1,13 @@
 ---
 title: "Incadence Strategic Solutions LLC — 70Cmsd23P00000146 (VT) $249,952"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VT"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/incadence-strategic-solutions-llc-70cmsd23p00000146-vt-249-952.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INCADENCE STRATEGIC SOLUTIONS LLC"
 source_count: 0
 type: "entry"

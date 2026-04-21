@@ -3,11 +3,11 @@ title: "Muscatine County IA — ICE contract gag clause vs. public records trans
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "19139"
+fips: ""
 state: "IA"
 county: "Muscatine County"
 repo_path: "kb/industry/county-fights/muscatine-county-ia-secrecy-fight.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-13"
 summary: "Muscatine County's ICE contract contains an extraordinary confidentiality clause prohibiting public disclosure without ICE approval. The county initially refused FOIA requests, claiming \"federal law\"..."
 source_count: 4
 type: "fights"

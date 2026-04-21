@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Board Of Commissioners 2026-02-05: Proposed Resolution Proposed Resolution For An Arpa Vital Communities Program"
+title: "Cook County County IL — Board Of Commissioners 2026-02-05: Proposed Resolution  proposed Resolution For An Arpa Vital Communities Program"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "17031"
-state: "IL"
-county: "Cook County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/cook-county-county-il-board-of-commissioners-2026-02-05-proposed-resolution-proposed-resolution-for-an-arpa-vital-communities-program.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

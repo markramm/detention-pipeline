@@ -1,13 +1,13 @@
 ---
 title: "Chesapeake Systems International, LLC — 70Ctd025P00000001 (DC) $11,866"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/chesapeake-systems-international-llc-70ctd025p00000001-dc-11-866.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CHESAPEAKE SYSTEMS INTERNATIONAL, LLC"
 source_count: 0
 type: "entry"

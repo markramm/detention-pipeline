@@ -1,13 +1,13 @@
 ---
 title: "Att Mobility LLC — 70Cmsd20Fr0000080 (VA) $27,676"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/att-mobility-llc-70cmsd20fr0000080-va-27-676.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

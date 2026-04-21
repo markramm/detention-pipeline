@@ -1,13 +1,13 @@
 ---
 title: "Envisage Technologies LLC — 70Cmsd25Fr0000010 (TX) $3,096,984"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/envisage-technologies-llc-70cmsd25fr0000010-tx-3-096-984.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ENVISAGE TECHNOLOGIES LLC"
 source_count: 0
 type: "entry"

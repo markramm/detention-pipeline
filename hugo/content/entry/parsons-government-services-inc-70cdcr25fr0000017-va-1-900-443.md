@@ -1,13 +1,13 @@
 ---
 title: "Parsons Government Services INC. — 70Cdcr25Fr0000017 (VA) $1,900,443"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/parsons-government-services-inc-70cdcr25fr0000017-va-1-900-443.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PARSONS GOVERNMENT SERVICES INC."
 source_count: 0
 type: "entry"

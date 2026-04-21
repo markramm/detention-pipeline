@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Board of Commissioners 2026-01-15: PROPOSED CONTRACT AMENDMENT Department(s): Office of the Chief Judge, Juveni"
+title: "Cook County County IL — Board of Commissioners 2026-01-15: PROPOSED CONTRACT AMENDMENT  Department(s):  Office of the Chief Judge, Juveni"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "17031"
-state: "IL"
-county: "Cook County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/cook-county-county-il-board-of-commissioners-2026-01-15-proposed-contract-amendment-department-s-office-of-the-chief-judge-juveni.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

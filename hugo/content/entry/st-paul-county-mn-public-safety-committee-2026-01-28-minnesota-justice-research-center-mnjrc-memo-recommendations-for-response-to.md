@@ -1,13 +1,13 @@
 ---
-title: "St. Paul County MN — Public Safety Committee 2026-01-28: Minnesota Justice Research Center (MNJRC) Memo: Recommendations for Response to"
+title: "St. Paul County MN — Public Safety Committee 2026-01-28: Minnesota Justice Research Center (MNJRC) Memo: Recommendations for Response to "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "27123"
-state: "MN"
-county: "Ramsey County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/st-paul-county-mn-public-safety-committee-2026-01-28-minnesota-justice-research-center-mnjrc-memo-recommendations-for-response-to.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

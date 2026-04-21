@@ -7,7 +7,7 @@ fips: "48091"
 state: "TX"
 county: "Comal County"
 repo_path: "kb/287g/287-g-wso-comal-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Comal County Sheriff’s Office, signed October 17, 2025."
 source_count: 1
 type: "entry"

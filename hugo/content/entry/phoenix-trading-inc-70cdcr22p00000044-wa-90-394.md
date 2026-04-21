@@ -1,13 +1,13 @@
 ---
 title: "Phoenix Trading INC — 70Cdcr22P00000044 (WA) $90,394"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "WA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/phoenix-trading-inc-70cdcr22p00000044-wa-90-394.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

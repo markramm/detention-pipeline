@@ -3,13 +3,13 @@ title: "Charleston County SC — Racial Profiling in ICE Traffic Stop Operations
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "45019"
+fips: ""
 state: "SC"
 county: "Charleston County"
 repo_path: "kb/industry/county-fights/charleston-county-sc-racial-profiling-ice.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-13"
 summary: "On November 3, 2025, a coordinated ICE enforcement operation in North Charleston used South Carolina Highway Patrol troopers to conduct pretextual traffic stops that witnesses described as targeting..."
-source_count: 5
+source_count: 4
 type: "fights"
 layout: "single"
 status: "contested"
@@ -34,7 +34,6 @@ On November 3, 2025, a coordinated ICE enforcement operation in North Charleston
   - ICE moved in with unmarked vehicles after troopers made stops.
 - **November 2025**: Reports of construction site enforcement activity across Richland County.
 - **March-April 2026**: ACLU-SC publishes "5 Ugly Facts" report citing Charleston operations; opposes H.4764.
-- **April 14, 2026**: Community tip — ICE operation reported near Cosgrove Bridge in North Charleston. "Masked officers taking multiple Hispanic males into custody." Photos submitted showing law enforcement vehicles. Pattern consistent with prior traffic stop operations. ([GitHub tip #35](https://github.com/markramm/detention-pipeline/issues/35), Carolina Courier via Facebook)
 
 ## Community Impact
 

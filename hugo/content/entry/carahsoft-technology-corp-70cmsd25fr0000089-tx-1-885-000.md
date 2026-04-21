@@ -1,13 +1,13 @@
 ---
 title: "Carahsoft Technology Corp — 70Cmsd25Fr0000089 (TX) $1,885,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/carahsoft-technology-corp-70cmsd25fr0000089-tx-1-885-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CARAHSOFT TECHNOLOGY CORP"
 source_count: 0
 type: "entry"

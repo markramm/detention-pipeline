@@ -1,13 +1,13 @@
 ---
 title: "Akima Infrastructure Protection LLC — 70Cdcr24Fr0000058 (None) $21,678,842"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "US"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/akima-infrastructure-protection-llc-70cdcr24fr0000058-none-21-678-842.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: AKIMA INFRASTRUCTURE PROTECTION LLC"
 source_count: 0
 type: "entry"

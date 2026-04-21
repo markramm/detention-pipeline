@@ -7,7 +7,7 @@ fips: ""
 state: "TN"
 county: ""
 repo_path: "kb/287g/287-g-jem-tennessee-department-of-corrections-tn.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Tennessee Department of Corrections, signed June 16, 2025."
 source_count: 1
 type: "entry"

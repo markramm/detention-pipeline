@@ -1,13 +1,13 @@
 ---
-title: "El Dorado County County CA — Board of Supervisors 2025-12-02: Department of Transportation recommending the Board consider the following: 1)"
+title: "El Dorado County County CA — Board of Supervisors 2025-12-02: Department of Transportation recommending the Board consider the following: 1) "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "06017"
-state: "CA"
-county: "El Dorado County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/el-dorado-county-county-ca-board-of-supervisors-2025-12-02-department-of-transportation-recommending-the-board-consider-the-following-1.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

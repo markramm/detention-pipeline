@@ -1,13 +1,13 @@
 ---
 title: "Amergis Healthcare Staffing, INC. — 70Cdcr24Fr0000061 (MD) $37,624,992"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/amergis-healthcare-staffing-inc-70cdcr24fr0000061-md-37-624-992.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: AMERGIS HEALTHCARE STAFFING, INC."
 source_count: 0
 type: "entry"

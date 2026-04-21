@@ -7,7 +7,7 @@ fips: "26039"
 state: "MI"
 county: "Crawford County"
 repo_path: "kb/287g/287-g-tfm-crawford-county-sheriff-s-office-mi.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Crawford County Sheriff’s Office, signed September 9, 2025."
 source_count: 1
 type: "entry"

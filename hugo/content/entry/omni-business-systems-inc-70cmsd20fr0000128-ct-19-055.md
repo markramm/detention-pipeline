@@ -1,13 +1,13 @@
 ---
 title: "Omni Business Systems, INC — 70Cmsd20Fr0000128 (CT) $19,055"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CT"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/omni-business-systems-inc-70cmsd20fr0000128-ct-19-055.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: OMNI BUSINESS SYSTEMS, INC"
 source_count: 0
 type: "entry"

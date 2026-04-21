@@ -18,7 +18,7 @@ status: "active"
 bed_count: ""
 facility_type: "Unknown"
 city: "Paris"
-address: "101 Legion Rd"
+address: "101 Legion Rd "
 aor: "Chicago"
 avg_daily_pop: "2"
 ---

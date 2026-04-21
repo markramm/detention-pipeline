@@ -1,13 +1,13 @@
 ---
 title: "Enterprise Technology Solutions, INC. — 70Cmsd24Fr0000193 (DC) $1,486,175"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/enterprise-technology-solutions-inc-70cmsd24fr0000193-dc-1-486-175.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ENTERPRISE TECHNOLOGY SOLUTIONS, INC."
 source_count: 0
 type: "entry"

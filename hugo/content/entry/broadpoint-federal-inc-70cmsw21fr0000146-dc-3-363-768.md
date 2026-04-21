@@ -1,13 +1,13 @@
 ---
 title: "Broadpoint Federal INC — 70Cmsw21Fr0000146 (DC) $3,363,768"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/broadpoint-federal-inc-70cmsw21fr0000146-dc-3-363-768.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: BROADPOINT FEDERAL INC"
 source_count: 0
 type: "entry"

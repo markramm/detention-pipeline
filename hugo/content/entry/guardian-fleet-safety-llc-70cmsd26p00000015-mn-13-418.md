@@ -1,13 +1,13 @@
 ---
 title: "Guardian Fleet Safety LLC — 70Cmsd26P00000015 (MN) $13,418"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MN"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/guardian-fleet-safety-llc-70cmsd26p00000015-mn-13-418.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GUARDIAN FLEET SAFETY LLC"
 source_count: 0
 type: "entry"

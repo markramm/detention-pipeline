@@ -1,13 +1,13 @@
 ---
 title: "Humango Solutions, LLC — 70Ctd025Fc0000023 (CA) $18,796"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/humango-solutions-llc-70ctd025fc0000023-ca-18-796.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: HUMANGO SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Philadelphia Parking Authority — 70Cmsd25P00000116 (PA) $53,520"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/philadelphia-parking-authority-70cmsd25p00000116-pa-53-520.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PHILADELPHIA PARKING AUTHORITY"
 source_count: 0
 type: "entry"

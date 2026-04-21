@@ -1,13 +1,13 @@
 ---
-title: "Pima County County AZ — Board of Supervisors 2025-11-04: Classification/Compensation The Human Resources Department requests approval to"
+title: "Pima County County AZ — Board of Supervisors 2025-11-04: Classification/Compensation\nThe Human Resources Department requests approval to "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "04019"
-state: "AZ"
-county: "Pima County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/pima-county-county-az-board-of-supervisors-2025-11-04-classification-compensation-the-human-resources-department-requests-approval-to.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

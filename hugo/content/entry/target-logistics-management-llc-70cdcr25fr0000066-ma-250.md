@@ -1,13 +1,13 @@
 ---
 title: "Target Logistics Management, LLC — 70Cdcr25Fr0000066 (Ma) $250"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/target-logistics-management-llc-70cdcr25fr0000066-ma-250.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: TARGET LOGISTICS MANAGEMENT, LLC"
 source_count: 0
 type: "entry"

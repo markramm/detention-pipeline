@@ -1,13 +1,13 @@
 ---
 title: "Simon Wiesenthal Center, INC. — 70Cmsd22P00000140 (DC) $214,200"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/simon-wiesenthal-center-inc-70cmsd22p00000140-dc-214-200.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: SIMON WIESENTHAL CENTER, INC."
 source_count: 0
 type: "entry"

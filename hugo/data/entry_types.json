@@ -1,328 +1,117 @@
 {
-  "igsa": {
-    "label": "IGSA Facility",
-    "section": "facilities",
-    "subdirectory": null,
-    "color": "#c93b3b",
-    "css_var": "--signal-igsa",
-    "anchor": "signal-igsa",
-    "description": "Intergovernmental Service Agreement \u2014 a contract where a county jail holds ICE detainees for a daily rate",
-    "weight": 10,
-    "max_entries": 5,
-    "tier": 1,
-    "required_fields": [
-      "title",
-      "state"
-    ],
-    "source_url_required": true,
-    "source_url_default": "https://github.com/vera-institute/ice-detention-trends"
+  "287g-agreement": {
+    "label": "287(g) Agreement",
+    "color": "#d46a2f",
+    "weight": 7,
+    "section": "signals"
   },
   "anc-contract": {
     "label": "ANC Contract",
-    "section": "signals",
-    "subdirectory": "anc",
     "color": "#c49025",
-    "css_var": "--signal-anc",
-    "anchor": "signal-anc",
-    "description": "Alaska Native Corporation sole-source contract for ICE detention services, transportation, or facility management",
     "weight": 8,
-    "max_entries": 3,
-    "tier": 1,
-    "required_fields": [
-      "title",
-      "state"
-    ],
-    "source_url_required": true,
-    "source_url_default": "https://www.usaspending.gov"
-  },
-  "ice-contract": {
-    "label": "ICE Contract",
-    "section": "signals",
-    "subdirectory": "ice-contracts",
-    "color": "#c49025",
-    "css_var": "--signal-anc",
-    "anchor": "signal-anc",
-    "description": "ICE contract award from USAspending (detention, transportation, facility services)",
-    "weight": 8,
-    "max_entries": 3,
-    "tier": 1,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
-  },
-  "287g-agreement": {
-    "label": "287(g) Agreement",
-    "section": "signals",
-    "subdirectory": "287g",
-    "color": "#d46a2f",
-    "css_var": "--signal-287g",
-    "anchor": "signal-287g",
-    "description": "Local law enforcement deputized to enforce federal immigration law \u2014 can be jail-only or street-level",
-    "weight": 7,
-    "max_entries": 3,
-    "tier": 1,
-    "required_fields": [
-      "title",
-      "state"
-    ],
-    "source_url_required": true,
-    "source_url_default": "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/"
-  },
-  "commission-activity": {
-    "label": "Commission Activity",
-    "section": "signals",
-    "subdirectory": "commission",
-    "color": "#8a9f2a",
-    "css_var": "--signal-commission",
-    "anchor": "signal-commission",
-    "description": "County commission or city council has discussed, voted on, or been petitioned about ICE-related matters",
-    "weight": 7,
-    "max_entries": 5,
-    "tier": 2,
-    "required_fields": [
-      "title",
-      "county",
-      "state",
-      "fips"
-    ],
-    "source_url_required": true,
-    "source_url_default": "https://webapi.legistar.com"
-  },
-  "job-posting": {
-    "label": "Job Posting",
-    "section": "signals",
-    "subdirectory": "jobs",
-    "color": "#2a9f6f",
-    "css_var": "--signal-job",
-    "anchor": "signal-job",
-    "description": "Consulting firm or contractor actively recruiting for detention-related work in this area",
-    "weight": 7,
-    "max_entries": 3,
-    "tier": 2,
-    "required_fields": [
-      "title",
-      "state"
-    ],
-    "source_url_required": true
-  },
-  "sheriff-network": {
-    "label": "Sheriff Network",
-    "section": "signals",
-    "subdirectory": "sheriff",
-    "color": "#2a7fb5",
-    "css_var": "--signal-sheriff",
-    "anchor": "signal-sheriff",
-    "description": "Sheriff identified in recruitment networks pitching ICE cooperation to county commissioners",
-    "weight": 6,
-    "max_entries": 3,
-    "tier": 2,
-    "required_fields": [
-      "title",
-      "county",
-      "state",
-      "fips"
-    ],
-    "source_url_required": false
-  },
-  "comms-discipline": {
-    "label": "Comms Discipline",
-    "section": "signals",
-    "subdirectory": "comms",
-    "color": "#6a5fb5",
-    "css_var": "--signal-comms",
-    "anchor": "signal-comms",
-    "description": "Coordinated messaging pattern detected \u2014 talking points, PR playbook, or scripted responses about ICE cooperation",
-    "weight": 6,
-    "max_entries": 3,
-    "tier": 2,
-    "required_fields": [
-      "title",
-      "county",
-      "state",
-      "fips"
-    ],
-    "source_url_required": false
+    "section": "signals"
   },
   "budget-distress": {
     "label": "Budget Distress",
-    "section": "signals",
-    "subdirectory": "budget",
     "color": "#9a4fb5",
-    "css_var": "--signal-budget",
-    "anchor": "signal-budget",
-    "description": "County facing financial pressure that makes ICE detention revenue an attractive proposition",
     "weight": 5,
-    "max_entries": 2,
-    "tier": 3,
-    "required_fields": [
-      "title",
-      "county",
-      "state",
-      "fips"
-    ],
-    "source_url_required": true,
-    "source_url_default": "https://www.ers.usda.gov/data-products/county-typology-codes/"
+    "section": "signals"
   },
-  "real-estate-trace": {
-    "label": "Real Estate Trace",
-    "section": "signals",
-    "subdirectory": "real-estate",
-    "color": "#b54f8a",
-    "css_var": "--signal-realestate",
-    "anchor": "signal-realestate",
-    "description": "Property transaction, lease, or building permit linked to potential detention facility development",
-    "weight": 2,
-    "max_entries": 2,
-    "tier": 3,
-    "required_fields": [
-      "title",
-      "county",
-      "state",
-      "fips"
-    ],
-    "source_url_required": false
+  "commission-activity": {
+    "label": "Commission Activity",
+    "color": "#8a9f2a",
+    "weight": 7,
+    "section": "signals"
+  },
+  "comms-discipline": {
+    "label": "Comms Discipline",
+    "color": "#6a5fb5",
+    "weight": 6,
+    "section": "signals"
+  },
+  "job-posting": {
+    "label": "Job Posting",
+    "color": "#2a9f6f",
+    "weight": 7,
+    "section": "signals"
   },
   "legislative-trace": {
     "label": "Legislative Trace",
-    "section": "signals",
-    "subdirectory": "legislative",
     "color": "#5f6a7a",
-    "css_var": "--signal-legislative",
-    "anchor": "signal-legislative",
-    "description": "State-level legislation affecting immigration enforcement in this county",
     "weight": 1,
-    "max_entries": 2,
-    "tier": 4,
-    "required_fields": [
-      "title",
-      "state"
-    ],
-    "source_url_required": false
+    "section": "signals"
   },
-  "facility": {
-    "label": "Facility",
-    "section": "facilities",
-    "subdirectory": "facilities",
-    "color": "#c93b3b",
-    "css_var": "--signal-igsa",
-    "anchor": "signal-igsa",
-    "description": "A detention facility (operating or proposed)",
-    "required_fields": [
-      "title",
-      "state"
-    ],
-    "source_url_required": false
+  "real-estate-trace": {
+    "label": "Real Estate Trace",
+    "color": "#b54f8a",
+    "weight": 2,
+    "section": "signals"
+  },
+  "sheriff-network": {
+    "label": "Sheriff Network",
+    "color": "#2a7fb5",
+    "weight": 6,
+    "section": "signals"
   },
   "contractor": {
     "label": "Contractor",
-    "section": "players",
-    "subdirectory": "industry",
     "color": "#8a5a2a",
-    "css_var": null,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
+    "section": "players"
   },
   "person": {
     "label": "Person",
-    "section": "players",
-    "subdirectory": null,
     "color": "#5a2a8a",
-    "css_var": null,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
-  },
-  "organization": {
-    "label": "Organization",
-    "section": "organizations",
-    "subdirectory": null,
-    "color": "#4a7ab5",
-    "css_var": null,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
+    "section": "players"
   },
   "financial-flow": {
     "label": "Financial Flow",
-    "section": "players",
-    "subdirectory": null,
     "color": "#8a2a5a",
-    "css_var": null,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
-  },
-  "personnel-flow": {
-    "label": "Personnel Flow",
-    "section": "players",
-    "subdirectory": null,
-    "color": "#7a4ab5",
-    "css_var": null,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
+    "section": "players"
   },
   "analysis": {
     "label": "Analysis",
-    "section": "players",
-    "subdirectory": null,
     "color": "#5a6a8a",
-    "css_var": null,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
+    "section": "players"
   },
   "contract": {
     "label": "Contract",
-    "section": "players",
-    "subdirectory": null,
     "color": "#c49025",
-    "css_var": null,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
+    "section": "players"
+  },
+  "organization": {
+    "label": "Organization",
+    "color": "#4a7ab5",
+    "section": "organizations"
+  },
+  "personnel-flow": {
+    "label": "Personnel Flow",
+    "color": "#7a4ab5",
+    "section": "players"
   },
   "county-fight": {
     "label": "County Fight",
-    "section": "fights",
-    "subdirectory": null,
     "color": "#2a8a5a",
-    "css_var": null,
-    "required_fields": [
-      "title",
-      "state"
-    ],
-    "source_url_required": false
+    "section": "fights"
   },
   "event": {
     "label": "Event",
-    "section": "players",
-    "subdirectory": null,
     "color": "#5a7a6a",
-    "css_var": null,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
+    "section": "players"
   },
   "note": {
     "label": "Research Note",
-    "section": "entry",
-    "subdirectory": null,
     "color": "#6a6a6a",
-    "css_var": null,
-    "required_fields": [
-      "title"
-    ],
-    "source_url_required": false
+    "section": "entry"
+  },
+  "igsa": {
+    "label": "IGSA Facility",
+    "color": "#c93b3b",
+    "weight": 10,
+    "section": "facilities"
+  },
+  "facility": {
+    "label": "Facility",
+    "color": "#c93b3b",
+    "section": "facilities"
   }
 }

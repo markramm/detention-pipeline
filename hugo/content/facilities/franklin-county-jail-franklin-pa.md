@@ -18,7 +18,7 @@ status: "active"
 bed_count: ""
 facility_type: "Unknown"
 city: "Chambersburg"
-address: "1804 Opportunity Avenue"
+address: "1804 Opportunity Avenue "
 aor: "Philadelphia"
 avg_daily_pop: "4"
 ---

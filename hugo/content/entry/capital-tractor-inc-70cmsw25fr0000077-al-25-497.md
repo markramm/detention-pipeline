@@ -1,13 +1,13 @@
 ---
 title: "Capital Tractor INC — 70Cmsw25Fr0000077 (AL) $25,497"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/capital-tractor-inc-70cmsw25fr0000077-al-25-497.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

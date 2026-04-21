@@ -1,13 +1,13 @@
 ---
 title: "Blue Steel Ranges, LLC — 70Cmsd24P00000050 (MI) $38,850"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MI"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/blue-steel-ranges-llc-70cmsd24p00000050-mi-38-850.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: BLUE STEEL RANGES, LLC"
 source_count: 0
 type: "entry"

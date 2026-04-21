@@ -7,7 +7,7 @@ fips: "48265"
 state: "TX"
 county: "Kerr County"
 repo_path: "kb/287g/287-g-jem-kerr-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Kerr County Sheriff’s Office, signed May 2, 2025."
 source_count: 1
 type: "entry"

@@ -7,7 +7,7 @@ fips: "12053"
 state: "FL"
 county: "Hernando County"
 repo_path: "kb/287g/287-g-wso-hernando-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Hernando County Sheriff’s Office, signed May 6, 2019."
 source_count: 1
 type: "entry"

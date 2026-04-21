@@ -1,13 +1,13 @@
 ---
 title: "R3 Government Solutions, LLC — 70Cmsd24Fr0000164 (VA) $2,357,173"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/r3-government-solutions-llc-70cmsd24fr0000164-va-2-357-173.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: R3 GOVERNMENT SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

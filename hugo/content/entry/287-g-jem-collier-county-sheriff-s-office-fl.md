@@ -7,7 +7,7 @@ fips: "12021"
 state: "FL"
 county: "Collier County"
 repo_path: "kb/287g/287-g-jem-collier-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Collier County Sheriff’s Office, signed June 9, 2020."
 source_count: 1
 type: "entry"

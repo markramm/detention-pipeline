@@ -1,13 +1,13 @@
 ---
 title: "GOVSMART, INC. — 70CTD025FR0000063 (DC) $79,976"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/govsmart-inc-70ctd025fr0000063-dc-79-976.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -3,11 +3,11 @@ title: "Palm Beach County FL — 'Belly of the Beast' Immigration Enforcement an
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "12099"
+fips: ""
 state: "FL"
 county: "Palm Beach"
 repo_path: "kb/industry/county-fights/palm-beach-fl-belly-of-the-beast.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-11"
 summary: "Palm Beach County FL leads Florida in immigration arrests with 118 designated immigration officers and 1,400+ arrests since Aug 2025. Student walkouts and community resistance centered in Lake Worth Beach."
 source_count: 5
 type: "fights"

@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Board Of Commissioners 2026-01-15: Proposed Resolution Honoring The Life Of Dr. Bonnie Marie Smith Whereas, A"
+title: "Cook County County IL — Board Of Commissioners 2026-01-15: Proposed Resolution  honoring The Life Of Dr. Bonnie Marie Smith  whereas, A"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "17031"
-state: "IL"
-county: "Cook County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/cook-county-county-il-board-of-commissioners-2026-01-15-proposed-resolution-honoring-the-life-of-dr-bonnie-marie-smith-whereas-a.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

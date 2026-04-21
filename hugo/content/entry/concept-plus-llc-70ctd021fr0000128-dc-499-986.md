@@ -1,13 +1,13 @@
 ---
 title: "Concept Plus, LLC — 70Ctd021Fr0000128 (DC) $499,986"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/concept-plus-llc-70ctd021fr0000128-dc-499-986.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

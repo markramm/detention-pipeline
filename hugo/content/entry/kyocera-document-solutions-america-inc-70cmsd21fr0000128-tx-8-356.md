@@ -1,13 +1,13 @@
 ---
 title: "Kyocera Document Solutions America INC — 70Cmsd21Fr0000128 (TX) $8,356"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/kyocera-document-solutions-america-inc-70cmsd21fr0000128-tx-8-356.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: KYOCERA DOCUMENT SOLUTIONS AMERICA INC"
 source_count: 0
 type: "entry"

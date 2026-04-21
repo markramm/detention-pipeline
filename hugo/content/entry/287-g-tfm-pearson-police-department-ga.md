@@ -7,7 +7,7 @@ fips: "13003"
 state: "GA"
 county: "Atkinson County"
 repo_path: "kb/287g/287-g-tfm-pearson-police-department-ga.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Pearson Police Department, signed February 10, 2026."
 source_count: 1
 type: "entry"

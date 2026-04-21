@@ -1,13 +1,13 @@
 ---
 title: "Minuteman Security Technologies, INC. — 70Cdcr22P00000035 (ME) $83,812"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "ME"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/minuteman-security-technologies-inc-70cdcr22p00000035-me-83-812.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: MINUTEMAN SECURITY TECHNOLOGIES, INC."
 source_count: 0
 type: "entry"

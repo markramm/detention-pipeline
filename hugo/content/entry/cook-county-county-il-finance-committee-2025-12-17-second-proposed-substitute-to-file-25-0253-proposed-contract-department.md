@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Finance Committee 2025-12-17: SECOND PROPOSED SUBSTITUTE TO FILE #25-0253 PROPOSED CONTRACT Department("
+title: "Cook County County IL — Finance Committee 2025-12-17: SECOND PROPOSED SUBSTITUTE TO FILE  #25-0253  PROPOSED CONTRACT  Department("
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "17031"
-state: "IL"
-county: "Cook County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/cook-county-county-il-finance-committee-2025-12-17-second-proposed-substitute-to-file-25-0253-proposed-contract-department.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

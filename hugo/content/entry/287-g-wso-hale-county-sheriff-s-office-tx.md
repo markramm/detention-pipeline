@@ -7,7 +7,7 @@ fips: "48189"
 state: "TX"
 county: "Hale County"
 repo_path: "kb/287g/287-g-wso-hale-county-sheriff-s-office-tx.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Hale County Sheriff’s Office, signed August 4, 2025."
 source_count: 1
 type: "entry"

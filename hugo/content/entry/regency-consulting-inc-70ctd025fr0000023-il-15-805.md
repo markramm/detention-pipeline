@@ -1,13 +1,13 @@
 ---
 title: "Regency Consulting INC — 70Ctd025Fr0000023 (IL) $15,805"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "IL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/regency-consulting-inc-70ctd025fr0000023-il-15-805.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: REGENCY CONSULTING INC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Pci Guidehouse Jv LLC — 70Cmsw25C00000004 (AL) $1,806,496"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/pci-guidehouse-jv-llc-70cmsw25c00000004-al-1-806-496.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PCI GUIDEHOUSE JV LLC"
 source_count: 0
 type: "entry"

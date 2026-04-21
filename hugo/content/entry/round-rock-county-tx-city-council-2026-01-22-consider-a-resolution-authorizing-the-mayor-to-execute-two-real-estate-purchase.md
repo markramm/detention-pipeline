@@ -1,13 +1,13 @@
 ---
-title: "Round Rock County TX — City Council 2026-01-22: Consider a resolution authorizing the Mayor to execute two real estate purchase"
+title: "Round Rock County TX — City Council 2026-01-22: Consider a resolution authorizing the Mayor to execute two real estate purchase "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "48491"
-state: "TX"
-county: "Williamson County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/round-rock-county-tx-city-council-2026-01-22-consider-a-resolution-authorizing-the-mayor-to-execute-two-real-estate-purchase.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

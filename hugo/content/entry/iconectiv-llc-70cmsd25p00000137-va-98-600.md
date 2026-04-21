@@ -1,13 +1,13 @@
 ---
 title: "ICONECTIV, LLC — 70CMSD25P00000137 (VA) $98,600"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/iconectiv-llc-70cmsd25p00000137-va-98-600.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Deployed Resources LLC — 70Cdcr25P00000010 (TX) $7,466,580"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/deployed-resources-llc-70cdcr25p00000010-tx-7-466-580.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DEPLOYED RESOURCES LLC"
 source_count: 0
 type: "entry"

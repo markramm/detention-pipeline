@@ -1,13 +1,13 @@
 ---
 title: "Chenega Mission Operations, LLC — 70Cmsw22C00000009 (FL) $13,175,592"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/chenega-mission-operations-llc-70cmsw22c00000009-fl-13-175-592.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CHENEGA MISSION OPERATIONS, LLC"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "38071"
 state: "ND"
 county: "Ramsey County"
 repo_path: "kb/287g/287-g-tfm-ramsey-county-sheriff-s-office-nd.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Ramsey County Sheriff’s Office, signed June 13, 2025."
 source_count: 1
 type: "entry"

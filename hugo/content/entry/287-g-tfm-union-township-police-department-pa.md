@@ -7,7 +7,7 @@ fips: "42125"
 state: "PA"
 county: "Washington County"
 repo_path: "kb/287g/287-g-tfm-union-township-police-department-pa.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Union Township Police Department, signed November 4, 2025."
 source_count: 1
 type: "entry"

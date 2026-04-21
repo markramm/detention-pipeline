@@ -1,13 +1,13 @@
 ---
 title: "Bayshore Transportation System, INC. — 70Cmsw26P00000015 (PA) $13,112"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/bayshore-transportation-system-inc-70cmsw26p00000015-pa-13-112.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: BAYSHORE TRANSPORTATION SYSTEM, INC."
 source_count: 0
 type: "entry"

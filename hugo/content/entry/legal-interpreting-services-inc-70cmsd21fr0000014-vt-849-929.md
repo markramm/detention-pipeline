@@ -1,13 +1,13 @@
 ---
 title: "Legal Interpreting Services, INC. — 70Cmsd21Fr0000014 (VT) $849,929"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VT"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/legal-interpreting-services-inc-70cmsd21fr0000014-vt-849-929.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: LEGAL INTERPRETING SERVICES, INC."
 source_count: 0
 type: "entry"

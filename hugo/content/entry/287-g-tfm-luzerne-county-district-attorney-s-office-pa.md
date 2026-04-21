@@ -7,7 +7,7 @@ fips: "42079"
 state: "PA"
 county: "Luzerne County"
 repo_path: "kb/287g/287-g-tfm-luzerne-county-district-attorney-s-office-pa.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Luzerne County District Attorney’s Office, signed July 7, 2025."
 source_count: 1
 type: "entry"

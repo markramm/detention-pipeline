@@ -1,13 +1,13 @@
 ---
 title: "International Satellite Services, INC. — 70Cmsd25P00000036 (VA) $92,976"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/international-satellite-services-inc-70cmsd25p00000036-va-92-976.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INTERNATIONAL SATELLITE SERVICES, INC."
 source_count: 0
 type: "entry"

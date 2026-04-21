@@ -1,13 +1,13 @@
 ---
 title: "Tactical & Survival Specialties, LLC — 70Cmsw24Fr0000087 (VA) $250,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/tactical-survival-specialties-llc-70cmsw24fr0000087-va-250-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: TACTICAL & SURVIVAL SPECIALTIES, LLC"
 source_count: 0
 type: "entry"

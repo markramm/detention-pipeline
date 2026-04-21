@@ -1,13 +1,13 @@
 ---
 title: "Zayo Professional Services, LLC — 70Cmsd21P00000063 (VA) $68,892"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/zayo-professional-services-llc-70cmsd21p00000063-va-68-892.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ZAYO PROFESSIONAL SERVICES, LLC"
 source_count: 0
 type: "entry"

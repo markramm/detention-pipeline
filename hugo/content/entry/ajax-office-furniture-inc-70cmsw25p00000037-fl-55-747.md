@@ -1,13 +1,13 @@
 ---
 title: "Ajax Office Furniture, INC — 70Cmsw25P00000037 (FL) $55,747"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/ajax-office-furniture-inc-70cmsw25p00000037-fl-55-747.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: AJAX OFFICE FURNITURE, INC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Guardian Centers Of Georgia, LLC — 70Cmsd23P00000023 (GA) $2,635,397"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/guardian-centers-of-georgia-llc-70cmsd23p00000023-ga-2-635-397.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GUARDIAN CENTERS OF GEORGIA, LLC"
 source_count: 0
 type: "entry"

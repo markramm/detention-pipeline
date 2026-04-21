@@ -1,13 +1,13 @@
 ---
 title: "Sayari Analytics, LLC — 70Cmsd23P00000077 (VA) $70,122"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/sayari-analytics-llc-70cmsd23p00000077-va-70-122.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: SAYARI ANALYTICS, LLC"
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "18133"
 state: "IN"
 county: "Putnam County"
 repo_path: "kb/287g/287-g-wso-indiana-department-of-corrections-in.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Indiana Department of Corrections, signed August 4, 2025."
 source_count: 1
 type: "entry"

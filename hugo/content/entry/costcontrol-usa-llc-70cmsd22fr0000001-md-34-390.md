@@ -1,13 +1,13 @@
 ---
 title: "Costcontrol Usa, LLC — 70Cmsd22Fr0000001 (MD) $34,390"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MD"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/costcontrol-usa-llc-70cmsd22fr0000001-md-34-390.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: COSTCONTROL USA, LLC"
 source_count: 0
 type: "entry"

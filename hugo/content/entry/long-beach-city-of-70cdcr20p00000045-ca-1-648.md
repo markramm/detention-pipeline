@@ -1,13 +1,13 @@
 ---
 title: "Long Beach, City Of — 70Cdcr20P00000045 (CA) $1,648"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/long-beach-city-of-70cdcr20p00000045-ca-1-648.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

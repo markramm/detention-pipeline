@@ -1,13 +1,13 @@
 ---
 title: "Custom Courier INC — 70Cmsw20P00000052 (VT) $22,848"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VT"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/custom-courier-inc-70cmsw20p00000052-vt-22-848.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

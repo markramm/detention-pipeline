@@ -2,16 +2,15 @@
   "fips": "36101",
   "county": "Steuben County, NY",
   "state": "NY",
-  "score": 78,
+  "score": 72,
   "signal_types": 3,
-  "rank": 46,
-  "total_counties": 2019,
-  "percentile": 98,
-  "coverage": "partially-researched",
-  "auto_summary": "Steuben County, NY shows 2 existing IGSA facilities, 3 287(g) agreements, and active community resistance.",
+  "rank": 37,
+  "total_counties": 1192,
+  "percentile": 97,
+  "coverage": "unresearched",
+  "auto_summary": "Steuben County, NY shows 2 existing IGSA facilities, and 3 287(g) agreements.",
   "entry_types": {
     "287g-agreement": 3,
-    "igsa": 2,
-    "county-fight": 1
+    "igsa": 2
   }
 }

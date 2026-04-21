@@ -1,13 +1,13 @@
 ---
 title: "American Institute IN Taiwan — 70Cmsd25C00000003 (None) $898,115"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "US"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/american-institute-in-taiwan-70cmsd25c00000003-none-898-115.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: AMERICAN INSTITUTE IN TAIWAN"
 source_count: 0
 type: "entry"

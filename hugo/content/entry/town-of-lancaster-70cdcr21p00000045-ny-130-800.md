@@ -1,13 +1,13 @@
 ---
 title: "Town Of Lancaster — 70Cdcr21P00000045 (NY) $130,800"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/town-of-lancaster-70cdcr21p00000045-ny-130-800.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

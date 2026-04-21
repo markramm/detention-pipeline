@@ -7,7 +7,7 @@ fips: "45075"
 state: "SC"
 county: "Orangeburg County"
 repo_path: "kb/287g/287-g-tfm-elloree-police-department-sc.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Elloree Police Department, signed January 7, 2026."
 source_count: 1
 type: "entry"

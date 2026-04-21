@@ -1,13 +1,13 @@
 ---
-title: "Monterey County County CA — Legislative Committee 2026-02-09: Receive reports, provide direction, and consider positions and/or recommendation"
+title: "Monterey County County CA —  Legislative Committee 2026-02-09: Receive reports, provide direction, and consider positions and/or recommendation"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "06053"
-state: "CA"
-county: "Monterey County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/monterey-county-county-ca-legislative-committee-2026-02-09-receive-reports-provide-direction-and-consider-positions-and-or-recommendation.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

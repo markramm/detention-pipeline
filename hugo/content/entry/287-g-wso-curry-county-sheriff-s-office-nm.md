@@ -7,7 +7,7 @@ fips: "35009"
 state: "NM"
 county: "Curry County"
 repo_path: "kb/287g/287-g-wso-curry-county-sheriff-s-office-nm.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Curry County Sheriff’s Office, signed May 13, 2025."
 source_count: 1
 type: "entry"

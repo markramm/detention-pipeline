@@ -1,13 +1,13 @@
 ---
 title: "Regency Consulting INC — 70Cmsd25Fr0000027 (IA) $39,138"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "IA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/regency-consulting-inc-70cmsd25fr0000027-ia-39-138.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: REGENCY CONSULTING INC"
 source_count: 0
 type: "entry"

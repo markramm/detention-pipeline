@@ -1,13 +1,13 @@
 ---
 title: "Gap Solutions, INC. — 70Cmsd24Fr0000047 (VA) $19,769,016"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/gap-solutions-inc-70cmsd24fr0000047-va-19-769-016.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

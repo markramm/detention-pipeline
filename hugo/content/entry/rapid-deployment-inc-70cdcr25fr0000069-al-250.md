@@ -1,13 +1,13 @@
 ---
 title: "Rapid Deployment INC — 70Cdcr25Fr0000069 (AL) $250"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/rapid-deployment-inc-70cdcr25fr0000069-al-250.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: RAPID DEPLOYMENT INC"
 source_count: 0
 type: "entry"

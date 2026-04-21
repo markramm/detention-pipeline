@@ -1,13 +1,13 @@
 ---
 title: "Trophies By Edco, INC. — 70Cmsd25P00000050 (FL) $23,045"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/trophies-by-edco-inc-70cmsd25p00000050-fl-23-045.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: TROPHIES BY EDCO, INC."
 source_count: 0
 type: "entry"

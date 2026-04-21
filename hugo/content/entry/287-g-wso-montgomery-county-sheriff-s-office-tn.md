@@ -7,7 +7,7 @@ fips: "47125"
 state: "TN"
 county: "Montgomery County"
 repo_path: "kb/287g/287-g-wso-montgomery-county-sheriff-s-office-tn.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Montgomery County Sheriff’s Office, signed October 17, 2025."
 source_count: 1
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "SRT SUPPLY, LLC — 70CMSW25FR0000070 (FL) $13,095"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/srt-supply-llc-70cmsw25fr0000070-fl-13-095.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

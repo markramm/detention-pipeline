@@ -1,13 +1,13 @@
 ---
 title: "Alta Language Services INC — 70Cmsd20Fr0000171 (GA) $40,715"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/alta-language-services-inc-70cmsd20fr0000171-ga-40-715.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ALTA LANGUAGE SERVICES INC"
 source_count: 0
 type: "entry"

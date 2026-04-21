@@ -1,13 +1,13 @@
 ---
 title: "Cobwebs America INC — 70Cmsd23P00000145 (DC) $3,321,682"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/cobwebs-america-inc-70cmsd23p00000145-dc-3-321-682.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Regupol Zebra Athletics LLC — 70Cmsw25Fr0000115 (PA) $26,498"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "PA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/regupol-zebra-athletics-llc-70cmsw25fr0000115-pa-26-498.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: REGUPOL ZEBRA ATHLETICS LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Asset Management Committee 2025-11-18: PROPOSED SUBSTITUTE TO FILE #25-4100 (Asset Management Committee 11/18/2025) - I"
+title: "Cook County County IL — Asset Management Committee 2025-11-18: PROPOSED SUBSTITUTE TO FILE #25-4100\n(Asset Management Committee 11/18/2025) - I"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "17031"
-state: "IL"
-county: "Cook County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/cook-county-county-il-asset-management-committee-2025-11-18-proposed-substitute-to-file-25-4100-asset-management-committee-11-18-2025-i.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Government Acquisitions INC — 70Ctd025Fr0000038 (DC) $1,521,868"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/government-acquisitions-inc-70ctd025fr0000038-dc-1-521-868.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GOVERNMENT ACQUISITIONS INC"
 source_count: 0
 type: "entry"

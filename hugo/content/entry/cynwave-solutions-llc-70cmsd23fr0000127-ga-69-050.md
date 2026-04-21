@@ -1,13 +1,13 @@
 ---
 title: "Cynwave Solutions, LLC — 70Cmsd23Fr0000127 (GA) $69,050"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/cynwave-solutions-llc-70cmsd23fr0000127-ga-69-050.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CYNWAVE SOLUTIONS, LLC"
 source_count: 0
 type: "entry"

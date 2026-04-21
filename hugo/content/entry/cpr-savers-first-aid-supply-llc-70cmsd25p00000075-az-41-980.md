@@ -1,13 +1,13 @@
 ---
 title: "Cpr Savers & First Aid Supply, LLC — 70Cmsd25P00000075 (AZ) $41,980"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AZ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/cpr-savers-first-aid-supply-llc-70cmsd25p00000075-az-41-980.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CPR SAVERS & FIRST AID SUPPLY, LLC"
 source_count: 0
 type: "entry"

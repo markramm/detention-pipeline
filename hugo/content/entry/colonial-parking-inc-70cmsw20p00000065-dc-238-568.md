@@ -1,13 +1,13 @@
 ---
 title: "Colonial Parking, INC — 70Cmsw20P00000065 (DC) $238,568"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/colonial-parking-inc-70cmsw20p00000065-dc-238-568.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: COLONIAL PARKING, INC"
 source_count: 0
 type: "entry"

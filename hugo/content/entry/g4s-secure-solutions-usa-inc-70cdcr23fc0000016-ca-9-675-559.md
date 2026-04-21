@@ -1,13 +1,13 @@
 ---
 title: "G4S Secure Solutions (Usa) INC. — 70Cdcr23Fc0000016 (CA) $9,675,559"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/g4s-secure-solutions-usa-inc-70cdcr23fc0000016-ca-9-675-559.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: G4S SECURE SOLUTIONS (USA) INC."
 source_count: 0
 type: "entry"

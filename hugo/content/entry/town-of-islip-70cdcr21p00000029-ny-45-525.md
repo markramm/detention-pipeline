@@ -1,13 +1,13 @@
 ---
 title: "TOWN OF ISLIP — 70CDCR21P00000029 (NY) $45,525"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/town-of-islip-70cdcr21p00000029-ny-45-525.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

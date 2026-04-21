@@ -1,13 +1,13 @@
 ---
-title: "Pima County County AZ — Board of Supervisors 2026-03-24: Award Amendment of Award: Supplier Contract No. SC2400002231, Amendment No. 5, I"
+title: "Pima County County AZ — Board of Supervisors 2026-03-24: Award\nAmendment of Award: Supplier Contract No. SC2400002231, Amendment No. 5, I"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "04019"
-state: "AZ"
-county: "Pima County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/pima-county-county-az-board-of-supervisors-2026-03-24-award-amendment-of-award-supplier-contract-no-sc2400002231-amendment-no-5-i.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 1
 type: "entry"

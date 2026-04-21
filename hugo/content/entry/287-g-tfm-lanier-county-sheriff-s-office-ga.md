@@ -7,7 +7,7 @@ fips: "13173"
 state: "GA"
 county: "Lanier County"
 repo_path: "kb/287g/287-g-tfm-lanier-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Lanier County Sheriff’s Office, signed November 4, 2025."
 source_count: 1
 type: "entry"

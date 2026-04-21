@@ -1,13 +1,13 @@
 ---
 title: "Genesis One Three, LLC — 70Cmsd25P00000086 (CO) $11,408"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CO"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/genesis-one-three-llc-70cmsd25p00000086-co-11-408.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GENESIS ONE THREE, LLC"
 source_count: 0
 type: "entry"

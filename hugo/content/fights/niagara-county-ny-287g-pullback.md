@@ -3,11 +3,11 @@ title: "Niagara County NY — Sheriff signs 287(g), then pulls back on ICE partn
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "36063"
+fips: ""
 state: "NY"
 county: "Niagara"
 repo_path: "kb/industry/county-fights/niagara-county-ny-287g-pullback.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Niagara County is notable as a case where a sheriff signed 287(g) agreements, then scaled back cooperation after community pressure and legal concerns."
 source_count: 4
 type: "fights"

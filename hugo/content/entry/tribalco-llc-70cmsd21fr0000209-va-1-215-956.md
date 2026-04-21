@@ -1,13 +1,13 @@
 ---
 title: "TRIBALCO LLC — 70CMSD21FR0000209 (VA) $1,215,956"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/tribalco-llc-70cmsd21fr0000209-va-1-215-956.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

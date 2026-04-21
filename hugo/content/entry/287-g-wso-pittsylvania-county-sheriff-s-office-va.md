@@ -7,7 +7,7 @@ fips: "51143"
 state: "VA"
 county: "Pittsylvania County"
 repo_path: "kb/287g/287-g-wso-pittsylvania-county-sheriff-s-office-va.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) WSO agreement between ICE and Pittsylvania County Sheriff’s Office, signed September 9, 2025."
 source_count: 1
 type: "entry"

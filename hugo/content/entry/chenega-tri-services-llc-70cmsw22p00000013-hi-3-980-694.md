@@ -1,13 +1,13 @@
 ---
 title: "Chenega Tri-Services, LLC — 70Cmsw22P00000013 (HI) $3,980,694"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "HI"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/chenega-tri-services-llc-70cmsw22p00000013-hi-3-980-694.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CHENEGA TRI-SERVICES, LLC"
 source_count: 0
 type: "entry"

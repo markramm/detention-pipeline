@@ -1,13 +1,13 @@
 ---
 title: "Rmf Engineering, INC., P.C. — 70Cmsw25Fr0000028 (TX) $36,647"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/rmf-engineering-inc-p-c-70cmsw25fr0000028-tx-36-647.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: RMF ENGINEERING, INC., P.C."
 source_count: 0
 type: "entry"

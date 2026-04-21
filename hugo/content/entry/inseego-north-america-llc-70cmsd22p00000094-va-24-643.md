@@ -1,13 +1,13 @@
 ---
 title: "Inseego North America, LLC — 70Cmsd22P00000094 (VA) $24,643"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/inseego-north-america-llc-70cmsd22p00000094-va-24-643.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INSEEGO NORTH AMERICA, LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Target Down Group INC — 70Cmsd25P00000122 (AZ) $30,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AZ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/target-down-group-inc-70cmsd25p00000122-az-30-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: TARGET DOWN GROUP INC"
 source_count: 0
 type: "entry"

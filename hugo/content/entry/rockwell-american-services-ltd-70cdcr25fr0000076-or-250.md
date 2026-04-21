@@ -1,13 +1,13 @@
 ---
 title: "Rockwell American Services, Ltd. — 70Cdcr25Fr0000076 (OR) $250"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "OR"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/rockwell-american-services-ltd-70cdcr25fr0000076-or-250.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ROCKWELL AMERICAN SERVICES, LTD."
 source_count: 0
 type: "entry"

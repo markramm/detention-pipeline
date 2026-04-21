@@ -1,13 +1,13 @@
 ---
-title: "Fulton County County GA — Board of Commissioners 2026-01-21: Request approval of a Resolution by the Fulton County Board of Commissioners to"
+title: "Fulton County County GA — Board of Commissioners 2026-01-21: Request approval of a Resolution by the Fulton County Board of Commissioners to "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "13121"
-state: "GA"
-county: "Fulton County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/fulton-county-county-ga-board-of-commissioners-2026-01-21-request-approval-of-a-resolution-by-the-fulton-county-board-of-commissioners-to.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

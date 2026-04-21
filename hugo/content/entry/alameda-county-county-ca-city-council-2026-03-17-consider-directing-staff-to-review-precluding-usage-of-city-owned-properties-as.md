@@ -1,13 +1,13 @@
 ---
-title: "Alameda County County CA — City Council 2026-03-17: Consider Directing Staff to Review Precluding Usage of City-Owned Properties as"
+title: "Alameda County County CA — City Council 2026-03-17: Consider Directing Staff to Review Precluding Usage of City-Owned Properties as "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "06001"
-state: "CA"
-county: "Alameda County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/alameda-county-county-ca-city-council-2026-03-17-consider-directing-staff-to-review-precluding-usage-of-city-owned-properties-as.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Atlantic Diving Supply, INC. — 70Cmsw25Fc0000063 (MI) $26,620"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MI"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/atlantic-diving-supply-inc-70cmsw25fc0000063-mi-26-620.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ATLANTIC DIVING SUPPLY, INC."
 source_count: 0
 type: "entry"

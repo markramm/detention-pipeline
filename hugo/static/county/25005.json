@@ -2,15 +2,14 @@
   "fips": "25005",
   "county": "Bristol County, MA",
   "state": "MA",
-  "score": 28,
+  "score": 22,
   "signal_types": 2,
-  "rank": 430,
-  "total_counties": 2019,
-  "percentile": 79,
-  "coverage": "partially-researched",
-  "auto_summary": "Bristol County, MA shows 1 existing IGSA facility, and active community resistance.",
+  "rank": 396,
+  "total_counties": 1192,
+  "percentile": 67,
+  "coverage": "unresearched",
+  "auto_summary": "Bristol County, MA shows 1 existing IGSA facility.",
   "entry_types": {
-    "igsa": 1,
-    "county-fight": 1
+    "igsa": 1
   }
 }

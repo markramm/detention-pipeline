@@ -1,13 +1,13 @@
 ---
 title: "Academi Training Center LLC — 70Cmsw19P00000011 (GA) $96,242"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/academi-training-center-llc-70cmsw19p00000011-ga-96-242.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ACADEMI TRAINING CENTER LLC"
 source_count: 0
 type: "entry"

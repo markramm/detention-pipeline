@@ -1,5 +1,5 @@
 ---
-title: "Clarion County Corrections — Clarion, PA"
+title: "Clarion  County Corrections — Clarion, PA"
 entry_type: "igsa"
 signal_label: "IGSA Facility"
 signal_color: "#c93b3b"
@@ -12,7 +12,7 @@ summary: "IGSA detention facility in Clarion, PA."
 source_count: 0
 source_url: "https://github.com/vera-institute/ice-detention-trends"
 layout: "single"
-facility_name: "Clarion County Corrections"
+facility_name: "Clarion  County Corrections"
 operator: ""
 status: "active"
 bed_count: ""

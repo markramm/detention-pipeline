@@ -1,13 +1,13 @@
 ---
 title: "Dun & Bradstreet, INC — 70Cmsw20Fr0000028 (DC) $14,340"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/dun-bradstreet-inc-70cmsw20fr0000028-dc-14-340.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: DUN & BRADSTREET, INC"
 source_count: 0
 type: "entry"

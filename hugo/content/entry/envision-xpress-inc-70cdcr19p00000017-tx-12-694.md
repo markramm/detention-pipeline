@@ -1,13 +1,13 @@
 ---
 title: "Envision Xpress INC — 70Cdcr19P00000017 (TX) $12,694"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/envision-xpress-inc-70cdcr19p00000017-tx-12-694.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

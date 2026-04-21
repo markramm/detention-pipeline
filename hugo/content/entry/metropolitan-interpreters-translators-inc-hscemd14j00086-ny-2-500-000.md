@@ -1,13 +1,13 @@
 ---
 title: "Metropolitan Interpreters & Translators, INC. — Hscemd14J00086 (NY) $2,500,000"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "NY"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/metropolitan-interpreters-translators-inc-hscemd14j00086-ny-2-500-000.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: METROPOLITAN INTERPRETERS & TRANSLATORS, INC."
 source_count: 0
 type: "entry"

@@ -7,7 +7,7 @@ fips: "12123"
 state: "FL"
 county: "Taylor County"
 repo_path: "kb/287g/287-g-jem-taylor-county-sheriff-s-office-fl.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) JEM agreement between ICE and Taylor County Sheriff’s Office, signed October 17, 2025."
 source_count: 1
 type: "entry"

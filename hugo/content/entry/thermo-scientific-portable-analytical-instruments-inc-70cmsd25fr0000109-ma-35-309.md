@@ -1,13 +1,13 @@
 ---
 title: "Thermo Scientific Portable Analytical Instruments INC. — 70Cmsd25Fr0000109 (Ma) $35,309"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/thermo-scientific-portable-analytical-instruments-inc-70cmsd25fr0000109-ma-35-309.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUMENTS INC."
 source_count: 0
 type: "entry"

@@ -1,68 +1,62 @@
 {
-  "igsa": {
-    "label": "IGSA Facility",
-    "color": "#c93b3b",
-    "section": "facilities",
-    "weight": 10
+  "287g-agreement": {
+    "label": "287(g) Agreement",
+    "color": "#d46a2f",
+    "weight": 7,
+    "section": "signals"
   },
   "anc-contract": {
     "label": "ANC Contract",
     "color": "#c49025",
-    "section": "signals",
-    "weight": 8
-  },
-  "ice-contract": {
-    "label": "ICE Contract",
-    "color": "#c49025",
-    "section": "signals",
-    "weight": 8
-  },
-  "287g-agreement": {
-    "label": "287(g) Agreement",
-    "color": "#d46a2f",
-    "section": "signals",
-    "weight": 7
-  },
-  "commission-activity": {
-    "label": "Commission Activity",
-    "color": "#8a9f2a",
-    "section": "signals",
-    "weight": 7
-  },
-  "job-posting": {
-    "label": "Job Posting",
-    "color": "#2a9f6f",
-    "section": "signals",
-    "weight": 7
-  },
-  "sheriff-network": {
-    "label": "Sheriff Network",
-    "color": "#2a7fb5",
-    "section": "signals",
-    "weight": 6
-  },
-  "comms-discipline": {
-    "label": "Comms Discipline",
-    "color": "#6a5fb5",
-    "section": "signals",
-    "weight": 6
+    "weight": 8,
+    "section": "signals"
   },
   "budget-distress": {
     "label": "Budget Distress",
     "color": "#9a4fb5",
-    "section": "signals",
-    "weight": 5
+    "weight": 5,
+    "section": "signals"
   },
-  "real-estate-trace": {
-    "label": "Real Estate Trace",
-    "color": "#b54f8a",
-    "section": "signals",
-    "weight": 2
+  "commission-activity": {
+    "label": "Commission Activity",
+    "color": "#8a9f2a",
+    "weight": 7,
+    "section": "signals"
+  },
+  "comms-discipline": {
+    "label": "Comms Discipline",
+    "color": "#6a5fb5",
+    "weight": 6,
+    "section": "signals"
+  },
+  "job-posting": {
+    "label": "Job Posting",
+    "color": "#2a9f6f",
+    "weight": 7,
+    "section": "signals"
   },
   "legislative-trace": {
     "label": "Legislative Trace",
     "color": "#5f6a7a",
-    "section": "signals",
-    "weight": 1
+    "weight": 1,
+    "section": "signals"
+  },
+  "real-estate-trace": {
+    "label": "Real Estate Trace",
+    "color": "#b54f8a",
+    "weight": 2,
+    "section": "signals"
+  },
+  "sheriff-network": {
+    "label": "Sheriff Network",
+    "color": "#2a7fb5",
+    "weight": 6,
+    "section": "signals"
+  },
+  "igsa": {
+    "label": "IGSA Facility",
+    "color": "#c93b3b",
+    "weight": 10,
+    "section": "facilities"
   }
 }

@@ -1,13 +1,13 @@
 ---
 title: "Strategic Operational Solutions INC — 70Ctd026Fr0000014 (DC)"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/strategic-operational-solutions-inc-70ctd026fr0000014-dc.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: STRATEGIC OPERATIONAL SOLUTIONS INC"
 source_count: 0
 type: "entry"

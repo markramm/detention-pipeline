@@ -1,13 +1,13 @@
 ---
-title: "Richmond County VA — City Council 2026-02-09: To authorize the Chief Administrative Officer, for and on behalf of the City of"
+title: "Richmond County VA — City Council 2026-02-09: To authorize the Chief Administrative Officer, for and on behalf of the City of "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "51159"
-state: "VA"
-county: "Richmond County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/richmond-county-va-city-council-2026-02-09-to-authorize-the-chief-administrative-officer-for-and-on-behalf-of-the-city-of.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

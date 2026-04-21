@@ -1,13 +1,13 @@
 ---
 title: "George J. Petronis Enterprises, INC. — 70Cmsw25Fr0000050 (GA) $405,630"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "GA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/george-j-petronis-enterprises-inc-70cmsw25fr0000050-ga-405-630.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GEORGE J. PETRONIS ENTERPRISES, INC."
 source_count: 0
 type: "entry"

@@ -4,13 +4,12 @@
   "state": "AR",
   "score": 2,
   "signal_types": 2,
-  "rank": 2015,
-  "total_counties": 2019,
-  "percentile": 0,
-  "coverage": "partially-researched",
-  "auto_summary": "Franklin County, AR shows active community resistance.",
+  "rank": 1185,
+  "total_counties": 1192,
+  "percentile": 1,
+  "coverage": "unresearched",
+  "auto_summary": "",
   "entry_types": {
-    "county-fight": 1,
     "facility": 1
   }
 }

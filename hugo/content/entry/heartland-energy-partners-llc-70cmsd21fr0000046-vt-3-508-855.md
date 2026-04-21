@@ -1,13 +1,13 @@
 ---
 title: "Heartland Energy Partners LLC — 70Cmsd21Fr0000046 (VT) $3,508,855"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VT"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/heartland-energy-partners-llc-70cmsd21fr0000046-vt-3-508-855.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: HEARTLAND ENERGY PARTNERS LLC"
 source_count: 0
 type: "entry"

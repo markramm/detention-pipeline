@@ -1,13 +1,13 @@
 ---
 title: "Sos International LLC — 70Cdcr26Fr0000017 (DC) $1,642,226"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/sos-international-llc-70cdcr26fr0000017-dc-1-642-226.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: SOS INTERNATIONAL LLC"
 source_count: 0
 type: "entry"

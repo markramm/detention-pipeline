@@ -7,7 +7,7 @@ fips: "18065"
 state: "IN"
 county: "Henry County"
 repo_path: "kb/287g/287-g-tfm-cadiz-police-department-in.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Cadiz Police Department, signed January 7, 2026."
 source_count: 1
 type: "entry"

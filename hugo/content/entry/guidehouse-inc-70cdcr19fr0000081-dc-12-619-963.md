@@ -1,13 +1,13 @@
 ---
 title: "Guidehouse INC. — 70Cdcr19Fr0000081 (DC) $12,619,963"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/guidehouse-inc-70cdcr19fr0000081-dc-12-619-963.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

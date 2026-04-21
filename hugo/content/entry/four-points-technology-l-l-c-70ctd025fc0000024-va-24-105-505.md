@@ -1,13 +1,13 @@
 ---
 title: "Four Points Technology, L.L.C. — 70Ctd025Fc0000024 (VA) $24,105,505"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/four-points-technology-l-l-c-70ctd025fc0000024-va-24-105-505.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: FOUR POINTS TECHNOLOGY, L.L.C."
 source_count: 0
 type: "entry"

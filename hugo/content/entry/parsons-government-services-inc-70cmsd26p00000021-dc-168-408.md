@@ -1,13 +1,13 @@
 ---
 title: "Parsons Government Services INC. — 70Cmsd26P00000021 (DC) $168,408"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/parsons-government-services-inc-70cmsd26p00000021-dc-168-408.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PARSONS GOVERNMENT SERVICES INC."
 source_count: 0
 type: "entry"

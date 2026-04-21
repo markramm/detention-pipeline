@@ -7,7 +7,7 @@ fips: "13003"
 state: "GA"
 county: "Atkinson County"
 repo_path: "kb/287g/287-g-tfm-atkinson-county-sheriff-s-office-ga.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Atkinson County Sheriff’s Office, signed January 7, 2026."
 source_count: 1
 type: "entry"

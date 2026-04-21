@@ -1,13 +1,13 @@
 ---
 title: "Konica Minolta Business Solutions U.S.A, INC. — 70Cmsd19Fr0000013 (VA) $6,375"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/konica-minolta-business-solutions-u-s-a-inc-70cmsd19fr0000013-va-6-375.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: KONICA MINOLTA BUSINESS SOLUTIONS U.S.A, INC."
 source_count: 0
 type: "entry"

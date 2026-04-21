@@ -1,13 +1,13 @@
 ---
 title: "Capgemini Government Solutions LLC — 70Cdcr19Fc0000007 (DC) $33,122,230"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/capgemini-government-solutions-llc-70cdcr19fc0000007-dc-33-122-230.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CAPGEMINI GOVERNMENT SOLUTIONS LLC"
 source_count: 0
 type: "entry"

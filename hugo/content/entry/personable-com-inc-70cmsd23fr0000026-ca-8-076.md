@@ -1,13 +1,13 @@
 ---
 title: "Personable.Com, INC. — 70Cmsd23Fr0000026 (CA) $8,076"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/personable-com-inc-70cmsd23fr0000026-ca-8-076.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PERSONABLE.COM, INC."
 source_count: 0
 type: "entry"

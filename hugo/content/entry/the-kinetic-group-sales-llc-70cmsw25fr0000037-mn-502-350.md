@@ -1,13 +1,13 @@
 ---
 title: "The Kinetic Group Sales LLC — 70Cmsw25Fr0000037 (MN) $502,350"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MN"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/the-kinetic-group-sales-llc-70cmsw25fr0000037-mn-502-350.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: THE KINETIC GROUP SALES LLC"
 source_count: 0
 type: "entry"

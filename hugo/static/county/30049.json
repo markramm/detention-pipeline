@@ -2,15 +2,14 @@
   "fips": "30049",
   "county": "Lewis and Clark County, MT",
   "state": "MT",
-  "score": 38,
+  "score": 32,
   "signal_types": 2,
-  "rank": 257,
-  "total_counties": 2019,
-  "percentile": 87,
-  "coverage": "partially-researched",
-  "auto_summary": "Lewis and Clark County, MT shows 2 existing IGSA facilities, and active community resistance.",
+  "rank": 239,
+  "total_counties": 1192,
+  "percentile": 80,
+  "coverage": "unresearched",
+  "auto_summary": "Lewis and Clark County, MT shows 2 existing IGSA facilities.",
   "entry_types": {
-    "igsa": 2,
-    "county-fight": 1
+    "igsa": 2
   }
 }

@@ -1,13 +1,13 @@
 ---
 title: "Pacer Service Center — 70Cmsd22P00000042 (TX) $164,336"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/pacer-service-center-70cmsd22p00000042-tx-164-336.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: PACER SERVICE CENTER"
 source_count: 0
 type: "entry"

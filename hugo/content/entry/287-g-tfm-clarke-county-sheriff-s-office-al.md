@@ -7,7 +7,7 @@ fips: "01025"
 state: "AL"
 county: "Clarke County"
 repo_path: "kb/287g/287-g-tfm-clarke-county-sheriff-s-office-al.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Clarke County Sheriff’s Office, signed January 30, 2026."
 source_count: 1
 type: "entry"

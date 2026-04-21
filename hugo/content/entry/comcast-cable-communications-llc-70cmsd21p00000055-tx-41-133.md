@@ -1,13 +1,13 @@
 ---
 title: "Comcast Cable Communications, LLC — 70Cmsd21P00000055 (TX) $41,133"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/comcast-cable-communications-llc-70cmsd21p00000055-tx-41-133.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: COMCAST CABLE COMMUNICATIONS, LLC"
 source_count: 0
 type: "entry"

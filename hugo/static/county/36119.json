@@ -2,15 +2,14 @@
   "fips": "36119",
   "county": "Westchester County, NY",
   "state": "NY",
-  "score": 44,
-  "signal_types": 2,
-  "rank": 197,
-  "total_counties": 2019,
-  "percentile": 90,
-  "coverage": "partially-researched",
-  "auto_summary": "Westchester County, NY shows 1 ANC contract, and commission activity.",
+  "score": 8,
+  "signal_types": 1,
+  "rank": 912,
+  "total_counties": 1192,
+  "percentile": 23,
+  "coverage": "unresearched",
+  "auto_summary": "Westchester County, NY shows 1 ANC contract.",
   "entry_types": {
-    "anc-contract": 1,
-    "commission-activity": 5
+    "anc-contract": 1
   }
 }

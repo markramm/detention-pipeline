@@ -1,13 +1,13 @@
 ---
-title: "Oklahoma County County OK — Criminal Justice Authority 2025-10-30: Action regarding in confidential communications between the public body and its"
+title: "Oklahoma County County OK — Criminal Justice Authority 2025-10-30: Action regarding in confidential communications between the public body and its "
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "40109"
-state: "OK"
-county: "Oklahoma County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/oklahoma-county-county-ok-criminal-justice-authority-2025-10-30-action-regarding-in-confidential-communications-between-the-public-body-and-its.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

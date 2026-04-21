@@ -3,11 +3,11 @@ title: "Gallatin County MT — County attorney refuses ICE records access, AG th
 entry_type: "county-fight"
 signal_label: "County Fight"
 signal_color: "#2a8a5a"
-fips: "30031"
+fips: ""
 state: "MT"
 county: "Gallatin"
 repo_path: "kb/industry/county-fights/gallatin-county-mt-ice-records-fight.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-13"
 summary: "Gallatin County Attorney Audrey Cromwell became a target of AG Austin Knudsen after her office restricted ICE access to confidential criminal justice information (CCJI). The dispute has two prongs:"
 source_count: 6
 type: "fights"

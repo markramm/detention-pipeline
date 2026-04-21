@@ -1,13 +1,13 @@
 ---
 title: "Carahsoft Technology Corp — 70Cmsd25Fr0000044 (WA) $27,023"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "WA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/carahsoft-technology-corp-70cmsd25fr0000044-wa-27-023.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: CARAHSOFT TECHNOLOGY CORP"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "International Association Of Chiefs Of Police — 70Cmsd24P00000023 (DC) $12,200"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/international-association-of-chiefs-of-police-70cmsd24p00000023-dc-12-200.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INTERNATIONAL ASSOCIATION OF CHIEFS OF POLICE"
 source_count: 0
 type: "entry"

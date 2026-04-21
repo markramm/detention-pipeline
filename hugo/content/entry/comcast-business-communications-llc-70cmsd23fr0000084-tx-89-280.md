@@ -1,13 +1,13 @@
 ---
 title: "Comcast Business Communications, LLC — 70Cmsd23Fr0000084 (TX) $89,280"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "TX"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/comcast-business-communications-llc-70cmsd23fr0000084-tx-89-280.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: COMCAST BUSINESS COMMUNICATIONS, LLC"
 source_count: 0
 type: "entry"

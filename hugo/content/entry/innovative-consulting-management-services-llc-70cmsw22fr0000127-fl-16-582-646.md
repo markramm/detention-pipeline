@@ -1,13 +1,13 @@
 ---
 title: "Innovative Consulting & Management Services, LLC — 70Cmsw22Fr0000127 (FL) $16,582,646"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "FL"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/innovative-consulting-management-services-llc-70cmsw22fr0000127-fl-16-582-646.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: INNOVATIVE CONSULTING & MANAGEMENT SERVICES, LLC"
 source_count: 0
 type: "entry"

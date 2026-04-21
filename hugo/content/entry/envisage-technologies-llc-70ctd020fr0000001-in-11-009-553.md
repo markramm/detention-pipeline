@@ -1,13 +1,13 @@
 ---
 title: "Envisage Technologies LLC — 70Ctd020Fr0000001 (IN) $11,009,553"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "IN"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/envisage-technologies-llc-70ctd020fr0000001-in-11-009-553.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: ENVISAGE TECHNOLOGIES LLC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "B.I. Incorporated — 70Cdcr25Fr0000127 (CO) $108,343,853"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "CO"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/b-i-incorporated-70cdcr25fr0000127-co-108-343-853.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

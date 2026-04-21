@@ -1,13 +1,13 @@
 ---
 title: "MEMMERT USA LLC — 70CMSD25P00000121 (WI) $15,445"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "WI"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/memmert-usa-llc-70cmsd25p00000121-wi-15-445.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Agency: Department of Homeland Security"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
-title: "Cook County County IL — Health & Hospitals Committee 2025-11-18: Proposed Substitute To File #25-4222 resolution To Assess Needs And Improve The"
+title: "Cook County County IL — Health & Hospitals Committee 2025-11-18: Proposed Substitute To File #25-4222\N\Nresolution To Assess Needs And Improve The"
 entry_type: "commission-activity"
 signal_label: "Commission Activity"
 signal_color: "#8a9f2a"
-fips: "17031"
-state: "IL"
-county: "Cook County"
+fips: ""
+state: ""
+county: ""
 repo_path: "kb/commission/cook-county-county-il-health-hospitals-committee-2025-11-18-proposed-substitute-to-file-25-4222-resolution-to-assess-needs-and-improve-the.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-16"
 summary: "County commission agenda item matching detention pipeline keywords."
 source_count: 0
 type: "entry"

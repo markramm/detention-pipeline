@@ -1,13 +1,13 @@
 ---
 title: "Omni Business Systems, INC — 70Cmsd24Fc0000031 (VA) $13,991"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "VA"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/omni-business-systems-inc-70cmsd24fc0000031-va-13-991.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: OMNI BUSINESS SYSTEMS, INC"
 source_count: 0
 type: "entry"

@@ -1,13 +1,13 @@
 ---
 title: "Garud Technology Services, INC. — 70Cmsw26Fr0000012 (DC) $3,370,770"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "DC"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/garud-technology-services-inc-70cmsw26fr0000012-dc-3-370-770.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: GARUD TECHNOLOGY SERVICES, INC."
 source_count: 0
 type: "entry"

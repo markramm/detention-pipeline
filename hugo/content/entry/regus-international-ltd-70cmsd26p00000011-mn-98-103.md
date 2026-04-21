@@ -1,13 +1,13 @@
 ---
 title: "Regus International Ltd — 70Cmsd26P00000011 (MN) $98,103"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MN"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/regus-international-ltd-70cmsd26p00000011-mn-98-103.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: REGUS INTERNATIONAL LTD"
 source_count: 0
 type: "entry"

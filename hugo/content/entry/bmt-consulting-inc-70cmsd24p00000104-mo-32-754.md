@@ -1,13 +1,13 @@
 ---
 title: "Bmt Consulting, INC. — 70Cmsd24P00000104 (MO) $32,754"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "MO"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/bmt-consulting-inc-70cmsd24p00000104-mo-32-754.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: BMT CONSULTING, INC."
 source_count: 0
 type: "entry"

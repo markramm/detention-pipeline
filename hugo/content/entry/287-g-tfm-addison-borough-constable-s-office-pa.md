@@ -7,7 +7,7 @@ fips: "42111"
 state: "PA"
 county: "Somerset County"
 repo_path: "kb/287g/287-g-tfm-addison-borough-constable-s-office-pa.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-10"
 summary: "287(g) TFM agreement between ICE and Addison Borough Constable’s Office, signed August 28, 2025."
 source_count: 1
 type: "entry"

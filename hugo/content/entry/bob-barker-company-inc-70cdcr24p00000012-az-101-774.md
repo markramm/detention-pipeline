@@ -1,13 +1,13 @@
 ---
 title: "Bob Barker Company, INC. — 70Cdcr24P00000012 (AZ) $101,774"
 entry_type: "ice-contract"
-signal_label: "ICE Contract"
-signal_color: "#c49025"
+signal_label: "ice-contract"
+signal_color: "#666"
 fips: ""
-state: "AZ"
+state: ""
 county: ""
 repo_path: "kb/ice-contracts/bob-barker-company-inc-70cdcr24p00000012-az-101-774.md"
-lastmod: "2026-04-20"
+lastmod: "2026-04-12"
 summary: "Recipient: BOB BARKER COMPANY, INC."
 source_count: 0
 type: "entry"
