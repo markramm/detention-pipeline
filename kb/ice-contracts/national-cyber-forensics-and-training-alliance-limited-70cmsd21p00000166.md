@@ -9,6 +9,16 @@ tags:
 - pa
 importance: 5
 state: 'PA'
+county: 'ALLEGHENY'
+fips: '42003'
+contractor: 'NATIONAL CYBER-FORENSICS AND TRAINING ALLIANCE LIMITED'
+contract_value: '$2,029,999.80'
+contract_type: 'federal-contract'
+award_date: '2021-09-28'
+usaspending_id: '70CMSD21P00000166'
+source: 'USAspending.gov'
+signal_strength: 'strong'
+notes: 'TO COVER COST OF ICE AGENTS AT NCFTA'
 ---
 
 ICE contract award.

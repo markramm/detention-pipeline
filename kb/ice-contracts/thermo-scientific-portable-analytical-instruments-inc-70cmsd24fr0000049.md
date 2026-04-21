@@ -9,6 +9,16 @@ tags:
 - fl
 importance: 5
 state: 'FL'
+county: 'LEE'
+fips: '12071'
+contractor: 'THERMO SCIENTIFIC PORTABLE ANALYTICAL INSTRUMENTS INC.'
+contract_value: '$889,790.34'
+contract_type: 'federal-contract'
+award_date: '2024-06-11'
+usaspending_id: '70CMSD24FR0000049'
+source: 'USAspending.gov'
+signal_strength: 'strong'
+notes: 'CHEMICAL ANALYZER'
 ---
 
 ICE contract award.

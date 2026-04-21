@@ -7,6 +7,16 @@ tags:
 - fl
 importance: 5
 state: 'FL'
+county: 'MIAMI-DADE'
+fips: '12086'
+contractor: 'AKIMA INFRASTRUCTURE PROTECTION LLC'
+contract_value: '$71,098,380.76'
+contract_type: 'federal-contract'
+award_date: '2025-09-01'
+usaspending_id: '70CDCR25FR0000092'
+source: 'USAspending.gov'
+signal_strength: 'strong'
+notes: 'THIS IS A NEW TASK ORDER TO OBLIGATE FUNDING FOR HOUSING AND SAFEGUARDING ILLEGAL ALIENS IN SUPPORT OF ENFORCEMENT AND REMOVAL OPERATIONS (ERO) AT KROME SERVICE PROCESSING CENTER IN MIAMI, FL'
 ---
 
 USAspending contract award.

@@ -7,6 +7,16 @@ tags:
 - tx
 importance: 5
 state: 'TX'
+county: 'CAMERON'
+fips: '48061'
+contractor: 'AKIMA INFRASTRUCTURE PROTECTION LLC'
+contract_value: '$45,072,574.15'
+contract_type: 'federal-contract'
+award_date: '2023-12-01'
+usaspending_id: '70CDCR24FR0000005'
+source: 'USAspending.gov'
+signal_strength: 'strong'
+notes: 'PORT ISABEL SERVICE PROCESSING CENTER GUARD, FOOD AND LOCAL TRANSPORTATION AWARD - FY24 TASK ORDER'
 ---
 
 USAspending contract award.
