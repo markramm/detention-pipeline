@@ -40,7 +40,10 @@ FRONTMATTER_FIELDS = [
     "source", "source_url", "signal_strength", "notes",
 ]
 
-SLUG_MAX = 100
+# Pyrite's max slug length — entries previously imported through Pyrite
+# have slugs up to ~180 chars. Match so re-ingest doesn't create a
+# shorter-slug duplicate of an existing longer-slug file.
+SLUG_MAX = 200
 
 
 def slugify(text):

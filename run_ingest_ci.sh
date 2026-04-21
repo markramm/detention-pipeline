@@ -104,8 +104,11 @@ run_ingest() {
   echo ""
 }
 
+# Only legistar and usaspending (ICE contracts) support --days. 287g scrapes
+# a full Prison Policy list and has no lookback. Jobs + budget are seed /
+# typology data with no time dimension.
 should_run legistar    && run_ingest legistar    "$SCRIPTS_DIR/ingest_legistar.py" --days "$DAYS"
-should_run 287g        && run_ingest 287g        "$SCRIPTS_DIR/ingest_287g.py" --days "$DAYS"
+should_run 287g        && run_ingest 287g        "$SCRIPTS_DIR/ingest_287g.py"
 should_run usaspending && run_ingest usaspending "$SCRIPTS_DIR/ingest_ice_contracts.py" --days "$DAYS"
 should_run jobs        && run_ingest jobs        "$SCRIPTS_DIR/ingest_jobs.py" --seed-known
 should_run budget      && run_ingest budget      "$SCRIPTS_DIR/ingest_budget_distress.py" --min-score 3
