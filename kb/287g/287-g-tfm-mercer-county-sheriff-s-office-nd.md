@@ -7,6 +7,9 @@ tags:
 - tfm
 - nd
 importance: 5
+state: 'ND'
+county: 'Mercer County'
+fips: '38057'
 ---
 
 287(g) agreement between ICE and Mercer County Sheriff’s Office.

@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'St. Mary Parish'
+fips: '22101'
 ---
 
 County-level fiscal distress indicators for St. Mary Parish, LA.

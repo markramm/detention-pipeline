@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Douglas County'
+fips: '46043'
 ---
 
 County-level fiscal distress indicators for Douglas County, SD.

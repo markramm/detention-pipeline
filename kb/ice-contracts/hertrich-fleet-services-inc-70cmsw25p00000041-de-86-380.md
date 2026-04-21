@@ -8,6 +8,7 @@ tags:
 - other-ice
 - de
 importance: 5
+state: 'DE'
 ---
 
 ICE contract award.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NY'
+county: 'Wyoming County'
+fips: '36121'
 ---
 
 County-level fiscal distress indicators for Wyoming County, NY.

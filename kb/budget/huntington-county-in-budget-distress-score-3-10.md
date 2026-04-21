@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Huntington County'
+fips: '18069'
 ---
 
 County-level fiscal distress indicators for Huntington County, IN.

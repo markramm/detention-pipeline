@@ -7,6 +7,9 @@ tags:
 - tfm
 - ks
 importance: 5
+state: 'KS'
+county: 'Shawnee County'
+fips: '20177'
 ---
 
 287(g) agreement between ICE and Shawnee County Sheriff’s Office.

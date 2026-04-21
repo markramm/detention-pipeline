@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Russell County'
+fips: '20167'
 ---
 
 County-level fiscal distress indicators for Russell County, KS.

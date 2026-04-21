@@ -8,6 +8,7 @@ tags:
 - detention-related
 - ne
 importance: 5
+state: 'NE'
 ---
 
 ICE contract award.

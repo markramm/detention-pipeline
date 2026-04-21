@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Morris County'
+fips: '48343'
 ---
 
 287(g) agreement between ICE and Morris County Sheriff’s Office.

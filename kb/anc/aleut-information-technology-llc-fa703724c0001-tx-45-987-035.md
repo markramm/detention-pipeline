@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - tx
 importance: 5
+state: 'TX'
 ---
 
 USAspending contract award.

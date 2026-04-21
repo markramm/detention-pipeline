@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Duval County'
+fips: '48131'
 ---
 
 287(g) agreement between ICE and Freer Police Department.

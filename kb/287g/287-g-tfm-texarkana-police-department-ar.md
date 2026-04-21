@@ -7,6 +7,8 @@ tags:
 - tfm
 - ar
 importance: 5
+state: 'AR'
+county: 'Bowie County'
 ---
 
 287(g) agreement between ICE and Texarkana Police Department.

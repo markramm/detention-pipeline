@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Dickey County'
+fips: '38021'
 ---
 
 County-level fiscal distress indicators for Dickey County, ND.

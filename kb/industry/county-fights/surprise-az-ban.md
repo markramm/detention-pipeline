@@ -14,6 +14,7 @@ tags:
 - resistance-lesson
 - local-vs-federal
 research_status: stub
+fips: '04013'
 ---
 
 # Surprise, Arizona: The Limits of Local Bans

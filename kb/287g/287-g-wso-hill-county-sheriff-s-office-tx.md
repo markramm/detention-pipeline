@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Hill County'
+fips: '48217'
 ---
 
 287(g) agreement between ICE and Hill County Sheriff’s Office.

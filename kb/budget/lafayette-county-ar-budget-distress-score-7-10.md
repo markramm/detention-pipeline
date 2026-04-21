@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Lafayette County'
+fips: '05073'
 ---
 
 County-level fiscal distress indicators for Lafayette County, AR.

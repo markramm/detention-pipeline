@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Harding County'
+fips: '35021'
 ---
 
 County-level fiscal distress indicators for Harding County, NM.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Coke County'
+fips: '48081'
 ---
 
 County-level fiscal distress indicators for Coke County, TX.

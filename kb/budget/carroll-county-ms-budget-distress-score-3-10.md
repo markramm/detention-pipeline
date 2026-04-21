@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Carroll County'
+fips: '28015'
 ---
 
 County-level fiscal distress indicators for Carroll County, MS.

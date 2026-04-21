@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - mo
 importance: 5
+state: 'MO'
 ---
 
 USAspending contract award.

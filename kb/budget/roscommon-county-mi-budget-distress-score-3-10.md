@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Roscommon County'
+fips: '26143'
 ---
 
 County-level fiscal distress indicators for Roscommon County, MI.

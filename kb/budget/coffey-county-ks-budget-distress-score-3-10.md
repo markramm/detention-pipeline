@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Coffey County'
+fips: '20031'
 ---
 
 County-level fiscal distress indicators for Coffey County, KS.

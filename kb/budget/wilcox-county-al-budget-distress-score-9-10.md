@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Wilcox County'
+fips: '01131'
 ---
 
 County-level fiscal distress indicators for Wilcox County, AL.

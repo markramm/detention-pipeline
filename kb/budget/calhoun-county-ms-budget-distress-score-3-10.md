@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Calhoun County'
+fips: '28013'
 ---
 
 County-level fiscal distress indicators for Calhoun County, MS.

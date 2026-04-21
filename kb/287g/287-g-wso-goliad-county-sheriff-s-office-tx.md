@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Goliad County'
+fips: '48175'
 ---
 
 287(g) agreement between ICE and Goliad County Sheriff’s Office.

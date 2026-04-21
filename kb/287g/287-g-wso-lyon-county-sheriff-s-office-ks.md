@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Lyon County'
+fips: '20111'
 ---
 
 287(g) agreement between ICE and Lyon County Sheriff’s Office.

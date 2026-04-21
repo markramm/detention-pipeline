@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Wheeler County'
+fips: '13309'
 ---
 
 County-level fiscal distress indicators for Wheeler County, GA.

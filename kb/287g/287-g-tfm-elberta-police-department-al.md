@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Baldwin County'
+fips: '01003'
 ---
 
 287(g) agreement between ICE and Elberta Police Department.

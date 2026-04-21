@@ -3,7 +3,7 @@ id: okc-warehouse-blocked
 title: "Oklahoma City OK — 416K SF Warehouse Proposal Blocked by Property Owner"
 type: county-fight
 county: Oklahoma
-state: Oklahoma
+state: 'OK'
 facility: null
 status: blocked
 vote_tally: ""
@@ -15,6 +15,7 @@ tags:
 - oklahoma
 - detention-reengineering
 research_status: working
+fips: '40109'
 ---
 
 # Oklahoma City: Owner Withdrew

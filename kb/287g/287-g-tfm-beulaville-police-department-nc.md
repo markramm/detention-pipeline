@@ -7,6 +7,9 @@ tags:
 - tfm
 - nc
 importance: 5
+state: 'NC'
+county: 'Duplin County'
+fips: '37061'
 ---
 
 287(g) agreement between ICE and Beulaville Police Department.

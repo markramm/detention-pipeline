@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Arenac County'
+fips: '26011'
 ---
 
 County-level fiscal distress indicators for Arenac County, MI.

@@ -20,6 +20,7 @@ tags:
 - arkansas
 research_status: working
 last_researched: "2026-04-13"
+fips: '05047'
 ---
 
 # Franklin County: Fight Over Mega-Prison / ICE Facility

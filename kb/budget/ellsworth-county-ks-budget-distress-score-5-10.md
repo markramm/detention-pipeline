@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Ellsworth County'
+fips: '20053'
 ---
 
 County-level fiscal distress indicators for Ellsworth County, KS.

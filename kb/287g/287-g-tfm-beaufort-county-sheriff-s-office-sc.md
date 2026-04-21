@@ -7,6 +7,9 @@ tags:
 - tfm
 - sc
 importance: 5
+state: 'SC'
+county: 'Beaufort County'
+fips: '45013'
 ---
 
 287(g) agreement between ICE and Beaufort County Sheriff’s Office.

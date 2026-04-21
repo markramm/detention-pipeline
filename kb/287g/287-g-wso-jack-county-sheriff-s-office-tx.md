@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Jack County'
+fips: '48237'
 ---
 
 287(g) agreement between ICE and Jack County Sheriff’s Office.

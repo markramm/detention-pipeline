@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Meade County'
+fips: '20119'
 ---
 
 County-level fiscal distress indicators for Meade County, KS.

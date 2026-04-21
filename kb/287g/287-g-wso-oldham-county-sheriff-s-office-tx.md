@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Oldham County'
+fips: '48359'
 ---
 
 287(g) agreement between ICE and Oldham County Sheriff’s Office.

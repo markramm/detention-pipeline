@@ -7,6 +7,9 @@ tags:
 - wso
 - ky
 importance: 5
+state: 'KY'
+county: 'Butler County'
+fips: '21031'
 ---
 
 287(g) agreement between ICE and Butler County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Schleicher County'
+fips: '48413'
 ---
 
 287(g) agreement between ICE and Schleicher County Sheriff’s Office.

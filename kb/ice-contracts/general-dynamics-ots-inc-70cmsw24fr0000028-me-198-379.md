@@ -8,6 +8,7 @@ tags:
 - other-ice
 - me
 importance: 5
+state: 'ME'
 ---
 
 ICE contract award.

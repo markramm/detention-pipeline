@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Ste. Genevieve County'
+fips: '29186'
 ---
 
 287(g) agreement between ICE and Ste. Genevieve County Sheriff’s Office.

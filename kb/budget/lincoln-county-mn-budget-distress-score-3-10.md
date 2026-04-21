@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Lincoln County'
+fips: '27081'
 ---
 
 County-level fiscal distress indicators for Lincoln County, MN.

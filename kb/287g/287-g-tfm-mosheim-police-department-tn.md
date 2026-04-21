@@ -7,6 +7,9 @@ tags:
 - tfm
 - tn
 importance: 5
+state: 'TN'
+county: 'Greene County'
+fips: '47059'
 ---
 
 287(g) agreement between ICE and Mosheim Police Department.

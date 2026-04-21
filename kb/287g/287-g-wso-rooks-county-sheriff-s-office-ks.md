@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Rooks County'
+fips: '20163'
 ---
 
 287(g) agreement between ICE and Rooks County Sheriff’s Office.

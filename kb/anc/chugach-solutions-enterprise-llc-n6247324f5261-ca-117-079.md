@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ca
 importance: 5
+state: 'CA'
 ---
 
 USAspending contract award.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Huron County'
+fips: '26063'
 ---
 
 County-level fiscal distress indicators for Huron County, MI.

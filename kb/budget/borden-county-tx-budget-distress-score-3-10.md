@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Borden County'
+fips: '48033'
 ---
 
 County-level fiscal distress indicators for Borden County, TX.

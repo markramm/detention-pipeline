@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Hopewell County'
+fips: '51670'
 ---
 
 287(g) agreement between ICE and Hopewell County Sheriff’s Office.

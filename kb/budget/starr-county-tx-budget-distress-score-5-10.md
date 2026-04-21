@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Starr County'
+fips: '48427'
 ---
 
 County-level fiscal distress indicators for Starr County, TX.

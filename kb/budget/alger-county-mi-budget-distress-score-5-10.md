@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Alger County'
+fips: '26003'
 ---
 
 County-level fiscal distress indicators for Alger County, MI.

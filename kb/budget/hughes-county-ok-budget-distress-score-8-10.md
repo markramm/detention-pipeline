@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Hughes County'
+fips: '40063'
 ---
 
 County-level fiscal distress indicators for Hughes County, OK.

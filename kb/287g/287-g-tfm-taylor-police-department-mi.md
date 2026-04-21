@@ -7,6 +7,7 @@ tags:
 - tfm
 - mi
 importance: 5
+state: 'MI'
 ---
 
 287(g) agreement between ICE and Taylor Police Department.

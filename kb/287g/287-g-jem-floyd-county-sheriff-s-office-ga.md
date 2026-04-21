@@ -7,6 +7,9 @@ tags:
 - jem
 - ga
 importance: 5
+state: 'GA'
+county: 'Floyd County'
+fips: '13115'
 ---
 
 287(g) agreement between ICE and Floyd County Sheriff’s Office.

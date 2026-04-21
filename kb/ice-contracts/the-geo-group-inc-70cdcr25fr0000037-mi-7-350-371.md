@@ -8,6 +8,7 @@ tags:
 - detention-related
 - mi
 importance: 5
+state: 'MI'
 ---
 
 ICE contract award.

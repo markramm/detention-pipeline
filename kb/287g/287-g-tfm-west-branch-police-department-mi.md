@@ -7,6 +7,9 @@ tags:
 - tfm
 - mi
 importance: 5
+state: 'MI'
+county: 'Ogemaw County'
+fips: '26129'
 ---
 
 287(g) agreement between ICE and West Branch Police Department.

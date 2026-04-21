@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Holt County'
+fips: '29087'
 ---
 
 County-level fiscal distress indicators for Holt County, MO.

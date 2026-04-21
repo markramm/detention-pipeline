@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Sheridan County'
+fips: '31161'
 ---
 
 County-level fiscal distress indicators for Sheridan County, NE.

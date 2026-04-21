@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'TX'
+county: 'Liberty County'
+fips: '48291'
 ---
 
 County-level fiscal distress indicators for Liberty County, TX.

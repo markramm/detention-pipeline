@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Bexar County'
+fips: '48029'
 ---
 
 287(g) agreement between ICE and Bexar County Sheriff’s Office.

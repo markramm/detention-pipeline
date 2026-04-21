@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Franklin County'
+fips: '28037'
 ---
 
 County-level fiscal distress indicators for Franklin County, MS.

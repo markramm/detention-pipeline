@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Logan County'
+fips: '38047'
 ---
 
 County-level fiscal distress indicators for Logan County, ND.

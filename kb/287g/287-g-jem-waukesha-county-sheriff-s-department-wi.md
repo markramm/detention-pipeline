@@ -7,6 +7,9 @@ tags:
 - jem
 - wi
 importance: 5
+state: 'WI'
+county: 'Waukesha County'
+fips: '55133'
 ---
 
 287(g) agreement between ICE and Waukesha County Sheriff’s Department.

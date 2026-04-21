@@ -7,6 +7,9 @@ tags:
 - fl
 - weak
 importance: 5
+state: 'FL'
+county: 'Orange County'
+fips: '12095'
 ---
 
 County commission agenda item matching detention pipeline keywords.

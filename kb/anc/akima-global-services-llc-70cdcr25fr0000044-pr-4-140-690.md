@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - pr
 importance: 5
+state: 'PR'
 ---
 
 USAspending contract award.

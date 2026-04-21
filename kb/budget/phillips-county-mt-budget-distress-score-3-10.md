@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Phillips County'
+fips: '30071'
 ---
 
 County-level fiscal distress indicators for Phillips County, MT.

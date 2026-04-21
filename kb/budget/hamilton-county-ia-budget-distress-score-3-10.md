@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Hamilton County'
+fips: '19079'
 ---
 
 County-level fiscal distress indicators for Hamilton County, IA.

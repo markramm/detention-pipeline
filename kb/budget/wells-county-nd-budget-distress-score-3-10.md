@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Wells County'
+fips: '38103'
 ---
 
 County-level fiscal distress indicators for Wells County, ND.

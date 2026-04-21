@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Bedford County'
+fips: '51019'
 ---
 
 287(g) agreement between ICE and Bedford County Sheriff’s Office.

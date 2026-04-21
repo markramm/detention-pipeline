@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Burnet County'
+fips: '48053'
 ---
 
 287(g) agreement between ICE and Burnet County Sheriff’s Office.

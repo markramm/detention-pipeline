@@ -7,6 +7,9 @@ tags:
 - tfm
 - in
 importance: 5
+state: 'IN'
+county: 'LaGrange County'
+fips: '18087'
 ---
 
 287(g) agreement between ICE and LaGrange Police Department.

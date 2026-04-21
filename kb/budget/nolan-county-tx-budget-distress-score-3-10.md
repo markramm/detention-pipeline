@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Nolan County'
+fips: '48353'
 ---
 
 County-level fiscal distress indicators for Nolan County, TX.

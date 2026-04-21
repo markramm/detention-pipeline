@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'TN'
+county: 'Trousdale County'
+fips: '47169'
 ---
 
 County-level fiscal distress indicators for Trousdale County, TN.

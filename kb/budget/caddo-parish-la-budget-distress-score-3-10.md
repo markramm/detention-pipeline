@@ -7,6 +7,9 @@ tags:
 - la
 - persistent-poverty
 importance: 5
+state: 'LA'
+county: 'Caddo Parish'
+fips: '22017'
 ---
 
 County-level fiscal distress indicators for Caddo Parish, LA.

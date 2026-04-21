@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'McLennan County'
+fips: '48309'
 ---
 
 287(g) agreement between ICE and McLennan County Sheriff’s Office.

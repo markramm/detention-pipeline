@@ -7,6 +7,9 @@ tags:
 - tfm
 - la
 importance: 5
+state: 'LA'
+county: 'St. Tammany Parish'
+fips: '22103'
 ---
 
 287(g) agreement between ICE and Pearl River Police Department.

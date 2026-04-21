@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Langlade County'
+fips: '55067'
 ---
 
 County-level fiscal distress indicators for Langlade County, WI.

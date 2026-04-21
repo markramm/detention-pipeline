@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Page County'
+fips: '19145'
 ---
 
 County-level fiscal distress indicators for Page County, IA.

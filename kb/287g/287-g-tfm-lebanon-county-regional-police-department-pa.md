@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Lebanon County'
+fips: '42075'
 ---
 
 287(g) agreement between ICE and Lebanon County Regional Police Department.

@@ -7,6 +7,9 @@ tags:
 - tx
 - weak
 importance: 5
+state: 'TX'
+county: 'Lubbock County'
+fips: '48303'
 ---
 
 County commission agenda item matching detention pipeline keywords.

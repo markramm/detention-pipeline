@@ -16,6 +16,7 @@ tags:
 - southern-tier
 research_status: working
 last_researched: "2026-04-12"
+fips: '36101'
 ---
 
 # Steuben County, NY: 287(g) + U.S. Marshals Contract

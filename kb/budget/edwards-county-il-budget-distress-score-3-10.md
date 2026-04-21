@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Edwards County'
+fips: '17047'
 ---
 
 County-level fiscal distress indicators for Edwards County, IL.

@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Pemiscot County'
+fips: '29155'
 ---
 
 County-level fiscal distress indicators for Pemiscot County, MO.

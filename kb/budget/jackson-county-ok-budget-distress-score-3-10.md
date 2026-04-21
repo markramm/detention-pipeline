@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Jackson County'
+fips: '40065'
 ---
 
 County-level fiscal distress indicators for Jackson County, OK.

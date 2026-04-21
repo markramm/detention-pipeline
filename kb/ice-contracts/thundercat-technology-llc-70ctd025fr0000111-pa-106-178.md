@@ -8,6 +8,7 @@ tags:
 - detention-related
 - pa
 importance: 5
+state: 'PA'
 ---
 
 ICE contract award.

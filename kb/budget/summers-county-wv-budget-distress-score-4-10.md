@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Summers County'
+fips: '54089'
 ---
 
 County-level fiscal distress indicators for Summers County, WV.

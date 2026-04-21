@@ -8,6 +8,7 @@ tags:
 - detention-related
 - nj
 importance: 5
+state: 'NJ'
 ---
 
 ICE contract award.

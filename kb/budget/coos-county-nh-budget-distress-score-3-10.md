@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NH'
+county: 'Coos County'
+fips: '33007'
 ---
 
 County-level fiscal distress indicators for Coos County, NH.

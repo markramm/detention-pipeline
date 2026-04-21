@@ -7,6 +7,9 @@ tags:
 - tfm
 - oh
 importance: 5
+state: 'OH'
+county: 'Medina County'
+fips: '39103'
 ---
 
 287(g) agreement between ICE and Spencer Police Department.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Cobb County'
+fips: '13067'
 ---
 
 287(g) agreement between ICE and Marietta Police Department.

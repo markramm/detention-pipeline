@@ -8,6 +8,9 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
+state: 'KY'
+county: 'Butler County'
+fips: '21031'
 ---
 
 County-level fiscal distress indicators for Butler County, KY.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Scott County'
+fips: '21209'
 ---
 
 287(g) agreement between ICE and Scott County Sheriff’s Office.

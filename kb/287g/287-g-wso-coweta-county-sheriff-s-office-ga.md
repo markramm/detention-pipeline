@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Coweta County'
+fips: '13077'
 ---
 
 287(g) agreement between ICE and Coweta County Sheriff’s Office.

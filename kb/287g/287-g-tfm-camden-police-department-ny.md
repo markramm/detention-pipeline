@@ -7,6 +7,7 @@ tags:
 - tfm
 - ny
 importance: 5
+state: 'NY'
 ---
 
 287(g) agreement between ICE and Camden Police Department.

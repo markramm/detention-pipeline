@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - pa
 importance: 5
+state: 'PA'
 ---
 
 USAspending contract award.

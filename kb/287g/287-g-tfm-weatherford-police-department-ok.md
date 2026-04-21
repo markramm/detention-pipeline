@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Custer County'
+fips: '40039'
 ---
 
 287(g) agreement between ICE and Weatherford Police Department.

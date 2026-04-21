@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Blackford County'
+fips: '18009'
 ---
 
 County-level fiscal distress indicators for Blackford County, IN.

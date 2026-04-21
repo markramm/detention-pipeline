@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Wibaux County'
+fips: '30109'
 ---
 
 County-level fiscal distress indicators for Wibaux County, MT.

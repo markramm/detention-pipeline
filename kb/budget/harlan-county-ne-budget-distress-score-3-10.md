@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Harlan County'
+fips: '31083'
 ---
 
 County-level fiscal distress indicators for Harlan County, NE.

@@ -16,6 +16,7 @@ estimated_value: "$11 million"
 markup: "~1000%"
 tags: [warehouse-conversion, detention-reengineering, texas, extreme-overpayment]
 research_status: enriched
+fips: '48141'
 ---
 
 # Socorro TX Warehouse — ICE Processing Center

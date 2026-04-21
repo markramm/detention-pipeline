@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Milam County'
+fips: '48331'
 ---
 
 287(g) agreement between ICE and Milam County Sheriff’s Office.

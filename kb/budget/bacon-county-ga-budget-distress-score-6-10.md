@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Bacon County'
+fips: '13005'
 ---
 
 County-level fiscal distress indicators for Bacon County, GA.

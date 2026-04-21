@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Pulaski County'
+fips: '05119'
 ---
 
 287(g) agreement between ICE and Pulaski County Sheriff’s Office.

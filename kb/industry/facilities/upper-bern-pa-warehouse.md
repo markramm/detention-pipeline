@@ -13,6 +13,7 @@ status: under-construction
 importance: 7
 tags: [warehouse-conversion, detention-reengineering, regional-processing-center, pennsylvania, local-opposition]
 research_status: stub
+fips: '42011'
 ---
 
 # Upper Bern Township PA Warehouse — ICE Processing Center

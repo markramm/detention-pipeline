@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Eddy County'
+fips: '38027'
 ---
 
 County-level fiscal distress indicators for Eddy County, ND.

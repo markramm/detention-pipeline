@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Seneca County'
+fips: '39147'
 ---
 
 County-level fiscal distress indicators for Seneca County, OH.

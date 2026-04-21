@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ky
 importance: 5
+state: 'KY'
 ---
 
 USAspending contract award.

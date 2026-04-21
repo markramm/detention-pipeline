@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Louisa County'
+fips: '19115'
 ---
 
 County-level fiscal distress indicators for Louisa County, IA.

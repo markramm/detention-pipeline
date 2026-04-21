@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Newton County'
+fips: '28101'
 ---
 
 County-level fiscal distress indicators for Newton County, MS.

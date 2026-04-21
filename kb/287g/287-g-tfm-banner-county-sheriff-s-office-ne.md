@@ -7,6 +7,9 @@ tags:
 - tfm
 - ne
 importance: 5
+state: 'NE'
+county: 'Banner County'
+fips: '31007'
 ---
 
 287(g) agreement between ICE and Banner County Sheriff’s Office.

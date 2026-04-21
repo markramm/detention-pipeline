@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Wise County'
+fips: '51195'
 ---
 
 287(g) agreement between ICE and Wise County Sheriff’s Office.

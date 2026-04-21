@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Somervell County'
+fips: '48425'
 ---
 
 287(g) agreement between ICE and Somervell County Sheriff’s Office.

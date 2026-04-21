@@ -18,6 +18,7 @@ tags:
 - platform-ventures
 - community-pressure
 research_status: stub
+fips: '29095'
 ---
 
 # Kansas City ICE Mega Center (BLOCKED)

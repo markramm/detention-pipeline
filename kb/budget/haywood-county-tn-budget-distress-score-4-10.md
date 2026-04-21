@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Haywood County'
+fips: '47075'
 ---
 
 County-level fiscal distress indicators for Haywood County, TN.

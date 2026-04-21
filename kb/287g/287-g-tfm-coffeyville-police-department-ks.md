@@ -7,6 +7,9 @@ tags:
 - tfm
 - ks
 importance: 5
+state: 'KS'
+county: 'Montgomery County'
+fips: '20125'
 ---
 
 287(g) agreement between ICE and Coffeyville Police Department.

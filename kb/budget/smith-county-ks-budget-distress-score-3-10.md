@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Smith County'
+fips: '20183'
 ---
 
 County-level fiscal distress indicators for Smith County, KS.

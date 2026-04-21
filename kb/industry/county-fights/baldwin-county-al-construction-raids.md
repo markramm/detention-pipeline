@@ -19,6 +19,7 @@ tags:
 - alabama
 research_status: working
 last_researched: "2026-04-12"
+fips: '01003'
 ---
 
 # Baldwin County, AL: Construction Site Raids and Civil Rights Litigation

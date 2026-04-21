@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Buchanan County'
+fips: '19019'
 ---
 
 County-level fiscal distress indicators for Buchanan County, IA.

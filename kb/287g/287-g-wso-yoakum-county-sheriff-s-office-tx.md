@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Yoakum County'
+fips: '48501'
 ---
 
 287(g) agreement between ICE and Yoakum County Sheriff’s Office.

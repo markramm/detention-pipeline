@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Ontonagon County'
+fips: '26131'
 ---
 
 County-level fiscal distress indicators for Ontonagon County, MI.

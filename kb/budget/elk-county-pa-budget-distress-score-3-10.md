@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Elk County'
+fips: '42047'
 ---
 
 County-level fiscal distress indicators for Elk County, PA.

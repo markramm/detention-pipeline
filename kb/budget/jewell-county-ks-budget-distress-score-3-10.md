@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Jewell County'
+fips: '20089'
 ---
 
 County-level fiscal distress indicators for Jewell County, KS.

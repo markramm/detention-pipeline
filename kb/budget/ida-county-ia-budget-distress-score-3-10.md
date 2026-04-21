@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Ida County'
+fips: '19093'
 ---
 
 County-level fiscal distress indicators for Ida County, IA.

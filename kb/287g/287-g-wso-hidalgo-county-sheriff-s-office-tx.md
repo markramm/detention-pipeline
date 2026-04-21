@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Hidalgo County'
+fips: '48215'
 ---
 
 287(g) agreement between ICE and Hidalgo County Sheriff’s Office.

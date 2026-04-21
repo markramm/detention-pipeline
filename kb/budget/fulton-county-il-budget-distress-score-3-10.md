@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Fulton County'
+fips: '17057'
 ---
 
 County-level fiscal distress indicators for Fulton County, IL.

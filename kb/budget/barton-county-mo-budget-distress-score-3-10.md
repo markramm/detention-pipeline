@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Barton County'
+fips: '29011'
 ---
 
 County-level fiscal distress indicators for Barton County, MO.

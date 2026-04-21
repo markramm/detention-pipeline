@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Clinton County'
+fips: '18023'
 ---
 
 County-level fiscal distress indicators for Clinton County, IN.

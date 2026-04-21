@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Nemaha County'
+fips: '31127'
 ---
 
 County-level fiscal distress indicators for Nemaha County, NE.

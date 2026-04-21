@@ -7,6 +7,9 @@ tags:
 - tfm
 - sd
 importance: 5
+state: 'SD'
+county: 'Turner County'
+fips: '46125'
 ---
 
 287(g) agreement between ICE and Centerville Police Department.

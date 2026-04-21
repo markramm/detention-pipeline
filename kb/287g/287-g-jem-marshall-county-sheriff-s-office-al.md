@@ -7,6 +7,9 @@ tags:
 - jem
 - al
 importance: 5
+state: 'AL'
+county: 'Marshall County'
+fips: '01095'
 ---
 
 287(g) agreement between ICE and Marshall County Sheriff’s Office.

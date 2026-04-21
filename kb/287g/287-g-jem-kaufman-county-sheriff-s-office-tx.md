@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Kaufman County'
+fips: '48257'
 ---
 
 287(g) agreement between ICE and Kaufman County Sheriff’s Office.

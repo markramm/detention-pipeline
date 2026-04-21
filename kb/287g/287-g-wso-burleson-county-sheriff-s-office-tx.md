@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Burleson County'
+fips: '48051'
 ---
 
 287(g) agreement between ICE and Burleson County Sheriff’s Office.

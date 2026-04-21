@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Gray County'
+fips: '48179'
 ---
 
 County-level fiscal distress indicators for Gray County, TX.

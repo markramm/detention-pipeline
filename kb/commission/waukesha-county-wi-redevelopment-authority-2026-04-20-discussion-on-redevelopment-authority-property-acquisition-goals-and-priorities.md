@@ -7,6 +7,9 @@ tags:
 - wi
 - weak
 importance: 5
+state: 'WI'
+county: 'Waukesha County'
+fips: '55133'
 ---
 
 County commission agenda item matching detention pipeline keywords.

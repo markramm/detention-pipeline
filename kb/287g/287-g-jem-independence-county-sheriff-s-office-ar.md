@@ -7,6 +7,9 @@ tags:
 - jem
 - ar
 importance: 5
+state: 'AR'
+county: 'Independence County'
+fips: '05063'
 ---
 
 287(g) agreement between ICE and Independence County Sheriff’s Office.

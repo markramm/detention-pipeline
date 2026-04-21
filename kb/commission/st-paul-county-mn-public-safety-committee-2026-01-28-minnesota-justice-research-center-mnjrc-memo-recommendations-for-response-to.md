@@ -7,6 +7,9 @@ tags:
 - mn
 - moderate
 importance: 5
+state: 'MN'
+county: 'Ramsey County'
+fips: '27123'
 ---
 
 County commission agenda item matching detention pipeline keywords.

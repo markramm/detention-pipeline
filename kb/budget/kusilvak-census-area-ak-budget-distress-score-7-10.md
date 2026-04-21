@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AK'
+county: 'Kusilvak Census Area'
+fips: '02158'
 ---
 
 County-level fiscal distress indicators for Kusilvak Census Area, AK.

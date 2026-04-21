@@ -8,6 +8,7 @@ tags:
 - other-ice
 - wi
 importance: 5
+state: 'WI'
 ---
 
 ICE contract award.

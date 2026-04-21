@@ -7,6 +7,9 @@ tags:
 - tfm
 - mi
 importance: 5
+state: 'MI'
+county: 'Roscommon County'
+fips: '26143'
 ---
 
 287(g) agreement between ICE and Roscommon County Sheriff’s Office.

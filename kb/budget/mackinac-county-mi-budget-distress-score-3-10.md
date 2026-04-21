@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Mackinac County'
+fips: '26097'
 ---
 
 County-level fiscal distress indicators for Mackinac County, MI.

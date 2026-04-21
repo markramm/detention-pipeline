@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Wood County'
+fips: '55141'
 ---
 
 287(g) agreement between ICE and Wood County Sheriff’s Office.

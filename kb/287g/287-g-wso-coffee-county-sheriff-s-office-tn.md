@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Coffee County'
+fips: '47031'
 ---
 
 287(g) agreement between ICE and Coffee County Sheriff’s Office.

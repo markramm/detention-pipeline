@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Shackelford County'
+fips: '48417'
 ---
 
 287(g) agreement between ICE and Shackelford County Sheriff’s Office.

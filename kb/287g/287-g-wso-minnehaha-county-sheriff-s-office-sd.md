@@ -7,6 +7,9 @@ tags:
 - wso
 - sd
 importance: 5
+state: 'SD'
+county: 'Minnehaha County'
+fips: '46099'
 ---
 
 287(g) agreement between ICE and Minnehaha County Sheriff’s Office.

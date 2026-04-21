@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Calhoun County'
+fips: '13037'
 ---
 
 County-level fiscal distress indicators for Calhoun County, GA.

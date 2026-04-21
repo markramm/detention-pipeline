@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Claiborne County'
+fips: '28021'
 ---
 
 County-level fiscal distress indicators for Claiborne County, MS.

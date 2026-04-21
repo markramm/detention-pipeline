@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Pierce County'
+fips: '38069'
 ---
 
 County-level fiscal distress indicators for Pierce County, ND.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Rosebud County'
+fips: '30087'
 ---
 
 County-level fiscal distress indicators for Rosebud County, MT.

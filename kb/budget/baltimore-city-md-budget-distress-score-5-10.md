@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - population-loss
 importance: 5
+state: 'MD'
+county: 'Baltimore city'
+fips: '24510'
 ---
 
 County-level fiscal distress indicators for Baltimore city, MD.

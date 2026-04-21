@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Beaver County'
+fips: '40007'
 ---
 
 County-level fiscal distress indicators for Beaver County, OK.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Campbell County'
+fips: '46021'
 ---
 
 County-level fiscal distress indicators for Campbell County, SD.

@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Charleston County'
+fips: '45019'
 ---
 
 287(g) agreement between ICE and Charleston County Sheriff’s Office.

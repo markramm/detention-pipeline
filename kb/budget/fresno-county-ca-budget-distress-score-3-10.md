@@ -7,6 +7,9 @@ tags:
 - ca
 - persistent-poverty
 importance: 5
+state: 'CA'
+county: 'Fresno County'
+fips: '06019'
 ---
 
 County-level fiscal distress indicators for Fresno County, CA.

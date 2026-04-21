@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ne
 importance: 5
+state: 'NE'
 ---
 
 ICE contract award.

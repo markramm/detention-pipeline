@@ -7,6 +7,9 @@ tags:
 - tfm
 - nh
 importance: 5
+state: 'NH'
+county: 'Belknap County'
+fips: '33001'
 ---
 
 287(g) agreement between ICE and Belknap County Sheriff’s Office.

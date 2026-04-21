@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Moore County'
+fips: '48341'
 ---
 
 287(g) agreement between ICE and Moore County Sheriff’s Office.

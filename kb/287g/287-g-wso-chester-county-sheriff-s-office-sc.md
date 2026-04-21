@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Chester County'
+fips: '45023'
 ---
 
 287(g) agreement between ICE and Chester County Sheriff’s Office.

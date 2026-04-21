@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Coal County'
+fips: '40029'
 ---
 
 County-level fiscal distress indicators for Coal County, OK.

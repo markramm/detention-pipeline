@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Steele County'
+fips: '38091'
 ---
 
 County-level fiscal distress indicators for Steele County, ND.

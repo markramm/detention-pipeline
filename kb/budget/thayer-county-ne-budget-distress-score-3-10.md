@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Thayer County'
+fips: '31169'
 ---
 
 County-level fiscal distress indicators for Thayer County, NE.

@@ -10,6 +10,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'WV'
+county: 'Clay County'
+fips: '54015'
 ---
 
 County-level fiscal distress indicators for Clay County, WV.

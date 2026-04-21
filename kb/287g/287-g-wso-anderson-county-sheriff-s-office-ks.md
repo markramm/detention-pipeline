@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Anderson County'
+fips: '20003'
 ---
 
 287(g) agreement between ICE and Anderson County Sheriff’s Office.

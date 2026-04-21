@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Norman County'
+fips: '27107'
 ---
 
 County-level fiscal distress indicators for Norman County, MN.

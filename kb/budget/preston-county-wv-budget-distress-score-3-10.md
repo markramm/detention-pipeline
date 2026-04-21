@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'WV'
+county: 'Preston County'
+fips: '54077'
 ---
 
 County-level fiscal distress indicators for Preston County, WV.

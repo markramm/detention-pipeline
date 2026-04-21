@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Lewis County'
+fips: '29111'
 ---
 
 County-level fiscal distress indicators for Lewis County, MO.

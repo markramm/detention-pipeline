@@ -8,6 +8,7 @@ tags:
 - other-ice
 - oh
 importance: 5
+state: 'OH'
 ---
 
 ICE contract award.

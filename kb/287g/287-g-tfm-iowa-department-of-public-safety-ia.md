@@ -7,6 +7,8 @@ tags:
 - tfm
 - ia
 importance: 5
+state: 'IA'
+county: 'N/A'
 ---
 
 287(g) agreement between ICE and Iowa Department of Public Safety.

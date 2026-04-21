@@ -10,6 +10,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'MS'
+county: 'Yazoo County'
+fips: '28163'
 ---
 
 County-level fiscal distress indicators for Yazoo County, MS.

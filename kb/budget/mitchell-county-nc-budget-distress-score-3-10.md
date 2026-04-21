@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Mitchell County'
+fips: '37121'
 ---
 
 County-level fiscal distress indicators for Mitchell County, NC.

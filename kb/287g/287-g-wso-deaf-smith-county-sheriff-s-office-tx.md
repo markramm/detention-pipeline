@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Deaf Smith County'
+fips: '48117'
 ---
 
 287(g) agreement between ICE and Deaf Smith County Sheriff’s Office.

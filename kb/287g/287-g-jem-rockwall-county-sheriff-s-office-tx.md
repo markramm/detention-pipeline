@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Rockwall County'
+fips: '48397'
 ---
 
 287(g) agreement between ICE and Rockwall County Sheriff’s Office.

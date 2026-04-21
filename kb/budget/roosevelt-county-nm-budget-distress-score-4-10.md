@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Roosevelt County'
+fips: '35041'
 ---
 
 County-level fiscal distress indicators for Roosevelt County, NM.

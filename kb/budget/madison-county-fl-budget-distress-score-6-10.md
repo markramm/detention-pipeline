@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'Madison County'
+fips: '12079'
 ---
 
 County-level fiscal distress indicators for Madison County, FL.

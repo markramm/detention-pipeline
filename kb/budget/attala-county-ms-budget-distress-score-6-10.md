@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Attala County'
+fips: '28007'
 ---
 
 County-level fiscal distress indicators for Attala County, MS.

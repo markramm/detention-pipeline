@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Monroe County'
+fips: '21171'
 ---
 
 County-level fiscal distress indicators for Monroe County, KY.

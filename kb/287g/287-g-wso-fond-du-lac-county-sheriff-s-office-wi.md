@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Fond du Lac County'
+fips: '55039'
 ---
 
 287(g) agreement between ICE and Fond du Lac County Sheriff’s Office.

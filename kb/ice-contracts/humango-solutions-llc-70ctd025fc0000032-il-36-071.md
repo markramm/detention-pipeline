@@ -8,6 +8,7 @@ tags:
 - detention-related
 - il
 importance: 5
+state: 'IL'
 ---
 
 ICE contract award.

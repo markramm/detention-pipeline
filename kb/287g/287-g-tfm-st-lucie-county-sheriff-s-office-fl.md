@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'St. Lucie County'
+fips: '12111'
 ---
 
 287(g) agreement between ICE and St. Lucie County Sheriff’s Office.

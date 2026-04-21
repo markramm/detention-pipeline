@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Gage County'
+fips: '31067'
 ---
 
 County-level fiscal distress indicators for Gage County, NE.

@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'AL'
+county: 'Greene County'
+fips: '01063'
 ---
 
 County-level fiscal distress indicators for Greene County, AL.

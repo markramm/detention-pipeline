@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Palo Pinto County'
+fips: '48363'
 ---
 
 287(g) agreement between ICE and Palo Pinto County Sheriff’s Office.

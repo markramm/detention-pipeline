@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Aransas County'
+fips: '48007'
 ---
 
 287(g) agreement between ICE and Aransas County Sheriff’s Office.

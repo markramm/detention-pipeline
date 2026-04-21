@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Marion County'
+fips: '01093'
 ---
 
 County-level fiscal distress indicators for Marion County, AL.

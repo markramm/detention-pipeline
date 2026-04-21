@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Kossuth County'
+fips: '19109'
 ---
 
 County-level fiscal distress indicators for Kossuth County, IA.

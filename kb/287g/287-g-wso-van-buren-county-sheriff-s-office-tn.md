@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Van Buren County'
+fips: '47175'
 ---
 
 287(g) agreement between ICE and Van Buren County Sheriff’s Office.

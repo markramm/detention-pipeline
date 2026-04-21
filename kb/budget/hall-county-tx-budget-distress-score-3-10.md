@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Hall County'
+fips: '48191'
 ---
 
 County-level fiscal distress indicators for Hall County, TX.

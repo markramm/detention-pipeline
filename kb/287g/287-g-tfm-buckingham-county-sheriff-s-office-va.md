@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Buckingham County'
+fips: '51029'
 ---
 
 287(g) agreement between ICE and Buckingham County Sheriff’s Office.

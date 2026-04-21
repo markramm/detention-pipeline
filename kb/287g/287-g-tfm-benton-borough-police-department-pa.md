@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Columbia County'
+fips: '42037'
 ---
 
 287(g) agreement between ICE and Benton Borough Police Department.

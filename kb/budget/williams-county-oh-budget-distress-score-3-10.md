@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Williams County'
+fips: '39171'
 ---
 
 County-level fiscal distress indicators for Williams County, OH.

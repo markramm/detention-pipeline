@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Greene County'
+fips: '28041'
 ---
 
 County-level fiscal distress indicators for Greene County, MS.

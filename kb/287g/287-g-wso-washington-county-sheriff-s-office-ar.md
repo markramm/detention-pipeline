@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Washington County'
+fips: '05143'
 ---
 
 287(g) agreement between ICE and Washington County Sheriff’s Office.

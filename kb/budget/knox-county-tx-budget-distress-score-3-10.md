@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Knox County'
+fips: '48275'
 ---
 
 County-level fiscal distress indicators for Knox County, TX.

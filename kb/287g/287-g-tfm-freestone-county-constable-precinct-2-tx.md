@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Freestone County'
+fips: '48161'
 ---
 
 287(g) agreement between ICE and Freestone County Constable Precinct 2.

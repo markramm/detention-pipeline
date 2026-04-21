@@ -8,6 +8,7 @@ tags:
 - detention-related
 - nc
 importance: 5
+state: 'NC'
 ---
 
 ICE contract award.

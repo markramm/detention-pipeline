@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Baraga County'
+fips: '26013'
 ---
 
 County-level fiscal distress indicators for Baraga County, MI.

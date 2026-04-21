@@ -7,6 +7,9 @@ tags:
 - jem
 - al
 importance: 5
+state: 'AL'
+county: 'Elmore County'
+fips: '01051'
 ---
 
 287(g) agreement between ICE and Elmore County Sheriff’s Office.

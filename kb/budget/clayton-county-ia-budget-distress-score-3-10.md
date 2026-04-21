@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Clayton County'
+fips: '19043'
 ---
 
 County-level fiscal distress indicators for Clayton County, IA.

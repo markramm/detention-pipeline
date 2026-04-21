@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Hardeman County'
+fips: '47069'
 ---
 
 County-level fiscal distress indicators for Hardeman County, TN.

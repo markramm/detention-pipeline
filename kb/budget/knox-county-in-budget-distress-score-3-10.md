@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Knox County'
+fips: '18083'
 ---
 
 County-level fiscal distress indicators for Knox County, IN.

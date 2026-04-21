@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Alleghany County'
+fips: '51005'
 ---
 
 County-level fiscal distress indicators for Alleghany County, VA.

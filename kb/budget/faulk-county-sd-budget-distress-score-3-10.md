@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Faulk County'
+fips: '46049'
 ---
 
 County-level fiscal distress indicators for Faulk County, SD.

@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'Franklin County'
+fips: '12037'
 ---
 
 County-level fiscal distress indicators for Franklin County, FL.

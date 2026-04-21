@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Clark County'
+fips: '17023'
 ---
 
 County-level fiscal distress indicators for Clark County, IL.

@@ -7,6 +7,9 @@ tags:
 - tx
 - strong
 importance: 5
+state: 'TX'
+county: 'Galveston County'
+fips: '48167'
 ---
 
 County commission agenda item matching detention pipeline keywords.

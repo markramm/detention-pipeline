@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'DeWitt County'
+fips: '48123'
 ---
 
 County-level fiscal distress indicators for DeWitt County, TX.

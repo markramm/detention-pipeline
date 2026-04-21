@@ -7,6 +7,7 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
 ---
 
 287(g) agreement between ICE and Oklahoma Bureau of Narcotics.

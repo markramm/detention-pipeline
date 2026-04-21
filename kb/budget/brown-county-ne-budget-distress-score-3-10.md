@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Brown County'
+fips: '31017'
 ---
 
 County-level fiscal distress indicators for Brown County, NE.

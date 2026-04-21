@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Tillman County'
+fips: '40141'
 ---
 
 County-level fiscal distress indicators for Tillman County, OK.

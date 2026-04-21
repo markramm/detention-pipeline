@@ -8,6 +8,7 @@ tags:
 - other-ice
 - mn
 importance: 5
+state: 'MN'
 ---
 
 ICE contract award.

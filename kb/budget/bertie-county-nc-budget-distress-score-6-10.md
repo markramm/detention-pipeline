@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Bertie County'
+fips: '37015'
 ---
 
 County-level fiscal distress indicators for Bertie County, NC.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ny
 importance: 5
+state: 'NY'
+county: 'Cattaraugus County'
+fips: '36009'
 ---
 
 287(g) agreement between ICE and Cattaraugus County Sheriff’s Office.

@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Russell County'
+fips: '51167'
 ---
 
 County-level fiscal distress indicators for Russell County, VA.

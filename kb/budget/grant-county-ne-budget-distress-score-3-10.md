@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Grant County'
+fips: '31075'
 ---
 
 County-level fiscal distress indicators for Grant County, NE.

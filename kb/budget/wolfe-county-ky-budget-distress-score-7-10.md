@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Wolfe County'
+fips: '21237'
 ---
 
 County-level fiscal distress indicators for Wolfe County, KY.

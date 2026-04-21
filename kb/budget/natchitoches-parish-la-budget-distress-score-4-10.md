@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Natchitoches Parish'
+fips: '22069'
 ---
 
 County-level fiscal distress indicators for Natchitoches Parish, LA.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Sabine County'
+fips: '48403'
 ---
 
 287(g) agreement between ICE and Sabine County Sheriff’s Office.

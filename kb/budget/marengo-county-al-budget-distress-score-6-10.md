@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Marengo County'
+fips: '01091'
 ---
 
 County-level fiscal distress indicators for Marengo County, AL.

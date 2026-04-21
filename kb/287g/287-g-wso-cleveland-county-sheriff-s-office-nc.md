@@ -7,6 +7,9 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Cleveland County'
+fips: '37045'
 ---
 
 287(g) agreement between ICE and Cleveland County Sheriff’s Office.

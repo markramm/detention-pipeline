@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Coleman County'
+fips: '48083'
 ---
 
 County-level fiscal distress indicators for Coleman County, TX.

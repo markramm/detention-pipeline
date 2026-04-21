@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Keya Paha County'
+fips: '31103'
 ---
 
 County-level fiscal distress indicators for Keya Paha County, NE.

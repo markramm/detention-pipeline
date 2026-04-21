@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - population-loss
 importance: 5
+state: 'MS'
+county: 'Scott County'
+fips: '28123'
 ---
 
 County-level fiscal distress indicators for Scott County, MS.

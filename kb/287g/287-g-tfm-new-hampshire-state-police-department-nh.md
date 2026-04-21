@@ -7,6 +7,7 @@ tags:
 - tfm
 - nh
 importance: 5
+state: 'NH'
 ---
 
 287(g) agreement between ICE and New Hampshire State Police Department.

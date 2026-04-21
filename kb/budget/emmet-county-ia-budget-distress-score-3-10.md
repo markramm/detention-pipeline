@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Emmet County'
+fips: '19063'
 ---
 
 County-level fiscal distress indicators for Emmet County, IA.

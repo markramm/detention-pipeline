@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Quitman County'
+fips: '28119'
 ---
 
 County-level fiscal distress indicators for Quitman County, MS.

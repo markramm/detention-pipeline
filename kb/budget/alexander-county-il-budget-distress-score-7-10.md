@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'IL'
+county: 'Alexander County'
+fips: '17003'
 ---
 
 County-level fiscal distress indicators for Alexander County, IL.

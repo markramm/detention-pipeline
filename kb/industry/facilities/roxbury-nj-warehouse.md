@@ -17,6 +17,7 @@ purchase_price: "$129.3 million"
 markup: "137% over value"
 prior_owner: "Goldman Sachs (former majority owner)"
 planned_staff: "~1,000"
+fips: '34027'
 ---
 
 # Roxbury NJ Warehouse — ICE Regional Processing Center

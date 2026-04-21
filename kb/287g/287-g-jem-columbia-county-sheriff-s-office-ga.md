@@ -7,6 +7,9 @@ tags:
 - jem
 - ga
 importance: 5
+state: 'GA'
+county: 'Columbia County'
+fips: '13073'
 ---
 
 287(g) agreement between ICE and Columbia County Sheriff’s Office.

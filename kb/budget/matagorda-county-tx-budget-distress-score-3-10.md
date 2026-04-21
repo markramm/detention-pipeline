@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Matagorda County'
+fips: '48321'
 ---
 
 County-level fiscal distress indicators for Matagorda County, TX.

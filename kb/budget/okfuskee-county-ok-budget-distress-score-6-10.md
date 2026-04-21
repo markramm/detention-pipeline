@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Okfuskee County'
+fips: '40107'
 ---
 
 County-level fiscal distress indicators for Okfuskee County, OK.

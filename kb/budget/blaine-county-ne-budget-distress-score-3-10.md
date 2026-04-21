@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Blaine County'
+fips: '31009'
 ---
 
 County-level fiscal distress indicators for Blaine County, NE.

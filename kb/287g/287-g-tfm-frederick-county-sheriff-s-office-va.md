@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Frederick County'
+fips: '51069'
 ---
 
 287(g) agreement between ICE and Frederick County Sheriff’s Office.

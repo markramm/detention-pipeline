@@ -7,6 +7,9 @@ tags:
 - ms
 - persistent-poverty
 importance: 5
+state: 'MS'
+county: 'Copiah County'
+fips: '28029'
 ---
 
 County-level fiscal distress indicators for Copiah County, MS.

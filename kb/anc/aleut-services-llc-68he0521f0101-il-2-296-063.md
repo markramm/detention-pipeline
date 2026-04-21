@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - il
 importance: 5
+state: 'IL'
 ---
 
 USAspending contract award.

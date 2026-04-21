@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Wilbarger County'
+fips: '48487'
 ---
 
 County-level fiscal distress indicators for Wilbarger County, TX.

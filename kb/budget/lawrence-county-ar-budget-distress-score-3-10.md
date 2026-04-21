@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Lawrence County'
+fips: '05075'
 ---
 
 County-level fiscal distress indicators for Lawrence County, AR.

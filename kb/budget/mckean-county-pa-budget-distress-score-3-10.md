@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'McKean County'
+fips: '42083'
 ---
 
 County-level fiscal distress indicators for McKean County, PA.

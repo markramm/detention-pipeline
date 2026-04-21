@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Patrick County'
+fips: '51141'
 ---
 
 County-level fiscal distress indicators for Patrick County, VA.

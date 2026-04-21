@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Marshall County'
+fips: '20117'
 ---
 
 County-level fiscal distress indicators for Marshall County, KS.

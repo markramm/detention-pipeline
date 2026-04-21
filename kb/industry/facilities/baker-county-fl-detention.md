@@ -13,6 +13,7 @@ status: operational
 importance: 7
 tags: [county-jail, IGSA, florida, geo-group, deportation-depot, protest, former-state-prison]
 research_status: stub
+fips: '12003'
 ---
 
 # Baker County Detention Facility — North Florida "Deportation Depot"

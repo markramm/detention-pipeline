@@ -7,6 +7,9 @@ tags:
 - wso
 - id
 importance: 5
+state: 'ID'
+county: 'Gooding County'
+fips: '16047'
 ---
 
 287(g) agreement between ICE and Gooding County Sheriff’s Office.

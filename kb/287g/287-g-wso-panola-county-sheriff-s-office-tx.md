@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Panola County'
+fips: '48365'
 ---
 
 287(g) agreement between ICE and Panola County Sheriff’s Office.

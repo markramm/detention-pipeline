@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Harris County'
+fips: '13145'
 ---
 
 287(g) agreement between ICE and Harris County Sheriff’s Office.

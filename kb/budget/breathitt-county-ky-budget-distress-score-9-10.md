@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Breathitt County'
+fips: '21025'
 ---
 
 County-level fiscal distress indicators for Breathitt County, KY.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Tama County'
+fips: '19171'
 ---
 
 County-level fiscal distress indicators for Tama County, IA.

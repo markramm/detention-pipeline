@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Cross County'
+fips: '05037'
 ---
 
 County-level fiscal distress indicators for Cross County, AR.

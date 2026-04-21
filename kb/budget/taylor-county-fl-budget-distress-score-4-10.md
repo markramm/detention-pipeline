@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'Taylor County'
+fips: '12123'
 ---
 
 County-level fiscal distress indicators for Taylor County, FL.

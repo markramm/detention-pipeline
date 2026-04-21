@@ -7,6 +7,9 @@ tags:
 - tfm
 - tn
 importance: 5
+state: 'TN'
+county: 'Sullivan County'
+fips: '47163'
 ---
 
 287(g) agreement between ICE and Sullivan County Sheriff’s Office.

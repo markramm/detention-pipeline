@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Russell County'
+fips: '21207'
 ---
 
 County-level fiscal distress indicators for Russell County, KY.

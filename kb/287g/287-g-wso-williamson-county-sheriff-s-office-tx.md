@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Williamson County'
+fips: '48491'
 ---
 
 287(g) agreement between ICE and Williamson County Sheriff’s Office.

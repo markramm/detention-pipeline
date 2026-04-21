@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Cheyenne County'
+fips: '08017'
 ---
 
 County-level fiscal distress indicators for Cheyenne County, CO.

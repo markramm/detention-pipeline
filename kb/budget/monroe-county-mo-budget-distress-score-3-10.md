@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Monroe County'
+fips: '29137'
 ---
 
 County-level fiscal distress indicators for Monroe County, MO.

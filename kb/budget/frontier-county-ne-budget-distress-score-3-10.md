@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Frontier County'
+fips: '31063'
 ---
 
 County-level fiscal distress indicators for Frontier County, NE.

@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'NM'
+county: 'McKinley County'
+fips: '35031'
 ---
 
 County-level fiscal distress indicators for McKinley County, NM.

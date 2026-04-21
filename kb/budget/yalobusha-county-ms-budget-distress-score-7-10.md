@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Yalobusha County'
+fips: '28161'
 ---
 
 County-level fiscal distress indicators for Yalobusha County, MS.

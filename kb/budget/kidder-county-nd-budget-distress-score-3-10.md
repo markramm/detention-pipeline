@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Kidder County'
+fips: '38043'
 ---
 
 County-level fiscal distress indicators for Kidder County, ND.

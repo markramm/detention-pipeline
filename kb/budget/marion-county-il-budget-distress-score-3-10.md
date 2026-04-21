@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Marion County'
+fips: '17121'
 ---
 
 County-level fiscal distress indicators for Marion County, IL.

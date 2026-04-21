@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Green County'
+fips: '21087'
 ---
 
 County-level fiscal distress indicators for Green County, KY.

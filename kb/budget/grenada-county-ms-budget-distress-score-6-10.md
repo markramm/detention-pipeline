@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Grenada County'
+fips: '28043'
 ---
 
 County-level fiscal distress indicators for Grenada County, MS.

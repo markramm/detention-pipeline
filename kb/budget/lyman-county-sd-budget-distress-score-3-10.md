@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Lyman County'
+fips: '46085'
 ---
 
 County-level fiscal distress indicators for Lyman County, SD.

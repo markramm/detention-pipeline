@@ -7,6 +7,9 @@ tags:
 - tfm
 - oh
 importance: 5
+state: 'OH'
+county: 'Brown County'
+fips: '39015'
 ---
 
 287(g) agreement between ICE and Russellville Police Department.

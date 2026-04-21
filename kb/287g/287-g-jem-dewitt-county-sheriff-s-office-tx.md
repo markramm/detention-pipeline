@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'DeWitt County'
+fips: '48123'
 ---
 
 287(g) agreement between ICE and DeWitt County Sheriff’s Office.

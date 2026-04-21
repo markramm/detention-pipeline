@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Jackson County'
+fips: '48239'
 ---
 
 287(g) agreement between ICE and Jackson County Sheriff’s Office.

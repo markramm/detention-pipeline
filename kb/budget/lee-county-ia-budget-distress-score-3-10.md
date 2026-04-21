@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Lee County'
+fips: '19111'
 ---
 
 County-level fiscal distress indicators for Lee County, IA.

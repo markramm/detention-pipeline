@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Allen County'
+fips: '20001'
 ---
 
 County-level fiscal distress indicators for Allen County, KS.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - tn
 importance: 5
+state: 'TN'
+county: 'Polk County'
+fips: '47139'
 ---
 
 287(g) agreement between ICE and Polk County Constable District 2.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Colorado County'
+fips: '48089'
 ---
 
 287(g) agreement between ICE and Colorado County Sheriff’s Office.

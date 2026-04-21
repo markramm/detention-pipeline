@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Live Oak County'
+fips: '48297'
 ---
 
 County-level fiscal distress indicators for Live Oak County, TX.

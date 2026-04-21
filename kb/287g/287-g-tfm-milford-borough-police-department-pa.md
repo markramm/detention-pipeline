@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Pike County'
+fips: '42103'
 ---
 
 287(g) agreement between ICE and Milford Borough Police Department.

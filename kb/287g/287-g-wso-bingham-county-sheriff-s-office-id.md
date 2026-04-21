@@ -7,6 +7,9 @@ tags:
 - wso
 - id
 importance: 5
+state: 'ID'
+county: 'Bingham County'
+fips: '16011'
 ---
 
 287(g) agreement between ICE and Bingham County Sheriff’s Office.

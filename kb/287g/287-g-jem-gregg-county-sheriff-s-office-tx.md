@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Gregg County'
+fips: '48183'
 ---
 
 287(g) agreement between ICE and Gregg County Sheriff’s Office.

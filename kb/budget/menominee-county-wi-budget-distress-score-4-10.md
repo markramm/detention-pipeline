@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Menominee County'
+fips: '55078'
 ---
 
 County-level fiscal distress indicators for Menominee County, WI.

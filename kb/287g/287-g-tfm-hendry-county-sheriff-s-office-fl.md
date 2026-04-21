@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Hendry County'
+fips: '12051'
 ---
 
 287(g) agreement between ICE and Hendry County Sheriff’s Office.

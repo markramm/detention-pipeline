@@ -7,6 +7,9 @@ tags:
 - tfm
 - tn
 importance: 5
+state: 'TN'
+county: 'Bradley County'
+fips: '47011'
 ---
 
 287(g) agreement between ICE and Bradley County Constable District 1.

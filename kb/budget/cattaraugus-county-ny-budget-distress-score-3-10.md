@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NY'
+county: 'Cattaraugus County'
+fips: '36009'
 ---
 
 County-level fiscal distress indicators for Cattaraugus County, NY.

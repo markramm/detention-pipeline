@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Mercer County'
+fips: '54055'
 ---
 
 County-level fiscal distress indicators for Mercer County, WV.

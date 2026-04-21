@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Greene County'
+fips: '19073'
 ---
 
 County-level fiscal distress indicators for Greene County, IA.

@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Monroe County'
+fips: '12087'
 ---
 
 287(g) agreement between ICE and Monroe County Sheriff’s Office.

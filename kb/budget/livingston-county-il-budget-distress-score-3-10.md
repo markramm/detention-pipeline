@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Livingston County'
+fips: '17105'
 ---
 
 County-level fiscal distress indicators for Livingston County, IL.

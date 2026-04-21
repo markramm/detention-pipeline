@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Mobile County'
+fips: '01097'
 ---
 
 287(g) agreement between ICE and Mobile County Sheriff’s Office.

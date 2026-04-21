@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'AZ'
+county: 'Santa Cruz County'
+fips: '04023'
 ---
 
 County-level fiscal distress indicators for Santa Cruz County, AZ.

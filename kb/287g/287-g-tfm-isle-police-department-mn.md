@@ -7,6 +7,9 @@ tags:
 - tfm
 - mn
 importance: 5
+state: 'MN'
+county: 'Mille Lacs County'
+fips: '27095'
 ---
 
 287(g) agreement between ICE and Isle Police Department.

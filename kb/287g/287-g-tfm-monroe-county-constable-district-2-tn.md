@@ -7,6 +7,9 @@ tags:
 - tfm
 - tn
 importance: 5
+state: 'TN'
+county: 'Monroe County'
+fips: '47123'
 ---
 
 287(g) agreement between ICE and Monroe County Constable District 2.

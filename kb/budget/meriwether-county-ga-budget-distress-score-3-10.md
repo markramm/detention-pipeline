@@ -8,6 +8,9 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
+state: 'GA'
+county: 'Meriwether County'
+fips: '13199'
 ---
 
 County-level fiscal distress indicators for Meriwether County, GA.

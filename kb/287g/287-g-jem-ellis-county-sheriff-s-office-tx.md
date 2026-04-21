@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Ellis County'
+fips: '48139'
 ---
 
 287(g) agreement between ICE and Ellis County Sheriff’s Office.

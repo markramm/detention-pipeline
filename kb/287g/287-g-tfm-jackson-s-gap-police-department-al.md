@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Tallapoosa County'
+fips: '01123'
 ---
 
 287(g) agreement between ICE and Jackson’s Gap Police Department.

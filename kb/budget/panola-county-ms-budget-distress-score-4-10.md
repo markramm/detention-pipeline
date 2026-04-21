@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Panola County'
+fips: '28107'
 ---
 
 County-level fiscal distress indicators for Panola County, MS.

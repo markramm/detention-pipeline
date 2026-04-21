@@ -8,6 +8,7 @@ tags:
 - detention-related
 - mn
 importance: 5
+state: 'MN'
 ---
 
 ICE contract award.

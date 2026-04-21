@@ -7,6 +7,9 @@ tags:
 - wso
 - mo
 importance: 5
+state: 'MO'
+county: 'Barry County'
+fips: '29009'
 ---
 
 287(g) agreement between ICE and Washburn Police Department.

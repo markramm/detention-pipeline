@@ -7,6 +7,9 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Craven County'
+fips: '37049'
 ---
 
 287(g) agreement between ICE and Craven County Sheriff’s Office.

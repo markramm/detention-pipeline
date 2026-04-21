@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Keokuk County'
+fips: '19107'
 ---
 
 County-level fiscal distress indicators for Keokuk County, IA.

@@ -7,6 +7,9 @@ tags:
 - wso
 - al
 importance: 5
+state: 'AL'
+county: 'Franklin County'
+fips: '01059'
 ---
 
 287(g) agreement between ICE and Franklin County Sheriff’s Office.

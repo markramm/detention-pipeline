@@ -8,6 +8,7 @@ tags:
 - detention-related
 - ak
 importance: 5
+state: 'AK'
 ---
 
 ICE contract award.

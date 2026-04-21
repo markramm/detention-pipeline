@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Anderson County'
+fips: '48001'
 ---
 
 County-level fiscal distress indicators for Anderson County, TX.

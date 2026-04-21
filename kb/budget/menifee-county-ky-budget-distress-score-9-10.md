@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Menifee County'
+fips: '21165'
 ---
 
 County-level fiscal distress indicators for Menifee County, KY.

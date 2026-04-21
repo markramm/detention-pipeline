@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Highland County'
+fips: '51091'
 ---
 
 County-level fiscal distress indicators for Highland County, VA.

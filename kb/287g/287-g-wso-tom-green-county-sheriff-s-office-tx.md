@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Tom Green County'
+fips: '48451'
 ---
 
 287(g) agreement between ICE and Tom Green County Sheriff’s Office.

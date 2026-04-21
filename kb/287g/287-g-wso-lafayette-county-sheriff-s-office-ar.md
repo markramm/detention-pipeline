@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Lafayette County'
+fips: '05073'
 ---
 
 287(g) agreement between ICE and Lafayette County Sheriff’s Office.

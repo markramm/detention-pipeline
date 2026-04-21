@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Beckham County'
+fips: '40009'
 ---
 
 County-level fiscal distress indicators for Beckham County, OK.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Fayette County'
+fips: '18041'
 ---
 
 County-level fiscal distress indicators for Fayette County, IN.

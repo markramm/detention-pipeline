@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'St. Francis County'
+fips: '05123'
 ---
 
 County-level fiscal distress indicators for St. Francis County, AR.

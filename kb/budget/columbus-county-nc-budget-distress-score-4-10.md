@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Columbus County'
+fips: '37047'
 ---
 
 County-level fiscal distress indicators for Columbus County, NC.

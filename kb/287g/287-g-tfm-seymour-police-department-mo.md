@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Webster County'
+fips: '29225'
 ---
 
 287(g) agreement between ICE and Seymour Police Department.

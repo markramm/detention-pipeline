@@ -7,6 +7,9 @@ tags:
 - jem
 - ky
 importance: 5
+state: 'KY'
+county: 'Oldham County'
+fips: '21185'
 ---
 
 287(g) agreement between ICE and Oldham County Detention Center.

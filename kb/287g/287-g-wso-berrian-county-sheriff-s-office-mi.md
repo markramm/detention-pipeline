@@ -7,6 +7,8 @@ tags:
 - wso
 - mi
 importance: 5
+state: 'MI'
+county: 'Berrian County'
 ---
 
 287(g) agreement between ICE and Berrian County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Jefferson County'
+fips: '31095'
 ---
 
 County-level fiscal distress indicators for Jefferson County, NE.

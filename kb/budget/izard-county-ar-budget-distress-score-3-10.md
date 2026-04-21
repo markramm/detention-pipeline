@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Izard County'
+fips: '05065'
 ---
 
 County-level fiscal distress indicators for Izard County, AR.

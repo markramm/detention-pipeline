@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Paulding County'
+fips: '39125'
 ---
 
 County-level fiscal distress indicators for Paulding County, OH.

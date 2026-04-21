@@ -7,6 +7,9 @@ tags:
 - tfm
 - ms
 importance: 5
+state: 'MS'
+county: 'Leake County'
+fips: '28079'
 ---
 
 287(g) agreement between ICE and Carthage Police Department.

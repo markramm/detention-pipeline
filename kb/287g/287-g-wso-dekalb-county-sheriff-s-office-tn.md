@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Dekalb County'
+fips: '47041'
 ---
 
 287(g) agreement between ICE and Dekalb County Sheriff’s Office.

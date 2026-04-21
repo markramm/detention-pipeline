@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Lafayette County'
+fips: '28071'
 ---
 
 County-level fiscal distress indicators for Lafayette County, MS.

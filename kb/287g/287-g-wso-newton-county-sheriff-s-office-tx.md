@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Newton County'
+fips: '48351'
 ---
 
 287(g) agreement between ICE and Newton County Sheriff’s Office.

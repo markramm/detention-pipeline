@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NV'
+county: 'Esmeralda County'
+fips: '32009'
 ---
 
 County-level fiscal distress indicators for Esmeralda County, NV.

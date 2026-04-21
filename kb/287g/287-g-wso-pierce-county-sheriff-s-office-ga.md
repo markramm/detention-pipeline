@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Pierce County'
+fips: '13229'
 ---
 
 287(g) agreement between ICE and Pierce County Sheriff’s Office.

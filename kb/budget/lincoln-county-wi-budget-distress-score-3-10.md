@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Lincoln County'
+fips: '55069'
 ---
 
 County-level fiscal distress indicators for Lincoln County, WI.

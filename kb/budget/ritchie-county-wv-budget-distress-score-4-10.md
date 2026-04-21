@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Ritchie County'
+fips: '54085'
 ---
 
 County-level fiscal distress indicators for Ritchie County, WV.

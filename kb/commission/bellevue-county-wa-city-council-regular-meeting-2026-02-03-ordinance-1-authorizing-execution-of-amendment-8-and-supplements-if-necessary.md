@@ -7,6 +7,9 @@ tags:
 - wa
 - weak
 importance: 5
+state: 'WA'
+county: 'King County'
+fips: '53033'
 ---
 
 County commission agenda item matching detention pipeline keywords.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Wheeler County'
+fips: '31183'
 ---
 
 County-level fiscal distress indicators for Wheeler County, NE.

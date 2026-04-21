@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Oktibbeha County'
+fips: '28105'
 ---
 
 County-level fiscal distress indicators for Oktibbeha County, MS.

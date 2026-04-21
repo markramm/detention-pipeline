@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Garza County'
+fips: '48169'
 ---
 
 287(g) agreement between ICE and Garza County Sheriff’s Office.

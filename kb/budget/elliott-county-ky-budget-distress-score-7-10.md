@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Elliott County'
+fips: '21063'
 ---
 
 County-level fiscal distress indicators for Elliott County, KY.

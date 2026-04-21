@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Lake of the Woods County'
+fips: '27077'
 ---
 
 County-level fiscal distress indicators for Lake of the Woods County, MN.

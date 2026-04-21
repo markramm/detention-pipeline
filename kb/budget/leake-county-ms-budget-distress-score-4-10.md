@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Leake County'
+fips: '28079'
 ---
 
 County-level fiscal distress indicators for Leake County, MS.

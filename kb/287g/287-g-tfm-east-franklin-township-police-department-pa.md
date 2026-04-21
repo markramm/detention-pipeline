@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Armstrong County'
+fips: '42005'
 ---
 
 287(g) agreement between ICE and East Franklin Township Police Department.

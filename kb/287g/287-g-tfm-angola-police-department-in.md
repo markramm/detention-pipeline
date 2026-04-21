@@ -7,6 +7,8 @@ tags:
 - tfm
 - in
 importance: 5
+state: 'IN'
+county: 'Stueben County'
 ---
 
 287(g) agreement between ICE and Angola Police Department.

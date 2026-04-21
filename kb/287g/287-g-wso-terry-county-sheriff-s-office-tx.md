@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Terry County'
+fips: '48445'
 ---
 
 287(g) agreement between ICE and Terry County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - az
 - strong
 importance: 5
+state: 'AZ'
+county: 'Pima County'
+fips: '04019'
 ---
 
 County commission agenda item matching detention pipeline keywords.

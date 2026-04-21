@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Cedar County'
+fips: '31027'
 ---
 
 County-level fiscal distress indicators for Cedar County, NE.

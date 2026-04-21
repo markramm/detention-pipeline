@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Nicholas County'
+fips: '54067'
 ---
 
 287(g) agreement between ICE and Summersville Police Department.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Gaines County'
+fips: '48165'
 ---
 
 287(g) agreement between ICE and Gaines County Sheriff’s Office.

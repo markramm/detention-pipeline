@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Corson County'
+fips: '46031'
 ---
 
 County-level fiscal distress indicators for Corson County, SD.

@@ -7,6 +7,8 @@ tags:
 - jem
 - ar
 importance: 5
+state: 'AR'
+county: 'Pulaksi County'
 ---
 
 287(g) agreement between ICE and Arkansas Department of Corrections.

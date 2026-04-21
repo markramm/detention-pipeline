@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Miller County'
+fips: '13201'
 ---
 
 County-level fiscal distress indicators for Miller County, GA.

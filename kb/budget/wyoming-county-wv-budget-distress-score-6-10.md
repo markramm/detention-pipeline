@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Wyoming County'
+fips: '54109'
 ---
 
 County-level fiscal distress indicators for Wyoming County, WV.

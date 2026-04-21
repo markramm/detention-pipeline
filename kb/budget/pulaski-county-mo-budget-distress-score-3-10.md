@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Pulaski County'
+fips: '29169'
 ---
 
 County-level fiscal distress indicators for Pulaski County, MO.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Northumberland County'
+fips: '42097'
 ---
 
 County-level fiscal distress indicators for Northumberland County, PA.

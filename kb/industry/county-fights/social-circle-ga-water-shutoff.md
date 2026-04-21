@@ -15,6 +15,7 @@ tags:
 - mega-center-blocked
 - rural-resistance
 research_status: working
+fips: '13297'
 ---
 
 # Social Circle, Georgia: The Water Meter Tactic

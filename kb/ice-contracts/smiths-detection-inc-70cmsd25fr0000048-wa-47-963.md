@@ -8,6 +8,7 @@ tags:
 - other-ice
 - wa
 importance: 5
+state: 'WA'
 ---
 
 ICE contract award.

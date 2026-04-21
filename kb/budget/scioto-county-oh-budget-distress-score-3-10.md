@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Scioto County'
+fips: '39145'
 ---
 
 County-level fiscal distress indicators for Scioto County, OH.

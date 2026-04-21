@@ -7,6 +7,9 @@ tags:
 - jem
 - ms
 importance: 5
+state: 'MS'
+county: 'Stone County'
+fips: '28131'
 ---
 
 287(g) agreement between ICE and Stone County Sheriff’s Office.

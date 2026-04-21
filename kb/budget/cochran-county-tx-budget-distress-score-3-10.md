@@ -8,6 +8,9 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
+state: 'TX'
+county: 'Cochran County'
+fips: '48079'
 ---
 
 County-level fiscal distress indicators for Cochran County, TX.

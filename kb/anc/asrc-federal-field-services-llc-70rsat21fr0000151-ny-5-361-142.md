@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ny
 importance: 5
+state: 'NY'
 ---
 
 USAspending contract award.

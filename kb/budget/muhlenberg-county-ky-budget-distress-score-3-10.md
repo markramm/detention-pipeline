@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Muhlenberg County'
+fips: '21177'
 ---
 
 County-level fiscal distress indicators for Muhlenberg County, KY.

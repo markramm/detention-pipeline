@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Kimball County'
+fips: '31105'
 ---
 
 County-level fiscal distress indicators for Kimball County, NE.

@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AK'
+county: 'Yukon-Koyukuk Census Area'
+fips: '02290'
 ---
 
 County-level fiscal distress indicators for Yukon-Koyukuk Census Area, AK.

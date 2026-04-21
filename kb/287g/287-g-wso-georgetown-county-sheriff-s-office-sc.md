@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Georgetown County'
+fips: '45043'
 ---
 
 287(g) agreement between ICE and Georgetown County Sheriff’s Office.

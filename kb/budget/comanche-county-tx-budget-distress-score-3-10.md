@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Comanche County'
+fips: '48093'
 ---
 
 County-level fiscal distress indicators for Comanche County, TX.

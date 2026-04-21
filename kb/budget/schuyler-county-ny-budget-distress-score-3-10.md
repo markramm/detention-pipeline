@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NY'
+county: 'Schuyler County'
+fips: '36097'
 ---
 
 County-level fiscal distress indicators for Schuyler County, NY.

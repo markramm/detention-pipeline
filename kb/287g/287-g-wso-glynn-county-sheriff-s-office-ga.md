@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Glynn County'
+fips: '13127'
 ---
 
 287(g) agreement between ICE and Glynn County Sheriff’s Office.

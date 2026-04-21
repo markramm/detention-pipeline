@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AK'
+county: 'Denali Borough'
+fips: '02068'
 ---
 
 County-level fiscal distress indicators for Denali Borough, AK.

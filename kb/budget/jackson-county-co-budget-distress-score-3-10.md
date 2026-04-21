@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Jackson County'
+fips: '08057'
 ---
 
 County-level fiscal distress indicators for Jackson County, CO.

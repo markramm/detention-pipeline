@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Carter County'
+fips: '47019'
 ---
 
 287(g) agreement between ICE and Carter County Sheriff’s Office.

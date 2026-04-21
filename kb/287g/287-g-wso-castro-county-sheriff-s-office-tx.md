@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Castro County'
+fips: '48069'
 ---
 
 287(g) agreement between ICE and Castro County Sheriff’s Office.

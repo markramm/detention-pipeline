@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Holmes County'
+fips: '12059'
 ---
 
 287(g) agreement between ICE and Holmes County Sheriff’s Office.

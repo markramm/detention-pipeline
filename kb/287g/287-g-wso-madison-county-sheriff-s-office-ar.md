@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Madison County'
+fips: '05087'
 ---
 
 287(g) agreement between ICE and Madison County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Craig County'
+fips: '40035'
 ---
 
 287(g) agreement between ICE and Craig County Sheriff’s Office.

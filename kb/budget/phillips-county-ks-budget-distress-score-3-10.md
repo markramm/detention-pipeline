@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Phillips County'
+fips: '20147'
 ---
 
 County-level fiscal distress indicators for Phillips County, KS.

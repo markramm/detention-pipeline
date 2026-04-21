@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Fannin County'
+fips: '48147'
 ---
 
 287(g) agreement between ICE and Fannin County Sheriff’s Office.

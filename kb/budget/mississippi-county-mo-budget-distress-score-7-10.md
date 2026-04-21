@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Mississippi County'
+fips: '29133'
 ---
 
 County-level fiscal distress indicators for Mississippi County, MO.

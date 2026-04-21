@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Adams County'
+fips: '38001'
 ---
 
 County-level fiscal distress indicators for Adams County, ND.

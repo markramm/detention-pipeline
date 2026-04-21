@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Wilson County'
+fips: '48493'
 ---
 
 287(g) agreement between ICE and Stockdale Marshal’s Office.

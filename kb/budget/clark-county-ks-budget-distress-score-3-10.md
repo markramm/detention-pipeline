@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Clark County'
+fips: '20025'
 ---
 
 County-level fiscal distress indicators for Clark County, KS.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Christian County'
+fips: '17021'
 ---
 
 County-level fiscal distress indicators for Christian County, IL.

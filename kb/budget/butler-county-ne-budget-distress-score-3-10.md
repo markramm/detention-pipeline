@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Butler County'
+fips: '31023'
 ---
 
 County-level fiscal distress indicators for Butler County, NE.

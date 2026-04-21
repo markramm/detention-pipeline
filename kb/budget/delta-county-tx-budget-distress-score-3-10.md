@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Delta County'
+fips: '48119'
 ---
 
 County-level fiscal distress indicators for Delta County, TX.

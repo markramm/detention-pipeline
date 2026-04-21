@@ -17,6 +17,7 @@ tags:
 - foia
 research_status: working
 last_researched: "2026-04-12"
+fips: '37081'
 ---
 
 # Greensboro: Preemptive Zoning Against Detention

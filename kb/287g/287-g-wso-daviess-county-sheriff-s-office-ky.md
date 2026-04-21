@@ -7,6 +7,9 @@ tags:
 - wso
 - ky
 importance: 5
+state: 'KY'
+county: 'Daviess County'
+fips: '21059'
 ---
 
 287(g) agreement between ICE and Daviess County Sheriff’s Office.

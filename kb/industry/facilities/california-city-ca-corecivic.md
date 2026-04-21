@@ -13,6 +13,7 @@ status: operational
 importance: 7
 tags: [private-prison, corecivic, california, reactivated, largest-corecivic]
 research_status: working
+fips: '06029'
 ---
 
 # California City Immigration Processing Center (CoreCivic)

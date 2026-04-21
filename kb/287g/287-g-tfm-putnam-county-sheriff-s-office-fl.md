@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Putnam County'
+fips: '12107'
 ---
 
 287(g) agreement between ICE and Putnam County Sheriff’s Office.

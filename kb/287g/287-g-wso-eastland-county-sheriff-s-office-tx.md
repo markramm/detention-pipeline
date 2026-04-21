@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Eastland County'
+fips: '48133'
 ---
 
 287(g) agreement between ICE and Eastland County Sheriff’s Office.

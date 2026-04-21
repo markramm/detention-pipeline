@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Blount County'
+fips: '01009'
 ---
 
 287(g) agreement between ICE and Blount County Sheriff’s Office.

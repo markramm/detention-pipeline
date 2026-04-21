@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Gilmer County'
+fips: '54021'
 ---
 
 County-level fiscal distress indicators for Gilmer County, WV.

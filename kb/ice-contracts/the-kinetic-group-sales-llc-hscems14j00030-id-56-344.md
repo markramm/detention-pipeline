@@ -8,6 +8,7 @@ tags:
 - other-ice
 - id
 importance: 5
+state: 'ID'
 ---
 
 ICE contract award.

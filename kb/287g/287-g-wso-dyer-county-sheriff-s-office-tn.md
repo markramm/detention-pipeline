@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Dyer County'
+fips: '47045'
 ---
 
 287(g) agreement between ICE and Dyer County Sheriff’s Office.

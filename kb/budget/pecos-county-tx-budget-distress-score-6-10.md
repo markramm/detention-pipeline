@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Pecos County'
+fips: '48371'
 ---
 
 County-level fiscal distress indicators for Pecos County, TX.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Grant County'
+fips: '18053'
 ---
 
 County-level fiscal distress indicators for Grant County, IN.

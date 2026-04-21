@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Sabine Parish'
+fips: '22085'
 ---
 
 County-level fiscal distress indicators for Sabine Parish, LA.

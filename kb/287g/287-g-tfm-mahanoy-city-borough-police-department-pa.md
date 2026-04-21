@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Schuylkill County'
+fips: '42107'
 ---
 
 287(g) agreement between ICE and Mahanoy City Borough Police Department.

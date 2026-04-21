@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Lanier County'
+fips: '13173'
 ---
 
 287(g) agreement between ICE and Lanier County Sheriff’s Office.

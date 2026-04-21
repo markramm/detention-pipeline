@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Escambia County'
+fips: '12033'
 ---
 
 287(g) agreement between ICE and Escambia County Board of County Commissioners/ Department of Corrections.

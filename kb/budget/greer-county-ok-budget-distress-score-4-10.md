@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Greer County'
+fips: '40055'
 ---
 
 County-level fiscal distress indicators for Greer County, OK.

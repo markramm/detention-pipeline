@@ -8,6 +8,7 @@ tags:
 - detention-related
 - nh
 importance: 5
+state: 'NH'
 ---
 
 ICE contract award.

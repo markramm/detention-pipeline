@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Webster County'
+fips: '28155'
 ---
 
 County-level fiscal distress indicators for Webster County, MS.

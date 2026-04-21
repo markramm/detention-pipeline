@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Andrews County'
+fips: '48003'
 ---
 
 287(g) agreement between ICE and Andrews County Sheriff’s Office.

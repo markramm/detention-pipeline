@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Schoolcraft County'
+fips: '26153'
 ---
 
 County-level fiscal distress indicators for Schoolcraft County, MI.

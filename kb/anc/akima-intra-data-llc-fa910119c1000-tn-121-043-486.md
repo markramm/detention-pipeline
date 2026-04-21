@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - tn
 importance: 5
+state: 'TN'
 ---
 
 USAspending contract award.

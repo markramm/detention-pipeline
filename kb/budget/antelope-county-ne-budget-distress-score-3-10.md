@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Antelope County'
+fips: '31003'
 ---
 
 County-level fiscal distress indicators for Antelope County, NE.

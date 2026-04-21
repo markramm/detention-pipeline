@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Henderson County'
+fips: '48213'
 ---
 
 287(g) agreement between ICE and Henderson County Sheriff’s Office.

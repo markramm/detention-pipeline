@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Pocahontas County'
+fips: '19151'
 ---
 
 County-level fiscal distress indicators for Pocahontas County, IA.

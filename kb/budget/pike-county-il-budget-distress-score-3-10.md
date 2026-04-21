@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Pike County'
+fips: '17149'
 ---
 
 County-level fiscal distress indicators for Pike County, IL.

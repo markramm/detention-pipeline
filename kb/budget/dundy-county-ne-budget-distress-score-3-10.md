@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Dundy County'
+fips: '31057'
 ---
 
 County-level fiscal distress indicators for Dundy County, NE.

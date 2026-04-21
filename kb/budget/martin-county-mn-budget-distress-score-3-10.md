@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Martin County'
+fips: '27091'
 ---
 
 County-level fiscal distress indicators for Martin County, MN.

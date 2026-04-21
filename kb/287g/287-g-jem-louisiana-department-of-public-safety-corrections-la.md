@@ -7,6 +7,7 @@ tags:
 - jem
 - la
 importance: 5
+state: 'LA'
 ---
 
 287(g) agreement between ICE and Louisiana Department of Public Safety & Corrections.

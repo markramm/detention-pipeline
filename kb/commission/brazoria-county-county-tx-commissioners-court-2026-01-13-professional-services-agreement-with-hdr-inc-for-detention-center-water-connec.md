@@ -7,6 +7,9 @@ tags:
 - tx
 - strong
 importance: 5
+state: 'TX'
+county: 'Brazoria County'
+fips: '48039'
 ---
 
 County commission agenda item matching detention pipeline keywords.

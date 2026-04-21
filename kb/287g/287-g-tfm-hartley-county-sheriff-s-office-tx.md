@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Hartley County'
+fips: '48205'
 ---
 
 287(g) agreement between ICE and Hartley County Sheriff’s Office.

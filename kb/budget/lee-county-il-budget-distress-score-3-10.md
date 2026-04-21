@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Lee County'
+fips: '17103'
 ---
 
 County-level fiscal distress indicators for Lee County, IL.

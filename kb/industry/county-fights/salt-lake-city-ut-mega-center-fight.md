@@ -16,6 +16,7 @@ tags:
 - protest
 - mayor-opposition
 research_status: working
+fips: '49035'
 ---
 
 # Salt Lake City: Fighting a $145M Federal Purchase

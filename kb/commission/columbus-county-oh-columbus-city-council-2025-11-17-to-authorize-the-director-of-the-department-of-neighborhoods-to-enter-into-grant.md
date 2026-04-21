@@ -7,6 +7,9 @@ tags:
 - oh
 - moderate
 importance: 5
+state: 'OH'
+county: 'Franklin County'
+fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.

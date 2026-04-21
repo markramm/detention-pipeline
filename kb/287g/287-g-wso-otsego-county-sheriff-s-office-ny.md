@@ -7,6 +7,9 @@ tags:
 - wso
 - ny
 importance: 5
+state: 'NY'
+county: 'Otsego County'
+fips: '36077'
 ---
 
 287(g) agreement between ICE and Otsego County Sheriff’s Office.

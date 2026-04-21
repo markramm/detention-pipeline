@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'Liberty County'
+fips: '12077'
 ---
 
 County-level fiscal distress indicators for Liberty County, FL.

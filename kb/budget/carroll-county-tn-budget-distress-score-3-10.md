@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Carroll County'
+fips: '47017'
 ---
 
 County-level fiscal distress indicators for Carroll County, TN.

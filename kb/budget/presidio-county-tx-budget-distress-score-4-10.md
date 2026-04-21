@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Presidio County'
+fips: '48377'
 ---
 
 County-level fiscal distress indicators for Presidio County, TX.

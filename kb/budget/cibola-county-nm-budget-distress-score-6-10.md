@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Cibola County'
+fips: '35006'
 ---
 
 County-level fiscal distress indicators for Cibola County, NM.

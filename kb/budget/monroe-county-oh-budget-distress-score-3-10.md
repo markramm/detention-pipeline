@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Monroe County'
+fips: '39111'
 ---
 
 County-level fiscal distress indicators for Monroe County, OH.

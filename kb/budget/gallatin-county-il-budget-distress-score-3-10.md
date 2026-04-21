@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Gallatin County'
+fips: '17059'
 ---
 
 County-level fiscal distress indicators for Gallatin County, IL.

@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Osage County'
+fips: '20139'
 ---
 
 287(g) agreement between ICE and Osage County Sheriff’s Office.

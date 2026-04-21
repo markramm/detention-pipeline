@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Crockett County'
+fips: '48105'
 ---
 
 County-level fiscal distress indicators for Crockett County, TX.

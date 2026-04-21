@@ -7,6 +7,9 @@ tags:
 - nh
 - weak
 importance: 5
+state: 'NH'
+county: 'Merrimack County'
+fips: '33013'
 ---
 
 County commission agenda item matching detention pipeline keywords.

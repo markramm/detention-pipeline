@@ -8,6 +8,7 @@ tags:
 - other-ice
 - nm
 importance: 5
+state: 'NM'
 ---
 
 ICE contract award.

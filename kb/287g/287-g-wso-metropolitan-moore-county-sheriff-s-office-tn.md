@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Moore County'
+fips: '47127'
 ---
 
 287(g) agreement between ICE and Metropolitan Moore County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Barton County'
+fips: '20009'
 ---
 
 County-level fiscal distress indicators for Barton County, KS.

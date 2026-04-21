@@ -7,6 +7,9 @@ tags:
 - wso
 - md
 importance: 5
+state: 'MD'
+county: 'Wicomico County'
+fips: '24045'
 ---
 
 287(g) agreement between ICE and Wicomico County Corrections Center.

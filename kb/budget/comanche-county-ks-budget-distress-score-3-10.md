@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Comanche County'
+fips: '20033'
 ---
 
 County-level fiscal distress indicators for Comanche County, KS.

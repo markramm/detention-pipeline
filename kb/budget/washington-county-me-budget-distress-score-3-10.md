@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ME'
+county: 'Washington County'
+fips: '23029'
 ---
 
 County-level fiscal distress indicators for Washington County, ME.

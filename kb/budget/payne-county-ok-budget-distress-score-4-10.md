@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Payne County'
+fips: '40119'
 ---
 
 County-level fiscal distress indicators for Payne County, OK.

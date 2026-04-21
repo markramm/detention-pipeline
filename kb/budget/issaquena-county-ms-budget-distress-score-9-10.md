@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Issaquena County'
+fips: '28055'
 ---
 
 County-level fiscal distress indicators for Issaquena County, MS.

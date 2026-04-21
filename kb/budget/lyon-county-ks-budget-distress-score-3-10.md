@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Lyon County'
+fips: '20111'
 ---
 
 County-level fiscal distress indicators for Lyon County, KS.

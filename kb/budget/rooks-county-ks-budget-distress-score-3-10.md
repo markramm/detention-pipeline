@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Rooks County'
+fips: '20163'
 ---
 
 County-level fiscal distress indicators for Rooks County, KS.

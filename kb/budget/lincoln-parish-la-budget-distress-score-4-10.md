@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Lincoln Parish'
+fips: '22061'
 ---
 
 County-level fiscal distress indicators for Lincoln Parish, LA.

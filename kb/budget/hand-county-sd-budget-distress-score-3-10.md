@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Hand County'
+fips: '46059'
 ---
 
 County-level fiscal distress indicators for Hand County, SD.

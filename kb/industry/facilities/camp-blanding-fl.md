@@ -13,6 +13,7 @@ status: paused
 importance: 7
 tags: [military-base, florida, desantis, deportation-depot, national-guard, state-operated]
 research_status: stub
+fips: '12019'
 ---
 
 # Camp Blanding FL — "Deportation Depot" ICE Detention Center

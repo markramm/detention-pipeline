@@ -7,6 +7,9 @@ tags:
 - tfm
 - ne
 importance: 5
+state: 'NE'
+county: 'Wheeler County'
+fips: '31183'
 ---
 
 287(g) agreement between ICE and Wheeler County Sheriff’s Office.

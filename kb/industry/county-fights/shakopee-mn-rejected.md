@@ -12,6 +12,7 @@ tags:
 - seller-declined
 - minnesota
 research_status: stub
+fips: '27139'
 ---
 
 # Shakopee, Minnesota: Owner Declined

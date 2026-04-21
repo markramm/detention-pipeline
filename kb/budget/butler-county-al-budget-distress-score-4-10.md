@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Butler County'
+fips: '01013'
 ---
 
 County-level fiscal distress indicators for Butler County, AL.

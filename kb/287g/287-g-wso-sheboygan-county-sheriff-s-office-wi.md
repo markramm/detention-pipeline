@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Sheboygan County'
+fips: '55117'
 ---
 
 287(g) agreement between ICE and Sheboygan County Sheriff’s Office.

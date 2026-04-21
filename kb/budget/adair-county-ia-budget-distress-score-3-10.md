@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Adair County'
+fips: '19001'
 ---
 
 County-level fiscal distress indicators for Adair County, IA.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Kiowa County'
+fips: '40075'
 ---
 
 County-level fiscal distress indicators for Kiowa County, OK.

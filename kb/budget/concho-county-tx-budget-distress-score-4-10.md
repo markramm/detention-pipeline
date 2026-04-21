@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Concho County'
+fips: '48095'
 ---
 
 County-level fiscal distress indicators for Concho County, TX.

@@ -7,6 +7,9 @@ tags:
 - wso
 - id
 importance: 5
+state: 'ID'
+county: 'Bonneville County'
+fips: '16019'
 ---
 
 287(g) agreement between ICE and Bonneville County Sheriff’s Office.

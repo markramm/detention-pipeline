@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'St. Landry Parish'
+fips: '22097'
 ---
 
 County-level fiscal distress indicators for St. Landry Parish, LA.

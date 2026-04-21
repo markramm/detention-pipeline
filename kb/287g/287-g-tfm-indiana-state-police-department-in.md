@@ -7,6 +7,7 @@ tags:
 - tfm
 - in
 importance: 5
+state: 'IN'
 ---
 
 287(g) agreement between ICE and Indiana State Police Department.

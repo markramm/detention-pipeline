@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Magoffin County'
+fips: '21153'
 ---
 
 County-level fiscal distress indicators for Magoffin County, KY.

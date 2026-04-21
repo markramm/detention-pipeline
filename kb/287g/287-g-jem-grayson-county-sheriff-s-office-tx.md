@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Grayson County'
+fips: '48181'
 ---
 
 287(g) agreement between ICE and Grayson County Sheriff’s Office.

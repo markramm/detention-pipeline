@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Jewell County'
+fips: '20089'
 ---
 
 287(g) agreement between ICE and Jewell County Sheriff’s Office.

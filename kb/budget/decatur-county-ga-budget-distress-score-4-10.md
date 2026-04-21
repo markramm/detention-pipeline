@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Decatur County'
+fips: '13087'
 ---
 
 County-level fiscal distress indicators for Decatur County, GA.

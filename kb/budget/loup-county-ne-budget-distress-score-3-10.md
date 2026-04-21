@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Loup County'
+fips: '31115'
 ---
 
 County-level fiscal distress indicators for Loup County, NE.

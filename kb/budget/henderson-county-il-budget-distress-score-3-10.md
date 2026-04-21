@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Henderson County'
+fips: '17071'
 ---
 
 County-level fiscal distress indicators for Henderson County, IL.

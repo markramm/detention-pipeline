@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Custer County'
+fips: '31041'
 ---
 
 County-level fiscal distress indicators for Custer County, NE.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NY'
+county: 'Genesee County'
+fips: '36037'
 ---
 
 County-level fiscal distress indicators for Genesee County, NY.

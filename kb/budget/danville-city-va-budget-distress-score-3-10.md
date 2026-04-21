@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Danville city'
+fips: '51590'
 ---
 
 County-level fiscal distress indicators for Danville city, VA.

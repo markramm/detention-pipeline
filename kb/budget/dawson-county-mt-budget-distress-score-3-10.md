@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Dawson County'
+fips: '30021'
 ---
 
 County-level fiscal distress indicators for Dawson County, MT.

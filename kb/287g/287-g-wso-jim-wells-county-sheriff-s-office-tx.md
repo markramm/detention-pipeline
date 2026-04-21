@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Jim Wells County'
+fips: '48249'
 ---
 
 287(g) agreement between ICE and Jim Wells County Sheriff’s Office.

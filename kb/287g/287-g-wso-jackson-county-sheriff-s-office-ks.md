@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Jackson County'
+fips: '20085'
 ---
 
 287(g) agreement between ICE and Jackson County Sheriff’s Office.

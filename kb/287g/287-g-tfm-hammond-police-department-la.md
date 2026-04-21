@@ -7,6 +7,9 @@ tags:
 - tfm
 - la
 importance: 5
+state: 'LA'
+county: 'Tangipahoa Parish'
+fips: '22105'
 ---
 
 287(g) agreement between ICE and Hammond Police Department.

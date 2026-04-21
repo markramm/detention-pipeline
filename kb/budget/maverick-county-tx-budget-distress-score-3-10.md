@@ -7,6 +7,9 @@ tags:
 - tx
 - persistent-poverty
 importance: 5
+state: 'TX'
+county: 'Maverick County'
+fips: '48323'
 ---
 
 County-level fiscal distress indicators for Maverick County, TX.

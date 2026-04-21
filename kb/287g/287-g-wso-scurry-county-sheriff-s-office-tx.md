@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Scurry County'
+fips: '48415'
 ---
 
 287(g) agreement between ICE and Scurry County Sheriff’s Office.

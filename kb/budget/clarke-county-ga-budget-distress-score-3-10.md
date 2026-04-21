@@ -7,6 +7,9 @@ tags:
 - ga
 - persistent-poverty
 importance: 5
+state: 'GA'
+county: 'Clarke County'
+fips: '13059'
 ---
 
 County-level fiscal distress indicators for Clarke County, GA.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - in
 importance: 5
+state: 'IN'
+county: 'Henry County'
+fips: '18065'
 ---
 
 287(g) agreement between ICE and Greensboro Police Department.

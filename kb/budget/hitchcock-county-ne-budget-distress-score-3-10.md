@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Hitchcock County'
+fips: '31087'
 ---
 
 County-level fiscal distress indicators for Hitchcock County, NE.

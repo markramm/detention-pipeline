@@ -7,6 +7,9 @@ tags:
 - wso
 - va
 importance: 5
+state: 'VA'
+county: 'Alleghany County'
+fips: '51005'
 ---
 
 287(g) agreement between ICE and Alleghany County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Bryan County'
+fips: '40013'
 ---
 
 287(g) agreement between ICE and Achille Police Department.

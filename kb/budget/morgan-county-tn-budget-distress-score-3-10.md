@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'TN'
+county: 'Morgan County'
+fips: '47129'
 ---
 
 County-level fiscal distress indicators for Morgan County, TN.

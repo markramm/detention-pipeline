@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Jasper County'
+fips: '13159'
 ---
 
 287(g) agreement between ICE and Jasper County Sheriff’s Office.

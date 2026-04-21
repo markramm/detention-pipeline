@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Washington County'
+fips: '01129'
 ---
 
 287(g) agreement between ICE and Washington County Sheriff’s Office.

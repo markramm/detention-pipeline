@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Prentiss County'
+fips: '28117'
 ---
 
 County-level fiscal distress indicators for Prentiss County, MS.

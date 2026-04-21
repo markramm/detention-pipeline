@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Franklin Parish'
+fips: '22041'
 ---
 
 County-level fiscal distress indicators for Franklin Parish, LA.

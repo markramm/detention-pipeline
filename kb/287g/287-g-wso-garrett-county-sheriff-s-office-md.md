@@ -7,6 +7,9 @@ tags:
 - wso
 - md
 importance: 5
+state: 'MD'
+county: 'Garrett County'
+fips: '24023'
 ---
 
 287(g) agreement between ICE and Garrett County Sheriff’s Office.

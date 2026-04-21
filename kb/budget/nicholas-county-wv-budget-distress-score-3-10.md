@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Nicholas County'
+fips: '54067'
 ---
 
 County-level fiscal distress indicators for Nicholas County, WV.

@@ -7,6 +7,9 @@ tags:
 - wso
 - ny
 importance: 5
+state: 'NY'
+county: 'Steuben County'
+fips: '36101'
 ---
 
 287(g) agreement between ICE and Steuben County Sheriff’s Office.

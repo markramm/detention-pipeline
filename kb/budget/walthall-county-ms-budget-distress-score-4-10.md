@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Walthall County'
+fips: '28147'
 ---
 
 County-level fiscal distress indicators for Walthall County, MS.

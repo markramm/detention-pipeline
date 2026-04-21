@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Cimarron County'
+fips: '40025'
 ---
 
 County-level fiscal distress indicators for Cimarron County, OK.

@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - id
 importance: 5
+state: 'ID'
 ---
 
 USAspending contract award.

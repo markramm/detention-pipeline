@@ -7,6 +7,9 @@ tags:
 - va
 - moderate
 importance: 5
+state: 'VA'
+county: 'Richmond County'
+fips: '51159'
 ---
 
 County commission agenda item matching detention pipeline keywords.

@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'MS'
+county: 'Holmes County'
+fips: '28051'
 ---
 
 County-level fiscal distress indicators for Holmes County, MS.

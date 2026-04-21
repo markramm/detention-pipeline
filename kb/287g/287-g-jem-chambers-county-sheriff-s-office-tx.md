@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Chambers County'
+fips: '48071'
 ---
 
 287(g) agreement between ICE and Chambers County Sheriff’s Office.

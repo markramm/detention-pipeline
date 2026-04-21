@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Walton County'
+fips: '13297'
 ---
 
 287(g) agreement between ICE and Social Circle Police Department.

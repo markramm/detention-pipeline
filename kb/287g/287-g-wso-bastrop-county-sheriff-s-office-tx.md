@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Bastrop County'
+fips: '48021'
 ---
 
 287(g) agreement between ICE and Bastrop County Sheriff’s Office.

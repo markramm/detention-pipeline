@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Dimmit County'
+fips: '48127'
 ---
 
 287(g) agreement between ICE and Dimmit County Sheriff’s Office.

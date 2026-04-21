@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Miner County'
+fips: '46097'
 ---
 
 County-level fiscal distress indicators for Miner County, SD.

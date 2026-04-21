@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Butler County'
+fips: '19023'
 ---
 
 County-level fiscal distress indicators for Butler County, IA.

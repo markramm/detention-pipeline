@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Bay County'
+fips: '12005'
 ---
 
 287(g) agreement between ICE and Bay County Sheriff’s Office.

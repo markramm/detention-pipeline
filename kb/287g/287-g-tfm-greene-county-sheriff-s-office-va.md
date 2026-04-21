@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Greene County'
+fips: '51079'
 ---
 
 287(g) agreement between ICE and Greene County Sheriff’s Office.

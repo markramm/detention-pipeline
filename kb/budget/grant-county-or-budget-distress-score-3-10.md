@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OR'
+county: 'Grant County'
+fips: '41023'
 ---
 
 County-level fiscal distress indicators for Grant County, OR.

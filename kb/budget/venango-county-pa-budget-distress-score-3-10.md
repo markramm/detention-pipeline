@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Venango County'
+fips: '42121'
 ---
 
 County-level fiscal distress indicators for Venango County, PA.

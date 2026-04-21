@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Redwood County'
+fips: '27127'
 ---
 
 County-level fiscal distress indicators for Redwood County, MN.

@@ -7,6 +7,9 @@ tags:
 - jem
 - nv
 importance: 5
+state: 'NV'
+county: 'Lyon County'
+fips: '32019'
 ---
 
 287(g) agreement between ICE and Lyon County Sheriff’s Office.

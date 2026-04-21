@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Bedford County'
+fips: '42009'
 ---
 
 County-level fiscal distress indicators for Bedford County, PA.

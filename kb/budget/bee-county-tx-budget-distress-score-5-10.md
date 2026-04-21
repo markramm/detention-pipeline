@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Bee County'
+fips: '48025'
 ---
 
 County-level fiscal distress indicators for Bee County, TX.

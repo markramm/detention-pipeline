@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Mitchell County'
+fips: '13205'
 ---
 
 County-level fiscal distress indicators for Mitchell County, GA.

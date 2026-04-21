@@ -7,6 +7,9 @@ tags:
 - tfm
 - oh
 importance: 5
+state: 'OH'
+county: 'Preble County'
+fips: '39135'
 ---
 
 287(g) agreement between ICE and Gratis Police Department.

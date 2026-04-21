@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Childress County'
+fips: '48075'
 ---
 
 287(g) agreement between ICE and Childress County Sheriff’s Office.

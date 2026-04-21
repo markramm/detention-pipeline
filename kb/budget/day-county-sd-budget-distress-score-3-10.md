@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Day County'
+fips: '46037'
 ---
 
 County-level fiscal distress indicators for Day County, SD.

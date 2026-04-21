@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Sequatchie County'
+fips: '47153'
 ---
 
 287(g) agreement between ICE and Sequatchie County Sheriff’s Office.

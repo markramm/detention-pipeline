@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ga
 importance: 5
+state: 'GA'
 ---
 
 ICE contract award.

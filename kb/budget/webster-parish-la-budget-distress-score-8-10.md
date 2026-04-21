@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Webster Parish'
+fips: '22119'
 ---
 
 County-level fiscal distress indicators for Webster Parish, LA.

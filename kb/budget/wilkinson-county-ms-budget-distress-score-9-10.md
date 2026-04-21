@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Wilkinson County'
+fips: '28157'
 ---
 
 County-level fiscal distress indicators for Wilkinson County, MS.

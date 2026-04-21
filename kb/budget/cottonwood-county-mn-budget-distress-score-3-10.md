@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Cottonwood County'
+fips: '27033'
 ---
 
 County-level fiscal distress indicators for Cottonwood County, MN.

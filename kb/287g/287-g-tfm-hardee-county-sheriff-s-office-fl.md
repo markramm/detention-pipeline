@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Hardee County'
+fips: '12049'
 ---
 
 287(g) agreement between ICE and Hardee County Sheriff’s Office.

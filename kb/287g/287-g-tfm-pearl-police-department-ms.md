@@ -7,6 +7,9 @@ tags:
 - tfm
 - ms
 importance: 5
+state: 'MS'
+county: 'Rankin County'
+fips: '28121'
 ---
 
 287(g) agreement between ICE and Pearl Police Department.

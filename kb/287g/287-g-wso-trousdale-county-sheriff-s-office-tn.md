@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Trousdale County'
+fips: '47169'
 ---
 
 287(g) agreement between ICE and Trousdale County Sheriff’s Office.

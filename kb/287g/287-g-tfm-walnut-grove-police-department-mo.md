@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Greene County'
+fips: '29077'
 ---
 
 287(g) agreement between ICE and Walnut Grove Police Department.

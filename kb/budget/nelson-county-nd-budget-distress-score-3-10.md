@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Nelson County'
+fips: '38063'
 ---
 
 County-level fiscal distress indicators for Nelson County, ND.

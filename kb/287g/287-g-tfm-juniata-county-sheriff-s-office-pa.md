@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Juniata County'
+fips: '42067'
 ---
 
 287(g) agreement between ICE and Juniata County Sheriff’s Office.

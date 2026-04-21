@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Cumberland County'
+fips: '17035'
 ---
 
 County-level fiscal distress indicators for Cumberland County, IL.

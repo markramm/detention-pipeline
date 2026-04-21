@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Pasco County'
+fips: '12101'
 ---
 
 287(g) agreement between ICE and Pasco County Board of County Commissioners/ Pasco County Corrections.

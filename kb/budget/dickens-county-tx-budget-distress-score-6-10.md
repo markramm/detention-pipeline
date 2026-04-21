@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Dickens County'
+fips: '48125'
 ---
 
 County-level fiscal distress indicators for Dickens County, TX.

@@ -7,6 +7,7 @@ tags:
 - tfm
 - ne
 importance: 5
+state: 'NE'
 ---
 
 287(g) agreement between ICE and Nebraska State Patrol.

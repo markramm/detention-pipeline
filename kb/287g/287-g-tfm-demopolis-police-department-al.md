@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Marengo County'
+fips: '01091'
 ---
 
 287(g) agreement between ICE and Demopolis Police Department.

@@ -7,6 +7,9 @@ tags:
 - jem
 - in
 importance: 5
+state: 'IN'
+county: 'Hamilton County'
+fips: '18057'
 ---
 
 287(g) agreement between ICE and Hamilton County Sheriff’s Office.

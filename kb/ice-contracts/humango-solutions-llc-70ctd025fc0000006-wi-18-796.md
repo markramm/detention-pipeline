@@ -8,6 +8,7 @@ tags:
 - detention-related
 - wi
 importance: 5
+state: 'WI'
 ---
 
 ICE contract award.

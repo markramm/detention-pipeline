@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AK'
+county: 'Lake and Peninsula Borough'
+fips: '02164'
 ---
 
 County-level fiscal distress indicators for Lake and Peninsula Borough, AK.

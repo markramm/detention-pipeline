@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Sebastian County'
+fips: '05131'
 ---
 
 287(g) agreement between ICE and Sebastian County Sheriff’s Office.

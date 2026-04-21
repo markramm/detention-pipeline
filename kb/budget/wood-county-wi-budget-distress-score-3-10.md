@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Wood County'
+fips: '55141'
 ---
 
 County-level fiscal distress indicators for Wood County, WI.

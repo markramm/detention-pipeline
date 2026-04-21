@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Audrain County'
+fips: '29007'
 ---
 
 County-level fiscal distress indicators for Audrain County, MO.

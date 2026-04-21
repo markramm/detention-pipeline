@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Tyler County'
+fips: '48457'
 ---
 
 County-level fiscal distress indicators for Tyler County, TX.

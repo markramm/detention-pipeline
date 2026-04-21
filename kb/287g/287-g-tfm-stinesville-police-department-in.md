@@ -7,6 +7,9 @@ tags:
 - tfm
 - in
 importance: 5
+state: 'IN'
+county: 'Monroe County'
+fips: '18105'
 ---
 
 287(g) agreement between ICE and Stinesville Police Department.

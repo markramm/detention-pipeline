@@ -23,6 +23,7 @@ tags:
 - redacted-names
 - operation-tidal-wave
 research_status: working
+fips: '12099'
 ---
 
 # Palm Beach County: "The Belly of the Beast"

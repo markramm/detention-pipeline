@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Johnson County'
+fips: '05071'
 ---
 
 287(g) agreement between ICE and Johnson County Sheriff’s Office.

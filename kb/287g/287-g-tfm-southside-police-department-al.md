@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Etowah County'
+fips: '01055'
 ---
 
 287(g) agreement between ICE and Southside Police Department.

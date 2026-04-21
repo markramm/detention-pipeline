@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Pike County'
+fips: '28113'
 ---
 
 County-level fiscal distress indicators for Pike County, MS.

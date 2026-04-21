@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Saline County'
+fips: '29195'
 ---
 
 County-level fiscal distress indicators for Saline County, MO.

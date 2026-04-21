@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Potter County'
+fips: '48375'
 ---
 
 287(g) agreement between ICE and Potter County Sheriff’s Office.

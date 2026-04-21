@@ -7,6 +7,9 @@ tags:
 - nc
 - moderate
 importance: 5
+state: 'NC'
+county: 'Cumberland County'
+fips: '37051'
 ---
 
 County commission agenda item matching detention pipeline keywords.

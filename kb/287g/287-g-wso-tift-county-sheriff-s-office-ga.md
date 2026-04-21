@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Tift County'
+fips: '13277'
 ---
 
 287(g) agreement between ICE and Tift County Sheriff’s Office.

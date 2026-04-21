@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Covington County'
+fips: '28031'
 ---
 
 County-level fiscal distress indicators for Covington County, MS.

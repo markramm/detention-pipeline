@@ -7,6 +7,9 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Carteret County'
+fips: '37031'
 ---
 
 287(g) agreement between ICE and Carteret County Sheriff’s Office.

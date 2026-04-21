@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Grant County'
+fips: '35017'
 ---
 
 County-level fiscal distress indicators for Grant County, NM.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Neosho County'
+fips: '20133'
 ---
 
 County-level fiscal distress indicators for Neosho County, KS.

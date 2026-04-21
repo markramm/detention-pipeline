@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Sarasota County'
+fips: '12115'
 ---
 
 287(g) agreement between ICE and Sarasota County Sheriff’s Office.

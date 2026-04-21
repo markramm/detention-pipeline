@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Zavala County'
+fips: '48507'
 ---
 
 County-level fiscal distress indicators for Zavala County, TX.

@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Indian River County'
+fips: '12061'
 ---
 
 287(g) agreement between ICE and Indian River County Sheriff’s Office.

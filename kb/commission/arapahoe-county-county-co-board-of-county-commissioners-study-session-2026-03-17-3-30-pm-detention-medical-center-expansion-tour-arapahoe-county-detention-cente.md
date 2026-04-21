@@ -7,6 +7,9 @@ tags:
 - co
 - strong
 importance: 5
+state: 'CO'
+county: 'Arapahoe County'
+fips: '08005'
 ---
 
 County commission agenda item matching detention pipeline keywords.

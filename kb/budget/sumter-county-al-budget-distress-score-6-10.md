@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Sumter County'
+fips: '01119'
 ---
 
 County-level fiscal distress indicators for Sumter County, AL.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Erie County'
+fips: '42049'
 ---
 
 287(g) agreement between ICE and Greene Township Constable’s Office.

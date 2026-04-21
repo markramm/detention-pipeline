@@ -7,6 +7,9 @@ tags:
 - tfm
 - ms
 importance: 5
+state: 'MS'
+county: 'Lamar County'
+fips: '28073'
 ---
 
 287(g) agreement between ICE and Sumrall Police Department.

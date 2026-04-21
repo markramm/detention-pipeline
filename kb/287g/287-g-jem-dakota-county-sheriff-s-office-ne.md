@@ -7,6 +7,9 @@ tags:
 - jem
 - ne
 importance: 5
+state: 'NE'
+county: 'Dakota County'
+fips: '31043'
 ---
 
 287(g) agreement between ICE and Dakota County Sheriff’s Office.

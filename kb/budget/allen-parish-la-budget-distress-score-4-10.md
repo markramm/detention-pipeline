@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Allen Parish'
+fips: '22003'
 ---
 
 County-level fiscal distress indicators for Allen Parish, LA.

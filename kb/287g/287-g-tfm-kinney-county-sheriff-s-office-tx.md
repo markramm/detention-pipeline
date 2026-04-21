@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Kinney County'
+fips: '48271'
 ---
 
 287(g) agreement between ICE and Kinney County Sheriff’s Office.

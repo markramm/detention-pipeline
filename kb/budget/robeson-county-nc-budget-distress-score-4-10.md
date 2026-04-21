@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Robeson County'
+fips: '37155'
 ---
 
 County-level fiscal distress indicators for Robeson County, NC.

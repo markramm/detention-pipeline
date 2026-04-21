@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Roberts County'
+fips: '46109'
 ---
 
 County-level fiscal distress indicators for Roberts County, SD.

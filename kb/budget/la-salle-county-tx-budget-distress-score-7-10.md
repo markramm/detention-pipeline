@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'La Salle County'
+fips: '48283'
 ---
 
 County-level fiscal distress indicators for La Salle County, TX.

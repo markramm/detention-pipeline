@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Columbiana County'
+fips: '39029'
 ---
 
 County-level fiscal distress indicators for Columbiana County, OH.

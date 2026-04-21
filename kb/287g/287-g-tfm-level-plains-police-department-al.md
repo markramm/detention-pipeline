@@ -7,6 +7,7 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
 ---
 
 287(g) agreement between ICE and Level Plains Police Department.

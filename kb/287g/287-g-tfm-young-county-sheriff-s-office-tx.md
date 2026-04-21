@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Young County'
+fips: '48503'
 ---
 
 287(g) agreement between ICE and Young County Sheriff’s Office.

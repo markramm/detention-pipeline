@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Dixie County'
+fips: '12029'
 ---
 
 287(g) agreement between ICE and Dixie County Sheriff’s Office.

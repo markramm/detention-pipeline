@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Haskell County'
+fips: '20081'
 ---
 
 County-level fiscal distress indicators for Haskell County, KS.

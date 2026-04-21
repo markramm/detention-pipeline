@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Halifax County'
+fips: '51083'
 ---
 
 County-level fiscal distress indicators for Halifax County, VA.

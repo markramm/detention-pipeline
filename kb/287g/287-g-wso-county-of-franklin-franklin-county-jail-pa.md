@@ -7,6 +7,9 @@ tags:
 - wso
 - pa
 importance: 5
+state: 'PA'
+county: 'Franklin County'
+fips: '42055'
 ---
 
 287(g) agreement between ICE and County of Franklin / Franklin County Jail.

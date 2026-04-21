@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Unicoi County'
+fips: '47171'
 ---
 
 287(g) agreement between ICE and Unicoi County Sheriff’s Office.

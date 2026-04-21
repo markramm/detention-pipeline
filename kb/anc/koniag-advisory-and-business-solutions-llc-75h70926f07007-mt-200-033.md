@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - mt
 importance: 5
+state: 'MT'
 ---
 
 USAspending contract award.

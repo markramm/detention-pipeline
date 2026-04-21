@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Monroe County'
+fips: '05095'
 ---
 
 County-level fiscal distress indicators for Monroe County, AR.

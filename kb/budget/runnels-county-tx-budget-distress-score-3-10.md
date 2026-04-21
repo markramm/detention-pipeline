@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Runnels County'
+fips: '48399'
 ---
 
 County-level fiscal distress indicators for Runnels County, TX.

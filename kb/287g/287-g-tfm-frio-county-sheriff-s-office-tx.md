@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Frio County'
+fips: '48163'
 ---
 
 287(g) agreement between ICE and Frio County Sheriff’s Office.

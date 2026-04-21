@@ -7,6 +7,9 @@ tags:
 - wso
 - wy
 importance: 5
+state: 'WY'
+county: 'Campbell County'
+fips: '56005'
 ---
 
 287(g) agreement between ICE and Campbell County Sheriff’s Office.

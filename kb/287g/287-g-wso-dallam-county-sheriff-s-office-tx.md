@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Dallam County'
+fips: '48111'
 ---
 
 287(g) agreement between ICE and Dallam County Sheriff’s Office.

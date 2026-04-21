@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Kerr County'
+fips: '48265'
 ---
 
 287(g) agreement between ICE and Kerr County Sheriff’s Office.

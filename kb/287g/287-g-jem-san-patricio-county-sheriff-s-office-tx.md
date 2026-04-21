@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'San Patricio County'
+fips: '48409'
 ---
 
 287(g) agreement between ICE and San Patricio County Sheriff’s Office.

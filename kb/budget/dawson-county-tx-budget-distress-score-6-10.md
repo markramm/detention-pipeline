@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Dawson County'
+fips: '48115'
 ---
 
 County-level fiscal distress indicators for Dawson County, TX.

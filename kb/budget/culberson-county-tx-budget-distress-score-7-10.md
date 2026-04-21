@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Culberson County'
+fips: '48109'
 ---
 
 County-level fiscal distress indicators for Culberson County, TX.

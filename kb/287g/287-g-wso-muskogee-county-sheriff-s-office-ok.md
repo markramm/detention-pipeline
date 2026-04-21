@@ -7,6 +7,9 @@ tags:
 - wso
 - ok
 importance: 5
+state: 'OK'
+county: 'Muskogee County'
+fips: '40101'
 ---
 
 287(g) agreement between ICE and Muskogee County Sheriff’s Office.

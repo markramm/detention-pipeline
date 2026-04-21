@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Jasper County'
+fips: '28061'
 ---
 
 County-level fiscal distress indicators for Jasper County, MS.

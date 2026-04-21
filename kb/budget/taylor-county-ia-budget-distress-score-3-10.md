@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Taylor County'
+fips: '19173'
 ---
 
 County-level fiscal distress indicators for Taylor County, IA.

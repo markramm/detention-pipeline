@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'De Witt County'
+fips: '17039'
 ---
 
 County-level fiscal distress indicators for De Witt County, IL.

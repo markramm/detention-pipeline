@@ -7,6 +7,9 @@ tags:
 - wso
 - id
 importance: 5
+state: 'ID'
+county: 'Power County'
+fips: '16077'
 ---
 
 287(g) agreement between ICE and Power County Sheriff’s Office.

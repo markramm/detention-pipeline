@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Furnas County'
+fips: '31065'
 ---
 
 County-level fiscal distress indicators for Furnas County, NE.

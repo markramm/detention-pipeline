@@ -3,7 +3,7 @@ id: woodbury-mn-warehouse-blocked
 title: "Woodbury MN — County Board and Owner Reject ICE Warehouse Unanimously"
 type: county-fight
 county: Washington
-state: Minnesota
+state: 'MN'
 facility: null
 status: blocked
 vote_tally: "Washington County Board unanimously opposed"
@@ -17,6 +17,7 @@ tags:
 - detention-reengineering
 - 200-protesters
 research_status: working
+fips: '27163'
 ---
 
 # Woodbury, Minnesota: Board and Owner Both Refused

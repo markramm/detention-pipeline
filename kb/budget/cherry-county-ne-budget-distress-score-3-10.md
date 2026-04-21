@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Cherry County'
+fips: '31031'
 ---
 
 County-level fiscal distress indicators for Cherry County, NE.

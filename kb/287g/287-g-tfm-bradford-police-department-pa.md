@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'McKean County'
+fips: '42083'
 ---
 
 287(g) agreement between ICE and Bradford Police Department.

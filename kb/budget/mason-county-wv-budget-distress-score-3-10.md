@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Mason County'
+fips: '54053'
 ---
 
 County-level fiscal distress indicators for Mason County, WV.

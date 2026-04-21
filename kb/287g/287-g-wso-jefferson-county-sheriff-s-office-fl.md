@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Jefferson County'
+fips: '12065'
 ---
 
 287(g) agreement between ICE and Jefferson County Sheriff’s Office.

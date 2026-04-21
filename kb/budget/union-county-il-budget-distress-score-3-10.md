@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Union County'
+fips: '17181'
 ---
 
 County-level fiscal distress indicators for Union County, IL.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Reno County'
+fips: '20155'
 ---
 
 County-level fiscal distress indicators for Reno County, KS.

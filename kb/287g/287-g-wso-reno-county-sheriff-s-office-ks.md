@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Reno County'
+fips: '20155'
 ---
 
 287(g) agreement between ICE and Reno County Sheriff’s office.

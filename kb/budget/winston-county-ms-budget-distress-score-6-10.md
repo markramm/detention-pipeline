@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Winston County'
+fips: '28159'
 ---
 
 County-level fiscal distress indicators for Winston County, MS.

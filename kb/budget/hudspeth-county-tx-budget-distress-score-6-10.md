@@ -9,6 +9,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'TX'
+county: 'Hudspeth County'
+fips: '48229'
 ---
 
 County-level fiscal distress indicators for Hudspeth County, TX.

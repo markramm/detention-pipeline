@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Red River County'
+fips: '48387'
 ---
 
 County-level fiscal distress indicators for Red River County, TX.

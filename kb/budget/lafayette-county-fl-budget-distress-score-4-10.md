@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'Lafayette County'
+fips: '12067'
 ---
 
 County-level fiscal distress indicators for Lafayette County, FL.

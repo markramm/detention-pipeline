@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Robertson County'
+fips: '47147'
 ---
 
 287(g) agreement between ICE and Robertson County Sheriff’s Office.

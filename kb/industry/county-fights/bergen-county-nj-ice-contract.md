@@ -3,7 +3,7 @@ id: bergen-county-nj-ice-contract
 title: "Bergen County NJ — ICE Jail Contract Lawsuit Enters Year 3"
 type: county-fight
 county: Bergen
-state: New Jersey
+state: 'NJ'
 facility: "Bergen County Jail, Hackensack NJ"
 status: contested
 vote_tally: ""
@@ -17,6 +17,7 @@ tags:
 - new-jersey
 - mediation-failed
 research_status: working
+fips: '34003'
 ---
 
 # Bergen County, NJ: ICE Jail Contract Fight

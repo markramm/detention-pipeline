@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Keith County'
+fips: '31101'
 ---
 
 County-level fiscal distress indicators for Keith County, NE.

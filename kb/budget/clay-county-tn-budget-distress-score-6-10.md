@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Clay County'
+fips: '47027'
 ---
 
 County-level fiscal distress indicators for Clay County, TN.

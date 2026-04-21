@@ -7,6 +7,9 @@ tags:
 - ks
 - persistent-poverty
 importance: 5
+state: 'KS'
+county: 'Riley County'
+fips: '20161'
 ---
 
 County-level fiscal distress indicators for Riley County, KS.

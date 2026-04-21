@@ -7,6 +7,9 @@ tags:
 - tx
 - strong
 importance: 5
+state: 'TX'
+county: 'El Paso County'
+fips: '48141'
 ---
 
 County commission agenda item matching detention pipeline keywords.

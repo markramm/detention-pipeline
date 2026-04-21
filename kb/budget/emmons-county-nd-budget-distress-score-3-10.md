@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Emmons County'
+fips: '38029'
 ---
 
 County-level fiscal distress indicators for Emmons County, ND.

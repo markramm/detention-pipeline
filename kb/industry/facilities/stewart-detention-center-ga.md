@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "Lumpkin, GA"
 county: "Stewart"
-state: "Georgia"
+state: 'GA'
 capacity: "2,000+"
 operator: "CoreCivic"
 contract_type: IGSA
@@ -20,6 +20,7 @@ tags:
 - economic-capture
 - conditions-abuse
 research_status: working
+fips: '13259'
 ---
 
 # Stewart Detention Center — One of the Deadliest in the Country

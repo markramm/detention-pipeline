@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Manatee County'
+fips: '12081'
 ---
 
 287(g) agreement between ICE and Manatee County Sheriff’s Office.

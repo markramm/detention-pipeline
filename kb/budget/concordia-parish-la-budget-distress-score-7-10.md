@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Concordia Parish'
+fips: '22029'
 ---
 
 County-level fiscal distress indicators for Concordia Parish, LA.

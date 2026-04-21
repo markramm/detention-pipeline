@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Waushara County'
+fips: '55137'
 ---
 
 287(g) agreement between ICE and Waushara County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Palm Beach County'
+fips: '12099'
 ---
 
 287(g) agreement between ICE and Palm Beach County Sheriff’s Office.

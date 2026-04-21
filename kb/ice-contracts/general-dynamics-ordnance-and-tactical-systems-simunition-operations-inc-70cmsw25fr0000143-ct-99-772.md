@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ct
 importance: 5
+state: 'CT'
 ---
 
 ICE contract award.

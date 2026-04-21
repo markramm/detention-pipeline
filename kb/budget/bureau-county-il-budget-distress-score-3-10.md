@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Bureau County'
+fips: '17011'
 ---
 
 County-level fiscal distress indicators for Bureau County, IL.

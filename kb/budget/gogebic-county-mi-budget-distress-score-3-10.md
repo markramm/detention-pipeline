@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Gogebic County'
+fips: '26053'
 ---
 
 County-level fiscal distress indicators for Gogebic County, MI.

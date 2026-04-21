@@ -7,6 +7,9 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Yancey County'
+fips: '37199'
 ---
 
 287(g) agreement between ICE and Yancey County Sheriff’s Office.

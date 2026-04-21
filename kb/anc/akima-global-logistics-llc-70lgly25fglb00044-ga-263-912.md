@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ga
 importance: 5
+state: 'GA'
 ---
 
 USAspending contract award.

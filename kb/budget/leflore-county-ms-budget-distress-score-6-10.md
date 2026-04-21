@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Leflore County'
+fips: '28083'
 ---
 
 County-level fiscal distress indicators for Leflore County, MS.

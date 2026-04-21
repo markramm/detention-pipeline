@@ -7,6 +7,9 @@ tags:
 - jem
 - ky
 importance: 5
+state: 'KY'
+county: 'Grayson County'
+fips: '21085'
 ---
 
 287(g) agreement between ICE and Grayson County Detention Center.

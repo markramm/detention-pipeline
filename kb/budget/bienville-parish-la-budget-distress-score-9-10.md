@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Bienville Parish'
+fips: '22013'
 ---
 
 County-level fiscal distress indicators for Bienville Parish, LA.

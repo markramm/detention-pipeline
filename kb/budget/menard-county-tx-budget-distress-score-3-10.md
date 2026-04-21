@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Menard County'
+fips: '48327'
 ---
 
 County-level fiscal distress indicators for Menard County, TX.

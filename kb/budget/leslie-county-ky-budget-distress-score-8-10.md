@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Leslie County'
+fips: '21131'
 ---
 
 County-level fiscal distress indicators for Leslie County, KY.

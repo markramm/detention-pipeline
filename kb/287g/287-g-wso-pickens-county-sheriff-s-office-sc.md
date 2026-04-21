@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Pickens County'
+fips: '45077'
 ---
 
 287(g) agreement between ICE and Pickens County Sheriff’s Office.

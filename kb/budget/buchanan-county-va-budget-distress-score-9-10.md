@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Buchanan County'
+fips: '51027'
 ---
 
 County-level fiscal distress indicators for Buchanan County, VA.

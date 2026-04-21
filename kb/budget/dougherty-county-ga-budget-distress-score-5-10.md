@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - population-loss
 importance: 5
+state: 'GA'
+county: 'Dougherty County'
+fips: '13095'
 ---
 
 County-level fiscal distress indicators for Dougherty County, GA.

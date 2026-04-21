@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Grundy County'
+fips: '47061'
 ---
 
 County-level fiscal distress indicators for Grundy County, TN.

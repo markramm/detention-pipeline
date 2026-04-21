@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Phelps County'
+fips: '29161'
 ---
 
 287(g) agreement between ICE and Phelps County Sheriff’s Department.

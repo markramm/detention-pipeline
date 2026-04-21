@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Real County'
+fips: '48385'
 ---
 
 287(g) agreement between ICE and Real County Sheriff’s Office.

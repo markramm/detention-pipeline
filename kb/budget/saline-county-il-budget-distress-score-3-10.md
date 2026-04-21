@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Saline County'
+fips: '17165'
 ---
 
 County-level fiscal distress indicators for Saline County, IL.

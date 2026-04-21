@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Luzerne County'
+fips: '42079'
 ---
 
 287(g) agreement between ICE and Luzerne County District Attorney’s Office.

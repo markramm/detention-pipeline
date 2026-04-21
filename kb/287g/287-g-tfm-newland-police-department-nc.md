@@ -7,6 +7,9 @@ tags:
 - tfm
 - nc
 importance: 5
+state: 'NC'
+county: 'Avery County'
+fips: '37011'
 ---
 
 287(g) agreement between ICE and Newland Police Department.

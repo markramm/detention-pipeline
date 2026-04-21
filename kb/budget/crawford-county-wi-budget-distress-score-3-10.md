@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Crawford County'
+fips: '55023'
 ---
 
 County-level fiscal distress indicators for Crawford County, WI.

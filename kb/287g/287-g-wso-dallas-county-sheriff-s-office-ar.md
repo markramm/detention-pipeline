@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Dallas County'
+fips: '05039'
 ---
 
 287(g) agreement between ICE and Dallas County Sheriff’s Office.

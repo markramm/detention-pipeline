@@ -22,6 +22,7 @@ tags:
 - sheriff-led
 - community-opposition
 research_status: working
+fips: '12007'
 ---
 
 # Bradford County ICE Detention Campus (Douglas Building)

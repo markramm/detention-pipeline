@@ -7,6 +7,9 @@ tags:
 - tfm
 - ne
 importance: 5
+state: 'NE'
+county: 'Sioux County'
+fips: '31165'
 ---
 
 287(g) agreement between ICE and Sioux County Sheriff’s Office.

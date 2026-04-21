@@ -7,6 +7,9 @@ tags:
 - jem
 - mo
 importance: 5
+state: 'MO'
+county: 'Callaway County'
+fips: '29027'
 ---
 
 287(g) agreement between ICE and Callaway County Sheriff’s Office.

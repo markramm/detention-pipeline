@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Athens County'
+fips: '39009'
 ---
 
 County-level fiscal distress indicators for Athens County, OH.

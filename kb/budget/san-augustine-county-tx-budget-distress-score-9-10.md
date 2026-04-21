@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'San Augustine County'
+fips: '48405'
 ---
 
 County-level fiscal distress indicators for San Augustine County, TX.

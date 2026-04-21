@@ -7,6 +7,9 @@ tags:
 - tfm
 - nd
 importance: 5
+state: 'ND'
+county: 'Ramsey County'
+fips: '38071'
 ---
 
 287(g) agreement between ICE and Ramsey County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Ozark County'
+fips: '29153'
 ---
 
 287(g) agreement between ICE and Ozark County Sheriff’s Office.

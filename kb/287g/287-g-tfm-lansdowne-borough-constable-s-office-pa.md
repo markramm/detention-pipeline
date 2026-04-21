@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Delaware County'
+fips: '42045'
 ---
 
 287(g) agreement between ICE and Lansdowne Borough Constable’s Office.

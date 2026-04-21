@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Hooker County'
+fips: '31091'
 ---
 
 County-level fiscal distress indicators for Hooker County, NE.

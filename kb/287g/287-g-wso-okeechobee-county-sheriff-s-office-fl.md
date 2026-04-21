@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Okeechobee County'
+fips: '12093'
 ---
 
 287(g) agreement between ICE and Okeechobee County Sheriff’s Office.

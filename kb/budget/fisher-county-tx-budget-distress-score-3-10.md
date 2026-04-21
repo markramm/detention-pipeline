@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Fisher County'
+fips: '48151'
 ---
 
 County-level fiscal distress indicators for Fisher County, TX.

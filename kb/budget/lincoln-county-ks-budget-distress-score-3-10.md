@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Lincoln County'
+fips: '20105'
 ---
 
 County-level fiscal distress indicators for Lincoln County, KS.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Wheatland County'
+fips: '30107'
 ---
 
 County-level fiscal distress indicators for Wheatland County, MT.

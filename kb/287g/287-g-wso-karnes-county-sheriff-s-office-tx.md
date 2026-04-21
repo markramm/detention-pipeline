@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Karnes County'
+fips: '48255'
 ---
 
 287(g) agreement between ICE and Karnes County Sheriff’s Office.

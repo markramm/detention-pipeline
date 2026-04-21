@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Sioux County'
+fips: '31165'
 ---
 
 County-level fiscal distress indicators for Sioux County, NE.

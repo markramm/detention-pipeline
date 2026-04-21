@@ -7,6 +7,9 @@ tags:
 - jem
 - ga
 importance: 5
+state: 'GA'
+county: 'Polk County'
+fips: '13233'
 ---
 
 287(g) agreement between ICE and Polk County Sheriff’s Office.

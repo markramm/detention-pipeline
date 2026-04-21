@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Red Lake County'
+fips: '27125'
 ---
 
 County-level fiscal distress indicators for Red Lake County, MN.

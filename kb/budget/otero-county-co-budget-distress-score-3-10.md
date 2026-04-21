@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Otero County'
+fips: '08089'
 ---
 
 County-level fiscal distress indicators for Otero County, CO.

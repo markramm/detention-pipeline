@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Humphreys County'
+fips: '28053'
 ---
 
 County-level fiscal distress indicators for Humphreys County, MS.

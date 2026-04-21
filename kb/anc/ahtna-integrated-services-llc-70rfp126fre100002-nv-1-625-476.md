@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - nv
 importance: 5
+state: 'NV'
 ---
 
 USAspending contract award.

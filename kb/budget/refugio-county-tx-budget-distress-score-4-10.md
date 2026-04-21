@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Refugio County'
+fips: '48391'
 ---
 
 County-level fiscal distress indicators for Refugio County, TX.

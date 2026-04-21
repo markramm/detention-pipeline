@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Toole County'
+fips: '30101'
 ---
 
 County-level fiscal distress indicators for Toole County, MT.

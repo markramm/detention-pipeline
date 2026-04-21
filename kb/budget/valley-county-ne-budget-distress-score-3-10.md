@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Valley County'
+fips: '31175'
 ---
 
 County-level fiscal distress indicators for Valley County, NE.

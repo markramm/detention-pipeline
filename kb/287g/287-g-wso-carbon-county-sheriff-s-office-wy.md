@@ -7,6 +7,9 @@ tags:
 - wso
 - wy
 importance: 5
+state: 'WY'
+county: 'Carbon County'
+fips: '56007'
 ---
 
 287(g) agreement between ICE and Carbon County Sheriff’s Office.

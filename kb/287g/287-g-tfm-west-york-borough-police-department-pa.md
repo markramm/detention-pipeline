@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'York County'
+fips: '42133'
 ---
 
 287(g) agreement between ICE and West York Borough Police Department.

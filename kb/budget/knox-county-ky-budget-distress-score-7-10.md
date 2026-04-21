@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Knox County'
+fips: '21121'
 ---
 
 County-level fiscal distress indicators for Knox County, KY.

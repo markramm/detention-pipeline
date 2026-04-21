@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Traill County'
+fips: '38097'
 ---
 
 County-level fiscal distress indicators for Traill County, ND.

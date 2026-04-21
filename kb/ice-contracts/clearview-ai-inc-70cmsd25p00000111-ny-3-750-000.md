@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ny
 importance: 5
+state: 'NY'
 ---
 
 ICE contract award.

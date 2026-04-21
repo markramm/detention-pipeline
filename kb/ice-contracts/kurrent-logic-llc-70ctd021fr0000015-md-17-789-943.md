@@ -8,6 +8,7 @@ tags:
 - other-ice
 - md
 importance: 5
+state: 'MD'
 ---
 
 ICE contract award.

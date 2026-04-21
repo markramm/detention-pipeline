@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Sauk County'
+fips: '55111'
 ---
 
 287(g) agreement between ICE and Sauk County Sheriff’s Office.

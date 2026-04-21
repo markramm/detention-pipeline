@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'San Saba County'
+fips: '48411'
 ---
 
 County-level fiscal distress indicators for San Saba County, TX.

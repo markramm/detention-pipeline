@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Macon County'
+fips: '47111'
 ---
 
 287(g) agreement between ICE and Macon County Sheriff’s Office.

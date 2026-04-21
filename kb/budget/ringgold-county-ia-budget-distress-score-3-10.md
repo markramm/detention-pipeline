@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Ringgold County'
+fips: '19159'
 ---
 
 County-level fiscal distress indicators for Ringgold County, IA.

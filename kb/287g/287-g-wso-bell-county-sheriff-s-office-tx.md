@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Bell County'
+fips: '48027'
 ---
 
 287(g) agreement between ICE and Bell County Sheriff’s Office.

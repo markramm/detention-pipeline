@@ -8,6 +8,7 @@ tags:
 - detention-related
 - ct
 importance: 5
+state: 'CT'
 ---
 
 ICE contract award.

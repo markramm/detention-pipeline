@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'LaMoure County'
+fips: '38045'
 ---
 
 County-level fiscal distress indicators for LaMoure County, ND.

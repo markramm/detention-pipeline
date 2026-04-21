@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'TX'
+county: 'Garza County'
+fips: '48169'
 ---
 
 County-level fiscal distress indicators for Garza County, TX.

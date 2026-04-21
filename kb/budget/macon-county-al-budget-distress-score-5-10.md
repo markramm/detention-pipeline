@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - population-loss
 importance: 5
+state: 'AL'
+county: 'Macon County'
+fips: '01087'
 ---
 
 County-level fiscal distress indicators for Macon County, AL.

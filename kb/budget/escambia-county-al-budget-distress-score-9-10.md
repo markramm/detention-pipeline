@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Escambia County'
+fips: '01053'
 ---
 
 County-level fiscal distress indicators for Escambia County, AL.

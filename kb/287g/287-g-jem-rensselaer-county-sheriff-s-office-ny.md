@@ -7,6 +7,9 @@ tags:
 - jem
 - ny
 importance: 5
+state: 'NY'
+county: 'Rensselaer County'
+fips: '36083'
 ---
 
 287(g) agreement between ICE and Rensselaer County Sheriff’s Office.

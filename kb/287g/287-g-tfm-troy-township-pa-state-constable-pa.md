@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Bradford County'
+fips: '42015'
 ---
 
 287(g) agreement between ICE and Troy Township PA State Constable.

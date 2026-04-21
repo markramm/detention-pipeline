@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Dade County'
+fips: '13083'
 ---
 
 287(g) agreement between ICE and Dade County Sheriff’s Office.

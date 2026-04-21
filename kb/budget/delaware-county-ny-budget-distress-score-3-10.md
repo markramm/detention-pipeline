@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NY'
+county: 'Delaware County'
+fips: '36025'
 ---
 
 County-level fiscal distress indicators for Delaware County, NY.

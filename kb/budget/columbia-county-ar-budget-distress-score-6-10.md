@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Columbia County'
+fips: '05027'
 ---
 
 County-level fiscal distress indicators for Columbia County, AR.

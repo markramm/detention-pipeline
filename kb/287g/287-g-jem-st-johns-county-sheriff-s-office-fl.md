@@ -7,6 +7,9 @@ tags:
 - jem
 - fl
 importance: 5
+state: 'FL'
+county: 'St. Johns County'
+fips: '12109'
 ---
 
 287(g) agreement between ICE and St. Johns County Sheriff’s Office.

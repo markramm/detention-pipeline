@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Branch County'
+fips: '26023'
 ---
 
 County-level fiscal distress indicators for Branch County, MI.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Sterling County'
+fips: '48431'
 ---
 
 287(g) agreement between ICE and Sterling County Sheriff’s Office.

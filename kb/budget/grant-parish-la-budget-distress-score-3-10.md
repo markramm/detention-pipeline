@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'LA'
+county: 'Grant Parish'
+fips: '22043'
 ---
 
 County-level fiscal distress indicators for Grant Parish, LA.

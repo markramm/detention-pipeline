@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "Marana Community Correctional Treatment Facility, Marana, AZ (Pima County)"
 county: "Pima"
-state: "Arizona"
+state: 'AZ'
 fips: "04019"
 capacity: "513 (procurement order seeks 775)"
 operator: "Management & Training Corporation (MTC)"

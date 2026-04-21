@@ -7,6 +7,9 @@ tags:
 - la
 - persistent-poverty
 importance: 5
+state: 'LA'
+county: 'Orleans Parish'
+fips: '22071'
 ---
 
 County-level fiscal distress indicators for Orleans Parish, LA.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Chase County'
+fips: '20017'
 ---
 
 County-level fiscal distress indicators for Chase County, KS.

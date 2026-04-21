@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Rockcastle County'
+fips: '21203'
 ---
 
 County-level fiscal distress indicators for Rockcastle County, KY.

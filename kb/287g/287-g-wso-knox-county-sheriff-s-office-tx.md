@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Knox County'
+fips: '48275'
 ---
 
 287(g) agreement between ICE and Knox County Sheriff’s Office.

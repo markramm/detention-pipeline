@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Hampshire County'
+fips: '54027'
 ---
 
 287(g) agreement between ICE and Hampshire County Sheriff’s Office.

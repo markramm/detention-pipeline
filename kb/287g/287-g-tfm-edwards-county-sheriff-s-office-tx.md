@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Edwards County'
+fips: '48137'
 ---
 
 287(g) agreement between ICE and Edwards County Sheriff’s Office.

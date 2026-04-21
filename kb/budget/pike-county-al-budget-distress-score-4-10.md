@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Pike County'
+fips: '01109'
 ---
 
 County-level fiscal distress indicators for Pike County, AL.

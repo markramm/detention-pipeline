@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Mercer County'
+fips: '38057'
 ---
 
 County-level fiscal distress indicators for Mercer County, ND.

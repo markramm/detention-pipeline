@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Rutherford County'
+fips: '47149'
 ---
 
 287(g) agreement between ICE and Rutherford County Sheriff’s Office.

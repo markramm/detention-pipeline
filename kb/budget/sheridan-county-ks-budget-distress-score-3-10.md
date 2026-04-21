@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Sheridan County'
+fips: '20179'
 ---
 
 County-level fiscal distress indicators for Sheridan County, KS.

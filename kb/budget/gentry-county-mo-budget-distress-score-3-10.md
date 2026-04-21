@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Gentry County'
+fips: '29075'
 ---
 
 County-level fiscal distress indicators for Gentry County, MO.

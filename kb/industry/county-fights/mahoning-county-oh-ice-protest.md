@@ -11,6 +11,7 @@ importance: 7
 tags: [community-opposition, protest, deportation-flights, youngstown, ohio]
 research_status: working
 last_researched: "2026-04-12"
+fips: '39099'
 ---
 
 # Mahoning County: Community Opposition to Youngstown Deportation Hub

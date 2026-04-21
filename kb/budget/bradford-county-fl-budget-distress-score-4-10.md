@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'Bradford County'
+fips: '12007'
 ---
 
 County-level fiscal distress indicators for Bradford County, FL.

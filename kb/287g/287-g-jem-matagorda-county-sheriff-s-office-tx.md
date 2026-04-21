@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Matagorda County'
+fips: '48321'
 ---
 
 287(g) agreement between ICE and Matagorda County Sheriff’s Office.

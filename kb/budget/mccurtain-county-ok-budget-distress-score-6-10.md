@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'McCurtain County'
+fips: '40089'
 ---
 
 County-level fiscal distress indicators for McCurtain County, OK.

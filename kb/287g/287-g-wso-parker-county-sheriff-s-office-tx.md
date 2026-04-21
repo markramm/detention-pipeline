@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Parker County'
+fips: '48367'
 ---
 
 287(g) agreement between ICE and Parker County Sheriff’s Office.

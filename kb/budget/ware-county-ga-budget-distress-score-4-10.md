@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Ware County'
+fips: '13299'
 ---
 
 County-level fiscal distress indicators for Ware County, GA.

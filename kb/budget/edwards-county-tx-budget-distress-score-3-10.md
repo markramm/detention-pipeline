@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Edwards County'
+fips: '48137'
 ---
 
 County-level fiscal distress indicators for Edwards County, TX.

@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "508 Waterworks Road, Farmville, VA 23901"
 county: "Prince Edward"
-state: "Virginia"
+state: 'VA'
 capacity: "732"
 operator: "CoreCivic (acquired from ICA July 1, 2025 for $71.4M)"
 contract_type: IGSA
@@ -24,6 +24,7 @@ tags:
 - near-capacity
 - farmville
 research_status: working
+fips: '51147'
 ---
 
 # Farmville Detention Center — CoreCivic's $71.4M Acquisition

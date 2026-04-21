@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Sanborn County'
+fips: '46111'
 ---
 
 County-level fiscal distress indicators for Sanborn County, SD.

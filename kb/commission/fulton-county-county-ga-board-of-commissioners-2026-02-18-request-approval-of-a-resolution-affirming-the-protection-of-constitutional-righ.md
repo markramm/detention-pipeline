@@ -7,6 +7,9 @@ tags:
 - ga
 - moderate
 importance: 5
+state: 'GA'
+county: 'Fulton County'
+fips: '13121'
 ---
 
 County commission agenda item matching detention pipeline keywords.

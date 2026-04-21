@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Stone County'
+fips: '29209'
 ---
 
 287(g) agreement between ICE and Crane Police Department.

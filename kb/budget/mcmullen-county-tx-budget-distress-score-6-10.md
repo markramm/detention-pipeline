@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'McMullen County'
+fips: '48311'
 ---
 
 County-level fiscal distress indicators for McMullen County, TX.

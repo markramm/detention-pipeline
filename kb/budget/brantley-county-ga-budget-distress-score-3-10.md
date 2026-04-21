@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'GA'
+county: 'Brantley County'
+fips: '13025'
 ---
 
 County-level fiscal distress indicators for Brantley County, GA.

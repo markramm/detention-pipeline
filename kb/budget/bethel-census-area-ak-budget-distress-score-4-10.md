@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AK'
+county: 'Bethel Census Area'
+fips: '02050'
 ---
 
 County-level fiscal distress indicators for Bethel Census Area, AK.

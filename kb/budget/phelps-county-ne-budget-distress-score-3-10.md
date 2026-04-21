@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Phelps County'
+fips: '31137'
 ---
 
 County-level fiscal distress indicators for Phelps County, NE.

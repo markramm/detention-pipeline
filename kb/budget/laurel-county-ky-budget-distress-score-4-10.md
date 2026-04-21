@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Laurel County'
+fips: '21125'
 ---
 
 County-level fiscal distress indicators for Laurel County, KY.

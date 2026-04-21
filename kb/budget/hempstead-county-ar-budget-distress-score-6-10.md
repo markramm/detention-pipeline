@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Hempstead County'
+fips: '05057'
 ---
 
 County-level fiscal distress indicators for Hempstead County, AR.

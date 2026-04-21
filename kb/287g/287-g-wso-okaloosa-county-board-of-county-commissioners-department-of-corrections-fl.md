@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Okaloosa County'
+fips: '12091'
 ---
 
 287(g) agreement between ICE and Okaloosa County Board of County Commissioners/ Department of Corrections.

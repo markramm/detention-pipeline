@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Knox County'
+fips: '29103'
 ---
 
 County-level fiscal distress indicators for Knox County, MO.

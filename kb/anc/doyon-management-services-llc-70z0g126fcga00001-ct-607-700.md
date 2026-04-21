@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ct
 importance: 5
+state: 'CT'
 ---
 
 USAspending contract award.

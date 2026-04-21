@@ -7,6 +7,9 @@ tags:
 - wso
 - ms
 importance: 5
+state: 'MS'
+county: 'Harrison County'
+fips: '28047'
 ---
 
 287(g) agreement between ICE and Harrison County Sheriff’s Office.

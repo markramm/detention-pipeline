@@ -7,6 +7,9 @@ tags:
 - tfm
 - wi
 importance: 5
+state: 'WI'
+county: 'Jefferson County'
+fips: '55055'
 ---
 
 287(g) agreement between ICE and Palmyra Police Department.

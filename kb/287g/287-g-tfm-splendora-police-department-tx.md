@@ -7,6 +7,7 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
 ---
 
 287(g) agreement between ICE and Splendora Police Department.

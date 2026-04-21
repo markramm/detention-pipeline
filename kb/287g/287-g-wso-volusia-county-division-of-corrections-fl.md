@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Volusia County'
+fips: '12127'
 ---
 
 287(g) agreement between ICE and Volusia County Division of Corrections.

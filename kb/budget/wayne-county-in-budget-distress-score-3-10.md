@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Wayne County'
+fips: '18177'
 ---
 
 County-level fiscal distress indicators for Wayne County, IN.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Washington County'
+fips: '42125'
 ---
 
 287(g) agreement between ICE and Union Township Police Department.

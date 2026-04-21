@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Trego County'
+fips: '20195'
 ---
 
 County-level fiscal distress indicators for Trego County, KS.

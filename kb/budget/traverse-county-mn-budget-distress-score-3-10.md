@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Traverse County'
+fips: '27155'
 ---
 
 County-level fiscal distress indicators for Traverse County, MN.

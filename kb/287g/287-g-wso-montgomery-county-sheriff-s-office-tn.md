@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Montgomery County'
+fips: '47125'
 ---
 
 287(g) agreement between ICE and Montgomery County Sheriff’s Office.

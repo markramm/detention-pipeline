@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Socorro County'
+fips: '35053'
 ---
 
 County-level fiscal distress indicators for Socorro County, NM.

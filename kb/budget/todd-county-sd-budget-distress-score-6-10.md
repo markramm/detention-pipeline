@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Todd County'
+fips: '46121'
 ---
 
 County-level fiscal distress indicators for Todd County, SD.

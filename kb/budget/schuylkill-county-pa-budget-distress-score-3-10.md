@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Schuylkill County'
+fips: '42107'
 ---
 
 County-level fiscal distress indicators for Schuylkill County, PA.

@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NM'
+county: 'San Miguel County'
+fips: '35047'
 ---
 
 County-level fiscal distress indicators for San Miguel County, NM.

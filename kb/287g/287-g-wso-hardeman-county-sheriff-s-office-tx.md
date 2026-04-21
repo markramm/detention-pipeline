@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Hardeman County'
+fips: '48197'
 ---
 
 287(g) agreement between ICE and Hardeman County Sheriff’s Office.

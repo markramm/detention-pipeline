@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Warren County'
+fips: '17187'
 ---
 
 County-level fiscal distress indicators for Warren County, IL.

@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Benton County'
+fips: '47005'
 ---
 
 County-level fiscal distress indicators for Benton County, TN.

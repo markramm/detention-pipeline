@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - la
 importance: 5
+state: 'LA'
 ---
 
 USAspending contract award.

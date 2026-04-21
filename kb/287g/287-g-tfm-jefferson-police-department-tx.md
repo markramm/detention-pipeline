@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Marion County'
+fips: '48315'
 ---
 
 287(g) agreement between ICE and Jefferson Police Department.

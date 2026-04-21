@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Pike County'
+fips: '21195'
 ---
 
 County-level fiscal distress indicators for Pike County, KY.

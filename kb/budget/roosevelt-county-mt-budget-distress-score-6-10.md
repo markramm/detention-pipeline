@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Roosevelt County'
+fips: '30085'
 ---
 
 County-level fiscal distress indicators for Roosevelt County, MT.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Crawford County'
+fips: '17033'
 ---
 
 County-level fiscal distress indicators for Crawford County, IL.

@@ -8,6 +8,7 @@ tags:
 - detention-related
 - tx
 importance: 5
+state: 'TX'
 ---
 
 ICE contract award.

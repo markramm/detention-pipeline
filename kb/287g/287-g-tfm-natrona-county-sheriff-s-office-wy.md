@@ -7,6 +7,9 @@ tags:
 - tfm
 - wy
 importance: 5
+state: 'WY'
+county: 'Natrona County'
+fips: '56025'
 ---
 
 287(g) agreement between ICE and Natrona County Sheriff’s Office.

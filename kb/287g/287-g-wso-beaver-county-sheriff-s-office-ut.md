@@ -7,6 +7,9 @@ tags:
 - wso
 - ut
 importance: 5
+state: 'UT'
+county: 'Beaver County'
+fips: '49001'
 ---
 
 287(g) agreement between ICE and Beaver County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Santa Rosa County'
+fips: '12113'
 ---
 
 287(g) agreement between ICE and Milton Police Department.

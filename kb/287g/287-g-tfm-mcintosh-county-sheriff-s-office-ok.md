@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'McIntosh County'
+fips: '40091'
 ---
 
 287(g) agreement between ICE and McIntosh County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wso
 - sd
 importance: 5
+state: 'SD'
+county: 'Hughes County'
+fips: '46065'
 ---
 
 287(g) agreement between ICE and Hughes County Sheriff’s Office.

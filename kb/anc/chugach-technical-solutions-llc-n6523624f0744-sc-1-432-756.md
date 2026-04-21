@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - sc
 importance: 5
+state: 'SC'
 ---
 
 USAspending contract award.

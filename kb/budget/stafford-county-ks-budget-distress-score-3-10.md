@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Stafford County'
+fips: '20185'
 ---
 
 County-level fiscal distress indicators for Stafford County, KS.

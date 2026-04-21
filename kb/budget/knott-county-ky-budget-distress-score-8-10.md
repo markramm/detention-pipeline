@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Knott County'
+fips: '21119'
 ---
 
 County-level fiscal distress indicators for Knott County, KY.

@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'AL'
+county: 'Bibb County'
+fips: '01007'
 ---
 
 County-level fiscal distress indicators for Bibb County, AL.

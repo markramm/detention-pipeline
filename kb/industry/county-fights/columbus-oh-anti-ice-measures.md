@@ -11,6 +11,7 @@ importance: 8
 tags: [operation-buckeye, columbus, sanctuary, 287g-ban, moratorium, courthouse-arrests, ohio]
 research_status: working
 last_researched: "2026-04-13"
+fips: '39049'
 ---
 
 # Columbus/Franklin County: Anti-ICE Measures After Operation Buckeye

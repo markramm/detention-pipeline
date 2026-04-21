@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Sevier County'
+fips: '47155'
 ---
 
 287(g) agreement between ICE and Sevier County Sheriff’s Office.

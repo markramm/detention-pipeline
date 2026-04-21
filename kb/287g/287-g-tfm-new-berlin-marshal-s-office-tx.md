@@ -7,6 +7,8 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Guadalupe Conty'
 ---
 
 287(g) agreement between ICE and New Berlin Marshal’s Office.

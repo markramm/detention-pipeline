@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Lewis County'
+fips: '21135'
 ---
 
 County-level fiscal distress indicators for Lewis County, KY.

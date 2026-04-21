@@ -7,6 +7,9 @@ tags:
 - wi
 - moderate
 importance: 5
+state: 'WI'
+county: 'Dane County'
+fips: '55025'
 ---
 
 County commission agenda item matching detention pipeline keywords.

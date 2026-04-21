@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Putnam County'
+fips: '39137'
 ---
 
 County-level fiscal distress indicators for Putnam County, OH.

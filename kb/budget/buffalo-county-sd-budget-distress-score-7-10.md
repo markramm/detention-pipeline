@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Buffalo County'
+fips: '46017'
 ---
 
 County-level fiscal distress indicators for Buffalo County, SD.

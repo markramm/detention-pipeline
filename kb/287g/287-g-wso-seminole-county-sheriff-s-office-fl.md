@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Seminole County'
+fips: '12117'
 ---
 
 287(g) agreement between ICE and Seminole County Sheriff’s Office.

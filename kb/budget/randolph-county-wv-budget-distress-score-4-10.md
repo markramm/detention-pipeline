@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Randolph County'
+fips: '54083'
 ---
 
 County-level fiscal distress indicators for Randolph County, WV.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Elbert County'
+fips: '13105'
 ---
 
 County-level fiscal distress indicators for Elbert County, GA.

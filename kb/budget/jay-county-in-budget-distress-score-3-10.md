@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Jay County'
+fips: '18075'
 ---
 
 County-level fiscal distress indicators for Jay County, IN.

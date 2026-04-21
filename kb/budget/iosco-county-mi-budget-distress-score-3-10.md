@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Iosco County'
+fips: '26069'
 ---
 
 County-level fiscal distress indicators for Iosco County, MI.

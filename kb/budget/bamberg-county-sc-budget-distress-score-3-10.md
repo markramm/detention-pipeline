@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SC'
+county: 'Bamberg County'
+fips: '45009'
 ---
 
 County-level fiscal distress indicators for Bamberg County, SC.

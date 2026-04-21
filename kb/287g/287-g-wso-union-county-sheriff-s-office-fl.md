@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Union County'
+fips: '12125'
 ---
 
 287(g) agreement between ICE and Union County Sheriff’s Office.

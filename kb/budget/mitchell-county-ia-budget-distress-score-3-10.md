@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Mitchell County'
+fips: '19131'
 ---
 
 County-level fiscal distress indicators for Mitchell County, IA.

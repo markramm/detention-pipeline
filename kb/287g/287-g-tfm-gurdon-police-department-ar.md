@@ -7,6 +7,9 @@ tags:
 - tfm
 - ar
 importance: 5
+state: 'AR'
+county: 'Clark County'
+fips: '05019'
 ---
 
 287(g) agreement between ICE and Gurdon Police Department.

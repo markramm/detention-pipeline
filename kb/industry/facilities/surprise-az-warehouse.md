@@ -16,6 +16,7 @@ research_status: enriched
 purchase_price: "$70 million"
 estimated_value: "$12 million (2023)"
 markup: "~500%"
+fips: '04013'
 ---
 
 # Surprise AZ Warehouse — ICE Regional Processing Center

@@ -7,6 +7,9 @@ tags:
 - la
 - persistent-poverty
 importance: 5
+state: 'LA'
+county: 'Tangipahoa Parish'
+fips: '22105'
 ---
 
 County-level fiscal distress indicators for Tangipahoa Parish, LA.

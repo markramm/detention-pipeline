@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Covington city'
+fips: '51580'
 ---
 
 County-level fiscal distress indicators for Covington city, VA.

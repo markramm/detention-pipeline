@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Webster County'
+fips: '31181'
 ---
 
 County-level fiscal distress indicators for Webster County, NE.

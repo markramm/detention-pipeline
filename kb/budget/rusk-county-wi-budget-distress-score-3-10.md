@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Rusk County'
+fips: '55107'
 ---
 
 County-level fiscal distress indicators for Rusk County, WI.

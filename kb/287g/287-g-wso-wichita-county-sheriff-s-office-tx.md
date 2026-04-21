@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Wichita County'
+fips: '48485'
 ---
 
 287(g) agreement between ICE and Wichita County Sheriff’s Office.

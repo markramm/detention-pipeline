@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Lawrence County'
+fips: '28077'
 ---
 
 County-level fiscal distress indicators for Lawrence County, MS.

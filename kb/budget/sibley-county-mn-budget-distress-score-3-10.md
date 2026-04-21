@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Sibley County'
+fips: '27143'
 ---
 
 County-level fiscal distress indicators for Sibley County, MN.

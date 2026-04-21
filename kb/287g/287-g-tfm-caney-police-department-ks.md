@@ -7,6 +7,9 @@ tags:
 - tfm
 - ks
 importance: 5
+state: 'KS'
+county: 'Montgomery'
+fips: '20125'
 ---
 
 287(g) agreement between ICE and Caney Police Department.

@@ -7,6 +7,7 @@ tags:
 - national
 - sabot-consulting
 importance: 5
+state: 'US'
 ---
 
 Job posting: Project Manager - Detention & Corrections

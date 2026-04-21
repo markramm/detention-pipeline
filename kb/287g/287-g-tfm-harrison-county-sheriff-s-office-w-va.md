@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Harrison County'
+fips: '54033'
 ---
 
 287(g) agreement between ICE and Harrison County Sheriff’s Office.

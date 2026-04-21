@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'WV'
+county: 'Fayette County'
+fips: '54019'
 ---
 
 County-level fiscal distress indicators for Fayette County, WV.

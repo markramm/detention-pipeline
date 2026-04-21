@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Bon Homme County'
+fips: '46009'
 ---
 
 County-level fiscal distress indicators for Bon Homme County, SD.

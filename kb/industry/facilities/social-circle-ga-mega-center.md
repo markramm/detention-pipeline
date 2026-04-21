@@ -16,6 +16,7 @@ research_status: enriched
 purchase_price: "$129 million"
 estimated_value: "$29 million"
 markup: "333%"
+fips: '13297'
 ---
 
 # Social Circle GA Warehouse — ICE Mega Detention Center

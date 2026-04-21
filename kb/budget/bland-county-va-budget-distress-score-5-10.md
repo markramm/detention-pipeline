@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Bland County'
+fips: '51021'
 ---
 
 County-level fiscal distress indicators for Bland County, VA.

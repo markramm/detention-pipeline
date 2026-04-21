@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Hamilton County'
+fips: '12047'
 ---
 
 287(g) agreement between ICE and Hamilton County Sheriff’s Office.

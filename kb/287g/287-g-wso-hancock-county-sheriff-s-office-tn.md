@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Hancock County'
+fips: '47067'
 ---
 
 287(g) agreement between ICE and Hancock County Sheriff’s Office.

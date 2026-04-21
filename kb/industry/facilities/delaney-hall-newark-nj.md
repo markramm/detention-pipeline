@@ -16,6 +16,7 @@ opened: "2025-05-01"
 importance: 9
 tags: [private-prison, geo-group, new-jersey, newark, essex-county, reactivated, billion-dollar-contract, conditions-abuse, detainee-death, mayor-arrest, escape, largest-east-coast]
 research_status: working
+fips: '34013'
 ---
 
 # Delaney Hall — Newark NJ GEO Group ICE Facility

@@ -7,6 +7,9 @@ tags:
 - fl
 - strong
 importance: 5
+state: 'FL'
+county: 'Hernando County'
+fips: '12053'
 ---
 
 County commission agenda item matching detention pipeline keywords.

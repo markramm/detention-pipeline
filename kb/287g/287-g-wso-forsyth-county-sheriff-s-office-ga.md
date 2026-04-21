@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Forsyth County'
+fips: '13117'
 ---
 
 287(g) agreement between ICE and Forsyth County Sheriff’s Office.

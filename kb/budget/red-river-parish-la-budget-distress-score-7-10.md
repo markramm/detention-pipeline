@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Red River Parish'
+fips: '22081'
 ---
 
 County-level fiscal distress indicators for Red River Parish, LA.

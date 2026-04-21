@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Pinellas County'
+fips: '12103'
 ---
 
 287(g) agreement between ICE and Pinellas County Sheriff’s Office.

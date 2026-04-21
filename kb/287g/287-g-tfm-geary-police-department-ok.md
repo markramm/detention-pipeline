@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Blaine County'
+fips: '40011'
 ---
 
 287(g) agreement between ICE and Geary Police Department.

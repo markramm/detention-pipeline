@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Warren County'
+fips: '42123'
 ---
 
 County-level fiscal distress indicators for Warren County, PA.

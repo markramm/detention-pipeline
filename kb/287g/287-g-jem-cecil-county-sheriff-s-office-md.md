@@ -7,6 +7,9 @@ tags:
 - jem
 - md
 importance: 5
+state: 'MD'
+county: 'Cecil County'
+fips: '24015'
 ---
 
 287(g) agreement between ICE and Cecil County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Hancock County'
+fips: '17067'
 ---
 
 County-level fiscal distress indicators for Hancock County, IL.

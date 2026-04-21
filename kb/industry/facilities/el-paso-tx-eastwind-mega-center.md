@@ -13,6 +13,7 @@ status: under-construction
 importance: 9
 tags: [warehouse-conversion, detention-reengineering, mega-center, texas, el-paso, infrastructure-limits, water-crisis]
 research_status: stub
+fips: '48141'
 ---
 
 # El Paso TX Eastwind Logistics Center — ICE Mega Detention Center

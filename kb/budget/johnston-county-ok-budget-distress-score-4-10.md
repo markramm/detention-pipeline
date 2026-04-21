@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Johnston County'
+fips: '40069'
 ---
 
 County-level fiscal distress indicators for Johnston County, OK.

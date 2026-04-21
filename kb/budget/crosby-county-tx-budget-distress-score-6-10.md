@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
+state: 'TX'
+county: 'Crosby County'
+fips: '48107'
 ---
 
 County-level fiscal distress indicators for Crosby County, TX.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Mercer County'
+fips: '42085'
 ---
 
 287(g) agreement between ICE and Coolspring Township Constable’s Office.

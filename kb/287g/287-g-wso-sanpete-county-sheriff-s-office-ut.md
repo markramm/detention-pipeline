@@ -7,6 +7,9 @@ tags:
 - wso
 - ut
 importance: 5
+state: 'UT'
+county: 'Sanpete County'
+fips: '49039'
 ---
 
 287(g) agreement between ICE and Sanpete County Sheriff’s Office.

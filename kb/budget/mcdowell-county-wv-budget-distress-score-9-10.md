@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'McDowell County'
+fips: '54047'
 ---
 
 County-level fiscal distress indicators for McDowell County, WV.

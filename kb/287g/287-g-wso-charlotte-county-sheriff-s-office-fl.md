@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Charlotte County'
+fips: '12015'
 ---
 
 287(g) agreement between ICE and Charlotte County Sheriff’s Office.

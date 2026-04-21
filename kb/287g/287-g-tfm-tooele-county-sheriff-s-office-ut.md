@@ -7,6 +7,9 @@ tags:
 - tfm
 - ut
 importance: 5
+state: 'UT'
+county: 'Tooele County'
+fips: '49045'
 ---
 
 287(g) agreement between ICE and Tooele County Sheriff’s Office.

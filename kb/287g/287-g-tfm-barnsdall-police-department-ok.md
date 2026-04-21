@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Osage County'
+fips: '40113'
 ---
 
 287(g) agreement between ICE and Barnsdall Police Department.

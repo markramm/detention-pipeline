@@ -7,6 +7,9 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Alamance County'
+fips: '37001'
 ---
 
 287(g) agreement between ICE and Alamance County Sheriff’s Office.

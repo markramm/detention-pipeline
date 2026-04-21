@@ -9,6 +9,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'GA'
+county: 'Stewart County'
+fips: '13259'
 ---
 
 County-level fiscal distress indicators for Stewart County, GA.

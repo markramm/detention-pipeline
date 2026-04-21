@@ -7,6 +7,9 @@ tags:
 - fl
 - persistent-poverty
 importance: 5
+state: 'FL'
+county: 'Alachua County'
+fips: '12001'
 ---
 
 County-level fiscal distress indicators for Alachua County, FL.

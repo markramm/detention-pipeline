@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Caddo County'
+fips: '40015'
 ---
 
 County-level fiscal distress indicators for Caddo County, OK.

@@ -7,6 +7,9 @@ tags:
 - jem
 - ut
 importance: 5
+state: 'UT'
+county: 'Sevier County'
+fips: '49041'
 ---
 
 287(g) agreement between ICE and Sevier County Sheriff’s Office.

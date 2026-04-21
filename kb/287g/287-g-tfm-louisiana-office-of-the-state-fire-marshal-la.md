@@ -7,6 +7,7 @@ tags:
 - tfm
 - la
 importance: 5
+state: 'LA'
 ---
 
 287(g) agreement between ICE and Louisiana Office of the State Fire Marshal.

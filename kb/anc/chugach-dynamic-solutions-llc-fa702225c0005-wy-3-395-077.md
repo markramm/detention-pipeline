@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - wy
 importance: 5
+state: 'WY'
 ---
 
 USAspending contract award.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - la
 importance: 5
+state: 'LA'
+county: 'Beauregard Parish'
+fips: '22011'
 ---
 
 287(g) agreement between ICE and Beauregard Parish Sheriff’s Office.

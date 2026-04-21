@@ -7,6 +7,9 @@ tags:
 - tfm
 - ar
 importance: 5
+state: 'AR'
+county: 'Lawrence County'
+fips: '05075'
 ---
 
 287(g) agreement between ICE and Black Rock Police Department.

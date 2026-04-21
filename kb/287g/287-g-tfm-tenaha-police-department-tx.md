@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Shelby County'
+fips: '48419'
 ---
 
 287(g) agreement between ICE and Tenaha Police Department.

@@ -7,6 +7,9 @@ tags:
 - tx
 - persistent-poverty
 importance: 5
+state: 'TX'
+county: 'Hidalgo County'
+fips: '48215'
 ---
 
 County-level fiscal distress indicators for Hidalgo County, TX.

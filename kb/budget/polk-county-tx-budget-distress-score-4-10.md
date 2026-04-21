@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Polk County'
+fips: '48373'
 ---
 
 County-level fiscal distress indicators for Polk County, TX.

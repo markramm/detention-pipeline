@@ -8,6 +8,7 @@ tags:
 - other-ice
 - gu
 importance: 5
+state: 'GU'
 ---
 
 ICE contract award.

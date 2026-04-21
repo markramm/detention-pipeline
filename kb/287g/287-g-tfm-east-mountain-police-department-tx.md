@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Upshur County'
+fips: '48459'
 ---
 
 287(g) agreement between ICE and East Mountain Police Department.

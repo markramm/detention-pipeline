@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Wilkin County'
+fips: '27167'
 ---
 
 County-level fiscal distress indicators for Wilkin County, MN.

@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Randall County'
+fips: '48381'
 ---
 
 287(g) agreement between ICE and Randall County Sheriff’s Office.

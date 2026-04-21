@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Republic County'
+fips: '20157'
 ---
 
 County-level fiscal distress indicators for Republic County, KS.

@@ -7,6 +7,9 @@ tags:
 - wso
 - la
 importance: 5
+state: 'LA'
+county: 'Lafayette Parish'
+fips: '22055'
 ---
 
 287(g) agreement between ICE and Lafayette Parish Sheriff’s Office.

@@ -8,6 +8,7 @@ tags:
 - other-ice
 - wv
 importance: 5
+state: 'WV'
 ---
 
 ICE contract award.

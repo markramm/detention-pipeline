@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Woodruff County'
+fips: '05147'
 ---
 
 County-level fiscal distress indicators for Woodruff County, AR.

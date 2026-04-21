@@ -7,6 +7,9 @@ tags:
 - jem
 - ky
 importance: 5
+state: 'KY'
+county: 'Bullitt County'
+fips: '21029'
 ---
 
 287(g) agreement between ICE and Bullitt County Detention Center.

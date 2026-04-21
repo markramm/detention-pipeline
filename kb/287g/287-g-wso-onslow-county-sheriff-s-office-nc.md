@@ -7,6 +7,9 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Onslow County'
+fips: '37133'
 ---
 
 287(g) agreement between ICE and Onslow County Sheriff’s Office.

@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Jim Hogg County'
+fips: '48247'
 ---
 
 County-level fiscal distress indicators for Jim Hogg County, TX.

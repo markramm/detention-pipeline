@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Wilcox County'
+fips: '13315'
 ---
 
 County-level fiscal distress indicators for Wilcox County, GA.

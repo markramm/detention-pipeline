@@ -7,6 +7,9 @@ tags:
 - jem
 - ar
 importance: 5
+state: 'AR'
+county: 'Garland County'
+fips: '05051'
 ---
 
 287(g) agreement between ICE and Garland County Sheriff’s Office.

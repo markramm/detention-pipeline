@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Adams County'
+fips: '19003'
 ---
 
 County-level fiscal distress indicators for Adams County, IA.

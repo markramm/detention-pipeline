@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Marion County'
+fips: '54049'
 ---
 
 County-level fiscal distress indicators for Marion County, WV.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Martin County'
+fips: '37117'
 ---
 
 County-level fiscal distress indicators for Martin County, NC.

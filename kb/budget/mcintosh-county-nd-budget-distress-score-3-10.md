@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'McIntosh County'
+fips: '38051'
 ---
 
 County-level fiscal distress indicators for McIntosh County, ND.

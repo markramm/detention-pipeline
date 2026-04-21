@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Collin County'
+fips: '48085'
 ---
 
 287(g) agreement between ICE and Collin County Sheriff’s Office.

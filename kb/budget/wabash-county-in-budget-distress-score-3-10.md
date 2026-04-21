@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Wabash County'
+fips: '18169'
 ---
 
 County-level fiscal distress indicators for Wabash County, IN.

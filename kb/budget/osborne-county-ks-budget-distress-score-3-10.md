@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Osborne County'
+fips: '20141'
 ---
 
 County-level fiscal distress indicators for Osborne County, KS.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Moody County'
+fips: '46101'
 ---
 
 County-level fiscal distress indicators for Moody County, SD.

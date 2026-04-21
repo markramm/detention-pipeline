@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Gosper County'
+fips: '31073'
 ---
 
 County-level fiscal distress indicators for Gosper County, NE.

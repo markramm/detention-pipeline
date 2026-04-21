@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NY'
+county: 'Allegany County'
+fips: '36003'
 ---
 
 County-level fiscal distress indicators for Allegany County, NY.

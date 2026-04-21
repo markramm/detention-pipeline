@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Sheridan County'
+fips: '38083'
 ---
 
 County-level fiscal distress indicators for Sheridan County, ND.

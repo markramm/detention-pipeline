@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Harper County'
+fips: '20077'
 ---
 
 County-level fiscal distress indicators for Harper County, KS.

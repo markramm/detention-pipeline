@@ -7,6 +7,9 @@ tags:
 - jem
 - az
 importance: 5
+state: 'AZ'
+county: 'Yavapai County'
+fips: '04025'
 ---
 
 287(g) agreement between ICE and Yavapai County Sheriff’s Office.

@@ -8,6 +8,7 @@ tags:
 - detention-related
 - nd
 importance: 5
+state: 'ND'
 ---
 
 ICE contract award.

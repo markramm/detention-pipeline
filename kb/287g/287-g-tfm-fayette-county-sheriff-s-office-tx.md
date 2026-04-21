@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Fayette County'
+fips: '48149'
 ---
 
 287(g) agreement between ICE and Fayette County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Griggs County'
+fips: '38039'
 ---
 
 County-level fiscal distress indicators for Griggs County, ND.

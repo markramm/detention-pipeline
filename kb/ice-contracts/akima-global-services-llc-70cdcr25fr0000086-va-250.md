@@ -8,6 +8,7 @@ tags:
 - detention-related
 - va
 importance: 5
+state: 'VA'
 ---
 
 ICE contract award.

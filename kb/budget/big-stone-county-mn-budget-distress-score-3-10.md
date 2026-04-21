@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Big Stone County'
+fips: '27011'
 ---
 
 County-level fiscal distress indicators for Big Stone County, MN.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Macon County'
+fips: '29121'
 ---
 
 County-level fiscal distress indicators for Macon County, MO.

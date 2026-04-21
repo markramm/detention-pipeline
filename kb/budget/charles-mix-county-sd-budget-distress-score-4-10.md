@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Charles Mix County'
+fips: '46023'
 ---
 
 County-level fiscal distress indicators for Charles Mix County, SD.

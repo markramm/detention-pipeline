@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Rice County'
+fips: '20159'
 ---
 
 287(g) agreement between ICE and Rice County Sheriff’s Office.

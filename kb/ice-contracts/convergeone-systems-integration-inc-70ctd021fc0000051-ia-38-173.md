@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ia
 importance: 5
+state: 'IA'
 ---
 
 ICE contract award.

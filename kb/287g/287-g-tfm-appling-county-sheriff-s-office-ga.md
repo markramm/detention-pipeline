@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Appling County'
+fips: '13001'
 ---
 
 287(g) agreement between ICE and Appling County Sheriff’s Office.

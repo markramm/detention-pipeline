@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Martin County'
+fips: '18101'
 ---
 
 County-level fiscal distress indicators for Martin County, IN.

@@ -16,6 +16,7 @@ tags:
 - ag-investigation
 research_status: working
 last_researched: "2026-04-12"
+fips: '36059'
 ---
 
 # Nassau County, NY: 287(g) and Detainee Death

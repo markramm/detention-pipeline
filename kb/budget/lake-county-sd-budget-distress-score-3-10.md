@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Lake County'
+fips: '46079'
 ---
 
 County-level fiscal distress indicators for Lake County, SD.

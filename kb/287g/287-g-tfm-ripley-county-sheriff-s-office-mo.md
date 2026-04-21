@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Ripley County'
+fips: '29181'
 ---
 
 287(g) agreement between ICE and Ripley County Sheriff’s Office.

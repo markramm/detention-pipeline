@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Saline County'
+fips: '05125'
 ---
 
 287(g) agreement between ICE and Saline County Sheriff’s Office.

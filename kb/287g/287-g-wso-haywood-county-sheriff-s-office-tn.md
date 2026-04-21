@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Haywood County'
+fips: '47075'
 ---
 
 287(g) agreement between ICE and Haywood County Sheriff’s Office.

@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'ID'
+county: 'Clearwater County'
+fips: '16035'
 ---
 
 County-level fiscal distress indicators for Clearwater County, ID.

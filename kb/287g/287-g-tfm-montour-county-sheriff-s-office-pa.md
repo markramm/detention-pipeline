@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Montour County'
+fips: '42093'
 ---
 
 287(g) agreement between ICE and Montour County Sheriff’s Office.

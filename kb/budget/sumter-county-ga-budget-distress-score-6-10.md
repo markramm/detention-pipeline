@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Sumter County'
+fips: '13261'
 ---
 
 County-level fiscal distress indicators for Sumter County, GA.

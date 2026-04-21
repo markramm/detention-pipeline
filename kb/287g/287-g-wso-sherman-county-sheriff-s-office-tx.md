@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Sherman County'
+fips: '48421'
 ---
 
 287(g) agreement between ICE and Sherman County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Glades County'
+fips: '12043'
 ---
 
 287(g) agreement between ICE and Glades County Sheriff’s Office.

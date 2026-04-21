@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Cocke County'
+fips: '47029'
 ---
 
 287(g) agreement between ICE and Cocke County Sheriff’s Office.

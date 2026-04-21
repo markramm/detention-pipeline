@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Henry County'
+fips: '39069'
 ---
 
 County-level fiscal distress indicators for Henry County, OH.

@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Stone County'
+fips: '05137'
 ---
 
 County-level fiscal distress indicators for Stone County, AR.

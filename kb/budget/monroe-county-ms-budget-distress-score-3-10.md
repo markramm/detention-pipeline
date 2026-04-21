@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Monroe County'
+fips: '28095'
 ---
 
 County-level fiscal distress indicators for Monroe County, MS.

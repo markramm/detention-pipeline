@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Trinity County'
+fips: '48455'
 ---
 
 287(g) agreement between ICE and Trinity County Sheriff’s Office.

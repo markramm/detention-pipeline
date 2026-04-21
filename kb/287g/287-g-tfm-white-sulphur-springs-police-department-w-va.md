@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Greenbrier County'
+fips: '54025'
 ---
 
 287(g) agreement between ICE and White Sulphur Springs Police Department.

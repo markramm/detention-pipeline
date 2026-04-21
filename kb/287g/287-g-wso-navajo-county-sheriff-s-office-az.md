@@ -7,6 +7,9 @@ tags:
 - wso
 - az
 importance: 5
+state: 'AZ'
+county: 'Navajo County'
+fips: '04017'
 ---
 
 287(g) agreement between ICE and Navajo County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'CA'
+county: 'Sierra County'
+fips: '06091'
 ---
 
 County-level fiscal distress indicators for Sierra County, CA.

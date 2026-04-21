@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Wetzel County'
+fips: '54103'
 ---
 
 County-level fiscal distress indicators for Wetzel County, WV.

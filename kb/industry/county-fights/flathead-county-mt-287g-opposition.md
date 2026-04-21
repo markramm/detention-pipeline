@@ -17,6 +17,7 @@ tags:
 - community-opposition
 research_status: working
 last_researched: "2026-04-13"
+fips: '30029'
 ---
 
 # Flathead County: 287(g) Opposition

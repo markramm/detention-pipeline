@@ -8,6 +8,7 @@ tags:
 - other-ice
 - sd
 importance: 5
+state: 'SD'
 ---
 
 ICE contract award.

@@ -7,6 +7,7 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
 ---
 
 287(g) agreement between ICE and Quarryville Borough Police Department.

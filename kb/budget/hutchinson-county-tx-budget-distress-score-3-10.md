@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Hutchinson County'
+fips: '48233'
 ---
 
 County-level fiscal distress indicators for Hutchinson County, TX.

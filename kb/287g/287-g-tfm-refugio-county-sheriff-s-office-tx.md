@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Refugio County'
+fips: '48391'
 ---
 
 287(g) agreement between ICE and Refugio County Sheriff’s Office.

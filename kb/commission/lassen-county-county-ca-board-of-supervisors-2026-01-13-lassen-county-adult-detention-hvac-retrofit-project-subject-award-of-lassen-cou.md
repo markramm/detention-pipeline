@@ -7,6 +7,9 @@ tags:
 - ca
 - strong
 importance: 5
+state: 'CA'
+county: 'Lassen County'
+fips: '06035'
 ---
 
 County commission agenda item matching detention pipeline keywords.

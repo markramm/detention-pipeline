@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Columbia County'
+fips: '12023'
 ---
 
 287(g) agreement between ICE and Columbia County Sheriff’s Office.

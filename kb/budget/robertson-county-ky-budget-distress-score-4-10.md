@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Robertson County'
+fips: '21201'
 ---
 
 County-level fiscal distress indicators for Robertson County, KY.

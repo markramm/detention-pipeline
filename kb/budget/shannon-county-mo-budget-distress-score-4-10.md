@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Shannon County'
+fips: '29203'
 ---
 
 County-level fiscal distress indicators for Shannon County, MO.

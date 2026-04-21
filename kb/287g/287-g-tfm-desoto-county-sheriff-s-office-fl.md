@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'DeSoto County'
+fips: '12027'
 ---
 
 287(g) agreement between ICE and DeSoto County Sheriff’s Office.

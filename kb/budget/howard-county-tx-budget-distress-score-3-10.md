@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Howard County'
+fips: '48227'
 ---
 
 County-level fiscal distress indicators for Howard County, TX.

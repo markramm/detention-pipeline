@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Estill County'
+fips: '21065'
 ---
 
 County-level fiscal distress indicators for Estill County, KY.

@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Sedgwick County'
+fips: '20173'
 ---
 
 287(g) agreement between ICE and Sedgwick County Sheriff’s Office.

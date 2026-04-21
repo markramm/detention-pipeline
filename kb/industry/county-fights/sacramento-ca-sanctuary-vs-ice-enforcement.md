@@ -19,6 +19,7 @@ tags:
 - state-capital
 research_status: working
 last_researched: "2026-04-13"
+fips: '06067'
 ---
 
 # Sacramento CA: Sanctuary State Capital vs. ICE

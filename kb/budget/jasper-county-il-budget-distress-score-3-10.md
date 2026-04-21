@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Jasper County'
+fips: '17079'
 ---
 
 County-level fiscal distress indicators for Jasper County, IL.

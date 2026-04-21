@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Johnson County'
+fips: '48251'
 ---
 
 287(g) agreement between ICE and Johnson County Sheriff’s Office.

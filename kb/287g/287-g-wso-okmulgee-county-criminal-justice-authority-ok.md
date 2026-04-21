@@ -7,6 +7,9 @@ tags:
 - wso
 - ok
 importance: 5
+state: 'OK'
+county: 'Okmulgee County'
+fips: '40111'
 ---
 
 287(g) agreement between ICE and Okmulgee County Criminal Justice Authority.

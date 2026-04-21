@@ -7,6 +7,9 @@ tags:
 - wso
 - ny
 importance: 5
+state: 'NY'
+county: 'Broome County'
+fips: '36007'
 ---
 
 287(g) agreement between ICE and Broome County Sheriff’s Office.

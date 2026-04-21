@@ -21,6 +21,7 @@ tags:
 - covid-outbreak
 - pinal-county-cluster
 research_status: working
+fips: '04021'
 ---
 
 # La Palma Correctional Center — The California Conversion

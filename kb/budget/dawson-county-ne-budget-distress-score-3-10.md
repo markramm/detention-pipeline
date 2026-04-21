@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Dawson County'
+fips: '31047'
 ---
 
 County-level fiscal distress indicators for Dawson County, NE.

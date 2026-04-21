@@ -7,6 +7,8 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Bryant County'
 ---
 
 287(g) agreement between ICE and Bokchito Police Department.

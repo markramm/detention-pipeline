@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Clarke County'
+fips: '01025'
 ---
 
 County-level fiscal distress indicators for Clarke County, AL.

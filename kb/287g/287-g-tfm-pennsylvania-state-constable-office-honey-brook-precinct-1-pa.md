@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Chester County'
+fips: '42029'
 ---
 
 287(g) agreement between ICE and Pennsylvania State Constable Office Honey Brook Precinct 1.

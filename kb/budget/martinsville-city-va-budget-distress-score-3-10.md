@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Martinsville city'
+fips: '51690'
 ---
 
 County-level fiscal distress indicators for Martinsville city, VA.

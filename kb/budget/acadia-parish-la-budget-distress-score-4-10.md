@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - low-education-attainment
 importance: 5
+state: 'LA'
+county: 'Acadia Parish'
+fips: '22001'
 ---
 
 County-level fiscal distress indicators for Acadia Parish, LA.

@@ -8,6 +8,7 @@ tags:
 - other-ice
 - fl
 importance: 5
+state: 'FL'
 ---
 
 ICE contract award.

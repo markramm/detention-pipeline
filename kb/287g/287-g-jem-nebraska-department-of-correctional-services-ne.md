@@ -7,6 +7,9 @@ tags:
 - jem
 - ne
 importance: 5
+state: 'NE'
+county: 'Lincoln County'
+fips: '31111'
 ---
 
 287(g) agreement between ICE and Nebraska Department of Correctional Services.

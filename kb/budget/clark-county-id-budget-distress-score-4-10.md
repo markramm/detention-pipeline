@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'ID'
+county: 'Clark County'
+fips: '16033'
 ---
 
 County-level fiscal distress indicators for Clark County, ID.

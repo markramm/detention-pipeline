@@ -7,6 +7,9 @@ tags:
 - tfm
 - ms
 importance: 5
+state: 'MS'
+county: 'Newton County'
+fips: '28101'
 ---
 
 287(g) agreement between ICE and Union Police Department.

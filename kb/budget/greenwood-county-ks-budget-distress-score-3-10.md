@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Greenwood County'
+fips: '20073'
 ---
 
 County-level fiscal distress indicators for Greenwood County, KS.

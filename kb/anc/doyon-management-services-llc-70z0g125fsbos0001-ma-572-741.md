@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ma
 importance: 5
+state: 'MA'
 ---
 
 USAspending contract award.

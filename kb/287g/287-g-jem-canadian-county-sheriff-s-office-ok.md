@@ -7,6 +7,9 @@ tags:
 - jem
 - ok
 importance: 5
+state: 'OK'
+county: 'Canadian County'
+fips: '40017'
 ---
 
 287(g) agreement between ICE and Canadian County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - sc
 importance: 5
+state: 'SC'
+county: 'Orangeburg County'
+fips: '45075'
 ---
 
 287(g) agreement between ICE and Eutawville Police Department.

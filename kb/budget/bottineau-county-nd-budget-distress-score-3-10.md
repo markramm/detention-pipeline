@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Bottineau County'
+fips: '38009'
 ---
 
 County-level fiscal distress indicators for Bottineau County, ND.

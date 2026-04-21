@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Wyandot County'
+fips: '39175'
 ---
 
 County-level fiscal distress indicators for Wyandot County, OH.

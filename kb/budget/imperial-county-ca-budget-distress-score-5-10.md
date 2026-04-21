@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - low-employment
 importance: 5
+state: 'CA'
+county: 'Imperial County'
+fips: '06025'
 ---
 
 County-level fiscal distress indicators for Imperial County, CA.

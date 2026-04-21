@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Carroll County'
+fips: '29033'
 ---
 
 County-level fiscal distress indicators for Carroll County, MO.

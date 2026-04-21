@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Brazoria County'
+fips: '48039'
 ---
 
 287(g) agreement between ICE and Brazoria County Sheriff’s Office.

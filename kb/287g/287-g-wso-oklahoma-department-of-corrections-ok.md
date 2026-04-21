@@ -7,6 +7,7 @@ tags:
 - wso
 - ok
 importance: 5
+state: 'OK'
 ---
 
 287(g) agreement between ICE and Oklahoma Department of Corrections.

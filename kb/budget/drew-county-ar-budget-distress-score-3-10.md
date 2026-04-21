@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Drew County'
+fips: '05043'
 ---
 
 County-level fiscal distress indicators for Drew County, AR.

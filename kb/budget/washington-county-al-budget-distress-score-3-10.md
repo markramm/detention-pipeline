@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Washington County'
+fips: '01129'
 ---
 
 County-level fiscal distress indicators for Washington County, AL.

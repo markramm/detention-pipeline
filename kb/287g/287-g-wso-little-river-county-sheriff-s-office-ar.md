@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Little River County'
+fips: '05081'
 ---
 
 287(g) agreement between ICE and Little River County Sheriff’s Office.

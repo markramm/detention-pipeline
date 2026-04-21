@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Clinch County'
+fips: '13065'
 ---
 
 County-level fiscal distress indicators for Clinch County, GA.

@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'SC'
+county: 'Marion County'
+fips: '45067'
 ---
 
 County-level fiscal distress indicators for Marion County, SC.

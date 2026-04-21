@@ -7,6 +7,9 @@ tags:
 - wso
 - nd
 importance: 5
+state: 'ND'
+county: 'Renville County'
+fips: '38075'
 ---
 
 287(g) agreement between ICE and Renville County Sheriff’s Office.

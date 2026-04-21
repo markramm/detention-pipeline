@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Kent County'
+fips: '48263'
 ---
 
 County-level fiscal distress indicators for Kent County, TX.

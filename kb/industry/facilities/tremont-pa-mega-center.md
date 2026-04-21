@@ -18,6 +18,7 @@ estimated_value: "~$60 million"
 markup: "~200%"
 prior_owner: "Blue Owl Capital subsidiary"
 prior_use: "Big Lots distribution center (bankrupt 2024)"
+fips: '42107'
 ---
 
 # Tremont PA Warehouse — ICE Mega Detention Center

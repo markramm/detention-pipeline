@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Preble County'
+fips: '39135'
 ---
 
 County-level fiscal distress indicators for Preble County, OH.

@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Adair County'
+fips: '40001'
 ---
 
 County-level fiscal distress indicators for Adair County, OK.

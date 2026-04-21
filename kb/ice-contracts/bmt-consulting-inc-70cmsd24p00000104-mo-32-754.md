@@ -8,6 +8,7 @@ tags:
 - other-ice
 - mo
 importance: 5
+state: 'MO'
 ---
 
 ICE contract award.

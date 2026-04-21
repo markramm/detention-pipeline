@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Palo Alto County'
+fips: '19147'
 ---
 
 County-level fiscal distress indicators for Palo Alto County, IA.

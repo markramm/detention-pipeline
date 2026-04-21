@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Washington County'
+fips: '17189'
 ---
 
 County-level fiscal distress indicators for Washington County, IL.

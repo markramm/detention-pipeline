@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Hockley County'
+fips: '48219'
 ---
 
 287(g) agreement between ICE and Hockley County Sheriff’s Office.

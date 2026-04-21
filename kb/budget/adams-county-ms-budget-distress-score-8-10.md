@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Adams County'
+fips: '28001'
 ---
 
 County-level fiscal distress indicators for Adams County, MS.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Clark County'
+fips: '05019'
 ---
 
 County-level fiscal distress indicators for Clark County, AR.

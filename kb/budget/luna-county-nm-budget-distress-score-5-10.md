@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Luna County'
+fips: '35029'
 ---
 
 County-level fiscal distress indicators for Luna County, NM.

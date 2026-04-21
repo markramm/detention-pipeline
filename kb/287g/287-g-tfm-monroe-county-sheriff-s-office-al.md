@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Monroe County'
+fips: '01099'
 ---
 
 287(g) agreement between ICE and Monroe County Sheriff’s Office.

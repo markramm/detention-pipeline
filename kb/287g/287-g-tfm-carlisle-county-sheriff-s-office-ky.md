@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Carlisle County'
+fips: '21039'
 ---
 
 287(g) agreement between ICE and Carlisle County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wi
 - moderate
 importance: 5
+state: 'WI'
+county: 'Milwaukee County'
+fips: '55079'
 ---
 
 County commission agenda item matching detention pipeline keywords.

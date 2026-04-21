@@ -7,6 +7,8 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Lake Conty'
 ---
 
 287(g) agreement between ICE and Howey in the Hills Police Department.

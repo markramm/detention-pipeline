@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Screven County'
+fips: '13251'
 ---
 
 County-level fiscal distress indicators for Screven County, GA.

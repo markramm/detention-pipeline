@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Pleasants County'
+fips: '54073'
 ---
 
 287(g) agreement between ICE and Pleasants County Sheriff’s Office.

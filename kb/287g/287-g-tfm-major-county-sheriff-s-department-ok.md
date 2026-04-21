@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Major County'
+fips: '40093'
 ---
 
 287(g) agreement between ICE and Major County Sheriff’s Department.

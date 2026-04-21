@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NY'
+county: 'Chautauqua County'
+fips: '36013'
 ---
 
 County-level fiscal distress indicators for Chautauqua County, NY.

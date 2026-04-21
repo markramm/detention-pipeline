@@ -7,6 +7,7 @@ tags:
 - tfm
 - nd
 importance: 5
+state: 'ND'
 ---
 
 287(g) agreement between ICE and Dickinson Police Department.

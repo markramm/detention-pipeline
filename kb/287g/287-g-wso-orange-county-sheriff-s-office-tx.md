@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Orange County'
+fips: '48361'
 ---
 
 287(g) agreement between ICE and Orange County Sheriff’s Office.

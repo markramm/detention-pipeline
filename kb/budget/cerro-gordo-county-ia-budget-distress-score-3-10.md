@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Cerro Gordo County'
+fips: '19033'
 ---
 
 County-level fiscal distress indicators for Cerro Gordo County, IA.

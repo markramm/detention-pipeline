@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Avoyelles Parish'
+fips: '22009'
 ---
 
 County-level fiscal distress indicators for Avoyelles Parish, LA.

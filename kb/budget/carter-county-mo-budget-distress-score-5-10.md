@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Carter County'
+fips: '29035'
 ---
 
 County-level fiscal distress indicators for Carter County, MO.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Holt County'
+fips: '31089'
 ---
 
 County-level fiscal distress indicators for Holt County, NE.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Putnam County'
+fips: '17155'
 ---
 
 County-level fiscal distress indicators for Putnam County, IL.

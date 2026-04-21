@@ -7,6 +7,9 @@ tags:
 - jem
 - wy
 importance: 5
+state: 'WY'
+county: 'Laramie County'
+fips: '56021'
 ---
 
 287(g) agreement between ICE and Laramie County Sheriff’s Office.

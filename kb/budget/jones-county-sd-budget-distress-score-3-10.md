@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Jones County'
+fips: '46075'
 ---
 
 County-level fiscal distress indicators for Jones County, SD.

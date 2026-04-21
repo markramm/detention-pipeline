@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Leon County'
+fips: '12073'
 ---
 
 287(g) agreement between ICE and Leon County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Miami-Dade County'
+fips: '12086'
 ---
 
 287(g) agreement between ICE and Miami-Dade Corrections and Rehabilitation.

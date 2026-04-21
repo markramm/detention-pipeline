@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Douglas County'
+fips: '29067'
 ---
 
 287(g) agreement between ICE and Douglas County Sheriff’s Office.

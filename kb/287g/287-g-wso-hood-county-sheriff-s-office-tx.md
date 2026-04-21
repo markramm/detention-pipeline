@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Hood County'
+fips: '48221'
 ---
 
 287(g) agreement between ICE and Hood County Sheriff’s Office.

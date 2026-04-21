@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'WA'
+county: 'Whitman County'
+fips: '53075'
 ---
 
 County-level fiscal distress indicators for Whitman County, WA.

@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Greenville County'
+fips: '45045'
 ---
 
 287(g) agreement between ICE and Greenville County Sheriff’s Office.

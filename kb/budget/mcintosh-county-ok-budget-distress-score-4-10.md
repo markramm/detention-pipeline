@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'McIntosh County'
+fips: '40091'
 ---
 
 County-level fiscal distress indicators for McIntosh County, OK.

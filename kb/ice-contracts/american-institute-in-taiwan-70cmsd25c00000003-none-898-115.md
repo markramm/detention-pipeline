@@ -8,6 +8,7 @@ tags:
 - other-ice
 - unknown
 importance: 5
+state: 'US'
 ---
 
 ICE contract award.

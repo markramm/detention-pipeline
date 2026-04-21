@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Baker County'
+fips: '13007'
 ---
 
 County-level fiscal distress indicators for Baker County, GA.

@@ -7,6 +7,9 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Randolph County'
+fips: '37151'
 ---
 
 287(g) agreement between ICE and Randolph County Sheriff’s Office.

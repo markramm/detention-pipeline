@@ -7,6 +7,7 @@ tags:
 - jem
 - tn
 importance: 5
+state: 'TN'
 ---
 
 287(g) agreement between ICE and Tennessee Department of Corrections.

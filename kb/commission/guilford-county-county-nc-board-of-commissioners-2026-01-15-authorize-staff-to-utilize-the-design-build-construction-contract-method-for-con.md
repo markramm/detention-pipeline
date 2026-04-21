@@ -7,6 +7,9 @@ tags:
 - nc
 - strong
 importance: 5
+state: 'NC'
+county: 'Guilford County'
+fips: '37081'
 ---
 
 County commission agenda item matching detention pipeline keywords.

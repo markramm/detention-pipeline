@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Dickinson County'
+fips: '26043'
 ---
 
 County-level fiscal distress indicators for Dickinson County, MI.

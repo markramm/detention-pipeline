@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Okaloosa County'
+fips: '12091'
 ---
 
 287(g) agreement between ICE and Niceville Police Department.

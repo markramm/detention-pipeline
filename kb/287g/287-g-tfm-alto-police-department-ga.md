@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Banks County'
+fips: '13011'
 ---
 
 287(g) agreement between ICE and Alto Police Department.

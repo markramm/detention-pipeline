@@ -7,6 +7,8 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Fall County'
 ---
 
 287(g) agreement between ICE and Marlin Police Department.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Tuscola County'
+fips: '26157'
 ---
 
 County-level fiscal distress indicators for Tuscola County, MI.

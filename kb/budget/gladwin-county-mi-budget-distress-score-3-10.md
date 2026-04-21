@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Gladwin County'
+fips: '26051'
 ---
 
 County-level fiscal distress indicators for Gladwin County, MI.

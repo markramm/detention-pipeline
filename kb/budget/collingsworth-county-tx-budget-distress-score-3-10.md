@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Collingsworth County'
+fips: '48087'
 ---
 
 County-level fiscal distress indicators for Collingsworth County, TX.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Prowers County'
+fips: '08099'
 ---
 
 County-level fiscal distress indicators for Prowers County, CO.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Lampasas County'
+fips: '48281'
 ---
 
 287(g) agreement between ICE and Lampasas County Sheriff’s Office.

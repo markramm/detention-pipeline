@@ -7,6 +7,9 @@ tags:
 - ca
 - moderate
 importance: 5
+state: 'CA'
+county: 'Santa Barbara County'
+fips: '06083'
 ---
 
 County commission agenda item matching detention pipeline keywords.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'McCracken County'
+fips: '21145'
 ---
 
 287(g) agreement between ICE and McCracken County Sheriff’s Office.

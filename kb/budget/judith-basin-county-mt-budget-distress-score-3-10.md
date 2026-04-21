@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Judith Basin County'
+fips: '30045'
 ---
 
 County-level fiscal distress indicators for Judith Basin County, MT.

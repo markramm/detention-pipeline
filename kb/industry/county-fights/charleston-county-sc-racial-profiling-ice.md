@@ -20,6 +20,7 @@ tags:
 - fourth-amendment
 research_status: working
 last_researched: "2026-04-16"
+fips: '45019'
 ---
 
 # Charleston County SC — Racial Profiling in ICE Traffic Stop Operations

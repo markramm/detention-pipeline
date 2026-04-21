@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Ness County'
+fips: '20135'
 ---
 
 County-level fiscal distress indicators for Ness County, KS.

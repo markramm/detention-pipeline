@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Cherokee County'
+fips: '40021'
 ---
 
 County-level fiscal distress indicators for Cherokee County, OK.

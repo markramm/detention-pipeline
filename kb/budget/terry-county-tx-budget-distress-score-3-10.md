@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Terry County'
+fips: '48445'
 ---
 
 County-level fiscal distress indicators for Terry County, TX.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Clay County'
+fips: '17025'
 ---
 
 County-level fiscal distress indicators for Clay County, IL.

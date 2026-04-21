@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Morris County'
+fips: '48343'
 ---
 
 County-level fiscal distress indicators for Morris County, TX.

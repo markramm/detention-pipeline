@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Crisp County'
+fips: '13081'
 ---
 
 County-level fiscal distress indicators for Crisp County, GA.

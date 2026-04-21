@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Arkansas County'
+fips: '05001'
 ---
 
 County-level fiscal distress indicators for Arkansas County, AR.

@@ -8,6 +8,7 @@ tags:
 - detention-related
 - nv
 importance: 5
+state: 'NV'
 ---
 
 ICE contract award.

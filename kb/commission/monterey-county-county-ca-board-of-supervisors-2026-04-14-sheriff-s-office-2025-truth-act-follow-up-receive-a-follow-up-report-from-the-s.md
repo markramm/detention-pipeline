@@ -7,6 +7,9 @@ tags:
 - ca
 - moderate
 importance: 5
+state: 'CA'
+county: 'Monterey County'
+fips: '06053'
 ---
 
 County commission agenda item matching detention pipeline keywords.

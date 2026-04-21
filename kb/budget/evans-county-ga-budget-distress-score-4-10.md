@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Evans County'
+fips: '13109'
 ---
 
 County-level fiscal distress indicators for Evans County, GA.

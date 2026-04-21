@@ -7,6 +7,9 @@ tags:
 - ga
 - weak
 importance: 5
+state: 'GA'
+county: 'Muscogee County'
+fips: '13215'
 ---
 
 County commission agenda item matching detention pipeline keywords.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Boone County'
+fips: '31011'
 ---
 
 County-level fiscal distress indicators for Boone County, NE.

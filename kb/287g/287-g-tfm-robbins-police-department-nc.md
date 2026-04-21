@@ -7,6 +7,9 @@ tags:
 - tfm
 - nc
 importance: 5
+state: 'NC'
+county: 'Moore County'
+fips: '37125'
 ---
 
 287(g) agreement between ICE and Robbins Police Department.

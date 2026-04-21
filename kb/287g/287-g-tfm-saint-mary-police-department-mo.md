@@ -7,6 +7,7 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
 ---
 
 287(g) agreement between ICE and Saint Mary Police Department.

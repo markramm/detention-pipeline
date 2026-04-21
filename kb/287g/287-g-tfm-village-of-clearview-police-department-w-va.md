@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Ohio County'
+fips: '54069'
 ---
 
 287(g) agreement between ICE and Village of Clearview Police Department.

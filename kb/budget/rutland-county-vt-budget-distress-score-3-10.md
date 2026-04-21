@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VT'
+county: 'Rutland County'
+fips: '50021'
 ---
 
 County-level fiscal distress indicators for Rutland County, VT.

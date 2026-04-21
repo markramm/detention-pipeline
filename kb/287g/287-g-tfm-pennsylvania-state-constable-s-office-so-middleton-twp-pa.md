@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Cumberland County'
+fips: '42041'
 ---
 
 287(g) agreement between ICE and Pennsylvania State Constable’s Office So Middleton Twp.

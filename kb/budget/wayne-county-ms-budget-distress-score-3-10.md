@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Wayne County'
+fips: '28153'
 ---
 
 County-level fiscal distress indicators for Wayne County, MS.

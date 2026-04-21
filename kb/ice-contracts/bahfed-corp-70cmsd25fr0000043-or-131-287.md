@@ -8,6 +8,7 @@ tags:
 - other-ice
 - or
 importance: 5
+state: 'OR'
 ---
 
 ICE contract award.

@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Baker County'
+fips: '12003'
 ---
 
 287(g) agreement between ICE and Baker County Sheriff’s Office.

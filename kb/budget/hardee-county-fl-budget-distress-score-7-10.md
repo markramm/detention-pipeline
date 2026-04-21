@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'Hardee County'
+fips: '12049'
 ---
 
 County-level fiscal distress indicators for Hardee County, FL.

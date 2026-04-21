@@ -7,6 +7,7 @@ tags:
 - jem
 - ma
 importance: 5
+state: 'MA'
 ---
 
 287(g) agreement between ICE and Massachusetts Department of Corrections.

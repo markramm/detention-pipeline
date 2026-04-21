@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Vernon Parish'
+fips: '22115'
 ---
 
 County-level fiscal distress indicators for Vernon Parish, LA.

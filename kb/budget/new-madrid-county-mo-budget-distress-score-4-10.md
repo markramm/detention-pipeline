@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'New Madrid County'
+fips: '29143'
 ---
 
 County-level fiscal distress indicators for New Madrid County, MO.

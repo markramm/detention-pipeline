@@ -8,6 +8,7 @@ tags:
 - detention-related
 - ga
 importance: 5
+state: 'GA'
 ---
 
 ICE contract award.

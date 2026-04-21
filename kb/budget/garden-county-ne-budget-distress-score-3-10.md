@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Garden County'
+fips: '31069'
 ---
 
 County-level fiscal distress indicators for Garden County, NE.

@@ -7,6 +7,9 @@ tags:
 - jem
 - ga
 importance: 5
+state: 'GA'
+county: 'Hall County'
+fips: '13139'
 ---
 
 287(g) agreement between ICE and Hall County Sheriff’s Office.

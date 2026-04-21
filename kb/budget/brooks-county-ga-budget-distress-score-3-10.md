@@ -7,6 +7,9 @@ tags:
 - ga
 - persistent-poverty
 importance: 5
+state: 'GA'
+county: 'Brooks County'
+fips: '13027'
 ---
 
 County-level fiscal distress indicators for Brooks County, GA.

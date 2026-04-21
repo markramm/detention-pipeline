@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Jefferson County'
+fips: '42065'
 ---
 
 287(g) agreement between ICE and Reynoldsville Borough Police Department.

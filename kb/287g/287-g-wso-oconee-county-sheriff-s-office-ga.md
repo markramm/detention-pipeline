@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Oconee County'
+fips: '13219'
 ---
 
 287(g) agreement between ICE and Oconee County Sheriff’s Office.

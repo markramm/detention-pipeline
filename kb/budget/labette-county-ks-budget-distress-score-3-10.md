@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Labette County'
+fips: '20099'
 ---
 
 County-level fiscal distress indicators for Labette County, KS.

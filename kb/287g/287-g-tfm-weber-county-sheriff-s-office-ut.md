@@ -7,6 +7,9 @@ tags:
 - tfm
 - ut
 importance: 5
+state: 'UT'
+county: 'Weber County'
+fips: '49057'
 ---
 
 287(g) agreement between ICE and Weber County Sheriff’s Office.

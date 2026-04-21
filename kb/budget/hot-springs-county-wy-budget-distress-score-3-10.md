@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WY'
+county: 'Hot Springs County'
+fips: '56017'
 ---
 
 County-level fiscal distress indicators for Hot Springs County, WY.

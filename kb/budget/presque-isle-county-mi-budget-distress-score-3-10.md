@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Presque Isle County'
+fips: '26141'
 ---
 
 County-level fiscal distress indicators for Presque Isle County, MI.

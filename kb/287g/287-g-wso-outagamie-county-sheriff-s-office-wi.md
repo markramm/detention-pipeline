@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Outagamie County'
+fips: '55087'
 ---
 
 287(g) agreement between ICE and Outagamie County Sheriff’s Office.

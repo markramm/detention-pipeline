@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Lucas County'
+fips: '19117'
 ---
 
 County-level fiscal distress indicators for Lucas County, IA.

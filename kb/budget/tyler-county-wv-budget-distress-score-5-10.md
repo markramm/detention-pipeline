@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Tyler County'
+fips: '54095'
 ---
 
 County-level fiscal distress indicators for Tyler County, WV.

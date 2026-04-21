@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Sierra County'
+fips: '35051'
 ---
 
 County-level fiscal distress indicators for Sierra County, NM.

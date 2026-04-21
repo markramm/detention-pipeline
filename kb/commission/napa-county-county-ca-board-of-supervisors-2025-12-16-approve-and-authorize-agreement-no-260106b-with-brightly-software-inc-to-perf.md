@@ -7,6 +7,9 @@ tags:
 - ca
 - strong
 importance: 5
+state: 'CA'
+county: 'Napa County'
+fips: '06055'
 ---
 
 County commission agenda item matching detention pipeline keywords.

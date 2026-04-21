@@ -13,6 +13,7 @@ status: operational
 importance: 6
 tags: [county-jail, IGSA, florida, death-in-custody, reinstated-agreement]
 research_status: stub
+fips: '12043'
 ---
 
 # Glades County Detention Center — Moore Haven FL

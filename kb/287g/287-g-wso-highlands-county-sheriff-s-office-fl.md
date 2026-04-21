@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Highlands County'
+fips: '12055'
 ---
 
 287(g) agreement between ICE and Highlands County Sheriff’s Office.

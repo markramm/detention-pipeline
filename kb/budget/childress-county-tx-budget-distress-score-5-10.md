@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Childress County'
+fips: '48075'
 ---
 
 County-level fiscal distress indicators for Childress County, TX.

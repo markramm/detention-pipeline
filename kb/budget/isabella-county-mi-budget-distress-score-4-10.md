@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Isabella County'
+fips: '26073'
 ---
 
 County-level fiscal distress indicators for Isabella County, MI.

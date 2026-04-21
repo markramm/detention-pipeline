@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Comanche County'
+fips: '48093'
 ---
 
 287(g) agreement between ICE and Comanche County Sheriff’s Office.

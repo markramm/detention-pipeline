@@ -7,6 +7,9 @@ tags:
 - jem
 - ga
 importance: 5
+state: 'GA'
+county: 'Whitfield County'
+fips: '13313'
 ---
 
 287(g) agreement between ICE and Whitfield County Sheriff’s Office.

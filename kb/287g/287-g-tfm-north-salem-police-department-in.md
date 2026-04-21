@@ -7,6 +7,9 @@ tags:
 - tfm
 - in
 importance: 5
+state: 'IN'
+county: 'Hendricks County'
+fips: '18063'
 ---
 
 287(g) agreement between ICE and North Salem Police Department.

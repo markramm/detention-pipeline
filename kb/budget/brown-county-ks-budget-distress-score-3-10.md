@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Brown County'
+fips: '20013'
 ---
 
 County-level fiscal distress indicators for Brown County, KS.

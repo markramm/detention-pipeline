@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ri
 importance: 5
+state: 'RI'
 ---
 
 USAspending contract award.

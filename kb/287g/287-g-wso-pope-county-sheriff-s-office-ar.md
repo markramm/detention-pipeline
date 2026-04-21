@@ -7,6 +7,8 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Pop County'
 ---
 
 287(g) agreement between ICE and Pope County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wso
 - az
 importance: 5
+state: 'AZ'
+county: 'Cochise County'
+fips: '04003'
 ---
 
 287(g) agreement between ICE and Cochise County Sheriff’s Office.

@@ -8,6 +8,7 @@ tags:
 - other-ice
 - mi
 importance: 5
+state: 'MI'
 ---
 
 ICE contract award.

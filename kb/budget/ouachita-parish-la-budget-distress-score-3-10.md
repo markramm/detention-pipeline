@@ -7,6 +7,9 @@ tags:
 - la
 - persistent-poverty
 importance: 5
+state: 'LA'
+county: 'Ouachita Parish'
+fips: '22073'
 ---
 
 County-level fiscal distress indicators for Ouachita Parish, LA.

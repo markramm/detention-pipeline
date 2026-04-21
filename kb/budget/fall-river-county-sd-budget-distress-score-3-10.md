@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Fall River County'
+fips: '46047'
 ---
 
 County-level fiscal distress indicators for Fall River County, SD.

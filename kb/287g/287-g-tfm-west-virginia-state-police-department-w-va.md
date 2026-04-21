@@ -7,6 +7,8 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Washington County'
 ---
 
 287(g) agreement between ICE and West Virginia State Police Department.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Dixon County'
+fips: '31051'
 ---
 
 County-level fiscal distress indicators for Dixon County, NE.

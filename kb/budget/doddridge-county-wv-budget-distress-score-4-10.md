@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Doddridge County'
+fips: '54017'
 ---
 
 County-level fiscal distress indicators for Doddridge County, WV.

@@ -7,6 +7,9 @@ tags:
 - jem
 - tn
 importance: 5
+state: 'TN'
+county: 'Knox County'
+fips: '47093'
 ---
 
 287(g) agreement between ICE and Knox County Sheriff’s Office.

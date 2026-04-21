@@ -8,6 +8,7 @@ tags:
 - other-ice
 - hi
 importance: 5
+state: 'HI'
 ---
 
 ICE contract award.

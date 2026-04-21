@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Burke County'
+fips: '13033'
 ---
 
 287(g) agreement between ICE and Burke County Sheriff’s Office.

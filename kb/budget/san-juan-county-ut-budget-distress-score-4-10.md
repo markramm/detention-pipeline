@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'UT'
+county: 'San Juan County'
+fips: '49037'
 ---
 
 County-level fiscal distress indicators for San Juan County, UT.

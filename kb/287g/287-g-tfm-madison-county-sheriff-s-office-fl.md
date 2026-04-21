@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Madison County'
+fips: '12079'
 ---
 
 287(g) agreement between ICE and Madison County Sheriff’s Office.

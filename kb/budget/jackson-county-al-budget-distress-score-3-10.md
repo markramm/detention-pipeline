@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Jackson County'
+fips: '01071'
 ---
 
 County-level fiscal distress indicators for Jackson County, AL.

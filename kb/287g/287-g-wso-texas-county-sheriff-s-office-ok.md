@@ -7,6 +7,9 @@ tags:
 - wso
 - ok
 importance: 5
+state: 'OK'
+county: 'Texas County'
+fips: '40139'
 ---
 
 287(g) agreement between ICE and Texas County Sheriff’s Office.

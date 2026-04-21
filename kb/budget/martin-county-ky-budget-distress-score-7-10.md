@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Martin County'
+fips: '21159'
 ---
 
 County-level fiscal distress indicators for Martin County, KY.

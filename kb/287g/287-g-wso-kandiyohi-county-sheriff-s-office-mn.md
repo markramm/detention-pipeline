@@ -7,6 +7,9 @@ tags:
 - wso
 - mn
 importance: 5
+state: 'MN'
+county: 'Kandiyohi County'
+fips: '27067'
 ---
 
 287(g) agreement between ICE and Kandiyohi County Sheriff’s Office.

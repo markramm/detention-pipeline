@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Val Verde County'
+fips: '48465'
 ---
 
 287(g) agreement between ICE and Val Verde County Sheriff’s Office.

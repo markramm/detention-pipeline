@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Callahan County'
+fips: '48059'
 ---
 
 287(g) agreement between ICE and Callahan County Sheriff’s Office.

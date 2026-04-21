@@ -7,6 +7,9 @@ tags:
 - jem
 - ga
 importance: 5
+state: 'GA'
+county: 'Walker County'
+fips: '13295'
 ---
 
 287(g) agreement between ICE and Walker County Sheriff’s Office.

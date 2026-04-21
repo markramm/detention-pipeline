@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Real County'
+fips: '48385'
 ---
 
 County-level fiscal distress indicators for Real County, TX.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Marshall County'
+fips: '21157'
 ---
 
 287(g) agreement between ICE and Marshall County Sheriff’s Office.

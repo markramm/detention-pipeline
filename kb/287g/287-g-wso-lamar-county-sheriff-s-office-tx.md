@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Lamar County'
+fips: '48277'
 ---
 
 287(g) agreement between ICE and Lamar County Sheriff’s Office.

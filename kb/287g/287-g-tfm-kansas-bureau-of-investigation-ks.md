@@ -7,6 +7,7 @@ tags:
 - tfm
 - ks
 importance: 5
+state: 'KS'
 ---
 
 287(g) agreement between ICE and Kansas Bureau of Investigation.

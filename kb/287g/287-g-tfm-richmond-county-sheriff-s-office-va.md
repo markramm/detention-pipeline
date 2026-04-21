@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Richmond County'
+fips: '51159'
 ---
 
 287(g) agreement between ICE and Richmond County Sheriff’s Office.

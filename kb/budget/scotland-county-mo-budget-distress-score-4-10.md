@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Scotland County'
+fips: '29199'
 ---
 
 County-level fiscal distress indicators for Scotland County, MO.

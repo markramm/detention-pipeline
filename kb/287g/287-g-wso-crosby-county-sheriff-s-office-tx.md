@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Crosby County'
+fips: '48107'
 ---
 
 287(g) agreement between ICE and Crosby County Sheriff’s Office.

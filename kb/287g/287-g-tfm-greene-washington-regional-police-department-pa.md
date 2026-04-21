@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Greene County'
+fips: '42059'
 ---
 
 287(g) agreement between ICE and Greene Washington Regional Police Department.

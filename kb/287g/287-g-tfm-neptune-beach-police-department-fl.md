@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Duval County'
+fips: '12031'
 ---
 
 287(g) agreement between ICE and Neptune Beach Police Department.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Howard County'
+fips: '05061'
 ---
 
 County-level fiscal distress indicators for Howard County, AR.

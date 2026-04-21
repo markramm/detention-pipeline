@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Jones County'
+fips: '37103'
 ---
 
 County-level fiscal distress indicators for Jones County, NC.

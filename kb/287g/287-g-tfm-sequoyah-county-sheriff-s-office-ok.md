@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Sequoyah County'
+fips: '40135'
 ---
 
 287(g) agreement between ICE and Sequoyah County Sheriff’s Office.

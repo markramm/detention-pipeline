@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Keweenaw County'
+fips: '26083'
 ---
 
 County-level fiscal distress indicators for Keweenaw County, MI.

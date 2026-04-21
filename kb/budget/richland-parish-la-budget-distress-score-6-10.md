@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
+state: 'LA'
+county: 'Richland Parish'
+fips: '22083'
 ---
 
 County-level fiscal distress indicators for Richland Parish, LA.

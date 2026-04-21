@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Mercer County'
+fips: '42085'
 ---
 
 County-level fiscal distress indicators for Mercer County, PA.

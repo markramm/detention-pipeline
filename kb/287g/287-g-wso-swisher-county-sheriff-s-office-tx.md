@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Swisher County'
+fips: '48437'
 ---
 
 287(g) agreement between ICE and Swisher County Sheriff’s Office.

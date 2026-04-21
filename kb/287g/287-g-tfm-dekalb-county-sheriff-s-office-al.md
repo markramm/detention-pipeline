@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'DeKalb County'
+fips: '01049'
 ---
 
 287(g) agreement between ICE and DeKalb County Sheriff’s Office.

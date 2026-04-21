@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Hemphill County'
+fips: '48211'
 ---
 
 287(g) agreement between ICE and Hemphill County Sheriff’s Office.

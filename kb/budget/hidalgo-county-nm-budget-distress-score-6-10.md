@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Hidalgo County'
+fips: '35023'
 ---
 
 County-level fiscal distress indicators for Hidalgo County, NM.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Prairie County'
+fips: '30079'
 ---
 
 County-level fiscal distress indicators for Prairie County, MT.

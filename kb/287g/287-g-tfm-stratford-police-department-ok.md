@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Garvin County'
+fips: '40049'
 ---
 
 287(g) agreement between ICE and Stratford Police Department.

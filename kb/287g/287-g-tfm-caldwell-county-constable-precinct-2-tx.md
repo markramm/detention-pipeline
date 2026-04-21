@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Caldwell County'
+fips: '48055'
 ---
 
 287(g) agreement between ICE and Caldwell County Constable Precinct 2.

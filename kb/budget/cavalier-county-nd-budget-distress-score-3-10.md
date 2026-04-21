@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Cavalier County'
+fips: '38019'
 ---
 
 County-level fiscal distress indicators for Cavalier County, ND.

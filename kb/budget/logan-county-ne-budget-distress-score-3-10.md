@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Logan County'
+fips: '31113'
 ---
 
 County-level fiscal distress indicators for Logan County, NE.

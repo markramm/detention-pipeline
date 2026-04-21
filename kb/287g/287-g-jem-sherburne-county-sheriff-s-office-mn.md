@@ -7,6 +7,9 @@ tags:
 - jem
 - mn
 importance: 5
+state: 'MN'
+county: 'Sherburne County'
+fips: '27141'
 ---
 
 287(g) agreement between ICE and Sherburne County Sheriff’s Office.

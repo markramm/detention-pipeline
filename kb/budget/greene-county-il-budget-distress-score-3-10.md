@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Greene County'
+fips: '17061'
 ---
 
 County-level fiscal distress indicators for Greene County, IL.

@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Lancaster County'
+fips: '45057'
 ---
 
 287(g) agreement between ICE and Lancaster County Sheriff’s Office.

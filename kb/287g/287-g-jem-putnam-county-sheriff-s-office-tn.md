@@ -7,6 +7,9 @@ tags:
 - jem
 - tn
 importance: 5
+state: 'TN'
+county: 'Putnam County'
+fips: '47141'
 ---
 
 287(g) agreement between ICE and Putnam County Sheriff’s Office.

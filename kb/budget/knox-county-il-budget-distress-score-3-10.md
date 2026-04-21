@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Knox County'
+fips: '17095'
 ---
 
 County-level fiscal distress indicators for Knox County, IL.

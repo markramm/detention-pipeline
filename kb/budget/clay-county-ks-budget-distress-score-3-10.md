@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Clay County'
+fips: '20027'
 ---
 
 County-level fiscal distress indicators for Clay County, KS.

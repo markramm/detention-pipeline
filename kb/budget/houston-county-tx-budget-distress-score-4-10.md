@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Houston County'
+fips: '48225'
 ---
 
 County-level fiscal distress indicators for Houston County, TX.

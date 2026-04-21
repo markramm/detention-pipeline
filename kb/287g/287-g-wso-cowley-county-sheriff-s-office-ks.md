@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Cowley County'
+fips: '20035'
 ---
 
 287(g) agreement between ICE and Cowley County Sheriff’s Office.

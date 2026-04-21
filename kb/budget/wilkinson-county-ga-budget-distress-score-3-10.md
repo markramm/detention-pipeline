@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Wilkinson County'
+fips: '13319'
 ---
 
 County-level fiscal distress indicators for Wilkinson County, GA.

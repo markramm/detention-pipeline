@@ -18,6 +18,7 @@ tags:
 - community-opposition
 - county-commission-fight
 research_status: working
+fips: '12007'
 ---
 
 # Bradford County: The IGSA Blueprint

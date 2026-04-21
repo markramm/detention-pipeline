@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Marshall County'
+fips: '27089'
 ---
 
 County-level fiscal distress indicators for Marshall County, MN.

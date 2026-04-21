@@ -7,6 +7,9 @@ tags:
 - tfm
 - sc
 importance: 5
+state: 'SC'
+county: 'Florence County'
+fips: '45041'
 ---
 
 287(g) agreement between ICE and Olanta Police Department.

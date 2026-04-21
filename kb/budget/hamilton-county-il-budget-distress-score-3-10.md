@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Hamilton County'
+fips: '17065'
 ---
 
 County-level fiscal distress indicators for Hamilton County, IL.

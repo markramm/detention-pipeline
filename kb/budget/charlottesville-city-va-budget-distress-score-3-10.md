@@ -7,6 +7,9 @@ tags:
 - va
 - persistent-poverty
 importance: 5
+state: 'VA'
+county: 'Charlottesville city'
+fips: '51540'
 ---
 
 County-level fiscal distress indicators for Charlottesville city, VA.

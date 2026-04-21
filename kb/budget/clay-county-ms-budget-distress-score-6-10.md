@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Clay County'
+fips: '28025'
 ---
 
 County-level fiscal distress indicators for Clay County, MS.

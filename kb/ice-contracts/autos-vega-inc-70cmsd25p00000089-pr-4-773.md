@@ -8,6 +8,7 @@ tags:
 - detention-related
 - pr
 importance: 5
+state: 'PR'
 ---
 
 ICE contract award.

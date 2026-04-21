@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Clarke County'
+fips: '01025'
 ---
 
 287(g) agreement between ICE and Jackson Police Department.

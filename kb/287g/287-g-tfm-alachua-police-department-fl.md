@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Alachua County'
+fips: '12001'
 ---
 
 287(g) agreement between ICE and Alachua Police Department.

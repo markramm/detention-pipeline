@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Powder River County'
+fips: '30075'
 ---
 
 County-level fiscal distress indicators for Powder River County, MT.

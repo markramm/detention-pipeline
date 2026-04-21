@@ -7,6 +7,9 @@ tags:
 - tfm
 - nd
 importance: 5
+state: 'ND'
+county: 'Dunn County'
+fips: '38025'
 ---
 
 287(g) agreement between ICE and Dunn County Sheriff’s Office.

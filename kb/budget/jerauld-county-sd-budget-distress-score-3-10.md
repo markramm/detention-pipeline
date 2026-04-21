@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Jerauld County'
+fips: '46073'
 ---
 
 County-level fiscal distress indicators for Jerauld County, SD.

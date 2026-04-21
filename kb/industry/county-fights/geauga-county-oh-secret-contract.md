@@ -11,6 +11,7 @@ importance: 7
 tags: [aclu, transparency, secret-contract, ohio-supreme-court, foia]
 research_status: working
 last_researched: "2026-04-12"
+fips: '39055'
 ---
 
 # Geauga County: Secret ICE Contract Lawsuit

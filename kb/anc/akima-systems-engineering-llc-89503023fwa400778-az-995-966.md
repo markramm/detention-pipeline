@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - az
 importance: 5
+state: 'AZ'
 ---
 
 USAspending contract award.

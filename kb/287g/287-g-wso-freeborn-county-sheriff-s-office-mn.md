@@ -7,6 +7,9 @@ tags:
 - wso
 - mn
 importance: 5
+state: 'MN'
+county: 'Freeborn County'
+fips: '27047'
 ---
 
 287(g) agreement between ICE and Freeborn County Sheriff’s Office.

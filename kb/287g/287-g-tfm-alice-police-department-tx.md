@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Jim Wells County'
+fips: '48249'
 ---
 
 287(g) agreement between ICE and Alice Police Department.

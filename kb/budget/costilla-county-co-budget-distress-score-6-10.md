@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Costilla County'
+fips: '08023'
 ---
 
 County-level fiscal distress indicators for Costilla County, CO.

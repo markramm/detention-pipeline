@@ -8,6 +8,9 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
+state: 'GA'
+county: 'Twiggs County'
+fips: '13289'
 ---
 
 County-level fiscal distress indicators for Twiggs County, GA.

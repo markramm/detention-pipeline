@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Tucker County'
+fips: '54093'
 ---
 
 County-level fiscal distress indicators for Tucker County, WV.

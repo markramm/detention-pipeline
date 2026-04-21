@@ -8,6 +8,7 @@ tags:
 - detention-related
 - sc
 importance: 5
+state: 'SC'
 ---
 
 ICE contract award.

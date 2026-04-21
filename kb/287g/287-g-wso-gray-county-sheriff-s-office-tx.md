@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Gray County'
+fips: '48179'
 ---
 
 287(g) agreement between ICE and Gray County Sheriff’s Office.

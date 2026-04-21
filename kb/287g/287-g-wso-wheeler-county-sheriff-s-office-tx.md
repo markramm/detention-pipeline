@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Wheeler County'
+fips: '48483'
 ---
 
 287(g) agreement between ICE and Wheeler County Sheriff’s Office.

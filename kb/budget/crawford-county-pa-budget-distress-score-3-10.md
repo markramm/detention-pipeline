@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Crawford County'
+fips: '42039'
 ---
 
 County-level fiscal distress indicators for Crawford County, PA.

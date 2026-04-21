@@ -7,6 +7,7 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
 ---
 
 287(g) agreement between ICE and West Virginia National Guard.

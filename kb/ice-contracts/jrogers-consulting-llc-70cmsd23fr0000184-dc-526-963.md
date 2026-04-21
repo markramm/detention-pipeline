@@ -8,6 +8,7 @@ tags:
 - other-ice
 - dc
 importance: 5
+state: 'DC'
 ---
 
 ICE contract award.

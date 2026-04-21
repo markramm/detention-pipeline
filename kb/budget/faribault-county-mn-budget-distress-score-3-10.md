@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Faribault County'
+fips: '27043'
 ---
 
 County-level fiscal distress indicators for Faribault County, MN.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - oh
 importance: 5
+state: 'OH'
+county: 'Portage County'
+fips: '39133'
 ---
 
 287(g) agreement between ICE and Portage County Sheriff’s Office.

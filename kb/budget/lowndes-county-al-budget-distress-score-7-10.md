@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'AL'
+county: 'Lowndes County'
+fips: '01085'
 ---
 
 County-level fiscal distress indicators for Lowndes County, AL.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Glasscock County'
+fips: '48173'
 ---
 
 County-level fiscal distress indicators for Glasscock County, TX.

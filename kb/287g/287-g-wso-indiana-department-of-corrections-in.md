@@ -7,6 +7,9 @@ tags:
 - wso
 - in
 importance: 5
+state: 'IN'
+county: 'Putnam County'
+fips: '18133'
 ---
 
 287(g) agreement between ICE and Indiana Department of Corrections.

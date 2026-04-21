@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Pembina County'
+fips: '38067'
 ---
 
 County-level fiscal distress indicators for Pembina County, ND.

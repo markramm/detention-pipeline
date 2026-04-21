@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Shelby County'
+fips: '29205'
 ---
 
 County-level fiscal distress indicators for Shelby County, MO.

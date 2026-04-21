@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Deuel County'
+fips: '46039'
 ---
 
 County-level fiscal distress indicators for Deuel County, SD.

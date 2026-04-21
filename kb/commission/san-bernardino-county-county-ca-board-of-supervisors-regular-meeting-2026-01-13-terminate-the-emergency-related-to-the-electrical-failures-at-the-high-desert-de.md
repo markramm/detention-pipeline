@@ -7,6 +7,9 @@ tags:
 - ca
 - strong
 importance: 5
+state: 'CA'
+county: 'San Bernardino County'
+fips: '06071'
 ---
 
 County commission agenda item matching detention pipeline keywords.

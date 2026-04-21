@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Laurel County'
+fips: '21125'
 ---
 
 287(g) agreement between ICE and Laurel County Sheriff’s Office.

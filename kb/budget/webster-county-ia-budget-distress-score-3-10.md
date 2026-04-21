@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Webster County'
+fips: '19187'
 ---
 
 County-level fiscal distress indicators for Webster County, IA.

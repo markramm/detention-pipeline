@@ -9,6 +9,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'KY'
+county: 'Lawrence County'
+fips: '21127'
 ---
 
 County-level fiscal distress indicators for Lawrence County, KY.

@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'SC'
+county: 'Hampton County'
+fips: '45049'
 ---
 
 County-level fiscal distress indicators for Hampton County, SC.

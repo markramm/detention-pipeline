@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Bowman County'
+fips: '38011'
 ---
 
 County-level fiscal distress indicators for Bowman County, ND.

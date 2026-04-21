@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Pulaski County'
+fips: '18131'
 ---
 
 County-level fiscal distress indicators for Pulaski County, IN.

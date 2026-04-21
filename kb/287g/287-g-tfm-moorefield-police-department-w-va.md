@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Hardy County'
+fips: '54031'
 ---
 
 287(g) agreement between ICE and Moorefield Police Department.

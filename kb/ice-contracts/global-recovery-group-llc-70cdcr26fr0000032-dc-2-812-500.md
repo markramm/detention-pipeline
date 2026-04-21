@@ -8,6 +8,7 @@ tags:
 - detention-related
 - dc
 importance: 5
+state: 'DC'
 ---
 
 ICE contract award.

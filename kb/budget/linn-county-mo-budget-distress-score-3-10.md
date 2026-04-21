@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Linn County'
+fips: '29115'
 ---
 
 County-level fiscal distress indicators for Linn County, MO.

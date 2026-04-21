@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Forest County'
+fips: '55041'
 ---
 
 County-level fiscal distress indicators for Forest County, WI.

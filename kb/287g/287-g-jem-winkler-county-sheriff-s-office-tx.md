@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Winkler County'
+fips: '48495'
 ---
 
 287(g) agreement between ICE and Winkler County Sheriff’s Office.

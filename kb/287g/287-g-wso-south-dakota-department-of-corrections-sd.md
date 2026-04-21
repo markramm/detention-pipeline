@@ -7,6 +7,7 @@ tags:
 - wso
 - sd
 importance: 5
+state: 'SD'
 ---
 
 287(g) agreement between ICE and South Dakota Department of Corrections.

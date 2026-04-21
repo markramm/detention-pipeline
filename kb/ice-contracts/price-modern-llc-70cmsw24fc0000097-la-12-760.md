@@ -8,6 +8,7 @@ tags:
 - other-ice
 - la
 importance: 5
+state: 'LA'
 ---
 
 ICE contract award.

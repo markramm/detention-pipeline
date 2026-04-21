@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Montgomery County'
+fips: '21173'
 ---
 
 287(g) agreement between ICE and Montgomery County Sheriff’s Office.

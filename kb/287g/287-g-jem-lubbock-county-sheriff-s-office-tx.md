@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Lubbock County'
+fips: '48303'
 ---
 
 287(g) agreement between ICE and Lubbock County Sheriff’s Office.

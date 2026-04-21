@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Titus County'
+fips: '48449'
 ---
 
 287(g) agreement between ICE and Titus County Sheriff’s Office.

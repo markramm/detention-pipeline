@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NY'
+county: 'Cayuga County'
+fips: '36011'
 ---
 
 County-level fiscal distress indicators for Cayuga County, NY.

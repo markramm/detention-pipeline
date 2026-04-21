@@ -20,6 +20,7 @@ tags:
 - tom-kelleher
 - iwrnn
 research_status: working
+fips: '34027'
 ---
 
 # Roxbury, New Jersey: Multi-Level Legal Fight

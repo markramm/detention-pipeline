@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Campbell County'
+fips: '51031'
 ---
 
 287(g) agreement between ICE and Campbell County Sheriff’s Office.

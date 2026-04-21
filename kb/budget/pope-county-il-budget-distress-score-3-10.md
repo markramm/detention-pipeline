@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Pope County'
+fips: '17151'
 ---
 
 County-level fiscal distress indicators for Pope County, IL.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Edwards County'
+fips: '20047'
 ---
 
 County-level fiscal distress indicators for Edwards County, KS.

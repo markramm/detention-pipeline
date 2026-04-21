@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Des Moines County'
+fips: '19057'
 ---
 
 County-level fiscal distress indicators for Des Moines County, IA.

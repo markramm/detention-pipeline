@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Quay County'
+fips: '35037'
 ---
 
 County-level fiscal distress indicators for Quay County, NM.

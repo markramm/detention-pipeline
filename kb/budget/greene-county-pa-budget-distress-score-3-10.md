@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Greene County'
+fips: '42059'
 ---
 
 County-level fiscal distress indicators for Greene County, PA.

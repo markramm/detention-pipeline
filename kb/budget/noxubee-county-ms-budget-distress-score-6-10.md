@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Noxubee County'
+fips: '28103'
 ---
 
 County-level fiscal distress indicators for Noxubee County, MS.

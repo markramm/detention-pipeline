@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Cass County'
+fips: '17017'
 ---
 
 County-level fiscal distress indicators for Cass County, IL.

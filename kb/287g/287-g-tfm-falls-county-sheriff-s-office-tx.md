@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Falls County'
+fips: '48145'
 ---
 
 287(g) agreement between ICE and Falls County Sheriff’s Office.

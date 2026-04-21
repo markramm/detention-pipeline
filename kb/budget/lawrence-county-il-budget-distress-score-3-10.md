@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Lawrence County'
+fips: '17101'
 ---
 
 County-level fiscal distress indicators for Lawrence County, IL.

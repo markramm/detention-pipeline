@@ -7,6 +7,9 @@ tags:
 - pa
 - persistent-poverty
 importance: 5
+state: 'PA'
+county: 'Philadelphia County'
+fips: '42101'
 ---
 
 County-level fiscal distress indicators for Philadelphia County, PA.

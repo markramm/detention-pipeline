@@ -7,6 +7,9 @@ tags:
 - wa
 - weak
 importance: 5
+state: 'WA'
+county: 'Snohomish County'
+fips: '53061'
 ---
 
 County commission agenda item matching detention pipeline keywords.

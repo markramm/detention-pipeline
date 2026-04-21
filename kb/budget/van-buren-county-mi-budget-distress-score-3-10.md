@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Van Buren County'
+fips: '26159'
 ---
 
 County-level fiscal distress indicators for Van Buren County, MI.

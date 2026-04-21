@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Bowie County'
+fips: '48037'
 ---
 
 287(g) agreement between ICE and Bowie County Sheriff’s Office.

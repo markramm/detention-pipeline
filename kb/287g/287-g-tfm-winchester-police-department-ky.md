@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Clark County'
+fips: '21049'
 ---
 
 287(g) agreement between ICE and Winchester Police Department.

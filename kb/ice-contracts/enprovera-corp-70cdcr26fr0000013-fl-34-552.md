@@ -8,6 +8,7 @@ tags:
 - detention-related
 - fl
 importance: 5
+state: 'FL'
 ---
 
 ICE contract award.

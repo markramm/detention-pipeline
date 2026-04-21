@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Ouachita County'
+fips: '05103'
 ---
 
 County-level fiscal distress indicators for Ouachita County, AR.

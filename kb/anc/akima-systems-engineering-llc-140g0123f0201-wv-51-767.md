@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - wv
 importance: 5
+state: 'WV'
 ---
 
 USAspending contract award.

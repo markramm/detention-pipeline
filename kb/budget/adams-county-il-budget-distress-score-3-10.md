@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Adams County'
+fips: '17001'
 ---
 
 County-level fiscal distress indicators for Adams County, IL.

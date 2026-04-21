@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - va
 importance: 5
+state: 'VA'
 ---
 
 USAspending contract award.

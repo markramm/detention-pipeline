@@ -7,6 +7,9 @@ tags:
 - wso
 - wy
 importance: 5
+state: 'WY'
+county: 'Crook County'
+fips: '56011'
 ---
 
 287(g) agreement between ICE and Crook County Sheriff’s Office.

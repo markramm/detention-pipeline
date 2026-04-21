@@ -7,6 +7,7 @@ tags:
 - jem
 - va
 importance: 5
+state: 'VA'
 ---
 
 287(g) agreement between ICE and Virginia Department of Corrections.

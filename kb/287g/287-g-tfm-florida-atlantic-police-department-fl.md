@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Broward County'
+fips: '12011'
 ---
 
 287(g) agreement between ICE and Florida Atlantic Police Department.

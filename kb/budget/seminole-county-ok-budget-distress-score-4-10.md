@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Seminole County'
+fips: '40133'
 ---
 
 County-level fiscal distress indicators for Seminole County, OK.

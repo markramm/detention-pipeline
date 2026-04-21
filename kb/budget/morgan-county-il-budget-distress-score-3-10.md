@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Morgan County'
+fips: '17137'
 ---
 
 County-level fiscal distress indicators for Morgan County, IL.

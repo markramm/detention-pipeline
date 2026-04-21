@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Ashley County'
+fips: '05003'
 ---
 
 County-level fiscal distress indicators for Ashley County, AR.

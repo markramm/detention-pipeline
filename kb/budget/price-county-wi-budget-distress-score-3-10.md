@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Price County'
+fips: '55099'
 ---
 
 County-level fiscal distress indicators for Price County, WI.

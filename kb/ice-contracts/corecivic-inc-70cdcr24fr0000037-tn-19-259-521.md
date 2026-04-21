@@ -8,6 +8,7 @@ tags:
 - detention-related
 - tn
 importance: 5
+state: 'TN'
 ---
 
 ICE contract award.

@@ -7,6 +7,9 @@ tags:
 - jem
 - nc
 importance: 5
+state: 'NC'
+county: 'Gaston County'
+fips: '37071'
 ---
 
 287(g) agreement between ICE and Gaston County Sheriff’s Office.

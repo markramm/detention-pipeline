@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Fremont County'
+fips: '08043'
 ---
 
 County-level fiscal distress indicators for Fremont County, CO.

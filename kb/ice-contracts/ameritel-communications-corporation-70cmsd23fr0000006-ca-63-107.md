@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ca
 importance: 5
+state: 'CA'
 ---
 
 ICE contract award.

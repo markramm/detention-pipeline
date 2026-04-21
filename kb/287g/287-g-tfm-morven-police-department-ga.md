@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Brooks County'
+fips: '13027'
 ---
 
 287(g) agreement between ICE and Morven Police Department.

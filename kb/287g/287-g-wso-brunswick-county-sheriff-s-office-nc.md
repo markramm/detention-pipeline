@@ -7,6 +7,9 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Brunswick County'
+fips: '37019'
 ---
 
 287(g) agreement between ICE and Brunswick County Sheriff’s Office.

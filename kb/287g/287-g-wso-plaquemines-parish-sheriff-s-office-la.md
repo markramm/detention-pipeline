@@ -7,6 +7,9 @@ tags:
 - wso
 - la
 importance: 5
+state: 'LA'
+county: 'Plaquemines Parish'
+fips: '22075'
 ---
 
 287(g) agreement between ICE and Plaquemines Parish Sheriff’s Office.

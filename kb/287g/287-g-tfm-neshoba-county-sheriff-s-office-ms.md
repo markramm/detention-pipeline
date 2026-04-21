@@ -7,6 +7,9 @@ tags:
 - tfm
 - ms
 importance: 5
+state: 'MS'
+county: 'Neshoba County'
+fips: '28099'
 ---
 
 287(g) agreement between ICE and Neshoba County Sheriff’s Office.

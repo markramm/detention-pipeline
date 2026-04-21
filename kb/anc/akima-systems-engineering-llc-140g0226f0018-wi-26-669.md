@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - wi
 importance: 5
+state: 'WI'
 ---
 
 USAspending contract award.

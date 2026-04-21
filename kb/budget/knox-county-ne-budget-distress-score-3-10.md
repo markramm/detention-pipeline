@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Knox County'
+fips: '31107'
 ---
 
 County-level fiscal distress indicators for Knox County, NE.

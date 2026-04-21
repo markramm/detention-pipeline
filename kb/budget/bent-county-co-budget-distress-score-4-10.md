@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Bent County'
+fips: '08011'
 ---
 
 County-level fiscal distress indicators for Bent County, CO.

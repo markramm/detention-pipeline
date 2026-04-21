@@ -9,6 +9,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'TX'
+county: 'Jones County'
+fips: '48253'
 ---
 
 County-level fiscal distress indicators for Jones County, TX.

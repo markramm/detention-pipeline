@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Winneshiek County'
+fips: '19191'
 ---
 
 County-level fiscal distress indicators for Winneshiek County, IA.

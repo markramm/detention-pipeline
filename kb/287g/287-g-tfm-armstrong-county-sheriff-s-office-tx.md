@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Armstrong County'
+fips: '48011'
 ---
 
 287(g) agreement between ICE and Armstrong County Sheriff’s Office.

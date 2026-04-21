@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Chambers County'
+fips: '01017'
 ---
 
 287(g) agreement between ICE and Lanett Police Department.

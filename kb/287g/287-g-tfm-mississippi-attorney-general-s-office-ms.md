@@ -7,6 +7,7 @@ tags:
 - tfm
 - ms
 importance: 5
+state: 'MS'
 ---
 
 287(g) agreement between ICE and Mississippi Attorney General’s Office.

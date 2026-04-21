@@ -7,6 +7,9 @@ tags:
 - tfm
 - la
 importance: 5
+state: 'LA'
+county: 'Vermilion Parish'
+fips: '22113'
 ---
 
 287(g) agreement between ICE and Gueydan Police Department.

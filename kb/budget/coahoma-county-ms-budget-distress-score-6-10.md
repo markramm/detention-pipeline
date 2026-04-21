@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Coahoma County'
+fips: '28027'
 ---
 
 County-level fiscal distress indicators for Coahoma County, MS.

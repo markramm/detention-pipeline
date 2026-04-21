@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Choctaw County'
+fips: '28019'
 ---
 
 County-level fiscal distress indicators for Choctaw County, MS.

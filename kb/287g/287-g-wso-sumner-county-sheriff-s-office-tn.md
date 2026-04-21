@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Sumner County'
+fips: '47165'
 ---
 
 287(g) agreement between ICE and Sumner County Sheriff’s Office.

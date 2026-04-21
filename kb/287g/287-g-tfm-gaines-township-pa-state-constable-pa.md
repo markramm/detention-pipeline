@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Tioga County'
+fips: '42117'
 ---
 
 287(g) agreement between ICE and Gaines Township PA State Constable.

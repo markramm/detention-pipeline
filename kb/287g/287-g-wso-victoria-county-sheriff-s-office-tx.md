@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Victoria County'
+fips: '48469'
 ---
 
 287(g) agreement between ICE and Victoria County Sheriff’s Office.

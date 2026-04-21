@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'ID'
+county: 'Madison County'
+fips: '16065'
 ---
 
 County-level fiscal distress indicators for Madison County, ID.

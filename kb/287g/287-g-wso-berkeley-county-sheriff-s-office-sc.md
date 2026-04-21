@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Berkeley County'
+fips: '45015'
 ---
 
 287(g) agreement between ICE and Berkeley County Sheriff’s Office.

@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - md
 importance: 5
+state: 'MD'
 ---
 
 USAspending contract award.

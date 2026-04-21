@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Alpena County'
+fips: '26007'
 ---
 
 County-level fiscal distress indicators for Alpena County, MI.

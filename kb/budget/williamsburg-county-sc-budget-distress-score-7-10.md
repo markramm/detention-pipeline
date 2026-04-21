@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'SC'
+county: 'Williamsburg County'
+fips: '45089'
 ---
 
 County-level fiscal distress indicators for Williamsburg County, SC.

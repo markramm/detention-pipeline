@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Howard County'
+fips: '48227'
 ---
 
 287(g) agreement between ICE and Howard County Sheriff’s Office.

@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Jackson County'
+fips: '21109'
 ---
 
 County-level fiscal distress indicators for Jackson County, KY.

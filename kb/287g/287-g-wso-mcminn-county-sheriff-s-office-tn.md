@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'McMinn County'
+fips: '47107'
 ---
 
 287(g) agreement between ICE and McMinn County Sheriff’s Office.

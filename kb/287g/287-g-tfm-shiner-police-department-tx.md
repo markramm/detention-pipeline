@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Lavaca County'
+fips: '48285'
 ---
 
 287(g) agreement between ICE and Shiner Police Department.

@@ -7,6 +7,9 @@ tags:
 - jem
 - az
 importance: 5
+state: 'AZ'
+county: 'La Paz County'
+fips: '04012'
 ---
 
 287(g) agreement between ICE and La Paz County Sheriff’s Office.

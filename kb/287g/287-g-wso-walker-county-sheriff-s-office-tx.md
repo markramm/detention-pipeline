@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Walker County'
+fips: '48471'
 ---
 
 287(g) agreement between ICE and Walker County Sheriff’s Office.

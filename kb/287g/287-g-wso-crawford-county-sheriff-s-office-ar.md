@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Crawford County'
+fips: '05033'
 ---
 
 287(g) agreement between ICE and Crawford County Sheriff’s Office.

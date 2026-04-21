@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Indiana County'
+fips: '42063'
 ---
 
 County-level fiscal distress indicators for Indiana County, PA.

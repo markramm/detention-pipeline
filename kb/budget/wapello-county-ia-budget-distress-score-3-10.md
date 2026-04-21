@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Wapello County'
+fips: '19179'
 ---
 
 County-level fiscal distress indicators for Wapello County, IA.

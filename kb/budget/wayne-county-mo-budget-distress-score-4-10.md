@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Wayne County'
+fips: '29223'
 ---
 
 County-level fiscal distress indicators for Wayne County, MO.

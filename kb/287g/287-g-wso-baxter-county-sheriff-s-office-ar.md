@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Baxter County'
+fips: '05005'
 ---
 
 287(g) agreement between ICE and Baxter County Sheriff’s Office.

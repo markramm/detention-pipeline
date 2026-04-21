@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Powell County'
+fips: '21197'
 ---
 
 287(g) agreement between ICE and Stanton Police Department.

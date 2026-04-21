@@ -16,6 +16,7 @@ tags:
 - chilling-effect
 research_status: working
 last_researched: "2026-04-12"
+fips: '36065'
 ---
 
 # Camden, Oneida County, NY: 287(g) After ICE Took Restaurant Owner

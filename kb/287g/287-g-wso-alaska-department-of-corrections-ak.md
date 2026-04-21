@@ -7,6 +7,7 @@ tags:
 - wso
 - ak
 importance: 5
+state: 'AK'
 ---
 
 287(g) agreement between ICE and Alaska Department of Corrections.

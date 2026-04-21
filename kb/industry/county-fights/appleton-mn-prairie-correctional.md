@@ -3,7 +3,7 @@ id: appleton-mn-prairie-correctional
 title: "Appleton MN — CoreCivic's Shuttered Prison Targeted for ICE Detention"
 type: county-fight
 county: Swift
-state: Minnesota
+state: 'MN'
 facility: null
 status: contested
 vote_tally: ""
@@ -17,6 +17,7 @@ tags:
 - community-opposition
 - faith-leaders
 research_status: working
+fips: '27151'
 ---
 
 # Appleton, Minnesota: CoreCivic's 1,600-Bed Threat

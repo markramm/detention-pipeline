@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Winn Parish'
+fips: '22127'
 ---
 
 County-level fiscal distress indicators for Winn Parish, LA.

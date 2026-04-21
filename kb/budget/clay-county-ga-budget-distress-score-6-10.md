@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Clay County'
+fips: '13061'
 ---
 
 County-level fiscal distress indicators for Clay County, GA.

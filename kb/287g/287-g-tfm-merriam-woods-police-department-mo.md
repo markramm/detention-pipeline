@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Taney County'
+fips: '29213'
 ---
 
 287(g) agreement between ICE and Merriam Woods Police Department.

@@ -7,6 +7,9 @@ tags:
 - tx
 - persistent-poverty
 importance: 5
+state: 'TX'
+county: 'Webb County'
+fips: '48479'
 ---
 
 County-level fiscal distress indicators for Webb County, TX.

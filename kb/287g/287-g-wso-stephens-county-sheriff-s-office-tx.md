@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Stephens County'
+fips: '48429'
 ---
 
 287(g) agreement between ICE and Stephens County Sheriff’s Office.

@@ -7,6 +7,7 @@ tags:
 - tfm
 - sc
 importance: 5
+state: 'SC'
 ---
 
 287(g) agreement between ICE and South Carolina Law Enforcement Division.

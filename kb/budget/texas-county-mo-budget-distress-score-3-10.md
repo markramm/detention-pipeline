@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Texas County'
+fips: '29215'
 ---
 
 County-level fiscal distress indicators for Texas County, MO.

@@ -7,6 +7,9 @@ tags:
 - wso
 - ut
 importance: 5
+state: 'UT'
+county: 'Wasatch County'
+fips: '49051'
 ---
 
 287(g) agreement between ICE and Wasatch County Sheriff’s Office.

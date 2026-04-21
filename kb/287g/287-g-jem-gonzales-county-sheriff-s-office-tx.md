@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Gonzales County'
+fips: '48177'
 ---
 
 287(g) agreement between ICE and Gonzales County Sheriff’s Office.

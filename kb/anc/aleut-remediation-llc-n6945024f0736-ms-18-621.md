@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ms
 importance: 5
+state: 'MS'
 ---
 
 USAspending contract award.

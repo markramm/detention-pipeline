@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Atchison County'
+fips: '29005'
 ---
 
 County-level fiscal distress indicators for Atchison County, MO.

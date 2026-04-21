@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Humboldt County'
+fips: '19091'
 ---
 
 County-level fiscal distress indicators for Humboldt County, IA.

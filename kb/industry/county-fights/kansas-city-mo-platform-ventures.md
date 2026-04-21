@@ -19,6 +19,7 @@ tags:
 - port-kc
 - tax-incentives
 research_status: working
+fips: '29095'
 ---
 
 # Kansas City: How Community Pressure Killed an ICE Mega Center

@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Washington County'
+fips: '28151'
 ---
 
 County-level fiscal distress indicators for Washington County, MS.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Pendleton County'
+fips: '21191'
 ---
 
 287(g) agreement between ICE and Pendleton County Sheriff’s Office.

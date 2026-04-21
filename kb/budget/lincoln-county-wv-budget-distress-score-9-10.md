@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Lincoln County'
+fips: '54043'
 ---
 
 County-level fiscal distress indicators for Lincoln County, WV.

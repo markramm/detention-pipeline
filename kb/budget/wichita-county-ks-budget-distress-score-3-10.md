@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Wichita County'
+fips: '20203'
 ---
 
 County-level fiscal distress indicators for Wichita County, KS.

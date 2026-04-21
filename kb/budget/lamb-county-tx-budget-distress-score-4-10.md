@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Lamb County'
+fips: '48279'
 ---
 
 County-level fiscal distress indicators for Lamb County, TX.

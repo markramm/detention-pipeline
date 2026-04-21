@@ -8,6 +8,7 @@ tags:
 - detention-related
 - ks
 importance: 5
+state: 'KS'
 ---
 
 ICE contract award.

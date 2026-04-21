@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Wabash County'
+fips: '17185'
 ---
 
 County-level fiscal distress indicators for Wabash County, IL.

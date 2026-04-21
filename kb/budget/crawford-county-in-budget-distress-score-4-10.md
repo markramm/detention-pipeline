@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Crawford County'
+fips: '18025'
 ---
 
 County-level fiscal distress indicators for Crawford County, IN.

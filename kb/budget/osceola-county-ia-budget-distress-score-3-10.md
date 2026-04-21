@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Osceola County'
+fips: '19143'
 ---
 
 County-level fiscal distress indicators for Osceola County, IA.

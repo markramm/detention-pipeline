@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Chaves County'
+fips: '35005'
 ---
 
 County-level fiscal distress indicators for Chaves County, NM.

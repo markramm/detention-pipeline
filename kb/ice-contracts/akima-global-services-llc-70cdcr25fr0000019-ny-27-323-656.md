@@ -8,6 +8,7 @@ tags:
 - detention-related
 - ny
 importance: 5
+state: 'NY'
 ---
 
 ICE contract award.

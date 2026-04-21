@@ -7,6 +7,9 @@ tags:
 - wso
 - mn
 importance: 5
+state: 'MN'
+county: 'Crow Wing County'
+fips: '27035'
 ---
 
 287(g) agreement between ICE and Crow Wing County Sheriff’s Office.

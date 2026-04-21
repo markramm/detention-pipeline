@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Blaine County'
+fips: '30005'
 ---
 
 County-level fiscal distress indicators for Blaine County, MT.

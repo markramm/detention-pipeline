@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Nueces County'
+fips: '48355'
 ---
 
 287(g) agreement between ICE and Nueces County Constable Precinct 4.

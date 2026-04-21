@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Clare County'
+fips: '26035'
 ---
 
 County-level fiscal distress indicators for Clare County, MI.

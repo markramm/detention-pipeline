@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Pendleton County'
+fips: '54071'
 ---
 
 County-level fiscal distress indicators for Pendleton County, WV.

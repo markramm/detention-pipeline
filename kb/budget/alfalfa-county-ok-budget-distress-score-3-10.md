@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Alfalfa County'
+fips: '40003'
 ---
 
 County-level fiscal distress indicators for Alfalfa County, OK.

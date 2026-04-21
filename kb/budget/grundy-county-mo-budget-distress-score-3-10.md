@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Grundy County'
+fips: '29079'
 ---
 
 County-level fiscal distress indicators for Grundy County, MO.

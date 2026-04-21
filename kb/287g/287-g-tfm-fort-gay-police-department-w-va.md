@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Wayne County'
+fips: '54099'
 ---
 
 287(g) agreement between ICE and Fort Gay Police Department.

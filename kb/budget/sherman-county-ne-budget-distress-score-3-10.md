@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Sherman County'
+fips: '31163'
 ---
 
 County-level fiscal distress indicators for Sherman County, NE.

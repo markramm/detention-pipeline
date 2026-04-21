@@ -7,6 +7,9 @@ tags:
 - wso
 - md
 importance: 5
+state: 'MD'
+county: 'Allegany County'
+fips: '24001'
 ---
 
 287(g) agreement between ICE and Allegany County Sheriff’s Office.

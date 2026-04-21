@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Calhoun County'
+fips: '54013'
 ---
 
 County-level fiscal distress indicators for Calhoun County, WV.

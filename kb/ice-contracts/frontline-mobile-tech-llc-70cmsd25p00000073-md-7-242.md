@@ -8,6 +8,7 @@ tags:
 - detention-related
 - md
 importance: 5
+state: 'MD'
 ---
 
 ICE contract award.

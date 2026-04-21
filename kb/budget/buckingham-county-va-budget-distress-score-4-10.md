@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Buckingham County'
+fips: '51029'
 ---
 
 County-level fiscal distress indicators for Buckingham County, VA.

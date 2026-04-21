@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Rio Grande County'
+fips: '08105'
 ---
 
 County-level fiscal distress indicators for Rio Grande County, CO.

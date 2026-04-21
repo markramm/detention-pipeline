@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Live Oak County'
+fips: '48297'
 ---
 
 287(g) agreement between ICE and Live Oak County Sheriff’s Office.

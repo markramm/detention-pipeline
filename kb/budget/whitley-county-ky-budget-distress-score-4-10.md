@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Whitley County'
+fips: '21235'
 ---
 
 County-level fiscal distress indicators for Whitley County, KY.

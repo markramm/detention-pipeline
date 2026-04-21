@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Wayne County'
+fips: '17191'
 ---
 
 County-level fiscal distress indicators for Wayne County, IL.

@@ -13,6 +13,7 @@ tags:
 - public-override
 - democratic-deficit
 research_status: complete
+fips: '49049'
 ---
 
 # Utah County: Democracy Overridden

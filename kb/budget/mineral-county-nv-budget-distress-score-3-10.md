@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NV'
+county: 'Mineral County'
+fips: '32021'
 ---
 
 County-level fiscal distress indicators for Mineral County, NV.

@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Catoosa County'
+fips: '13047'
 ---
 
 287(g) agreement between ICE and Catoosa County Sheriff’s Office.

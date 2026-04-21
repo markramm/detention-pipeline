@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Sac County'
+fips: '19161'
 ---
 
 County-level fiscal distress indicators for Sac County, IA.

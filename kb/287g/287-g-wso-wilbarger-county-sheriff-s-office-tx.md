@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Wilbarger County'
+fips: '48487'
 ---
 
 287(g) agreement between ICE and Wilbarger County Sheriff’s Office.

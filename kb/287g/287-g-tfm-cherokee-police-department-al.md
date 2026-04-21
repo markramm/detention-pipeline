@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Cherokee County'
+fips: '01019'
 ---
 
 287(g) agreement between ICE and Cherokee Police Department.

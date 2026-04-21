@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Deuel County'
+fips: '31049'
 ---
 
 County-level fiscal distress indicators for Deuel County, NE.

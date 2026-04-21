@@ -7,6 +7,9 @@ tags:
 - ms
 - persistent-poverty
 importance: 5
+state: 'MS'
+county: 'Marshall County'
+fips: '28093'
 ---
 
 County-level fiscal distress indicators for Marshall County, MS.

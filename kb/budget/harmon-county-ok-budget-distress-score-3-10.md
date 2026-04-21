@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Harmon County'
+fips: '40057'
 ---
 
 County-level fiscal distress indicators for Harmon County, OK.

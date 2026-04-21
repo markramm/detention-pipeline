@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Grayson County'
+fips: '51077'
 ---
 
 County-level fiscal distress indicators for Grayson County, VA.

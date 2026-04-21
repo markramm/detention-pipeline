@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Oglala Lakota County'
+fips: '46102'
 ---
 
 County-level fiscal distress indicators for Oglala Lakota County, SD.

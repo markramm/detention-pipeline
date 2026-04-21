@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Cumberland County'
+fips: '47035'
 ---
 
 287(g) agreement between ICE and Cumberland County Sheriff’s Office.

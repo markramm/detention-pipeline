@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Scott County'
+fips: '17171'
 ---
 
 County-level fiscal distress indicators for Scott County, IL.

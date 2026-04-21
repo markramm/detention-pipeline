@@ -7,6 +7,9 @@ tags:
 - nm
 - persistent-poverty
 importance: 5
+state: 'NM'
+county: 'Doña Ana County'
+fips: '35013'
 ---
 
 County-level fiscal distress indicators for Doña Ana County, NM.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Stevens County'
+fips: '27149'
 ---
 
 County-level fiscal distress indicators for Stevens County, MN.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Pecos County'
+fips: '48371'
 ---
 
 287(g) agreement between ICE and Pecos County Sheriff’s Office.

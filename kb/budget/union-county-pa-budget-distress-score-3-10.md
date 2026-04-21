@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Union County'
+fips: '42119'
 ---
 
 County-level fiscal distress indicators for Union County, PA.

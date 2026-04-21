@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Thurston County'
+fips: '31173'
 ---
 
 County-level fiscal distress indicators for Thurston County, NE.

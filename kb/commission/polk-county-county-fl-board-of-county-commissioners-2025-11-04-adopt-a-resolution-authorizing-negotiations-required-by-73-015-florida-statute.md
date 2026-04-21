@@ -7,6 +7,9 @@ tags:
 - fl
 - weak
 importance: 5
+state: 'FL'
+county: 'Polk County'
+fips: '12105'
 ---
 
 County commission agenda item matching detention pipeline keywords.

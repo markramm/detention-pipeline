@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Cuming County'
+fips: '31039'
 ---
 
 County-level fiscal distress indicators for Cuming County, NE.

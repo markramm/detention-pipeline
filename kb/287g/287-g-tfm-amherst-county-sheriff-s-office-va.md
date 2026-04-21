@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Amherst County'
+fips: '51009'
 ---
 
 287(g) agreement between ICE and Amherst County Sheriff’s Office.

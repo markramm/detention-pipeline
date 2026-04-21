@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WY'
+county: 'Platte County'
+fips: '56031'
 ---
 
 County-level fiscal distress indicators for Platte County, WY.

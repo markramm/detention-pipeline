@@ -7,6 +7,9 @@ tags:
 - tx
 - persistent-poverty
 importance: 5
+state: 'TX'
+county: 'Cameron County'
+fips: '48061'
 ---
 
 County-level fiscal distress indicators for Cameron County, TX.

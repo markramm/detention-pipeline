@@ -7,6 +7,9 @@ tags:
 - tfm
 - ar
 importance: 5
+state: 'AR'
+county: 'Jackson County'
+fips: '05067'
 ---
 
 287(g) agreement between ICE and Tuckerman Police Department.

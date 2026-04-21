@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Daniels County'
+fips: '30019'
 ---
 
 County-level fiscal distress indicators for Daniels County, MT.

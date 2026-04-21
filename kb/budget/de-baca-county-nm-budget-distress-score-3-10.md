@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NM'
+county: 'De Baca County'
+fips: '35011'
 ---
 
 County-level fiscal distress indicators for De Baca County, NM.

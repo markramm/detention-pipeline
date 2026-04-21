@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Turner County'
+fips: '13287'
 ---
 
 287(g) agreement between ICE and Turner County Sheriff’s Office.

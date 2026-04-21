@@ -7,6 +7,9 @@ tags:
 - jem
 - md
 importance: 5
+state: 'MD'
+county: 'Harford County'
+fips: '24025'
 ---
 
 287(g) agreement between ICE and Harford County Sheriff’s Office.

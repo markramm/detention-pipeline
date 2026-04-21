@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Hardeman County'
+fips: '48197'
 ---
 
 County-level fiscal distress indicators for Hardeman County, TX.

@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Early County'
+fips: '13099'
 ---
 
 County-level fiscal distress indicators for Early County, GA.

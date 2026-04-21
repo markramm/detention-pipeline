@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'NV'
+county: 'White Pine County'
+fips: '32033'
 ---
 
 County-level fiscal distress indicators for White Pine County, NV.

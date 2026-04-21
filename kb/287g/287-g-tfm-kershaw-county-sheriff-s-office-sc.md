@@ -7,6 +7,9 @@ tags:
 - tfm
 - sc
 importance: 5
+state: 'SC'
+county: 'Kershaw County'
+fips: '45055'
 ---
 
 287(g) agreement between ICE and Kershaw County Sheriff’s Office.

@@ -8,6 +8,7 @@ tags:
 - other-ice
 - pa
 importance: 5
+state: 'PA'
 ---
 
 ICE contract award.

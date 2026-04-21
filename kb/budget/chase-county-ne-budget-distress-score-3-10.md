@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Chase County'
+fips: '31029'
 ---
 
 County-level fiscal distress indicators for Chase County, NE.

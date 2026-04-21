@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Wharton County'
+fips: '48481'
 ---
 
 287(g) agreement between ICE and Wharton County Sheriff’s Office.

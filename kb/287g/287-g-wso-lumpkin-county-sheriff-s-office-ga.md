@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Lumpkin County'
+fips: '13187'
 ---
 
 287(g) agreement between ICE and Lumpkin County Sheriff’s Office.

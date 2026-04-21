@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Powell County'
+fips: '30077'
 ---
 
 County-level fiscal distress indicators for Powell County, MT.

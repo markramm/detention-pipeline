@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Clinton County'
+fips: '21053'
 ---
 
 287(g) agreement between ICE and Clinton County Sheriff’s Office.

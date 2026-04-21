@@ -7,6 +7,9 @@ tags:
 - jem
 - mo
 importance: 5
+state: 'MO'
+county: 'Pettis County'
+fips: '29159'
 ---
 
 287(g) agreement between ICE and Pettis County Sheriff’s Office.

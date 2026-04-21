@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'CA'
+county: 'Trinity County'
+fips: '06105'
 ---
 
 County-level fiscal distress indicators for Trinity County, CA.

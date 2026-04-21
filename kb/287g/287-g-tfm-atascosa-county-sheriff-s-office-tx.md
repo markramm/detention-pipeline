@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Atascosa County'
+fips: '48013'
 ---
 
 287(g) agreement between ICE and Atascosa County Sheriff’s Office.

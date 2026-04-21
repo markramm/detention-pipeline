@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - wa
 importance: 5
+state: 'WA'
 ---
 
 USAspending contract award.

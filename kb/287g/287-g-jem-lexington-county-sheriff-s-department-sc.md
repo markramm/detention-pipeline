@@ -7,6 +7,9 @@ tags:
 - jem
 - sc
 importance: 5
+state: 'SC'
+county: 'Lexington County'
+fips: '45063'
 ---
 
 287(g) agreement between ICE and Lexington County Sheriff’s Department.

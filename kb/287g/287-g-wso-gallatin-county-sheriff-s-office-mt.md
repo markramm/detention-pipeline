@@ -7,6 +7,9 @@ tags:
 - wso
 - mt
 importance: 5
+state: 'MT'
+county: 'Gallatin County'
+fips: '30031'
 ---
 
 287(g) agreement between ICE and Gallatin County Sheriff’s Office.

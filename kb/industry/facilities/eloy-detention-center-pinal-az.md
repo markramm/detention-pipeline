@@ -21,6 +21,7 @@ tags:
 - pinal-county-cluster
 - florence-project
 research_status: working
+fips: '04021'
 ---
 
 # Eloy Detention Center — "Deadliest Immigration Detention Center in the U.S."

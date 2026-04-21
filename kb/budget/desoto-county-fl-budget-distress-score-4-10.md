@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'DeSoto County'
+fips: '12027'
 ---
 
 County-level fiscal distress indicators for DeSoto County, FL.

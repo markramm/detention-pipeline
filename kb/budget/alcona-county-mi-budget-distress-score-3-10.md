@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Alcona County'
+fips: '26001'
 ---
 
 County-level fiscal distress indicators for Alcona County, MI.

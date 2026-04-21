@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Morris County'
+fips: '20127'
 ---
 
 County-level fiscal distress indicators for Morris County, KS.

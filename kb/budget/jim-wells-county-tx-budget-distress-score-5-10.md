@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Jim Wells County'
+fips: '48249'
 ---
 
 County-level fiscal distress indicators for Jim Wells County, TX.

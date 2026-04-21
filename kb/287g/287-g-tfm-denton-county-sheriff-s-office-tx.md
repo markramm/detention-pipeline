@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Denton County'
+fips: '48121'
 ---
 
 287(g) agreement between ICE and Denton County Sheriff’s Office.

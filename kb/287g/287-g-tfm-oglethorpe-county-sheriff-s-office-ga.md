@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Oglethorpe County'
+fips: '13221'
 ---
 
 287(g) agreement between ICE and Oglethorpe County Sheriff’s Office.

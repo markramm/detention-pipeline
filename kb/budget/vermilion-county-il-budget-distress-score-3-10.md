@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Vermilion County'
+fips: '17183'
 ---
 
 County-level fiscal distress indicators for Vermilion County, IL.

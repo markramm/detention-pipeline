@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Upton County'
+fips: '48461'
 ---
 
 County-level fiscal distress indicators for Upton County, TX.

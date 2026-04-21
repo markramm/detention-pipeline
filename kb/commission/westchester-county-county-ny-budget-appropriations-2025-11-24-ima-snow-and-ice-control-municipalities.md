@@ -7,6 +7,9 @@ tags:
 - ny
 - moderate
 importance: 5
+state: 'NY'
+county: 'Westchester County'
+fips: '36119'
 ---
 
 County commission agenda item matching detention pipeline keywords.

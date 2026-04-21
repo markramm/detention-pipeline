@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Cloud County'
+fips: '20029'
 ---
 
 County-level fiscal distress indicators for Cloud County, KS.

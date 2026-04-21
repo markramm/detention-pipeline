@@ -7,6 +7,9 @@ tags:
 - tx
 - persistent-poverty
 importance: 5
+state: 'TX'
+county: 'Brazos County'
+fips: '48041'
 ---
 
 County-level fiscal distress indicators for Brazos County, TX.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Putnam County'
+fips: '54079'
 ---
 
 287(g) agreement between ICE and Hurricane Police Department.

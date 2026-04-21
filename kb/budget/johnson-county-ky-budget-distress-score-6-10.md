@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Johnson County'
+fips: '21115'
 ---
 
 County-level fiscal distress indicators for Johnson County, KY.

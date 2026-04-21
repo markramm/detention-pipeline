@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Cameron County'
+fips: '48061'
 ---
 
 287(g) agreement between ICE and Cameron County Sheriff’s Office.

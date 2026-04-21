@@ -7,6 +7,9 @@ tags:
 - tfm
 - mt
 importance: 5
+state: 'MT'
+county: 'Garfield County'
+fips: '30033'
 ---
 
 287(g) agreement between ICE and Garfield County Sheriff’s Office.

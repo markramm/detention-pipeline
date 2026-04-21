@@ -7,6 +7,9 @@ tags:
 - va
 - persistent-poverty
 importance: 5
+state: 'VA'
+county: 'Montgomery County'
+fips: '51121'
 ---
 
 County-level fiscal distress indicators for Montgomery County, VA.

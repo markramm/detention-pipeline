@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ne
 importance: 5
+state: 'NE'
 ---
 
 USAspending contract award.

@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Kinney County'
+fips: '48271'
 ---
 
 County-level fiscal distress indicators for Kinney County, TX.

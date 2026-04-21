@@ -7,6 +7,9 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Nash County'
+fips: '37127'
 ---
 
 287(g) agreement between ICE and Nash County Sheriff’s Office.

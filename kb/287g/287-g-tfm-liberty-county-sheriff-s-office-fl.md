@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Liberty County'
+fips: '12077'
 ---
 
 287(g) agreement between ICE and Liberty County Sheriff’s Office.

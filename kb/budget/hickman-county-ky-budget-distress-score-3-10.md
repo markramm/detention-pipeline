@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Hickman County'
+fips: '21105'
 ---
 
 County-level fiscal distress indicators for Hickman County, KY.

@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ks
 importance: 5
+state: 'KS'
 ---
 
 ICE contract award.

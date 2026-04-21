@@ -7,6 +7,9 @@ tags:
 - jem
 - al
 importance: 5
+state: 'AL'
+county: 'Henry County'
+fips: '01067'
 ---
 
 287(g) agreement between ICE and Henry County Sheriff’s Office.

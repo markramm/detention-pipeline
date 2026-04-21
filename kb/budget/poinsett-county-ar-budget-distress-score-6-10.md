@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
+state: 'AR'
+county: 'Poinsett County'
+fips: '05111'
 ---
 
 County-level fiscal distress indicators for Poinsett County, AR.

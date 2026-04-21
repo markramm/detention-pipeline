@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Sumter County'
+fips: '12119'
 ---
 
 287(g) agreement between ICE and Sumter County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Koochiching County'
+fips: '27071'
 ---
 
 County-level fiscal distress indicators for Koochiching County, MN.

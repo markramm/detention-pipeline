@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Jenkins County'
+fips: '13165'
 ---
 
 County-level fiscal distress indicators for Jenkins County, GA.

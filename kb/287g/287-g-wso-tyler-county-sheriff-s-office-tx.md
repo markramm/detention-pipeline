@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Tyler County'
+fips: '48457'
 ---
 
 287(g) agreement between ICE and Tyler County Sheriff’s Office.

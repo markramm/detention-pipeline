@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Ottawa County'
+fips: '20143'
 ---
 
 County-level fiscal distress indicators for Ottawa County, KS.

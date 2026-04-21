@@ -7,6 +7,9 @@ tags:
 - jem
 - ar
 importance: 5
+state: 'AR'
+county: 'Benton County'
+fips: '05007'
 ---
 
 287(g) agreement between ICE and Benton County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Hardin County'
+fips: '19083'
 ---
 
 County-level fiscal distress indicators for Hardin County, IA.

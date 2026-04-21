@@ -7,6 +7,9 @@ tags:
 - wso
 - mo
 importance: 5
+state: 'MO'
+county: 'Christian County'
+fips: '29043'
 ---
 
 287(g) agreement between ICE and Christian County Sheriff’s Office.

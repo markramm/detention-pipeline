@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Van Buren County'
+fips: '19177'
 ---
 
 County-level fiscal distress indicators for Van Buren County, IA.

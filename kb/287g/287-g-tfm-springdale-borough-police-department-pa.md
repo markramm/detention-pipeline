@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Allegheny County'
+fips: '42003'
 ---
 
 287(g) agreement between ICE and Springdale Borough Police Department.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Austin County'
+fips: '48015'
 ---
 
 287(g) agreement between ICE and Austin County Sheriff’s Office.

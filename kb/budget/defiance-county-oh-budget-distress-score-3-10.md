@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Defiance County'
+fips: '39039'
 ---
 
 County-level fiscal distress indicators for Defiance County, OH.

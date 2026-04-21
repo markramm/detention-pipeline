@@ -7,6 +7,9 @@ tags:
 - tfm
 - oh
 importance: 5
+state: 'OH'
+county: 'Warren County'
+fips: '39165'
 ---
 
 287(g) agreement between ICE and Warren County Sheriff’s Office.

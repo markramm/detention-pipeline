@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Motley County'
+fips: '48345'
 ---
 
 County-level fiscal distress indicators for Motley County, TX.

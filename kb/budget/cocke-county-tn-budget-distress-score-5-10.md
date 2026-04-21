@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Cocke County'
+fips: '47029'
 ---
 
 County-level fiscal distress indicators for Cocke County, TN.

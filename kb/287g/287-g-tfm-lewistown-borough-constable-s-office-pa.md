@@ -7,6 +7,8 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Miffin County'
 ---
 
 287(g) agreement between ICE and Lewistown Borough Constable’s Office.

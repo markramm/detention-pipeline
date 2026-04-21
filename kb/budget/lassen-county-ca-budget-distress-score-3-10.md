@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'CA'
+county: 'Lassen County'
+fips: '06035'
 ---
 
 County-level fiscal distress indicators for Lassen County, CA.

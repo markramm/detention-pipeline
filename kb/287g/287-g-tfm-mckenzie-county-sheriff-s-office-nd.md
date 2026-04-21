@@ -7,6 +7,9 @@ tags:
 - tfm
 - nd
 importance: 5
+state: 'ND'
+county: 'McKenzie County'
+fips: '38053'
 ---
 
 287(g) agreement between ICE and McKenzie County Sheriff’s Office.

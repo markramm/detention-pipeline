@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Dawson County'
+fips: '13085'
 ---
 
 287(g) agreement between ICE and Dawson County Sheriff’s Office.

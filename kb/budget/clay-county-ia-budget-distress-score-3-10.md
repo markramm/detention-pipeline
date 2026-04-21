@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Clay County'
+fips: '19041'
 ---
 
 County-level fiscal distress indicators for Clay County, IA.

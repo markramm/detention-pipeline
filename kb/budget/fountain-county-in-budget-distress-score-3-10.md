@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Fountain County'
+fips: '18045'
 ---
 
 County-level fiscal distress indicators for Fountain County, IN.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Haakon County'
+fips: '46055'
 ---
 
 County-level fiscal distress indicators for Haakon County, SD.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Stanton County'
+fips: '31167'
 ---
 
 County-level fiscal distress indicators for Stanton County, NE.

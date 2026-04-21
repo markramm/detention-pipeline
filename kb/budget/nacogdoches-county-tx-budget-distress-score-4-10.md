@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Nacogdoches County'
+fips: '48347'
 ---
 
 County-level fiscal distress indicators for Nacogdoches County, TX.

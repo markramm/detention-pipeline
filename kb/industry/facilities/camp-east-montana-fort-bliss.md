@@ -13,6 +13,7 @@ status: operational
 importance: 9
 tags: [military-base, tent-facility, el-paso, texas, deaths-in-custody, tuberculosis, conditions-abuse, operator-change]
 research_status: stub
+fips: '48141'
 ---
 
 # Camp East Montana — Fort Bliss ICE Tent Detention Camp

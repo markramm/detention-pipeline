@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Jones County'
+fips: '48253'
 ---
 
 287(g) agreement between ICE and Stamford Police Department.

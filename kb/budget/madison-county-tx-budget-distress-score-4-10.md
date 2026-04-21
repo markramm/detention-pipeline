@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Madison County'
+fips: '48313'
 ---
 
 County-level fiscal distress indicators for Madison County, TX.

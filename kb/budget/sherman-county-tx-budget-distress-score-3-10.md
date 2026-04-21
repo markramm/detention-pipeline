@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Sherman County'
+fips: '48421'
 ---
 
 County-level fiscal distress indicators for Sherman County, TX.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Henry County'
+fips: '51089'
 ---
 
 County-level fiscal distress indicators for Henry County, VA.

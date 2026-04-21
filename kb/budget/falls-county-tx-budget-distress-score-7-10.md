@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'TX'
+county: 'Falls County'
+fips: '48145'
 ---
 
 County-level fiscal distress indicators for Falls County, TX.

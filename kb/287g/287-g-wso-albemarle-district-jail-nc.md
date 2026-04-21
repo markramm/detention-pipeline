@@ -7,6 +7,8 @@ tags:
 - wso
 - nc
 importance: 5
+state: 'NC'
+county: 'Albemarle County'
 ---
 
 287(g) agreement between ICE and Albemarle District Jail.

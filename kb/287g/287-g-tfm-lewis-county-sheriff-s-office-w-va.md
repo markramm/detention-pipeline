@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Lewis County'
+fips: '54041'
 ---
 
 287(g) agreement between ICE and Lewis County Sheriff’s Office.

@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Swisher County'
+fips: '48437'
 ---
 
 County-level fiscal distress indicators for Swisher County, TX.

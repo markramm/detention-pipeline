@@ -7,6 +7,9 @@ tags:
 - al
 - moderate
 importance: 5
+state: 'AL'
+county: 'Madison County'
+fips: '01089'
 ---
 
 County commission agenda item matching detention pipeline keywords.

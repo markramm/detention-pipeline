@@ -7,6 +7,7 @@ tags:
 - tfm
 - tn
 importance: 5
+state: 'TN'
 ---
 
 287(g) agreement between ICE and Tennessee Department of Safety and Homeland Security.

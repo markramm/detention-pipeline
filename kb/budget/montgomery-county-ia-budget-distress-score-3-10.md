@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Montgomery County'
+fips: '19137'
 ---
 
 County-level fiscal distress indicators for Montgomery County, IA.

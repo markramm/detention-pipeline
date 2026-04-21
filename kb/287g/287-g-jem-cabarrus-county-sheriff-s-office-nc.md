@@ -7,6 +7,9 @@ tags:
 - jem
 - nc
 importance: 5
+state: 'NC'
+county: 'Cabarrus County'
+fips: '37025'
 ---
 
 287(g) agreement between ICE and Cabarrus County Sheriff’s Office.

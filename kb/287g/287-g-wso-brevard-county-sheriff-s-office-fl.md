@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Brevard County'
+fips: '12009'
 ---
 
 287(g) agreement between ICE and Brevard County Sheriff’s Office.

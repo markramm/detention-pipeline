@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Hyde County'
+fips: '46069'
 ---
 
 County-level fiscal distress indicators for Hyde County, SD.

@@ -7,6 +7,9 @@ tags:
 - ca
 - moderate
 importance: 5
+state: 'CA'
+county: 'Solano County'
+fips: '06095'
 ---
 
 County commission agenda item matching detention pipeline keywords.

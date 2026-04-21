@@ -7,6 +7,9 @@ tags:
 - tfm
 - nh
 importance: 5
+state: 'NH'
+county: 'Rockingham County'
+fips: '33015'
 ---
 
 287(g) agreement between ICE and Epping Police Department.

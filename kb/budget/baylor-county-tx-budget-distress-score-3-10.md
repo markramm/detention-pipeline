@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Baylor County'
+fips: '48023'
 ---
 
 County-level fiscal distress indicators for Baylor County, TX.

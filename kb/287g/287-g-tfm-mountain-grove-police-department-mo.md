@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Wright County'
+fips: '29229'
 ---
 
 287(g) agreement between ICE and Mountain Grove Police Department.

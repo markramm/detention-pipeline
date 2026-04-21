@@ -7,6 +7,9 @@ tags:
 - tfm
 - id
 importance: 5
+state: 'ID'
+county: 'Owyhee County'
+fips: '16073'
 ---
 
 287(g) agreement between ICE and Owyhee County Sheriff’s Office.

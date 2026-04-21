@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'Limestone County'
+fips: '01083'
 ---
 
 287(g) agreement between ICE and Limestone County Sheriff’s Office.

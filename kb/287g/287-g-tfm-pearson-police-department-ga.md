@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Atkinson County'
+fips: '13003'
 ---
 
 287(g) agreement between ICE and Pearson Police Department.

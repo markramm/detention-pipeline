@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Pawnee County'
+fips: '31133'
 ---
 
 County-level fiscal distress indicators for Pawnee County, NE.

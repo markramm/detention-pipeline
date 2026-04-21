@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Owsley County'
+fips: '21189'
 ---
 
 County-level fiscal distress indicators for Owsley County, KY.

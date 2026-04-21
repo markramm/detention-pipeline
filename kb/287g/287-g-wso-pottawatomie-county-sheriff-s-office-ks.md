@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Pottawatomie County'
+fips: '20149'
 ---
 
 287(g) agreement between ICE and Pottawatomie County Sheriff’s Office.

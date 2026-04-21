@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Calhoun County'
+fips: '48057'
 ---
 
 287(g) agreement between ICE and Point Comfort Police Department.

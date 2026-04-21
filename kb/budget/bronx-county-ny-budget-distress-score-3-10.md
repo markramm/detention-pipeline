@@ -7,6 +7,9 @@ tags:
 - ny
 - persistent-poverty
 importance: 5
+state: 'NY'
+county: 'Bronx County'
+fips: '36005'
 ---
 
 County-level fiscal distress indicators for Bronx County, NY.

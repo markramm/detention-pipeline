@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NM'
+county: 'Colfax County'
+fips: '35007'
 ---
 
 County-level fiscal distress indicators for Colfax County, NM.

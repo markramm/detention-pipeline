@@ -7,6 +7,9 @@ tags:
 - wso
 - nv
 importance: 5
+state: 'NV'
+county: 'Douglas County'
+fips: '32005'
 ---
 
 287(g) agreement between ICE and Douglas County Sheriff’s Office.

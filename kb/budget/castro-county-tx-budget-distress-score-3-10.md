@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Castro County'
+fips: '48069'
 ---
 
 County-level fiscal distress indicators for Castro County, TX.

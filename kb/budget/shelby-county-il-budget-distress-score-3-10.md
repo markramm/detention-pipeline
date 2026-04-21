@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Shelby County'
+fips: '17173'
 ---
 
 County-level fiscal distress indicators for Shelby County, IL.

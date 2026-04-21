@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Sanilac County'
+fips: '26151'
 ---
 
 County-level fiscal distress indicators for Sanilac County, MI.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - oh
 importance: 5
+state: 'OH'
+county: 'Clermont County'
+fips: '39025'
 ---
 
 287(g) agreement between ICE and Clermont County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Lauderdale County'
+fips: '28075'
 ---
 
 County-level fiscal distress indicators for Lauderdale County, MS.

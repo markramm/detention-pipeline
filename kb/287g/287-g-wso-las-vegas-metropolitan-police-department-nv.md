@@ -7,6 +7,9 @@ tags:
 - wso
 - nv
 importance: 5
+state: 'NV'
+county: 'Clark County'
+fips: '32003'
 ---
 
 287(g) agreement between ICE and Las Vegas Metropolitan Police Department.

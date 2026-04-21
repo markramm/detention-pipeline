@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Shelby County'
+fips: '47157'
 ---
 
 287(g) agreement between ICE and Shelby County Sheriff’s Office.

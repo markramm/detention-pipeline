@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Gulf County'
+fips: '12045'
 ---
 
 287(g) agreement between ICE and Gulf County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Rains County'
+fips: '48379'
 ---
 
 287(g) agreement between ICE and Rains County Sheriff’s Office.

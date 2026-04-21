@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Roseau County'
+fips: '27135'
 ---
 
 County-level fiscal distress indicators for Roseau County, MN.

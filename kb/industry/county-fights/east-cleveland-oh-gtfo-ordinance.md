@@ -11,6 +11,7 @@ importance: 7
 tags: [sanctuary, ordinance, defensive-zoning, cuyahoga, cleveland, ohio, first-in-state]
 research_status: working
 last_researched: "2026-04-12"
+fips: '39035'
 ---
 
 # East Cleveland: GTFO Anti-ICE Ordinance

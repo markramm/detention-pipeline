@@ -7,6 +7,9 @@ tags:
 - tn
 - moderate
 importance: 5
+state: 'TN'
+county: 'Davidson County'
+fips: '47037'
 ---
 
 County commission agenda item matching detention pipeline keywords.

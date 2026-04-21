@@ -7,6 +7,9 @@ tags:
 - tfm
 - la
 importance: 5
+state: 'LA'
+county: 'Allen Parish'
+fips: '22003'
 ---
 
 287(g) agreement between ICE and Ward 5 Marshal’s Office.

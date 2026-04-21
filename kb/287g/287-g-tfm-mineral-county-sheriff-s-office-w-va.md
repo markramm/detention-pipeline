@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Mineral County'
+fips: '54057'
 ---
 
 287(g) agreement between ICE and Mineral County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - tn
 importance: 5
+state: 'TN'
+county: 'Grundy County'
+fips: '47061'
 ---
 
 287(g) agreement between ICE and Grundy County Constable District 3.

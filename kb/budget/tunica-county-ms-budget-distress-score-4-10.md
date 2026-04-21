@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - low-education-attainment
 importance: 5
+state: 'MS'
+county: 'Tunica County'
+fips: '28143'
 ---
 
 County-level fiscal distress indicators for Tunica County, MS.

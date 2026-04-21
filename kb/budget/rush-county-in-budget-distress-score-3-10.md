@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Rush County'
+fips: '18139'
 ---
 
 County-level fiscal distress indicators for Rush County, IN.

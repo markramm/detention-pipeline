@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'McDowell County'
+fips: '54047'
 ---
 
 287(g) agreement between ICE and McDowell County Sheriff’s Office.

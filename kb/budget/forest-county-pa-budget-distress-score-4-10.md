@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Forest County'
+fips: '42053'
 ---
 
 County-level fiscal distress indicators for Forest County, PA.

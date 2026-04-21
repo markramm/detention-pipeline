@@ -7,6 +7,9 @@ tags:
 - md
 - moderate
 importance: 5
+state: 'MD'
+county: 'Baltimore County'
+fips: '24005'
 ---
 
 County commission agenda item matching detention pipeline keywords.

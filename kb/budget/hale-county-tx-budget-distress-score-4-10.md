@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Hale County'
+fips: '48189'
 ---
 
 County-level fiscal distress indicators for Hale County, TX.

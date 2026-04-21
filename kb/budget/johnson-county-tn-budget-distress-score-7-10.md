@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Johnson County'
+fips: '47091'
 ---
 
 County-level fiscal distress indicators for Johnson County, TN.

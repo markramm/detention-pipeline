@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Dickens County'
+fips: '48125'
 ---
 
 287(g) agreement between ICE and Dickens County Sheriff’s Office.

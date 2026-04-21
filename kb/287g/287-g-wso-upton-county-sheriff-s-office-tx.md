@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Upton County'
+fips: '48461'
 ---
 
 287(g) agreement between ICE and Upton County Sheriff’s Office.

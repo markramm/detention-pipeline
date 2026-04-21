@@ -8,6 +8,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'VA'
+county: 'Sussex County'
+fips: '51183'
 ---
 
 County-level fiscal distress indicators for Sussex County, VA.

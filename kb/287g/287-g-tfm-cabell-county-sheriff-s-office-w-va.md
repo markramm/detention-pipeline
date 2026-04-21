@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Cabell County'
+fips: '54011'
 ---
 
 287(g) agreement between ICE and Cabell County Sheriff’s Office.

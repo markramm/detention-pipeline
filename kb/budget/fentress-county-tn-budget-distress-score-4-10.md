@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Fentress County'
+fips: '47049'
 ---
 
 County-level fiscal distress indicators for Fentress County, TN.

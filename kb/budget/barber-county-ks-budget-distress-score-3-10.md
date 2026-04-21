@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Barber County'
+fips: '20007'
 ---
 
 County-level fiscal distress indicators for Barber County, KS.

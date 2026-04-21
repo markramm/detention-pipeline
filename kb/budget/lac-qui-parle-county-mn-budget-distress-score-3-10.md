@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Lac qui Parle County'
+fips: '27073'
 ---
 
 County-level fiscal distress indicators for Lac qui Parle County, MN.

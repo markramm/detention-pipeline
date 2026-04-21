@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Neshoba County'
+fips: '28099'
 ---
 
 County-level fiscal distress indicators for Neshoba County, MS.

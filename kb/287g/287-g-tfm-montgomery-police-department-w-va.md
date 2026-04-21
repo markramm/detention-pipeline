@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Fayette County'
+fips: '54019'
 ---
 
 287(g) agreement between ICE and Montgomery Police Department.

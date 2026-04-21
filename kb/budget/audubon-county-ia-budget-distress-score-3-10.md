@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Audubon County'
+fips: '19009'
 ---
 
 County-level fiscal distress indicators for Audubon County, IA.

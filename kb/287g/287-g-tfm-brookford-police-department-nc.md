@@ -7,6 +7,9 @@ tags:
 - tfm
 - nc
 importance: 5
+state: 'NC'
+county: 'Catawba County'
+fips: '37035'
 ---
 
 287(g) agreement between ICE and Brookford Police Department.

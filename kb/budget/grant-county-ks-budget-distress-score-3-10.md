@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Grant County'
+fips: '20067'
 ---
 
 County-level fiscal distress indicators for Grant County, KS.

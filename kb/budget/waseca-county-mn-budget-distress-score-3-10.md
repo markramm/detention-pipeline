@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Waseca County'
+fips: '27161'
 ---
 
 County-level fiscal distress indicators for Waseca County, MN.

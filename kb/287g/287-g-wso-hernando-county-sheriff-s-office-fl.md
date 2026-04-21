@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Hernando County'
+fips: '12053'
 ---
 
 287(g) agreement between ICE and Hernando County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Graham County'
+fips: '20065'
 ---
 
 County-level fiscal distress indicators for Graham County, KS.

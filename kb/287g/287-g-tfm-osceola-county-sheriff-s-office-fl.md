@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Osceola County'
+fips: '12097'
 ---
 
 287(g) agreement between ICE and Osceola County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ms
 importance: 5
+state: 'MS'
+county: 'Hinds County'
+fips: '28049'
 ---
 
 287(g) agreement between ICE and Mississippi Office of the State Auditor.

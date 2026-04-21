@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Shelby County'
+fips: '19165'
 ---
 
 County-level fiscal distress indicators for Shelby County, IA.

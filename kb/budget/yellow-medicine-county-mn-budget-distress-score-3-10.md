@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Yellow Medicine County'
+fips: '27173'
 ---
 
 County-level fiscal distress indicators for Yellow Medicine County, MN.

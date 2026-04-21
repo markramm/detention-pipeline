@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Clay County'
+fips: '46027'
 ---
 
 County-level fiscal distress indicators for Clay County, SD.

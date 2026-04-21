@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Montgomery County'
+fips: '20125'
 ---
 
 County-level fiscal distress indicators for Montgomery County, KS.

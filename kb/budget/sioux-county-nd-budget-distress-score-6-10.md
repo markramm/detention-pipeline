@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Sioux County'
+fips: '38085'
 ---
 
 County-level fiscal distress indicators for Sioux County, ND.

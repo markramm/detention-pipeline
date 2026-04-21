@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Giles County'
+fips: '47055'
 ---
 
 287(g) agreement between ICE and Giles County Sheriff’s Office.

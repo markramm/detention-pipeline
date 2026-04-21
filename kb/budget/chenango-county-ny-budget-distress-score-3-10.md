@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NY'
+county: 'Chenango County'
+fips: '36017'
 ---
 
 County-level fiscal distress indicators for Chenango County, NY.

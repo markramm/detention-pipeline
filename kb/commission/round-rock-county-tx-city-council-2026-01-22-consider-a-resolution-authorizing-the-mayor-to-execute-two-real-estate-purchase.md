@@ -7,6 +7,9 @@ tags:
 - tx
 - weak
 importance: 5
+state: 'TX'
+county: 'Williamson County'
+fips: '48491'
 ---
 
 County commission agenda item matching detention pipeline keywords.

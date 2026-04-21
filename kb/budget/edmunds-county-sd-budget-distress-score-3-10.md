@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Edmunds County'
+fips: '46045'
 ---
 
 County-level fiscal distress indicators for Edmunds County, SD.

@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'NC'
+county: 'Anson County'
+fips: '37007'
 ---
 
 County-level fiscal distress indicators for Anson County, NC.

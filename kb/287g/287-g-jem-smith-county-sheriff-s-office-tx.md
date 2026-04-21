@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Smith County'
+fips: '48423'
 ---
 
 287(g) agreement between ICE and Smith County Sheriff’s Office.

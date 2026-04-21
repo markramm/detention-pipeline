@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Iroquois County'
+fips: '17075'
 ---
 
 County-level fiscal distress indicators for Iroquois County, IL.

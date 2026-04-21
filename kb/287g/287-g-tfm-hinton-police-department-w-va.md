@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Summers County'
+fips: '54089'
 ---
 
 287(g) agreement between ICE and Hinton Police Department.

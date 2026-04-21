@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Kenedy County'
+fips: '48261'
 ---
 
 287(g) agreement between ICE and Kenedy County Sheriff’s Office.

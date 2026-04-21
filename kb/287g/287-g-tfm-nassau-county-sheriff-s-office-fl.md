@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Nassau County'
+fips: '12089'
 ---
 
 287(g) agreement between ICE and Nassau County Sheriff’s Office.

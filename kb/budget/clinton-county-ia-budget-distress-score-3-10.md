@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Clinton County'
+fips: '19045'
 ---
 
 County-level fiscal distress indicators for Clinton County, IA.

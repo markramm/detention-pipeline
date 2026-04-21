@@ -11,6 +11,7 @@ importance: 6
 tags: [iowa, 287g-rejection, sheriff-resistance, resource-constraints, dubuque]
 research_status: working
 last_researched: "2026-04-13"
+fips: '19061'
 ---
 
 ## Summary

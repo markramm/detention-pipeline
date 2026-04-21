@@ -8,6 +8,7 @@ tags:
 - detention-related
 - sd
 importance: 5
+state: 'SD'
 ---
 
 ICE contract award.

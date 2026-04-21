@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Taliaferro County'
+fips: '13265'
 ---
 
 County-level fiscal distress indicators for Taliaferro County, GA.

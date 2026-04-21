@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Marquette County'
+fips: '55077'
 ---
 
 287(g) agreement between ICE and Marquette County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Finney County'
+fips: '20055'
 ---
 
 287(g) agreement between ICE and Finney County Sheriff’s Office.

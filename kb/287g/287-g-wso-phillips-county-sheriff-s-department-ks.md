@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Phillips County'
+fips: '20147'
 ---
 
 287(g) agreement between ICE and Phillips County Sheriff’s Department.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'San Jacinto County'
+fips: '48407'
 ---
 
 287(g) agreement between ICE and San Jacinto County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Pipestone County'
+fips: '27117'
 ---
 
 County-level fiscal distress indicators for Pipestone County, MN.

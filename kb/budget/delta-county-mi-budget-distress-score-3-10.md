@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Delta County'
+fips: '26041'
 ---
 
 County-level fiscal distress indicators for Delta County, MI.

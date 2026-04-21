@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Brown County'
+fips: '20013'
 ---
 
 287(g) agreement between ICE and Brown County Sheriff’s Office.

@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Brown County'
+fips: '17009'
 ---
 
 County-level fiscal distress indicators for Brown County, IL.

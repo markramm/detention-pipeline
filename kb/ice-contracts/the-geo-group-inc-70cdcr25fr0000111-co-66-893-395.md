@@ -8,6 +8,7 @@ tags:
 - detention-related
 - co
 importance: 5
+state: 'CO'
 ---
 
 ICE contract award.

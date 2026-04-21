@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Jefferson County'
+fips: '05069'
 ---
 
 County-level fiscal distress indicators for Jefferson County, AR.

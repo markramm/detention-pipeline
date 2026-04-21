@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Floyd County'
+fips: '19067'
 ---
 
 County-level fiscal distress indicators for Floyd County, IA.

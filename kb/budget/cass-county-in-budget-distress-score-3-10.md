@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Cass County'
+fips: '18017'
 ---
 
 County-level fiscal distress indicators for Cass County, IN.

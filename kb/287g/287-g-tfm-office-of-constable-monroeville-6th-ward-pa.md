@@ -7,6 +7,8 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Alleghany County'
 ---
 
 287(g) agreement between ICE and Office of Constable Monroeville 6th Ward.

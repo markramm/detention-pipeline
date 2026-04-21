@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Sherman County'
+fips: '20181'
 ---
 
 County-level fiscal distress indicators for Sherman County, KS.

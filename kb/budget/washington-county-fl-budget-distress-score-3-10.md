@@ -8,6 +8,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'FL'
+county: 'Washington County'
+fips: '12133'
 ---
 
 County-level fiscal distress indicators for Washington County, FL.

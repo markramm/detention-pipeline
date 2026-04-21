@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Washington County'
+fips: '20201'
 ---
 
 County-level fiscal distress indicators for Washington County, KS.

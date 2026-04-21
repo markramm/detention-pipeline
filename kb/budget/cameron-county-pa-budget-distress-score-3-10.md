@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Cameron County'
+fips: '42023'
 ---
 
 County-level fiscal distress indicators for Cameron County, PA.

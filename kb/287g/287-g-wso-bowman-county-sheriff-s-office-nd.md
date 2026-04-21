@@ -7,6 +7,9 @@ tags:
 - wso
 - nd
 importance: 5
+state: 'ND'
+county: 'Bowman County'
+fips: '38011'
 ---
 
 287(g) agreement between ICE and Bowman County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - mn
 importance: 5
+state: 'MN'
+county: 'Itasca County'
+fips: '27061'
 ---
 
 287(g) agreement between ICE and Itasca County Sheriff’s Office.

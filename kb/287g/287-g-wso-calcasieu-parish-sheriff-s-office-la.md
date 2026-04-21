@@ -7,6 +7,8 @@ tags:
 - wso
 - la
 importance: 5
+state: 'LA'
+county: 'Calacasieu Parish'
 ---
 
 287(g) agreement between ICE and Calcasieu Parish Sheriff’s Office.

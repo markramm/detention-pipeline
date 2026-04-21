@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Cook County'
+fips: '13075'
 ---
 
 County-level fiscal distress indicators for Cook County, GA.

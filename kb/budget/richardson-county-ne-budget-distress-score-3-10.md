@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Richardson County'
+fips: '31147'
 ---
 
 County-level fiscal distress indicators for Richardson County, NE.

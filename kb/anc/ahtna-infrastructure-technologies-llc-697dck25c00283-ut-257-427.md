@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ut
 importance: 5
+state: 'UT'
 ---
 
 USAspending contract award.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'O''Brien County'
+fips: '19141'
 ---
 
 County-level fiscal distress indicators for O'Brien County, IA.

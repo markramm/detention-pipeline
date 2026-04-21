@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Zapata County'
+fips: '48505'
 ---
 
 287(g) agreement between ICE and Zapata County Sheriff’s Office.

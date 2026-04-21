@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Sullivan County'
+fips: '42113'
 ---
 
 County-level fiscal distress indicators for Sullivan County, PA.

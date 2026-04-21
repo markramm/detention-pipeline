@@ -7,6 +7,9 @@ tags:
 - jem
 - al
 importance: 5
+state: 'AL'
+county: 'Marion County'
+fips: '01093'
 ---
 
 287(g) agreement between ICE and Marion County Sheriff’s Office.

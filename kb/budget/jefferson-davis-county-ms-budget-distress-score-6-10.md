@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Jefferson Davis County'
+fips: '28065'
 ---
 
 County-level fiscal distress indicators for Jefferson Davis County, MS.

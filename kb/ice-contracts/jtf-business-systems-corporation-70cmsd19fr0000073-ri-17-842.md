@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ri
 importance: 5
+state: 'RI'
 ---
 
 ICE contract award.

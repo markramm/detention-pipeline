@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Calumet County'
+fips: '55015'
 ---
 
 287(g) agreement between ICE and Calumet County Sheriff’s Office.

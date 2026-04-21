@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Choctaw County'
+fips: '01023'
 ---
 
 County-level fiscal distress indicators for Choctaw County, AL.

@@ -7,6 +7,9 @@ tags:
 - jem
 - sc
 importance: 5
+state: 'SC'
+county: 'York County'
+fips: '45091'
 ---
 
 287(g) agreement between ICE and York County Sheriff’s Office.

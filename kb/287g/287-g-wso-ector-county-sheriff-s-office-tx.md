@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Ector County'
+fips: '48135'
 ---
 
 287(g) agreement between ICE and Ector County Sheriff’s Office.

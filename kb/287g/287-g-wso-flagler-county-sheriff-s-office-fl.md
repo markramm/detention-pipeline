@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Flagler County'
+fips: '12035'
 ---
 
 287(g) agreement between ICE and Flagler County Sheriff’s Office.

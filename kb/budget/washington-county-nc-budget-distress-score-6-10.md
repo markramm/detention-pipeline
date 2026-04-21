@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Washington County'
+fips: '37187'
 ---
 
 County-level fiscal distress indicators for Washington County, NC.

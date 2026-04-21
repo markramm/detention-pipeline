@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Washington County'
+fips: '39167'
 ---
 
 County-level fiscal distress indicators for Washington County, OH.

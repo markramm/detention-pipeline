@@ -7,6 +7,9 @@ tags:
 - il
 - strong
 importance: 5
+state: 'IL'
+county: 'Cook County'
+fips: '17031'
 ---
 
 County commission agenda item matching detention pipeline keywords.

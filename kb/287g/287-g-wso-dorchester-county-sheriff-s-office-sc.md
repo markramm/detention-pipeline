@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Dorchester County'
+fips: '45035'
 ---
 
 287(g) agreement between ICE and Dorchester County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Warren County'
+fips: '28149'
 ---
 
 County-level fiscal distress indicators for Warren County, MS.

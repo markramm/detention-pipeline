@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Tarrant County'
+fips: '48439'
 ---
 
 287(g) agreement between ICE and Keller Police Department.

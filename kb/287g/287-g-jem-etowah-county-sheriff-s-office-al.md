@@ -7,6 +7,9 @@ tags:
 - jem
 - al
 importance: 5
+state: 'AL'
+county: 'Etowah County'
+fips: '01055'
 ---
 
 287(g) agreement between ICE and Etowah County Sheriff’s Office.

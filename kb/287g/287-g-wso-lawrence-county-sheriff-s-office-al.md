@@ -7,6 +7,9 @@ tags:
 - wso
 - al
 importance: 5
+state: 'AL'
+county: 'Lawrence County'
+fips: '01079'
 ---
 
 287(g) agreement between ICE and Lawrence County Sheriff’s Office.

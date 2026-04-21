@@ -7,6 +7,9 @@ tags:
 - az
 - weak
 importance: 5
+state: 'AZ'
+county: 'Maricopa County'
+fips: '04013'
 ---
 
 County commission agenda item matching detention pipeline keywords.

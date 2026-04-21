@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Bibb County'
+fips: '13021'
 ---
 
 287(g) agreement between ICE and Bibb County Sheriff’s Office.

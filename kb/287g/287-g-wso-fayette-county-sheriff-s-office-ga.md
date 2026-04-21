@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Fayette County'
+fips: '13113'
 ---
 
 287(g) agreement between ICE and Fayette County Sheriff’s Office.

@@ -8,6 +8,7 @@ tags:
 - detention-related
 - ma
 importance: 5
+state: 'MA'
 ---
 
 ICE contract award.

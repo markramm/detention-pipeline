@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Manitowoc County'
+fips: '55071'
 ---
 
 287(g) agreement between ICE and Manitowoc County Sheriff’s Office.

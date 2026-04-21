@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Norton city'
+fips: '51720'
 ---
 
 County-level fiscal distress indicators for Norton city, VA.

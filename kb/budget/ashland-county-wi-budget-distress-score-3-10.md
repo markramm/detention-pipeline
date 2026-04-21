@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Ashland County'
+fips: '55003'
 ---
 
 County-level fiscal distress indicators for Ashland County, WI.

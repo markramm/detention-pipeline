@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Somerset County'
+fips: '42111'
 ---
 
 County-level fiscal distress indicators for Somerset County, PA.

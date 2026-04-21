@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Polk County'
+fips: '31143'
 ---
 
 County-level fiscal distress indicators for Polk County, NE.

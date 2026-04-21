@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Morgan County'
+fips: '13211'
 ---
 
 287(g) agreement between ICE and Morgan County Sheriff’s Office.

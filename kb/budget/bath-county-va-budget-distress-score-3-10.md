@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Bath County'
+fips: '51017'
 ---
 
 County-level fiscal distress indicators for Bath County, VA.

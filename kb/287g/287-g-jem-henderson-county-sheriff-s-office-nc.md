@@ -7,6 +7,9 @@ tags:
 - jem
 - nc
 importance: 5
+state: 'NC'
+county: 'Henderson County'
+fips: '37089'
 ---
 
 287(g) agreement between ICE and Henderson County Sheriff’s Office.

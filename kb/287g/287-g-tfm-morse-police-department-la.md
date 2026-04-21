@@ -7,6 +7,8 @@ tags:
 - tfm
 - la
 importance: 5
+state: 'LA'
+county: 'Arcadia County'
 ---
 
 287(g) agreement between ICE and Morse Police Department.

@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Guadalupe County'
+fips: '48187'
 ---
 
 287(g) agreement between ICE and Guadalupe County Sheriff’s Office.

@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Braxton County'
+fips: '54007'
 ---
 
 County-level fiscal distress indicators for Braxton County, WV.

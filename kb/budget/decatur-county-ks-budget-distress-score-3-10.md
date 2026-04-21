@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Decatur County'
+fips: '20039'
 ---
 
 County-level fiscal distress indicators for Decatur County, KS.

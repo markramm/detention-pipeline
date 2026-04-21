@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - dc
 importance: 5
+state: 'DC'
 ---
 
 USAspending contract award.

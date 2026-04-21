@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Pike County'
+fips: '05109'
 ---
 
 County-level fiscal distress indicators for Pike County, AR.

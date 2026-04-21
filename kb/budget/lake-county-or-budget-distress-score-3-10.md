@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'OR'
+county: 'Lake County'
+fips: '41037'
 ---
 
 County-level fiscal distress indicators for Lake County, OR.

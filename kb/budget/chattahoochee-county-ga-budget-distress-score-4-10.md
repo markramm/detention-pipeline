@@ -8,6 +8,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'GA'
+county: 'Chattahoochee County'
+fips: '13053'
 ---
 
 County-level fiscal distress indicators for Chattahoochee County, GA.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - ks
 importance: 5
+state: 'KS'
+county: 'Doniphan County'
+fips: '20043'
 ---
 
 287(g) agreement between ICE and Wathena Police Department.

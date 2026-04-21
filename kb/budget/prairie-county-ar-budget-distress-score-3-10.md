@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Prairie County'
+fips: '05117'
 ---
 
 County-level fiscal distress indicators for Prairie County, AR.

@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Wilson County'
+fips: '47189'
 ---
 
 287(g) agreement between ICE and Wilson County Sheriff’s Office.

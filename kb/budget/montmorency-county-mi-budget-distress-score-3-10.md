@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Montmorency County'
+fips: '26119'
 ---
 
 County-level fiscal distress indicators for Montmorency County, MI.

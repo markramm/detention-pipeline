@@ -7,6 +7,8 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'St. Luice County'
 ---
 
 287(g) agreement between ICE and Port Saint Lucie Police Department.

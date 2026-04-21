@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Chattooga County'
+fips: '13055'
 ---
 
 County-level fiscal distress indicators for Chattooga County, GA.

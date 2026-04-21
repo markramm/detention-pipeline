@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Lenoir County'
+fips: '37107'
 ---
 
 County-level fiscal distress indicators for Lenoir County, NC.

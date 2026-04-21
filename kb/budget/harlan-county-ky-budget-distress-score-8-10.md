@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Harlan County'
+fips: '21095'
 ---
 
 County-level fiscal distress indicators for Harlan County, KY.

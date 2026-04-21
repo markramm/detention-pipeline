@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Morgan County'
+fips: '21175'
 ---
 
 County-level fiscal distress indicators for Morgan County, KY.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - al
 importance: 5
+state: 'AL'
+county: 'St. Clair County'
+fips: '01115'
 ---
 
 287(g) agreement between ICE and Margaret Police Department.

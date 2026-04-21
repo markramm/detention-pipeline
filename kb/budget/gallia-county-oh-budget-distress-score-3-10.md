@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Gallia County'
+fips: '39053'
 ---
 
 County-level fiscal distress indicators for Gallia County, OH.

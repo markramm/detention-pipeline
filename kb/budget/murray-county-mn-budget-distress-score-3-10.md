@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Murray County'
+fips: '27101'
 ---
 
 County-level fiscal distress indicators for Murray County, MN.

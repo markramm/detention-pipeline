@@ -7,6 +7,9 @@ tags:
 - tx
 - moderate
 importance: 5
+state: 'TX'
+county: 'Harris County'
+fips: '48201'
 ---
 
 County commission agenda item matching detention pipeline keywords.

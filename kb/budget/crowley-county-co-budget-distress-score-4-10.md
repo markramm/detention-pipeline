@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Crowley County'
+fips: '08025'
 ---
 
 County-level fiscal distress indicators for Crowley County, CO.

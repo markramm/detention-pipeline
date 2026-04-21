@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Burt County'
+fips: '31021'
 ---
 
 County-level fiscal distress indicators for Burt County, NE.

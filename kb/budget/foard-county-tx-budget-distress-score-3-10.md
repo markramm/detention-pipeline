@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Foard County'
+fips: '48155'
 ---
 
 County-level fiscal distress indicators for Foard County, TX.

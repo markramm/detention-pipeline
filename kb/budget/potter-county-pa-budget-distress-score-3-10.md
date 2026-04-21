@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Potter County'
+fips: '42105'
 ---
 
 County-level fiscal distress indicators for Potter County, PA.

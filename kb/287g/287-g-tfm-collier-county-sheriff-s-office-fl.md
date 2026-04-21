@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Collier County'
+fips: '12021'
 ---
 
 287(g) agreement between ICE and Collier County Sheriff’s Office.

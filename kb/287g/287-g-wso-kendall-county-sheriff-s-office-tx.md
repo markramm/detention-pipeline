@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Kendall County'
+fips: '48259'
 ---
 
 287(g) agreement between ICE and Kendall County Sheriff’s Office.

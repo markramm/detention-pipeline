@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Marion County'
+fips: '28091'
 ---
 
 County-level fiscal distress indicators for Marion County, MS.

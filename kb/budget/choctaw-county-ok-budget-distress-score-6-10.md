@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Choctaw County'
+fips: '40023'
 ---
 
 County-level fiscal distress indicators for Choctaw County, OK.

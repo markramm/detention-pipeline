@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Union County'
+fips: '21225'
 ---
 
 County-level fiscal distress indicators for Union County, KY.

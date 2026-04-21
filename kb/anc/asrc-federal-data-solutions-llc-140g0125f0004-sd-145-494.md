@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - sd
 importance: 5
+state: 'SD'
 ---
 
 USAspending contract award.

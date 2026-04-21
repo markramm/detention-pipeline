@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Monona County'
+fips: '19133'
 ---
 
 County-level fiscal distress indicators for Monona County, IA.

@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Haskell County'
+fips: '48207'
 ---
 
 County-level fiscal distress indicators for Haskell County, TX.

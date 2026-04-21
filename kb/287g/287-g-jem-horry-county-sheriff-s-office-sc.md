@@ -7,6 +7,9 @@ tags:
 - jem
 - sc
 importance: 5
+state: 'SC'
+county: 'Horry County'
+fips: '45051'
 ---
 
 287(g) agreement between ICE and Horry County Sheriff’s Office.

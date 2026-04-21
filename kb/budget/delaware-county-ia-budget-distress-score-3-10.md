@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Delaware County'
+fips: '19055'
 ---
 
 County-level fiscal distress indicators for Delaware County, IA.

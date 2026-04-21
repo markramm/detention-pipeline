@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Manatee County'
+fips: '12081'
 ---
 
 287(g) agreement between ICE and Palmetto Police Department.

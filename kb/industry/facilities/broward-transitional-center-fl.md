@@ -23,6 +23,7 @@ tags:
 - the-infiltrators
 - operation-tidal-wave
 research_status: working
+fips: '12011'
 ---
 
 # Broward Transitional Center — Pompano Beach FL (GEO Group)

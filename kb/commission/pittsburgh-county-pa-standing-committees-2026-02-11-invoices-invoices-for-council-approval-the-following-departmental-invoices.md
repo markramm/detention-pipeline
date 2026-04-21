@@ -7,6 +7,9 @@ tags:
 - pa
 - moderate
 importance: 5
+state: 'PA'
+county: 'Allegheny County'
+fips: '42003'
 ---
 
 County commission agenda item matching detention pipeline keywords.

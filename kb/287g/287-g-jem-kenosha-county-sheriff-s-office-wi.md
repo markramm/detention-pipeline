@@ -7,6 +7,9 @@ tags:
 - jem
 - wi
 importance: 5
+state: 'WI'
+county: 'Kenosha County'
+fips: '55059'
 ---
 
 287(g) agreement between ICE and Kenosha County Sheriff’s Office.

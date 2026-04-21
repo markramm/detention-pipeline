@@ -8,6 +8,7 @@ tags:
 - other-ice
 - va
 importance: 5
+state: 'VA'
 ---
 
 ICE contract award.

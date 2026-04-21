@@ -7,6 +7,9 @@ tags:
 - jem
 - nc
 importance: 5
+state: 'NC'
+county: 'Person County'
+fips: '37145'
 ---
 
 287(g) agreement between ICE and Person County Sheriff’s Office.

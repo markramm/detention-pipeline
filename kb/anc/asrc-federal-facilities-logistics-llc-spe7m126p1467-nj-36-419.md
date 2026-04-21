@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - nj
 importance: 5
+state: 'NJ'
 ---
 
 USAspending contract award.

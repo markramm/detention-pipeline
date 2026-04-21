@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Pushmataha County'
+fips: '40127'
 ---
 
 County-level fiscal distress indicators for Pushmataha County, OK.

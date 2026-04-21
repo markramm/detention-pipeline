@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Slope County'
+fips: '38087'
 ---
 
 County-level fiscal distress indicators for Slope County, ND.

@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Duval County'
+fips: '48131'
 ---
 
 County-level fiscal distress indicators for Duval County, TX.

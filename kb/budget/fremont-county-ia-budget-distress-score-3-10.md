@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Fremont County'
+fips: '19071'
 ---
 
 County-level fiscal distress indicators for Fremont County, IA.

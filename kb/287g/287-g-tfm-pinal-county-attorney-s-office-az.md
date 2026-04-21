@@ -7,6 +7,9 @@ tags:
 - tfm
 - az
 importance: 5
+state: 'AZ'
+county: 'Pinal County'
+fips: '04021'
 ---
 
 287(g) agreement between ICE and Pinal County Attorney’s Office.

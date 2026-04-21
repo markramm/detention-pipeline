@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Gilmer County'
+fips: '13123'
 ---
 
 287(g) agreement between ICE and Gilmer County Sheriff’s Office.

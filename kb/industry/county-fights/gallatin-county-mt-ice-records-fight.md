@@ -18,6 +18,7 @@ tags:
 - state-preemption
 research_status: working
 last_researched: "2026-04-13"
+fips: '30031'
 ---
 
 # Gallatin County: ICE Records Access Fight

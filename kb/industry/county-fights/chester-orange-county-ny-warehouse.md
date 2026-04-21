@@ -17,6 +17,7 @@ tags:
 - orange-county
 research_status: working
 last_researched: "2026-04-12"
+fips: '36071'
 ---
 
 # Orange County, NY: Chester Warehouse Fight

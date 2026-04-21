@@ -11,6 +11,7 @@ importance: 7
 tags: [massachusetts, suffolk-county, boston, sanctuary, trust-act, detainer-refusal, wu, courthouse-arrests, resistance]
 research_status: working
 last_researched: "2026-04-12"
+fips: '25025'
 ---
 
 ## Police Detainer Refusal

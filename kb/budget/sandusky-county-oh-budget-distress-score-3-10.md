@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Sandusky County'
+fips: '39143'
 ---
 
 County-level fiscal distress indicators for Sandusky County, OH.

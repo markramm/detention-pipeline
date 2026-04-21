@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Darke County'
+fips: '39037'
 ---
 
 County-level fiscal distress indicators for Darke County, OH.

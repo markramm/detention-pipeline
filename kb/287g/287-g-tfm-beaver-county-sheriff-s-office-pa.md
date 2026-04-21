@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Beaver County'
+fips: '42007'
 ---
 
 287(g) agreement between ICE and Beaver County Sheriff’s Office.

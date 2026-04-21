@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Galveston County'
+fips: '48167'
 ---
 
 287(g) agreement between ICE and Galveston County Sheriff’s Office.

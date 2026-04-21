@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Levy County'
+fips: '12075'
 ---
 
 287(g) agreement between ICE and Levy County Sheriff’s Office.

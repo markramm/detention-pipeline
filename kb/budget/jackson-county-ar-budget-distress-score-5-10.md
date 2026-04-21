@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Jackson County'
+fips: '05067'
 ---
 
 County-level fiscal distress indicators for Jackson County, AR.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Chautauqua County'
+fips: '20019'
 ---
 
 County-level fiscal distress indicators for Chautauqua County, KS.

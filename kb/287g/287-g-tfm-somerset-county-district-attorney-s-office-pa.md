@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Somerset County'
+fips: '42111'
 ---
 
 287(g) agreement between ICE and Somerset County District Attorney’s Office.

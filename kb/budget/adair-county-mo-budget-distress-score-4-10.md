@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Adair County'
+fips: '29001'
 ---
 
 County-level fiscal distress indicators for Adair County, MO.

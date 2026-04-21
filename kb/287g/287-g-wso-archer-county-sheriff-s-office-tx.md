@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Archer County'
+fips: '48009'
 ---
 
 287(g) agreement between ICE and Archer County Sheriff’s Office.

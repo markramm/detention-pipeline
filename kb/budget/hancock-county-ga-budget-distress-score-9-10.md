@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Hancock County'
+fips: '13141'
 ---
 
 County-level fiscal distress indicators for Hancock County, GA.

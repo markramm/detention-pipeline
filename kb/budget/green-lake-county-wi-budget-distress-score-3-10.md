@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Green Lake County'
+fips: '55047'
 ---
 
 County-level fiscal distress indicators for Green Lake County, WI.

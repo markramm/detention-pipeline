@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Menard County'
+fips: '48327'
 ---
 
 287(g) agreement between ICE and Menard County Sheriff’s Office.

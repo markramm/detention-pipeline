@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Dunklin County'
+fips: '29069'
 ---
 
 County-level fiscal distress indicators for Dunklin County, MO.

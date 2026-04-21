@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Borden County'
+fips: '48033'
 ---
 
 287(g) agreement between ICE and Borden County Sheriff’s Office.

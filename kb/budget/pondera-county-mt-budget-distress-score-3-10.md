@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Pondera County'
+fips: '30073'
 ---
 
 County-level fiscal distress indicators for Pondera County, MT.

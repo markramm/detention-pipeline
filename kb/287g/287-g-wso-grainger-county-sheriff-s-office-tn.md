@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Grainger County'
+fips: '47057'
 ---
 
 287(g) agreement between ICE and Grainger County Sheriff’s Office.

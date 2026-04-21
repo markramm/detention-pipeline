@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Bourbon County'
+fips: '20011'
 ---
 
 County-level fiscal distress indicators for Bourbon County, KS.

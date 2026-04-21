@@ -7,6 +7,9 @@ tags:
 - wso
 - in
 importance: 5
+state: 'IN'
+county: 'Noble County'
+fips: '18113'
 ---
 
 287(g) agreement between ICE and Noble County Sheriff’s Office.

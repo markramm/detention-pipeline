@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Gasconade County'
+fips: '29073'
 ---
 
 County-level fiscal distress indicators for Gasconade County, MO.

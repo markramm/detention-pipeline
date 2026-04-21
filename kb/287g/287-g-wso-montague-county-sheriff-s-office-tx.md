@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Montague County'
+fips: '48337'
 ---
 
 287(g) agreement between ICE and Montague County Sheriff’s Office.

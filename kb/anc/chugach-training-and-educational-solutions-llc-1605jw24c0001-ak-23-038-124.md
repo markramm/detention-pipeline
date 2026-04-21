@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - ak
 importance: 5
+state: 'AK'
 ---
 
 USAspending contract award.

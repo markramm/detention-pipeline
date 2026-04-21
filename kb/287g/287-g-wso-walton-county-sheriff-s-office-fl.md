@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Walton County'
+fips: '12131'
 ---
 
 287(g) agreement between ICE and Walton County Sheriff’s Office.

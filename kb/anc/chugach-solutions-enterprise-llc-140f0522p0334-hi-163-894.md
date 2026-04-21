@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - hi
 importance: 5
+state: 'HI'
 ---
 
 USAspending contract award.

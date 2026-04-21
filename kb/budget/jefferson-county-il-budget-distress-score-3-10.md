@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Jefferson County'
+fips: '17081'
 ---
 
 County-level fiscal distress indicators for Jefferson County, IL.

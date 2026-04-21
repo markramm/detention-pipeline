@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Floyd County'
+fips: '21071'
 ---
 
 County-level fiscal distress indicators for Floyd County, KY.

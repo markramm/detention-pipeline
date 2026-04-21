@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'CO'
+county: 'Baca County'
+fips: '08009'
 ---
 
 County-level fiscal distress indicators for Baca County, CO.

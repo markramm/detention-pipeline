@@ -7,6 +7,9 @@ tags:
 - jem
 - al
 importance: 5
+state: 'AL'
+county: 'Colbert County'
+fips: '01033'
 ---
 
 287(g) agreement between ICE and Colbert County Sheriff’s Office.

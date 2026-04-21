@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Spartanburg County'
+fips: '45083'
 ---
 
 287(g) agreement between ICE and Spartanburg County Sheriff’s Office.

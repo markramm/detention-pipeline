@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Randolph County'
+fips: '13243'
 ---
 
 County-level fiscal distress indicators for Randolph County, GA.

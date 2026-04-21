@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Mississippi County'
+fips: '05093'
 ---
 
 County-level fiscal distress indicators for Mississippi County, AR.

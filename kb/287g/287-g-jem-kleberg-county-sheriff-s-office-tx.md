@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Kleberg County'
+fips: '48273'
 ---
 
 287(g) agreement between ICE and Kleberg County Sheriff’s Office.

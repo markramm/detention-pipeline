@@ -7,6 +7,9 @@ tags:
 - jem
 - ga
 importance: 5
+state: 'GA'
+county: 'Grady County'
+fips: '13131'
 ---
 
 287(g) agreement between ICE and Grady County Sheriff’s Office.

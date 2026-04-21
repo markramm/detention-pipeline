@@ -7,6 +7,9 @@ tags:
 - tfm
 - ok
 importance: 5
+state: 'OK'
+county: 'Kiowa County'
+fips: '40075'
 ---
 
 287(g) agreement between ICE and Hobart Police Department.

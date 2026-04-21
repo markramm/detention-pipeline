@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Northampton County'
+fips: '51131'
 ---
 
 County-level fiscal distress indicators for Northampton County, VA.

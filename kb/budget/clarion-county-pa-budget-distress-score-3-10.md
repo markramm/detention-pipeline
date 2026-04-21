@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Clarion County'
+fips: '42031'
 ---
 
 County-level fiscal distress indicators for Clarion County, PA.

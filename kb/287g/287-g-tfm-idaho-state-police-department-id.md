@@ -7,6 +7,9 @@ tags:
 - tfm
 - id
 importance: 5
+state: 'ID'
+county: 'Jerome County'
+fips: '16053'
 ---
 
 287(g) agreement between ICE and Idaho State Police Department.

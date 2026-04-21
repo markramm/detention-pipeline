@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - unknown
 importance: 5
+state: 'US'
 ---
 
 USAspending contract award.

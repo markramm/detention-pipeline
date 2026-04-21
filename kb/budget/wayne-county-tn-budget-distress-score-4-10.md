@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TN'
+county: 'Wayne County'
+fips: '47181'
 ---
 
 County-level fiscal distress indicators for Wayne County, TN.

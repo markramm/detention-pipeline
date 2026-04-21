@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ky
 importance: 5
+state: 'KY'
 ---
 
 ICE contract award.

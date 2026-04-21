@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Montgomery County'
+fips: '17135'
 ---
 
 County-level fiscal distress indicators for Montgomery County, IL.

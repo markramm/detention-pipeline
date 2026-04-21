@@ -9,6 +9,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'WV'
+county: 'Boone County'
+fips: '54005'
 ---
 
 County-level fiscal distress indicators for Boone County, WV.

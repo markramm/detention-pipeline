@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Cottle County'
+fips: '48101'
 ---
 
 County-level fiscal distress indicators for Cottle County, TX.

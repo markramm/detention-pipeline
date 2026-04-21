@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Walworth County'
+fips: '46129'
 ---
 
 County-level fiscal distress indicators for Walworth County, SD.

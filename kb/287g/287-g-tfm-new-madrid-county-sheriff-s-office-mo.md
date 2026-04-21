@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'New Madrid County'
+fips: '29143'
 ---
 
 287(g) agreement between ICE and New Madrid County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - jem
 - wi
 importance: 5
+state: 'WI'
+county: 'Marathon County'
+fips: '55073'
 ---
 
 287(g) agreement between ICE and Marathon County Sheriff’s Office.

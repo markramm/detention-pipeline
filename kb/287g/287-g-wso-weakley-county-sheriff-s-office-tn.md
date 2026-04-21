@@ -7,6 +7,9 @@ tags:
 - wso
 - tn
 importance: 5
+state: 'TN'
+county: 'Weakley County'
+fips: '47183'
 ---
 
 287(g) agreement between ICE and Weakley County Sheriff’s Office.

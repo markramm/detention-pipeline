@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Cloud County'
+fips: '20029'
 ---
 
 287(g) agreement between ICE and Cloud County Sheriff’s Department.

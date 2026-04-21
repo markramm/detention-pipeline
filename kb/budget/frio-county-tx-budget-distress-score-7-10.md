@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Frio County'
+fips: '48163'
 ---
 
 County-level fiscal distress indicators for Frio County, TX.

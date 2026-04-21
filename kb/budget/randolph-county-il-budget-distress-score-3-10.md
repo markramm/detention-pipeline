@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Randolph County'
+fips: '17157'
 ---
 
 County-level fiscal distress indicators for Randolph County, IL.

@@ -8,6 +8,7 @@ tags:
 - other-ice
 - nv
 importance: 5
+state: 'NV'
 ---
 
 ICE contract award.

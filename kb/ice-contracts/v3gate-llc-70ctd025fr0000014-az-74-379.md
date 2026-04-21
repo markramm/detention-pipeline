@@ -8,6 +8,7 @@ tags:
 - other-ice
 - az
 importance: 5
+state: 'AZ'
 ---
 
 ICE contract award.

@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Cass County'
+fips: '48067'
 ---
 
 287(g) agreement between ICE and Cass County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Manitowoc County'
+fips: '55071'
 ---
 
 County-level fiscal distress indicators for Manitowoc County, WI.

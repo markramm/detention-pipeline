@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Chariton County'
+fips: '29041'
 ---
 
 County-level fiscal distress indicators for Chariton County, MO.

@@ -3,7 +3,7 @@ id: marion-county-in-mega-facility
 title: "Marion County IN — 8,500-Bed Mega-Facility Proposed, Jail at Capacity"
 type: county-fight
 county: Marion
-state: Indiana
+state: 'IN'
 facility: null
 status: contested
 vote_tally: ""
@@ -18,6 +18,7 @@ tags:
 - miami-correctional
 - midwest-hub
 research_status: working
+fips: '18097'
 ---
 
 # Marion County, Indiana: Midwest Deportation Hub

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Crittenden County'
+fips: '21055'
 ---
 
 County-level fiscal distress indicators for Crittenden County, KY.

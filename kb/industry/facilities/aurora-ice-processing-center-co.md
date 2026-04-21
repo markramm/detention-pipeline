@@ -5,7 +5,7 @@ type: facility
 facility_type: private-prison
 location: "3130 Oakland Street, Aurora, CO (Adams County)"
 county: "Adams"
-state: "Colorado"
+state: 'CO'
 capacity: "1,530"
 operator: "GEO Group (since 1986)"
 contract_type: federal-purchase
@@ -25,6 +25,7 @@ tags:
 - conditions-abuse
 - city-council-opposition
 research_status: working
+fips: '08001'
 ---
 
 # Aurora ICE Processing Center — GEO Group's Colorado Hub

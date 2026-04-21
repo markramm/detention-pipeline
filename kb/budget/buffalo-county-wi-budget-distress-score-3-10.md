@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'WI'
+county: 'Buffalo County'
+fips: '55011'
 ---
 
 County-level fiscal distress indicators for Buffalo County, WI.

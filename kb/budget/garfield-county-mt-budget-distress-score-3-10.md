@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Garfield County'
+fips: '30033'
 ---
 
 County-level fiscal distress indicators for Garfield County, MT.

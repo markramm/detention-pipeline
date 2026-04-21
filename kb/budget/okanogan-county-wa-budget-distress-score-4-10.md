@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'WA'
+county: 'Okanogan County'
+fips: '53047'
 ---
 
 County-level fiscal distress indicators for Okanogan County, WA.

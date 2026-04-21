@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'East Carroll Parish'
+fips: '22035'
 ---
 
 County-level fiscal distress indicators for East Carroll Parish, LA.

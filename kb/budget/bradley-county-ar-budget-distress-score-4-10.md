@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Bradley County'
+fips: '05011'
 ---
 
 County-level fiscal distress indicators for Bradley County, AR.

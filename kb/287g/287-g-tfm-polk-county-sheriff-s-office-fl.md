@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Polk County'
+fips: '12105'
 ---
 
 287(g) agreement between ICE and Polk County Sheriff’s Office.

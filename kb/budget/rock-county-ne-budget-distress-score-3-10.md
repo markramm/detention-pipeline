@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Rock County'
+fips: '31149'
 ---
 
 County-level fiscal distress indicators for Rock County, NE.

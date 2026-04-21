@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ma
 importance: 5
+state: 'MA'
 ---
 
 ICE contract award.

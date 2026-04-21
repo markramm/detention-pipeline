@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'SC'
+county: 'Lee County'
+fips: '45061'
 ---
 
 County-level fiscal distress indicators for Lee County, SC.

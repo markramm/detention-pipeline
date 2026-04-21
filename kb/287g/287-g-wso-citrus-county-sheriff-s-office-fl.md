@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Citrus County'
+fips: '12017'
 ---
 
 287(g) agreement between ICE and Citrus County Sheriff’s Office.

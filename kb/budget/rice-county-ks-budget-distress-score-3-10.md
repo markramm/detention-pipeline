@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Rice County'
+fips: '20159'
 ---
 
 County-level fiscal distress indicators for Rice County, KS.

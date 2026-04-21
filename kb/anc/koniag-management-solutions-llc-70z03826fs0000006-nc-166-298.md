@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - nc
 importance: 5
+state: 'NC'
 ---
 
 USAspending contract award.

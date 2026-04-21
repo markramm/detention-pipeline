@@ -7,6 +7,9 @@ tags:
 - tfm
 - w. va.
 importance: 5
+state: 'WV'
+county: 'Morgan County'
+fips: '54065'
 ---
 
 287(g) agreement between ICE and Morgan County Sheriff’s Office.

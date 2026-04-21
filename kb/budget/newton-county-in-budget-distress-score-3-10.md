@@ -8,6 +8,9 @@ tags:
 - population-loss
 - low-education-attainment
 importance: 5
+state: 'IN'
+county: 'Newton County'
+fips: '18111'
 ---
 
 County-level fiscal distress indicators for Newton County, IN.

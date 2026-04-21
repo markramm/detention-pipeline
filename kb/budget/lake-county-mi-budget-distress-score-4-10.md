@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Lake County'
+fips: '26085'
 ---
 
 County-level fiscal distress indicators for Lake County, MI.

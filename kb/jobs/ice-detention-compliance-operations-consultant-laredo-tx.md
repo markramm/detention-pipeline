@@ -7,6 +7,8 @@ tags:
 - tx
 - sabot-consulting
 importance: 5
+state: 'TX'
+county: 'Laredo'
 ---
 
 Job posting: ICE Detention Compliance Operations Consultant

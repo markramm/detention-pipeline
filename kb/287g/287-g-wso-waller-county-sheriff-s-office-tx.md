@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Waller County'
+fips: '48473'
 ---
 
 287(g) agreement between ICE and Waller County Sheriff’s Office.

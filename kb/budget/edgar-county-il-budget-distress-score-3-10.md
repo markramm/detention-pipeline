@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Edgar County'
+fips: '17045'
 ---
 
 County-level fiscal distress indicators for Edgar County, IL.

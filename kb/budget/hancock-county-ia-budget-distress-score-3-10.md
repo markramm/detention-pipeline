@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Hancock County'
+fips: '19081'
 ---
 
 County-level fiscal distress indicators for Hancock County, IA.

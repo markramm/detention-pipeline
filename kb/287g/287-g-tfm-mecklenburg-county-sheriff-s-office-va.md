@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Mecklenburg County'
+fips: '51117'
 ---
 
 287(g) agreement between ICE and Mecklenburg County Sheriff’s Office.

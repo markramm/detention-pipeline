@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Fulton County'
+fips: '21075'
 ---
 
 County-level fiscal distress indicators for Fulton County, KY.

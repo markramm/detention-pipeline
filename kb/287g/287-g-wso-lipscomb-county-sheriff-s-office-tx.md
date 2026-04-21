@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Lipscomb County'
+fips: '48295'
 ---
 
 287(g) agreement between ICE and Lipscomb County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - tn
 importance: 5
+state: 'TN'
+county: 'Franklin County'
+fips: '47051'
 ---
 
 287(g) agreement between ICE and Estill Springs Police Department.

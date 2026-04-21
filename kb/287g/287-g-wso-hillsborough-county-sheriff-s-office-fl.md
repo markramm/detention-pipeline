@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Hillsborough County'
+fips: '12057'
 ---
 
 287(g) agreement between ICE and Hillsborough County Sheriff’s Office.

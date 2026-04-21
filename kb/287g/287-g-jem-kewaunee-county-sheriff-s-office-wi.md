@@ -7,6 +7,9 @@ tags:
 - jem
 - wi
 importance: 5
+state: 'WI'
+county: 'Kewaunee County'
+fips: '55061'
 ---
 
 287(g) agreement between ICE and Kewaunee County Sheriff’s Office.

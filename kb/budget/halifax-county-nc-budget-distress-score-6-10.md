@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Halifax County'
+fips: '37083'
 ---
 
 County-level fiscal distress indicators for Halifax County, NC.

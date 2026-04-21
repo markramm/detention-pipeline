@@ -7,6 +7,9 @@ tags:
 - tfm
 - ut
 importance: 5
+state: 'UT'
+county: 'Utah County'
+fips: '49049'
 ---
 
 287(g) agreement between ICE and Utah County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Donley County'
+fips: '48129'
 ---
 
 County-level fiscal distress indicators for Donley County, TX.

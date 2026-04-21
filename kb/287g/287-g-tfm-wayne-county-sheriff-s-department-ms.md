@@ -7,6 +7,9 @@ tags:
 - tfm
 - ms
 importance: 5
+state: 'MS'
+county: 'Wayne County'
+fips: '28153'
 ---
 
 287(g) agreement between ICE and Wayne County Sheriff’s Department.

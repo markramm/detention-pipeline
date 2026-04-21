@@ -7,6 +7,9 @@ tags:
 - tfm
 - ar
 importance: 5
+state: 'AR'
+county: 'Miller County'
+fips: '05091'
 ---
 
 287(g) agreement between ICE and Miller County Sheriff’s Office.

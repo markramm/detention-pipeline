@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Newton County'
+fips: '05101'
 ---
 
 County-level fiscal distress indicators for Newton County, AR.

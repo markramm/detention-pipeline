@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Briscoe County'
+fips: '48045'
 ---
 
 County-level fiscal distress indicators for Briscoe County, TX.

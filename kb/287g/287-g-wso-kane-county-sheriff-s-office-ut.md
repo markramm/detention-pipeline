@@ -7,6 +7,9 @@ tags:
 - wso
 - ut
 importance: 5
+state: 'UT'
+county: 'Kane County'
+fips: '49025'
 ---
 
 287(g) agreement between ICE and Kane County Sheriff’s Office.

@@ -9,6 +9,9 @@ tags:
 - low-employment
 - low-education-attainment
 importance: 5
+state: 'LA'
+county: 'East Feliciana Parish'
+fips: '22037'
 ---
 
 County-level fiscal distress indicators for East Feliciana Parish, LA.

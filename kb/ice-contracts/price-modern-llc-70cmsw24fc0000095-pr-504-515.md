@@ -8,6 +8,7 @@ tags:
 - other-ice
 - pr
 importance: 5
+state: 'PR'
 ---
 
 ICE contract award.

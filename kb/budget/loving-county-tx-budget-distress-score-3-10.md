@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Loving County'
+fips: '48301'
 ---
 
 County-level fiscal distress indicators for Loving County, TX.

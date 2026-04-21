@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Lamb County'
+fips: '48279'
 ---
 
 287(g) agreement between ICE and Lamb County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wso
 - ar
 importance: 5
+state: 'AR'
+county: 'Faulkner County'
+fips: '05045'
 ---
 
 287(g) agreement between ICE and Faulkner County Sheriff’s Office.

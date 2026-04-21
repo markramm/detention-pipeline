@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Lancaster County'
+fips: '51103'
 ---
 
 County-level fiscal distress indicators for Lancaster County, VA.

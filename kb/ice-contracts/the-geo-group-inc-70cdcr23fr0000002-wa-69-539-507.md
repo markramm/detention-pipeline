@@ -8,6 +8,7 @@ tags:
 - detention-related
 - wa
 importance: 5
+state: 'WA'
 ---
 
 ICE contract award.

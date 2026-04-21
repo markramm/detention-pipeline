@@ -7,6 +7,9 @@ tags:
 - wso
 - va
 importance: 5
+state: 'VA'
+county: 'Pittsylvania County'
+fips: '51143'
 ---
 
 287(g) agreement between ICE and Pittsylvania County Sheriff’s Office.

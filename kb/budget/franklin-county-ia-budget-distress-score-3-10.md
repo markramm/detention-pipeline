@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Franklin County'
+fips: '19069'
 ---
 
 County-level fiscal distress indicators for Franklin County, IA.

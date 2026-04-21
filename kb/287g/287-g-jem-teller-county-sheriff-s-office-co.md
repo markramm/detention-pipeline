@@ -7,6 +7,9 @@ tags:
 - jem
 - co
 importance: 5
+state: 'CO'
+county: 'Teller County'
+fips: '08119'
 ---
 
 287(g) agreement between ICE and Teller County Sheriff’s Office.

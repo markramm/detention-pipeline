@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SC'
+county: 'Abbeville County'
+fips: '45001'
 ---
 
 County-level fiscal distress indicators for Abbeville County, SC.

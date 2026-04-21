@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Ellis County'
+fips: '20051'
 ---
 
 287(g) agreement between ICE and Ellis County Sheriff’s Office.

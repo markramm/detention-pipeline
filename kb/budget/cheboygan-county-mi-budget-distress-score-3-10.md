@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Cheboygan County'
+fips: '26031'
 ---
 
 County-level fiscal distress indicators for Cheboygan County, MI.

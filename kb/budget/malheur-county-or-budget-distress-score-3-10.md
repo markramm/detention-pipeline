@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'OR'
+county: 'Malheur County'
+fips: '41045'
 ---
 
 County-level fiscal distress indicators for Malheur County, OR.

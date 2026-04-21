@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Anderson County'
+fips: '20003'
 ---
 
 County-level fiscal distress indicators for Anderson County, KS.

@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Lee County'
+fips: '12071'
 ---
 
 287(g) agreement between ICE and Lee County Sheriff’s Office.

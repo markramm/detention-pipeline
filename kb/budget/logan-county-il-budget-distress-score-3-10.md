@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Logan County'
+fips: '17107'
 ---
 
 County-level fiscal distress indicators for Logan County, IL.

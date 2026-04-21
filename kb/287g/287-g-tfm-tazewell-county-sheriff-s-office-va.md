@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Tazewell County'
+fips: '51185'
 ---
 
 287(g) agreement between ICE and Tazewell County Sheriff’s Office.

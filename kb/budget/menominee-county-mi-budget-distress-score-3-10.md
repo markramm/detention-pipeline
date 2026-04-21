@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Menominee County'
+fips: '26109'
 ---
 
 County-level fiscal distress indicators for Menominee County, MI.

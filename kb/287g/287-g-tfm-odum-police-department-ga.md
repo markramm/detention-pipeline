@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Wayne County'
+fips: '13305'
 ---
 
 287(g) agreement between ICE and Odum Police Department.

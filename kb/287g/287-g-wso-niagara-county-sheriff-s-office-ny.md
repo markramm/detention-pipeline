@@ -7,6 +7,9 @@ tags:
 - wso
 - ny
 importance: 5
+state: 'NY'
+county: 'Niagara County'
+fips: '36063'
 ---
 
 287(g) agreement between ICE and Niagara County Sheriff’s Office.

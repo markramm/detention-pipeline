@@ -7,6 +7,9 @@ tags:
 - wso
 - al
 importance: 5
+state: 'AL'
+county: 'Crenshaw County'
+fips: '01041'
 ---
 
 287(g) agreement between ICE and Crenshaw County Sheriff’s Office.

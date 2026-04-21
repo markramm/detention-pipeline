@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Guernsey County'
+fips: '39059'
 ---
 
 County-level fiscal distress indicators for Guernsey County, OH.

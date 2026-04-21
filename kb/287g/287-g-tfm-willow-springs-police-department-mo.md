@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Howell County'
+fips: '29091'
 ---
 
 287(g) agreement between ICE and Willow Springs Police Department.

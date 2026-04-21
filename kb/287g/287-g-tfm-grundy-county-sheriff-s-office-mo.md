@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Grundy County'
+fips: '29079'
 ---
 
 287(g) agreement between ICE and Grundy County Sheriff’s Office.

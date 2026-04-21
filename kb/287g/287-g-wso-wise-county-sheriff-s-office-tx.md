@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Wise County'
+fips: '48497'
 ---
 
 287(g) agreement between ICE and Wise County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'McDonough County'
+fips: '17109'
 ---
 
 County-level fiscal distress indicators for McDonough County, IL.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Fergus County'
+fips: '30027'
 ---
 
 County-level fiscal distress indicators for Fergus County, MT.

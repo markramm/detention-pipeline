@@ -8,6 +8,7 @@ tags:
 - detention-related
 - az
 importance: 5
+state: 'AZ'
 ---
 
 ICE contract award.

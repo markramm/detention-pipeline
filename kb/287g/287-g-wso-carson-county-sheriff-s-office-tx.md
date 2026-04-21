@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Carson County'
+fips: '48065'
 ---
 
 287(g) agreement between ICE and Carson County Sheriff’s Office.

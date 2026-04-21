@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - mi
 importance: 5
+state: 'MI'
 ---
 
 USAspending contract award.

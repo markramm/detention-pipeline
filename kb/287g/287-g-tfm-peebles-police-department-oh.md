@@ -7,6 +7,9 @@ tags:
 - tfm
 - oh
 importance: 5
+state: 'OH'
+county: 'Adams County'
+fips: '39001'
 ---
 
 287(g) agreement between ICE and Peebles Police Department.

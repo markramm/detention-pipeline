@@ -8,6 +8,7 @@ tags:
 - detention-related
 - vt
 importance: 5
+state: 'VT'
 ---
 
 ICE contract award.

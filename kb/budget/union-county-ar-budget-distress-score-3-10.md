@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Union County'
+fips: '05139'
 ---
 
 County-level fiscal distress indicators for Union County, AR.

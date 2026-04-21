@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'PA'
+county: 'Bradford County'
+fips: '42015'
 ---
 
 County-level fiscal distress indicators for Bradford County, PA.

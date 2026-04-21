@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Nolan County'
+fips: '48353'
 ---
 
 287(g) agreement between ICE and Nolan County Sheriff’s Office.

@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'OH'
+county: 'Noble County'
+fips: '39121'
 ---
 
 County-level fiscal distress indicators for Noble County, OH.

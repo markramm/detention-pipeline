@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Hayes County'
+fips: '31085'
 ---
 
 County-level fiscal distress indicators for Hayes County, NE.

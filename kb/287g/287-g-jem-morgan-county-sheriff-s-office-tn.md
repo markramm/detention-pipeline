@@ -7,6 +7,9 @@ tags:
 - jem
 - tn
 importance: 5
+state: 'TN'
+county: 'Morgan County'
+fips: '47129'
 ---
 
 287(g) agreement between ICE and Morgan County Sheriff’s Office.

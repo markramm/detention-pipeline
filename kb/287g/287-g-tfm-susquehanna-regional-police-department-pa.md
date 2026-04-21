@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Lancaster County'
+fips: '42071'
 ---
 
 287(g) agreement between ICE and Susquehanna Regional Police Department.

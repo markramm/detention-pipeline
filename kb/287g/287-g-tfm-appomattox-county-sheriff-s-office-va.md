@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Appomattox County'
+fips: '51011'
 ---
 
 287(g) agreement between ICE and Appomattox County Sheriff’s Office.

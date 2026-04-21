@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'LA'
+county: 'Morehouse Parish'
+fips: '22067'
 ---
 
 County-level fiscal distress indicators for Morehouse Parish, LA.

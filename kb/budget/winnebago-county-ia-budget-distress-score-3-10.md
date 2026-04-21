@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Winnebago County'
+fips: '19189'
 ---
 
 County-level fiscal distress indicators for Winnebago County, IA.

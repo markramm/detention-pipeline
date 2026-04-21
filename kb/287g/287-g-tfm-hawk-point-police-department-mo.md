@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Lincoln County'
+fips: '29113'
 ---
 
 287(g) agreement between ICE and Hawk Point Police Department.

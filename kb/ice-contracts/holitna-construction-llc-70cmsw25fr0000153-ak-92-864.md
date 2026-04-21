@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ak
 importance: 5
+state: 'AK'
 ---
 
 ICE contract award.

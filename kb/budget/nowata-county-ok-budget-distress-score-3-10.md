@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Nowata County'
+fips: '40105'
 ---
 
 County-level fiscal distress indicators for Nowata County, OK.

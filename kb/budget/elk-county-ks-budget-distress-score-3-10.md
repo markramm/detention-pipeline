@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Elk County'
+fips: '20049'
 ---
 
 County-level fiscal distress indicators for Elk County, KS.

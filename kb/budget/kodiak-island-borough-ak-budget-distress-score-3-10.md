@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AK'
+county: 'Kodiak Island Borough'
+fips: '02150'
 ---
 
 County-level fiscal distress indicators for Kodiak Island Borough, AK.

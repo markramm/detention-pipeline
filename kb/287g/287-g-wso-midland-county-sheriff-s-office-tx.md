@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Midland County'
+fips: '48329'
 ---
 
 287(g) agreement between ICE and Midland County Sheriff’s Office.

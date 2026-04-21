@@ -7,6 +7,9 @@ tags:
 - va
 - persistent-poverty
 importance: 5
+state: 'VA'
+county: 'Radford city'
+fips: '51750'
 ---
 
 County-level fiscal distress indicators for Radford city, VA.

@@ -7,6 +7,9 @@ tags:
 - jem
 - ar
 importance: 5
+state: 'AR'
+county: 'Craighead County'
+fips: '05031'
 ---
 
 287(g) agreement between ICE and Craighead County Sheriff’s Office.

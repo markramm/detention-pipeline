@@ -7,6 +7,9 @@ tags:
 - wso
 - nv
 importance: 5
+state: 'NV'
+county: 'Mineral County'
+fips: '32021'
 ---
 
 287(g) agreement between ICE and Mineral County Sheriff’s Office.

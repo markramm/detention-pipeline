@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Whiteside County'
+fips: '17195'
 ---
 
 County-level fiscal distress indicators for Whiteside County, IL.

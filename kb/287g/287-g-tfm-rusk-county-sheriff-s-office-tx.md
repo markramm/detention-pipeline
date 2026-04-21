@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Rusk County'
+fips: '48401'
 ---
 
 287(g) agreement between ICE and Rusk County Sheriff’s Office.

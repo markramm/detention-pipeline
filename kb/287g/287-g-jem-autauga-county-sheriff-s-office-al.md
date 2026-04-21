@@ -7,6 +7,9 @@ tags:
 - jem
 - al
 importance: 5
+state: 'AL'
+county: 'Autauga County'
+fips: '01001'
 ---
 
 287(g) agreement between ICE and Autauga County Sheriff’s Office.

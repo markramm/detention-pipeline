@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'McDonald County'
+fips: '29119'
 ---
 
 287(g) agreement between ICE and Southwest City Police Department.

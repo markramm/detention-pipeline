@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Fort Bend County'
+fips: '48157'
 ---
 
 287(g) agreement between ICE and Fort Bend County Sheriff’s Office.

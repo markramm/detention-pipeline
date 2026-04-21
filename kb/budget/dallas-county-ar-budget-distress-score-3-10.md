@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Dallas County'
+fips: '05039'
 ---
 
 County-level fiscal distress indicators for Dallas County, AR.

@@ -11,6 +11,7 @@ importance: 7
 tags: [iowa, transparency, secrecy-clause, igsa, public-records, ethics, muscatine]
 research_status: working
 last_researched: "2026-04-13"
+fips: '19139'
 ---
 
 ## Summary

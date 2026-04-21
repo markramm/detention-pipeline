@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MN'
+county: 'Renville County'
+fips: '27129'
 ---
 
 County-level fiscal distress indicators for Renville County, MN.

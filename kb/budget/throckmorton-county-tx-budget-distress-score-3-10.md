@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Throckmorton County'
+fips: '48447'
 ---
 
 County-level fiscal distress indicators for Throckmorton County, TX.

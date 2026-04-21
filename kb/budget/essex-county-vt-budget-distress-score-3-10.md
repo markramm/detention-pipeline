@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VT'
+county: 'Essex County'
+fips: '50009'
 ---
 
 County-level fiscal distress indicators for Essex County, VT.

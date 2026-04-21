@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MT'
+county: 'McCone County'
+fips: '30055'
 ---
 
 County-level fiscal distress indicators for McCone County, MT.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Lamar County'
+fips: '01075'
 ---
 
 County-level fiscal distress indicators for Lamar County, AL.

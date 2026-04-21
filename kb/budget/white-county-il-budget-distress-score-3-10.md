@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'White County'
+fips: '17193'
 ---
 
 County-level fiscal distress indicators for White County, IL.

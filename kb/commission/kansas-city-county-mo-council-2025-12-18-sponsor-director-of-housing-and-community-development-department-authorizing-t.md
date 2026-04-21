@@ -7,6 +7,9 @@ tags:
 - mo
 - weak
 importance: 5
+state: 'MO'
+county: 'Jackson County'
+fips: '29095'
 ---
 
 County commission agenda item matching detention pipeline keywords.

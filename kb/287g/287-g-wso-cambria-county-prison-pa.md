@@ -7,6 +7,9 @@ tags:
 - wso
 - pa
 importance: 5
+state: 'PA'
+county: 'Cambria County'
+fips: '42021'
 ---
 
 287(g) agreement between ICE and Cambria County Prison.

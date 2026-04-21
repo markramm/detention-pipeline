@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Cass County'
+fips: '19029'
 ---
 
 County-level fiscal distress indicators for Cass County, IA.

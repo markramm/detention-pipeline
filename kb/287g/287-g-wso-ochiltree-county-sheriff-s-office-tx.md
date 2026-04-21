@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Ochiltree County'
+fips: '48357'
 ---
 
 287(g) agreement between ICE and Ochiltree County Sheriff’s Office.

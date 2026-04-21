@@ -8,6 +8,7 @@ tags:
 - other-ice
 - vt
 importance: 5
+state: 'VT'
 ---
 
 ICE contract award.

@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'Newberry County'
+fips: '45071'
 ---
 
 287(g) agreement between ICE and Newberry County Sheriff’s Office.

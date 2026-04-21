@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Walsh County'
+fips: '38099'
 ---
 
 County-level fiscal distress indicators for Walsh County, ND.

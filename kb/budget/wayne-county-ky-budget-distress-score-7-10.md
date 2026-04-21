@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Wayne County'
+fips: '21231'
 ---
 
 County-level fiscal distress indicators for Wayne County, KY.

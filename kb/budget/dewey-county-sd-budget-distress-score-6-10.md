@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Dewey County'
+fips: '46041'
 ---
 
 County-level fiscal distress indicators for Dewey County, SD.

@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Clarke County'
+fips: '28023'
 ---
 
 County-level fiscal distress indicators for Clarke County, MS.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Buchanan County'
+fips: '51027'
 ---
 
 287(g) agreement between ICE and Buchanan County Sheriff’s Office.

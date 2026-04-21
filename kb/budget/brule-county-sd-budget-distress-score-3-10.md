@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Brule County'
+fips: '46015'
 ---
 
 County-level fiscal distress indicators for Brule County, SD.

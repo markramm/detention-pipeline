@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Seminole County'
+fips: '13253'
 ---
 
 County-level fiscal distress indicators for Seminole County, GA.

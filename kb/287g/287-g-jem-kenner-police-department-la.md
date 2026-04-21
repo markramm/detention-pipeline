@@ -7,6 +7,9 @@ tags:
 - jem
 - la
 importance: 5
+state: 'LA'
+county: 'Jefferson Parish'
+fips: '22051'
 ---
 
 287(g) agreement between ICE and Kenner Police Department.

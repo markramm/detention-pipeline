@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Calhoun County'
+fips: '48057'
 ---
 
 287(g) agreement between ICE and Calhoun County Sheriff’s Office.

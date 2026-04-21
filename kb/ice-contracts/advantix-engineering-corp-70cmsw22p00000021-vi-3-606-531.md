@@ -8,6 +8,7 @@ tags:
 - other-ice
 - vi
 importance: 5
+state: 'VI'
 ---
 
 ICE contract award.

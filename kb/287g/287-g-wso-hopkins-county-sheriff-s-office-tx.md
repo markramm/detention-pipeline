@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Hopkins County'
+fips: '48223'
 ---
 
 287(g) agreement between ICE and Hopkins County Sheriff’s Office.

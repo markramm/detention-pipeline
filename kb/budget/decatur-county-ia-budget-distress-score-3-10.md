@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Decatur County'
+fips: '19053'
 ---
 
 County-level fiscal distress indicators for Decatur County, IA.

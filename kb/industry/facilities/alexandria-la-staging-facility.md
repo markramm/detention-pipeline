@@ -20,6 +20,7 @@ tags:
 - hub-and-spoke
 - tarmac-adjacent
 research_status: working
+fips: '22079'
 ---
 
 # Alexandria Staging Facility

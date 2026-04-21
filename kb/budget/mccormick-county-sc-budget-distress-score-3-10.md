@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'SC'
+county: 'McCormick County'
+fips: '45065'
 ---
 
 County-level fiscal distress indicators for McCormick County, SC.

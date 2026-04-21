@@ -11,6 +11,7 @@ importance: 8
 tags: [massachusetts, bristol-county, hodgson, heroux, 287g-terminated, information-sharing, sanctuary, sheriff-transition]
 research_status: working
 last_researched: "2026-04-12"
+fips: '25005'
 ---
 
 ## Background: The Hodgson Era

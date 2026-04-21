@@ -7,6 +7,9 @@ tags:
 - wso
 - va
 importance: 5
+state: 'VA'
+county: 'Loudoun County'
+fips: '51107'
 ---
 
 287(g) agreement between ICE and Loudoun County Sheriff’s Office.

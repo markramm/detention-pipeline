@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Zapata County'
+fips: '48505'
 ---
 
 County-level fiscal distress indicators for Zapata County, TX.

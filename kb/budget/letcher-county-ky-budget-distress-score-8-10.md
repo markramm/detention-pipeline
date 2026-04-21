@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Letcher County'
+fips: '21133'
 ---
 
 County-level fiscal distress indicators for Letcher County, KY.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Terrell County'
+fips: '48443'
 ---
 
 County-level fiscal distress indicators for Terrell County, TX.

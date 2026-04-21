@@ -7,6 +7,7 @@ tags:
 - tfm
 - ar
 importance: 5
+state: 'AR'
 ---
 
 287(g) agreement between ICE and Hampton Police Department.

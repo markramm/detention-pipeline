@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Perkins County'
+fips: '46105'
 ---
 
 County-level fiscal distress indicators for Perkins County, SD.

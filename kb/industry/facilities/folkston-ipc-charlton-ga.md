@@ -26,6 +26,7 @@ tags:
 - el-refugio
 - conditions-abuse
 research_status: working
+fips: '13049'
 ---
 
 # Folkston ICE Processing Center — Nation's Largest Detention Facility

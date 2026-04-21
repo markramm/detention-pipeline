@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Toombs County'
+fips: '13279'
 ---
 
 County-level fiscal distress indicators for Toombs County, GA.

@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Sunflower County'
+fips: '28133'
 ---
 
 County-level fiscal distress indicators for Sunflower County, MS.

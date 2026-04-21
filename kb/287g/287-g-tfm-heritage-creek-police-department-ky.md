@@ -7,6 +7,7 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
 ---
 
 287(g) agreement between ICE and Heritage Creek Police Department.

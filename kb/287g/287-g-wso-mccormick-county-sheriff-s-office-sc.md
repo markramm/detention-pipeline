@@ -7,6 +7,9 @@ tags:
 - wso
 - sc
 importance: 5
+state: 'SC'
+county: 'McCormick County'
+fips: '45065'
 ---
 
 287(g) agreement between ICE and McCormick County Sheriff’s Office.

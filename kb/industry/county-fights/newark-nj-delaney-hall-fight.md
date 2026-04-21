@@ -3,7 +3,7 @@ id: newark-nj-delaney-hall-fight
 title: "Newark NJ — City vs. GEO Group/ICE Over Delaney Hall Permits and Conditions"
 type: county-fight
 county: Essex
-state: New Jersey
+state: 'NJ'
 facility: "Delaney Hall, Newark NJ"
 status: contested
 vote_tally: ""
@@ -19,6 +19,7 @@ tags:
 - permits-dispute
 - new-jersey
 research_status: working
+fips: '34013'
 ---
 
 # Newark, NJ: The Delaney Hall Fight

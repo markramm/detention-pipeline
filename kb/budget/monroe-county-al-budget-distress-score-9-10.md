@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Monroe County'
+fips: '01099'
 ---
 
 County-level fiscal distress indicators for Monroe County, AL.

@@ -20,6 +20,7 @@ tags:
 - conditions-complaints
 - state-ban-struck-down
 research_status: working
+fips: '34039'
 ---
 
 # Elizabeth Contract Detention Facility — CoreCivic

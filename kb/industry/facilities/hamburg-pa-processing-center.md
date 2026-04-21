@@ -17,6 +17,7 @@ tags:
 - detention-reengineering
 - berks-county
 research_status: stub
+fips: '42011'
 ---
 
 # Hamburg PA ICE Processing Center

@@ -8,6 +8,7 @@ tags:
 - detention-related
 - la
 importance: 5
+state: 'LA'
 ---
 
 ICE contract award.

@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Webster County'
+fips: '54101'
 ---
 
 County-level fiscal distress indicators for Webster County, WV.

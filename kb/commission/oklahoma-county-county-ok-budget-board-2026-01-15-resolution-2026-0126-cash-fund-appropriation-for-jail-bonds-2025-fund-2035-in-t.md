@@ -7,6 +7,9 @@ tags:
 - ok
 - strong
 importance: 5
+state: 'OK'
+county: 'Oklahoma County'
+fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.

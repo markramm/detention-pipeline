@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Lynn County'
+fips: '48305'
 ---
 
 287(g) agreement between ICE and Lynn County Sheriff’s Office.

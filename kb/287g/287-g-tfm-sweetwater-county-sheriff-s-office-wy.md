@@ -7,6 +7,9 @@ tags:
 - tfm
 - wy
 importance: 5
+state: 'WY'
+county: 'Sweetwater County'
+fips: '56037'
 ---
 
 287(g) agreement between ICE and Sweetwater County Sheriff’s Office.

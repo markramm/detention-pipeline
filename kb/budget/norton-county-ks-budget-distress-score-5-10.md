@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Norton County'
+fips: '20137'
 ---
 
 County-level fiscal distress indicators for Norton County, KS.

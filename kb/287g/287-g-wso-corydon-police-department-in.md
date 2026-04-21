@@ -7,6 +7,9 @@ tags:
 - wso
 - in
 importance: 5
+state: 'IN'
+county: 'Harrison County'
+fips: '18061'
 ---
 
 287(g) agreement between ICE and Corydon Police Department.

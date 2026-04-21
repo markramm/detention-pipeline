@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Conecuh County'
+fips: '01035'
 ---
 
 County-level fiscal distress indicators for Conecuh County, AL.

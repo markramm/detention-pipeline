@@ -18,6 +18,7 @@ tags:
 - rescinded
 research_status: working
 last_researched: "2026-04-13"
+fips: '30049'
 ---
 
 # Lewis and Clark County: Helena Sanctuary City Fight

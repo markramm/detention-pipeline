@@ -7,6 +7,8 @@ tags:
 - tfm
 - la
 importance: 5
+state: 'LA'
+county: 'Saint Landry County'
 ---
 
 287(g) agreement between ICE and Arnaudville Police Department.

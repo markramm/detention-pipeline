@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Reagan County'
+fips: '48383'
 ---
 
 287(g) agreement between ICE and Reagan County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - jem
 - pa
 importance: 5
+state: 'PA'
+county: 'Westmoreland County'
+fips: '42129'
 ---
 
 287(g) agreement between ICE and Westmoreland County Sheriff’s Office.

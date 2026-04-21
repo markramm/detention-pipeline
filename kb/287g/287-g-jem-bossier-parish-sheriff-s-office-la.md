@@ -7,6 +7,9 @@ tags:
 - jem
 - la
 importance: 5
+state: 'LA'
+county: 'Bossier Parish'
+fips: '22015'
 ---
 
 287(g) agreement between ICE and Bossier Parish Sheriff’s Office.

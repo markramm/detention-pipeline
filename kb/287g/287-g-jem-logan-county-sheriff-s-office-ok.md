@@ -7,6 +7,9 @@ tags:
 - jem
 - ok
 importance: 5
+state: 'OK'
+county: 'Logan County'
+fips: '40083'
 ---
 
 287(g) agreement between ICE and Logan County Sheriff’s Office.

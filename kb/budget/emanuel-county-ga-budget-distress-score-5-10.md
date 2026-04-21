@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Emanuel County'
+fips: '13107'
 ---
 
 County-level fiscal distress indicators for Emanuel County, GA.

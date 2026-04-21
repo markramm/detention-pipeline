@@ -20,6 +20,7 @@ tags:
 - border-corridor
 - atd-precursor
 research_status: stub
+fips: '48479'
 ---
 
 # Webb County Detention Center — Laredo TX (CoreCivic)

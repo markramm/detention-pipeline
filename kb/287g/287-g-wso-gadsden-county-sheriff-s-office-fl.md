@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Gadsden County'
+fips: '12039'
 ---
 
 287(g) agreement between ICE and Gadsden County Sheriff’s Office.

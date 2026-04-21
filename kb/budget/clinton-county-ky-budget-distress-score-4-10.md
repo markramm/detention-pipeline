@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Clinton County'
+fips: '21053'
 ---
 
 County-level fiscal distress indicators for Clinton County, KY.

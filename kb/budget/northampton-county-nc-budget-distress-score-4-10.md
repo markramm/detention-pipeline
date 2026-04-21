@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Northampton County'
+fips: '37131'
 ---
 
 County-level fiscal distress indicators for Northampton County, NC.

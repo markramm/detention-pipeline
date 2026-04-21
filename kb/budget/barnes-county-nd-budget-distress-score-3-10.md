@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Barnes County'
+fips: '38003'
 ---
 
 County-level fiscal distress indicators for Barnes County, ND.

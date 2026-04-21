@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Howard County'
+fips: '19089'
 ---
 
 County-level fiscal distress indicators for Howard County, IA.

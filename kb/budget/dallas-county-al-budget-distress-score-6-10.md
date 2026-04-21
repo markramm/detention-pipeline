@@ -9,6 +9,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AL'
+county: 'Dallas County'
+fips: '01047'
 ---
 
 County-level fiscal distress indicators for Dallas County, AL.

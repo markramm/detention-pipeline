@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Appanoose County'
+fips: '19007'
 ---
 
 County-level fiscal distress indicators for Appanoose County, IA.

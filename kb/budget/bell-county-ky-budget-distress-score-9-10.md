@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Bell County'
+fips: '21013'
 ---
 
 County-level fiscal distress indicators for Bell County, KY.

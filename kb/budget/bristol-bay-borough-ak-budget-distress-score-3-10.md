@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AK'
+county: 'Bristol Bay Borough'
+fips: '02060'
 ---
 
 County-level fiscal distress indicators for Bristol Bay Borough, AK.

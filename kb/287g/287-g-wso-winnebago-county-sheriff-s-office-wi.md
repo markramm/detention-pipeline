@@ -7,6 +7,9 @@ tags:
 - wso
 - wi
 importance: 5
+state: 'WI'
+county: 'Winnebago County'
+fips: '55139'
 ---
 
 287(g) agreement between ICE and Winnebago County Sheriff’s Office.

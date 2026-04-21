@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Escambia County'
+fips: '12033'
 ---
 
 287(g) agreement between ICE and District Board of Trustees of Pensacola State College.

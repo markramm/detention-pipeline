@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Bladen County'
+fips: '37017'
 ---
 
 County-level fiscal distress indicators for Bladen County, NC.

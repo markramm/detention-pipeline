@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Pike County'
+fips: '29163'
 ---
 
 County-level fiscal distress indicators for Pike County, MO.

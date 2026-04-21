@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Floyd County'
+fips: '48153'
 ---
 
 County-level fiscal distress indicators for Floyd County, TX.

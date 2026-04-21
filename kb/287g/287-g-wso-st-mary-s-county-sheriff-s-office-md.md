@@ -7,6 +7,8 @@ tags:
 - wso
 - md
 importance: 5
+state: 'MD'
+county: 'St. Mary’s County'
 ---
 
 287(g) agreement between ICE and St. Mary’s County Sheriff’s Office.

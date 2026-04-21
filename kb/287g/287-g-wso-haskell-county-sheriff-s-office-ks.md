@@ -7,6 +7,9 @@ tags:
 - wso
 - ks
 importance: 5
+state: 'KS'
+county: 'Haskell County'
+fips: '20081'
 ---
 
 287(g) agreement between ICE and Haskell County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Coke County'
+fips: '48081'
 ---
 
 287(g) agreement between ICE and Coke County Sheriff’s Office.

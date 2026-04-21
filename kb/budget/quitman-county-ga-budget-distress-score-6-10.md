@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Quitman County'
+fips: '13239'
 ---
 
 County-level fiscal distress indicators for Quitman County, GA.

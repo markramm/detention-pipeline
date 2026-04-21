@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Bosque County'
+fips: '48035'
 ---
 
 287(g) agreement between ICE and Clifton Police Department.

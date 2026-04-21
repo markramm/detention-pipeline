@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Woods County'
+fips: '40151'
 ---
 
 County-level fiscal distress indicators for Woods County, OK.

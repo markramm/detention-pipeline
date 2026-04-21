@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Smyth County'
+fips: '51173'
 ---
 
 County-level fiscal distress indicators for Smyth County, VA.

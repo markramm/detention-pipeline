@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MI'
+county: 'Oscoda County'
+fips: '26135'
 ---
 
 County-level fiscal distress indicators for Oscoda County, MI.

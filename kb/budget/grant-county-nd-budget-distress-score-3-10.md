@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'ND'
+county: 'Grant County'
+fips: '38037'
 ---
 
 County-level fiscal distress indicators for Grant County, ND.

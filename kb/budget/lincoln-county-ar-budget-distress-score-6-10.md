@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Lincoln County'
+fips: '05079'
 ---
 
 County-level fiscal distress indicators for Lincoln County, AR.

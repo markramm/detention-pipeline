@@ -10,6 +10,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'MS'
+county: 'Amite County'
+fips: '28005'
 ---
 
 County-level fiscal distress indicators for Amite County, MS.

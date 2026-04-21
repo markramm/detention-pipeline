@@ -7,6 +7,9 @@ tags:
 - tfm
 - mn
 importance: 5
+state: 'MN'
+county: 'Cass County'
+fips: '27021'
 ---
 
 287(g) agreement between ICE and Cass County Sheriff’s Office.

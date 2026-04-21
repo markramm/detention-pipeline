@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Uvalde County'
+fips: '48463'
 ---
 
 287(g) agreement between ICE and Uvalde County Sheriff’s Office.

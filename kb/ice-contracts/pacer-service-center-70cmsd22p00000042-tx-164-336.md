@@ -8,6 +8,7 @@ tags:
 - other-ice
 - tx
 importance: 5
+state: 'TX'
 ---
 
 ICE contract award.

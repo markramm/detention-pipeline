@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Newton County'
+fips: '48351'
 ---
 
 County-level fiscal distress indicators for Newton County, TX.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Nance County'
+fips: '31125'
 ---
 
 County-level fiscal distress indicators for Nance County, NE.

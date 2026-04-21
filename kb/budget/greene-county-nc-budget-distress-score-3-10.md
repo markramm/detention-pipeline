@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'NC'
+county: 'Greene County'
+fips: '37079'
 ---
 
 County-level fiscal distress indicators for Greene County, NC.

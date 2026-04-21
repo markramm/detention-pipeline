@@ -7,6 +7,9 @@ tags:
 - ca
 - strong
 importance: 5
+state: 'CA'
+county: 'San Diego County'
+fips: '06073'
 ---
 
 County commission agenda item matching detention pipeline keywords.

@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Clark County'
+fips: '29045'
 ---
 
 County-level fiscal distress indicators for Clark County, MO.

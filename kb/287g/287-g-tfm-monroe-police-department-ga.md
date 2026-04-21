@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Monroe County'
+fips: '13207'
 ---
 
 287(g) agreement between ICE and Monroe Police Department.

@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Mingo County'
+fips: '54059'
 ---
 
 County-level fiscal distress indicators for Mingo County, WV.

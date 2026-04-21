@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Haskell County'
+fips: '48207'
 ---
 
 287(g) agreement between ICE and Haskell Police Department.

@@ -7,6 +7,9 @@ tags:
 - tfm
 - nd
 importance: 5
+state: 'ND'
+county: 'Eddy County'
+fips: '38027'
 ---
 
 287(g) agreement between ICE and Eddy County Sheriff’s Office.

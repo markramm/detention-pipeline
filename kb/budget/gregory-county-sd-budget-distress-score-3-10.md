@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Gregory County'
+fips: '46053'
 ---
 
 County-level fiscal distress indicators for Gregory County, SD.

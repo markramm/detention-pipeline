@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'OK'
+county: 'Kay County'
+fips: '40071'
 ---
 
 County-level fiscal distress indicators for Kay County, OK.

@@ -7,6 +7,7 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
 ---
 
 287(g) agreement between ICE and Georgia Department of Public Safety.

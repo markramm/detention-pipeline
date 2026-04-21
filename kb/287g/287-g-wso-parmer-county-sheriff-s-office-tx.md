@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Parmer County'
+fips: '48369'
 ---
 
 287(g) agreement between ICE and Parmer County Sheriff’s Office.

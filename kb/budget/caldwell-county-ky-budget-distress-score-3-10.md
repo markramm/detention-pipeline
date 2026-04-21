@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Caldwell County'
+fips: '21033'
 ---
 
 County-level fiscal distress indicators for Caldwell County, KY.

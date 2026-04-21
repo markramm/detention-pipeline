@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'VA'
+county: 'Richmond County'
+fips: '51159'
 ---
 
 County-level fiscal distress indicators for Richmond County, VA.

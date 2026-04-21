@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Box Butte County'
+fips: '31013'
 ---
 
 County-level fiscal distress indicators for Box Butte County, NE.

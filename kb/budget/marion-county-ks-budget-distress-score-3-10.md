@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Marion County'
+fips: '20115'
 ---
 
 County-level fiscal distress indicators for Marion County, KS.

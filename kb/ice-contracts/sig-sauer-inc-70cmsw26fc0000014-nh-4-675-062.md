@@ -8,6 +8,7 @@ tags:
 - other-ice
 - nh
 importance: 5
+state: 'NH'
 ---
 
 ICE contract award.

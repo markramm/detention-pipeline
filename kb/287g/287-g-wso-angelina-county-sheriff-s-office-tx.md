@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Angelina County'
+fips: '48005'
 ---
 
 287(g) agreement between ICE and Angelina County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - wso
 - id
 importance: 5
+state: 'ID'
+county: 'Kootenai County'
+fips: '16055'
 ---
 
 287(g) agreement between ICE and Kootenai County Sheriff’s Office.

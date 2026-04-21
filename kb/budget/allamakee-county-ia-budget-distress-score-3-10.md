@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Allamakee County'
+fips: '19005'
 ---
 
 County-level fiscal distress indicators for Allamakee County, IA.

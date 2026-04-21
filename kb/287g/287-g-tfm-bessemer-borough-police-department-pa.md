@@ -7,6 +7,9 @@ tags:
 - tfm
 - pa
 importance: 5
+state: 'PA'
+county: 'Lawrence County'
+fips: '42073'
 ---
 
 287(g) agreement between ICE and Bessemer Borough Police Department.

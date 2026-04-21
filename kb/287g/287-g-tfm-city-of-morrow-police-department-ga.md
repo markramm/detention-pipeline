@@ -7,6 +7,9 @@ tags:
 - tfm
 - ga
 importance: 5
+state: 'GA'
+county: 'Clayton County'
+fips: '13063'
 ---
 
 287(g) agreement between ICE and City of Morrow Police Department.

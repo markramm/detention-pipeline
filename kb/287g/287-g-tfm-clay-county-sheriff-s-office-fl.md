@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Clay County'
+fips: '12019'
 ---
 
 287(g) agreement between ICE and Clay County Sheriff’s Office.

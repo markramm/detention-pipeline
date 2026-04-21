@@ -19,6 +19,7 @@ tags:
 - college-students-detained
 research_status: working
 last_researched: "2026-04-12"
+fips: '22059'
 ---
 
 # Central Louisiana ICE Processing Center

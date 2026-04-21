@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'McPherson County'
+fips: '46089'
 ---
 
 County-level fiscal distress indicators for McPherson County, SD.

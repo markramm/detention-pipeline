@@ -7,6 +7,7 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
 ---
 
 287(g) agreement between ICE and North Bay Village Police Department.

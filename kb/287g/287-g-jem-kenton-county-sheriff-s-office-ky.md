@@ -7,6 +7,9 @@ tags:
 - jem
 - ky
 importance: 5
+state: 'KY'
+county: 'Kenton County'
+fips: '21117'
 ---
 
 287(g) agreement between ICE and Kenton County Sheriff’s Office.

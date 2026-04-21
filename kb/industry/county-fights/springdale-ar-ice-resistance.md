@@ -19,6 +19,7 @@ tags:
 - arkansas
 research_status: working
 last_researched: "2026-04-13"
+fips: '05143'
 ---
 
 # Springdale: Diverse Boomtown Resists ICE Despite State Mandate

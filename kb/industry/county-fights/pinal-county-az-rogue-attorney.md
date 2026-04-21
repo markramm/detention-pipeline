@@ -22,6 +22,7 @@ tags:
 - arizona
 - pinal-county-cluster
 research_status: working
+fips: '04021'
 ---
 
 # Pinal County: When the County Attorney Goes Rogue

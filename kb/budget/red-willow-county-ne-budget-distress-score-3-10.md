@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Red Willow County'
+fips: '31145'
 ---
 
 County-level fiscal distress indicators for Red Willow County, NE.

@@ -7,6 +7,9 @@ tags:
 - wso
 - ga
 importance: 5
+state: 'GA'
+county: 'Decatur'
+fips: '13087'
 ---
 
 287(g) agreement between ICE and Decatur County Sheriff’s Office.

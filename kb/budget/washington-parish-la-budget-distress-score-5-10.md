@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Washington Parish'
+fips: '22117'
 ---
 
 County-level fiscal distress indicators for Washington Parish, LA.

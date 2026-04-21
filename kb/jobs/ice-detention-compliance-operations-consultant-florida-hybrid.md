@@ -7,6 +7,7 @@ tags:
 - fl
 - sabot-consulting
 importance: 5
+state: 'FL'
 ---
 
 Job posting: ICE Detention Compliance Operations Consultant

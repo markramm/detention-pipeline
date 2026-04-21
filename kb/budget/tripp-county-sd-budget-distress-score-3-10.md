@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Tripp County'
+fips: '46123'
 ---
 
 County-level fiscal distress indicators for Tripp County, SD.

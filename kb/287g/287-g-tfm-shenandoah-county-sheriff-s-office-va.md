@@ -7,6 +7,9 @@ tags:
 - tfm
 - va
 importance: 5
+state: 'VA'
+county: 'Shenandoah County'
+fips: '51171'
 ---
 
 287(g) agreement between ICE and Shenandoah County Sheriff’s Office.

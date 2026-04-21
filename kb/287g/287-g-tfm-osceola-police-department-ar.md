@@ -7,6 +7,9 @@ tags:
 - tfm
 - ar
 importance: 5
+state: 'AR'
+county: 'Mississippi County'
+fips: '05093'
 ---
 
 287(g) agreement between ICE and Osceola Police Department.

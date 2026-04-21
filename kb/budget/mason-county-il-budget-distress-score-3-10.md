@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Mason County'
+fips: '17125'
 ---
 
 County-level fiscal distress indicators for Mason County, IL.

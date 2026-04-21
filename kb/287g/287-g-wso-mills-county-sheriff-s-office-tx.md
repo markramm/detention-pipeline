@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Mills County'
+fips: '48333'
 ---
 
 287(g) agreement between ICE and Mills County Sheriff’s Office.

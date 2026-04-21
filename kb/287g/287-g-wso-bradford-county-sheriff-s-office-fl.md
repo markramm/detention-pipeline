@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Bradford County'
+fips: '12007'
 ---
 
 287(g) agreement between ICE and Bradford County Sheriff’s Office.

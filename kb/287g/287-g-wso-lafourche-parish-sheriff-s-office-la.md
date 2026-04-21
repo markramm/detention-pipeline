@@ -7,6 +7,9 @@ tags:
 - wso
 - la
 importance: 5
+state: 'LA'
+county: 'Lafourche Parish'
+fips: '22057'
 ---
 
 287(g) agreement between ICE and Lafourche Parish Sheriff’s Office.

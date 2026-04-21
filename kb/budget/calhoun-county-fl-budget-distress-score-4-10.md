@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'Calhoun County'
+fips: '12013'
 ---
 
 County-level fiscal distress indicators for Calhoun County, FL.

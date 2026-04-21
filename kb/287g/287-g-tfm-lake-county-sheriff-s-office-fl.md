@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Lake County'
+fips: '12069'
 ---
 
 287(g) agreement between ICE and Lake County Sheriff’s Office.

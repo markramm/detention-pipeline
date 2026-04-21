@@ -6,6 +6,7 @@ tags:
 - anc-contract
 - gu
 importance: 5
+state: 'GU'
 ---
 
 USAspending contract award.

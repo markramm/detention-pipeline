@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Bulloch County'
+fips: '13031'
 ---
 
 County-level fiscal distress indicators for Bulloch County, GA.

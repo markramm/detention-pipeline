@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Calhoun County'
+fips: '05013'
 ---
 
 County-level fiscal distress indicators for Calhoun County, AR.

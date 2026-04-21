@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - population-loss
 importance: 5
+state: 'GA'
+county: 'Terrell County'
+fips: '13273'
 ---
 
 County-level fiscal distress indicators for Terrell County, GA.

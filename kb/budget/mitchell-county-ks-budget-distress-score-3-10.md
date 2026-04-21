@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'KS'
+county: 'Mitchell County'
+fips: '20123'
 ---
 
 County-level fiscal distress indicators for Mitchell County, KS.

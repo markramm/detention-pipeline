@@ -7,6 +7,9 @@ tags:
 - jem
 - fl
 importance: 5
+state: 'FL'
+county: 'Taylor County'
+fips: '12123'
 ---
 
 287(g) agreement between ICE and Taylor County Sheriff’s Office.

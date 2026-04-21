@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Lyon County'
+fips: '21143'
 ---
 
 287(g) agreement between ICE and Lyon County Sheriff’s Office.

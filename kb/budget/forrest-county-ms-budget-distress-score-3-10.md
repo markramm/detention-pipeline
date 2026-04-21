@@ -7,6 +7,9 @@ tags:
 - ms
 - persistent-poverty
 importance: 5
+state: 'MS'
+county: 'Forrest County'
+fips: '28035'
 ---
 
 County-level fiscal distress indicators for Forrest County, MS.

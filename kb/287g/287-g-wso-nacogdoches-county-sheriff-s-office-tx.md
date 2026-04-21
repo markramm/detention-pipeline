@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Nacogdoches County'
+fips: '48347'
 ---
 
 287(g) agreement between ICE and Nacogdoches County Sheriff’s Office.

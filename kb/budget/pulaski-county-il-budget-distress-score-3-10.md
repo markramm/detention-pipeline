@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Pulaski County'
+fips: '17153'
 ---
 
 County-level fiscal distress indicators for Pulaski County, IL.

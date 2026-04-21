@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Bee County'
+fips: '48025'
 ---
 
 287(g) agreement between ICE and Bee County Sheriff’s Office.

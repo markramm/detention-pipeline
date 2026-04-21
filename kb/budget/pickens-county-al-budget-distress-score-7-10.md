@@ -9,6 +9,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'AL'
+county: 'Pickens County'
+fips: '01107'
 ---
 
 County-level fiscal distress indicators for Pickens County, AL.

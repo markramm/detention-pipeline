@@ -28,6 +28,7 @@ prior_owner: "R-REEF CPIF (Deutsche Bank subsidiaries)"
 markup: "$48M above assessed value"
 transport_contractor: "GEO Transport Inc. (GEO Group subsidiary)"
 transport_contract_value: "$10.4M (up to $49.7M with extensions)"
+fips: '49035'
 ---
 
 # Salt Lake City ICE Mega Center

@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Dooly County'
+fips: '13093'
 ---
 
 County-level fiscal distress indicators for Dooly County, GA.

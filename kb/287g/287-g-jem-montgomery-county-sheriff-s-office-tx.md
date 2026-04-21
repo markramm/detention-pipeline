@@ -7,6 +7,9 @@ tags:
 - jem
 - tx
 importance: 5
+state: 'TX'
+county: 'Montgomery County'
+fips: '48339'
 ---
 
 287(g) agreement between ICE and Montgomery County Sheriff’s Office.

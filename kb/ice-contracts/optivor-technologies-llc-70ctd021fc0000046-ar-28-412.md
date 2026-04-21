@@ -8,6 +8,7 @@ tags:
 - other-ice
 - ar
 importance: 5
+state: 'AR'
 ---
 
 ICE contract award.

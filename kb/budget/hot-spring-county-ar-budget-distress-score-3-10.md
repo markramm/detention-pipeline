@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Hot Spring County'
+fips: '05059'
 ---
 
 County-level fiscal distress indicators for Hot Spring County, AR.

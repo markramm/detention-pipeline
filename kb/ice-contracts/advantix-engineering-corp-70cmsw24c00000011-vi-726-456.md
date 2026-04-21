@@ -8,6 +8,7 @@ tags:
 - detention-related
 - vi
 importance: 5
+state: 'VI'
 ---
 
 ICE contract award.

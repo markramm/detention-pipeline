@@ -8,6 +8,9 @@ tags:
 - population-loss
 - low-employment
 importance: 5
+state: 'WV'
+county: 'Raleigh County'
+fips: '54081'
 ---
 
 County-level fiscal distress indicators for Raleigh County, WV.

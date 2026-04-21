@@ -7,6 +7,9 @@ tags:
 - tfm
 - ny
 importance: 5
+state: 'NY'
+county: 'Nassau County'
+fips: '36059'
 ---
 
 287(g) agreement between ICE and Nassau County Police Department.

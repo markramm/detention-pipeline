@@ -9,6 +9,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'IL'
+county: 'Perry County'
+fips: '17145'
 ---
 
 County-level fiscal distress indicators for Perry County, IL.

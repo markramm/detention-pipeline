@@ -8,6 +8,7 @@ tags:
 - other-ice
 - mt
 importance: 5
+state: 'MT'
 ---
 
 ICE contract award.

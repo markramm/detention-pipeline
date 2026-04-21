@@ -7,6 +7,9 @@ tags:
 - wso
 - fl
 importance: 5
+state: 'FL'
+county: 'Jackson County'
+fips: '12063'
 ---
 
 287(g) agreement between ICE and Jackson County Correctional Facility.

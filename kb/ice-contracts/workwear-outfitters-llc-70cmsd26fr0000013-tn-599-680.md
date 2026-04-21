@@ -8,6 +8,7 @@ tags:
 - other-ice
 - tn
 importance: 5
+state: 'TN'
 ---
 
 ICE contract award.

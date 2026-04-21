@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Gilchrist County'
+fips: '12041'
 ---
 
 287(g) agreement between ICE and Gilchrist County Sheriff’s Office.

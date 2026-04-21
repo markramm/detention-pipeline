@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'SC'
+county: 'Orangeburg County'
+fips: '45075'
 ---
 
 County-level fiscal distress indicators for Orangeburg County, SC.

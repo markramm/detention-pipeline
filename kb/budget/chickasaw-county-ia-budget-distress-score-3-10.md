@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IA'
+county: 'Chickasaw County'
+fips: '19037'
 ---
 
 County-level fiscal distress indicators for Chickasaw County, IA.

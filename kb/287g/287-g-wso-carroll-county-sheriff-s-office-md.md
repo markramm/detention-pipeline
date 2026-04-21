@@ -7,6 +7,9 @@ tags:
 - wso
 - md
 importance: 5
+state: 'MD'
+county: 'Carroll County'
+fips: '24013'
 ---
 
 287(g) agreement between ICE and Carroll County Sheriff’s Office.

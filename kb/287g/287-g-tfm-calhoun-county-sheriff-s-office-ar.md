@@ -7,6 +7,9 @@ tags:
 - tfm
 - ar
 importance: 5
+state: 'AR'
+county: 'Calhoun County'
+fips: '05013'
 ---
 
 287(g) agreement between ICE and Calhoun County Sheriff’s Office.

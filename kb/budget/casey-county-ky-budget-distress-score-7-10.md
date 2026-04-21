@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Casey County'
+fips: '21045'
 ---
 
 County-level fiscal distress indicators for Casey County, KY.

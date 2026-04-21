@@ -7,6 +7,9 @@ tags:
 - tfm
 - ky
 importance: 5
+state: 'KY'
+county: 'Hickman County'
+fips: '21105'
 ---
 
 287(g) agreement between ICE and Hickman County Sheriff’s Office.

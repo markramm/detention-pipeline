@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Madison Parish'
+fips: '22065'
 ---
 
 County-level fiscal distress indicators for Madison Parish, LA.

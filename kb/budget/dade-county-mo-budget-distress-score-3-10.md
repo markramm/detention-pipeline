@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MO'
+county: 'Dade County'
+fips: '29057'
 ---
 
 County-level fiscal distress indicators for Dade County, MO.

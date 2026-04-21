@@ -9,6 +9,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'KY'
+county: 'Powell County'
+fips: '21197'
 ---
 
 County-level fiscal distress indicators for Powell County, KY.

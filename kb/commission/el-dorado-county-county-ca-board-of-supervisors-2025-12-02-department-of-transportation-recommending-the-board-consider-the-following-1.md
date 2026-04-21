@@ -7,6 +7,9 @@ tags:
 - ca
 - moderate
 importance: 5
+state: 'CA'
+county: 'El Dorado County'
+fips: '06017'
 ---
 
 County commission agenda item matching detention pipeline keywords.

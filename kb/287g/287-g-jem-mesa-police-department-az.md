@@ -7,6 +7,7 @@ tags:
 - jem
 - az
 importance: 5
+state: 'AZ'
 ---
 
 287(g) agreement between ICE and Mesa Police Department.

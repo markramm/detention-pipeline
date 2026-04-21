@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Clay County'
+fips: '31035'
 ---
 
 County-level fiscal distress indicators for Clay County, NE.

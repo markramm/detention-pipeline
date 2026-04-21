@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'McMullen County'
+fips: '48311'
 ---
 
 287(g) agreement between ICE and McMullen County Sheriff’s Office.

@@ -3,7 +3,7 @@ id: shakopee-mn-warehouse-blocked
 title: "Shakopee MN — Warehouse Owner Pulls Out After Community Mobilization"
 type: county-fight
 county: Scott
-state: Minnesota
+state: 'MN'
 facility: null
 status: blocked
 vote_tally: ""
@@ -15,6 +15,7 @@ tags:
 - minnesota
 - detention-reengineering
 research_status: working
+fips: '27139'
 ---
 
 # Shakopee, Minnesota: Owner Withdrew

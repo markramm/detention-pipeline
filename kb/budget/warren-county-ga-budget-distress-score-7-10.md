@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'GA'
+county: 'Warren County'
+fips: '13301'
 ---
 
 County-level fiscal distress indicators for Warren County, GA.

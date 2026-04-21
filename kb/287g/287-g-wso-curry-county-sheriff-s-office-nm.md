@@ -7,6 +7,9 @@ tags:
 - wso
 - nm
 importance: 5
+state: 'NM'
+county: 'Curry County'
+fips: '35009'
 ---
 
 287(g) agreement between ICE and Curry County Sheriff’s Office.

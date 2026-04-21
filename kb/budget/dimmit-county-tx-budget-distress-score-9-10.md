@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Dimmit County'
+fips: '48127'
 ---
 
 County-level fiscal distress indicators for Dimmit County, TX.

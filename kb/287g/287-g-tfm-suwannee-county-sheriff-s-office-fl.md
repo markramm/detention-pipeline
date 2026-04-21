@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Suwannee County'
+fips: '12121'
 ---
 
 287(g) agreement between ICE and Suwannee County Sheriff’s Office.

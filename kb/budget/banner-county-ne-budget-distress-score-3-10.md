@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Banner County'
+fips: '31007'
 ---
 
 County-level fiscal distress indicators for Banner County, NE.

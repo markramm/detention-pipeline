@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'SD'
+county: 'Mellette County'
+fips: '46095'
 ---
 
 County-level fiscal distress indicators for Mellette County, SD.

@@ -7,6 +7,9 @@ tags:
 - jem
 - ok
 importance: 5
+state: 'OK'
+county: 'Tulsa County'
+fips: '40143'
 ---
 
 287(g) agreement between ICE and Tulsa County Sheriff’s Office.

@@ -7,6 +7,9 @@ tags:
 - jem
 - ut
 importance: 5
+state: 'UT'
+county: 'Washington County'
+fips: '49053'
 ---
 
 287(g) agreement between ICE and Washington County Sheriff’s Office.

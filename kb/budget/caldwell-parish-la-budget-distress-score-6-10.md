@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'LA'
+county: 'Caldwell Parish'
+fips: '22021'
 ---
 
 County-level fiscal distress indicators for Caldwell Parish, LA.

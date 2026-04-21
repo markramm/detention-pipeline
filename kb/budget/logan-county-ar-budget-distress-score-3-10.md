@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'AR'
+county: 'Logan County'
+fips: '05083'
 ---
 
 County-level fiscal distress indicators for Logan County, AR.

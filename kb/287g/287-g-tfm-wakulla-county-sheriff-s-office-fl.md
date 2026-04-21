@@ -7,6 +7,9 @@ tags:
 - tfm
 - fl
 importance: 5
+state: 'FL'
+county: 'Wakulla County'
+fips: '12129'
 ---
 
 287(g) agreement between ICE and Wakulla County Sheriff’s Office.

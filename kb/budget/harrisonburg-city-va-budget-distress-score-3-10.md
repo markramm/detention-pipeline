@@ -7,6 +7,9 @@ tags:
 - va
 - persistent-poverty
 importance: 5
+state: 'VA'
+county: 'Harrisonburg city'
+fips: '51660'
 ---
 
 County-level fiscal distress indicators for Harrisonburg city, VA.

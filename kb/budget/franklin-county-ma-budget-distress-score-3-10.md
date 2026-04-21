@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'MA'
+county: 'Franklin County'
+fips: '25011'
 ---
 
 County-level fiscal distress indicators for Franklin County, MA.

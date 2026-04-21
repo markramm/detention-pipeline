@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NE'
+county: 'Fillmore County'
+fips: '31059'
 ---
 
 County-level fiscal distress indicators for Fillmore County, NE.

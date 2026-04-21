@@ -16,6 +16,7 @@ tags:
 - western-new-york
 research_status: working
 last_researched: "2026-04-12"
+fips: '36063'
 ---
 
 # Niagara County, NY: 287(g) Signed Then Restricted

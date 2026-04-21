@@ -7,6 +7,9 @@ tags:
 - tfm
 - tx
 importance: 5
+state: 'TX'
+county: 'Motley County'
+fips: '48345'
 ---
 
 287(g) agreement between ICE and Motley County Sheriff’s Office.

@@ -8,6 +8,9 @@ tags:
 - low-employment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Jack County'
+fips: '48237'
 ---
 
 County-level fiscal distress indicators for Jack County, TX.

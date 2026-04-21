@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'IN'
+county: 'Randolph County'
+fips: '18135'
 ---
 
 County-level fiscal distress indicators for Randolph County, IN.

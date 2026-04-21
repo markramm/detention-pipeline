@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'TX'
+county: 'Brooks County'
+fips: '48047'
 ---
 
 County-level fiscal distress indicators for Brooks County, TX.

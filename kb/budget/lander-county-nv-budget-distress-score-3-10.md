@@ -8,6 +8,9 @@ tags:
 - population-loss
 - non-metro
 importance: 5
+state: 'NV'
+county: 'Lander County'
+fips: '32015'
 ---
 
 County-level fiscal distress indicators for Lander County, NV.

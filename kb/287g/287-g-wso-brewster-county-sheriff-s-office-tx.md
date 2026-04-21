@@ -7,6 +7,9 @@ tags:
 - wso
 - tx
 importance: 5
+state: 'TX'
+county: 'Brewster County'
+fips: '48043'
 ---
 
 287(g) agreement between ICE and Brewster County Sheriff’s Office.

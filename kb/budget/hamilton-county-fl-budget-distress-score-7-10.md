@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'FL'
+county: 'Hamilton County'
+fips: '12047'
 ---
 
 County-level fiscal distress indicators for Hamilton County, FL.

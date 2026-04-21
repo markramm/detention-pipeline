@@ -10,6 +10,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'SC'
+county: 'Marlboro County'
+fips: '45069'
 ---
 
 County-level fiscal distress indicators for Marlboro County, SC.

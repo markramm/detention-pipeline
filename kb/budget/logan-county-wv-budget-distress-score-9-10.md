@@ -11,6 +11,9 @@ tags:
 - low-education-attainment
 - non-metro
 importance: 5
+state: 'WV'
+county: 'Logan County'
+fips: '54045'
 ---
 
 County-level fiscal distress indicators for Logan County, WV.

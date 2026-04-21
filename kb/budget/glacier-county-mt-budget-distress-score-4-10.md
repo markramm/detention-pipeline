@@ -8,6 +8,9 @@ tags:
 - persistent-poverty
 - non-metro
 importance: 5
+state: 'MT'
+county: 'Glacier County'
+fips: '30035'
 ---
 
 County-level fiscal distress indicators for Glacier County, MT.

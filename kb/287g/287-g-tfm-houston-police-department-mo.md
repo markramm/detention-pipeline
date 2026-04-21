@@ -7,6 +7,9 @@ tags:
 - tfm
 - mo
 importance: 5
+state: 'MO'
+county: 'Texas County'
+fips: '29215'
 ---
 
 287(g) agreement between ICE and Houston Police Department.

@@ -7,6 +7,9 @@ tags:
 - wso
 - ut
 importance: 5
+state: 'UT'
+county: 'Cache County'
+fips: '49005'
 ---
 
 287(g) agreement between ICE and Cache County Sheriff’s Office.
