@@ -31,7 +31,7 @@
   {{- else -}}
     {{- $datasetDesc = printf "%s Tracked by the Detention Pipeline early-warning system for ICE detention facility expansion signals across US counties." $desc -}}
   {{- end -}}
-  {{- /* Dataset.isPartOf expects DataCatalog, not WebSite. */ -}}
+  {{- /* Dataset.isPartOf expects Dataset/URL; for a catalog use includedInDataCatalog. */ -}}
   {{- $datasetCatalog := dict "@type" "DataCatalog" "name" "Detention Pipeline" "url" "https://detention-pipeline.transparencycascade.org/" -}}
   {{- $data = merge $data (dict
     "@type" "Dataset"
@@ -39,7 +39,7 @@
     "description" $datasetDesc
     "url" $url
     "creator" $publisher
-    "isPartOf" $datasetCatalog
+    "includedInDataCatalog" $datasetCatalog
     "license" "https://creativecommons.org/licenses/by-sa/4.0/"
     "variableMeasured" "detention pipeline signal convergence score"
     "spatialCoverage" (dict
