@@ -23,13 +23,24 @@
   {{- $score := .Params.score | default 0 -}}
   {{- $types := .Params.signal_types | default 0 -}}
   {{- $rank := .Params.rank | default 0 -}}
+  {{- $total := .Params.total_counties | default 0 -}}
+  {{- /* Schema.org Dataset.description requires 50–5000 chars. Pad short auto-summaries with stable scoring context. */ -}}
+  {{- $datasetDesc := $desc -}}
+  {{- if and $score $rank $total -}}
+    {{- $datasetDesc = printf "%s Heat score %v, ranked %v of %v counties tracked by the Detention Pipeline early-warning system across %v signal type%s." $desc $score $rank $total $types (cond (eq (int $types) 1) "" "s") -}}
+  {{- else -}}
+    {{- $datasetDesc = printf "%s Tracked by the Detention Pipeline early-warning system for ICE detention facility expansion signals across US counties." $desc -}}
+  {{- end -}}
+  {{- /* Dataset.isPartOf expects DataCatalog, not WebSite. */ -}}
+  {{- $datasetCatalog := dict "@type" "DataCatalog" "name" "Detention Pipeline" "url" "https://detention-pipeline.transparencycascade.org/" -}}
   {{- $data = merge $data (dict
     "@type" "Dataset"
     "name" (printf "%s — Detention Pipeline Signals" $county)
-    "description" $desc
+    "description" $datasetDesc
     "url" $url
     "creator" $publisher
-    "isPartOf" $isPartOf
+    "isPartOf" $datasetCatalog
+    "license" "https://creativecommons.org/licenses/by-sa/4.0/"
     "variableMeasured" "detention pipeline signal convergence score"
     "spatialCoverage" (dict
       "@type" "Place"
