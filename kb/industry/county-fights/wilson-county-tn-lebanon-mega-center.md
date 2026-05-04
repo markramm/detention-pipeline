@@ -12,6 +12,7 @@ importance: 9
 tags: [warehouse-conversion, mega-center, republican-opposition, nimby, wilson-county, lebanon, blocked, tennessee, bipartisan-opposition]
 research_status: working
 last_researched: "2026-04-12"
+last_news_check: "2026-04-29"
 ---
 
 # Wilson County, TN: Lebanon ICE Mega Center Blocked

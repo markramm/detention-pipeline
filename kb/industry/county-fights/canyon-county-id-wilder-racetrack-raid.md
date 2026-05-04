@@ -21,6 +21,7 @@ tags:
 - idaho
 research_status: working
 last_researched: "2026-04-13"
+last_news_check: 2026-04-29
 ---
 
 # Canyon County: Wilder Racetrack Mass Raid and ACLU Lawsuit
@@ -76,3 +77,10 @@ This is one of the largest documented cases of a pretextual mass immigration rai
 - [105 detained in federal raid at Wilder horse track — KIVI](https://www.kivitv.com/canyon-county/105-detained-in-federal-raid-at-wilder-horse-track-ice-says)
 - [Five charged in federal complaints — Idaho Press](https://www.idahopress.com/news/local/five-charged-in-federal-complaints-others-detained-during-fbi-ice-raid-at-wilder-racetrack/article_52870a25-6a57-4d66-9a7f-ff6c0b74cf3f.html)
 - [Lawyer: About 75 deported, 26 released — KTVB](https://www.ktvb.com/article/news/local/about-75-people-deported-26-released-following-wilder-ice-raid/277-a369abc4-facf-465c-8e68-39abcfc11330)
+
+## Updates (2026-04-29)
+
+No significant new developments found since April 13, 2026. Rodriguez v. Porter (1:26-cv-00075, D. Idaho) remains in early litigation phase. Case docket was last updated April 10, 2026 per Justia. No hearings, motions, or orders publicized since initial filing. Monitoring Civil Rights Litigation Clearinghouse and ACLU of Idaho case page for developments.
+
+- [Rodriguez v. Porter — Civil Rights Litigation Clearinghouse](https://clearinghouse.net/case/47807/) — case tracking page
+- [Rodriguez v. Porter — ACLU of Idaho](https://www.acluidaho.org/cases/rodriguez-v-porter/) — ACLU case page

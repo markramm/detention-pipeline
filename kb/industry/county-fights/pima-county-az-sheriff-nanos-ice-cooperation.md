@@ -8,7 +8,7 @@ fips: "04019"
 facility: null
 status: active-crisis
 vote_tally: "Board of Supervisors voted unanimously to demand sworn report; 10-day deadline (April 21, 2026)"
-outcome: "ACLU lawsuit for records ongoing. Board threatening removal if Nanos fails to provide sworn report by April 21, 2026. Recall petition launched."
+outcome: "Nanos submitted 20-page unsworn response on April 21, 2026. Board voted to delay review until May 12. ACLU records lawsuit ongoing. Recall petition active."
 key_actors:
 - "Sheriff Chris Nanos"
 - "Pima County Board of Supervisors"
@@ -30,6 +30,7 @@ tags:
 - governance-crisis
 research_status: working
 last_researched: 2026-04-13
+last_news_check: 2026-04-29
 ---
 
 # Pima County: Sheriff Nanos Caught Lying About ICE Cooperation
@@ -72,7 +73,9 @@ The ACLU filings detail incidents between **2021 and 2023** where deputies conta
 - **April 2, 2026**: Evidentiary hearing set for Friday on ACLU lawsuit (AZPM)
 - **April 7, 2026**: Board of Supervisors votes **unanimously** to demand sworn report from Nanos on four areas, threatening removal
 - **April 8, 2026**: Supervisors specify questions about employment history, disciplinary actions, ICE cooperation, and budget overruns (AZPM)
-- **April 21, 2026**: **Deadline** for Nanos's sworn report — next board meeting
+- **April 21, 2026**: **Deadline** for Nanos's sworn report — Nanos submits a 20-page written response through his attorney James Cool, but it is **not under oath**. Supervisor Heinz: "the core thing that I'm most concerned about, and baffled by, is that (Nanos) chose to submit these 20 pages unsworn." Nanos denied misrepresenting his El Paso work history (called a 1982 resignation date discrepancy a "clerical error"), claimed "little specific recollection" of prior disciplinary actions, and denied immigration enforcement cooperation. Board votes 4-1 to delay review until May 12.
+- **April 23, 2026**: KJZZ reports ACLU Arizona records lawsuit continues; newly-recovered documents show deputies called Border Patrol during traffic stops in ways that ACLU attorney John Mitchell says "appear to violate constitutional bounds."
+- **May 12-13, 2026**: Board scheduled to determine whether Nanos's response adequately addresses the four areas of inquiry.
 - **Ongoing**: Recall petition against Nanos launched by community member Butierez
 
 ## The Four Areas of Board Inquiry
@@ -121,3 +124,9 @@ The Nanos case matters for the detention pipeline in two ways:
 - [Tucson.com: Pima County deputies collaborated with border agents, ACLU alleges](https://tucson.com/news/local/border/article_583bd6af-27cd-412e-980f-df75b5244d45.html)
 - [Tucson Sentinel: Recall vs. Pima Sheriff Nanos launched (Mar 24, 2026)](https://www.tucsonsentinel.com/local/report/032426_nanos_recall/recall-vs-pima-sheriff-nanos-launched-by-butierez-supes-look-require-public-questioning/)
 - [Three Sonorans: Pima County Gives Sheriff Nanos 10 Days to Answer Under Oath](https://threesonorans.substack.com/p/pima-county-gives-sheriff-nanos-10)
+
+## Updates (2026-04-29)
+
+- [AZ Luminaria: Pima County supervisors delay review of Nanos conduct report until May 12 (Apr 21, 2026)](https://azluminaria.org/2026/04/21/pima-county-supervisors-delay-review-of-nanos-conduct-report-until-may-12/) — Nanos submitted 20-page unsworn response; board delayed review; Supervisor Heinz expressed concern response was not under oath
+- [AZPM: Nanos answers Pima County Supervisors' questions over work history, ethics (Apr 21, 2026)](https://news.azpm.org/s/103187-nanos-answers-pima-county-supervisors-questions-over-work-history-ethics/) — Detail on contents of Nanos's unsworn response; attorney offered to provide notarized verification if requested
+- [KJZZ: ACLU of Arizona is suing Pima County Sheriff's Office for records related to working with ICE (Apr 23, 2026)](https://www.kjzz.org/the-show/2026-04-23/aclu-of-arizona-is-suing-pima-county-sheriffs-office-for-records-related-to-working-with-ice) — ACLU records lawsuit continues; newly-recovered docs show deputies extended traffic stops for Border Patrol in ways ACLU says may violate constitutional bounds

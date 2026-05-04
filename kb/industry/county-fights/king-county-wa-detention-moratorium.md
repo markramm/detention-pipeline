@@ -20,6 +20,7 @@ tags:
 - regional-coordination
 research_status: working
 last_researched: "2026-04-12"
+last_news_check: 2026-04-29
 ---
 
 # King County WA — Regional Moratorium on ICE Detention Expansion
@@ -65,3 +66,20 @@ The **World Cup dimension** adds urgency: DHS Secretary signaled a "hard look" a
 - [Seattle and nearby cities move to block new ICE detention centers (Axios Seattle, Mar 16, 2026)](https://www.axios.com/local/seattle/2026/03/16/seattle-area-detention-center-moratorium-king-county-tukwila-seatac-renton-kent)
 - [King County Executive aims to limit ICE at World Cup (FOX 13 Seattle)](https://www.fox13seattle.com/news/king-county-ice-world-cup)
 - [ICE exploring expanded detention capacity in Pacific Northwest (KING5)](https://www.king5.com/article/news/politics/immigration-news/ice-exploring-expanded-detention-capacity-pacific-northwest-tacoma/281-46a1a127-2dbe-4b34-93dd-1f3192c59dd7)
+
+## Updates (2026-04-29)
+
+### Regional Enforcement Context
+
+- **April 21, 2026**: Axios Seattle overview of how Seattle and King County are pushing back on ICE — covers moratoriums, ban on ICE staging in non-public county buildings, and new Seattle ordinance banning city employees from sharing private data for civil immigration enforcement absent a judicial order.
+
+### WA State Action: GEO Group / Tacoma NWIPC Inspection Fight
+
+- **April 28, 2026**: Gov. Bob Ferguson and AG Nick Brown filed a motion for preliminary injunction in U.S. District Court (Western District of Washington) against GEO Group to compel health inspections at the Northwest ICE Processing Center in Tacoma. State health inspectors have been denied entry 10 times, including twice after an appeals court affirmed state inspection authority. Most recent denial: April 20, 2026. Inspectors are seeking to investigate 3,500+ detainee complaints covering medical neglect, contaminated food, unsanitary conditions, and staff assault. Two detainee deaths and six suicide attempts documented since 2024. **Hearing set: May 26, 2026**, U.S. District Court Western District of Washington.
+- [Governor Ferguson, AG Brown seek court order to permit health inspections at NWIPC (WA Gov Office, Apr 28, 2026)](https://governor.wa.gov/news/2026/governor-ferguson-attorney-general-brown-seek-court-order-permit-health-inspections-northwest-ice) — State files for injunction against GEO Group; inspection hearing set May 26
+- [WA officials ask court to let state health inspectors into Tacoma ICE facility (KNKX, Apr 28, 2026)](https://www.knkx.org/law/2026-04-28/washington-officials-court-state-health-inspectors-into-tacoma-ice-facility) — Details on facility conditions and inspection refusals
+- [Ferguson, Brown Take GEO Group To Court In Showdown Over Tacoma ICE Lockup (Hoodline, Apr 28, 2026)](https://hoodline.com/2026/04/ferguson-brown-take-geo-group-to-court-in-showdown-over-tacoma-ice-lockup/) — Additional detail on the injunction motion
+
+### Tukwila Ban Extension
+
+- **Late April 2026**: Community members urged Tukwila City Council to extend its 6-month ban before expiration. Key concern: ICE reportedly eyeing Riverfront Technical Park in Tukwila; current ban does not prohibit ICE from leasing office space, only new detention construction.

@@ -20,6 +20,7 @@ tags:
 - arkansas
 research_status: working
 last_researched: "2026-04-13"
+last_news_check: "2026-04-29"
 fips: '05047'
 ---
 
@@ -39,6 +40,8 @@ Franklin County residents and their own sheriff are opposing a **$825 million, 3
 - **Sept 25, 2025**: Arkansas Advocate breaks the story — ICE agent said "we can have this up very quickly, we'll put a temporary one up first"
 - **Dec 2025**: Reports indicate 2026 will bring new developments
 - **April 2026**: Legislature has not approved funding; legislative leaders say votes aren't there
+- **~Apr 27, 2026**: ADC spokesperson confirms project "on hold for months" — no work at site beyond routine maintenance; $750M appropriation bill failed five times in Senate; water wells on the property proven insufficient, nearby cities (Fort Smith, Ozark) declined to supply water; Sanders says she still believes Franklin County is "the best location" but is "open to other ideas"; alternatives include a smaller 1,500-bed facility, expanding existing facilities, and county sites in Hempstead, Dallas, Nevada, and Searcy counties
+- **Apr 28, 2026**: Arkansas fiscal session nears end with Revenue Stabilization Act vote expected Apr 29; no Franklin County prison funding included; "guarded optimism" from at least one opponent that the project is stalling permanently
 
 ### Opposition Forces
 - **Sheriff Johnny Crocker**: Called the prison plan "fiscally irresponsible"; his chief deputy discovered the ICE visit
@@ -62,3 +65,6 @@ At 3,000 beds, this would be **among the largest ICE detention centers in the co
 - [Franklin County sheriff calls plan 'fiscally irresponsible' — THV11](https://www.thv11.com/article/news/local/arkansas-prison-plan-johnny-crocker/91-f130bb9b-f108-425b-ac29-dabcad91b00f)
 - [Arkansas Explained: What is the Franklin County prison project? — Arkansas Advocate (Apr 3, 2026)](https://arkansasadvocate.com/2026/04/03/arkansas-explained-what-is-the-franklin-county-prison-project/)
 - [2026 expected to bring new developments — River Valley Democrat-Gazette (Dec 31, 2025)](https://www.rivervalleydemocratgazette.com/news/2025/dec/31/2026-expected-to-bring-new-developments-in-battle/)
+- [Arkansas' 3,000-bed prison site is on hold. What are the other options? — Arkansas Advocate (Apr 27, 2026)](https://arkansasadvocate.com/2026/04/27/arkansas-3000-bed-prison-site-is-on-hold-what-are-the-other-options/) — Sanders "open to other ideas" as water infrastructure and funding failures keep project stalled
+- [Hold on Franklin County prison plan viewed with 'guarded optimism' by one opponent — Talk Business & Politics (Apr 2026)](https://talkbusiness.net/2026/04/hold-on-franklin-county-prison-plan-viewed-with-guarded-optimism-by-one-opponent/)
+- [Arkansas fiscal session nears end amid prison, PBS funding debate — KUAF (Apr 28, 2026)](https://www.kuaf.com/show/ozarks-at-large/2026-04-28/arkansas-fiscal-session-nears-end-amid-prison-pbs-funding-debate)

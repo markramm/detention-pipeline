@@ -19,6 +19,7 @@ tags:
 - resistance-legal
 research_status: working
 last_researched: "2026-04-13"
+last_news_check: 2026-04-29
 ---
 
 # Freeborn County, Minnesota: ACLU 287(g) Injunction
@@ -48,3 +49,15 @@ Note: The injunction blocks the 287(g) enforcement component but does **not** te
 - [KTTC: ACLU-MN sues Freeborn County](https://www.kttc.com/2025/12/22/aclu-mn-maslon-llp-clients-sue-freeborn-county-illegal-agreement-with-ice/)
 - [MinnPost: Rural MN sheriffs frustrated by delays on ICE contracts](https://www.minnpost.com/greater-minnesota/2025/12/rural-minnesota-sheriffs-frustrated-by-delays-pushback-on-ice-detention-contracts-aclu/)
 - [ACLU-MN: Stop 287(g) Agreements campaign](https://www.aclu-mn.org/campaigns-initiatives/stop287g/)
+
+## Updates (2026-04-29)
+
+Post-injunction procedural developments:
+
+- **January 2026 (post-injunction)**: Freeborn County announced it will petition to remove the case to federal court. County's position: "there is no justiciable controversy because the county has not performed any services under the agreement."
+- **Plaintiff response**: Plaintiffs sought removal of the original judge and her replacement (both judges in Freeborn County have been removed from the case per judicial recusal).
+- **March 9, 2026**: Motion hearing held by Zoom before the court. No ruling on this hearing reported publicly.
+- **No ruling published** as of April 29, 2026 — the January 16 preliminary injunction remains in effect. Case is in procedural posture (removal petition, judicial recusal motions) with no reported substantive ruling since the injunction.
+- **Legislative context**: Minnesota lawmakers introduced competing legislation on 287(g) — one bill to expand county participation and one to ban county ICE contracts (HF 3060/SF 2973). Status unclear as of this check.
+
+- [KAALTV/ABC 6: Minnesota lawmakers offer competing legislation on 287(g) Program](https://www.kaaltv.com/news/minnesota-lawmakers-offer-competing-legislation-on-expanding-work-with-the-ice-287g-program/) — Both pro-expansion and ban bills introduced in MN legislature

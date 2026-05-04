@@ -19,6 +19,7 @@ tags:
 - midwest-hub
 research_status: working
 fips: '18097'
+last_news_check: '2026-04-29'
 ---
 
 # Marion County, Indiana: Midwest Deportation Hub
@@ -46,9 +47,15 @@ Marion County Jail hit capacity and the sheriff announced it would **no longer h
 
 Indianapolis is being assembled into a three-layer Midwest deportation hub: county jail (overflow pipeline), state prison (1,000 beds activated), and proposed warehouse mega-center (8,500 beds). The sheriff's 48-hour cutoff shows the system is already straining — and the mega-facility is the answer to that strain.
 
+## Updates
+
+- **April 2026**: No confirmed warehouse purchase in Marion County/Indianapolis as of late April 2026. The facility remains in the proposal/site-selection phase per public reporting.
+- **April 28, 2026**: Sen. Chris Murphy (D-CT) sent warning letters to **21 local governments** nationwide that are actively considering allowing ICE warehouse detention facilities in their communities, including cautioning about costly litigation, inhumane conditions, and the political vulnerability of such deals. Indianapolis is among the proposed sites on the national list; it is not confirmed whether Indianapolis received one of the 21 letters.
+
 ## Sources
 
 - [WFYI: ICE detention center planned for Indianapolis](https://www.wfyi.org/news/articles/indianapolis-ice-detention-center-warehouse-report)
 - [Mirror Indy: Marion County Jail is 'pit stop' for ICE detainees](https://mirrorindy.org/indianapolis-marion-county-jail-ice-detention-center-immigration/)
 - [WFYI: Jail reached capacity, no longer holding for ICE beyond 48 hours](https://www.wfyi.org/news/articles/indianapolis-marion-county-jail-reached-capacity-no-longer-hold-for-ice-beyond-48-hours)
 - [Axios: First ICE detainees arrive at Indiana prison](https://www.axios.com/local/indianapolis/2025/10/01/first-ice-detainees-arrive-indiana-prison-miami-correctional-facility)
+- [Sen. Murphy: Warning letters to ICE warehouse localities (April 28, 2026)](https://www.murphy.senate.gov/newsroom/press-releases/murphy-warns-local-leaders-against-bringing-deadly-ice-facilities-into-their-communities)

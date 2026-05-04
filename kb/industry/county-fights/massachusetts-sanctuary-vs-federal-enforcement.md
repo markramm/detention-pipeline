@@ -11,6 +11,7 @@ importance: 9
 tags: [massachusetts, sanctuary, protect-act, healey, executive-order, 287g-ban, courthouse-arrests, operation-patriot, legislative]
 research_status: working
 last_researched: "2026-04-12"
+last_news_check: '2026-04-29'
 ---
 
 ## Federal Enforcement Escalation
@@ -39,10 +40,12 @@ Sources: [Mass.gov — Healey takes action](https://www.mass.gov/news/governor-h
 
 ### Legislative Actions
 - **PROTECT Act** passed House **134-yes** on March 25, 2026 — establishes statewide standards limiting local ICE cooperation
+- **Senate now preparing its own version** of the PROTECT Act (as of late April 2026)
+- **April 28, 2026**: **People's PROTECT Action Coalition** — 58 organizations — rallied at State House to pressure Senate leaders to strengthen the bill beyond the House version. Coalition demands: (1) prohibit information sharing with ICE; (2) end intelligence fusion centers that share data with federal immigration authorities; (3) expand virtual court access for immigrants; (4) eliminate the DOC's 287(g) agreement
 - **Safe Communities Act** (S.1681 / H.2580) — would codify sanctuary protections, ban all 287(g) agreements
 - Counter-bills would **strengthen** ICE cooperation (H.2573 — 48-hour detainer holds)
 
-Sources: [Boston Sun — House passes PROTECT Act](https://thebostonsun.com/2026/04/03/massachusetts-house-passes-the-protect-act/); [Boston.com — What is the Safe Communities Act](https://www.boston.com/news/local-news/2026/01/09/what-is-the-safe-communities-act-and-how-could-it-limit-ice-activity-in-mass/)
+Sources: [Boston Sun — House passes PROTECT Act](https://thebostonsun.com/2026/04/03/massachusetts-house-passes-the-protect-act/); [Boston.com — What is the Safe Communities Act](https://www.boston.com/news/local-news/2026/01/09/what-is-the-safe-communities-act-and-how-could-it-limit-ice-activity-in-mass/); [GBH: Advocates rally Senate to strengthen PROTECT Act (April 28, 2026)](https://www.wgbh.org/news/local/2026-04-28/immigrant-advocates-rally-senate-to-strengthen-protect-act)
 
 ### Municipal Actions
 - **Boston**: Police ignored all 57 ICE detainers (2025); Wu banned ICE from city property

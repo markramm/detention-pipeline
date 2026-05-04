@@ -7,7 +7,7 @@ location: "New Orleans, LA"
 county: Orleans
 fips: "22071"
 state: LA
-status: active-litigation
+status: active-litigation-at-risk
 importance: 9
 tags:
 - sanctuary-policy
@@ -19,6 +19,7 @@ tags:
 - susan-hutson
 research_status: working
 last_researched: "2026-04-12"
+last_news_check: '2026-04-29'
 ---
 
 # Orleans Parish — Sheriff Hutson vs. ICE
@@ -39,7 +40,15 @@ Orleans Parish Sheriff Susan Hutson is the **only meaningful institutional resis
 - **February 2026**: **DHS sues Sheriff Hutson** seeking judicial order to force compliance with subpoenas
 - **February 2026**: Federal judge **halts Louisiana's state-level challenge**, ruling it's a state law question for the Louisiana Supreme Court
 - **March 2026**: Court hearing on ICE vs. OPSO data-sharing demand
+- **April 3, 2026**: SPLC and Al Otro Lado file motion to intervene in the federal lawsuit, seeking to protect the due process rights of individual detainees named in the ICE subpoenas
 - **April 10, 2026**: Immigration advocacy groups **ask to join the lawsuit** in support of the Sheriff's Office
+- **October 11, 2025**: Sheriff Susan Hutson **loses re-election** to Michelle Woodfork (Woodfork 53%, Hutson 17%) — in part due to a mass jailbreak (10 inmates) earlier in 2025
+- **April 28, 2026**: **Louisiana Supreme Court hears oral arguments** on whether Act 314 (2024 anti-sanctuary law) overrides the Cacho v. Gusman consent decree. Plaintiffs' counsel argues the consent decree is a federal court order (not a "policy") and thus outside the statute's scope; state argues Act 314 was intended to override all such policies. Justice Weimer noted legislative record shows "numerous statements" that the bill would not require sheriffs to violate federal orders. No ruling issued; a federal judge is awaiting the Louisiana Supreme Court's guidance.
+- **May 4, 2026** (imminent): Sheriff-elect **Michelle Woodfork scheduled to be sworn in**. Woodfork has described New Orleans as "a sanctuary city" but has not stated her stance on the ICE lawsuit or whether she will maintain the Cacho v. Gusman policy.
+
+## Sheriff Transition Risk
+
+The October 2025 election of Michelle Woodfork fundamentally changes the political calculus. Hutson was the architect of the resistance; Woodfork's position on ICE cooperation is unknown. If Woodfork chooses to comply with ICE subpoenas after taking office May 4, the litigation becomes moot and the policy collapses regardless of what the Louisiana Supreme Court rules. This is now the key variable to watch.
 
 ## Why It Matters
 
@@ -54,3 +63,7 @@ The fight also reveals the tension between state and federal power: Governor Lan
 - [WAFB: Federal judge halts Louisiana challenge (Feb 2026)](https://www.wafb.com/2026/02/23/judge-says-federal-court-cant-rule-challenge-orleans-sheriffs-sanctuary-policy/)
 - [Louisiana Illuminator: Orleans sheriff to stick with policy (Jul 2025)](https://lailluminator.com/2025/07/11/orleans-immigration/)
 - [NOLA.com: Orleans sheriff refuses 'unprecedented' ICE requests](https://www.nola.com/news/crime_police/orleans-parish-sheriff-refuses-unprecedented-ice-requests/article_51e6c2ea-9425-40c9-99ba-d3cc47de6407.html)
+- [NOLA.com: Supreme Court hears sanctuary policy arguments (April 28, 2026)](https://www.nola.com/news/ice-immigration-holds-new-orleans-louisiana-supreme-court/article_099b5e3f-369a-4b2e-a36a-818c5223970e.html)
+- [Verite News: Louisiana Supreme Court to weigh sanctuary policy (April 28, 2026)](https://veritenews.org/2026/04/28/orleans-jail-immigration-policy-court/)
+- [NOLA.com: Michelle Woodfork defeats Hutson in blowout (Oct 11, 2025)](https://www.nola.com/news/politics/elections/michelle-woodfork-defeats-susan-hutson-wins-race-for-orleans-parish-sheriff/article_6ffd7086-66bb-4ebe-962f-da8f7a2fb621.html)
+- [SPLC: Motion to intervene in ICE v. OPSO (April 3, 2026)](https://www.splcenter.org/presscenter/motion-ice-lawsuit-orleans-parish-sheriff-office-immigration/)

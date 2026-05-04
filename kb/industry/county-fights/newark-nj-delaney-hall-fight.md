@@ -20,6 +20,7 @@ tags:
 - new-jersey
 research_status: working
 fips: '34013'
+last_news_check: '2026-04-29'
 ---
 
 # Newark, NJ: The Delaney Hall Fight
@@ -42,6 +43,10 @@ The City of Newark has waged an aggressive legal and political fight against the
 - **December 11-12, 2025**: **Jean Wilson Brutus, 41, dies** within 24 hours of entering ICE custody at Delaney Hall — first detainee death at the facility. His death was one of 32 ICE custody deaths in 2025, the highest since 2004.
 - **December 2025**: Families waiting in freezing cold for hours to visit detained relatives over holidays
 - **January 2026**: Civil rights attorneys launch independent investigation into Brutus death
+- **March 31, 2026**: Rep. McIver appeals to the U.S. Court of Appeals for the Third Circuit, arguing charges should be dismissed on legislative immunity and vindictive prosecution grounds; lower court denied her motions to dismiss in November 2025
+- **April 6, 2026**: ACLU-NJ, National Women's Law Center, and NAACP Legal Defense Fund file amicus brief in Third Circuit backing McIver; characterize prosecution as separation-of-powers violation targeting Black congresswoman for legislative oversight
+- **April 6, 2026**: Advocates and pastors hold vigil outside Delaney Hall for detained NJ pastor Yeison Cortes Vasquez (Colombian national, no criminal record, overstayed tourist visa since 2016)
+- **April 11, 2026**: Pastor Cortes Vasquez released on bond with GPS monitor; facility conditions reported: 800 detainees, only 7 full-time medical staff — over 100:1 ratio; respiratory illness spreading in crowded cells
 
 ## Conditions at Delaney Hall
 
@@ -75,3 +80,8 @@ Senator Cory Booker introduced the **Dignity for Detained Immigrants Act** follo
 - [Jersey Vindicator: Death fuels closure calls (Dec 23, 2025)](https://jerseyvindicator.org/2025/12/23/death-of-delaney-hall-detainee-fuels-calls-to-close-newark-ice-facility/)
 - [Haitian Times: Brutus death investigation (Jan 31, 2026)](https://haitiantimes.com/2026/01/31/jean-wilson-brutus-ice-death-2025/)
 - [Sen. Booker: Dignity for Detained Immigrants Act](https://www.booker.senate.gov/news/press/booker-announces-legislation-cracking-down-on-ice-detention-facilities-and-practices-following-tour-of-delaney-hall)
+- [NJ Monitor: McIver appeals to Third Circuit (March 31, 2026)](https://newjerseymonitor.com/2026/03/31/lamonica-mciver-appeal/)
+- [Jersey Vindicator: ACLU files amicus brief for McIver (April 6, 2026)](https://jerseyvindicator.org/2026/04/06/civil-rights-groups-urge-appeals-court-to-dismiss-charges-against-mciver-over-delaney-hall-oversight-visit/)
+- [ACLU-NJ: Brief in support of Rep. McIver](https://www.aclu-nj.org/press-releases/aclu-nj-and-partners-file-brief-in-support-of-rep-lamonica-mciver/)
+- [NJ Urban News: Advocates gather for detained pastor (April 6, 2026)](https://njurbannews.com/2026/04/06/advocates-gather-outside-newark-migrant-jail-for-pastor-detained-by-ice/)
+- [CBS New York: Pastor released from Delaney Hall (April 2026)](https://www.cbsnews.com/newyork/news/new-jersey-pastor-detained-ice-released/)

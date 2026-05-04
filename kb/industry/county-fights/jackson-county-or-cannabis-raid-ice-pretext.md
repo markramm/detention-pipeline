@@ -25,6 +25,7 @@ tags:
 - surveillance
 research_status: working
 last_researched: "2026-04-13"
+last_news_check: 2026-04-29
 ---
 
 # Jackson County OR — Cannabis Raids as ICE Pretext and Surveillance Infrastructure
@@ -120,6 +121,14 @@ This is the most sophisticated sanctuary evasion infrastructure documented in Or
 - [OPB: In Southern Oregon, farmworker rights group prepares (Mar 2025)](https://www.opb.org/article/2025/03/13/think-out-loud-oregon-jackson-county-farmworker-immigrant-rights-policies/)
 - [Jefferson Public Radio: Privacy advocates raise alarm over southern Oregon surveillance (Jun 2025)](https://www.ijpr.org/law-and-justice/2025-06-18/privacy-advocates-raise-alarm-over-souther-oregon-surveillance-tactics)
 - [404 Media: Emails reveal casual surveillance alliance between ICE and local police](https://www.404media.co/emails-reveal-the-casual-surveillance-alliance-between-ice-and-local-police/)
+
+## Updates (2026-04-29)
+
+No Jackson County-specific legal or enforcement developments found since April 13, 2026. The HempNova criminal case (arraignment January 27, 2026 on sealed federal indictment) and the civil rights questions raised by ACLU of Oregon remain unresolved in public reporting. No civil lawsuit challenging the July 30, 2025 operation has been filed as of this check.
+
+**Related statewide development**: On April 23, 2026, Oregon farmworkers union PCUN, the Oregon Nurses Association, Hillsboro Educators Association, and church leaders filed suit in Oregon to restore pre-Trump protections barring ICE from hospitals, schools, and places of worship. This case (statewide, not Jackson County-specific) is relevant context for the broader Oregon sanctuary enforcement environment.
+
+- [KPTV: Oregon farmworkers union, nurses, educators sue to bar ICE from hospitals, schools, churches (Apr 23, 2026)](https://www.kptv.com/2026/04/23/oregon-farmworkers-union-nurses-educators-sue-bar-ice-hospitals-schools-churches/) — Statewide Oregon sensitive-location lawsuit filed April 23; ruling expected shortly
 
 ## Cross-References
 

@@ -16,6 +16,7 @@ tags:
 - protest
 - mayor-opposition
 research_status: working
+last_news_check: 2026-04-29
 fips: '49035'
 ---
 
@@ -38,6 +39,8 @@ ICE purchased an 833,000 sq ft warehouse (see [[salt-lake-city-ut-mega-center]])
 - **March 25, 2026:** City Council caps water use for large nonresidential buildings at 200,000 gal/day
 - **April 6, 2026:** City raises sewage objections — 1-2M gal/day wastewater vs. current 5,600 gal
 - **April 8, 2026:** Status uncertain pending DHS review
+- **April 1, 2026:** Mayor's office emails ICE seeking information. ICE Deputy Director Charles Wall replies: "We have no new information at this time." DHS does not respond to media requests.
+- **April 24, 2026:** Utah News Dispatch reports Salt Lake City is "hearing crickets" from the federal government. Mayor Mendenhall has received no information since her late-March ICE meeting. Fire Marshal also unreachable by feds. DHS Secretary Mullin's review of Noem-era warehouse contracts continues with no timeline given.
 
 ## Tactics Being Used
 
@@ -56,3 +59,8 @@ Unlike Kansas City (where the seller could be pressured), the $145.4M purchase i
 - [Utah News Dispatch: ICE planning mega center for 10,000 (Mar 30, 2026)](https://utahnewsdispatch.com/2026/03/30/ice-planning-mega-center-with-capacity-for-up-to-10000-at-salt-lake-city-warehouse/)
 - [Utah News Dispatch: Hundreds demand 'ICE out' (Mar 19, 2026)](https://utahnewsdispatch.com/2026/03/19/protest-ice-out-of-salt-lake-warehouse-set-to-become-detention-center/)
 - [Utah News Dispatch: City limits water use (Mar 25, 2026)](https://utahnewsdispatch.com/2026/03/25/salt-lake-city-limits-water-use-planned-ice-detention-center/)
+
+## Updates (2026-04-29)
+
+- [Utah News Dispatch: Seeking answers, Salt Lake City hears crickets from feds on planned ICE warehouse (Apr 24, 2026)](https://utahnewsdispatch.com/2026/04/24/salt-lake-city-seeking-answers-on-planned-ice-warehouse/) — City still has no information from ICE or DHS; ICE deputy director told Mayor's office "We have no new information at this time" on Apr 1; DHS Mullin review of Noem-era warehouse purchases ongoing with no timeline
+- [Axios SLC: DHS review means uncertainty for SLC warehouse (Apr 1, 2026)](https://www.axios.com/local/salt-lake-city/2026/04/01/dhs-salt-lake-city-warehouse-immigration-detention-center-under-review) — Overview of DHS pause under new Secretary Mullin
