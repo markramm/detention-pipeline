@@ -319,7 +319,7 @@ types:
         type: string
       indicator_type:
         type: select
-        values: [polished-messaging, nda-citation, opposition-framing, premature-plans, information-withholding, unknown]
+        values: [polished-messaging, nda-citation, opposition-framing, premature-plans, information-withholding, federal-non-disclosure-directive, unknown]
       speaker:
         type: string
       language_sample:
@@ -339,7 +339,12 @@ types:
       sustainability," that's consulting output. NDAs cited to withhold
       public information (Social Circle GA precedent). Opposition framed
       as "NGO pressure." Detailed architectural plans at "information-
-      gathering stage" meetings.
+      gathering stage" meetings. Federal directives instructing
+      participating local agencies not to disclose program-derived
+      information without federal approval — even where state public
+      records laws would otherwise compel disclosure — get
+      indicator_type federal-non-disclosure-directive (May 2026 ICE
+      287(g) directive precedent).
 
   287g-agreement:
     description: "287(g) agreement between ICE and a local law enforcement agency"
