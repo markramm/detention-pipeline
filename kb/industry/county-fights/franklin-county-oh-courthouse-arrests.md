@@ -18,7 +18,8 @@ tags:
 - aclu-report
 - ohio
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-06"
+last_news_check: "2026-05-06"
 ---
 
 # Franklin County, OH: Courthouse Arrests and City-County Split
@@ -45,6 +46,10 @@ Franklin County is the starkest example in Ohio of a city-county split on immigr
 - Columbus City Council banned ICE detention centers in city limits (per ACLU March 2026 report)
 - Zoning/permitting measures to block for-profit detention construction
 
+### April 2026 City-County Jail Contract Standoff
+- **Apr 13, 2026**: Columbus City Council was scheduled to approve its annual ~$2M contract with the Franklin County Sheriff's Office for housing city detainees. Public Safety Committee chair **Councilmember Emmanuel Remy** referred the ordinance back to committee, citing unanswered questions about the Sheriff's ICE-cooperation policies and notifications to ICE about foreign-born residents. Sheriff Dallas Baldwin reportedly threatened the city in retaliation.
+- **Late April 2026**: After weeks of public testimony and review, Columbus Council ultimately **approved the $2M payment** to the Franklin County Sheriff's Office for jail services — a fiscal-realism outcome that did not extract policy concessions on the sheriff's pro-ICE posture.
+
 ### Operation Buckeye (Dec 2025)
 - 280+ arrests in Columbus area in one week (Dec 16-21, 2025)
 - 93% men, 80% Latino; less than 7% had criminal records
@@ -64,4 +69,6 @@ The city-county split in Franklin County illustrates the limits of municipal san
 - [ACLU of Ohio ICE in Ohio Report (Mar 2026)](https://www.acluohio.org/publications/ice-in-ohio-report-2026/)
 - [Columbus leaders want to limit ICE enforcement - WOSU (Feb 13, 2026)](https://www.wosu.org/politics-government/2026-02-13/columbus-leaders-want-to-limit-ice-enforcement-as-ohio-republicans-seek-to-force-compliance)
 - [DHS Touts Success of Operation Buckeye (Jan 8, 2026)](https://www.dhs.gov/news/2026/01/08/dhs-touts-success-operation-buckeye-arresting-more-280-illegal-aliens-including)
+- [Columbus Council delays vote on jail contract over ICE policy (Yahoo, Apr 14, 2026)](https://www.yahoo.com/news/articles/columbus-council-delays-vote-jail-102925483.html)
+- [Columbus Council approves $2M payment to Franklin County jail (10TV)](https://www.10tv.com/article/news/local/columbus-city-council-franklin-county-sheriffs-county-housing-inmate-2-million-dollar-debt/530-2ba5a8b7-ed62-4821-ac39-13a71faa53d6)
 - See also: [[columbus-oh-anti-ice-measures]] for full Columbus response details

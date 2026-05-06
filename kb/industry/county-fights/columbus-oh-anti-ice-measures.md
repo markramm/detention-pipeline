@@ -10,7 +10,8 @@ outcome: "Columbus passed 287(g) ban and detention facility moratorium; courthou
 importance: 8
 tags: [operation-buckeye, columbus, sanctuary, 287g-ban, moratorium, courthouse-arrests, ohio]
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-06"
+last_news_check: "2026-05-06"
 fips: '39049'
 ---
 
@@ -31,6 +32,11 @@ Columbus became the epicenter of Ohio's immigration enforcement controversy afte
 - **Student protests**: Central Ohio high school students protested ICE; teacher unions condemned ICE activity near schools (Jan 2026)
 - **Total central Ohio arrests**: 701+ in 2025 (421 Jan-Oct + 280 Operation Buckeye)
 - **ACLU lawsuit**: ACLU Ohio + partners sued ICE/DHS over warrantless arrests (March 19, 2026) — Columbus arrests cited as evidence
+- **April 13, 2026 jail-contract standoff**: Columbus City Council Public Safety Committee chair **Emmanuel Remy** referred the routine $2M annual jail-services contract with Franklin County back to committee, citing unanswered questions about Sheriff Dallas Baldwin's ICE-cooperation policies. After weeks of public testimony, Council ultimately approved the $2M payment in late April 2026 — extracting no policy concessions on the sheriff's pro-ICE posture. Confirms the city-county split: Columbus has the political will but limited fiscal leverage over the county sheriff.
+
+## Cross-References
+
+This entry covers Columbus city's policy response to Operation Buckeye (287(g) ban, detention moratorium, jail-contract standoff). The county-level cooperation that continues despite the city policy — 20 ICE arrests inside Franklin County Municipal Court in 2025, Sheriff Baldwin handing 50 detainees to ICE in H1 2025 — is documented in the sister entry [Franklin County OH — Courthouse Arrests](/fights/franklin-county-oh-courthouse-arrests/). Same FIPS (39049), distinct angles: the city-county split is the substantive finding.
 
 ## Sources
 - [DHS Touts Success of Operation Buckeye (Jan 8, 2026)](https://www.dhs.gov/news/2026/01/08/dhs-touts-success-operation-buckeye-arresting-more-280-illegal-aliens-including)
@@ -39,3 +45,5 @@ Columbus became the epicenter of Ohio's immigration enforcement controversy afte
 - [Columbus leaders want to limit ICE enforcement - WOSU (Feb 13, 2026)](https://www.wosu.org/politics-government/2026-02-13/columbus-leaders-want-to-limit-ice-enforcement-as-ohio-republicans-seek-to-force-compliance)
 - [Franklin Co. Sheriff must repeal pro-ICE policy - Ohio Immigrant Alliance (Mar 2026)](https://ohioimmigrant.org/blog/2026/3/23/franklin-sherrif-pro-ice)
 - [ICE operations in Columbus result in 280 arrests - WOSU (Jan 9, 2026)](https://www.wosu.org/politics-government/2026-01-09/ice-operations-in-columbus-across-ohio-result-in-280-arrests)
+- [Columbus Council delays vote on jail contract over ICE policy (Yahoo, Apr 14, 2026)](https://www.yahoo.com/news/articles/columbus-council-delays-vote-jail-102925483.html)
+- [Columbus Council approves $2M payment to Franklin County jail (10TV)](https://www.10tv.com/article/news/local/columbus-city-council-franklin-county-sheriffs-county-housing-inmate-2-million-dollar-debt/530-2ba5a8b7-ed62-4821-ac39-13a71faa53d6)

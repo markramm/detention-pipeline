@@ -19,7 +19,8 @@ tags:
 - 287g-wso
 - fourth-amendment
 research_status: working
-last_researched: "2026-04-16"
+last_researched: "2026-05-06"
+last_news_check: "2026-05-06"
 fips: '45019'
 ---
 
@@ -41,7 +42,9 @@ On November 3, 2025, a coordinated ICE enforcement operation in North Charleston
   - ICE moved in with unmarked vehicles after troopers made stops.
 - **November 2025**: Reports of construction site enforcement activity across Richland County.
 - **March-April 2026**: ACLU-SC publishes "5 Ugly Facts" report citing Charleston operations; opposes H.4764.
+- **April 1-2, 2026**: South Carolina House passes **H.4764** (forced 287(g) collaboration) — initial Apr 1 vote 85-30, third reading Apr 2 vote 84-26. Bill would require every SC law enforcement agency operating a correctional facility to enter a 287(g) collaboration agreement, and require SLED to develop an "illegal immigration enforcement training program." Now pending in the Senate Committee on Judiciary as of early May 2026.
 - **April 14, 2026**: Community tip — ICE operation reported near Cosgrove Bridge in North Charleston. "Masked officers taking multiple Hispanic males into custody." Photos submitted showing law enforcement vehicles. Pattern consistent with prior traffic stop operations. ([GitHub tip #35](https://github.com/markramm/detention-pipeline/issues/35), Carolina Courier via Facebook)
+- **April 29, 2026**: U.S. Sen. Lindsey Graham (R-SC) introduces federal bill to "boost ICE partnerships" — explicitly federalizing the H.4764 mandate model. Indicates the SC effort is functioning as a state-level template the senior senator is now adapting nationally.
 
 ## Community Impact
 
@@ -60,3 +63,8 @@ The North Charleston operation is significant because it demonstrates the operat
 - [5 ugly facts about ICE collaboration in South Carolina — ACLU-SC](https://www.aclusc.org/news/5-ugly-facts-about-ice-collaboration-in-south-carolina/)
 - [As Forced ICE Collaboration Bill advances, ACLU reports on damage to public trust and civil rights — ACLU-SC](https://www.aclusc.org/press-releases/as-forced-ice-collaboration-bill-advances-aclu-reports-on-damage-to-public-trust-and-civil-rights/)
 - [Charleston immigrant community decries police, ICE raid of SC nightclub — SC Daily Gazette](https://scdailygazette.com/2025/06/06/charleston-immigrant-community-decries-police-ice-raid-of-sc-nightclub/)
+- [SC H.4764 bill page (SC State House)](https://www.scstatehouse.gov/sess126_2025-2026/bills/4764.htm)
+- [Forced ICE Collaboration (H.4764) — ACLU of South Carolina](https://www.aclusc.org/legislation/forced-ice-collaboration-h-4764/)
+- [SC lawmakers advance forced ICE collaboration bill (Charleston City Paper)](https://charlestoncitypaper.com/2026/02/27/s-c-lawmakers-advance-bill-requiring-local-cooperation-with-ice/)
+- [Sen. Graham introduces bill to boost ICE partnerships (Spectrum, Apr 29, 2026)](https://spectrumlocalnews.com/sc/south-carolina/news/2026/04/29/south-carolina-lindsey-graham-ice-)
+- [Statehouse Dispatch April 20, 2026 — ACLU-SC](https://www.aclusc.org/news/statehouse-dispatch-april-20-2026/)
