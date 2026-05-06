@@ -12,6 +12,7 @@ importance: 8
 tags: [children-detained, rapid-deportation, due-process, legislative-oversight, kenai-peninsula, soldotna, asylum-seeker, us-citizen-spouse]
 research_status: working
 last_researched: "2026-04-13"
+last_news_check: "2026-05-06"
 ---
 
 # Kenai Peninsula Borough, AK — Soldotna Family ICE Arrest

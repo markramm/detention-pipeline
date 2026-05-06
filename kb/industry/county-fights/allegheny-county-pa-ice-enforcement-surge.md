@@ -21,7 +21,8 @@ tags:
 - rapid-response
 - courthouse-arrests
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-06"
+last_news_check: "2026-05-06"
 ---
 
 # Allegheny County PA — ICE Enforcement Surge, Council Ban, Sheriff Courthouse Complicity, Municipal 287(g) Chaos
@@ -97,6 +98,14 @@ Council member Bethany Hallam stated she personally witnessed deputies "assistin
 
 Sheriff Kevin Kraus maintained his office had **no written policy** on immigration enforcement and stated he had "not been approached" about a 287(g) agreement. The Sheriff's Office denied cooperation despite the email evidence.
 
+### April 2026 — 46 Targeted Courthouse Arrests Revealed
+
+Emails obtained by PublicSource (published late April 2026) show **ICE notified the Allegheny County Sheriff's Office of plans to arrest at least 46 "targets"** at downtown Pittsburgh courthouses, with operations beginning **April 21, 2026** through January 2 of the following year. Each ICE email shared the target's name, country of birth, expected court time, and location.
+
+President Judge **Susan Evashavik DiLucente** distributed an internal memo to administrative judges in April laying out the protocol: deputies would detain individuals for ICE, take them "out of public view," then transfer custody. The Sheriff's Office told PublicSource that practice "was never implemented" — a denial that conflicts with the documented email coordination.
+
+This is the most concrete evidence to date that Sheriff Kraus's office is operationally cooperating with ICE despite the March council ban — and that judges were directly involved in formalizing the cooperation procedure.
+
 ## Municipal 287(g) Chaos
 
 ### Agreements Signed and Reversed
@@ -159,3 +168,4 @@ Allegheny County shows the full spectrum of ICE enforcement conflict in a single
 - [CBS Pittsburgh: Data shows dramatic increase in ICE arrests](https://www.cbsnews.com/pittsburgh/news/ice-arrests-increase-pittsburgh-area/)
 - [NBC News: ICE agents trashed two PA restaurants during raid](https://www.nbcnews.com/news/latino/ice-raids-pittsburgh-mexican-restaurant-emilianos-pennsylvania-rcna224726)
 - [WESA: Questions surround constable partnerships with ICE in PA (Apr 2, 2026)](https://www.wesa.fm/politics-government/2026-04-02/questions-surround-constable-partnerships-with-ice-in-pennsylvania)
+- [PublicSource: ICE planned 46 arrests in downtown Pittsburgh courthouses (late April 2026)](https://www.publicsource.org/emails-from-ice-to-allegheny-county-sheriff-courthouse-arrests/)

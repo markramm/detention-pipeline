@@ -6,12 +6,13 @@ county: Bexar
 state: TX
 fips: "48029"
 facility: "San Antonio East Side Warehouse — ICE Processing Center"
-status: contested
-outcome: "County passed 4-1 opposition resolution; city voted 8-2 for moratorium exploration; legal challenges in preparation; DHS reviewing purchase under new secretary"
+status: paused
+outcome: "Project on legal pause as of late April 2026 — NEPA litigation following Maryland federal judge precedent; San Antonio City Council passed 9-2 zoning restrictions Apr 17; ~100 protested April 25 at facility; County passed 4-1 opposition; original 8-2 moratorium vote held"
 importance: 8
-tags: [warehouse-conversion, commissioners-court, community-opposition, legal-challenge, environmental-law, moratorium, student-protest, texas, san-antonio, east-side]
+tags: [warehouse-conversion, commissioners-court, community-opposition, legal-challenge, environmental-law, nepa, moratorium, student-protest, texas, san-antonio, east-side, hurson-precedent, paused]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-06"
+last_news_check: "2026-05-06"
 ---
 
 # Bexar County: Broad Coalition Fights East Side ICE Warehouse
@@ -39,6 +40,9 @@ Opposition has escalated through multiple channels: Bexar County Commissioners p
 - **Apr 1, 2026**: Trinity University Students for Change and Revolucion Violeta protest outside City Hall.
 - **Apr 9-10, 2026**: Mayor Jones writes to DHS Secretary Mullin; city reveals engagement of national EPA law firm and preparation of court documents.
 - **Apr 16, 2026**: City Council planned vote on private detention facility code changes.
+- **Apr 17, 2026**: San Antonio City Council passes new private-detention-facility restrictions **9-2**: industrial zoning required, specific use authorization from council, must be at least 1,000 feet from schools, public parks, churches, and residential areas. (City legal staff: Supremacy Clause likely exempts the federal Oakmont 410 facility from these rules.)
+- **Apr 25, 2026**: ~100+ protesters rally outside Oakmont 410 site as part of nationwide day of action; Commissioner Tommy Calvert participates.
+- **Mid-to-late April 2026**: Project enters **legal pause**. City announces hold pending NEPA environmental review — explicitly tied to Maryland federal judge's Williamsport ruling blocking similar warehouse-to-detention conversion. Councilman Jalen McKee-Rodriguez (D2) leads the public announcement.
 
 ### Actors
 
@@ -92,3 +96,7 @@ As of April 2026, DHS has temporarily halted new warehouse purchases while revie
 - [SA students hold anti-ICE press conference on Presidents Day — TPR (Feb 16, 2026)](https://www.tpr.org/news/2026-02-16/san-antonio-students-hold-anti-ice-press-conference-and-march-on-presidents-day)
 - [Trinity students protest ICE at City Hall — Trinitonian (Apr 9, 2026)](https://trinitonian.com/2026/04/09/trinity-students-protest-ice-at-san-antonio-city-hall/)
 - [States push against immigration detention plans — Fortune (Apr 9, 2026)](https://fortune.com/2026/04/09/dhs-ice-immigration-states-warehouses-converted-detention-centers/)
+- [San Antonio restricts new detention facilities (KSAT, Apr 17, 2026)](https://www.ksat.com/news/local/2026/04/17/san-antonio-restricts-new-detention-facilities-how-might-it-impact-the-planned-ice-warehouse/)
+- [Large crowd protests at proposed ICE processing facility (TPR, Apr 25, 2026)](https://www.tpr.org/news/2026-04-25/large-crowd-protests-in-front-of-the-proposed-ice-processing-facility-in-southeast-san-antonio)
+- [Legal fights put San Antonio ICE warehouse on pause (SA Current, Apr 30, 2026)](https://www.sacurrent.com/news/san-antonio-news/legal-fights-put-san-antonio-ice-warehouse-on-pause/)
+- [Can a zoning change stop the East Side ICE detention center? (TPR, Apr 19, 2026)](https://www.tpr.org/podcast/the-source/2026-04-19/can-a-zoning-change-stop-the-east-side-ice-detention-center)

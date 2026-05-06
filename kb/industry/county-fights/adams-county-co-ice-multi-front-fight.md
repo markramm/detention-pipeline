@@ -22,7 +22,8 @@ tags:
 - state-legislation
 - conditions-abuse
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-06"
+last_news_check: "2026-05-06"
 ---
 
 # Adams County CO — Multi-Front Fight Over ICE Detention
@@ -66,8 +67,8 @@ The Adams County Board of Commissioners issued a formal statement:
 ## Fight 4: State Legislation from Adams County (2026 Session)
 
 **State Rep. Lorena Garcia (D-Adams County)** is sponsoring key bills:
-- **HB 26-1276**: Requires state agencies to publish unsealed federal subpoenas and notify individuals whose information is sought by immigration authorities
-- **Detention inspection bill**: Gives the state authority to inspect food, water quality, and conditions at immigration detention centers, with facilities required to pay for inspections
+- **HB 26-1276** (detention inspection bill): Permits the Colorado Department of Public Health and Environment to require ICE detention facilities to comply with health/safety standards and pay for environmental impact studies. **Passed the Colorado House 42-21 along party lines in late April 2026; advances to Senate Judiciary Committee.** This is the bill directly enabled by the Aurora obstruction findings.
+- **Subpoena right-to-know bill**: Requires state agencies to publish unsealed federal subpoenas and notify individuals whose information is sought by immigration authorities
 
 These bills are part of a broader Democratic package including:
 - **SB 26-005**: Allows civil lawsuits against federal immigration officers for constitutional violations (sponsored by Sen. Mike Weissman, D-Aurora)
@@ -93,3 +94,5 @@ Adams County is the physical home of Colorado's ICE detention infrastructure but
 - [Colorado Sun: Democratic lawmakers move to restrict ICE in Colorado (Feb 2026)](https://coloradosun.com/2026/02/02/democratic-lawmakers-bills-regulate-federal-immigration-enforcement-colorado/)
 - [Colorado Newsline: Right-to-know bill for ICE subpoenas (March 2026)](https://coloradonewsline.com/2026/03/18/right-to-know-ice-subpoenas/)
 - [KKTV: 50 people arrested in Adams County DEA/ICE raid (Jan 2025)](https://www.kktv.com/2025/01/26/dea-50-people-including-dozens-with-venezuelan-drug-ties-ice-custody-following-early-morning-raid-adams-county/)
+- [Colorado Democrats eye new state requirements for ICE facilities (Denver Gazette, Apr 28, 2026)](https://www.denvergazette.com/2026/04/28/colorado-democrats-eye-new-state-requirements-for-ice-facilities/)
+- [Colorado lawmakers advance immigrant protections bill (Aspen Times, Apr 2026)](https://www.aspentimes.com/news/colorado-lawmakers-immigrant-protections-bill-police-ice/)

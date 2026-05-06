@@ -21,6 +21,7 @@ tags:
 - community-resistance
 research_status: working
 last_researched: "2026-04-13"
+last_news_check: "2026-05-06"
 ---
 
 # Coos County OR — ICE Detention Center Proposal and Community Resistance

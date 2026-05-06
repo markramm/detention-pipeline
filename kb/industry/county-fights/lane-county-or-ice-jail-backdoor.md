@@ -19,6 +19,7 @@ tags:
 - operation-black-rose
 research_status: working
 last_researched: "2026-04-13"
+last_news_check: "2026-05-06"
 ---
 
 # Lane County OR — Sheriff's ICE Backdoor and Jail Lobby Detentions

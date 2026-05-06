@@ -6,7 +6,7 @@ county: Baldwin
 state: AL
 facility: "Baldwin County Jail, Bay Minette; construction sites across county"
 status: litigation
-outcome: "Class-action lawsuit Garcia Venegas v. ICE filed Sep 2025 in S.D. Alabama by Institute for Justice. Civil rights orgs filed public records requests Nov 2025. Raids continue."
+outcome: "Class-action lawsuit Garcia Venegas v. ICE filed Sep 2025 in S.D. Alabama by Institute for Justice. Plaintiff Garcia Venegas detained a THIRD time on May 2, 2026 in Silverhill — counsel filed motion citing pattern of unlawful enforcement to support preliminary injunction. Raids continue."
 importance: 8
 tags:
 - baldwin-county
@@ -18,7 +18,8 @@ tags:
 - class-action
 - alabama
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-06"
+last_news_check: "2026-05-06"
 fips: '01003'
 ---
 
@@ -37,6 +38,7 @@ Since January 2025, ICE has conducted at least **15 warrantless, suspicionless r
 - **July 23, 2025**: 11 arrested at elementary school construction site in Baldwin County
 - **Summer 2025**: Nearly 50 workers detained at Gulf Shores and Loxley school construction projects
 - **Feb 11, 2025**: Multiple people taken into custody in federal immigration enforcement activity across Baldwin County
+- **May 2, 2026**: Plaintiff **Leonardo Garcia Venegas detained a third time** near his home in Silverhill — physically restrained, handcuffed, shackled, and questioned about birthplace despite holding U.S. citizenship. Counsel filed a declaration in S.D. Alabama citing the pattern to support the pending preliminary-injunction motion (UTV44, May 5, 2026)
 
 ### The Lawsuit: Garcia Venegas v. ICE
 **Leonardo Garcia Venegas**, a U.S. citizen and concrete worker, was detained by ICE **twice** during construction site raids despite presenting proof of citizenship. In both instances, agents racially profiled workers, detaining everyone who "looked Latino" while ignoring non-Latino workers.
@@ -73,3 +75,4 @@ Baldwin County is a test case for the limits of warrantless workplace immigratio
 - [Multiple people in custody in Baldwin County (WSFA, Feb 11 2025)](https://www.wsfa.com/2025/02/11/multiple-people-custody-federal-immigration-enforcement-activity-baldwin-county/)
 - [Alabama builders rethink deportations (Fortune, Sep 23 2025)](https://fortune.com/2025/09/23/alabama-rethinks-deportations-immigrants-construction-worker-shortage/)
 - [Civil rights groups seek records (Alabama Reflector, Dec 31 2025)](https://alabamareflector.com/2025/12/31/civil-rights-and-immigrant-advocacy-groups-seek-records-on-immigrant-detention-in-alabama/)
+- [South Alabama man detained by ICE a third time despite proof of citizenship (UTV44, May 5, 2026)](https://utv44.com/news/local/south-alabama-man-detained-by-ice-a-third-time-despite-proof-of-citizenship-court-filing)
