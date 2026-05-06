@@ -6,12 +6,14 @@ county: Pinal
 state: "AZ"
 facility: null
 status: litigation
-vote_tally: "Board of Supervisors unanimously declared agreement illegal and void"
-outcome: "Active litigation in Maricopa County Superior Court (transferred from Pinal). TRO expired when venue transferred; Board seeking preliminary injunction. Status conference April 9, 2026. Miller's top investigator (Richard 'Hank' Mueller) is on Arizona's Brady list."
+vote_tally: "Board of Supervisors unanimously declared agreement illegal and void; later unanimously declared 'potential conflict of interest exists'"
+outcome: "Active litigation in Maricopa County Superior Court before Judge Michael Gordon. At April 9, 2026 status conference, Miller agreed not to engage in ICE activities beyond information sharing during pendency of the lawsuit. Combined hearing on County's preliminary injunction motion and Miller's motion to dismiss set for May 15, 2026. Board has now also declared a 'potential conflict of interest' exists with Miller's office (April 2026). Outside legal fees reportedly ~$257,000. Miller's top investigator (Richard 'Hank' Mueller) is on Arizona's Brady list."
 key_actors:
 - "County Attorney Brad Miller"
 - "Pinal County Board of Supervisors"
-- "Judge Joseph Georgini"
+- "Judge Joseph Georgini (Pinal Superior, original venue)"
+- "Judge Michael Gordon (Maricopa Superior, current venue)"
+- "Snell & Wilmer (Board's outside counsel)"
 - "ACLU"
 importance: 8
 tags:
@@ -23,6 +25,7 @@ tags:
 - pinal-county-cluster
 research_status: working
 fips: '04021'
+last_news_check: '2026-05-06'
 ---
 
 # Pinal County: When the County Attorney Goes Rogue
@@ -49,8 +52,14 @@ This is a governance crisis, not just an immigration fight. A county attorney by
 - **February 20, 2026**: Miller wins **change of venue** to Maricopa County Superior Court. TRO expires with the transfer. Miller's office states it "will resume working with ICE."
 - **March 31, 2026**: Miller files motion to dismiss, calling it "without merit"
 - **April 3, 2026**: Pinal County (via Snell & Wilmer) files reply seeking preliminary injunction, arguing Miller "had no statutory right" to enter the agreement
-- **April 9, 2026**: **Status conference** before Judge Michael Gordon (Maricopa County)
-- **Ongoing**: Board seeking preliminary injunction in Maricopa County Superior Court
+- **April 9, 2026**: **Status conference** before Judge Michael Gordon (Maricopa County). Miller **agrees that he will not engage in any activities with ICE beyond information sharing** during the pendency of the lawsuit. Combined hearing on the preliminary injunction and motion to dismiss set for **May 15, 2026** (Pinal County newsflash)
+- **April 13, 2026**: AZ Mirror / Tucson Sentinel coverage — Snell & Wilmer's reply quotes the public-interest test, arguing "the public interest does not support" county officers "acting as vigilantes outside the bounds of their appropriate, statutory authority"
+- **April 16, 2026**: Pinal County (via Snell & Wilmer) files **Response to Motion to Dismiss** in Maricopa County Superior Court (case **CV2026-008061**, before Judge Gordon), arguing Miller "fails to point to any authority granting his office the power to enter into a contract on behalf of the County" and citing A.R.S. § 11-201(A)(3) and 8 U.S.C. § 1357(g)
+- **April 22, 2026**: Board agenda includes executive sessions targeting the County Attorney's Office. Miller's office responds publicly: "We did not start this fight, but we will finish it where it belongs: in a courtroom" and accuses Board of "frivolous legal actions" (InMaricopa)
+- **~April 22-24, 2026**: Board votes **unanimously** to declare that "a potential conflict of interest exists" regarding the County Attorney's ethical obligations to the Board and how PCAO investigators exercise law-enforcement authority. Board sets a Friday-noon deadline for Miller to respond; if he does not, the county manager is directed to hire outside counsel to represent the Board (KJZZ, April 24, 2026)
+- **As of late April 2026**: Outside-legal-fee spending in the dispute reportedly totals **~$257,000** (KJZZ, InMaricopa)
+- **May 1, 2026**: Additional filing in Pinal County case CV2026-003106 (Pinal County document portal)
+- **May 15, 2026 (scheduled)**: Combined hearing on County's motion for preliminary injunction and Miller's motion to dismiss before Judge Michael Gordon, Maricopa County Superior Court
 
 ## The Brady List Investigator
 
@@ -89,3 +98,8 @@ If a county attorney can unilaterally sign ICE agreements over the objections of
 - [InMaricopa: County asks judge to freeze Miller's ICE deal](https://inmaricopa.com/pinal-county-asks-judge-to-freeze-millers-ice-deal-in-new-filing/)
 - [Phoenix New Times: Miller's top investigator is disgraced cop](https://www.phoenixnewtimes.com/news/pinal-county-attorney-top-investigator-disgraced-cop-40646709/)
 - [12 News: Pinal County takes historic step with ICE partnership](https://www.12news.com/article/news/regional/the-border/pinal-county-takes-historic-step-with-new-ice-partnership-sparking-aclu-scrutiny/75-95368dcc-da7e-4029-a402-4326e44975cf)
+- [AZ Mirror: Board says county attorney acted as a 'vigilante' (April 13, 2026)](https://azmirror.com/briefs/pinal-county-board-county-attorney-acted-as-a-vigilante-by-signing-ice-deal-without-approval/)
+- [Pinal County: County Files Response to Motion to Dismiss (April 16, 2026)](https://www.pinal.gov/m/newsflash/home/detail/2338)
+- [InMaricopa: Brad Miller rips Pinal County board over new legal salvo (April 22, 2026)](https://inmaricopa.com/brad-miller-rips-pinal-county-board-over-new-legal-salvo/)
+- [KJZZ: Pinal County Board of Supervisors accuse county attorney of 'conflict of interest' (April 24, 2026)](https://www.kjzz.org/politics/2026-04-24/pinal-county-board-of-supervisors-accuse-county-attorney-of-conflict-of-interest)
+- [Pinal County Clerk of Superior Court filing CV2026-003106 (May 1, 2026)](https://pinal.gov/DocumentCenter/View/28379/CV2026-003106-926-05012026?bidId=)
