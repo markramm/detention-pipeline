@@ -10,7 +10,9 @@ vote_tally: "N/A — federal purchase, no local vote"
 outcome: "Litigation active; DHS paused all warehouse purchases Apr 1 under Mullin review of Noem-era contracts. No court ruling yet."
 fips: "26163"
 last_researched: "2026-04-12"
-importance: 8
+last_news_check: "2026-05-06"
+case_number: "2:26-cv-10968-JJCG-EAS"
+importance: 9
 tags:
 - litigation
 - ag-opposition
@@ -19,6 +21,12 @@ tags:
 - federal-purchase
 - no-local-notice
 - 700-protesters
+- nepa-violation
+- multi-state-cluster
+- warehouse-conversion
+- maryland-precedent
+- nessel
+- whitmer-silent
 research_status: working
 ---
 
@@ -53,12 +61,26 @@ The lawsuit alleges:
 - **March 30, 2026:** Case heads to federal court (Axios)
 - **April 1, 2026:** **DHS pauses all warehouse purchases** under new Secretary Markwayne Mullin, reviewing all Noem-era contracts. Romulus is one of 11 warehouses nationally ($1.074B combined) under review.
 - **April 2, 2026:** DHS confirms it is specifically reviewing the Romulus purchase
+- **April 15, 2026:** Maryland's parallel NEPA case wins a preliminary injunction (Judge Brendan A. Hurson, D. Md.). The Hurson ruling becomes the precedent the Romulus court will be asked to apply: Hurson found that DHS likely failed to comply with NEPA and did not take "a 'hard look' at the potential environmental consequences" of converting a warehouse to a 542-detainee facility. See [Maryland (Williamsport) fight](/fights/washington-county-md-warehouse-fight/).
+- **April 22-23, 2026:** DHS files ~500 pages of documents supplementing its response to Nessel and Romulus's preliminary-injunction motion. DHS argues ICE needs the dedicated Metro Detroit detention center because the two closest facilities — IGSAs with St. Clair and Monroe counties — collectively provide only ~150 beds (per Detroit News reporting on the court filings).
+- **April 24, 2026:** Arizona AG Mayes files parallel NEPA lawsuit against Mullin/DHS over the Surprise warehouse — fourth state in the cluster (after MD, NJ, MI, AZ). See [Surprise AZ fight](/fights/surprise-az-ice-warehouse-fight/).
 
 ## DHS Pause and Noem-Era Review
 
 The Romulus fight achieved something few local opponents have: the facility is now caught up in a **federal-level policy reversal**. Secretary Mullin's review of Noem-era contracts puts all 11 warehouses on hold. The original plan was a $38.3B initiative for 92,000 beds through 8 mega-centers and 16 regional processing centers. DHS stated: "as with any transition, we are reviewing agency policies and proposals."
 
-No court ruling has been issued on the Romulus lawsuit as of April 12, 2026.
+No court ruling has been issued on the Romulus lawsuit as of May 6, 2026. The case (2:26-cv-10968-JJCG-EAS) is pending a preliminary-injunction ruling in the Eastern District of Michigan. The Hurson ruling in Maryland (April 15, 2026) on essentially the same NEPA argument is the most relevant out-of-circuit precedent.
+
+## The Multi-State Pattern
+
+Romulus is one of four state-AG NEPA challenges to DHS warehouse-conversion in 2026. As of May 6:
+
+- **Maryland (Williamsport)** — preliminary injunction granted April 15, 2026. **First successful** state-level challenge; established the precedent.
+- **Michigan (Romulus)** — case filed March 24, 2026. Pending ruling.
+- **New Jersey (Roxbury)** — preliminary-injunction hearing scheduled for May 12, 2026 ([Roxbury fight](/fights/roxbury-nj-lawsuit/)).
+- **Arizona (Surprise)** — case filed April 24, 2026 (Maricopa County, distinct from the existing [Pinal County 287(g) matter](/fights/pinal-county-az-rogue-attorney/)). See [Surprise AZ fight](/fights/surprise-az-ice-warehouse-fight/).
+
+The same NEPA argument runs through all four cases: DHS used a categorical-exclusion approach, did not conduct adequate environmental review before purchase, and the planned conversion's operational density (542 in MD/NJ filings, hundreds-to-1,500 in AZ) overwhelms local water/sewage/infrastructure systems originally designed for warehouse use.
 
 ## Coalition to Shut the Camps
 
@@ -86,3 +108,7 @@ The Michigan Senate is advancing bills (SB 508, SB 510) to limit ICE enforcement
 - [Metro Detroiters stage walkouts — Detroit News (Jan 30, 2026)](https://eu.detroitnews.com/story/news/local/michigan/2026/01/30/general-strike-detroit-walkout-schools-ice-immigration/88417037007/)
 - [Lawsuit heads to federal court — Axios Detroit (Mar 30, 2026)](https://www.axios.com/local/detroit/2026/03/30/ice-detention-lawsuit-romulus-federal-court)
 - [Bills to limit federal immigration actions move to Senate — Michigan Advance (Mar 25, 2026)](https://michiganadvance.com/2026/03/25/bills-to-limit-federal-immigration-actions-move-to-full-michigan-senate-along-party-lines/)
+- [Detroit News: DHS details of Romulus ICE detention center plans in court filings (April 23, 2026)](https://www.detroitnews.com/story/news/local/wayne-county/2026/04/23/dhs-details-of-romulus-ice-detention-center-plans-in-court-filings/89757520007/) — DHS's ~500-page supplementary filing
+- [Michigan AG: AG Nessel Files Lawsuit Challenging Plan to Convert Romulus Warehouse (March 24, 2026)](https://www.michigan.gov/ag/news/press-releases/2026/03/24/ag-nessel-files-lawsuit-challenging-plan-to-convert-romulus-warehouse-into-ice-detention-center) — official AG announcement
+- **Romulus Complaint (PDF)**: https://www.michigan.gov/ag/-/media/Project/Websites/AG/releases/2026/March/Romulus-Complaint-ICE-DHS.pdf — primary source
+- [Michigan Advance: Nessel, Romulus file lawsuit (March 24, 2026)](https://michiganadvance.com/2026/03/24/nessel-romulus-file-lawsuit-against-dhs-to-halt-planned-ice-detention-center/)
