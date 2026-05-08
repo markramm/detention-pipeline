@@ -3,7 +3,51 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline</title>
+{{/*  ── SEO title-tag template ────────────────────────────────────────────
+       Surface frontmatter detail (bed count, operator, signal score, role)
+       in the SERP-visible title rather than the generic "Foo · Detention
+       Pipeline" pattern. Real-human CTR on people / facility / contractor
+       pages is the bottleneck; the data is already in frontmatter, this
+       just promotes it into the snippet.
+*/}}
+{{- $titleParts := slice -}}
+{{- if and .IsPage (not .IsHome) -}}
+  {{- if eq .Type "facilities" -}}
+    {{- $titleParts = $titleParts | append (.Params.facility_name | default .Title) -}}
+    {{- $loc := "" -}}
+    {{- if and .Params.city .Params.state -}}{{- $loc = printf "%s, %s" .Params.city .Params.state -}}
+    {{- else if .Params.state -}}{{- $loc = .Params.state -}}{{- end -}}
+    {{- if $loc -}}{{- $titleParts = $titleParts | append $loc -}}{{- end -}}
+    {{- if .Params.bed_count -}}{{- $titleParts = $titleParts | append (printf "%v beds" .Params.bed_count) -}}{{- end -}}
+    {{- if .Params.operator -}}{{- $titleParts = $titleParts | append .Params.operator -}}{{- end -}}
+    {{- else if eq .Type "players" -}}
+    {{- $titleParts = $titleParts | append .Title -}}
+    {{- if eq .Params.player_type "person" -}}
+      {{- if .Params.role -}}{{- $titleParts = $titleParts | append (.Params.role | humanize) -}}{{- end -}}
+    {{- else if eq .Params.player_type "contractor" -}}
+      {{- if .Params.contractor_type -}}{{- $titleParts = $titleParts | append (.Params.contractor_type | humanize) -}}{{- end -}}
+    {{- end -}}
+  {{- else if eq .Type "county" -}}
+    {{- $titleParts = $titleParts | append .Title -}}
+    {{- if .Params.score -}}{{- $titleParts = $titleParts | append (printf "Heat score %v" .Params.score) -}}{{- end -}}
+    {{- if .Params.signal_types -}}{{- $titleParts = $titleParts | append (printf "%v signal types" .Params.signal_types) -}}{{- end -}}
+  {{- else if eq .Type "state" -}}
+    {{- $titleParts = $titleParts | append .Title -}}
+    {{- $stateBits := slice -}}
+    {{- if .Params.county_count -}}{{- $stateBits = $stateBits | append (printf "%v counties tracked" .Params.county_count) -}}{{- end -}}
+    {{- if .Params.entry_count -}}{{- $stateBits = $stateBits | append (printf "%v signals" .Params.entry_count) -}}{{- end -}}
+    {{- if $stateBits -}}{{- $titleParts = $titleParts | append (delimit $stateBits ", ") -}}{{- end -}}
+  {{- else -}}
+    {{- $titleParts = $titleParts | append .Title -}}
+  {{- end -}}
+{{- else -}}
+  {{- if and .Title (ne .Title "Detention Pipeline") -}}{{- $titleParts = $titleParts | append .Title -}}{{- end -}}
+{{- end -}}
+{{- $titleParts = $titleParts | append "Detention Pipeline" -}}
+{{- $pageTitle := delimit $titleParts " · " -}}
+<title>{{ $pageTitle }}</title>
+
+{{/*  ── Meta description: same field-aware pattern but for the SERP snippet ── */}}
 {{- $desc := "Early-warning system for ICE detention facility expansion" -}}
 {{- if .Params.summary -}}
   {{- $desc = .Params.summary -}}
@@ -15,6 +59,21 @@
   {{- else -}}
     {{- $desc = "Communities fighting detention facility proposals — what worked, what didn't, and what you can learn" -}}
   {{- end -}}
+{{- else if eq .Type "facilities" -}}
+  {{- if .IsPage -}}
+    {{- $bits := slice -}}
+    {{- if .Params.facility_type -}}{{- $bits = $bits | append .Params.facility_type -}}{{- end -}}
+    {{- if .Params.bed_count -}}{{- $bits = $bits | append (printf "%v beds" .Params.bed_count) -}}{{- end -}}
+    {{- if .Params.operator -}}{{- $bits = $bits | append (printf "operator: %s" .Params.operator) -}}{{- end -}}
+    {{- if .Params.address -}}{{- $bits = $bits | append .Params.address -}}{{- end -}}
+    {{- if .Params.aor -}}{{- $bits = $bits | append (printf "ICE AOR: %s" .Params.aor) -}}{{- end -}}
+    {{- $detail := delimit $bits " · " -}}
+    {{- if $detail -}}
+      {{- $desc = printf "%s. %s" .Title $detail -}}
+    {{- else -}}
+      {{- $desc = printf "%s — ICE detention facility tracked by Detention Pipeline." .Title -}}
+    {{- end -}}
+  {{- end -}}
 {{- else if eq .Type "players" -}}
   {{- $desc = printf "%s — Detention industry profile" .Title -}}
 {{- else if .Params.signal_label -}}
@@ -23,7 +82,7 @@
   {{- $desc = .Description -}}
 {{- end -}}
 <meta name="description" content="{{ $desc }}">
-<meta property="og:title" content="{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline">
+<meta property="og:title" content="{{ $pageTitle }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:type" content="{{ cond .IsHome "website" "article" }}">
 <meta property="og:url" content="{{ .Permalink }}">
@@ -56,9 +115,20 @@
 <meta property="og:image:height" content="630">
 <meta property="og:site_name" content="Detention Pipeline">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ if ne .Title "Detention Pipeline" }}{{ .Title }} · {{ end }}Detention Pipeline">
+<meta name="twitter:title" content="{{ $pageTitle }}">
 <meta name="twitter:description" content="{{ $desc }}">
 <meta name="twitter:image" content="{{ $ogImage | absURL }}">
+{{/*  ── Robots / noindex policy for thin pages ──────────────────────────────
+       Page-level frontmatter can set noindex: true to opt out of indexing.
+       This is set by generate_content.py for thin pages (USDA-distress
+       entries with score <=4, facilities with no source/operator/bed_count
+       data, 287(g) entries that are bare existence records). The links
+       still resolve so anyone visiting them works fine; they just don't
+       appear in search results, which keeps domain-quality signals high.
+*/}}
+{{- if .Params.noindex }}
+<meta name="robots" content="noindex,follow">
+{{- end }}
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="sitemap" type="application/xml" href="/sitemap.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">

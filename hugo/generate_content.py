@@ -490,13 +490,60 @@ def generate_all_pages(parsed_entries, heat_data):
             url_section = page_path.parent.relative_to(CONTENT_PATH).as_posix()
             fm["aliases"] = [f"/{url_section}/{s}/" for s in old_slugs]
 
+        # Noindex thin pages so Google's domain-quality signal isn't dragged
+        # down by 1,000+ near-empty templated pages. The links still work for
+        # internal navigation; they just don't appear in search results.
+        # Rules per page type:
+        #   - USDA-distress entries with score <= 4 (low-density rural baseline,
+        #     ~813 of 1,086 pages) — bot-magnet for fiscal-monitoring agents
+        #     but no human research surface
+        #   - Facilities with no operator/bed_count/source data (~1,154 pages
+        #     from raw Vera import) — exists as a record but has nothing for
+        #     a human searcher beyond what the URL slug already tells them
+        #   - 287(g) entries that are bare existence records (no model details
+        #     beyond the agreement type)
+        is_thin = False
+        if entry_type == "budget-distress":
+            distress_score = 0
+            for bline in body.split("\n"):
+                if bline.strip().startswith("Distress score:"):
+                    try:
+                        distress_score = int(bline.split(":", 1)[1].strip().split("/")[0])
+                    except (ValueError, IndexError):
+                        pass
+                    break
+            if distress_score <= 4:
+                is_thin = True
+        elif entry_type in ("igsa", "facility"):
+            has_signal = (
+                fm.get("operator") or
+                fm.get("bed_count") or
+                fm.get("avg_daily_pop") or
+                fm.get("address") or
+                int(source_count or 0) > 0
+            )
+            if not has_signal:
+                is_thin = True
+        if is_thin:
+            fm["noindex"] = True
+            # Also drop from sitemap — no point telling Google to crawl
+            # a page we're explicitly telling it not to index.
+            fm["_sitemap_disable"] = True  # rendered as `sitemap:\n  disable: true`
+
         # Write the page
         fm_lines_parts = []
         for k, v in fm.items():
+            if k == "_sitemap_disable":
+                if v:
+                    fm_lines_parts.append("sitemap:")
+                    fm_lines_parts.append("  disable: true")
+                continue
             if isinstance(v, list):
                 fm_lines_parts.append(f"{k}:")
                 for item in v:
                     fm_lines_parts.append(f'  - "{item}"')
+            elif isinstance(v, bool):
+                fm_lines_parts.append(f"{k}: {str(v).lower()}")
             elif isinstance(v, str):
                 fm_lines_parts.append(f'{k}: "{v}"')
             else:
