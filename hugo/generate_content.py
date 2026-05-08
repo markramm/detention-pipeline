@@ -270,6 +270,16 @@ def generate_all_pages(parsed_entries, heat_data):
             llm_summaries = json.load(f)
         print(f"  Loaded {len(llm_summaries)} LLM summaries")
 
+    # Load slug-rename history. Keyed by current (new) slug → list of old
+    # slugs that should redirect to it. Hugo emits a meta-refresh redirect
+    # page at each old URL so Google's stale index entries don't 404.
+    slug_aliases = {}
+    aliases_path = DATA_PATH / "slug_renames.json"
+    if aliases_path.exists():
+        with open(aliases_path) as f:
+            slug_aliases = json.load(f)
+        print(f"  Loaded slug-rename map: {len(slug_aliases)} entries with aliases")
+
     # Section directories
     for d in ["entry", "fights", "players/contractors", "players/people",
               "players/money", "organizations", "facilities", "signals",
@@ -471,9 +481,27 @@ def generate_all_pages(parsed_entries, heat_data):
         clean_body = "\n".join(lines)
         resolved_body = resolve_wikilinks(clean_body)
 
+        # If this entry's slug was renamed in commit 9de7df5a (the stable-slug
+        # migration), emit Hugo aliases so the old URLs redirect to the new
+        # canonical URL. Google still has the old form indexed; without
+        # redirects those URLs 404.
+        old_slugs = slug_aliases.get(entry_id, [])
+        if old_slugs:
+            url_section = page_path.parent.relative_to(CONTENT_PATH).as_posix()
+            fm["aliases"] = [f"/{url_section}/{s}/" for s in old_slugs]
+
         # Write the page
-        fm_lines = "\n".join(f'{k}: "{v}"' if isinstance(v, str) else f'{k}: {v}'
-                             for k, v in fm.items())
+        fm_lines_parts = []
+        for k, v in fm.items():
+            if isinstance(v, list):
+                fm_lines_parts.append(f"{k}:")
+                for item in v:
+                    fm_lines_parts.append(f'  - "{item}"')
+            elif isinstance(v, str):
+                fm_lines_parts.append(f'{k}: "{v}"')
+            else:
+                fm_lines_parts.append(f'{k}: {v}')
+        fm_lines = "\n".join(fm_lines_parts)
         with open(page_path, "w") as f:
             f.write(f"---\n{fm_lines}\n---\n\n{resolved_body}\n")
 
