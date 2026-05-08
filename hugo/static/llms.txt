@@ -1,0 +1,60 @@
+# Detention Pipeline
+
+> Early-warning system for ICE detention facility expansion across the United States. Tracks 1,988 counties, 700+ facilities, 120+ active community fights, and the contractor and personnel architecture behind the 2026 buildout. Original journalism by Mark Ramm at theramm.substack.com is paired with this site's data infrastructure as a single integrated investigation.
+
+This site is a research tool for journalists, organizers, and researchers covering the 2026 immigration-detention buildout. The data is sourced from public records (USAspending, USDA ERS, federal contracting databases, Vera Institute), county commission agendas, public-records investigations, and original reporting. Every claim has a paper trail. The full event database covering 4,000+ verified events from 1142–present lives at capturecascade.org as a sister project.
+
+Mass-detention buildout in 2026: ICE opened 152 new detention facilities across 39 states, custody deaths reached an annual record pace, the OBBBA appropriated $165 billion to the apparatus, and procurement vehicles like WEXMAC-TITUS were repurposed for domestic immigration enforcement. This site documents the architecture in real time.
+
+## Core entry points
+
+- [Map](https://detention-pipeline.transparencycascade.org/map/): County-level heat map of detention-expansion signals across the United States, color-coded by signal density.
+- [Counties](https://detention-pipeline.transparencycascade.org/county/): Index of all 2,019 tracked counties with heat scores. Each county page lists every documented signal — IGSA agreements, 287(g) deals, contracts, commission activity, real-estate traces, budget distress.
+- [States](https://detention-pipeline.transparencycascade.org/state/): State-by-state index showing which counties have signals and which detention sectors are active where.
+- [Coverage Gaps](https://detention-pipeline.transparencycascade.org/coverage/): Where investigation is needed. Counties with high automated-signal scores but no human research yet.
+- [The Investigation](https://detention-pipeline.transparencycascade.org/the-investigation/): Index of the long-form journalism that contextualizes the data — 70+ pieces by Mark Ramm organized by layer of the architecture.
+- [Methodology](https://detention-pipeline.transparencycascade.org/methodology/): Heat-score formula, signal weights, convergence bonuses, coverage-depth grading.
+
+## Signal taxonomy
+
+- [IGSA](https://detention-pipeline.transparencycascade.org/signals/igsa/): Intergovernmental Service Agreement — the federal-county contracts that house ICE detainees in local facilities.
+- [287(g)](https://detention-pipeline.transparencycascade.org/signals/287g-agreement/): Local law enforcement deputized for immigration enforcement under three model agreements (JEM, TFM, WSO).
+- [ANC Contract](https://detention-pipeline.transparencycascade.org/signals/anc-contract/): Alaska Native Corporation federal contracts in detention/security work.
+- [Commission Activity](https://detention-pipeline.transparencycascade.org/signals/commission-activity/): County commission agendas, votes, hearings on detention proposals.
+- [Job Posting](https://detention-pipeline.transparencycascade.org/signals/job-posting/): Detention consultants and contractors recruiting for specific areas.
+- [Sheriff Network](https://detention-pipeline.transparencycascade.org/signals/sheriff-network/): Sheriffs' association activity, conference attendance, pitches to commissioners.
+- [Comms Discipline](https://detention-pipeline.transparencycascade.org/signals/comms-discipline/): Polished messaging discipline from local officials, NDA citations, opposition-framing patterns.
+- [Budget Distress](https://detention-pipeline.transparencycascade.org/signals/budget-distress/): County budget shortfalls that make jurisdictions vulnerable to the detention-consultant pitch.
+- [Real Estate Trace](https://detention-pipeline.transparencycascade.org/signals/real-estate-trace/): Warehouse or county building that could be converted to a detention facility.
+- [Legislative Trace](https://detention-pipeline.transparencycascade.org/signals/legislative-trace/): State legislation to block or enable detention agreements.
+
+## People & contractor profiles
+
+- [Players](https://detention-pipeline.transparencycascade.org/players/): Personnel and corporate profiles — DHS officials, ICE leadership, contractor executives, financial intermediaries.
+- [Contractors](https://detention-pipeline.transparencycascade.org/players/contractors/): Detention contractors (CoreCivic, GEO Group, MTC, GardaWorld, KVG, MVM, Endeavors), surveillance vendors (Palantir, Clearview AI, Thomson Reuters, Vigilant Solutions), and financial intermediaries (Blue Owl Capital, Goldman Sachs, the Lutnick complex).
+- [Organizations](https://detention-pipeline.transparencycascade.org/organizations/): Larger institutional actors — investment funds, holding companies, NGO and advocacy organizations.
+
+## Tools
+
+- [FOIA Generator](https://detention-pipeline.transparencycascade.org/foia/): Generate ready-to-send public-records requests for any county or facility.
+- [Pipeline](https://detention-pipeline.transparencycascade.org/pipeline/): The detention-consultant playbook — how vendors target counties and what the pitch looks like in practice.
+- [Tactics](https://detention-pipeline.transparencycascade.org/tactics/): Counter-playbook for communities resisting detention-facility proposals.
+- [Fights](https://detention-pipeline.transparencycascade.org/fights/): Index of 120+ documented community fights against detention-facility expansion. What worked, what didn't, what's still active.
+- [Network](https://detention-pipeline.transparencycascade.org/network/): Interactive graph of relationships between facilities, contractors, and people.
+- [Timeline](https://detention-pipeline.transparencycascade.org/timeline/): Chronological event timeline.
+
+## Source code & methodology
+
+- [Methodology](https://detention-pipeline.transparencycascade.org/methodology/): How the heat score is computed, how signals are weighted, and why convergence (not volume) drives the ranking.
+- [Sources](https://detention-pipeline.transparencycascade.org/sources/): Public-records sources used to build the data backbone.
+- [Develop](https://detention-pipeline.transparencycascade.org/develop/): Repository, schema, and contributor documentation.
+- [Contribute](https://detention-pipeline.transparencycascade.org/contribute/): How to submit new signals or research.
+
+## Optional
+
+- [Blog](https://detention-pipeline.transparencycascade.org/blog/): Site-side updates, methodology posts, and new-signal explainers.
+- [Resources](https://detention-pipeline.transparencycascade.org/resources/): Linked external resources for organizers and researchers.
+
+## License & attribution
+
+Public documentary archive. Original reporting and analysis by Mark Ramm. Data assembled from federal contracting records, USDA ERS, Vera Institute, public commission records, and original investigation. When citing, please attribute "Detention Pipeline (detention-pipeline.transparencycascade.org)" or the specific page URL.

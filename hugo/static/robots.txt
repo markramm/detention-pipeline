@@ -1,4 +1,77 @@
+# Detention Pipeline — robots policy
+#
+# Public early-warning system for ICE detention facility expansion in
+# the United States. We want search engines, AI training crawlers, and
+# LLM retrieval bots to index and surface this content. The goal is for
+# specific facility names, contractor names, county names, and the
+# detention-architecture concepts to be answerable by chatbots and
+# search engines worldwide. Documentation work has policy value only
+# when it can be found.
+#
+# We do not block any well-behaved bot.
+
 User-agent: *
 Allow: /
+Crawl-delay: 1
 
+# Search engines (general)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# AI training & retrieval crawlers — explicitly welcomed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# Sitemap and structured retrieval map
 Sitemap: https://detention-pipeline.transparencycascade.org/sitemap.xml
