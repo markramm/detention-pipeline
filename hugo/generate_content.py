@@ -180,6 +180,19 @@ def normalize_title(title):
             title = re.sub(r'\b' + acronym + r'\b', upper, title)
     # Clean up contract titles that are just dollar amounts or IDs
     title = re.sub(r'\s+\d{6,}$', '', title)  # strip trailing numeric IDs
+
+    # Humanize raw square-footage in real-estate-trace titles.
+    # "(1100000 SF)" → "(1.1M SF)"; "(250000 SF)" → "(250K SF)"
+    def _humanize_sf(m):
+        n = int(m.group(1))
+        if n >= 1_000_000:
+            v = n / 1_000_000
+            return f"({v:g}M SF)"
+        if n >= 1_000:
+            v = n / 1_000
+            return f"({v:g}K SF)"
+        return m.group(0)
+    title = re.sub(r"\((\d{4,})\s+SF\)", _humanize_sf, title)
     return title
 
 

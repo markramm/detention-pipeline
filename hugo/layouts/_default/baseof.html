@@ -18,7 +18,18 @@
     {{- if and .Params.city .Params.state -}}{{- $loc = printf "%s, %s" .Params.city .Params.state -}}
     {{- else if .Params.state -}}{{- $loc = .Params.state -}}{{- end -}}
     {{- if $loc -}}{{- $titleParts = $titleParts | append $loc -}}{{- end -}}
-    {{- if .Params.bed_count -}}{{- $titleParts = $titleParts | append (printf "%v beds" .Params.bed_count) -}}{{- end -}}
+    {{- /* bed_count: pass through as-is. Frontmatter values like
+           "400 beds (1,000+ people cycle through weekly)" or "2,260 beds"
+           or just the integer 1500 all flow through. */ -}}
+    {{- if .Params.bed_count -}}
+      {{- $bc := printf "%v" .Params.bed_count -}}
+      {{- /* Append "beds" if value is just a number; otherwise pass through */ -}}
+      {{- if findRE "^[0-9]+$" $bc -}}
+        {{- $titleParts = $titleParts | append (printf "%s beds" $bc) -}}
+      {{- else -}}
+        {{- $titleParts = $titleParts | append $bc -}}
+      {{- end -}}
+    {{- end -}}
     {{- if .Params.operator -}}{{- $titleParts = $titleParts | append .Params.operator -}}{{- end -}}
     {{- else if eq .Type "players" -}}
     {{- $titleParts = $titleParts | append .Title -}}
