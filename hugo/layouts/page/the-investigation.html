@@ -1,0 +1,565 @@
+{{ define "main" }}
+<div class="breadcrumb">
+  <a href="/">Home</a><span class="sep">/</span>The Investigation
+</div>
+<div class="page-content">
+  <div style="max-width:760px; padding-top:24px;">
+
+    {{/* ── Header ── */}}
+    <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-bottom:8px;">
+      <h1 class="serif" style="font-size:32px; font-weight:400; letter-spacing:-0.02em;">Immigration Detention in 2026: The Investigation</h1>
+      <span class="mono dim" style="font-size:10px;">Updated May 2026</span>
+    </div>
+    <p style="font-size:15px; color:var(--text-secondary); line-height:1.7; margin-bottom:14px; max-width:640px;">
+      A continuous record of America's immigration-detention buildout in 2026 — the year ICE opened 152 new facilities
+      across 39 states, custody deaths reached an annual record pace, and the procurement architecture beneath the
+      capacity expansion came into focus. Every long-form piece of original journalism by Mark Ramm on this beat,
+      organized by the layer of the system each one documents.
+    </p>
+    <p style="font-size:14px; color:var(--text-dim); line-height:1.7; margin-bottom:14px; max-width:640px;">
+      The reporting works across layers most journalism keeps separate — the personnel, the operations, the contracts,
+      the SEC disclosures, the legal frame, the theology — and treats them as facets of one architecture. Specific
+      pieces (the GardaWorld/KVG mercenary contracts, the Blue Owl warehouse rescue, the CoreCivic 10-Q analysis,
+      the WEXMAC-TITUS procurement vehicle) contribute new material to the public record.
+    </p>
+    <p style="font-size:14px; color:var(--text-dim); line-height:1.7; margin-bottom:14px; max-width:640px;">
+      The journalism is paired with this site itself — the <a href="/county/" style="color:var(--accent-warm);">county-level
+      heat map</a>, <a href="/players/" style="color:var(--accent-warm);">contractor and personnel profiles</a>,
+      <a href="/timeline/" style="color:var(--accent-warm);">event timeline</a>, <a href="/foia/" style="color:var(--accent-warm);">FOIA
+      request generator</a>, and <a href="/fights/" style="color:var(--accent-warm);">community-fights index</a> are
+      part of the same investigation. The articles narrate; the site is the evidence base. Each entry below is
+      cross-referenced to the live data so you can pull the receipts while you read.
+    </p>
+    <p style="font-size:14px; color:var(--text-dim); line-height:1.7; margin-bottom:32px; max-width:640px;">
+      The companion essay <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);">"The Detention Architecture"</a> reads these pieces as a single argument. This page is the index — built to be
+      browsed, scanned, and cited. If you are reporting on a specific facility, county, or contractor, start with the
+      section that matches your angle.
+    </p>
+
+    {{/* ── How to use ── */}}
+    <div style="padding:14px 18px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border); margin-bottom:36px;">
+      <h3 style="font-size:13px; font-weight:600; margin-bottom:6px;">How this is organized</h3>
+      <p style="font-size:13px; color:var(--text-secondary); line-height:1.6; margin:0;">
+        Nine layers, surface to substrate. <strong>I–II</strong> cover who runs the apparatus and how it replenishes.
+        <strong>III–IV</strong> cover what the apparatus does — the operations on the street and what happens after the arrest.
+        <strong>V–VII</strong> cover the procurement, the facilities, and the surveillance backbone. <strong>VIII–IX</strong>
+        cover the legal/moral frame and the present inflection. Pieces marked <span class="mono" style="font-size:10px; padding:1px 5px; background:rgba(196,144,37,0.15); color:#c49025; border-radius:3px;">DATA</span>
+        link directly to live data on this site.
+      </p>
+    </div>
+
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    {{/* I. The Culture                                                  */}}
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    <h2 id="culture" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      I · The Culture — Who Runs It
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
+      How a federal agency gets remade in the image of one sector chief. The personnel layer: who the people doing
+      the violence are, where they came from, and what doctrine they brought with them.
+    </p>
+
+    {{ partial "investigation-entry.html" (dict
+      "title" "Border Patrol: A Criminal Organization Disguised as a Federal Agency"
+      "url" "https://theramm.substack.com/p/border-patrol-a-criminal-organization"
+      "frame" "Jenn Budd's whistleblowing, the &ldquo;I'm 10-15&rdquo; Facebook group, and twenty years of documentation that the institutional culture is the policy."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Hammer: Gregory Bovino's 12-Month Escalation"
+      "url" "https://theramm.substack.com/p/the-hammer-gregory-bovinos-12-month"
+      "frame" "How an El Centro sector chief became Trump's commander-at-large. The trail of operations from MacArthur Park through Chicago to Minneapolis, told through the man giving the orders."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Tom Homan: The Commander"
+      "url" "https://theramm.substack.com/p/tom-homan-the-commander"
+      "frame" "The architect of family separation, returned to power as White House border czar. His 2017 doctrine, recovered and applied."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The ICE Director Who Preaches on Sundays and Defends Tear Gas on Weekdays"
+      "url" "https://theramm.substack.com/p/the-ice-director-who-preaches-on"
+      "frame" "Caleb Vitello, the chaplain-director, and the theology of enforcement. What it means when the director of the agency teaches a Sunday-school class about &ldquo;the law.&rdquo;"
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "BORTAC: America's Interior Occupation Force"
+      "url" "https://theramm.substack.com/p/bortac-americas-interior-occupation"
+      "frame" "The Border Patrol's tactical unit, originally trained for hostage rescue and high-risk warrant service, deployed against U.S. cities."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Hegseth Removed the Circuit Breakers"
+      "url" "https://theramm.substack.com/p/hegseth-removed-the-circuit-breakers"
+      "frame" "The Defense Secretary's deliberate removal of the institutional checks that had previously slowed the deployment of military assets against domestic targets."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Noem's Podium: One of Ours, All of Yours"
+      "url" "https://theramm.substack.com/p/noems-podium-one-of-ours-all-of-yours"
+      "frame" "The DHS Secretary's podium rhetoric, decoded. What &ldquo;one of ours&rdquo; means when the speaker controls 75,000 federal agents."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Kash Patel: Ten Days, Four Scandals"
+      "url" "https://theramm.substack.com/p/kash-patel-ten-days-four-scandals"
+      "frame" "The FBI Director's first ten days, sequenced. What four overlapping scandals reveal about the operating tempo at the top of the federal law-enforcement bureaucracy."
+    ) }}
+
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    {{/* II. The Recruitment                                             */}}
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    <h2 id="recruitment" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:48px; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      II · The Recruitment — How It Replenishes
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
+      The pipeline that converts radicalized men into federal agents. Where the next thousand officers are coming from,
+      and what they are bringing with them.
+    </p>
+
+    {{ partial "investigation-entry.html" (dict
+      "title" "&ldquo;Until the Cities Lie Ruined&rdquo;: The Bible Verse DHS Didn't Finish"
+      "url" "https://theramm.substack.com/p/here-am-i-send-me-how-dhs-recruited"
+      "frame" "DHS's recruitment campaign quoted Isaiah 6 — but stopped before the verse where the prophet asks how long the destruction lasts. What the citation says about the audience being recruited."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Pentagon Confirmed Hegseth Admires a Theologian Who Called Slavery 'Benevolent'"
+      "url" "https://theramm.substack.com/p/the-pentagon-confirmed-hegseth-admires"
+      "frame" "The theological substrate of the Defense Secretary's worldview, confirmed in writing by his own department."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Stephen Miller Screamed 'Quantity Over Quality': The Machinery Behind the Shooting"
+      "url" "https://theramm.substack.com/p/stephen-miller-screamed-quantity"
+      "frame" "The deportation-volume directive, the operational consequence, and the line from policy to bullet."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Gamergate Army Gets Badges and Guns"
+      "url" "https://theramm.substack.com/p/the-gamergate-army-gets-badges-and"
+      "frame" "The pipeline from chan-board harassment culture to federal-agent recruitment. A decade of community-building, now operationalized."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Gamergate Army Turns Violent"
+      "url" "https://theramm.substack.com/p/the-gamergate-army-turns-violent"
+      "frame" "The escalation arc, documented. What happens after the badges arrive."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Steve Bannon Saw an Army in Gamergate"
+      "url" "https://theramm.substack.com/p/steve-bannon-saw-an-army-in-gamergate"
+      "frame" "The strategic recognition that turned a 2014 harassment campaign into a recruiting pool. The political-theory frame for the personnel pipeline."
+    ) }}
+
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    {{/* III. The Operation                                              */}}
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    <h2 id="operation" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:48px; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      III · The Operation — What They Do
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
+      What the apparatus does when it is deployed against American cities. The arrest, the chokehold, the killing,
+      and the question of what jurisdiction even means when federal agents arrive.
+    </p>
+
+    {{ partial "investigation-entry.html" (dict
+      "title" "The ICE Transformation: Four Thresholds America Has Already Crossed"
+      "url" "https://theramm.substack.com/p/the-four-thresholds"
+      "frame" "Four lines that no longer exist. Each was once thought to be a constraint; each has now been crossed without ceremony."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Minneapolis Banned Chokeholds After George Floyd. Federal Agents Used Them 40+ Times."
+      "url" "https://theramm.substack.com/p/minneapolis-banned-chokeholds-after"
+      "frame" "What a city's police-reform ordinance looks like when federal agents arrive. The statutory bypass, in practice, in one zip code."
+      "data" "/state/minnesota/"
+      "data_label" "See: Minnesota state page"
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Renee Good's Last Words: &ldquo;I'm Not Mad at You&rdquo;"
+      "url" "https://theramm.substack.com/p/renee-goods-last-words-im-not-mad"
+      "frame" "The killing of an unarmed legal observer in Minneapolis by federal agents. What she said, what they did, and what the chain of command produced."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "After Anthony Burns, No Fugitive Was Ever Returned from Massachusetts"
+      "url" "https://theramm.substack.com/p/after-anthony-burns-no-fugitive-was"
+      "frame" "The 1854 historical precedent for what happens when a city refuses to cooperate with federal abduction. The political math of that refusal, then and now."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "An Ordained Minister Was Arrested for Asking Questions in Church"
+      "url" "https://theramm.substack.com/p/an-ordained-minister-was-arrested"
+      "frame" "The legal frame as it actually operates against citizens. The arrest, the charge, the venue, and what the case will and won't decide."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Woman in the Pink Jacket: How One Image Travels"
+      "url" "https://theramm.substack.com/p/the-woman-in-the-pink-jacket-how"
+      "frame" "A single piece of body-cam footage and the network of accounts that turned it into evidence. How documentation works when the agency producing the violence controls the official record."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "ICE Agents Drew Shapes on a Map to Justify the Stop"
+      "url" "https://theramm.substack.com/p/ice-agents-drew-shapes-on-a-map-to"
+      "frame" "The post-hoc geographic-justification practice. How the arrest report gets back-fitted to the territorial logic the agency needs in court."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "When Federal Agents Occupy City Hall"
+      "url" "https://theramm.substack.com/p/when-federal-agents-occupy-city-hall"
+      "frame" "The federalism question in concrete form. What the building looks like, what the mayor can and can't do, and what precedent the operation is establishing."
+    ) }}
+
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    {{/* IV. After the Arrest                                            */}}
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    <h2 id="after-the-arrest" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:48px; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      IV · After the Arrest — When the Cameras Leave
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
+      The seven-part series documenting the journey from arrest to detention to deportation. Each part takes one
+      step of the process — autopsy classification, jurisdictional shell games, warehouse conversion, the fiscal
+      machinery, the targeting infrastructure, the engineered opacity, and the work of making it visible.
+    </p>
+
+    {{ partial "investigation-entry.html" (dict
+      "title" "Part 1: Autopsy Shopping"
+      "url" "https://theramm.substack.com/p/after-the-detention-part-1-autopsy"
+      "frame" "How the deaths get classified. Civilian medical examiner rules homicide; the next bodies go to a military hospital; no public autopsy is ever released again."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Part 2: Jurisdictional Hide and Seek — 1,500 Miles in 24 Hours"
+      "url" "https://theramm.substack.com/p/1500-miles-in-24-hours"
+      "frame" "How transfers defeat habeas. The transit-routing logic that moves a body across three federal districts before counsel can file."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Part 3: ICE Detention Outside Normal Structures"
+      "url" "https://theramm.substack.com/p/ice-detention-outside-normal-structures"
+      "frame" "The warehouse-conversion architecture. How a 200,000-square-foot empty industrial building becomes a detention site without a public hearing."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Part 4: The $165 Billion Machine"
+      "url" "https://theramm.substack.com/p/the-165-billion-machine"
+      "frame" "The fiscal scale. What the One Big Beautiful Bill actually funded, line item by line item, and what arithmetic that produces in the field."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Part 5: Monitor. Hunt. Detain. (The Closed Loop)"
+      "url" "https://theramm.substack.com/p/the-closed-loop"
+      "frame" "The integrated targeting system. How detection, dispatch, and detention have been wired into a single closed loop with no off-ramp."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Part 6: The Darkness Is Infrastructure"
+      "url" "https://theramm.substack.com/p/the-darkness-is-infrastructure-the"
+      "frame" "The opacity is not a side effect of the system — it is a designed feature. What the engineering choices tell you about the use case."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Part 7: Making It Visible"
+      "url" "https://theramm.substack.com/p/making-it-visible-bringing-the-detention"
+      "frame" "The counter-architecture. Who is documenting, what tools they use, and what coverage gap remains. The community fights, the FOIA generators, the local-paper beat reporters."
+      "data" "/coverage/"
+      "data_label" "See: Coverage gap map"
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Series Index: After the Arrest"
+      "url" "https://theramm.substack.com/p/series-index-after-the-arrest"
+      "frame" "The seven-part series in one navigable index. Read in order or by chapter."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Hammer and the Guardrail"
+      "url" "https://theramm.substack.com/p/the-hammer-and-the-guardrail"
+      "frame" "The legal-strategic bracket. What is being asked of the courts, what the courts have so far said, and what remains undecided."
+    ) }}
+
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    {{/* V. The Money                                                    */}}
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    <h2 id="money" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:48px; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      V · The Money — How It's Funded and Who Profits
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
+      The procurement architecture that converts state policy into private revenue. Two contractor tiers, the
+      no-bid pipeline, the federal-buyer-of-last-resort pattern beneath it, and the issuer-disclosure layer that
+      certifies it all as &ldquo;no material change.&rdquo;
+    </p>
+
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Bypass: $364 Million in Documented Overpayment for ICE Warehouse Detention Centers"
+      "url" "https://theramm.substack.com/p/the-bypass"
+      "frame" "The procurement mechanism, the markups, and the federal-buyer-of-last-resort pattern. The receipt for what gets paid, and to whom, when oversight fails to scale."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Blueprint for America's Detention Camps"
+      "url" "https://theramm.substack.com/p/the-blueprint-for-americas-detention"
+      "frame" "The architectural document behind the buildout. What the standard plan looks like, who designed it, and how it gets adapted from one warehouse to the next."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Lutnick System"
+      "url" "https://theramm.substack.com/p/the-lutnick-system"
+      "frame" "One family profiting from every side of the administration: Cantor Fitzgerald, Commerce Department contracts, Tether, and the structural conflict-of-interest pattern."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Mercenaries: GardaWorld, KVG, and the $1.35 Billion Nobody Was Watching"
+      "url" "https://theramm.substack.com/p/the-mercenaries-gardaworld-kvg-and"
+      "frame" "Two firms with no detention experience splitting $1.35 billion in ICE contracts, awarded through a Naval Supply Systems Command vehicle (WEXMAC-TITUS) repurposed for domestic immigration enforcement. The contractor layer of the architecture, named."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Blue Owl System: The $119.5 Million Rescue"
+      "url" "https://theramm.substack.com/p/the-blue-owl-system-the-1195-million"
+      "frame" "The lender-recovery sub-mechanism. Blue Owl Capital was hemorrhaging cash when DHS paid $119.5 million for its vacant Pennsylvania warehouse — exactly double the county's fresh assessment. The federal-buyer-of-last-resort pattern, documented at the level of the distressed-asset transaction."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Sharkov System: The $99 Million Question"
+      "url" "https://theramm.substack.com/p/the-sharkov-system-the-99-million"
+      "frame" "A second lender-recovery transaction with the same architecture. Different counterparty, same mechanism — the pattern, repeated."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "CoreCivic's Bullish Outlook on Detention Center Profits: No Material Change"
+      "url" "https://theramm.substack.com/p/corecivics-bullish-outlook-on-detention"
+      "frame" "The issuer-disclosure layer. What CoreCivic's Q1 2026 10-Q does and does not say about a quarter that contained fifteen in-custody deaths, a federal-court order to provide medical care, and a 52-lawmaker congressional inquiry. Filed under SOX-certified officer signatures: &ldquo;no material changes.&rdquo;"
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Financial Loop"
+      "url" "https://theramm.substack.com/p/the-financial-loop"
+      "frame" "The capital-flow diagram for the buildout. What money goes where, at what rate, and what the integrated picture looks like once you trace the loop end to end."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The White House Memelord and the Detention Build"
+      "url" "https://theramm.substack.com/p/the-white-house-memelord-and-the"
+      "frame" "The communications layer of the procurement story. How an official social-media account became part of the contractor sales pitch."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Regime Is Still Building Concentration"
+      "url" "https://theramm.substack.com/p/the-regime-is-still-building-concentration"
+      "frame" "The strategic-purpose frame for the buildout. What capacity is for, on the timeline of someone who plans to use it."
+    ) }}
+
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    {{/* VI. The Facilities                                              */}}
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    <h2 id="facilities" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:48px; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      VI · The Facilities — Where They Are
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
+      The physical infrastructure. How a building becomes a detention site, who finds out, and what the
+      &ldquo;find out from the newspaper&rdquo; process tells you about preemption.
+    </p>
+
+    {{ partial "investigation-entry.html" (dict
+      "title" "Surprise"
+      "url" "https://theramm.substack.com/p/surprise"
+      "frame" "A city found out their warehouse was sold to DHS by reading the newspaper. The Rockefeller Group / Mitsubishi Estate transaction, the federal preemption framework, and the process working as designed."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Filing Cabinet: From Wackenhut's Dissident Files to GEO Group's Bounty Hunters"
+      "url" "https://theramm.substack.com/p/the-filing-cabinet-from-wackenhuts"
+      "frame" "The fifty-year arc of one private-prison contractor, from COINTELPRO-era surveillance work to ICE's electronic-monitoring backbone."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Bones Inside the Tomb"
+      "url" "https://theramm.substack.com/p/the-bones-inside-the-tomb-border"
+      "frame" "Children in detention, confiscated drawings, DHS false testimony, and what closed systems produce."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Why Minnesota"
+      "url" "https://theramm.substack.com/p/why-minnesota"
+      "frame" "Why the federal apparatus chose this state for this kind of operation. The infrastructure, the political geography, and the strategic logic."
+      "data" "/state/minnesota/"
+      "data_label" "See: Minnesota state page"
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Springfield: The Next Front"
+      "url" "https://theramm.substack.com/p/springfield-the-next-front"
+      "frame" "The pattern moves to Ohio. What the Springfield buildup looks like before the warehouse opens, and what it looks like after."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "What I Watched Tonight in North Minneapolis"
+      "url" "https://theramm.substack.com/p/what-i-watched-tonight-in-north-minneapolis"
+      "frame" "On-the-ground report from a single night in one neighborhood. The granular texture of the deployment that policy memos cannot capture."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Angels of the City"
+      "url" "https://theramm.substack.com/p/angels-of-the-city"
+      "frame" "The community response. Who is showing up, what they are doing, and what the operation looks like from the side of the people the apparatus is being used against."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Is Your County Being Targeted?"
+      "url" "https://theramm.substack.com/p/is-your-county-being-targeted-for"
+      "frame" "The use-case essay for this site, written for a reader who has just learned their commission is being pitched. What the early-warning signals look like in practice."
+      "data" "/county/"
+      "data_label" "See: Counties index"
+    ) }}
+
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    {{/* VII. The Surveillance                                           */}}
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    <h2 id="surveillance" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:48px; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      VII · The Surveillance — How They Find You
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
+      The data backbone. How every database becomes an immigration database, and what the algorithmic and corporate
+      partnerships of the surveillance layer make possible.
+    </p>
+
+    {{ partial "investigation-entry.html" (dict
+      "title" "Every Database Is an Immigration Database Now"
+      "url" "https://theramm.substack.com/p/every-database-is-an-immigration"
+      "frame" "The IRS data-sharing decision, the Palantir contracts, the cross-agency federation, and what it means when the line between &ldquo;tax record&rdquo; and &ldquo;deportation lead&rdquo; disappears."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Trump's Campaign to Decide Who Counts"
+      "url" "https://theramm.substack.com/p/trumps-campaign-to-decide-who-counts"
+      "frame" "Who counts and who doesn't. The campaign to control who gets included in the federal data picture and who gets erased from it."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Science of Watching: Why ICE Observation Matters"
+      "url" "https://theramm.substack.com/p/the-science-of-watching-why-ice-observation"
+      "frame" "The methodology of civilian observation against a hostile agency. What works, what doesn't, and what the empirical literature says about deterrence-by-witness."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "How Social Media Filters Manufacture Consent"
+      "url" "https://theramm.substack.com/p/how-social-media-filters-manufacture"
+      "frame" "The platform-level dimension of the apparatus. What the algorithmic curation does to a deportation story before it reaches a voter."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Pentagon Banned Claude as a National-Security Risk"
+      "url" "https://theramm.substack.com/p/the-pentagon-banned-claude-as-a-national"
+      "frame" "The vendor politics underneath the AI-procurement decisions. Which model got banned, which model didn't, and what the rationale tells you about the criteria."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "AI Gaslighting: The Research Partnership"
+      "url" "https://theramm.substack.com/p/ai-gaslighting-the-research-partnership"
+      "frame" "How the AI-research-partnership layer overlaps with the federal-procurement layer. What gets called &ldquo;research&rdquo; and what gets paid for under that label."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Architecture of Anonymous"
+      "url" "https://theramm.substack.com/p/the-architecture-of-anonymous"
+      "frame" "The masking-of-agents question, structurally analyzed. Why the badges, the unmarked vans, and the no-comment officials are a designed feature of the operation, not an oversight."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "CBS Blocked the Message: The Administration's Communications Strategy"
+      "url" "https://theramm.substack.com/p/cbs-blocked-the-message-the-administration"
+      "frame" "The press-management layer. What the administration is willing to do to control which footage reaches a national audience, and what gets through anyway."
+    ) }}
+
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    {{/* VIII. The Legal & Moral Frame                                   */}}
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    <h2 id="legal-frame" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:48px; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      VIII · The Legal &amp; Moral Frame — What Standard Applies
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
+      The legal architecture inside which the apparatus operates, and the moral-strategic frame for resistance.
+      The shadow-docket rulings, the international-law intersection, the four-part &ldquo;Moral Battlefield&rdquo; series,
+      and the theology that the apparatus uses to legitimate itself.
+    </p>
+
+    {{ partial "investigation-entry.html" (dict
+      "title" "EMERGENCY BRIEFING: The Supreme Court Just Greenlit Deportations to War Zones"
+      "url" "https://theramm.substack.com/p/emergency-briefing-the-supreme-court"
+      "frame" "The shadow-docket ruling, what it permits, and what was decided without argument or written opinion."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Update: Justice Sotomayor Just Outplayed the Majority"
+      "url" "https://theramm.substack.com/p/update-justice-sotomayor-just-outplayed"
+      "frame" "The procedural counter-move. What one dissent did to a shadow-docket ruling, and why it matters for the next case."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "&ldquo;Guards Compressed His Neck Until&rdquo;: The UN Said the Epstein Files Represent Crimes Against Humanity"
+      "url" "https://theramm.substack.com/p/guards-compressed-his-neck-until"
+      "frame" "The international-law frame that U.S. detention practice now intersects with. What standard a UN body applied, and what comparable standard would apply if the same body looked at ICE."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Pam Bondi Called a Republican: The Trump Justice Department"
+      "url" "https://theramm.substack.com/p/pam-bondi-called-a-republican-trump"
+      "frame" "The DOJ-as-personal-instrument story, in one phone call. What the call shows about how the legal architecture is being operated from the top."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Moral Battlefield"
+      "url" "https://theramm.substack.com/p/the-moral-battlefield"
+      "frame" "The strategic-theory frame for how this kind of apparatus is actually fought, and why witness — the simple act of seeing and saying — is load-bearing. Part 1 of 4."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Moral Battlefield, Part 2"
+      "url" "https://theramm.substack.com/p/the-moral-battlefield-part-2"
+      "frame" "The doctrine deepened. How the framework applies to specific historical cases of state violence and what the comparison illuminates."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Moral Battlefield, Part 3: The Theology"
+      "url" "https://theramm.substack.com/p/the-moral-battlefield-part-3-the"
+      "frame" "The theological frame the apparatus uses to legitimate itself, and the counter-theology that exists inside the same religious tradition."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Moral Battlefield, Part 4"
+      "url" "https://theramm.substack.com/p/the-moral-battlefield-part-4"
+      "frame" "The synthesis. What the four-part series argues taken together, and what it says about the work that comes next."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Second Theater: The Moral Battlefield"
+      "url" "https://theramm.substack.com/p/the-second-theater-the-moral-battlefield"
+      "frame" "The companion essay to the four-part series. The strategic-theory frame for the second theater, in a more compact form."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "The Second Sermon"
+      "url" "https://theramm.substack.com/p/the-second-sermon"
+      "frame" "The companion piece to the theology-of-enforcement reporting. What the same scriptural text means when read against the operation rather than for it."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Jesus Wept: Two Visions of Jesus Went to Washington"
+      "url" "https://theramm.substack.com/p/jesus-wept-two-visions-of-jesus-went"
+      "frame" "Two competing readings of the same gospel, both used as political theater in the same week. What the side-by-side reveals about the operative theology."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Render Unto Caesar"
+      "url" "https://theramm.substack.com/p/render-unto-caesar"
+      "frame" "The classical scriptural argument over what the state may legitimately demand, applied to the present case."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Take Up Your Cross"
+      "url" "https://theramm.substack.com/p/take-up-your-cross"
+      "frame" "The discipleship-cost reading. What the gospel actually asks of someone who claims to follow it, in the specific context of cooperation with state violence."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "Son of God vs. Son of God"
+      "url" "https://theramm.substack.com/p/son-of-god-vs-son-of-god"
+      "frame" "Imperial messiah versus crucified messiah — the theological grammar at the center of the dispute."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "A House of Prayer for All the Nations"
+      "url" "https://theramm.substack.com/p/a-house-of-prayer-for-all-the-nations"
+      "frame" "The temple scene as political action. What the scriptural precedent looks like for civic resistance inside a religious community."
+    ) }}
+    {{ partial "investigation-entry.html" (dict
+      "title" "He Was Known to Them in the Breaking"
+      "url" "https://theramm.substack.com/p/he-was-known-to-them-in-the-breaking"
+      "frame" "The Emmaus passage as recognition-after-violence. The hermeneutic for what witness produces in the people who do it."
+    ) }}
+
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    {{/* IX. The Inflection                                              */}}
+    {{/* ─────────────────────────────────────────────────────────────── */}}
+    <h2 id="inflection" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:48px; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
+      IX · The Inflection — Where We Are Now
+    </h2>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
+      The most recent pieces. The state of the buildout as of May 2026, and the open question of which way it
+      is moving.
+    </p>
+
+    {{ partial "investigation-entry.html" (dict
+      "title" "Detention Pipeline: The May Inflection"
+      "url" "https://theramm.substack.com/p/detention-pipeline-the-may-inflection"
+      "frame" "Two homicides, thirty new fights, and a procurement pause that is either the end or the beginning. The synthesis of where the buildout stood as of early May."
+      "data" "/timeline/"
+      "data_label" "See: Live timeline"
+    ) }}
+
+    {{/* ── Footer ── */}}
+    <hr style="margin-top:64px; margin-bottom:24px; border:0; border-top:1px solid var(--border);">
+
+    <div style="font-size:13px; color:var(--text-dim); line-height:1.7; max-width:640px;">
+      <p style="margin-bottom:12px;">
+        <strong style="color:var(--text-secondary);">If you are reporting on this</strong> — every claim in these pieces is sourced and the
+        underlying evidence is on this site or at <a href="https://capturecascade.org" style="color:var(--accent-warm);">capturecascade.org</a>.
+        Direct citation requests: <a href="/contribute/" style="color:var(--accent-warm);">contribute page</a>.
+      </p>
+      <p style="margin-bottom:12px;">
+        <strong style="color:var(--text-secondary);">If you are organizing in your county</strong> — <a href="/coverage/" style="color:var(--accent-warm);">the coverage map</a>
+        shows where investigation is needed. The <a href="/foia/" style="color:var(--accent-warm);">FOIA generator</a> produces ready-to-send
+        public-records requests.
+      </p>
+      <p>
+        <strong style="color:var(--text-secondary);">If you are reading this for the first time</strong> — start with
+        <a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm);">The Detention Architecture</a>,
+        the companion essay that reads these pieces as a single argument.
+      </p>
+    </div>
+
+  </div>
+</div>
+{{ end }}

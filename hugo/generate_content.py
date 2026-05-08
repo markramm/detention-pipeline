@@ -762,16 +762,36 @@ def generate_static_pages():
     STATIC_TITLES = {
         "tactics": "Playbook & Counter-Playbook",
         "start": "Start Here",
+        "the-investigation": "Immigration Detention in 2026: The Investigation",
     }
-    for name, layout in [("methodology", "methodology"), ("contribute", "contribute"), ("foia", "foia"), ("tactics", "tactics"), ("coverage", "coverage"), ("pipeline", "pipeline"), ("sources", "sources"), ("develop", "develop"), ("start", "start")]:
+    STATIC_SUMMARIES = {
+        "the-investigation": "A continuous record of America's immigration-detention buildout in 2026 — the personnel, the operations, the procurement architecture, the legal frame, the killings. The journalism is paired with this site's county heat map, contractor profiles, FOIA generator, and community-fights index as part of the same investigation.",
+    }
+    STATIC_DESCRIPTIONS = {
+        "the-investigation": "Original journalism by Mark Ramm on the 2026 immigration-detention buildout — the year ICE opened 152 new facilities across 39 states and custody deaths reached an annual record pace. Paired with the Detention Pipeline data infrastructure on this site as a single integrated investigation.",
+    }
+    for name, layout in [
+        ("methodology", "methodology"),
+        ("contribute", "contribute"),
+        ("foia", "foia"),
+        ("tactics", "tactics"),
+        ("coverage", "coverage"),
+        ("pipeline", "pipeline"),
+        ("sources", "sources"),
+        ("develop", "develop"),
+        ("start", "start"),
+        ("the-investigation", "the-investigation"),
+    ]:
         title = STATIC_TITLES.get(name, name.title())
+        summary = STATIC_SUMMARIES.get(name)
+        description = STATIC_DESCRIPTIONS.get(name)
         with open(CONTENT_PATH / f"{name}.md", "w") as f:
-            f.write(f"""---
-title: "{title}"
-type: page
-layout: {layout}
----
-""")
+            f.write(f'---\ntitle: "{title}"\ntype: page\nlayout: {layout}\n')
+            if summary:
+                f.write(f'summary: "{summary}"\n')
+            if description:
+                f.write(f'description: "{description}"\n')
+            f.write('---\n')
 
 
 def copy_static_assets(heat_data):

@@ -1,0 +1,25 @@
+{{- /*
+  Renders one entry in the Investigation index page.
+  Params:
+    title (string)        — post title (HTML allowed for typographic quotes)
+    url (string)          — Substack URL
+    frame (string)        — 1-2 sentence editorial framing
+    data (string, opt)    — internal URL on this site for cross-reference
+    data_label (string, opt) — link text for the cross-reference
+*/ -}}
+<div class="investigation-entry" style="margin-bottom:22px; padding-left:14px; border-left:2px solid var(--border);">
+  <a href="{{ .url }}" style="display:block; text-decoration:none;">
+    <h3 class="serif" style="font-size:18px; font-weight:400; line-height:1.35; margin-bottom:6px; color:var(--text-primary);">{{ .title | safeHTML }}</h3>
+  </a>
+  <p style="font-size:14px; color:var(--text-secondary); line-height:1.6; margin-bottom:6px; max-width:600px;">{{ .frame | safeHTML }}</p>
+  <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+    <a href="{{ .url }}" class="mono dim" style="font-size:10px; letter-spacing:0.05em; color:var(--text-dim); text-decoration:none;">
+      Read at theramm.substack.com →
+    </a>
+    {{- if .data }}
+    <a href="{{ .data }}" style="font-family:'DM Mono',monospace; font-size:10px; padding:2px 7px; background:rgba(196,144,37,0.12); color:#c49025; border-radius:3px; text-decoration:none; letter-spacing:0.03em;">
+      DATA · {{ .data_label }} →
+    </a>
+    {{- end }}
+  </div>
+</div>
