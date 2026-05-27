@@ -14,16 +14,18 @@ from county_heat_score import load_fips_lookup, score_counties, FIPS_TO_COUNTY
 
 load_fips_lookup()
 
-# igsa-holders lives in a separate private repo; find it if available,
-# otherwise score without IGSA data (CI case).
+# IGSA-holder facilities live in the in-repo, committed kb/facilities/ KB
+# (public Vera Institute data). Prefer it so CI scores identically to local.
+# The legacy private-repo paths remain as fallbacks for older checkouts.
 igsa_candidates = [
-    os.path.expanduser('~/tcp-kb-internal/igsa-holders'),
+    '../facilities',                                    # in-repo, committed (canonical)
+    os.path.expanduser('~/tcp-kb-internal/igsa-holders'),  # legacy private repo
     '../igsa-holders',
     '../../igsa-holders',
 ]
 igsa_path = next((p for p in igsa_candidates if os.path.isdir(p)), None)
 if not igsa_path:
-    print('Warning: igsa-holders KB not found, scoring without IGSA data', file=sys.stderr)
+    print('Warning: no IGSA-holders KB found (expected kb/facilities/), scoring without IGSA data', file=sys.stderr)
 
 county_data = score_counties(igsa_path, os.path.abspath('../../kb'))
 
