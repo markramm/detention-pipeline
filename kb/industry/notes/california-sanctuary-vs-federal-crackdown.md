@@ -14,6 +14,8 @@ tags:
 - deaths-in-custody
 - structural-analysis
 research_status: working
+last_researched: "2026-05-27"
+last_news_check: "2026-05-27"
 ---
 
 # California: Sanctuary Under Siege
@@ -79,6 +81,18 @@ California facilities have become a major site of detention deaths:
 - **Source**: [San Diego Immigrant Rights Consortium](https://www.immigrantsandiego.org/vision_act_heads_to_ca_senate_floor_could_end_prison_to_deportation_pipeline)
 
 ## Federal-Local Flashpoints
+
+### Gilroy / Holsclaw Road — New Siting Fight (May 2026) — FRESHEST
+A federal detention center is under construction at **7240 Holsclaw Road**, unincorporated Santa Clara County east of Gilroy — leased in **January 2025** via GSA to **ECG 6 LLC / Elmwood Capital Group** ($26.5M / 20 yrs) but kept secret until April 2026. Construction (greenhouse demolition, fencing) began early May 2026. The site is **not zoned for detention**. **Santa Clara County** (Supervisors Arenas, Ellenberg; Exec James Williams) vows to fight; **Monterey County** passed a **unanimous opposition resolution May 19, 2026** (Supervisor Luis Alejo) ~8 miles away and will join litigation; **AG Bonta "actively coordinating"**; **Speaker Robert Rivas** issued a "Not Here. Not Ever." statement (May 15, 2026); **SIREN** organizing. The Elmwood/ECG GSA real-estate-intermediary model reportedly recurs in Texas. See [monterey-county-ca-gilroy-detention-opposition](../county-fights/monterey-county-ca-gilroy-detention-opposition.md) and facility [holsclaw-road-gilroy-detention-santa-clara-ca](../facilities/holsclaw-road-gilroy-detention-santa-clara-ca.md).
+
+### Adelanto Hunger Strike (May 2026)
+Detainees in Adelanto's **Desert View Annex** launched a **hunger strike** by May 21, 2026, demanding medical/mental-health care, accountability for deaths, bond reform, and the right to organize. State Sen. Sasha Renée Pérez backed them. Adelanto's average daily population was 1,587 as of April 21, 2026, and ranks in the U.S. top 10 for share of detainees in segregation.
+
+### Imperial Regional — Charity Tax-Break Review (May 2026)
+A KPBS investigation found the Imperial Regional Detention Facility (Calexico, MTC) is owned by a **local nonprofit receiving millions in charity tax credits**. A **CA Senate committee launched a review** (announced May 18, 2026) of whether the facility should keep those breaks. Two detainees — Luis Beltrán Yañez-Cruz and Huabing Xie — died there in 2026 of sudden cardiac complications. ([KPBS, May 13, 2026](https://www.kpbs.org/news/border-immigration/2026/05/13/california-calls-this-company-a-charity-its-the-landlord-for-an-ice-detention-center); [KPBS, May 18, 2026](https://www.kpbs.org/news/border-immigration/2026/05/18/california-lawmakers-launch-review-of-tax-breaks-for-imperial-regional-detention-facility))
+
+### Bonta Fifth Conditions Report + Six Deaths (May 2026)
+AG Bonta's **fifth report** on CA detention conditions (May 15, 2026) found conditions "Cruel, Inhumane, and Unacceptable," worsened by overcrowding from the deportation campaign. **Six detainees died Sept 2025–March 2026 — the highest since DOJ reviews began in 2017.** Detainee population rose ~162% (2,303 in 2023 to ~6,028 at 2025 site visits). ([CA DOJ](https://oag.ca.gov/news/press-releases/%E2%80%9Ccruel-inhumane-and-unacceptable%E2%80%9D-attorney-general-bonta-releases-fifth-report); [CalMatters, May 2026](https://calmatters.org/justice/2026/05/ice-detention-centers-state-inspections/))
 
 ### San Diego County Sues DHS (March 2026)
 County supervisors Terra Lawson-Remer and Paloma Aguirre led effort to sue after ICE blocked health inspections at Otay Mesa. County officials turned away in February despite legal authority. ([CalMatters](https://calmatters.org/justice/2026/03/san-diego-otay-mesa-lawsuit/), [KPBS](https://www.kpbs.org/news/politics/2026/03/10/san-diego-county-sues-dhs-over-access-to-otay-mesa-detention-center))

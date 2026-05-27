@@ -6,7 +6,8 @@ state: MD
 importance: 7
 tags: [ice-arrests, statistics, non-criminal, maryland, baltimore-aor]
 research_status: enriched
-last_researched: "2026-04-12"
+last_researched: "2026-05-27"
+last_news_check: "2026-05-27"
 ---
 
 # Maryland — ICE Arrest Surge in 2025
@@ -37,6 +38,16 @@ The non-criminal share has been **increasing** over time — from ~50% in mid-20
 - Baltimore field office operations, with limited holding capacity at Fallon Federal Building
 - The surge put extreme pressure on Baltimore's temporary holding cells, contributing to the push for the Williamsport warehouse
 
+## Fallon Building Hold-Room Conditions Litigation (2026)
+
+The arrest surge overwhelmed the **George H. Fallon Federal Building** ICE hold rooms in downtown Baltimore, producing litigation in early 2026:
+
+- **March 2026**: MD AG **Anthony Brown** sued ICE/DHS to force production of records for a civil-rights investigation into "dangerous, inhumane, and unlawful conditions" at the Fallon hold rooms.
+- A related **class action before U.S. District Judge Julie Rubin**: the facility, designed for ~**56** people, was alleged to be holding **120+**. Declarations described **40-50 people in a 15x15 room**, no bedding, extreme cold, a detainee with a brain tumor untreated for 10+ days, and a woman so distressed she repeatedly banged her head against a wall.
+- **Rubin certified the class** and ordered ICE to **cap the facility at 56 detainees**, conduct medical screenings within 12 hours of arrival, provide hygiene supplies and medication on request within 24 hours, and clean rooms at least once daily.
+
+The Fallon conditions are the federal pressure point behind Baltimore City's 2026 anti-ICE legislative stack (see `baltimore-city-md-private-detention-ban`).
+
 ## Aggressive Tactics
 
 - **July 2025**: Advocates describe shift to "incredibly aggressive" tactics by ICE in Maryland
@@ -54,3 +65,6 @@ Maryland is a **blue state with significant immigrant population** — the arres
 - [Immigrant arrests in Maryland hit new high. Most have no criminal record — Baltimore Banner](https://www.thebanner.com/politics-power/national-politics/immigration-enforcement-maryland-numbers-ice-arrests-criminal-MKPPI2LGXJDXJD3RHC2FNNR2AE/)
 - [In rush for immigration arrests, a shift by ICE — Maryland Matters](https://marylandmatters.org/2025/07/26/in-rush-for-immigration-arrests-a-shift-by-ice-to-incredibly-aggressive-tactics-advocates-say/) (Jul 26, 2025)
 - [Fewer than half of ICE arrestees under Trump are convicted criminals — Maryland Matters](https://marylandmatters.org/2025/07/28/fewer-than-half-of-ice-arrestees-under-trump-are-convicted-criminals/) (Jul 28, 2025)
+- [Attorney General Brown Files Lawsuit to Force ICE to Turn Over Records — MD Office of the Attorney General (Mar 2026)](https://oag.maryland.gov/News/Pages/Attorney-General-Brown-Files-Lawsuit-to-Force-ICE-to-Turn-Over-Records-for-OAG%E2%80%99s-Civil-Rights-Investigation-into-Reported-D.aspx)
+- [Maryland sues ICE, DHS amid AG investigation into conditions at Baltimore facility — CBS Baltimore (Mar 2026)](https://www.cbsnews.com/baltimore/news/maryland-lawsuit-ice-dhs-immigration-detention-facility/)
+- [Maryland ramps up legal action against federal immigration facilities — Maryland Matters (Mar 11, 2026)](https://marylandmatters.org/2026/03/11/maryland-ramps-up-legal-action-against-federal-immigration-facilities/)

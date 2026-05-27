@@ -13,8 +13,10 @@ contract_type: private-contract
 contract_value: "$142M+"
 status: operational
 importance: 9
-tags: [private-prison, geo-group, california, deaths-in-custody, lawsuit, solitary-confinement, conditions-crisis, daca-death]
+tags: [private-prison, geo-group, california, deaths-in-custody, lawsuit, solitary-confinement, conditions-crisis, daca-death, hunger-strike]
 research_status: working
+last_researched: "2026-05-27"
+last_news_check: "2026-05-27"
 ---
 
 # Adelanto ICE Processing Center + Desert View Annex
@@ -26,7 +28,7 @@ The **Adelanto ICE Processing Center** and its adjacent **Desert View Annex** fo
 ## Key Details
 
 - **Capacity**: 2,690 beds (main facility + Desert View Annex)
-- **Current population**: ~1,786 as of November 2025
+- **Current population**: average daily population **1,587 as of April 21, 2026**; ~2,000 held at peak in spring 2026 (per LAist/state reporting)
 - **Operator**: GEO Group (for-profit)
 - **Annual contract value**: $142M+ from ICE
 - **Population surge**: From 7 detainees in 2023 to 1,570 in 2025
@@ -37,9 +39,13 @@ The **Adelanto ICE Processing Center** and its adjacent **Desert View Annex** fo
 - **Gabriel Garcia-Aviles**, 56 — died October 2025 (detained only ~1 week)
 - **Jose Guadalupe Ramos-Solano** — died March 25, 2026 (14th national ICE death of 2026)
 
+## Hunger Strike (May 2026)
+
+As of **May 21, 2026**, detainees in the **Desert View Annex** were on **hunger strike**, demanding improved conditions: proper medical and mental-health care, nutritious food, accountability for detainee deaths, bond reform, and the right to organize. State Sen. Sasha Renée Pérez issued a statement in support. The strike followed Adelanto's ranking among the **top 10 U.S. facilities** by share of detainees held in segregation.
+
 ## Conditions
 
-- **Solitary confinement tripled**: 14 people in May 2025 to 105 by August 2025
+- **Solitary confinement tripled**: 14 people in May 2025 to 105 by August 2025; Adelanto now ranks among the top 10 U.S. facilities by share of population in segregation (LAist, 2026)
 - **CA AG Bonta report**: Staffing levels have not kept pace with population surge; conditions deteriorated
 - **Federal lawsuit (January 2026)**: Coalition of immigrant advocacy groups alleges medical neglect, inhumane conditions, systemic abuse, failure to provide basic care, food, water, sanitary conditions
 - **Detainee letters**: Describe isolation, chronic medical conditions going untreated, no specialist access
@@ -52,3 +58,5 @@ The **Adelanto ICE Processing Center** and its adjacent **Desert View Annex** fo
 - [CA AG — Inhumane Conditions at Adelanto](https://oag.ca.gov/news/press-releases/attorney-general-bonta-sounds-alarm-inhumane-conditions-adelanto-detention)
 - [LA Today — Solitary confinement spike](https://nationaltoday.com/us/ca/los-angeles/news/2026/04/04/adelanto-detention-center-sees-spike-in-solitary-confinement/)
 - [KVCR — Letters describe isolation, medical concerns](https://www.kvcrnews.org/local-news/2026-03-05/scngs-ryanne-mena-letters-describe-isolation-medical-concerns-inside-adelanto-ice-facility)
+- [LAist — Solitary at Adelanto (2026)](https://laist.com/brief/news/politics/solitary-confinement-adelanto-immigrant-detention-center-lawsuit-break)
+- [Sen. Sasha Renée Pérez — Statement on Adelanto hunger strike (May 2026)](https://sd25.senate.ca.gov/news/senator-perez-issues-statement-immigration-hunger-strike-detainees-adelanto-immigration-prison)

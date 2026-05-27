@@ -7,8 +7,9 @@ state: FL
 fips: "12086"
 facility: "Everglades Detention Facility ('Alligator Alcatraz'), Dade-Collier Training and Transition Airport, Big Cypress National Preserve"
 status: active-litigation
-outcome: "11th Circuit ruled April 21, 2026 that NEPA does not apply because Florida (not the federal government) controls the facility, invalidating the preliminary injunction that had halted operations. Environmental and tribal NEPA litigation continues in district court before Judge Kathleen Williams. Separate ACLU class action (H.C.R. v. Noem) won a March 27, 2026 federal court order requiring ICE to provide legal counsel access to detainees."
+outcome: "Facility is WINDING DOWN as of late May 2026: population fell from ~1,500 (April) to 655 (May 26), no new arrivals, a housing tent fully disassembled, charter transfer flights departing daily. DeSantis calls it 'always temporary' but neither he nor DHS confirms a closure date; once the last detainee leaves, removal of infrastructure is said to take 15-30 days. The proposed 'Panhandle Pokey' third facility (Panama City) was abandoned — DHS told the Tampa Bay Times May 22, 2026 it is 'no longer being proposed.' Legally: 11th Circuit ruled April 21, 2026 that NEPA does not apply because Florida (not the federal government) controls the facility, invalidating the preliminary injunction that had halted operations. Environmental/tribal NEPA litigation continues before Judge Kathleen Williams; ACLU class action (H.C.R. v. Noem) won a March 27, 2026 legal-access order."
 importance: 10
+last_news_check: "2026-05-27"
 tags:
   - alligator-alcatraz
   - everglades
@@ -24,8 +25,8 @@ tags:
   - miami-dade
   - florida
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-05-27"
+last_news_check: "2026-05-27"
 ---
 
 # Miami-Dade FL: The Alligator Alcatraz Fight
@@ -50,6 +51,16 @@ The case has become the first circuit court ruling on post-2023 amendments to NE
 - **2026-03-27**: Judge Chappell grants a preliminary injunction in **H.C.R. v. Noem** requiring ICE and Florida FDEM to: (1) provide readily-available confidential outgoing legal calls to all detainees; (2) publish contact information so attorneys and detainees can reach each other; (3) continue allowing attorneys to visit without prescreening — certified as a class action covering all current and future detainees
 - **2026-04-21**: The **U.S. Court of Appeals for the Eleventh Circuit** invalidates in a **2-1 decision** the preliminary injunction that had been blocking facility operations; the majority holds that Florida — not the federal government — controls the facility, so NEPA's federal-project environmental review requirement does not apply; dissent flags the ruling opens an environmental review loophole
 - **2026-04-21**: NEPA/environmental litigation continues in district court before Judge Kathleen Williams; the 11th Circuit ruling addressed only the injunction, not the merits
+- **2026-05-12**: U.S. Rep. **Maxwell Frost (D-Orlando)** and six other House Oversight Democrats (incl. Ranking Member **Robert Garcia, D-CA**) announce the **No Illegal Captivity and Extensions (NICE) Act**, which would override state laws (like Florida's "best efforts" mandate) that force counties to maintain ICE detention agreements
+- **2026-05-22**: Lawyers report detainee transfers "ramping up"; *Tampa Bay Times* reports the facility is winding down. **DHS tells the *Times* the proposed "Panhandle Pokey" third facility in Panama City "is no longer being proposed,"** abandoning DeSantis's January 2026 plan
+- **2026-05-22**: *Reason* publishes leaked "Daily Detainee Assault Report" emails (Jan 2024–Feb 2026) showing nearby **Krome North SPC led all 98 ICE facilities in use of force** — see Miami-Dade Krome note
+- **2026-05-26**: Rep. Frost conducts an oversight visit and reports **highly visible wind-down**: population down to **655** (from ~1,500 in April), intake area deserted, a massive housing tent fully disassembled, only 2-3 staff in a processing center that was previously "packed." Frost says no new detainees are being accepted; he witnessed two transfer flights that day. He was told infrastructure removal will take **15-30 days** once the last detainee leaves. Frost calls it a **"failed experiment"** at **$1 million/day** operating cost. DeSantis says it was "always meant to be temporary" but neither he nor DHS confirms a closure date
+
+## The 2026 Wind-Down
+
+The defining development of spring 2026 is not a court loss but an operational retreat. After surviving its environmental injunction (11th Circuit, April 21), the facility began emptying. By Frost's May 26 oversight visit the detainee count had collapsed to 655 from a near-1,500 peak the prior month, charter flights were transferring people out daily, no new detainees were arriving, and physical infrastructure (a major housing tent) had already been torn down. State and federal officials decline to announce a closure date, but the physical evidence — cleared offices, skeleton staffing, disassembled tents — points to shutdown.
+
+This matters for the pipeline in two ways. First, the **"Panhandle Pokey"** — DeSantis's proposed third Florida facility in **Panama City**, pitched in January 2026 as added capacity — was killed by DHS ("no longer being proposed," May 22), signaling federal appetite for net-new Florida soft-sided capacity has cooled even as the legal cover (the NEPA loophole) held. Second, detainees are being **transferred, not released**, redistributing detention demand to other Florida and out-of-state facilities (Krome, Baker County "Deportation Depot," BTC, etc.), so the wind-down is a relocation of pressure rather than a reduction.
 
 ## The NEPA Fight
 
@@ -95,4 +106,10 @@ While the 11th Circuit handed environmental plaintiffs a setback, detainees won 
 - [The Hill: Appeals court lifts order halting Alligator Alcatraz (Apr 21, 2026)](https://thehill.com/regulation/court-battles/5842030-alligator-alcatraz-appeals-court/)
 - [Inside Climate News: Alligator Alcatraz remains open on Miccosukee lands (Apr 30, 2026)](https://insideclimatenews.org/news/30042026/florida-alligator-alcatraz-remains-open-after-court-ruling/)
 - [Courthouse News: Environmentalists renew calls for shutdown at 11th Circuit](https://www.courthousenews.com/environmentalists-renew-calls-for-alligator-alcatraz-shutdown-at-11th-circuit/)
+- [FOX 35 Orlando: Is 'Alligator Alcatraz' closing? Frost oversight visit (May 26, 2026)](https://www.fox35orlando.com/news/is-alligator-alcatraz-closing-florida-congressman-speaks-ice-detention-center)
+- [NBC Palm Springs: Everglades facility nearing complete shutdown (May 26, 2026)](https://www.nbcpalmsprings.com/2026/05/26/controversial-everglades-detention-facility-alligator-alcatraz-nearing-complete-shutdown)
+- [Tampa Bay Times: Detainee transfers ramping up; Panhandle Pokey on ice (May 22, 2026)](https://www.tampabay.com/news/florida-politics/2026/05/22/alligator-alcatraz-transfers-immigration-detention-closing-florida/)
+- [Yahoo/Tampa Bay Times: Panhandle Pokey no longer happening, DHS says (May 22, 2026)](https://www.yahoo.com/news/politics/articles/florida-proposed-panhandle-pokey-no-214318412.html)
+- [WLRN: NICE Act would free counties from ICE duties (May 12, 2026)](https://www.wlrn.org/immigration/2026-05-12/oversight-democrats-nice-act-would-free-counties-from-ice-duties)
+- [Reason: Krome was harshest in the country, then ICE stopped tracking force (May 22, 2026)](https://reason.com/2026/05/22/a-florida-detention-center-was-the-harshest-in-the-country-then-ice-stopped-tracking-details-on-use-of-force/)
 - [Wikipedia: Alligator Alcatraz](https://en.wikipedia.org/wiki/Alligator_Alcatraz)

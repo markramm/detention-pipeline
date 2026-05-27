@@ -18,9 +18,11 @@ tags:
 - 48-hour-cap
 - commission-vote
 - state-preemption
+- nice-act
+- rebooking-loophole
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-05-27"
+last_news_check: "2026-05-27"
 ---
 
 # Orange County FL: Commission Exits IGSA, State Law Forces Continued Holds
@@ -42,7 +44,13 @@ A Florida teenager held without charges at Orange County Jail drew national medi
 
 The exit does not end the county's legal exposure. Florida statute requires law enforcement to use "best efforts" to support federal immigration enforcement — a standard that has never been defined by courts.
 
-Under a new **Basic Ordering Agreement**, the county has capped holds of non-criminal detainees at **48 hours**.
+Under a new **Basic Ordering Agreement (BOA)**, the county capped holds of non-criminal detainees at **48 hours — down from 72 hours**. The BOA's economics are stark: ICE reimburses a **$50 base per detainee per 48-hour period**, with a state grant program topping that up to roughly **$200 per 48 hours while state funds last** — still well below the county's ~$180/day actual cost.
+
+A specific abuse drove the 72→48 hour change: Mayor Demings documented a **"rebooking loophole"** in correspondence with ICE, in which detainees were removed and re-booked to **restart the 72-hour detention clock**, effectively holding people indefinitely. The BOA's hard 48-hour cap is the county's attempt to close that loophole.
+
+## Federal Backstop: The NICE Act
+
+On **May 12, 2026**, Orange County's own congressman, Rep. **Maxwell Frost (D-Orlando)**, joined six other House Oversight Committee Democrats — including Ranking Member **Robert Garcia (D-CA)** — to introduce the **No Illegal Captivity and Extensions (NICE) Act**. The bill would **override state laws like Florida's "best efforts" mandate**, freeing counties from any obligation to maintain ICE detention agreements. Frost framed it around the abuses Demings documented: "There's nothing nice about turning buses into jails on wheels." If enacted, the NICE Act would resolve the exact legal gray zone Orange County is now navigating — but as a minority-party bill it is a signaling measure, not near-term relief.
 
 ## The State Law Constraint
 
@@ -52,7 +60,8 @@ Mayor **Jerry Demings** has stated he is not ruling out a lawsuit against the st
 
 - **2026-03-11**: Commission votes against warehouse-style ICE detention expansion
 - **2026-04-21**: Commission votes to exit IGSA; ICE removed as named party
-- **2026-04-21**: New Basic Ordering Agreement enacted, capping non-criminal holds at 48 hours
+- **2026-04-21**: New Basic Ordering Agreement enacted, capping non-criminal holds at 48 hours (down from 72), reimbursed at $50 base / up to $200 with state grant per 48-hour period
+- **2026-05-12**: Rep. Maxwell Frost + House Oversight Democrats introduce the NICE Act to override state mandates forcing county ICE agreements
 - **Ongoing**: Mayor Demings exploring potential state lawsuit to define "best efforts" standard
 
 ## Key Actors
@@ -65,3 +74,6 @@ Mayor **Jerry Demings** has stated he is not ruling out a lawsuit against the st
 
 - [CF Public: Orange County chips ICE out of federal agreement, still must accept detainees (April 21, 2026)](https://www.cfpublic.org/politics/2026-04-21/orange-county-chips-ice-out-of-federal-agreement-still-must-accept-detainees)
 - [CF Public: Orange County Commission to vote on resolution against possible ICE detention center (March 9, 2026)](https://www.cfpublic.org/politics/2026-03-09/orange-county-commission-to-vote-on-resolution-against-possible-ice-detention-center)
+- [ClickOrlando: Orange County enters new agreement with ICE, capping length of stay (Apr 21, 2026)](https://www.clickorlando.com/news/local/2026/04/21/orange-county-commissioners-to-discuss-ice-agreement/)
+- [MyNews13: Orange County terminates ICE section of IGSA (Apr 22, 2026)](https://mynews13.com/fl/orlando/news/2026/04/22/orange-county-commissioners-vote-to-terminate-section-of-igsa-pertaining-to-ice-immigrant-detainees)
+- [WLRN: Oversight Democrats' NICE Act would free counties from ICE duties (May 12, 2026)](https://www.wlrn.org/immigration/2026-05-12/oversight-democrats-nice-act-would-free-counties-from-ice-duties)
