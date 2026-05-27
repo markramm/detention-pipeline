@@ -29,5 +29,5 @@ Amount: $28,815,748.54
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: IGF::OT::IGF - OPERATION AND MAINTENANCE OF PORT ISABEL SPC
-Period: 2018-05-30 to 2026-05-29
+Period: 2018-05-30 to 2027-05-29
 Location: None, TX

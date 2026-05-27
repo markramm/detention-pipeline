@@ -1,12 +1,12 @@
 ---
 id: bsk-consulting-llc-70cmsd26p00000008
-title: 'BSK CONSULTING LLC — 70CMSD26P00000008 (SC) $15,312'
+title: 'BSK CONSULTING LLC — 70CMSD26P00000008 (SC) $30,646'
 type: ice-contract
 state: 'SC'
 contractor: 'BSK CONSULTING LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$15,311.86'
+contract_value: '$30,645.73'
 contract_type: 'federal-contract'
 award_date: '2026-01-26'
 usaspending_id: '70CMSD26P00000008'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: BSK CONSULTING LLC
 Award ID: 70CMSD26P00000008
-Amount: $15,311.86
+Amount: $30,645.73
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROVIDES ICE INTERNATIONAL OPERATIONS WITH SPECIALIZED LAW ENFORCEMENT TRAINING USED DURING LAW ENFORCEMENT OPERATIONS AND INVESTIGATIONS.

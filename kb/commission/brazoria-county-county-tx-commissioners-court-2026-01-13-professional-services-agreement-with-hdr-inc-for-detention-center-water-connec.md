@@ -2,14 +2,17 @@
 id: brazoria-county-county-tx-commissioners-court-2026-01-13-professional-services-agreement-with-hdr-inc-for-detention-center-water-connec
 title: 'Brazoria County County TX — Commissioners Court 2026-01-13: Professional Services Agreement with HDR, Inc. for Detention Center Water Connec'
 type: commission-activity
+county: 'Brazoria County'
+state: 'TX'
+fips: '48039'
+source: 'Legistar (Brazoria County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - tx
 - strong
 importance: 5
-state: 'TX'
-county: 'Brazoria County'
-fips: '48039'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Professional Services Agreement with HDR, Inc. for Detention Center
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

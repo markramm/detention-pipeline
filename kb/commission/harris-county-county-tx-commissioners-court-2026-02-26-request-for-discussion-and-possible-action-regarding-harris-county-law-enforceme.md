@@ -2,14 +2,17 @@
 id: harris-county-county-tx-commissioners-court-2026-02-26-request-for-discussion-and-possible-action-regarding-harris-county-law-enforceme
 title: 'Harris County County TX — Commissioners Court 2026-02-26: Request for discussion and possible action regarding Harris County law enforceme'
 type: commission-activity
+county: 'Harris County'
+state: 'TX'
+fips: '48201'
+source: 'Legistar (Harris County)'
+signal_strength: 'moderate'
+notes: 'Matched: immigration and customs enforcement'
 tags:
 - commission-activity
 - tx
 - moderate
 importance: 5
-state: 'TX'
-county: 'Harris County'
-fips: '48201'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Request for discussion and possible action regarding Harris County 
 
 Matched keywords: immigration and customs enforcement
 
-Full text: 
+Full text:

@@ -1,14 +1,24 @@
 ---
 id: great-falls-paper-company-70cmsw25fr0000076
-title: GREAT FALLS PAPER COMPANY — 70CMSW25FR0000076 (MT) $27,316
+title: 'GREAT FALLS PAPER COMPANY — 70CMSW25FR0000076 (MT) $27,316'
 type: ice-contract
+state: 'MT'
+contractor: 'GREAT FALLS PAPER COMPANY'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$27,315.60'
+contract_type: 'federal-contract'
+award_date: '2025-08-11'
+usaspending_id: '70CMSW25FR0000076'
+source: 'USAspending.gov (award 70CMSW25FR0000076)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES TOOL KITS TO SUPPORT LAW ENFORCEMENT OPERATIONS FOR THE ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS AT FORT BENNING, GA.'
 tags:
 - ice-contract
 - other
 - other-ice
 - mt
 importance: 5
-state: 'MT'
 ---
 
 ICE contract award.

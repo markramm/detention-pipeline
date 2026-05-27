@@ -2,14 +2,17 @@
 id: brazoria-county-county-tx-commissioners-court-2025-12-09-consultation-with-attorney-regarding-detention-center
 title: 'Brazoria County County TX — Commissioners Court 2025-12-09: Consultation with Attorney Regarding Detention Center'
 type: commission-activity
+county: 'Brazoria County'
+state: 'TX'
+fips: '48039'
+source: 'Legistar (Brazoria County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - tx
 - strong
 importance: 5
-state: 'TX'
-county: 'Brazoria County'
-fips: '48039'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Consultation with Attorney Regarding Detention Center
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

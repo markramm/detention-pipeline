@@ -1,14 +1,24 @@
 ---
 id: cobwebs-america-inc-70cmsd23p00000145
-title: COBWEBS AMERICA INC — 70CMSD23P00000145 (DC) $3,321,682
+title: 'COBWEBS AMERICA INC — 70CMSD23P00000145 (DC) $3,321,682'
 type: ice-contract
+state: 'DC'
+contractor: 'COBWEBS AMERICA INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$3,321,682.50'
+contract_type: 'federal-contract'
+award_date: '2023-09-25'
+usaspending_id: '70CMSD23P00000145'
+source: 'USAspending.gov (award 70CMSD23P00000145)'
+signal_strength: 'weak'
+notes: 'COBWEBS LICENSES'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

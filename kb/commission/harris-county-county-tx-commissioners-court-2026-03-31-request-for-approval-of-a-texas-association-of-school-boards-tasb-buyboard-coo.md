@@ -2,14 +2,17 @@
 id: harris-county-county-tx-commissioners-court-2026-03-31-request-for-approval-of-a-texas-association-of-school-boards-tasb-buyboard-coo
 title: 'Harris County County TX — Commissioners Court 2026-03-31: Request for approval of a Texas Association of School Boards (TASB) BuyBoard Coo'
 type: commission-activity
+county: 'Harris County'
+state: 'TX'
+fips: '48201'
+source: 'Legistar (Harris County)'
+signal_strength: 'strong'
+notes: 'Matched: detention facility'
 tags:
 - commission-activity
 - tx
 - strong
 importance: 5
-state: 'TX'
-county: 'Harris County'
-fips: '48201'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Request for approval of a Texas Association of School Boards (TASB)
 
 Matched keywords: detention facility
 
-Full text: 
+Full text:

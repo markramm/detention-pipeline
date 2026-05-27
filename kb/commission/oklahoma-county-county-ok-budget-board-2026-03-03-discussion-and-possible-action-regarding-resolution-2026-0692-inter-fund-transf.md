@@ -2,14 +2,17 @@
 id: oklahoma-county-county-ok-budget-board-2026-03-03-discussion-and-possible-action-regarding-resolution-2026-0692-inter-fund-transf
 title: 'Oklahoma County County OK — Budget Board 2026-03-03: Discussion and possible action regarding Resolution 2026-0692: Inter-fund transf'
 type: commission-activity
+county: 'Oklahoma County'
+state: 'OK'
+fips: '40109'
+source: 'Legistar (Oklahoma County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - ok
 - strong
 importance: 5
-state: 'OK'
-county: 'Oklahoma County'
-fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Discussion and possible action regarding Resolution 2026-0692: Inte
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

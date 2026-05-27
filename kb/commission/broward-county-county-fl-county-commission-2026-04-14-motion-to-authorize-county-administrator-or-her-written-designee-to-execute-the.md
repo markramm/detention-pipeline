@@ -2,14 +2,17 @@
 id: broward-county-county-fl-county-commission-2026-04-14-motion-to-authorize-county-administrator-or-her-written-designee-to-execute-the
 title: 'Broward County County FL — County Commission 2026-04-14: MOTION TO AUTHORIZE County Administrator or her written designee to execute the '
 type: commission-activity
+county: 'Broward County'
+state: 'FL'
+fips: '12011'
+source: 'Legistar (Broward County)'
+signal_strength: 'weak'
+notes: 'Matched: economic development.*(?:facility|warehouse|federal)'
 tags:
 - commission-activity
 - fl
 - weak
 importance: 5
-state: 'FL'
-county: 'Broward County'
-fips: '12011'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: MOTION TO AUTHORIZE County Administrator or her written designee to
 
 Matched keywords: economic development.*(?:facility|warehouse|federal)
 
-Full text: 
+Full text:

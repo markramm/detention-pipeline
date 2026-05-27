@@ -29,5 +29,5 @@ Amount: $38,270.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: LABORATORY ACCREDITATION
-Period: 2024-01-01 to 2026-12-31
+Period: 2024-01-01 to 2027-12-31
 Location: None, VA

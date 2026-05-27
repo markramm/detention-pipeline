@@ -2,14 +2,17 @@
 id: hernando-county-county-fl-board-of-county-commissioners-2026-04-14-award-of-construction-contract-to-air-mechanical-and-service-corporation-for-her
 title: 'Hernando County County FL — Board of County Commissioners 2026-04-14: Award of Construction Contract to Air Mechanical and Service Corporation for Her'
 type: commission-activity
+county: 'Hernando County'
+state: 'FL'
+fips: '12053'
+source: 'Legistar (Hernando County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - fl
 - strong
 importance: 5
-state: 'FL'
-county: 'Hernando County'
-fips: '12053'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Award of Construction Contract to Air Mechanical and Service Corpor
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

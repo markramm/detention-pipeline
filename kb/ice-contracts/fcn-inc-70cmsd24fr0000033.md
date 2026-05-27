@@ -29,5 +29,5 @@ Amount: $561,800.80
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: CISCO MERAKI EQUIPMENT ENTERPRISE AGREEMENT
-Period: 2024-04-26 to 2026-04-25
+Period: 2024-04-26 to 2027-04-25
 Location: None, DC

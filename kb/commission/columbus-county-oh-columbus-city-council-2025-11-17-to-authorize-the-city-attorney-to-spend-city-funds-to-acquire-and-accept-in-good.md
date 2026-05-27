@@ -2,14 +2,17 @@
 id: columbus-county-oh-columbus-city-council-2025-11-17-to-authorize-the-city-attorney-to-spend-city-funds-to-acquire-and-accept-in-good
 title: 'Columbus County OH — Columbus City Council 2025-11-17: To authorize the City Attorney to spend City funds to acquire and accept in good'
 type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
 tags:
 - commission-activity
 - oh
 - weak
 importance: 5
-state: 'OH'
-county: 'Franklin County'
-fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To authorize the City Attorney to spend City funds to acquire and a
 
 Matched keywords: real estate.*(?:acquisition|purchase|federal)
 
-Full text: 
+Full text:

@@ -2,14 +2,17 @@
 id: oklahoma-county-county-ok-board-of-county-commissioners-2026-03-11-discussion-and-possible-action-regarding-the-agreement-for-services-between-the
 title: 'Oklahoma County County OK — Board of County Commissioners 2026-03-11: Discussion and possible action regarding the Agreement for Services between the '
 type: commission-activity
+county: 'Oklahoma County'
+state: 'OK'
+fips: '40109'
+source: 'Legistar (Oklahoma County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - ok
 - strong
 importance: 5
-state: 'OK'
-county: 'Oklahoma County'
-fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Discussion and possible action regarding the Agreement for Services
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

@@ -2,14 +2,17 @@
 id: dane-county-county-wi-county-board-2026-02-05-authorizing-a-permanent-limited-easement-and-temporary-limited-easement-at-ice-a
 title: 'Dane County County WI — County Board 2026-02-05: AUTHORIZING A PERMANENT LIMITED EASEMENT AND TEMPORARY LIMITED EASEMENT AT ICE A'
 type: commission-activity
+county: 'Dane County'
+state: 'WI'
+fips: '55025'
+source: 'Legistar (Dane County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
 tags:
 - commission-activity
 - wi
 - moderate
 importance: 5
-state: 'WI'
-county: 'Dane County'
-fips: '55025'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: AUTHORIZING A PERMANENT LIMITED EASEMENT AND TEMPORARY LIMITED EASE
 
 Matched keywords: \bICE\b
 
-Full text: 
+Full text:

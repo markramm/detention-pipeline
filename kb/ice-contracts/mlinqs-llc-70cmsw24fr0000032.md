@@ -29,5 +29,5 @@ Amount: $1,538,051.04
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: RELOCATION MANAGEMENT SOFTWARE AND SERVICES
-Period: 2024-03-16 to 2026-03-15
+Period: 2024-03-16 to 2027-03-15
 Location: None, VA

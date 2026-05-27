@@ -2,14 +2,17 @@
 id: oklahoma-county-county-ok-criminal-justice-authority-2025-12-08-receive-accept-and-discuss-report-by-jail-administrator-tim-kimrey-and-or-those
 title: 'Oklahoma County County OK — Criminal Justice Authority 2025-12-08: Receive, accept and discuss report by Jail Administrator Tim Kimrey and/or those'
 type: commission-activity
+county: 'Oklahoma County'
+state: 'OK'
+fips: '40109'
+source: 'Legistar (Oklahoma County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - ok
 - strong
 importance: 5
-state: 'OK'
-county: 'Oklahoma County'
-fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Receive, accept and discuss report by Jail Administrator Tim Kimrey
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

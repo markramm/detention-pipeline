@@ -2,14 +2,17 @@
 id: richmond-county-va-city-council-2026-02-23-olivia-holt-expressed-concerns-with-flock-technology-and-data-being-used-for-fed
 title: 'Richmond County VA — City Council 2026-02-23: Olivia Holt expressed concerns with FLOCK technology and data being used for fed'
 type: commission-activity
+county: 'Richmond'
+state: 'VA'
+fips: '51760'
+source: 'Legistar (Richmond)'
+signal_strength: 'moderate'
+notes: 'Matched: immigration and customs enforcement'
 tags:
 - commission-activity
 - va
 - moderate
 importance: 5
-state: 'VA'
-county: 'Richmond County'
-fips: '51159'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Olivia Holt expressed concerns with FLOCK technology and data being
 
 Matched keywords: immigration and customs enforcement
 
-Full text: 
+Full text:

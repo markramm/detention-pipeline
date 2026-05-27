@@ -2,14 +2,17 @@
 id: seattle-county-wa-city-council-2026-03-10-an-ordinance-relating-to-land-use-and-zoning-adopting-a-moratorium-on-the-filin
 title: 'Seattle County WA — City Council 2026-03-10: AN ORDINANCE relating to land use and zoning; adopting a moratorium on the filin'
 type: commission-activity
+county: 'Seattle'
+state: 'WA'
+fips: '53033'
+source: 'Legistar (Seattle)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - wa
 - strong
 importance: 5
-state: 'WA'
-county: 'King County'
-fips: '53033'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: AN ORDINANCE relating to land use and zoning; adopting a moratorium
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

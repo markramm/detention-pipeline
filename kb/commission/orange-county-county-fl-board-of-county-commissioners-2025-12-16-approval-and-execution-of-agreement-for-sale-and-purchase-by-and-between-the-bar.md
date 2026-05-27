@@ -2,14 +2,17 @@
 id: orange-county-county-fl-board-of-county-commissioners-2025-12-16-approval-and-execution-of-agreement-for-sale-and-purchase-by-and-between-the-bar
 title: 'Orange County County FL — Board of County Commissioners 2025-12-16: Approval and execution of Agreement for Sale and Purchase by and between The Bar'
 type: commission-activity
+county: 'Orange County'
+state: 'FL'
+fips: '12095'
+source: 'Legistar (Orange County)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
 tags:
 - commission-activity
 - fl
 - weak
 importance: 5
-state: 'FL'
-county: 'Orange County'
-fips: '12095'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Approval and execution of Agreement for Sale and Purchase by and be
 
 Matched keywords: real estate.*(?:acquisition|purchase|federal)
 
-Full text: 
+Full text:

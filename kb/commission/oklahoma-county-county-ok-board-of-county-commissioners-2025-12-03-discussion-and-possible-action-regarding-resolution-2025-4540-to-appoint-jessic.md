@@ -2,14 +2,17 @@
 id: oklahoma-county-county-ok-board-of-county-commissioners-2025-12-03-discussion-and-possible-action-regarding-resolution-2025-4540-to-appoint-jessic
 title: 'Oklahoma County County OK — Board of County Commissioners 2025-12-03: Discussion and possible action regarding Resolution 2025-4540: To appoint Jessic'
 type: commission-activity
+county: 'Oklahoma County'
+state: 'OK'
+fips: '40109'
+source: 'Legistar (Oklahoma County)'
+signal_strength: 'strong'
+notes: 'Matched: NDS 2025'
 tags:
 - commission-activity
 - ok
 - strong
 importance: 5
-state: 'OK'
-county: 'Oklahoma County'
-fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Discussion and possible action regarding Resolution 2025-4540: To a
 
 Matched keywords: NDS 2025
 
-Full text: 
+Full text:

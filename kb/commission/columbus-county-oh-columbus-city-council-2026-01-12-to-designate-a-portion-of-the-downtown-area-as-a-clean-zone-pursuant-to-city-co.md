@@ -2,14 +2,17 @@
 id: columbus-county-oh-columbus-city-council-2026-01-12-to-designate-a-portion-of-the-downtown-area-as-a-clean-zone-pursuant-to-city-co
 title: 'Columbus County OH — Columbus City Council 2026-01-12: To designate a portion of the downtown area as a Clean Zone, pursuant to City Co'
 type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
 tags:
 - commission-activity
 - oh
 - moderate
 importance: 5
-state: 'OH'
-county: 'Franklin County'
-fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To designate a portion of the downtown area as a Clean Zone, pursua
 
 Matched keywords: \bICE\b
 
-Full text: 
+Full text:

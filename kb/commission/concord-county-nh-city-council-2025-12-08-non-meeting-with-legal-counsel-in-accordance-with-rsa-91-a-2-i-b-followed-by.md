@@ -2,14 +2,17 @@
 id: concord-county-nh-city-council-2025-12-08-non-meeting-with-legal-counsel-in-accordance-with-rsa-91-a-2-i-b-followed-by
 title: 'Concord County NH — City Council 2025-12-08: Non-meeting with legal counsel in accordance with RSA 91-A:2, I (b) followed by '
 type: commission-activity
+county: 'Concord'
+state: 'NH'
+fips: '33013'
+source: 'Legistar (Concord)'
+signal_strength: 'weak'
+notes: 'Matched: property acquisition'
 tags:
 - commission-activity
 - nh
 - weak
 importance: 5
-state: 'NH'
-county: 'Merrimack County'
-fips: '33013'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Non-meeting with legal counsel in accordance with RSA 91-A:2, I (b)
 
 Matched keywords: property acquisition
 
-Full text: 
+Full text:

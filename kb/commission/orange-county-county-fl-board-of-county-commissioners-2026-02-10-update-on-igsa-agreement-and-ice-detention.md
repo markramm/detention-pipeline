@@ -2,14 +2,17 @@
 id: orange-county-county-fl-board-of-county-commissioners-2026-02-10-update-on-igsa-agreement-and-ice-detention
 title: 'Orange County County FL — Board of County Commissioners 2026-02-10: Update on IGSA Agreement and ICE Detention'
 type: commission-activity
+county: 'Orange County'
+state: 'FL'
+fips: '12095'
+source: 'Legistar (Orange County)'
+signal_strength: 'strong'
+notes: 'Matched: \bIGSA\b, \bICE\b detention'
 tags:
 - commission-activity
 - fl
 - strong
 importance: 5
-state: 'FL'
-county: 'Orange County'
-fips: '12095'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Update on IGSA Agreement and ICE Detention
 
 Matched keywords: \bIGSA\b, \bICE\b detention
 
-Full text: 
+Full text:

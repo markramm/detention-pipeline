@@ -2,22 +2,25 @@
 id: fulton-county-county-ga-board-of-commissioners-2026-02-18-request-approval-of-a-resolution-affirming-the-protection-of-constitutional-righ
 title: 'Fulton County County GA — Board of Commissioners 2026-02-18: Request approval of a Resolution affirming the protection of Constitutional Righ'
 type: commission-activity
+county: 'Fulton County'
+state: 'GA'
+fips: '13121'
+source: 'Legistar (Fulton County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
 tags:
 - commission-activity
 - ga
 - moderate
 importance: 5
-state: 'GA'
-county: 'Fulton County'
-fips: '13121'
 ---
 
 County commission agenda item matching detention pipeline keywords.
 
 Meeting: Board of Commissioners
 Date: 2026-02-18
-Agenda Item: Request approval of a Resolution affirming the protection of Constitutional Rights at Fulton County facilities and limiting ICE enforcement activities.  (Arrington) (APPROVED AS AMENDED)
+Agenda Item: Request approval of a Resolution affirming the protection of Constitutional Rights at Fulton County facilities and limiting ICE enforcement activities. (Arrington) (APPROVED AS AMENDED)
 
 Matched keywords: \bICE\b
 
-Full text: 
+Full text:

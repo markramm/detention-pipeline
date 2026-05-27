@@ -2,14 +2,17 @@
 id: san-bernardino-county-county-ca-board-of-supervisors-regular-meeting-2025-11-18-authorization-agreement-with-akima-intra-data-llc-for-basic-and-advanced-life-su
 title: 'San Bernardino County County CA — Board of Supervisors Regular Meeting 2025-11-18: Authorization Agreement with Akima Intra-Data LLC for Basic and Advanced Life Su'
 type: commission-activity
+county: 'San Bernardino County'
+state: 'CA'
+fips: '06071'
+source: 'Legistar (San Bernardino County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bAkima\b'
 tags:
 - commission-activity
 - ca
 - moderate
 importance: 5
-state: 'CA'
-county: 'San Bernardino County'
-fips: '06071'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Authorization Agreement with Akima Intra-Data LLC for Basic and Adv
 
 Matched keywords: \bAkima\b
 
-Full text: 
+Full text:

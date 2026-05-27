@@ -2,14 +2,17 @@
 id: oklahoma-county-county-ok-citizens-bond-oversight-advisory-board-2026-03-17-discussion-and-possible-action-regarding-a-presentation-by-flintco-on-phase-1-of
 title: 'Oklahoma County County OK — Citizens Bond Oversight Advisory Board 2026-03-17: Discussion and possible action regarding a presentation by Flintco on phase 1 of'
 type: commission-activity
+county: 'Oklahoma County'
+state: 'OK'
+fips: '40109'
+source: 'Legistar (Oklahoma County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - ok
 - strong
 importance: 5
-state: 'OK'
-county: 'Oklahoma County'
-fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Discussion and possible action regarding a presentation by Flintco 
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

@@ -29,5 +29,5 @@ Amount: $22,132,743.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: LAW ENFORCEMENT INVESTIGATIVE DATABASE SUBSCRIPTION (LEIDS)
-Period: 2021-02-25 to 2026-02-28
+Period: 2021-02-25 to 2026-05-31
 Location: None, GA

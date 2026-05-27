@@ -2,14 +2,17 @@
 id: solano-county-county-ca-board-of-supervisors-2025-11-04-approve-an-appropriation-transfer-request-of-202-000-from-accumulated-capital-o
 title: 'Solano County County CA — Board of Supervisors 2025-11-04: Approve an Appropriation Transfer Request of $202,000 from Accumulated Capital O'
 type: commission-activity
+county: 'Solano County'
+state: 'CA'
+fips: '06095'
+source: 'Legistar (Solano County)'
+signal_strength: 'strong'
+notes: 'Matched: detention facility'
 tags:
 - commission-activity
 - ca
 - strong
 importance: 5
-state: 'CA'
-county: 'Solano County'
-fips: '06095'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Approve an Appropriation Transfer Request of $202,000 from Accumula
 
 Matched keywords: detention facility
 
-Full text: 
+Full text:

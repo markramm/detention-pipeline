@@ -2,14 +2,17 @@
 id: harris-county-county-tx-commissioners-court-2026-04-16-request-by-the-commissioner-of-precinct-1-for-discussion-and-possible-action-reg
 title: 'Harris County County TX — Commissioners Court 2026-04-16: Request by the Commissioner of Precinct 1 for discussion and possible action reg'
 type: commission-activity
+county: 'Harris County'
+state: 'TX'
+fips: '48201'
+source: 'Legistar (Harris County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b, immigration and customs enforcement'
 tags:
 - commission-activity
 - tx
 - moderate
 importance: 5
-state: 'TX'
-county: 'Harris County'
-fips: '48201'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Request by the Commissioner of Precinct 1 for discussion and possib
 
 Matched keywords: \bICE\b, immigration and customs enforcement
 
-Full text: 
+Full text:

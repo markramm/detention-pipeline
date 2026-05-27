@@ -2,14 +2,17 @@
 id: el-paso-county-tx-city-council-2026-02-03-discussion-and-action-to-direct-the-city-manager-in-collaboration-with-the-city
 title: 'El Paso County TX — City Council 2026-02-03: Discussion and action to direct the City Manager, in collaboration with the City'
 type: commission-activity
+county: 'El Paso'
+state: 'TX'
+fips: '48141'
+source: 'Legistar (El Paso)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
 tags:
 - commission-activity
 - tx
 - moderate
 importance: 5
-state: 'TX'
-county: 'El Paso County'
-fips: '48141'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Discussion and action to direct the City Manager, in collaboration 
 
 Matched keywords: \bICE\b
 
-Full text: 
+Full text:

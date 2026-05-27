@@ -2,14 +2,17 @@
 id: madison-county-wi-equal-opportunities-commission-2026-04-16-emergent-immigration-deportation-and-housing-issues
 title: 'Madison County WI — EQUAL OPPORTUNITIES COMMISSION 2026-04-16: Emergent Immigration, Deportation and Housing Issues'
 type: commission-activity
+county: 'Madison'
+state: 'WI'
+fips: '55025'
+source: 'Legistar (Madison)'
+signal_strength: 'strong'
+notes: 'Matched: deportation'
 tags:
 - commission-activity
 - wi
 - strong
 importance: 5
-state: 'WI'
-county: 'Dane County'
-fips: '55025'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Emergent Immigration, Deportation and Housing Issues
 
 Matched keywords: deportation
 
-Full text: 
+Full text:

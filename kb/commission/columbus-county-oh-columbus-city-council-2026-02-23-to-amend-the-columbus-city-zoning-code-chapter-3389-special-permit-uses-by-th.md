@@ -2,14 +2,17 @@
 id: columbus-county-oh-columbus-city-council-2026-02-23-to-amend-the-columbus-city-zoning-code-chapter-3389-special-permit-uses-by-th
 title: 'Columbus County OH — Columbus City Council 2026-02-23: To amend the Columbus City Zoning Code, Chapter 3389 “Special Permit Uses” by th'
 type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'strong'
+notes: 'Matched: detention facility'
 tags:
 - commission-activity
 - oh
 - strong
 importance: 5
-state: 'OH'
-county: 'Franklin County'
-fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To amend the Columbus City Zoning Code, Chapter 3389 “Special Per
 
 Matched keywords: detention facility
 
-Full text: 
+Full text:

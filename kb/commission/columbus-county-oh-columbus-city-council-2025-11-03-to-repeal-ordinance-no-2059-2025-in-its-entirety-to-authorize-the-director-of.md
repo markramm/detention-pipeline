@@ -2,14 +2,17 @@
 id: columbus-county-oh-columbus-city-council-2025-11-03-to-repeal-ordinance-no-2059-2025-in-its-entirety-to-authorize-the-director-of
 title: 'Columbus County OH — Columbus City Council 2025-11-03: To repeal Ordinance No. 2059-2025 in its entirety; to authorize the Director of '
 type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'weak'
+notes: 'Matched: property acquisition'
 tags:
 - commission-activity
 - oh
 - weak
 importance: 5
-state: 'OH'
-county: 'Franklin County'
-fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To repeal Ordinance No. 2059-2025 in its entirety; to authorize the
 
 Matched keywords: property acquisition
 
-Full text: 
+Full text:

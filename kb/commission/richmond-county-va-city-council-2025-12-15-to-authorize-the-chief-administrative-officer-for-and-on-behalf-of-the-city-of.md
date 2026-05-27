@@ -2,14 +2,17 @@
 id: richmond-county-va-city-council-2025-12-15-to-authorize-the-chief-administrative-officer-for-and-on-behalf-of-the-city-of
 title: 'Richmond County VA — City Council 2025-12-15: To authorize the Chief Administrative Officer, for and on behalf of the City of '
 type: commission-activity
+county: 'Richmond'
+state: 'VA'
+fips: '51760'
+source: 'Legistar (Richmond)'
+signal_strength: 'weak'
+notes: 'Matched: economic development.*(?:facility|warehouse|federal)'
 tags:
 - commission-activity
 - va
 - weak
 importance: 5
-state: 'VA'
-county: 'Richmond County'
-fips: '51159'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To authorize the Chief Administrative Officer, for and on behalf of
 
 Matched keywords: economic development.*(?:facility|warehouse|federal)
 
-Full text: 
+Full text:

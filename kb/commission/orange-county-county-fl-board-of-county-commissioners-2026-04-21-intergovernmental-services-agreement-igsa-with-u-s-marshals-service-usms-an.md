@@ -2,14 +2,17 @@
 id: orange-county-county-fl-board-of-county-commissioners-2026-04-21-intergovernmental-services-agreement-igsa-with-u-s-marshals-service-usms-an
 title: 'Orange County County FL — Board of County Commissioners 2026-04-21: Intergovernmental Services Agreement (IGSA) with U.S. Marshals Service (USMS) an'
 type: commission-activity
+county: 'Orange County'
+state: 'FL'
+fips: '12095'
+source: 'Legistar (Orange County)'
+signal_strength: 'strong'
+notes: 'Matched: \bIGSA\b'
 tags:
 - commission-activity
 - fl
 - strong
 importance: 5
-state: 'FL'
-county: 'Orange County'
-fips: '12095'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Intergovernmental Services Agreement (IGSA) with U.S. Marshals Serv
 
 Matched keywords: \bIGSA\b
 
-Full text: 
+Full text:

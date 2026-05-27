@@ -1,14 +1,24 @@
 ---
 id: panamerica-computers-inc-70cmsd25fr0000126
-title: PANAMERICA COMPUTERS, INC. — 70CMSD25FR0000126 (DC) $46,699
+title: 'PANAMERICA COMPUTERS, INC. — 70CMSD25FR0000126 (DC) $46,699'
 type: ice-contract
+state: 'DC'
+contractor: 'PANAMERICA COMPUTERS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$46,698.60'
+contract_type: 'federal-contract'
+award_date: '2025-09-03'
+usaspending_id: '70CMSD25FR0000126'
+source: 'USAspending.gov (award 70CMSD25FR0000126)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES MICROSOFT SURFACE PRO 11 COPILOT DEVICES AND WARRANTY FOR THE ASSET FORFEITURE UNIT.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

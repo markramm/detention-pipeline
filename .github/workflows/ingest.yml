@@ -104,12 +104,15 @@ jobs:
             cat /tmp/ingest_summary.md
           } > /tmp/pr_body.md
 
+          # Create the PR first; only add the label as a best-effort follow-up so a
+          # missing label can never fail the whole ingest run (it has before).
           gh pr create \
             --title "Weekly ingest $(date -u +%Y-%m-%d)" \
             --body-file /tmp/pr_body.md \
             --base main \
-            --head "$BRANCH" \
-            --label "ingest"
+            --head "$BRANCH"
+          gh pr edit "$BRANCH" --add-label "ingest" || \
+            echo "::warning::could not add 'ingest' label — continuing"
 
       - name: Open issue on full failure
         if: steps.ingest.outcome != 'success' && steps.check.outputs.changed == 'false'
@@ -119,4 +122,7 @@ jobs:
           gh issue create \
             --title "Weekly ingest failed $(date -u +%Y-%m-%d)" \
             --body "All ingest sources failed and produced no changes. See [run logs](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})." \
-            --label "ingest,bug"
+            --label "ingest,bug" || \
+            gh issue create \
+              --title "Weekly ingest failed $(date -u +%Y-%m-%d)" \
+              --body "All ingest sources failed and produced no changes. See [run logs](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})."

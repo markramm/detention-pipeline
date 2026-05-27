@@ -2,14 +2,17 @@
 id: richmond-county-va-city-council-2026-04-27-to-authorize-the-issuance-of-general-obligation-bonds-and-notes-of-the-city-of-r
 title: 'Richmond County VA — City Council 2026-04-27: To authorize the issuance of general obligation bonds and notes of the City of R'
 type: commission-activity
+county: 'Richmond'
+state: 'VA'
+fips: '51760'
+source: 'Legistar (Richmond)'
+signal_strength: 'weak'
+notes: 'Matched: economic development.*(?:facility|warehouse|federal)'
 tags:
 - commission-activity
 - va
 - weak
 importance: 5
-state: 'VA'
-county: 'Richmond County'
-fips: '51159'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To authorize the issuance of general obligation bonds and notes of 
 
 Matched keywords: economic development.*(?:facility|warehouse|federal)
 
-Full text: 
+Full text:

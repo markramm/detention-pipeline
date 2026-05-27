@@ -2,14 +2,17 @@
 id: galveston-county-county-tx-commissioners-court-special-meeting-2025-10-27-consideration-for-the-county-judge-to-execute-the-287-g-agreement-between-the-u
 title: 'Galveston County County TX — Commissioners Court Special Meeting 2025-10-27: Consideration for the County Judge to execute the 287(g) agreement between the U'
 type: commission-activity
+county: 'Galveston County'
+state: 'TX'
+fips: '48167'
+source: 'Legistar (Galveston County)'
+signal_strength: 'strong'
+notes: 'Matched: \b287\s*\(?g\)?\b'
 tags:
 - commission-activity
 - tx
 - strong
 importance: 5
-state: 'TX'
-county: 'Galveston County'
-fips: '48167'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Consideration for the County Judge to execute the 287(g) agreement 
 
 Matched keywords: \b287\s*\(?g\)?\b
 
-Full text: 
+Full text:
