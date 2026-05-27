@@ -1,14 +1,24 @@
 ---
 id: cih-equipment-co-inc-70cmsw24p00000009
-title: CIH EQUIPMENT CO., INC. — 70CMSW24P00000009 (DC) $18,784
+title: 'CIH EQUIPMENT CO., INC. — 70CMSW24P00000009 (DC) $18,784'
 type: ice-contract
+state: 'DC'
+contractor: 'CIH EQUIPMENT CO., INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$18,783.70'
+contract_type: 'federal-contract'
+award_date: '2024-06-14'
+usaspending_id: '70CMSW24P00000009'
+source: 'USAspending.gov (award 70CMSW24P00000009)'
+signal_strength: 'weak'
+notes: 'CALIBRATION SERVICES FOR OFTP''S INDUSTRIAL HYGIENE OFFICE'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

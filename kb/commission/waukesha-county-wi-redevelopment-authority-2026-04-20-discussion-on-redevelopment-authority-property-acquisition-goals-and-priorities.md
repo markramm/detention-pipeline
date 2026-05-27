@@ -2,14 +2,17 @@
 id: waukesha-county-wi-redevelopment-authority-2026-04-20-discussion-on-redevelopment-authority-property-acquisition-goals-and-priorities
 title: 'Waukesha County WI — Redevelopment Authority 2026-04-20: Discussion on Redevelopment Authority Property Acquisition goals and priorities'
 type: commission-activity
+county: 'Waukesha'
+state: 'WI'
+fips: '55133'
+source: 'Legistar (Waukesha)'
+signal_strength: 'weak'
+notes: 'Matched: property acquisition'
 tags:
 - commission-activity
 - wi
 - weak
 importance: 5
-state: 'WI'
-county: 'Waukesha County'
-fips: '55133'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Discussion on Redevelopment Authority Property Acquisition goals an
 
 Matched keywords: property acquisition
 
-Full text: 
+Full text:

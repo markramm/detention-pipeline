@@ -2,14 +2,17 @@
 id: orange-county-county-fl-board-of-county-commissioners-2026-03-10-approval-and-execution-of-resolution-2026-m-09-of-the-orange-county-board-of-cou
 title: 'Orange County County FL — Board of County Commissioners 2026-03-10: Approval and execution of Resolution 2026-M-09 of the Orange County Board of Cou'
 type: commission-activity
+county: 'Orange County'
+state: 'FL'
+fips: '12095'
+source: 'Legistar (Orange County)'
+signal_strength: 'strong'
+notes: 'Matched: detention facility'
 tags:
 - commission-activity
 - fl
 - strong
 importance: 5
-state: 'FL'
-county: 'Orange County'
-fips: '12095'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Approval and execution of Resolution 2026-M-09 of the Orange County
 
 Matched keywords: detention facility
 
-Full text: 
+Full text:

@@ -2,14 +2,17 @@
 id: solano-county-county-ca-board-of-supervisors-2026-04-14-conduct-a-public-forum-in-accordance-with-the-state-of-california-s-truth-act-a
 title: 'Solano County County CA — Board of Supervisors 2026-04-14: Conduct a public forum in accordance with the State of California’s TRUTH Act; a'
 type: commission-activity
+county: 'Solano County'
+state: 'CA'
+fips: '06095'
+source: 'Legistar (Solano County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b, immigration and customs enforcement'
 tags:
 - commission-activity
 - ca
 - moderate
 importance: 5
-state: 'CA'
-county: 'Solano County'
-fips: '06095'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Conduct a public forum in accordance with the State of California�
 
 Matched keywords: \bICE\b, immigration and customs enforcement
 
-Full text: 
+Full text:

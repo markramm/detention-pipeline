@@ -2,14 +2,17 @@
 id: san-diego-county-county-ca-board-of-supervisors-2025-11-18-exploring-savings-revenue-enhancements-and-contracted-service-optimization-thr
 title: 'San Diego County County CA — BOARD OF SUPERVISORS 2025-11-18: EXPLORING SAVINGS, REVENUE ENHANCEMENTS, AND CONTRACTED SERVICE OPTIMIZATION THR'
 type: commission-activity
+county: 'San Diego County'
+state: 'CA'
+fips: '06073'
+source: 'Legistar (San Diego County)'
+signal_strength: 'moderate'
+notes: 'Matched: revenue enhancement'
 tags:
 - commission-activity
 - ca
 - moderate
 importance: 5
-state: 'CA'
-county: 'San Diego County'
-fips: '06073'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: EXPLORING SAVINGS, REVENUE ENHANCEMENTS, AND CONTRACTED SERVICE OPT
 
 Matched keywords: revenue enhancement
 
-Full text: 
+Full text:

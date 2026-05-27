@@ -1,12 +1,12 @@
 ---
 id: paragon-professional-services-llc-70cdcr25fr0000112
-title: 'PARAGON PROFESSIONAL SERVICES LLC — 70CDCR25FR0000112 (AK) $57,131,182'
+title: 'PARAGON PROFESSIONAL SERVICES LLC — 70CDCR25FR0000112 (AK) $62,347,416'
 type: ice-contract
 state: 'AK'
 contractor: 'PARAGON PROFESSIONAL SERVICES LLC'
 contractor_type: 'guard-services'
 contract_class: 'detention-related'
-contract_value: '$57,131,181.71'
+contract_value: '$62,347,415.71'
 contract_type: 'federal-contract'
 award_date: '2025-09-30'
 usaspending_id: '70CDCR25FR0000112'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: PARAGON PROFESSIONAL SERVICES LLC
 Award ID: 70CDCR25FR0000112
-Amount: $57,131,181.71
+Amount: $62,347,415.71
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS CONTRACT PROVIDES DETENTION AND TRANSPORTATION SERVICES AT THE EL PASO SERVICE PROCESSING CENTER. THE PURPOSE OF THIS MODIFICATION IS TO ISSUE A NEW TASK ORDER AND ADD FUNDING FOR THESE SERVICES.
-Period: 2025-09-30 to 2026-07-31
+Period: 2025-09-30 to 2026-08-31
 Location: None, AK

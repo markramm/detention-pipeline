@@ -2,14 +2,17 @@
 id: nashville-davidson-county-county-tn-metropolitan-council-2026-03-03-a-resolution-accepting-an-in-kind-grant-from-the-friends-of-two-rivers-mansion-t
 title: 'Nashville/Davidson County County TN — Metropolitan Council 2026-03-03: A resolution accepting an in-kind grant from the Friends of Two Rivers Mansion t'
 type: commission-activity
+county: 'Nashville/Davidson County'
+state: 'TN'
+fips: '47037'
+source: 'Legistar (Nashville/Davidson County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
 tags:
 - commission-activity
 - tn
 - moderate
 importance: 5
-state: 'TN'
-county: 'Davidson County'
-fips: '47037'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: A resolution accepting an in-kind grant from the Friends of Two Riv
 
 Matched keywords: \bICE\b
 
-Full text: 
+Full text:

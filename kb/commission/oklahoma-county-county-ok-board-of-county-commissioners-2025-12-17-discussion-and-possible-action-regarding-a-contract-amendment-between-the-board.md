@@ -2,14 +2,17 @@
 id: oklahoma-county-county-ok-board-of-county-commissioners-2025-12-17-discussion-and-possible-action-regarding-a-contract-amendment-between-the-board
 title: 'Oklahoma County County OK — Board of County Commissioners 2025-12-17: Discussion and possible action regarding a Contract Amendment between the Board '
 type: commission-activity
+county: 'Oklahoma County'
+state: 'OK'
+fips: '40109'
+source: 'Legistar (Oklahoma County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - ok
 - strong
 importance: 5
-state: 'OK'
-county: 'Oklahoma County'
-fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Discussion and possible action regarding a Contract Amendment betwe
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

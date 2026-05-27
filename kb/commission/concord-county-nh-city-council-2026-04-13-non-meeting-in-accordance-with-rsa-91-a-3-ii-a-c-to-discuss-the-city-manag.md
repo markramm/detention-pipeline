@@ -2,14 +2,17 @@
 id: concord-county-nh-city-council-2026-04-13-non-meeting-in-accordance-with-rsa-91-a-3-ii-a-c-to-discuss-the-city-manag
 title: 'Concord County NH — City Council 2026-04-13: Non-meeting in accordance with RSA 91-A: 3, II (a)-(c) to discuss the City Manag'
 type: commission-activity
+county: 'Concord'
+state: 'NH'
+fips: '33013'
+source: 'Legistar (Concord)'
+signal_strength: 'weak'
+notes: 'Matched: property acquisition'
 tags:
 - commission-activity
 - nh
 - weak
 importance: 5
-state: 'NH'
-county: 'Merrimack County'
-fips: '33013'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Non-meeting in accordance with RSA 91-A: 3, II (a)-(c) to discuss t
 
 Matched keywords: property acquisition
 
-Full text: 
+Full text:

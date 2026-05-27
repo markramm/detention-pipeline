@@ -29,5 +29,5 @@ Amount: $4,801,763.87
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: PRO-22-HSI-0140 SAN JUAN PUERTO RICO
-Period: 2023-09-01 to 2026-04-01
+Period: 2023-09-01 to 2026-06-30
 Location: None, PR

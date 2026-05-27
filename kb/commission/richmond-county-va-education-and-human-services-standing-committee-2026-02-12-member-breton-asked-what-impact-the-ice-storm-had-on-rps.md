@@ -2,14 +2,17 @@
 id: richmond-county-va-education-and-human-services-standing-committee-2026-02-12-member-breton-asked-what-impact-the-ice-storm-had-on-rps
 title: 'Richmond County VA — Education and Human Services Standing Committee 2026-02-12: Member Breton asked what impact the ice storm had on RPS.'
 type: commission-activity
+county: 'Richmond'
+state: 'VA'
+fips: '51760'
+source: 'Legistar (Richmond)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
 tags:
 - commission-activity
 - va
 - moderate
 importance: 5
-state: 'VA'
-county: 'Richmond County'
-fips: '51159'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Member Breton asked what impact the ice storm had on RPS.
 
 Matched keywords: \bICE\b
 
-Full text: 
+Full text:

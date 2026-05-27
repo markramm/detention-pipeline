@@ -2,14 +2,17 @@
 id: dane-county-county-wi-park-commission-2026-03-11-ice-age-trail-alliance-realignment-in-indian-lake-county-park-presentation
 title: 'Dane County County WI — Park Commission 2026-03-11: Ice Age Trail Alliance Realignment in Indian Lake County Park Presentation'
 type: commission-activity
+county: 'Dane County'
+state: 'WI'
+fips: '55025'
+source: 'Legistar (Dane County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
 tags:
 - commission-activity
 - wi
 - moderate
 importance: 5
-state: 'WI'
-county: 'Dane County'
-fips: '55025'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Ice Age Trail Alliance Realignment in Indian Lake County Park Prese
 
 Matched keywords: \bICE\b
 
-Full text: 
+Full text:

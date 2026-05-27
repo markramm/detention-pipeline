@@ -1,15 +1,18 @@
 ---
 id: lubbock-county-county-tx-commissioners-court-regular-meeting-2025-12-22-as-authorized-by-the-texas-government-code-the-commissioners-court-of-lubbock
-title: "Lubbock County County TX — Commissioners Court Regular Meeting 2025-12-22: As authorized by the Texas Government Code, the Commissioners' Court of Lubbock "
+title: 'Lubbock County County TX — Commissioners Court Regular Meeting 2025-12-22: As authorized by the Texas Government Code, the Commissioners'' Court of Lubbock '
 type: commission-activity
+county: 'Lubbock County'
+state: 'TX'
+fips: '48303'
+source: 'Legistar (Lubbock County)'
+signal_strength: 'weak'
+notes: 'Matched: executive session.*economic'
 tags:
 - commission-activity
 - tx
 - weak
 importance: 5
-state: 'TX'
-county: 'Lubbock County'
-fips: '48303'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: As authorized by the Texas Government Code, the Commissioners' Cour
 
 Matched keywords: executive session.*economic
 
-Full text: 
+Full text:

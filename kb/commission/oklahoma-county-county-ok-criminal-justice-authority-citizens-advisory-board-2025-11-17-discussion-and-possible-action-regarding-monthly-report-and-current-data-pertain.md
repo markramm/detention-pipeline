@@ -2,14 +2,17 @@
 id: oklahoma-county-county-ok-criminal-justice-authority-citizens-advisory-board-2025-11-17-discussion-and-possible-action-regarding-monthly-report-and-current-data-pertain
 title: 'Oklahoma County County OK — Criminal Justice Authority Citizens Advisory Board 2025-11-17: Discussion and possible action regarding monthly report and current data pertain'
 type: commission-activity
+county: 'Oklahoma County'
+state: 'OK'
+fips: '40109'
+source: 'Legistar (Oklahoma County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - ok
 - strong
 importance: 5
-state: 'OK'
-county: 'Oklahoma County'
-fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Discussion and possible action regarding monthly report and current
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

@@ -1,9 +1,9 @@
 ---
 id: glock-inc-70cmsw26fr0000013
-title: 'GLOCK, INC. — 70CMSW26FR0000013 (GA) $1,068,147'
+title: 'GLOCK, INC — 70CMSW26FR0000013 (GA) $1,068,147'
 type: ice-contract
 state: 'GA'
-contractor: 'GLOCK, INC.'
+contractor: 'GLOCK, INC'
 contractor_type: 'other'
 contract_class: 'other-ice'
 contract_value: '$1,068,147.00'
@@ -23,7 +23,7 @@ importance: 5
 
 ICE contract award.
 
-Recipient: GLOCK, INC.
+Recipient: GLOCK, INC
 Award ID: 70CMSW26FR0000013
 Amount: $1,068,147.00
 Agency: Department of Homeland Security

@@ -1,24 +1,26 @@
 ---
 id: pima-county-county-az-board-of-supervisors-2026-03-24-award-amendment-of-award-supplier-contract-no-sc2400002231-amendment-no-5-i
-title: "Pima County County AZ — Board of Supervisors 2026-03-24: Award\nAmendment of Award: Supplier Contract No. SC2400002231, Amendment No. 5, I"
+title: 'Pima County County AZ — Board of Supervisors 2026-03-24: Award Amendment of Award: Supplier Contract No. SC2400002231, Amendment No. 5, I'
 type: commission-activity
+county: 'Pima County'
+state: 'AZ'
+fips: '04019'
+source: 'Legistar (Pima County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - az
 - strong
 importance: 5
-state: 'AZ'
-county: 'Pima County'
-fips: '04019'
 ---
 
 County commission agenda item matching detention pipeline keywords.
 
 Meeting: Board of Supervisors
 Date: 2026-03-24
-Agenda Item: Award
-Amendment of Award: Supplier Contract No. SC2400002231, Amendment No. 5, Intermountain Lock and Security Supply, to provide for locksmith supplies.  This amendment increases the annual award amount by $200,000.00 from $250,000.00 to $450,000.00 for a cumulative not-to-exceed contract amount of $654,000.00. This increase is necessary to restore funding to an appropriate level to ensure the continued provision of locksmith supplies for the Pima County Adult Detention Center and the Juvenile Detention Center. The funding shortfall resulted from the replacement of locks and keys across all PR properties to address security risks associated with an outdated system.  Funding Source: General Fund.  Administering Department: Facilities Management.
+Agenda Item: Award Amendment of Award: Supplier Contract No. SC2400002231, Amendment No. 5, Intermountain Lock and Security Supply, to provide for locksmith supplies. This amendment increases the annual award amount by $200,000.00 from $250,000.00 to $450,000.00 for a cumulative not-to-exceed contract amount of $654,000.00. This increase is necessary to restore funding to an appropriate level to ensure the continued provision of locksmith supplies for the Pima County Adult Detention Center and the Juvenile Detention Center. The funding shortfall resulted from the replacement of locks and keys across all PR properties to address security risks associated with an outdated system. Funding Source: General Fund. Administering Department: Facilities Management.
 
 Matched keywords: detention center
 
-Full text: 
+Full text:

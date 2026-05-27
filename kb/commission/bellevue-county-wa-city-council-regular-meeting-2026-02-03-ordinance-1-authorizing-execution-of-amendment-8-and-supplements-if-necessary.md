@@ -2,14 +2,17 @@
 id: bellevue-county-wa-city-council-regular-meeting-2026-02-03-ordinance-1-authorizing-execution-of-amendment-8-and-supplements-if-necessary
 title: 'Bellevue County WA — City Council Regular Meeting 2026-02-03: Ordinance 1) authorizing execution of Amendment 8 and supplements, if necessary,'
 type: commission-activity
+county: 'Bellevue'
+state: 'WA'
+fips: '53033'
+source: 'Legistar (Bellevue)'
+signal_strength: 'weak'
+notes: 'Matched: property acquisition'
 tags:
 - commission-activity
 - wa
 - weak
 importance: 5
-state: 'WA'
-county: 'King County'
-fips: '53033'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Ordinance 1) authorizing execution of Amendment 8 and supplements, 
 
 Matched keywords: property acquisition
 
-Full text: 
+Full text:

@@ -2,14 +2,17 @@
 id: harris-county-county-tx-commissioners-court-2026-01-08-transmittal-by-the-sheriff-s-office-of-renewal-of-an-agreement-with-keefe-commis
 title: 'Harris County County TX — Commissioners Court 2026-01-08: Transmittal by the Sheriff’s Office of renewal of an agreement with Keefe Commis'
 type: commission-activity
+county: 'Harris County'
+state: 'TX'
+fips: '48201'
+source: 'Legistar (Harris County)'
+signal_strength: 'moderate'
+notes: 'Matched: sheriff.*detention'
 tags:
 - commission-activity
 - tx
 - moderate
 importance: 5
-state: 'TX'
-county: 'Harris County'
-fips: '48201'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Transmittal by the Sheriff’s Office of renewal of an agreement wi
 
 Matched keywords: sheriff.*detention
 
-Full text: 
+Full text:

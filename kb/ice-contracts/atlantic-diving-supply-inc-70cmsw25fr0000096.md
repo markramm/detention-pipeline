@@ -1,14 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw25fr0000096
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FR0000096 (VA) $84,322
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FR0000096 (VA) $84,322'
 type: ice-contract
+state: 'VA'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$84,321.60'
+contract_type: 'federal-contract'
+award_date: '2025-08-22'
+usaspending_id: '70CMSW25FR0000096'
+source: 'USAspending.gov (award 70CMSW25FR0000096)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES TACTICAL COMBAT UNIFORM ITEMS TO SUPPORT ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

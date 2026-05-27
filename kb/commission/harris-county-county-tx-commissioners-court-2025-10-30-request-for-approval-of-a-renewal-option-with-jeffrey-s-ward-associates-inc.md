@@ -2,14 +2,17 @@
 id: harris-county-county-tx-commissioners-court-2025-10-30-request-for-approval-of-a-renewal-option-with-jeffrey-s-ward-associates-inc
 title: 'Harris County County TX — Commissioners Court 2025-10-30: Request for approval of a renewal option with Jeffrey S. Ward & Associates, Inc.'
 type: commission-activity
+county: 'Harris County'
+state: 'TX'
+fips: '48201'
+source: 'Legistar (Harris County)'
+signal_strength: 'weak'
+notes: 'Matched: property acquisition'
 tags:
 - commission-activity
 - tx
 - weak
 importance: 5
-state: 'TX'
-county: 'Harris County'
-fips: '48201'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Request for approval of a renewal option with Jeffrey S. Ward & Ass
 
 Matched keywords: property acquisition
 
-Full text: 
+Full text:

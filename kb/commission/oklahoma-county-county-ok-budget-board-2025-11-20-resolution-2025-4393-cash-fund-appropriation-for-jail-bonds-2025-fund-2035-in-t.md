@@ -2,14 +2,17 @@
 id: oklahoma-county-county-ok-budget-board-2025-11-20-resolution-2025-4393-cash-fund-appropriation-for-jail-bonds-2025-fund-2035-in-t
 title: 'Oklahoma County County OK — Budget Board 2025-11-20: Resolution 2025-4393: Cash fund appropriation for Jail Bonds 2025 Fund 2035 in t'
 type: commission-activity
+county: 'Oklahoma County'
+state: 'OK'
+fips: '40109'
+source: 'Legistar (Oklahoma County)'
+signal_strength: 'strong'
+notes: 'Matched: NDS 2025'
 tags:
 - commission-activity
 - ok
 - strong
 importance: 5
-state: 'OK'
-county: 'Oklahoma County'
-fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Resolution 2025-4393: Cash fund appropriation for Jail Bonds 2025 F
 
 Matched keywords: NDS 2025
 
-Full text: 
+Full text:

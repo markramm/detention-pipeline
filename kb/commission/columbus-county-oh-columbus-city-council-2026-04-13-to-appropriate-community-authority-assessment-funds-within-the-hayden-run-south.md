@@ -2,14 +2,17 @@
 id: columbus-county-oh-columbus-city-council-2026-04-13-to-appropriate-community-authority-assessment-funds-within-the-hayden-run-south
 title: 'Columbus County OH — Columbus City Council 2026-04-13: To appropriate community authority assessment funds within the Hayden Run South '
 type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
 tags:
 - commission-activity
 - oh
 - weak
 importance: 5
-state: 'OH'
-county: 'Franklin County'
-fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To appropriate community authority assessment funds within the Hayd
 
 Matched keywords: real estate.*(?:acquisition|purchase|federal)
 
-Full text: 
+Full text:

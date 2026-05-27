@@ -2,14 +2,17 @@
 id: guilford-county-county-nc-board-of-commissioners-2026-01-15-authorize-staff-to-utilize-the-design-build-construction-contract-method-for-con
 title: 'Guilford County County NC — Board of Commissioners 2026-01-15: AUTHORIZE STAFF TO UTILIZE THE DESIGN-BUILD CONSTRUCTION CONTRACT METHOD FOR CON'
 type: commission-activity
+county: 'Guilford County'
+state: 'NC'
+fips: '37081'
+source: 'Legistar (Guilford County)'
+signal_strength: 'strong'
+notes: 'Matched: detention facility'
 tags:
 - commission-activity
 - nc
 - strong
 importance: 5
-state: 'NC'
-county: 'Guilford County'
-fips: '37081'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: AUTHORIZE STAFF TO UTILIZE THE DESIGN-BUILD CONSTRUCTION CONTRACT M
 
 Matched keywords: detention facility
 
-Full text: 
+Full text:

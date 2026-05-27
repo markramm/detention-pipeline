@@ -2,14 +2,17 @@
 id: columbus-county-oh-columbus-city-council-2025-12-08-to-authorize-the-director-of-the-department-of-development-to-enter-into-the-tif
 title: 'Columbus County OH — Columbus City Council 2025-12-08: To authorize the Director of the Department of Development to enter into the TIF'
 type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'weak'
+notes: 'Matched: property acquisition'
 tags:
 - commission-activity
 - oh
 - weak
 importance: 5
-state: 'OH'
-county: 'Franklin County'
-fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To authorize the Director of the Department of Development to enter
 
 Matched keywords: property acquisition
 
-Full text: 
+Full text:

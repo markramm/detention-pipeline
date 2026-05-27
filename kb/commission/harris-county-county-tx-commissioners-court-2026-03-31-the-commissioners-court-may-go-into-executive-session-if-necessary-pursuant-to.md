@@ -2,14 +2,17 @@
 id: harris-county-county-tx-commissioners-court-2026-03-31-the-commissioners-court-may-go-into-executive-session-if-necessary-pursuant-to
 title: 'Harris County County TX — Commissioners Court 2026-03-31: The Commissioners Court may go into executive session, if necessary, pursuant to'
 type: commission-activity
+county: 'Harris County'
+state: 'TX'
+fips: '48201'
+source: 'Legistar (Harris County)'
+signal_strength: 'weak'
+notes: 'Matched: executive session.*economic'
 tags:
 - commission-activity
 - tx
 - weak
 importance: 5
-state: 'TX'
-county: 'Harris County'
-fips: '48201'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: The Commissioners Court may go into executive session, if necessary
 
 Matched keywords: executive session.*economic
 
-Full text: 
+Full text:

@@ -2,14 +2,17 @@
 id: columbus-county-oh-columbus-city-council-2026-02-23-to-amend-the-2025-capital-improvement-budget-to-authorize-the-city-auditor-to-t
 title: 'Columbus County OH — Columbus City Council 2026-02-23: To amend the 2025 Capital Improvement Budget; to authorize the City Auditor to t'
 type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
 tags:
 - commission-activity
 - oh
 - weak
 importance: 5
-state: 'OH'
-county: 'Franklin County'
-fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To amend the 2025 Capital Improvement Budget; to authorize the City
 
 Matched keywords: real estate.*(?:acquisition|purchase|federal)
 
-Full text: 
+Full text:

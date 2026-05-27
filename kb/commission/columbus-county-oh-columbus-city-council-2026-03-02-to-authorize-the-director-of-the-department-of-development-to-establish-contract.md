@@ -2,14 +2,17 @@
 id: columbus-county-oh-columbus-city-council-2026-03-02-to-authorize-the-director-of-the-department-of-development-to-establish-contract
 title: 'Columbus County OH — Columbus City Council 2026-03-02: To authorize the Director of the Department of Development to establish contract'
 type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
 tags:
 - commission-activity
 - oh
 - weak
 importance: 5
-state: 'OH'
-county: 'Franklin County'
-fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To authorize the Director of the Department of Development to estab
 
 Matched keywords: real estate.*(?:acquisition|purchase|federal)
 
-Full text: 
+Full text:

@@ -2,14 +2,17 @@
 id: cumberland-county-county-nc-board-of-commissioners-2025-11-17-authorize-the-county-manager-to-provide-notice-no-later-than-december-1-2025-t
 title: 'Cumberland County County NC — Board of Commissioners 2025-11-17: Authorize the County Manager to provide notice no later than December 1, 2025, t'
 type: commission-activity
+county: 'Cumberland County'
+state: 'NC'
+fips: '37051'
+source: 'Legistar (Cumberland County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b, immigration and customs enforcement'
 tags:
 - commission-activity
 - nc
 - moderate
 importance: 5
-state: 'NC'
-county: 'Cumberland County'
-fips: '37051'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Authorize the County Manager to provide notice no later than Decemb
 
 Matched keywords: \bICE\b, immigration and customs enforcement
 
-Full text: 
+Full text:

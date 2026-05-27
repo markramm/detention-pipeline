@@ -2,14 +2,17 @@
 id: snohomish-county-county-wa-public-infrastructure-and-conservation-committee-2025-11-04-motion-25-486-approving-real-estate-purchase-and-sale-agreement-between-mid-ohi
 title: 'Snohomish County County WA — Public Infrastructure and Conservation Committee 2025-11-04: Motion 25-486, approving real estate purchase and sale agreement between Mid Ohi'
 type: commission-activity
+county: 'Snohomish County'
+state: 'WA'
+fips: '53061'
+source: 'Legistar (Snohomish County)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
 tags:
 - commission-activity
 - wa
 - weak
 importance: 5
-state: 'WA'
-county: 'Snohomish County'
-fips: '53061'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Motion 25-486, approving real estate purchase and sale agreement be
 
 Matched keywords: real estate.*(?:acquisition|purchase|federal)
 
-Full text: 
+Full text:

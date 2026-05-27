@@ -2,14 +2,17 @@
 id: snohomish-county-county-wa-general-legislative-session-2025-11-12-motion-25-486-approving-real-estate-purchase-and-sale-agreement-between-mid-ohi
 title: 'Snohomish County County WA — General Legislative Session 2025-11-12: Motion 25-486, approving real estate purchase and sale agreement between Mid Ohi'
 type: commission-activity
+county: 'Snohomish County'
+state: 'WA'
+fips: '53061'
+source: 'Legistar (Snohomish County)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
 tags:
 - commission-activity
 - wa
 - weak
 importance: 5
-state: 'WA'
-county: 'Snohomish County'
-fips: '53061'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Motion 25-486, approving real estate purchase and sale agreement be
 
 Matched keywords: real estate.*(?:acquisition|purchase|federal)
 
-Full text: 
+Full text:

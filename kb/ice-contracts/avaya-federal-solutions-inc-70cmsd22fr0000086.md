@@ -6,7 +6,7 @@ state: 'VA'
 contractor: 'AVAYA FEDERAL SOLUTIONS, INC.'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$3,152,468.74'
+contract_value: '$3,152,468.71'
 contract_type: 'federal-contract'
 award_date: '2022-08-02'
 usaspending_id: '70CMSD22FR0000086'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: AVAYA FEDERAL SOLUTIONS, INC.
 Award ID: 70CMSD22FR0000086
-Amount: $3,152,468.74
+Amount: $3,152,468.71
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: SEVP TELEPHONY OPERATIONS & MANAGEMENT SUPPORT

@@ -2,14 +2,17 @@
 id: san-diego-county-county-ca-board-of-supervisors-2026-01-13-general-services-authorization-to-advertise-and-award-a-public-works-contract
 title: 'San Diego County County CA — BOARD OF SUPERVISORS 2026-01-13: GENERAL SERVICES - AUTHORIZATION TO ADVERTISE AND AWARD A PUBLIC WORKS CONTRACT '
 type: commission-activity
+county: 'San Diego County'
+state: 'CA'
+fips: '06073'
+source: 'Legistar (San Diego County)'
+signal_strength: 'strong'
+notes: 'Matched: detention facility'
 tags:
 - commission-activity
 - ca
 - strong
 importance: 5
-state: 'CA'
-county: 'San Diego County'
-fips: '06073'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: GENERAL SERVICES - AUTHORIZATION TO ADVERTISE AND AWARD A PUBLIC WO
 
 Matched keywords: detention facility
 
-Full text: 
+Full text:

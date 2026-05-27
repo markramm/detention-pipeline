@@ -2,14 +2,17 @@
 id: columbus-county-oh-columbus-city-council-2025-11-17-to-authorize-the-director-of-finance-and-management-on-behalf-of-the-department
 title: 'Columbus County OH — Columbus City Council 2025-11-17: To authorize the Director of Finance and Management, on behalf of the Department'
 type: commission-activity
+county: 'Columbus'
+state: 'OH'
+fips: '39049'
+source: 'Legistar (Columbus)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
 tags:
 - commission-activity
 - oh
 - moderate
 importance: 5
-state: 'OH'
-county: 'Franklin County'
-fips: '39049'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: To authorize the Director of Finance and Management, on behalf of t
 
 Matched keywords: \bICE\b
 
-Full text: 
+Full text:

@@ -2,14 +2,17 @@
 id: milwaukee-county-wi-common-council-2026-01-20-resolution-directing-the-commissioner-of-public-works-to-execute-a-document-titl
 title: 'Milwaukee County WI — COMMON COUNCIL 2026-01-20: Resolution directing the Commissioner of Public Works to execute a document titl'
 type: commission-activity
+county: 'Milwaukee'
+state: 'WI'
+fips: '55079'
+source: 'Legistar (Milwaukee)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
 tags:
 - commission-activity
 - wi
 - weak
 importance: 5
-state: 'WI'
-county: 'Milwaukee County'
-fips: '55079'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Resolution directing the Commissioner of Public Works to execute a 
 
 Matched keywords: real estate.*(?:acquisition|purchase|federal)
 
-Full text: 
+Full text:

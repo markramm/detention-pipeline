@@ -2,14 +2,17 @@
 id: harris-county-county-tx-commissioners-court-2026-02-12-request-by-the-office-of-county-administration-for-an-executive-session-pursuan
 title: 'Harris County County TX — Commissioners Court 2026-02-12: Request by the Office of County Administration for an Executive Session, Pursuan'
 type: commission-activity
+county: 'Harris County'
+state: 'TX'
+fips: '48201'
+source: 'Legistar (Harris County)'
+signal_strength: 'weak'
+notes: 'Matched: executive session.*economic'
 tags:
 - commission-activity
 - tx
 - weak
 importance: 5
-state: 'TX'
-county: 'Harris County'
-fips: '48201'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Request by the Office of County Administration for an Executive Ses
 
 Matched keywords: executive session.*economic
 
-Full text: 
+Full text:

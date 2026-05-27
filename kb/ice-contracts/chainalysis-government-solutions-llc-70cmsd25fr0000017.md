@@ -1,0 +1,33 @@
+---
+id: chainalysis-government-solutions-llc-70cmsd25fr0000017
+title: 'CHAINALYSIS GOVERNMENT SOLUTIONS, LLC — 70CMSD25FR0000017 (VA) $52,605'
+type: ice-contract
+state: 'VA'
+contractor: 'CHAINALYSIS GOVERNMENT SOLUTIONS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$52,605.09'
+contract_type: 'federal-contract'
+award_date: '2025-03-10'
+usaspending_id: '70CMSD25FR0000017'
+source: 'USAspending.gov (award 70CMSD25FR0000017)'
+signal_strength: 'weak'
+notes: 'THIS DELIVERY ORDER IS FOR CHAINALYSIS ALL ASSETS AND OBSERVATION SOFTWARE LICENSES FOR HOMELAND SECURITY INVESTIGATIONS (HSI). THE SOFTWARE WILL BE USED FOR BLOCKCHAIN ANALYTIC SUPPORT SERVICES TO ASSIST IN HSI CYBER INVESTIGATIONS NATIONWIDE.'
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: CHAINALYSIS GOVERNMENT SOLUTIONS, LLC
+Award ID: 70CMSD25FR0000017
+Amount: $52,605.09
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS DELIVERY ORDER IS FOR CHAINALYSIS ALL ASSETS AND OBSERVATION SOFTWARE LICENSES FOR HOMELAND SECURITY INVESTIGATIONS (HSI). THE SOFTWARE WILL BE USED FOR BLOCKCHAIN ANALYTIC SUPPORT SERVICES TO ASSIST IN HSI CYBER INVESTIGATIONS NATIONWIDE.
+Period: 2025-03-10 to 2026-03-09
+Location: None, VA

@@ -2,14 +2,17 @@
 id: bellevue-county-wa-city-council-regular-meeting-2026-04-14-resolution-authorizing-submittal-of-four-grant-applications-to-the-state-of-wash
 title: 'Bellevue County WA — City Council Regular Meeting 2026-04-14: Resolution authorizing submittal of four grant applications to the State of Wash'
 type: commission-activity
+county: 'Bellevue'
+state: 'WA'
+fips: '53033'
+source: 'Legistar (Bellevue)'
+signal_strength: 'weak'
+notes: 'Matched: property acquisition'
 tags:
 - commission-activity
 - wa
 - weak
 importance: 5
-state: 'WA'
-county: 'King County'
-fips: '53033'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Resolution authorizing submittal of four grant applications to the 
 
 Matched keywords: property acquisition
 
-Full text: 
+Full text:

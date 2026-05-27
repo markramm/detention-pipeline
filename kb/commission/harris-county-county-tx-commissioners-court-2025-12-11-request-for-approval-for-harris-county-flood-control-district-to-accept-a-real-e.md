@@ -2,14 +2,17 @@
 id: harris-county-county-tx-commissioners-court-2025-12-11-request-for-approval-for-harris-county-flood-control-district-to-accept-a-real-e
 title: 'Harris County County TX — Commissioners Court 2025-12-11: Request for approval for Harris County Flood Control District to accept a real e'
 type: commission-activity
+county: 'Harris County'
+state: 'TX'
+fips: '48201'
+source: 'Legistar (Harris County)'
+signal_strength: 'weak'
+notes: 'Matched: real estate.*(?:acquisition|purchase|federal)'
 tags:
 - commission-activity
 - tx
 - weak
 importance: 5
-state: 'TX'
-county: 'Harris County'
-fips: '48201'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Request for approval for Harris County Flood Control District to ac
 
 Matched keywords: real estate.*(?:acquisition|purchase|federal)
 
-Full text: 
+Full text:

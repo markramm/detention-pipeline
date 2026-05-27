@@ -2,14 +2,17 @@
 id: oklahoma-county-county-ok-budget-evaluation-team-2025-11-10-discussion-and-possible-action-regarding-a-financial-and-operational-update-from
 title: 'Oklahoma County County OK — Budget Evaluation Team 2025-11-10: Discussion and possible action regarding a financial and operational update from'
 type: commission-activity
+county: 'Oklahoma County'
+state: 'OK'
+fips: '40109'
+source: 'Legistar (Oklahoma County)'
+signal_strength: 'strong'
+notes: 'Matched: detention center'
 tags:
 - commission-activity
 - ok
 - strong
 importance: 5
-state: 'OK'
-county: 'Oklahoma County'
-fips: '40109'
 ---
 
 County commission agenda item matching detention pipeline keywords.
@@ -20,4 +23,4 @@ Agenda Item: Discussion and possible action regarding a financial and operationa
 
 Matched keywords: detention center
 
-Full text: 
+Full text:
