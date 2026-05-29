@@ -840,9 +840,21 @@
       "last_researched": "2026-04-12",
       "notes": "Union \u2014 Elizabeth CoreCivic 300-bed, 3rd Circuit upheld operation, contract extension. Score 10."
     },
+    "35006": {
+      "last_researched": "2026-05-28",
+      "notes": "Cibola County Correctional Center (CoreCivic, Milan ~230 detainees). County voted to exit; CoreCivic went direct-federal no-bid eff May 1 2026. Facility entry + shared county-fight created."
+    },
     "35009": {
       "last_researched": "2026-04-12",
       "notes": "Curry NM \u2014 only 287(g), forced to terminate"
+    },
+    "35035": {
+      "last_researched": "2026-05-28",
+      "notes": "Otero County Processing Center (MTC ~1,000 beds, Chaparral). 5-yr ICE extension in defiance of HB9; NM Supreme Court declined to intervene; AG paused enforcement after DOJ suit. Facility entry + county-fight created."
+    },
+    "35057": {
+      "last_researched": "2026-05-28",
+      "notes": "Torrance County Detention Facility (CoreCivic, Estancia). 2022 death (Kesley Vial, settled Jan 2026) + DHS IG removal recommendation. Direct-federal no-bid bypass eff May 1 2026. Facility entry + shared county-fight created."
     },
     "36003": {
       "last_researched": "2026-04-13",
@@ -1351,8 +1363,8 @@
       "notes": "Delaney Hall ~300-detainee hunger/labor strike May 22-26; Sen. Andy Kim pepper-sprayed, Gov. Sherrill denied entry, strike leader Soto transferred to Elizabeth in isolation; DHS Sec. Mullin dismissive. Roxbury warehouse: May 12 joint stipulation mooted injunction hearing, DHS must complete full NEPA review before construction. JBMDL tent-city up to 3,000 (no construction yet). Bergen contract litigation continuing. 6 entries updated."
     },
     "NM": {
-      "last_researched": "2026-04-12",
-      "notes": "Curry County only 287(g), forced to terminate by Immigrant Safety Act May 2026."
+      "last_researched": "2026-05-28",
+      "notes": "HB9 Immigrant Safety Act (eff. May 20 2026) bans local ICE contracts; all 3 facilities stayed open. Otero (MTC) defied via 5-yr extension, NM Supreme Court declined to intervene, AG paused enforcement after US DOJ sued NM. Torrance + Cibola (CoreCivic) went direct-federal no-bid contract eff. May 1. Curry 287(g) must terminate. Created 3 facility entries, 2 county-fights, 1 statewide note."
     },
     "NV": {
       "last_researched": "2026-05-28",
