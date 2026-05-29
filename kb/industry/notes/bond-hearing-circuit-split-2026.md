@@ -32,23 +32,31 @@ outcomes across the state habeas crises this KB tracks.
 
 ## The Split (as of late May 2026)
 
-**FOR bond hearings (3 circuits, against the government's mandatory-detention policy):**
-- **Sixth Circuit** — May 11, 2026, *Lopez-Campos v. Raycraft*, ruled **2-1** that
-  detaining long-term residents (not arrested at the border) without a bond hearing
-  violates due process; held the government wrongly applied 8 U.S.C. § 1225(b) to
-  people already living inside the U.S. (the correct provision, § 1226(a), allows a
-  bond hearing); noted the government's "previously unbroken 29-year streak." Binds
-  **KY, TN, MI, OH**. See [[kentucky-sixth-circuit-bond-hearing-ruling-2026]];
-  district courts began granting habeas relief immediately (Western District of KY
-  ~75% grant rate). It was the **third** appeals court to block the policy, joining:
-- **Second Circuit** (binds **NY, CT, VT**) and **Eleventh Circuit** (binds **FL, GA,
-  AL**) — both also ruled the mandatory-detention reinterpretation unlawful, on the
-  same § 1225(b)-vs-§ 1226(a) ground. (Citations need a confirming pass.)
+**FOR bond hearings (3 circuits, against the government's mandatory-detention policy),
+in order of decision:**
+- **Second Circuit — *Cunha v. Freden*, Apr 28, 2026, 3-0** (Judge Joseph Bianco, a
+  Trump appointee). The **first** appeals court to reject the policy; held the
+  government's reading would create "the broadest mass-detention-without-bond mandate
+  in American history." Binds **NY, CT, VT**.
+- **Eleventh Circuit — *Hernández Álvarez v. Warden, FDC Miami*, No. 25-14065, May 6,
+  2026, 2-1.** Held immigrants who entered without inspection but were arrested in the
+  interior are entitled to bond hearings under INA § 236(a) (8 U.S.C. § 1226(a)), not
+  mandatory detention under § 235(b)(2)(A) (§ 1225(b)). Binds **FL, GA, AL**.
+- **Sixth Circuit — *Lopez-Campos v. Raycraft*, May 11, 2026, 2-1.** The **third** to
+  block the policy; same § 1225(b)-vs-§ 1226(a) ground; noted the government's
+  "previously unbroken 29-year streak." Binds **KY, TN, MI, OH**. See
+  [[kentucky-sixth-circuit-bond-hearing-ruling-2026]]; district courts began granting
+  habeas relief immediately (Western District of KY ~75% grant rate).
 
 **AGAINST (2 circuits, upholding mandatory detention without bond):**
-- **Fifth Circuit — AGAINST.** Upheld mandatory detention without bond; binds
-  **TX, LA, MS**. Stalled the bond dockets at [[adams-county-correctional-center-ms]]
-  and across the Louisiana detention economy.
+- **Fifth Circuit — *Buenrostro-Mendez v. Bondi*, 166 F.4th 494 (5th Cir.), Feb 6,
+  2026, 2-1** (Judge Edith Jones, joined by Kyle Duncan; Judge Dana Douglas
+  dissenting). The **earliest** circuit ruling and the outlier that opened the split:
+  upheld indefinite no-bond detention under § 1225(b)(2)(A) for anyone who entered
+  without inspection, regardless of how long ago. Binds **TX, LA, MS** — the circuit
+  with the **largest detained population** (~15,000 affected). Stalled the bond
+  dockets at [[adams-county-correctional-center-ms]] and across the Louisiana
+  detention economy.
 - **Eighth Circuit — AGAINST.** Late-March 2026, ruled **2-1** for mandatory
   detention without bond; binds **MN, IA, MO, AR, NE, ND, SD**. Gutted the statutory
   basis for ~30 wrongful-detention habeas suits filed in Nebraska federal court (see
@@ -73,20 +81,26 @@ outcomes across the state habeas crises this KB tracks.
 
 ## Open Questions / Research Gaps
 
-- Confirm the **Second and Eleventh Circuit** case names/dates (added from the "third
-  circuit to block" reporting on the Sixth's *Lopez-Campos v. Raycraft*; both need a
-  direct citation pass).
-- Confirm the exact **Fifth Circuit** case name/date (the Eighth's late-March 2-1 and
-  the Sixth's May 11 ruling are dated; the Fifth's specific opinion needs a citation).
+- Citations CONFIRMED (May 28, 2026): 2nd *Cunha v. Freden* (Apr 28), 11th *Hernández
+  Álvarez v. Warden FDC Miami* No. 25-14065 (May 6), 6th *Lopez-Campos v. Raycraft*
+  (May 11), 5th *Buenrostro-Mendez v. Bondi* 166 F.4th 494 (Feb 6), 8th (late March).
+- **Eighth Circuit** case name/date still needs the specific citation (ruling is dated
+  ~Mar 25 2026, 2-1, but the opinion caption is not yet captured here).
 - **Ninth Circuit (WA/OR/CA, the largest sanctuary bloc) and First Circuit (MA/NH/ME/RI)**
-  status not yet confirmed here; the RI habeas wave (130+ cases) suggests the First is
-  active but unresolved.
+  status not yet confirmed; the RI habeas wave (135 cases) suggests the First is active
+  but unresolved.
 - Track any cert petition / SCOTUS grant — that would be the dispositive next event.
 - NOTE: an early agent summary mislabeled the Sixth Circuit as ruling *for* no-bond;
-  verified May 28 2026 via multiple sources (Minnesota Lawyer, ACLU, Stateline) that
-  the Sixth ruled **FOR** bond hearings. Don't let that error propagate.
+  verified May 28 2026 via multiple sources that the Sixth ruled **FOR** bond hearings.
+  Don't let that error propagate.
 
 ## Sources
+- [Second federal appeals court rejects Trump's no-bond immigration detentions, deepening circuit split — WABE (2026)](https://www.wabe.org/second-federal-appeals-court-rejects-trumps-no-bond-immigration-detentions-deepening-circuit-split/)
+- [New Eleventh Circuit Decision Expands Bond Eligibility (GA/FL/AL) — Zambrano Law (May 2026)](https://www.zambranolaw.com/blog/2026/05/new-eleventh-circuit-decision-expands-bond-eligibility-for-immigrants-detained-in-georgia-florida-and-alabama/)
+- [Eleventh Circuit published opinion No. 25-14065 (Hernández Álvarez)](https://media.ca11.uscourts.gov/opinions/pub/files/202514065.pdf)
+- [Fifth Circuit Backs Expansion of Immigration Detention Without Bond — Phelps (2026)](https://www.phelps.com/insights/fifth-circuit-backs-trump-administrations-expansion-of-immigration-detention-without-bond.html)
+- [Defending the Right of Longtime Residents to Challenge Detention — American Immigration Council](https://www.americanimmigrationcouncil.org/litigation/bond-hearings-longtime-residents/)
+- [When Liberty is the Exception: bond hearings in prolonged detention — Columbia Human Rights Law Review](https://hrlr.law.columbia.edu/hrlr-online/when-liberty-is-the-exception-the-scattered-right-to-bond-hearings-in-prolonged-immigration-detention/)
 - [[kentucky-sixth-circuit-bond-hearing-ruling-2026]] (KY note — Sixth Circuit, full sourcing)
 - [[nebraska-ice-detention-overview-2025-2026]] (NE note — Eighth Circuit application)
 - [[adams-county-correctional-center-ms]] (MS facility — Fifth/Eighth stalled dockets)
