@@ -14,7 +14,8 @@ tags:
 - gulf-coast
 - deaths-in-custody
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Mississippi ICE Detention Overview
@@ -54,6 +55,14 @@ Mississippi has **one of the smallest immigrant populations** of any U.S. state,
 8. **Feb 4, 2026**: Sen. Wicker writes DHS opposing Byhalia
 9. **Feb 6, 2026**: Noem agrees to abandon Byhalia warehouse plan
 10. **Feb 12, 2026**: MS House passes HB 538 (anti-sanctuary expansion)
+11. **Feb/Mar 2026**: 5th Circuit (Feb) and 8th Circuit (Mar) uphold mandatory detention — stalls Adams County detainees' release bids
+12. **~Mar 2026**: DHS Secretary Noem fired; replaced by Markwayne Mullin (undercuts the verbal Byhalia "look elsewhere" promise)
+13. **Apr 2-9, 2026**: Adams County ICE population plummets ~700-1,000 in three weeks; rumors of closure (ICE says facility stays open, no WARN notice filed)
+14. **Apr 9, 2026**: Rep. Bennie Thompson (D-MS-02) conducts 3.5-hour oversight visit at Adams County
+15. **Apr 21, 2026**: ICE arrests Makoka brothers (F-1 students, one age 15) at Hancock County school bus stop
+16. **Apr 2026**: MS Legislature passes SB 2114 (illegal entry as state crime, Texas SB 4-style); Reeves to sign; ACLU signals challenge
+17. **Apr 28, 2026**: Sen. Chris Murphy warns Byhalia mayor + 20 localities the ICE warehouse deal could revive
+18. **Apr 30, 2026**: Makoka brothers released to host family after 3,000+ signature campaign
 
 ## Heatmap County Analysis
 
@@ -74,6 +83,14 @@ Mississippi has **one of the smallest immigrant populations** of any U.S. state,
 4. **Byhalia resurrection**: The "look elsewhere" language leaves the door open; monitor for any new warehouse scouting in MS
 5. **Adams County budget dependency**: Budget-distress signal + $3.9M/month from ICE = a county likely dependent on detention revenue
 6. **Stone County triple-model**: Only jurisdiction with all three 287(g) models — what does street-level TFM enforcement look like in a rural MS county?
+
+## What's New Since April 2026
+
+- **Adams County population mystery**: The largest MS ICE facility lost roughly half its population in three weeks (April), with no closure notice. Whether this is a quiet wind-down, a transfer to Tutwiler/Louisiana, or a pause before a re-fill is the single most important open question in the state.
+- **Mandatory detention upheld**: Appellate rulings (5th/8th Circuits) have left hundreds of Adams County detainees stuck awaiting bond rulings, lengthening stays.
+- **Byhalia not truly dead**: Noem's firing voided the official who made the verbal promise; Sen. Murphy's April letter treats the site as still live.
+- **Legislative escalation**: SB 2114 criminalizes illegal entry at the state level (Texas SB 4 model) — a new front beyond 287(g) and the Glacier Act.
+- **A community win**: The Makoka brothers' release (Hancock County) shows even an 80%-Trump Gulf Coast county can mobilize bipartisan opposition to a sympathetic detention case.
 
 ## Sources
 

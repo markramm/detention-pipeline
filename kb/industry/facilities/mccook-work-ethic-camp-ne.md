@@ -22,8 +22,9 @@ tags:
 - minnesota-transfers
 - nebraska
 - budget-distress
+- eighth-circuit-ruling
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # McCook Work Ethic Camp ("Cornhusker Clink")
@@ -58,6 +59,10 @@ The **Work Ethic Camp** in McCook, Nebraska was converted from a low-security st
 - **December 2025**: State lawmaker twice denied entry, calls it a law violation
 - **February 2026**: ACLU Nebraska files first federal lawsuits on behalf of detainees
 - **February 10, 2026**: Federal judge sides with McCook detainee in ACLU lawsuit (Carlos Roldan Chang)
+- **Late March 2026**: Eighth Circuit rules 2-1 for the government's no-bond mandatory-detention position, narrowing the statutory basis for McCook detainees' habeas suits going forward
+- **March 27, 2026**: Red Willow County District Court Judge Patrick M. Heng dismisses the resident lawsuit challenging the conversion (Schimek case)
+- **April 23, 2026**: Nebraska Appleseed appeals the dismissal on separation-of-powers grounds
+- **May 14, 2026**: Closure of Florida's "Alligator Alcatraz" prompts questions about McCook; state reaffirms commitment through Sept 29, 2027 contract end
 
 ## Legal Challenges
 
@@ -70,9 +75,17 @@ Two federal lawsuits filed in U.S. District Court of Nebraska:
 
 Both cases highlight problems with **attorney access** at the hybrid state-federal facility. The facility's remote location (McCook, pop. ~7,500) makes legal representation extremely difficult.
 
-### Local Opposition Lawsuit
+### Local Opposition Lawsuit (Schimek case)
 
-McCook residents filed a lawsuit to stop the conversion. A temporary injunction was denied by a Red Willow County District Court judge.
+McCook residents — former state Sen. DiAnna Schimek and 13 others — filed suit (Oct 15, 2025) to stop the conversion, arguing Gov. Pillen and NDCS Director Rob Jeffreys lacked unilateral authority to repurpose the prison. A temporary injunction was denied, and on **March 27, 2026** Red Willow County District Court Judge Patrick M. Heng **dismissed** the case, finding the legislature had not limited NDCS detention authority to sentenced inmates. **Nebraska Appleseed appealed on April 23, 2026** on separation-of-powers grounds.
+
+### Eighth Circuit No-Bond Ruling (late March 2026)
+
+A three-judge panel of the Eighth U.S. Circuit Court of Appeals ruled 2-1 backing the government's position that most undocumented immigrants can be detained without bond regardless of criminal history or community ties. This eliminates the primary statutory hook for McCook detainees' wrongful-detention habeas petitions (≈30 filed in Nebraska federal court since summer 2025, most winning release pre-ruling) and pushes future challenges toward constitutional due-process theories.
+
+### "Alligator Alcatraz" Comparison (May 2026)
+
+After Florida shuttered its "Alligator Alcatraz" facility, attention turned to McCook as a comparable politically-branded state-ICE facility. Nebraska reaffirmed its commitment to the contract running through Sept 29, 2027; no early-closure plans announced.
 
 ### Legislative Access Denied
 
@@ -96,3 +109,7 @@ This is a novel model: a **state government directly operating ICE detention** r
 - [Nebraska Examiner: federal judge ruling](https://nebraskaexaminer.com/2026/02/10/federal-judge-sides-with-mccook-migrant-detainee-in-aclu-nebraska-lawsuit/)
 - [Nebraska Examiner: lawmaker denied entry](https://nebraskaexaminer.com/2025/12/08/nebraska-lawmaker-was-twice-denied-entry-to-mccook-ice-jail-calls-it-law-violation/)
 - [CNN: Cornhusker Clink impact](https://www.cnn.com/2025/11/01/us/nebraska-cornhusker-clink-ice-detention-center)
+- [WOWT: McCook lawsuit dismissed](https://www.wowt.com/2026/03/27/lawsuit-fighting-mccook-ice-facility-dismissed/)
+- [1011now: Nebraska Appleseed appeals dismissal](https://www.1011now.com/2026/04/23/nebraska-appleseed-appeals-ruling-mccook-ice-detention-facility/)
+- [Nebraska Public Media: Eighth Circuit narrows wrongful-detention path](https://nebraskapublicmedia.org/en/news/news-articles/after-appeals-court-ruling-pathway-for-wrongful-immigration-detention-lawsuits-in-nebraska-narrows/)
+- [1011now: Alligator Alcatraz closure prompts McCook questions](https://www.1011now.com/2026/05/14/closing-alligator-alcatraz-prompts-questions-about-ice-facility-nebraska/)

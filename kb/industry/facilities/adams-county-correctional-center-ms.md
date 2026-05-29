@@ -22,15 +22,18 @@ tags:
 - mega-facility
 - budget-distress
 - conditions-crisis
+- population-decline
+- congressional-oversight
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Adams County Correctional Center (ACCC)
 
 ## Overview
 
-The **Adams County Correctional Center** in Natchez is the **second largest ICE detention facility in the entire country**, averaging **2,154 detainees per day** as of early 2026. Mississippi has one of the smallest immigrant populations of any state, yet houses one of the nation's biggest detention operations. The facility is privately owned and operated by **CoreCivic Inc.** under an Intergovernmental Service Agreement (IGSA) with ICE and Adams County.
+The **Adams County Correctional Center** in Natchez is the **second largest ICE detention facility in the entire country** when full, averaging **2,154 detainees per day** in early 2026 — but its population **dropped by nearly 1,000 in three weeks** in April 2026 (see below). Mississippi has one of the smallest immigrant populations of any state, yet houses one of the nation's biggest detention operations. The facility is privately owned and operated by **CoreCivic Inc.** under an Intergovernmental Service Agreement (IGSA) with ICE and Adams County.
 
 ## Key Details
 
@@ -54,6 +57,26 @@ The **Adams County Correctional Center** in Natchez is the **second largest ICE 
 - Nurses reportedly told family that Rodriguez's injuries appeared **inconsistent with ICE's account**
 - Rodriguez was one of **7 ICE custody deaths in December 2025** alone
 - 2025 was the **deadliest year for ICE detention** since the agency was formed, with **33 in-custody deaths**
+
+## Population Plummet — April 2026
+
+The facility's population **nosedived by nearly 1,000 detainees in roughly three weeks** in April 2026, leaving several housing units vacant and triggering rumors among detainees that the facility was closing.
+
+- **April 2, 2026**: ICE reported ~2,100 held
+- **April 9, 2026**: When Rep. Bennie Thompson (D-MS-02) visited, only ~**1,400 detainees** remained — a drop of ~700 in one week
+- **Late April 2026**: A detainee reported the kitchen was preparing only **1,247 meals**, suggesting the decline continued
+- **No closure**: ICE spokesperson **Angelina Vicknair** said the facility "will remain open." Under federal WARN-type labor law, CoreCivic would have to file written notice before laying off its ~400 employees; the MS Dept. of Employment Security confirmed **no such notice** had been filed.
+- ICE characterized the swing as **"normal"** population fluctuation. Reporters could not independently confirm the cause; possibilities include transfers to other facilities or releases tied to stalled court dockets.
+
+This matters because Adams is the county's largest-employer detention operation: a sudden, unexplained 50% population drop with no closure notice is the kind of signal that precedes either a quiet wind-down or a re-fill from a new enforcement surge.
+
+## Stalled Detainee Court Cases — 2026
+
+Hundreds of people held at ACCC have **waited months** for a judge to rule on habeas/bond arguments to be released while their immigration cases proceed. In **February 2026 the 5th Circuit** (TX/LA/MS) upheld the administration's **mandatory detention** policy, as did the **8th Circuit in March 2026** — decisions that made it harder for ACCC detainees to challenge prolonged detention. Attorneys also reported difficulty reaching clients and hearings not being held as scheduled.
+
+## Rep. Bennie Thompson Oversight Visit — April 9, 2026
+
+Rep. **Bennie Thompson** (D-MS-02), in whose district the facility sits and one of the lawmakers suing the administration over detention transparency, conducted a **3.5-hour visit** on April 9, 2026 to examine living conditions and the Rodriguez death. He reported the bathrooms, kitchen, commissary, and infirmary were clean and received **no direct mistreatment complaints**, though detainees raised concerns about ICE processing, status delays, and clothing access. Thompson said he plans an **unannounced follow-up visit**.
 
 ## Conditions and Oversight
 
@@ -82,3 +105,8 @@ Adams County exemplifies the private prison-to-ICE pipeline: a rural, economical
 - [Mississippi Today: Nicaraguan dead after detention in Mississippi ICE facility](https://mississippitoday.org/2025/12/22/nicaraguan-dead-after-detention-in-mississippi-ice-facility/)
 - [DHS OIG: Violations at Adams County Correctional Center](https://www.oig.dhs.gov/reports/2021/violations-ice-detention-standards-adams-county-correctional-center/oig-21-46-jul21)
 - [CoreCivic: Adams County Correctional Center](https://www.corecivic.com/facilities/adams-county-correctional-center)
+- [Mississippi Today: Population of Mississippi's ICE facility has plummeted (May 1, 2026)](https://mississippitoday.org/2026/05/01/mississippi-ice-facility-population/)
+- [Verite News: What's up with the dramatic dip in Mississippi's ICE population? (Apr 24, 2026)](https://veritenews.org/2026/04/24/mississippi-ice-detention-population-dip/)
+- [Mississippi Today: Q&A: Bennie Thompson on visit to Adams County ICE facility (Apr 17, 2026)](https://mississippitoday.org/2026/04/17/bennie-thompson-ice-facility/)
+- [Mississippi Today: ICE detainee cases in Mississippi remain undecided (Apr 3, 2026)](https://mississippitoday.org/2026/04/03/ice-detainee-cases-remain-undecided/)
+- [Mississippi Today: A man died in a Mississippi ICE facility. Do we know everything we need to know? (Apr 10, 2026)](https://mississippitoday.org/2026/04/10/a-man-died-in-a-mississippi-ice-facility-do-we-know-everything-we-need-to-know/)

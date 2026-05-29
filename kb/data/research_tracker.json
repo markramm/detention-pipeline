@@ -436,6 +436,14 @@
       "last_researched": "2026-05-28",
       "notes": "Winn Correctional: 16th ICE death of 2026 (Cabrera Clemente, Apr 11); ~1,577 held."
     },
+    "23005": {
+      "last_researched": "2026-05-28",
+      "notes": "ME buildout"
+    },
+    "23015": {
+      "last_researched": "2026-05-28",
+      "notes": "ME buildout"
+    },
     "24001": {
       "last_researched": "2026-04-12",
       "notes": "Allegany County \u2014 287(g) signed 2025 (WSO), part of 9-county defiance bloc"
@@ -597,12 +605,12 @@
       "notes": "Washington MN \u2014 Woodbury fight blocked"
     },
     "28001": {
-      "last_researched": "2026-04-12",
-      "notes": "Adams MS -- ACCC 2260 beds, CoreCivic, 2nd largest ICE facility nationally, Rodriguez death Dec 2025, budget-distress signal"
+      "last_researched": "2026-05-28",
+      "notes": "Adams MS -- ACCC population dropped ~50% in Apr 2026 (2100->~1400->kitchen prepping 1247 meals); ICE (Vicknair) says open, no WARN notice; Thompson 3.5hr visit Apr 9; stalled detainee bond dockets after 5th/8th Cir mandatory-detention rulings."
     },
     "28045": {
-      "last_researched": "2026-04-12",
-      "notes": "Hancock MS -- Public Safety Complex, IGSA since 2020, Gulf Coast transit hub, Swamp Sweep intake"
+      "last_researched": "2026-05-28",
+      "notes": "Hancock MS -- Makoka brothers (F-1 students) released to host family Apr 30 2026 after 3000+ sig petition; Israel on ankle monitor for graduation; pursuing F-1 reinstatement. IGSA still active."
     },
     "28047": {
       "last_researched": "2026-04-12",
@@ -617,16 +625,16 @@
       "notes": "Madison MS -- IGSA since 2018, ICE arrests in Canton Dec 2025"
     },
     "28093": {
-      "last_researched": "2026-04-12",
-      "notes": "Marshall MS -- Byhalia 8500-bed mega warehouse BLOCKED by Wicker/Noem Feb 2026"
+      "last_researched": "2026-05-28",
+      "notes": "Marshall MS (Byhalia) -- revival risk: Noem (who made look-elsewhere promise) fired, replaced by Mullin; Sen. Murphy Apr 28 2026 warning letter to mayor + 20 localities re ICE warehouse acquisitions."
     },
     "28131": {
       "last_researched": "2026-04-12",
       "notes": "Stone MS -- Only county with all 3 287(g) models (JEM+WSO+TFM)"
     },
     "28135": {
-      "last_researched": "2026-04-12",
-      "notes": "Tallahatchie MS -- CoreCivic TCCF, 252 ICE beds, expansion Feb 2025"
+      "last_researched": "2026-05-28",
+      "notes": "Tallahatchie MS (Tutwiler) -- confirmed spring 2026 as 2nd active CoreCivic ICE facility in MS (up to 252 ICE beds); plausible transfer dest amid Adams decline."
     },
     "29077": {
       "last_researched": "2026-05-28",
@@ -704,6 +712,14 @@
       "last_researched": "2026-04-13",
       "notes": "Toole MT \u2014 No specific 2025-2026 ICE enforcement activity found; heatmap score 42 from existing signals"
     },
+    "31007": {
+      "last_researched": "2026-05-28",
+      "notes": "Banner County task force 287(g) signed Sept 2025 (Sheriff Hopkins)."
+    },
+    "31017": {
+      "last_researched": "2026-05-28",
+      "notes": "Brown County signed all three 287(g) models then withdrew (rural department could not sustain)."
+    },
     "31043": {
       "last_researched": "2026-04-13",
       "notes": "Dakota NE \u2014 287(g) jail model since 2018, South Sioux City, DHS CRCL found ongoing concerns re: racial profiling, first NE 287(g)"
@@ -721,16 +737,20 @@
       "notes": "Lancaster NE \u2014 No specific detention findings; Lincoln is state capital, anc-contract signal in heatmap"
     },
     "31111": {
-      "last_researched": "2026-04-13",
-      "notes": "Lincoln NE \u2014 County jail IGSA, 19+ Minnesota transfers, Glenn Valley raid detainees held here, detainees held despite bond orders, 280mi from Omaha legal resources"
+      "last_researched": "2026-05-28",
+      "notes": "Lincoln County (North Platte) continues as ICE holding/MN-transfer site; no new 2026-specific development found this pass."
     },
     "31145": {
-      "last_researched": "2026-04-13",
-      "notes": "Red Willow NE \u2014 McCook Work Ethic Camp (Cornhusker Clink), 300-bed state-run ICE detention, $2.46M/mo contract, operational Nov 2025, ACLU lawsuits Feb 2026, local injunction denied"
+      "last_researched": "2026-05-28",
+      "notes": "Red Willow/McCook: Schimek lawsuit dismissed Mar 27, appealed Apr 23; sheriff signed 287(g) MOUs, county board pushback May 12; facility operational, committed thru Sept 2027."
     },
     "31153": {
       "last_researched": "2026-04-13",
       "notes": "Sarpy NE \u2014 County jail IGSA, 21 guaranteed ICE beds at $100/day, Minnesota transfer point"
+    },
+    "31165": {
+      "last_researched": "2026-05-28",
+      "notes": "Sioux County task force 287(g) MOA signed Sept 9, 2025 (Sheriff McCumbers)."
     },
     "31183": {
       "last_researched": "2026-04-13",
@@ -1165,12 +1185,12 @@
       "notes": "Caledonia VT \u2014 Hardwick construction worker arrests Sep 2025 (9 arrested, 7 transferred to Louisiana), coordinated roadside interception"
     },
     "50007": {
-      "last_researched": "2026-04-13",
-      "notes": "Chittenden VT \u2014 CRCF women detention (372 in 2025), South Burlington ICE raid/standoff Mar 2026 (botched, all released), Burlington sanctuary EO, rapid-transfer hub to LA/TX"
+      "last_researched": "2026-05-28",
+      "notes": "Chittenden: Williston ICE intelligence/surveillance center new facility entry; prosecutor non-prosecution county-fight; CRCF female detention; South Burlington raid fallout."
     },
     "50011": {
-      "last_researched": "2026-04-13",
-      "notes": "Franklin VT \u2014 NWSCF detention facility (262 beds, $185/day MOU), Pleasant Valley Farm dairy raid (8 arrested Apr 2025), Swanton Sector CBP hub, highest VT heatmap score"
+      "last_researched": "2026-05-28",
+      "notes": "Franklin: NWSCF Swanton ($185/day MOU, refreshed); Pleasant Valley dairy raid; Border Patrol Swanton Sector primary enforcer (100+ detentions 2025)."
     },
     "51013": {
       "last_researched": "2026-04-13",
@@ -1227,6 +1247,14 @@
     "53077": {
       "last_researched": "2026-05-28",
       "notes": "Yakima Valley spring surge: ~20 arrests/week May 2026 (Toppenish, Grandview, Yakima); highest per-capita in WA."
+    },
+    "54003": {
+      "last_researched": "2026-05-28",
+      "notes": "WV buildout"
+    },
+    "54039": {
+      "last_researched": "2026-05-28",
+      "notes": "WV buildout"
     },
     "55025": {
       "last_researched": "2026-05-28",
@@ -1358,6 +1386,10 @@
       "last_researched": "2026-05-27",
       "notes": "Baltimore-area zoning playbook proliferating: Baltimore CITY (24510) Cohen citywide private-detention prohibited-use zoning ban (committee-advanced Apr 30, full council May 11) + Safe Spaces & Communities Act passed 14-0 Mar 23 (bars ICE from city buildings, limits police coop) + pension-divestment proposal; Baltimore COUNTY (24005) emergency zoning ban 6-0 Feb 17 (Hunt Valley ICE legal-office trigger, retroactive permit revocation). Fallon Building hold-room class action (Judge Rubin) capped facility at 56, AG Brown records suit. Williamsport warehouse NEPA PI (Hurson) still in place. Howard/Elkridge precedent. 287(g) ban + sheriff defiance + Community Trust Act + Dignity Not Detention. Deep."
     },
+    "ME": {
+      "last_researched": "2026-05-28",
+      "notes": "Buildout: state overview note, 2 facilities (Cumberland County Jail, Two Bridges Regional Jail), DOJ confidential-plate-lawsuit county-fight. Operation Catch of the Day (200+ arrested Jan 2026), jails exiting USMS contracts, 287(g) banned, May 28 DOJ plate suit (ME/MA/OR/WA)."
+    },
     "MI": {
       "last_researched": "2026-05-28",
       "notes": "MAY 2026 UPDATE: North Lake/Baldwin (GEO, ~1400 of 1800 beds) hunger strike Apr 21 by ~300 men over prolonged detention/medical neglect/conditions; ACLU-MI + MIRC complaint to ICE Detroit Field Office (dir. Kevin Raycraft) May 14-15 documenting denied insulin/BP meds/mammogram, attorney access blocked, calling for congressional independent investigation. Romulus warehouse: DHS filed ~500pg court docs Apr 22-23 detailing fencing/lead-contamination junkyard concern; still PAUSED under Mullin Noem-era review; ACLU/MIRC/Detroit Justice Center joined NEPA suit May 11; virtual PI hearing May 21, no ruling. ~200 marched Apr 25 (Lt Gov Gilchrist). 287(g): West Branch added (Nov 2025 task-force MOA, Ogemaw Co); ~8 MI agencies total, Genesee+Center Line rescinded. Kent Co sanctuary push continues, no policy adopted."
@@ -1371,8 +1403,8 @@
       "notes": "Corridor expanded E: Ste. Genevieve (400 ICE beds, congressional neglect findings 5/26) + Phelps/Rolla (Apr 2025 suicide, AP investigation). New 287g: Branson 6-0, St. Charles unanimous TFM. St. Louis city 5yr detention ban. Springfield PD/Greene Sheriff DECLINED 287g. 3,200+ arrests since 1/2025, 60+ agreements."
     },
     "MS": {
-      "last_researched": "2026-04-12",
-      "notes": "MS comprehensive: Adams County CC (2nd largest ICE facility, 2260 beds, CoreCivic, Rodriguez death Dec 2025), Tallahatchie CC (252 ICE beds, CoreCivic expansion Feb 2025), Hancock County PSC (Gulf Coast transit hub), Byhalia warehouse fight (8500-bed mega site blocked by Wicker/Noem Feb 2026), mandatory 287(g) for all county jails (SB 2511), Glacier Act funding (SB 2329), Swamp Sweep enforcement ops, Stone County triple-model 287(g)"
+      "last_researched": "2026-05-28",
+      "notes": "MS UPDATE 2026-05: Adams County CC population plummeted ~700-1000 in 3 weeks (Apr 2026), units vacant, closure rumors, ICE says stays open + no WARN notice; Bennie Thompson oversight visit Apr 9; mandatory detention upheld (5th/8th Cir) stalls detainee release bids. Byhalia revival risk sharpens: Noem fired/replaced by Mullin, Sen. Murphy Apr 28 warning letter to mayor+20 localities. SB 2114 passed Apr 2026 (illegal entry as state crime, TX SB4-style, ACLU challenge likely); 287(g) deadline softened to reasonable-attempt by Oct 1 2026. Makoka brothers (F-1 students, Hancock Co school bus arrest) RELEASED Apr 30 after 3000+ sig campaign. Tutwiler/Tallahatchie confirmed 2nd active CoreCivic ICE facility."
     },
     "MT": {
       "last_researched": "2026-04-13",
@@ -1387,8 +1419,8 @@
       "notes": "ND overview: 202 ICE arrests (149% increase), 4 new 287(g) agreements (Dunn, McKenzie, Dickinson PD, Eddy), Grand Forks expanding (300+ beds), Burleigh largest jail (555 beds, ICE surge), Pembina/Mountrail IGSAs, Native American targeting, HB 1303 anti-sanctuary law, DHS sanctuary shaming of 7 counties (deleted), bond denial crisis, single federal immigration attorney in state"
     },
     "NE": {
-      "last_researched": "2026-04-13",
-      "notes": "Nebraska \u2014 329% arrest surge, Cornhusker Clink (McCook 300-bed state-run ICE facility, $2.46M/mo), Glenn Valley Foods raid (80 detained June 2025), 4 active 287(g) agreements (Dakota, Wheeler task force, State Patrol, NDCS), Minnesota transfer hub (Lincoln/Sarpy/Cass), Douglas County IGSA blocked by board, Hall County revived 8-bed IGSA, ACLU litigation ongoing"
+      "last_researched": "2026-05-28",
+      "notes": "McCook conversion lawsuit dismissed Mar 27 then appealed by Nebraska Appleseed Apr 23; 8th Circuit 2-1 no-bond ruling narrows habeas path; 287(g) grew to 4 county sheriffs (added Sioux + Banner task force, Brown signed/withdrew) + NSP + NDCS w/ Oct 2025 federal bounty funding; Red Willow board pushback May 12 on sheriff-signed MOUs; Alligator Alcatraz closure prompts McCook questions, state committed thru Sept 2027."
     },
     "NH": {
       "last_researched": "2026-05-28",
@@ -1451,8 +1483,8 @@
       "notes": "Spanberger (D) escalating clash with ICE: ended state-agency 287(g) Feb 2026, EO restricting ICE on state property May 2026, rescinded Youngkin Augusta prison sale; SB 783 conditions local 287(g) (functional ban). ~11k VA ICE arrests since Jan 2025, most no criminal record. Caroline DF over capacity since Nov 2025; new Riverside Regional Jail (Prince George) staging site (7,344 booked, seeking revenue-driven expansion); Farmville CoreCivic-owned (~685 ADP). ICE eyeing 7 new VA sites per ACLU FOIA. Hanover warehouse + Augusta prison proposals blocked."
     },
     "VT": {
-      "last_researched": "2026-04-13",
-      "notes": "VT 2025-2026: 107 detentions (10x increase), state DOC MOU $185/day (NWSCF Swanton + CRCF S. Burlington), Pleasant Valley dairy raid (8 arrested Apr 2025, 3 deported), Hardwick construction arrests (9 arrested Sep 2025, 7 to LA), South Burlington standoff (Mar 2026, botched raid, all 3 released), Mahdawi/Tendo high-profile cases, Burlington sanctuary EO, H.298 to terminate DOC-ICE cooperation, strong judicial pushback"
+      "last_researched": "2026-05-28",
+      "notes": "May 2026 refresh: new Williston ICE intelligence/surveillance center (AI social-media leads, ~$860k GSA lease) + repeated protests; prosecutor Sarah George refuses to charge ICE protesters (feud w/ state police, AG-bypass threat); 54 ICE arrests Jan2025-Mar2026 (~half no record); Mahdawi removal dismissed (DHS appealing); Castro Guaman traffic-stop release; unmask-ICE push abandoned (S.208); H.298 stalled in committee, MOU still in force."
     },
     "WA": {
       "last_researched": "2026-05-28",
@@ -1461,6 +1493,10 @@
     "WI": {
       "last_researched": "2026-05-28",
       "notes": "Buildout: state overview note, Dodge Detention Facility (only WI ICE site, county-run not GEO, no 287g), Milwaukee courthouse arrests/Dugan, Waukesha 287g dual-model, Dane sanctuary fight. 19/72 counties in 287g; Voces de la Frontera detainer case at WI Supreme Court."
+    },
+    "WV": {
+      "last_researched": "2026-05-28",
+      "notes": "Built out WV gap: state overview note, 4 regional-jail facility entries (South Central/Kanawha, Northern/Marshall, Eastern/Berkeley, Western/Cabell), Berkeley 287(g) county-fight; updated statewide fight. Bed-rental $90/day, 650-arrest Operation County Roads, statewide 287(g), courts halted intake Mar 2026."
     },
     "WY": {
       "last_researched": "2026-05-28",

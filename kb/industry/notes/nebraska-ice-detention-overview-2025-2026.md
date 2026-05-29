@@ -15,8 +15,11 @@ tags:
 - aclu-litigation
 - wheeler-county-task-force
 - nebraska-state-patrol
+- eighth-circuit-ruling
+- sioux-county
+- banner-county
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Nebraska: ICE Detention and Enforcement Overview (2025-2026)
@@ -29,8 +32,13 @@ Nebraska has become a nationally significant test case for state-level cooperati
 
 1. **Dakota County Sheriff** — Jail Enforcement Model (since 2018). Two trained jailers as Designated Immigration Officers. DHS CRCL found "several areas of ongoing concern" related to racial profiling.
 2. **Wheeler County Sheriff** — Task Force Model (approved May 2025). Most aggressive model; allows enforcement outside jails. Sheriff Dale King focused on highway patrol on US-281. First task force model in Nebraska. County has ~800 people.
-3. **Nebraska State Patrol** — Agreement signed 2025. Six trained troopers authorized to question immigration status and make warrantless immigration arrests.
-4. **Nebraska Dept of Correctional Services** — Active agreement (operates McCook facility)
+3. **Sioux County Sheriff** — Task Force Model (MOA signed Sept 9, 2025). Sheriff Chad McCumbers; western Nebraska, ~1,100 residents. Deputies authorized to question immigration status and make arrests. Cited new Oct 2025 federal funding (full salary reimbursement + $1,000/officer/quarter bonus) as motivation.
+4. **Banner County Sheriff** — Task Force Model (Sept 2025). Sheriff Zane Hopkins + one deputy in training; county under 700 residents (Nebraska Panhandle).
+5. **Brown County Sheriff** — Signed up for **all three models** (jail, warrant service, task force) after an ICE outreach email in 2025, then **withdrew** — a small rural department could not fulfill the program requirements. Notable as a county that reversed course.
+6. **Nebraska State Patrol** — Agreement signed 2025. Six trained troopers authorized to question immigration status and make warrantless immigration arrests.
+7. **Nebraska Dept of Correctional Services** — Active agreement (operates McCook facility)
+
+The 287(g) footprint thus grew from 1 county (Dakota, pre-2025) to **four active county sheriffs (Dakota, Wheeler, Sioux, Banner) plus NSP and NDCS** by late 2025 — all four sheriff agreements outside Dakota use the aggressive task force model. Brown County signed and then backed out. A bonus structure effective Oct 1, 2025 fully reimburses 287(g) officer salaries/benefits (plus up to 25% overtime) and pays up to $1,000 per officer per quarter for locating undocumented immigrants.
 
 ### Legislative Response
 
@@ -72,6 +80,12 @@ Nebraska has become a nationally significant test case for state-level cooperati
 - **February 20, 2026**: DACA recipient released from ICE custody
 - **February 24, 2026**: DACA recipient freed from deportation case due to program protections
 - **March 2026**: Nebraska cases highlight "legal morass" from ICE detention
+- **Late March 2026**: **Eighth U.S. Circuit Court of Appeals** rules 2-1 in favor of the government's mandatory-detention-without-bond position, eliminating the primary statutory basis for wrongful-detention habeas suits in Nebraska and six other states. Does not affect detainees already released, but forces future cases to shift from statutory to constitutional due-process arguments. (~30 such suits had been filed in Nebraska's federal district court since summer 2025, most resulting in release before this ruling.)
+- **March 27, 2026**: Red Willow County District Court Judge Patrick M. Heng **dismisses** the Schimek lawsuit challenging the McCook conversion, finding the legislature had not restricted NDCS detention authority to sentenced inmates only
+- **April 12, 2026**: Anti-ICE rally in Fremont; a student protester struck by a Trump-flag SUV that fled the scene
+- **April 23, 2026**: **Nebraska Appleseed appeals** the Schimek dismissal (separation-of-powers / unilateral-authority argument) on behalf of former state Sen. DiAnna Schimek + 13 McCook residents vs. Pillen and NDCS Director Rob Jeffreys
+- **May 12, 2026**: Nebraska Voices + ACLU testify before the **Red Willow County Board** objecting to ICE 287(g) MOUs (including task force model). Commissioner Randy Dean says the board never formally approved them — the **sheriff** signed; board takes no action
+- **May 14, 2026**: Florida's closure of "Alligator Alcatraz" prompts questions about McCook's future; state reaffirms commitment through the Sept 29, 2027 contract end
 
 ## The Glenn Valley Foods Raid (June 2025)
 

@@ -21,7 +21,8 @@ tags:
 - delta
 - multi-jurisdiction
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Tallahatchie County Correctional Facility (TCCF)
@@ -49,9 +50,14 @@ The **Tallahatchie County Correctional Facility** is a 2,500-bed maximum-securit
 
 This is CoreCivic's **second** ICE facility in Mississippi, alongside the much larger Adams County Correctional Center. The expansion follows a national trend of private prison operators repurposing existing capacity for ICE detainees as the Trump administration pushes to expand detention.
 
+## 2026 Status Confirmation
+
+As of spring 2026, Mississippi Today and Verite News confirm Tallahatchie (Tutwiler) is **one of two active CoreCivic ICE facilities in Mississippi** alongside Adams County — the up-to-252-bed ICE designation announced Feb. 2025 is operational and the facility "has held ICE detainees for years." When attention turned to Adams County's April 2026 population plunge, reporters noted Tutwiler as the state's secondary ICE holding site (and a plausible transfer destination), though no specific transfer volume from Adams to Tutwiler has been documented.
+
 ## Sources
 
 - [Delta News TV: A North Delta Prison Plans To House Hundreds of ICE Detainees](https://www.deltanews.tv/news/a-north-delta-prison-plans-to-house-hundreds-of-ice-detainees/article_a923e558-f874-11ef-8649-d30de69fc2f3.html)
 - [Mississippi Today: Miss. private prison OK'd to hold more ICE detainees](https://mississippitoday.org/2025/02/27/mississippi-private-prison-okd-to-hold-more-ice-detainees/)
 - [Axios: CoreCivic signs deal with ICE to expand detention capacity](https://www.axios.com/2025/02/27/private-prison-corecivic-ice-detention-immigrants)
 - [Mississippi Today: Men died in a private Delta prison](https://mississippitoday.org/2025/11/20/men-died-in-a-private-delta-prison-whos-accountable/)
+- [Mississippi Today: What we know about one of the nation's largest ICE facilities (Mar 27, 2026)](https://mississippitoday.org/2026/03/27/ice-facility-mississippi-prison/)

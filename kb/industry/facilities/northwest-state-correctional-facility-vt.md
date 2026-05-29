@@ -22,7 +22,7 @@ tags:
 - expedited-removal
 - franklin-county
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Northwest State Correctional Facility (NWSCF)

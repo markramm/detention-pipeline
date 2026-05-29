@@ -20,11 +20,24 @@ tags:
 - migrant-justice
 - mohsen-mahdawi
 - steven-tendo
+- williston-intelligence-center
+- ice-surveillance
+- prosecutorial-discretion
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Vermont: ICE Detention and Enforcement Overview (2025-2026)
+
+## Update (May 2026)
+
+- **Williston ICE intelligence/surveillance center surfaced as a distinct facility and resistance epicenter.** ICE runs a digital surveillance hub at 426 Industrial Ave (White Cap Business Park), Williston (Chittenden, 50007), with a second site at 188 Harvest Lane. It "analyzes data in numerous law enforcement and immigration databases to develop leads on removable noncitizens" for field offices nationwide, with planned AI social-media scouring. GSA leases it for ~$860k/yr from White Cap Ventures LLC. Protest waves: 100+ (Oct 12, 2025), 13 arrested/cited (Feb 2026), 4 arrested (May 14, 2026). New entry: williston-ice-intelligence-center-vt.
+- **Prosecutor feud.** Chittenden County State's Attorney Sarah George refuses to charge ICE protesters (13 Williston Feb 2026; 6 South Burlington raid Apr 2026; 4 Williston May 2026). State officials threaten to route cases to the VT AG to bypass her; PSC Commissioner Morrison called her "an activist first." New entry: chittenden-county-vt-prosecutor-ice-protest-charges.
+- **Enforcement tally (Jan 2025–Mar 10, 2026):** 54 ICE arrests in VT; nearly half had no criminal record/charges. Collateral ("wrong person") arrests exceeded 25% of apprehensions since Aug 2025. ICE itself made only 38 arrests in 2025 ("a handful of guys" in VT); Border Patrol/Swanton Sector did the bulk (100+).
+- **Mahdawi case dismissed:** Immigration judge terminated Mahdawi's removal proceedings Feb 13, 2026 (government failed to authenticate the Rubio memo); ruling without prejudice, DHS appealed to the BIA in late Feb and signaled plans to resume proceedings (Mar 2026).
+- **Jaime Eliceo Castro Guaman:** Burlington construction worker (asylum pending, work permit, no record) detained at a March 2026 traffic stop while carpooling; agents said they were "looking for someone else." Judge Sessions ordered immediate release after 10 days, finding detention may have violated his constitutional rights.
+- **"Unmask ICE" push abandoned:** Vermont House passed S.208 (statewide police masking/ID policy) May 20, 2026 but narrowly rejected applying it to federal immigration agents (leadership cited constitutional concerns), dividing Democrats.
+- **H.298 status correction:** Despite committee attention, H.298 (restrict DOC cooperation with ICE; would end the MOU) remained stalled — last formal action was referral to House Corrections & Institutions (Feb 20, 2025), with committee work in 2026 but no floor passage. The MOU remains in force.
 
 Vermont has experienced an extraordinary escalation in immigration enforcement since January 2025, driven by its proximity to the Canadian border and the Trump administration's expansion of interior enforcement. The state's prison system serves as the detention infrastructure under a state-level MOU, creating a unique dynamic where the state government is simultaneously the jailer, the critic of federal tactics, and the subject of legislative efforts to terminate the arrangement.
 
@@ -163,3 +176,10 @@ Sources:
 - [VT DOC — Immigration Detainee Dashboard](https://doc.vermont.gov/immigration-detainee-dashboard)
 - [WAMC — Vermont lawmakers outline legislation](https://www.wamc.org/news/2026-01-22/vermont-lawmakers-outline-legislation-to-curb-federal-excesses-in-immigration-enforcement)
 - [Seven Days — Fears of ICE Surge Galvanize Vermonters](https://www.sevendaysvt.com/news/immigration-news/fears-of-ice-surge-galvanize-vermonters-to-respond/)
+- [Vermont Public — Special Report: How ICE operates in Vermont (May 26, 2026)](https://www.vermontpublic.org/local-news/2026-05-26/special-report-how-ice-operates-in-vermont)
+- [VTDigger — Four arrested at protest against ICE at Williston facility (May 14, 2026)](https://vtdigger.org/2026/05/14/four-arrested-at-protest-against-ice-at-williston-facility/)
+- [Boston Globe — Vermont prosecutor refuses to charge ICE protesters (May 22, 2026)](https://www.bostonglobe.com/2026/05/22/metro/vermont-prosecutor-ice-arrests/)
+- [VTDigger — Vermont House stops short of unmasking ICE (May 20, 2026)](https://vtdigger.org/2026/05/20/vermont-house-stops-short-of-unmasking-ice-dividing-house-democrats/)
+- [Vermont Public — Immigration judge dismisses deportation case against Mohsen Mahdawi (Feb 17, 2026)](https://www.vermontpublic.org/local-news/2026-02-17/immigration-judge-dismisses-deportation-case-mohsen-mahdawi)
+- [VTDigger — Judge orders immediate release of man ICE detained after a traffic stop (Mar 19, 2026)](https://vtdigger.org/2026/03/19/judge-orders-immediate-release-of-man-who-ice-detained-after-a-traffic-stop-last-week-the-detention-may-have-violated-the-mans-rights/)
+- [VTDigger — Bill Status H.298](https://legislature.vermont.gov/bill/status/2026/H.298)

@@ -19,7 +19,8 @@ tags:
 - wicker
 - noem
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Marshall County, MS: Byhalia Mega Warehouse Fight
@@ -58,6 +59,15 @@ One of the most significant ICE warehouse fights in the country. DHS proposed co
 - ICE was simultaneously expanding at Adams County and Tallahatchie County CoreCivic facilities
 - The national 24-site warehouse acquisition program continues
 
+## Update — April 2026: Revival Risk Sharpens
+
+The "look elsewhere" win looks increasingly fragile:
+
+- **Noem fired**: About a month after Wicker's Feb. 6 announcement, President Trump **fired DHS Secretary Kristi Noem** and replaced her with **Markwayne Mullin** (former U.S. Senator, OK). The verbal "look elsewhere" commitment was made by an official who is no longer in office — there is no binding written cancellation.
+- **Sen. Chris Murphy warning letter (April 2026)**: Sen. Chris Murphy (D-CT) sent a warning letter to **Byhalia Mayor Donald Hollingsworth and 20 other local governments** nationwide that were "actively" weighing whether to let ICE buy warehouses. Murphy warned that if Democrats retake Congress in the 2026 midterms they would move to **defund the warehouses**, leaving local governments to foot the bill, and said his office did **not have confidence DHS would honor its promises**. That Byhalia received the letter signals the site is still considered a live ICE acquisition target by outside observers.
+
+This reinforces the entry's existing "remaining risk" framing: the Byhalia fight was won on a non-binding promise from an official who has since been removed, and the underlying national warehouse-acquisition program continues.
+
 ## National Context
 
 The Byhalia site was one of the largest on the leaked DHS list of 24 warehouse sites nationwide. The national program aims to add **85,000+ beds** across the country, funded by a **$45 billion** detention expansion budget over four years.
@@ -71,3 +81,4 @@ The Byhalia site was one of the largest on the leaked DHS list of 24 warehouse s
 - [MPB: Marshall County residents rally](https://www.mpbonline.org/blogs/news/marshall-county-residents-rally-against-possible-establishment-of-immigration-facility/)
 - [Fox 13 Memphis: DHS will not convert Byhalia warehouse](https://www.fox13memphis.com/news/dhs-will-not-convert-byhalia-warehouse-into-ice-detention-facility-senator-says/article_41f3c3e8-83a3-4f8e-b4d6-d57c95ef424c.html)
 - [Action News 5: Emergency press conference called](https://www.actionnews5.com/2026/01/16/emergency-press-conference-called-after-possible-ice-scouting-facility-mississippi/)
+- [Mississippi Today: Senator warns Byhalia mayor about 'ICE warehouse' deal scuttled by Noem, Wicker (Apr 28, 2026)](https://mississippitoday.org/2026/04/28/ice-warehouse-byhalia-detention/)

@@ -13,7 +13,8 @@ tags:
 - force-multiplier
 - funding
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Mississippi's 287(g) Mandate and the Glacier Act
@@ -43,6 +44,14 @@ Mississippi is pursuing the most aggressive state-level immigration enforcement 
 ### 3. House Bill 538
 
 **Anti-sanctuary expansion** — would require all state and local government entities to cooperate with immigration enforcement. Passed the Mississippi House in February 2026.
+
+### 4. SB 2114 — Illegal Entry as a State Crime (2026 session)
+
+In **April 2026**, the Mississippi Legislature passed **SB 2114**, which **criminalizes illegal entry at the state level** and heads to Gov. **Tate Reeves**, who signaled he would sign it. Key provisions:
+
+- An alien who enters or attempts to enter Mississippi directly from a foreign nation **anywhere other than a lawful port of entry** faces state criminal charges — a **misdemeanor with a minimum of 6 months** in prison, escalating to **felonies (2+ years)** when combined with other offenses.
+- **287(g) reframed as "reasonable attempt"**: By **October 1, 2026**, each county law-enforcement agency operating a detention facility must make a **reasonable attempt** to execute a 287(g) agreement with ICE, with **quarterly compliance updates** to DPS and reasons for any noncompliance. (Note: this is a softer "reasonable attempt" standard than SB 2511's flat Jan. 1, 2026 mandate — worth tracking how the two laws interact.)
+- The **ACLU of Mississippi** and immigrant-rights groups have signaled likely legal challenges; SB 2114 closely mirrors Texas's SB 4, which has faced extensive federal litigation over state preemption of federal immigration authority.
 
 ## Current 287(g) Agreements in Mississippi
 
@@ -77,3 +86,7 @@ Mississippi's mandatory 287(g) legislation is the most aggressive state-level im
 - [Mississippi Today: Mississippi House passes bill to force local governments to cooperate with ICE](https://mississippitoday.org/2026/02/12/ice-mississippi-enforcement-bill/)
 - [WLOX: Bill introduced would increase ICE presence in Mississippi](https://www.wlox.com/2026/01/20/bill-introduced-would-increase-ice-presence-mississippi/)
 - [DHS: 287(g) Reaches More Than 1,000 Partnerships](https://www.dhs.gov/news/2025/09/17/dhs-287g-reaches-more-1000-partnerships-state-and-local-enforcement-help-remove)
+- [Magnolia Tribune: New Mississippi laws aimed at curbing illegal immigration could face challenges from ACLU (Apr 15, 2026)](https://magnoliatribune.com/2026/04/15/new-mississippi-laws-aimed-at-curbing-illegal-immigration-could-face-challenges-from-aclu/)
+- [SB2329 (As Introduced) — 2026 Regular Session](https://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2329IN.htm)
+- [DeSoto Times: Senate advances Glacier Act to help ICE efforts statewide](https://www.desototimes.com/news/senate-advances-glacier-act-to-help-ice-efforts-statewide/article_dff436a2-e45c-4a4b-a7cd-0c80dc3884ce.html)
+- [Mississippi Today: Lawmakers send immigration and education bills to governor (Mar 31, 2026)](https://mississippitoday.org/2026/03/31/redistricting-supreme-court-immigration-education/)

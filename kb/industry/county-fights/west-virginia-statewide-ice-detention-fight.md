@@ -20,8 +20,8 @@ tags:
 - unmarked-vehicles
 - masked-agents
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # West Virginia Statewide: Operation County Roads, Constitutional Violations, Jail System Suspension
@@ -32,13 +32,13 @@ In January 2026, ICE conducted **"Operation County Roads"**, sweeping more than 
 
 ## Operation County Roads
 
-The January 2026 sweep resulted in 650+ arrests across multiple West Virginia counties. The WV Regional Jail Authority, which had been earning approximately **$90 per day per bed** — totaling roughly **$728,000 in 2025** — became the primary detention infrastructure for the surge. The revenue relationship had made WV jails a willing partner in ICE expansion; the constitutional litigation that followed changed that calculus.
+The January 2026 sweep (Operation County Roads ran **Jan 5-19, 2026**) resulted in **650+ arrests** across multiple West Virginia counties. DHS billed it as a "partnership with West Virginia." Detainees were concentrated at **South Central Regional Jail** in Charleston (Kanawha County), with overflow to **Northern Regional Jail** in Moundsville (Marshall County) and **Western Regional Jail** in Barboursville (Cabell County). As of Jan 26, 2026 there were 252 immigrant detainees in WV jails. The WV Regional Jail Authority, which had been earning approximately **$90 per day per bed** — totaling roughly **$728,000 in 2025** — became the primary detention infrastructure for the surge. The revenue relationship had made WV jails a willing partner in ICE expansion; the constitutional litigation that followed changed that calculus.
 
 ## Judge Goodwin's Rulings
 
 US District Judge **Joseph Goodwin** of the Southern District of West Virginia became the central judicial figure in the litigation. In **March 2026**, Judge Goodwin issued a "**final notice**" to the Trump administration finding that the mass detentions violated the **Fifth Amendment** due to the complete absence of individualized custody hearings. Detaining people in civil immigration proceedings without any individualized determination of flight risk or danger — no hearing, no bond decision, no judicial review — crossed a constitutional line.
 
-Of **71 habeas petitioners**, Judge Goodwin ordered **65 released**.
+Of **71 habeas petitioners**, **65** were ordered released. Earlier, in **February 2026**, US District Judge **Thomas Johnston** (a George W. Bush appointee) ordered the release of detainee **Danny Briceno-Solano** from South Central Regional Jail, writing that the government detained him "without explanation, without a hearing, without notice, or without any means of challenging that detention" — and warning that "tomorrow, under the Government's interpretation of the law, American citizens could be subject to the same treatment."
 
 In a separate ruling issued in **February 2026**, Judge Goodwin found that ICE agents conducting arrests in **unmarked vehicles while wearing masks** — standard operational practice during Operation County Roads — violated the **Fourth Amendment**. The ruling addressed the threshold issue of whether a masked federal agent in a civilian vehicle constitutes a lawful government presence for purposes of a Fourth Amendment stop or seizure.
 
@@ -64,6 +64,8 @@ The WV Regional Jail system earned approximately **$728,000 in 2025** from ICE a
 ## Key Actors
 
 - **Judge Joseph Goodwin** — US District Judge, Southern District of WV; issued Fifth and Fourth Amendment rulings
+- **Judge Thomas Johnston** — US District Judge, Southern District of WV (Bush appointee); ordered release of Briceno-Solano and other detainees, Feb 2026
+- **Gov. Patrick Morrisey** — Directed statewide ICE cooperation (Jan 2025 executive order), signed 287(g) agreements for State Police/DCR/National Guard
 - **WV Regional Jail Authority** — Multi-county jail system; accepted ICE detainees for $90/day; suspended new intake late March 2026
 - **65 released habeas petitioners** — Of 71 who filed, 65 ordered released by Judge Goodwin
 - **Mountain State Spotlight** — Investigative news outlet covering WV detention
