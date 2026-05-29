@@ -6,7 +6,7 @@ county: Gallatin
 state: MT
 facility: "Gallatin County Detention Center"
 status: contested
-outcome: "AG Knudsen invoked supervisory control over the Gallatin County Attorney's Office on Apr 30, 2026, ordering Cromwell to share CCJI with ICE for civil immigration purposes within 30 days. Cromwell petitioned the Montana Supreme Court for relief on May 1, 2026 (OP 26-0292). Knudsen ordered her to drop the petition on May 4; Cromwell retained the Graybill Law Firm and is proceeding. Fight escalating to state supreme court."
+outcome: "AG Knudsen invoked supervisory control over the Gallatin County Attorney's Office on Apr 30, 2026, ordering Cromwell to share CCJI with ICE for civil immigration purposes within 30 days. Cromwell petitioned the Montana Supreme Court for relief on May 1, 2026 (OP 26-0292). Knudsen ordered her to drop the petition on May 4; Cromwell retained the Graybill Law Firm and refused. On May 6 the Montana Supreme Court ordered Knudsen to respond by May 14 — a procedural win for Cromwell. Knudsen filed a May 14 summary response asking the court to dismiss, calling it a 'political' rather than legal question. Case pending before the court as of late May 2026."
 importance: 7
 tags:
 - gallatin-county
@@ -20,8 +20,8 @@ tags:
 - montana-supreme-court
 - accountability-darkness
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: '2026-05-06'
+last_researched: "2026-05-28"
+last_news_check: '2026-05-28'
 fips: '30031'
 ---
 
@@ -53,6 +53,8 @@ In **April 2025**, Cromwell issued a legal opinion advising Gallatin County agai
 - **2026-05-01** — Cromwell, in her official capacity, files a petition for writ of supervisory control / declaratory relief at the **Montana Supreme Court** (case **OP 26-0292**). Petition asks the court to determine (a) whether CCJI can be disclosed to ICE for civil/administrative purposes without a court order under Montana's constitutional right-to-privacy and (b) the lawfulness of the AG's invocation of supervisory control over an elected county attorney's office. (Daily Montanan; NBC Montana; Bozeman Daily Chronicle)
 - **2026-05-04** — Knudsen sends letter ordering Cromwell to dismiss the Supreme Court petition and cancel her outside counsel. (Daily Montanan; Fairfield Sun Times)
 - **2026-05-05** — Cromwell retains the **Graybill Law Firm** as outside counsel; firm confirms it continues to represent her. Cromwell does **not** drop the petition. (Daily Montanan; Montana Independent)
+- **2026-05-06** — The **Montana Supreme Court orders AG Knudsen to respond** to Cromwell's petition by close of business **May 14**, declining (for now) to simply dismiss. The order is read as an early procedural win for Cromwell: the court is engaging with the merits of whether counties can be compelled to share CCJI with ICE absent a court order, and whether the AG may assert supervisory control over an elected county attorney. (Daily Montanan; NBC Montana; Montana Right Now; Yellowstone Public Radio)
+- **2026-05-14** — Knudsen files a **summary response asking the court to dismiss** Cromwell's petition, arguing she is raising a "political issue — not a legal question," and that no urgency/emergency factors justify original jurisdiction at the Supreme Court rather than the normal trial-court-and-appeal process. As of late May 2026 the case (**OP 26-0292**) remains **pending**, with no merits ruling issued. (Montana DOJ press release; NBC Montana; Fairfield Sun Times)
 
 ## Key Context
 
@@ -97,3 +99,7 @@ Gallatin extends the typology with a **state-AG-supervisory-control** variant th
 - [Lawyering-up, Cromwell turns to Montana's highest court — Bozeman Daily Chronicle](http://www.bozemandailychronicle.com/news/lawyercromwellmontanasupremecourtknudsenshowdown/article_1f59bf0d-e140-4bfb-8d73-7ffebda95d5f.html)
 - [ICE 101: As deportation arrests ramp up in Bozeman — Bozeman Daily Chronicle (2025)](https://www.bozemandailychronicle.com/news/gallatin-county-bozeman-ice-immigration-deportations-sheriff/article_c34c7908-ee3e-11ef-a0dc-33d7de56158a.html)
 - [Legal Opinion 2025-No.01 — Gallatin County Attorney (Apr 2025)](https://www.gallatinmt.gov/sites/g/files/vyhlif606/f/uploads/legal_opinion_25-01.pdf)
+- [Supreme Court orders AG to respond to Cromwell petition — Daily Montanan (May 6, 2026)](https://dailymontanan.com/2026/05/06/supreme-court-orders-ag-to-respond-to-cromwell-petition/)
+- [Montana Supreme Court orders attorney general to respond to legal petition — Yellowstone Public Radio (May 6, 2026)](https://www.ypradio.org/2026-05-06/montana-supreme-court-orders-attorney-general-to-respond-to-legal-petition)
+- [Attorney General Knudsen asks Montana Supreme Court to dismiss Gallatin County Attorney case — Montana DOJ (May 14, 2026)](https://dojmt.gov/attorney-general-knudsen-asks-montana-supreme-court-to-dismiss-gallatin-county-attorney-case)
+- [Knudsen asks high court to dismiss bid to end his oversight in ICE dispute — NBC Montana (May 2026)](https://nbcmontana.com/news/local/knudsen-asks-high-court-to-dismiss-bid-to-end-his-oversight-in-ice-dispute)

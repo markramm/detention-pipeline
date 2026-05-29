@@ -14,21 +14,22 @@ status: operational
 importance: 8
 tags: [iowa, igsa, county-jail, ice-detention, new-construction, revenue-dependent, budget-model]
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 ## Summary
 
-Woodbury County opened a new $70 million Law Enforcement Center in September 2024 with 448 beds. Sheriff Chad Sheehan has projected $2.3 million in ICE revenue for FY2026-27, with capacity plans for 125-150 federal inmates at a time. The county has IGSAs with both USMS and ICE. Detainees are being held despite judges' orders for release, triggering multiple lawsuits.
+Woodbury County opened a new $70 million Law Enforcement Center in September 2024 with a 498-bed capacity. Sheriff Chad Sheehan has projected $2.3 million in ICE revenue for FY2026-27, with plans to reach 125 federal inmates at a time — but as of early 2026 the facility was holding only ~41 federal inmates, roughly a third of the goal, leaving the county's revenue-dependent budget model under pressure. The county has IGSAs with both USMS and ICE. Detainees are being held despite judges' orders for release, triggering multiple lawsuits.
 
 ## Key Facts
 
 - **Opened**: September 18, 2024
-- **Total capacity**: 448 beds
-- **Federal beds contracted**: 100 beds (USMS agreement at $100/day/prisoner)
+- **Total capacity**: 498 beds
+- **Federal beds contracted**: 100 beds ($100/day/prisoner; $10,000/day if fully occupied)
+- **Current federal inmates (early 2026)**: ~41 — nearly half the number county officials originally anticipated and roughly a third of the 125 goal
 - **Projected ICE revenue FY2026-27**: $2.3 million
 - **USMS revenue already budgeted**: $1.5 million; total $4.25 million budgeted for housing federal inmates in current budget year ending July 1
-- **Target federal inmates**: 125-150 at a time (would require 8 more correctional officers per 25 inmates)
+- **Target federal inmates**: 125 at a time (would require 8 more correctional officers per 25 inmates)
 - **Heatmap score**: 37 (second highest in Iowa) — driven by IGSA (3), 287(g) agreement (1)
 - **ICE inspection**: June 26, 2025
 

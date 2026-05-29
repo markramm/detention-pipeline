@@ -6,7 +6,7 @@ state: IA
 importance: 9
 tags: [iowa, operation-ice-wall, state-patrol, ice, weigh-station, i-80, truck-drivers, due-process, litigation]
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 ## Summary
@@ -52,9 +52,19 @@ Bypassing a weigh station is an offense for which **there is no possible jail se
 
 Multiple federal judges have issued sharply worded rulings:
 
+- **Judge Locher** (Apr. 22, 2026): Ordered a bond hearing for Suraj Vasal **for the third time** after immigration officials repeatedly failed to comply with two prior orders. U.S. Attorney David Waterman defended the no-bond posture as "better late than never"; Locher rejected it.
 - **Judge Locher** (Mar. 24, 2026): Government's actions "test the border of bad faith" — rights violated by both DHS and immigration judge
 - **Judge** (Jan. 26, 2026): Slammed ICE agents for "unlawful arrest" and "misleading" actions; said agents attempted to "cover their tracks"
-- **Multiple judges**: Found mandatory detention policy (adopted July 2025) violates due process when applied to people with prior legal status or pending asylum claims
+- **Judge Rebecca Goodgame Ebinger** (Jan. 20, 2026): Ruled Kulumbekov, detained 32 months after entering the US, was not subject to mandatory detention
+- **Multiple judges**: Found mandatory detention policy (adopted July 2025) violates due process when applied to people with prior legal status or pending asylum claims. Nationally, **300+ U.S. District Court judges across 1,600 cases** have rejected DHS's mandatory-detention theory as contrary to ICE's own regulations and guidelines.
+
+## Litigation Cluster Expanding (April-May 2026)
+
+The weigh-station scheme has fed a growing multi-county detainee lawsuit cluster:
+
+- **Pottawattamie County (NEW)**: Usiel Sanchez Romero of Omaha — "random and unjustified traffic stop" Mar. 21, 2026, detained at Pottawattamie County Jail (Council Bluffs); sued DHS by Apr. 13, 2026.
+- **Polk County**: Hein Thai — held since Jan. 15, 2026; ICE sued ~May 11, 2026 over plans to deport him to Vietnam after 13 years of law-abiding life under a 2013 release order.
+- As of May 2026, **68 of 993 Polk County Jail inmates** were DHS/ICE detainees (Lt. Mark Chance, Polk County Sheriff's Office).
 
 ## Why It Matters
 
@@ -81,3 +91,6 @@ Operation ICE Wall is part of a larger state-federal fusion:
 - [Judge criticizes feds and immigration judge for their actions](https://iowacapitaldispatch.com/2026/04/02/judge-criticizes-feds-and-immigration-judge-for-their-actions/) — Iowa Capital Dispatch, Apr. 2, 2026
 - [Iowa judge: Actions of feds, immigration judge "test the border of bad faith"](https://www.bleedingheartland.com/2026/04/04/iowa-judge-actions-of-feds-immigration-judge-test-the-border-of-bad-faith/) — Bleeding Heartland
 - [More ICE detainees held in Iowa jails sue the federal government](https://iowacapitaldispatch.com/2026/04/10/more-ice-detainees-held-in-iowa-jails-sue-the-federal-government/) — Iowa Capital Dispatch, Apr. 10, 2026
+- [For the third time, judge orders hearing for ICE detainee in Polk County Jail](https://iowacapitaldispatch.com/2026/04/22/for-the-third-time-judge-orders-hearing-for-ice-detainee-in-polk-county-jail/) — Iowa Capital Dispatch, Apr. 22, 2026
+- [ICE sued over plans to deport Polk County man to Vietnam](https://www.wvik.org/news-from-iowa/2026-05-12/ice-sued-over-plans-to-deport-polk-county-man-to-vietnam) — WVIK / Iowa Capital Dispatch, May 11-12, 2026
+- [Omaha man sues over ICE detention in western Iowa jail](https://holanebraska.org/2026/04/13/omaha-man-ice-detention-lawsuit/) — Hola Nebraska, Apr. 13, 2026

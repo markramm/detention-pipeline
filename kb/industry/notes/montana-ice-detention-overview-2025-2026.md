@@ -14,7 +14,8 @@ tags:
 - cascade-county
 - montana
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Montana: ICE Detention and Enforcement Overview (2025-2026)
@@ -40,13 +41,15 @@ Montana has four distinct 287(g) agreements as of early 2026:
 
 **House Bill 278** (signed May 2025): Allows police to check a driver's immigration status during a traffic stop if they have "reasonable suspicion" the person is in the U.S. illegally and is suspected of a crime. This effectively gives all Montana law enforcement immigration screening power at the point of a traffic stop.
 
+**Counter-legislation (proposed, 2027 session):** Sen. Ellie Boldman (D-Missoula) announced a trio of bills — prompted by the Jan 7, 2026 ICE killing of Renee Good in Minneapolis — that would require federal officers including ICE to display identification, limit mask-wearing during operations, and protect "privileged places" (schools, daycares, health facilities, libraries, religious institutions, shelters, workplaces). Montana's legislature is biennial; the next session does not start until **January 2027**, so these are pre-session proposals, not active bills. Republican lawmakers are skeptical they will advance.
+
 ## The Preemption Playbook
 
 AG Knudsen has established a clear pattern for crushing local resistance:
 
 1. **Helena (Jan-Mar 2026):** City commission passes resolution restricting police/ICE cooperation -> AG opens investigation -> cease-and-desist with threat of $10K/5-day fines -> commission rescinds 4-1 after two months.
 
-2. **Gallatin County (Oct 2025-Apr 2026):** County attorney issues legal opinion restricting ICE records access -> AG demands rescission by deadline -> county attorney clarifies no formal policy, seeks AG opinion.
+2. **Gallatin County (Oct 2025-May 2026):** County attorney Audrey Cromwell restricts ICE access to confidential criminal justice information -> AG demands rescission -> AG invokes "supervisory control" over the elected county attorney (Apr 30) -> Cromwell petitions the Montana Supreme Court (May 1, OP 26-0292) -> **Supreme Court orders Knudsen to respond by May 14** (a procedural win for Cromwell) -> Knudsen files May 14 motion to dismiss as a "political question." Case **pending**. This is the one Montana preemption fight the AG has *not* simply won; the high court is engaging the merits. See `gallatin-county-mt-ice-records-fight`.
 
 3. **Missoula (Jan-Mar 2026):** Council member drafts ICE restriction resolution -> can't find co-sponsors -> proposal dies. The Helena precedent already deterring action.
 
@@ -72,6 +75,8 @@ Despite the state's preemption success, Montana saw significant protest activity
 
 Montana has only **one facility** that can hold ICE detainees long-term: the **Cascade County Detention Center** in Great Falls. This creates a structural chokepoint. The jail relies on federal detainee revenue for 70%+ of its $14M budget. Sheriff Slaughter is pushing for a direct ICE contract at $150/day (vs. $115/day CBP rate). See: `cascade-county-detention-center-mt`.
 
+**First Montana habeas win (May 14, 2026):** U.S. District Court Chief Judge **Brian Morris** ordered the release of Froid diesel mechanic **Roberto Orozco-Ramirez** after 109 days at the Cascade jail, calling the administration's interpretation of the underlying immigration statute "erroneous" and warning of "indifference from the executive branch to the Constitution's guarantee of freedom from arbitrary confinement." Reported as the first such ruling in Montana, mirroring decisions in NY, GA, and OH. A second long-term detainee, British citizen **Dakota Wheeler** (detained Nov 2025), remained at the Cascade jail in mid-May 2026 with his case in the federal appeals system. These cases show Cascade is now also the venue where Montana's detention pipeline meets federal due-process litigation.
+
 ## Heatmap Counties Without Direct Findings
 
 The following heatmap-flagged counties had no specific 2025-2026 ICE activity found in web searches: Dawson (30021), Rosebud (30087), Toole (30101), Phillips (30071), Pondera (30073), Big Horn (30003). Their heatmap scores (42 each) appear driven by existing IGSA and 287(g) signals rather than active enforcement or facility activity.
@@ -90,3 +95,8 @@ The following heatmap-flagged counties had no specific 2025-2026 ICE activity fo
 - [Border Patrol detained 100+ in NW Montana in 2025 — Daily Inter Lake (Feb 2026)](https://dailyinterlake.com/news/2026/feb/01/border-patrol-detained-more-than-100-people-in-nw-montana-in-2025/)
 - [Local immigration enforcement system working, officials say — Montana Free Press (Mar 2025)](https://montanafreepress.org/2025/03/03/local-immigration-enforcement-system-working-officials-say/)
 - [ICE arrests of unauthorized immigrants triple across western states — Deseret News (Jul 2025)](https://www.deseret.com/politics/2025/07/10/ice-arrests-of-unauthorized-immigrants-triple-across-western-states-under-trump/)
+- [Judge rules to release Froid mechanic after 109 days in detention — Montana Free Press (May 14, 2026)](https://montanafreepress.org/2026/05/14/roberto-orozco-ramirez-froid-judge-release/)
+- [Supreme Court orders AG to respond to Cromwell petition — Daily Montanan (May 6, 2026)](https://dailymontanan.com/2026/05/06/supreme-court-orders-ag-to-respond-to-cromwell-petition/)
+- [Attorney General Knudsen asks Montana Supreme Court to dismiss Gallatin County Attorney case — Montana DOJ (May 14, 2026)](https://dojmt.gov/attorney-general-knudsen-asks-montana-supreme-court-to-dismiss-gallatin-county-attorney-case)
+- [Law proposed to restrict ICE agents in Montana (Sen. Boldman) — Daily Montanan (Jan 2026)](https://dailymontanan.com/2026/01/27/law-proposed-to-restrict-ice-agents-in-montana/)
+- [Montana AG: No negotiations with Helena over immigration policy — KXLF (Apr 10, 2026)](https://www.kxlf.com/news/montana-politics/montana-ag-no-negotiations-with-helena-over-immigration-policy)

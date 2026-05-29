@@ -164,6 +164,18 @@
       "last_researched": "2026-04-12",
       "notes": "Windham CT \u2014 Killingly warehouse tip, monitoring"
     },
+    "10001": {
+      "last_researched": "2026-05-28",
+      "notes": "DE buildout: Dover ICE ERO sub-office (Kent)"
+    },
+    "10003": {
+      "last_researched": "2026-05-28",
+      "notes": "DE buildout: Daedalus/Wilmington Airport deportation-flight lease fight (New Castle)"
+    },
+    "10005": {
+      "last_researched": "2026-05-28",
+      "notes": "DE buildout: Sussex poultry-belt enforcement epicenter (Georgetown/Millsboro)"
+    },
     "12011": {
       "last_researched": "2026-05-27",
       "notes": "Broward FL \u2014 created dedicated county-fight file: Sheriff Tony coerced compliance (WSO+TFM 287g), GEO Broward Transitional Center over capacity w/ death in custody, Operation Tidal Wave zone, declined $60M state grant."
@@ -207,6 +219,14 @@
     "13297": {
       "last_researched": "2026-05-28",
       "notes": "Social Circle (Walton) mega-center: city sued DHS/ICE May 14 2026; water meter still locked; $38.3B strategy disclosure."
+    },
+    "15003": {
+      "last_researched": "2026-05-28",
+      "notes": "HI buildout \u2014 FDC Honolulu facility entry + habeas fight"
+    },
+    "15007": {
+      "last_researched": "2026-05-28",
+      "notes": "Kauai \u2014 Nov 5 2025 44-person workforce-housing raid county-fight"
     },
     "16001": {
       "last_researched": "2026-04-13",
@@ -309,16 +329,20 @@
       "notes": "Muscatine IA \u2014 Secret ICE contract w/ gag clause, 75% funding increase (to $839K), Metro Surge overflow from Minneapolis Dec 2025, 5 lawsuits, avg 22.9 ICE/month, former county attorney resigned"
     },
     "19153": {
-      "last_researched": "2026-04-13",
-      "notes": "Polk IA \u2014 Des Moines, Operation ICE Wall staging, avg 28 ICE/month FY2025 (up 47% from FY2024), multiple lawsuits, ISP-ICE weigh station arrests on I-80"
+      "last_researched": "2026-05-28",
+      "notes": "Polk/Des Moines: 68 of 993 jail inmates DHS/ICE (May 2026). Hein Thai Vietnam-deportation suit; Vasal 3rd bond-hearing order."
+    },
+    "19155": {
+      "last_researched": "2026-05-28",
+      "notes": "Pottawattamie/Council Bluffs: ICE-listed jail; Sanchez Romero detainee suit (Apr 2026). New facility entry created."
     },
     "19163": {
       "last_researched": "2026-04-13",
       "notes": "Scott IA \u2014 IGSA confirmed, limited current detail available"
     },
     "19193": {
-      "last_researched": "2026-04-13",
-      "notes": "Woodbury IA \u2014 New $70M LEC opened Sept 2024, 448 beds, projecting $2.3M ICE revenue FY2026-27, 125-150 federal inmates planned, ICE inspection June 2025, sued over detaining despite bond orders"
+      "last_researched": "2026-05-28",
+      "notes": "Woodbury/Sioux City: ~41 federal inmates vs 125 goal, revenue model under pressure."
     },
     "20013": {
       "last_researched": "2026-04-12",
@@ -681,8 +705,8 @@
       "notes": "Big Horn MT \u2014 No specific 2025-2026 ICE enforcement activity found; heatmap score 42 from existing signals"
     },
     "30013": {
-      "last_researched": "2026-04-13",
-      "notes": "Cascade MT (Great Falls) \u2014 Only MT jail authorized for long-term ICE detention, 70%+ of $14M budget from federal detainee contracts, CBP contract $115/day (Oct 2025-Sep 2026), sheriff pushing for $150/day direct ICE contract, pending 287(g)"
+      "last_researched": "2026-05-28",
+      "notes": "Cascade County jail (only MT long-term ICE facility): Judge Morris ordered Orozco-Ramirez released after 109 days (May 14); Dakota Wheeler still detained pending appeal."
     },
     "30021": {
       "last_researched": "2026-04-13",
@@ -693,16 +717,16 @@
       "notes": "Flathead MT \u2014 287(g) WSO since 2020, Sheriff Heino defended agreement against community opposition Jan 2026, Bigfork worksite raid 17 detained Mar 2025, 135+ detained in NW MT in 2025"
     },
     "30031": {
-      "last_researched": "2026-04-13",
-      "notes": "Gallatin MT \u2014 5-year 287(g) WSO agreement, County Attorney Cromwell refused ICE records access Oct 2025, AG Knudsen demanded rescission by Apr 6, Cromwell says no formal policy exists; 6 alleged TdA gang members arrested early 2025; county attorney advised against ICE detention agreement Apr 2025"
+      "last_researched": "2026-05-28",
+      "notes": "Gallatin records fight at MT Supreme Court (OP 26-0292): court ordered AG response May 14; Knudsen moved to dismiss; pending."
     },
     "30033": {
       "last_researched": "2026-04-13",
       "notes": "Garfield MT \u2014 287(g) Task Force Model signed Aug 2025 by Undersheriff Aaron Conner, 4800 sq mi eastern MT county, 50% overtime reimbursed by federal grant"
     },
     "30049": {
-      "last_researched": "2026-04-13",
-      "notes": "Lewis and Clark MT \u2014 Helena sanctuary city resolution passed Jan 2026, rescinded Mar 2026 under AG Knudsen cease-and-desist; new draft resolution in progress Apr 2026; Helena arrest Jul 2025 catalyzed grassroots movement"
+      "last_researched": "2026-05-28",
+      "notes": "Helena sanctuary fight: Knudsen rejected collaboration on revised resolution Apr 10; no new resolution adopted as of late May."
     },
     "30071": {
       "last_researched": "2026-04-13",
@@ -1076,6 +1100,10 @@
       "last_researched": "2026-05-28",
       "notes": "Philadelphia: Parker signed 6/7 ICE Out bills May 7; mask ban law unsigned; effective July."
     },
+    "44007": {
+      "last_researched": "2026-05-28",
+      "notes": "RI buildout \u2014 Wyatt Detention Facility (Central Falls), Close-the-Wyatt fight, Providence courthouse fight, habeas surge"
+    },
     "45019": {
       "last_researched": "2026-05-28",
       "notes": "Charleston: WSO 287g + SLED street ops continue; H.4764 stalled; accountability story on 53 sponsors May 11."
@@ -1350,6 +1378,10 @@
       "last_researched": "2026-05-28",
       "notes": "Full buildout: overview note + Hartford field office facility + 3 county-fights (mask/ID DOJ suit, courthouse arrests, Killingly tip RESOLVED=Amazon). TRUST Act sanctuary; no dedicated ICE detention; processed at Hartford field office (450 Main St, ERO Boston sub-office), transferred out of state (Plymouth MA, Strafford NH, Wyatt RI). 405 arrests Jan-Jul 2025; Operation Broken Trust (65, Aug 2025); two DOJ suits (Apr 14 sanctuary + May 18 mask/ID)."
     },
+    "DE": {
+      "last_researched": "2026-05-28",
+      "notes": "No dedicated ICE detention; 287(g) ban (HB 182). Transfer-origin state: Dover ERO sub-office (Philadelphia AOR) ships arrestees to PA (Moshannon Valley/Clearfield, Pike/Clinton/Cambria/Franklin jails, FDC Philly, FCI Lewisburg). Arrests 220->687 (2025), street 24->371. Sussex poultry belt (Georgetown/Millsboro) epicenter; Laurel PD shared Haitian addresses w/FBI. Daedalus deportation-flight lease fight at Wilmington Airport (DRBA); labor-data subpoena appeal; DMV-data fight."
+    },
     "FL": {
       "last_researched": "2026-05-27",
       "notes": "May 2026 sweep: Alligator Alcatraz WINDING DOWN (pop ~1500->655, no new arrivals, tents disassembled, Frost 5/26 visit); Panhandle Pokey (Panama City) ABANDONED per DHS 5/22; created Broward fight file (#1 heat county); Krome led all 98 ICE facilities in use of force (Reason 5/22); Orange Co BOA 72->48hr + NICE Act 5/12."
@@ -1358,9 +1390,13 @@
       "last_researched": "2026-05-28",
       "notes": "Social Circle SUED DHS/ICE May 14 (NEPA+APA+public nuisance) after DHS resumed mega-center as part of $38.3B/92,600-bed national strategy; new Stewart death Denny Adan Gonzalez Apr 28 (18th US ICE death of 2026, 14th at Stewart); statewide 287(g) surge under HB 1105 (57 agencies, 41 arrests/day, +85% YoY); Oakwood council voted for stay. Folkston merger to 3,000 beds proceeding."
     },
+    "HI": {
+      "last_researched": "2026-05-28",
+      "notes": "Buildout: overview note + FDC Honolulu facility + Kauai workforce raids county-fight. ICE arrests quadrupled in 2025 (194 Jan-Oct vs 52 in 2024); FDC Honolulu is BOP ICE-overflow hub (ICE ADP 15->81); reverse mainland transfers; 15 habeas petitions, Rico-Tapia cited 200+ times; no 287(g), 2026 sanctuary bills advancing."
+    },
     "IA": {
-      "last_researched": "2026-04-13",
-      "notes": "Iowa \u2014 5 active IGSA jails (Hardin, Woodbury, Linn, Polk, Muscatine), Operation ICE Wall (ISP-ICE weigh station scheme), Iowa DPS 287g Task Force MOA (Mar 2025), National Guard supporting ICE (Sept 2025-Sept 2026), 633 detained thru Jun 2025, multiple federal judges finding due process violations, Muscatine secret contract w/ gag clause, Woodbury $70M new jail projecting $2.3M ICE revenue, JBS Ottumwa 200 visa revocations"
+      "last_researched": "2026-05-28",
+      "notes": "May 2026: detainee lawsuit cluster expanding across Polk/Woodbury/Muscatine/Pottawattamie. NEW: Hein Thai sued ICE over Vietnam deportation (Polk, ~May 11); Vasal 3rd bond-hearing order (Apr 22, Judge Locher); Sanchez Romero suit at Pottawattamie (Apr 13). 68 of 993 Polk jail inmates DHS/ICE. Woodbury ~41 federal inmates vs 125 goal. Nat Guard extended to Sep 30 2026 (16 troops). New facility entry: pottawattamie-county-jail-ia."
     },
     "ID": {
       "last_researched": "2026-05-28",
@@ -1415,8 +1451,8 @@
       "notes": "MS UPDATE 2026-05: Adams County CC population plummeted ~700-1000 in 3 weeks (Apr 2026), units vacant, closure rumors, ICE says stays open + no WARN notice; Bennie Thompson oversight visit Apr 9; mandatory detention upheld (5th/8th Cir) stalls detainee release bids. Byhalia revival risk sharpens: Noem fired/replaced by Mullin, Sen. Murphy Apr 28 warning letter to mayor+20 localities. SB 2114 passed Apr 2026 (illegal entry as state crime, TX SB4-style, ACLU challenge likely); 287(g) deadline softened to reasonable-attempt by Oct 1 2026. Makoka brothers (F-1 students, Hancock Co school bus arrest) RELEASED Apr 30 after 3000+ sig campaign. Tutwiler/Tallahatchie confirmed 2nd active CoreCivic ICE facility."
     },
     "MT": {
-      "last_researched": "2026-04-13",
-      "notes": "Montana \u2014 4 active 287(g) agreements (DOJ/MHP Task Force, Flathead WSO, Gallatin WSO, Garfield Task Force), Cascade County only long-term ICE jail (70% budget from federal detainees, $115/day CBP contract), Helena sanctuary resolution passed Jan 2026 then rescinded Mar 2026 under AG Knudsen threat, Gallatin County attorney ICE records fight ongoing, HB278 traffic-stop immigration checks, Bigfork 17-person worksite raid Mar 2025, massive protest movement (thousands at No Kings rallies)"
+      "last_researched": "2026-05-28",
+      "notes": "Updated facility+3 fights+overview. NEW: first MT federal habeas win \u2014 Judge Morris ordered release of Orozco-Ramirez from Cascade jail (May 14) calling admin interpretation erroneous; Dakota Wheeler still held. Gallatin records fight: MT Supreme Court ordered Knudsen to respond by May 14 (procedural win for Cromwell), Knudsen moved to dismiss, OP 26-0292 pending. Helena: Knudsen refused to negotiate revised resolution (Apr 10). Boldman ICE-restriction bills are pre-2027-session proposals."
     },
     "NC": {
       "last_researched": "2026-05-28",
@@ -1465,6 +1501,10 @@
     "PA": {
       "last_researched": "2026-05-28",
       "notes": "Moshannon Valley (Clearfield, GEO, 1876 beds, largest in NE) contract expires 2026 \u2014 closure fight, April hunger strike, 3 deaths incl Chaofeng Ge suicide (May 27 AP), Lee/Deluzio visit May 28. Phila ICE Out: Parker signed 6/7 May 7, mask ban became law unsigned, effective July. Pittsburgh City Council Bill 286 (Apr 7) + May 6 staging/warrant bills. Berks/Schuylkill warehouses still blocked by DEP, EHB appeal through Nov. 287g constable backdoor paused."
+    },
+    "RI": {
+      "last_researched": "2026-05-28",
+      "notes": "Built out RI: Wyatt facility entry (New England ICE hub, ~102 ICE detainees Apr 2026, Jason Ng 2008 death history, dirty-water/medical-neglect complaints), Close-the-Wyatt county-fight (SB 2278/HB 7436, stalled May 5 2026), and state overview note. Captured habeas wave: 135 petitions since 2025 (~90% immigration), 59 in 2026 YTD vs 5 in all 2024; McConnell out-of-state-counsel order Apr 2026."
     },
     "SC": {
       "last_researched": "2026-05-28",

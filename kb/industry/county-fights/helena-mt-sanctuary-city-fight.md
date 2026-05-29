@@ -17,7 +17,8 @@ tags:
 - community-organizing
 - rescinded
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 fips: '30049'
 ---
 
@@ -46,6 +47,8 @@ The resolution drew overwhelming public support but immediate backlash from the 
 
 **April 6-7, 2026:** The city attorney presented a new, narrower draft resolution attempting to address Knudsen's specific legal objections while preserving some protections.
 
+**April 10, 2026:** Knudsen **rejected the city's request to collaborate** on revising the resolution, saying there would be "no negotiations" and that he would instead review any future Helena resolution independently for legal violations. This denies Helena a safe-harbor path and signals the AG will treat any renewed attempt as a fresh potential violation. As of late May 2026 no new resolution had been adopted.
+
 ## Why This Matters
 
 Helena is the **template case for state preemption of local immigration policy in Montana**. The fight demonstrates the enforcement mechanism: Montana's anti-sanctuary law, combined with aggressive AG action, can crush local resistance within two months. The pattern -- pass, investigate, threaten fines, rescind -- is now established and will likely deter other Montana cities from attempting similar resolutions (as it already has in Missoula). This also reached national coverage in the Washington Post.
@@ -63,4 +66,6 @@ In July 2025, Montana Free Press reported on an immigration arrest in Helena tha
 - [Helena city commission scraps immigration resolution, citing legal risk — Montana Free Press (Mar 2026)](https://montanafreepress.org/2026/03/27/helena-city-commission-scraps-immigration-resolution-citing-legal-risk/)
 - [Helena responds to AG's sanctuary city cease-and-desist letter — Daily Montanan (Apr 2026)](https://dailymontanan.com/2026/04/07/helena-responds-to-ags-sanctuary-city-cease-and-desist-letter/)
 - [City takes another swing at immigration resolution — Montana Free Press (Apr 2026)](https://montanafreepress.org/2026/04/06/city-takes-another-swing-at-immigration-resolution/)
+- [Montana AG: No negotiations with Helena over immigration policy — KXLF (Apr 10, 2026)](https://www.kxlf.com/news/montana-politics/montana-ag-no-negotiations-with-helena-over-immigration-policy)
+- [Montana AG ends investigation into Helena immigration resolution — Bozeman Daily Chronicle (Apr 2026)](http://www.bozemandailychronicle.com/news/montana-ag-ends-investigation-into-helena-immigration-resolution/article_eac1a277-9bcc-4236-88b4-13189fdb631e.html)
 - [The mistake behind a Helena immigration arrest — Montana Free Press (Jul 2025)](https://montanafreepress.org/2025/07/04/the-mistake-behind-a-helena-immigration-arrest/)
