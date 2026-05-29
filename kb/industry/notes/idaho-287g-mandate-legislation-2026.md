@@ -13,7 +13,7 @@ tags:
 - idaho-legislature
 - idaho
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Idaho: Three Failed Attempts to Mandate 287(g) Statewide (2026)
@@ -41,7 +41,7 @@ The 2026 Idaho legislative session saw three attempts to mandate all local law e
 ### Sheriffs' Arguments Against
 - **Cost**: 287(g) participation requires training, liability insurance, and staff time with no guaranteed federal reimbursement
 - **Autonomy**: Sheriffs view mandatory agreements as tying them to a federal program that changes every 4-year election cycle
-- **Ada County Sheriff Matt Clifford**: Already notifies ICE voluntarily when undocumented people are booked; opposes being "tethered" to a formal agreement
+- **Ada County Sheriff Matt Clifford**: Already notifies ICE voluntarily when undocumented people are booked; opposed being "tethered" to a mandatory agreement. **In May 2026, Clifford reversed and announced his office will sign a voluntary Warrant Service Officer 287(g) agreement** (training to begin by end of summer), distinguishing voluntary WSO participation from the *mandatory* mandate he had opposed — illustrating how the mandate fight functioned as a political off-ramp rather than a brake on actual 287(g) expansion
 - **Canyon County Sheriff Kieran Donahue**: Opposed bills citing unfunded mandates (despite Canyon County having a 30+ year IGSA)
 
 ### D.C. Pressure
@@ -62,3 +62,5 @@ The three-time failure of mandatory 287(g) shows that even in a deep-red state w
 - [Idaho law enforcement frustrated by Legislature — Idaho Capital Sun (Mar 2026)](https://idahocapitalsun.com/2026/03/27/idaho-law-enforcement-frustrated-by-legislatures-new-immigration-bills/)
 - [2026 HB 659 — ACLU of Idaho](https://www.acluidaho.org/legislation/2026-hb-659-statewide-287g-agreement/)
 - [Idaho Senate approves reporting bill — Idaho Capital Sun (Apr 2026)](https://idahocapitalsun.com/2026/04/01/idaho-senate-approves-immigration-refugee-resettlement-reporting-bill/)
+- [This Idaho sheriff fought against mandatory ICE cooperation. Now he's signing up — Spokesman-Review (May 22, 2026)](https://www.spokesman.com/stories/2026/may/22/this-idaho-sheriff-fought-against-mandatory-ice-co/)
+- [Statement from Sheriff Matt Clifford — Ada County Sheriff](https://adacounty.id.gov/sheriff/news/statement-from-sheriff-matt-clifford/)

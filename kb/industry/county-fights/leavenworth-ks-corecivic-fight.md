@@ -9,9 +9,9 @@ facility: "Midwest Regional Reception Center (CoreCivic)"
 status: lost
 outcome: "City Commission voted 4-1 on March 10, 2026 to grant special use permit despite overwhelming public opposition. Community review board created as condition."
 importance: 8
-tags: [corecivic, zoning-fight, lost, community-opposition, private-prison, permit-approved, midwest-hub]
+tags: [corecivic, zoning-fight, lost, community-opposition, private-prison, permit-approved, midwest-hub, facility-open, ongoing-opposition]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Leavenworth: CoreCivic ICE Detention Zoning Fight
@@ -42,12 +42,23 @@ Community members fought for over a year to prevent CoreCivic from reopening a d
 - Rep. Sharice Davids provided congressional opposition voice
 - Kansas Reflector editorial coverage framed the broader moral argument
 
+## After the Loss: Opposition Continues (May 2026)
+
+The facility opened in mid-March 2026 and held ~240-249 detainees (incl. 59 women) by May — far under its 1,104 cap. The fight shifted from blocking the permit to **monitoring and accountability**:
+- The permit-mandated **14-member Community Relations Advisory Board** began meeting (public, fourth Tuesday monthly), but the city manager stressed it is advisory only.
+- Activists (Northland Neighbors United, DACA recipients, a former corrections officer) held vigils May 25-26, 2026.
+- Immigration attorney Michael Sharma-Crawford raised a due-process alarm at the board: detainees lack access to charging documents, "no way to formulate a defense."
+
+See [[leavenworth-ks-corecivic]] for facility operating detail.
+
 ## Lessons
 
 The Leavenworth fight shows that **zoning wins buy time but don't hold forever** when the financial incentives for a small city are large enough. Compare to Kansas City MO (see [[kansas-city-mo-platform-ventures]]) where the pressure target was a private developer, not a city commission vote.
 
 ## Sources
 
+- [KCTV5: Community activists continue to voice concerns with CoreCivic's Leavenworth facility (May 26, 2026)](https://www.kctv5.com/2026/05/26/community-activists-continue-voice-concerns-with-corecivics-leavenworth-facility/)
+- [KCUR: Leavenworth's for-profit ICE detention center under scrutiny from new community board (May 6, 2026)](https://www.kcur.org/politics-elections-and-government/2026-05-06/leavenworths-for-profit-ice-detention-center-under-scrutiny-from-new-community-board)
 - [KCUR: ICE detention center can open after permit granted (Mar 10, 2026)](https://www.kcur.org/politics-elections-and-government/2026-03-10/ice-detention-center-in-kansas-can-open-after-leavenworth-granted-a-private-prison-companys-permit)
 - [KCUR: Opponents make final push (Feb 25, 2026)](https://www.kcur.org/politics-elections-and-government/2026-02-25/ice-detention-center-leavenworth-kansas-protest)
 - [Axios KC: Leavenworth approves ICE detention permit (Mar 11, 2026)](https://www.axios.com/local/kansas-city/2026/03/11/leavenworth-approves-ice-detention-permit-corecivic)

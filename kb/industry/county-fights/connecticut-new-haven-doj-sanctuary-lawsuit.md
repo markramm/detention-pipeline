@@ -36,7 +36,7 @@ New Haven's 2020 sanctuary executive order — reaffirmed by Mayor Elicker — p
 
 CT officials responded with defiance. AG Tong called the lawsuit "baseless," noting that "Connecticut is not a 'sanctuary' state — that term is meaningless and has no basis in Connecticut law." In March 2026, Tong had already issued a guidance memo telling state personnel they are "generally not required" to disclose immigration status without a judicial warrant.
 
-On the legislative front, the state Senate passed **Senate Bill 397**, which would ban federal agents from wearing masks during operations in Connecticut and grant individuals the right to sue federal officers in state court for civil rights violations. The bill moved to the House for final consideration before the legislative session's May 6, 2026 deadline.
+On the legislative front, **Senate Bill 397** — banning federal agents from wearing masks, requiring ICE identification, establishing "protected areas," and asserting state inspector-general jurisdiction over ICE use of lethal force — was **signed into law by Gov. Lamont on May 4, 2026**. The DOJ then filed a **second** federal suit on **May 18, 2026** challenging that law (CT, Lamont, Tong). Connecticut is now defending on two fronts. (See: connecticut-ice-masks-id-law-doj-lawsuit.)
 
 ## Timeline
 
@@ -47,7 +47,8 @@ On the legislative front, the state Senate passed **Senate Bill 397**, which wou
 - **2026-04-09**: Bipartisan press conference — lawmakers call Rihan's detention "un-American"; Gov. Lamont, AG Tong, and Sen. Blumenthal pledge support
 - **2026-04-14**: DOJ files suit against CT, Lamont, Tong, New Haven, Elicker — Trust Act + New Haven EO challenged under Supremacy Clause
 - **2026-04-24**: Rihan released from Plymouth, MA ICE facility; welcomed home at Cheshire Town Hall by officials, teachers, and advocates
-- **2026-04-XX**: CT Senate passes SB 397 (right-to-sue federal agents, mask ban); sent to House
+- **2026-05-04**: Gov. Lamont signs SB 397 into law (mask ban, ICE ID requirement, protected areas, IG jurisdiction over ICE lethal force) — "We Are All Minneapolis"
+- **2026-05-18**: DOJ files SECOND suit against CT, Lamont, Tong over the mask/ID law (see connecticut-ice-masks-id-law-doj-lawsuit)
 
 ## Key Actors
 

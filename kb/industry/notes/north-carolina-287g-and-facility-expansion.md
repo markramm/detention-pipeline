@@ -13,8 +13,9 @@ tags:
 - swing-state
 - governor-veto
 - task-force-model
+- stop-detention-centers-nc
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # North Carolina: Third Nationally in 287(g), Three New Facilities Proposed
@@ -55,11 +56,23 @@ Sources:
 
 - **Biden era:** ~5 arrests/day, 82% with criminal convictions
 - **Trump era:** ~12 arrests/day, only 51% with criminal convictions
-- 6,000+ arrests statewide by March 2026
+- **Updated (Apr 2026 data release):** **6,374 total arrests** statewide since Trump took office (Jan 2025), through **March 10, 2026** — nearly **double the prior two years combined**. Arrests peaked in **November 2025 (776)** during Charlotte's Web. Of "at-large" winter arrests, two-thirds had no criminal record and **only 17% had any prior conviction**. Source: UC Berkeley Deportation Data Project, analyzed by NC Local.
 
 Sources:
+- [WFAE: 6,300+ arrests in NC, nearly double prior two years (Apr 28, 2026)](https://www.wfae.org/race-equity/2026-04-28/new-ice-data-shows-more-than-6-300-arrests-in-nc-since-trump-took-office-nearly-double-the-prior-two-years)
+- [NCLocal: 6,374 arrests through Mar 10, 2026 (Apr 17, 2026)](https://nclocal.org/2026/04/17/ice-data-arrests-nc/)
 - [WRAL: ICE arrests doubled (Mar 2026)](https://www.wral.com/news/investigates/north-carolina-ice-arrests-double-trump-fewer-convictions-march-2026/)
 - [WUNC: ICE arrests tripled (Dec 2025)](https://www.wunc.org/2025-12-03/ice-arrests-in-north-carolina-have-tripled-since-trump-took-office)
+
+## Coordinated Statewide Opposition (May 2026)
+
+- **May 26, 2026:** Dozens of advocates, faith leaders, and organizers rallied at the **NC General Assembly** urging lawmakers to publicly oppose any detention expansion. Organized by **ACLU-NC, Democracy Out Loud, and the new coalition Stop Detention Centers North Carolina**. Faith leaders planned to deliver letters to elected officials.
+- **Rivers Correctional** is the central target: GEO's formal proposal (surfaced via ACLU-NC litigation) states the facility is "capable of full activation within 90 days of award," and GEO told investors it is pursuing Rivers plus five other idled prisons as part of the ~$45B national expansion.
+- Opposition is now coordinated across all three proposed sites (Rivers / Concord / Greensboro AHA) rather than site-by-site.
+
+Sources:
+- [NC Newsline: Advocates rally at NC legislature (May 26, 2026)](https://ncnewsline.com/2026/05/26/advocates-rally-at-nc-legislature-to-oppose-potential-ice-detention-expansion/)
+- [WUNC: Proposed ICE facilities face local opposition (Mar 24, 2026)](https://www.wunc.org/race-class-communities/2026-03-24/proposed-ice-detention-facilities-face-local-opposition)
 
 ## Mecklenburg County: Courthouse and Health Facility Targeting
 

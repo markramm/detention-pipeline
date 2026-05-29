@@ -12,9 +12,9 @@ operator: "Chase County Sheriff Jacob Welsh"
 contract_type: igsa
 status: operational
 importance: 7
-tags: [county-jail, igsa, overcrowding, medical-neglect, conditions-complaints, kansas, budget-dependent, sole-county-facility]
+tags: [county-jail, igsa, overcrowding, medical-neglect, conditions-complaints, kansas, budget-dependent, sole-county-facility, habeas-releases, high-profile-detainee]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Chase County Detention Center — Kansas's Last County ICE Jail
@@ -46,6 +46,14 @@ ACLU and advocacy groups filed complaints. ICE spokesperson stated contract faci
 
 NPR's November 2025 investigation used Chase County as a national case study for how ICE expansion into county jails creates systemic problems.
 
+## 2026 Developments
+
+### Former Coldwater Mayor Detained Here (May 2026)
+**Jose "Joe" Ceballos**, former mayor of Coldwater, KS, turned himself in to ICE in Wichita on **May 12, 2026** and was transferred to the Chase County Jail; records confirmed the transfer by **May 15, 2026**. Ceballos had been charged in November 2025 — shortly after re-election — with misdemeanor election crimes for voting as a non-citizen, resigned in December 2025, and pleaded guilty in April 2026. The case put a national-profile face on Chase County as Kansas's ICE detention chokepoint.
+
+### Habeas Releases (Zadvydas)
+U.S. District Judge **John Lungstrum** (D. Kan.) issued **at least 23 habeas corpus orders releasing detainees between Aug. 14, 2025 and April 1, 2026**, citing the government's repeated failure to show removal was "reasonably foreseeable" under *Zadvydas v. Davis* for people held past six months. Chase County jail and the Leavenworth federal prison were the facilities involved. The releases are a structural check on indefinite detention at Chase County and help explain why Kansas detention capacity has not filled as fast as projected — see [[kansas-lungstrum-zadvydas-habeas-releases]].
+
 ## Budget Dependency
 
 As Chase County's population has declined, detention revenue has become increasingly central to county operations. ICE detainee populations reached an inflection point in 2018 when average daily ICE occupancy hit 86 people. The facility has been financially dependent on federal detention contracts since the 1990s, creating a dynamic where the county's fiscal health is tied to ICE enforcement intensity.
@@ -56,6 +64,8 @@ With the Leavenworth CoreCivic facility delayed through most of 2025-early 2026,
 
 ## Sources
 
+- [KWCH: Former Kansas mayor in ICE custody transferred to Chase County Jail (May 15, 2026)](https://www.kwch.com/2026/05/15/former-kansas-mayor-ice-custody-transferred-chase-county-jail-records-show/)
+- [Minnesota Lawyer: Why a judge in Kansas is releasing immigrants held beyond six months (Apr 7, 2026)](https://minnlawyer.com/2026/04/07/kansas-federal-judge-releases-immigrants-held-beyond-six-months/)
 - [KCUR: ICE detainees complain of overcrowding and medical neglect (Sep 23, 2025)](https://www.kcur.org/politics-elections-and-government/2025-09-23/ice-detainees-in-kansas-jail-complain-of-overcrowding-and-medical-neglect-a-war-of-attrition)
 - [NPR: As ICE expands county jails, Kansas jail underscores problems (Nov 12, 2025)](https://www.npr.org/2025/11/12/nx-s1-5575641/as-ice-expands-the-use-of-county-jails-a-kansas-jail-underscores-resulting-problems)
 - [Lawrence Times: In Kansas, a county jail carries out the majority of ICE detentions (May 13, 2025)](https://lawrencekstimes.com/2025/05/13/ks-jail-ice-detentions/)

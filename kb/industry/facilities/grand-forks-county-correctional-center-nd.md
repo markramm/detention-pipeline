@@ -21,7 +21,7 @@ tags:
 - ice-demand
 - usms
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Grand Forks County Correctional Center
@@ -53,9 +53,15 @@ Grand Forks sits at the intersection of:
 - **Secretary Noem visit**: Feb 4, 2026, Noem and ICE Director Lyons held Northern Border Round Table at Grand Forks AFB
 - **Statewide enforcement hub**: 202 ICE arrests in ND between Jan 20-Oct 15, 2025 (up from 81 in same period 2024)
 
+## Legal Context (2026 update)
+
+Grand Forks is the only ICE-designated detention center in North Dakota. Detainees held here are now subject to the **Eighth Circuit's March 25, 2026 ruling** (2-1) permitting mandatory detention without bond hearings — binding in ND and overriding the earlier district-court bond-hearing orders by Judges Hovland and Erickson. Seven emergency habeas petitions challenging ICE detention had been filed in ND federal court as of February 2026. See [[bond-hearing-circuit-split-2026]].
+
 ## Sources
 
 - [Grand Forks Herald: Sheriff hopes to move inmates into expansion](https://www.grandforksherald.com/news/local/grand-forks-county-sheriff-hopes-to-move-inmates-into-jail-expansion-within-weeks)
 - [Grand Forks Herald: Expansion on track for August](https://www.grandforksherald.com/news/local/grand-forks-countys-new-correctional-center-expansion-on-track-to-be-fully-operational-by-august)
 - [ICE facility page](https://www.ice.gov/detain/detention-facilities/grand-forks-county-correctional-center)
 - [Valley News Live: Armstrong proposes state funds for Grand Forks jail](https://www.valleynewslive.com/2025/01/16/armstrong-proposes-using-state-funds-grand-forks-jail-temporary-solution-overcrowding/)
+- [North Dakota Monitor: ICE detention cases begin weaving through North Dakota courts (Feb 2026)](https://northdakotamonitor.com/2026/02/06/ice-detention-cases-begin-weaving-through-north-dakota-courts/)
+- [MPR News: Eighth Circuit says some immigrants can be detained without bond hearings (Mar 25, 2026)](https://www.mprnews.org/story/2026/03/25/eighth-circuit-says-some-immigrants-arrested-in-us-can-be-detained-without-bond-hearings)

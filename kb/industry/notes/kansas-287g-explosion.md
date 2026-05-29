@@ -4,9 +4,9 @@ title: "Kansas — 287(g) Explosion and HB 2372 Veto Override"
 type: note
 state: KS
 importance: 8
-tags: [287g, legislation, veto-override, bounty-system, sheriffs, hb-2372, kelly-veto, enforcement-expansion]
+tags: [287g, legislation, veto-override, bounty-system, sheriffs, hb-2372, kelly-veto, enforcement-expansion, liability, dhs-no-indemnification]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Kansas: 287(g) Explosion and HB 2372 Veto Override
@@ -60,6 +60,12 @@ Senate Substitute for House Bill 2372 is a comprehensive ICE cooperation law:
 - **Sen. Cindy Holscher (D-Overland Park)**: Cited civil rights concerns about detention without criminal charges
 - **ACLU of Kansas**: Called it an "attack on voters, immigrants, and due process for all"
 
+## Update — May 2026
+
+- **Agreement count keeps climbing**: As of spring 2026, the **ICE 287(g) roster lists 28 Kansas sheriff offices and police departments** with signed agreements — up from the ~20 reported in November 2025.
+- **Liability time bomb**: DHS has said it **will not financially back sheriff's departments** if they are sued over immigration-detainer holds, even as the federal government faces a large volume of detainee lawsuits. Courts have held that a sheriff's 287(g) agreement is **not a defense to unlawful detention** — "Jailers cannot evade responsibility for unlawful detention by claiming the federal government required them to hold the person." HB 2372 shifts that exposure onto the **state and municipal insurance pools** it forces to cover officers, meaning Kansas taxpayers, not DHS, absorb the wrongful-detention risk.
+- **Arrests soaring**: ICE arrests in Kansas roughly **doubled** Trump-inauguration to mid-2025 and **nearly tripled** Jan–Oct 15, 2025 vs. the prior year, concentrated in **Finney, Johnson, and Wyandotte counties**. About **half** of Kansas ICE arrests under the crackdown are of people with **no criminal conviction** (vs. ~1 in 4 in the last 18 Biden months).
+
 ## Pattern Recognition
 
 Kansas follows the same pattern as Oklahoma and Utah: state legislature overriding local resistance to force 287(g) participation and ICE cooperation. The removal of county commissioner approval is particularly significant — it eliminates the democratic accountability layer that communities like Wyandotte County were using to block cooperation.
@@ -69,6 +75,9 @@ The bounty system ($1,000/quarter for locating immigrants) creates a direct fina
 ## Sources
 
 - [KSN: New ICE law passes despite veto (Apr 10, 2026)](https://www.ksn.com/news/capitol-bureau/ice-law-passes-in-kansas-despite-veto-heres-what-it-does/)
+- [KMUW: Kansas legislators override veto to create 25-foot 'safe zone' (Apr 14, 2026)](https://www.kmuw.org/government/2026-04-14/kansas-legislators-override-veto-to-create-25-foot-safe-zone-around-police-emergency-personnel)
+- [KLC Journal: New Kansas law lets police enter ICE agreements without county oversight](https://klcjournal.com/ice-sheriffs-topeka-agreement/)
+- [Kansan: Data shows ICE arrests in Kansas soar under Trump administration](https://www.kansan.com/news/data-shows-ice-arrests-in-kansas-soar-under-trump-administration/article_21130476-01fa-45ec-9bfb-3b3d1e9ccf96.html)
 - [Lawrence Journal-World: Override makes 25-foot rule law (Apr 10, 2026)](https://www2.ljworld.com/news/state-region/2026/apr/10/kansas-lawmakers-override-veto-to-make-it-against-the-law-to-get-within-25-feet-of-law-enforcement-officers/)
 - [KCUR: Kansas makes it a crime to go within 25 feet of police (Apr 10, 2026)](https://www.kcur.org/politics-elections-and-government/2026-04-10/kansas-makes-it-a-crime-to-go-within-25-feet-of-police-while-theyre-working)
 - [ACLU Kansas: Gut and Go expansion of ICE operations](https://www.aclukansas.org/legislation/gut-and-go-expansion-of-ice-operations-to-local-law-enforcement/)

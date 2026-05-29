@@ -14,7 +14,7 @@ tags:
 - cross-state-transfers
 - idaho
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Idaho: ICE Detention and Enforcement Overview (2025-2026)
@@ -40,8 +40,10 @@ Before 2025, Idaho had just 2 legacy 287(g) agreements (Power County and Gooding
 | Caribou County Sheriff | Warrant Service Officer | 3/11/2026 |
 | Franklin County Sheriff | Task Force | 3/26/2026 |
 
+### New signer — Ada County reverses course (May 2026)
+- **Ada County** — Sheriff Matt Clifford, who had loudly opposed *mandatory* 287(g) legislation in March 2026 ("bad legislation," redundancy, cost), announced in May 2026 his office will sign a **Warrant Service Officer 287(g) agreement** — the "lightest" model. Staff expected to begin online training by end of summer 2026. Clifford framed the WSO model as voluntary, no added funding, withdrawable at any time, and a way to "streamline" placing detainers without ICE needing to make the trip. This is a notable reversal by a former opponent and pushes Idaho toward 11 participating agencies (Spokesman-Review, May 22, 2026).
+
 ### Notable non-signers
-- **Ada County** — Sheriff Matt Clifford opposes mandatory agreements but voluntarily notifies ICE when undocumented people are booked
 - **Canyon County** — Sheriff Kieran Donahue opposed mandatory bills citing unfunded mandates, but Canyon County has a long-standing IGSA
 
 ## Arrest and Detention Surge
@@ -50,6 +52,13 @@ Before 2025, Idaho had just 2 legacy 287(g) agreements (Power County and Gooding
 - **54% increase** in ICE detentions: 321 in H1 2024 vs. 496 in H1 2025
 - By October 2025, Idaho State Police had transported 40+ people to ICE facilities for deportation
 - ISP authorized to spend up to $300,000 for up to 100 transports over 12 months
+
+### ISP transport program — 83 people and counting; pre-conviction scandal (May 2026 update)
+- By late May 2026, ISP had transported **83 people** to ICE for deportation since the June 2025 partnership began
+- A new batch of **30 transports** since October 2025: the Idaho Capital Sun independently verified criminal convictions for all but one (6 felony drug possession, 3 felony DUI, 1 drug trafficking, 3 aggravated assault, 2 child injury, 2 lewd conduct with a child)
+- **Policy change**: An October 2025 analysis of the first 53 transports found at least 6 people still had pending/open court cases and 4 could not be found in court records at all — i.e., people were handed to ICE *before* conviction. ISP Director Col. Bill Gardiner attributed this to a "leadership transition" and said the agency had not initially verified convictions; ISP **now verifies convictions before transferring** people to ICE
+- Spending to date: **$28,932.70** reimbursed from the governor's emergency fund (of the $300,000 authorized)
+- Transport route: Idaho prisons/jails → ICE offices in Boise and Twin Falls → bus to ICE detention in Las Vegas; some end up at the Northwest ICE Processing Center (Tacoma, WA) and California facilities
 
 ## Key IGSA Facilities
 
@@ -99,3 +108,6 @@ Idaho detainees are routinely transferred out of state for detention:
 - [Idaho immigrants detained far from home — InvestigateWest](https://www.investigatewest.org/idaho-immigrants-detained-in-raid-moved-from-home-and-attorneys/)
 - [Southeast Idaho sheriff signs up to help ICE — InvestigateWest (Apr 2026)](https://www.investigatewest.org/franklin-sheriff-help-enforce-immigration-law/)
 - [State of Idaho to assist ICE — Governor's Office (Jun 2025)](https://gov.idaho.gov/pressrelease/state-of-idaho-to-assist-ice-in-transporting-dangerous-illegal-alien-criminals-out-of-idaho/)
+- [This Idaho sheriff fought against mandatory ICE cooperation. Now he's signing up — Spokesman-Review (May 22, 2026)](https://www.spokesman.com/stories/2026/may/22/this-idaho-sheriff-fought-against-mandatory-ice-co/)
+- [Idaho State Police transport 30 more immigrants from prison to ICE for deportation — Idaho Capital Sun / News From The States (May 26, 2026)](https://www.newsfromthestates.com/article/idaho-state-police-transport-30-more-immigrants-prison-ice-deportation)
+- [Idaho House passes E-Verify bill (HB 704) — KIVI](https://www.kivitv.com/downtown-boise/idaho-e-verify-bill-passes-through-house-after-spirited-debate)

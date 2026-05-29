@@ -13,7 +13,7 @@ tags:
 - mass-deportation-impact
 - idaho
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Idaho: Dairy Industry Workforce Crisis from Immigration Enforcement
@@ -46,11 +46,18 @@ Idaho's dairy industry — a cornerstone of the state economy — is critically 
 - "Quiet conversations" between ag leaders and administration officials warning against worksite enforcement
 - Idaho House committee advanced an E-Verify bill despite dairy industry opposition
 
+### E-Verify HB 704 — passed House over dairy opposition (Feb-Mar 2026)
+- Four separate E-Verify bills surfaced in the 2026 session. **HB 704** (the fourth) would require **all private employers** to use E-Verify starting **July 1**, and passed the Idaho House over strong pushback from farm and dairy leaders
+- A narrower bill requiring state/local governments and their contractors to use E-Verify cleared the Idaho Senate (Feb 19, 2026)
+- Idaho Dairymen's Association CEO Rick Naerebout (representing ~350 dairy farms) testified members depend on unauthorized labor; the industry he represents accounts for $3.5B annually
+- National context for red-state pullback: several Republican states (per Stateline/Governing) scaled back broad E-Verify mandates amid business/economic concerns. Final gubernatorial signature status of HB 704 not yet confirmed at session close
+
 ### Enforcement Status (as of April 2026)
 - No direct worksite raids on Idaho dairy farms
 - Targeted enforcement focused on individuals with criminal backgrounds
 - But community fear and workforce instability already affecting operations
-- National pattern: ICE raided dairy farms in New York (Sackets Harbor, March 2025) and Vermont (Berkshire, April 2025)
+- National pattern: ICE raided dairy farms in New York (Sackets Harbor, March 2025) and Vermont (Berkshire, April 2025). Idaho farmers point especially to a New Mexico dairy raid that left an operation with just 20 of its 55 workers as the scenario they fear
+- National enforcement scale-up (per industry trackers): ICE workforce grew ~120% over a four-month recruitment push, adding 12,000+ officers by January 2026; the rate of Notices of Inspection (I-9 audits) in H1 2025 ran at least 10x the 2024 rate
 
 ## Why It Matters
 
@@ -62,3 +69,6 @@ Idaho is ground zero for the tension between aggressive immigration enforcement 
 - [Idaho dairies brace for uncertainty — KTVB](https://www.ktvb.com/article/news/local/208/idaho-dairies-immigration-enforcement-threats-inside-ag-idaho/277-e3932e2b-2f25-404a-92c4-61b2a90fab9a)
 - [Idaho farmer calls for new look at immigration policy — PBS News](https://www.pbs.org/newshour/show/idaho-farmer-calls-for-new-look-at-immigration-policy-amid-raids)
 - [Idaho committee advances E-Verify bill — KTVB](https://www.ktvb.com/article/news/local/208/idaho-committee-advances-e-verify-immigration-bill-dairy-industry-opposition/277-6548de3e-f50f-4802-adfc-04d6b3492907)
+- [Idaho E-Verify bill (HB 704) passes House after spirited debate — KIVI](https://www.kivitv.com/downtown-boise/idaho-e-verify-bill-passes-through-house-after-spirited-debate)
+- [Bill requiring E-Verify for state/local governments clears Senate — Idaho Capital Sun (Feb 19, 2026)](https://idahocapitalsun.com/2026/02/19/bill-to-require-state-local-governments-their-contractors-to-use-e-verify-clears-idaho-senate/)
+- [E-Verify requirements draw business pushback in some Republican states — Stateline](https://stateline.org/2026/02/26/e-verify-requirements-draw-business-pushback-in-some-republican-states/)

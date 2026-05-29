@@ -14,7 +14,7 @@ tags:
 - north-dakota
 - sanctuary-shaming
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # North Dakota: ICE Detention and Enforcement Overview (2025-2026)
@@ -52,9 +52,14 @@ Notably, McKenzie and Dunn counties are in the heart of the **Bakken oil fields*
 
 ## Bond Denial Crisis
 
-The U.S. Department of Homeland Security in July 2025 rolled back a 1997 precedent, concluding most noncitizens entering unlawfully are not eligible for bond. The Board of Immigration Appeals adopted this in September 2025. Federal judges have split:
-- **Judge Daniel Hovland** (ND District Court): Ruled the practice violates federal law, ordered bond hearings
-- A significant majority of federal judges nationwide have agreed with Hovland
+The U.S. Department of Homeland Security in July 2025 rolled back a 1997 precedent, concluding most noncitizens entering unlawfully are not eligible for bond. The Board of Immigration Appeals adopted this in September 2025 (*Matter of Yajure Hurtado*). At the district level, federal judges split, with both ND District judges siding against the government:
+- **Judge Daniel Hovland** (ND District Court): Ruled the practice violates federal law; in two ND cases ordered ICE to allow plaintiffs the opportunity for bond hearings
+- **Judge Ralph Erickson** (ND District Court): Wrote that the government "engages in a novel interpretation of 'alien seeking admission' that eluded the courts and five previous presidential administrations"
+- Before the appellate ruling, 400+ federal judges had ruled against the government in 5,000+ cases nationwide
+
+### Eighth Circuit reversal (March 25, 2026) — UPDATE
+
+On **March 25, 2026**, a three-judge Eighth Circuit panel ruled **2-1 for the government**, holding that most undocumented immigrants arrested in the U.S. interior may be detained without bond hearings regardless of criminal history or community ties. The ruling is **binding on federal courts in North Dakota** (plus Nebraska, Minnesota, Iowa, Missouri, South Dakota, Arkansas), effectively overriding Hovland's and Erickson's district-level orders within the circuit. This puts North Dakota on the **government's side of a 3-2 circuit split**: the Eighth (here) and Fifth Circuits uphold no-bond detention, while the Second, Sixth (*Lopez-Campos v. Raycraft*, May 11 2026), and Eleventh Circuits ruled the opposite — that long-term interior residents are entitled to bond hearings. The split is expected to reach the Supreme Court. See [[bond-hearing-circuit-split-2026]].
 
 ## Native American Targeting
 
@@ -96,6 +101,14 @@ North Dakota sheriffs angrily disputed the designation, calling it "misinformati
 - **Grand Forks Sector**: ~200 Border Patrol agents cover 861 miles of Canada border
 - **Anti-mask law**: ND expanded anti-mask statute in 2025; questions raised about whether it applies to ICE agents who conceal identity during operations (Feb 2026 discussion)
 
+## Community Opposition
+
+On **January 11, 2026**, demonstrators rallied in front of the North Dakota Capitol in Bismarck for an "ICE Out for Good" event, organized in response to the killing of Renee Good by an ICE agent (Jonathan Ross) in Minnesota. This reflects growing grassroots opposition to ICE's detention expansion across the region, though ND remains a cooperative state with no sanctuary jurisdictions.
+
+## Continued Cooperation Highlighted by DHS
+
+On **April 15, 2026**, DHS issued a press release publicizing ICE's work with North Dakota law enforcement partners to arrest an "illegal alien" wanted for murder in North Carolina — an example of DHS spotlighting ND interior cooperation in its messaging, even as the same agency had months earlier (May 2025) falsely shamed seven ND counties as sanctuary jurisdictions.
+
 ## Workforce vs. Enforcement Tension
 
 North Dakota faces acute labor shortages, particularly in:
@@ -117,3 +130,7 @@ The state's Office of Legal Immigration was created to recruit foreign workers, 
 - [DHS: Northern Border visit announcement (Feb 2026)](https://www.dhs.gov/news/2026/02/05/two-borders-one-day-arizona-north-dakota-secretary-kristi-noem-joins-national)
 - [ICE: 4-day enforcement surge (including ND)](https://www.ice.gov/news/releases/ice-arrests-63-criminal-aliens-and-immigration-violators-4-day-enforcement-surge)
 - [North Dakota Monitor: Bill proposes repeal of immigration office (Feb 2025)](https://northdakotamonitor.com/2025/02/10/bill-proposes-repeal-of-north-dakota-immigration-office-amid-workforce-crisis/)
+- [MPR News: Eighth Circuit says some immigrants can be detained without bond hearings (Mar 25, 2026)](https://www.mprnews.org/story/2026/03/25/eighth-circuit-says-some-immigrants-arrested-in-us-can-be-detained-without-bond-hearings)
+- [CBS News: Appeals court lets Trump administration hold many immigration detainees without bond](https://www.cbsnews.com/news/appeals-court-trump-administration-immigration-detainees-without-bond/)
+- [DHS: ICE works with North Dakota law enforcement partners (Apr 15, 2026)](https://www.dhs.gov/news/2026/04/15/ice-works-north-dakota-law-enforcement-partners-ensure-illegal-alien-wanted-murder)
+- [Bismarck Tribune: Burleigh Morton jail sees high numbers of ICE detainees, some for lengthy stays](https://bismarcktribune.com/news/local/crime-courts/article_0da4547a-3d62-4018-9be3-72baf382575e.html)

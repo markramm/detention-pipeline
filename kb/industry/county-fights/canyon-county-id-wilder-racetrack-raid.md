@@ -20,8 +20,8 @@ tags:
 - us-citizens-detained
 - idaho
 research_status: working
-last_researched: "2026-04-13"
-last_news_check: 2026-04-29
+last_researched: "2026-05-28"
+last_news_check: 2026-05-28
 ---
 
 # Canyon County: Wilder Racetrack Mass Raid and ACLU Lawsuit
@@ -61,7 +61,8 @@ Only 5 people faced gambling charges:
 ### The Lawsuit: Rodriguez v. Porter
 - **Filed**: February 10, 2026, U.S. District Court of Idaho
 - **Plaintiffs**: Three Latino families (U.S. citizens and lawful permanent residents), class action
-- **Defendants**: ICE, FBI, Idaho State Police, Canyon County Sheriff, Caldwell PD, Nampa PD
+- **Defendants** (named): FBI and ICE agents, Canyon County Sheriff Kieran Donahue, Caldwell Police Chief Rex Ingram, Nampa Police Chief Joe Huff, Idaho State Police Director Bill Gardiner, the cities of Caldwell and Nampa, Canyon County, and unidentified officers
+- **Counsel**: ACLU of Idaho, the national Civil Liberties Rights Project (CLRP), and former U.S. Attorney for Idaho Wendy J. Olson (now at Stoel Rives)
 - **Claims**: Fourth Amendment (unlawful detention), Fourteenth Amendment (racial discrimination)
 - **Legal theory**: Federal agents conspired with state/local officers to violate civil rights protections; used criminal warrants as pretext for immigration "fishing expedition"
 - **Court action**: In November 2025, Federal Judge B. Lynn Winmill ordered 16 detainees released, citing due process violations
@@ -84,3 +85,9 @@ No significant new developments found since April 13, 2026. Rodriguez v. Porter 
 
 - [Rodriguez v. Porter — Civil Rights Litigation Clearinghouse](https://clearinghouse.net/case/47807/) — case tracking page
 - [Rodriguez v. Porter — ACLU of Idaho](https://www.acluidaho.org/cases/rodriguez-v-porter/) — ACLU case page
+
+## Updates (2026-05-28)
+
+No new docket activity surfaced in May 2026 web searches; Rodriguez v. Porter remains in early litigation. National ACLU case page (Rodriguez et al. v. Porter et al.) confirms counsel team (ACLU of Idaho + CLRP + Wendy Olson/Stoel Rives) and the named-defendant roster (FBI/ICE agents, Canyon County Sheriff Donahue, Caldwell Chief Ingram, Nampa Chief Huff, ISP Director Gardiner, cities of Caldwell and Nampa, Canyon County). Note the same ISP Director Bill Gardiner is the official who, in a separate thread, oversaw the ISP-to-ICE transport program that handed pre-conviction detainees to ICE during a "leadership transition." Continuing to monitor.
+
+- [Rodriguez et al. v. Porter et al. — national ACLU case page](https://www.aclu.org/cases/rodriguez-et-al-v-porter-et-al)
