@@ -14,7 +14,7 @@ tags:
 - collateral-arrests
 - detention-reengineering
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # New York State: ICE Detention and Enforcement Overview (2025-2026)
@@ -75,13 +75,23 @@ Seven jails booked **~2,800 people** in first 7 months of 2025 (6x increase from
 
 ## Key Legal Actions
 
-- **26 Federal Plaza class action**: Trial May 26, 2026 (secret 9th floor, inhumane conditions)
+- **26 Federal Plaza class action**: Bench trial held May 27, 2026 (Barco-Mercado v. Noem). Judge Kaplan raised the possibility of barring ICE from using the holding cells entirely; internal ICE messages called conditions "insane." No final ruling as of May 28
+- **NYC courthouse arrest ban**: On **May 19, 2026**, Judge P. Kevin Castel barred ICE from making non-criminal arrests inside the three Manhattan immigration courts (26 Federal Plaza, 290 Broadway, 201 Varick), reversing his own 2025 order after DOJ admitted ICE lacked courthouse-enforcement authority. Arrests now limited to enumerated public-safety/violence/evidence-destruction circumstances
+- **Nassau 287(g) suit**: Nassau County Supreme Court ruled FOR the county (May 2026), upholding the agreement; NYCLU appealed May 26, 2026 (now likely mooted by the statewide budget ban)
 - **ICE racial profiling lawsuit**: Filed April 9, 2026 (THE CITY reporting)
 - **Courthouse arrests**: DOJ admitted ICE used erroneous information to justify courthouse arrests (March 2026)
 
 ## Legislative Response
 
-### Governor Hochul's Local Cops, Local Crimes Act (January 2026)
+### ENACTED: FY27 State Budget 287(g) Ban (signed May 27, 2026)
+The core of Hochul's Local Cops, Local Crimes Act **passed in the FY27 state budget** ($268.5B), signed May 27, 2026 (final legislative passage May 28). The enacted package:
+- **Bans 287(g) contracts** AND informal agreements that are functionally equivalent (though some informal collaboration is still permitted)
+- **Sensitive-location protections**: ICE cannot enter hospitals, schools, churches, childcare facilities, parks, playgrounds, or polling places without a judicial warrant; state/local non-law-enforcement employees barred from aiding civil immigration enforcement
+- **ICE mask ban**: agents must show their faces
+- **Private right to sue** ICE/federal agents for constitutional violations, retroactive to January 2025; state AG empowered to receive and investigate complaints
+- Falls short of NY4All because it does not bar all informal cooperation
+
+### Governor Hochul's Local Cops, Local Crimes Act (January 2026) — original proposal
 - Would void all 14 current 287(g) agreements
 - Bar local jails and police from aiding civil immigration enforcement
 - Temporary: protections expire after 3 years (July 2029)
@@ -129,3 +139,8 @@ This is why the county jail IGSA pipeline is so important in NY: it's ICE's only
 - [Prison Policy: New ICE arrest data (Dec 2025)](https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/)
 - [Central Current: ICE rattled CNY village, chief partnered](https://centralcurrent.org/ice-rattled-a-central-new-york-village-then-its-police-chief-partnered-with-ice/)
 - [City Limits: Local police agreements with ICE exploded](https://citylimits.org/local-police-agreements-with-ice-have-exploded-in-new-york-and-nationwide/)
+- [City & State NY: What's in the FY27 New York state budget (May 2026)](https://www.cityandstateny.com/policy/2026/05/heres-whats-fy-27-new-york-state-budget/413729/) — Enacted 287(g) ban + sanctuary provisions
+- [InformNNY: Budget bans ICE masks, ends 287(g) agreements (May 2026)](https://www.informnny.com/news/state-news/state-budget-deal-would-ban-ice-agents-from-wearing-masks-end-287g-agreements/)
+- [THE CITY: Judge blocks ICE arrests inside NYC immigration courthouses (May 19, 2026)](https://www.thecity.nyc/2026/05/19/judge-blocks-ice-arrests-immigration-courthouses/)
+- [THE CITY: Judge raises shutting down 26 Federal Plaza as conditions go on trial (May 27, 2026)](https://www.thecity.nyc/2026/05/27/26-federal-plaza-detention-ice-trial/)
+- [Long Island Press: NYCLU appeals Nassau 287(g) ruling (May 26, 2026)](https://www.longislandpress.com/2026/05/26/appeal-made-against-county-partnership-with-ice/)

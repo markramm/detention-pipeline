@@ -11,8 +11,9 @@ operator: "Department of Defense / DHS"
 contract_type: military-jurisdiction
 status: proposed
 importance: 8
-tags: [military-base, new-jersey, fort-dix, national-guard, political-opposition, militarized-detention, burlington-county, ocean-county]
+tags: [military-base, new-jersey, fort-dix, national-guard, political-opposition, militarized-detention, burlington-county, ocean-county, tent-city]
 research_status: working
+last_researched: "2026-05-28"
 ---
 
 # Joint Base McGuire-Dix-Lakehurst NJ — Military ICE Detention
@@ -54,6 +55,8 @@ New Jersey faces a double expansion: JBMDL for military-jurisdiction detention p
 
 The gap between the official 1,000-bed approval and Homan's 100,000-bed rhetoric signals either aspirational messaging or hidden plans for massive expansion. The base straddles Burlington and Ocean counties, both in the heatmap.
 
+Subsequent reporting describes the federal plan as building a **tent city** ("temporary soft-sided holding facilities") that could hold **up to 3,000 detainees** and serve as a **"central hub" for deportation efforts** — between the official 1,000-bed figure and Homan's 100,000 rhetoric. As of the most recent reporting there remains **no approved construction plan or firm intake timeframe**, and observers on base report no construction activity. After the Roxbury fight, the NJ Globe has flagged Burlington County / JBMDL as the likely next NJ flashpoint, though ICE plans "remain hazy."
+
 ## Sources
 
 - [NJ's Joint Base McGuire-Dix-Lakehurst approved as immigration detention center — 6ABC](https://6abc.com/post/njs-joint-base-mcguire-dix-lakehurst-approved-immigration-detention-center/17188170/)
@@ -64,3 +67,5 @@ The gap between the official 1,000-bed approval and Homan's 100,000-bed rhetoric
 - [Jersey Vindicator: Feds stonewall NJ lawmakers (Oct 8, 2025)](https://jerseyvindicator.org/2025/10/08/feds-stonewall-new-jersey-lawmakers-on-plans-for-immigrant-detention-camp-at-joint-base/)
 - [WHYY: Reps visit MDL, criticize plans](https://whyy.org/articles/ice-detention-joint-base-mdl-conaway-norcross-new-jersey/)
 - [CBS Philadelphia: MDL to be used for detention](https://www.cbsnews.com/philadelphia/news/new-jersey-joint-base-mcguire-dix-lakehurst/)
+- [NJ Globe: After Roxbury, will Burlington County be next? ICE plans remain hazy](https://newjerseyglobe.com/immigration/after-roxbury-will-burlington-county-be-next-ice-plans-remain-hazy/)
+- [WHYY: South Jersey military base to be temporarily used to hold immigrant detainees](https://whyy.org/articles/south-jersey-military-base-immigrant-detainees/)

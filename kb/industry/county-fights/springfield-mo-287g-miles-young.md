@@ -7,7 +7,7 @@ state: "MO"
 fips: "29077"
 facility: greene-county-jail-springfield-mo
 status: active
-outcome: "Pending — state legislators pushing mandatory 287(g), no vote yet"
+outcome: "Springfield PD and Greene County Sheriff publicly DECLINED 287(g) (Apr 2026); state/federal legislators continue pushing"
 importance: 8
 tags:
 - 287g
@@ -20,10 +20,20 @@ tags:
 - ozarks-corridor
 - law-enforcement-backlash
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Springfield MO: Miles Young Case and the Mandatory 287(g) Push
+
+## UPDATE (May 2026): Local Agencies Decline 287(g)
+
+Despite the legislative push, **both Springfield Police and the Greene County Sheriff's Office have publicly declined to adopt 287(g)** — they are notably absent from the list of cooperating Missouri agencies.
+
+- **Springfield PD** says it has not adopted 287(g) and does not intend to.
+- **Greene County Sheriff Jim Arnott** says he sees no reason to: "We have ICE officers here and immigration people here every day... It's not like I need my guys to handle that on the street because ICE is pretty close by." (An ICE field presence sits in Springfield.)
+- **April 11, 2026**: U.S. Rep. Eric Burlison and two state legislators held a courthouse rally urging local agencies to sign 287(g), framing it as a response to the Miles Young killing.
+
+So the dynamic is: state/federal politicians push hard, but the two largest Greene County agencies decline — even as the Greene County Jail keeps holding 233+ ICE detainees under IGSA. Enforcement integration is contested at the street-policing level while detention revenue continues.
 
 ## The Case
 
@@ -92,3 +102,6 @@ This is the same pattern seen in:
 - [Marshall Project: Why These Missouri Jails Want ICE Contracts (2025/05/19)](https://www.themarshallproject.org/)
 - [KCUR: Rural Missouri jails score windfall](https://www.kcur.org/)
 - [KCUR: Missouri police face backlash](https://www.kcur.org/)
+- [KY3: Lawmakers urge ICE agreement after Springfield shooting (2026/04/11)](https://www.ky3.com/2026/04/11/missouri-lawmakers-urge-local-law-enforcement-enter-ice-agreement-after-shooting-15-year-old-springfield/)
+- [OzarksFirst: Greene County explains housing of ICE inmates / Springfield PD declines 287(g)](https://www.ozarksfirst.com/news/immigration-status-springfield-shooting/)
+- [ICE: Greene County Jail facility page](https://www.ice.gov/detain/detention-facilities/greene-county-jail)

@@ -7,7 +7,7 @@ state: NY
 fips: "36000"
 facility: "N/A (policy fight)"
 status: contested
-outcome: "Gov. Hochul introduced the Local Cops, Local Crimes Act on Jan 30, 2026, which would void all 14 active 287(g) agreements across 9 NY counties and bar local detention facilities from housing ICE civil detainees through July 2029. Bill is pending in the state legislature; upstate Republican sheriffs and Nassau County Executive Blakeman are the primary opposition."
+outcome: "ENACTED. The core 287(g) ban passed as part of the FY27 New York State budget signed by Gov. Hochul on May 27, 2026 (legislature passed final measures May 28). The budget prohibits new 287(g) contracts AND informal agreements that are functionally equivalent, designates sensitive locations (hospitals, schools, churches, parks, polling places) ICE cannot enter without a judicial warrant, bans ICE agents from wearing masks, and creates a private right to sue ICE/federal agents for constitutional violations retroactive to January 2025. Advocates note it fell short of the broader NY4All Act because it still permits some informal cooperation. Upstate Republican sheriffs and Nassau Executive Blakeman opposed and have threatened legal challenges."
 importance: 9
 tags:
 - legislation
@@ -18,8 +18,8 @@ tags:
 - sanctuary
 - local-law-enforcement
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # New York Statewide: The Local Cops, Local Crimes Act
@@ -34,7 +34,9 @@ Governor Kathy Hochul introduced the **Local Cops, Local Crimes Act** on January
 - **2025-06-24**: NYCLU, Latino Justice PRLDEF, and Hofstra Law Clinic file the first New York State lawsuit challenging a 287(g) agreement (*CARECEN v. Ryder*, Nassau County Supreme Court)
 - **2026-01-30**: Governor Hochul introduces the Local Cops, Local Crimes Act at a press conference flanked by district attorneys and sheriffs from New York City and supportive upstate counties
 - **2026-02-09**: Hochul press release highlights "growing support" from DAs including Manhattan, Brooklyn, Queens, and Richmond County, plus police chiefs and sheriffs from multiple upstate jurisdictions
-- **2026 (ongoing)**: Bill pending in state legislature; Republican majority in the State Senate is the key obstacle; Nassau County Executive Blakeman publicly opposes the bill, defending his 287(g) agreement as a public safety tool
+- **2026-02 to 2026-05**: Bill negotiated into the state budget process; New York sheriffs publicly described themselves as "mad as hell" and threatened legal action; the broader NY4All Act (sponsored by Sen. Andrew Gounardes and Assemblymember Karines Reyes), which would also bar informal cooperation and warrantless custody transfers, remained the advocates' fuller goal
+- **2026-05-27**: Governor Hochul **signs the FY27 state budget** ($268.5B), which includes the core immigration provisions. Effective via the enacted budget: a ban on 287(g) contracts and functionally-equivalent informal agreements; "sensitive location" warrant protections; an ICE mask ban; and a private right to sue federal agents for constitutional violations retroactive to January 2025, with the state AG empowered to investigate complaints
+- **2026-05-28**: Legislature passes the final budget measures; Make the Road NY welcomes the 287(g) ban while pledging to keep pushing for the full NY4All Act, since the budget still allows some informal collaboration
 
 ## Key Actors
 
@@ -55,3 +57,7 @@ The bill is a direct legislative response to the rapid proliferation of 287(g) a
 - [City & State NY: Hochul proposes banning local cooperation with ICE (Jan 2026)](https://www.cityandstateny.com/policy/2026/01/hochul-proposes-banning-local-cooperation-ice/411095/) — Analysis of political dynamics and opposition
 - [WWNYTV: Local Cops, Local Crimes Act explained (Jan 30, 2026)](https://www.wwnytv.com/2026/01/30/governor-hochul-introduces-local-cops-local-crimes-act-limit-ice-action-new-york/) — Local TV coverage with details on upstate county agreements
 - [City Limits: Local police ICE agreements have exploded in NY (2025)](https://citylimits.org/local-police-agreements-with-ice-have-exploded-in-new-york-and-nationwide/) — Documents the surge in 287(g) signings statewide
+- [City & State NY: Here's what's in the FY27 New York state budget (May 2026)](https://www.cityandstateny.com/policy/2026/05/heres-whats-fy-27-new-york-state-budget/413729/) — Enacted 287(g) ban, sensitive locations, right to sue ICE, what fell short of NY4All
+- [InformNNY: Budget deal bans ICE masks, ends 287(g) agreements (May 2026)](https://www.informnny.com/news/state-news/state-budget-deal-would-ban-ice-agents-from-wearing-masks-end-287g-agreements/) — Mask ban and 287(g) provisions
+- [Make the Road NY: Welcomes ban of 287(g) agreements; pushes toward NY4All (May 2026)](https://maketheroadny.org/287gban/) — Advocate statement on scope and remaining gap
+- [Fox News: NY sheriffs 'mad as hell' over Hochul 287(g) ban push (2026)](https://www.foxnews.com/politics/new-york-sheriffs-mad-hell-hochul-pushes-ban-key-law-enforcement-partnership) — Opposition

@@ -17,9 +17,10 @@ tags:
 - cacho-v-gusman
 - detainer-policy
 - susan-hutson
+- michelle-woodfork
 research_status: working
-last_researched: "2026-04-12"
-last_news_check: '2026-04-29'
+last_researched: "2026-05-28"
+last_news_check: '2026-05-28'
 ---
 
 # Orleans Parish — Sheriff Hutson vs. ICE
@@ -44,11 +45,11 @@ Orleans Parish Sheriff Susan Hutson is the **only meaningful institutional resis
 - **April 10, 2026**: Immigration advocacy groups **ask to join the lawsuit** in support of the Sheriff's Office
 - **October 11, 2025**: Sheriff Susan Hutson **loses re-election** to Michelle Woodfork (Woodfork 53%, Hutson 17%) — in part due to a mass jailbreak (10 inmates) earlier in 2025
 - **April 28, 2026**: **Louisiana Supreme Court hears oral arguments** on whether Act 314 (2024 anti-sanctuary law) overrides the Cacho v. Gusman consent decree. Plaintiffs' counsel argues the consent decree is a federal court order (not a "policy") and thus outside the statute's scope; state argues Act 314 was intended to override all such policies. Justice Weimer noted legislative record shows "numerous statements" that the bill would not require sheriffs to violate federal orders. No ruling issued; a federal judge is awaiting the Louisiana Supreme Court's guidance.
-- **May 4, 2026** (imminent): Sheriff-elect **Michelle Woodfork scheduled to be sworn in**. Woodfork has described New Orleans as "a sanctuary city" but has not stated her stance on the ICE lawsuit or whether she will maintain the Cacho v. Gusman policy.
+- **May 4, 2026**: **Michelle Woodfork sworn in** as the 55th Sheriff of Orleans Parish at Gallier Hall, taking over an office facing scrutiny after a 2025 jailbreak and the **indictment of her predecessor Susan Hutson**. Woodfork, a Democrat, said she does not want to take the office "backwards," **shares Hutson's preference for not assisting with immigration enforcement**, and will continue implementing the federal-court-ordered jail-conditions reforms. However, she expressed support (to Bolts) for *ending* the immigration consent decree, and would not say whether she would consider a more affirmative form of ICE collaboration such as a 287(g) agreement.
 
-## Sheriff Transition Risk
+## Sheriff Transition Risk (largely resolved May 2026)
 
-The October 2025 election of Michelle Woodfork fundamentally changes the political calculus. Hutson was the architect of the resistance; Woodfork's position on ICE cooperation is unknown. If Woodfork chooses to comply with ICE subpoenas after taking office May 4, the litigation becomes moot and the policy collapses regardless of what the Louisiana Supreme Court rules. This is now the key variable to watch.
+The October 2025 election of Michelle Woodfork raised the prospect that Hutson's resistance would collapse on transition. After her May 4, 2026 swearing-in, Woodfork signaled she will **continue not assisting ICE** and maintain the non-cooperation posture in practice — reducing the near-term risk that the litigation goes moot. Two open variables remain: (1) she has voiced support for *ending* the underlying consent decree, which could ultimately remove the legal shield the policy rests on, and (2) she has declined to rule out a 287(g) agreement. The Louisiana Supreme Court has **not yet issued a ruling** on whether Act 314 overrides the Cacho v. Gusman decree (argued April 28, 2026; timing of decision unclear).
 
 ## Why It Matters
 
@@ -67,3 +68,6 @@ The fight also reveals the tension between state and federal power: Governor Lan
 - [Verite News: Louisiana Supreme Court to weigh sanctuary policy (April 28, 2026)](https://veritenews.org/2026/04/28/orleans-jail-immigration-policy-court/)
 - [NOLA.com: Michelle Woodfork defeats Hutson in blowout (Oct 11, 2025)](https://www.nola.com/news/politics/elections/michelle-woodfork-defeats-susan-hutson-wins-race-for-orleans-parish-sheriff/article_6ffd7086-66bb-4ebe-962f-da8f7a2fb621.html)
 - [SPLC: Motion to intervene in ICE v. OPSO (April 3, 2026)](https://www.splcenter.org/presscenter/motion-ice-lawsuit-orleans-parish-sheriff-office-immigration/)
+- [NOLA.com: Michelle Woodfork sworn in as Orleans Parish sheriff (May 4, 2026)](https://www.nola.com/news/crime_police/michelle-woodfork-sworn-in-orleans-parish-sheriff/article_bdb0f43e-d565-4ee1-8dcc-094ff2e8864b.html)
+- [Fox 8: Woodfork takes over after Hutson indictment (May 4, 2026)](https://www.fox8live.com/2026/05/04/woodfork-takes-over-orleans-sheriffs-office-after-hutson-indictment/)
+- [Bolts: New Orleans sheriff Michelle Woodfork wins (2026)](https://boltsmag.org/new-orleans-sheriff-michelle-woodfork-wins/)

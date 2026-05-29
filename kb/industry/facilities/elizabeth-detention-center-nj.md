@@ -19,8 +19,10 @@ tags:
 - contract-extension
 - conditions-complaints
 - state-ban-struck-down
+- hunger-strike-transfer
 research_status: working
 fips: '34039'
+last_researched: "2026-05-28"
 ---
 
 # Elizabeth Contract Detention Facility — CoreCivic
@@ -50,6 +52,10 @@ Activists have protested conditions at Elizabeth including:
 
 In March 2025, activists protested conditions at Elizabeth even as ICE was announcing the new Delaney Hall facility in Newark.
 
+### Used as Isolation Destination During Delaney Hall Strike (May 2026)
+
+During the ~300-detainee hunger and labor strike at Delaney Hall (see [[delaney-hall-newark-nj]] / [[newark-nj-delaney-hall-fight]]), ICE **transferred strike leader Martin Soto Hernandez** — a Peruvian detained at Delaney Hall since February — to the Elizabeth Contract Detention Facility on/around May 25, 2026. His attorneys say he was placed in **isolation and denied phone calls** at Elizabeth. Members of Congress who waited 12+ hours to enter Delaney Hall were eventually allowed to see Soto at Elizabeth. This shows Elizabeth functioning as a transfer/isolation node within ICE's Newark-metro detention complex.
+
 ## Why This Facility Matters
 
 Elizabeth is the anchor facility in NJ's detention infrastructure — nearly 30 years of continuous operation. The Third Circuit ruling striking down NJ's ban on detention contracts has national implications: if states cannot legally block private ICE detention contracts, the sanctuary state strategy has a constitutional ceiling. The contract extension signals that Elizabeth will continue operating alongside the much larger Delaney Hall, giving ICE 1,300+ beds in the Newark/Elizabeth metro area alone.
@@ -62,3 +68,4 @@ Elizabeth is the anchor facility in NJ's detention infrastructure — nearly 30 
 - [AFSC: ICE quietly extends Elizabeth contract with CoreCivic](https://afsc.org/newsroom/ice-quietly-extends-elizabeth-detention-center-contract-corecivic)
 - [NJ Alliance for Immigrant Justice: Shut Down EDC](https://www.njaij.org/freethemall)
 - [CoreCivic: Elizabeth Detention Center](https://www.corecivic.com/facilities/elizabeth-detention-center)
+- [Gothamist: ICE transfers hunger-strike leader to Elizabeth; congressmember denied entry (May 25, 2026)](https://gothamist.com/news/congressmember-denied-entry-to-nj-ice-detention-facility-protestors-clash-with-officers)

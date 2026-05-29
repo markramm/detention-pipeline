@@ -7,7 +7,7 @@ state: NY
 fips: "36059"
 facility: "N/A (policy/deputization fight)"
 status: active-litigation
-outcome: "Lawsuit filed June 24, 2025 challenging Nassau County's 287(g) agreement remains pending in Nassau County Supreme Court before Judge Danielle M. Peterson. As of February 2026, no ruling on the preliminary injunction motion; case continues. State-level legislation (Hochul's Local Cops, Local Crimes Act) could moot the case if passed."
+outcome: "Nassau County Supreme Court RULED FOR THE COUNTY, finding the 287(g) agreement valid; NYCLU filed an appeal on May 26, 2026. Meanwhile the FY27 New York State budget (signed May 27, 2026) statutorily BANS 287(g) agreements statewide — which voids Nassau's agreement as a matter of state law regardless of the appeal's outcome. Appeal and statute now run in parallel; the budget ban is the more consequential development."
 importance: 8
 tags:
 - 287g-deputization
@@ -19,8 +19,8 @@ tags:
 - latino-justice-prldef
 - blakeman
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Nassau County, NY: The First New York 287(g) Lawsuit
@@ -38,6 +38,10 @@ The **Central American Refugee Center (CARECEN) et al. v. Patrick Ryder et al.**
 - **2025-09-08**: Letter filed opposing oral argument request
 - **2026-01-30**: Governor Hochul introduces the Local Cops, Local Crimes Act, which would void all 287(g) agreements statewide — including Nassau's — as a matter of state law; Blakeman is the most prominent opponent
 - **2026-02-13**: As of this date, Judge Danielle M. Peterson has issued no published ruling on the preliminary injunction; case remains pending
+- **2026-04**: NY Focus / THE CITY reporting documents that local police in Nassau and Westchester routinely help ICE make arrests, including 11 cases where Nassau probation tipped ICE to immigrants' appointments and 11 more where local police appear to have notified ICE
+- **2026-05 (by ~May 26)**: Nassau County Supreme Court **rules in favor of the county**, finding the 287(g) agreement valid and rejecting the petition to void it
+- **2026-05-26**: NYCLU files an **appeal** of the State Supreme Court decision, continuing to argue the agreement violates state law and enables racial profiling (Hofstra's Prof. Stefan Krieger arguing the agreement unlawfully lets officers arrest on ICE administrative warrants)
+- **2026-05-27**: Governor Hochul signs the FY27 state budget, which **statutorily bans all 287(g) agreements statewide** — voiding Nassau's agreement as a matter of state law independent of the appeal (see `ny-statewide-local-cops-local-crimes-act.md` and the statewide overview note)
 
 ## Key Actors
 
@@ -70,3 +74,6 @@ This case connects directly to Gov. Hochul's **Local Cops, Local Crimes Act** (s
 - [Long Island Press: NYCLU sues Nassau County over ICE enforcement (Jun 26, 2025)](https://www.longislandpress.com/2025/06/26/nassau-ice-nyclu/) — Local coverage with community reaction
 - [City & State NY: Nassau lawsuit could expand sanctuary policies (Jun 2025)](https://www.cityandstateny.com/politics/2025/06/lawsuit-against-nassau-ice-agreement-could-expand-nys-sanctuary-policies/406390/) — Legal and political analysis
 - [City Limits: ICE agreements have exploded in NY (2025)](https://citylimits.org/local-police-agreements-with-ice-have-exploded-in-new-york-and-nationwide/) — Statewide context on 287(g) proliferation
+- [Long Island Press: NYCLU appeals State Supreme Court decision on ICE agreement (May 26, 2026)](https://www.longislandpress.com/2026/05/26/appeal-made-against-county-partnership-with-ice/) — Court ruled for county; NYCLU appeal
+- [NY Focus: Local police in Westchester, Long Island routinely help ICE make arrests (Apr 16, 2026)](https://nysfocus.com/2026/04/16/police-ice-arrests-nassau-westchester) — Informal cooperation documentation
+- [THE CITY: Outside NYC's sanctuary city, local police routinely collude with ICE (Apr 16, 2026)](https://www.thecity.nyc/2026/04/16/long-island-nassau-ice-collusion-hochul/) — Tip-off patterns

@@ -18,6 +18,7 @@ markup: "137% over value"
 prior_owner: "Goldman Sachs (former majority owner)"
 planned_staff: "~1,000"
 fips: '34027'
+last_researched: "2026-05-28"
 ---
 
 # Roxbury NJ Warehouse — ICE Regional Processing Center
@@ -42,7 +43,7 @@ DHS purchased a **470,000-square-foot warehouse** at 1879 Route 46 in Roxbury, N
 
 ## Legal Challenge
 
-New Jersey Governor Sherrill, Attorney General Davenport, and Roxbury Township filed a **joint lawsuit** against ICE and DHS over plans to convert the warehouse into a mass detention facility.
+New Jersey Governor Sherrill, Attorney General Davenport, and Roxbury Township filed a **joint lawsuit** against ICE and DHS over plans to convert the warehouse into a mass detention facility (Case No. 26-02884, D.N.J.). On **May 12, 2026**, instead of a contested preliminary-injunction ruling, the parties filed a **joint stipulation** before Judge Jamel K. Semper: DHS agreed to **complete a full NEPA environmental assessment before any construction**, halting the rushed timeline. Only limited interim work is allowed (fencing, CCTV, fire-alarm/sprinkler monitoring, custodial/grounds). After the review, ICE must give 7 days' notice before deciding to proceed. See [[roxbury-nj-lawsuit]].
 
 ## Staffing and Infrastructure
 
@@ -61,3 +62,4 @@ Key organizers include **Tom Kelleher** (Mount Olive/Roxbury Visibility Brigade)
 - [ICE buys warehouse for migrant detention, Roxbury officials say — New Jersey Monitor](https://newjerseymonitor.com/2026/02/20/ice-warehouse-migrant-detention-roxbury/)
 - [Governor Sherrill, AG Davenport, Roxbury Township Sue ICE, DHS — NJ.gov](https://nj.gov/governor/news/2026/approved/20260320a.shtml)
 - ['An agency out of control': Planned ICE detention processing warehouse in Roxbury sparks bipartisan backlash — Jersey Vindicator](https://jerseyvindicator.org/2026/02/04/an-agency-out-of-control-planned-ice-detention-processing-warehouse-in-roxbury-sparks-bipartisan-backlash/)
+- [Feds agree to delay opening of planned Roxbury ICE jail — New Jersey Monitor (May 12, 2026)](https://newjerseymonitor.com/2026/05/12/roxbury-ice-jail-court/)

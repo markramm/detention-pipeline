@@ -15,7 +15,7 @@ tags:
 - operation-geaux
 - operation-catahoula-crunch
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Louisiana's Detention Economy
@@ -54,7 +54,7 @@ What makes Louisiana distinctive: **the state has an exceptionally low immigrant
 
 **LaSalle Corrections** operates: Winn Correctional Center, Richwood Correctional Center, Jackson Parish CC, River Correctional Center (Concordia), Louisiana Lockup (Angola)
 
-GEO Group is fighting a Supreme Court case (*Raul Novoa v. GEO Group*) over paying detainees as little as **$1/day** for forced labor, including depriving detainees of food, water, and hygiene supplies to coerce work.
+GEO Group is fighting a Supreme Court case (*Raul Novoa v. GEO Group*) over paying detainees as little as **$1/day** for forced labor, including depriving detainees of food, water, and hygiene supplies to coerce work. On **February 25, 2026** the Supreme Court ruled **9-0** that GEO is **not immune** from the suit, letting the litigation — and the door it opens for similar claims at GEO-run Louisiana facilities (Basile, Pine Prairie, Jena, Alexandria) — proceed.
 
 ## Governor Landry's Enforcement Agenda
 
@@ -79,7 +79,8 @@ Governor Jeff Landry has aggressively aligned Louisiana with federal immigration
 - **Winn Correctional**: Years of complaints about filthy conditions, brutal force, inadequate medical care; operating over contractual capacity
 - **Sexual abuse**: GEO Group contract officer David Courvelle pled guilty (Dec 2025) to sexually abusing Nicaraguan detainee at Basile facility
 - **Forced labor**: GEO Group's "unsanctioned" work programs targeting queer/trans detainees; heavy cinder blocks, industrial chemicals without protective gear
-- **Deaths**: 2025 was deadliest year for ICE detention in two decades (32 deaths nationwide)
+- **Deaths**: 2025 was deadliest year for ICE detention in two decades (32 deaths nationwide). 2026 has continued the pace — by April 13, 2026 there had been **16 ICE deaths nationally** (~1 every 6.3 days), already half the 2025 total within four months. **Alejandro Cabrera Clemente, 49 (Mexico)**, died at **Winn Correctional Center on April 11, 2026** — the 16th of the year.
+- **Wrongful detention**: In May 2026 a Colorado-born **U.S. citizen** (mother of four) was detained at a Lafayette checkpoint after deputies called her ID and Social Security card fake, shackled, and held ~18 hours at the GEO-run **Basile** facility before an attorney secured her release — a "detain first, investigate second" pattern tied to 287(g).
 
 ## Orleans Parish: The Resistance
 
@@ -89,6 +90,8 @@ Orleans Parish Sheriff Susan Hutson has maintained a longstanding policy (from 2
 - **DHS sued Sheriff Hutson** (Feb 2026) seeking judicial order to force compliance
 - Federal judge **halted Louisiana's state-level challenge** to Orleans policy, ruling it's a state law question
 - Immigration advocacy groups **asked to join the lawsuit** (April 2026)
+- Louisiana Supreme Court **heard oral argument** (April 28, 2026) on whether Act 314 overrides the consent decree; no ruling yet
+- Sheriff Hutson was **indicted**; successor **Michelle Woodfork sworn in May 4, 2026** and signaled she will continue *not* assisting ICE — though she has voiced support for ending the consent decree and would not rule out a 287(g) agreement
 
 This is the only meaningful institutional resistance to ICE in Louisiana.
 
@@ -129,3 +132,7 @@ The heatmap signal density (50 parishes scoring, top parish at 131) reflects thi
 - [DHS: Operation Catahoula Crunch (Dec 2025)](https://www.dhs.gov/news/2025/12/03/dhs-launches-operation-catahoula-crunch-new-orleans-targeting-criminal-illegal)
 - [Governor's Office: Operation GEAUX (May 2025)](https://gov.louisiana.gov/news/4852)
 - [The Lens: Solitary confinement expansion (Jan 2026)](https://thelensnola.org/2026/01/20/footprint-of-solitary-confinement-in-louisiana-expands-because-of-ice-use-of-isolation/)
+- [PBS NewsHour: Supreme Court rules against GEO in $1/day forced-labor case (Feb 25, 2026)](https://www.pbs.org/newshour/politics/supreme-court-rules-against-private-prison-firm-alleged-to-have-forced-immigrant-detainees-to-work-for-1-a-day)
+- [Austin Kocher: ICE reports 16th detained death of 2026 at Winn (Apr 2026)](https://austinkocher.substack.com/p/ice-reports-16th-detained-death-of)
+- [The Lens: U.S. citizen detained at Basile (May 23, 2026)](https://thelensnola.org/2026/05/23/u-s-citizen-stopped-in-lafayette-shackled-and-detained-in-louisiana-ice-facility/)
+- [NOLA.com: Michelle Woodfork sworn in as Orleans sheriff (May 4, 2026)](https://www.nola.com/news/crime_police/michelle-woodfork-sworn-in-orleans-parish-sheriff/article_bdb0f43e-d565-4ee1-8dcc-094ff2e8864b.html)

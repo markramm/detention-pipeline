@@ -7,7 +7,7 @@ state: NY
 fips: "36061"
 facility: "26 Federal Plaza ICE Processing Center, Manhattan"
 status: active-litigation
-outcome: "Judge Lewis Kaplan (SDNY) issued a preliminary injunction requiring humane conditions after ICE revealed it had secretly used a 9th floor in addition to the known 10th floor, violating the spirit of court oversight. Full trial in Barco-Mercado v. Noem is scheduled for May 26, 2026. Rep. Dan Goldman has conducted weekly oversight visits and been denied entry by ICE."
+outcome: "Bench trial in Barco-Mercado v. Noem held May 27, 2026 before Judge Lewis Kaplan (SDNY); Kaplan raised the possibility of barring ICE from using the 26 Federal Plaza holding cells at all rather than merely capping capacity. Internal ICE communications surfaced at trial showed staff calling conditions 'insane.' No final ruling as of May 28, 2026 — Kaplan signaled he may request additional evidence. Separately, on May 19, 2026 Judge P. Kevin Castel barred ICE from making non-criminal arrests inside the three NYC immigration courts (26 Federal Plaza, 290 Broadway, 201 Varick), reversing his own 2025 order after DOJ admitted ICE lacked authority for courthouse enforcement."
 importance: 9
 tags:
 - conditions-abuse
@@ -20,8 +20,8 @@ tags:
 - dan-goldman
 - kaplan
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # 26 Federal Plaza, Manhattan: The Secret Floors Fight
@@ -40,6 +40,8 @@ The 10th floor of **26 Federal Plaza** — a federal government office tower in 
 - **2026-02-12**: Rep. Goldman and Rep. Espaillat conduct first oversight visit to both the 9th and 10th floors; Goldman vows to return weekly
 - **2026-03-25**: Judge Kaplan sets **trial date of May 26, 2026**; slams ICE for "stalling" discovery
 - **2026-04 onward**: ICE denies Goldman entry, citing Secretary Noem's new policy requiring 7 days' advance notice, which contradicts the court's prior ruling on congressional access rights
+- **2026-05-19**: U.S. District Judge **P. Kevin Castel** (a Bush appointee who had greenlit the practice in 2025) issues a 15-page order **barring ICE from arresting most immigrants inside the three Manhattan immigration courts** — 26 Federal Plaza, 290 Broadway, and 201 Varick. Arrests are now allowed only under enumerated circumstances: a threat to national security or public safety, an imminent risk of violence, or an imminent risk of evidence destruction in a criminal case. The reversal followed DOJ's March admission that a 2025 enforcement memo "does not and has never applied to civil immigration enforcement actions in or near" immigration courts
+- **2026-05-27**: Bench trial held before Judge Kaplan. Advocates (Make the Road NY, Wang Hecker law firm, NYCLU) presented affidavits describing women humiliated after days covered in menstrual blood, pervasive smell of urine and feces, people sleeping sitting up. Evidence showed cells held **7-8x stated capacity** in June-August 2025, regularly exceeding 100 people nightly, with 82% of detainees held more than 12 hours (cells designed for under 12 hours) and some held 20-30 days. Internal ICE messages surfaced: one staffer "concerned about the safety of everyone there," another calling conditions "insane," another writing "hopefully we don't wait until something negative happens." DHS had previously called the allegations "categorically false." **Kaplan raised whether ICE should be 'permitted to use those facilities at all'** — signaling a possible shutdown remedy rather than a capacity cap. No final ruling issued; Kaplan said he may request additional evidence
 
 ## Key Actors
 
@@ -75,3 +77,9 @@ Documented conditions inside 26 Federal Plaza:
 - [Goldman press release: Oversight of 26 Federal Plaza](https://goldman.house.gov/media/press-releases/us-representative-dan-goldman-conducts-oversight-facilities-26-federal-plaza) — Congressional perspective on conditions and access
 - [Courthouse News: Judge slams ICE for stalling (2026)](https://www.courthousenews.com/judge-slams-ice-for-stalling-case-over-26-federal-plaza-conditions/) — Kaplan's frustration with ICE's litigation posture
 - [City Limits: ICE ordered to address dehumanizing conditions (2025)](https://citylimits.org/ice-ordered-to-improve-dehumanizing-conditions-for-migrants-held-at-26-federal-plaza/) — Preliminary injunction requirements
+- [THE CITY: Judge raises shutting down 26 Federal Plaza as conditions go on trial (May 27, 2026)](https://www.thecity.nyc/2026/05/27/26-federal-plaza-detention-ice-trial/) — Trial coverage; Kaplan floats shutdown; internal ICE "insane" messages
+- [THE CITY: Federal judge blocks ICE arrests inside NYC immigration courthouses (May 19, 2026)](https://www.thecity.nyc/2026/05/19/judge-blocks-ice-arrests-immigration-courthouses/) — Castel order, scope, and permitted-arrest carve-outs
+- [Courthouse News: Inside 26 Federal Plaza — trial reveals 'deplorable' conditions (May 2026)](https://www.courthousenews.com/inside-26-federal-plaza-trial-reveals-deplorable-conditions-at-ice-facility/) — Trial detail
+- [Gothamist: Trial reveals ICE knew about 'insane' crowding (May 2026)](https://gothamist.com/news/federal-trial-reveals-ice-knew-about-insane-crowding-in-nyc-holding-cells) — Internal communications
+- [amNewYork: Judge bars ICE from arresting immigrants at court-ordered hearings (May 2026)](https://www.amny.com/news/judge-bars-ice-arrests-immigrants-federal-plaza/) — Castel ruling
+- [NYIC: ICE flouts court ruling at 26 Federal Plaza (May 2026)](https://www.nyic.org/2026/05/ice-flaunts-court-ruling-at-26-federal-plaza/) — Advocate response to continued arrests

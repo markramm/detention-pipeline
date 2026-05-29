@@ -23,7 +23,7 @@ tags:
 - legal-mail
 - western-new-york
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Buffalo Federal Detention Facility (Batavia, NY)
@@ -38,6 +38,7 @@ New York's only dedicated ICE detention center, located in Genesee County. The f
 - 83% of detainees have no criminal history; 80% assessed as "No Threat"
 - Average length of stay: 37 days (Feb 2026)
 - Serves as the detention hub for all of upstate NY: Western NY, North Country, Southern Tier
+- As of early 2026 the government has announced **no plans to expand** Batavia or regional immigration court facilities, despite operating over capacity — leaving county-jail IGSAs (now curtailed by the statewide 287(g)/cooperation limits in the FY27 budget signed May 27, 2026) as ICE's main remaining expansion lever in NY
 
 ## OIG Inspection (June 2025)
 

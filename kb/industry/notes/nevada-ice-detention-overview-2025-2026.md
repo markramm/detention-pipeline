@@ -13,7 +13,7 @@ tags:
 - jail-pipeline
 - corecivic
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Nevada: ICE Detention Overview 2025-2026
@@ -62,6 +62,13 @@ Nevada experienced a dramatic escalation in ICE enforcement in 2025-2026, driven
 - Southern Nevada activists organizing rapid-response ICE watch network (LV Defensa)
 - Federal judge in Nevada ruled ICE can't impose mandatory detention, citing "irreparable harm"
 
+## New Developments (Spring 2026)
+
+- **Salt Lake City mega-center looms over Nevada**: ICE bought a warehouse west of the Salt Lake City airport for ~$145M (deed recorded Mar 11, 2026), reportedly for a detention center with capacity up to ~7,500-10,000. Because Nevada falls under ICE's **Salt Lake Field Office** (NV, UT, MT, ID), and 1,000+ detainees were transferred from the SLC area into Nevada in 2025, advocates warn it would slot Las Vegas inside a "triangle" of large detention centers (SLC + Arizona) enabling same-day arrest-and-transfer. The project is **paused under DHS review** of Noem-era procurement as of April 2026. (See note: salt-lake-city-ice-megacenter-nevada-pipeline.)
+- **Documented harm at Pahrump**: A February 2026 lawsuit alleges green-card holder Jose Braulio Sedano Navarro, denied his antipsychotic meds, gouged out his right eye in August 2025 and is now permanently blind in it — the most concrete medical-neglect case to date at Nevada Southern Detention Center.
+- **Congressional oversight escalates**: Rep. Steven Horsford conducted a second oversight visit to the Pahrump facility on Feb 6, 2026; Sens. Cortez Masto and Rosen called for a DHS IG investigation into conditions.
+- **Child welfare strain**: Clark County's child welfare/DA system has built (since ~2025) an ad hoc process for ~two dozen-plus cases of children whose parents are in ICE detention or deported; a training for agencies and attorneys was being prepared as of May 2026 (Fox5 Vegas, May 18, 2026).
+
 ## Key Structural Pattern
 
 Nevada's enforcement model relies on **county jails as the primary intake funnel** — 70% of arrests happen when people are already in custody for other reasons. The 287(g) expansion means more jails screen for immigration status and hold people for ICE. This is cheaper for ICE than community raids and produces higher volumes. The ACLU's Supreme Court appeal on whether AB376 prohibits 287(g) agreements could disrupt the entire model.
@@ -73,4 +80,7 @@ Nevada's enforcement model relies on **county jails as the primary intake funnel
 - [Lombardo to authorize Nevada National Guard to support ICE (Nevada Independent, Aug 2025)](https://thenevadaindependent.com/article/nevada-national-guard-authorized-to-support-feds-with-immigration-enforcement)
 - [Indy Explains: What is 287(g) and are Nevada police cooperating? (Nevada Independent, 2025)](https://thenevadaindependent.com/article/indy-explains-what-is-287g-and-do-nevada-police-cooperate-with-ice)
 - [Southern Nevada activists organize ICE response network (Nevada Current, Feb 2026)](https://nevadacurrent.com/2026/02/06/southern-nevada-activists-organize-ice-response-network/)
+- [ICE plans detention warehouse in Salt Lake City, raising fears about Nevada impact (Nevada Independent, Mar 14, 2026)](https://thenevadaindependent.com/article/ice-plans-to-build-detention-center-in-salt-lake-city-raising-fears-for-what-it-could-mean-for-nevada)
+- [Clark County child welfare adapts as more parents face ICE detention (Fox5 Vegas, May 18, 2026)](https://www.fox5vegas.com/2026/05/18/nevada-child-welfare-system-adapts-immigration-detention-cases/)
+- [Lawsuit: ICE detainee in Nevada loses eye in psychotic episode after being denied meds (Nevada Independent, 2026)](https://thenevadaindependent.com/article/lawsuit-ice-detainee-in-nevada-loses-eye-in-psychotic-episode-after-being-denied-meds)
 - [A Nevada judge ruled ICE can't lock up everyone facing deportation (BorderReport, 2025)](https://www.borderreport.com/border-report-tour/immigration/a-nevada-judge-ruled-ice-cant-lock-up-everyone-facing-deportation-heres-what-it-means/)

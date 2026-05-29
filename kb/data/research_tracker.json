@@ -397,8 +397,8 @@
       "notes": "Concordia \u2014 score 121, River Correctional 600-bed LaSalle Corrections, IGSA since 2019"
     },
     "22039": {
-      "last_researched": "2026-04-12",
-      "notes": "Evangeline \u2014 score 121, Pine Prairie (2x capacity) + South LA IPC (Basile, sexual abuse conviction, forced labor)"
+      "last_researched": "2026-05-28",
+      "notes": "Basile: US citizen wrongfully detained ~18h May 2026; SCOTUS $1/day ruling enables suits vs GEO."
     },
     "22049": {
       "last_researched": "2026-04-12",
@@ -409,8 +409,8 @@
       "notes": "LaSalle Parish \u2014 score 91, Central LA IPC 1160-bed GEO (8th largest US), Khalil detention, $1/day SCOTUS case"
     },
     "22071": {
-      "last_researched": "2026-04-12",
-      "notes": "Orleans \u2014 score 119, Sheriff Hutson v ICE lawsuit, sanctuary policy, Catahoula Crunch target"
+      "last_researched": "2026-05-28",
+      "notes": "Orleans: Hutson indicted; Woodfork sworn in May 4 continuing non-cooperation; LA Sup Ct Act 314 argument Apr 28, no ruling."
     },
     "22073": {
       "last_researched": "2026-04-12",
@@ -425,8 +425,8 @@
       "notes": "West Feliciana \u2014 Angola prison Louisiana Lockup Camp 57, 416 beds, opened Sep 2025, hunger strike"
     },
     "22127": {
-      "last_researched": "2026-04-12",
-      "notes": "Winn \u2014 score 101, WCC 1491 avg daily (highest LA), LaSalle Corrections, overcapacity, conditions crisis"
+      "last_researched": "2026-05-28",
+      "notes": "Winn Correctional: 16th ICE death of 2026 (Cabrera Clemente, Apr 11); ~1,577 held."
     },
     "24001": {
       "last_researched": "2026-04-12",
@@ -621,16 +621,36 @@
       "notes": "Tallahatchie MS -- CoreCivic TCCF, 252 ICE beds, expansion Feb 2025"
     },
     "29077": {
-      "last_researched": "2026-04-13",
-      "notes": "Greene County Jail 233 ICE detainees, 375-bed capacity, $100/day, Miles Young case"
+      "last_researched": "2026-05-28",
+      "notes": "Greene/Springfield: PD & Sheriff publicly declined 287g (ICE field office in town); jail still holds 233+ detainees. Burlison courthouse rally 4/11 over Miles Young."
     },
     "29153": {
       "last_researched": "2026-04-13",
       "notes": "Ozark County \u2014 ICE contract $110/night + $1.10/mile transport, 525-mile runs, part of Ozarks corridor"
     },
+    "29161": {
+      "last_researched": "2026-05-28",
+      "notes": "Phelps/Rolla: 350+ ICE detainees since 3/2025; Brayan Rayo Garzon suicide 4/2025 (AP lead case), 35hr screening delay."
+    },
     "29181": {
       "last_researched": "2026-04-13",
       "notes": "Ripley County \u2014 possible transport waypoint, 6m48s visitor engagement, needs FOIA"
+    },
+    "29183": {
+      "last_researched": "2026-05-28",
+      "notes": "St. Charles: Council unanimously approved 287g Task Force Model 3/31/2026 over packed-room opposition."
+    },
+    "29186": {
+      "last_researched": "2026-05-28",
+      "notes": "Ste. Genevieve: 500-bed jail, 400 ICE beds @ $103/day; ~150 detainees; Bell/Budzinski tour 5/26 found overcrowding, denied prenatal/medical care, water from showers."
+    },
+    "29213": {
+      "last_researched": "2026-05-28",
+      "notes": "Branson/Taney: Aldermen approved 287g 6-0 on 2/12/2026 despite tourism fears."
+    },
+    "29510": {
+      "last_researched": "2026-05-28",
+      "notes": "St. Louis city: Aldermen passed 5-year ban on non-municipal detention centers 4/20/2026; no 287g."
     },
     "30003": {
       "last_researched": "2026-04-13",
@@ -709,8 +729,8 @@
       "notes": "Wheeler NE \u2014 287(g) task force model (most aggressive), approved May 2025, ~800 pop, no jail, highway corridor enforcement on US-281"
     },
     "32003": {
-      "last_researched": "2026-04-13",
-      "notes": "Clark NV \u2014 LVMPD 287(g) signed Jun 2025, 633 ICE arrests through Oct 2025, 240+ transferred since Dec 2025. ACLU lawsuit dismissed Mar 2026, appealed to NV Supreme Court Apr 2026. Henderson Detention Center IGSA since 2010, 93 ICE beds, 35/day, .5M/yr revenue (down from .3M), net loss on contract. CCDC is largest single ICE arrest source in NV."
+      "last_researched": "2026-05-28",
+      "notes": "Clark/LVMPD 287(g) ACLU appeal pending NV Supreme Court; child welfare system adapting to detained/deported parents (May 2026)."
     },
     "32005": {
       "last_researched": "2026-04-13",
@@ -729,8 +749,8 @@
       "notes": "Mineral NV \u2014 Active 287(g) warrant service officer model, ONLY NV jurisdiction pursuing task force model (field enforcement). Tiny budget-distressed county (~4,500 pop). Details sparse."
     },
     "32023": {
-      "last_researched": "2026-04-13",
-      "notes": "Nye NV \u2014 Nye County Detention Center IGSA terminated Nov 2024 (5-0 vote), sheriff says no desire to revive. ICE paid M vs M actual cost. Failed 2024 audit (medical, conditions). CoreCivic Nevada Southern Detention Center in Pahrump: 250 ICE contract beds, running at 461+, tent expansion proposed (450 beds). Key overcrowding hotspot."
+      "last_researched": "2026-05-28",
+      "notes": "Nye/Pahrump CoreCivic: Sedano Navarro eye-loss lawsuit (Feb 2026), Horsford 2nd visit, senators IG investigation call; SLC mega-center may replace it as field-office hub."
     },
     "32031": {
       "last_researched": "2026-04-13",
@@ -777,8 +797,8 @@
       "notes": "Burlington \u2014 McGuire-Dix-Lakehurst military base. Score 10."
     },
     "34013": {
-      "last_researched": "2026-04-12",
-      "notes": "Essex \u2014 Delaney Hall 1,000-bed GEO, mayor arrest, detainee death, escape, conditions. Score 98."
+      "last_researched": "2026-05-28",
+      "notes": "Essex/Newark Delaney Hall: ~300-detainee hunger+labor strike May 2026, ICE pepper-balled protesters incl. Sen. Andy Kim, Gov. Sherrill denied entry, strike leader transferred to Elizabeth."
     },
     "34015": {
       "last_researched": "2026-04-12",
@@ -837,16 +857,16 @@
       "notes": "Erie \u2014 ICE arrests surged 59\u2192620 (2024\u21922025), no confirmed 287(g) or IGSA"
     },
     "36037": {
-      "last_researched": "2026-04-12",
-      "notes": "Genesee \u2014 Batavia federal facility 745+ detainees (650 cap), OIG inspection failures, 226 charter flights, medical crisis, solitary top-10"
+      "last_researched": "2026-05-28",
+      "notes": "Batavia Buffalo Federal Detention 745+ detainees over 650 capacity; govt announced no expansion plans as of early 2026."
     },
     "36059": {
-      "last_researched": "2026-04-12",
-      "notes": "Nassau \u2014 287(g) Feb 2025, 95/night, 50 cells, detainee death Sep 2025 (Santos Reyes-Banegas), AG investigating"
+      "last_researched": "2026-05-28",
+      "notes": "Nassau Supreme Court upheld 287(g) agreement; NYCLU appealed May 26 2026; FY27 budget 287(g) ban likely voids agreement."
     },
     "36061": {
-      "last_researched": "2026-04-12",
-      "notes": "New York (Manhattan) \u2014 26 Federal Plaza holding cells, class action trial May 2026, secret 9th floor"
+      "last_researched": "2026-05-28",
+      "notes": "26 Federal Plaza bench trial May 27 2026 (Kaplan); Castel barred ICE courthouse arrests May 19 at 26 Fed Plaza/290 Broadway/201 Varick."
     },
     "36063": {
       "last_researched": "2026-04-12",
@@ -1279,8 +1299,8 @@
       "notes": "Kentucky \u2014 659% detention surge (120 to 1,041 detainees), 9 county jails contracting with ICE, 30 287(g) contracts across 24 agencies, HB47/SB86 mandatory 287g bills, NKY habeas corpus crisis (40 cases), Oldham Co AG open-records ruling, overcrowding at 5 jails, Lexington 1000-person protest Jan 2026"
     },
     "LA": {
-      "last_researched": "2026-04-12",
-      "notes": "10 facilities documented (9 existing + Angola new), 7500+ detainees, 2nd after TX, 98% for-profit (GEO+LaSalle). Angola Camp 57 hunger strike, Pine Prairie 2x capacity, Basile sexual abuse conviction, Hammond 9000-bed warehouse proposed, Orleans Sheriff v ICE lawsuit, Operation GEAUX/Catahoula Crunch, $1/day forced labor SCOTUS case. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "New since Apr 2026: SCOTUS 9-0 (Feb 25) GEO not immune in $1/day forced-labor suit; 16th ICE death of 2026 at Winn (Alejandro Cabrera Clemente, Apr 11); US citizen wrongfully detained ~18h at Basile (May 20); Hutson indicted, Woodfork sworn in May 4 continuing non-cooperation; LA Supreme Court argued Act 314 vs Cacho consent decree Apr 28, no ruling. Updated Winn, Basile, Orleans fight, economy note."
     },
     "MA": {
       "last_researched": "2026-04-12",
@@ -1299,8 +1319,8 @@
       "notes": "Metro Surge (2 killed, 50-75K marched), 3 fights blocked, AG 287(g) opinion, ACLU Freeborn injunction. Deep."
     },
     "MO": {
-      "last_researched": "2026-04-13",
-      "notes": "Greene Co 233 ICE detainees, Ozarks corridor, 60+ 287g, arrests tripled, rural jails competing for contracts"
+      "last_researched": "2026-05-28",
+      "notes": "Corridor expanded E: Ste. Genevieve (400 ICE beds, congressional neglect findings 5/26) + Phelps/Rolla (Apr 2025 suicide, AP investigation). New 287g: Branson 6-0, St. Charles unanimous TFM. St. Louis city 5yr detention ban. Springfield PD/Greene Sheriff DECLINED 287g. 3,200+ arrests since 1/2025, 60+ agreements."
     },
     "MS": {
       "last_researched": "2026-04-12",
@@ -1327,20 +1347,20 @@
       "notes": "Merrimack warehouse scrapped Feb 2026 but DHS won't rule out NH (Apr 2026). FCI Berlin 204+ ICE detainees (80% non-criminal). Strafford County jail 145 detainees, $9M/yr IGSA, Dems voted 22-11 to renegotiate. 15 287(g) agencies (only New England state), ACLU-NH FOIA lawsuit for training docs. Town meetings in Gorham/Ossipee voted to recommend 287(g) withdrawal. HB 1609 would ban state/local detention funding. Deep."
     },
     "NJ": {
-      "last_researched": "2026-04-12",
-      "notes": "Delaney Hall 1,000-bed GEO (death, escape, mayor arrest), Elizabeth 300-bed CoreCivic (contract extension), Roxbury $129M warehouse (state lawsuit), McGuire-Dix-Lakehurst military base, 3 sanctuary laws signed, 287(g) ban codified, Bergen contract fight year 3. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "Delaney Hall ~300-detainee hunger/labor strike May 22-26; Sen. Andy Kim pepper-sprayed, Gov. Sherrill denied entry, strike leader Soto transferred to Elizabeth in isolation; DHS Sec. Mullin dismissive. Roxbury warehouse: May 12 joint stipulation mooted injunction hearing, DHS must complete full NEPA review before construction. JBMDL tent-city up to 3,000 (no construction yet). Bergen contract litigation continuing. 6 entries updated."
     },
     "NM": {
       "last_researched": "2026-04-12",
       "notes": "Curry County only 287(g), forced to terminate by Immigrant Safety Act May 2026."
     },
     "NV": {
-      "last_researched": "2026-04-13",
-      "notes": "NV \u2014 2,155+ ICE arrests in 2025 (3x 2024), 70% from jail pipeline. CoreCivic Nevada Southern 462 ICE at 250-cap, tent expansion proposed. Henderson IGSA losing money. LVMPD 287(g) Jun 2025 (633 arrests), ACLU suit appealed to NV Supreme Court Apr 2026. Nye County terminated IGSA Nov 2024 (audit failures, cost subsidy). Washoe FEMA-funded ICE upgrade. 287(g) expanded to 4 jurisdictions. Gov Lombardo deployed National Guard, first state off sanctuary list."
+      "last_researched": "2026-05-28",
+      "notes": "SLC mega-center (paused DHS review) regional driver of NV pipeline; 1000+ SLC->NV transfers 2025; Pahrump eye-loss lawsuit (Sedano Navarro, filed Feb 2026); Horsford 2nd oversight visit Feb 2026 + Cortez Masto/Rosen IG investigation call; ACLU 287(g) appeal still pending at NV Supreme Court (no ruling); Clark child-welfare strain."
     },
     "NY": {
-      "last_researched": "2026-04-12",
-      "notes": "Batavia 745+ (650 cap), 26 Federal Plaza secret 9th floor trial May 2026, Chester warehouse killed by community, 12 287(g) agreements in 9 counties (from 1 pre-2025), county jails 6x increase (2800 in 7mo vs 500/yr), Nassau detainee death, Niagara sheriff pullback, Camden police 287(g) after ICE took restaurant owner, Hochul 287(g) ban bill vs NY4All, private prisons illegal forces IGSA pipeline. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "FY27 budget (signed May 27) enacted statewide 287(g) ban + sensitive-location warrant rules + ICE mask ban + private right to sue ICE retroactive to Jan 2025. 26 Federal Plaza bench trial May 27 (Kaplan floated barring use of cells entirely). Castel barred ICE arrests at 3 NYC immigration courts May 19. Nassau Supreme Court upheld 287(g); NYCLU appealed May 26 (likely mooted by budget ban). Batavia 745+ over 650 capacity, no announced expansion."
     },
     "OH": {
       "last_researched": "2026-05-28",

@@ -19,8 +19,8 @@ tags:
 - nevada-supreme-court
 - litigation
 research_status: working
-last_researched: "2026-04-13"
-last_news_check: '2026-05-06'
+last_researched: "2026-05-28"
+last_news_check: '2026-05-28'
 ---
 
 # Clark County: ACLU Challenges LVMPD 287(g) Agreement
@@ -39,7 +39,8 @@ The ACLU of Nevada sued LVMPD in October 2025, arguing that the department's 287
 - **April 8, 2026**: ACLU of Nevada files notice of appeal to Nevada Supreme Court (per ACLU NV press release; some news reports cite April 9 / April 10)
 - **April 14, 2026**: ACLU files petition for Nevada Supreme Court review of the March 6 dismissal (per Las Vegas Review-Journal)
 - **As of April 15, 2026**: Nevada Supreme Court had not yet docketed the case (per Las Vegas Review-Journal); no briefing schedule or oral argument date set as of news check
-- ACLU alleges LVMPD ignored an underlying court order and transferred a detainee to ICE custody during the case
+- **As of May 28, 2026**: No Nevada Supreme Court ruling reported; the appeal remains pending on the merits question of whether AB376 bars Nevada agencies from signing 287(g) agreements
+- ACLU alleges LVMPD ignored an underlying Nevada court order (which had ordered the plaintiff transported to in-patient treatment) and instead released him directly into ICE custody without notice during the case
 
 **Impact so far:**
 - Since December 2025, ICE has taken at least 240 people into custody through the 287(g) agreement

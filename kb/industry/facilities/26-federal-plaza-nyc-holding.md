@@ -20,7 +20,7 @@ tags:
 - constitutional-violations
 - new-york-city
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # 26 Federal Plaza — ICE Holding Cells (NYC)
@@ -40,11 +40,17 @@ ICE operates holding cells inside 26 Federal Plaza in Manhattan. A class-action 
 - Four additional holding rooms on 9th floor never publicly acknowledged by ICE
 - [Rep. Dan Goldman visited](https://www.thecity.nyc/2026/02/12/dan-goldman-26-federal-plaza-holding-cells/) the facility in February 2026
 
-## Trial
+## Trial (held May 27, 2026)
 
-- **May 26, 2026**: Full trial before Judge Lewis Kaplan
+- **May 27, 2026**: Bench trial held before Judge Lewis Kaplan (Barco-Mercado v. Noem)
 - Plaintiffs allege First Amendment violations (no attorney access) and Fifth Amendment violations (punitive conditions without due process)
-- Judge previously slammed ICE for "stalling" the case
+- Trial evidence: cells held **7-8x stated capacity** in summer 2025, regularly over 100 people nightly; 82% of detainees held over 12 hours (designed for under 12); some held 20-30 days. Internal ICE staff called conditions "insane" and were "concerned about the safety of everyone there"
+- **Kaplan raised whether ICE should be permitted to use the holding cells at all** — a possible shutdown remedy. No final ruling as of May 28, 2026; Kaplan may request more evidence
+
+## Courthouse Arrest Ban (May 19, 2026)
+
+- Judge **P. Kevin Castel** barred ICE from arresting most immigrants inside the three Manhattan immigration courts (26 Federal Plaza, 290 Broadway, 201 Varick), reversing his own 2025 order after DOJ admitted ICE lacked authority for courthouse enforcement
+- Arrests now permitted only for national-security/public-safety threats, imminent risk of violence, or imminent risk of evidence destruction in a criminal case
 
 ## Sources
 
@@ -54,3 +60,6 @@ ICE operates holding cells inside 26 Federal Plaza in Manhattan. A class-action 
 - [ACLU: Court order on abusive conditions](https://www.aclu.org/press-releases/district-court-grants-order-prohibiting-ice-from-detaining-immigrants-in-abusive-conditions-at-26-federal-plaza)
 - [Courthouse News: Judge slams ICE for stalling](https://www.courthousenews.com/judge-slams-ice-for-stalling-case-over-26-federal-plaza-conditions/)
 - [NYIC: Video of inhumane conditions (Jul 2025)](https://www.nyic.org/2025/07/new-video-shows-inhumane-conditions-inside-ice-detention-center-at-26-federal-plaza-ice-breaking-oversight-law/)
+- [THE CITY: Judge raises shutting down 26 Federal Plaza (May 27, 2026)](https://www.thecity.nyc/2026/05/27/26-federal-plaza-detention-ice-trial/)
+- [THE CITY: Judge blocks ICE arrests inside NYC immigration courthouses (May 19, 2026)](https://www.thecity.nyc/2026/05/19/judge-blocks-ice-arrests-immigration-courthouses/)
+- [Gothamist: Trial reveals ICE knew about 'insane' crowding (May 2026)](https://gothamist.com/news/federal-trial-reveals-ice-knew-about-insane-crowding-in-nyc-holding-cells)

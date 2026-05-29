@@ -6,7 +6,7 @@ county: Morris
 state: "NJ"
 facility: roxbury-nj-warehouse
 status: litigation
-outcome: "Active litigation. Preliminary injunction hearing set May 12, 2026 before Judge Semper (D.N.J.). Environmental coalition brief filed April 14. Federal government arguing ICE needs site for NYC-area cases and seeking to allow renovation work to proceed pending ruling."
+outcome: "May 12, 2026: parties reached a joint stipulation that mooted the injunction hearing before Judge Semper — DHS agreed to complete a full NEPA environmental assessment before any construction, halting the rushed timeline. ICE may do limited work only (fence, CCTV, fire-alarm/sprinkler monitoring, custodial/grounds). After the assessment ICE decides whether to proceed and must give Roxbury/state 7 days' notice; parties then meet on next steps. A win on timing for NJ; outcome on the facility itself deferred to post-review."
 importance: 9
 tags:
 - litigation
@@ -21,7 +21,8 @@ tags:
 - iwrnn
 research_status: working
 fips: '34027'
-last_news_check: '2026-05-06'
+last_news_check: '2026-05-28'
+last_researched: "2026-05-28"
 case_number: '26-02884 (JKS) (JBC)'
 ---
 
@@ -41,7 +42,7 @@ ICE purchased a 470,000 sq ft warehouse in Roxbury Township, Morris County for *
 - **April 14, 2026**: Coalition of **10 environmental groups** files amicus brief supporting the injunction, arguing the facility would generate 187,000+ gallons of sewage daily, threaten 74 acres of wetland habitat, increase pollution in a protected watershed, and violate NEPA environmental review requirements. NJ League of Conservation Voters: "Moving forward...without fully accounting for environmental and infrastructure impacts is reckless."
 - **April 2026**: Federal (Trump) attorneys argue ICE needs the NJ warehouse specifically to handle NYC-area immigration cases and ask court to deny injunction so renovation work (security cameras, fencing, lighting, roof repairs) can proceed
 - **May 6, 2026**: NJ Solicitor General Shankar Duraiswamy files reply memorandum in support of preliminary injunction motion alongside Naima Drecker-Waxman declaration. Plaintiffs request emergency two-hour depositions of DHS officials DeGregorio and Byers before the May 12 hearing, characterizing DHS's account as having "zig-zagged over the past two months." DHS opposes depositions. Plaintiffs offer to drop the injunction motion if DHS commits in writing to defer all construction — including interior demolition — pending completion of environmental review. Brief flags DHS declarations describing work as "_mainly_ drywall demolition" as language signaling "undisclosed additional activity." Township engineer's declaration: local water system would be overwhelmed "even if the facility had no staff and only 323 detainees."
-- **May 12, 2026** (scheduled): Preliminary injunction hearing before District Judge Jamel K. Semper in Newark federal court (Case No. 26-02884 (JKS) (JBC))
+- **May 12, 2026**: Rather than a contested injunction ruling, the parties filed a **joint stipulation** before Judge Semper that **mooted the hearing**. DHS agreed to **complete a full NEPA environmental assessment before any construction**, ending the rushed "operational in 90 days" timeline. ICE may perform only limited work in the interim — installing fencing and CCTV, monitoring fire alarms/sprinklers, and limited custodial/grounds maintenance. After the assessment concludes, ICE will decide whether to proceed and must notify Roxbury and state officials **7 days** in advance; the parties then reconvene to determine next steps, including whether further litigation is needed.
 
 ## The DHS Account Inconsistency
 
@@ -93,6 +94,8 @@ The legal-filing number understates what the facility is likely to actually hold
 - [TAPinto: Judge sets May 12 hearing (April 2026)](https://www.tapinto.net/towns/roxbury/sections/law-and-justice/articles/judge-sets-may-12-hearing-in-fight-over-roxbury-ice-facility)
 - [Gothamist: Federal attorneys argue ICE needs NJ warehouse for NYC cases](https://gothamist.com/news/federal-attorneys-say-ice-needs-nj-detention-warehouse-for-nyc-immigration-cases)
 - [Project Saltbox / Michael Wriston: NJ + Roxbury press for emergency depositions before May 12 hearing (May 6, 2026)](https://www.projectsaltbox.com/p/new-jersey-town-of-roxbury-press)
+- [New Jersey Monitor: Feds agree to delay opening of planned Roxbury ICE jail (May 12, 2026)](https://newjerseymonitor.com/2026/05/12/roxbury-ice-jail-court/)
+- [New Jersey Globe: ICE agrees to hold off on Roxbury construction until after environmental review](https://newjerseyglobe.com/immigration/ice-agrees-to-hold-off-on-roxbury-detention-center-construction-until-after-environmental-review/)
 - [TRAC Reports #762: ICE Contractual Capacity and Number Detained — Overcapacity vs. Overcrowding](https://tracreports.org/reports/762/) (cited for the 84-of-181-exceeded pattern)
 - [CBS Baltimore: Judge blocks new Maryland ICE detention facility (April 15, 2026)](https://www.cbsnews.com/baltimore/news/maryland-immigration-ice-facility-work-paused-judge/) (Hurson ruling, 542/1,500 capacity gap, "four toilets" quote)
 - [Maryland Matters: Hundreds rally as judge blocks detention center construction (April 15, 2026)](https://marylandmatters.org/2026/04/15/hundreds-rally-against-ice-as-judge-agrees-to-block-detention-center-construction/) (community-organizing context for the MD ruling)

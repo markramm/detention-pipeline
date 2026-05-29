@@ -19,7 +19,8 @@ tags:
 - sherrill-eo-12
 research_status: working
 fips: '34003'
-last_news_check: '2026-05-06'
+last_news_check: '2026-05-28'
+last_researched: "2026-05-28"
 ---
 
 # Bergen County, NJ: ICE Jail Contract Fight
