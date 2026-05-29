@@ -54,12 +54,18 @@ than each restating the national context.
 
 ## What the Strategy Comprises
 
-- **34 federally owned detention centers** consolidating hundreds of scattered sites
-- **8 mega-centers** (the 7,500–10,000-bed class)
-- **16 regional processing hubs** (smaller processing sites)
-- **92,600 beds** target — roughly double ICE's prior steady-state capacity
-- **$38.3 billion** total, via OBBBA (2025)
-- **Fully implemented by November 30, 2026** (end of FY2026)
+- **34 facilities**: **8 mega-centers** (7,500–10,000-bed class) + **16 regional
+  processing hubs** + **10 existing "turnkey" facilities** (CoreCivic/GEO sites
+  already operating — see the Plan B pivot below; the turnkey tier is *part of* the
+  initiative's design, not just a fallback).
+- **92,600 beds** target — up from ~70,000, roughly double the prior steady state.
+- **$38.3 billion** = the Detention Reengineering Initiative specifically (internal
+  memo, OBBBA-funded). Distinct from the **~$45 billion** four-year detention
+  appropriation in the 2025 budget bill — the larger envelope this initiative sits
+  inside. Both figures appear in reporting; they are **not** contradictory (one is
+  the program, the other the appropriation). Some reporting cites $38.5B; treat
+  $38.3–38.5B as the same program figure.
+- **Fully implemented by November 30, 2026** (end of FY2026).
 
 ### Progress as of late May 2026 (per the [[project-salt-box]] tracker)
 
@@ -129,10 +135,15 @@ This note is the connective tissue for findings filed under individual states:
 - The **~$631M / 9-warehouse / 41,500-bed aggregate** needs verification against the
   Salt Box tracker before being cited as current — site statuses flip frequently.
 - Contractor concentration (GEO, CoreCivic, MTC, GardaWorld) across the 8
-  mega-centers is partially mapped but not consolidated.
+  mega-centers is partially mapped but not consolidated. Note: GEO reported $2.6B
+  2025 revenue (+8%); CoreCivic's ICE awards up 45% since Jan 2025 — the turnkey
+  tier is the growth engine.
 - The Salt Box warehouse data also documents **overpayment** (federal acquisition
   price vs. market valuation) — a procurement-fraud angle our entries don't yet
   capture per-site.
+- RESOLVED (May 28): the $38.3B-vs-$45B question — $38.3B is the Detention
+  Reengineering Initiative; ~$45B is the broader 4-year detention appropriation it
+  sits inside. Not a contradiction.
 
 ## Sources
 - [Internal ICE Documents Reveal $38 Billion Strategy to Expand Detention, Buy Warehouses, and Bypass State Laws — Project Salt Box (Feb 2026)](https://www.projectsaltbox.com/p/nternal-ice-documents-reveal-38-billion)
@@ -143,3 +154,6 @@ This note is the connective tissue for findings filed under individual states:
 - [Social Circle puts ICE warehouse plan on ice with water meter lock — GPB (Mar 17, 2026)](https://www.gpb.org/news/2026/03/17/social-circle-puts-ice-warehouse-plan-on-ice-water-meter-lock)
 - [Mayor says ICE is planning 'mega center' with capacity for 10,000 at Salt Lake City warehouse — Utah News Dispatch (Mar 30, 2026)](https://utahnewsdispatch.com/2026/03/30/ice-planning-mega-center-with-capacity-for-up-to-10000-at-salt-lake-city-warehouse/)
 - [Uncertainty swirls around Salt Lake City ICE warehouse amid DHS review — Utah News Dispatch (Apr 8, 2026)](https://utahnewsdispatch.com/2026/04/08/uncertainty-around-salt-lake-city-ice-warehouse-detention-center/)
+- [Immigration Officials Plan to Spend $38.3 Billion to Boost Detention Capacity to 92,000 Beds — US News/AP (Feb 13, 2026)](https://www.usnews.com/news/us/articles/2026-02-13/immigration-officials-plan-to-spend-38-3-billion-to-boost-detention-capacity-to-92-000-beds)
+- [How ICE's Budget Boom Is Changing Immigration Detention — Brennan Center for Justice (2026)](https://www.brennancenter.org/our-work/research-reports/how-ices-budget-boom-changing-immigration-detention)
+- [ICE's Warehouse Purchases Herald New Model for Immigration Detention — American Immigration Council (2026)](https://www.americanimmigrationcouncil.org/blog/ice-buys-warehouses-immigration-detention/)
