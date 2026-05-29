@@ -3,84 +3,193 @@
   <a href="/">Home</a><span class="sep">/</span>County Fights
 </div>
 <div class="page-content">
-  <div style="padding-top:24px; margin-bottom:24px;">
-    <h1 class="serif" style="font-size:32px; font-weight:400; margin-bottom:6px;">County Fights</h1>
-    <p style="font-size:14px; color:var(--text-secondary); line-height:1.6; max-width:600px;">
-      Communities across the country are fighting detention facility proposals.
-      These are their stories — what worked, what didn't, and what you can learn from them.
-    </p>
-  </div>
 
   {{ $fights := where site.RegularPages "Params.entry_type" "county-fight" }}
+  {{ $total := len $fights }}
 
-  {{/* Group by status */}}
-  {{ $contested := where $fights "Params.status" "contested" }}
-  {{ $blocked := where $fights "Params.status" "blocked" }}
-  {{ $notContested := where $fights "Params.status" "!=" "contested" }}
-  {{ $other := where $notContested "Params.status" "!=" "blocked" }}
+  {{/* Normalize the messy status vocabulary into 4 outcome buckets. */}}
+  {{ $wonStatuses := slice "won" "blocked" "paused" "paused-dhs-review" "preemptive-defense" "pre-proposal-opposition" }}
+  {{ $litStatuses := slice "litigation" "active-litigation" "active-litigation-at-risk" }}
+  {{ $lostStatuses := slice "lost" "community-lost" "operational-despite-opposition" }}
 
-  {{ if $contested }}
-  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
-    Active Fights
-  </h2>
-  {{ range $contested }}
-  <div class="card" style="border-left:3px solid var(--accent);">
-    <a href="{{ .RelPermalink }}">
-      <div style="display:flex; justify-content:space-between; align-items:baseline;">
-        <div class="card-title" style="font-size:15px;">{{ .Title }}</div>
-        <span class="signal-badge" style="background:rgba(201,59,59,0.08); border-color:rgba(201,59,59,0.2); color:var(--accent);">Contested</span>
-      </div>
-      <div class="card-meta" style="margin-top:4px;">
-        {{ with .Params.county }}{{ . }}, {{ end }}{{ .Params.state }}
-        {{ with .Params.vote_tally }} · Vote: {{ . }}{{ end }}
-      </div>
-      {{ with .Params.outcome }}
-      <div style="font-size:12px; color:var(--text-secondary); margin-top:6px; line-height:1.5;">{{ . }}</div>
-      {{ end }}
-    </a>
+  {{ $wonCount := 0 }}{{ $litCount := 0 }}{{ $lostCount := 0 }}{{ $activeCount := 0 }}
+  {{ range $fights }}
+    {{ $s := .Params.status | default "active" }}
+    {{ if in $wonStatuses $s }}{{ $wonCount = add $wonCount 1 }}
+    {{ else if in $litStatuses $s }}{{ $litCount = add $litCount 1 }}
+    {{ else if in $lostStatuses $s }}{{ $lostCount = add $lostCount 1 }}
+    {{ else }}{{ $activeCount = add $activeCount 1 }}{{ end }}
+  {{ end }}
+
+  <div style="padding-top:24px; margin-bottom:18px;">
+    <h1 class="serif" style="font-size:32px; font-weight:400; margin-bottom:6px;">County Fights</h1>
+    <p style="font-size:14px; color:var(--text-secondary); line-height:1.6; max-width:640px; margin-bottom:18px;">
+      Communities across the country are fighting detention facility proposals &mdash; what worked, what didn't,
+      and what you can learn from them. See the <a href="/tactics/" style="color:var(--accent-warm);">Playbook &amp; Counter-Playbook</a>
+      for the patterns across all {{ $total }} fights.
+    </p>
+
+    {{/* Outcome scoreboard */}}
+    <div class="fight-stats">
+      <button class="fstat" data-filter="won"    style="--c:var(--signal-job);">    <span class="fnum">{{ $wonCount }}</span><span class="flbl">Won / Blocked</span></button>
+      <button class="fstat" data-filter="active" style="--c:var(--accent);">        <span class="fnum">{{ $activeCount }}</span><span class="flbl">Active</span></button>
+      <button class="fstat" data-filter="lit"    style="--c:var(--signal-sheriff);"> <span class="fnum">{{ $litCount }}</span><span class="flbl">In Litigation</span></button>
+      <button class="fstat" data-filter="lost"   style="--c:var(--text-dim);">       <span class="fnum">{{ $lostCount }}</span><span class="flbl">Lost</span></button>
+    </div>
   </div>
-  {{ end }}
-  {{ end }}
 
-  {{ if $blocked }}
-  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin:24px 0 12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
-    Successfully Blocked
-  </h2>
-  {{ range $blocked }}
-  <div class="card" style="border-left:3px solid #2a8a5a;">
-    <a href="{{ .RelPermalink }}">
-      <div style="display:flex; justify-content:space-between; align-items:baseline;">
-        <div class="card-title" style="font-size:15px;">{{ .Title }}</div>
-        <span class="signal-badge" style="background:rgba(42,138,90,0.08); border-color:rgba(42,138,90,0.2); color:#2a8a5a;">Blocked</span>
-      </div>
-      <div class="card-meta" style="margin-top:4px;">
-        {{ with .Params.county }}{{ . }}, {{ end }}{{ .Params.state }}
-      </div>
-      {{ with .Params.outcome }}
-      <div style="font-size:12px; color:var(--text-secondary); margin-top:6px; line-height:1.5;">{{ . }}</div>
-      {{ end }}
-    </a>
+  {{/* Sticky control bar: search + filter chips */}}
+  <div class="fight-controls" id="fight-controls">
+    <div class="fight-search">
+      <span class="fs-icon">&#x2315;</span>
+      <input type="text" id="fight-search" placeholder="Search county, state, or keyword…" autocomplete="off" aria-label="Search fights">
+    </div>
+    <div class="fight-chips" role="group" aria-label="Filter by outcome">
+      <button class="fchip active" data-filter="all">All <span class="cc">{{ $total }}</span></button>
+      <button class="fchip" data-filter="won">Won/Blocked</button>
+      <button class="fchip" data-filter="active">Active</button>
+      <button class="fchip" data-filter="lit">Litigation</button>
+      <button class="fchip" data-filter="lost">Lost</button>
+    </div>
   </div>
-  {{ end }}
-  {{ end }}
 
-  {{ if $other }}
-  <h2 class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin:24px 0 12px; padding-bottom:8px; border-bottom:2px solid var(--border);">
-    Other
-  </h2>
-  {{ range $other }}
-  <div class="card">
-    <a href="{{ .RelPermalink }}">
-      <div class="card-title">{{ .Title }}</div>
-      <div class="card-meta">{{ with .Params.county }}{{ . }}, {{ end }}{{ .Params.state }}{{ with .Params.status }} · {{ . }}{{ end }}</div>
-    </a>
-  </div>
-  {{ end }}
-  {{ end }}
+  <div id="fight-empty" class="fight-empty" hidden>No fights match. <button id="fight-clear" class="linkbtn">Clear filters</button></div>
+
+  {{/* Compact rows, sorted by most recently updated. */}}
+  <ul class="fight-list" id="fight-list">
+    {{ range (sort $fights ".Params.lastmod" "desc") }}
+      {{ $s := .Params.status | default "active" }}
+      {{ $bucket := "active" }}{{ $blabel := "Active" }}
+      {{ if in $wonStatuses $s }}{{ $bucket = "won" }}{{ $blabel = "Won" }}
+      {{ else if in $litStatuses $s }}{{ $bucket = "lit" }}{{ $blabel = "Litigation" }}
+      {{ else if in $lostStatuses $s }}{{ $bucket = "lost" }}{{ $blabel = "Lost" }}{{ end }}
+      {{ if eq $s "blocked" }}{{ $blabel = "Blocked" }}{{ else if eq $s "won" }}{{ $blabel = "Won" }}
+      {{ else if eq $s "paused" }}{{ $blabel = "Paused" }}{{ else if eq $s "contested" }}{{ $blabel = "Contested" }}{{ end }}
+      <li class="fight-row" data-bucket="{{ $bucket }}"
+          data-search="{{ lower .Title }} {{ lower (.Params.county | default "") }} {{ lower (.Params.state | default "") }} {{ lower $s }}">
+        <a href="{{ .RelPermalink }}" class="fr-link">
+          <span class="fr-dot fr-{{ $bucket }}" aria-hidden="true"></span>
+          <span class="fr-main">
+            <span class="fr-title">{{ .Title }}</span>
+            <span class="fr-meta">{{ with .Params.county }}{{ . }}, {{ end }}{{ .Params.state }}{{ with .Params.vote_tally }} · {{ . }}{{ end }}</span>
+          </span>
+          <span class="fr-status fr-{{ $bucket }}-badge">{{ $blabel }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
 
   <div style="margin-top:32px; padding-top:16px; border-top:1px solid var(--border);">
     <p style="font-size:13px; color:var(--text-secondary); margin-bottom:8px;">Is your community facing a detention facility proposal?</p>
     <a href="{{ site.Params.repoURL }}/issues/new?template=tip.yml" class="btn btn-accent">Report what's happening →</a>
   </div>
 </div>
+
+<style>
+  /* ── Outcome scoreboard ── */
+  .fight-stats { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; max-width:640px; }
+  .fstat {
+    display:flex; flex-direction:column; align-items:flex-start; gap:2px;
+    padding:10px 12px; border:1px solid var(--border); border-left:3px solid var(--c);
+    border-radius:4px; background:var(--bg-content); cursor:pointer; text-align:left;
+    transition:background .12s, box-shadow .12s;
+  }
+  .fstat:hover { box-shadow:0 1px 8px rgba(0,0,0,0.06); }
+  .fstat .fnum { font-family:'Instrument Serif',serif; font-size:26px; line-height:1; color:var(--c); }
+  .fstat .flbl { font-family:'DM Mono',monospace; font-size:9.5px; letter-spacing:.05em; text-transform:uppercase; color:var(--text-dim); }
+
+  /* ── Sticky control bar ── */
+  .fight-controls {
+    position:sticky; top:0; z-index:20; display:flex; gap:12px; flex-wrap:wrap; align-items:center;
+    padding:12px 0; margin:22px 0 4px; background:var(--bg-content);
+    border-top:1px solid var(--border); border-bottom:1px solid var(--border);
+  }
+  .fight-search { position:relative; flex:1 1 240px; min-width:200px; }
+  .fight-search .fs-icon { position:absolute; left:10px; top:50%; transform:translateY(-50%); color:var(--text-dim); font-size:14px; }
+  #fight-search {
+    width:100%; padding:8px 10px 8px 30px; font-size:13px; font-family:'IBM Plex Sans',sans-serif;
+    border:1px solid var(--border); border-radius:4px; background:var(--bg-content-alt); color:var(--text-primary);
+  }
+  #fight-search:focus { outline:2px solid var(--accent); outline-offset:1px; }
+  .fight-chips { display:flex; gap:6px; flex-wrap:wrap; }
+  .fchip {
+    font-family:'DM Mono',monospace; font-size:11px; padding:6px 11px; border-radius:14px;
+    border:1px solid var(--border); background:var(--bg-content); color:var(--text-secondary); cursor:pointer;
+    transition:all .12s;
+  }
+  .fchip .cc { color:var(--text-dim); }
+  .fchip:hover { border-color:var(--text-dim); }
+  .fchip.active { background:var(--text-primary); color:var(--text-light); border-color:var(--text-primary); }
+  .fchip.active .cc { color:var(--text-light); opacity:.7; }
+
+  /* ── Compact rows ── */
+  .fight-list { list-style:none; margin:0; padding:0; }
+  .fight-row { border-bottom:1px solid var(--border); }
+  .fight-row.hidden { display:none; }
+  .fr-link {
+    display:flex; align-items:center; gap:12px; padding:11px 4px; text-decoration:none; color:inherit;
+    transition:background .1s;
+  }
+  .fr-link:hover { background:var(--bg-content-alt); }
+  .fr-dot { width:8px; height:8px; border-radius:50%; flex:0 0 auto; }
+  .fr-won  { background:var(--signal-job); }
+  .fr-active { background:var(--accent); }
+  .fr-lit  { background:var(--signal-sheriff); }
+  .fr-lost { background:var(--text-dim); }
+  .fr-main { flex:1 1 auto; min-width:0; }
+  .fr-title { display:block; font-size:14px; font-weight:500; color:var(--text-primary); line-height:1.35; }
+  .fr-meta { display:block; font-family:'DM Mono',monospace; font-size:11px; color:var(--text-dim); margin-top:2px; }
+  .fr-status {
+    flex:0 0 auto; font-family:'DM Mono',monospace; font-size:9.5px; letter-spacing:.04em;
+    padding:3px 8px; border-radius:3px; white-space:nowrap;
+  }
+  .fr-won-badge    { background:rgba(26,138,90,0.10); color:var(--signal-job); border:1px solid rgba(26,138,90,0.22); }
+  .fr-active-badge { background:rgba(201,59,59,0.08); color:var(--accent); border:1px solid rgba(201,59,59,0.20); }
+  .fr-lit-badge    { background:rgba(26,106,154,0.10); color:var(--signal-sheriff); border:1px solid rgba(26,106,154,0.22); }
+  .fr-lost-badge   { background:var(--bg-content-alt); color:var(--text-dim); border:1px solid var(--border); }
+
+  .fight-empty { padding:28px 4px; font-size:14px; color:var(--text-secondary); }
+  .linkbtn { background:none; border:none; color:var(--accent-warm); cursor:pointer; font-size:14px; padding:0; text-decoration:underline; }
+
+  @media (max-width:520px) {
+    .fight-stats { grid-template-columns:repeat(2,1fr); }
+    .fr-status { display:none; }
+  }
+</style>
+
+<script>
+(function () {
+  var search = document.getElementById('fight-search');
+  var chips  = Array.prototype.slice.call(document.querySelectorAll('.fchip'));
+  var stats  = Array.prototype.slice.call(document.querySelectorAll('.fstat'));
+  var rows   = Array.prototype.slice.call(document.querySelectorAll('.fight-row'));
+  var empty  = document.getElementById('fight-empty');
+  var clear  = document.getElementById('fight-clear');
+  var state  = { q: '', bucket: 'all' };
+
+  function apply() {
+    var q = state.q.trim().toLowerCase();
+    var shown = 0;
+    rows.forEach(function (r) {
+      var okBucket = state.bucket === 'all' || r.getAttribute('data-bucket') === state.bucket;
+      var okSearch = !q || r.getAttribute('data-search').indexOf(q) !== -1;
+      var show = okBucket && okSearch;
+      r.classList.toggle('hidden', !show);
+      if (show) shown++;
+    });
+    empty.hidden = shown !== 0;
+  }
+
+  function setBucket(b) {
+    state.bucket = b;
+    chips.forEach(function (c) { c.classList.toggle('active', c.getAttribute('data-filter') === b); });
+    apply();
+  }
+
+  search.addEventListener('input', function () { state.q = search.value; apply(); });
+  chips.forEach(function (c) { c.addEventListener('click', function () { setBucket(c.getAttribute('data-filter')); }); });
+  stats.forEach(function (s) { s.addEventListener('click', function () { setBucket(s.getAttribute('data-filter')); document.getElementById('fight-controls').scrollIntoView({behavior:'smooth', block:'start'}); }); });
+  if (clear) clear.addEventListener('click', function () { state.q=''; search.value=''; setBucket('all'); });
+})();
+</script>
 {{ end }}
