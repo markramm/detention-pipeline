@@ -41,7 +41,7 @@ This is a significant escalation in Minnesota's three-front resistance to Operat
 
 Minnesota is establishing the **criminal-accountability prong** of resistance to federalized immigration enforcement. If the Castro prosecution survives federal removal and supremacy-clause challenges, it becomes a national template for holding ICE/CBP agents personally liable — a deterrent distinct from civil suits against the agency. The expansion to 30 investigated cases signals this is a systematic program, not a one-off.
 
-FIPS: Hennepin County 27053.
+FIPS: 27053
 
 ## Sources
 
