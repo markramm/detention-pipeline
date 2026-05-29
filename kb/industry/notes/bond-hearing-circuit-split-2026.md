@@ -57,11 +57,22 @@ in order of decision:**
   with the **largest detained population** (~15,000 affected). Stalled the bond
   dockets at [[adams-county-correctional-center-ms]] and across the Louisiana
   detention economy.
-- **Eighth Circuit — AGAINST.** Late-March 2026, ruled **2-1** for mandatory
-  detention without bond; binds **MN, IA, MO, AR, NE, ND, SD**. Gutted the statutory
-  basis for ~30 wrongful-detention habeas suits filed in Nebraska federal court (see
+- **Eighth Circuit — *Herrera Avila v. Bondi*, No. 25-3248, Mar 25, 2026, 2-1**
+  (Shepherd/Grasz; Judge Erickson dissenting). Held INA § 235(b)(2)(A) mandates
+  no-bond detention for those who entered without inspection; overturned a Minnesota
+  district habeas grant. Binds **MN, IA, MO, AR, NE, ND, SD**. Gutted the statutory
+  basis for ~30 wrongful-detention habeas suits in Nebraska federal court (see
   [[nebraska-ice-detention-overview-2025-2026]]); future challenges must go
   constitutional.
+
+**Heard arguments, no ruling yet (as of late May 2026):**
+- **Ninth Circuit (WA/OR/CA, largest sanctuary bloc):** heard argument; **stayed**
+  Judge Sunshine Sykes's pro-bond declaratory judgment and limited it to the Central
+  District of California — a procedural lean toward the government, no merits ruling.
+- **First Circuit (MA/NH/ME/RI):** heard argument; ruling pending. Directly governs
+  the Wyatt (RI) habeas wave (see [[donald-wyatt-detention-facility-ri]]) — "looking
+  increasingly likely to wind up before the Supreme Court."
+- **Seventh Circuit (IL/IN/WI):** also heard argument; pending.
 
 ## Why It Matters
 
@@ -81,15 +92,13 @@ in order of decision:**
 
 ## Open Questions / Research Gaps
 
-- Citations CONFIRMED (May 28, 2026): 2nd *Cunha v. Freden* (Apr 28), 11th *Hernández
-  Álvarez v. Warden FDC Miami* No. 25-14065 (May 6), 6th *Lopez-Campos v. Raycraft*
-  (May 11), 5th *Buenrostro-Mendez v. Bondi* 166 F.4th 494 (Feb 6), 8th (late March).
-- **Eighth Circuit** case name/date still needs the specific citation (ruling is dated
-  ~Mar 25 2026, 2-1, but the opinion caption is not yet captured here).
-- **Ninth Circuit (WA/OR/CA, the largest sanctuary bloc) and First Circuit (MA/NH/ME/RI)**
-  status not yet confirmed; the RI habeas wave (135 cases) suggests the First is active
-  but unresolved.
+- All five decided-circuit citations CONFIRMED (May 28, 2026): 5th *Buenrostro-Mendez
+  v. Bondi* 166 F.4th 494 (Feb 6), 8th *Herrera Avila v. Bondi* No. 25-3248 (Mar 25),
+  2nd *Cunha v. Freden* (Apr 28), 11th *Hernández Álvarez v. Warden FDC Miami* No.
+  25-14065 (May 6), 6th *Lopez-Campos v. Raycraft* (May 11). 9th/7th/1st have argued
+  but not ruled.
 - Track any cert petition / SCOTUS grant — that would be the dispositive next event.
+  The 1st Circuit (Wyatt/New England) ruling is the next one to watch.
 - NOTE: an early agent summary mislabeled the Sixth Circuit as ruling *for* no-bond;
   verified May 28 2026 via multiple sources that the Sixth ruled **FOR** bond hearings.
   Don't let that error propagate.
