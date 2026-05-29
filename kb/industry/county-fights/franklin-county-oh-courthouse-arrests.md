@@ -18,8 +18,8 @@ tags:
 - aclu-report
 - ohio
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Franklin County, OH: Courthouse Arrests and City-County Split
@@ -30,10 +30,15 @@ Franklin County is the starkest example in Ohio of a city-county split on immigr
 ## Key Details
 
 ### Courthouse Arrests
-- **20 people** arrested by ICE inside Franklin County Municipal Court in 2025
+- **20 people** arrested by ICE inside Franklin County Municipal Court in 2025, plus **1 in 2026** (per court figures); a separate count puts it at 18 inside the courthouse and 3 detained nearby since 2025
 - Activists pushing judges to adopt rules barring ICE from courthouse premises
 - Arrests chill access to courts — witnesses, victims, and defendants all at risk
 - Part of broader national pattern of ICE courthouse enforcement (see also Essex County MA)
+
+#### Judge-Rule Campaign (escalated early 2026)
+- The **Franklin County Common Pleas Court** already bars ICE arrests inside the courthouse under **Local Rule 111**, which prohibits warrantless civil arrests — but the **Municipal Court** retains long-standing rules permitting ICE arrests inside
+- Common Cause Ohio: nearly **10,000 people** have sent letters to Municipal Court judges demanding the rule change (as of Feb 2026)
+- A new **state bill (introduced ~May 13, 2026)** would bar civil immigration-related arrests in some locations (courthouses among the sensitive sites targeted)
 
 ### Sheriff Cooperation
 - **H1 2025**: Sheriff handed 50 people to ICE (vs 11 in all of 2024)
@@ -71,4 +76,6 @@ The city-county split in Franklin County illustrates the limits of municipal san
 - [DHS Touts Success of Operation Buckeye (Jan 8, 2026)](https://www.dhs.gov/news/2026/01/08/dhs-touts-success-operation-buckeye-arresting-more-280-illegal-aliens-including)
 - [Columbus Council delays vote on jail contract over ICE policy (Yahoo, Apr 14, 2026)](https://www.yahoo.com/news/articles/columbus-council-delays-vote-jail-102925483.html)
 - [Columbus Council approves $2M payment to Franklin County jail (10TV)](https://www.10tv.com/article/news/local/columbus-city-council-franklin-county-sheriffs-county-housing-inmate-2-million-dollar-debt/530-2ba5a8b7-ed62-4821-ac39-13a71faa53d6)
+- [Campaign pushes Franklin County municipal judges to change rules to limit ICE in courthouse - WOSU (Feb 13, 2026)](https://www.wosu.org/politics-government/2026-02-13/campaign-pushes-franklin-county-municipal-judges-to-change-rules-to-limit-ice-in-courthouse)
+- [Ohio bill looks to stop civil immigration-related arrests in some locations - Spectrum News (May 13, 2026)](https://spectrumnews1.com/oh/columbus/news/2026/05/13/ohio-bill-immigration-related-arrests)
 - See also: [[columbus-oh-anti-ice-measures]] for full Columbus response details

@@ -7,7 +7,7 @@ state: CO
 fips: "08005"
 facility: "DENHOLD hold room (Centennial); Aurora ICE Processing Center (partly in Arapahoe)"
 status: contested
-outcome: "Hold room exposed March 2026; Aurora city council delayed MOU vote; third-highest ICE arrests statewide in 2025"
+outcome: "Hold room exposed March 2026; Aurora city council REJECTED police-ICE MOU 6-3 (Apr 21, 2026); health-hazard reporting code advancing (vote June 1); third-highest ICE arrests statewide in 2025"
 importance: 7
 tags:
 - colorado
@@ -21,7 +21,7 @@ tags:
 - sanctuary-state
 - ice-arrests
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Arapahoe County CO — Hold Room Exposed and Aurora MOU Fight
@@ -46,9 +46,11 @@ The city of Aurora — which straddles Adams and Arapahoe counties — is debati
 
 - **Background**: Two detainees escaped during a March 18, 2025 power outage. ICE blamed Aurora police for delayed response; police said ICE didn't notify them for hours.
 - **April 7, 2026**: Council voted **10-1** to postpone the MOU vote (Stephanie Hancock sole dissent) for at least two weeks
-- **MOU provisions**: Aurora police would respond to criminal incidents at the facility but with "explicit guardrails" against immigration enforcement
+- **April 21, 2026**: Council **rejected the MOU 6-3** after vocal opposition, citing the March conditions report. Police Chief Todd Chamberlain's pact with ICE was killed.
+- **MOU provisions**: Aurora police would have responded to criminal incidents at the facility but with "explicit guardrails" against immigration enforcement
 - **Opposition**: Activist Jeffrey McFarland called it "a 10-year partnership between a local police department and a federal agency tearing families apart"
 - **January 12, 2026**: Council had previously passed a resolution **6-4** declaring opposition to "ICE overreach"
+- **May 18, 2026**: Council advanced city-code changes requiring all detention facilities to **report health hazards to the city**, after GEO failed to report health issues; official vote set for **June 1, 2026**.
 
 ## Sheriff Tyler Brown's Position
 
@@ -84,3 +86,6 @@ Arapahoe County's heatmap score of 64 (igsa:4, anc-contract:3) only captures the
 - [Colorado Sun: ICE arrested 3,500+ in Colorado in 2025 (Dec 2025)](https://coloradosun.com/2025/12/31/ice-arrests-2025-data-deportation-data-project/)
 - [CS Monitor: Colorado sheriffs torn on ICE cooperation (March 2025)](https://www.csmonitor.com/USA/Politics/2025/0305/sanctuary-state-colorado-ice-immigration)
 - [Denver7: How Colorado agencies respond to ICE detainers](https://www.denver7.com/news/investigations/denver7-investigates-how-colorado-law-enforcement-agencies-respond-to-ice-detainers)
+- [CPR: Aurora lawmakers reject police-ICE MOU 6-3 (Apr 22, 2026)](https://www.cpr.org/2026/04/22/aurora-lawmakers-reject-police-ice-detention-facility/)
+- [Denver Gazette: Aurora council kills police-ICE agreement (Apr 21, 2026)](https://www.denvergazette.com/2026/04/21/aurora-city-council-kills-agreement-between-police-ice-detention-facility/)
+- [Colorado Politics: Aurora council wants ICE facility to report health hazards (May 19, 2026)](https://www.coloradopolitics.com/2026/05/19/aurora-city-council-wants-ice-facility-to-report-health-hazards-to-city/)

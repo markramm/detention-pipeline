@@ -29,7 +29,7 @@ tags:
 - sanctuary-state-conflict
 - expansion-proposed
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Northwest ICE Processing Center — GEO Group's Pacific Northwest Hub
@@ -111,3 +111,33 @@ During the 2025 legislative session, **HB 1232** was passed amending related pro
 - [Compliance Theater: The NWDC's Unenforced Contract (UW Center for Human Rights, Jul 2025)](https://jsis.washington.edu/humanrights/2025/07/16/nwdc-compliance-theater/)
 - [Litigation grinds on over WA's power to regulate detention center (WA State Standard, Feb 2025)](https://washingtonstatestandard.com/2025/02/19/litigation-grinds-on-over-was-power-to-regulate-immigrant-detention-center/)
 - [Lawsuit accuses WA ICE detention center staff of assault, sexual abuse (Spokesman-Review, Feb 2026)](https://www.spokesman.com/stories/2026/feb/06/lawsuit-accuses-wa-ice-detention-center-staff-of-a/)
+
+## Update (2026-05-28)
+
+### The $69M Bridge Contract Embeds the 1,635-Bed Expansion AND Lower Standards
+A key clarification from the **UW Center for Human Rights "Scrapping the Standards" report (May 5, 2026)** and reporting by The Urbanist (May 2026): the **March 2026 7-month "bridge" contract ($69M, through Oct 27, 2026) is itself the vehicle for the capacity bump and the standards downgrade** — not merely the separate Dec 2025 pre-solicitation. Per these analyses:
+- The contract **raises authorized capacity from 1,575 to 1,635 beds** (+60).
+- It moves the facility to the **2025 National Detention Standards (NDS)**, which UW calls "considerably less strict and rigorous" and possibly "the weakest standard for conditions ever applied to the facility since its opening in 2004."
+- New contract terms reportedly: bar GEO compliance with state/local law where it conflicts with federal requirements; allow "reasonable time" delays for medical transfers; and require **ICE approval before any public disclosure of detainee information**.
+
+### UW "Scrapping the Standards" — Sexual-Abuse Accountability Gaps (May 5, 2026)
+- **229 documented reports of sexual abuse/assault** between Jan 1, 2015 and Feb 25, 2025.
+- Of 172 cases reviewed, only **58 had incident reviews; only 5 of those contained improvement recommendations.**
+- Staff frequently failed to notify law enforcement; internal investigations overlooked key evidence.
+
+### State Inspection Showdown — Where It Stands
+- WA's authority to inspect under **HB 1470/HB 1232** was upheld: the **9th Circuit vacated Judge Benjamin Settle's 2024 injunction (Aug 2025), mandate issued Mar 4, 2026**, rejecting GEO's intergovernmental-immunity and preemption arguments.
+- **Dept. of Labor & Industries** won access: Judge Settle approved a **permanent injunction barring GEO from denying L&I inspectors entry.**
+- **Dept. of Health (DOH) inspectors remain blocked** — turned away ~10 times (most recently Apr 20, 2026), GEO telling them to seek ICE permission. Gov. Ferguson and AG Brown filed for a **preliminary injunction; hearing held May 26, 2026** in U.S. District Court (W.D. Wash.); ruling pending as of this update. DOH seeks to investigate **3,500+ detainee complaints**; **two deaths and six suicide attempts** documented since 2024.
+
+### Hunger Strikes Continue
+KUOW reported detainees began **another hunger strike** in 2026; advocates count multiple strikes through spring. NW Immigrant Rights Project's director warned **2026 is on pace to be deadlier than 2025**, the deadliest year in immigration detention in two decades.
+
+### Update Sources
+- [Scrapping the Standards (UW Center for Human Rights, May 5, 2026)](https://jsis.washington.edu/humanrights/2026/05/05/scrapping-the-standards/)
+- [ICE's new NWDC contract lowers standards, accountability (The Urbanist, May 2026)](https://www.theurbanist.org/ices-new-northwest-detention-center-contract-lowers-standards-accountability/)
+- [WA ICE facility, rife with abuses, now under lower standards, UW report shows (Spokesman-Review, May 6, 2026)](https://www.spokesman.com/stories/2026/may/06/wa-ice-facility-rife-with-abuses-now-under-lower-s/)
+- [Despite court ruling, WA still blocked from inspecting immigrant detention center (WA State Standard)](https://washingtonstatestandard.com/briefs/despite-court-ruling-wa-still-blocked-from-inspecting-immigrant-detention-center/)
+- [Washington wins court fight to inspect Tacoma ICE detention center but inspectors still blocked from entry (KING5)](https://www.king5.com/article/news/community/facing-race/washington-immigration/tacoma-ice-detention-center-inspectors-blocked/281-79899ede-2b33-494a-bd05-3addcf7bbda1)
+- [Immigrants detained by ICE in Tacoma start another hunger strike (KUOW)](https://www.kuow.org/stories/immigrants-detained-at-tacoma-ice-facility-have-started-another-hunger-strike)
+- [As one lawsuit against Tacoma detention center ends, another ramps up (InvestigateWest)](https://www.investigatewest.org/as-one-lawsuit-against-tacoma-immigration-detention-center-ends-another-ramps-up/)

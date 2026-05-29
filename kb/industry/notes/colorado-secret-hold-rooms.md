@@ -11,6 +11,8 @@ tags:
 - colorado-times-recorder
 - structural-analysis
 research_status: working
+state: CO
+last_researched: "2026-05-28"
 ---
 
 # Colorado's Secret ICE Hold Room Network

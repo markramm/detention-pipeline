@@ -16,7 +16,7 @@ tags:
 - denhold
 - heatmap-analysis
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # The Adams-Arapahoe ICE Corridor
@@ -62,11 +62,21 @@ The heatmap scores (Adams 66, Arapahoe 64) capture formal signals: IGSA agreemen
 - The body-writ standoff and health investigation obstruction are governance-level conflicts not captured in contract data
 - The pipeline flow between Arapahoe (processing) and Adams (detention) is a structural relationship the heatmap can't represent
 
+## Spring 2026 Escalation (Update)
+
+Between April and late May 2026 the corridor fight escalated sharply across all levels of government:
+- **Aurora City Council rejected the police-ICE MOU 6-3 (April 21, 2026)** — resolving the prior "delayed vote" gap. The MOU is dead.
+- Council then advanced city-code changes (May 18) requiring detention facilities to report health hazards; vote set for **June 1, 2026**.
+- **HB 26-1276 cleared the legislature (Senate 23-12, May 11, 2026)** and went to Gov. Polis. It authorizes **unannounced state inspections of the Aurora facility at least 4x/year** — a direct legislative answer to GEO's obstruction of the Adams County probe.
+- **Federal judge R. Brooke Jackson (May 12, 2026)** found ICE noncompliant with his warrantless-arrest injunction and ordered statewide officer retraining within 45 days — constraining the arrest stage of the pipeline.
+- **Sen. Bennet (running for governor)** announced a strategy (May 27) to block new ICE facilities and bar prisons from immigration use; with Hickenlooper and Rep. Pettersen he demanded DHS abandon the Hudson (Big Horn) expansion.
+
 ## Research Gaps
 
 - **Exact Arapahoe County ICE arrest numbers**: Ranked third but no published figure (Denver had 1,548)
 - **Adams County jail ICE notifications**: How many times does Adams County notify ICE before releasing inmates? (Arapahoe doesn't track this.)
-- **Aurora MOU final vote**: Expected at next regular council meeting after April 7, 2026
+- **June 1 health-hazard code vote**: Did Aurora council enact the reporting requirement?
+- **Polis signature on HB 26-1276**: Expected to sign; confirm enactment and first inspection date.
 - **GEO contract renewal**: The Aurora facility contract is up for renewal (date unclear — reported as "October" but not confirmed). Activists see this as an opportunity to block renewal.
 - **DENHOLD current operations**: Is the Centennial office still operating as a hold room post-exposure in March 2026?
 

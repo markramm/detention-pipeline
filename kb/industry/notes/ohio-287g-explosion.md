@@ -6,7 +6,8 @@ state: OH
 importance: 9
 tags: [287g, expansion, aclu-report, ohio, pattern]
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Ohio: 287(g) Explosion — Zero to Twenty in One Year
@@ -29,6 +30,7 @@ Ohio went from zero 287(g) agreements at the start of Trump's second term (Janua
 - **IGSA expansion**: Detention sites expanded from 2 (Geauga, Seneca) to 6 by end of 2025 (added Butler, Mahoning, NEOCC, CCNO)
 - **Detention capacity**: 810 detainees across 6 facilities as of March 2026 (up 75% from earlier counts; previously reported as 670)
 - **Clermont County**: Signed 287(g) but gets ZERO reimbursement from ICE — only free training and IT equipment. A cautionary example of counties subsidizing federal enforcement at local taxpayer expense
+- **Staffing-limited participation (May 11, 2026)**: Statehouse News reported that ~10 rural Ohio police departments signed voluntary Task Force Model 287(g) agreements but staffing shortages limit their actual participation; in small villages there simply aren't enough officers. Notably, about **half of the participating chiefs who signed or initiated agreements have since left or been placed on leave** — suggesting the paper count of agreements overstates operational enforcement capacity
 
 ## Pattern Match
 This mirrors the nationwide pattern: states go from zero or minimal 287(g) agreements to double digits within months once the first agreements are signed. The bounty system economics (per-diem payments to counties) and political signaling create a cascade effect. Ohio's trajectory matches SC and UT almost exactly.
@@ -39,3 +41,4 @@ This mirrors the nationwide pattern: states go from zero or minimal 287(g) agree
 - [ICE agreements with Ohio counties have grown 600% - Journal-News](https://www.journal-news.com/local/ice-agreements-with-ohio-counties-have-grown-600-since-2025/article_8181f0e2-e38b-5c7c-9027-b9f47737c18b.html)
 - [3 Ohio sheriff's departments ink agreements with ICE - Statehouse News Bureau (May 20, 2025)](https://www.statenews.org/section/the-ohio-newsroom/2025-05-20/3-ohio-sheriffs-departments-ink-agreements-with-ice-to-aid-in-deportations)
 - [ACLU of Ohio finds more police departments signing ICE agreements - WOSU (Mar 30, 2026)](https://www.wosu.org/politics-government/2026-03-30/aclu-of-ohio-finds-more-police-departments-and-sheriffs-are-signing-agreements-with-ice)
+- [Rural Ohio police signed up to help ICE. But staffing shortages limit their role - Statehouse News Bureau (May 11, 2026)](https://www.statenews.org/section/the-ohio-newsroom/2026-05-11/rural-ohio-police-signed-up-to-help-ice-but-staffing-shortages-limit-their-role)

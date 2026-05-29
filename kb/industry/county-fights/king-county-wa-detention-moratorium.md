@@ -19,8 +19,8 @@ tags:
 - dhs-pre-solicitation
 - regional-coordination
 research_status: working
-last_researched: "2026-04-12"
-last_news_check: 2026-04-29
+last_researched: "2026-05-28"
+last_news_check: 2026-05-28
 ---
 
 # King County WA — Regional Moratorium on ICE Detention Expansion
@@ -83,3 +83,11 @@ The **World Cup dimension** adds urgency: DHS Secretary signaled a "hard look" a
 ### Tukwila Ban Extension
 
 - **Late April 2026**: Community members urged Tukwila City Council to extend its 6-month ban before expiration. Key concern: ICE reportedly eyeing Riverfront Technical Park in Tukwila; current ban does not prohibit ICE from leasing office space, only new detention construction.
+
+## Updates (2026-05-28)
+
+### NWIPC Inspection Injunction Hearing Held (May 26, 2026)
+The Ferguson/Brown preliminary-injunction motion to compel state Department of Health access to the Tacoma NWIPC went to a **hearing on May 26, 2026** in U.S. District Court (W.D. Wash.); a ruling was pending as of May 28. WA's underlying inspection authority is already upheld (9th Cir. mandate Mar 4, 2026), and the Dept. of Labor & Industries separately won a permanent injunction for workplace access — but GEO continues to deny DOH inspectors entry. See [nwipc-tacoma-wa](../facilities/nwipc-tacoma-wa.md).
+
+### Context: Bridge Contract Embeds the 1,635-Bed Expansion
+The March 2026 $69M bridge contract that the moratoriums were defending against has been confirmed (UW Center for Human Rights, May 5, 2026) to itself authorize the bump to **1,635 beds** and a downgrade to weaker 2025 National Detention Standards — sharpening the regional argument that the federal government intends to grow PNW detention capacity. See [washington-state-ice-enforcement-surge-2025](../notes/washington-state-ice-enforcement-surge-2025.md).

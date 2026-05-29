@@ -11,8 +11,8 @@ outcome: "County mayor declared state of emergency Oct 2025. Task force made 5,2
 importance: 9
 tags: [memphis-safe-task-force, state-of-emergency, national-guard, shelby-county, profiling, overcrowding, trump-executive-order, tennessee, protest]
 research_status: working
-last_researched: "2026-04-12"
-last_news_check: "2026-04-29"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Shelby County, TN: Memphis Safe Task Force and State of Emergency
@@ -68,6 +68,9 @@ President Trump issued a **September 15, 2025 executive order** establishing the
 - One protester reported being struck by patrol car push bar, went to hospital
 - THP released dashcam footage disputing some claims; incident remains disputed
 
+### May 2026 — Task force totals balloon, fatal DEA shooting
+By mid-May 2026 the Memphis Safe Task Force reported **8,818 total arrests** since its September 2025 launch (977 narcotics, 807 firearms, 65 homicide, 105 sex offense; 250 juveniles; 935 self-identified gang members; 1,450 illegal firearms seized) — an enforcement footprint that continues to dwarf the violent-crime share documented in the April 2026 MLK50/ProPublica analysis (just 2% of immigration arrests were for violent crime). On **May 12, 2026**, a man wanted on assault/burglary/weapons warrants was shot and killed at a Frayser Burger King by DEA agents operating under the task force when he allegedly drew a weapon during arrest. The Tennessee National Guard remains deployed. The task force's persistence into mid-2026 — eight months past its original ~30-day framing — confirms it as a standing federal-state occupation rather than a surge. (WhiteHouse.gov; WREG; AP)
+
 ## Sources
 
 - [Shelby County Mayor declares state of emergency (Tennessee Lookout, Oct 2025)](https://tennesseelookout.com/2025/10/16/shelby-county-mayor-declares-state-of-emergency-in-response-to-memphis-safe-task-force-arrests/)
@@ -80,3 +83,6 @@ President Trump issued a **September 15, 2025 executive order** establishing the
 - [Just 2% of immigration arrests by Memphis Safe Task Force were for violent crime, records show — MLK50 / ProPublica (Apr 15, 2026)](https://mlk50.com/2026/04/15/memphis-safe-task-force-immigration-arrests-crime-data/) — analysis of Oct 2025–Feb 2026 arrest records; 4 in 5 immigration arrests followed traffic stops
 - [Federal judge orders immediate release of Memphis high school student detained by ICE — Chalkbeat (Apr 24, 2026)](https://www.chalkbeat.org/tennessee/2026/04/24/judge-orders-release-of-memphis-high-school-student-from-ice-detention/) — Judge Lipman: holding Lopez Soza without bond hearing violated due process
 - [Trump administration positions Tennessee, Memphis Safe Task Force as models for national strategy — Tennessee Lookout (Mar 23, 2026)](https://tennesseelookout.com/2026/03/23/trump-administration-positions-tennessee-memphis-safe-task-force-as-models-for-national-strategy/)
+- [President Trump's 'Memphis Safe Task Force' Delivers Crushing Blow to Crime (White House, Mar 2026)](https://www.whitehouse.gov/releases/2026/03/president-trumps-memphis-safe-task-force-delivers-crushing-blow-to-crime/)
+- [Memphis residents claim harassment, arrest and abuse by Trump-ordered Memphis Safe Task Force (AP via Greeneville Sun)](https://www.greenevillesun.com/news/ap_national_news/memphis-residents-claim-harassment-arrest-and-abuse-by-trump-ordered-memphis-safe-task-force/article_8452ece5-26cf-53ae-a751-4a3b9f772ec5.html)
+- [Memphis Safe Task Force timeline and arrests update (NewsNation)](https://www.newsnationnow.com/us-news/military/memphis-task-force-timeline-arrests-update/)

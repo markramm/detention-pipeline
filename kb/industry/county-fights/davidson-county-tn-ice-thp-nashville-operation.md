@@ -11,8 +11,8 @@ outcome: "May 2025 'Operation Flood the Zone' (ICE-THP): 600+ traffic stops in i
 importance: 8
 tags: [nashville, ice-thp, profiling, traffic-stops, tennessee-highway-patrol, davidson-county, investigation, tennessee, 287g, executive-order-30, operation-flood-the-zone, tirrc-lawsuit]
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Davidson County, TN: Nashville ICE-THP Operation and Fallout
@@ -71,6 +71,12 @@ Per Metro Legal guidance to Sheriff **Daron Hall**, the new mandate does not bin
 ### May 4, 2026 — O'Connell commits to reelection, defends Executive Order 30
 Mayor Freddie O'Connell confirmed (Axios Nashville) he will run for reelection. He continues to defend **Executive Order 30**, which requires Metro employees — including police and fire — to report any interaction with federal immigration authorities within 24 hours. **Two congressional committees are investigating** O'Connell's conduct during and after the May 2025 operation. (Axios Nashville; WKRN)
 
+### May 10, 2026 — Gov. Lee signs the 287(g) mandate into law
+Gov. Bill Lee signed **HB2219** (the bill that cleared the legislature Apr 22–23) into law on or about **May 10, 2026**, making Tennessee the **first state in the nation to mandate 287(g) participation by all 95 county sheriffs** (deadline Jan 1, 2027). This sharpens the Davidson question: Metro Legal's POST-certification theory (that Sheriff Daron Hall is not bound because he lacks general policing authority under Metro's consolidated charter) is now the live test case for whether any TN jurisdiction can lawfully sit out the mandate. Hall won the May 5, 2026 Democratic primary context noted above. (Capture Cascade Timeline; Tennessee Lookout)
+
+### May 27, 2026 — Unmarked-vehicle ICE detentions across Middle Tennessee
+WSMV and Telemundo reported multiple people detained by ICE agents operating from **unmarked vehicles** across Middle Tennessee, including at least six taken in McMinnville (Warren County) — agents in ICE vests exited gray and blue SUVs, handcuffed a man, and approached day laborers outside a Lowe's. ICE declined comment, citing "operational security." This unmarked-vehicle, plainclothes pattern is a tactical escalation in the Nashville/Middle TN region distinct from the 2025 marked-THP traffic-stop model. (WSMV, May 27, 2026 — see also Warren County entry)
+
 ## Cross-Reference: TN Federal Non-Disclosure Directive
 
 Search did **not** surface a Tennessee-specific federal non-disclosure directive parallel to the FL/TX directive Madan documented. The closest analogue is THP/Department of Safety **withholding records under invocation of "litigation hold"** and (disputed) prosecutorial privilege — currently being challenged in TIRRC v. THP. Flag for Tom Kelleher / cross-investigation review: Tennessee's stonewalling pattern is being executed at the state-agency level, not (yet visibly) under a federal directive.
@@ -95,3 +101,5 @@ Search did **not** surface a Tennessee-specific federal non-disclosure directive
 - [Nashville mayor stands by ICE instructions, has no plans to remove executive order (WKRN)](https://www.wkrn.com/news/local-news/nashville/nashville-mayor-stands-by-ice-instructions-has-no-plans-to-remove-executive-order/)
 - [Exclusive: Nashville Mayor Freddie O'Connell commits to running for reelection (Axios Nashville, May 4, 2026)](https://www.axios.com/local/nashville/2026/05/04/nashville-mayor-freddie-oconnell-reelection)
 - [License to Profile: How Tennessee Invited ICE to Target Residents (Lighthouse Reports)](https://www.lighthousereports.com/investigation/license-to-profile/)
+- [Tennessee Gov. Lee Signs HB2219 — First State 287(g) Sheriff Mandate (Capture Cascade Timeline, May 10, 2026)](https://capturecascade.org/event/2026-05-10--tennessee-hb2219-287g-sheriff-mandate-signed-law/)
+- [Multiple people reportedly detained by ICE agents in unmarked vehicles in Middle Tennessee (WSMV, May 27, 2026)](https://www.wsmv.com/2026/05/27/multiple-people-reportedly-detained-by-ice-agents-unmarked-vehicles-middle-tennessee/)

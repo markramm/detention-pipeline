@@ -6,7 +6,8 @@ state: OH
 importance: 6
 tags: [legislation, democratic-response, detention-standards, ohio, resistance]
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Ohio Legislative Response to ICE Expansion
@@ -27,6 +28,20 @@ Ohio House Democrats introduced eight bills in early 2026 to respond to the Trum
 - Measures to limit ICE presence/cooperation (details TBD)
 - Regulation of ICE enforcement near schools and other sensitive locations
 
+### Sensitive-Locations Civil Arrest Bill (introduced ~May 13, 2026)
+- A bill to **stop civil immigration-related arrests in certain locations** (courthouses, sensitive sites) advanced into public discussion in mid-May 2026
+- Tracks the Franklin County Municipal Court courthouse-arrest controversy (Common Pleas already bars warrantless civil arrests under Local Rule 111; Municipal Court does not)
+
+### Ohio Immigrant Alliance Report (May 19, 2026)
+- OIA report covering **Jan 2025 – Mar 2026** found **7,756 people detained by ICE** in Ohio, with **less than 5% convicted of a violent offense**
+- Ohio Immigrant Hotline logged **548 incidents** from Jan 2025 to Feb 2026; early 2026 ran ~**96 incidents/month**, a record pace
+- Frames the data as evidence enforcement "overwhelmingly targeted people without serious criminal histories," directly rebutting DHS's "worst of the worst" Operation Buckeye messaging
+
+### Statewide Week of Action (May 23-30, 2026)
+- Organized around OIA's "How to End ICE Jail in Ohio" report (Apr 20, 2026)
+- Interfaith vigils in **Seneca, Mahoning, and Geauga** counties, with more planned; Butler campaign integrated
+- Strategy centers on pressuring **county commissioners** (who hold IGSA contracting authority per AG Yost's Aug 2025 opinion) to cancel ICE contracts
+
 ### ACLU Federal Lawsuit
 - **Filed**: March 19, 2026
 - **Plaintiffs**: ACLU Ohio + partner organizations
@@ -46,3 +61,6 @@ Ohio House Democrats introduced eight bills in early 2026 to respond to the Trum
 - [Ohio's Democratic state lawmakers introduce bills to limit ICE - WOSU (Feb 10, 2026)](https://www.wosu.org/2026-02-10/democrat-bills-limit-ice)
 - [ACLU files suit against ICE/DHS over warrantless arrests - WOSU (Mar 19, 2026)](https://www.wosu.org/politics-government/2026-03-19/aclu-others-file-suit-against-ice-department-of-homeland-security-over-warrantless-arrests)
 - [Ohio House Democrats introduce bills - Ohio Capital Journal (Feb 9, 2026)](https://ohiocapitaljournal.com/2026/02/09/ohio-house-democrats-introduce-bills-to-regulate-ice-presence-in-ohio/)
+- [Ohio bill looks to stop civil immigration-related arrests in some locations - Spectrum News (May 13, 2026)](https://spectrumnews1.com/oh/columbus/news/2026/05/13/ohio-bill-immigration-related-arrests)
+- [Ohio Immigrant Alliance releases report on ICE detentions in Ohio - Spectrum News (May 19, 2026)](https://spectrumnews1.com/oh/columbus/news/2026/05/19/ohio-immigrant-alliance-ice-report)
+- [How to End ICE Jail in Ohio - Ohio Immigrant Alliance (Apr 20, 2026)](https://ohioimmigrant.org/blog/2026/4/20/how-to-end-ice-jail-in-ohio)

@@ -22,8 +22,8 @@ tags:
 - state-legislation
 - conditions-abuse
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Adams County CO — Multi-Front Fight Over ICE Detention
@@ -67,7 +67,7 @@ The Adams County Board of Commissioners issued a formal statement:
 ## Fight 4: State Legislation from Adams County (2026 Session)
 
 **State Rep. Lorena Garcia (D-Adams County)** is sponsoring key bills:
-- **HB 26-1276** (detention inspection bill): Permits the Colorado Department of Public Health and Environment to require ICE detention facilities to comply with health/safety standards and pay for environmental impact studies. **Passed the Colorado House 42-21 along party lines in late April 2026; advances to Senate Judiciary Committee.** This is the bill directly enabled by the Aurora obstruction findings.
+- **HB 26-1276** (Protect Safety of Individuals Who Are Immigrants / detention inspection bill): Passed the Colorado House 42-21 in late April 2026, then **cleared the full legislature on May 11, 2026 (Senate 23-12 along party lines) and went to Gov. Polis, who was expected to sign.** The enacted version authorizes **unannounced state inspections of ICE detention facilities at least four times per year** (food/water, confinement conditions, detainee care); refusal triggers license revocation or civil penalty. It also extends civil liability to employers who disclose immigration status, requires POST training on federal immigration law, and directs the AG to set PII-sharing policies. This is the bill directly enabled by the Aurora obstruction findings.
 - **Subpoena right-to-know bill**: Requires state agencies to publish unsealed federal subpoenas and notify individuals whose information is sought by immigration authorities
 
 These bills are part of a broader Democratic package including:
@@ -79,6 +79,10 @@ These bills are part of a broader Democratic package including:
 Adams County ranked in the top 5 Colorado counties for ICE arrests in 2025, behind Denver, El Paso, and Arapahoe. Statewide, ICE arrested 3,522 people from Jan 20–Oct 15, 2025 (vs. 843 in same period 2024).
 
 A major January 2025 raid in Adams County involved ICE, DEA, ATF, and local law enforcement — **~50 people arrested**, with ~40 remaining in ICE custody. Governor and lawmakers described the operation as targeting Tren de Aragua ties.
+
+## Fight 5: Federal Court Curbs ICE Arrests (May 2026)
+
+On **May 12, 2026, U.S. District Judge R. Brooke Jackson** ruled ICE in Colorado noncompliant with his prior injunction against warrantless arrests lacking individualized flight-risk/undocumented determinations. ICE must retrain every Colorado warrantless-arrest officer within 45 days (untrained officers barred from such arrests), document arrests, produce records, and pay plaintiffs' fees. This directly constrains the enforcement pipeline feeding Adams County's Aurora facility. Separately, district attorneys reported (Apr 30, 2026) that ICE deportations disrupted scores of criminal cases, cheating victims and undermining prosecutions — compounding the body-writ damage.
 
 ## Why This Matters
 
@@ -96,3 +100,7 @@ Adams County is the physical home of Colorado's ICE detention infrastructure but
 - [KKTV: 50 people arrested in Adams County DEA/ICE raid (Jan 2025)](https://www.kktv.com/2025/01/26/dea-50-people-including-dozens-with-venezuelan-drug-ties-ice-custody-following-early-morning-raid-adams-county/)
 - [Colorado Democrats eye new state requirements for ICE facilities (Denver Gazette, Apr 28, 2026)](https://www.denvergazette.com/2026/04/28/colorado-democrats-eye-new-state-requirements-for-ice-facilities/)
 - [Colorado lawmakers advance immigrant protections bill (Aspen Times, Apr 2026)](https://www.aspentimes.com/news/colorado-lawmakers-immigrant-protections-bill-police-ice/)
+- [Colorado Politics: Detention-center inspection bill clears legislature, heads to Polis (May 12, 2026)](https://www.coloradopolitics.com/2026/05/12/detention-center-inspection-bill-clears-legislature-heads-to-colorado-gov-polis/)
+- [HB26-1276 bill page, Colorado General Assembly](http://leg.colorado.gov/bills/hb26-1276)
+- [Colorado Sun: ICE must retrain arresting officers, federal judge rules (May 12, 2026)](https://coloradosun.com/2026/05/12/ice-must-retrain-arresting-officers-in-colorado-federal-judge-rules/)
+- [CPR: DAs say ICE deportations disrupted criminal cases, made Colorado less safe (Apr 30, 2026)](https://www.cpr.org/2026/04/30/ice-deportations-impact-colorado-crime-justice-system/)

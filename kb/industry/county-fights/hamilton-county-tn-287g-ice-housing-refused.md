@@ -11,8 +11,8 @@ outcome: "287(g) Jail Enforcement Model active since March 2025 (MOA signed). 11
 importance: 7
 tags: [hamilton-county, chattanooga, 287g, jail-enforcement-model, ice-housing-refused, protest, tennessee, mandatory-287g, sanctuary-resistance-partial]
 research_status: working
-last_researched: "2026-04-12"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Hamilton County, TN: 287(g) Active, ICE Bed Request Refused
@@ -59,6 +59,12 @@ Community opposition surfaced strongly in January 2026 when **over 100 people pa
 - Bill is on Gov. Bill Lee's desk; signature not yet confirmed in tier-1 sourcing as of 2026-05-06
 - **Sheriff Garrett's public position**: The mandate "wouldn't change anything in Hamilton County" because HCSO was "one of the first departments leading the way" — confirms Hamilton is structurally aligned with statewide enforcement expansion
 
+### May 10, 2026 — Statewide 287(g) mandate signed into law
+Gov. Bill Lee signed **HB2219** (~May 10, 2026), making Tennessee the first state to mandate 287(g) participation by all 95 sheriffs (deadline Jan 1, 2027). Consistent with Sheriff Garrett's April statement that the mandate "wouldn't change anything" for Hamilton, the county is already fully compliant. (Capture Cascade Timeline)
+
+### May 18, 2026 — Ooltewah teen Daniel Garzon Romero detained at Chattanooga ICE field office
+**Daniel Garzon Romero**, an 18-year-old who had graduated high school **four days earlier**, was detained during a **routine ICE check-in at the Chattanooga field office** on May 18, 2026. The Romero family is enrolled in ICE's Alternative to Detention (ATD) program; because Daniel had just turned 18 he was processed separately from his parents and detained while they finished their appointments. ICE said he "missed four required check-ins, resulting in termination from the program"; the family disputes this, saying his **phone location data disproves the missed-check-in charge**. He was held at **Etowah County Jail (Alabama)** awaiting transfer to a Louisiana facility and described "inhumane conditions" by phone. The case drew significant Chattanooga-area community support (teacher Rebekah Langford, others) and parallels the Memphis Yasser Lopez Soza case — both East/West TN students detained at routine touchpoints, then shipped out of state. (WSMV, May 21; Local 3 News; WGOW/WDEF, May 24, 2026)
+
 ## Mechanism Fit
 
 **Initial framing (housing-refused as sanctuary-style refusal) is NOT supported by the deeper record.** Sheriff Garrett's refusal of 60 transit beds is operational/jurisdictional ("not the right model for this county"), not values-based resistance. Hamilton County:
@@ -97,3 +103,8 @@ This is **not a sanctuary-resistance fight**. The "refused" framing reflects a s
 - [Sheriff Austin Garrett announces re-election bid for 2026 (WDEF)](https://www.wdef.com/sheriff-austin-garrett-announces-re-election-bid-for-2026/)
 - [Hamilton County 287(g) partnership (Local 3 News)](https://www.local3news.com/local-news/update-hamilton-co-sheriffs-office-partner-with-ice-in-jail-system/article_94267e52-f529-11ef-b794-dbe1c4215762.html)
 - [Hamilton County Sheriff gives first look at ICE enforcement program (Local 3 News)](https://www.local3news.com/local-news/hamilton-co-sheriff-gives-first-look-at-ice-enforcement-program/article_d859d20b-3792-4659-8b0e-a03ad4bd032c.html)
+- [Tennessee Gov. Lee Signs HB2219 — First State 287(g) Sheriff Mandate (Capture Cascade Timeline, May 10, 2026)](https://capturecascade.org/event/2026-05-10--tennessee-hb2219-287g-sheriff-mandate-signed-law/)
+- [East Tennessee teen detained by ICE four days after graduating high school, says held in 'inhumane conditions' (WSMV, May 21, 2026)](https://www.wsmv.com/2026/05/21/east-tennessee-teen-detained-by-ice-four-days-after-graduating-high-school-says-hes-being-held-inhumane-conditions-they-treat-us-all-like-inmates/)
+- [Ooltewah teen taken into ICE custody during routine immigration appointment, 4 days after graduation (Local 3 News)](https://www.local3news.com/local-news/ooltewah-teen-taken-into-ice-custody-during-routine-immigration-appointment-4-days-after-graduation/article_6271fcd9-37ae-44a7-b939-07bfef3f73a3.html)
+- [Tennessee teen held by ICE after missing 'check-ins'; family claims phone data disproves charges (RocketCityNow)](https://www.rocketcitynow.com/article/news/state/tennessee-teen-held-by-ice-after-missing-check-ins-family-claims-phone-data-disproves-charges/525-4595f5f4-eb8a-4286-85f8-6274dc3493c3)
+- [Local teen detained by ICE after waiting four years to enter ICE's ATD program (WGOW, May 24, 2026)](https://www.wgow.com/2026/05/24/local-teen-detained-by-ice-after-waiting-four-years-to-enter-ices-atd-program/)

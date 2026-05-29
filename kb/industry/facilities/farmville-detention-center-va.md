@@ -6,8 +6,8 @@ facility_type: private-prison
 location: "508 Waterworks Road, Farmville, VA 23901"
 county: "Prince Edward"
 state: 'VA'
-capacity: "732"
-operator: "CoreCivic (acquired from ICA July 1, 2025 for $71.4M)"
+capacity: "736"
+operator: "CoreCivic (acquired from ICA July 1, 2025 for $67M)"
 contract_type: IGSA
 per_bed_day_rate: "unknown"
 annual_value: "$40M/year projected (CoreCivic)"
@@ -24,6 +24,7 @@ tags:
 - near-capacity
 - farmville
 research_status: working
+last_researched: "2026-05-28"
 fips: '51147'
 ---
 
@@ -33,7 +34,11 @@ fips: '51147'
 
 The **Farmville Detention Center** in Prince Edward County, Virginia is a 732-bed ICE detention facility that was acquired by **CoreCivic on July 1, 2025 for $71.4 million** from Immigration Centers of America (ICA). The IGSA runs through Prince Edward County and expires March 2029. CoreCivic projects $40M/year incremental revenue.
 
-As of late 2025, population was approximately 712 — near capacity, more than doubling from Biden-era lows.
+As of late 2025, population was approximately 712 — near capacity, more than doubling from Biden-era lows. For FY2026, Farmville's average daily population was 685, with 469 (about 68%) having no prior criminal convictions (VPM, May 2026). The acquisition price was confirmed at $67.0 million in CoreCivic's definitive agreement (it had been reported earlier as $71.4M).
+
+## 2026 Update — Closure Campaign Broadens
+
+As of January 2026, 40 local and national organizations had endorsed the call to close Farmville, including the National Immigrant Justice Center (NIJC), Freedom for Immigrants, Detention Watch Network, and the Virginia Abolitionist Response Network. NIJC delivered testimony before the Farmville Town Council calling on it to end the "deadly ICE detention agreement." Despite the broadened campaign and Virginia's Democratic political turn, the county-level IGSA (Prince Edward County, expires March 2029) and CoreCivic's ownership insulate the facility from state-level policy reversals.
 
 ## The Acquisition
 
@@ -63,3 +68,6 @@ But the Farmville facility operates under a county IGSA, not a state agreement �
 - [Axios Richmond: Virginia ICE facilities near capacity](https://www.axios.com/local/richmond/2025/02/27/virginia-ice-facilities-near-capacity)
 - [WRIC: Central Virginia ICE detention over capacity](https://www.wric.com/news/taking-action/central-virginia-ice-detention-over-capacity/)
 - [Legal Aid Justice Center: Shut down Farmville](https://www.justice4all.org/shut-down-farmville-detention-center-prince-edward-county/)
+- [NIJC: Testimony before Farmville Town Council — end deadly ICE detention agreement](https://immigrantjustice.org/staff/blog/testimony-farmville-virginia-town-council-end-deadly-ice-detention-agreement)
+- [VPM: Immigration enforcement in Virginia has risen sharply (May 1, 2026)](https://www.vpm.org/news/2026-05-01/virginia-detention-ice-287g-data)
+- [CoreCivic IR: Definitive agreement to acquire Farmville ($67M)](https://ir.corecivic.com/news-releases/news-release-details/corecivic-enters-definitive-agreement-acquire-farmville)

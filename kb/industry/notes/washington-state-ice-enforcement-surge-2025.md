@@ -15,7 +15,7 @@ tags:
 - 287g
 - structural-analysis
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Washington State: Sanctuary Under Siege
@@ -134,3 +134,20 @@ See detailed entry: [Thurston County WA — Olympia sanctuary under pressure](th
 - [DHS Secretary signals "hard look" at pulling Customs from sanctuary airports (Lynnwood Times, Apr 2026)](https://lynnwoodtimes.com/2026/04/06/sanctuary/)
 - [King County saw the most street immigration arrests in WA in 2025 (KUOW)](https://www.kuow.org/stories/king-county-saw-more-street-immigration-arrests-than-any-other-county-in-wa-last-year)
 - [New data sheds light on ICE arrests in King County (Seattle Weekly, Mar 25, 2026)](https://www.seattleweekly.com/2026/03/25/new-data-sheds-light-on-ice-arrests-in-king-county-heres-what-we-know-so-far/)
+
+## Update (2026-05-28)
+
+### Yakima Valley Spring Surge — ~20 Arrests in One Week (May 2026)
+ICE enforcement intensified in the lower Yakima Valley through May 2026. Advocates reported **roughly 20 arrests in a single week**, with bystander videos of suspected ICE operations in **Toppenish (May 6), Grandview (May 7), and Yakima (May 13 and May 18)** circulating on social media. Advocates describe spreading fear rippling through agricultural communities — consistent with Yakima County's standing as **highest per-capita arrest rate in WA (180+/100K in 2025)**. Note: **Operation Black Rose** is now clarified as primarily a **Portland-area** operation (1,100+ arrests across Oregon, Sept 27–Mar 1), though its enforcement model extends into the eastern WA ag region.
+- [ICE arrests surge in Eastern Washington as advocates report growing fear in Yakima Valley (KING5/KGW, May 2026)](https://www.king5.com/article/news/community/facing-race/washington-immigration/ice-arrests-surge-in-eastern-washington-as-advocates-report-growing-fear-in-yakima-valley/281-8cbb0ba6-fa44-44e2-a2a1-355dcc2b33b6)
+- [Operation Black Rose: Portland operation spanned months, 100 ICE agents (OPB, Apr 15, 2026)](https://www.opb.org/article/2026/04/15/operation-black-rose-portland-immigration/)
+
+### 2026 Legislative Session Outcome — Oversight In, Tax/Fine Out
+- **HB 1232** (Rep. Lillian Ortiz-Self, D-21) — signed by Gov. Ferguson; empowers DOH to inspect private detention facilities (clean water, food safety, medical care) and **expands the definition of "private detention facility"** to include nonprofit-run sites such as **Martin Hall**, a youth detention center near Spokane run by a Montana corporation. Effective immediately on signature.
+- **HB 2464** — would have required private detention facilities to report abuse/neglect allegations, deaths, and serious injuries to DOH, plus annual police-response reporting. **Passed the House along party lines but died in the Senate** (no vote).
+- Proposals to **tax or fine** the detention center **did not advance**.
+- [Governor signs bill to strengthen oversight of private detention centers (Columbia Legal Services)](https://columbialegal.org/governor-signs-bill-to-strengthen-oversight-of-private-detention-centers-in-washington-state/)
+- [WA lawmakers target immigrant detention center with tax, fine and oversight bills (WA State Standard, Feb 27, 2026)](https://washingtonstatestandard.com/2026/02/27/wa-lawmakers-target-immigrant-detention-center-with-tax-fine-and-oversight-bills/)
+
+### Inspection Litigation Status (cross-ref NWIPC entry)
+WA's inspection authority was upheld (9th Cir. mandate Mar 4, 2026; L&I won a permanent injunction for access), but **DOH inspectors remain blocked by GEO**; Ferguson/Brown's preliminary-injunction hearing was held **May 26, 2026** (ruling pending). See [nwipc-tacoma-wa](../facilities/nwipc-tacoma-wa.md).

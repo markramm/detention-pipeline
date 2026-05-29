@@ -145,12 +145,12 @@
       "notes": "Santa Clara County CA - Holsclaw Rd/Gilroy detention center under construction, leased to ECG6/Elmwood; county vows to fight (Arenas, Ellenberg, Exec Williams), site not zoned for detention. New facility entry created."
     },
     "08001": {
-      "last_researched": "2026-04-13",
-      "notes": "Adams CO \u2014 Aurora ICE Processing Center (GEO, 1530 beds) in county; health investigation blocked by GEO Jan 2026; ICE revoked body writs June 2025; commissioners solidarity statement Jan 2026; Rep. Lorena Garcia legislation; top-5 ICE arrests statewide 2025; Jan 2025 DEA/ICE raid ~50 arrested"
+      "last_researched": "2026-05-28",
+      "notes": "Adams: Aurora GEO facility; HB 26-1276 4x/yr inspections heading to Polis; federal court curbs on warrantless arrests; health-hazard code advancing."
     },
     "08005": {
-      "last_researched": "2026-04-13",
-      "notes": "Arapahoe CO \u2014 DENHOLD hold room in Centennial (~1400 detainees Jan-Oct 2025, busiest of 9 statewide, bedless, 72hr rule violated); 3rd-highest ICE arrests statewide 2025; Aurora MOU debate delayed April 2026; Sheriff Tyler Brown cautious; NGP Group landlord $2.2M/yr"
+      "last_researched": "2026-05-28",
+      "notes": "Arapahoe: Aurora MOU rejected 6-3; DENHOLD hold room; 3rd-highest ICE arrests 2025."
     },
     "09015": {
       "last_researched": "2026-04-12",
@@ -929,24 +929,24 @@
       "notes": "Brown \u2014 287(g) signals in heatmap but no specific 2025-2026 ICE agreement details found. Score 21."
     },
     "39017": {
-      "last_researched": "2026-04-12",
-      "notes": "Butler \u2014 $14M+ ICE revenue, 287(g) jail+task force, Operation Buckeye detention site, conditions complaints, $20M projected 2026"
+      "last_researched": "2026-05-28",
+      "notes": "Butler: most aggressive ICE partner, $14M+/yr; Tenelanda assault lawsuit vs Sheriff Jones/Sgt Rowe filed May 18 2026; weekly commissioner protests since July 2025, commissioners refuse."
     },
     "39035": {
       "last_researched": "2026-04-12",
       "notes": "Cuyahoga \u2014 No ICE contract, but 351 arrests in Cleveland. East Cleveland GTFO ordinance (first in OH). Score 50."
     },
     "39049": {
-      "last_researched": "2026-04-13",
-      "notes": "Franklin Co OH \u2014 20 courthouse arrests, sheriff handed 50 to ICE H1 2025"
+      "last_researched": "2026-05-28",
+      "notes": "Franklin: 20 courthouse arrests 2025 +1 in 2026; ~10k letters to Municipal Court judges; Common Pleas Local Rule 111 already bars warrantless civil arrests; Columbus banned ICE detention in city limits, approved $2M jail contract anyway."
     },
     "39055": {
       "last_researched": "2026-04-12",
       "notes": "Geauga \u2014 Original ICE site, ~50/day, secret contract, ACLU Ohio Supreme Court lawsuit."
     },
     "39099": {
-      "last_researched": "2026-04-12",
-      "notes": "Mahoning \u2014 500 ICE detainees across 2 facilities (NEOCC CoreCivic 784 beds + county jail 100/day), 7th busiest deportation airport, protests. Score 40."
+      "last_researched": "2026-05-28",
+      "notes": "Mahoning/Youngstown: NEOCC stabbing incident Jan 30 2026; named in May 23-30 week of action vigils."
     },
     "39117": {
       "last_researched": "2026-04-12",
@@ -1037,12 +1037,12 @@
       "notes": "Bradley \u2014 Dual 287(g) (JEM + WSO), highest 287(g) score in heatmap"
     },
     "47037": {
-      "last_researched": "2026-04-12",
-      "notes": "Davidson \u2014 Nashville ICE-THP 600+ stops, 40-100 detained, profiling scandal, THP rejected further ICE ops Mar 2026"
+      "last_researched": "2026-05-28",
+      "notes": "Davidson: HB2219 now law; Metro POST-cert exemption theory live test case; May 27 Middle TN unmarked-vehicle ICE detentions."
     },
     "47065": {
-      "last_researched": "2026-04-12",
-      "notes": "Hamilton \u2014 287(g) JEM active, 500+ arrests, sheriff refused 60 ICE transit beds, 100+ protested Jan 2026"
+      "last_researched": "2026-05-28",
+      "notes": "Hamilton: HB2219 signed; Ooltewah teen Garzon Romero detained at Chattanooga ICE check-in May 18, shipped to Etowah AL."
     },
     "47093": {
       "last_researched": "2026-04-12",
@@ -1053,12 +1053,16 @@
       "notes": "Putnam \u2014 First TN 287(g) (Feb 2025), first Task Force Model (Jun 2025), 36 ICE beds, 231 detainers"
     },
     "47157": {
-      "last_researched": "2026-04-12",
-      "notes": "Shelby \u2014 Memphis Safe Task Force 1044+ arrests, state of emergency Oct 2025, 77% no convictions, Yasser Soza student detained, anti-ICE march Jan 2026"
+      "last_researched": "2026-05-28",
+      "notes": "Shelby/Memphis Safe Task Force: 8818 total arrests, NG still deployed, fatal DEA shooting May 12 2026."
     },
     "47167": {
-      "last_researched": "2026-04-12",
-      "notes": "Tipton \u2014 West TN Detention Facility (Mason), 600-bed CoreCivic, reopened Sep 2025, ~450 detainees by end 2025"
+      "last_researched": "2026-05-28",
+      "notes": "Tipton/Mason WTDF: ODO inspection Mar 10-12 2026; ~450 pop; warden Trinity Minter; CoreCivic death-suit sanction context."
+    },
+    "47177": {
+      "last_researched": "2026-05-28",
+      "notes": "Warren/McMinnville: new entry. ICE unmarked-vehicle worksite sweep May 27 2026, 6+ detained at a home-improvement store."
     },
     "47187": {
       "last_researched": "2026-04-12",
@@ -1124,21 +1128,37 @@
       "last_researched": "2026-04-13",
       "notes": "Arlington VA -- ICE administrative/surveillance hub, Arlington Immigration Court (Crystal City, one of busiest), 5 ATD contracts linked to BI/GEO Group ISAP monitoring, fusion center processes GPS/surveillance data, county removed Section 7 ICE cooperation May 2025, sheriff ended cooperation Dec 2022, ICE agents surveilling courthouse exits"
     },
+    "51015": {
+      "last_researched": "2026-05-28",
+      "notes": "Augusta Correctional Center \u2014 Youngkin final-day sale to Moxie Asset Group halted by Spanberger; ICE eyed as detention site (ACLU FOIA). Local opposition."
+    },
+    "51033": {
+      "last_researched": "2026-05-28",
+      "notes": "Caroline Detention Facility \u2014 dedicated ICE center, 336-bed, over capacity since Nov 2025 (ADP 342-353)."
+    },
     "51107": {
-      "last_researched": "2026-04-12",
-      "notes": "Loudoun VA \u2014 287(g) ban bill, Spanberger deadline"
+      "last_researched": "2026-05-28",
+      "notes": "Loudoun \u2014 Sheriff Chapman in 287(g); SB 783 may preclude unless ICE seeks judicial warrants (unlikely). Organized constituent pushback."
     },
     "51147": {
-      "last_researched": "2026-04-12",
-      "notes": "Prince Edward VA \u2014 Farmville CoreCivic $71.4M"
+      "last_researched": "2026-05-28",
+      "notes": "Farmville Detention Center \u2014 CoreCivic-owned ($67M acquisition closed Jul 2025), IGSA via Prince Edward County thru Mar 2029, ~685 ADP, 40-org closure campaign."
+    },
+    "51149": {
+      "last_researched": "2026-05-28",
+      "notes": "Riverside Regional Jail \u2014 new May 2025 ICE staging agreement, 7,344 booked thru Apr 2026, board seeking expansion for revenue."
+    },
+    "51760": {
+      "last_researched": "2026-05-28",
+      "notes": "Richmond field office (Chesterfield) linked to 3,000+ ICE arrests; persistent ICE activity at Southwood apartments. State capital, center of VA legislative/Spanberger ICE policy fight."
     },
     "53005": {
       "last_researched": "2026-04-12",
       "notes": "Benton WA \u2014 Arrests jumped 12x (5 to 60) in 2025, agricultural region, Operation Black Rose"
     },
     "53033": {
-      "last_researched": "2026-04-12",
-      "notes": "King WA \u2014 1,019 arrests (44% statewide), 7-jurisdiction moratorium, DHS pre-solicitation for 1,635-bed facility, World Cup pressure"
+      "last_researched": "2026-05-28",
+      "notes": "King County 7-jurisdiction moratorium holding; Tukwila ban-extension push. NWIPC inspection hearing May 26."
     },
     "53047": {
       "last_researched": "2026-04-12",
@@ -1149,16 +1169,16 @@
       "notes": "Pend Oreille WA \u2014 Sheriff Blakeslee testified on immigration law conflicts, minimal specific enforcement data"
     },
     "53053": {
-      "last_researched": "2026-04-12",
-      "notes": "Pierce WA \u2014 NWIPC location (1,575 beds GEO), 6-month moratorium passed 5-2, 2018 zoning blocks expansion"
+      "last_researched": "2026-05-28",
+      "notes": "Pierce/NWIPC: bridge contract raises cap to 1,635 beds + NDS downgrade; DOH inspection blocked, L&I injunction won, May 26 hearing on DOH access pending."
     },
     "53067": {
       "last_researched": "2026-04-13",
       "notes": "Thurston WA (Olympia) \u2014 State capital sanctuary city, NO heatmap signal but active ICE enforcement (3 incidents in 1 week Jun 2025), Maximo Londonio detention (green card holder, 2 months NWIPC), Sheriff Sanders explicit non-cooperation, $11.9M federal funding threat, massive protest hub (5K+ No Kings, 1.5K ICE Out), Mayor Payne coordination plan, Strengthening Sanctuary Alliance, HB 2641 (ban hiring ex-ICE)"
     },
     "53077": {
-      "last_researched": "2026-04-12",
-      "notes": "Yakima WA \u2014 Highest per-capita ICE arrests in state (180/100K), 477 in 2025, agricultural heartland, ICE Air flights, courthouse surveillance"
+      "last_researched": "2026-05-28",
+      "notes": "Yakima Valley spring surge: ~20 arrests/week May 2026 (Toppenish, Grandview, Yakima); highest per-capita in WA."
     },
     "56005": {
       "last_researched": "2026-04-13",
@@ -1219,8 +1239,8 @@
       "notes": "Gilroy/Holsclaw Rd federal detention center (Santa Clara, GSA lease to ECG6/Elmwood, $26.5M/20yr, secret since Jan2025, construction May2026, not zoned) - Monterey+Santa Clara oppose, Bonta coordinating litigation, Speaker Rivas Not Here Not Ever, SIREN. Adelanto Desert View hunger strike May2026, ADP 1587. Imperial charity tax-break Senate review. Bonta 5th report: 6 deaths Sep2025-Mar2026, conditions worsened. 8 facilities ~10k beds."
     },
     "CO": {
-      "last_researched": "2026-04-12",
-      "notes": "9 secret hold rooms, Aurora GEO 1,530 beds, 3 new facilities planned (2,560 beds). Deep."
+      "last_researched": "2026-05-28",
+      "notes": "HB 26-1276 inspection bill cleared legislature (Senate 23-12, heads to Polis); Judge Jackson found ICE noncompliant on warrantless arrests, ordered 45-day retraining; Aurora council REJECTED police-ICE MOU 6-3 (Apr 21) + advanced health-hazard reporting code (vote June 1); Bennet (running for gov) + Hickenlooper + Pettersen pressing to block Hudson/Big Horn expansion; El Paso/Teller pursuing 287(g) counter-current."
     },
     "CT": {
       "last_researched": "2026-04-12",
@@ -1323,8 +1343,8 @@
       "notes": "Batavia 745+ (650 cap), 26 Federal Plaza secret 9th floor trial May 2026, Chester warehouse killed by community, 12 287(g) agreements in 9 counties (from 1 pre-2025), county jails 6x increase (2800 in 7mo vs 500/yr), Nassau detainee death, Niagara sheriff pullback, Camden police 287(g) after ICE took restaurant owner, Hochul 287(g) ban bill vs NY4All, private prisons illegal forces IGSA pipeline. Deep."
     },
     "OH": {
-      "last_researched": "2026-04-12",
-      "notes": "6 facilities (Butler $14M+, NEOCC 784 CoreCivic, Mahoning 500 combined, Seneca, Geauga secret contract, CCNO 96 beds), 0-to-20 287(g) in one year, Operation Buckeye 280+ arrests, $13.2M+ detention economy, ACLU lawsuit, East Cleveland GTFO ordinance, 8-bill Democratic package. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "6 ICE-contract facilities ($13.2M+ FY); 287g 0->20 agreements but ~half signing chiefs gone/on leave (Statehouse News May 11); Butler assault lawsuit (Tenelanda, filed May 18) + weekly cancel-contract campaign; statewide week of action May 23-30; OIA report 7,756 detained Jan25-Mar26, <5% violent; new bill to bar civil arrests in sensitive locations (May 13); NEOCC stabbing Jan 30."
     },
     "OK": {
       "last_researched": "2026-05-27",
@@ -1347,8 +1367,8 @@
       "notes": "Operation Prairie Thunder (Jul 2025-ongoing), 5 state 287(g) agreements, National Guard ICE paperwork support, Minnehaha+Pennington county jails as primary/secondary holding, Drumgoon Dairy audit (38 fired), Madison workplace raids, courthouse arrest/mistrial, 295 ICE arrests Jan-Oct 2025"
     },
     "TN": {
-      "last_researched": "2026-04-12",
-      "notes": "Mason 600-bed CoreCivic (reopened Sep 2025), Lebanon 16K mega-center killed by Republican revolt Feb 2026, Memphis Safe Task Force (state of emergency, 1044+ arrests, Natl Guard), Nashville ICE-THP operation (600 stops, profiling scandal, THP rejected ICE), 287(g) explosion 14->60+ agencies via SB6002, Knox County 3470 detentions (losing money), Putnam first Task Force Model, Hamilton 500+ arrests but refused 60 ICE beds, Bradley dual 287(g). Deep."
+      "last_researched": "2026-05-28",
+      "notes": "HB2219 signed ~May 10 2026 (first statewide 287g mandate, all 95 sheriffs by Jan 1 2027). McMinnville/Warren Co unmarked-vehicle ICE sweep May 27 (6+ detained); Ooltewah teen Garzon Romero detained at Chattanooga check-in May 18; Memphis Safe Task Force 8818 arrests + DEA fatal shooting May 12; Mason WTDF ODO inspection Mar 10-12. New: warren-county entry. Updated 6 existing."
     },
     "TX": {
       "last_researched": "2026-05-27",
@@ -1359,16 +1379,16 @@
       "notes": "SLC $145M mega-center (paused DHS review), 0\u219211 287(g) in one year, 4 Task Force Model, GEO pre-contract, 4,164 arrests. Deep."
     },
     "VA": {
-      "last_researched": "2026-04-12",
-      "notes": "Farmville CoreCivic $71.4M, Youngkin\u2192Spanberger reversal, Loudoun 287(g) ban bill, Buckingham school SROs. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "Spanberger (D) escalating clash with ICE: ended state-agency 287(g) Feb 2026, EO restricting ICE on state property May 2026, rescinded Youngkin Augusta prison sale; SB 783 conditions local 287(g) (functional ban). ~11k VA ICE arrests since Jan 2025, most no criminal record. Caroline DF over capacity since Nov 2025; new Riverside Regional Jail (Prince George) staging site (7,344 booked, seeking revenue-driven expansion); Farmville CoreCivic-owned (~685 ADP). ICE eyeing 7 new VA sites per ACLU FOIA. Hanover warehouse + Augusta prison proposals blocked."
     },
     "VT": {
       "last_researched": "2026-04-13",
       "notes": "VT 2025-2026: 107 detentions (10x increase), state DOC MOU $185/day (NWSCF Swanton + CRCF S. Burlington), Pleasant Valley dairy raid (8 arrested Apr 2025, 3 deported), Hardwick construction arrests (9 arrested Sep 2025, 7 to LA), South Burlington standoff (Mar 2026, botched raid, all 3 released), Mahdawi/Tendo high-profile cases, Burlington sanctuary EO, H.298 to terminate DOC-ICE cooperation, strong judicial pushback"
     },
     "WA": {
-      "last_researched": "2026-04-12",
-      "notes": "WA sanctuary state under siege: NWIPC (1,575 beds, GEO, Tacoma) with $69M contract extension, 12 hunger strikes in 2026, sexual assault lawsuit; 2,100+ arrests Oct 2024-Mar 2026; Yakima 180/100K highest per capita; DHS pre-solicitation for 1,635-bed new facility; 7 jurisdictions passed moratoriums; AG Bondi threatened criminal prosecution of state officials"
+      "last_researched": "2026-05-28",
+      "notes": "NWIPC bridge contract (9M, to Oct 27 2026) confirmed to embed 1,635-bed expansion + weaker 2025 NDS (UW \"Scrapping the Standards\" May 5). DOH inspectors still blocked by GEO; Ferguson/Brown preliminary-injunction hearing held May 26 (ruling pending); L&I won permanent injunction. HB 1232 oversight signed (covers Martin Hall youth facility); HB 2464 died in Senate; tax/fine bills failed. Yakima Valley ~20 arrests in one week May 2026."
     },
     "WY": {
       "last_researched": "2026-04-13",

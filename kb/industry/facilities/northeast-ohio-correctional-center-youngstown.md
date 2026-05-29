@@ -14,7 +14,8 @@ status: operational
 importance: 8
 tags: [corecivic, private-prison, ice-expansion, youngstown, deportation-flights, ohio]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Northeast Ohio Correctional Center — CoreCivic Private Prison, 784 ICE Beds
@@ -29,9 +30,12 @@ The Northeast Ohio Correctional Center (NEOCC) is a 2,016-bed medium-security pr
 - **Combined with Mahoning County Justice Center**: Together, the two Youngstown facilities house approximately 500 ICE detainees daily
 - **Leadership**: Kenneth Hoover named warden in December 2025
 - **Ohio context**: One of six Ohio facilities contracting with ICE as of mid-2025, part of a statewide expansion from 2 to 6 detention sites
+- **Violence incident (Jan 30, 2026)**: Police responded to NEOCC for a reported stabbing; a facility administrator said an inmate had allegedly stabbed another in the hand and the right side of the head during an argument — under investigation
+- **Vigil target (May 2026)**: Mahoning County facilities (NEOCC + the Justice Center) named among interfaith vigil sites in the statewide May 23-30, 2026 "week of action to end ICE jail"
 
 ## Sources
 - [CoreCivic Announces Four New Contract Modifications to Add Capacity for ICE (Feb 2025)](https://ir.corecivic.com/news-releases/news-release-details/corecivic-announces-four-new-contract-modifications-add-capacity)
 - [Northeast Ohio is a big part of Trump deportation network - Ohio Capital Journal (Aug 28, 2025)](https://ohiocapitaljournal.com/2025/08/28/northeast-ohio-is-a-big-part-of-trump-deportation-network/)
 - [CoreCivic facility page](https://www.corecivic.com/facilities/northeast-ohio-correctional-center)
 - [Operator of Youngstown's private prison sees profits double - WFMJ](https://www.wfmj.com/story/52989339/operator-of-youngstowns-private-prison-sees-profits-double-amid-surge-in-ice-detainees)
+- ['Incident' under investigation at Northeast Ohio Correctional Center - WFMJ (Jan 30, 2026)](https://www.wfmj.com/story/53418415/incident-under-investigation-at-northeast-ohio-correctional-center)
