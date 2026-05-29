@@ -55,6 +55,16 @@ jobs:
           cd hugo
           python3 generate_content.py
 
+      - name: Generate visualization data
+        # network.json and timeline.json are gitignored (generated), and the
+        # network/timeline pages fetch them client-side from the site root.
+        # Without this step they 404 on the deployed site and the viz is blank.
+        run: |
+          cd hugo
+          python3 generate_network.py
+          python3 scripts/generate_timeline.py
+          cp data/timeline.json static/timeline.json
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
