@@ -6,7 +6,7 @@ state: MI
 importance: 7
 tags: [287g, michigan, sheriffs, ice-partnerships, warrant-service-officer, task-force-model, legislative-pressure]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Michigan — 287(g) Explosion and ICE Partnership Landscape
@@ -33,7 +33,8 @@ Officers can conduct limited immigration enforcement during routine police dutie
 |---|---|---|
 | **Roscommon County** | June 5, 2025 | Rural northern MI (FIPS 26143, heatmap score 42) |
 | **Crawford County** | September 2025 | Rural northern MI (FIPS 26039, heatmap score 42) |
-| **Taylor Police Dept** | 2025 | Downriver Detroit suburb, only municipal PD with 287(g) |
+| **Taylor Police Dept** | Late April 2025 | Downriver Detroit suburb; oldest active MI task-force-model MOA |
+| **West Branch (City)** | November 2025 | Most recent MI agency to sign a task-force MOA (Ogemaw County) |
 
 ### Withdrawn/Rescinded
 | County/Agency | Signed | Rescinded | Notes |

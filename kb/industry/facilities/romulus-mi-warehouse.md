@@ -15,7 +15,7 @@ purchase_price: "$34.7 million"
 importance: 9
 tags: [warehouse-conversion, detention-reengineering, regional-processing-center, michigan, lawsuit, ag-opposition, near-schools, dhs-pause, noem-era-review]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Romulus MI Warehouse — ICE Regional Processing Center
@@ -57,7 +57,26 @@ Mullin's DHS stated: "as with any transition, we are reviewing agency policies a
 
 The original plan under Noem was a **$38.3 billion initiative** to expand detention to 92,000 beds through 8 large-scale centers (7,000-10,000 beds each) and 16 smaller regional processing centers. The pause suggests potential recalibration, though the Trump administration's deportation agenda remains active.
 
-**No court ruling** on the Romulus lawsuit has been issued as of April 12, 2026. The case is in federal court.
+**No court ruling** on the Romulus lawsuit has been issued as of late May 2026. The case is in federal court.
+
+## April Court Filings & Litigation Update (Apr–May 2026)
+
+On **April 22, 2026**, DHS filed nearly **500 pages of documents** supplementing its response to the AG/Romulus request for a temporary injunction. The filings detailed the agency's plans and rationale:
+
+- The Cogswell Street site (**249,000 sq ft**, purchased Feb. 4 for $34.7M) would be retrofitted as a "Detention Processing Center" for **short-term, temporary housing** of people in immigration custody awaiting processing.
+- Renovations: building **3,800 feet of fencing**, exterior lighting, security cameras, and a security checkpoint.
+- A DHS environmental-protection specialist's memo flagged **lead contamination** under the soil surface, stemming from the property's earlier use as a **junkyard** — alongside the flooding/sewage concerns the state already raised.
+- The state alleges DHS purchased the site **without conducting required environmental reviews** (NEPA) or notifying state/local authorities in advance.
+
+Romulus **Mayor Robert McCraight** vowed the city would **not issue a permit or certificate of occupancy** for the facility.
+
+**Intervenors**: On **May 11, 2026**, the **ACLU of Michigan, Michigan Immigrant Rights Center, and Detroit Justice Center** moved to join the case as parties. A motion hearing originally set for late April was rescheduled as a **virtual proceeding for May 21, 2026** — the first at which all three organizations would appear as parties. The case is in its third month with no ruling on the injunction as of late May.
+
+**Rep. Rashida Tlaib** (D-Detroit) publicly pressed ICE over the warehouse's use for detention (Apr. 23).
+
+## Protests (April 2026)
+
+On **Saturday, April 25, 2026**, about **200 protesters** marched roughly 1.5 miles from **Romulus Middle School** to the Cogswell Street warehouse, opposing the detention plan and citing the violent enforcement operations in Chicago and Minneapolis. Lt. Gov. Garlin Gilchrist participated. Coverage described the protests as growing through late April into May.
 
 ## Political Dynamics
 
@@ -78,3 +97,9 @@ Meanwhile, the Michigan Senate Civil Rights Committee advanced bills (SB 508, SB
 - [DHS reviewing Michigan warehouse purchase for ICE detention center — WNEM (Apr 2, 2026)](https://www.wnem.com/2026/04/02/dhs-reviewing-michigan-warehouse-purchase-ice-detention-center/)
 - [Romulus ICE facility future in question as DHS pauses — FOX 2 Detroit (Apr 1, 2026)](https://www.fox2detroit.com/news/romulus-ice-facility-future-question-dhs-pauses-additional-warehouse-purchases)
 - [Lawsuit over ICE detention center in Romulus heads to federal court — Axios Detroit (Mar 30, 2026)](https://www.axios.com/local/detroit/2026/03/30/ice-detention-lawsuit-romulus-federal-court)
+- [DHS details of Romulus ICE detention center plans in court filings — Detroit News (Apr 23, 2026)](https://www.detroitnews.com/story/news/local/wayne-county/2026/04/23/dhs-details-of-romulus-ice-detention-center-plans-in-court-filings/89757520007/)
+- [Rashida Tlaib seeks ICE answers on using Romulus warehouse — Detroit News (Apr 23, 2026)](https://eu.detroitnews.com/story/news/politics/2026/04/23/rashida-tlaib-ice-romulus-warehouse-ban-detention-center/89753912007/)
+- [Protesters march against ICE plans to build Romulus detention center — Detroit News (Apr 25, 2026)](https://www.detroitnews.com/story/news/local/wayne-county/2026/04/25/romulus-ice-detention-center-march-protest-gilchrist-immigration/89795933007/)
+- [Hundreds protest in Romulus against warehouse conversion — Michigan Advance (Apr 25, 2026)](https://michiganadvance.com/2026/04/25/hundreds-protest-in-romulus-against-proposal-to-convert-warehouse-into-ice-detention-center/)
+- [Opponents rally at federal courthouse as hearing moves online — Project Saltbox (May 18, 2026)](https://www.projectsaltbox.com/p/opponents-of-romulus-detention-facility)
+- [Protests grow in Romulus as legal fight targets ICE detention plan — Arab American News (May 1, 2026)](https://arabamericannews.com/2026/05/01/protests-grow-in-romulus-as-legal-fight-targets-ice-detention-plan/)

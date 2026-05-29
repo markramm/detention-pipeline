@@ -15,7 +15,7 @@ tags:
 - charging-protocol
 - courthouse-arrests
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Illinois: Operation Midway Blitz vs. Sanctuary
@@ -80,6 +80,12 @@ Six activists indicted on federal felony conspiracy charges for surrounding an I
 
 Source: [NPR Illinois: Charges dismissed (Mar 2026)](https://www.nprillinois.org/illinois/2026-03-16/charges-dismissed-for-2-of-broadview-6-ice-facility-protesters)
 
+## Special Prosecutor Denied (May 21, 2026)
+
+On May 21, 2026, Cook County Circuit Judge **Erica Reddick rejected** the petition to appoint a special prosecutor for Operation Midway Blitz federal-agent conduct (after delaying the May 11 ruling to weigh the April 30 Accountability Commission report). She found State's Attorney O'Neill Burke's office remains the proper prosecuting authority. The coalition pivoted to pressuring local police (including CPD) to investigate ICE agents and refer charges; an Illinois State Police probe of a fatal ICE shooting in Franklin Park is the model. Meanwhile ICE kept making warrantless courthouse arrests — agents at four Cook County courthouses on May 7 — defying Chief Judge Evans's October 2025 ban. See `il-cook-courthouse-arrests-special-prosecutor`.
+
+Source: [Chicago Sun-Times: Judge rejects special prosecutor (May 21, 2026)](https://chicago.suntimes.com/immigration/2026/05/21/special-prosecutor-midway-blitz-ice-trump-oneill-burke-cook-county)
+
 ## Displacement Effect: Detention Without Facilities
 
 Because Illinois blocks county detention, ICE transfers arrestees to:
@@ -89,9 +95,11 @@ Because Illinois blocks county detention, ICE transfers arrestees to:
 
 Illinois's ban doesn't stop detention — it displaces it across state lines to jurisdictions with fewer protections.
 
+But detention also persists **inside** Illinois through the **"ICE rider" loophole**: at least 17 downstate county sheriffs (per an Oct 2025 WTTW FOIA investigation) hold ICE detainees via riders on their U.S. Marshals Service contracts, in apparent violation of the TRUST/Way Forward Acts. Removal has been voluntary and press-driven (e.g., Jackson County's "overlooked checkbox," Feb 2026), not AG-enforced. See `illinois-ice-rider-county-jail-evasion`.
+
 ## Legislative Response
 
-**HB 5024** (passed House Apr 8-9, 2026): Prohibits new federal detention centers within 1,500 feet of homes, schools, day care, parks, cemeteries, or places of worship. Wouldn't close Broadview but would block new siting.
+**HB 5024** (passed House Apr 8, 72-35-2; Senate Executive Committee advanced it May 6, 2026, now on Senate floor): Prohibits new federal detention centers within 1,500 feet of homes, apartments, schools, day care, parks, public housing, cemeteries, or places of worship. Not retroactive — wouldn't close Broadview but would block new siting. See `il-statewide-hb5024-detention-location-ban`.
 
 ## Budget-Distressed Counties Blocked from Cooperating
 

@@ -26,7 +26,7 @@ tags:
 - community-opposition
 - congressional-opposition
 research_status: working
-last_researched: 2026-04-13
+last_researched: 2026-05-28
 ---
 
 # Marana ICE Detention Center — MTC's Former State Prison Conversion
@@ -87,6 +87,10 @@ Immigration attorney Daniela Ugaz of Pima Resists I.C.E. stated: "There is no wa
 - [[pima-county-az-marana-detention-fight]] — Community opposition and board resolutions
 - [[pima-county-az-sheriff-nanos-ice-cooperation]] — Sheriff caught cooperating with ICE/BP despite denials
 - [[surprise-az-ban]] — Nearby Maricopa County case showing limits of local bans
+- [[pinal-county-az-rogue-attorney]] — Nearby Pinal County governance fight; court voided a rogue 287(g) deal (May 15, 2026)
+- [[mesa-arocc-maricopa-az]] — Maricopa County holding site showing the 2026 overcrowding pattern (777 in 157-capacity)
+
+**Note (May 2026)**: As of late May 2026 MTC says no final contract has been signed and a "formal process" remains; the Nov. 30, 2026 activation target and 775-bed ceiling are unchanged. No new litigation specific to Marana; opposition continues via resolutions and protests (see fight entry).
 
 ## Sources
 

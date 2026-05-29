@@ -20,6 +20,7 @@ tags:
 - economic-capture
 - conditions-abuse
 research_status: working
+last_researched: "2026-05-28"
 fips: '13259'
 ---
 
@@ -35,13 +36,16 @@ Average daily population rose from ~1,500 to over **1,800** since January 2025.
 
 ## Deaths
 
-**13 deaths in custody** and **3 confirmed suicides** since ICE began detaining people at Stewart in 2006.
+**14 deaths in custody** since ICE began detaining people at Stewart in 2006 — one of the deadliest ICE facilities in the country. Average daily population now exceeds **2,000**.
 
 Recent deaths (2025):
 - **Abelardo Avellaneda-Delgado**, 68, Mexican national — died May 5, 2025, became unresponsive during transport to Stewart
 - **Jesus Molina-Veya**, 45, Mexican national — died by suicide June 7, 2025
 
-Georgia Senators Ossoff and Warnock blasted ICE over 14 total deaths across Georgia facilities.
+Recent deaths (2026):
+- **Denny Adán González**, 33 — died **April 28, 2026**. CoreCivic staff found him unresponsive in his cell around 10:25 p.m. and began CPR. Suspected cause is **suicide** (official cause under investigation). He was reportedly held in **solitary confinement** at the time — a practice internationally recognized as torture. González was arrested in North Carolina in December 2025 (assault on a female / domestic violence) and transferred to ICE custody at Stewart in January 2026. Detention Watch Network reported him as the **18th reported ICE detention death of 2026** nationally, and the **second Georgia ICE-custody death of 2026**. Advocates are calling for a **full independent investigation** into his death and the "rampant use of force" at Stewart.
+
+Georgia Senators Ossoff and Warnock have repeatedly blasted ICE over deaths across Georgia facilities.
 
 ## Conditions
 
@@ -64,6 +68,10 @@ Stewart County (population ~6,000) is one of Georgia's poorest counties. The det
 ## Sources
 
 - [American Immigration Council: Deaths in ICE Detention](https://www.americanimmigrationcouncil.org/blog/a-closer-look-at-deaths-in-ice-detention-facilities/)
-- [Detention Watch Network: Third suicide at Stewart](https://www.detentionwatchnetwork.org/pressroom/releases/2025/third-death-suicide-georgias-ice-detention-center-advocates-call-immediate)
+- [Detention Watch Network: Death at Stewart prompts call for independent investigation (Denny Adán González, 2026)](https://www.detentionwatchnetwork.org/pressroom/releases/2026/death-georgia-ice-prison-prompts-advocates-call-immediate-independent)
+- [WABE: Man dies in Georgia immigration detention center, second Georgia ICE death this year (2026)](https://www.wabe.org/man-dies-in-georgia-immigration-detention-center-second-georgia-ice-death-this-year/)
+- [Austin Kocher: Denny Adán González is the 18th reported ICE detention death of 2026](https://austinkocher.substack.com/p/denny-adan-gonzalez-is-the-18th-reported)
+- [Now Georgia: ICE reports suicide inside Stewart Detention Center (2026)](https://nowgeorgia.com/ice-reports-suicide-inside-stewart-detention-center/)
+- [Detention Watch Network: Third suicide at Stewart (2025)](https://www.detentionwatchnetwork.org/pressroom/releases/2025/third-death-suicide-georgias-ice-detention-center-advocates-call-immediate)
 - [Georgia Sun: Senators blast ICE over 14 deaths](https://thegeorgiasun.com/government/georgia-senators-blast-ice-over-14-deaths-and-detention-conditions)
 - [WABE: Georgia's immigration detention system](https://www.wabe.org/georgias-immigration-detention-system-and-the-people-it-affects/)

@@ -21,8 +21,8 @@ tags:
 - rapid-response
 - courthouse-arrests
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Allegheny County PA — ICE Enforcement Surge, Council Ban, Sheriff Courthouse Complicity, Municipal 287(g) Chaos
@@ -89,6 +89,16 @@ County Council voted **11-3** with one abstention to restrict county employees f
 ### Context
 
 Critic DeWitt Walton called the measure "fundamentally worthless," arguing ICE would disregard it. The Republican Committee of Allegheny County called it "reckless, politically motivated, and harmful to public safety." Dozens of residents had spoken in favor at meetings for months.
+
+## Pittsburgh City Council Anti-ICE Package (separate from County ban)
+
+Distinct from the County Council ban, the **City of Pittsburgh** passed its own multi-bill package:
+
+- **April 7, 2026**: City Council voted **unanimously** to pass **Bill 286**, formally barring city police and all city employees from gathering or sharing residents' immigration status, blocking ICE access to anyone in city custody, and prohibiting the city from entering a 287(g) agreement. The bill codifies a prior policy into law.
+- A companion bill directs officials to report on how surveillance technologies are used in the city.
+- **May 6, 2026**: Council advanced two more bills — one preventing ICE from setting up operations on city-owned property, another keeping agents out of private (nonpublic) areas without a judicial warrant.
+
+These city measures parallel Philadelphia's "ICE Out" package and layer onto the County Council ban, making both Allegheny's largest city and its county government formal non-cooperators.
 
 ## Sheriff Courthouse Complicity
 
@@ -169,3 +179,6 @@ Allegheny County shows the full spectrum of ICE enforcement conflict in a single
 - [NBC News: ICE agents trashed two PA restaurants during raid](https://www.nbcnews.com/news/latino/ice-raids-pittsburgh-mexican-restaurant-emilianos-pennsylvania-rcna224726)
 - [WESA: Questions surround constable partnerships with ICE in PA (Apr 2, 2026)](https://www.wesa.fm/politics-government/2026-04-02/questions-surround-constable-partnerships-with-ice-in-pennsylvania)
 - [PublicSource: ICE planned 46 arrests in downtown Pittsburgh courthouses (late April 2026)](https://www.publicsource.org/emails-from-ice-to-allegheny-county-sheriff-courthouse-arrests/)
+- [WESA: Pittsburgh City Council bars staff, police from collaborating with ICE — Bill 286 (Apr 7, 2026)](https://www.wesa.fm/politics-government/2026-04-07/pittsburgh-city-council-collaborating-immigration-customs)
+- [WESA: Pittsburgh City Council advances more rules restricting ICE activity (May 6, 2026)](https://www.wesa.fm/politics-government/2026-05-06/pittsburgh-city-council-advances-bills-to-limit-ice-activity-on-city-property)
+- [WPSU: U.S. House members (Lee, Deluzio) visit Moshannon ICE facility (May 28, 2026)](https://radio.wpsu.org/2026-05-28/us-house-members-visit-moshannon-ice-facility-call-for-overhaul)

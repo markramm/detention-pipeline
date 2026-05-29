@@ -7,7 +7,7 @@ state: PA
 fips: "42101"
 facility: "N/A (citywide policy fight)"
 status: contested
-outcome: "Philadelphia City Council passed a seven-bill 'ICE Out' package on April 23, 2026 with mostly 16-1 votes, enacting among the most aggressive local restrictions on ICE operations in the country. The bills ban ICE from staging on city property, prohibit masked agents without badges, bar ICE from hospitals, libraries, schools, and other Safe Community Places, codify sanctuary status, and prohibit data-sharing with ICE. Mayor Cherelle Parker had not publicly committed to signing as of late April. Legal experts flagged federal preemption exposure on some provisions; DA Krasner openly opposed ICE operations throughout the spring."
+outcome: "Philadelphia City Council passed a seven-bill 'ICE Out' package on April 23, 2026 (mostly 16-1 votes). On May 7, 2026, Mayor Cherelle Parker SIGNED six of the seven bills and let the seventh — the ban on masked agents — become law without her signature (no veto), after City Solicitor Renee Garcia flagged 'significant legal problems' with regulating federal agents' conduct. The package codifies sanctuary status, bans ICE staging on city property, bars data-sharing, and protects Safe Community Places. Provisions take effect in July 2026 (60 days after signing). Cements among the nation's toughest local ICE restrictions; mask-ban provision faces likely federal preemption challenge."
 importance: 9
 tags:
   - sanctuary-policy
@@ -21,8 +21,8 @@ tags:
   - kendra-brooks
   - rue-landau
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Philadelphia, PA: The "ICE Out" Package
@@ -45,7 +45,7 @@ The package passed with mostly **16-1 votes**; two measures passed 15-2, with Co
 
 **Legal exposure**: A federal appeals court had recently blocked a similar California mask law. ACLU Pennsylvania senior attorney Vanessa Stine called the Philadelphia measures "legally sound" and grounded in constitutional law, but acknowledged some provisions face preemption risk.
 
-**Mayor's position**: Mayor **Cherelle Parker** maintained a notably low public profile throughout the spring ICE surge and had not stated whether she would sign the package as of the time of passage.
+**Mayor's position — RESOLVED May 7, 2026**: Mayor **Cherelle Parker** signed **six of the seven** bills into law on May 7, 2026, codifying the city's sanctuary policies and banning ICE raids on city-owned property. She took **no action on the seventh** — the ban on agents concealing their identities — which becomes law anyway because she did not veto it. City Solicitor **Renee Garcia** had warned Parker the mask bill presented "significant legal problems," including whether the city has authority to regulate the conduct of federal agents. The new provisions take effect in **July 2026, 60 days after signing**.
 
 **DA's posture**: DA **Larry Krasner** publicly opposed ICE operations in the city throughout 2026, declining to cooperate with federal enforcement in ways that extended beyond his office's jurisdiction.
 
@@ -55,13 +55,14 @@ The package passed with mostly **16-1 votes**; two measures passed 15-2, with Co
 - **2026-04-23**: Full City Council passes all seven bills (mostly 16-1 votes)
 - **2026-04-24**: National and local press covers vote; Democracy Now! headlines the package
 - **2026-04-XX**: Legal experts flag preemption exposure; ACLU PA defends bills as constitutionally sound
-- **2026-05-XX**: Mayor Parker's signature (or veto) window opens
+- **2026-05-07**: Mayor Parker signs six of seven bills; lets the mask-ban bill become law without signature (no veto); provisions effective July 2026
 
 ## Key Actors
 
 - **Councilmember Rue Landau** — co-lead sponsor
 - **Minority Leader Kendra Brooks** — co-lead sponsor; "Philadelphians are not afraid to stand up to the Trump administration"
-- **Mayor Cherelle Parker** — conspicuously silent; signature pending
+- **Mayor Cherelle Parker** — signed six bills May 7, 2026; let mask ban become law unsigned
+- **City Solicitor Renee Garcia** — warned mask ban presents "significant legal problems"
 - **DA Larry Krasner** — publicly opposed ICE operations; administrative ally
 - **Vanessa Stine, ACLU PA** — called bills "legally sound"
 
@@ -71,6 +72,8 @@ Philadelphia's ICE Out package is the most comprehensive municipal anti-ICE legi
 
 ## Sources
 
+- [Philadelphia Inquirer: Mayor Parker signs sweeping ICE restrictions, cements sanctuary policies (May 7, 2026)](https://www.inquirer.com/politics/philadelphia/mayor-parker-ice-restrictions-sanctuary-city-philadelphia-20260507.html)
+- [NBC Philadelphia: Parker signs all 'ICE Out' bills except mask ban (May 2026)](https://www.nbcphiladelphia.com/news/local/mayor-parker-signs-all-ice-out-bills-in-philly-except-for-mask-ban/4398543/)
 - [Philadelphia Inquirer: City Council passes ICE Out (April 23, 2026)](https://www.inquirer.com/politics/philadelphia/city-council-ice-out-legislation-approved-20260423.html)
 - [WHYY: Philadelphia ICE Out legislation passes City Council](https://whyy.org/articles/philadelphia-ice-out-legislation-passes-city-council/)
 - [WHYY: Philadelphia ICE Out — what you need to know](https://whyy.org/articles/philadelphia-ice-out-legislation/)

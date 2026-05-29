@@ -5,9 +5,9 @@ type: county-fight
 county: Pinal
 state: "AZ"
 facility: null
-status: litigation
+status: won
 vote_tally: "Board of Supervisors unanimously declared agreement illegal and void; later unanimously declared 'potential conflict of interest exists'"
-outcome: "Active litigation in Maricopa County Superior Court before Judge Michael Gordon. At April 9, 2026 status conference, Miller agreed not to engage in ICE activities beyond information sharing during pendency of the lawsuit. Combined hearing on County's preliminary injunction motion and Miller's motion to dismiss set for May 15, 2026. Board has now also declared a 'potential conflict of interest' exists with Miller's office (April 2026). Outside legal fees reportedly ~$257,000. Miller's top investigator (Richard 'Hank' Mueller) is on Arizona's Brady list."
+outcome: "WON (May 15, 2026): Maricopa County Superior Court Judge Michael Gordon ruled from the bench that County Attorney Brad Miller exceeded his authority and that his 287(g) agreement with DHS/ICE is VOID. Gordon held the County Attorney's Office is not a 'political subdivision' under Arizona law and so cannot enter intergovernmental agreements on its own. As of May 28, 2026 Miller had not filed an appeal — the judgment is a final judgment in full force — though he said he is 'strongly considering an appeal.' Outside legal fees in the dispute reportedly totaled ~$257,000. Miller's top investigator (Richard 'Hank' Mueller) is on Arizona's Brady list."
 key_actors:
 - "County Attorney Brad Miller"
 - "Pinal County Board of Supervisors"
@@ -25,7 +25,7 @@ tags:
 - pinal-county-cluster
 research_status: working
 fips: '04021'
-last_news_check: '2026-05-06'
+last_news_check: '2026-05-28'
 ---
 
 # Pinal County: When the County Attorney Goes Rogue
@@ -59,7 +59,13 @@ This is a governance crisis, not just an immigration fight. A county attorney by
 - **~April 22-24, 2026**: Board votes **unanimously** to declare that "a potential conflict of interest exists" regarding the County Attorney's ethical obligations to the Board and how PCAO investigators exercise law-enforcement authority. Board sets a Friday-noon deadline for Miller to respond; if he does not, the county manager is directed to hire outside counsel to represent the Board (KJZZ, April 24, 2026)
 - **As of late April 2026**: Outside-legal-fee spending in the dispute reportedly totals **~$257,000** (KJZZ, InMaricopa)
 - **May 1, 2026**: Additional filing in Pinal County case CV2026-003106 (Pinal County document portal)
-- **May 15, 2026 (scheduled)**: Combined hearing on County's motion for preliminary injunction and Miller's motion to dismiss before Judge Michael Gordon, Maricopa County Superior Court
+- **May 15, 2026 — RULING**: Judge Michael Gordon **rules from the bench against Miller**, finding he had no power to unilaterally enter the federal 287(g) program. Gordon holds the **Pinal County Attorney's Office is not a "political subdivision" under Arizona law**, so it cannot enter intergovernmental agreements on its own; only the county (via the Board) or the sheriff is authorized. The agreement is **"determined to be void."**
+- **May 18-20, 2026**: Coverage and analysis (Tucson Sentinel, KJZZ "a lawyer explains why") underscore the structural holding — a stand-alone county officer cannot bind the county to a federal IGA.
+- **May 28, 2026**: Per AZPM, Miller **has not filed an appeal**, so Gordon's ruling stands as a **final judgment in full force**. Miller publicly states he is "disappointed" and "strongly considering an appeal."
+
+## The Outcome and Why It Matters
+
+This is a **win for democratic accountability**. The court did not rule on immigration policy; it ruled on **structure** — that a single elected county officer cannot unilaterally pull county personnel and resources into federal immigration enforcement over the objection of the elected Board. The "not a political subdivision" holding is the load-bearing finding: it forecloses the workaround of routing 287(g) authority through a county attorney's office rather than the sheriff or the board. If Miller does not appeal (none filed as of May 28), the precedent in Arizona is that rogue-officer 287(g) deals are void from inception.
 
 ## The Brady List Investigator
 
@@ -103,3 +109,9 @@ If a county attorney can unilaterally sign ICE agreements over the objections of
 - [InMaricopa: Brad Miller rips Pinal County board over new legal salvo (April 22, 2026)](https://inmaricopa.com/brad-miller-rips-pinal-county-board-over-new-legal-salvo/)
 - [KJZZ: Pinal County Board of Supervisors accuse county attorney of 'conflict of interest' (April 24, 2026)](https://www.kjzz.org/politics/2026-04-24/pinal-county-board-of-supervisors-accuse-county-attorney-of-conflict-of-interest)
 - [Pinal County Clerk of Superior Court filing CV2026-003106 (May 1, 2026)](https://pinal.gov/DocumentCenter/View/28379/CV2026-003106-926-05012026?bidId=)
+- [AZ Mirror: Judge blocks Pinal County Attorney's rogue ICE deal, says he exceeded his authority (May 15, 2026)](https://azmirror.com/2026/05/15/judge-blocks-pinal-county-attorneys-rogue-ice-deal-says-he-exceeded-his-authority/)
+- [KJZZ: Pinal County attorney overstepped by entering ICE agreement, judge rules (May 15, 2026)](https://www.kjzz.org/politics/2026-05-15/pinal-county-attorney-overstepped-by-entering-ice-agreement-judge-rules)
+- [AZ Family: Judge blocks Pinal County attorney's cooperation deal with ICE (May 15, 2026)](https://www.azfamily.com/2026/05/15/judge-blocks-pinal-county-attorneys-cooperation-deal-with-ice/)
+- [AZPM: 'Determined to be void:' Judge rules against Pinal County Attorney contract with ICE (May 28, 2026)](https://news.azpm.org/p/azpmnews/2026/5/28/229921-determined-to-be-void-judge-rules-against-pinal-county-attorney-contract-with-ice/)
+- [AZ Free News: Judge Rules Pinal County Attorney Violated Law In ICE Agreement (May 2026)](https://azfreenews.com/2026/05/judge-rules-pinal-county-attorney-violated-law-in-ice-agreement/)
+- [Supervisors Authorize Civil Action to Void or Enjoin County Attorney's 287(g) Agreement (Pinal County newsflash)](https://www.pinal.gov/m/newsflash/home/detail/2199)

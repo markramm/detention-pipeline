@@ -9,8 +9,8 @@ status: litigation
 vote_tally: "N/A — federal purchase, no local vote"
 outcome: "Litigation active; DHS paused all warehouse purchases Apr 1 under Mullin review of Noem-era contracts. No court ruling yet."
 fips: "26163"
-last_researched: "2026-04-12"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 case_number: "2:26-cv-10968-JJCG-EAS"
 importance: 9
 tags:
@@ -64,12 +64,15 @@ The lawsuit alleges:
 - **April 15, 2026:** Maryland's parallel NEPA case wins a preliminary injunction (Judge Brendan A. Hurson, D. Md.). The Hurson ruling becomes the precedent the Romulus court will be asked to apply: Hurson found that DHS likely failed to comply with NEPA and did not take "a 'hard look' at the potential environmental consequences" of converting a warehouse to a 542-detainee facility. See [Maryland (Williamsport) fight](/fights/washington-county-md-warehouse-fight/).
 - **April 22-23, 2026:** DHS files ~500 pages of documents supplementing its response to Nessel and Romulus's preliminary-injunction motion. DHS argues ICE needs the dedicated Metro Detroit detention center because the two closest facilities — IGSAs with St. Clair and Monroe counties — collectively provide only ~150 beds (per Detroit News reporting on the court filings).
 - **April 24, 2026:** Arizona AG Mayes files parallel NEPA lawsuit against Mullin/DHS over the Surprise warehouse — fourth state in the cluster (after MD, NJ, MI, AZ). See [Surprise AZ fight](/fights/surprise-az-ice-warehouse-fight/).
+- **April 25, 2026:** ~200 protesters march 1.5 miles from Romulus Middle School to the Cogswell Street warehouse; Lt. Gov. Garlin Gilchrist participates.
+- **May 11, 2026:** The **ACLU of Michigan, Michigan Immigrant Rights Center, and Detroit Justice Center** move to **join the lawsuit as parties**.
+- **May 21, 2026:** Preliminary-injunction motion **hearing held virtually** (rescheduled from late April) — first hearing with all three intervenor organizations appearing as parties. No ruling reported as of late May.
 
 ## DHS Pause and Noem-Era Review
 
 The Romulus fight achieved something few local opponents have: the facility is now caught up in a **federal-level policy reversal**. Secretary Mullin's review of Noem-era contracts puts all 11 warehouses on hold. The original plan was a $38.3B initiative for 92,000 beds through 8 mega-centers and 16 regional processing centers. DHS stated: "as with any transition, we are reviewing agency policies and proposals."
 
-No court ruling has been issued on the Romulus lawsuit as of May 6, 2026. The case (2:26-cv-10968-JJCG-EAS) is pending a preliminary-injunction ruling in the Eastern District of Michigan. The Hurson ruling in Maryland (April 15, 2026) on essentially the same NEPA argument is the most relevant out-of-circuit precedent.
+No court ruling has been issued on the Romulus lawsuit as of late May 2026. The case (2:26-cv-10968-JJCG-EAS) is pending a preliminary-injunction ruling in the Eastern District of Michigan, with a virtual motion hearing held May 21, 2026 (the ACLU of Michigan, MIRC, and Detroit Justice Center joined as parties May 11). The Hurson ruling in Maryland (April 15, 2026) on essentially the same NEPA argument is the most relevant out-of-circuit precedent.
 
 ## The Multi-State Pattern
 
@@ -112,3 +115,6 @@ The Michigan Senate is advancing bills (SB 508, SB 510) to limit ICE enforcement
 - [Michigan AG: AG Nessel Files Lawsuit Challenging Plan to Convert Romulus Warehouse (March 24, 2026)](https://www.michigan.gov/ag/news/press-releases/2026/03/24/ag-nessel-files-lawsuit-challenging-plan-to-convert-romulus-warehouse-into-ice-detention-center) — official AG announcement
 - **Romulus Complaint (PDF)**: https://www.michigan.gov/ag/-/media/Project/Websites/AG/releases/2026/March/Romulus-Complaint-ICE-DHS.pdf — primary source
 - [Michigan Advance: Nessel, Romulus file lawsuit (March 24, 2026)](https://michiganadvance.com/2026/03/24/nessel-romulus-file-lawsuit-against-dhs-to-halt-planned-ice-detention-center/)
+- [Hundreds protest in Romulus against warehouse conversion — Michigan Advance (Apr 25, 2026)](https://michiganadvance.com/2026/04/25/hundreds-protest-in-romulus-against-proposal-to-convert-warehouse-into-ice-detention-center/)
+- [Protesters march against ICE plans — Detroit News (Apr 25, 2026)](https://www.detroitnews.com/story/news/local/wayne-county/2026/04/25/romulus-ice-detention-center-march-protest-gilchrist-immigration/89795933007/)
+- [Opponents rally at federal courthouse as hearing moves online (intervenors join May 11; hearing May 21) — Project Saltbox (May 18, 2026)](https://www.projectsaltbox.com/p/opponents-of-romulus-detention-facility)
