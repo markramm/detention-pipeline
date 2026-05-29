@@ -513,16 +513,16 @@
       "notes": "Hampden MA (Springfield) \u2014 DA office communicating with ICE (special victims unit contacted ICE Feb 2025). Part of courthouse arrest pattern. Score 27."
     },
     "25017": {
-      "last_researched": "2026-04-12",
-      "notes": "Middlesex MA \u2014 Burlington ICE field office (de facto detention, conditions crisis) + Hanscom Field deportation flights (114+ in 2025). Two critical pipeline nodes. Score 37."
+      "last_researched": "2026-05-28",
+      "notes": "Middlesex: Burlington field office (Accountability Project launched May 28, Pressley/Clark/McGovern oversight) + Hanscom Field 132 flights/yr, Signature Aviation FBO named by Healey."
     },
     "25023": {
-      "last_researched": "2026-04-12",
-      "notes": "Plymouth MA \u2014 PCCF only MA county ICE detention, 526 beds, IGSA through 2029, $215/day, 85% no-threat detainees. ~$35M/yr revenue. NOT in heatmap but most significant MA detention site."
+      "last_researched": "2026-05-28",
+      "notes": "Plymouth: PCCF only county ICE detention site, 526 beds thru 2029; 87.3% no criminal convictions; Warren/Markey requested conditions review."
     },
     "25025": {
-      "last_researched": "2026-04-12",
-      "notes": "Suffolk MA (Boston) \u2014 Police ignored all 57 ICE detainers (2025), Wu banned ICE from city property (Feb 2026), ended ICE detention 2019. But 136+ courthouse arrests in Region 5. Score 47."
+      "last_researched": "2026-05-28",
+      "notes": "Suffolk/Boston: courthouse arrests continue (May 2025 = 71, 2nd highest month); Wu ICE property ban; part of statewide PROTECT Act fight."
     },
     "26025": {
       "last_researched": "2026-04-12",
@@ -773,28 +773,28 @@
       "notes": "Belknap \u2014 Sheriff signed 287(g), score 26"
     },
     "33007": {
-      "last_researched": "2026-04-12",
-      "notes": "Coos \u2014 FCI Berlin 204+ ICE detainees (80% non-criminal), Carroll/Colebrook/Gorham/Pittsburg/Whitefield PDs all 287(g), Gorham town voted to recommend withdrawal"
+      "last_researched": "2026-05-28",
+      "notes": "Coos/FCI Berlin: 204 ICE detainees (Dec 2025), 80% non-criminal; new 2026 reporting on abusive long-distance transfers into Berlin (RI man D, 3am cramped van, scarring handcuffs) and 130+ habeas petitions in RI federal court."
     },
     "33009": {
       "last_researched": "2026-04-12",
       "notes": "Grafton \u2014 Sheriff signed 287(g), score 19"
     },
     "33011": {
-      "last_researched": "2026-04-12",
-      "notes": "Hillsborough \u2014 Merrimack warehouse scrapped but DHS won't rule out, Sheriff 287(g), Hudson warehouse monitored"
+      "last_researched": "2026-05-28",
+      "notes": "Hillsborough/Valley St jail (Manchester): delegation voted down $734,781 ICE contingency funding; commissioners say no contract considered. Sheriff has 287(g) contract. Merrimack warehouse plan (FIPS 33011) scrapped; PFAS-zone site."
     },
     "33013": {
       "last_researched": "2026-04-12",
       "notes": "Merrimack County \u2014 score 63, no specific 2025-2026 findings beyond statewide 287(g) pattern"
     },
     "33015": {
-      "last_researched": "2026-04-12",
-      "notes": "Rockingham \u2014 Sheriff signed 287(g) Apr 2025, Auburn/Candia/Epping PDs also signed, immigration arrests confirmed, score 63"
+      "last_researched": "2026-05-28",
+      "notes": "Rockingham (Brentwood jail): commissioners tabled 150-bed ICE deal indefinitely Feb 5-6 2026, 2-1 (R Tombarello + D Coyle vs R Goddu); supt Jason Henry resigned; unpaid-hospital-bill concern. Sheriff in 287(g) since Apr 2025."
     },
     "33017": {
-      "last_researched": "2026-04-12",
-      "notes": "Strafford \u2014 County jail holds 145 ICE detainees ($150/day, $9M/yr), 68% non-criminal, Dems voted 22-11 to renegotiate IGSA, budget rejected 29-4 in protest"
+      "last_researched": "2026-05-28",
+      "notes": "Strafford jail (Dover): NHs only contracted ICE IGSA. ~145 detainees Feb 2026 (68% non-criminal), $9M/yr, $150/day. County convention 22-11 + budget 29-4 symbolic votes to restrict to criminal-only. Commissioners control contract."
     },
     "34003": {
       "last_researched": "2026-04-12",
@@ -1021,16 +1021,20 @@
       "notes": "Douglas County OR \u2014 ICE RFI for 300+ employee office in Roseburg (Mar 2026), one of only 3 NW cities listed on SAM.gov, community divided, part of Southern Oregon Analyst Group intelligence network"
     },
     "41029": {
-      "last_researched": "2026-04-13",
-      "notes": "Jackson County OR \u2014 Medford ICE field office (10-county hub), July 2025 cannabis raids as ICE pretext (17 detained, GEO bus pre-staged), Flock ALPR data shared with HSI, Southern Oregon Analyst Group, ICE in county-owned building via private sublease, Josephine Co HSI MOU"
+      "last_researched": "2026-05-28",
+      "notes": "Jackson Co \u2014 Medford ICE hub, July 2025 cannabis-raid pretext (17 detained), Flock ALPR shared with HSI. No new county-specific developments this cycle; statewide OSP/LEDS data-sharing lawsuit (May 2026) is the state-level analog to the local Flock sharing."
     },
     "41035": {
       "last_researched": "2026-04-13",
       "notes": "Klamath County OR \u2014 ICE arrest in Klamath Falls Oct 2025, sheriff refused to comment on sanctuary compliance (unlike Coos/Josephine/Curry), Flock ALPR cameras deployed, part of Southern Oregon Analyst Group"
     },
     "41039": {
-      "last_researched": "2026-04-13",
-      "notes": "Lane County OR -- Sheriff ICE backdoor at county jail, Oct 2025 lobby detentions, ACLU documented pattern (bail notifications, back entrance access), new Sheriff Wilkerson pledges sanctuary compliance, 15+ detained Nov 2025, Eugene PD auditor investigation, 550% detainment spike"
+      "last_researched": "2026-05-28",
+      "notes": "Lane Co \u2014 jail backdoor; Sheriff Wilkerson ran unopposed in May 19 2026 primary, reaffirmed no-cooperation. Eugene is the habeas venue (detainee testimony May 17). Detainees routed to Tacoma NWIPC."
+    },
+    "41051": {
+      "last_researched": "2026-05-28",
+      "notes": "Multnomah/Portland \u2014 Operation Black Rose epicenter (apprehensions ~600% spike). OSP LEDS data-sharing lawsuit filed in Multnomah County Circuit Court May 5-6 2026."
     },
     "42003": {
       "last_researched": "2026-05-28",
@@ -1061,8 +1065,8 @@
       "notes": "Hamlin SD \u2014 Drumgoon Dairy I-9 audit May 2025, 38 workers terminated, 5 miles from DHS Sec Noem home, workforce decimated from 54 to 16"
     },
     "46099": {
-      "last_researched": "2026-04-13",
-      "notes": "Minnehaha SD \u2014 Primary ICE holding jail, 287(g) Warrant Service (Mar 2025), courthouse arrest/mistrial Jun 2025, ~20 immigration holds at any time, 3 Natl Guard paperwork processors"
+      "last_researched": "2026-05-28",
+      "notes": "Minnehaha/Sioux Falls remains primary SD ICE holding; Guard processors statewide rose to 7. Updated facility entry May 2026."
     },
     "46103": {
       "last_researched": "2026-04-13",
@@ -1253,8 +1257,8 @@
       "notes": "Goshen WY \u2014 No specific ICE activity found in 2025-2026 research beyond general WHP statewide 287(g) coverage"
     },
     "56021": {
-      "last_researched": "2026-04-13",
-      "notes": "Laramie WY \u2014 Primary 287(g) hub, 25 deputies sworn in Oct 2025, 257 ICE detainees Sep-Jan, $120/day, $75K invoiced, Nov trucker operation (40 deportations), ACLU criticism of wide net"
+      "last_researched": "2026-05-28",
+      "notes": "Laramie: ACLU 287(g) lawsuit (May 27 2026); topped US in arrests 53 (Apr 17-23); 300 total since Oct; 27 certified officers."
     },
     "56025": {
       "last_researched": "2026-04-13",
@@ -1265,12 +1269,16 @@
       "notes": "Park WY \u2014 No specific ICE activity found in 2025-2026 research beyond general WHP statewide 287(g) coverage"
     },
     "56037": {
-      "last_researched": "2026-04-13",
-      "notes": "Sweetwater WY \u2014 First WY 287(g) Task Force, 30 ICE beds (expanded from 15), $3M projected revenue, I-80 corridor hub, accepts Teton/Lincoln/Sublette detainees, ICE wants Rock Springs office"
+      "last_researched": "2026-05-28",
+      "notes": "Sweetwater: per diem $61.57->$120; >$1M projected FY; $167.5K stipends + $370.6K housing since Oct."
+    },
+    "56039": {
+      "last_researched": "2026-05-28",
+      "notes": "Teton: 540-sig petition rejected by Sheriff Carr; 241 booked/153 transferred Mar2025-Apr2026, 74% driving-related."
     },
     "56041": {
-      "last_researched": "2026-04-13",
-      "notes": "Uinta WY \u2014 County jail holds up to 25 ICE detainees since May 2025 at $120/day ($40-50K/mo), multi-state including UT; failed CoreCivic 1000-bed facility 2017-2020 (community opposition via WyoSayNo)"
+      "last_researched": "2026-05-28",
+      "notes": "Uinta: NO 287(g) (declined); USMS only ~31 detainees; $66->$120; 439 housed Jun-Aug, billed ~$96K."
     },
     "56043": {
       "last_researched": "2026-04-13",
@@ -1343,8 +1351,8 @@
       "notes": "New since Apr 2026: SCOTUS 9-0 (Feb 25) GEO not immune in $1/day forced-labor suit; 16th ICE death of 2026 at Winn (Alejandro Cabrera Clemente, Apr 11); US citizen wrongfully detained ~18h at Basile (May 20); Hutson indicted, Woodfork sworn in May 4 continuing non-cooperation; LA Supreme Court argued Act 314 vs Cacho consent decree Apr 28, no ruling. Updated Winn, Basile, Orleans fight, economy note."
     },
     "MA": {
-      "last_researched": "2026-04-12",
-      "notes": "Plymouth County PCCF 526 beds (only county ICE facility in MA, IGSA through 2029, $215/day, ~$35M/yr), Burlington field office de facto detention (conditions crisis, congressional oversight), Hanscom Field 114+ deportation flights (2x previous year), 7030+ ICE arrests (5x Biden), 614 courthouse arrests (2x 2024), DOC 287(g) since 2007 (2047 transfers), Bristol County reversed (Heroux info firewall Nov 2025, zero transfers since), PROTECT Act passed House Mar 2026, Healey EO 650 bans new 287(g) but defends DOC agreement. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "May 2026: Senate passed stronger PROTECT Act 37-3 (now in conference vs House); DOJ sued MA over ICE confidential license plates (1 of 4 states); Healey statewide sensitive-spaces guidance; Burlington ICE Congressional Accountability Project launched; Hanscom 132 flights/yr w/ Signature Aviation named; Plymouth 87.3% no convictions, Warren/Markey conditions review; Pressley/Clark/McGovern oversight."
     },
     "MD": {
       "last_researched": "2026-05-27",
@@ -1383,8 +1391,8 @@
       "notes": "Nebraska \u2014 329% arrest surge, Cornhusker Clink (McCook 300-bed state-run ICE facility, $2.46M/mo), Glenn Valley Foods raid (80 detained June 2025), 4 active 287(g) agreements (Dakota, Wheeler task force, State Patrol, NDCS), Minnesota transfer hub (Lincoln/Sarpy/Cass), Douglas County IGSA blocked by board, Hall County revived 8-bed IGSA, ACLU litigation ongoing"
     },
     "NH": {
-      "last_researched": "2026-04-12",
-      "notes": "Merrimack warehouse scrapped Feb 2026 but DHS won't rule out NH (Apr 2026). FCI Berlin 204+ ICE detainees (80% non-criminal). Strafford County jail 145 detainees, $9M/yr IGSA, Dems voted 22-11 to renegotiate. 15 287(g) agencies (only New England state), ACLU-NH FOIA lawsuit for training docs. Town meetings in Gorham/Ossipee voted to recommend 287(g) withdrawal. HB 1609 would ban state/local detention funding. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "NH-wide refresh May 2026. NEW: Rockingham (Brentwood, 150 beds) tabled ICE jail deal indefinitely Feb 5-6 on 2-1 vote (R-led, supt Jason Henry resigned, unpaid medical-bill concern); Hillsborough/Valley St delegation killed ICE contingency funding. All ~221 planned new county-jail beds halted. HB511/SB62 mandate 48hr ICE holds w/o contract (eff Jan 1 2026). FCI Berlin: abusive long-distance transfers (RI man, 3am cramped van), 130+ RI habeas cases in 2026. Merrimack site in PFAS zone; DHS still wont rule out NH. Strafford IGSA (~145 detainees, $9M/yr) still in force. Created nh-county-jail-ice-bed-expansion-rejected; updated Berlin, Merrimack, Strafford, 287g note."
     },
     "NJ": {
       "last_researched": "2026-05-28",
@@ -1411,8 +1419,8 @@
       "notes": "287(g) expanded to 28+ agencies (from 3 pre-2025); Gov. Stitt signed state-level agreements Feb 18/25 2025; DHS Sept 2025 reimbursement + bonuses (~$175M/yr potential). ICE detention at Diamondback/Watonga, Cimarron/Cushing, Kay County/Newkirk + county jails. OKC warehouse blocked, Choctaw Nation purchase."
     },
     "OR": {
-      "last_researched": "2026-04-12",
-      "notes": "Sanctuary since 1987 but 1,100 arrests. Operation Black Rose, Palantir ELITE. Lane County sheriff backdoor. Newport fight. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "Sanctuary since 1987; Operation Black Rose ran Sept 27 2025-Mar 1 2026 (100+ agents, 1100+ arrests) disclosed Apr 15-17. NEW: Rural Organizing Project sued OSP May 5-6 over LEDS database (~1.4M ICE queries/yr) \u2014 created note. Albany mom released via habeas May 7-8; detainees testified in Eugene May 17. Kotek signed 9 protection bills. Lane sheriff Wilkerson ran unopposed May 19. Newport/Coos paused not dead."
     },
     "PA": {
       "last_researched": "2026-05-28",
@@ -1423,8 +1431,8 @@
       "notes": "SLED Immigration Enforcement Unit doubled to 82 agents (+261% ops 2025); H.4764 stalled in Senate Judiciary, died at May 14 session end (not in sine die); Red Oak Mobile Park (West Columbia/Lexington) street raid Apr 22; 53 sponsors refused accountability Qs."
     },
     "SD": {
-      "last_researched": "2026-04-13",
-      "notes": "Operation Prairie Thunder (Jul 2025-ongoing), 5 state 287(g) agreements, National Guard ICE paperwork support, Minnehaha+Pennington county jails as primary/secondary holding, Drumgoon Dairy audit (38 fired), Madison workplace raids, courthouse arrest/mistrial, 295 ICE arrests Jan-Oct 2025"
+      "last_researched": "2026-05-28",
+      "notes": "May 2026 expansion: Rhoden tripled 287(g) Highway Patrol troopers 17->41 ($165k DHS reimbursement); 664 deportations via 7 Natl Guard processors through May 15; 75 in ICE custody via Operation Prairie Thunder (patrols in Mitchell/Watertown); DOC paroled 24 inmates to ICE, 14 more eligible. Updated note + both facilities + Oglala news-check."
     },
     "TN": {
       "last_researched": "2026-05-28",
@@ -1455,8 +1463,8 @@
       "notes": "Buildout: state overview note, Dodge Detention Facility (only WI ICE site, county-run not GEO, no 287g), Milwaukee courthouse arrests/Dugan, Waukesha 287g dual-model, Dane sanctuary fight. 19/72 counties in 287g; Voces de la Frontera detainer case at WI Supreme Court."
     },
     "WY": {
-      "last_researched": "2026-04-13",
-      "notes": "WY full research: 5 county 287(g)s (Campbell, Carbon, Laramie, Natrona, Sweetwater), WHP statewide 287(g), county jails as Aurora overflow (Natrona 44 detainees $95/day, Laramie 257 detainees $120/day, Sweetwater 30 beds $3M projected, Uinta 25 beds $120/day), failed CoreCivic 1000-bed Evanston facility (2017-2020), Nov 2025 trucker operation (40 deportations), ICE ERO office in Casper + planned Gillette/Rock Springs offices, anti-sanctuary legislation passed, ICE watch hotline launched Jackson Mar 2026"
+      "last_researched": "2026-05-28",
+      "notes": "287(g) expanded to 7 counties + 4 towns + WHP (new: Crook Jan 2026, Lincoln Nov 2025, towns Wheatland/Shoshoni/Pine Bluffs/Moorcroft Apr 2026). ACLU sued Laramie County Sheriff May 27 2026 over unauthorized 287(g)s. Laramie topped nation 53 arrests Apr 17-23 (300 since Oct). Sweetwater $120/day ($1M+ FY), Uinta $66->$120 USMS only (no 287g). Teton 540-petition rejected, 74% holds driving-related."
     }
   }
 }

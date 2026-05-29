@@ -18,8 +18,8 @@ tags:
 - sheriff-cooperation
 - operation-black-rose
 research_status: working
-last_researched: "2026-04-13"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Lane County OR — Sheriff's ICE Backdoor and Jail Lobby Detentions
@@ -84,6 +84,15 @@ Lane County demonstrates that sanctuary law is only as strong as local enforceme
 - [Innovation Law Lab: Organizations Call for Lane County Sheriff to Stop](https://innovationlawlab.org/rights-architecture/organizations-call-for-lane-county-sheriff-to-stop/)
 - [OPB: Eugene Police Auditor Plans to Investigate Immigration Enforcement Cooperation (Nov 6, 2025)](https://www.opb.org/article/2025/11/06/eugene-police-auditor-immigration-enforcement/)
 
+## Updates (2026-05-28)
+
+**Sheriff election (May 19, 2026).** Carl Wilkerson ran **unopposed** in the May 19 primary (the county charter requires the sheriff's race on the ballot even with a single filer). Ahead of the vote he reiterated: "I am unable by law to interfere with or assist in immigration enforcement matters... unless there has been judicial review." If confirmed by voters, his full four-year term begins in 2027 — the first electoral validation of the post-backdoor compliance posture.
+
+**Statewide data-sharing suit adds context.** The May 5-6, 2026 Rural Organizing Project lawsuit against Oregon State Police (LEDS database, ~1.4M ICE queries/year) reframes the Lane County jail backdoor as one node in a larger statewide data conduit. See [oregon-state-police-leds-ice-data-lawsuit](../notes/oregon-state-police-leds-ice-data-lawsuit.md).
+
+**Detainees still routed to Tacoma.** Lane County / Eugene remains the venue for habeas litigation: on May 17, 2026 detainees testified in Eugene federal court about conditions at the Northwest ICE Processing Center, where Oregon arrestees are held.
+
 ## Cross-References
 
 - See also: [oregon-sanctuary-vs-enforcement](../notes/oregon-sanctuary-vs-enforcement.md) — statewide sanctuary framework and Operation Black Rose context
+- See also: [oregon-state-police-leds-ice-data-lawsuit](../notes/oregon-state-police-leds-ice-data-lawsuit.md) — statewide LEDS data-sharing lawsuit (May 2026)

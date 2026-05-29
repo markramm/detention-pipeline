@@ -13,8 +13,10 @@ tags:
 - force-multiplier
 - mountain-west
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
+
+> **Update (May 2026):** The 287(g) footprint has grown well beyond the original five sheriffs. As of May 2026 it comprises **seven counties** (Campbell, Carbon, Crook, Laramie, Lincoln, Natrona, Sweetwater), **four towns** (Wheatland, Shoshoni, Pine Bluffs, Moorcroft — all Task Force Model, signed April 2026), **plus the Wyoming Highway Patrol** (~12 troopers certified). Crook County's agreement took effect Jan 7, 2026 (Task Force + Jail Enforcement + WSO); Lincoln County's WSO took effect Nov 2025. Uinta County **declined** 287(g) and holds detainees only via a U.S. Marshals Service agreement. The expanded coverage map is below.
 
 # Wyoming Highway Patrol 287(g): Statewide Immigration Enforcement
 
@@ -41,14 +43,20 @@ The **November 2025 trucker operation** demonstrated how this works in practice:
 
 | Agency | Model | County/Scope |
 |--------|-------|-------------|
-| Wyoming Highway Patrol | Task Force | Statewide |
-| Laramie County Sheriff | 287(g) | FIPS 56021 (Cheyenne) |
-| Natrona County Sheriff | Warrant Service | FIPS 56025 (Casper) |
-| Sweetwater County Sheriff | Task Force | FIPS 56037 (Rock Springs) |
+| Wyoming Highway Patrol | Task Force (~12 troopers) | Statewide |
+| Laramie County Sheriff | Jail Enforcement (May 2025) + Task Force & Warrant Service (June 2025); 27 officers | FIPS 56021 (Cheyenne) |
+| Natrona County Sheriff | Task Force (May 2025) | FIPS 56025 (Casper) |
+| Sweetwater County Sheriff | Warrant Service (2020) + Task Force (2025) | FIPS 56037 (Rock Springs) |
 | Campbell County Sheriff | Warrant Service | FIPS 56005 (Gillette) |
-| Carbon County Sheriff | Under review | FIPS 56007 (Rawlins) |
+| Carbon County Sheriff | Warrant Service (effective June 2025) | FIPS 56007 (Rawlins) |
+| Crook County Sheriff | Task Force + Jail Enforcement + WSO (Jan 7, 2026) | FIPS 56011 (Sundance) |
+| Lincoln County Sheriff | Warrant Service (Nov 2025) | FIPS 56023 (Kemmerer) |
+| Town of Wheatland | Task Force (April 2026) | Platte Co (56031) |
+| Town of Shoshoni | Task Force (April 2026) | Fremont Co (56013) |
+| Town of Pine Bluffs | Task Force (April 2026) | Laramie Co (56021) |
+| Town of Moorcroft | Task Force (April 2026) | Crook Co (56011) |
 
-**Note**: Carbon County's 287(g) was still under review by the County Attorney's Office as of August 2025. Sheriff Alex Bakken estimated finalization in "at least another month."
+**Note**: Carbon County's 287(g) (under County Attorney review as of August 2025) was finalized effective June 2025. **Uinta County declined** to sign any 287(g) and holds ICE detainees only through a U.S. Marshals Service agreement.
 
 ## ACLU Critique
 
@@ -61,3 +69,4 @@ ACLU of Wyoming Director Antonio Serrano criticized the agreements as being sign
 - [KGAB: Wyoming's agreement with ICE — what it means for local communities (2025)](https://kgab.com/wyoming-immigration-enforcement-agreement/)
 - [ACLU of Wyoming: What are 287(g) agreements and how do they fuel mass deportations](https://www.aclu-wy.org/news/what-are-287g-agreements-and-how-do-they-fuel-trumps-mass-deportations/)
 - [KSUT: Mountain West law-enforcement agreements with ICE rose fivefold in 2025 (Dec 12, 2025)](https://www.ksut.org/news/2025-12-12/mountain-west-law-enforcement-agreements-with-ice-rose-fivefold-in-2025)
+- [WyoFile: Here's how Wyoming communities cooperate with ICE (May 2026)](https://wyofile.com/heres-how-wyoming-communities-cooperate-with-ice/)

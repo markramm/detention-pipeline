@@ -13,12 +13,33 @@ tags:
 - workforce-enforcement
 - south-dakota
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # South Dakota: ICE Detention and Enforcement Overview (2025-2026)
 
-South Dakota has become a laboratory for state-federal immigration enforcement integration. Under Governor Larry Rhoden, the state launched "Operation Prairie Thunder" in July 2025, combining highway patrol saturation patrols, five 287(g) agreements, and National Guard administrative support for ICE. By October 2025, ICE had made 295 administrative arrests statewide; state troopers had "handed over" 71 people to ICE. The operation expanded into 2026 with patrols in Brookings, Hot Springs, Huron, and Yankton.
+South Dakota has become a laboratory for state-federal immigration enforcement integration. Under Governor Larry Rhoden, the state launched "Operation Prairie Thunder" in July 2025, combining highway patrol saturation patrols, five 287(g) agreements, and National Guard administrative support for ICE. By October 2025, ICE had made 295 administrative arrests statewide; state troopers had "handed over" 71 people to ICE. The operation expanded into 2026 with patrols in Brookings, Hot Springs, Huron, Yankton, Mitchell, and Watertown.
+
+## May 2026 Expansion — Trooper Training Tripled, 664 Deportations Claimed (NEW)
+
+On **May 18-19, 2026**, the Rhoden administration announced a major expansion of the state's ICE partnership, reframing it as a fiscal and public-safety win during a gubernatorial campaign stop:
+
+- **287(g) Highway Patrol troopers expanding from 17 to 41.** The program began with 5 trained troopers (July 2025), grew to 17, and now targets 41 — nearly tripling Task Force Model participation.
+- **$165,000 federal reimbursement** from DHS for the expanded trooper training.
+- **664 immigrants deported** with National Guard processing assistance (through May 15, 2026); 7 Guardsmen now assigned (up from 6 in 2025).
+- **75 people taken into ICE custody** via Operation Prairie Thunder patrols; troopers interviewed/contacted 97-99 people for ICE since patrols began. Most recent patrols ran April 30 - May 1 in Mitchell.
+- **150 arrests** attributed to the broader partnership over the past year.
+- **SD Department of Corrections:** 24 inmates paroled directly to ICE custody for deportation; 14 additional inmates eligible for future transfer. State claims average savings of $34,000/year per deported inmate.
+- **Crime stats cited as justification (2025):** murders down 18%, meth offenses down 15%, burglaries down 21%. Drug charges: 1,100+ across 483 individuals; 42 DUI arrests; 2,300+ traffic citations.
+
+Public Safety Secretary **Bob Perry** announced the trooper expansion. Gov. Rhoden dismissed earlier community concern as "misinformation," claiming opposition had "died down." The **SD Hispanic Chamber of Commerce** (President/CEO **Selene Zamorano**) reported continued community anxiety — decreased restaurant patronage and church attendance — but noted the Sioux Falls Latino Festival, cancelled in 2025, would return in 2026. The ACLU continued to warn of racial-profiling risk.
+
+Sources:
+- [SD Searchlight: State cooperation helps ICE deport hundreds, SD governor says while planning more trooper training (May 18, 2026)](https://southdakotasearchlight.com/2026/05/18/state-cooperation-helps-ice-deport-hundreds-sd-governor-says-while-planning-more-trooper-training/)
+- [KOTA: Rhoden administration expands ICE partnerships; 287(g) troopers to reach 41 (May 19, 2026)](https://www.kotatv.com/2026/05/19/rhoden-administration-expands-ice-partnerships-reports-arrests-deportation-efforts/)
+- [SDPB: Operation Prairie Thunder expanding, though some fears in communities persist (May 19, 2026)](https://www.sdpb.org/politics/2026-05-19/operation-prairie-thunder-expanding-though-some-fears-in-communities-persist)
+- [Dakota News Now: Mixed reviews on expanded ICE training in South Dakota (May 19, 2026)](https://www.dakotanewsnow.com/2026/05/19/mixed-reviews-expanded-ice-training-south-dakota/)
 
 ## Operation Prairie Thunder
 

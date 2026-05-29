@@ -21,7 +21,8 @@ tags:
 - south-dakota
 - fort-snelling-ero
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Minnehaha County Jail — Primary ICE Holding in South Dakota
@@ -43,7 +44,8 @@ Sheriff Milstead has stated that ICE makes immigration arrests, not local law en
 
 - Since early June 2025, approximately 20 people lodged on immigration charges at any given time
 - Receives the majority of detainer requests statewide (July-October 2025 data)
-- 3 National Guard members assigned to process ICE paperwork in Sioux Falls (August 2025)
+- 3 National Guard members assigned to process ICE paperwork in Sioux Falls (August 2025); statewide Guard processing rose to 7 members by May 2026
+- As of May 2026, 75 people had been taken into ICE custody via Operation Prairie Thunder statewide, with Sioux Falls/Minnehaha serving as the primary processing point for eastern SD; Guard processors statewide assisted in 664 deportations through May 15, 2026
 
 ## Courthouse Arrest Controversy (June 2025)
 
@@ -63,3 +65,5 @@ Minnehaha County Jail serves as the intake/processing point in SD's detention pi
 - [Dakota News Now: Fears about area ICE detainments addressed by Minnehaha County Sheriff](https://www.dakotanewsnow.com/2025/02/01/fears-about-area-ice-detainments-addressed-by-minnehaha-county-sheriff/)
 - [KELO: ICE arrest at Minnehaha County Courthouse](https://www.keloland.com/news/local-news/ice-arrest-at-minnehaha-county-courthouse/)
 - [Pennington County Jail | ICE facility page](https://www.ice.gov/detain/detention-facilities/pennington-county-jail)
+- [SD Searchlight: State cooperation helps ICE deport hundreds (May 18, 2026)](https://southdakotasearchlight.com/2026/05/18/state-cooperation-helps-ice-deport-hundreds-sd-governor-says-while-planning-more-trooper-training/)
+- [KOTA: Rhoden administration expands ICE partnerships; 287(g) troopers to reach 41 (May 19, 2026)](https://www.kotatv.com/2026/05/19/rhoden-administration-expands-ice-partnerships-reports-arrests-deportation-efforts/)

@@ -14,14 +14,14 @@ status: operational
 importance: 7
 tags: [county-jail, igsa, ice-contract, non-criminal-detainees, budget-dependency, contract-fight, new-hampshire]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Strafford County House of Corrections — NH's Only Local ICE Detention Facility
 
 ## Overview
 
-The Strafford County House of Corrections in Dover is **New Hampshire's only local facility detaining immigrants** for ICE. The county jail holds ICE detainees under a three-year Intergovernmental Service Agreement (IGSA). As of early 2026, the facility has become a political flashpoint as Democrats push to renegotiate the contract to exclude non-criminal civil detainees.
+The Strafford County House of Corrections in Dover is **New Hampshire's only local facility with a standing ICE detention contract** (IGSA). After the Trump administration's plan to add ~221 new county-jail ICE beds via deals in **Rockingham and Hillsborough** counties was halted in early 2026 (see [[nh-county-jail-ice-bed-expansion-rejected]]), Strafford remains NH's lone contracted local ICE jail. As of early 2026, the facility is a political flashpoint as Democrats push to renegotiate the contract to exclude non-criminal civil detainees. Statewide, NH law HB511/SB62 (effective Jan 1, 2026) now also requires county jails to hold ICE detainees up to 48 hours even without a contract.
 
 ## Key Details
 

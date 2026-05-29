@@ -6,7 +6,7 @@ state: NH
 importance: 8
 tags: [287g, law-enforcement-partnerships, new-england-outlier, aclu-foia-lawsuit, town-meeting-opposition, immigration-arrests, new-hampshire]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # New Hampshire 287(g) Explosion
@@ -76,6 +76,12 @@ The 287(g) program includes federal payments to participating agencies:
 - **Carroll PD**: Received **$122,515 from DHS** for vehicles, technology upgrades, and cell security equipment
 - **Carroll PD**: Also claimed $943 for officer time detaining 7 individuals for ICE in Dec 2025
 - This financial structure creates an incentive for small departments to join, especially in resource-constrained rural areas
+
+## Statewide Detention Mandate & County-Jail Bed Fights (2026)
+
+Beyond 287(g), NH enacted **HB 511 and SB 62** (signed May 2025, effective **Jan 1, 2026**) — making NH the **first New England state to pass anti-sanctuary legislation**. The laws require county jails to **hold ICE detainees for up to 48 hours without any contract**, a statewide backstop that operates even where counties refuse IGSAs.
+
+The Trump administration's NH plan also sought ~**221 new county-jail ICE detention beds** via IGSAs with **Hillsborough, Rockingham, and Merrimack** counties (on top of Strafford's contract and the FCI Berlin federal expansion). By spring 2026 all three of those new bed plans had been **halted** by local opposition — including a Republican-led tabling in Rockingham. See [[nh-county-jail-ice-bed-expansion-rejected]].
 
 ## The Governor's Role
 

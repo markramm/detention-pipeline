@@ -22,10 +22,12 @@ tags:
 - corecivic-failed-proposal
 - revenue-driven
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Uinta County Jail — Evanston ICE Holding Facility
+
+> **Update (May 2026):** WyoFile's May 2026 statewide accounting confirms Uinta County has **no 287(g) agreement** — the sheriff declined — and holds ICE/federal detainees only via a **U.S. Marshals Service agreement** (~31 federal detainees at a time). The per diem was **renegotiated up from $66 to $120/inmate** in fall 2025. From **June 1 through Aug 27, 2025 the county housed 439 inmates for ICE and billed the federal government just under $96,000** for those holds. (The earlier "$120/day since May 2025" figure reflects the post-renegotiation rate; the initial 2025 rate was $66.)
 
 ## Overview
 
@@ -65,3 +67,5 @@ The failed mega-facility proposal makes the current county-jail arrangement nota
 - [Uinta County Herald: With room full of opposition, commissioners affirm support (2019)](https://www.uintacountyherald.com/stories/with-room-full-of-opposition-commissioners-affirm-support-for-immigration-detention-center,11576)
 - [WY News: CoreCivic pulls out of proposed ICE facility (Apr 2020)](https://www.wyomingnews.com/laramieboomerang/news/corecivic-pulls-out-of-proposed-ice-facility/article_46a604cc-8188-5e66-97e7-2049d6aaf477.html)
 - [Casper Star-Tribune: Prison company backs out of Evanston immigration detention facility plan (2020)](https://trib.com/news/state-regional/prison-company-backs-out-of-evanston-immigration-detention-facility-plan/article_38015e23-ed35-5d6e-8590-e0d3e7d1f7a3.html)
+- [WyoFile: Here's how Wyoming communities cooperate with ICE (May 2026)](https://wyofile.com/heres-how-wyoming-communities-cooperate-with-ice/)
+- [WyomingNews: Uinta County sheriff decides to raise deputy pay by holding ICE detainees](https://www.wyomingnews.com/news/local_news/uinta-county-sheriff-decides-to-raise-deputy-pay-by-holding-ice-detainees/article_0fef5ee0-c7a6-4575-abdf-1fbb970314ec.html)

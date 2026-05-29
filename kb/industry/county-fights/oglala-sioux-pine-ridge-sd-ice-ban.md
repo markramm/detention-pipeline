@@ -19,8 +19,8 @@ tags:
 - 287g-refusal
 - indigenous-rights
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Pine Ridge SD: Oglala Sioux Tribe Banishes ICE and Border Patrol

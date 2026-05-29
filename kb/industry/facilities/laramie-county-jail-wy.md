@@ -20,10 +20,12 @@ tags:
 - trucker-operation
 - cheyenne
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Laramie County Jail — Wyoming's Primary 287(g) Hub
+
+> **Update (May 2026):** Laramie County **topped the entire nation** in immigration arrests for the week of April 17-23, 2026 — **53 arrests**, ahead of the Florida Highway Patrol (31) and Oklahoma DPS (27). 46 coincided with Sheriff Kozak's publicized "Truck Around Find Out / Operation Spring Break" traffic op (announced in an April 25 Facebook post); ICE processed 40 at a federal facility and 6 were booked at the Laramie County Detention Center. The office has now made **300 total immigration arrests since October 2025** and reports **27 certified officers**. On **May 27, 2026, the ACLU of Wyoming sued Sheriff Brian Kozak** (plaintiffs: Juntos, the Unitarian Universalist Church of Cheyenne, Drew's Barbershop) alleging the three 287(g) agreements are void because he bypassed the county commission/clerk and the Wyoming Administrative Procedures Act. See county-fight `laramie-county-wy-aclu-287g-lawsuit`.
 
 ## Overview
 
@@ -62,3 +64,6 @@ The ACLU of Wyoming noted that while the program was sold as targeting "the wors
 - [Oil City News: Laramie County deputies making more immigration arrests (Nov 26, 2025)](https://oilcity.news/general/2025/11/26/laramie-county-sheriffs-deputies-making-more-immigration-arrests-around-wyomings-largest-city/)
 - [Cowboy State Daily: ICE to deport 40 truckers (Nov 24, 2025)](https://cowboystatedaily.com/2025/11/24/ice-to-deport-40-truckers-after-wyoming-sheriff-trooper-operation/)
 - [WyoFile: Most ICE arrests in WY/CO no criminal history (Jul 2025)](https://wyofile.com/most-people-arrested-by-ice-in-wyoming-and-colorado-this-year-did-not-have-criminal-history/)
+- [WyoFile: Laramie County Sheriff's Office topped nation in immigration arrests during April operation (May 13, 2026)](https://wyofile.com/laramie-county-sheriffs-office-topped-nation-in-immigration-arrests-during-april-operation/)
+- [Cowboy State Daily: Church, barbershop and ACLU suing Laramie County Sheriff over ICE agreements (May 27, 2026)](https://cowboystatedaily.com/2026/05/27/church-barbershop-and-aclu-suing-laramie-county-sheriff-over-ice-agreements/)
+- [WyoFile: Here's how Wyoming communities cooperate with ICE (May 2026)](https://wyofile.com/heres-how-wyoming-communities-cooperate-with-ice/)

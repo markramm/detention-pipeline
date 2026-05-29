@@ -19,7 +19,7 @@ tags:
 - bipartisan-opposition
 - dhs-not-ruled-out
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Merrimack, New Hampshire: The Documents That Revealed the Plan

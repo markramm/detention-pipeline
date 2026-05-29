@@ -13,6 +13,7 @@ tags:
 - newport
 - structural-analysis
 research_status: working
+last_researched: "2026-05-28"
 ---
 
 # Oregon: How Sanctuary Works — and Doesn't
@@ -68,8 +69,23 @@ Southern Oregon (Coos, Douglas, Jackson, Josephine, Klamath counties) presents a
 - **Roseburg office expansion** — March 2026 RFI for 300+ ICE employees in Douglas County
 - **ICE property backdoor** — Medford field office housed in Jackson County-owned building through private sublease
 
+## Updates (2026-05-28)
+
+**Operation Black Rose — full scope disclosed (April 15-17, 2026).** Newly released records confirmed the operation ran **September 27, 2025 - March 1, 2026** (not a discrete fall sweep), involved **100+ federal officers**, and drew on DEA, CBP, and ATF in addition to ICE. It launched the same day Trump announced he would federalize Oregon National Guard members for Portland. Arrests near Portland spiked ~600% (Multnomah/Washington/Marion); Law Lab found October arrests rose 1,500% over the prior month and 7,900% year-over-year.
+
+**Oregon State Police data-sharing lawsuit (May 5-6, 2026).** Rural Organizing Project sued OSP in Multnomah County Circuit Court alleging the LEDS database let immigration authorities query state-run data ~1.4 million times last year — a statewide backdoor far larger than county-level Flock sharing. See dedicated entry: [oregon-state-police-leds-ice-data-lawsuit](oregon-state-police-leds-ice-data-lawsuit.md).
+
+**Habeas as the practical release mechanism.** Because Oregon has no overnight detention, detainees are bused to the Northwest ICE Processing Center in Tacoma, WA — and habeas petitions filed in Oregon are the main lever to get them back. Albany mother **Maria Trinidad Loya Medina** (arrested Jan 10, 2026) was released **May 7-8, 2026** after a magistrate granted her second habeas petition. On May 17, 2026, detainees testified in Eugene federal court about conditions. Federal courts have repeatedly found Tacoma conditions "punitive."
+
+**Nine immigrant-protection bills, 2026 short session.** Kotek signed the package (reported as 8 on April 9, updated to 9): school/college and hospital response-policy mandates (Health Care Without Fear Act), SB 1594 (Office of Immigration and Refugee Advancement statewide policy), a private right to sue federal agents for warrantless property entry under the Oregon Constitution, a bar on using immigration status as civil-court evidence, data-broker and landlord information-sharing restrictions, and stricter ID requirements plus a ban on masked law enforcement.
+
+**Lane County sheriff election (May 19, 2026).** Carl Wilkerson ran unopposed in the primary; he reaffirmed he cannot by law assist immigration enforcement absent judicial review. If confirmed by voters, his full four-year term begins 2027 — the first electoral test of the post-backdoor posture.
+
+**Newport / Coos still "paused, not dead."** ICE's filings continue to say it has "no plan or intention" to build at Newport or in Lincoln County, and Acting Director Lyons (late March 2026) said feds are "not currently" planning new Oregon facilities. Newport officials say the fight isn't over without a permanent guarantee; the Coos County KVG proposal remains explicitly on the back burner.
+
 ## Cross-References
 
+- See also: [oregon-state-police-leds-ice-data-lawsuit](oregon-state-police-leds-ice-data-lawsuit.md) — statewide LEDS database backdoor lawsuit (May 2026)
 - See also: [lane-county-or-ice-jail-backdoor](../county-fights/lane-county-or-ice-jail-backdoor.md) — detailed Lane County county-fight entry with jail backdoor pattern, new sheriff appointment, and November 2025 raids
 - See also: [jackson-county-or-cannabis-raid-ice-pretext](../county-fights/jackson-county-or-cannabis-raid-ice-pretext.md) — Jackson County cannabis raid pretext and surveillance infrastructure
 - See also: [coos-county-or-ice-detention-proposal](../county-fights/coos-county-or-ice-detention-proposal.md) — Coos County ICE detention center proposal and Commissioner Taylor

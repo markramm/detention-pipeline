@@ -14,7 +14,7 @@ status: paused-dhs-review
 importance: 8
 tags: [warehouse-conversion, detention-reengineering, regional-processing-center, new-hampshire, community-opposition, swing-state, dhs-not-ruled-out]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Merrimack NH Warehouse — ICE Regional Processing Center
@@ -30,7 +30,8 @@ ICE planned to purchase and convert a **324,000 square-foot warehouse on a 43-ac
 - **Planned capacity**: 400-600 beds (processing center; 3-7 day stays)
 - **Facility type**: Regional processing center (one of 16 in Reengineering Initiative)
 - **Status**: **Scrapped by Sec. Noem in Feb 2026 — but DHS has NOT ruled out NH**
-- **Part of**: $38 billion nationwide "new detention model" for mass deportation infrastructure
+- **Part of**: $38 billion nationwide "new detention model" for mass deportation infrastructure — the program ([[national-detention-buildout-strategy-2026]]) was first revealed publicly via Gov. Ayotte's Feb 13, 2026 release of the internal "Detention Reengineering Initiative" documents
+- **PFAS contamination**: NHPR reported (Feb 20, 2026) that the proposed warehouse site sits within a PFAS contamination zone affecting drinking water — an additional liability that surfaced during the fight
 
 ## Community Opposition
 
@@ -57,6 +58,7 @@ Despite the Merrimack scrapping, the threat is **not over**:
 - **March 18, 2026**: DHS Secretary nominee Mullin won't rule out NH facility at confirmation hearing
 - **March 25, 2026**: ICE Director Lyons refuses to rule out NH in written response
 - **April 10, 2026**: InDepthNH reports DHS still won't rule out ICE facility in NH
+- **As of May 2026**: No new NH site (Merrimack or the Hudson warehouse Rep. Thomas is monitoring) has been confirmed; DHS has not publicly revived a NH processing-center plan. Companion county-jail bed deals in Rockingham and Hillsborough were also halted — see [[nh-county-jail-ice-bed-expansion-rejected]].
 
 ## Sources
 
@@ -69,3 +71,5 @@ Despite the Merrimack scrapping, the threat is **not over**:
 - [Trump's DHS Nominee Won't Rule Out NH Facility — InDepthNH (Mar 20, 2026)](https://indepthnh.org/2026/03/20/trumps-dhs-nominee-wont-rule-out-a-new-hampshire-ice-facility/)
 - [Feds reveal details on 324K sq ft facility — Boston 25 News](https://www.boston25news.com/news/local/feds-reveal-new-details-proposed-324000-square-foot-ice-detention-facility-new-hampshire/JQHDGZP4TBGFXLULCECD5WLS5Q/)
 - [Detention Reengineering Initiative document — NH Governor's Office (PDF)](https://www.governor.nh.gov/sites/g/files/ehbemt971/files/inline-documents/merrimack-detention-reengineering-initiative.pdf)
+- [Full scope of ICE's 'new detention model' outlined in records released by Gov. Ayotte — Boston Globe (Feb 13, 2026)](https://www.bostonglobe.com/2026/02/13/metro/full-scope-ices-new-detention-model-outlined-records-released-by-nh-governor-ayotte/)
+- [Proposed location for ICE facility in Merrimack sits within PFAS contamination zone — NHPR (Feb 20, 2026)](https://www.nhpr.org/nh-news/2026-02-20/ice-facility-merrimack-detention-center-nh-newhampshire-pfas-contamination-drinking-water)

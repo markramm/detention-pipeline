@@ -14,7 +14,7 @@ status: operational
 importance: 8
 tags: [massachusetts, middlesex-county, processing-center, conditions-crisis, de-facto-detention, congressional-oversight, burlington]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 ## Overview
@@ -41,9 +41,12 @@ Sources: [WBUR — 'Abysmal' conditions at Burlington](https://www.wbur.org/news
 - **June 2025**: Initial lawyer reports of conditions emerge
 - **December 2025**: Sen. Ed Markey visited, witnessed conditions firsthand; Rep. Seth Moulton returned for follow-up visit, found sleeping mats still absent since June
 - **January 2026**: Markey again demanded answers from ICE
+- **February 2026**: House Minority Whip **Katherine Clark was denied entry** to the Burlington facility — an example of ICE blocking congressional oversight that helped spur litigation and the later accountability campaign
+- **March 12, 2026**: Rep. **Ayanna Pressley** conducted an oversight visit, got answers from ICE, and demanded protections for detained community members and their families
 - **April 8, 2026**: Rep. Jim McGovern made unannounced 90-minute visit under authority of *Neguse v. ICE* (March 2, 2026) ruling blocking 7-day notice requirement. Spoke with "Orlando," an asylum-seeking construction worker from Honduras separated from his family. Told ICE officials: **"This is a jail cell."**
+- **May 28, 2026**: A statewide coalition launched the **Burlington ICE Congressional Accountability Project** — a coordinated campaign urging members of Congress to conduct *persistent, unannounced* oversight visits and publicly report findings. Organized by the **Indivisible Mass Coalition Immigration Justice Action Team (IJAT)** with **Bearing Witness New England, Justice4All, Jewish Activists for Immigration Justice (JAIJ)** of Western MA, and others. The coalition released a **Congressional Oversight of Burlington ICE Toolkit** to help constituents organize legislator meetings and push for ongoing inspections "difficult for ICE to evade." Demonstrations outside the facility have been ongoing since January 2025.
 
-Sources: [Markey press release](https://www.markey.senate.gov/news/press-releases/markey-again-demands-answers-about-abysmal-conditions-of-ice-field-office-in-burlington-ma); [VisaVerge — McGovern visit](https://www.visaverge.com/news/massachusetts-congressman-jim-mcgovern-makes-unannounced-visit-to-burlington-ice-center/)
+Sources: [Markey press release](https://www.markey.senate.gov/news/press-releases/markey-again-demands-answers-about-abysmal-conditions-of-ice-field-office-in-burlington-ma); [Rep. Pressley — oversight visit (Mar 12, 2026)](https://pressley.house.gov/2026/03/12/pressley-conducts-oversight-visit-at-burlington-ice-facility-gets-answers-demands-protections-for-detained-community-members-and-families/); [Rep. Katherine Clark — statement on being denied entry](https://katherineclark.house.gov/2026/2/whip-clark-statement-on-being-denied-entry-to-burlington-ice-facility); [Amherst Indy — new campaign demanding oversight (May 28, 2026)](https://www.amherstindy.org/2026/05/28/new-campaign-demanding-congressional-oversight-of-burlington-ice-facility/)
 
 ## Pipeline Role
 

@@ -10,7 +10,7 @@ outcome: "Gorham and Ossipee passed non-binding warrant articles recommending po
 importance: 6
 tags: [287g-opposition, town-meeting-democracy, non-binding-vote, community-opposition, new-hampshire, new-england]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # New Hampshire Towns — Town Meeting Votes Against 287(g)

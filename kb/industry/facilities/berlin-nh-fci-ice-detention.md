@@ -14,7 +14,7 @@ status: operational
 importance: 7
 tags: [repurposed-prison, federal-prison, bop-ice-interagency, non-criminal-detainees, isolated-facility, new-hampshire, north-country]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # FCI Berlin NH — Federal Prison Repurposed for ICE Detention
@@ -47,14 +47,24 @@ The ICE detainee population in New Hampshire doubled between mid-2025 and late 2
 
 Combined with Strafford County's 143 detainees, NH held **347 ICE detainees** as of Dec 11, 2025.
 
+## Transfer Pipeline & Conditions (2026 reporting)
+
+Berlin's remoteness — 119 miles north of Concord, 187 miles north of Boston — makes it a destination for long-distance ICE transfers out of southern New England, far from detainees' families and counsel.
+
+- **"D," a Guatemalan man** who lived in Providence, RI for 20 years, was moved from the Wyatt Detention Center (Central Falls, RI) to FCI Berlin in **November 2025**, ~10 days after detention. He reported being woken around **3 a.m. with no notice**, transported in a **cramped van** with handcuffs "tight enough to draw blood, leaving scars," and winter air coming through the back door.
+- Attorneys filed **130+ habeas corpus cases in the U.S. District Court for Rhode Island in 2026** (vs. just 5 in all of 2024), reflecting the surge in out-of-state ICE transfers including to Berlin.
+- National context: by end of Nov 2025, ICE was using 104 additional detention facilities (a 91% increase) with a five-fold rise in transfers exceeding 1,000 miles.
+
 ## Timeline
 
 - **February 2025**: DHS and BOP sign contract for five federal prisons to hold ICE detainees; Berlin included
 - **February 24-25, 2025**: Reports emerge that Berlin prison will house 500+ ICE detainees; community pushback begins
 - **February 25, 2025**: ACLU-NH begins investigating reports of ICE detainee housing at Berlin
 - **April 22, 2025**: BOP confirms Berlin is one of five prisons being used by ICE
-- **November 2025**: Population reaches 198; Boston Globe reports NH detainee numbers have doubled
+- **November 2025**: Population reaches 198; Boston Globe reports NH detainee numbers have doubled; RI man "D" transferred to Berlin in a cramped 3 a.m. van run
 - **December 11, 2025**: 204 ICE detainees confirmed at Berlin
+- **2026 (year-to-date)**: 130+ habeas petitions filed in RI federal court over transfers, including to Berlin
+- **April 29, 2026**: NHPR/Ocean State Media detail abusive long-distance transfer conditions into Berlin
 
 ## Sources
 
@@ -64,3 +74,4 @@ Combined with Strafford County's 143 detainees, NH held **347 ICE detainees** as
 - [Number of ICE detainees housed in NH has doubled — Boston Globe (Dec 1, 2025)](https://www.bostonglobe.com/2025/12/01/metro/nh-ice-immigration-detainees-doubled/)
 - [ACLU of NH investigating reports — WBUR (Feb 25, 2025)](https://www.wbur.org/news/2025/02/25/berlin-new-hampshire-prison-ice-detention-reports)
 - [FCI Berlin — ICE Detention Facility page](https://www.ice.gov/detain/detention-facilities/federal-correctional-institution-berlin-nh)
+- [He built a life in Rhode Island. ICE moved him out of state overnight — NHPR / Ocean State Media (Apr 29, 2026)](https://www.nhpr.org/2026-04-29/he-built-a-life-in-rhode-island-ice-moved-him-out-of-state-overnight)

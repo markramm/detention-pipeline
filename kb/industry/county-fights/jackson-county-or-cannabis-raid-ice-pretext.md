@@ -24,8 +24,8 @@ tags:
 - flock-alpr
 - surveillance
 research_status: working
-last_researched: "2026-04-13"
-last_news_check: 2026-04-29
+last_researched: "2026-05-28"
+last_news_check: 2026-05-28
 ---
 
 # Jackson County OR — Cannabis Raids as ICE Pretext and Surveillance Infrastructure
@@ -129,6 +129,10 @@ No Jackson County-specific legal or enforcement developments found since April 1
 **Related statewide development**: On April 23, 2026, Oregon farmworkers union PCUN, the Oregon Nurses Association, Hillsboro Educators Association, and church leaders filed suit in Oregon to restore pre-Trump protections barring ICE from hospitals, schools, and places of worship. This case (statewide, not Jackson County-specific) is relevant context for the broader Oregon sanctuary enforcement environment.
 
 - [KPTV: Oregon farmworkers union, nurses, educators sue to bar ICE from hospitals, schools, churches (Apr 23, 2026)](https://www.kptv.com/2026/04/23/oregon-farmworkers-union-nurses-educators-sue-bar-ice-hospitals-schools-churches/) — Statewide Oregon sensitive-location lawsuit filed April 23; ruling expected shortly
+
+## Updates (2026-05-28)
+
+No new Jackson County-specific enforcement or HempNova-case developments surfaced this cycle. The most relevant new development is statewide and directly tied to the surveillance pattern documented here: on **May 5-6, 2026** the Rural Organizing Project sued Oregon State Police (Multnomah County Circuit Court) alleging the LEDS database let immigration authorities query state-run data ~**1.4 million times last year**. This is the state-level analog to the Medford/Jackson County Flock plate lookups for ICE/HSI documented in this entry — the same data-sharing pattern operating through OSP's statewide system. See [oregon-state-police-leds-ice-data-lawsuit](../notes/oregon-state-police-leds-ice-data-lawsuit.md).
 
 ## Cross-References
 

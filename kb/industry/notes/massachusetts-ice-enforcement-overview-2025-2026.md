@@ -6,8 +6,19 @@ state: MA
 importance: 9
 tags: [massachusetts, overview, enforcement-surge, sanctuary, pipeline-map, courthouse-arrests, 287g, deportation-flights]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
+
+## May 2026 Updates
+
+- **Senate passed a stronger PROTECT Act 37-3 (May 7)** — bars warrantless ICE arrests at all "sensitive locations" (courthouses, hospitals, places of worship, schools), creates civil liability for federal agents, bars new local 287(g) agreements, blocks out-of-state National Guard deployment, lets parents pre-arrange child guardianship. Now in House-Senate conference vs. the narrower House bill (courthouses only, passed 134-21 Mar 25).
+- **DOJ sued MA (May 28)** for refusing to issue confidential/undercover license plates to ICE and CBP — one of four states sued (with ME, WA, OR). MA says civil immigration work does not qualify for plates reserved for criminal law enforcement.
+- **Healey issued statewide sensitive-spaces guidance (May 28)** for schools, childcare, higher ed, healthcare, and houses of worship — point-of-contact designation, judicial-warrant demands, documentation of ICE interactions (required by EO 650).
+- **Burlington ICE Congressional Accountability Project launched (May 28)** — Indivisible Mass IJAT + Bearing Witness New England, Justice4All, JAIJ coalition; released an oversight toolkit to drive persistent unannounced congressional visits.
+- **Hanscom: 132 ICE flights in Trump's first year** (13 in Jan 2026); Healey named **Signature Aviation** and demanded it cut ties with ICE.
+- **Plymouth: 87.3% of detainees have no criminal convictions**; Sens. Warren & Markey requested an immediate conditions review.
+- **Congressional oversight escalated**: Whip Katherine Clark denied entry to Burlington (Feb); Rep. Ayanna Pressley conducted oversight visit (Mar 12); Rep. McGovern unannounced visit (Apr 8).
+- **May 2025 was the 2nd-highest courthouse-arrest month statewide (71 arrests)**, behind only December.
 
 ## Massachusetts Enforcement Pipeline Map
 

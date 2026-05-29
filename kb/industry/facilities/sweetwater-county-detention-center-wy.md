@@ -22,10 +22,12 @@ tags:
 - regional-hub
 - ice-protest
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Sweetwater County Detention Center — I-80 Corridor ICE Hub
+
+> **Update (May 2026):** Sheriff John Grossnickle presented financials showing the ICE contracts will generate **well over $1 million for the county this fiscal year** — already $167,500 in stipends (transport, equipment, IT) plus ~$370,600 in inmate-housing revenue since October. The detention per diem was **renegotiated from $61.57 to $120/day** for adults in 2025. The county runs both a Warrant Service Officer model (2-3 deputies, since 2020) and a Task Force Model (added 2025), and remains one of the few WY facilities certified to hold federal detainees beyond 72 hours.
 
 ## Overview
 
@@ -61,3 +63,4 @@ ICE has indicated it wants to build an enforcement office in **Rock Springs**, w
 - [WyoFile: Protest at Rock Springs hotel prompts police response](https://wyofile.com/ice-protest-at-rock-springs-hotel-prompts-police-response/)
 - [Gilette News Record: Sweetwater County to sign deal to make Rock Springs jail ICE holding facility](https://www.gillettenewsrecord.com/news/wyoming/article_ecb503c0-381a-4082-8908-e86787a8fbb4.html)
 - [WY News: Sweetwater County to take Teton County immigration detainees](https://www.wyomingnews.com/laramieboomerang/laramieboomerang/news/sweetwater-county-to-take-teton-county-immigration-detainees/article_2562459e-b97f-4de0-8a1a-9d258173ccb6.html)
+- [WyoFile: Here's how Wyoming communities cooperate with ICE (May 2026)](https://wyofile.com/heres-how-wyoming-communities-cooperate-with-ice/)

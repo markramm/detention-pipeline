@@ -11,7 +11,7 @@ outcome: "County convention voted 22-11 to demand renegotiation restricting jail
 importance: 7
 tags: [igsa-fight, contract-renegotiation, non-criminal-detainees, budget-dependency, property-tax-pressure, democratic-opposition, new-hampshire]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Strafford County NH — Democrats Push to Restrict ICE Jail Contract

@@ -14,7 +14,7 @@ status: operational
 importance: 9
 tags: [massachusetts, plymouth-county, igsa, blue-state-detention, sole-facility, 287g-transfers, hanscom-flights, conditions-complaints]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 ## Overview
@@ -34,11 +34,12 @@ Source: [Plymouth County extends ICE contract — GBH](https://www.wgbh.org/news
 
 ## Threat Level Data
 
-- **~85% of detainees classified "no ICE threat"** (no criminal convictions)
-- Only 8% classified Level 1 (highest threat)
+- **87.3% of detainees at PCCF have no criminal convictions** (updated FY2025 figure; previously cited as ~85%)
+- Only ~8% classified Level 1 (highest threat)
 - Pattern accelerated under Biden, continued under Trump — contradicts rhetoric about targeting dangerous criminals
+- Context: ICE custody nationwide neared **60,000** people by mid-2025, up ~50% under Trump's second term
 
-Source: [WBUR — Vast majority classified 'no threat'](https://www.wbur.org/news/2025/07/30/ice-detainees-plymouth-massachusetts-trump-deportation)
+Source: [WBUR — Vast majority classified 'no threat'](https://www.wbur.org/news/2025/07/30/ice-detainees-plymouth-massachusetts-trump-deportation); [The Scope — ICE Beds by Threat Level FY2025](https://thescopeboston.org/interactives/ice-beds/index.html)
 
 ## Conditions Concerns
 
@@ -50,8 +51,10 @@ Prisoners' Legal Services of MA has tracked conditions. Complaints include:
 - Improper strip searches
 - Language access failures
 - Civil rights complaint filed with MA Attorney General's office
+- **Extreme cold** repeatedly cited — the facility does not provide sweatshirts free; detainees must buy them from commissary; allegations of "essentially raw and rotten food," inadequate heating, inaccessible facilities for disabled people, and religious/LGBTQ discrimination (early 2026 advocate accounts)
+- **Sens. Warren and Markey requested an immediate review** of detainee conditions at PCCF, escalating federal scrutiny
 
-Source: [Plymouth jail complaints — WBUR](https://www.wbur.org/news/2024/09/16/massachusetts-plymouth-correctional-facility-immigrants-mistreatment)
+Source: [Plymouth jail complaints — WBUR](https://www.wbur.org/news/2024/09/16/massachusetts-plymouth-correctional-facility-immigrants-mistreatment); [Sen. Markey & Warren — request immediate review of PCCF conditions](https://www.markey.senate.gov/news/press-releases/senators-markey-and-warren-request-immediate-review-of-detainee-conditions-at-plymouth-county-correctional-facility); [World Peace Foundation — New Year, Same Plymouth Detention Center](https://worldpeacefoundation.org/blog/new-year-same-plymouth-detention-center/)
 
 ## Pipeline Role
 
