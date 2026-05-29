@@ -22,7 +22,7 @@ tags:
 - institute-for-justice-lawsuit
 - alabama
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Baldwin County Jail — ICE Enforcement Epicenter

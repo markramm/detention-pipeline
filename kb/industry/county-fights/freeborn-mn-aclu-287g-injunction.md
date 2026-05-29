@@ -18,8 +18,8 @@ tags:
 - minnesota
 - resistance-legal
 research_status: working
-last_researched: "2026-04-13"
-last_news_check: 2026-04-29
+last_researched: "2026-05-28"
+last_news_check: 2026-05-28
 ---
 
 # Freeborn County, Minnesota: ACLU 287(g) Injunction
@@ -61,3 +61,9 @@ Post-injunction procedural developments:
 - **Legislative context**: Minnesota lawmakers introduced competing legislation on 287(g) — one bill to expand county participation and one to ban county ICE contracts (HF 3060/SF 2973). Status unclear as of this check.
 
 - [KAALTV/ABC 6: Minnesota lawmakers offer competing legislation on 287(g) Program](https://www.kaaltv.com/news/minnesota-lawmakers-offer-competing-legislation-on-expanding-work-with-the-ice-287g-program/) — Both pro-expansion and ban bills introduced in MN legislature
+
+## Updates (2026-05-28)
+
+- **No new substantive ruling** in the Freeborn taxpayer suit found as of late May 2026. The January 16 preliminary injunction blocking 287(g) enforcement appears to remain in effect; the case sits in procedural posture (removal petition, judicial recusals).
+- **Statewide 287(g) ban bill (HF 3060 / SF 2973) did not become law** during the 2026 session — searches of Gov. Walz's 2026 bill-signing record turn up no enacted 287(g) restriction. The legal-prong (Freeborn template) and executive-prong (AG Ellison's Dec 2025 opinion that sheriffs cannot enter 287(g) agreements without county-board approval) remain the active levers; the legislative ban stalled.
+- Minnesota still has **eight 287(g) counties** (Freeborn, Crow Wing, Cass, Itasca, Jackson, Kandiyohi, Mille Lacs, Sherburne). Freeborn remains the bellwether for whether the taxpayer-standing theory can unwind them.

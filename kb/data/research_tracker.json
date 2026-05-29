@@ -1,12 +1,12 @@
 {
   "counties": {
     "01003": {
-      "last_researched": "2026-04-12",
-      "notes": "Baldwin AL \u2014 $64M jail expansion, 7 287(g) (Task Force Model), ICE raid epicenter (15+ warrantless construction raids), Garcia Venegas v. ICE class-action (IJ), ~50 detained at school sites, civil rights records requests Nov 2025"
+      "last_researched": "2026-05-28",
+      "notes": "Baldwin construction-raid litigation advanced: standing ruling May 20, PI hearing May 27, 2026; plaintiff detained 3rd time May 2."
     },
     "01055": {
-      "last_researched": "2026-04-12",
-      "notes": "Etowah AL \u2014 865-bed zombie prison reopened Feb 2025, notorious conditions history (no outdoor rec, medical neglect, longest stays), ICE closed 2022 for deficiencies, Sheriff Horton reopened under Trump/Homan pressure"
+      "last_researched": "2026-05-28",
+      "notes": "Etowah (Gadsden) 865-bed zombie prison reopened Feb 2025; no net-new developments this pass."
     },
     "01097": {
       "last_researched": "2026-04-12",
@@ -369,20 +369,20 @@
       "notes": "Fulton KY \u2014 No specific ICE detention findings, heatmap signals (287g: 3, budget-distress: 1)"
     },
     "21085": {
-      "last_researched": "2026-04-13",
-      "notes": "Grayson KY \u2014 158 ICE detainees, 536 beds/759 inmates (42% overcrowded), 287(g) since 2015, refused contract disclosure"
+      "last_researched": "2026-05-28",
+      "notes": "Grayson KY \u2014 124% of capacity end-Apr 2026 (563 federal in 536-bed jail, 150 ICE); 1,800+ detainees cumulatively; 287g since 2015; Jailer Woosley declined comment"
     },
     "21117": {
       "last_researched": "2026-04-13",
       "notes": "Kenton KY \u2014 113 ICE detainees, $88/day, 287(g) active, habeas corpus epicenter (40 cases E.D.Ky.), sustained resident protests Dec 2025-Feb 2026"
     },
     "21125": {
-      "last_researched": "2026-04-13",
-      "notes": "Laurel KY \u2014 1 ICE detainee, 72-hour hold + transport, expanded jail for federal custody"
+      "last_researched": "2026-05-28",
+      "notes": "Laurel KY (London) \u2014 booking node for southeastern KY: ~13 Harlan DEA-raid detainees booked here then transferred to Kenton and out-of-state (Clay Co IN); 72hr-hold role understates pipeline importance"
     },
     "21185": {
-      "last_researched": "2026-04-13",
-      "notes": "Oldham KY \u2014 128 ICE detainees, shifted 72hr to full-time, AG ruled Open Records Act violation, $73/day rate, $23M facility debt incentive"
+      "last_researched": "2026-05-28",
+      "notes": "Oldham KY \u2014 invoiced ICE ~$3.7M since Oct 2022, ~1,800 detainees held over period; $73/day; AG 26-ORD-150 open-records win; Jailer Tindall, Judge-Exec Voegele"
     },
     "22003": {
       "last_researched": "2026-04-12",
@@ -557,12 +557,12 @@
       "notes": "Crow Wing MN -- Dual 287(g) TFM+WSO signed Mar 2025 by Sheriff Klang without board approval, IGSA since Nov 2025, 30-50 ICE detainees, $102/day, 286 beds, AG opinion says illegal, community demanding board discussion"
     },
     "27047": {
-      "last_researched": "2026-04-13",
-      "notes": "Freeborn MN -- ACLU won preliminary injunction Jan 16 2026 blocking 287(g) WSO, first successful legal challenge in MN, 138-bed jail, IGSA active, budget-distressed county"
+      "last_researched": "2026-05-28",
+      "notes": "Freeborn: Jan 16 287(g) preliminary injunction still in effect, no new substantive ruling; case in procedural posture (removal/recusal). Statewide ban bill HF3060/SF2973 not enacted."
     },
     "27053": {
-      "last_researched": "2026-04-13",
-      "notes": "Hennepin MN -- Sheriff Witt refused ICE agreements, does not honor detainers, courthouse arrest Feb 10 2026, Metro Surge epicenter, federal hold facility in Bloomington (avg daily pop 36)"
+      "last_researched": "2026-05-28",
+      "notes": "Hennepin: ICE Agent Christian Castro charged May 18, 2026 (4x 2nd-degree assault + false reporting) over Jan 14 shooting of Julio Sosa-Celis. First county prosecution of a federal agent during the surge. T&A Project at 30 cases."
     },
     "27067": {
       "last_researched": "2026-04-13",
@@ -1025,12 +1025,12 @@
       "notes": "Philadelphia: Parker signed 6/7 ICE Out bills May 7; mask ban law unsigned; effective July."
     },
     "45019": {
-      "last_researched": "2026-04-13",
-      "notes": "Charleston SC \u2014 881 arrests in 9 months (30% of all SC), 287g WSO Mar 2025, Operation Last Stand 80 arrests Jun 2025, North Charleston racial profiling Nov 2025, SLED/SCHP coordination"
+      "last_researched": "2026-05-28",
+      "notes": "Charleston: WSO 287g + SLED street ops continue; H.4764 stalled; accountability story on 53 sponsors May 11."
     },
     "45063": {
-      "last_researched": "2026-04-13",
-      "notes": "Lexington SC \u2014 12-bed churning hub, 781 detainees 2025, 287g JEM since 2020, $67.95/day rate, Sheriff Koon, refuses to disclose charges, 2/3 deported had no conviction"
+      "last_researched": "2026-05-28",
+      "notes": "Lexington: Red Oak Mobile Park street raid Apr 22 2026 (SLED TFM), contradicts jail-only framing; May 1 march."
     },
     "45079": {
       "last_researched": "2026-04-13",
@@ -1243,8 +1243,8 @@
       "notes": "Alaska ICE surge: 2->12 officers, 500% arrest increase (70+ in 2025 vs 13 DOC holds in 2024), 99 held by Jan 2026, Anchorage CC used for ICE overflow (42 flown in from Tacoma Jun 2025), conditions crisis, Soldotna family deportation (children detained Feb 2026), NANA/Akima $1.2B ICE contracts, Bering Straits divestment campaign, National Guard deployed to ICE office Dec 2025, no 287(g) agreements, state troopers do NOT cooperate"
     },
     "AL": {
-      "last_researched": "2026-04-12",
-      "notes": "Etowah 865-bed zombie prison reopened Feb 2025, Baldwin $64M expansion + 7 287(g) + construction raids + IJ lawsuit (US citizen detained 2x), Perry County private prison (LCS 738 beds), Pickens transfer holding point, 13+ 287(g) agencies, HB13 Laken Riley Act passed House Mar 2026, ALEA-ICE trucking partnership, arrests doubled 2025, Haitian TPS holder detained Birmingham Mar 2026. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "HB13 Laken Riley Act DIED in 2026 session (sine die Apr 10, no Senate vote); likely return 2027. Garcia Venegas v. Homan: standing granted May 20, preliminary-injunction hearing held May 27 in Mobile with live testimony, ruling pending. Etowah zombie prison + Baldwin $64M expansion + 287(g) explosion (9 active/3 pending) remain operative."
     },
     "AR": {
       "last_researched": "2026-04-13",
@@ -1295,8 +1295,8 @@
       "notes": "Leavenworth CoreCivic 1,033-bed permit approved 4-1 (Mar 2026), Chase County 148-bed sole county jail overcrowded (18/33 days over capacity, conditions crisis), 20+ 287(g) agencies (from 3 in Jan 2025), HB 2372 veto override forces ICE cooperation, Prairie Band Potawatomi exited $30M mega-center design contract, Wyandotte County 2yr moratorium, SW Kansas (Finney/Garden City) enforcement hotspot. Deep."
     },
     "KY": {
-      "last_researched": "2026-04-13",
-      "notes": "Kentucky \u2014 659% detention surge (120 to 1,041 detainees), 9 county jails contracting with ICE, 30 287(g) contracts across 24 agencies, HB47/SB86 mandatory 287g bills, NKY habeas corpus crisis (40 cases), Oldham Co AG open-records ruling, overcrowding at 5 jails, Lexington 1000-person protest Jan 2026"
+      "last_researched": "2026-05-28",
+      "notes": "KY May 2026: Sixth Circuit (May 11) restored bond hearings for long-term residents (binding KY/TN/MI/OH), KY federal judges granting ~75% of habeas petitions; LPM/WKMS May 26 investigation put cumulative ICE detentions at 9,335 (Oct 2022-Mar 2026), ~half transferred from 37 other states, dozen jails now (added Bourbon, Woodford, Hopkins), rates $45-100/day, named jailers; Oldham invoiced ICE ~$3.7M; Grayson 124% capacity end-Apr; Harlan DEA restaurant raid (May 2025) pipeline via Laurel/London to Kenton documented in 2026 longform; HB47/SB86 dead at sine die"
     },
     "LA": {
       "last_researched": "2026-05-28",
@@ -1315,8 +1315,8 @@
       "notes": "MAY 2026 UPDATE: North Lake/Baldwin (GEO, ~1400 of 1800 beds) hunger strike Apr 21 by ~300 men over prolonged detention/medical neglect/conditions; ACLU-MI + MIRC complaint to ICE Detroit Field Office (dir. Kevin Raycraft) May 14-15 documenting denied insulin/BP meds/mammogram, attorney access blocked, calling for congressional independent investigation. Romulus warehouse: DHS filed ~500pg court docs Apr 22-23 detailing fencing/lead-contamination junkyard concern; still PAUSED under Mullin Noem-era review; ACLU/MIRC/Detroit Justice Center joined NEPA suit May 11; virtual PI hearing May 21, no ruling. ~200 marched Apr 25 (Lt Gov Gilchrist). 287(g): West Branch added (Nov 2025 task-force MOA, Ogemaw Co); ~8 MI agencies total, Genesee+Center Line rescinded. Kent Co sanctuary push continues, no policy adopted."
     },
     "MN": {
-      "last_researched": "2026-04-12",
-      "notes": "Metro Surge (2 killed, 50-75K marched), 3 fights blocked, AG 287(g) opinion, ACLU Freeborn injunction. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "Post-surge phase: ~half of 3,700 Metro Surge detainees deported; AG/Hennepin lawsuit updated Apr 21 with $240M lost wages / $610M lost revenue + UCSD survey. NEW: Hennepin Co. charged ICE Agent Castro (May 18) w/ assault \u2014 first state prosecution of federal agent; Transparency project expanded 17->30 cases. Freeborn 287(g) injunction holds; statewide 287(g) ban bill stalled in 2026 session. <500 agents remain (3x pre-surge)."
     },
     "MO": {
       "last_researched": "2026-05-28",
@@ -1379,8 +1379,8 @@
       "notes": "Moshannon Valley (Clearfield, GEO, 1876 beds, largest in NE) contract expires 2026 \u2014 closure fight, April hunger strike, 3 deaths incl Chaofeng Ge suicide (May 27 AP), Lee/Deluzio visit May 28. Phila ICE Out: Parker signed 6/7 May 7, mask ban became law unsigned, effective July. Pittsburgh City Council Bill 286 (Apr 7) + May 6 staging/warrant bills. Berks/Schuylkill warehouses still blocked by DEP, EHB appeal through Nov. 287g constable backdoor paused."
     },
     "SC": {
-      "last_researched": "2026-04-12",
-      "notes": "3\u219237 287(g) in one year, SLED 47 TFM agents, H.4764 forced participation, Lexington churning. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "SLED Immigration Enforcement Unit doubled to 82 agents (+261% ops 2025); H.4764 stalled in Senate Judiciary, died at May 14 session end (not in sine die); Red Oak Mobile Park (West Columbia/Lexington) street raid Apr 22; 53 sponsors refused accountability Qs."
     },
     "SD": {
       "last_researched": "2026-04-13",

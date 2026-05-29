@@ -11,8 +11,8 @@ outcome: "Partial win: AG opinion 26-ORD-150 (Apr 3, 2026) ruled jail violated O
 importance: 7
 tags: [transparency, open-records, ag-ruling, revenue-incentive, 72hr-to-fulltime, kentucky, accountability-darkness, aclu, 287g]
 research_status: working
-last_researched: "2026-04-13"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Oldham County, KY — Transparency Fight Over ICE Detention Profits
@@ -42,6 +42,7 @@ Community activists in Oldham County challenged the detention center's refusal t
 - **Premium**: 83% more for federal prisoners
 - **Projected total revenue**: $8.1 million, more than half from federal prisoners
 - **Facility construction cost**: $23 million
+- **Actual invoiced revenue (LPM/WKMS, May 26, 2026)**: the jail invoiced ICE for about **$3.7 million** since Trump returned to office (Oct. 2022-early March 2026 window), having held roughly **1,800 ICE detainees** over that period. Jailer Jeff Tindall and Judge-Executive **David Voegele** were named in the reporting.
 - **Activist concern**: ICE agreements driven by debt service, not public safety
 
 ## The Policy Shift
@@ -81,3 +82,4 @@ The Oldham case is distinguished by an actual partial breakthrough — the AG or
 - [Forward KY: Saturday rally at Oldham County Detention Center (Apr 25, 2026)](https://www.forwardky.com/saturday-rally-at-oldham-county-detention-center-to-demand-no-student-behind-bars-no-profit-from-human-caging/)
 - [Oldham Era: Protestors rally for student detained by ICE in Oldham jail](https://www.pmg-ky1.com/oldham_era/oldham_era/news/protestors-rally-for-student-detained-by-ice-in-oldham-jail/article_e782a01b-3448-58b9-a645-8cc063b8c7d1.html)
 - [ACLU Kentucky: Bethany Baxter bio](https://www.aclu-ky.org/bios/bethany-baxter/)
+- [LPM: Trump's deportation machine sends thousands of immigrants to Kentucky jails ($3.7M Oldham invoice; May 26, 2026)](https://www.lpm.org/investigate/2026-05-26/trumps-deportation-machine-sends-thousands-of-immigrants-to-kentucky-jails)

@@ -19,7 +19,8 @@ tags:
 - igsa
 - kentucky
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Grayson County Detention Center
@@ -27,6 +28,8 @@ last_researched: "2026-04-13"
 ## Overview
 
 The Grayson County Detention Center in Leitchfield, KY is the most overcrowded ICE-holding facility in Kentucky. With 536 beds and 759 people in custody as of February 2026, it is operating at **42% over capacity** — more than 200 people beyond its rated capacity. 158 of those are ICE detainees.
+
+> **Update (May 26, 2026, LPM/WKMS):** As of end of April 2026, Grayson held **563 federal inmates in its 536-bed jail (150 of them ICE detainees)** and — counting local and state prisoners — was running at **124% of capacity**. Over the Oct. 2022-early March 2026 window the facility housed **1,800+ ICE detainees cumulatively**. Jailer **Jason Woosley** declined to comment.
 
 Grayson County has the longest-standing 287(g) agreement in Kentucky (since 2015) and holds multiple agreement types.
 
@@ -51,3 +54,4 @@ The county also refused to disclose its ICE contracts or monthly billing data, c
 - [Messenger-Inquirer: Report: Over 1,000 ICE detainees held in Kentucky](https://www.messenger-inquirer.com/grayson_county/news/report-over-1-000-ice-detainees-held-in-kentucky/article_68520b7b-69a0-5846-8e8c-f2a3a1563de9.html)
 - [Kentucky Lantern: More than 1,000 people being held by ICE in Kentucky jails](https://kentuckylantern.com/2026/03/16/more-than-1000-people-being-held-by-ice-in-kentucky-jails-analysis-finds/)
 - [Detention Reports: Grayson County Jail](https://detentionreports.com/facility/GRAYSON_COUNTY_JAIL.html)
+- [LPM: Trump's deportation machine sends thousands of immigrants to Kentucky jails (May 26, 2026)](https://www.lpm.org/investigate/2026-05-26/trumps-deportation-machine-sends-thousands-of-immigrants-to-kentucky-jails)

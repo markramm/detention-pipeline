@@ -19,8 +19,8 @@ tags:
 - 287g-wso
 - fourth-amendment
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 fips: '45019'
 ---
 
@@ -45,6 +45,8 @@ On November 3, 2025, a coordinated ICE enforcement operation in North Charleston
 - **April 1-2, 2026**: South Carolina House passes **H.4764** (forced 287(g) collaboration) — initial Apr 1 vote 85-30, third reading Apr 2 vote 84-26. Bill would require every SC law enforcement agency operating a correctional facility to enter a 287(g) collaboration agreement, and require SLED to develop an "illegal immigration enforcement training program." Now pending in the Senate Committee on Judiciary as of early May 2026.
 - **April 14, 2026**: Community tip — ICE operation reported near Cosgrove Bridge in North Charleston. "Masked officers taking multiple Hispanic males into custody." Photos submitted showing law enforcement vehicles. Pattern consistent with prior traffic stop operations. ([GitHub tip #35](https://github.com/markramm/detention-pipeline/issues/35), Carolina Courier via Facebook)
 - **April 29, 2026**: U.S. Sen. Lindsey Graham (R-SC) introduces federal bill to "boost ICE partnerships" — explicitly federalizing the H.4764 mandate model. Indicates the SC effort is functioning as a state-level template the senior senator is now adapting nationally.
+- **May 11, 2026**: ABC News 4 reports it contacted **all 53 H.4764 sponsors/authors** (emails March 30 and April 14, deadline May 5) asking what they'd tell constituents concerned about the program's cost and enforcement focus; **none answered the question** — 40 sent no response at all. A former Charleston County sheriff put the prior 287(g) cost at ~$4M/year, with 75% of those encountered having no criminal history.
+- **May 14, 2026**: SC regular session ends with **H.4764 still stuck in Senate Judiciary and NOT included in the sine die resolution** — so the forced-collaboration mandate did not become law this session. Charleston's WSO program and SLED street-level operations continue regardless, as they are not contingent on the bill.
 
 ## Community Impact
 
@@ -68,3 +70,4 @@ The North Charleston operation is significant because it demonstrates the operat
 - [SC lawmakers advance forced ICE collaboration bill (Charleston City Paper)](https://charlestoncitypaper.com/2026/02/27/s-c-lawmakers-advance-bill-requiring-local-cooperation-with-ice/)
 - [Sen. Graham introduces bill to boost ICE partnerships (Spectrum, Apr 29, 2026)](https://spectrumlocalnews.com/sc/south-carolina/news/2026/04/29/south-carolina-lindsey-graham-ice-)
 - [Statehouse Dispatch April 20, 2026 — ACLU-SC](https://www.aclusc.org/news/statehouse-dispatch-april-20-2026/)
+- [53 SC lawmakers asked about their bill to work with ICE, none answered the question — ABC News 4 (May 11, 2026)](https://abcnews4.com/news/local/53-sc-lawmakers-asked-about-their-bill-to-work-with-ice-none-answered-the-question-immigration-law-enforcement-agreement-287g-senate-south-carolina)

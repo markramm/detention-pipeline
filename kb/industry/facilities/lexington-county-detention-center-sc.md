@@ -20,8 +20,9 @@ tags:
 - bed-pressure
 - sc-enforcement-hub
 - performance-bonuses
+- red-oak-mobile-park
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Lexington County Detention Center — SC's ICE Churning Hub
@@ -53,6 +54,12 @@ The Lexington County Detention Center is the **most active ICE processing point 
 - Overtime up to 25% of salary.
 - $1,000/quarter per officer for "90-100% assistance to ICE's mission."
 
+**Street-Level Enforcement Arrives in Lexington County (April 2026):**
+- Despite Sheriff Koon's framing of Lexington as jail-based-only, **ICE conducted a street-level operation at Red Oak Mobile Park in West Columbia (Lexington County) on April 22, 2026.**
+- Three unmarked vehicles rolled onto the property; residents yelled "ICE" and ran indoors. By April 29 the park was "a ghost town," with "asustado" (scared) the word residents used; children's toys sat abandoned outside.
+- Enabled by SLED's statewide Task Force Model rather than the county JEM program — a sign street-level enforcement is reaching residential Midlands neighborhoods.
+- Activists organized a march from the Statehouse to the ICE Main Street office for **May 1, 2026** in response.
+
 ## Why This Matters
 
 Lexington County's 12-bed churning pattern is a capacity constraint that creates expansion pressure. The jail processes hundreds of ICE detainees annually through a tiny number of beds, meaning either more bed space will be needed in the Midlands or detainees will continue being transferred out of state (primarily to Georgia facilities: Atlanta City Detention Center, Stewart Detention Center, Irwin County, North Georgia). The $67.95/day rate is relatively low compared to other jurisdictions, suggesting room for ICE to offer more to expand capacity.
@@ -65,3 +72,4 @@ The refusal to disclose original arrest charges, combined with the stat that two
 - [How ICE quietly doubled arrests in Lexington and Richland counties since Trump took office — Post & Courier](https://www.postandcourier.com/columbia/news/ice-arrests-midlands-sc-trump/article_28bd0bf7-34e7-41fc-a049-5eb19cdbf629.html)
 - [5 ugly facts about ICE collaboration in South Carolina — ACLU-SC](https://www.aclusc.org/news/5-ugly-facts-about-ice-collaboration-in-south-carolina/)
 - [2022 ICE Detention Inspection Report — Lexington County](https://www.ice.gov/node/61799)
+- [ICE was spotted in a West Columbia trailer park. Now residents say they're scared to open the door — Post & Courier](https://www.postandcourier.com/columbia/news/ice-agents-west-columbia-trailer-park/article_0ae7e769-a4e7-4c22-bf7b-8956c9737122.html)

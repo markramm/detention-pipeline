@@ -13,6 +13,7 @@ tags:
 - ag-lawsuit
 - critical-resource
 research_status: working
+last_researched: "2026-05-28"
 ---
 
 # Operation Metro Surge — Minnesota
@@ -53,3 +54,25 @@ On **January 23, 2026**, an estimated **50,000-75,000 people** marched through *
 - [Human Rights Watch: State violence and community resistance in Minnesota](https://www.hrw.org/news/2026/02/11/state-violence-and-community-resistance-in-minnesota)
 - [Lawfare: Minnesota's 10th Amendment case](https://www.lawfaremedia.org/article/minnesota-s-compelling-10th-amendment-case-against-trump-s-ice-surge)
 - [MN AG lawsuit announcement](https://www.ag.state.mn.us/Office/Communications/2026/01/31_ICE-Surge.asp)
+
+## Updates (2026-05-28)
+
+**Aftermath and quantified harm.** Operation Metro Surge wound down in February 2026, but DHS officials confirmed **fewer than 500 ICE agents remain** in Minnesota — still roughly **3x the pre-surge level**.
+
+**Deportations.** As of early May 2026, about **half of the ~3,700 immigrants detained** during the surge had been deported, leaving behind families that depended on them (MPR News, May 7, 2026).
+
+**April 21, 2026 lawsuit update (AG + Minneapolis + St. Paul).** New data filed in the federal case:
+- **$240M in lost wages** ($189.2M Minneapolis, $54.6M St. Paul)
+- **$610M in lost business revenue** ($444.8M Minneapolis, $165.4M St. Paul); 60-61% of businesses reported negative operational impacts
+- UCSD survey of 1,390 residents (~25% had DHS encounters): 62% of Minneapolis residents with DHS encounters missed medical appointments (vs. 12.8% without); 66.2% avoided urgent care; 70.5% less likely to seek police help in future; 73.1% reported agents did not show warrants; 22.7% reported warrantless home entry.
+- CBS Minnesota separately reported the surge "drained more than $600 million from Minnesota's economy."
+
+**Litigation status.** Judge Katherine Menendez denied Minnesota's request for a preliminary injunction (late Jan 2026), finding plaintiffs had not shown likelihood of success, while accepting the factual showing of fatal shootings, misconduct, and economic/health/education disruption ("difficult to overstate" the impact). The suit proceeds; the amended complaint seeks a declaration that the operation was unlawful.
+
+**Criminal accountability.** See `minnesota-ice-agent-prosecutions-2026` — ICE Agent Christian Castro charged May 18, 2026 with assault; Hennepin County's Transparency and Accountability Project expanded from 17 to 30 cases.
+
+- [MPR News: Minnesota immigrant families struggle after ICE deportations (May 7, 2026)](https://www.mprnews.org/story/2026/05/07/minnesota-immigrant-families-struggle-after-ice-deportations)
+- [MN AG: Metro Surge lawsuit update with new harm data (Apr 21, 2026)](https://www.ag.state.mn.us/Office/Communications/2026/04/21_Metro-Surge.asp)
+- [CBS Minnesota: Surge drained more than $600 million from Minnesota's economy](https://www.cbsnews.com/minnesota/news/operation-metro-surge-minnesota-lawsuit-cost/)
+- [Minnesota Reformer: Fewer than 500 ICE agents left in Minnesota](https://minnesotareformer.com/2026/02/20/fewer-than-500-ice-agents-left-in-minnesota-per-federal-officials/)
+- [MinnPost: How Minnesota's response to Operation Metro Surge changed politics](https://www.minnpost.com/national/washington/2026/05/minnesotas-response-to-operation-metro-surge-changed-politics/)

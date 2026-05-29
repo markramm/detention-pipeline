@@ -12,7 +12,7 @@ tags:
 - legal-access
 - operation-metro-surge
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Minnesota ICE Transfer Pipeline
@@ -27,7 +27,7 @@ Minnesota has limited ICE detention capacity relative to the scale of Metro Surg
 1. **Arrest** in Twin Cities or greater Minnesota
 2. **Short-term hold** at Crow Wing (Brainerd), Freeborn (Albert Lea), Kandiyohi (Willmar), or Sherburne (Elk River) county jails
 3. **Transfer** to Nebraska or Iowa for longer-term detention
-4. Some detainees also transferred to Tacoma, WA or other distant facilities
+4. Some detainees also transferred to Tacoma, WA; **New Mexico** (dozens of Minneapolis detainees shipped to a NM detention facility, reported Jan 22, 2026); or other distant facilities
 
 Four Minnesota county jails actively house ICE detainees: Crow Wing, Freeborn, Kandiyohi, and Sherburne.
 
@@ -45,3 +45,10 @@ The Minnesota Habeas Project has been providing critical legal representation, b
 - [CBS Minnesota: Where are federal agents taking people they detain in Minnesota?](https://www.cbsnews.com/minnesota/news/where-federal-agents-take-people-detained-in-minnesota/)
 - [Sahan Journal: ICE enforcement prompts relocation of detainees outside Minnesota](https://sahanjournal.com/immigration/ice-enforcement-prompts-relocation-of-detainees-outside-of-minnesota-worrying-attorneys-about-access-rights/)
 - [NIPNLG: Minnesota Habeas Project provides critical legal representation](https://nipnlg.org/news/press-releases/thousands-detained-and-expansion-ices-mandatory-detention-authority-minnesota)
+- [Source New Mexico: Dozens of Minneapolis ICE detainees shipped to NM detention facility (Jan 22, 2026)](https://sourcenm.com/2026/01/22/im-stuck-here-dozens-of-minneapolis-ice-detainees-shipped-to-nm-detention-facility/)
+
+## Update (2026-05-28)
+
+By early May 2026, **roughly half of the ~3,700 people detained during Metro Surge had been deported** (MPR News). The out-of-state transfer pipeline (NE, IA, NM, WA) functioned as the staging mechanism for removals far from Minnesota attorneys and the Minnesota Habeas Project, compounding the access-to-counsel problem documented earlier.
+
+- [MPR News: Minnesota immigrant families struggle after ICE deportations (May 7, 2026)](https://www.mprnews.org/story/2026/05/07/minnesota-immigrant-families-struggle-after-ice-deportations)

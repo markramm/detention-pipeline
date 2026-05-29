@@ -11,8 +11,8 @@ outcome: "Ongoing: residents attending fiscal court since Dec 2025; Fiscal Court
 importance: 7
 tags: [fiscal-court-fight, resident-protests, ice-agreement, northern-kentucky, kentucky, 287g, habeas-corpus, transparency-cooperative]
 research_status: working
-last_researched: "2026-04-13"
-last_news_check: "2026-05-06"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Kenton County, KY — Fight Over ICE Detention Agreement
@@ -39,6 +39,8 @@ Kenton sits in a distinctive position within Kentucky's broader 287(g) expansion
 - **March 18, 2026**: Beam v. Kenton County Detention Center habeas petition filed (E.D. Ky. 2:2026cv00119)
 - **April 15, 2026**: HB47 (mandatory 287(g)) dies in committee at sine die — voluntary participation continues
 - **April 28, 2026**: Kenton County Fiscal Court meeting (per archived agenda); no termination action recorded in available news through May 6, 2026
+- **May 11, 2026**: Sixth Circuit rules 2-1 that long-term residents are entitled to bond hearings (binding KY) — directly relieving the indefinite-detention pattern that drove the 40+ Northern KY habeas filings; KY Eastern District judges began citing it immediately. See `kentucky-sixth-circuit-bond-hearing-ruling-2026`
+- **Note on intake**: Kenton is the Northern KY destination for transfers from across the state — e.g., detainees from the May 29, 2025 DEA raid on Harlan-area restaurants were booked at Laurel County (London) and then moved to Kenton (see `laurel-county-ky-harlan-dea-raid-pipeline`)
 - **Lexington Herald-Leader investigation (early 2026)**: Kenton, Boone, and Campbell counties disclosed monthly ICE billing under open records requests; Oldham, Grayson, Daviess, Hopkins refused
 
 ## Key Arguments

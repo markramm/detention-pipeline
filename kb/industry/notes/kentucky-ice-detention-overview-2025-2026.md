@@ -16,10 +16,13 @@ tags:
 - gop-mandatory-cooperation
 - kentucky
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 ---
 
 # Kentucky: ICE Detention and Enforcement Overview (2025-2026)
+
+> **Update (May 28, 2026):** A major LPM/WKMS data investigation (May 26, 2026) put the **cumulative** ICE detainee count at **9,335 people held in Kentucky jails between Oct. 2022 and early March 2026** — over 60% of them under Trump (since Jan. 2025). Nearly **half were transferred in from other states (37 states represented)**; at least 28% were first-time ICE-custody street arrests. **Under Trump fewer than 50% had prior convictions (vs. over 60% under Biden); only 5% were released on bond (vs. 15% under Biden); ~70% were ultimately deported.** Jail roster expanded from 4 jails under Biden (Boone, Grayson, Fayette, Oldham) to **a dozen** under Trump, adding **Bourbon, Campbell, Christian, Daviess, Hopkins, Kenton, Laurel, and Woodford** counties. Separately, on **May 11, 2026** the **Sixth Circuit (2-1)** ruled the administration violated due process by denying bond hearings to long-term residents — see `kentucky-sixth-circuit-bond-hearing-ruling-2026`. And the May 29, **2025** DEA raid on Harlan restaurants (booked through Laurel/London) was documented in 2026 longform — see `laurel-county-ky-harlan-dea-raid-pipeline`.
 
 Kentucky has experienced one of the most dramatic expansions of ICE detention in the country. From a single jail (Boone County) holding ~120 detainees in January 2025, the system grew to **11 county jails** holding **1,041 average daily population** by early 2026 — a **659% increase**. The state now has **24 law enforcement agencies** with 287(g) agreements, and GOP legislation is advancing to mandate all police agencies cooperate with ICE statewide. An estimated **~3,500 ICE arrests** have been made since inauguration from the Louisville and Bowling Green sub-offices alone.
 
@@ -60,7 +63,20 @@ Coordinated multi-agency operation in Western Kentucky resulting in 81 administr
 | Kenton County | 21117 | 113 | — | $88/day, resident protests ongoing |
 | Fayette County | 21067 | 42 | — | Low volume, avg <12 in any 2-week interval |
 | Daviess County | 21059 | 27 | overcrowded | Contracted Nov 2025 |
-| Laurel County | 21125 | 1 | expanded for federal | 72-hour hold + transport |
+| Laurel County | 21125 | 1 | expanded for federal | 72-hour hold + transport (Harlan-raid booking node) |
+| Hopkins County | 21107 | 167 | overcrowded | Certified for indefinite holds Apr 22, 2025; $45/day (lowest) |
+| Bourbon County | 21017 | — | — | Added under Trump (per LPM May 26, 2026) |
+| Woodford County | 21239 | — | — | Added under Trump (per LPM May 26, 2026) |
+
+### Per-Day Rates and Named Jailers (LPM/WKMS, May 26, 2026)
+
+The federal government pays up to **$100/day** per ICE detainee plus transport and hospital-guard reimbursement.
+
+- **Boone County** — **$100/day** (highest; ICE since 2005); maintains 200-250 empty beds daily; federal fees ~50% of the jail's $12M annual budget. Jailer: **Jason Maydak**
+- **Hopkins County** — **$45/day** (lowest). Jailer: **Mike Lewis**
+- **Oldham County** — invoiced ICE ~**$3.7M** since Oct 2022; held ~1,800 detainees over the period. Jailer: **Jeff Tindall**; Judge-Executive **David Voegele**
+- **Grayson County** — housed 1,800+ detainees over the period; Jailer **Jason Woosley** declined comment
+- Other paying jails (up to $88/day): Campbell, Christian, Daviess, Kenton
 
 ## The 287(g) Explosion
 
@@ -132,6 +148,7 @@ Since September 2025, bond hearings for ICE detainees have been effectively elim
 - Nearly all cases still pending
 - Creates a system of indefinite detention with no release mechanism
 - Case: *Beam v. Kenton County Detention Center* (2:2026cv00119, E.D. Ky.)
+- **May 11, 2026 — Sixth Circuit reversal**: The Sixth Circuit ruled 2-1 that the administration violated due process by denying bond hearings to long-term residents not arrested at the border (binding KY/TN/MI/OH). KY Eastern and Western District judges began citing it immediately; the Western District had already granted ~75% of habeas petitions. A 36-year resident and mother of four was released on a $1,500 bond May 26, 2026. Full detail: `kentucky-sixth-circuit-bond-hearing-ruling-2026`.
 
 ## Resistance and Protests
 
@@ -197,3 +214,8 @@ The LWVKY produced the most comprehensive analysis of Kentucky's ICE detention e
 - [WDRB: Oldham County residents question jail's new policy](https://www.wdrb.com/news/oldham-county-residents-question-jails-new-policy-to-indefinitely-hold-illegal-immigrants/article_7ff5b586-6714-4327-b34d-248b207b3070.html)
 - [Fox56: Oldham County jail must disclose how much it's paid](https://fox56news.com/news/kentucky/kentucky-jail-must-disclose-how-much-its-paid-to-hold-immigration-detainees/)
 - [ICE MOA: Lyon County Sheriff's Office 287(g)](https://www.ice.gov/doclib/287gMOA/LyonCoSheriffsOfficeKY_TFM_MOA_05082025.pdf)
+- [LPM: Trump's deportation machine sends thousands of immigrants to Kentucky jails (May 26, 2026)](https://www.lpm.org/investigate/2026-05-26/trumps-deportation-machine-sends-thousands-of-immigrants-to-kentucky-jails)
+- [WKMS: Trump's deportation machine sends thousands of immigrants to Kentucky jails (May 26, 2026)](https://www.wkms.org/government-politics/2026-05-26/trumps-deportation-machine-sends-thousands-of-immigrants-to-kentucky-jails)
+- [Kentucky Lantern: ICE detentions should not be a profit center for Kentucky's jails (May 26, 2026)](https://kentuckylantern.com/2026/05/26/ice-detentions-should-not-be-a-profit-center-for-kentuckys-jails/)
+- [WKMS: Kentucky immigration attorneys hopeful in wake of federal court ruling (May 18, 2026)](https://www.wkms.org/government-politics/2026-05-18/kentucky-immigration-attorneys-hopeful-in-wake-of-federal-court-ruling)
+- [Truthdig: ICE in Harlan County (2026)](https://www.truthdig.com/articles/ice-in-harlan-county/)

@@ -11,7 +11,7 @@ tags:
 - performance-bonuses
 - structural-analysis
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # South Carolina: The Fastest 287(g) Expansion
@@ -22,7 +22,9 @@ South Carolina went from **3 to 37** 287(g) agencies between February 2025 and F
 
 ## SLED Task Force Model
 
-The South Carolina Law Enforcement Division signed a Task Force Model agreement in March 2025, authorizing **47 agents** with street-level immigration enforcement power. A 2024 state law required SLED to join when the program became available. SLED was among the first statewide agencies nationally to adopt TFM.
+The South Carolina Law Enforcement Division signed a Task Force Model agreement in March 2025, authorizing street-level immigration enforcement power. A 2024 state law required SLED to join when the program became available. SLED was among the first statewide agencies nationally to adopt TFM.
+
+**May 2026 update (Post & Courier data analysis):** SLED now has **82 agents** with federal immigration enforcement authority — nearly double the 47 reported in mid-2025, and over 12% of its 700+ workforce, with 5 more in training as of February 2026. SLED's Immigration Enforcement Unit assisted in **1,015 immigration operations in 2025 (+261% vs. 2023)** and made 145 arrests since 2023, concentrated in **Abbeville, Greenwood, and Newberry counties**. See [sled-immigration-enforcement-unit-sc](sled-immigration-enforcement-unit-sc.md).
 
 ## H.4764 — Forced Participation
 
@@ -45,9 +47,11 @@ Starting October 1, 2025, DHS reimburses 287(g) agencies:
 
 ICE arrested **3,000+ people** in SC in 2025, more than doubling the prior year total.
 
-## H.4764 Update (April 2026)
+## H.4764 Update (April–May 2026)
 
-The SC House passed H.4764 on April 2, 2026, voting 85-30. The bill now moves to the Senate. Despite unanimous public opposition at the first hearing (Feb 17), and the ACLU's "Deputized for Disaster" report documenting racial profiling and civil rights violations, the bill advanced on party lines.
+The SC House passed H.4764 on April 2, 2026, voting 85-30, and it was sent to the Senate (introduced there April 7, 2026), where it landed in the Senate Committee on Judiciary. Despite unanimous public opposition at the first hearing (Feb 17), and the ACLU's "Deputized for Disaster" report documenting racial profiling and civil rights violations, the bill advanced on party lines.
+
+**Session-end status (May 2026):** The regular 2026 session ended **May 14, 2026** with H.4764 still in Senate Judiciary and **not included in the sine die resolution** that would have allowed post-recess consideration — meaning the bill did not become law this session and faces uncertain prospects. Separately, ABC News 4 reporter Simon Williams contacted **all 53 H.4764 sponsors/authors** (emails March 30 and April 14, deadline May 5) asking what they'd tell constituents worried about the program's cost and enforcement; **none answered the question** — 40 gave no response at all (story published May 11, 2026).
 
 ## Related County-Level Entries
 

@@ -14,7 +14,7 @@ tags:
 - tps-enforcement
 - alabama
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-05-28"
 ---
 
 # Alabama: ICE Detention and Enforcement Overview (2025-2026)
@@ -49,19 +49,18 @@ Before 2025, Alabama had a handful of 287(g) agreements. As of 2025-2026, at lea
 | Pickens County Jail | Pickens | 01107 | County jail/IGSA | Unknown | Transfer point |
 | Montgomery City Jail | Montgomery | 01101 | IGSA (<72hr) | Unknown | Short-term holding |
 
-## State Legislation: HB13 / Alabama "Laken Riley Act"
+## State Legislation: HB13 / Alabama "Laken Riley Act" — DIED in 2026 session
 
 - **Sponsor**: Rep. Ernie Yarbrough (R-Trinity)
 - **House passed**: March 18, 2026
-- **Status**: Moved to Senate (as of late March 2026)
-- **Effective date if signed**: June 1, 2026
-- **Key provisions**:
-  - Allows local law enforcement to sign MOUs with DHS to enforce immigration law
-  - Officers can arrest individuals suspected of being undocumented with probable cause
-  - Mandates specific protocols for county/municipal jails for immigration holds
-  - Allows transport of suspected undocumented individuals to federal facilities
-- **Opposition**: ACLU of Alabama, immigrant advocacy groups
-- A similar bill passed the House in April 2025 but did not become law
+- **STATUS (update May 2026): FAILED.** HB13 was on the Senate's agenda but **never received a Senate floor vote** before the 2026 regular session adjourned **sine die on April 10, 2026**. It died with several other bills amid Senate tensions over an unrelated closed-primary bill on the final legislative day. Senate Pro Tem Garlan Gudger said the bill will "likely return next year." It will NOT take effect June 1, 2026 as the earlier draft of this note projected.
+- **What it would have done**:
+  - Allowed local law enforcement to sign MOUs with DHS to enforce immigration law
+  - Officers could arrest individuals suspected of being undocumented with probable cause
+  - Mandated specific protocols for county/municipal jails for immigration holds
+  - Allowed transport of suspected undocumented individuals to federal facilities
+- **Opposition**: ACLU of Alabama, immigrant advocacy groups (ACLU of Alabama listed its defeat as a win in its 2026 session summary)
+- **Pattern**: A similar bill passed the House in April 2025 but also died; HB13 is the second consecutive year the measure cleared the House and died in the Senate. Expect a third attempt in 2027. Note that statutory authority is largely redundant in practice — Alabama sheriffs are already signing 287(g) agreements directly with ICE without it.
 
 ## ALEA-ICE Partnership (Motor Carrier Safety)
 
@@ -100,7 +99,7 @@ The Alabama Coalition for Immigrant Justice and Birmingham organizations set up 
 - **Baldwin County**: Indivisible chapter organized vigils at Fairhope Unitarian Fellowship
 
 ### Legal Challenges
-- **Garcia Venegas v. ICE** (S.D. Alabama) — Institute for Justice class-action on construction raids
+- **Garcia Venegas v. Homan** (S.D. Alabama, 1:25-cv-00397) — Institute for Justice class-action on construction raids. **Update May 2026**: Chief Judge Jeffrey Beaverstock (a Trump appointee) ruled May 20, 2026 that Venegas has standing to sue, rejecting DHS's motion to dismiss and calling an HSI supervisor's declaration "not compelling." A **preliminary-injunction hearing was held May 27, 2026** in Mobile, with live testimony from Venegas and from Philip Lavoie, Acting ASAC of the Mobile DHS/HSI office. Judge gave no timeline for ruling. Plaintiff seeks to bar warrantless entry of private worksites, bar detention without particularized suspicion, and require immediate release of anyone showing a REAL ID. (See county-fight entry `baldwin-county-al-construction-raids`.)
 - **Public records requests** (Nov 2025) — ACIJ, HICA, CCR targeting Baldwin and Pickens sheriff's offices and Leeds Police
 
 ## Key Organizations
@@ -125,3 +124,9 @@ The Alabama Coalition for Immigrant Justice and Birmingham organizations set up 
 - [Anti-ICE resistance in red states (Truthout, 2025)](https://truthout.org/articles/anti-ice-resistance-sprang-up-across-red-states-in-2025/)
 - [Mapping ICE's expanding footprint (Alabama Public Radio, Mar 23 2026)](https://www.apr.org/2026-03-23/mapping-ices-expanding-footprint-and-the-communities-fighting-back)
 - [Thousands attend 'No Kings' protests in Alabama (Alabama Reflector, Mar 28 2026)](https://alabamareflector.com/2026/03/28/a-little-joyful-resistance-thousands-attend-no-kings-protests-in-alabama/)
+- [On final legislative day, Alabama Senate tensions doom several bills — incl. HB13 (Alabama Reflector / News From The States, Apr 10 2026)](https://www.newsfromthestates.com/article/final-day-2026-legislative-session-alabama-senate-tensions-doom-several-bills)
+- [Coming up short: Bills that died in the 2026 session (Alabama Daily News, Apr 2026)](https://aldailynews.com/2026-session-bills-that-died/)
+- [Our Summary of the 2026 Alabama Legislative Session (ACLU of Alabama)](https://www.aclualabama.org/news/our-summary-of-the-2026-alabama-legislative-session/)
+- [Robertsdale man's lawsuit challenging immigration enforcement clears procedural hurdle (Fox10, May 20 2026)](https://www.fox10tv.com/2026/05/20/robertsdale-mans-lawsuit-challenging-immigration-enforcement-clears-procedural-hurdle/)
+- [Court to hear US citizen's lawsuit demanding end to unconstitutional Alabama raids — May 27 PI hearing (Institute for Justice)](https://ij.org/press-release/court-to-hear-u-s-citizens-lawsuit-demanding-an-end-to-unconstitutional-raids-and-detentions-at-alabama-construction-sites/)
+- ['I don't feel free': US citizen testifies about repeated immigration detentions (Courthouse News, May 27 2026)](https://www.courthousenews.com/i-dont-feel-free-us-citizen-testifies-about-repeated-immigration-detentions/)
