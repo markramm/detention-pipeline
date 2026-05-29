@@ -11,8 +11,9 @@ operator: "Department of Defense / DHS"
 contract_type: military-jurisdiction
 status: proposed
 importance: 6
-tags: [military-base, indiana, national-guard, planning-phase]
+tags: [military-base, indiana, national-guard, planning-phase, soft-sided]
 research_status: stub
+last_researched: "2026-05-28"
 ---
 
 # Camp Atterbury IN — Military ICE Detention
@@ -27,7 +28,8 @@ Indiana's **Camp Atterbury** was named in Defense Secretary Pete Hegseth's July 
 - **Size**: 34,000+ acres
 - **Current operator**: Indiana National Guard
 - **Planned capacity**: Up to 1,000 (shared allocation with [[jbmdl-nj-military|JBMDL]])
-- **Status**: Analysis and planning phase; no confirmed timeline for intakes
+- **Status**: Analysis and planning phase; no confirmed timeline for intakes (as of May 2026, no detainees have arrived)
+- **Facility type planned**: DoD approved DHS's request to establish **temporary soft-sided holding facilities** (tent-style, fenced — comparable to Florida's "Alligator Alcatraz") on the grounds, rather than reuse existing buildings. Indiana National Guard is "currently working" with DOD/DHS, but no arrival date or count has been provided.
 
 ## Facility Background
 

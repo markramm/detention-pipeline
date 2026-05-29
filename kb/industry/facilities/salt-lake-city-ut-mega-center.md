@@ -24,6 +24,7 @@ tags:
 - sewage-objection
 - dhs-pause
 research_status: enriched
+last_researched: "2026-05-28"
 prior_owner: "R-REEF CPIF (Deutsche Bank subsidiaries)"
 markup: "$48M above assessed value"
 transport_contractor: "GEO Transport Inc. (GEO Group subsidiary)"
@@ -67,6 +68,13 @@ On March 12, 2026, ICE finalized a $145.4 million purchase of an 833,000 sq ft w
 ## DHS Pause (March 24, 2026)
 
 New DHS Secretary ordered a pause on conversion plans for this warehouse and 10 others nationwide. As of April 8, 2026, status remains uncertain pending DHS review.
+
+### Update (May 2026): review unresolved, "Plan B" pivot, litigation forming
+
+- **No construction** has started; the DHS Mullin review of Noem-era warehouse purchases continues with no public timeline.
+- **National "Plan B":** after backlash to the mega-warehouse model, ICE is pivoting toward buying/leasing **CoreCivic and GEO Group "turnkey" facilities** (CoreCivic holds ≈¼ of ICE beds; both vendors in talks to sell space) and exploring **temporary detention at military bases in California, New York and Utah.** The SLC mega-warehouse may be downsized or superseded even if not formally cancelled. [Axios (May 7, 2026)](https://www.axios.com/2026/05/07/ice-immigrant-detention-private-contractors)
+- **Litigation forming:** Utah attorneys (McConkie) are building a **nonprofit litigation vehicle** to sue to halt the center; ACLU of Utah "exploring all options." See [[salt-lake-city-ut-mega-center-fight]]. [KSL (May 2026)](https://www.ksl.com/article/51501075/utah-lawyers-mull-lawsuit-to-halt-salt-lake-city-immigrant-detention-center-plans)
+- See [[salt-lake-city-ice-megacenter-nevada-pipeline]] and [[national-detention-buildout-strategy-2026]].
 
 ## Infrastructure Weapons
 

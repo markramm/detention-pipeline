@@ -15,7 +15,7 @@ tags:
 - franklin-county-prison
 - arkansas
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Arkansas: ICE Detention and Enforcement Overview (2025-2026)
@@ -89,7 +89,10 @@ Arkansas is one of the most aggressively cooperative states in the country for I
 | Franklin County Prison Site | Franklin | 05047 | Proposed mega-facility | 3,000 | Proposed — CoreCivic, possible ICE use |
 
 ## The Pipeline: Arrest to Deportation
-The transfer pipeline runs: Benton County Jail (arrest/287g screening) -> Washington County Detention Center in Fayetteville (short-term ICE hold) -> detention centers in Louisiana (long-term/deportation). This NW Arkansas corridor is a nationally significant enforcement pipeline.
+The transfer pipeline runs: Benton County Jail (arrest/287g screening) -> Washington County Detention Center in Fayetteville (short-term ICE hold) -> detention centers in Louisiana (long-term/deportation). This NW Arkansas corridor is a nationally significant enforcement pipeline. Most Arkansas detainees end up at the **LaSalle ICE Processing Center in Jena, LA**, with transports reported running from Lonoke on Tuesdays and Fridays.
+
+## Update — May 2026: Franklin County mega-prison/ICE site stalls in statute
+The 2026 fiscal session (Apr 8-29) ended with **no construction appropriation** for the proposed 3,000-bed Franklin County prison (the site ICE was caught scouting in Sept 2025). On Apr 27 the Arkansas House overwhelmingly approved a measure that **explicitly prohibits** the reappropriated ~$74M (originally Hutchinson-era Calico Rock funds) from being spent on prison construction in Franklin County — the first hard legislative funding bar against the site. Gov. Sanders' subsequent **May 4 special session was confined to tax cuts** (no prison or ICE item). The Nabholz/JE Dunn general-contractor selection that recirculated in 2026 coverage was actually a **May 15, 2025** Board of Corrections action; as of mid-2026 only ~$75M of previously appropriated money funds early design/pre-work, and the full $825M build remains unfunded with no path until at least the 2027 regular session. Sanders still calls Franklin County "the best location" but says she is "open to other ideas." See `franklin-county-ar-prison-fight`.
 
 ## Community Response
 - Springdale (pop. 89,000, 25%+ foreign-born, 42% Hispanic) is a rare resistance pocket — Police Chief Derek Wright refused formal ICE cooperation, Mayor Doug Sprouse issued protective statements
@@ -109,3 +112,7 @@ The transfer pipeline runs: Benton County Jail (arrest/287g screening) -> Washin
 - [Arkansas lawmakers discuss state police participation — Arkansas Advocate (Jan 21, 2026)](https://arkansasadvocate.com/2026/01/21/arkansas-lawmakers-discuss-state-police-participation-in-immigration-enforcement/)
 - [Arkansans organize grassroots initiatives — Arkansas Advocate (Feb 23, 2026)](https://arkansasadvocate.com/2026/02/23/arkansans-organize-grassroots-initiatives-across-state-to-support-immigrant-neighbors/)
 - [Springdale business impact — NWA Democrat-Gazette (Jan 2, 2026)](https://www.nwaonline.com/news/2026/jan/02/springdale-business-representatives-say-increased/)
+- [Homestead tax credit, prison funding restriction, PBS funds advance — Arkansas Advocate (Apr 27, 2026)](https://arkansasadvocate.com/2026/04/27/homestead-tax-credit-prison-funding-restriction-pbs-funds-advance-as-fiscal-session-nears-end/)
+- [SESSION SNAPSHOT: With budget done, Legislature moves on to tax cuts — Arkansas Times (May 1, 2026)](https://arktimes.com/arkansas-blog/2026/05/01/session-snapshot-with-budget-done-arkansas-legislature-moves-on-to-tax-cuts)
+- [Arkansas fiscal, special sessions conclude — inVeritas (May 2026)](https://www.inveritasinfo.com/blog/arkansas-fiscal-special-sessions-conclude)
+- [Most Arkansas detainees moved to LaSalle/Jena, LA — Advocates for Immigrant Rights](https://www.airlegal.org/detention)

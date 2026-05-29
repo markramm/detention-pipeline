@@ -9,7 +9,9 @@ tags:
 - task-force-model
 - civil-rights-risk
 - statewide-pattern
+- federal-incentive-payments
 research_status: complete
+last_researched: "2026-05-28"
 ---
 
 # Utah: Zero to Eleven 287(g) Agreements in One Year
@@ -66,8 +68,23 @@ These function as short-term holding during ICE transport — described as a "st
 
 Hispanic/Latino residents report fear affecting daily life. Quinceañeras and community events poorly attended. Statewide student walkouts (Jan 30, 2026). Thousands protested in SLC after Minneapolis ICE shootings (Jan 25-26).
 
+## Federal Incentive Payments (May 2026 escalation)
+
+The 287(g) expansion is being driven by **unprecedented federal cash incentives.** ICE is now paying local agencies to participate — a scheme the ACLU says "Congress never intended." A FWD.us analysis estimates the program could send **$1.4–$2 billion to local/state law enforcement in 2026 alone, potentially $3.6 billion by 2027.** As of May 28, 2026, ICE has signed **1,872 Memorandums of Agreement** for 287(g) covering 39 states and 2 territories nationally.
+
+- ACLU: "We've never seen this financial incentive scheme exist in any way with this program."
+- The Task Force Model (Tooele, Utah, Washington, Weber counties) carries the highest racial-profiling risk, the same model DOJ flagged for abuses before its 2012 discontinuation.
+
+## Enforcement Escalation in Salt Lake County (Feb–May 2026)
+
+- **Courthouse arrests:** Starting Feb 2026, ICE agents began arresting people inside Utah's Third District Court (Matheson Courthouse), with **bailiffs applying handcuffs on ICE's behalf** under standard protocol. Agents wear plain clothes and do not identify themselves, even to bailiffs. **Salt Lake County Sheriff Rosie Rivera** raised "multiple complaints" at a County Council meeting; defense attorneys warn it will scare witnesses and victims out of cooperating. [Utah News Dispatch (Feb 13, 2026)](https://utahnewsdispatch.com/2026/02/13/ice-making-arrests-in-matheson-courthouse-utah/); [SL Tribune (Feb 26, 2026)](https://www.sltrib.com/news/2026/02/26/ice-arrests-slc-courthouse-have/)
+- **"Being in detention is a choice":** ICE detained **Lisandro Pantaleon Pacheco**, a 22-year-old former University of Utah student from Park City **with no criminal record**, on Apr 29, 2026, holding him in a Wyoming facility. ICE's public statement — "Being in detention is a choice" — pushed the $2,600-plus-free-flight self-deportation offer, illustrating the shift to detaining non-criminal long-term residents. [SL Tribune (May 5, 2026)](https://www.sltrib.com/news/2026/05/05/ice-detains-utah-man-days-before/)
+- **Colorado ruling touching a Utah student:** In *Ramirez Ovando v. Noem*, a federal judge (May 12, 2026) found ICE "routinely" made unlawful warrantless arrests and ordered all Colorado-district officers retrained within 45 days or barred from warrantless arrests. A lead plaintiff is **Caroline Dias Goncalves, a 19-year-old University of Utah student** arrested after a Mesa County deputy questioned her accent — illustrating cross-border enforcement reach into Utah's community. [SL Tribune (May 14, 2026)](https://www.sltrib.com/news/2026/05/14/after-utah-student-sued-judge/); [Colorado Sun (May 12, 2026)](https://coloradosun.com/2026/05/12/ice-must-retrain-arresting-officers-in-colorado-federal-judge-rules/)
+
 ## Sources
 
+- [UPR/NPR: ICE is giving local police big money to help with immigration enforcement (May 5, 2026)](https://www.upr.org/npr-news/2026-05-05/ice-is-giving-local-police-big-money-to-help-with-immigration-enforcement)
+- [ACLU of Utah: 287(g) Agreements in Utah (tracker)](https://www.acluutah.org/287g-agreements-in-utah/)
 - [KUER: 7 Utah sheriff's offices now have ICE agreements (Jul 30, 2025)](https://www.kuer.org/politics-government/2025-07-30/7-utah-sheriffs-offices-now-have-ice-agreements-heres-what-to-know)
 - [SL Tribune: Which Utah agencies work with ICE (Sep 17, 2025)](https://www.sltrib.com/news/2025/09/17/which-utah-law-enforcement/)
 - [KUER: Utah Dept. of Corrections signs ICE agreement (May 14, 2025)](https://www.kuer.org/politics-government/2025-05-14/utah-department-of-corrections-signs-new-ice-agreement-heres-what-changes)

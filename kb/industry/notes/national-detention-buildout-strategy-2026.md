@@ -89,6 +89,15 @@ This note is the connective tissue for findings filed under individual states:
   [[williamsport-md-warehouse]], [[hagerstown-md-warehouse]], and the SLC mega-center.
   The pause is a review of *this buildout*, not a cancellation of it — Social Circle
   shows DHS resuming a paused project once review cleared.
+- **The "Plan B" pivot (May 2026).** As warehouse purchases stalled — under the DHS
+  review and a wave of property-owner refusals (see below) — reporting (Axios, May 7,
+  2026) shows ICE pivoting from buying mega-warehouses toward two faster routes:
+  **(a) "turnkey" facilities run by CoreCivic and GEO** (CoreCivic alone ≈¼ of ICE
+  beds; both reportedly in sale/expansion talks), and **(b) temporary detention on
+  military bases** (CA, NY, UT named). The soft-sided ("Alligator Alcatraz"-style)
+  plan DoD approved at [[camp-atterbury-in-military]] is the same pivot. This is the
+  buildout adapting around the warehouse choke point, not retreating — and it routes
+  *further* outside state/local reach (private operators + federal land).
 
 ## Why It Matters
 

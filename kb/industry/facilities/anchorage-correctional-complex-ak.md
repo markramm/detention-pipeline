@@ -15,7 +15,7 @@ status: operational
 importance: 7
 tags: [state-prison, ice-overflow, conditions-crisis, due-process, out-of-state-transfers, legislative-oversight, alaska]
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Anchorage Correctional Complex — ICE Detention
@@ -42,6 +42,14 @@ Attorneys testified before the Alaska House Judiciary Committee (June 20, 2025) 
 - **Language barriers** — communication access inadequate
 
 The ACLU of Alaska sent a letter to state AG Treg Taylor demanding that ICE detainees not be held more than 72 hours unless conditions improved.
+
+### Pepper-Ball Use of Force (revealed May 2026)
+
+A May 4, 2026 Washington Post investigation of internal ICE use-of-force records documented an incident at an Alaska ICE-holding facility in which guards fired **pepper balls** (chemical-filled plastic spheres) into a communal space, producing "orange clouds of chemical dust." Among those affected was **Pedro Cantú Ríos**, 68, who has a lung condition and said he was left gasping for air. The sergeant's incident report did not indicate detainees acted violently or were on the verge of violence; guards escalated rather than de-escalating or consulting supervisors, as ICE rules require. All detainees were then locked in cells for at least two days without showers or clean clothes; Cantú Ríos was denied a doctor visit for at least a day. He was subsequently deported to Mexico.
+
+### Second Facility: Hiland Mountain (March 2026)
+
+ICE detention in Anchorage Municipality is no longer confined to ACC. In March 2026, ICE held a pregnant detainee (Valeria Mendoza Santiago) at **Hiland Mountain Correctional Center**, the state women's prison in Eagle River (also FIPS 02020), before a federal court ordered her release. (See county-fight: anchorage-ak-pregnant-woman-hiland-mountain.)
 
 ### Ongoing Use (2025-2026)
 

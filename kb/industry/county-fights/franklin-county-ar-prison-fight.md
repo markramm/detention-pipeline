@@ -19,8 +19,8 @@ tags:
 - legislative-funding
 - arkansas
 research_status: working
-last_researched: "2026-04-13"
-last_news_check: "2026-04-29"
+last_researched: "2026-05-28"
+last_news_check: "2026-05-28"
 fips: '05047'
 ---
 
@@ -42,6 +42,10 @@ Franklin County residents and their own sheriff are opposing a **$825 million, 3
 - **April 2026**: Legislature has not approved funding; legislative leaders say votes aren't there
 - **~Apr 27, 2026**: ADC spokesperson confirms project "on hold for months" — no work at site beyond routine maintenance; $750M appropriation bill failed five times in Senate; water wells on the property proven insufficient, nearby cities (Fort Smith, Ozark) declined to supply water; Sanders says she still believes Franklin County is "the best location" but is "open to other ideas"; alternatives include a smaller 1,500-bed facility, expanding existing facilities, and county sites in Hempstead, Dallas, Nevada, and Searcy counties
 - **Apr 28, 2026**: Arkansas fiscal session nears end with Revenue Stabilization Act vote expected Apr 29; no Franklin County prison funding included; "guarded optimism" from at least one opponent that the project is stalling permanently
+- **Apr 27, 2026**: Arkansas House overwhelmingly approves a measure that **prohibits** the reappropriated ~$74M (originally set aside by former Gov. Hutchinson for Calico Rock expansion) from being used for prison construction in Franklin County — the first time the legislature has written an explicit Franklin County funding bar into statute. Corrections funding rose $451.4M → $492.4M but none earmarked for the Franklin site.
+- **Apr 29, 2026**: Fiscal session adjourns; FY2027 $6.7B budget passes (House 70-27, Senate 32-2). Franklin County prison receives no construction appropriation. Sanders signs Revenue Stabilization Act same day.
+- **May 4, 2026**: Gov. Sanders calls a special session — agenda is **income/corporate tax cuts only** (top individual rate 3.9%→3.7%, corporate 4.3%→4.1%). No prison or ICE-detention item on the agenda. Project enters mid-2026 with no funding path until at least the 2027 regular session.
+- **Note on contractor selection**: The Nabholz/JE Dunn joint-venture general-contractor approval by the Board of Corrections (widely re-circulated in 2026 coverage) occurred **May 15, 2025**, not 2026; design (HDR/Cromwell) and CM (Vanir, $16.5M) were also locked in during 2024-2025. As of mid-2026 the state is using ~$75M in previously appropriated funds for early design/pre-work only — no construction has begun and the full $825M build remains unfunded.
 
 ### Opposition Forces
 - **Sheriff Johnny Crocker**: Called the prison plan "fiscally irresponsible"; his chief deputy discovered the ICE visit
@@ -68,3 +72,7 @@ At 3,000 beds, this would be **among the largest ICE detention centers in the co
 - [Arkansas' 3,000-bed prison site is on hold. What are the other options? — Arkansas Advocate (Apr 27, 2026)](https://arkansasadvocate.com/2026/04/27/arkansas-3000-bed-prison-site-is-on-hold-what-are-the-other-options/) — Sanders "open to other ideas" as water infrastructure and funding failures keep project stalled
 - [Hold on Franklin County prison plan viewed with 'guarded optimism' by one opponent — Talk Business & Politics (Apr 2026)](https://talkbusiness.net/2026/04/hold-on-franklin-county-prison-plan-viewed-with-guarded-optimism-by-one-opponent/)
 - [Arkansas fiscal session nears end amid prison, PBS funding debate — KUAF (Apr 28, 2026)](https://www.kuaf.com/show/ozarks-at-large/2026-04-28/arkansas-fiscal-session-nears-end-amid-prison-pbs-funding-debate)
+- [Homestead tax credit, prison funding restriction, PBS funds advance as fiscal session nears end — Arkansas Advocate (Apr 27, 2026)](https://arkansasadvocate.com/2026/04/27/homestead-tax-credit-prison-funding-restriction-pbs-funds-advance-as-fiscal-session-nears-end/) — House bars ~$74M from Franklin County use
+- [SESSION SNAPSHOT: With budget done, Arkansas Legislature moves on to tax cuts — Arkansas Times (May 1, 2026)](https://arktimes.com/arkansas-blog/2026/05/01/session-snapshot-with-budget-done-arkansas-legislature-moves-on-to-tax-cuts)
+- [Arkansas fiscal, special sessions conclude — inVeritas (May 2026)](https://www.inveritasinfo.com/blog/arkansas-fiscal-special-sessions-conclude) — special session May 4 was tax cuts only, no prison item
+- [JE Dunn, Nabholz tapped for proposed $825M Arkansas prison — Construction Dive (contractor approved May 15, 2025)](https://www.constructiondive.com/news/je-dunn-nabholz-arkansas-prison-franklin-county/748522/)

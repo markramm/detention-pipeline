@@ -17,7 +17,7 @@ tags:
 - private-detention
 - billion-dollar-contracts
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-05-28"
 ---
 
 # Alaska Native Corporations as ICE Detention Giants
@@ -43,6 +43,7 @@ This is one of the most significant and underreported structural features of the
 ## Bering Straits Native Corporation (BSNC)
 
 - **ICE contracts**: 230 task orders with ICE stretching back to 2015 (via Global Precision Systems LLC)
+- **Revenue from ICE/DHS contracts**: ~$587 million over the past decade (per reporting on the divestment petition)
 - **Facilities served**: El Centro (CA), El Paso (TX), Baltimore (MD) — facility support services
 - **Shareholder divestment campaign**: Launched January 2026 by shareholders Charlene Aqpik Apok, Ayyu Qassataq, and Jessica Saniguq Ullrich
 - **Petition language**: "As BSNC shareholders and descendants, we are deeply concerned about BSNC's complicity in inflicting harm on Indigenous peoples through ICE detention facilities"
@@ -69,6 +70,7 @@ The SBA 8(a) Business Development Program provides contracting advantages to Ala
 
 - **January 12, 2026**: Alaska Beacon reports shareholders formally petition BSNC to divest from all ICE-associated contracts
 - **January 26, 2026**: ADN op-ed argues "Alaska Native corporations' ICE contracts endanger all Indigenous people"
+- **Spring 2026**: The New Republic profiles "the tribal organizations that won't quit ICE," elevating the BSNC/NANA divestment fight to national coverage. As of late May 2026 there is no public indication either corporation has agreed to divest.
 
 ## Why This Matters
 
@@ -88,3 +90,5 @@ The SBA 8(a) Business Development Program provides contracting advantages to Ala
 - [Alaska Beacon: Shareholders ask BSNC to divest (Jan 12, 2026)](https://alaskabeacon.com/2026/01/12/shareholders-ask-bering-straits-native-corporation-to-divest-from-ice-contracts/)
 - [ADN Opinion: ANC ICE contracts endanger all Indigenous people (Jan 26, 2026)](https://www.adn.com/opinions/2026/01/26/opinion-alaska-native-corporations-ice-contracts-endanger-all-indigenous-people/)
 - [Alaska Public: Shareholders say profits not worth human toll (Oct 31, 2025)](https://alaskapublic.org/news/2025-10-31/some-alaska-native-corporation-shareholders-say-profits-from-ice-contracts-not-worth-human-toll)
+- [The New Republic: The Tribal Organizations That Won't Quit ICE (2026)](https://newrepublic.com/article/205958/tribal-organizations-divest-ice-contracts)
+- [ICT News: Shareholders ask BSNC to divest from ICE contracts (Jan 2026)](https://ictnews.org/news/shareholders-ask-bering-straits-native-corporation-to-divest-from-ice-contracts/)

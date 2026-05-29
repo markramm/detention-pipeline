@@ -29,16 +29,16 @@
       "notes": "Aleutians West AK \u2014 No specific ICE enforcement activity found in 2025-2026 research"
     },
     "02020": {
-      "last_researched": "2026-04-13",
-      "notes": "Anchorage AK \u2014 Anchorage Correctional Complex holding ICE detainees ($223.70/day), 42 overflow from Tacoma Jun 2025, conditions violations, National Guard at ICE office, legislative oversight hearings"
+      "last_researched": "2026-05-28",
+      "notes": "Anchorage Muni: Hiland Mountain (Eagle River) now a 2nd ICE-use facility alongside Anchorage Correctional Complex; pregnant-detainee case + pepper-ball use-of-force revealed."
     },
     "02090": {
       "last_researched": "2026-04-13",
       "notes": "Fairbanks North Star AK \u2014 No specific ICE enforcement activity found in 2025-2026 research"
     },
     "02122": {
-      "last_researched": "2026-04-13",
-      "notes": "Kenai Peninsula AK \u2014 Soldotna family arrest Feb 2026 (mother + 3 children, ages 18/16/5), deported within 36 hours, first children detained by ICE in AK, triggered legislative hearing"
+      "last_researched": "2026-05-28",
+      "notes": "Kenai Peninsula: Soldotna family case (Feb 2026) still primary; no new developments found this cycle."
     },
     "02130": {
       "last_researched": "2026-04-13",
@@ -85,8 +85,8 @@
       "notes": "Faulkner AR (Conway) \u2014 No specific ICE detention findings beyond heatmap signals (igsa:2, 287g-agreement:9), likely complying with Act 654 mandate"
     },
     "05047": {
-      "last_researched": "2026-04-13",
-      "notes": "Franklin AR \u2014 815-acre site, proposed 3000-bed CoreCivic mega-prison, ICE agents + Joe Profiri spotted Sept 2025, sheriff opposes, community opposes, legislature wont fund $825M, potential ICE facility diversion"
+      "last_researched": "2026-05-28",
+      "notes": "Franklin County: 3000-bed CoreCivic/ICE site explicitly funding-barred by AR House Apr 2026; no path until 2027 session."
     },
     "05085": {
       "last_researched": "2026-04-13",
@@ -105,8 +105,8 @@
       "notes": "Sebastian AR \u2014 2879-bed detention center Fort Smith, ICE inspection Jun 2025, 287(g), National Guard 10 personnel deployed, large capacity potential"
     },
     "05143": {
-      "last_researched": "2026-04-13",
-      "notes": "Washington AR \u2014 710-bed detention center in Fayetteville, IGSA with ICE, transfer hub in NW AR pipeline, ICE inspection Apr 2025, 287(g) MOA, Springdale resistance (police chief refused ICE, mayor protective)"
+      "last_researched": "2026-05-28",
+      "notes": "Washington County: WCDC Fayetteville remains short-term ICE hold node in NW AR pipeline to LaSalle/Jena LA; Springdale municipal resistance continues."
     },
     "06001": {
       "last_researched": "2026-04-12",
@@ -273,8 +273,12 @@
       "notes": "Merrillville/Lake Co IN ICE warehouse"
     },
     "18097": {
-      "last_researched": "2026-04-12",
-      "notes": "Marion IN \u2014 8,500-bed mega-facility proposed"
+      "last_researched": "2026-05-28",
+      "notes": "Marion/Indianapolis 8,500-bed warehouse still proposal phase, no confirmed site; opposition energy shifted to operational Miami Correctional. May 2 street Mass + May 16-17 vigils."
+    },
+    "18103": {
+      "last_researched": "2026-05-28",
+      "notes": "Miami County: Miami Correctional Facility operational ICE (1,000 beds, $291.24/day, Oct 2025-Sep 2027). Two deaths Feb/Apr 2026, conditions complaints, $10M payment lag."
     },
     "19017": {
       "last_researched": "2026-04-13",
@@ -1137,8 +1141,8 @@
       "notes": "Davis \u2014 3 ANC contracts, regional jail network node"
     },
     "49035": {
-      "last_researched": "2026-04-12",
-      "notes": "Salt Lake \u2014 $145M mega-center, DHS pause, water+sewage weapons, GEO transport $10.4M"
+      "last_researched": "2026-05-28",
+      "notes": "Salt Lake County: mega-center paused under DHS review, litigation forming; ICE courthouse arrests at Matheson w/ bailiff assist, Sheriff Rosie Rivera raised complaints."
     },
     "49049": {
       "last_researched": "2026-04-12",
@@ -1220,6 +1224,22 @@
       "last_researched": "2026-05-28",
       "notes": "Yakima Valley spring surge: ~20 arrests/week May 2026 (Toppenish, Grandview, Yakima); highest per-capita in WA."
     },
+    "55025": {
+      "last_researched": "2026-05-28",
+      "notes": "WI buildout"
+    },
+    "55027": {
+      "last_researched": "2026-05-28",
+      "notes": "WI buildout"
+    },
+    "55079": {
+      "last_researched": "2026-05-28",
+      "notes": "WI buildout"
+    },
+    "55133": {
+      "last_researched": "2026-05-28",
+      "notes": "WI buildout"
+    },
     "56005": {
       "last_researched": "2026-04-13",
       "notes": "Campbell WY \u2014 287(g) Warrant Service Model, 306-bed detention center in Gillette, ICE planning new ERO office in Gillette"
@@ -1259,16 +1279,16 @@
   },
   "states": {
     "AK": {
-      "last_researched": "2026-04-13",
-      "notes": "Alaska ICE surge: 2->12 officers, 500% arrest increase (70+ in 2025 vs 13 DOC holds in 2024), 99 held by Jan 2026, Anchorage CC used for ICE overflow (42 flown in from Tacoma Jun 2025), conditions crisis, Soldotna family deportation (children detained Feb 2026), NANA/Akima $1.2B ICE contracts, Bering Straits divestment campaign, National Guard deployed to ICE office Dec 2025, no 287(g) agreements, state troopers do NOT cooperate"
+      "last_researched": "2026-05-28",
+      "notes": "2026 ICE arrests reached 47+ by late April (1 every 2 days). New: first pregnant woman detained (Valeria Mendoza Santiago) at Hiland Mountain Correctional Center, court-ordered release; WaPo May 4 revealed pepper-ball use-of-force at an AK ICE facility (Pedro Cantu Rios, 68); pollock processors UniSea/Trident dropped H-2B foreign-worker program; BSNC/NANA divestment fight now national (New Republic), no divestment yet."
     },
     "AL": {
       "last_researched": "2026-05-28",
       "notes": "HB13 Laken Riley Act DIED in 2026 session (sine die Apr 10, no Senate vote); likely return 2027. Garcia Venegas v. Homan: standing granted May 20, preliminary-injunction hearing held May 27 in Mobile with live testimony, ruling pending. Etowah zombie prison + Baldwin $64M expansion + 287(g) explosion (9 active/3 pending) remain operative."
     },
     "AR": {
-      "last_researched": "2026-04-13",
-      "notes": "Arkansas: Act 654 mandates all sheriffs 287(g), 40 agencies signed, 2600+ arrests 2025 (176% increase), Benton County 450+ arrests (4% of US 287g), NW AR pipeline (Benton->Washington->Louisiana), Franklin County 3000-bed CoreCivic mega-prison/ICE site (contested, unfunded), National Guard 40 personnel deployed, State Police 287g, Springdale resistance (police chief refused ICE cooperation), student walkouts Feb 2026, No Kings 25K protesters Mar 2026"
+      "last_researched": "2026-05-28",
+      "notes": "Franklin Co mega-prison/ICE site stalled in statute: fiscal session ended Apr 29 2026 with no appropriation; House barred ~$74M from Franklin use (Apr 27); May 4 special session was tax-cuts only. Nabholz/JE Dunn contractor pick was May 2025 not 2026; build unfunded until 2027. Act 654 statewide 287g, 40 agencies, NW AR->LaSalle/Jena LA pipeline."
     },
     "AZ": {
       "last_researched": "2026-05-28",
@@ -1307,8 +1327,8 @@
       "notes": "Special prosecutor petition REJECTED by Judge Reddick May 21; ICE still doing warrantless courthouse arrests (4 courthouses May 7) defying Evans Oct-2025 ban. HB5024 advanced Senate Exec Cmte May 6, now on floor. Broadview: mayor demands closure + $700K (Mar 24), Jan-22 FOIA ruling, Apr conditions testimony (150-170/cell). New note: ICE-rider loophole \u2014 17 downstate sheriffs hold ICE detainees via USMS riders despite TRUST/Way Forward Acts."
     },
     "IN": {
-      "last_researched": "2026-04-12",
-      "notes": "Marion County 8,500-bed mega-facility proposed, jail at capacity, Miami Correctional activated."
+      "last_researched": "2026-05-28",
+      "notes": "Miami Correctional (Bunker Hill, 18103) now flashpoint: 2 deaths in custody (Lorth Sim Feb 18, Tuan Van Bui Apr 1), 70 Dec hotline calls re medical neglect, $10M federal payment dispute, ~30 statewide protests May 16-17, Carson oversight visit. Indy 8,500-bed warehouse still proposal-phase. Camp Atterbury soft-sided, no intakes. New facility entry: miami-correctional-facility-in."
     },
     "KS": {
       "last_researched": "2026-04-12",
@@ -1415,8 +1435,8 @@
       "notes": "Filled gap counties: Frio/Pearsall (STIPC GEO 1,904 bed, Kai Yin Wong death Oct 2025), Williamson/T.Don Hutto (county pulled out 2018, ICE re-contracted direct w/ CoreCivic, now men), Cameron/Port Isabel (SPC ~1,200, Gamboa medical-neglect death, active expansion RFI), Webb/Laredo updated (Gamboa initial-custody node). SB8 mandates 287g for counties >100k by Dec 1 2026."
     },
     "UT": {
-      "last_researched": "2026-04-12",
-      "notes": "SLC $145M mega-center (paused DHS review), 0\u219211 287(g) in one year, 4 Task Force Model, GEO pre-contract, 4,164 arrests. Deep."
+      "last_researched": "2026-05-28",
+      "notes": "May 2026: SLC mega-center DHS review still unresolved, no construction; national Plan B pivot to CoreCivic/GEO turnkey facilities + military bases (incl UT); Utah attorneys forming nonprofit to sue, ACLU exploring options. 287(g) now driven by unprecedented federal cash (FWD.us est $1.4-2B in 2026). New SLC courthouse arrests w/ bailiff help (Sheriff Rivera concerned); ICE detained no-record former U of U student (\"detention is a choice\"); CO ruling (Ramirez Ovando v Noem) ordered ICE retraining, lead plaintiff a U of U student."
     },
     "VA": {
       "last_researched": "2026-05-28",
@@ -1429,6 +1449,10 @@
     "WA": {
       "last_researched": "2026-05-28",
       "notes": "NWIPC bridge contract (9M, to Oct 27 2026) confirmed to embed 1,635-bed expansion + weaker 2025 NDS (UW \"Scrapping the Standards\" May 5). DOH inspectors still blocked by GEO; Ferguson/Brown preliminary-injunction hearing held May 26 (ruling pending); L&I won permanent injunction. HB 1232 oversight signed (covers Martin Hall youth facility); HB 2464 died in Senate; tax/fine bills failed. Yakima Valley ~20 arrests in one week May 2026."
+    },
+    "WI": {
+      "last_researched": "2026-05-28",
+      "notes": "Buildout: state overview note, Dodge Detention Facility (only WI ICE site, county-run not GEO, no 287g), Milwaukee courthouse arrests/Dugan, Waukesha 287g dual-model, Dane sanctuary fight. 19/72 counties in 287g; Voces de la Frontera detainer case at WI Supreme Court."
     },
     "WY": {
       "last_researched": "2026-04-13",

@@ -17,6 +17,7 @@ tags:
 - mayor-opposition
 research_status: working
 last_news_check: 2026-04-29
+last_researched: "2026-05-28"
 fips: '49035'
 ---
 
@@ -64,3 +65,9 @@ Unlike Kansas City (where the seller could be pressured), the $145.4M purchase i
 
 - [Utah News Dispatch: Seeking answers, Salt Lake City hears crickets from feds on planned ICE warehouse (Apr 24, 2026)](https://utahnewsdispatch.com/2026/04/24/salt-lake-city-seeking-answers-on-planned-ice-warehouse/) — City still has no information from ICE or DHS; ICE deputy director told Mayor's office "We have no new information at this time" on Apr 1; DHS Mullin review of Noem-era warehouse purchases ongoing with no timeline
 - [Axios SLC: DHS review means uncertainty for SLC warehouse (Apr 1, 2026)](https://www.axios.com/local/salt-lake-city/2026/04/01/dhs-salt-lake-city-warehouse-immigration-detention-center-under-review) — Overview of DHS pause under new Secretary Mullin
+
+## Updates (2026-05-28)
+
+- **Litigation forming.** A team of Utah attorneys led by **McConkie** is investigating a lawsuit to halt the SLC center and is **forming a nonprofit to serve as the litigation vehicle.** Strategy is explicitly deterrence: convey that ICE will "be tied up in litigation" if it proceeds. **ACLU of Utah** (Menlove) says it is "exploring all of our options." [KSL: Utah lawyers mull lawsuit to halt SLC detention center (May 2026)](https://www.ksl.com/article/51501075/utah-lawyers-mull-lawsuit-to-halt-salt-lake-city-immigrant-detention-center-plans)
+- **DHS review still unresolved; "Plan B" pivot.** No construction has begun. Nationally, ICE is shifting toward buying/leasing **CoreCivic and GEO Group "turnkey" facilities** rather than the mega-warehouse model after backlash — CoreCivic (≈¼ of ICE beds) and GEO are both in talks to sell space to ICE. ICE is also exploring **temporary detention at military bases in California, New York and Utah.** This means the SLC mega-warehouse plan may be downsized or superseded even if not formally cancelled. [Axios: ICE targets Plan B after backlash to mega-jails (May 7, 2026)](https://www.axios.com/2026/05/07/ice-immigrant-detention-private-contractors)
+- See also [[salt-lake-city-ice-megacenter-nevada-pipeline]] and [[national-detention-buildout-strategy-2026]] for the multi-state context.
