@@ -29,5 +29,5 @@ Amount: $3,636,878.41
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: DATA MANAGEMENT SUPPORT SERVICES (DMSS)
-Period: 2021-03-24 to 2026-04-27
+Period: 2021-03-24 to 2026-05-01
 Location: None, DC
