@@ -11,11 +11,11 @@ operator: "GEO Group"
 contract_type: private-contract
 status: operational
 importance: 9
-tags: [private-prison, geo-group, michigan, reactivated, notorious, death-in-custody, medical-neglect, habeas-corpus, largest-midwest, hunger-strike, aclu-complaint]
+tags: [private-prison, geo-group, michigan, reactivated, notorious, death-in-custody, medical-neglect, habeas-corpus, largest-midwest, hunger-strike, aclu-complaint, sexual-assault, prea, transgender, deported-during-investigation]
 fips: "26085"
 contract_value: "$87 million annually"
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # North Lake Processing Center — Baldwin MI (GEO Group)
@@ -68,6 +68,18 @@ On **May 14-15, 2026**, the **ACLU of Michigan** and the **Michigan Immigrant Ri
 - A man with **epilepsy** who had a seizure after not receiving medication in time
 
 Detainees were reportedly told to **pay for their own medications**, which the groups say violates ICE policy. Attorneys were turned away over "arbitrary" dress-code enforcement — in one instance a female attorney was told to remove her underwire bra before entering. About **1,400 immigrants** were held as of April 2026 (capacity 1,800).
+
+## Sexual Assault Reported, Then Deported Mid-Investigation (June 2026)
+
+On **June 1, 2026**, Michigan Public and Michigan Advance (and a parallel national ProPublica investigation) reported that a **50-year-old transgender Venezuelan woman** — identified as "Q" to protect her as an alleged sexual-assault victim — reported being repeatedly sexually harassed and assaulted by her assigned cellmate at North Lake. Q had arrived in Pontiac, MI the prior summer, working at a barbershop, and spent her February 2026 50th birthday in detention. She reported being masturbated on over several days and, on **March 16, 2026** (~3–4 AM), strangled with a bed sheet and forcibly penetrated. A SANE exam documented anal tearing, bruising, and bite marks.
+
+Timeline:
+- **March 16, 2026**: Transferred from North Lake to a hospital in Cadillac, then to Shelterhouse in Gladwin for a SANE exam.
+- **March 18, 2026**: Returned to North Lake.
+- **Two days after the Lake County sheriff's interview**: Transferred out of North Lake, then bounced through **four more detention centers in Texas and Arizona**.
+- **Mid-April 2026**: **Deported to Venezuela** while ICE confirmed its investigation was still "ongoing."
+
+The cellmate denied the allegations; DNA results were not included in the sheriff's report. **Lake County Prosecutor Tom Evans** said he was "still reviewing the evidence" — no charges filed. **GEO Group** said it "mandates zero tolerance towards all forms of sexual abuse" and pointed to PREA audits and training, but declined an interview. Reporting notes North Lake has **not appeared in a PREA audit since 2022** (it was closed until its June 2025 reopening), and that the Trump administration moved in January 2026 to roll back PREA rape protections for transgender people in ICE facilities. Deporting a complaining witness before the investigation concluded effectively foreclosed any prosecution — a pattern advocates flag as undermining ICE's own PREA obligations. This adds to the [[#aclu--mirc-complaint-may-2026|ACLU/MIRC complaint]] and [[#hunger-strike-april-2026|hunger strike]] in the documented-conditions record at the facility.
 
 ## Conditions Reports
 
@@ -122,3 +134,6 @@ ICE is working toward **100,000 beds** nationwide, with the Trump administration
 - [Legal groups allege inadequate medical care — Michigan Public (May 14, 2026)](https://www.michiganpublic.org/criminal-justice-legal-system/2026-05-14/legal-groups-allege-inadequate-medical-care-at-michigan-immigrant-detention-facility)
 - [Immigrant rights lawyers send complaint to ICE over conditions — Michigan Advance (May 15, 2026)](https://michiganadvance.com/2026/05/15/immigrant-rights-lawyers-send-complaint-to-ice-over-conditions-at-north-lake-detention-facility/)
 - [ACLU and MIRC call on Congress for independent investigation — ACLU of Michigan](https://www.aclumich.org/press-releases/aclu-and-michigan-immigrant-rights-center-call-on-congress-to-require-an-independent-investigation-into-ices-north-lake-detention-center-following-reports-of-a-hunger-strike-and-dangerously-i/)
+- [She reported a sexual assault at North Lake. ICE deported her before the investigation was over — Michigan Public (Jun 1, 2026)](https://www.michiganpublic.org/criminal-justice-legal-system/2026-06-01/she-reported-a-sexual-assault-at-north-lake-ice-deported-her-before-the-investigation-was-over)
+- [She reported a sexual assault at North Lake. ICE deported her before the investigation was over — Michigan Advance (Jun 1, 2026)](https://michiganadvance.com/2026/06/01/she-reported-a-sexual-assault-at-north-lake-ice-deported-her-before-the-investigation-was-over/)
+- [ICE deported a woman who accused guards of sexual assault while the feds were still investigating — ProPublica (Jun 2026)](https://www.propublica.org/article/ice-has-deported-a-woman-who-said-guards-sexually-assaulted-her-while-the-investigation-is-ongoing)

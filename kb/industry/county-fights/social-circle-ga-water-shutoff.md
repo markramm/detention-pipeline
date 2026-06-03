@@ -17,8 +17,8 @@ tags:
 - litigation
 - nepa-apa
 research_status: working
-last_news_check: "2026-05-28"
-last_researched: "2026-05-28"
+last_news_check: "2026-06-02"
+last_researched: "2026-06-02"
 fips: '13297'
 ---
 
@@ -53,6 +53,7 @@ The tactic has since been replicated in [[salt-lake-city-ut-mega-center|Salt Lak
 - **Apr 2026**: New DHS Secretary Markwayne Mullin (who replaced Kristi Noem in March 2026) conducting department-wide review of warehouse detention strategy. No construction contracts awarded; no detainees arrived despite initial spring 2026 timeline. City reports "zero dialogue" from DHS with any city in the country. Sen. Jon Ossoff backs legislation requiring ICE to get local approval before opening new detention centers. Nearby **Oakwood City Council voted unanimously to call for a stay** on its own planned ICE center, objecting to the no-consultation site-selection process.
 - **Early/mid May 2026**: The pause ends. DHS tells the city the Social Circle mega-center is part of a **$38.3 billion national detention strategy** (funded by the 2025 One Big Beautiful Bill Act) to consolidate hundreds of scattered sites into ~34 detention centers — including 8 mega-centers — and reach **92,600 beds, all operational by November 2026**. DHS says Social Circle would hold 7,500–10,000 detainees (avg. stays under 60 days), employ ~2,500 staff, and require >1M gallons of water/day. The site sits 1.2 miles from Social Circle Elementary School and 1 mile from the Burkes Field Park residential development. City: "The City has repeatedly communicated that it does not have the capacity or resources to accommodate this demand."
 - **May 14, 2026 — LAWSUIT**: The City of Social Circle sues DHS and ICE in the **U.S. District Court for the Middle District of Georgia**. Claims: (1) violation of the **National Environmental Policy Act (NEPA)** — advancing the mega-center without the required environmental review; (2) violation of the **Administrative Procedure Act (APA)** — no coordination with local officials; (3) **public nuisance under Georgia law** — the facility would place "unsustainable strain" on a town of ~5,000 and could triple its population. Relief sought: halt the project pending court review of federal compliance. Neither ICE nor DHS had publicly responded as of filing. Facility still projected to "become operational in June."
+- **Early June 2026 status**: No court ruling on the suit yet. The water meter remains locked; ICE has told the city **no construction to convert the warehouse has begun**, missing the original mid-May/June detainee-intake timeline. The facility remains a shell — purchased but inert — pending the litigation.
 
 ## Key People
 

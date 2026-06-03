@@ -7,7 +7,7 @@ state: MD
 fips: "24043"
 facility: "16220 Wright Road, Williamsport — 825,620 sq ft warehouse, 542 contractual / up to 1,500 documented capacity"
 status: litigation
-outcome: "U.S. District Judge Brendan A. Hurson granted a preliminary injunction on April 15, 2026 blocking DHS retrofitting and full construction of the warehouse-to-detention conversion. First successful state-level NEPA challenge in the warehouse-conversion line. Court found State 'shown that Defendants likely failed to comply with their obligations under NEPA' and that DHS did not appear to have taken 'a hard look at the potential environmental consequences.' Construction enjoined except for security installation, perimeter fencing, office drywall, HVAC repair, and roof work pending litigation. KVG LLC's warehouse-conversion contract halted (per Em Knepp / Project Saltbox April 2026 procurement analysis). The ruling is the precedent New Jersey, Michigan, and Arizona are pleading their cases on."
+outcome: "U.S. District Judge Brendan A. Hurson granted a preliminary injunction on April 15, 2026 blocking DHS retrofitting and full construction of the warehouse-to-detention conversion. First successful state-level NEPA challenge in the warehouse-conversion line. Court found State 'shown that Defendants likely failed to comply with their obligations under NEPA' and that DHS did not appear to have taken 'a hard look at the potential environmental consequences.' Construction enjoined except for security installation, perimeter fencing, office drywall, HVAC repair, and roof work pending litigation. KVG LLC's warehouse-conversion contract halted (per Em Knepp / Project Saltbox April 2026 procurement analysis). The ruling is the precedent New Jersey, Michigan, and Arizona are pleading their cases on. UPDATE (May 12 / May 20, 2026): rather than appeal, DHS determined an Environmental Assessment is warranted for the site and agreed to re-engage Section 106 historic-preservation consulting parties — a NEPA-compliance reversal of its earlier categorical-exclusion posture, paralleled at the NJ Roxbury site (Bloomberg Law, May 20)."
 importance: 10
 tags:
 - litigation
@@ -39,8 +39,8 @@ tags:
 research_status: enriched
 fips_note: "24043"
 case_number: "Maryland v. ICE et al. (D. Md., Hurson)"
-last_researched: '2026-05-06'
-last_news_check: '2026-05-06'
+last_researched: '2026-06-02'
+last_news_check: '2026-06-02'
 ---
 
 # Washington County, Maryland: First NEPA Preliminary Injunction in the Warehouse-Conversion Line
@@ -130,6 +130,9 @@ This is the inverse of the Roxbury NJ pattern, where an all-Republican township 
 - **April 15, 2026**: **Hurson grants preliminary injunction** — first successful state-level NEPA challenge in the warehouse-conversion line
 - **April 22-26, 2026**: KVG LLC stop-work order documented; DHS scaling back construction plans per Maryland Matters reporting
 - **May 6, 2026**: Site stable; DHS construction blocked except for permitted carve-outs; New Jersey, Michigan, Arizona parallel cases all citing this precedent
+- **May 12, 2026**: DHS notifies Washington County Planning & Zoning (via county statement) that it has **determined an Environmental Assessment is warranted** for the Hagerstown/Williamsport facility (10900 Hopewell Road / 16220 Wright Road) — and that it will **re-engage Section 106 National Historic Preservation Act consulting parties** once its contractor delivers final design / ground-disturbance information. Public engagement on environmental and cultural-resource impacts "will be initiated in the future" via dhs.gov/ocrso NEPA public-comment portal. This is the **NEPA compliance Hurson's injunction demanded** — DHS is choosing to *do the review* rather than appeal to the Fourth Circuit.
+- **May 20, 2026**: Bloomberg Law reports DHS is now conducting NEPA reviews for **both** the Maryland (Williamsport) and New Jersey (Roxbury) facilities — "a policy shift after the agency initially exempted the projects" via categorical exclusion. Both states reached agreements with DHS to study impacts to local water supply and sewage systems. (Attorney Laurel Jobe cautioned DHS could still attempt to forego a fuller Environmental Impact Statement and stop at the lighter EA.)
+- **June 2, 2026**: No Fourth Circuit appeal of the April 15 PI filed; injunction stands. DHS pursuing the EA/Section 106 track rather than appellate reversal. Note *Trump v. CASA* (2025) limits the geographic reach of injunctions, but this is a project-specific NEPA injunction tied to one Maryland site, so the CASA universal-injunction limit is not the operative constraint here.
 
 ## What This Means for the Pattern
 
@@ -168,3 +171,5 @@ The four parallel cases (NJ, MI, AZ, plus this one as the precedent) are now all
 - [WMAR2 News: Judge blocks construction on ICE detention center in Hagerstown for now](https://www.wmar2news.com/news/western-maryland/judge-blocks-construction-on-ice-detention-center-in-hagerstown-for-now)
 - **Hurson opinion** (April 15, 2026): https://storage.courtlistener.com/recap/gov.uscourts.mdd.600507/gov.uscourts.mdd.600507.43.0.pdf — primary source PDF
 - [Em Knepp / Project Saltbox: Follow the Money — April 2026 ICE Spending (May 3, 2026)](https://www.projectsaltbox.com/p/follow-the-money-april-2026-ice-spending) — KVG LLC stop-work order documented; 88% spending drop in April 2026 traced to litigation effects including this case
+- [Washington County: Officials Share Update on DHS Regarding Local Processing Facility (May 12, 2026)](https://www.washco-md.net/news/washington-county-officials-share-update-on-department-of-homeland-securityregarding-local-processing-facility/) — DHS determined an Environmental Assessment is warranted; will re-engage Section 106 NHPA consulting parties pending final design / ground-disturbance info
+- [Bloomberg Law: ICE Changes Environmental Review Plan for Detention Centers (May 20, 2026)](https://news.bloomberglaw.com/environment-and-energy/ice-changes-environmental-review-plan-for-detention-centers) — DHS now conducting NEPA reviews for both MD (Williamsport) and NJ (Roxbury) facilities after initially exempting them; states reached agreements to study water/sewage impacts

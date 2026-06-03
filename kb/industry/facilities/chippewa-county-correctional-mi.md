@@ -14,7 +14,7 @@ status: operational
 importance: 5
 tags: [county-jail, igsa, michigan, upper-peninsula, border-county, canada-border, detroit-ero]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # Chippewa County Correctional Facility — Sault Ste. Marie MI

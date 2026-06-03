@@ -6,7 +6,7 @@ state: MD
 importance: 6
 tags: [county-resistance, prince-georges, montgomery, anne-arundel, safe-spaces, maryland]
 research_status: enriched
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # Maryland — County-Level Resistance and Protection Measures

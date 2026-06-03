@@ -6,7 +6,8 @@ state: MD
 importance: 8
 tags: [287g-ban, sheriff-defiance, community-trust-act, dignity-not-detention, legislative, maryland]
 research_status: enriched
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Maryland — 287(g) Ban, Sheriff Defiance, and Community Trust Act
@@ -51,6 +52,8 @@ Within days, sheriffs from all nine counties announced plans to **continue coope
 
 **April 3, 2026**: Baltimore Sun reporting shows the 287(g) ban has had **"limited impact"** — sheriffs continue informal cooperation.
 
+**May 18, 2026** (Maryland Matters): Despite the vocal defiance, **the formal 287(g) agreements collapsed quickly** — eight of the nine counties pulled out and the ninth said its agreement would no longer be enforced, ahead of the July 2026 statutory deadline. Washington County's Sheriff Albert had said his agreement would run "until May." The remaining fight is over *informal* cooperation (the Community Trust Act target), not the formal task-force agreements, which are effectively gone.
+
 ## Community Trust Act (April 2026)
 
 To close the loophole sheriffs are exploiting, Maryland passed the **Community Trust Act**:
@@ -87,6 +90,7 @@ Each layer was needed because sheriffs found workarounds to the previous layer.
 - ["A Betrayal in Slow Motion": Maryland Democrats Forgo Banning ICE Contracts — Bolts](https://boltsmag.org/maryland-287g-contracts-with-ice-growing/) (2025)
 - [Maryland sheriffs gain national attention amid push against 287(g) ban — Baltimore Sun](https://www.baltimoresun.com/2026/03/17/maryland-sheriffs-allen-west-287g-ban/) (Mar 17, 2026)
 - [Court ruling shows Maryland ICE 287(g) ban has had limited impact — Baltimore Sun](https://www.baltimoresun.com/2026/04/03/maryland-287g-ban/) (Apr 3, 2026)
+- [Despite threats, Maryland sheriffs quickly dropped 287(g) agreements with ICE — Maryland Matters](https://marylandmatters.org/2026/05/18/despite-threats-maryland-sheriffs-quickly-dropped-287g-agreements-with-ice/) (May 18, 2026)
 - [Maryland House Advances Community Trust Act — VisaHQ](https://www.visahq.com/news/2026-04-12/us/maryland-house-advances-community-trust-act-curbing-ice-detainers/) (Apr 12, 2026)
 - [House OKs amended version of Community Trust Act — Baltimore Sun](https://www.baltimoresun.com/2026/04/12/house-approves-community-trust-act/) (Apr 12, 2026)
 - [Senate panel advances Community Trust Act — Maryland Matters](https://marylandmatters.org/2026/04/10/senate-panel-advances-community-trust-act/) (Apr 10, 2026)

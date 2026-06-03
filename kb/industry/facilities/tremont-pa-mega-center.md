@@ -9,10 +9,12 @@ state: "PA"
 capacity: "7,500-10,000"
 operator: "ICE (federal)"
 contract_type: federal-purchase
-status: under-construction
+status: paused-dhs-review
 importance: 8
 tags: [warehouse-conversion, detention-reengineering, mega-center, pennsylvania]
 research_status: enriched
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 purchase_price: "$119 million"
 estimated_value: "~$60 million"
 markup: "~200%"
@@ -31,8 +33,8 @@ A warehouse in Tremont, Pennsylvania (central Pennsylvania) is designated as one
 
 - **Planned capacity**: 7,500-10,000 beds
 - **Facility type**: Large-scale mega-center (one of 8)
-- **Status**: Under construction
-- **Target completion**: FY2026
+- **Status**: Occupancy blocked by PA DEP orders; under appeal at the Environmental Hearing Board (EHB-ordered DEP/DHS settlement discussion by **June 8, 2026**; negotiations run through Nov. 4, 2026). See [[pa-schuylkill-tremont-ice-warehouse]].
+- **Target completion**: FY2026 (contingent on resolving DEP block)
 
 ## Financial Details (More Perfect Union, April 2026)
 

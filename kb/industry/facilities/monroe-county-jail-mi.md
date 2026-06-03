@@ -14,7 +14,7 @@ status: operational
 importance: 6
 tags: [county-jail, igsa, michigan, ohio-border, habeas-corpus, unlawful-detention-ruling]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # Monroe County Jail — Monroe MI

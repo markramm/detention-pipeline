@@ -11,8 +11,8 @@ outcome: "Baltimore County Council passed an emergency bill 6-0 on Feb 17, 2026 
 importance: 7
 tags: [maryland, baltimore-county, zoning-ban, private-detention, preemptive, emergency-legislation, hunt-valley, involuntary-confinement, klausmeier, julian-jones]
 research_status: working
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Baltimore County, Maryland: Emergency Zoning Ban After Hunt Valley ICE Office

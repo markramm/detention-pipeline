@@ -9,11 +9,13 @@ state: "PA"
 capacity: "500-1,500"
 operator: "ICE (federal)"
 contract_type: federal-purchase
-status: under-construction
+status: paused-dhs-review
 importance: 7
 tags: [warehouse-conversion, detention-reengineering, regional-processing-center, pennsylvania, local-opposition]
 research_status: stub
 fips: '42011'
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Upper Bern Township PA Warehouse — ICE Processing Center
@@ -28,6 +30,10 @@ In February 2026, ICE paid approximately **$87 million** for a warehouse in Uppe
 - **Purchase date**: February 2026
 - **Facility type**: Regional processing center (one of 16)
 - **Target completion**: FY2026
+
+## Status (as of June 2026)
+
+Occupancy is **blocked**. PA DEP's March 5, 2026 administrative orders bar DHS from occupying the site or connecting to water/sewer until it demonstrates compliance with state environmental law. ICE appealed to the PA Environmental Hearing Board (April 8); Judge Bernard Labuskes Jr. assigned. The EHB ordered DEP and DHS to **discuss a settlement by June 8, 2026**, with discovery/negotiation running through Nov. 4, 2026. Separately, on May 14, 2026 the township approved a deal in which developer Transwestern/GACSD will pay Upper Bern **$82,390** for construction deficiencies. Full detail in the county-fight entry [[pa-berks-upper-bern-ice-warehouse]].
 
 ## Legal Questions
 

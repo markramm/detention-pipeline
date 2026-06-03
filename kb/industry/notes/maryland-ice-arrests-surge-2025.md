@@ -6,8 +6,8 @@ state: MD
 importance: 7
 tags: [ice-arrests, statistics, non-criminal, maryland, baltimore-aor]
 research_status: enriched
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Maryland — ICE Arrest Surge in 2025

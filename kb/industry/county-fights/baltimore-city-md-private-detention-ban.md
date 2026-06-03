@@ -11,8 +11,8 @@ outcome: "Council President Zeke Cohen's bill to establish 'private detention ce
 importance: 8
 tags: [maryland, baltimore, zoning-ban, private-detention, preemptive, prohibited-use, zeke-cohen, safe-spaces-act, fallon-building, preemptive-defense]
 research_status: working
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Baltimore City, Maryland: Citywide Zoning Ban on Private Detention Centers

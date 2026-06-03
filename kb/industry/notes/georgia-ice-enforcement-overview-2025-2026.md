@@ -13,7 +13,7 @@ tags:
 - enforcement-surge
 - state-overview
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Georgia ICE Enforcement Overview 2025-2026
@@ -48,6 +48,10 @@ Georgia has become one of the most aggressive ICE-enforcement states in the coun
 | [[social-circle-ga-mega-center\|Social Circle mega-center]] | Walton (13297) | ICE (federal) | 7,500–10,000 | in litigation; city sued DHS May 14, 2026 |
 | Oakwood (proposed) | Hall (13139) | TBD | TBD | city council voted for stay |
 
+## The Counter-Current: Eleventh Circuit Bond Hearings
+
+While HB 1105 widens the intake funnel, the **Eleventh Circuit ruled FOR bond hearings** on **May 6, 2026** (*Hernández Álvarez v. Warden, FDC Miami*, No. 25-14065), binding GA, FL, and AL. See [[bond-hearing-circuit-split-2026]]. Georgia is the epicenter: the lead district case (Atlanta attorney **Karen Weinstock**, on behalf of Stewart detainee **Jesús Arizmendi Mora**) produced a **Nov. 3, 2025 order from Judge Clay D. Land** in the Middle District of Georgia, and **at least 15 bond-hearing orders have followed there, with more pending** — a habeas relief valve for [[stewart-detention-center-ga|Stewart]] detainees now reinforced by binding circuit precedent. This is the principal legal countervailing force against the HB 1105 deportation pipeline.
+
 ## Political Response
 
 - **Sen. Raphael Warnock** and **Sen. Jon Ossoff** have pushed legislation to defund Social Circle/Oakwood centers and to require local approval before ICE opens new detention facilities.
@@ -63,3 +67,5 @@ Georgia has become one of the most aggressive ICE-enforcement states in the coun
 - [Anti-ICE protesters ended the No Kings rally in Macon early over 287(g) — GPB (Mar 30, 2026)](https://www.gpb.org/news/2026/03/30/anti-ice-protesters-ended-the-no-kings-rally-in-macon-early-over-287g-explainer)
 - [HB 1105: Georgia's Racial Profiling Bill — Project South (fact sheet)](https://projectsouth.org/wp-content/uploads/2023/04/NEW-HB-1105-Fact-Sheet.pdf)
 - [South Georgia ICE arrests reveal a new reality of immigration enforcement — GPB (Aug 28, 2025)](https://www.gpb.org/news/2025/08/28/south-georgia-ice-arrests-reveal-new-reality-of-immigration-enforcement)
+- [New Eleventh Circuit Decision Expands Bond Eligibility for Immigrants Detained in Georgia, Florida, and Alabama — Zambrano Law (May 2026)](https://www.zambranolaw.com/blog/2026/05/new-eleventh-circuit-decision-expands-bond-eligibility-for-immigrants-detained-in-georgia-florida-and-alabama/)
+- [Habeas Corpus Victory: Karen Weinstock Wins Bond Hearing Rights for ICE Detainees in Georgia — Weinstock Immigration Lawyers](https://visa-pros.com/habeas-corpus-victory-karen-weinstock-wins-bond-hearing-rights-for-ice-detainees-in-georgia/)

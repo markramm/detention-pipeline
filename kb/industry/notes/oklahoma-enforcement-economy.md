@@ -12,7 +12,7 @@ tags:
 - corecivic
 - diamondback
 research_status: working
-last_researched: "2026-05-27"
+last_researched: "2026-06-02"
 state: OK
 ---
 
@@ -50,6 +50,33 @@ Oklahoma houses ICE detainees at **Diamondback (Watonga)**, **Cimarron Correctio
 (Cushing)**, **Kay County Detention Center (Newkirk)**, and **multiple county jails**. A
 July 8, 2025 federal directive subjects most immigrants to mandatory detention without bond
 hearings; attorneys describe no-notice transfers between facilities as a "shell game."
+
+**Diamondback financials (per partially-redacted contract released by ODOC):** the state
+receives **~$833,333/month (~$10M/yr)** from CoreCivic to manage detainee placement; CoreCivic
+expects to invest an additional **~$13M in ICE-requested renovations**; the facility carries a
+**guaranteed minimum of ~1,200 detainees** against its 2,160 beds and hit **730+ detained on a
+single day** by mid-March 2026. Attorneys report habeas decisions take ~2 months, during which
+ICE pressures detainees with **voluntary-departure cash offers now raised to $2,500** (up from
+$1,000) plus a plane ticket. **~100 habeas petitions** have been filed in OK federal courts
+since September 2025 (per Habeas Dockets).
+
+## Transparency Fight: Newsrooms Sue ODOC Over Diamondback IGSA (May 2026 update)
+
+On **May 6, 2026, Oklahoma Voice and The Frontier sued the Oklahoma Department of Corrections**
+in Oklahoma County District Court (**cv-2026-1121**), represented by RCFP attorney Leslie Briggs,
+alleging an **Oklahoma Open Records Act violation**. ODOC released a *partially redacted* CoreCivic
+contract but refused to release the underlying **Intergovernmental Service Agreement (IGSA)
+between the state and ICE**, claiming federal FOIA protections. Briggs argues "DOC may not defer
+its obligations under the open records act to ICE." Why it matters: this is the first formal legal
+challenge forcing disclosure of the state-federal financial terms behind Oklahoma's detention
+buildout — a documentation/transparency front rather than a siting fight.
+
+## Stitt Welfare-Verification EO (May 6, 2026)
+
+After the Oklahoma Senate stalled immigration-verification bills, **Gov. Stitt signed an executive
+order on May 6, 2026** directing OK DHS and the Oklahoma Health Care Authority to use the federal
+**SAVE system** to verify immigration status for TANF, SNAP, and Medicaid applicants — extending
+the enforcement economy from policing/detention into benefits administration.
 
 Oklahoma County (FIPS 40109) is not itself a confirmed ICE-IGSA holder, but its jail is in
 acute financial crisis — see [[oklahoma-county-jail-bonds-trust-dissolution]].

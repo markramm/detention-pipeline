@@ -13,7 +13,7 @@ status: litigation
 importance: 9
 tags: [warehouse-conversion, detention-reengineering, mega-center, georgia, water-crisis, community-opposition, infrastructure-limits]
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 purchase_price: "$129 million"
 estimated_value: "$29 million"
 markup: "333%"

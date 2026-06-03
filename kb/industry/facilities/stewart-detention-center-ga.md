@@ -20,7 +20,7 @@ tags:
 - economic-capture
 - conditions-abuse
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 fips: '13259'
 ---
 
@@ -46,6 +46,12 @@ Recent deaths (2026):
 - **Denny Adán González**, 33 — died **April 28, 2026**. CoreCivic staff found him unresponsive in his cell around 10:25 p.m. and began CPR. Suspected cause is **suicide** (official cause under investigation). He was reportedly held in **solitary confinement** at the time — a practice internationally recognized as torture. González was arrested in North Carolina in December 2025 (assault on a female / domestic violence) and transferred to ICE custody at Stewart in January 2026. Detention Watch Network reported him as the **18th reported ICE detention death of 2026** nationally, and the **second Georgia ICE-custody death of 2026**. Advocates are calling for a **full independent investigation** into his death and the "rampant use of force" at Stewart.
 
 Georgia Senators Ossoff and Warnock have repeatedly blasted ICE over deaths across Georgia facilities.
+
+## Bond Hearings — Stewart Is the Epicenter of the Eleventh Circuit's Pro-Bond Ruling
+
+Stewart sits in the **U.S. District Court for the Middle District of Georgia** and the **Eleventh Circuit**, which on **May 6, 2026** ruled FOR bond hearings in *Hernández Álvarez v. Warden, FDC Miami* (No. 25-14065) — holding that immigrants who entered without inspection but were arrested in the interior are entitled to bond hearings under INA § 236(a), not mandatory no-bond detention under § 235(b)(2)(A). See [[bond-hearing-circuit-split-2026]].
+
+The Eleventh Circuit ruling formalized a fight that began at Stewart. The lead district case, brought by Atlanta immigration attorney **Karen Weinstock** on behalf of **Jesús Arizmendi Mora** — a Mexican national held at Stewart who had lived in the U.S. for over two decades — produced a **Nov. 3, 2025 order from U.S. District Judge Clay D. Land** directing ICE to provide a bond hearing. Land: "Congress clearly intended for some aliens, who are arrested and similarly situated to [Arizmendi Mora], to be provided with the opportunity for a bond." Since that ruling, **at least 15 bond-hearing orders have followed in the Middle District of Georgia, with more pending** — a habeas wave concentrated on Stewart detainees, now reinforced by binding circuit precedent. This is the clearest pathway out of indefinite detention for the Stewart population short of deportation.
 
 ## Conditions
 
@@ -75,3 +81,6 @@ Stewart County (population ~6,000) is one of Georgia's poorest counties. The det
 - [Detention Watch Network: Third suicide at Stewart (2025)](https://www.detentionwatchnetwork.org/pressroom/releases/2025/third-death-suicide-georgias-ice-detention-center-advocates-call-immediate)
 - [Georgia Sun: Senators blast ICE over 14 deaths](https://thegeorgiasun.com/government/georgia-senators-blast-ice-over-14-deaths-and-detention-conditions)
 - [WABE: Georgia's immigration detention system](https://www.wabe.org/georgias-immigration-detention-system-and-the-people-it-affects/)
+- [New Eleventh Circuit Decision Expands Bond Eligibility for Immigrants Detained in Georgia, Florida, and Alabama — Zambrano Law (May 2026)](https://www.zambranolaw.com/blog/2026/05/new-eleventh-circuit-decision-expands-bond-eligibility-for-immigrants-detained-in-georgia-florida-and-alabama/)
+- [Habeas Corpus Victory: Karen Weinstock Wins Bond Hearing Rights for ICE Detainees in Georgia (Arizmendi Mora, Stewart; Judge Land, Nov. 3, 2025) — Weinstock Immigration Lawyers](https://visa-pros.com/habeas-corpus-victory-karen-weinstock-wins-bond-hearing-rights-for-ice-detainees-in-georgia/)
+- [Eleventh Circuit published opinion No. 25-14065 (Hernández Álvarez v. Warden, FDC Miami, May 6, 2026)](https://media.ca11.uscourts.gov/opinions/pub/files/202514065.pdf)

@@ -116,14 +116,18 @@ This note is the connective tissue for findings filed under individual states:
    Marana target) traces to this single end-of-FY2026 implementation date — which
    is what drives the rushed timelines that NEPA suits (Social Circle, Roxbury NJ,
    Williamsport MD) keep colliding with.
-   - **CAVEAT — NEPA wins may not travel (*Trump v. CASA*, 2025).** That SCOTUS
-     decision made the Maryland NEPA injunction (Williamsport) effectively
-     jurisdictional/non-nationwide, so a win in one circuit does not bind ICE
-     elsewhere. Confirmed in TX: the Bexar/San Antonio Oakmont 410 warehouse is
-     proceeding toward an early-2027 opening precisely because the Fourth Circuit
-     Maryland injunction doesn't reach the Fifth Circuit. NEPA is a per-circuit
-     speed bump, not a national brake — pair this with the owner-withdrawal pattern,
-     which *does* kill sites outright regardless of circuit.
+   - **CAVEAT — NEPA wins are site-specific, not national (*Trump v. CASA*, 2025).**
+     CASA barred *nationwide* injunctions, so a NEPA ruling against one warehouse does
+     not shield warehouses elsewhere. Confirmed in TX: the Bexar/San Antonio Oakmont
+     410 warehouse is proceeding toward early-2027 *because* the Maryland (Fourth
+     Circuit) NEPA injunction doesn't reach the Fifth Circuit. IMPORTANT NUANCE: a
+     *project-specific* injunction still binds its own site — Williamsport's MD
+     injunction holds, and DHS chose to comply (running an Environmental Assessment +
+     Section 106 review for Williamsport AND Roxbury NJ, May 2026, after initially
+     claiming a categorical exclusion) rather than appeal. So NEPA = a per-site speed
+     bump that can force real review at the litigated site, but not a transferable
+     national brake. Contrast the owner-withdrawal pattern, which kills sites outright
+     regardless of circuit.
 3. **It explains why state bans keep failing to close facilities.** A federally
    funded, federally contracted national network routes around state-level bans
    (see [[new-mexico-hb9-direct-federal-bypass]], and Virginia's two-track pattern)

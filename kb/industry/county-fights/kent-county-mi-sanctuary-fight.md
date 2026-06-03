@@ -11,7 +11,7 @@ outcome: "ICE seeking 10-year lease for Grand Rapids office space via GSA. No sa
 importance: 6
 tags: [ice-office-expansion, sanctuary-fight, grand-rapids, michigan, community-opposition, flock-cameras]
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Kent County MI — ICE Office Expansion and Sanctuary Policy Fight

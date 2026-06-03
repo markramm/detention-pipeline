@@ -15,7 +15,7 @@ purchase_price: "$34.7 million"
 importance: 9
 tags: [warehouse-conversion, detention-reengineering, regional-processing-center, michigan, lawsuit, ag-opposition, near-schools, dhs-pause, noem-era-review]
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Romulus MI Warehouse — ICE Regional Processing Center
@@ -73,6 +73,8 @@ Romulus **Mayor Robert McCraight** vowed the city would **not issue a permit or 
 **Intervenors**: On **May 11, 2026**, the **ACLU of Michigan, Michigan Immigrant Rights Center, and Detroit Justice Center** moved to join the case as parties. A motion hearing originally set for late April was rescheduled as a **virtual proceeding for May 21, 2026** — the first at which all three organizations would appear as parties. The case is in its third month with no ruling on the injunction as of late May.
 
 **Rep. Rashida Tlaib** (D-Detroit) publicly pressed ICE over the warehouse's use for detention (Apr. 23).
+
+**Status as of June 2, 2026**: Still **no ruling** on the preliminary-injunction motion argued at the May 21 virtual hearing. The DHS warehouse pause (April 1, Mullin review of Noem-era contracts) remains the operative status, and the facility is not operational. No new filings or ruling reported in the May 28–June 2 window.
 
 ## Protests (April 2026)
 

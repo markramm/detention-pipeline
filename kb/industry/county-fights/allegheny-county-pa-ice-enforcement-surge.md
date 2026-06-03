@@ -22,7 +22,7 @@ tags:
 - courthouse-arrests
 research_status: working
 last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_news_check: "2026-06-02"
 ---
 
 # Allegheny County PA — ICE Enforcement Surge, Council Ban, Sheriff Courthouse Complicity, Municipal 287(g) Chaos

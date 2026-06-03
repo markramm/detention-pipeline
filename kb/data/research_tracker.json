@@ -213,12 +213,12 @@
       "notes": "Charlton/Folkston: GEO merger to 3,000 beds; activists rallied at Atlanta ICE field office to shut it down."
     },
     "13121": {
-      "last_researched": "2026-05-28",
-      "notes": "Fulton/Atlanta: metro core still holding out on 287(g) while surrounding GA jurisdictions sign on; SONG win on ICE detainers."
+      "last_researched": "2026-06-02",
+      "notes": "Fulton/Atlanta: metro core still holding out on 287(g) while surrounding GA jurisdictions sign on. No new metro-Atlanta-specific development this window."
     },
     "13259": {
-      "last_researched": "2026-05-28",
-      "notes": "Stewart (CoreCivic): new death Denny Adan Gonzalez Apr 28 2026, suspected suicide in solitary; 14th death at facility."
+      "last_researched": "2026-06-02",
+      "notes": "Stewart (Lumpkin): epicenter of Eleventh Circuit bond-hearing wave \u2014 lead case Arizmendi Mora, Judge Land Nov 3 2025, 15+ MDGA bond orders followed, now backed by Hernandez Alvarez (May 6 2026). No new death since Gonzalez Apr 28."
     },
     "13297": {
       "last_researched": "2026-05-28",
@@ -525,8 +525,8 @@
       "notes": "St. Marys County \u2014 287(g) signed Mar 3 2025, 6 detainers, Sheriff Steve Hall, terminated by state ban"
     },
     "24043": {
-      "last_researched": "2026-04-12",
-      "notes": "Washington County \u2014 Williamsport warehouse $102.4M, $113M reno contract, TRO, DHS pause, commissioners pro-ICE, sheriff 287(g) until May"
+      "last_researched": "2026-06-02",
+      "notes": "Washington Co/Williamsport: DHS now doing an EA + Section 106 review (May 12/May 20) instead of appealing Hurson PI; project still paused."
     },
     "24045": {
       "last_researched": "2026-04-12",
@@ -537,8 +537,8 @@
       "notes": "Worcester County \u2014 Secure Communities only, Sheriff Crisafulli opposed ICE Breaker Act"
     },
     "24510": {
-      "last_researched": "2026-05-27",
-      "notes": "Baltimore City \u2014 Council Pres Zeke Cohen citywide zoning ban making private detention a prohibited use (12 of 15 co-sponsors; committee-advanced Apr 30, full council scheduled May 11, final vote not yet confirmed in press); Safe Spaces & Communities Act passed 14-0 Mar 23; Fallon Building federal hold rooms (class action capped at 56, AG records suit). New county-fight: baltimore-city-md-private-detention-ban."
+      "last_researched": "2026-06-02",
+      "notes": "Baltimore City: no new movement on Cohen private-detention zoning ban (May 11 full-council vote still unconfirmed in press) or Fallon Building class action (Rubin 56-cap) since May 26."
     },
     "25001": {
       "last_researched": "2026-04-12",
@@ -585,8 +585,8 @@
       "notes": "Kent MI \u2014 Grand Rapids ICE office expansion (10yr GSA lease, Waters Center), sanctuary policy fight, GR Rapid Response to ICE community group, East GR considering enforcement limits. No 287(g) or IGSA."
     },
     "26085": {
-      "last_researched": "2026-05-28",
-      "notes": "Lake MI \u2014 North Lake/Baldwin (GEO, ~1400 detainees). Hunger strike ~300 men Apr 21; ACLU-MI+MIRC complaint to ICE May 14-15 over medical neglect (insulin/BP/mammogram denials) + blocked attorney/legal access; congressional independent investigation demanded."
+      "last_researched": "2026-06-02",
+      "notes": "North Lake/Baldwin: Jun 1 sexual-assault-then-deportation story (transgender Venezuelan detainee Q)."
     },
     "26115": {
       "last_researched": "2026-04-12",
@@ -601,8 +601,8 @@
       "notes": "St. Clair MI \u2014 County jail IGSA, Port Huron, Canadian border (Blue Water Bridge). Sheriff Mat King. No 287(g) despite legislative pressure."
     },
     "26163": {
-      "last_researched": "2026-05-28",
-      "notes": "Wayne MI \u2014 Romulus warehouse still PAUSED under DHS Mullin review. DHS ~500pg court filings Apr 22-23 (lead contamination/fencing plans); ACLU/MIRC/Detroit Justice Center joined suit May 11; virtual PI hearing May 21, no ruling; ~200 protesters marched Apr 25 with Lt Gov Gilchrist. Case 2:26-cv-10968."
+      "last_researched": "2026-06-02",
+      "notes": "Romulus warehouse PI still no ruling as of Jun 2; case under advisement."
     },
     "27035": {
       "last_researched": "2026-04-13",
@@ -1061,8 +1061,8 @@
       "notes": "Williams \u2014 CCNO regional jail (5 counties), 96 ICE beds, $117/day, 8-2 board vote, Lucas County dissent. Score N/A (not in heatmap)."
     },
     "40109": {
-      "last_researched": "2026-05-27",
-      "notes": "Oklahoma County \u2014 new jail cost ballooned to ~$835M (2.6x), ~$635M gap on 2022 $260M bond; public-safety sales tax rejected Jan 2026, vape/marijuana tax floated; Budget Board recommended dissolving Criminal Justice Authority (jail trust) 6-1 Mar 18 2026, returning jail to Sheriff Tommie Johnson III; DA Behenna/Sheriff clash May 8 2026 over detainee transport. No confirmed ICE IGSA at OCDC yet; OKC warehouse (in-county) blocked. Highest commission-signal county in system."
+      "last_researched": "2026-06-02",
+      "notes": "No change in 7d. Jail-trust dissolution in process; OKC warehouse blocked; no confirmed IGSA at county jail."
     },
     "40143": {
       "last_researched": "2026-04-12",
@@ -1093,16 +1093,24 @@
       "notes": "Multnomah/Portland \u2014 Operation Black Rose epicenter (apprehensions ~600% spike). OSP LEDS data-sharing lawsuit filed in Multnomah County Circuit Court May 5-6 2026."
     },
     "42003": {
-      "last_researched": "2026-05-28",
-      "notes": "Allegheny: County ban + Pittsburgh City Council Bill 286 (Apr 7) and May 6 bills."
+      "last_researched": "2026-06-02",
+      "notes": "Allegheny: no new developments in last 5 days; county+Pittsburgh bans stand."
+    },
+    "42011": {
+      "last_researched": "2026-06-02",
+      "notes": "Berks/Upper Bern warehouse: EHB DEP-DHS settlement talk by June 8 2026; May 14 township deal, Transwestern pays $82,390 for deficiencies. Site still occupancy-blocked."
     },
     "42033": {
-      "last_researched": "2026-05-28",
-      "notes": "Clearfield: Moshannon Valley closure fight; GEO contract expires 2026; deaths, hunger strike, Lee/Deluzio visit."
+      "last_researched": "2026-06-02",
+      "notes": "Clearfield/Moshannon: June 1 Deluzio data \u2014 1,417 held, 78% low-security, translators barred; GEO contract expires Sept 28 2026, vote in Sept, 2-1 lean renew."
     },
     "42101": {
-      "last_researched": "2026-05-28",
-      "notes": "Philadelphia: Parker signed 6/7 ICE Out bills May 7; mask ban law unsigned; effective July."
+      "last_researched": "2026-06-02",
+      "notes": "Philadelphia ICE-Out: no change since May 28 \u2014 6/7 bills signed May 7, mask ban law unsigned, all effective July."
+    },
+    "42107": {
+      "last_researched": "2026-06-02",
+      "notes": "Schuylkill/Tremont mega-center (7,500 beds): EHB DEP-DHS settlement talk by June 8 2026; occupancy still blocked."
     },
     "44007": {
       "last_researched": "2026-05-28",
@@ -1411,8 +1419,8 @@
       "notes": "Alligator Alcatraz closure firmed up: vendors formally notified May 26 it is shutting down, last detainee leaves June 2026, 2-3wk demobilization then reverts to pilot-training airport. Pop 655 (Frost 5/26, WFLX 5/29) vs ~1,400 in closure reporting. Detainees transferred not released: in-state (Baker/Krome/BTC/Glades) + out-of-state (California City CA, Fort Bliss TX). Panhandle Pokey already dead (5/22). No new developments at other FL sites in 6-day window."
     },
     "GA": {
-      "last_researched": "2026-05-28",
-      "notes": "Social Circle SUED DHS/ICE May 14 (NEPA+APA+public nuisance) after DHS resumed mega-center as part of $38.3B/92,600-bed national strategy; new Stewart death Denny Adan Gonzalez Apr 28 (18th US ICE death of 2026, 14th at Stewart); statewide 287(g) surge under HB 1105 (57 agencies, 41 arrests/day, +85% YoY); Oakwood council voted for stay. Folkston merger to 3,000 beds proceeding."
+      "last_researched": "2026-06-02",
+      "notes": "Quiet ~5-day window since May 28. No ruling on Social Circle v. DHS (filed May 14, NEPA+APA+nuisance); water meter still locked, ICE confirms NO construction begun, June intake timeline missed. No new Stewart death since Gonzalez (Apr 28). KEY NEW ANGLE: Eleventh Circuit bond ruling (Hernandez Alvarez, May 6) playing out at Stewart \u2014 lead case Arizmendi Mora (Stewart detainee, atty Karen Weinstock, Judge Land, MDGA, Nov 3 2025 order); at least 15 bond-hearing orders followed in MDGA, more pending. Folkston merger to 3,000 beds still proceeding. Linked bond-hearing-circuit-split-2026."
     },
     "GU": {
       "last_researched": "2026-05-28",
@@ -1455,16 +1463,16 @@
       "notes": "May 2026: Senate passed stronger PROTECT Act 37-3 (now in conference vs House); DOJ sued MA over ICE confidential license plates (1 of 4 states); Healey statewide sensitive-spaces guidance; Burlington ICE Congressional Accountability Project launched; Hanscom 132 flights/yr w/ Signature Aviation named; Plymouth 87.3% no convictions, Warren/Markey conditions review; Pressley/Clark/McGovern oversight."
     },
     "MD": {
-      "last_researched": "2026-05-27",
-      "notes": "Baltimore-area zoning playbook proliferating: Baltimore CITY (24510) Cohen citywide private-detention prohibited-use zoning ban (committee-advanced Apr 30, full council May 11) + Safe Spaces & Communities Act passed 14-0 Mar 23 (bars ICE from city buildings, limits police coop) + pension-divestment proposal; Baltimore COUNTY (24005) emergency zoning ban 6-0 Feb 17 (Hunt Valley ICE legal-office trigger, retroactive permit revocation). Fallon Building hold-room class action (Judge Rubin) capped facility at 56, AG Brown records suit. Williamsport warehouse NEPA PI (Hurson) still in place. Howard/Elkridge precedent. 287(g) ban + sheriff defiance + Community Trust Act + Dignity Not Detention. Deep."
+      "last_researched": "2026-06-02",
+      "notes": "DHS NEPA capitulation on Williamsport: determined an Environmental Assessment is warranted + will re-engage Section 106 NHPA consulting parties (May 12 county statement); Bloomberg Law May 20 confirms NEPA reviews now underway for both MD (Williamsport) and NJ (Roxbury), reversing categorical exclusion. No 4th Cir appeal of Hurson PI. MD 287g formal agreements collapsed quickly (May 18 MM): 8/9 counties out, 9th unenforced. No movement on Baltimore City/County zoning bans or Fallon class action since May 26."
     },
     "ME": {
       "last_researched": "2026-05-28",
       "notes": "Buildout: state overview note, 2 facilities (Cumberland County Jail, Two Bridges Regional Jail), DOJ confidential-plate-lawsuit county-fight. Operation Catch of the Day (200+ arrested Jan 2026), jails exiting USMS contracts, 287(g) banned, May 28 DOJ plate suit (ME/MA/OR/WA)."
     },
     "MI": {
-      "last_researched": "2026-05-28",
-      "notes": "MAY 2026 UPDATE: North Lake/Baldwin (GEO, ~1400 of 1800 beds) hunger strike Apr 21 by ~300 men over prolonged detention/medical neglect/conditions; ACLU-MI + MIRC complaint to ICE Detroit Field Office (dir. Kevin Raycraft) May 14-15 documenting denied insulin/BP meds/mammogram, attorney access blocked, calling for congressional independent investigation. Romulus warehouse: DHS filed ~500pg court docs Apr 22-23 detailing fencing/lead-contamination junkyard concern; still PAUSED under Mullin Noem-era review; ACLU/MIRC/Detroit Justice Center joined NEPA suit May 11; virtual PI hearing May 21, no ruling. ~200 marched Apr 25 (Lt Gov Gilchrist). 287(g): West Branch added (Nov 2025 task-force MOA, Ogemaw Co); ~8 MI agencies total, Genesee+Center Line rescinded. Kent Co sanctuary push continues, no policy adopted."
+      "last_researched": "2026-06-02",
+      "notes": "5-day sweep (May 28-Jun 2). NEW: Jun 1 Michigan Public/Advance + ProPublica story \u2014 transgender Venezuelan woman (Q) reported sexual assault by cellmate at North Lake (Mar 16), deported to Venezuela mid-April while ICE PREA investigation still ongoing; Lake Co prosecutor no charges; ties to Jan 2026 federal rollback of trans PREA protections. Romulus PI still UNDECIDED post-May 21 hearing (no ruling, DHS pause holds). No new 287(g) signings (still 7). IGSA jails (Calhoun/Monroe/Chippewa/St.Clair) no change. No new window-specific Lopez-Campos habeas releases found."
     },
     "MN": {
       "last_researched": "2026-05-28",
@@ -1523,16 +1531,16 @@
       "notes": "6 ICE-contract facilities ($13.2M+ FY); 287g 0->20 agreements but ~half signing chiefs gone/on leave (Statehouse News May 11); Butler assault lawsuit (Tenelanda, filed May 18) + weekly cancel-contract campaign; statewide week of action May 23-30; OIA report 7,756 detained Jan25-Mar26, <5% violent; new bill to bar civil arrests in sensitive locations (May 13); NEOCC stabbing Jan 30."
     },
     "OK": {
-      "last_researched": "2026-05-27",
-      "notes": "287(g) expanded to 28+ agencies (from 3 pre-2025); Gov. Stitt signed state-level agreements Feb 18/25 2025; DHS Sept 2025 reimbursement + bonuses (~$175M/yr potential). ICE detention at Diamondback/Watonga, Cimarron/Cushing, Kay County/Newkirk + county jails. OKC warehouse blocked, Choctaw Nation purchase."
+      "last_researched": "2026-06-02",
+      "notes": "Fresh sweep May26-Jun2: no new developments. All surfaced sources Jan-Mar 2026, already in KB. Diamondback/Watonga operational (730+ on single day, fully-operating Q2 2026); Oklahoma Voice+Frontier v ODOC open-records suit (cv-2026-1121, filed May 6) pending; OK County jail-trust dissolution still in process post-Mar 18 6-1 board rec; 287g 28-35+ agencies stable; OKC warehouse remains blocked."
     },
     "OR": {
       "last_researched": "2026-05-28",
       "notes": "Sanctuary since 1987; Operation Black Rose ran Sept 27 2025-Mar 1 2026 (100+ agents, 1100+ arrests) disclosed Apr 15-17. NEW: Rural Organizing Project sued OSP May 5-6 over LEDS database (~1.4M ICE queries/yr) \u2014 created note. Albany mom released via habeas May 7-8; detainees testified in Eugene May 17. Kotek signed 9 protection bills. Lane sheriff Wilkerson ran unopposed May 19. Newport/Coos paused not dead."
     },
     "PA": {
-      "last_researched": "2026-05-28",
-      "notes": "Moshannon Valley (Clearfield, GEO, 1876 beds, largest in NE) contract expires 2026 \u2014 closure fight, April hunger strike, 3 deaths incl Chaofeng Ge suicide (May 27 AP), Lee/Deluzio visit May 28. Phila ICE Out: Parker signed 6/7 May 7, mask ban became law unsigned, effective July. Pittsburgh City Council Bill 286 (Apr 7) + May 6 staging/warrant bills. Berks/Schuylkill warehouses still blocked by DEP, EHB appeal through Nov. 287g constable backdoor paused."
+      "last_researched": "2026-06-02",
+      "notes": "~5-day update. NEW: (1) June 1 Deluzio/Lee released post-visit Moshannon data \u2014 1,417 detained (none children), ~78% (1,100) low-security, translators/staff barred; first congressional access. (2) Berks/Schuylkill warehouse EHB case: DEP+DHS ordered to discuss settlement by June 8, 2026 (Judge Labuskes); negotiations through Nov 4. (3) Upper Bern twp approved May 14 deal \u2014 developer Transwestern/GACSD pays $82,390 for construction deficiencies. Moshannon GEO contract expires Sept 28, 2026; renewal vote in Sept, still 2-1 lean renew (Glass opposed). No new Philly ICE-Out (still July effective), Allegheny, or 287g developments."
     },
     "RI": {
       "last_researched": "2026-05-28",

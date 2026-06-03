@@ -22,7 +22,7 @@ tags:
   - rue-landau
 research_status: working
 last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_news_check: "2026-06-02"
 ---
 
 # Philadelphia, PA: The "ICE Out" Package

@@ -22,8 +22,8 @@ tags:
   - mega-facility
   - big-lots
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Schuylkill County, PA: The Tremont Township Mega-Facility Fight
@@ -40,7 +40,7 @@ The 1.3-million sq ft facility — with 40-foot ceilings — was built as a mega
 
 **DEP orders — March 5, 2026**: PA DEP Secretary Shirley issued orders covering both the Tremont and Upper Bern sites, barring DHS from using SCMA's Tremont drinking water system, connecting to sewer, or occupying the warehouse without required environmental permits and compliance showings. The Schuylkill County Municipal Authority was separately ordered not to extend water or sewer service. DEP framed the action as protecting rural communities from "overwhelmed sewage facilities leaking raw waste into our streets and rivers."
 
-**DHS appeal — April 8, 2026**: ICE filed an appeal with the **Pennsylvania Environmental Hearing Board**, arguing for "reasonable use" of water and wastewater systems at levels previously approved for the prior industrial tenants. The Environmental Hearing Board's Chair and Chief Judge Steven C. Beckman consolidated both the Berks and Schuylkill site appeals; **Judge Bernard Labuskes Jr.** assigned. The prehearing order set discovery and settlement negotiation deadlines running through **November 4, 2026**. Former DEP Secretary David Hess told Spotlight PA the contested process "can be a several-year kind of process."
+**DHS appeal — April 8, 2026**: ICE filed an appeal with the **Pennsylvania Environmental Hearing Board**, arguing for "reasonable use" of water and wastewater systems at levels previously approved for the prior industrial tenants. The Environmental Hearing Board's Chair and Chief Judge Steven C. Beckman consolidated both the Berks and Schuylkill site appeals; **Judge Bernard Labuskes Jr.** assigned. The prehearing order set discovery and settlement negotiation deadlines running through **November 4, 2026**, and directs DEP and DHS to **discuss a settlement by June 8, 2026** (the contested case may otherwise run for months or years). Former DEP Secretary David Hess told Spotlight PA the contested process "can be a several-year kind of process."
 
 ## Timeline
 

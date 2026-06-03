@@ -21,8 +21,8 @@ tags:
   - pennsylvania
   - shapiro
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Berks County, PA: The Upper Bern Warehouse Fight
@@ -37,7 +37,9 @@ DHS's plan: convert the warehouse — which has 40-foot ceilings and 100 loading
 
 Former DEP Secretary David Hess — who noted he had "never seen an administrative order advise potential project developers in such detail about requirements" without prior violations — told Spotlight PA that if no settlement is reached, the Environmental Hearing Board process "can be a several-year kind of process."
 
-**DHS appeal**: On **April 8, 2026**, ICE filed an appeal with the Pennsylvania Environmental Hearing Board, asking the board to allow "reasonable use of the water and wastewater systems" at levels previously approved for the prior industrial owners. Environmental Hearing Board Chair and Chief Judge Steven C. Beckman issued a prehearing order; **Judge Bernard Labuskes Jr.** assigned to the case. Discovery and settlement negotiations run through **November 4, 2026**.
+**DHS appeal**: On **April 8, 2026**, ICE filed an appeal with the Pennsylvania Environmental Hearing Board, asking the board to allow "reasonable use of the water and wastewater systems" at levels previously approved for the prior industrial owners. Environmental Hearing Board Chair and Chief Judge Steven C. Beckman issued a prehearing order; **Judge Bernard Labuskes Jr.** assigned to the case. Discovery and settlement negotiations run through **November 4, 2026**. The EHB pre-hearing order directs DEP and DHS to **discuss a settlement by June 8, 2026**; if none is reached the contested case could stretch for months or years.
+
+**Construction-deficiency settlement (separate track)**: On **May 14, 2026**, the Upper Bern Township supervisors approved a termination agreement under which the developer, **Transwestern Development Co.** (via GACSD Industrial Development LLC), will pay the township **$82,390** to resolve outstanding construction deficiencies — $62,000 for culvert cleaning on Schoolhouse Road, $10,390 for sanitary-sewer-line location under Mountain Road, and $10,000 for DEP permit closure. Board Chair Gloria Grim said the township did not want to "bear any cost." This is distinct from the ongoing DEP/DHS environmental dispute.
 
 ## Timeline
 
@@ -50,6 +52,8 @@ Former DEP Secretary David Hess — who noted he had "never seen an administrati
 - **2026-04-08**: ICE/DHS file appeal to PA Environmental Hearing Board
 - **2026-04-13**: Penncapital-Star reports ICE is "fighting DEP orders" on both sites
 - **2026-04-21**: Spotlight PA reports process could stretch "months or even years"; deadline schedule through Nov. 4, 2026
+- **2026-05-14**: Upper Bern supervisors approve termination agreement; Transwestern/GACSD to pay township $82,390 for construction deficiencies (reported May 27)
+- **2026-06-08**: EHB-ordered deadline for DEP and DHS to discuss a settlement of the administrative orders
 
 ## Key Actors
 
@@ -74,3 +78,5 @@ The Upper Bern case established the Shapiro administration's primary weapon agai
 - [Penn Capital-Star: ICE fighting DEP orders on two PA sites](https://penncapital-star.com/energy-environment/ice-fighting-dep-orders-on-two-pennsylvania-detention-center-sites/)
 - [WESA: ICE seeks extension on environmental reports (March 26, 2026)](https://www.wesa.fm/politics-government/2026-03-26/immigration-ice-environmental-concerns-pa-detention-centers)
 - [Spotlight PA: Berks ICE site unresolved construction deficiencies (March 2026)](https://www.spotlightpa.org/berks/2026/03/ice-warehouse-problems-federal-government/)
+- [Spotlight PA: Developers will pay PA township over ICE warehouse deficiencies — $82,390 (May 27, 2026)](https://www.spotlightpa.org/berks/2026/05/ice-warehouse-upper-bern-local-government/)
+- [WITF: ICE warehouse developer to pay $82K to resolve deficiencies (May 27, 2026)](https://www.witf.org/2026/05/27/ice-warehouse-developer-to-pay-82k-to-resolve-deficiencies/)

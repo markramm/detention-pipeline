@@ -14,7 +14,7 @@ status: blocked
 importance: 7
 tags: [howard-county, permit-revocation, private-detention, community-resistance, maryland]
 research_status: enriched
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # Elkridge MD — ICE Detention Facility Blocked by Howard County

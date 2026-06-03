@@ -14,7 +14,7 @@ status: paused-dhs-review
 importance: 9
 tags: [warehouse-conversion, detention-reengineering, regional-processing-center, maryland, nepa-lawsuit, dhs-pause, fundrise, goldman-sachs, environmental]
 research_status: enriched
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # Hagerstown MD Warehouse — 1,500-Bed ICE Processing Center

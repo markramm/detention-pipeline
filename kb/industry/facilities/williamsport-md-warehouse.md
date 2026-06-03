@@ -15,7 +15,7 @@ importance: 9
 prior_owner: "Fundrise (refinanced by Goldman Sachs)"
 tags: [warehouse-conversion, detention-reengineering, maryland, goldman-sachs, fundrise, financial-engineering, nepa-lawsuit, dhs-pause]
 research_status: enriched
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # Williamsport MD — 1,500-Bed ICE Detention Center
@@ -45,9 +45,12 @@ The Goldman Sachs refinancing is significant: by refinancing a distressed proper
 - **Mar 19, 2026**: TRO extended four more weeks
 - **Mar 26, 2026**: Earthjustice/Center for Biological Diversity filed amicus (endangered mussels, water quality)
 - **Apr 1, 2026**: DHS Secretary Mullin paused all new warehouse purchases; Williamsport specifically scaled back — DHS says it will not pursue retrofitting for detention until additional environmental analysis completed
-- **Apr 15, 2026**: Hearing scheduled; ruling expected by Apr 16
+- **Apr 15, 2026**: Judge Hurson grants **preliminary injunction** — blocks retrofitting/full construction (carve-outs for security, fencing, HVAC, roof, office drywall) pending litigation
+- **May 12, 2026**: DHS tells Washington County it has **determined an Environmental Assessment is warranted** and will re-engage **Section 106 (National Historic Preservation Act)** consulting parties — the NEPA review the injunction demanded
+- **May 20, 2026**: Bloomberg Law confirms DHS is conducting NEPA reviews for **both** Williamsport (MD) and Roxbury (NJ) — a reversal of the earlier categorical-exclusion stance; MD and NJ reached agreements with DHS to study water/sewage impacts
+- **June 2, 2026**: No Fourth Circuit appeal of the PI filed; DHS pursuing EA/Section 106 compliance rather than appellate reversal. Project remains paused.
 
-Maryland has also passed the **Dignity Not Detention Act** to resist the warehouse program.
+Maryland has also passed the **Dignity Not Detention Act** to resist the warehouse program. See [[washington-county-md-warehouse-fight]] for the full litigation timeline.
 
 ## Goldman Sachs Connections
 

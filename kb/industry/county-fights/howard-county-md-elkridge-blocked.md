@@ -11,7 +11,7 @@ outcome: "County revoked building permit Feb 2, 2026 and passed emergency ban on
 importance: 7
 tags: [permit-revocation, community-resistance, private-detention, stealth-facility, howard-county, maryland]
 research_status: enriched
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # Howard County MD — Stealth ICE Facility Blocked

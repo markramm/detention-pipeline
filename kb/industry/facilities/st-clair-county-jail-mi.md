@@ -14,7 +14,7 @@ status: operational
 importance: 5
 tags: [county-jail, igsa, michigan, canada-border, port-huron, detroit-ero]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # St. Clair County Jail — Port Huron MI

@@ -22,15 +22,15 @@ tags:
 - pennsylvania
 - summer-lee
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Clearfield County, PA: The Fight to Close Moshannon Valley
 
 ## The Fight
 
-Clearfield County (FIPS 42033) is the legal middleman in the contract that keeps the **Moshannon Valley Processing Center** — the largest ICE detention facility in the Northeast (1,876-1,900 beds, operated by GEO Group) — running. The five-year Intergovernmental Service Agreement the County Commissioners approved on September 28, 2021 (effective November 2021) **expires in 2026** (reported variously as September and November). That expiration is the single clearest local lever to close a facility that processes ~14,000 people a year, and immigrant-rights advocates have organized to pressure the three commissioners not to renew.
+Clearfield County (FIPS 42033) is the legal middleman in the contract that keeps the **Moshannon Valley Processing Center** — the largest ICE detention facility in the Northeast (1,876-1,900 beds, operated by GEO Group) — running. The five-year Intergovernmental Service Agreement the County Commissioners approved on September 28, 2021 (effective November 2021) **expires in 2026** (reported variously as September and November). The contract expires **September 28, 2026**, and the renewal vote is expected in September 2026 (Commissioners Winters and Sobel have said they will vote to renew; Glass opposed). That expiration is the single clearest local lever to close a facility that processes ~14,000 people a year, and immigrant-rights advocates have organized to pressure the three commissioners not to renew.
 
 The county earns only about $200,000 per year as middleman, while citing roughly $40 million in annual regional economic benefit, $37 million in payroll, and 400+ jobs as reasons to keep the facility.
 
@@ -50,7 +50,11 @@ Three detainees have died at Moshannon over three years: **Chaofeng Ge** (Chines
 
 ### May 27-28, 2026 — Escalation
 
-Advocates held a May 27 press conference demanding the release of detainee Izzy Aly (stage 3 kidney disease) and non-renewal of the GEO contract. On **May 28, 2026**, U.S. Reps. **Summer Lee** and **Chris Deluzio** (both Pittsburgh-area Democrats) made an unannounced visit to the facility and called for an overhaul. Hundreds have joined repeated Philipsburg protests organized by Indivisible groups.
+Advocates held a May 27 press conference demanding the release of detainee Izzy Aly (stage 3 kidney disease) and non-renewal of the GEO contract. On **May 28, 2026**, U.S. Reps. **Summer Lee** and **Chris Deluzio** (both Pittsburgh-area Democrats) made an unannounced visit to the facility and called for an overhaul. The Inquirer reported they were the **first members of Congress to access** PA's largest ICE detention facility, after earlier members faced blockades. Hundreds have joined repeated Philipsburg protests organized by Indivisible groups.
+
+### June 1, 2026 — Deluzio/Lee release post-visit data
+
+Returning from the May 28 visit, Deluzio reported Monday **June 1, 2026** that **1,417 people** were detained at Moshannon (none of them children), and that **1,100 (about 78%) were classified "low security"** — i.e., not accused of serious or violent crimes. Deluzio framed the data as "in sharp contrast with the Trump Administration's ongoing claims that ICE is targeting … the 'worst of the worst.'" Lee cited two recorded deaths at the facility since the prior year. Detainees raised concerns about food, healthcare, and pregnancy-related care. The lawmakers said translators and staff were **not permitted inside**; ICE stated it does "not provide interpreters or translation services for congressional delegations."
 
 ## Why This Fight Matters
 
@@ -62,6 +66,8 @@ Unlike the Berks and Schuylkill warehouse fights — where the state has regulat
 - [WHYY: Advocates allege medical neglect at PA ICE detention center (May 2026)](https://whyy.org/articles/ice-detention-center-moshannon-medical-neglect/)
 - [Philadelphia Inquirer / AP: ICE detainees dying by suicide — Chaofeng Ge (May 27, 2026)](https://www.inquirer.com/news/nation-world/ice-deaths-detention-suicide-alarming-detainees-chaofeng-ge-pennsylvania-20260527.html)
 - [WPSU: U.S. House members make unannounced visit to Moshannon, call for overhaul (May 28, 2026)](https://radio.wpsu.org/2026-05-28/us-house-members-visit-moshannon-ice-facility-call-for-overhaul)
+- [Inquirer: Two Pa. Democrats become first members of Congress to access PA's largest ICE detention facility (May 28, 2026)](https://www.inquirer.com/politics/pennsylvania/moshannon-valley-ice-detention-facility-congress-oversight-20260528.html)
+- [WPXI: Local lawmaker shares new information on visit to ICE detention center — 1,417 detained, 78% low-security (June 1, 2026)](https://www.wpxi.com/news/local/local-lawmaker-shares-new-information-visit-ice-detention-center-pennsylvania/JUX7XRNBUBCO5B5V3HZNQY3GRQ/)
 - [northcentralpa.com: Protesters demand closure of Moshannon Valley ICE facility](https://www.northcentralpa.com/news/protesters-demand-closure-of-moshannon-valley-ice-facility-in-philipsburg/article_9b2bae03-7a89-42f3-8fe4-90ddfef33ea1.html)
 - [WJAC: Protesters call to close Mo-Valley ICE detention center, demand contract end](https://wjactv.com/news/local/protests-begin-at-moshannon-valley-ice-center)
 - [WTAJ: Activists protest in Philipsburg for closure of ICE detention center](https://www.wtaj.com/news/local-news/activists-protest-in-philipsburg-for-the-closure-of-ice-detention-center/)

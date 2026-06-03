@@ -9,8 +9,8 @@ status: litigation
 vote_tally: "N/A — federal purchase, no local vote"
 outcome: "Litigation active; DHS paused all warehouse purchases Apr 1 under Mullin review of Noem-era contracts. No court ruling yet."
 fips: "26163"
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 case_number: "2:26-cv-10968-JJCG-EAS"
 importance: 9
 tags:
@@ -67,6 +67,7 @@ The lawsuit alleges:
 - **April 25, 2026:** ~200 protesters march 1.5 miles from Romulus Middle School to the Cogswell Street warehouse; Lt. Gov. Garlin Gilchrist participates.
 - **May 11, 2026:** The **ACLU of Michigan, Michigan Immigrant Rights Center, and Detroit Justice Center** move to **join the lawsuit as parties**.
 - **May 21, 2026:** Preliminary-injunction motion **hearing held virtually** (rescheduled from late April) — first hearing with all three intervenor organizations appearing as parties. No ruling reported as of late May.
+- **June 2, 2026:** Still **no ruling** on the preliminary injunction; case remains under advisement. No new filings or developments in the May 28–June 2 window.
 
 ## DHS Pause and Noem-Era Review
 

@@ -21,7 +21,7 @@ tags:
 - federal-takeover-threat
 - commission-activity
 research_status: working
-last_researched: "2026-05-27"
+last_researched: "2026-06-02"
 ---
 
 # Oklahoma County: New Jail Financing Crisis Meets Enforcement Surge

@@ -24,15 +24,15 @@ tags:
 - contract-expiration
 - igsa
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Moshannon Valley Processing Center — GEO Group ICE Facility
 
 ## Overview
 
-Moshannon Valley Processing Center in Philipsburg, Clearfield County (FIPS 42033) is the **largest ICE detention facility in the northeastern United States**, with a maximum capacity of 1,876-1,900 beds. Operated by the for-profit GEO Group, it processes roughly 14,000 individuals per year and serves as the primary regional hub receiving most ICE detainees from the Philadelphia region. As of April 2, 2026, average daily population exceeded 1,600. The facility operates under an Intergovernmental Service Agreement in which Clearfield County acts as the legal middleman between ICE and GEO, earning roughly $200,000 per year (about $1 million over the five-year term).
+Moshannon Valley Processing Center in Philipsburg, Clearfield County (FIPS 42033) is the **largest ICE detention facility in the northeastern United States**, with a maximum capacity of 1,876-1,900 beds. Operated by the for-profit GEO Group, it processes roughly 14,000 individuals per year and serves as the primary regional hub receiving most ICE detainees from the Philadelphia region. As of April 2, 2026, average daily population exceeded 1,600; per data Rep. Deluzio released June 1, 2026 after a May 28 oversight visit, 1,417 people were held (none children), of whom about 1,100 (78%) were classified "low security." The facility operates under an Intergovernmental Service Agreement in which Clearfield County acts as the legal middleman between ICE and GEO, earning roughly $200,000 per year (about $1 million over the five-year term).
 
 ## Key Details
 
@@ -67,6 +67,7 @@ Moshannon is the downstream destination of the Pittsburgh enforcement surge (Pit
 - [Altoona Mirror: Clearfield County Commissioners hear criticism of Moshannon contract (Apr 28, 2026)](https://www.altoonamirror.com/news/local-news/2026/04/clearfield-county-commissioners-hear-criticism-of-moshannon-valley-immigrant-detention-center-contract/)
 - [Philadelphia Inquirer / AP: ICE detainees dying by suicide at 'alarming' rate — Chaofeng Ge (May 27, 2026)](https://www.inquirer.com/news/nation-world/ice-deaths-detention-suicide-alarming-detainees-chaofeng-ge-pennsylvania-20260527.html)
 - [WPSU: U.S. House members make unannounced visit to Moshannon, call for overhaul (May 28, 2026)](https://radio.wpsu.org/2026-05-28/us-house-members-visit-moshannon-ice-facility-call-for-overhaul)
+- [WPXI: Deluzio shares post-visit data — 1,417 detained, 78% low-security, translators barred (June 1, 2026)](https://www.wpxi.com/news/local/local-lawmaker-shares-new-information-visit-ice-detention-center-pennsylvania/JUX7XRNBUBCO5B5V3HZNQY3GRQ/)
 - [northcentralpa.com: Protesters demand closure of Moshannon Valley ICE facility](https://www.northcentralpa.com/news/protesters-demand-closure-of-moshannon-valley-ice-facility-in-philipsburg/article_9b2bae03-7a89-42f3-8fe4-90ddfef33ea1.html)
 - [ABC27/Spotlight PA: County will make $1M in 5-year contracts with ICE, Moshannon operator](https://www.abc27.com/spotlight-pa/pennsylvania-county-will-make-1m-in-5-year-contracts-with-ice-moshannon-detention-center-operator/)
 - [Spotlight PA: PA jails earn millions detaining immigrants for ICE (Apr 2026)](https://www.spotlightpa.org/news/2026/04/pennsylvania-ice-detention-jails-counties-money-federal-government/)

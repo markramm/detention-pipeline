@@ -14,7 +14,7 @@ status: operational
 importance: 6
 tags: [holding-rooms, legionella, overcrowding, conditions-crisis, baltimore, maryland]
 research_status: enriched
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # Baltimore Fallon Building — ICE Holding Rooms

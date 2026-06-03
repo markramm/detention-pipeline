@@ -14,7 +14,7 @@ status: operational
 importance: 6
 tags: [county-jail, igsa, 287g, michigan, revenue-model, warrant-service-officer]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
 ---
 
 # Calhoun County Correctional Center — Battle Creek MI

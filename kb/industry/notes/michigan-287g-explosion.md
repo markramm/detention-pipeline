@@ -6,7 +6,7 @@ state: MI
 importance: 7
 tags: [287g, michigan, sheriffs, ice-partnerships, warrant-service-officer, task-force-model, legislative-pressure]
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Michigan — 287(g) Explosion and ICE Partnership Landscape
