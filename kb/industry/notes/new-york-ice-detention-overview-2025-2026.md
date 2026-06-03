@@ -14,7 +14,7 @@ tags:
 - collateral-arrests
 - detention-reengineering
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # New York State: ICE Detention and Enforcement Overview (2025-2026)

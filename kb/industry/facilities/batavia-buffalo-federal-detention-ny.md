@@ -23,7 +23,7 @@ tags:
 - legal-mail
 - western-new-york
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Buffalo Federal Detention Facility (Batavia, NY)

@@ -18,8 +18,8 @@ tags:
 - sanctuary
 - local-law-enforcement
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # New York Statewide: The Local Cops, Local Crimes Act

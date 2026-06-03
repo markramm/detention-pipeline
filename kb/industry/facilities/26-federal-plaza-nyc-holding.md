@@ -20,7 +20,7 @@ tags:
 - constitutional-violations
 - new-york-city
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # 26 Federal Plaza — ICE Holding Cells (NYC)
@@ -46,6 +46,7 @@ ICE operates holding cells inside 26 Federal Plaza in Manhattan. A class-action 
 - Plaintiffs allege First Amendment violations (no attorney access) and Fifth Amendment violations (punitive conditions without due process)
 - Trial evidence: cells held **7-8x stated capacity** in summer 2025, regularly over 100 people nightly; 82% of detainees held over 12 hours (designed for under 12); some held 20-30 days. Internal ICE staff called conditions "insane" and were "concerned about the safety of everyone there"
 - **Kaplan raised whether ICE should be permitted to use the holding cells at all** — a possible shutdown remedy. No final ruling as of May 28, 2026; Kaplan may request more evidence
+- **Status check (June 2, 2026): still no ruling.** Post-trial coverage confirms Kaplan said he would need "at least a few weeks" to decide and is also weighing a last-minute request to expand the class to all detainees held longer than 12 hours. He flagged that the government violated his temporary order for months (e.g., no confidential attorney-consultation space until February 2026). A decision — potentially including the shutdown remedy — remains pending.
 
 ## Courthouse Arrest Ban (May 19, 2026)
 
