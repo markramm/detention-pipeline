@@ -6,8 +6,8 @@ state: OH
 importance: 6
 tags: [legislation, democratic-response, detention-standards, ohio, resistance]
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Ohio Legislative Response to ICE Expansion

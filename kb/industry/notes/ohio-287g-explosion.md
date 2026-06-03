@@ -6,8 +6,8 @@ state: OH
 importance: 9
 tags: [287g, expansion, aclu-report, ohio, pattern]
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Ohio: 287(g) Explosion — Zero to Twenty in One Year

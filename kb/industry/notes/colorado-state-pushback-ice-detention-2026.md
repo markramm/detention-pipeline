@@ -15,8 +15,9 @@ tags:
 - hudson-expansion
 - 287g
 - el-paso-county
+- sb26-5
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Colorado's 2026 Offensive Against ICE Detention
@@ -35,6 +36,12 @@ By late May 2026, Colorado mounted a coordinated multi-branch pushback against I
 
 A companion "right-to-know" effort would require state agencies to publish unsealed federal immigration subpoenas and notify affected individuals.
 
+As of June 2, 2026, the official bill page still shows the last action as the May 12 House concurrence; no "Governor Signed" action has yet been recorded, and contemporaneous coverage continued to describe Polis as "expected to sign." (Treat the signature as pending until confirmed.)
+
+## State Legislation: SB 26-5 (Civil Suits Against Immigration Agents)
+
+**SB 26-5** passed both chambers on party-line votes (Senate ~May 7-8, 2026) and is **awaiting Polis's signature** as of June 2, 2026. It creates a **state-court cause of action against federal immigration officials** for alleged constitutional violations during raids, arrests, traffic stops, and warrantless entries (two-year statute of limitations). It was driven in part by the two fatal Minneapolis shootings of U.S. citizens. Sponsors say it was drafted to survive a Supremacy Clause challenge; opponents expect it to be struck down — comparable state laws (an Illinois courthouse-arrest suit law, a California mask/ID law) have already drawn or lost federal challenges. This is the litigation-enabling complement to HB 26-1276's inspection authority.
+
 ## Federal Court: ICE Found Noncompliant (May 12, 2026)
 
 **U.S. District Judge R. Brooke Jackson (Denver)** found ICE in Colorado **noncompliant** with his earlier preliminary injunction barring warrantless arrests made without individualized, pre-arrest probable-cause determinations of flight risk and undocumented status. He ordered ICE to:
@@ -42,7 +49,11 @@ A companion "right-to-know" effort would require state agencies to publish unsea
 - **Train every Colorado officer authorized to make warrantless arrests within 45 days** — untrained officers are barred from such arrests until trained;
 - Document warrantless arrests, turn over more records to immigrants' attorneys, and pay plaintiffs' attorney fees.
 
-At a March hearing, ICE agents admitted they had not been trained on how to comply. This constrains the arrest stage that feeds the Aurora facility and the hold-room network.
+At a March hearing, ICE agents admitted they had not been trained on how to comply. This constrains the arrest stage that feeds the Aurora facility and the hold-room network. ICE had already appealed Judge Jackson's underlying November 25, 2025 injunction; as of June 2, 2026 no Tenth Circuit ruling on that appeal had issued.
+
+## Tenth Circuit: Bond-Hearing Question Still Open
+
+Colorado sits in the **Tenth Circuit**, which as of June 2, 2026 had **not** ruled on the Trump administration's no-bond-hearing-for-interior-arrests policy that has split the appellate courts — leaving Colorado's status on the bond question undetermined. (The First Circuit heard argument in early May; the issue is widely expected to reach the Supreme Court. See [[bond-hearing-circuit-split-2026]].) The Tenth Circuit's only recent immigration ruling, *Dekovic v. Rubio* (Mar. 10, 2026), concerned Child Status Protection Act age, not detention/bond.
 
 ## Congressional Pressure on Expansion
 
@@ -74,3 +85,6 @@ The heatmap detects facilities, IGSAs, 287(g) agreements, and contracts. It does
 - [Gazette: El Paso County transfers 47 to ICE custody over 5 months (Mar 18, 2026)](https://gazette.com/2026/03/18/el-paso-county-transfers-47-to-ice-custody-over-5-months/)
 - [Colorado Newsline: Teller County sheriff announces run for governor](https://coloradonewsline.com/briefs/teller-county-sheriff-announces-run-for-colorado-governor-in-2026/)
 - [Colorado Sun: 3-person team tracks ICE on I-70 mountain corridor (May 21, 2026)](https://coloradosun.com/2026/05/21/immigration-voces-unidas-mountain-towns-ice/)
+- [Colorado Sun: Bill allowing Coloradans to sue ICE agents heads to Polis' desk (May 8, 2026)](https://coloradosun.com/2026/05/08/bill-allowing-coloradans-to-sue-ice-agents-heads-to-polis/)
+- [Colorado Newsline: Lawmakers send civil-suits-against-immigration-authorities bill to governor (May 8, 2026)](https://coloradonewsline.com/2026/05/08/colorado-civil-suits-immigration-authorities/)
+- [KUNC: 'Federal overreach' inspired these Colorado bills during the 2026 session (May 18, 2026)](https://www.kunc.org/news/2026-05-18/federal-overreach-inspired-these-colorado-bills-during-the-2026-session)

@@ -10,7 +10,8 @@ outcome: "East Cleveland passed emergency GTFO ordinance in February 2026, first
 importance: 7
 tags: [sanctuary, ordinance, defensive-zoning, cuyahoga, cleveland, ohio, first-in-state]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 fips: '39035'
 ---
 

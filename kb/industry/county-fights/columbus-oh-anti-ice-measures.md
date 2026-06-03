@@ -10,8 +10,8 @@ outcome: "Columbus passed 287(g) ban and detention facility moratorium; courthou
 importance: 8
 tags: [operation-buckeye, columbus, sanctuary, 287g-ban, moratorium, courthouse-arrests, ohio]
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: "2026-05-06"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 fips: '39049'
 ---
 

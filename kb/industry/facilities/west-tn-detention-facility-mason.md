@@ -14,8 +14,8 @@ status: operational
 importance: 8
 tags: [corecivic, private-prison, repurposed-prison, tennessee, igsa, reopened, mason, tipton-county]
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # West Tennessee Detention Facility (Mason, TN)

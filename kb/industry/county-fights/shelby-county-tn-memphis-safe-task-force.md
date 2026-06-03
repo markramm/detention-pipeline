@@ -11,8 +11,8 @@ outcome: "County mayor declared state of emergency Oct 2025. Task force made 5,2
 importance: 9
 tags: [memphis-safe-task-force, state-of-emergency, national-guard, shelby-county, profiling, overcrowding, trump-executive-order, tennessee, protest]
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Shelby County, TN: Memphis Safe Task Force and State of Emergency
@@ -71,6 +71,11 @@ President Trump issued a **September 15, 2025 executive order** establishing the
 ### May 2026 — Task force totals balloon, fatal DEA shooting
 By mid-May 2026 the Memphis Safe Task Force reported **8,818 total arrests** since its September 2025 launch (977 narcotics, 807 firearms, 65 homicide, 105 sex offense; 250 juveniles; 935 self-identified gang members; 1,450 illegal firearms seized) — an enforcement footprint that continues to dwarf the violent-crime share documented in the April 2026 MLK50/ProPublica analysis (just 2% of immigration arrests were for violent crime). On **May 12, 2026**, a man wanted on assault/burglary/weapons warrants was shot and killed at a Frayser Burger King by DEA agents operating under the task force when he allegedly drew a weapon during arrest. The Tennessee National Guard remains deployed. The task force's persistence into mid-2026 — eight months past its original ~30-day framing — confirms it as a standing federal-state occupation rather than a surge. (WhiteHouse.gov; WREG; AP)
 
+### Late May–June 2026 — Count climbs to 9,586; First Amendment retaliation suit filed
+By the **U.S. Marshals Service's late-May/June 1, 2026 tally**, the Memphis Safe Task Force reported **9,586 "violent fugitives" arrested** since its September 2025 launch (82 homicide, 1,058 narcotics, 908 weapons, 105 sex offense, 1,021 known gang members) — up from the ~8,818 figure reported mid-May. USMS continues to frame the operation around steep reported crime declines (murder down ~39%, robbery down ~60%, motor-vehicle theft down ~70%). The "violent fugitive" framing remains in tension with the April 2026 MLK50/ProPublica finding that only 2% of the task force's *immigration* arrests were for violent crime.
+
+On **May 17, 2026**, four Memphis residents — lead plaintiff **Hunter Demster** and three others — filed a **federal First Amendment retaliation lawsuit** in the **U.S. District Court for the Western District of Tennessee** against the Memphis Safe Task Force (a 31-agency operation including ICE, CBP, U.S. Marshals, and THP). The complaint alleges agents retaliated against people lawfully recording task-force activity: physically assaulting observers (one tackled and jailed for 27 hours), boxing in or swerving vehicles at observers, shining bright lights at cameras, taunting observers by name, and surveilling observers' homes with unmarked vehicles. It challenges the task force's use of Tennessee's "Halo Law" (25-foot no-approach rule) to suppress filming. This is the first federal civil-rights challenge directly targeting the task force's conduct toward community observers/copwatchers, distinct from the individual-detainee habeas cases (Lopez Soza). (USMS; Davis Vanguard, May 2026)
+
 ## Sources
 
 - [Shelby County Mayor declares state of emergency (Tennessee Lookout, Oct 2025)](https://tennesseelookout.com/2025/10/16/shelby-county-mayor-declares-state-of-emergency-in-response-to-memphis-safe-task-force-arrests/)
@@ -86,3 +91,5 @@ By mid-May 2026 the Memphis Safe Task Force reported **8,818 total arrests** sin
 - [President Trump's 'Memphis Safe Task Force' Delivers Crushing Blow to Crime (White House, Mar 2026)](https://www.whitehouse.gov/releases/2026/03/president-trumps-memphis-safe-task-force-delivers-crushing-blow-to-crime/)
 - [Memphis residents claim harassment, arrest and abuse by Trump-ordered Memphis Safe Task Force (AP via Greeneville Sun)](https://www.greenevillesun.com/news/ap_national_news/memphis-residents-claim-harassment-arrest-and-abuse-by-trump-ordered-memphis-safe-task-force/article_8452ece5-26cf-53ae-a751-4a3b9f772ec5.html)
 - [Memphis Safe Task Force timeline and arrests update (NewsNation)](https://www.newsnationnow.com/us-news/military/memphis-task-force-timeline-arrests-update/)
+- [Memphis Safe Task Force Arrests 1000+ Gang Members — 9,586 total (U.S. Marshals Service, late May/Jun 2026)](https://www.usmarshals.gov/news/press-release/memphis-safe-task-force-arrests-1000-gang-members)
+- [Federal Lawsuit Accuses Memphis Task Force of First Amendment Retaliation (Davis Vanguard, May 2026)](https://davisvanguard.org/2026/05/memphis-residents-sue-task-force/) — Demster et al. v. Memphis Safe Task Force, filed May 17, 2026, W.D. Tenn.

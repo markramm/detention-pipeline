@@ -10,8 +10,8 @@ outcome: "Butler County for Immigrant Justice has rallied weekly at Commissioner
 importance: 7
 tags: [cancel-the-contract, butler-county, sheriff-jones, detainee-lawsuit, igsa, conditions-complaints, week-of-action, ohio]
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Butler County, OH: Cancel-the-Contract Campaign and Detainee Assault Lawsuit
@@ -31,7 +31,7 @@ Butler County Jail in Hamilton is Ohio's most aggressive ICE detention partner (
 ### Campaign Activity
 - Weekly public-comment appearances at Butler County Commissioners meetings since July 2025; spoke again **May 19, 2026** citing the Tenelanda suit
 - Tied to the Ohio Immigrant Alliance **"How to End ICE Jail in Ohio"** report (Apr 20, 2026), which targets county commissioners as the contracting authority
-- Part of the **statewide week of action to end ICE jail, May 23-30, 2026** (interfaith vigils in Seneca, Mahoning, and Geauga counties)
+- Part of the **statewide week of action to end ICE jail, May 23-30, 2026** (interfaith vigils at all six ICE jails — Seneca May 23, Butler/Mahoning mid-week, Geauga May 28, Corrections Center of NW Ohio in Stryker May 30). As of June 2, 2026 the week of action has **concluded**; no contract concession resulted, and commissioners' position is unchanged.
 
 ### Context
 - Butler is the **primary holding facility** for ICE arrests out of Columbus, receiving roughly half of all ICE payments to Ohio's six contracted facilities
@@ -39,6 +39,8 @@ Butler County Jail in Hamilton is Ohio's most aggressive ICE detention partner (
 
 ## Why This Matters
 Under AG Dave Yost's Aug 2025 opinion, **county commissioners** — not the sheriff alone — hold the authority to enter (and exit) ICE detention contracts. That makes the commissioners the pressure point, and Butler the test case for whether sustained local organizing can force a county to walk away from lucrative ICE revenue. The Tenelanda lawsuit converts diffuse conditions complaints into a concrete, named, litigated harm.
+
+**Legal lever (Sixth Circuit):** Butler sits in the Sixth Circuit, which ruled **FOR** individualized bond hearings in *Lopez-Campos v. Raycraft* (May 11, 2026) — holding the government cannot use § 1225(b) mandatory detention against long-term interior residents and must afford § 1226(a) bond hearings. Butler/Mahoning are the primary holding sites for Operation Buckeye arrests out of Columbus, so this ruling is the most direct path to release for people detained here. No Ohio-specific habeas releases applying *Lopez-Campos* surfaced as of June 2, 2026 — watch this space. See [[bond-hearing-circuit-split-2026]].
 
 ## Sources
 - [New Butler County Jail lawsuit alleges assault of ICE detainee - Journal-News (May 18, 2026)](https://www.journal-news.com/local/new-butler-county-jail-lawsuit-alleges-assault-of-ice-detainee/article_dee127eb-adb0-568e-aa57-d087a54f69c3.html)

@@ -11,8 +11,8 @@ outcome: "May 27, 2026: ICE agents in unmarked SUVs detained at least six people
 importance: 6
 tags: [warren-county, mcminnville, ice-raid, unmarked-vehicles, plainclothes, day-laborers, middle-tennessee, tennessee, enforcement-escalation]
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Warren County, TN: McMinnville Unmarked-Vehicle ICE Sweep
@@ -32,6 +32,7 @@ This is significant as a marker of how Tennessee ICE enforcement has shifted tac
 - **ICE response**: declined comment, "operational security"
 - **Local law enforcement**: Warren County Sheriff's Office contacted; role not confirmed
 - **Pattern**: same-day WSMV reporting framed this as part of broader "unmarked vehicles in Middle Tennessee" ICE activity (cross-reference Davidson County entry)
+- **Late-May 2026 confirmation**: advocates (Music City Migra Watch) documented **at least 15 detained across Middle TN in a week**, with work-van/worksite-commute targeting and a video-documented detention in Gallatin (Sumner County); an ICE supervisor confirmed to NewsChannel 5 that ICE is running these stops solo (no partnering agency). The McMinnville sweep is one node in this sustained pattern, not an isolated event. (NewsChannel 5, late May 2026)
 
 ## Why It Matters
 
@@ -43,4 +44,5 @@ This is significant as a marker of how Tennessee ICE enforcement has shifted tac
 
 - [Multiple people reportedly detained by ICE agents in unmarked vehicles in Middle Tennessee (WSMV, May 27, 2026)](https://www.wsmv.com/2026/05/27/multiple-people-reportedly-detained-by-ice-agents-unmarked-vehicles-middle-tennessee/)
 - [Multiple reportedly detained by ICE agents in unmarked vehicles in Middle Tennessee — video (WSMV, May 27, 2026)](https://www.wsmv.com/video/2026/05/27/multiple-reportedly-detained-by-ice-agents-unmarked-vehicles-middle-tennessee/)
+- [Unmarked vehicles, work van stops: ICE arrests in Middle Tennessee — 15+ in a week (NewsChannel 5, late May 2026)](https://www.newschannel5.com/news/unmarked-vehicles-work-van-stops-ice-arrests-in-middle-tennessee)
 - [Tennessee Gov. Lee Signs HB2219 — First State 287(g) Sheriff Mandate (Capture Cascade Timeline, May 10, 2026)](https://capturecascade.org/event/2026-05-10--tennessee-hb2219-287g-sheriff-mandate-signed-law/)

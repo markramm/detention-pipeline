@@ -6,8 +6,8 @@ state: TN
 importance: 8
 tags: [tennessee, statewide, ice-arrests, profiling, conviction-rates, lighthouse-reports, structural-analysis]
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Tennessee: Statewide ICE Enforcement Overview (2025-2026)
@@ -59,6 +59,12 @@ Tennessee has unusually strong investigative coverage of immigration enforcement
 - **West TN Detention Facility (Mason)**: first ICE Office of Detention Oversight inspection Mar 10–12, 2026, amid a national record for ICE in-custody deaths (17th of 2026 by mid-May)
 - Detained students consistently shipped **out of state** (AL, LA) shortly after detention — see Lopez Soza (Memphis) and Garzon Romero (Chattanooga)
 
+### Late May–June 2026 developments
+- **Middle TN unmarked-vehicle spike**: advocates (Music City Migra Watch) documented **15+ detained across Middle TN in a single week**, with ICE running stops solo (no partnering agency), targeting **work vans on the way to jobs**, including a video-documented detention in **Gallatin (Sumner County)**. An ICE supervisor confirmed the operation to NewsChannel 5. Extends the May 27 McMinnville sweep into a sustained worksite-commute interdiction pattern reaching counties beyond the metro hubs.
+- **Memphis Safe Task Force count climbs**: USMS late-May/June 1 tally reports **9,586 "violent fugitives" arrested** (up from ~8,818 mid-May), still framed around reported crime declines despite the April MLK50/ProPublica finding that only 2% of immigration arrests were for violent crime.
+- **First Amendment retaliation suit**: Demster et al. v. Memphis Safe Task Force filed **May 17, 2026 in W.D. Tenn.** — alleges agents assaulted, boxed in, surveilled, and named copwatchers and misused TN's "Halo Law" to suppress filming. First federal civil-rights challenge to the task force's conduct toward observers.
+- **Sixth Circuit bond ruling reaching TN**: *Lopez-Campos v. Raycraft* (6th Cir., May 11, 2026) restored individualized bond-hearing rights; TN immigration judges have begun granting bond (e.g., $1,500 for Elvira Benitez Suarez). ICE's rapid out-of-state transfers of TN detainees (AL, LA) directly undercut the Sixth-Circuit jurisdiction needed to invoke it. See [[bond-hearing-circuit-split-2026]].
+
 ## Sources
 
 - [Tennessee ICE arrests spiked in 2025 (WKRN)](https://www.wkrn.com/news/tennessee-news/tennessee-ice-arrests-spiked-in-2025/)
@@ -71,3 +77,7 @@ Tennessee has unusually strong investigative coverage of immigration enforcement
 - [Multiple people reportedly detained by ICE agents in unmarked vehicles in Middle Tennessee (WSMV, May 27, 2026)](https://www.wsmv.com/2026/05/27/multiple-people-reportedly-detained-by-ice-agents-unmarked-vehicles-middle-tennessee/)
 - [East Tennessee teen detained by ICE four days after graduating high school (WSMV, May 21, 2026)](https://www.wsmv.com/2026/05/21/east-tennessee-teen-detained-by-ice-four-days-after-graduating-high-school-says-hes-being-held-inhumane-conditions-they-treat-us-all-like-inmates/)
 - [Exclusive: How understaffing and DHS policy drives rising deaths in ICE detention centers (CNN, May 15, 2026)](https://www.cnn.com/2026/05/15/us/ice-immigration-detention-centers-medical-care-deaths-invs-vis)
+- [Unmarked vehicles, work van stops: ICE arrests in Middle Tennessee — 15+ in a week (NewsChannel 5, late May 2026)](https://www.newschannel5.com/news/unmarked-vehicles-work-van-stops-ice-arrests-in-middle-tennessee)
+- [Memphis Safe Task Force Arrests 1000+ Gang Members — 9,586 total (U.S. Marshals Service, late May/Jun 2026)](https://www.usmarshals.gov/news/press-release/memphis-safe-task-force-arrests-1000-gang-members)
+- [Federal Lawsuit Accuses Memphis Task Force of First Amendment Retaliation (Davis Vanguard, May 2026)](https://davisvanguard.org/2026/05/memphis-residents-sue-task-force/)
+- [Sixth Circuit Immigration Ruling Restores Bond Hearing Rights — Lopez-Campos v. Raycraft (Margaret W. Wong & Associates, May 15, 2026)](https://www.imwong.com/2026/05/15/sixth-circuit-immigration-ruling-restores-bond-hearing-rights-for-detained-immigrants/)

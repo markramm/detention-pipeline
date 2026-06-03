@@ -10,8 +10,8 @@ outcome: "Ohio Supreme Court ruled for sheriff Apr 2 2026 on date-range technica
 importance: 7
 tags: [aclu, transparency, secret-contract, ohio-supreme-court, foia, accountability-darkness]
 research_status: working
-last_researched: "2026-04-12"
-last_news_check: '2026-05-06'
+last_researched: "2026-06-02"
+last_news_check: '2026-06-02'
 fips: '39055'
 ---
 

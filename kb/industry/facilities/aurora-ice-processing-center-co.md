@@ -25,7 +25,7 @@ tags:
 - conditions-abuse
 - city-council-opposition
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 fips: '08001'
 ---
 
@@ -51,11 +51,11 @@ In February 2026, the U.S. Supreme Court ruled **unanimously** against GEO Group
 
 On January 12, 2026, after 3 hours of public comment, Aurora City Council passed a resolution **6-4** declaring opposition to "ICE overreach" and standing in solidarity with the Twin Cities after the Minneapolis ICE shooting. Mayor Pro Tem Alison Coombs called the facility a "stain" on Aurora (20% of 400,000+ residents are foreign-born).
 
-On April 8, 2026, council delayed a vote on a revised MOU governing police response to emergencies at the ICE facility. On **April 21, 2026, the council voted 6-3 to reject the police-ICE MOU** outright, after a two-week delay and vocal public opposition citing the March conditions report. On **May 18, 2026, the council advanced proposed city-code changes requiring all detention facilities to report health hazards to local government** (initiated because GEO had not reported health issues to the city); an official vote was set for the **June 1, 2026 regular meeting**.
+On April 8, 2026, council delayed a vote on a revised MOU governing police response to emergencies at the ICE facility. On **April 21, 2026, the council voted 6-3 to reject the police-ICE MOU** outright, after a two-week delay and vocal public opposition citing the March conditions report. On **May 18, 2026, the council advanced proposed city-code changes requiring all detention facilities to report health hazards to local government** (initiated because GEO had not reported health issues to the city). The code change would require the city to request health/safety information from detention facilities monthly, require facilities to grant police and fire access for service calls and criminal investigations, and set a noncompliance penalty (additions by Councilmember Gianina Horton). Councilmembers Bergan, Hancock, and Lawson opposed it on cost grounds; City Attorney Pete Schulte cautioned it is unclear whether the city can legally enforce the rules against a federal contractor. An official vote was set for the **June 1, 2026 regular meeting**; as of June 2, 2026 the outcome was not yet reported in available sources (check next sweep).
 
 ## State Inspection Authority (HB 26-1276, May 2026)
 
-Colorado's **HB 26-1276** (Protect Safety of Individuals Who Are Immigrants) cleared the legislature on May 11, 2026 (Senate 23-12) and headed to Gov. Polis, who was expected to sign. The bill authorizes **unannounced state inspections of immigration detention facilities — including Aurora — at least four times per year**, reviewing food/water standards, confinement conditions, and detainee care. A facility that refuses inspection faces license revocation or civil penalty. This is the legislative response to GEO's obstruction of the Adams County health probe.
+Colorado's **HB 26-1276** (Protect Safety of Individuals Who Are Immigrants) cleared the legislature on May 11, 2026 (Senate 23-12) and headed to Gov. Polis, who was expected to sign. The bill authorizes **unannounced state inspections of immigration detention facilities — including Aurora — at least four times per year**, reviewing food/water standards, confinement conditions, and detainee care. A facility that refuses inspection faces license revocation or civil penalty. The bill also bars state/local transit services (buses, trains, state-regulated airports) from knowingly transporting people for immigration detention (up to $50,000 civil penalty) and blocks facility access to non-public areas absent a federal warrant. This is the legislative response to GEO's obstruction of the Adams County health probe. As of June 2, 2026 the official bill page still showed no "Governor Signed" action and coverage continued to call the signature "expected" — treat as pending until confirmed. A companion bill, SB 26-5 (state-court civil suits against immigration agents), is likewise awaiting Polis's signature.
 
 ## Federal Court Order on Warrantless Arrests (May 2026)
 

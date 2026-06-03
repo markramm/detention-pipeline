@@ -11,8 +11,8 @@ outcome: "287(g) Jail Enforcement Model active since March 2025 (MOA signed). 11
 importance: 7
 tags: [hamilton-county, chattanooga, 287g, jail-enforcement-model, ice-housing-refused, protest, tennessee, mandatory-287g, sanctuary-resistance-partial]
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Hamilton County, TN: 287(g) Active, ICE Bed Request Refused
@@ -64,6 +64,9 @@ Gov. Bill Lee signed **HB2219** (~May 10, 2026), making Tennessee the first stat
 
 ### May 18, 2026 — Ooltewah teen Daniel Garzon Romero detained at Chattanooga ICE field office
 **Daniel Garzon Romero**, an 18-year-old who had graduated high school **four days earlier**, was detained during a **routine ICE check-in at the Chattanooga field office** on May 18, 2026. The Romero family is enrolled in ICE's Alternative to Detention (ATD) program; because Daniel had just turned 18 he was processed separately from his parents and detained while they finished their appointments. ICE said he "missed four required check-ins, resulting in termination from the program"; the family disputes this, saying his **phone location data disproves the missed-check-in charge**. He was held at **Etowah County Jail (Alabama)** awaiting transfer to a Louisiana facility and described "inhumane conditions" by phone. The case drew significant Chattanooga-area community support (teacher Rebekah Langford, others) and parallels the Memphis Yasser Lopez Soza case — both East/West TN students detained at routine touchpoints, then shipped out of state. (WSMV, May 21; Local 3 News; WGOW/WDEF, May 24, 2026)
+
+### Sixth Circuit bond ruling (Jun 2026 context)
+Tennessee sits in the Sixth Circuit, whose **May 11, 2026 ruling in *Lopez-Campos v. Raycraft*** restored individualized bond-hearing rights for long-term residents under mandatory detention; TN immigration judges have begun granting bond post-ruling. The lever requires the detainee to remain physically within the Sixth Circuit when a habeas petition is filed — which is precisely why ICE's pattern of shipping Hamilton/Chattanooga detainees like Garzon Romero to Etowah County (AL) and then Louisiana matters: it can move them out of the favorable circuit before counsel can invoke the right. See [[bond-hearing-circuit-split-2026]] and [[kentucky-sixth-circuit-bond-hearing-ruling-2026]].
 
 ## Mechanism Fit
 

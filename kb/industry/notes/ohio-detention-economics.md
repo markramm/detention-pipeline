@@ -6,7 +6,8 @@ state: OH
 importance: 8
 tags: [economics, detention-revenue, per-diem, ohio, pattern]
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Ohio Detention Economics: $13.2M and Growing

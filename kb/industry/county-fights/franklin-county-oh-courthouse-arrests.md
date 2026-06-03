@@ -18,8 +18,8 @@ tags:
 - aclu-report
 - ohio
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Franklin County, OH: Courthouse Arrests and City-County Split
@@ -67,6 +67,8 @@ Franklin County is the starkest example in Ohio of a city-county split on immigr
 
 ## Why This Matters
 The city-county split in Franklin County illustrates the limits of municipal sanctuary measures when county-level officials cooperate with ICE. Columbus can ban 287(g) for city police and block detention centers within city limits, but the county sheriff operates under different authority and has massively escalated ICE cooperation. The courthouse arrests are particularly significant because they weaponize the justice system itself — people who show up for court hearings, traffic tickets, or as witnesses face the risk of ICE detention.
+
+**Downstream legal lever (Sixth Circuit):** People arrested in Franklin County are typically held downstream in Butler or Mahoning County — both inside the Sixth Circuit, which ruled **FOR** individualized bond hearings in *Lopez-Campos v. Raycraft* (May 11, 2026; § 1226(a) bond hearings required for long-term interior residents the government tried to hold under § 1225(b) mandatory detention). That ruling is the most direct post-arrest path to release for Columbus-area detainees. No Ohio habeas releases applying *Lopez-Campos* surfaced as of June 2, 2026. See [[bond-hearing-circuit-split-2026]].
 
 ## Sources
 - [Activists push for rule change after 20 ICE arrests at Franklin County Municipal Court - 10TV](https://www.10tv.com/article/news/local/activists-push-rule-change-ice-arrests-franklin-county-municipal-court-2025/530-7e8858e2-e3a2-4656-bbc1-b77aa1b0440d)

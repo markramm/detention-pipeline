@@ -24,7 +24,7 @@ tags:
 - near-capacity
 - farmville
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 fips: '51147'
 ---
 

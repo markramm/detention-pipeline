@@ -29,7 +29,7 @@ tags:
 - sanctuary-state-conflict
 - expansion-proposed
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Northwest ICE Processing Center — GEO Group's Pacific Northwest Hub
@@ -141,3 +141,26 @@ KUOW reported detainees began **another hunger strike** in 2026; advocates count
 - [Washington wins court fight to inspect Tacoma ICE detention center but inspectors still blocked from entry (KING5)](https://www.king5.com/article/news/community/facing-race/washington-immigration/tacoma-ice-detention-center-inspectors-blocked/281-79899ede-2b33-494a-bd05-3addcf7bbda1)
 - [Immigrants detained by ICE in Tacoma start another hunger strike (KUOW)](https://www.kuow.org/stories/immigrants-detained-at-tacoma-ice-facility-have-started-another-hunger-strike)
 - [As one lawsuit against Tacoma detention center ends, another ramps up (InvestigateWest)](https://www.investigatewest.org/as-one-lawsuit-against-tacoma-immigration-detention-center-ends-another-ramps-up/)
+
+## Update (2026-06-02)
+
+Five-day re-sweep. Little changed since May 28; the two pending threads (PI ruling, SCOTUS cert) had not resolved as of this update.
+
+### Ferguson/Brown DOH-inspection PI: still PENDING
+No ruling has issued on the preliminary injunction heard **May 26, 2026** (U.S. District Court, W.D. Wash., Tacoma) seeking to force GEO to admit DOH inspectors. DOH remains blocked; the motion asks the court to compel access to investigate **3,500+ detainee complaints**. Watch for a decision in the coming days.
+
+### SCOTUS cert track on the regulatory fight (refines the "mid-June" note)
+GEO's underlying federal-preemption challenge to **HB 1470/HB 1232** is now at the Supreme Court as **The GEO Group, Inc. v. Inslee / Nwauzor, No. 25-828** (cert petition filed **Jan 9, 2026**; Washington's **brief in opposition filed Apr 15, 2026**). Cert decision pending — this, not a new filing deadline, is the operative "mid-June" item. The Ninth Circuit's Aug 2025 vacatur (mandate Mar 4, 2026) stands unless/until the Court grants review.
+
+### Ninth Circuit bond split — no WA-specific development
+WA sits in the Ninth Circuit, which has **stayed** the pro-bond *Maldonado Bautista* district order outside the Central District of California (administrative stay entered Mar 6, 2026; recently extended). **No merits ruling**; the practical effect is that EI detainees at NWIPC generally do **not** get bond hearings under the district court's order. See [[bond-hearing-circuit-split-2026]].
+
+### Eastern WA / Yakima surge continues; deportation-flight tempo high
+ICE activity in Eastern WA up ~190% (Jan–Mar YoY); advocates report ~20 Yakima Valley arrests in a mid-May week, including courthouse pickups after hearings (Toppenish May 6, Grandview May 7, Yakima May 13/18). La Resistencia counts **42 ICE Air flights through Boeing Field Jan–Jun 2026** (~1,342 out, 913 in via NWIPC). Hunger strikes ongoing (9+ in early 2026).
+
+### Update Sources (2026-06-02)
+- [Governor Ferguson, AG Brown seek court order to permit health inspections (governor.wa.gov)](https://governor.wa.gov/news/2026/governor-ferguson-attorney-general-brown-seek-court-order-permit-health-inspections-northwest-ice)
+- [GEO Group v. Inslee/Nwauzor, No. 25-828 — Washington brief in opposition (Apr 15, 2026, supremecourt.gov)](https://www.supremecourt.gov/DocketPDF/25/25-828/404191/20260415114253283_Nwauzor.Brief%20in%20opposition.pdf)
+- [Feds Urge 9th Circ. To Pause Immigration Bond Ruling (Law360)](https://www.law360.com/articles/2459362/feds-urge-9th-circ-to-pause-immigration-bond-ruling)
+- [ICE arrests surge in Eastern Washington / Yakima Valley (KING5)](https://www.king5.com/article/news/community/facing-race/washington-immigration/ice-arrests-surge-in-eastern-washington-as-advocates-report-growing-fear-in-yakima-valley/281-8cbb0ba6-fa44-44e2-a2a1-355dcc2b33b6)
+- [ICE deportation flights surge at Seattle Boeing Field (VisaVerge)](https://www.visaverge.com/news/seattle-becomes-boeing-field-hub-as-ice-flies-hundreds-for-fast-deportation/)

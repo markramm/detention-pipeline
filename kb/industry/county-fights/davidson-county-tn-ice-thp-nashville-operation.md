@@ -11,8 +11,8 @@ outcome: "May 2025 'Operation Flood the Zone' (ICE-THP): 600+ traffic stops in i
 importance: 8
 tags: [nashville, ice-thp, profiling, traffic-stops, tennessee-highway-patrol, davidson-county, investigation, tennessee, 287g, executive-order-30, operation-flood-the-zone, tirrc-lawsuit]
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Davidson County, TN: Nashville ICE-THP Operation and Fallout
@@ -77,6 +77,12 @@ Gov. Bill Lee signed **HB2219** (the bill that cleared the legislature Apr 22–
 ### May 27, 2026 — Unmarked-vehicle ICE detentions across Middle Tennessee
 WSMV and Telemundo reported multiple people detained by ICE agents operating from **unmarked vehicles** across Middle Tennessee, including at least six taken in McMinnville (Warren County) — agents in ICE vests exited gray and blue SUVs, handcuffed a man, and approached day laborers outside a Lowe's. ICE declined comment, citing "operational security." This unmarked-vehicle, plainclothes pattern is a tactical escalation in the Nashville/Middle TN region distinct from the 2025 marked-THP traffic-stop model. (WSMV, May 27, 2026 — see also Warren County entry)
 
+### Late May 2026 — Advocates document a spike; ICE confirms solo operations
+Building on the May 27 reporting, advocates (notably **Music City Migra Watch**, advocate Ashley Warbington) documented **at least 15 people detained across Middle Tennessee in a single week**, with armed agents making stops from **unmarked vehicles** (gray and blue SUVs) and specifically **targeting people in work vans on their way to jobs** — a worksite-commute interdiction model. A detention in **Gallatin (Sumner County)** was captured on video. Significantly, an **ICE supervisor confirmed to NewsChannel 5** that agents are making these arrests in Middle Tennessee, characterizing them as targeting people in the country illegally "who have committed crimes" — even as Deportation Data Project figures show over a third of ICE arrests nationally in Trump's first nine months were of people with no criminal record. This confirms the pattern as a sustained, ICE-led (no partnering agency) operation rather than a one-off May 27 sweep, now reaching Sumner County (which signed a 287(g) jail agreement in 2025). (NewsChannel 5 / WSMV / Telemundo, late May 2026)
+
+### Sixth Circuit bond ruling reaches Tennessee dockets
+Davidson and Middle TN detainees are now within the reach of the Sixth Circuit's **May 11, 2026 ruling in *Lopez-Campos v. Raycraft*** (Tennessee is in the Sixth Circuit), which restored individualized bond-hearing rights for long-term residents held under mandatory detention. Following the ruling, Tennessee immigration judges have begun granting bond — e.g., a **$1,500 bond for Elvira Benitez Suarez** post-ruling. Habeas petitions filed while a detainee remains physically in the Sixth Circuit are the operative lever; ICE's pattern of rapidly transferring TN detainees out of state (AL, LA) is in direct tension with preserving that jurisdiction. See [[bond-hearing-circuit-split-2026]] and [[kentucky-sixth-circuit-bond-hearing-ruling-2026]]. (Margaret W. Wong & Associates, May 15, 2026; Chalkbeat)
+
 ## Cross-Reference: TN Federal Non-Disclosure Directive
 
 Search did **not** surface a Tennessee-specific federal non-disclosure directive parallel to the FL/TX directive Madan documented. The closest analogue is THP/Department of Safety **withholding records under invocation of "litigation hold"** and (disputed) prosecutorial privilege — currently being challenged in TIRRC v. THP. Flag for Tom Kelleher / cross-investigation review: Tennessee's stonewalling pattern is being executed at the state-agency level, not (yet visibly) under a federal directive.
@@ -103,3 +109,5 @@ Search did **not** surface a Tennessee-specific federal non-disclosure directive
 - [License to Profile: How Tennessee Invited ICE to Target Residents (Lighthouse Reports)](https://www.lighthousereports.com/investigation/license-to-profile/)
 - [Tennessee Gov. Lee Signs HB2219 — First State 287(g) Sheriff Mandate (Capture Cascade Timeline, May 10, 2026)](https://capturecascade.org/event/2026-05-10--tennessee-hb2219-287g-sheriff-mandate-signed-law/)
 - [Multiple people reportedly detained by ICE agents in unmarked vehicles in Middle Tennessee (WSMV, May 27, 2026)](https://www.wsmv.com/2026/05/27/multiple-people-reportedly-detained-by-ice-agents-unmarked-vehicles-middle-tennessee/)
+- [Unmarked vehicles, work van stops: ICE arrests in Middle Tennessee — 15+ in a week, Music City Migra Watch, ICE supervisor confirms (NewsChannel 5, late May 2026)](https://www.newschannel5.com/news/unmarked-vehicles-work-van-stops-ice-arrests-in-middle-tennessee)
+- [Sixth Circuit Immigration Ruling Restores Bond Hearing Rights for Detained Immigrants — Lopez-Campos v. Raycraft (Margaret W. Wong & Associates, May 15, 2026)](https://www.imwong.com/2026/05/15/sixth-circuit-immigration-ruling-restores-bond-hearing-rights-for-detained-immigrants/)
