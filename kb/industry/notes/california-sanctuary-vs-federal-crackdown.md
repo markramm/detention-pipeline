@@ -14,11 +14,19 @@ tags:
 - deaths-in-custody
 - structural-analysis
 research_status: working
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # California: Sanctuary Under Siege
+
+## Update — June 2, 2026
+
+- **Now EIGHT operating ICE facilities, not seven.** Per CalMatters, the **Central Valley Annex** (the former state prison at McFarland, Kern County) **began receiving ICE detainees in April 2026**, bringing California's total to eight ICE-contracted detention centers. See county-fight [ca-kern-mcfarland-central-valley-annex](../county-fights/ca-kern-mcfarland-central-valley-annex.md). (The facilities table below still reflects the prior seven-facility count plus the proposed Gilroy/FCI Dublin sites.)
+- **Statewide detained population up 72% YoY.** Average ~**5,337** people in California immigration detention, up from ~3,104 in April 2025 (Bonta 5th report / Vera dashboard through March 2026).
+- **Adelanto hunger strike expanding** into the main IPC (west + east wings) with congressional visits (Chu, Aguilar, Gomez, Torres); DHS/GEO deny it. See [adelanto-ipc-san-bernardino-ca](../facilities/adelanto-ipc-san-bernardino-ca.md).
+- **Gilroy/Holsclaw Rd:** construction continues; ICE now flatly says it "currently has no plans for a detention center in Gilroy" while no county/DOJ lawsuit has yet been filed. See [holsclaw-road-gilroy-detention-santa-clara-ca](../facilities/holsclaw-road-gilroy-detention-santa-clara-ca.md).
+- Sources: [CalMatters — ICE quietly opens another detention center in a former California prison (McFarland), Apr 2026](https://calmatters.org/justice/2026/04/new-ice-detention-center-mcfarland/); [CalMatters — California sent investigators into ICE detention centers (May 2026)](https://calmatters.org/justice/2026/05/ice-detention-centers-state-inspections/)
 
 ## The Paradox
 

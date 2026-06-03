@@ -30,7 +30,7 @@ tags:
 - mtc
 - ice-facility
 research_status: working
-last_researched: 2026-04-13
+last_researched: 2026-06-02
 ---
 
 # Pima County: The Fight Against the Marana ICE Detention Center

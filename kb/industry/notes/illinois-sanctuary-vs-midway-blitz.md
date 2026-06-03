@@ -15,7 +15,7 @@ tags:
 - charging-protocol
 - courthouse-arrests
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Illinois: Operation Midway Blitz vs. Sanctuary
@@ -74,11 +74,11 @@ At least 5 ICE incidents at Cook County courthouses (Mar-Apr 2026), including th
 
 Source: [NPR Illinois: Courthouse targeting (Apr 3, 2026)](https://www.nprillinois.org/chicago-il/2026-04-03/officials-advocates-warn-ice-targeting-cook-county-domestic-violence-courthouse)
 
-## Broadview 6: Political Prosecutions
+## Broadview 6: Political Prosecutions — CASE COLLAPSED (May 21, 2026)
 
-Six activists indicted on federal felony conspiracy charges for surrounding an ICE vehicle during a Sept 26, 2025 protest. Of 50-100 protesters, only Democratic officeholders and activists were charged. Two charges dismissed (March 2026); four still fighting. ICE agent texted about being "famous among lefties."
+Six activists indicted on federal felony conspiracy charges for surrounding an ICE vehicle during a Sept 26, 2025 protest. Of 50-100 protesters, only Democratic officeholders and activists were charged. Two charges dismissed (March 2026); felony conspiracy count dropped (Apr 29). On **May 21, 2026, U.S. District Judge April Perry dismissed ALL remaining charges**, canceling the misdemeanor trial set to start the following week, after grand jury transcripts revealed gross prosecutorial misconduct (improper "vouching," excusing dissenting grand jurors, out-of-room contact, "abnormal redactions"). Perry was "shocked and sickened." U.S. Attorney **Andrew Boutros** appeared in person to dismiss, then ordered "sweeping" grand jury reforms (May 27); lead AUSA **Sheri Mecklenburg** was fired (May 29) from her new Senate Judiciary Committee counsel job. The country's flagship ICE-protest prosecution ended as a DOJ scandal — vindicating the selective/First Amendment-prosecution claim and now cited by other defendants (e.g., Don Lemon) seeking grand jury transcripts. See `il-cook-broadview-six-federal-prosecution`.
 
-Source: [NPR Illinois: Charges dismissed (Mar 2026)](https://www.nprillinois.org/illinois/2026-03-16/charges-dismissed-for-2-of-broadview-6-ice-facility-protesters)
+Source: [Capitol News Illinois: 'Broadview 6' trial canceled as prosecutors acknowledge misconduct (May 2026)](https://capitolnewsillinois.com/news/broadview-6-trial-canceled-as-prosecutors-acknowledge-misconduct-before-grand-jury/); [CBS Chicago: U.S. Attorney orders 'sweeping' grand jury reforms (May 27, 2026)](https://www.cbsnews.com/chicago/news/broadview-six-fallout-us-attorney-grand-jury-reforms/)
 
 ## Special Prosecutor Denied (May 21, 2026)
 
@@ -99,7 +99,7 @@ But detention also persists **inside** Illinois through the **"ICE rider" loopho
 
 ## Legislative Response
 
-**HB 5024** (passed House Apr 8, 72-35-2; Senate Executive Committee advanced it May 6, 2026, now on Senate floor): Prohibits new federal detention centers within 1,500 feet of homes, apartments, schools, day care, parks, public housing, cemeteries, or places of worship. Not retroactive — wouldn't close Broadview but would block new siting. See `il-statewide-hb5024-detention-location-ban`.
+**HB 5024** (passed House Apr 8, 72-35-2; **full Senate passed it party-line in the early hours of June 1, 2026 — now on Pritzker's desk, unsigned as of June 2**): Prohibits new federal detention centers within 1,500 feet of homes, apartments, schools, day care, parks, forest preserves, public housing, cemeteries, or places of worship. Not retroactive — wouldn't close Broadview but would block new siting. Senate sponsor Sen. Kimberly Lightford represents parts of Broadview. See `il-statewide-hb5024-detention-location-ban`.
 
 ## Budget-Distressed Counties Blocked from Cooperating
 

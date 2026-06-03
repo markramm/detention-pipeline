@@ -19,8 +19,8 @@ tags:
   - illinois
   - ice-lawbreaking
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Cook County, IL: ICE Courthouse Arrests and the Special Prosecutor Fight
@@ -52,6 +52,8 @@ The petition gained urgency when the O'Neill Burke emails revealed that the sitt
 On **May 21, 2026, Judge Reddick rejected the petition.** She dismissed the arguments of the broad coalition — elected officials, clergy, journalists, and attorneys — and found that O'Neill Burke's office remains the appropriate entity to handle any prosecutions. Petitioners' lead attorney Locke Bowman said the coalition would now pursue alternative avenues: pressuring local law-enforcement agencies, including the Chicago Police Department, to investigate federal agents' alleged misconduct and refer cases for charging. He pointed to an existing Illinois State Police investigation into a fatal ICE shooting in Franklin Park as a model.
 
 Cook County State's Attorney O'Neill Burke had earlier announced a **protocol to criminally charge ICE agents who break state law** (Feb 19, 2026) — a response critics argue came late and only under political pressure. With the special prosecutor denied, that protocol — and her willingness to use it — is now the only formal local-prosecution channel for ICE misconduct.
+
+**June 2, 2026 update:** No change to the special-prosecutor fight itself in the late-May/early-June window (the May 21 rejection stands). The most consequential local accountability development was on the *federal* prosecution side: on the same day (May 21), U.S. District Judge April Perry dismissed the related **Broadview 6** case over gross grand jury misconduct, the lead AUSA was fired (May 29), and U.S. Attorney Andrew Boutros ordered sweeping grand jury reforms (May 27). This federal-prosecution collapse strengthens the coalition's broader narrative of federal-agent misconduct during Midway Blitz. See `il-cook-broadview-six-federal-prosecution`.
 
 ## State Legal Framework
 

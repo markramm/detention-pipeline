@@ -11,15 +11,21 @@ capacity: "TBD (small holding/processing footprint, ~18,700–20,000 sq ft)"
 operator: "ECG 6 LLC / Elmwood Capital Group (landlord); ICE intended occupant"
 contract_type: gsa-lease
 contract_value: "$26.5M / 20 years"
-status: under-construction
+status: contested
 importance: 8
 tags: [federal-leased, gsa-lease, elmwood-capital-group, ecg-6-llc, santa-clara-county, gilroy, zoning-fight, no-public-notice, deny-then-build, procurement-intermediary]
 research_status: working
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Holsclaw Road Federal Detention Center (near Gilroy)
+
+## Update — June 2, 2026
+
+- **ICE explicitly denies plans (escalated denial).** Asked about the site, ICE told the Press Democrat it "currently has no plans for a detention center in Gilroy," adding that "ICE facilities are subject to applicable federal, state, and local laws, including zoning regulations." This is a sharper denial than DHS's earlier non-committal "no new detention centers to announce" — even as construction continues at the parcel.
+- **Construction continues; still no lawsuit filed.** Work at the ~25-acre site began in early May and is ongoing. As of June 2, Santa Clara County Counsel **Tony LoPresti** said his office is "feverishly" exploring legal options and promised concrete steps "soon," but **no lawsuit has been filed** by Santa Clara County, Monterey County, or AG Bonta. The litigation remains threatened, not initiated.
+- Source: [Press Democrat — Can local or state government stop an ICE detention center near Gilroy? (June 1, 2026, updated June 2)](https://www.pressdemocrat.com/2026/06/01/ice-detention-facility-gilroy-local-state-governments-stop-it/)
 
 ## Overview
 
@@ -43,6 +49,7 @@ See county-fight entry [monterey-county-ca-gilroy-detention-opposition](../count
 
 ## Sources
 
+- [Press Democrat — Can local or state government stop an ICE detention center near Gilroy? (June 1, 2026)](https://www.pressdemocrat.com/2026/06/01/ice-detention-facility-gilroy-local-state-governments-stop-it/)
 - [San José Spotlight — Federal detention center planned in South County (May 2026)](https://sanjosespotlight.com/federal-detention-center-planned-in-south-county/)
 - [KQED — Santa Clara County Leaders Say They'll Fight Planned ICE Facility in Gilroy (May 2026)](https://www.kqed.org/news/12083600/santa-clara-county-leaders-say-theyll-fight-planned-ice-facility-in-gilroy)
 - [Hanford Sentinel — Work begins on planned ICE detention facility near Gilroy as Santa Clara County threatens lawsuit (May 2026)](https://hanfordsentinel.com/news/national/work-begins-on-planned-ice-detention-facility-near-gilroy-calif-as-santa-clara-county-threatens/article_6356281a-0f5f-5cc7-803e-99fddce233e3.html)

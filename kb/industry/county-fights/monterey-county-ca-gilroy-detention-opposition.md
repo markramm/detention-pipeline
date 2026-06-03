@@ -22,11 +22,17 @@ tags:
   - siren
   - cross-county-coalition
 research_status: working
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Monterey County CA: Opposition to Proposed Federal Detention Center Near Gilroy
+
+## Update — June 2, 2026
+
+- **Still no litigation filed.** As of June 2, neither Santa Clara County, Monterey County, nor AG Bonta has filed suit. Santa Clara County Counsel **Tony LoPresti** said his office is "feverishly" exploring options and promised concrete steps "soon." The Monterey resolution's commitment to join Santa Clara/DOJ litigation has not yet been triggered because the lead suit does not exist.
+- **ICE escalated its denial.** ICE now says it "currently has no plans for a detention center in Gilroy" (Press Democrat, June 1) — a firmer disclaimer than DHS's earlier non-denial — even as construction continues at 7240 Holsclaw Road. The deny-while-building dynamic remains the central question facing opponents.
+- Source: [Press Democrat — Can local or state government stop an ICE detention center near Gilroy? (June 1, 2026)](https://www.pressdemocrat.com/2026/06/01/ice-detention-facility-gilroy-local-state-governments-stop-it/)
 
 ## The Fight
 

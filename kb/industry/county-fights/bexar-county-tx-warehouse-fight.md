@@ -6,13 +6,13 @@ county: Bexar
 state: TX
 fips: "48029"
 facility: "San Antonio East Side Warehouse — ICE Processing Center"
-status: paused
-outcome: "Project on legal pause as of late April 2026 — NEPA litigation following Maryland federal judge precedent; San Antonio City Council passed 9-2 zoning restrictions Apr 17; ~100 protested April 25 at facility; County passed 4-1 opposition; original 8-2 moratorium vote held"
+status: active
+outcome: "Project on legal pause as of late April 2026 — NEPA litigation following Maryland federal judge precedent; San Antonio City Council passed 9-2 zoning restrictions Apr 17; ~100 protested April 25 at facility; County passed 4-1 opposition; original 8-2 moratorium vote held. UPDATE (reported May 15, 2026): the 'pause' is effectively over — ICE confirms the Oakmont 410 warehouse is still moving forward, with the Washington Post reporting an early-2027 operational target. The Maryland NEPA injunction does NOT bind Texas because Trump v. CASA (2025) made such injunctions jurisdictional (Fifth vs. Fourth Circuit); Commissioner Calvert says the county must build its own NEPA-plus legal case. Separately (May 28, 2026), ICE is moving to add San Antonio office space as its workforce expands."
 importance: 8
-tags: [warehouse-conversion, commissioners-court, community-opposition, legal-challenge, environmental-law, nepa, moratorium, student-protest, texas, san-antonio, east-side, hurson-precedent, paused]
+tags: [warehouse-conversion, commissioners-court, community-opposition, legal-challenge, environmental-law, nepa, moratorium, student-protest, texas, san-antonio, east-side, hurson-precedent, trump-v-casa, jurisdictional-limits, moving-forward]
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: "2026-05-06"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Bexar County: Broad Coalition Fights East Side ICE Warehouse
@@ -43,6 +43,8 @@ Opposition has escalated through multiple channels: Bexar County Commissioners p
 - **Apr 17, 2026**: San Antonio City Council passes new private-detention-facility restrictions **9-2**: industrial zoning required, specific use authorization from council, must be at least 1,000 feet from schools, public parks, churches, and residential areas. (City legal staff: Supremacy Clause likely exempts the federal Oakmont 410 facility from these rules.)
 - **Apr 25, 2026**: ~100+ protesters rally outside Oakmont 410 site as part of nationwide day of action; Commissioner Tommy Calvert participates.
 - **Mid-to-late April 2026**: Project enters **legal pause**. City announces hold pending NEPA environmental review — explicitly tied to Maryland federal judge's Williamsport ruling blocking similar warehouse-to-detention conversion. Councilman Jalen McKee-Rodriguez (D2) leads the public announcement.
+- **May 15, 2026**: The "pause" unravels. Reporting (SA Current, citing Washington Post) confirms the Oakmont 410 warehouse is **still moving forward**, with ICE targeting an **early-2027** opening. The Maryland Hurson injunction does **not** bind Texas: under **Trump v. CASA (2025)** such injunctions are jurisdictional, applying only within the Fourth Circuit, not the Fifth. Calvert: the county must mount "our own legal due diligence ... not only [using] NEPA but other ... federal statutes." McKee-Rodriguez's office provided no explanation for the earlier pause claim.
+- **May 28, 2026**: ICE moves to **add San Antonio office space** as its local workforce expands (The Real Deal) — signaling continued buildout despite opposition.
 
 ### Actors
 
@@ -75,6 +77,10 @@ Opposition has escalated through multiple channels: Bexar County Commissioners p
 
 As of April 2026, DHS has temporarily halted new warehouse purchases while reviewing contracts signed under former Secretary Kristi Noem. Previously completed acquisitions, including San Antonio, are reportedly under review by new Secretary Markwayne Mullin.
 
+### Pause Reversed — Trump v. CASA Forecloses the NEPA Shortcut (May 2026)
+
+By mid-May 2026 the local "pause" narrative had collapsed. ICE confirmed the Oakmont 410 conversion is proceeding toward an early-2027 opening. The legal theory the city and county leaned on — the Maryland federal injunction in *Maryland v. Noem* (Judge Hurson) blocking a Williamsport warehouse conversion over NEPA — does not reach Texas. The Supreme Court's 2025 *Trump v. CASA* decision made such injunctions **jurisdictional**, binding only within the issuing circuit (Maryland sits in the Fourth Circuit; Texas in the Fifth). Bexar's opponents must therefore build an independent NEPA-and-beyond case from scratch. ICE's late-May move to expand its San Antonio office footprint underscores that the agency is building out, not retreating.
+
 ### Limitations
 
 - Federal property is immune from local zoning under Supremacy Clause — city zoning moratorium would not directly affect the East Side facility.
@@ -100,3 +106,5 @@ As of April 2026, DHS has temporarily halted new warehouse purchases while revie
 - [Large crowd protests at proposed ICE processing facility (TPR, Apr 25, 2026)](https://www.tpr.org/news/2026-04-25/large-crowd-protests-in-front-of-the-proposed-ice-processing-facility-in-southeast-san-antonio)
 - [Legal fights put San Antonio ICE warehouse on pause (SA Current, Apr 30, 2026)](https://www.sacurrent.com/news/san-antonio-news/legal-fights-put-san-antonio-ice-warehouse-on-pause/)
 - [Can a zoning change stop the East Side ICE detention center? (TPR, Apr 19, 2026)](https://www.tpr.org/podcast/the-source/2026-04-19/can-a-zoning-change-stop-the-east-side-ice-detention-center)
+- [San Antonio ICE warehouse still moving forward, despite earlier claim (SA Current, May 15, 2026)](https://www.sacurrent.com/news/san-antonio-news/san-antonio-ice-warehouse-still-moving-forward-despite-earlier-claim/)
+- [ICE planning to add more San Antonio office space as workforce dramatically increases (The Real Deal, May 28, 2026)](https://therealdeal.com/texas/2026/05/28/ice-planning-to-add-more-san-antonio-office-space/)

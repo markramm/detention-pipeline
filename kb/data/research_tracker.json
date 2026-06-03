@@ -65,8 +65,8 @@
       "notes": "Pima \u2014 Marana MTC 513/775-bed conversion still pending, Nov 30 target; no new litigation in May."
     },
     "04021": {
-      "last_researched": "2026-05-28",
-      "notes": "Pinal \u2014 Miller rogue 287(g) VOIDED by Judge Gordon May 15; Eloy deaths/medical neglect 2026."
+      "last_researched": "2026-06-02",
+      "notes": "Eloy solitary-confinement-as-coercion report (Solitary Watch 5/29, AZ Daily Star 6/2) added. Pinal 287g void judgment still final, no Miller appeal as of 6/2."
     },
     "05007": {
       "last_researched": "2026-04-13",
@@ -133,16 +133,16 @@
       "notes": "Sacramento CA \u2014 State capital ICE enforcement hub: John Moss Federal Building improvised detention (congressional oversight blocked), Florin Rd Home Depot raid (Jul 2025, 12 arrested, ACLU court order challenge), courthouse arrests (~40 detained, Dec 2025 injunction), Xa Lee incident (Mar 2026, DHS anti-sanctuary messaging), AAPI community targeting, city council sanctuary reaffirmation + ban ICE from city property, Sacramento RISE Hub, 4 IGSAs, 3 ANC contracts ($35.8M G4S transport)"
     },
     "06071": {
-      "last_researched": "2026-05-27",
-      "notes": "San Bernardino CA - Adelanto 2690 beds, ADP 1587 (Apr2026), Desert View Annex hunger strike May2026, top-10 US for segregation share, 3 deaths, federal lawsuit."
+      "last_researched": "2026-06-02",
+      "notes": "San Bernardino/Adelanto: hunger strike expanded into main IPC west+east wings (~50) plus Desert View (~20), ~150 petition signers; congressional visits (Chu/Aguilar/Gomez/Torres) incl Chu presser 6/1; DHS+GEO deny; suicide attempt + untreated seizure alleged; burrito-coercion, hotline cut."
     },
     "06073": {
-      "last_researched": "2026-04-12",
-      "notes": "San Diego CA \u2014 23 IGSAs, Otay Mesa overcrowded, county sues ICE, 1500% arrest surge, Escondido fight"
+      "last_researched": "2026-06-02",
+      "notes": "San Diego/Otay Mesa: no new development since 5/27 sweep; access lawsuit (county v. ICE/DHS over blocked health inspection) remains active from Mar2026; ADP ~1,500, ~82% no criminal conviction. CoreCivic."
     },
     "06085": {
-      "last_researched": "2026-05-27",
-      "notes": "Santa Clara County CA - Holsclaw Rd/Gilroy detention center under construction, leased to ECG6/Elmwood; county vows to fight (Arenas, Ellenberg, Exec Williams), site not zoned for detention. New facility entry created."
+      "last_researched": "2026-06-02",
+      "notes": "Santa Clara/Gilroy Holsclaw Rd: construction continues; ICE escalated denial (no plans in Gilroy) 6/1; no lawsuit filed yet, County Counsel LoPresti promises steps soon. status->contested."
     },
     "08001": {
       "last_researched": "2026-05-28",
@@ -181,8 +181,8 @@
       "notes": "DC buildout: overview note, DC Jail no-ICE facility, federalization/MPD-ICE county-fight"
     },
     "12011": {
-      "last_researched": "2026-05-27",
-      "notes": "Broward FL \u2014 created dedicated county-fight file: Sheriff Tony coerced compliance (WSO+TFM 287g), GEO Broward Transitional Center over capacity w/ death in custody, Operation Tidal Wave zone, declined $60M state grant."
+      "last_researched": "2026-06-02",
+      "notes": "Broward: no new developments since 5/27; BTC (GEO, Pompano) receiving some Alligator Alcatraz transfers but no fresh fight news."
     },
     "12057": {
       "last_researched": "2026-04-10",
@@ -193,8 +193,8 @@
       "notes": "Martin Co FL \u2014 $738K enforcement grant, 2nd highest encounter rate, 400+ arrests since Aug 2025, Stuart ICE sub-office, Indiantown joint operation (11 arrests)"
     },
     "12086": {
-      "last_researched": "2026-05-27",
-      "notes": "Miami-Dade FL \u2014 Alligator Alcatraz winding down (5/26 Frost visit); created Krome use-of-force note (Reason 5/22: #1 of 98 ICE facilities, 61% of restraint-chair uses, transparency collapse under Trump)."
+      "last_researched": "2026-06-02",
+      "notes": "Miami-Dade: Alligator Alcatraz confirmed closing (last detainee June, demobilization 2-3wk). Updated facility + county-fight entries."
     },
     "12095": {
       "last_researched": "2026-05-28",
@@ -265,8 +265,8 @@
       "notes": "Twin Falls ID \u2014 IGSA facility (HEL-144); ISP transport hub: prisons -> ICE offices Boise/Twin Falls -> bus to Las Vegas; Twin Falls/Lincoln sheriffs publicly denied school roundup rumors; student walkouts Jan 29 2026; residents wary post-Minnesota clashes"
     },
     "17031": {
-      "last_researched": "2026-05-28",
-      "notes": "Cook: special prosecutor denied May 21; courthouse arrests continue; Broadview closure demand + conditions litigation."
+      "last_researched": "2026-06-02",
+      "notes": "Cook: Broadview 6 case dismissed with prejudice May 21 over prosecutorial misconduct; Broadview facility unaffected by HB 5024; pastoral access deal May 15."
     },
     "17089": {
       "last_researched": "2026-04-13",
@@ -1177,20 +1177,28 @@
       "notes": "Wilson \u2014 16,000-bed Lebanon mega-center blocked by Republican revolt Feb 2026, deal killed by Blackburn"
     },
     "48029": {
-      "last_researched": "2026-04-12",
-      "notes": "Bexar \u2014 SA East Side warehouse, commissioners court hearing, community opposition"
+      "last_researched": "2026-06-02",
+      "notes": "Bexar: SA Oakmont 410 warehouse pause reversed \u2014 moving forward toward early-2027 (Trump v. CASA undercut NEPA); ICE adding office space May 28. Status flipped paused->active."
     },
     "48061": {
       "last_researched": "2026-05-27",
       "notes": "Cameron/Port Isabel SPC facility created \u2014 ICE-owned ~1,200 beds (Ahtna service contract); Randall Gamboa medical-neglect death (deported in vegetative state, died Oct 26 2025); active SAM.gov expansion RFI."
     },
     "48113": {
-      "last_researched": "2026-05-28",
-      "notes": "Hutchins/Dallas Co TX ICE warehouse"
+      "last_researched": "2026-06-02",
+      "notes": "Dallas: Paxton SB8/287g enforcement letter to Sheriff Marian Brown (May 13, June 1 interim deadline disputed). New fight entry. Hutchins mega-warehouse still blocked."
+    },
+    "48141": {
+      "last_researched": "2026-06-02",
+      "notes": "El Paso: first class-action vs Camp East Montana (May 30); measles outbreak revealed; daily avg >2,500. Socorro warehouse no change since Apr."
     },
     "48163": {
       "last_researched": "2026-05-27",
       "notes": "Frio/Pearsall STIPC facility created \u2014 GEO Group 1,904 beds; Kai Yin Wong death Oct 25 2025; documented conditions/medical/legal-access complaints; on ICE TX expansion list."
+    },
+    "48201": {
+      "last_researched": "2026-06-02",
+      "notes": "Harris: Abbie Kamin named interim county attorney eff June 15, now owns SB8 287g decision + ICE-coordination guidelines. City/county still stalled post state funding pressure."
     },
     "48479": {
       "last_researched": "2026-05-27",
@@ -1375,12 +1383,12 @@
       "notes": "Franklin Co mega-prison/ICE site stalled in statute: fiscal session ended Apr 29 2026 with no appropriation; House barred ~$74M from Franklin use (Apr 27); May 4 special session was tax-cuts only. Nabholz/JE Dunn contractor pick was May 2025 not 2026; build unfunded until 2027. Act 654 statewide 287g, 40 agencies, NW AR->LaSalle/Jena LA pipeline."
     },
     "AZ": {
-      "last_researched": "2026-05-28",
-      "notes": "May 2026: Pinal court VOIDED Brad Miller rogue 287(g) (May 15, no appeal as of 5/28); Eloy 2026 death (Emmanuel Damas, 3/2) + medical-neglect surge + oversight collapse; Surprise warehouse = GardaWorld $313M, stop-work order, AG Mayes NEPA suit (Arizona v. Mullin, 4/24); NEW Mesa AROCC overcrowding (777 in 157-cap, pepper-spray of 47, congressional visits); Marana MTC still pending Nov 30 target."
+      "last_researched": "2026-06-02",
+      "notes": "Little changed in 5 days. NEW: Solitary Watch report (May 29) + AZ Daily Star/Bregel investigation (Jun 2) name Eloy as focal site for ICE using solitary to coerce self-deportation (named cases: Dehgani, Aghar, Borisov); national 22,400 in solitary 2022-26. Eloy entry updated. Miller (Pinal 287g) still no appeal filed as of 6/2 (unchanged). Surprise/Marana/AROCC unchanged."
     },
     "CA": {
-      "last_researched": "2026-05-27",
-      "notes": "Gilroy/Holsclaw Rd federal detention center (Santa Clara, GSA lease to ECG6/Elmwood, $26.5M/20yr, secret since Jan2025, construction May2026, not zoned) - Monterey+Santa Clara oppose, Bonta coordinating litigation, Speaker Rivas Not Here Not Ever, SIREN. Adelanto Desert View hunger strike May2026, ADP 1587. Imperial charity tax-break Senate review. Bonta 5th report: 6 deaths Sep2025-Mar2026, conditions worsened. 8 facilities ~10k beds."
+      "last_researched": "2026-06-02",
+      "notes": "Since 5/27: Gilroy/Holsclaw Rd construction continues but ICE now flatly says it \"currently has no plans for a detention center in Gilroy\" (deny-while-building); STILL no county/Bonta lawsuit filed as of 6/2 (Santa Clara Counsel LoPresti exploring \"feverishly\", steps \"soon\"). Adelanto hunger strike EXPANDED from Desert View into main IPC (west+east wings, ~50 west + ~20 annex, ~150 signed petition); Reps Chu/Aguilar/Gomez/Torres visited; DHS+GEO deny; burrito-coercion + hotline-cut allegations. Confirmed 8th operating facility: Central Valley Annex (McFarland, Kern) receiving ICE detainees since Apr2026. Statewide detained ADP ~5,337 (+72% YoY). Otay Mesa access lawsuit unchanged (Mar2026)."
     },
     "CO": {
       "last_researched": "2026-05-28",
@@ -1399,8 +1407,8 @@
       "notes": "No dedicated ICE detention; 287(g) ban (HB 182). Transfer-origin state: Dover ERO sub-office (Philadelphia AOR) ships arrestees to PA (Moshannon Valley/Clearfield, Pike/Clinton/Cambria/Franklin jails, FDC Philly, FCI Lewisburg). Arrests 220->687 (2025), street 24->371. Sussex poultry belt (Georgetown/Millsboro) epicenter; Laurel PD shared Haitian addresses w/FBI. Daedalus deportation-flight lease fight at Wilmington Airport (DRBA); labor-data subpoena appeal; DMV-data fight."
     },
     "FL": {
-      "last_researched": "2026-05-27",
-      "notes": "May 2026 sweep: Alligator Alcatraz WINDING DOWN (pop ~1500->655, no new arrivals, tents disassembled, Frost 5/26 visit); Panhandle Pokey (Panama City) ABANDONED per DHS 5/22; created Broward fight file (#1 heat county); Krome led all 98 ICE facilities in use of force (Reason 5/22); Orange Co BOA 72->48hr + NICE Act 5/12."
+      "last_researched": "2026-06-02",
+      "notes": "Alligator Alcatraz closure firmed up: vendors formally notified May 26 it is shutting down, last detainee leaves June 2026, 2-3wk demobilization then reverts to pilot-training airport. Pop 655 (Frost 5/26, WFLX 5/29) vs ~1,400 in closure reporting. Detainees transferred not released: in-state (Baker/Krome/BTC/Glades) + out-of-state (California City CA, Fort Bliss TX). Panhandle Pokey already dead (5/22). No new developments at other FL sites in 6-day window."
     },
     "GA": {
       "last_researched": "2026-05-28",
@@ -1423,8 +1431,8 @@
       "notes": "Idaho \u2014 May 2026 update: Ada County Sheriff Clifford (former mandate opponent) reversing to sign voluntary WSO 287(g), pushing toward 11 agencies; ISP transport program now 83 people to ICE since June 2025 with pre-conviction scandal (first 53 list had 6 pending cases/4 not in court records) prompting verification policy change under Dir. Gardiner; E-Verify HB704 (all private employers, July 1) passed House over dairy opposition; Wilder/Rodriguez v Porter still early litigation; pro-ICE Idaho Stands with ICE rally + student walkouts Jan 2026"
     },
     "IL": {
-      "last_researched": "2026-05-28",
-      "notes": "Special prosecutor petition REJECTED by Judge Reddick May 21; ICE still doing warrantless courthouse arrests (4 courthouses May 7) defying Evans Oct-2025 ban. HB5024 advanced Senate Exec Cmte May 6, now on floor. Broadview: mayor demands closure + $700K (Mar 24), Jan-22 FOIA ruling, Apr conditions testimony (150-170/cell). New note: ICE-rider loophole \u2014 17 downstate sheriffs hold ICE detainees via USMS riders despite TRUST/Way Forward Acts."
+      "last_researched": "2026-06-02",
+      "notes": "Broadview 6 federal prosecution COLLAPSED May 21 (Judge Perry dismissed all charges over gross grand jury misconduct; lead AUSA Mecklenburg fired May 29; US Atty Boutros ordered grand jury reforms May 27). HB 5024 detention-siting ban PASSED full Legislature June 1, on Pritzker desk (not retroactive, wont close Broadview). Faith-leader daily pastoral access at Broadview since May 15. Special-prosecutor fight unchanged (rejection May 21 stands). 7th Cir bond panel deadlocked May 5 - no binding ruling yet."
     },
     "IN": {
       "last_researched": "2026-05-28",
@@ -1543,8 +1551,8 @@
       "notes": "HB2219 signed ~May 10 2026 (first statewide 287g mandate, all 95 sheriffs by Jan 1 2027). McMinnville/Warren Co unmarked-vehicle ICE sweep May 27 (6+ detained); Ooltewah teen Garzon Romero detained at Chattanooga check-in May 18; Memphis Safe Task Force 8818 arrests + DEA fatal shooting May 12; Mason WTDF ODO inspection Mar 10-12. New: warren-county entry. Updated 6 existing."
     },
     "TX": {
-      "last_researched": "2026-05-27",
-      "notes": "Filled gap counties: Frio/Pearsall (STIPC GEO 1,904 bed, Kai Yin Wong death Oct 2025), Williamson/T.Don Hutto (county pulled out 2018, ICE re-contracted direct w/ CoreCivic, now men), Cameron/Port Isabel (SPC ~1,200, Gamboa medical-neglect death, active expansion RFI), Webb/Laredo updated (Gamboa initial-custody node). SB8 mandates 287g for counties >100k by Dec 1 2026."
+      "last_researched": "2026-06-02",
+      "notes": "June sweep (6-day window since 5/27): (1) First federal class-action suit against Camp East Montana filed May 30 by ACLU/TX Civil Rights Project/Farella Braun+Martel \u2014 Fifth Amendment unconstitutional-punishment claim; surfaced near-month-long measles outbreak; daily avg >2,500 as of Apr 2. (2) Bexar/San Antonio Oakmont 410 pause REVERSED \u2014 ICE still moving forward (early-2027 target); Trump v. CASA made Maryland NEPA injunction non-binding in 5th Cir; ICE adding SA office space (May 28). (3) SB8 enforcement debut: Paxton vs Dallas Sheriff Marian Brown \u2014 May 13 letter demanding 287g compliance before June 1 (disputed vs statutory Dec 1); new fight entry created. (4) Harris: Abbie Kamin (ordinance defender) named interim county attorney eff June 15. Pearsall/Hutto: no change in 6 days."
     },
     "UT": {
       "last_researched": "2026-05-28",

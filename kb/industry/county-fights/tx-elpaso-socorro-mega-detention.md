@@ -7,7 +7,7 @@ state: TX
 fips: "48141"
 facility: "Camp East Montana (Fort Bliss, 5,000 cap) + Socorro Warehouses (8,500 cap planned)"
 status: active-crisis
-outcome: "Three deaths at Camp East Montana including one ruled homicide; ICE inspection found 49 detention standards violations; original operator Acquisition Logistics (no detention experience, $1.3B contract) replaced by Amentum in March 2026; DHS purchased three Socorro warehouses for $123M in January 2026; El Paso City Council voted April 13, 2026 to pursue zoning restrictions on new ICE detention facilities; El Paso County Attorney filed FOIA federal lawsuit April 6, 2026; City of Socorro moved to block facility."
+outcome: "Three deaths at Camp East Montana including one ruled homicide; ICE inspection found 49 detention standards violations; original operator Acquisition Logistics (no detention experience, $1.3B contract) replaced by Amentum in March 2026; DHS purchased three Socorro warehouses for $123M in January 2026; El Paso City Council voted April 13, 2026 to pursue zoning restrictions on new ICE detention facilities; El Paso County Attorney filed FOIA federal lawsuit April 6, 2026; City of Socorro moved to block facility. UPDATE May 30, 2026: ACLU of Texas, national ACLU, Texas Civil Rights Project and Farella Braun + Martel filed the FIRST lawsuit against the nation's largest ICE detention center — a federal class-action on behalf of 4 named detainees and all current/future Camp East Montana detainees, alleging Fifth Amendment 'unconstitutional punishment' (medical neglect, physical/sexual abuse, insufficient food, denied attorney access). Facility also had a near-month-long measles outbreak; daily avg topped 2,500 as of Apr 2. DHS calls claims 'categorically false.'"
 importance: 10
 tags:
   - camp-east-montana
@@ -23,9 +23,12 @@ tags:
   - water-infrastructure
   - el-paso
   - texas
+  - class-action
+  - aclu
+  - measles-outbreak
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # El Paso TX: Camp East Montana Deaths + Socorro Mega-Warehouse Complex
@@ -74,6 +77,14 @@ On **April 13, 2026**, the El Paso City Council voted unanimously to direct city
 
 The zoning action followed an earlier February 2026 council vote to develop formal limits on ICE detention, reflecting a sustained municipal response to the expansion.
 
+## Class-Action Conditions Lawsuit (May 30, 2026)
+
+On the night of **May 30, 2026**, the **ACLU of Texas**, the national **ACLU**, the **Texas Civil Rights Project**, and law firm **Farella Braun + Martel** filed the **first federal lawsuit against Camp East Montana** — and the first against the nation's largest immigration detention facility. The petition seeks **class certification** on behalf of four named detainees representing all current and future people held at the camp.
+
+Lead plaintiff **Gerald Akari Angye**, a 35-year-old former high school teacher from Cameroon who fled after being kidnapped and tortured, said: "No one deserves such cruel treatment." The complaint alleges conditions amounting to **"unconstitutional punishment"** in violation of Fifth Amendment due process: medical neglect (people with HIV, cancer, and diabetes denied timely medication), physical and sexual abuse by officers, insufficient food, excessive desert dust causing breathing problems, dirty toilet water flowing into sleeping areas, detainees wearing the same clothing for three weeks, and denial of meaningful attorney access. The suit argues "Defendants' continued inaction in the face of known risks shows their deliberate indifference."
+
+The filing surfaced a previously unreported detail: the facility endured a **nearly month-long measles outbreak**, on top of the three deaths and ~49–50 detention-standards violations. As of **April 2, 2026** the camp's daily average exceeded **2,500 detainees** — the largest single-facility detained population in FY2026 — against a planned 5,000-bed capacity. A DHS spokesperson called the inhumane-conditions claims **"categorically false."**
+
 ## County FOIA Litigation
 
 On **April 6, 2026**, the El Paso County Commissioners Court unanimously approved County Attorney **Christina Sanchez**'s request to sue the federal government. Sanchez filed a FOIA federal lawsuit against ICE on four counts of violating the Freedom of Information Act, stemming from a **February 17, 2026** FOIA request for Socorro facility planning documents — including site maps, permitting requirements, public notice procedures, and records of meetings related to the proposed facility. ICE failed to respond within the Department of Justice's 20-business-day deadline.
@@ -100,6 +111,7 @@ The lawsuit seeks immediate processing of the records and an order preventing IC
 - **2026-04-06**: El Paso County Commissioners Court unanimously approves FOIA lawsuit; Sanchez files suit against ICE
 - **2026-04-13**: El Paso City Council votes unanimously to pursue zoning restrictions on new ICE detention facilities
 - **2026-04-13**: Ciudad of Socorro separately moves to block facility
+- **2026-05-30**: ACLU of Texas, national ACLU, Texas Civil Rights Project + Farella Braun + Martel file first federal class-action suit against Camp East Montana alleging Fifth Amendment "unconstitutional punishment"; reveals near-month-long measles outbreak; daily avg >2,500 as of Apr 2
 
 ## Key Actors
 
@@ -114,6 +126,11 @@ The lawsuit seeks immediate processing of the records and an order preventing IC
 
 ## Sources
 
+- [Texas Tribune: ICE sued over "inhumane" conditions at Camp East Montana (May 30, 2026)](https://www.texastribune.org/2026/05/30/texas-ice-camp-east-montana-conditions-lawsuit/)
+- [ACLU: Legal organizations file lawsuit over detention conditions at Camp East Montana (May 30, 2026)](https://www.aclu.org/press-releases/legal-organizations-file-lawsuit-over-immigration-detention-conditions-at-camp-east-montana-in-el-pasos-fort-bliss-military-base)
+- [NPR: Immigrant detainees sue over 'horrific' conditions at Texas ICE facility (May 30, 2026)](https://www.npr.org/2026/05/30/nx-s1-5841359/immigrant-detainees-sue-texas-camp-east-montana)
+- [Spectrum News: 4 Camp East Montana detainees suing ICE (Jun 1, 2026)](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/06/01/camp-east-montana-detainees-sue-ice-over--flagrant-human-rights-abuses-)
+- [Houston Public Media: Immigrant detainees sue over conditions (Jun 1, 2026)](https://www.houstonpublicmedia.org/articles/news/politics/immigration/2026/06/01/553297/immigrant-detainees-sue-texas-camp-east-montana/)
 - [Texas Tribune: El Paso medical examiner rules death homicide (Jan 21, 2026)](https://www.texastribune.org/2026/01/21/texas-el-paso-immigrant-death-ice-custody-homicide/)
 - [Texas Tribune: ICE death use of force (Feb 20, 2026)](https://www.texastribune.org/2026/02/20/texas-ice-detention-death-use-of-force-camp-east-montana/)
 - [ACLU: Renews calls for closure after homicide ruling](https://www.aclu.org/press-releases/aclu-renews-calls-for-closure-of-camp-east-montana-following-reports-that-detained-immigrant-was-choked-to-death-by-ice-officer)

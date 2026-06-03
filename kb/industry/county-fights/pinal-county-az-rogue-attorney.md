@@ -25,7 +25,7 @@ tags:
 - pinal-county-cluster
 research_status: working
 fips: '04021'
-last_news_check: '2026-05-28'
+last_news_check: '2026-06-02'
 ---
 
 # Pinal County: When the County Attorney Goes Rogue
@@ -62,6 +62,7 @@ This is a governance crisis, not just an immigration fight. A county attorney by
 - **May 15, 2026 — RULING**: Judge Michael Gordon **rules from the bench against Miller**, finding he had no power to unilaterally enter the federal 287(g) program. Gordon holds the **Pinal County Attorney's Office is not a "political subdivision" under Arizona law**, so it cannot enter intergovernmental agreements on its own; only the county (via the Board) or the sheriff is authorized. The agreement is **"determined to be void."**
 - **May 18-20, 2026**: Coverage and analysis (Tucson Sentinel, KJZZ "a lawyer explains why") underscore the structural holding — a stand-alone county officer cannot bind the county to a federal IGA.
 - **May 28, 2026**: Per AZPM, Miller **has not filed an appeal**, so Gordon's ruling stands as a **final judgment in full force**. Miller publicly states he is "disappointed" and "strongly considering an appeal."
+- **June 2, 2026 (news check)**: No appeal filed and no new docket activity surfaced in the ~5 days since May 28; Miller's status is unchanged ("strongly considering an appeal"). The void judgment remains final and in force.
 
 ## The Outcome and Why It Matters
 

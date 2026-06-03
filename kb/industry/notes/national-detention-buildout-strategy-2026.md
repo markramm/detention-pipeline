@@ -116,6 +116,14 @@ This note is the connective tissue for findings filed under individual states:
    Marana target) traces to this single end-of-FY2026 implementation date — which
    is what drives the rushed timelines that NEPA suits (Social Circle, Roxbury NJ,
    Williamsport MD) keep colliding with.
+   - **CAVEAT — NEPA wins may not travel (*Trump v. CASA*, 2025).** That SCOTUS
+     decision made the Maryland NEPA injunction (Williamsport) effectively
+     jurisdictional/non-nationwide, so a win in one circuit does not bind ICE
+     elsewhere. Confirmed in TX: the Bexar/San Antonio Oakmont 410 warehouse is
+     proceeding toward an early-2027 opening precisely because the Fourth Circuit
+     Maryland injunction doesn't reach the Fifth Circuit. NEPA is a per-circuit
+     speed bump, not a national brake — pair this with the owner-withdrawal pattern,
+     which *does* kill sites outright regardless of circuit.
 3. **It explains why state bans keep failing to close facilities.** A federally
    funded, federally contracted national network routes around state-level bans
    (see [[new-mexico-hb9-direct-federal-bypass]], and Virginia's two-track pattern)

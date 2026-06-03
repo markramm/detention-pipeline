@@ -24,7 +24,7 @@ tags:
 - maricopa-county
 - mesa
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Mesa AROCC — Overcrowding and Use of Force at a Holding Site Built for 157

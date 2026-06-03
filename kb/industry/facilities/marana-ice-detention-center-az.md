@@ -26,7 +26,7 @@ tags:
 - community-opposition
 - congressional-opposition
 research_status: working
-last_researched: 2026-05-28
+last_researched: 2026-06-02
 ---
 
 # Marana ICE Detention Center — MTC's Former State Prison Conversion

@@ -7,9 +7,9 @@ state: FL
 fips: "12086"
 facility: "Everglades Detention Facility ('Alligator Alcatraz'), Dade-Collier Training and Transition Airport, Big Cypress National Preserve"
 status: active-litigation
-outcome: "Facility is WINDING DOWN as of late May 2026: population fell from ~1,500 (April) to 655 (May 26), no new arrivals, a housing tent fully disassembled, charter transfer flights departing daily. DeSantis calls it 'always temporary' but neither he nor DHS confirms a closure date; once the last detainee leaves, removal of infrastructure is said to take 15-30 days. The proposed 'Panhandle Pokey' third facility (Panama City) was abandoned — DHS told the Tampa Bay Times May 22, 2026 it is 'no longer being proposed.' Legally: 11th Circuit ruled April 21, 2026 that NEPA does not apply because Florida (not the federal government) controls the facility, invalidating the preliminary injunction that had halted operations. Environmental/tribal NEPA litigation continues before Judge Kathleen Williams; ACLU class action (H.C.R. v. Noem) won a March 27, 2026 legal-access order."
+outcome: "Facility is CLOSING. The wind-down became a confirmed shutdown the week of May 26, 2026: companies operating the site were formally notified (Tuesday May 26) that it is being shut down, with the last detainee to leave in June 2026 and a 2-3 week 'demobilization' (removing fencing, trailers, structures) to follow, after which the site reverts to a small pilot-training airport. Population: ICE data showed ~1,500 in April; Rep. Frost's May 26 oversight visit and a May 29 WFLX report cite 655 currently held, while closure-notification reporting (NYT/CBS/NBC, citing vendors) references the 'remaining ~1,400' to be removed in coming weeks. Detainees are transferred (not released) both in-state (Baker 'Deportation Depot,' Krome, BTC, Glades) and out-of-state — ACLU attorney Amy Godshall (May 29) says people are being sent to California City, CA and Fort Bliss, TX. Total operating cost now estimated near $1 billion. DeSantis maintains it was 'always temporary.' The proposed 'Panhandle Pokey' third facility (Panama City) was abandoned — DHS told the Tampa Bay Times May 22, 2026 it is 'no longer being proposed.' Legally: 11th Circuit ruled April 21, 2026 that NEPA does not apply because Florida (not the federal government) controls the facility, invalidating the preliminary injunction that had halted operations. Environmental/tribal NEPA litigation continues before Judge Kathleen Williams; ACLU class action (H.C.R. v. Noem) won a March 27, 2026 legal-access order."
 importance: 10
-last_news_check: "2026-05-27"
+last_news_check: "2026-06-02"
 tags:
   - alligator-alcatraz
   - everglades
@@ -25,8 +25,8 @@ tags:
   - miami-dade
   - florida
 research_status: working
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Miami-Dade FL: The Alligator Alcatraz Fight
@@ -55,12 +55,17 @@ The case has become the first circuit court ruling on post-2023 amendments to NE
 - **2026-05-22**: Lawyers report detainee transfers "ramping up"; *Tampa Bay Times* reports the facility is winding down. **DHS tells the *Times* the proposed "Panhandle Pokey" third facility in Panama City "is no longer being proposed,"** abandoning DeSantis's January 2026 plan
 - **2026-05-22**: *Reason* publishes leaked "Daily Detainee Assault Report" emails (Jan 2024–Feb 2026) showing nearby **Krome North SPC led all 98 ICE facilities in use of force** — see Miami-Dade Krome note
 - **2026-05-26**: Rep. Frost conducts an oversight visit and reports **highly visible wind-down**: population down to **655** (from ~1,500 in April), intake area deserted, a massive housing tent fully disassembled, only 2-3 staff in a processing center that was previously "packed." Frost says no new detainees are being accepted; he witnessed two transfer flights that day. He was told infrastructure removal will take **15-30 days** once the last detainee leaves. Frost calls it a **"failed experiment"** at **$1 million/day** operating cost. DeSantis says it was "always meant to be temporary" but neither he nor DHS confirms a closure date
+- **2026-05-26**: **Closure becomes firm.** Companies operating the facility are **formally notified (Tuesday, May 26)** that the site is being shut down. State officials tell vendors the **last detainee will leave in June 2026**, after which a **2-3 week "demobilization"** (removing fencing, trailers, and structures) begins; once complete, the location **reopens as a small pilot-training airport**. Reporting (NYT/CBS Miami/NBC6) frames the "remaining ~1,400" to be removed "in the coming weeks" — either transferred to other detention centers or deported. Total operating cost now estimated near **$1 billion**
+- **2026-05-27**: Rep. Frost publicly characterizes the facility as being **"wound down and shut down"** (Florida Phoenix); Local 10 reports operations winding down per detainee accounts
+- **2026-05-29**: WFLX reports population at **655** and, per ACLU attorney **Amy Godshall**, detainees are being transferred out of state to **California City, CA** and **Fort Bliss, TX** — though Godshall warns the ICE detainee locator is "often delayed if updated at all," making destinations hard to confirm
 
-## The 2026 Wind-Down
+## The 2026 Wind-Down → Confirmed Closure
 
-The defining development of spring 2026 is not a court loss but an operational retreat. After surviving its environmental injunction (11th Circuit, April 21), the facility began emptying. By Frost's May 26 oversight visit the detainee count had collapsed to 655 from a near-1,500 peak the prior month, charter flights were transferring people out daily, no new detainees were arriving, and physical infrastructure (a major housing tent) had already been torn down. State and federal officials decline to announce a closure date, but the physical evidence — cleared offices, skeleton staffing, disassembled tents — points to shutdown.
+The defining development of spring 2026 is not a court loss but an operational retreat that, the week of May 26, hardened into a confirmed shutdown. After surviving its environmental injunction (11th Circuit, April 21), the facility began emptying. By Frost's May 26 oversight visit the detainee count had collapsed to 655 from a near-1,500 peak the prior month, charter flights were transferring people out daily, no new detainees were arriving, and physical infrastructure (a major housing tent) had already been torn down. On **May 26 the companies operating the site were formally notified it is closing**; state officials told vendors the **last detainee leaves in June 2026**, followed by a **2-3 week demobilization** (fencing, trailers, structures removed) after which the site reverts to a **pilot-training airport**.
 
-This matters for the pipeline in two ways. First, the **"Panhandle Pokey"** — DeSantis's proposed third Florida facility in **Panama City**, pitched in January 2026 as added capacity — was killed by DHS ("no longer being proposed," May 22), signaling federal appetite for net-new Florida soft-sided capacity has cooled even as the legal cover (the NEPA loophole) held. Second, detainees are being **transferred, not released**, redistributing detention demand to other Florida and out-of-state facilities (Krome, Baker County "Deportation Depot," BTC, etc.), so the wind-down is a relocation of pressure rather than a reduction.
+A note on the population figures: ICE data and Frost's oversight visit put the count at **655** (confirmed again May 29), while the closure-notification reporting references the **"remaining ~1,400"** to be cleared in coming weeks — the discrepancy is unreconciled across sources and likely reflects different snapshots and ICE's lagging/incomplete data. Either way the direction is one-way: down to zero.
+
+This matters for the pipeline in two ways. First, the **"Panhandle Pokey"** — DeSantis's proposed third Florida facility in **Panama City**, pitched in January 2026 as added capacity — was killed by DHS ("no longer being proposed," May 22), signaling federal appetite for net-new Florida soft-sided capacity has cooled even as the legal cover (the NEPA loophole) held. Second, detainees are being **transferred, not released**, redistributing detention demand both in-state (Krome, Baker County "Deportation Depot," BTC, Glades) and **out of state — California City, CA and Fort Bliss, TX** (ACLU, May 29) — so the closure is a relocation of pressure, not a reduction in detention.
 
 ## The NEPA Fight
 
@@ -112,4 +117,9 @@ While the 11th Circuit handed environmental plaintiffs a setback, detainees won 
 - [Yahoo/Tampa Bay Times: Panhandle Pokey no longer happening, DHS says (May 22, 2026)](https://www.yahoo.com/news/politics/articles/florida-proposed-panhandle-pokey-no-214318412.html)
 - [WLRN: NICE Act would free counties from ICE duties (May 12, 2026)](https://www.wlrn.org/immigration/2026-05-12/oversight-democrats-nice-act-would-free-counties-from-ice-duties)
 - [Reason: Krome was harshest in the country, then ICE stopped tracking force (May 22, 2026)](https://reason.com/2026/05/22/a-florida-detention-center-was-the-harshest-in-the-country-then-ice-stopped-tracking-details-on-use-of-force/)
+- [CBS Miami: Alligator Alcatraz to close as soon as June, vendors notified (May 2026)](https://www.cbsnews.com/miami/news/florida-alligator-alcatraz-closure-june-2026/)
+- [Florida Phoenix: 'Wound down and shut down' — Frost says facility coming to an end (May 27, 2026)](https://floridaphoenix.com/2026/05/27/wound-down-and-shut-down-florida-congressman-says-alligator-alcatraz-coming-to-an-end/)
+- [Local 10: Operations winding down per detainee reports (May 27, 2026)](https://www.local10.com/news/local/2026/05/27/operations-at-alligator-alcatraz-starting-to-wind-down-according-to-detainee-reports/)
+- [WFLX: Detainee population dropping — where are they going? California City, Fort Bliss (May 29, 2026)](https://www.wflx.com/2026/05/29/detainee-population-alligator-alcatraz-is-dropping-where-are-they-going/)
+- [NBC6 Miami: Detainees to move out by June, facility to shut down (May 2026)](https://www.nbcmiami.com/news/local/alligator-alcatraz-immigation-detention-center-closure/3808365/)
 - [Wikipedia: Alligator Alcatraz](https://en.wikipedia.org/wiki/Alligator_Alcatraz)

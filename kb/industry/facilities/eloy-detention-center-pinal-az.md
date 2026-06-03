@@ -24,7 +24,7 @@ tags:
 - oversight-collapse
 research_status: working
 fips: '04021'
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Eloy Detention Center — "Deadliest Immigration Detention Center in the U.S."
@@ -46,6 +46,12 @@ Eloy has been called the **"deadliest immigration detention center in the United
 In **March 2026**, the Florence Immigrant & Refugee Rights Project warned of an **"alarming increase"** in ICE detainees in Arizona facing "potentially life-threatening medical neglect." Nationally, at least 15 people died in ICE custody in the first ~quarter of 2026 (six in the first three weeks of January alone), on pace to exceed 2025's 32.
 
 A key compounding factor: the Trump administration **gutted the federal oversight bodies** (DHS CRCL, OIDO, the ICE detention ombudsman) that previously fielded and investigated complaints about medical abuse — so there is effectively **no agency to respond** to complaints from Eloy. ICE's own watchdog (DHS OIG) has separately confirmed dangerous conditions at an Arizona immigration facility. KJZZ (Apr. 14, 2026) framed this as detention expanding while the monitoring mechanisms "are crumbling."
+
+## Solitary Confinement as Coercion (May–June 2026) — NEW
+
+A **Solitary Watch report (May 29, 2026)**, amplified by an **Arizona Daily Star investigation by Emily Bregel (June 2, 2026)** based on seven months of interviews with dozens of detainees, documents **Eloy as a focal facility** for ICE's use of solitary confinement to **coerce detainees into abandoning their immigration claims and self-deporting** — a practice experts say is unconstitutional. Detainees said they were isolated for refusing to self-deport, and for minor infractions (not cleaning a cell, hanging clothes on a bunk, covering an A/C vent). People who disclosed suicidal ideation were placed in isolation rather than given mental-health care.
+
+Named Eloy cases include **Narges Dehgani** (Iranian survivor of kidnapping/rape/political persecution, placed in a parking-space-sized solitary cell for three days after disclosing suicidal thoughts at intake), teenager **Samir Aghar** (suicidal ideation), and Russian asylum-seeker **Maksim Borisov**. Nationally, ICE data show at least **22,400 people placed in solitary 2022–2026**, with reporting gaps likely hiding the true count. ICE denies operating "solitary confinement," calling it "segregation." This extends the Eloy oversight-collapse pattern from medical neglect into psychological coercion.
 
 ## Conditions
 
@@ -83,3 +89,6 @@ Eric Rokosky (named January 2026).
 - [KJZZ: ICE detention is expanding. The mechanisms that used to monitor it are crumbling (April 14, 2026)](https://www.kjzz.org/fronteras-desk/2026-04-14/ice-detention-is-expanding-the-mechanisms-that-used-to-monitor-it-are-crumbling)
 - [ICE: Florence Correctional Center](https://www.ice.gov/detain/detention-facilities/florence-correctional-center)
 - [CoreCivic: Central Arizona Florence Correctional Complex](https://www.corecivic.com/facilities/central-arizona-florence-correctional-complex)
+- [KJZZ: ICE is using solitary confinement to coerce immigrants into self-deporting, a new report says (June 2, 2026)](https://www.kjzz.org/the-show/2026-06-02/ice-is-using-solidarity-confinement-to-coerce-immigrants-into-self-deporting-a-new-report-says)
+- [Davis Vanguard: Solitary Watch Reports ICE Use of Solitary Confinement to Pressure Individuals to Self-Deport (May 29, 2026)](https://davisvanguard.org/2026/05/solitary-watch-ice-data/)
+- [Tucson.com / Arizona Daily Star: Report — ICE facilities in AZ propel solitary confinement surge](https://tucson.com/news/state-regional/government-politics/article_25af0a8f-d050-47c3-b697-0bdaa6855e0f.html)

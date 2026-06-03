@@ -22,6 +22,7 @@ tags:
 - pinal-county-cluster
 research_status: working
 fips: '04021'
+last_researched: "2026-06-02"
 ---
 
 # La Palma Correctional Center — The California Conversion

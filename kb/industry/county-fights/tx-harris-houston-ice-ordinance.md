@@ -22,8 +22,8 @@ tags:
   - 287g
   - texas
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Harris County TX: Houston ICE Ordinance Gutted Under State Pressure
@@ -51,7 +51,9 @@ Abbott indicated even after the vote that Houston's funding remained at risk, su
 
 ## Harris County (Separate Fight)
 
-Harris County — the county government, distinct from the City of Houston — faces its own ICE pressure point. Under Texas Senate Bill 8 (SB8), Harris County has until **December 2026** to sign a 287(g) agreement with ICE or face state consequences. The county ended its previous 287(g) agreement in 2017. County officials have begun developing internal ICE interaction guidelines as they approach the deadline.
+Harris County — the county government, distinct from the City of Houston — faces its own ICE pressure point. Under Texas Senate Bill 8 (SB8), Harris County has until **December 1, 2026** to sign a 287(g) agreement with ICE or face state consequences (the AG can sue non-compliant sheriffs). The county ended its previous 287(g) agreement in 2017. In April 2026 a Harris County commissioner directed the county attorney's office to develop ICE-coordination guidelines (modeled on the Houston city policy) as the deadline approaches.
+
+**Update (June 2026):** Commissioners appointed **Abbie Kamin** — the Houston council member who had voted *against* gutting the city's civil-warrant ordinance — as **interim Harris County Attorney**, effective **June 15, 2026**, following the resignation of interim County Attorney Jonathan Fombonne. Kamin's office inherits the development of the county's ICE-coordination guidelines and the looming SB8 287(g) decision, putting a vocal ordinance defender in charge of the county's legal posture toward ICE. As of early June, both the county and city remain in a holding pattern after state funding pressure stalled their immigration-policy efforts.
 
 ## Key Actors
 
@@ -70,3 +72,4 @@ Harris County — the county government, distinct from the City of Houston — f
 - [KHOU: Council approves revised ICE ordinance; Abbott says funds still frozen](https://www.khou.com/article/news/local/houston-city-council-approves-revised-immigration-policy-amid-funding-fight/285-feefb140-c43c-4143-afc7-90be1e14119a)
 - [KSAT: Houston council approves gutting policy limiting ICE cooperation (Apr 22, 2026)](https://www.ksat.com/news/local/2026/04/22/houston-city-council-approves-gutting-policy-limiting-ice-cooperation-civil-rights-groups-say/)
 - [Democracy Now: Houston City Council votes to gut ordinance (Apr 23, 2026)](https://www.democracynow.org/2026/4/23/headlines/houston_city_council_votes_to_gut_an_ordinance_limiting_police_cooperation_with_ice)
+- [Houston Public Media: Harris County commissioner directs county attorney to develop ICE coordination guidelines (Apr 17, 2026)](https://www.houstonpublicmedia.org/articles/news/harris-county/2026/04/17/549357/harris-county-commissioner-directs-county-attorney-to-develop-ice-coordination-guidelines/)

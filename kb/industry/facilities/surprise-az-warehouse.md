@@ -18,7 +18,7 @@ estimated_value: "$12 million (2023)"
 markup: "~500%"
 contract_value: "$313M base; up to $704M if extended through Feb 2029"
 fips: '04013'
-last_researched: "2026-05-28"
+last_researched: "2026-06-02"
 ---
 
 # Surprise AZ Warehouse — ICE Regional Processing Center

@@ -32,7 +32,7 @@ tags:
 research_status: working
 fips: '04013'
 case_number: 'Arizona v. Mullin (D. Ariz., April 24, 2026)'
-last_news_check: '2026-05-06'
+last_news_check: '2026-06-02'
 ---
 
 # Maricopa County, Arizona: Arizona AG Sues GardaWorld Conversion in Surprise

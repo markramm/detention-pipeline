@@ -15,8 +15,8 @@ status: operational
 importance: 9
 tags: [private-prison, geo-group, california, deaths-in-custody, lawsuit, solitary-confinement, conditions-crisis, daca-death, hunger-strike]
 research_status: working
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-06-02"
+last_news_check: "2026-06-02"
 ---
 
 # Adelanto ICE Processing Center + Desert View Annex
@@ -39,9 +39,17 @@ The **Adelanto ICE Processing Center** and its adjacent **Desert View Annex** fo
 - **Gabriel Garcia-Aviles**, 56 — died October 2025 (detained only ~1 week)
 - **Jose Guadalupe Ramos-Solano** — died March 25, 2026 (14th national ICE death of 2026)
 
-## Hunger Strike (May 2026)
+## Hunger Strike (May–June 2026) — EXPANDING
 
-As of **May 21, 2026**, detainees in the **Desert View Annex** were on **hunger strike**, demanding improved conditions: proper medical and mental-health care, nutritious food, accountability for detainee deaths, bond reform, and the right to organize. State Sen. Sasha Renée Pérez issued a statement in support. The strike followed Adelanto's ranking among the **top 10 U.S. facilities** by share of detainees held in segregation.
+The strike that began in the Desert View Annex (~May 21) has **spread into the main Adelanto ICE Processing Center** and grown substantially:
+
+- **Scale (as of ~May 31–June 1):** ~**50 strikers in the west wing** of the main facility plus ~**20 in Desert View Annex**, with the strike reaching the **east wing**; roughly **150 detainees signed a petition** of demands (not all on strike). Earlier reports cited "at least 100" inside the main IPC.
+- **Congressional pressure:** Reps. **Judy Chu, Pete Aguilar, and Jimmy Gomez** visited to assess hunger strikers' conditions; **Rep. Norma Torres** also visited the facility over reported unsafe conditions. Chu held a press conference outside the facility **June 1, 2026** and said there have been deaths beyond those publicly reported.
+- **Medical/safety allegations in the petition:** a detainee attempting suicide; one person reportedly seizing for ~30 minutes without medical response; an Iranian woman with a weeks-long untreated UTI.
+- **Coercion / retaliation claims:** advocates report staff placed **burritos on strikers' beds** to pressure them to eat, and that the **community hotline detainees use was cut** during calls after the strike began.
+- **DHS / GEO denial:** DHS called the hunger strike reports "FALSE… There is no hunger strike at Adelanto. No one is being abused." GEO Group called the allegations "baseless" and part of a "politically motivated campaign."
+
+Demands remain: proper medical and mental-health care, nutritious food, accountability for detainee deaths, bond reform, and the right to organize. State Sen. Sasha Renée Pérez issued a statement in support (May).
 
 ## Conditions
 
@@ -60,3 +68,7 @@ As of **May 21, 2026**, detainees in the **Desert View Annex** were on **hunger 
 - [KVCR — Letters describe isolation, medical concerns](https://www.kvcrnews.org/local-news/2026-03-05/scngs-ryanne-mena-letters-describe-isolation-medical-concerns-inside-adelanto-ice-facility)
 - [LAist — Solitary at Adelanto (2026)](https://laist.com/brief/news/politics/solitary-confinement-adelanto-immigrant-detention-center-lawsuit-break)
 - [Sen. Sasha Renée Pérez — Statement on Adelanto hunger strike (May 2026)](https://sd25.senate.ca.gov/news/senator-perez-issues-statement-immigration-hunger-strike-detainees-adelanto-immigration-prison)
+- [L.A. TACO — Adelanto hunger strike expands to east wing, staff tempts strikers with burrito (June 2026)](https://lataco.com/adelanto-hunger-strike-expands-burrito)
+- [Rep. Norma Torres — Visits Adelanto ICE facility following hunger strike, unsafe conditions reports (2026)](https://torres.house.gov/media-center/press-releases/rep-torres-visits-adelanto-ice-facility-following-reports-of-hunger-strike-and-unsafe-conditions)
+- [Reps. Chu, Aguilar, Gomez — Assess condition of hunger strikers at Adelanto (June 2026)](https://www.quiverquant.com/news/Press+Release:+Reps.+Judy+Chu,+Pete+Aguilar,+and+Jimmy+Gomez+Assess+Condition+of+Hunger+Strikers+at+Adelanto+ICE+Processing+Center)
+- [ABC7 — DHS disputes hunger strike claims at Adelanto (June 2026)](https://abc7.com/post/dhs-disputes-hunger-strike-claims-adelanto-detention-center-despite-immigrant-groups-claiming/19152526/)
