@@ -18,7 +18,7 @@ tags:
 - no-287g
 - preemption-workaround
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # St. Louis City MO: 5-Year Ban on Non-Municipal Detention Centers
@@ -39,7 +39,7 @@ St. Louis city has also declined to enter a 287(g) agreement; both St. Louis cit
 ## Why This Matters
 
 1. **Zoning/land-use as a preemption workaround**: Like Kansas City's blocking of permits (see [[kansas-city-mo-platform-ventures]]), St. Louis uses municipal land-use authority to make in-city detention infeasible — a defensive playbook in a state where rural counties are racing to host ICE.
-2. **The export dynamic**: Because metro St. Louis refuses both 287(g) and in-city detention, people arrested in the region are transported to rural lockups — Ste. Genevieve (~1 hr south) and Phelps County/Rolla (~100 mi west). The ban protects the city but pushes detention to facilities with documented conditions problems. See [[ste-genevieve-county-detention-center-mo]] and [[phelps-county-jail-rolla-mo]].
+2. **The export dynamic**: Because metro St. Louis refuses both 287(g) and in-city detention, people arrested in the region are transported to rural lockups — Ste. Genevieve (~1 hr south) and Phelps County/Rolla (~100 mi west). The ban protects the city but pushes detention to facilities with documented conditions problems. See [[ste-genevieve-county-detention-center-mo]] and [[phelps-county-jail-rolla-mo]]. This export dynamic now compounds with the Eighth Circuit's *Herrera Avila v. Bondi* ruling (Mar 25, 2026), which eliminated the bond-hearing right — so St. Louis-area arrestees moved to rural lockups also lose the habeas exit that had been freeing Midwest detainees through early 2026. See [[bond-hearing-circuit-split-2026]].
 3. **Metro split**: Contrasts directly with neighboring St. Charles County's unanimous 287(g) adoption. See [[st-charles-county-mo-287g]].
 
 ## Sources

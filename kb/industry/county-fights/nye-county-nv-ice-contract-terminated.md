@@ -18,7 +18,7 @@ tags:
 - medical-neglect
 - cost-subsidy
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-06-05"
 ---
 
 # Nye County: ICE Contract Terminated Over Costs and Conditions

@@ -13,7 +13,7 @@ tags:
 - ag-lawsuit
 - critical-resource
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Operation Metro Surge — Minnesota
@@ -76,3 +76,13 @@ On **January 23, 2026**, an estimated **50,000-75,000 people** marched through *
 - [CBS Minnesota: Surge drained more than $600 million from Minnesota's economy](https://www.cbsnews.com/minnesota/news/operation-metro-surge-minnesota-lawsuit-cost/)
 - [Minnesota Reformer: Fewer than 500 ICE agents left in Minnesota](https://minnesotareformer.com/2026/02/20/fewer-than-500-ice-agents-left-in-minnesota-per-federal-officials/)
 - [MinnPost: How Minnesota's response to Operation Metro Surge changed politics](https://www.minnpost.com/national/washington/2026/05/minnesotas-response-to-operation-metro-surge-changed-politics/)
+
+## Updates (2026-06-05)
+
+- **Castro arrested (May 29).** ICE Agent Christian Castro was arrested in Cameron County, Texas by Texas Rangers (with DHS and MN BCA present) and is to be returned to Minnesota; his defense is expected to seek federal removal and Supremacy Clause immunity. See `minnesota-ice-agent-prosecutions-2026`.
+- **New detention-capacity front.** On June 4, 2026, DHS posted a GSA solicitation to use CoreCivic's 1,600-bed Prairie Correctional Facility in Appleton (Swift County) for ICE detention — a major post-surge expansion signal even as ground operations quieted. See `appleton-mn-prairie-correctional`.
+- **Funding backdrop.** The Senate approved ~$70B in new ICE/Border Patrol funding without the body-camera/identification/face-covering policy conditions Senate Democrats had sought after the Good and Pretti killings; Sen. Tina Smith re-centered Minnesota's surge experience in that debate.
+
+- [Star Tribune: As ICE, Border Patrol get $70B, Sen. Smith re-centers Minnesota's experience](https://www.startribune.com/minnesota-won-the-battle-of-operation-metro-surge-smith-says-before-ice-gets-new-funding/601853266)
+- [MPR News: Feds propose housing ICE detainees in western Minnesota private prison (Jun 5, 2026)](https://www.mprnews.org/story/2026/06/05/homeland-security-intends-to-use-privatelyowned-correctional-facility-to-house-ice-detainees)
+- [Texas Tribune: ICE agent who shot migrant in Minnesota arrested in Texas (May 29, 2026)](https://www.texastribune.org/2026/05/29/texas-ice-agent-arrested-minnesota-migrant-shooting/)

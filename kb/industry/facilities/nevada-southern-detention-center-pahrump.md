@@ -24,7 +24,7 @@ tags:
 - medical-neglect
 - pahrump
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Nevada Southern Detention Center — CoreCivic's Nevada Hub
@@ -43,7 +43,7 @@ The **Nevada Southern Detention Center** in Pahrump, NV (Nye County) is a 1,064-
 
 ## Tent Expansion Proposal
 
-ICE has contemplated building a "soft-side" facility (tent-based structure) at the site that would add **450 beds**, more than doubling current ICE detention capacity in Nevada. CoreCivic's managing director for proposal development emailed plans to ICE on June 21, 2025 in response to an ICE request for information. DHS spokesperson Tricia McLaughlin told media the planning documents were "outdated and hadn't been approved." As of April 2026, the tent expansion status remains unclear.
+ICE has contemplated building a "soft-side" facility (tent-based structure) at the site that would add **450 beds**, more than doubling current ICE detention capacity in Nevada. CoreCivic's managing director for proposal development emailed plans to ICE on June 21, 2025 in response to an ICE request for information. DHS spokesperson Tricia McLaughlin told media the planning documents were "outdated and hadn't been approved." As of June 5, 2026, the tent expansion status remains unclear and unconfirmed; CoreCivic has said it has several "soft-side" contracts in the works without naming locations/timing, and no Pahrump expansion contract award has been confirmed.
 
 ## Conditions Complaints
 

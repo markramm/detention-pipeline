@@ -24,7 +24,7 @@ tags:
 - rolla
 - ozarks-corridor
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Phelps County Jail — Rolla, MO
@@ -55,6 +55,7 @@ A **May 27, 2026 Associated Press investigation** identified the Phelps County J
 1. **Documented death from a conditions/oversight failure**: The Rayo Garzon case is the lead example in a national AP investigation — a Missouri rural jail with delayed medical screening and language-barrier mental-health assessment.
 2. **Revenue-driven detention in a distressed budget**: The sheriff explicitly framed ICE contracting as a budget rescue, the same dynamic across the Ozarks corridor. See [[missouri-ozarks-ice-corridor]].
 3. **Conditions pattern**: Mirrors neglect findings at [[ste-genevieve-county-detention-center-mo]] and the 96% civil-detainee load at [[greene-county-jail-springfield-mo]].
+4. **Longer stays ahead**: Phelps sits in the Eighth Circuit, where *Herrera Avila v. Bondi* (Mar 25, 2026) cut off the bond-hearing right that had been the main exit for Midwest detainees (KCUR/Marshall Project, 5/20/26). With release-on-bond foreclosed, the mental-health and medical-screening failures that produced the Rayo Garzon death become higher-stakes as detention durations lengthen. See [[bond-hearing-circuit-split-2026]].
 
 ## Sources
 

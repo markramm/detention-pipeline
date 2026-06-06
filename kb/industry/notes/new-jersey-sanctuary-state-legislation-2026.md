@@ -13,7 +13,7 @@ tags:
 - immigrant-trust-directive
 - structural-analysis
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # New Jersey Sanctuary State Legislation (2026)

@@ -13,7 +13,7 @@ status: proposed
 importance: 8
 tags: [military-base, new-jersey, fort-dix, national-guard, political-opposition, militarized-detention, burlington-county, ocean-county, tent-city]
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Joint Base McGuire-Dix-Lakehurst NJ — Military ICE Detention

@@ -13,7 +13,7 @@ tags:
 - precedent-setting
 - federal-local-conflict
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Minnesota Prosecutes Federal Agents — ICE Agent Castro Charged
@@ -42,6 +42,19 @@ This is a significant escalation in Minnesota's three-front resistance to Operat
 Minnesota is establishing the **criminal-accountability prong** of resistance to federalized immigration enforcement. If the Castro prosecution survives federal removal and supremacy-clause challenges, it becomes a national template for holding ICE/CBP agents personally liable — a deterrent distinct from civil suits against the agency. The expansion to 30 investigated cases signals this is a systematic program, not a one-off.
 
 FIPS: 27053
+
+## Update (2026-06-05): Castro arrested in Texas; federal-removal / supremacy-clause fight looms
+
+On **May 29, 2026**, Castro was **arrested in Cameron County, Texas** (he lives in McAllen, Hidalgo County) on the active warrant. **Texas Rangers** made the arrest, with **DHS/Homeland Security agents and Minnesota BCA investigators present** — a notable instance of federal agents cooperating in the apprehension of one of their own. He is to be returned to Minnesota to face the four counts of second-degree assault plus false-reporting. Hennepin County Attorney Mary Moriarty called the arrest "a critical step forward in our prosecution." ICE again called the prosecution "unlawful and nothing more than a political stunt."
+
+**The coming jurisdictional fight.** Castro's attorney is expected to seek **removal to federal court** and assert **Supremacy Clause immunity** (the doctrine shielding federal agents from state prosecution for reasonably carrying out federal duties). This is the central legal battleground of the case. The dynamic rhymes with the broader federal-vs-Minnesota detention posture: Minnesota sits in the **Eighth Circuit, which in `Herrera Avila v. Bondi` (Mar 25, 2026) ruled against bond hearings and overturned a Minnesota district-court habeas grant** (see [[bond-hearing-circuit-split-2026]]) — the same circuit-level deference to federal immigration authority that a Supremacy Clause / removal defense will lean on. If the case is removed and immunity attaches, the state-prosecution template collapses; if it survives in state court, it becomes a national model.
+
+- [Texas Tribune: ICE agent who shot migrant in Minnesota arrested in Texas (May 29, 2026)](https://www.texastribune.org/2026/05/29/texas-ice-agent-arrested-minnesota-migrant-shooting/)
+- [Minnesota Reformer: ICE agent charged in nonfatal north Minneapolis shooting arrested in Texas](https://minnesotareformer.com/briefs/ice-agent-charged-in-nonfatal-north-minneapolis-shooting-arrested-in-texas/)
+- [NOTUS: ICE agent charged in Minnesota shooting is arrested in Texas](https://www.notus.org/immigration/ice-agent-minnesota-shooting-arrested)
+- [Newsweek: ICE agent Christian Castro arrested in Texas, how he could be prosecuted](https://www.newsweek.com/minnesota-shooting-ice-agent-arrested-texas-12010005)
+- [North News: ICE agent arrested in shooting of immigrant and falsely claiming attack (May 29, 2026)](https://mynorthnews.org/stories/2026/5/29/ice-agent-arrested-in-shooting-of-immigrant-and-falsely-claiming-attack)
+- [AlphaNews: Feds push back as Hennepin County announces prosecution of second ICE agent](https://alphanews.org/feds-push-back-as-hennepin-county-announces-prosecution-of-second-ice-agent/)
 
 ## Sources
 

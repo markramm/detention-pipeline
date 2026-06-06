@@ -23,7 +23,7 @@ tags:
 - igsa
 - cost-subsidy
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-06-05"
 ---
 
 # Henderson Detention Center — Municipal ICE Facility

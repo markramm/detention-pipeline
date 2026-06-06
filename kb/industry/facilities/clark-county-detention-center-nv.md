@@ -22,7 +22,7 @@ tags:
 - nevada
 - jail-to-ice-pipeline
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-06-05"
 ---
 
 # Clark County Detention Center — Las Vegas 287(g) Pipeline

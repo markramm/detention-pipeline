@@ -21,8 +21,8 @@ tags:
 - iwrnn
 research_status: working
 fips: '34027'
-last_news_check: '2026-05-28'
-last_researched: "2026-05-28"
+last_news_check: '2026-06-05'
+last_researched: "2026-06-05"
 case_number: '26-02884 (JKS) (JBC)'
 ---
 
@@ -43,6 +43,7 @@ ICE purchased a 470,000 sq ft warehouse in Roxbury Township, Morris County for *
 - **April 2026**: Federal (Trump) attorneys argue ICE needs the NJ warehouse specifically to handle NYC-area immigration cases and ask court to deny injunction so renovation work (security cameras, fencing, lighting, roof repairs) can proceed
 - **May 6, 2026**: NJ Solicitor General Shankar Duraiswamy files reply memorandum in support of preliminary injunction motion alongside Naima Drecker-Waxman declaration. Plaintiffs request emergency two-hour depositions of DHS officials DeGregorio and Byers before the May 12 hearing, characterizing DHS's account as having "zig-zagged over the past two months." DHS opposes depositions. Plaintiffs offer to drop the injunction motion if DHS commits in writing to defer all construction — including interior demolition — pending completion of environmental review. Brief flags DHS declarations describing work as "_mainly_ drywall demolition" as language signaling "undisclosed additional activity." Township engineer's declaration: local water system would be overwhelmed "even if the facility had no staff and only 323 detainees."
 - **May 12, 2026**: Rather than a contested injunction ruling, the parties filed a **joint stipulation** before Judge Semper that **mooted the hearing**. DHS agreed to **complete a full NEPA environmental assessment before any construction**, ending the rushed "operational in 90 days" timeline. ICE may perform only limited work in the interim — installing fencing and CCTV, monitoring fire alarms/sprinklers, and limited custodial/grounds maintenance. After the assessment concludes, ICE will decide whether to proceed and must notify Roxbury and state officials **7 days** in advance; the parties then reconvene to determine next steps, including whether further litigation is needed.
+- **June 5, 2026 (sweep)**: No change since the May 12 stipulation. No NEPA environmental assessment had been published and no 7-day notice-to-proceed had been filed. Construction remains halted pending the DHS review (which DHS conceded "can take months"). Facility status set to **paused-dhs-review**. The NJ flashpoint that escalated in this window was Delaney Hall (Newark), not Roxbury — see [[newark-nj-delaney-hall-fight]].
 
 ## The DHS Account Inconsistency
 

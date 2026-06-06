@@ -15,7 +15,7 @@ tags:
 - operation-geaux
 - operation-catahoula-crunch
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Louisiana's Detention Economy

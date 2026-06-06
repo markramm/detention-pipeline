@@ -14,7 +14,7 @@ tags:
 - three-front-strategy
 - critical-resource
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-06-05"
 ---
 
 # Minnesota's Three-Front War on 287(g)
@@ -64,3 +64,9 @@ As of April 2026, NPR reported that after the Metro Surge, ICE is moving to "a q
 - [MN House Session Daily: HF 3060 targets ICE agreements](https://www.house.mn.gov/sessiondaily/Story/14083)
 - [NPR: After the Minnesota surge, ICE moves to quieter approach (Apr 2026)](https://www.npr.org/2026/04/04/nx-s1-5768273/after-minnesota-ice-surge-shift-to-quieter-enforcement)
 - [FOX 9: MN AG says ICE agreements must go through county commissioners](https://www.fox9.com/news/minnesota-ag-ice-can-make-agreements-county-commissioners-not-sheriffs)
+
+## Update (2026-06-05)
+
+The 2026 legislative session ended without passage of the statewide 287(g)/detention-ban bills (HF 3060 / HF 3886); they remain stalled. The legal battlefield meanwhile shifted toward **private detention capacity**: on **June 4, 2026**, DHS posted a formal GSA contract solicitation to use CoreCivic's shuttered **1,600-bed Prairie Correctional Facility in Appleton (Swift County, FIPS 27151)** for ICE detention (see `appleton-mn-prairie-correctional`). The proposed contracts/detention-ban legislation, if revived, would directly target this kind of facility, and the ACLU taxpayer-standing model (used in Freeborn) is a plausible vehicle against a Swift County IGSA. The proposal lands against the backdrop of the Senate approving ~$70B in new ICE/Border Patrol funding, the financing for nationwide bed expansion.
+
+- [MPR News: Feds propose housing ICE detainees in western Minnesota private prison (Jun 5, 2026)](https://www.mprnews.org/story/2026/06/05/homeland-security-intends-to-use-privatelyowned-correctional-facility-to-house-ice-detainees)

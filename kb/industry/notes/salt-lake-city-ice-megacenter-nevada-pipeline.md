@@ -14,7 +14,7 @@ tags:
 - pahrump
 - detainee-transfers
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Salt Lake City ICE "Mega-Center" and the Nevada Pipeline
@@ -38,7 +38,7 @@ Nevada falls under ICE's **Salt Lake Field Office**, which oversees enforcement 
 
 ## Current Status
 
-- **Paused under DHS review** as of April 2026: DHS paused new warehouse purchases while reviewing Noem-era procurement, though the SLC purchase had already been finalized.
+- **Paused under DHS review** (status unchanged as of June 5, 2026): after Noem was fired (Mar 5, 2026), new DHS Secretary **Markwayne Mullin** paused new warehouse purchases (~Mar 24, 2026) while reviewing Noem-era procurement, though the SLC purchase ($145.4M, 833,000 sq ft, ~25 acres at 6020 West 300 South) had already been finalized. SLC Mayor Erin Mendenhall said as of spring 2026 it "doesn't appear to be full steam ahead." No new movement reported in the late-May/early-June window.
 - Per reporting, ICE aims to have its new national detention network operational by **Nov. 30 (2026)**; no confirmed operational date for the SLC site.
 
 ## Sources

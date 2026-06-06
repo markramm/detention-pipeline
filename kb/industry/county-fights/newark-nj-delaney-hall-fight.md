@@ -7,7 +7,7 @@ state: 'NJ'
 facility: "Delaney Hall, Newark NJ"
 status: contested
 vote_tally: ""
-outcome: "Facility opened May 1, 2025 despite city lawsuit. Mayor Baraka arrested May 9 2025. Detainee death Dec 2025. May 2026: ~300-detainee hunger/labor strike; Sen. Andy Kim pepper-sprayed; Gov. Sherrill denied entry; strike leader transferred to Elizabeth. Conditions fight ongoing."
+outcome: "Facility opened May 1, 2025 despite city lawsuit. Mayor Baraka arrested May 9 2025. Detainee death Dec 2025. May 2026: ~300-detainee hunger/labor strike; Sen. Andy Kim pepper-sprayed; Gov. Sherrill denied entry; strike leader transferred to Elizabeth. June 2026: strike continues 11+ days; NJ AG + Gov. sue GEO over blocked health inspection (June 2, Essex Cty Superior Ct); Newark expands its suit to seek closure; Baraka imposes then lifts half-mile curfew, 61 arrested; HRW backs strikers. Conditions fight ongoing."
 importance: 9
 tags:
 - geo-group
@@ -22,8 +22,8 @@ tags:
 - senator-pepper-sprayed
 research_status: working
 fips: '34013'
-last_news_check: '2026-05-28'
-last_researched: "2026-05-28"
+last_news_check: '2026-06-05'
+last_researched: "2026-06-05"
 ---
 
 # Newark, NJ: The Delaney Hall Fight
@@ -54,6 +54,12 @@ The City of Newark has waged an aggressive legal and political fight against the
 - **May 24-25, 2026**: Solidarity protests escalate; ~1 a.m. Monday ICE blocks the back-gate road and clears protesters with **pepper balls, mace, batons**, shoving people against cars. ICE says it "dispersed approximately 70 agitators." ICE **transfers strike leader Martin Soto Hernandez** (Peruvian, detained since February) to the Elizabeth Contract Detention Facility, placing him in isolation and denying phone calls per his attorneys.
 - **May 25, 2026**: Gov. **Mikie Sherrill** denied entry on her first visit (DHS says she lacks federal oversight authority); **Rep. Rob Menendez** waits 12+ hours for an oversight visit. **Sen. Andy Kim (D-NJ) is pepper-sprayed** by federal agents while trying to defuse the crowd. Members of Congress later access Soto at Elizabeth.
 - **May 26-27, 2026**: DHS Sec. **Markwayne Mullin** denies a strike is happening, calls elected-official visits a "political stunt," says detainees refusing food over "ethnic right food" can "go back to their country," and says Kim deserved to be sprayed. Sen. Kim demands changes at the facility.
+- **May 28, 2026**: NJ Dept. of Health gets only a **limited inspection** of Delaney Hall — inspectors barred from the medical unit, sleeping areas, and bathing/toileting areas. GEO says ICE must authorize broader access; ICE declines.
+- **May 29, 2026**: DHS issues a "Correct the Record" release calling the state's claims "smears," citing an **August 2025 DHS OPR inspection** (17 of 22 standards met; 5 deficiencies) and the May 28 kitchen check.
+- **June 1, 2026**: Strike continues past day 10. Strikers' demands now explicitly include **release of medically vulnerable/elderly/pregnant/young detainees, immigration-judge case review, federal habeas-petition review, a meeting with the governor, and an end to voluntary-departure pressure** — linking the strike to the unresolved Third Circuit bond question (see [[bond-hearing-circuit-split-2026]]).
+- **June 2, 2026**: **NJ AG Jennifer Davenport and Gov. Mikie Sherrill sue GEO Group** in **Essex County Superior Court**, seeking an expedited injunction for full DOH inspection access. **Mayor Baraka announces Newark will expand its existing (April 2025) suit to seek the facility's closure** if inspectors are not granted full access. After protests turned violent (fires, clashes), Baraka imposes a **9 p.m.–6 a.m. curfew** within a half-mile of Delaney Hall.
+- **June 2-3, 2026**: **61 protesters arrested** (failure to disperse, curfew violations, resisting arrest); DHS alleges protesters bit officers. Baraka **shifts policing from NJ State Police back to Newark PD**, calling prior tactics "aggressive, unnecessary, and in some cases unconstitutional."
+- **June 3, 2026**: Baraka **lifts the curfew** after an arrest-free protest. **Human Rights Watch** publishes findings corroborating strikers' allegations and citing a **1,373% increase in voluntary departures** in NY/NJ immigration courts (July–Oct 2025 vs. prior year). DHS calls the NJ lawsuit "frivolous."
 
 ## Conditions at Delaney Hall
 
@@ -73,6 +79,8 @@ The Newark/Delaney Hall fight is the most dramatic confrontation in the NJ deten
 Delaney Hall illustrates the complete breakdown of local oversight when federal sovereign immunity is invoked to shield private contractors. GEO Group's legal position — that the city cannot inspect or regulate the facility because it operates under a federal contract — represents a new frontier in the privatization of immigration enforcement.
 
 Senator Cory Booker introduced the **Dignity for Detained Immigrants Act** following a tour of Delaney Hall, which would end for-profit detention and increase federal oversight.
+
+The June 2026 phase opens a **new legal front**: rather than the 2025 permits/zoning theory, the state and city are now invoking the NJ Department of Health's statutory authority to inspect any public or private detention facility. Two suits now run in parallel — the **state's** (June 2, Essex County Superior Court) for inspection access, and **Newark's expanding suit** for closure. GEO's defense (ICE must authorize any inspection) and DHS's "frivolous" framing test whether a state can compel health inspection of a federally contracted private ICE facility — a sanctuary-state oversight question distinct from, but parallel to, the Roxbury NEPA fight and the [[new-jersey-sanctuary-state-legislation-2026|NJ sanctuary legislation]]. The strikers' pivot to bond/habeas demands ties the conditions fight to the live Third Circuit bond-eligibility appeal (argued May 11, 2026; undecided).
 
 ## Sources
 
@@ -99,3 +107,12 @@ Senator Cory Booker introduced the **Dignity for Detained Immigrants Act** follo
 - [Jersey Vindicator: Sherrill denied entry as detainee strike continues (May 25, 2026)](https://jerseyvindicator.org/2026/05/25/new-jersey-governor-denied-entry-to-delaney-hall-as-ice-detainee-strike-continues/)
 - [The New Republic: DHS secretary says senator deserved to get pepper-sprayed (May 26, 2026)](https://newrepublic.com/post/210994/department-homeland-security-secretary-democratic-senator-pepper-spray-hunger-strike)
 - [Democracy Now: 300 detainees launch hunger strike (May 26, 2026)](https://www.democracynow.org/2026/5/26/headlines/300_detainees_at_delaney_ice_jail_launch_hunger_strike_to_protest_inhumane_conditions)
+- [NJ.gov: NJ sues Delaney Hall operator after it refuses full access to health inspectors (June 2, 2026)](https://www.nj.gov/governor/news/2026/20260602.shtml)
+- [Jersey Vindicator: State sues GEO Group after health inspectors denied access (June 2, 2026)](https://jerseyvindicator.org/2026/06/02/state-sues-geo-group-after-health-inspectors-denied-access-to-delaney-hall/)
+- [NBC News: NJ targets GEO Group in lawsuits over conditions (June 2026)](https://www.nbcnews.com/news/us-news/nj-delaney-immigration-detention-lawsuit-geo-group-rcna348022)
+- [Gothamist: NJ, Newark expand legal push to close Delaney Hall (June 2026)](https://gothamist.com/news/newark-expected-to-file-suit-to-close-delaney-hall-ice-facility-as-protests-continue)
+- [ABC News: NJ AG, Newark pursue legal action to get inspectors into Delaney Hall (June 2026)](https://abcnews.com/US/newark-sue-feds-close-delaney-hall-ice-facility/story?id=133513879)
+- [Yahoo/AP: Newark mayor lifts curfew around Delaney Hall (June 3, 2026)](https://www.yahoo.com/news/politics/articles/newark-mayor-lifts-curfew-around-045334190.html)
+- [Human Rights Watch: NJ hunger strikers allege abysmal detention conditions (June 3, 2026)](https://www.hrw.org/news/2026/06/03/new-jersey-hunger-strikers-allege-abysmal-detention-conditions)
+- [DHS: Correct the Record on Delaney Hall (May 29, 2026)](https://www.dhs.gov/news/2026/05/29/correct-record-dhs-debunks-sanctuary-politicians-smears-about-ices-delaney-hall)
+- [Fox News: DHS inspection contradicts AG lawsuit claims (June 2026)](https://www.foxnews.com/politics/inspection-delaney-hall-ice-facility-contradicts-claims-new-jersey-attorney-generals-lawsuit)

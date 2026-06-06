@@ -20,7 +20,7 @@ tags:
 - ice-upgrade
 - igsa
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-06-05"
 ---
 
 # Washoe County Jail — Reno's Quiet ICE Expansion

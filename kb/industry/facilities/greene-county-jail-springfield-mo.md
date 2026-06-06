@@ -25,7 +25,7 @@ tags:
 - miles-young-case
 - regional-hub
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-06-05"
 ---
 
 # Greene County Jail — Springfield, MO
@@ -57,6 +57,8 @@ The jail has **375 beds** allocated for ICE at **$100/day**, generating a potent
 3. **Revenue dependency risk:** At $9.1M/year potential, ICE revenue could become a structural budget dependency for Greene County, creating long-term incentive alignment with federal enforcement priorities. This is the pattern documented across rural jails nationally (see [[ice-contract-pipeline]]).
 
 4. **Miles Young case catalyst:** The January 2026 killing of 15-year-old Miles Young in Springfield, allegedly by an undocumented immigrant, has become a political flashpoint driving state legislators to push mandatory 287(g) agreements. The suspect was held at Greene County Jail, intensifying the facility's political significance. See [[springfield-mo-287g-miles-young]].
+
+5. **Bond-hearing exit now closed (June 2026 context):** Greene County detainees are in the Eighth Circuit, where *Herrera Avila v. Bondi* (Mar 25, 2026) eliminated the bond-hearing right that habeas petitions had been using to win release across MO/KS/IA/NE (KCUR/Marshall Project, 5/20/26). With 96% of those held here facing pure civil detention and no bond-hearing exit, expected lengths of stay rise — increasing the revenue stream and the conditions exposure simultaneously. See [[bond-hearing-circuit-split-2026]].
 
 ## Regional Context
 

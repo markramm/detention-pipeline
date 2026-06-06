@@ -14,7 +14,7 @@ tags:
 - lvmpd
 - mountain-west
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-06-05"
 ---
 
 # Nevada: 287(g) Explosion in 2025

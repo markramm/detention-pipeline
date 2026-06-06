@@ -14,10 +14,10 @@ annual_value: "~$60M/year (15-year contract)"
 status: operational
 opened: "2025-05-01"
 importance: 9
-tags: [private-prison, geo-group, new-jersey, newark, essex-county, reactivated, billion-dollar-contract, conditions-abuse, detainee-death, mayor-arrest, escape, largest-east-coast, hunger-strike, senator-pepper-sprayed]
+tags: [private-prison, geo-group, new-jersey, newark, essex-county, reactivated, billion-dollar-contract, conditions-abuse, detainee-death, mayor-arrest, escape, largest-east-coast, hunger-strike, senator-pepper-sprayed, state-lawsuit, inspection-access, curfew, human-rights-watch]
 research_status: working
 fips: '34013'
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Delaney Hall — Newark NJ GEO Group ICE Facility
@@ -50,6 +50,12 @@ It opened **May 1, 2025** as the first new ICE detention center of the Trump sec
 | May 25, 2026 | Gov. Sherrill denied entry (no federal oversight authority); Rep. Rob Menendez waits 12+ hours for oversight access |
 | May 25, 2026 | **Sen. Andy Kim (D-NJ) pepper-sprayed** by federal agents while trying to defuse the crowd |
 | May 26-27, 2026 | DHS Sec. Markwayne Mullin denies a strike is happening, calls visits a "political stunt," says detainees refusing food over "ethnic right food" can "go back to their country"; blames Kim for being sprayed |
+| May 28, 2026 | **NJ Dept. of Health gets only a limited inspection** — DOH inspectors allowed inside but barred from the medical unit, sleeping areas, and bathing/toileting areas; GEO says ICE must authorize fuller access, ICE denies it |
+| May 29, 2026 | DHS issues "Correct the Record" release calling sanctuary-politician claims "smears"; cites an **Aug 2025 DHS OPR inspection** that found Delaney Hall met 17 of 22 standards (5 deficiencies: freezer ice, fingerprinting gaps, holding-room docs, cleaning-equipment labeling, monitoring protocols) |
+| June 1, 2026 | Strike continues into day 11; detainee demands now explicitly include **release of medically vulnerable/elderly/pregnant/young detainees, immigration-judge case review, federal habeas review, and an end to voluntary-departure pressure** |
+| June 2, 2026 | **NJ AG Davenport + Gov. Sherrill sue GEO Group** in Essex County Superior Court seeking an expedited injunction for full DOH inspection access; **Mayor Baraka announces Newark will expand its 2025 suit to seek the facility's closure** if inspectors are not given full access; Baraka imposes a **9 p.m.–6 a.m. curfew** within a half-mile of Delaney Hall after protests turned violent (fires, clashes) |
+| June 2-3, 2026 | **61 protesters arrested** (failure to disperse, curfew violations, resisting); DHS says protesters bit officers; Baraka transfers protest policing from NJ State Police back to Newark PD, calling prior tactics "aggressive, unnecessary, and in some cases unconstitutional" |
+| June 3, 2026 | **Baraka lifts the curfew** after a protest with no arrests; **Human Rights Watch** publishes findings backing strikers' allegations and citing a **1,373% jump in voluntary departures** in NY/NJ immigration courts (July–Oct 2025 vs. prior year); DHS calls the NJ lawsuit "frivolous" |
 
 ## Documented Conditions
 
@@ -82,6 +88,16 @@ Gov. **Mikie Sherrill** was **denied entry** (DHS asserted she lacks federal ove
 
 Why it matters: the strike is the largest organized detainee action at the East Coast's biggest ICE facility, and the pepper-spraying of a sitting U.S. senator marks a sharp escalation in federal-state confrontation at Delaney Hall — echoing the May 2025 arrest of Mayor Baraka one year earlier.
 
+## June 2026 Escalation: Dueling Lawsuits, Curfew, HRW Report
+
+The strike did **not** resolve and ran into June (day 11+). It evolved from a conditions protest into an explicit **legal-process demand**: strikers are now calling for release of medically vulnerable, elderly, pregnant, and young detainees; meaningful immigration-judge case review; **federal habeas review**; and an end to coercion to sign voluntary-departure/deportation documents. This ties the strike directly to the unresolved Third Circuit bond question — NJ is in the Third Circuit, where the bond-eligibility appeal was argued **May 11, 2026** but remains undecided (see [[bond-hearing-circuit-split-2026]]).
+
+On **May 28**, the NJ Department of Health was let in for only a **partial inspection** — barred from the medical unit, sleeping areas, and bathing/toileting areas — because GEO said ICE had to authorize fuller access and ICE declined. On **June 2**, NJ AG **Jennifer Davenport** and Gov. **Mikie Sherrill** sued GEO Group in **Essex County Superior Court** for an expedited injunction granting DOH full inspection access, while Mayor **Ras Baraka** announced Newark would **expand its existing 2025 permits suit to seek the facility's closure**. DHS called the state suit "frivolous," pointing to an **August 2025 DHS OPR inspection** that found the facility compliant with 17 of 22 standards (5 deficiencies) and a May 28 kitchen check it says found no issues.
+
+Protests turned violent (fires, clashes), prompting Baraka to impose a **9 p.m.–6 a.m. curfew** within a half-mile of Delaney Hall. **61 people were arrested** over June 2-3; Baraka then **moved policing from NJ State Police back to Newark PD** (citing "aggressive, unnecessary, and in some cases unconstitutional" tactics) and **lifted the curfew June 3** after an arrest-free protest. That same day **Human Rights Watch** corroborated strikers' allegations and cited a **1,373% increase in voluntary departures** in NY/NJ immigration courts (July–Oct 2025 vs. prior year) as evidence of systemic deportation pressure.
+
+Why it matters: NJ now has **two converging state/local suits** against GEO — one for inspection access (state) and an expanding one for closure (Newark) — testing whether a state can compel health inspection of a federally contracted private ICE facility. The strikers' pivot to habeas/bond demands links the East Coast's largest ICE facility to the live Third Circuit bond fight.
+
 ## Sources
 
 - [NPR: ICE to reopen major NJ detention center (Feb 27, 2025)](https://www.npr.org/2025/02/27/nx-s1-5311966/ice-detention-expansion-new-jersey)
@@ -106,3 +122,15 @@ Why it matters: the strike is the largest organized detainee action at the East 
 - [The City NYC: Families wait in freezing cold (Dec 22, 2025)](https://www.thecity.nyc/2025/12/22/delaney-hall-immigrants-detention-visitors-volunteers-cold-christmas-holidays/)
 - [Sen. Booker: Dignity for Detained Immigrants Act](https://www.booker.senate.gov/news/press/booker-announces-legislation-cracking-down-on-ice-detention-facilities-and-practices-following-tour-of-delaney-hall)
 - [Time: ICE's largest prison contractors post record revenue](https://time.com/7378284/ice-immigration-detention-contractors-record-revenue/)
+- [NJ.gov: NJ sues Delaney Hall operator after it refuses full access to health inspectors (June 2, 2026)](https://www.nj.gov/governor/news/2026/20260602.shtml)
+- [Jersey Vindicator: State sues GEO Group after health inspectors denied access (June 2, 2026)](https://jerseyvindicator.org/2026/06/02/state-sues-geo-group-after-health-inspectors-denied-access-to-delaney-hall/)
+- [NBC News: NJ targets GEO Group in lawsuits over conditions (June 2026)](https://www.nbcnews.com/news/us-news/nj-delaney-immigration-detention-lawsuit-geo-group-rcna348022)
+- [Gothamist: NJ, Newark expand legal push to close Delaney Hall (June 2026)](https://gothamist.com/news/newark-expected-to-file-suit-to-close-delaney-hall-ice-facility-as-protests-continue)
+- [CNN: NJ sues operators for access after inhumane-conditions allegations (June 2, 2026)](https://www.cnn.com/2026/06/02/us/delaney-hall-new-jersey-ice-protests-tuesday)
+- [Yahoo/AP: Newark mayor lifts curfew around Delaney Hall (June 3, 2026)](https://www.yahoo.com/news/politics/articles/newark-mayor-lifts-curfew-around-045334190.html)
+- [Central Jersey: Hunger strike, curfew & ICE standoff (June 2, 2026)](https://centraljersey.com/2026/06/02/newark-delaney-hall-hunger-strike-protests-curfew/)
+- [Human Rights Watch: NJ hunger strikers allege abysmal detention conditions (June 3, 2026)](https://www.hrw.org/news/2026/06/03/new-jersey-hunger-strikers-allege-abysmal-detention-conditions)
+- [AFSC: Detained immigrants continue labor and hunger strike at Delaney Hall (June 2026)](https://afsc.org/newsroom/detained-immigrants-continue-labor-and-hunger-strike-delaney-hall)
+- [Democracy Now: Immigrants continue hunger and labor strike demanding release (June 1, 2026)](https://www.democracynow.org/2026/6/1/headlines/immigrants_at_delaney_hall_continue_hunger_and_labor_strike_demanding_their_release)
+- [DHS: Correct the Record on Delaney Hall (May 29, 2026)](https://www.dhs.gov/news/2026/05/29/correct-record-dhs-debunks-sanctuary-politicians-smears-about-ices-delaney-hall)
+- [Fox News: DHS inspection contradicts AG lawsuit claims (June 2026)](https://www.foxnews.com/politics/inspection-delaney-hall-ice-facility-contradicts-claims-new-jersey-attorney-generals-lawsuit)

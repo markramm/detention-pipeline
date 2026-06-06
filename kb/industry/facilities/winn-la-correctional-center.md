@@ -19,8 +19,10 @@ tags:
 - conditions-complaints
 - winn-parish
 - detention-death
+- dhs-oig-report
+- use-of-force
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Winn Correctional Center
@@ -37,6 +39,17 @@ On **April 11, 2026**, **Alejandro Cabrera Clemente**, a 49-year-old Mexican nat
 
 Cabrera Clemente was the **16th person to die in ICE custody nationally in 2026** — a pace of roughly one death every 6.3 days over the year's first 101 days. For context, 2025 was the deadliest year for ICE detention in over two decades (32 deaths nationwide); 2026 reached half that total within four months. Analyses of the 2025 deaths found that in at least 17 of 32 documented cases, doctors concluded the person might still be alive absent delays or failures in medical care. Winn's documented history includes a 2021 DHS Office for Civil Rights and Civil Liberties report describing a "culture and conditions that can lead to abuse."
 
+## DHS OIG Report: Chokehold, Pen Stabbing, Sanitation Failures (June 2026)
+
+On **June 2, 2026** the DHS Office of Inspector General published the report from its **unannounced inspection conducted March 4–6, 2025**, when Winn held approximately **1,576 male ICE detainees** at maximum capacity. The report (covered widely June 4–5) documented:
+
+- **Prohibited use of force.** Of five use-of-force incidents reviewed, inspectors found violations in three. In one, an officer applied a **chokehold** around a detainee's neck — a technique ICE detention standards specifically prohibit — to gain control during an altercation. In another, an officer **stabbed a detainee's right thumb with a pen** because the detainee would not move his hand from a housing-unit door opening. A third involved restraints applied without proper documentation, including failure to document the required medical review on camera.
+- **Unsafe/unsanitary conditions.** Holes in the ceiling and insulation hanging from ceiling tiles in the intake building, with water dripping onto the floor; staff used napkins and Styrofoam containers to catch the leaks.
+- **Food safety.** Perishables stored in coolers reading **44–60°F** (standard: 35–40°F); a freezer at **11°F** (standard: 0°F or below).
+- **Medical and legal-access failures.** Incomplete/outdated medical files (missing treatment-plan updates and lab results); **25 of 30** detention files lacked required criminal-history documentation; detainees shared USB drives for legal work, raising confidentiality concerns.
+
+OIG issued **nine recommendations** — five resolved-but-open, four resolved-and-closed. ICE said it is "working to address" the issues including additional staff training; a DHS spokesperson asserted the facility complies with detention standards. **Rep. Pramila Jayapal** called it a "damning" report. The findings landed less than two months after the **April 11, 2026 in-custody death** of Alejandro Cabrera Clemente (below) and intensify scrutiny of Winn as the largest ICE facility in the No. 2 detention state. OIG's inspection capacity is expanding from 4–6 facilities/year toward 40–60 after a $20M funding increase.
+
 ## Why It Matters
 
 Winn Parish (population ~14,000) is one of Louisiana's most budget-distressed parishes. The detention center is a major employer and revenue source. The town of Winnfield is where the Washington Post profiled how locals supported the ICE center as economic lifeblood even as conditions deteriorated — a textbook example of the detention economy creating dependency.
@@ -50,3 +63,8 @@ Winn Parish (population ~14,000) is one of Louisiana's most budget-distressed pa
 - [Austin Kocher: ICE reports 16th detained death of 2026 at Winn (Apr 2026)](https://austinkocher.substack.com/p/ice-reports-16th-detained-death-of)
 - [ICE: Criminal illegal alien detainee passes away in Louisiana (Apr 2026)](https://www.ice.gov/news/releases/ice-criminal-illegal-alien-detainee-passes-away-louisiana)
 - [Democracy Now: Mexican immigrant Alejandro Cabrera Clemente dies in ICE jail (Apr 14, 2026)](https://www.democracynow.org/2026/4/14/headlines/mexican_immigrant_alejandro_cabrera_clemente_dies_in_ice_jail)
+- [NBC News: DHS watchdog finds use-of-force, safety and sanitation concerns at Louisiana ICE center (Jun 4, 2026)](https://www.nbcnews.com/news/us-news/dhs-watchdog-finds-use-force-issues-safety-sanitation-concerns-louisia-rcna348367)
+- [KSLA: Inspection finds use-of-force issues, safety and sanitation concerns at La. ICE detention center (Jun 4, 2026)](https://www.ksla.com/2026/06/04/inspection-finds-use-of-force-issues-safety-sanitation-concerns-la-ice-detention-center/)
+- [Axios: Federal inspector reports chokehold, pen stabbing at ICE facility (Jun 4, 2026)](https://www.axios.com/2026/06/04/ice-detention-center-pen-stabbing-chokehold)
+- [Prism: Watchdog says ICE staff used chokehold, stabbed detainee at Louisiana center (Jun 2026)](https://www.prismnews.com/news/watchdog-says-ice-staff-used-chokehold-stabbed-detainee-at)
+- [Rep. Jayapal: Statement on damning DHS OIG report on Winn (Jun 4, 2026)](https://jayapal.house.gov/2026/06/04/jayapal-statement-on-damning-dhs-oig-report-detailing-conditions-at-winn-correctional-center/)

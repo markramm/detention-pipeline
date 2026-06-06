@@ -18,7 +18,7 @@ tags:
 - tourism-economy
 - community-opposition
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Branson MO: Aldermen Approve 287(g) Agreement

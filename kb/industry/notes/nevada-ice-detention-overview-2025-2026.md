@@ -13,7 +13,7 @@ tags:
 - jail-pipeline
 - corecivic
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Nevada: ICE Detention Overview 2025-2026
@@ -60,7 +60,7 @@ Nevada experienced a dramatic escalation in ICE enforcement in 2025-2026, driven
 - Student walkouts in Washoe County School District and Carson City
 - Las Vegas businesses closed in solidarity
 - Southern Nevada activists organizing rapid-response ICE watch network (LV Defensa)
-- Federal judge in Nevada ruled ICE can't impose mandatory detention, citing "irreparable harm"
+- **Jacobo-Ramirez v. Noem (class action)**: On Mar 26, 2026 U.S. District Judge Richard Boulware II granted partial summary judgment **vacating DHS's mandatory-detention policy** under the APA, finding it caused "irreparable harm" — the first Nevada class action to overturn a DHS policy, restoring bond hearings for a defined class (est. ~60 people/week eligible to seek release). In April 2026 Boulware issued an **emergency order blocking the transfer of 25 class members out of Nevada**; on May 11, 2026 the government conceded many named detainees qualify as class members. Enforcement litigation ongoing. (See county-fight: nevada-jacobo-ramirez-mandatory-detention-class-action.)
 
 ## New Developments (Spring 2026)
 
@@ -83,4 +83,5 @@ Nevada's enforcement model relies on **county jails as the primary intake funnel
 - [ICE plans detention warehouse in Salt Lake City, raising fears about Nevada impact (Nevada Independent, Mar 14, 2026)](https://thenevadaindependent.com/article/ice-plans-to-build-detention-center-in-salt-lake-city-raising-fears-for-what-it-could-mean-for-nevada)
 - [Clark County child welfare adapts as more parents face ICE detention (Fox5 Vegas, May 18, 2026)](https://www.fox5vegas.com/2026/05/18/nevada-child-welfare-system-adapts-immigration-detention-cases/)
 - [Lawsuit: ICE detainee in Nevada loses eye in psychotic episode after being denied meds (Nevada Independent, 2026)](https://thenevadaindependent.com/article/lawsuit-ice-detainee-in-nevada-loses-eye-in-psychotic-episode-after-being-denied-meds)
-- [A Nevada judge ruled ICE can't lock up everyone facing deportation (BorderReport, 2025)](https://www.borderreport.com/border-report-tour/immigration/a-nevada-judge-ruled-ice-cant-lock-up-everyone-facing-deportation-heres-what-it-means/)
+- [A Nevada judge ruled ICE can't lock up everyone facing deportation (Washington Post, Apr 3, 2026)](https://www.washingtonpost.com/national/2026/04/03/nevada-immigration-detention-ruling/6bd5e5fe-2f85-11f1-aac2-f56b5ccad184_story.html)
+- [Federal court blocks transfer of immigrant detainees as ACLU of Nevada seeks enforcement of bond hearing ruling (ACLU NV)](https://www.aclunv.org/press-releases/federal-court-blocks-transfer-of-immigrant-detainees-as-aclu-of-nevada-seeks-enforcement-of-bond-hearing-ruling/)

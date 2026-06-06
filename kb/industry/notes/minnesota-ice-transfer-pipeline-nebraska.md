@@ -12,7 +12,7 @@ tags:
 - legal-access
 - operation-metro-surge
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Minnesota ICE Transfer Pipeline
@@ -52,3 +52,9 @@ The Minnesota Habeas Project has been providing critical legal representation, b
 By early May 2026, **roughly half of the ~3,700 people detained during Metro Surge had been deported** (MPR News). The out-of-state transfer pipeline (NE, IA, NM, WA) functioned as the staging mechanism for removals far from Minnesota attorneys and the Minnesota Habeas Project, compounding the access-to-counsel problem documented earlier.
 
 - [MPR News: Minnesota immigrant families struggle after ICE deportations (May 7, 2026)](https://www.mprnews.org/story/2026/05/07/minnesota-immigrant-families-struggle-after-ice-deportations)
+
+## Update (2026-06-05): Possible in-state onshoring via Prairie Correctional
+
+The out-of-state transfer pipeline exists partly because Minnesota's four IGSA county jails can hold only ~500 ICE detainees. On **June 4, 2026**, DHS posted a GSA solicitation to use CoreCivic's **1,600-bed Prairie Correctional Facility in Appleton (Swift County, FIPS 27151)** for ICE detention (see `appleton-mn-prairie-correctional`). If activated, it would roughly quadruple in-state capacity and could **partially onshore** detention now staged through Nebraska/Iowa/New Mexico — though, given its remote western-MN location ~150 miles from the Twin Cities, it would not resolve the access-to-counsel problem and could create a new isolation point of its own. Note the Eighth Circuit's `Herrera Avila v. Bondi` (Mar 25, 2026) ruling against bond hearings (see [[bond-hearing-circuit-split-2026]]) raises the stakes of where detainees are held, since habeas relief is constrained circuit-wide.
+
+- [MPR News: Feds propose housing ICE detainees in western Minnesota private prison (Jun 5, 2026)](https://www.mprnews.org/story/2026/06/05/homeland-security-intends-to-use-privatelyowned-correctional-facility-to-house-ice-detainees)

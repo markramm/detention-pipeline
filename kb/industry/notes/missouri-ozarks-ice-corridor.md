@@ -17,10 +17,16 @@ tags:
 - ozark-county
 - ripley-county
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Missouri Ozarks ICE Corridor
+
+## UPDATE (June 2026): Sheriff rebuttal + habeas escape route now closed
+
+- **Ste. Genevieve sheriff fires back (early June 2026)**: After the Bell/Budzinski tour, the Sheriff's Office issued a detailed point-by-point rebuttal (Sun Times News) — citing in-cell running water + ice coolers, ~3,800-calorie meals, on-site LPNs/paramedic + weekly physician + hospital across the street, and a full prenatal protocol. Overcrowding was not directly rebutted. KFVS aired a June 2 follow-up on a detained mother/daughter awaiting an asylum hearing. The conditions fight is now a contested-narrative standoff. See [[ste-genevieve-county-detention-center-mo]].
+- **Habeas escape route closing (Eighth Circuit)**: Through 2025-early 2026, habeas petitions were the main tool freeing Midwest ICE detainees — of ~160 resolved cases across MO/KS/IA/NE, ~35 won outright release and most others won bond hearings; only 15 denied (KCUR/Marshall Project, 5/20/26). But *Herrera Avila v. Bondi* (8th Cir., Mar 25, 2026, 2-1) held that immigrants already in the U.S. are still "seeking admission" with no bond-hearing right — binding on MO/MN/IA/NE/SD/ND/AR. Going forward, MO detainees in these rural jails face prolonged detention without the bond-hearing exit. This **raises the stakes on conditions** at Ste. Genevieve, Greene, and Phelps: people stay longer. See [[bond-hearing-circuit-split-2026]].
+- **KC alternative still live**: After Platform Ventures killed the 7,500-bed KC mega-center (Feb), Rep. Mark Alford (R-MO-04) pushed Cass County (Harrisonville, near I-49) as an alternative ICE site (Jan-Feb 2026). Belton said it is "not interested"; residents and Reps. Cleaver/Davids opposed. No site secured as of June 2026 — a dormant-but-live thread to watch. See [[kansas-city-mo-platform-ventures]].
 
 ## UPDATE (May 2026): Corridor Expands East + Conditions/Death Findings
 
@@ -123,3 +129,7 @@ The Ozarks corridor has a distinctive transport geography:
 - [STLPR: Rolla/Phelps County jail ICE costs (2025/08/22)](https://www.stlpr.org/law-order/2025-08-22/rolla-phelps-county-jail-ice-costs-house-detainees)
 - [KCUR: Missouri police signing ICE agreements face backlash, lawsuits (2026/03/18)](https://www.kcur.org/news/2026-03-18/missouri-police-ice-deportation-immigration-enforcement)
 - [STLPR: Aldermen endorse 5-year detention-center ban in St. Louis (2026/04/20)](https://www.stlpr.org/news-briefs/2026-04-20/aldermen-endorse-5-year-ban-on-non-municipal-detention-centers-in-st-louis)
+- [KCUR: Missouri and Kansas immigrants got out of ICE detention with this centuries-old legal tool (2026/05/20)](https://www.kcur.org/2026-05-20/ice-detention-habeas-corpus-cases)
+- [Marshall Project: How habeas corpus helped immigrants force ICE to free them (2026/05/20)](https://www.themarshallproject.org/2026/05/20/immigration-detention-habeas-midwest)
+- [Sun Times News: Ste. Genevieve County Sheriff's Office responds to congressional visit (2026/06)](https://suntimesnews.com/ste-genevieve-county-sheriffs-office-responds-to-criticism-following-congressional-visit-to-the-county-jail/)
+- [KOMU: Mid-Missouri congressman suggests ICE detention facility south of Kansas City (Cass County, 2026/01)](https://www.komu.com/news/state/mid-missouri-congressman-suggests-ice-detention-facility-south-of-kansas-city/article_cdefa173-5521-414c-becc-3703f2928acd.html)

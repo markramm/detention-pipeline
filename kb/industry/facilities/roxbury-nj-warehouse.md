@@ -9,7 +9,7 @@ state: "NJ"
 capacity: "500-1,500"
 operator: "ICE (federal)"
 contract_type: federal-purchase
-status: contested
+status: paused-dhs-review
 importance: 7
 tags: [warehouse-conversion, detention-reengineering, regional-processing-center, new-jersey, lawsuit, bipartisan-opposition]
 research_status: working
@@ -18,7 +18,7 @@ markup: "137% over value"
 prior_owner: "Goldman Sachs (former majority owner)"
 planned_staff: "~1,000"
 fips: '34027'
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Roxbury NJ Warehouse — ICE Regional Processing Center
@@ -44,6 +44,8 @@ DHS purchased a **470,000-square-foot warehouse** at 1879 Route 46 in Roxbury, N
 ## Legal Challenge
 
 New Jersey Governor Sherrill, Attorney General Davenport, and Roxbury Township filed a **joint lawsuit** against ICE and DHS over plans to convert the warehouse into a mass detention facility (Case No. 26-02884, D.N.J.). On **May 12, 2026**, instead of a contested preliminary-injunction ruling, the parties filed a **joint stipulation** before Judge Jamel K. Semper: DHS agreed to **complete a full NEPA environmental assessment before any construction**, halting the rushed timeline. Only limited interim work is allowed (fencing, CCTV, fire-alarm/sprinkler monitoring, custodial/grounds). After the review, ICE must give 7 days' notice before deciding to proceed. See [[roxbury-nj-lawsuit]].
+
+**Status as of June 5, 2026 sweep:** unchanged. The DHS NEPA environmental assessment is the operative posture — construction remains halted pending review, which DHS conceded "can take months." No NEPA assessment had been published and no 7-day notice to proceed had been filed as of June 5. Facility status updated to **paused-dhs-review** to reflect the binding stipulation. (Note: a separate coalition of NJ environmental groups had moved to intervene/halt the project back in April 2026, but that motion was overtaken by the May 12 stipulation.)
 
 ## Staffing and Infrastructure
 

@@ -22,7 +22,7 @@ tags:
 - hunger-strike-transfer
 research_status: working
 fips: '34039'
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # Elizabeth Contract Detention Facility — CoreCivic
@@ -55,6 +55,8 @@ In March 2025, activists protested conditions at Elizabeth even as ICE was annou
 ### Used as Isolation Destination During Delaney Hall Strike (May 2026)
 
 During the ~300-detainee hunger and labor strike at Delaney Hall (see [[delaney-hall-newark-nj]] / [[newark-nj-delaney-hall-fight]]), ICE **transferred strike leader Martin Soto Hernandez** — a Peruvian detained at Delaney Hall since February — to the Elizabeth Contract Detention Facility on/around May 25, 2026. His attorneys say he was placed in **isolation and denied phone calls** at Elizabeth. Members of Congress who waited 12+ hours to enter Delaney Hall were eventually allowed to see Soto at Elizabeth. This shows Elizabeth functioning as a transfer/isolation node within ICE's Newark-metro detention complex.
+
+As of early June 2026, the Delaney Hall strike had not resolved and Soto remained at Elizabeth; the relevant new litigation (NJ AG + Newark suits) targets GEO Group at Delaney Hall, not CoreCivic at Elizabeth. No new Elizabeth-specific developments surfaced in the June 5 sweep beyond Elizabeth's continued role as the isolation destination for the transferred strike leader.
 
 ## Why This Facility Matters
 

@@ -19,7 +19,7 @@ tags:
 - aclu
 - mica-project
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-06-05"
 ---
 
 # St. Charles County MO: Council Approves 287(g) Task Force Agreement

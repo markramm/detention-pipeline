@@ -19,7 +19,7 @@ tags:
 - port-kc
 - tax-incentives
 research_status: working
-last_news_check: "2026-04-29"
+last_news_check: "2026-06-05"
 fips: '29095'
 ---
 
@@ -51,6 +51,12 @@ This is one of the clearest examples of community resistance successfully blocki
 
 "Baseless speculation, inaccurate narratives, and serious threats toward our leadership, our employees and our families" prompted the withdrawal. The formal explanation: "the terms no longer met our fiduciary requirements for a timely closing."
 
+## Where It Went Next: The Cass County Alternative (still live)
+
+Killing the KC site did not end ICE's search for a Kansas City-area facility. The day after the city's permit block (Jan 16, 2026), Rep. **Mark Alford** (R-MO-04) wrote to ICE Acting Director Todd Lyons urging the agency to site the detention/processing facility in **Cass County** instead — pointing to sites near **I-49** and arguing a Cass County location "would reduce conflict with municipal governments" and avoid litigation/opposition campaigns. Reporting centered on **Harrisonville** and the I-49 corridor.
+
+The pitch met immediate resistance: the **City of Belton** said it "is not interested," Raymore residents objected that Alford never consulted them, and Reps. **Cleaver** (MO-05) and **Davids** (KS-03) opposed it. As of June 2026 **no Cass County site has been secured** — a dormant-but-live thread. It illustrates the displacement dynamic: a metro win pushes the facility search outward toward more cooperative rural/exurban counties, the same pattern feeding the [[missouri-ozarks-ice-corridor]].
+
 ## The Lesson
 
 The Kansas City fight demonstrates that **the purchase moment is the vulnerability.** Federal preemption means local governments can't ban the federal government from buying property — but they can make the seller unwilling to sell. The developer, not the government, was the pressure point.
@@ -62,3 +68,7 @@ The Kansas City fight demonstrates that **the purchase moment is the vulnerabili
 - [KCUR: Hours after ICE tour, council blocks permits (Jan 15, 2026)](https://www.kcur.org/politics-elections-and-government/2026-01-15/hours-after-ice-toured-kansas-city-warehouse-council-blocks-federal-detention-center-permits)
 - [KCUR: Port KC cuts ties with Platform Ventures (Feb 9, 2026)](https://www.kcur.org/politics-elections-and-government/2026-02-09/kansas-city-agency-cuts-ties-with-company-selling-warehouse-for-ice-detention-center)
 - [Beacon KC: Port KC blindsided by sale (Feb 6, 2026)](https://thebeaconnews.org/stories/2026/02/06/platform-ventures-ice-detention-center-port-kc/)
+- [KOMU: Mid-Missouri congressman suggests ICE detention facility south of Kansas City — Cass County (Jan 16, 2026)](https://www.komu.com/news/state/mid-missouri-congressman-suggests-ice-detention-facility-south-of-kansas-city/article_cdefa173-5521-414c-becc-3703f2928acd.html)
+- [KCTV5: Congressman suggests Cass County as alternative ICE location (Jan 16, 2026)](https://www.kctv5.com/2026/01/16/congressman-suggests-cass-county-alternative-location-ice-facility/)
+- [KSHB: Cass County residents respond to possible ICE detention center in Harrisonville](https://www.kshb.com/news/local-news/cass-county-residents-respond-to-talk-about-possible-ice-detention-center-in-harrisonville)
+- [Alford House: Alford urges ICE to consider Cass County sites](https://alford.house.gov/news/documentsingle.aspx?DocumentID=1442)

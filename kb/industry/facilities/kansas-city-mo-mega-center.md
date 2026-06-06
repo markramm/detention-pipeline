@@ -26,3 +26,5 @@ fips: '29095'
 Platform Ventures owned an $80M warehouse in south Kansas City planned as a 7,500-bed ICE mega center. The deal was killed by community pressure — student walkouts, mass protests, a general strike, and the city council blocking permits within hours of ICE touring the facility. Port KC (which had given the developer a 20-year tax exemption) severed all ties. Platform Ventures withdrew February 12, 2026.
 
 See [[kansas-city-mo-platform-ventures]] for the full fight.
+
+**Follow-on (Jan-June 2026):** After the KC site died, Rep. Mark Alford (R-MO-04) pushed Cass County (Harrisonville / I-49 corridor) as an alternative ICE site. Belton declined, residents and Reps. Cleaver/Davids opposed, and no site has been secured as of June 2026. The 7,500-bed concept has not resurfaced at a new location.
