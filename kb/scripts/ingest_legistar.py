@@ -47,6 +47,12 @@ STRONG_KEYWORDS = [
     r"NDS 2025", r"national detention standards",
     r"\b287\s*\(?g\)?\b", r"deportation",
     r"GEO Group", r"CoreCivic", r"GardaWorld",
+    # ICE cooperation / detainer specifics (corpus-validated 2026-06: precise,
+    # low false-positive because they require ICE/immigration context)
+    r"immigration detainer", r"\bICE\b.{0,20}detainer",
+    r"\bICE\b.{0,25}(?:access|cooperat|agreement|contract|transfer|hold)",
+    r"\bMTC\b detention", r"Management and Training Corporation",
+    r"Immigration and Customs Enforcement.{0,30}(?:agreement|contract|detention)",
 ]
 
 MODERATE_KEYWORDS = [
@@ -58,6 +64,23 @@ MODERATE_KEYWORDS = [
     r"\bAkima\b", r"Nana Regional",
     r"Immigration Centers of America",
     r"detainee", r"undocumented",
+]
+
+# Pro-immigrant / sanctuary governance — the resistance-side board activity that
+# county-fights document but the enforcement-tuned sets above missed entirely.
+# Corpus-validated 2026-06 against Newark/LA/Sacramento/Broward agendas: these
+# phrasings are specific enough to avoid the county-jail-budget false positives
+# (e.g. "Department of Detention operating budget" = inmate medical care, NOT ICE).
+SANCTUARY_KEYWORDS = [
+    r"immigrant trust act", r"\btrust act\b",
+    r"sanctuary (?:city|county|jurisdiction|state|polic|ordinance|resolution)",
+    r"welcoming (?:city|communit|county)",
+    r"protect(?:ing)?.{0,25}immigrant", r"immigrant (?:communit|protection|rights|defense)",
+    r"know your rights", r"civil immigration",
+    r"legal defense fund.{0,30}(?:immigr|deport)", r"(?:immigr|deportation).{0,30}legal defense",
+    r"\bU[- ]?visa\b", r"VAWA certif",
+    r"limit.{0,30}(?:ICE|immigration|federal).{0,20}(?:cooperat|coordination)",
+    r"prohibit.{0,30}(?:ICE|immigration|detention)",
 ]
 
 # Closed session + real estate = possible early signal
@@ -249,6 +272,14 @@ def check_keywords(text):
         return "strong", matched
 
     for kw in MODERATE_KEYWORDS:
+        if re.search(kw, text, re.IGNORECASE):
+            matched.append(kw)
+    if matched:
+        return "moderate", matched
+
+    # Pro-immigrant / sanctuary governance — classified moderate (real fight
+    # signal, distinct from enforcement procurement).
+    for kw in SANCTUARY_KEYWORDS:
         if re.search(kw, text, re.IGNORECASE):
             matched.append(kw)
     if matched:
