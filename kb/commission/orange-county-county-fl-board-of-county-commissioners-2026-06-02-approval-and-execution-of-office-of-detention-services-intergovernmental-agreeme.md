@@ -7,7 +7,7 @@ state: 'FL'
 fips: '12095'
 source: 'Legistar (Orange County)'
 signal_strength: 'strong'
-notes: 'Matched: intergovernmental service agreement'
+notes: 'Matched: intergovernmental service agreement, Immigration and Customs Enforcement.{0,30}(?:agreement|contract|detention)'
 tags:
 - commission-activity
 - fl
@@ -21,6 +21,6 @@ Meeting: Board of County Commissioners
 Date: 2026-06-02
 Agenda Item: Approval and execution of Office of Detention Services Intergovernmental Agreement Agreement Number 18-04-0023 between Orange County, Florida and the U.S. Department of Justice United States Marshals Service Prisoner Operations Division for housing federal prisoners; and authorization for staff, upon confirmation that the United States Immigration and Customs Enforcement Basic Ordering Agreement is effective, to transmit the County-executed IGA to the United States Marshals Services for countersignature and provide the required notice of termination of the current Intergovernmental Service Agreement. (Fiscal and Operational Support Division)
 
-Matched keywords: intergovernmental service agreement
+Matched keywords: intergovernmental service agreement, Immigration and Customs Enforcement.{0,30}(?:agreement|contract|detention)
 
 Full text:

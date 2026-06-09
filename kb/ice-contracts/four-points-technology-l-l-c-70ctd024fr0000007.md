@@ -1,12 +1,12 @@
 ---
 id: four-points-technology-l-l-c-70ctd024fr0000007
-title: 'FOUR POINTS TECHNOLOGY, L.L.C. — 70CTD024FR0000007 (DC) $2,555,394'
+title: 'FOUR POINTS TECHNOLOGY, L.L.C. — 70CTD024FR0000007 (DC) $1,501,051'
 type: ice-contract
 state: 'DC'
 contractor: 'FOUR POINTS TECHNOLOGY, L.L.C.'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$2,555,393.80'
+contract_value: '$1,501,050.65'
 contract_type: 'federal-contract'
 award_date: '2024-02-26'
 usaspending_id: '70CTD024FR0000007'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: FOUR POINTS TECHNOLOGY, L.L.C.
 Award ID: 70CTD024FR0000007
-Amount: $2,555,393.80
+Amount: $1,501,050.65
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD IS FOR BLACKBERRY ATHOC PERSONNEL EMERGENCY NOTIFICATION SOFTWARE.

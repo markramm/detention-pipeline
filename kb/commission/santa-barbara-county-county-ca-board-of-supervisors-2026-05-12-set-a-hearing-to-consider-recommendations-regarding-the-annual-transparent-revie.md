@@ -6,12 +6,12 @@ county: 'Santa Barbara County'
 state: 'CA'
 fips: '06083'
 source: 'Legistar (Santa Barbara County)'
-signal_strength: 'moderate'
-notes: 'Matched: \bICE\b, immigration and customs enforcement'
+signal_strength: 'strong'
+notes: 'Matched: \bICE\b.{0,25}(?:access|cooperat|agreement|contract|transfer|hold)'
 tags:
 - commission-activity
 - ca
-- moderate
+- strong
 importance: 5
 ---
 
@@ -21,6 +21,6 @@ Meeting: BOARD OF SUPERVISORS
 Date: 2026-05-12
 Agenda Item: Set a hearing to consider recommendations regarding the Annual Transparent Review of Unjust Transfers and Holds (TRUTH) Act Report and Community Forum, as follows: (Set a hearing for June 23, 2026. Time estimate: 2 hours) a) Receive and file the Annual TRUTH Act report regarding United States Immigration and Customs Enforcement (ICE) access to individuals as required by Government Code section 7283.1(d); b) Hold the public hearing on June 23, 2026, as required by Government Code section 7283.1(d), regarding ICE’s access to individuals, and to receive and consider public comment; and c) Determine that the above action is an organizational or administrative activity of the government that will not result in direct or indirect physical changes in the environment and is therefore not a project under the California Environmental Quality Act (CEQA) pursuant to Section 15378(b)(5) of the CEQA Guidelines.
 
-Matched keywords: \bICE\b, immigration and customs enforcement
+Matched keywords: \bICE\b.{0,25}(?:access|cooperat|agreement|contract|transfer|hold)
 
 Full text:

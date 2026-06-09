@@ -6,12 +6,12 @@ county: 'Monterey County'
 state: 'CA'
 fips: '06053'
 source: 'Legistar (Monterey County)'
-signal_strength: 'moderate'
-notes: 'Matched: \bICE\b, immigration and customs enforcement'
+signal_strength: 'strong'
+notes: 'Matched: \bICE\b.{0,25}(?:access|cooperat|agreement|contract|transfer|hold)'
 tags:
 - commission-activity
 - ca
-- moderate
+- strong
 importance: 5
 ---
 
@@ -21,6 +21,6 @@ Meeting: Board of Supervisors
 Date: 2026-01-27
 Agenda Item: a. Receive a report from the Sheriff’s Office related to U.S. Immigration and Customs Enforcement’s (ICE) access to Incarcerated Persons in the Monterey County Jail; and b. Receive and consider public comment
 
-Matched keywords: \bICE\b, immigration and customs enforcement
+Matched keywords: \bICE\b.{0,25}(?:access|cooperat|agreement|contract|transfer|hold)
 
 Full text:

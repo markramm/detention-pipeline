@@ -1,0 +1,26 @@
+---
+id: humboldt-county-county-ca-board-of-supervisors-2026-06-09-semi-annual-humboldt-county-sanctuary-ordinance-report-probation-department
+title: 'Humboldt County County CA — Board of Supervisors 2026-06-09: Semi-Annual Humboldt County Sanctuary Ordinance Report - Probation Department'
+type: commission-activity
+county: 'Humboldt County'
+state: 'CA'
+fips: '06023'
+source: 'Legistar (Humboldt County)'
+signal_strength: 'moderate'
+notes: 'Matched: sanctuary (?:city|county|jurisdiction|state|polic|ordinance|resolution)'
+tags:
+- commission-activity
+- ca
+- moderate
+importance: 5
+---
+
+County commission agenda item matching detention pipeline keywords.
+
+Meeting: Board of Supervisors
+Date: 2026-06-09
+Agenda Item: Semi-Annual Humboldt County Sanctuary Ordinance Report - Probation Department
+
+Matched keywords: sanctuary (?:city|county|jurisdiction|state|polic|ordinance|resolution)
+
+Full text:

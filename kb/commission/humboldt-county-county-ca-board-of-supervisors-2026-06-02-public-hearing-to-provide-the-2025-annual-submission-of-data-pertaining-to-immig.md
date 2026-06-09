@@ -6,12 +6,12 @@ county: 'Humboldt County'
 state: 'CA'
 fips: '06023'
 source: 'Legistar (Humboldt County)'
-signal_strength: 'moderate'
-notes: 'Matched: \bICE\b, immigration and customs enforcement'
+signal_strength: 'strong'
+notes: 'Matched: \bICE\b.{0,25}(?:access|cooperat|agreement|contract|transfer|hold)'
 tags:
 - commission-activity
 - ca
-- moderate
+- strong
 importance: 5
 ---
 
@@ -21,6 +21,6 @@ Meeting: Board of Supervisors
 Date: 2026-06-02
 Agenda Item: Public Hearing to Provide the 2025 Annual Submission of Data Pertaining to Immigration and Customs Enforcement (ICE) Access as Outlined in Government Code section 7283.1 (d) (Information Only) and Semi-Annual Measure K Submission of Data
 
-Matched keywords: \bICE\b, immigration and customs enforcement
+Matched keywords: \bICE\b.{0,25}(?:access|cooperat|agreement|contract|transfer|hold)
 
 Full text:
