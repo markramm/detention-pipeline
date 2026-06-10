@@ -7,7 +7,7 @@ state: 'CA'
 fips: '06073'
 source: 'Legistar (San Diego County)'
 signal_strength: 'moderate'
-notes: 'Matched: know your rights, (?:immigr|deportation).{0,30}legal defense'
+notes: 'Matched: immigrant (?:communit|protection|rights|defense|legal defense), know your rights, (?:immigr|deportation).{0,30}legal defense'
 tags:
 - commission-activity
 - ca
@@ -21,6 +21,6 @@ Meeting: BOARD OF SUPERVISORS
 Date: 2026-04-21
 Agenda Item: EXPANDING IMMIGRANT LEGAL DEFENSE AND KNOW YOUR RIGHTS RESOURCES THROUGH A PARTNERSHIP WITH THE MEXICAN CONSULATE
 
-Matched keywords: know your rights, (?:immigr|deportation).{0,30}legal defense
+Matched keywords: immigrant (?:communit|protection|rights|defense|legal defense), know your rights, (?:immigr|deportation).{0,30}legal defense
 
 Full text:

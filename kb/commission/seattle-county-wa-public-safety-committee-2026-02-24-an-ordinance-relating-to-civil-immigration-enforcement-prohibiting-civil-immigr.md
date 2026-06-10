@@ -7,7 +7,7 @@ state: 'WA'
 fips: '53033'
 source: 'Legistar (Seattle)'
 signal_strength: 'moderate'
-notes: 'Matched: civil immigration, prohibit.{0,30}(?:ICE|immigration|detention)'
+notes: 'Matched: civil immigration, prohibit\w*.{0,40}(?:immigration enforcement|civil immigration|\bICE\b|immigration detainer)'
 tags:
 - commission-activity
 - wa
@@ -21,6 +21,6 @@ Meeting: Public Safety Committee
 Date: 2026-02-24
 Agenda Item: AN ORDINANCE relating to civil immigration enforcement; prohibiting civil immigration enforcement staging on all real property that is City owned and controlled; and adding a new Chapter 14.125 to the Seattle Municipal Code.
 
-Matched keywords: civil immigration, prohibit.{0,30}(?:ICE|immigration|detention)
+Matched keywords: civil immigration, prohibit\w*.{0,40}(?:immigration enforcement|civil immigration|\bICE\b|immigration detainer)
 
 Full text:

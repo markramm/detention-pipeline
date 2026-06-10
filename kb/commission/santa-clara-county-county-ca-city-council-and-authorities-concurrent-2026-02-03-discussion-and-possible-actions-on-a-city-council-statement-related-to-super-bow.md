@@ -7,7 +7,7 @@ state: 'CA'
 fips: '06085'
 source: 'Legistar (Santa Clara County)'
 signal_strength: 'moderate'
-notes: 'Matched: immigrant (?:communit|protection|rights|defense)'
+notes: 'Matched: immigrant (?:communit|protection|rights|defense|legal defense)'
 tags:
 - commission-activity
 - ca
@@ -21,6 +21,6 @@ Meeting: City Council and Authorities Concurrent
 Date: 2026-02-03
 Agenda Item: Discussion and Possible Actions on a City Council Statement Related to Super Bowl Safety and Affirmation of Support for Immigrant Communities, and Policy Regarding Immigration Enforcement Activities within the City of Santa Clara
 
-Matched keywords: immigrant (?:communit|protection|rights|defense)
+Matched keywords: immigrant (?:communit|protection|rights|defense|legal defense)
 
 Full text:

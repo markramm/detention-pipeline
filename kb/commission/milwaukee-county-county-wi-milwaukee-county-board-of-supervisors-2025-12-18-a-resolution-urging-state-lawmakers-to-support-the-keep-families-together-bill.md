@@ -7,7 +7,7 @@ state: 'WI'
 fips: '55079'
 source: 'Legistar (Milwaukee County)'
 signal_strength: 'moderate'
-notes: 'Matched: protect(?:ing)?.{0,25}immigrant'
+notes: 'Matched: keep families together'
 tags:
 - commission-activity
 - wi
@@ -21,6 +21,6 @@ Meeting: Milwaukee County Board of Supervisors
 Date: 2025-12-18
 Agenda Item: A resolution urging state lawmakers to support the “Keep Families Together” bill package to protect immigrants in Wisconsin
 
-Matched keywords: protect(?:ing)?.{0,25}immigrant
+Matched keywords: keep families together
 
 Full text:

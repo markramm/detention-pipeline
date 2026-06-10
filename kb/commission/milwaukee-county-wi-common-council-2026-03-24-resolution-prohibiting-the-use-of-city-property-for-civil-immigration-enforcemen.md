@@ -7,7 +7,7 @@ state: 'WI'
 fips: '55079'
 source: 'Legistar (Milwaukee)'
 signal_strength: 'moderate'
-notes: 'Matched: civil immigration'
+notes: 'Matched: civil immigration, prohibit\w*.{0,40}(?:immigration enforcement|civil immigration|\bICE\b|immigration detainer), prohibit\w*.{0,15}use of.{0,30}(?:propert|resource|space|facilit).{0,40}immigration, use of (?:city|county).{0,30}(?:propert|space|resource).{0,40}(?:immigration enforcement|civil immigration)'
 tags:
 - commission-activity
 - wi
@@ -21,6 +21,6 @@ Meeting: COMMON COUNCIL
 Date: 2026-03-24
 Agenda Item: Resolution prohibiting the use of City property for civil immigration enforcement activities.
 
-Matched keywords: civil immigration
+Matched keywords: civil immigration, prohibit\w*.{0,40}(?:immigration enforcement|civil immigration|\bICE\b|immigration detainer), prohibit\w*.{0,15}use of.{0,30}(?:propert|resource|space|facilit).{0,40}immigration, use of (?:city|county).{0,30}(?:propert|space|resource).{0,40}(?:immigration enforcement|civil immigration)
 
 Full text:

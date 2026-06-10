@@ -7,7 +7,7 @@ state: 'PA'
 fips: '42003'
 source: 'Legistar (Pittsburgh)'
 signal_strength: 'moderate'
-notes: 'Matched: prohibit.{0,30}(?:ICE|immigration|detention)'
+notes: 'Matched: prohibit\w*.{0,40}(?:immigration enforcement|civil immigration|\bICE\b|immigration detainer), use of (?:city|county).{0,30}(?:propert|space|resource).{0,40}(?:immigration enforcement|civil immigration)'
 tags:
 - commission-activity
 - pa
@@ -21,6 +21,6 @@ Meeting: Standing Committees
 Date: 2026-05-06
 Agenda Item: Ordinance amending and supplementing the Pittsburgh Code, Title Four: Public Places and Property, by adding Article IX: Use of City Owned or Operated Spaces, Chapter 495 - Prohibiting Immigration Enforcement in City-Owned or Operated Spaces.
 
-Matched keywords: prohibit.{0,30}(?:ICE|immigration|detention)
+Matched keywords: prohibit\w*.{0,40}(?:immigration enforcement|civil immigration|\bICE\b|immigration detainer), use of (?:city|county).{0,30}(?:propert|space|resource).{0,40}(?:immigration enforcement|civil immigration)
 
 Full text:

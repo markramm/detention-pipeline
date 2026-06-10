@@ -74,13 +74,23 @@ MODERATE_KEYWORDS = [
 SANCTUARY_KEYWORDS = [
     r"immigrant trust act", r"\btrust act\b",
     r"sanctuary (?:city|county|jurisdiction|state|polic|ordinance|resolution)",
-    r"welcoming (?:city|communit|county)",
-    r"protect(?:ing)?.{0,25}immigrant", r"immigrant (?:communit|protection|rights|defense)",
+    r"immigrant (?:communit|protection|rights|defense|legal defense)",
     r"know your rights", r"civil immigration",
     r"legal defense fund.{0,30}(?:immigr|deport)", r"(?:immigr|deportation).{0,30}legal defense",
     r"\bU[- ]?visa\b", r"VAWA certif",
     r"limit.{0,30}(?:ICE|immigration|federal).{0,20}(?:cooperat|coordination)",
-    r"prohibit.{0,30}(?:ICE|immigration|detention)",
+    # Tightened 2026-06 after an audit found the loose forms catching commemorative
+    # / unrelated resolutions: "prohibit" must attach to civil-immigration-enforcement
+    # or ICE use of public property (NOT gun-control's "prohibiting firearm dealers");
+    # "welcoming"/"protect immigrant" must attach to actual sanctuary legislation or
+    # immigrant residents (NOT "welcoming" boilerplate in heritage-month resolutions).
+    r"prohibit\w*.{0,40}(?:immigration enforcement|civil immigration|\bICE\b|immigration detainer)",
+    r"prohibit\w*.{0,15}use of.{0,30}(?:propert|resource|space|facilit).{0,40}immigration",
+    r"use of (?:city|county).{0,30}(?:propert|space|resource).{0,40}(?:immigration enforcement|civil immigration)",
+    r"welcoming (?:city|county) (?:ordinance|resolution|polic|act)",
+    r"(?:pass|adopt|enact)\w*.{0,30}(?:sanctuary|welcoming|immigrant protection)",
+    r"protect\w*.{0,20}immigrant (?:communit|resident|famil|worker)",
+    r"honoring immigrant", r"keep families together",
 ]
 
 # Closed session + real estate = possible early signal
