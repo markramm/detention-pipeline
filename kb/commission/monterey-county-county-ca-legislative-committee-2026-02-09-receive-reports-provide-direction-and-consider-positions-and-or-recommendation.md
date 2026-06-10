@@ -7,7 +7,7 @@ state: 'CA'
 fips: '06053'
 source: 'Legistar (Monterey County)'
 signal_strength: 'moderate'
-notes: 'Matched: \bICE\b'
+notes: 'Matched: prohibit.{0,30}(?:ICE|immigration|detention)'
 tags:
 - commission-activity
 - ca
@@ -19,8 +19,8 @@ County commission agenda item matching detention pipeline keywords.
 
 Meeting: Legislative Committee
 Date: 2026-02-09
-Agenda Item: Receive reports, provide direction, and consider positions and/or recommendations to the Board of Supervisors on: a. Status of the Legislature b. Governor’s January State Budget Proposal 	i.	CSAC Budget Letters c. Legislation: 	i.	AB 35: Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024: Administrative Procedure Act: exemption: program guidelines and selection criteria. 	ii.	SB 747: Civil rights: deprivation of federal constitutional rights, privileges, and immunities. 	iii.	SB 873 Courthouses: privilege from civil arrest (spot bill) 	iv.	SB 282: Heat Pump Access Act (request to sign onto letter of broad support) 	v.	SB 299: California Environmental Quality Act: exemption: day care center: family daycare home: zoning. d. CSVS Request that Speaker Rivas form a Select Committee to Investigate the ICE Raids in California e. Governor’s Actions and Executive Orders f. State Bill/Issues Track
+Agenda Item: Receive reports, provide direction, and consider positions and/or recommendations to the Board of Supervisors on: a.	Federal Government Update 	 i.	Congressional Overview ii.	Executive Order Updates b.	Appropriations Update, including Community Project Funding Requests c.	Federal Advocacy i. Water Resources Development Act (WRDA) d. Legislation 	 i.	H.R. 4776- Standardizing Permitting and Expediting Economic Development (SPEED) Act ii.	S.3744- To amend chapter 93 of title 18, United States Code, to prohibit obstruction of immigration laws by official interference 	 iii. H.R. 6644 the Housing for the 21st Century Act (per NACo) e.	Federal Bill/Issue Track
 
-Matched keywords: \bICE\b
+Matched keywords: prohibit.{0,30}(?:ICE|immigration|detention)
 
 Full text:

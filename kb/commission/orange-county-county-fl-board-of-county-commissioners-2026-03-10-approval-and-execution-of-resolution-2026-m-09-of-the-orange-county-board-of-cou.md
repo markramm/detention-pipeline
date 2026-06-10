@@ -7,7 +7,7 @@ state: 'FL'
 fips: '12095'
 source: 'Legistar (Orange County)'
 signal_strength: 'strong'
-notes: 'Matched: detention facility'
+notes: 'Matched: detention facility, Immigration and Customs Enforcement.{0,30}(?:agreement|contract|detention)'
 tags:
 - commission-activity
 - fl
@@ -21,6 +21,6 @@ Meeting: Board of County Commissioners
 Date: 2026-03-10
 Agenda Item: Approval and execution of Resolution 2026-M-09 of the Orange County Board of County Commissioners regarding Opposition to the Locating of a United States Immigration and Customs Enforcement Processing or Detention Facility in Warehouses Within Unincorporated Orange County.
 
-Matched keywords: detention facility
+Matched keywords: detention facility, Immigration and Customs Enforcement.{0,30}(?:agreement|contract|detention)
 
 Full text:

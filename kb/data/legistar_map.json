@@ -1,8 +1,8 @@
 {
   "metadata": {
     "description": "Legistar client ID mapping for US counties and cities. Legistar (by Granicus) powers meeting management for local governments but has no public client directory. This file maps validated client IDs to FIPS codes for civic tech use.",
-    "last_updated": "2026-04-12",
-    "total_validated": 61,
+    "last_updated": "2026-06-10",
+    "total_validated": 73,
     "how_to_use": {
       "api_events": "GET https://webapi.legistar.com/v1/{client_id}/Events",
       "api_items": "GET https://webapi.legistar.com/v1/{client_id}/Events/{id}/EventItems",
@@ -22,7 +22,7 @@
       "entity_type": "county",
       "legistar_url": "https://maricopa.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/maricopa",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": false
     },
     {
@@ -33,7 +33,7 @@
       "entity_type": "city",
       "legistar_url": "https://mesa.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/mesa",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -44,7 +44,7 @@
       "entity_type": "county",
       "legistar_url": "https://pima.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/pima",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -55,7 +55,7 @@
       "entity_type": "county",
       "legistar_url": "https://alameda.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/alameda",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -66,7 +66,7 @@
       "entity_type": "county",
       "legistar_url": "https://eldorado.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/eldorado",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -77,7 +77,7 @@
       "entity_type": "county",
       "legistar_url": "https://fresno.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/fresno",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -88,7 +88,7 @@
       "entity_type": "county",
       "legistar_url": "https://humboldt.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/humboldt",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -99,7 +99,7 @@
       "entity_type": "county",
       "legistar_url": "https://lassen.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/lassen",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -110,7 +110,7 @@
       "entity_type": "county",
       "legistar_url": "https://lacounty.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/lacounty",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -121,7 +121,7 @@
       "entity_type": "county",
       "legistar_url": "https://mendocino.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/mendocino",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -132,7 +132,7 @@
       "entity_type": "county",
       "legistar_url": "https://monterey.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/monterey",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -143,7 +143,7 @@
       "entity_type": "county",
       "legistar_url": "https://napa.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/napa",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -154,7 +154,7 @@
       "entity_type": "county",
       "legistar_url": "https://sacramento.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/sacramento",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -165,7 +165,7 @@
       "entity_type": "county",
       "legistar_url": "https://sanbernardino.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/sanbernardino",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -176,7 +176,7 @@
       "entity_type": "county",
       "legistar_url": "https://sdcounty.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/sdcounty",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -187,7 +187,7 @@
       "entity_type": "county",
       "legistar_url": "https://santabarbara.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/santabarbara",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -198,7 +198,7 @@
       "entity_type": "county",
       "legistar_url": "https://santaclara.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/santaclara",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -209,7 +209,7 @@
       "entity_type": "county",
       "legistar_url": "https://solano.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/solano",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -220,7 +220,18 @@
       "entity_type": "county",
       "legistar_url": "https://arapahoe.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/arapahoe",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
+      "has_events": true
+    },
+    {
+      "client_id": "denver",
+      "name": "Denver County",
+      "state": "CO",
+      "fips": "08031",
+      "entity_type": "county",
+      "legistar_url": "https://denver.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/denver",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -242,7 +253,7 @@
       "entity_type": "county",
       "legistar_url": "https://brevardfl.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/brevardfl",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -253,7 +264,7 @@
       "entity_type": "county",
       "legistar_url": "https://broward.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/broward",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -264,7 +275,7 @@
       "entity_type": "city",
       "legistar_url": "https://delraybeach.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/delraybeach",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -275,7 +286,7 @@
       "entity_type": "city",
       "legistar_url": "https://fortlauderdale.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/fortlauderdale",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -286,7 +297,7 @@
       "entity_type": "county",
       "legistar_url": "https://hernandocountyfl.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/hernandocountyfl",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -297,7 +308,7 @@
       "entity_type": "county",
       "legistar_url": "https://hillsboroughcounty.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/hillsboroughcounty",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -308,18 +319,7 @@
       "entity_type": "county",
       "legistar_url": "https://ircgov.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/ircgov",
-      "validated": "2026-04-11",
-      "has_events": true
-    },
-    {
-      "client_id": "madison",
-      "name": "Madison County",
-      "state": "FL",
-      "fips": "12079",
-      "entity_type": "county",
-      "legistar_url": "https://madison.legistar.com",
-      "api_url": "https://webapi.legistar.com/v1/madison",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -330,7 +330,7 @@
       "entity_type": "county",
       "legistar_url": "https://martin.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/martin",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -341,7 +341,7 @@
       "entity_type": "county",
       "legistar_url": "https://miamidade.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/miamidade",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -352,7 +352,7 @@
       "entity_type": "city",
       "legistar_url": "https://miramar.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/miramar",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -363,7 +363,7 @@
       "entity_type": "county",
       "legistar_url": "https://occompt.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/occompt",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -374,7 +374,7 @@
       "entity_type": "county",
       "legistar_url": "https://pinellas.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/pinellas",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -385,7 +385,7 @@
       "entity_type": "county",
       "legistar_url": "https://polkcountyfl.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/polkcountyfl",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -396,7 +396,7 @@
       "entity_type": "city",
       "legistar_url": "https://pompano.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/pompano",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -407,7 +407,7 @@
       "entity_type": "county",
       "legistar_url": "https://seminolecountyfl.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/seminolecountyfl",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -418,7 +418,7 @@
       "entity_type": "city",
       "legistar_url": "https://atlantaga.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/atlantaga",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -429,7 +429,7 @@
       "entity_type": "city",
       "legistar_url": "https://columbus.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/columbus",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -440,7 +440,7 @@
       "entity_type": "county",
       "legistar_url": "https://dekalbcountyga.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/dekalbcountyga",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -451,7 +451,18 @@
       "entity_type": "county",
       "legistar_url": "https://fulton.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/fulton",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
+      "has_events": true
+    },
+    {
+      "client_id": "madison",
+      "name": "Madison County",
+      "state": "GA",
+      "fips": "13195",
+      "entity_type": "county",
+      "legistar_url": "https://madison.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/madison",
+      "validated": "2026-06-06",
       "has_events": true
     },
     {
@@ -462,7 +473,7 @@
       "entity_type": "city",
       "legistar_url": "https://marietta.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/marietta",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -473,7 +484,7 @@
       "entity_type": "county",
       "legistar_url": "https://troup.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/troup",
-      "validated": "2026-04-11",
+      "validated": "2026-06-06",
       "has_events": true
     },
     {
@@ -484,7 +495,18 @@
       "entity_type": "city",
       "legistar_url": "https://chicago.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/chicago",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
+      "has_events": true
+    },
+    {
+      "client_id": "clark",
+      "name": "Clark County",
+      "state": "IL",
+      "fips": "17023",
+      "entity_type": "county",
+      "legistar_url": "https://clark.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/clark",
+      "validated": "2026-06-06",
       "has_events": true
     },
     {
@@ -495,7 +517,29 @@
       "entity_type": "county",
       "legistar_url": "https://cook-county.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/cook-county",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
+      "has_events": true
+    },
+    {
+      "client_id": "dupage",
+      "name": "DuPage County",
+      "state": "IL",
+      "fips": "17043",
+      "entity_type": "county",
+      "legistar_url": "https://dupage.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/dupage",
+      "validated": "2026-06-06",
+      "has_events": true
+    },
+    {
+      "client_id": "baltimore",
+      "name": "Baltimore County",
+      "state": "MD",
+      "fips": "24005",
+      "entity_type": "county",
+      "legistar_url": "https://baltimore.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/baltimore",
+      "validated": "2026-06-06",
       "has_events": true
     },
     {
@@ -506,7 +550,18 @@
       "entity_type": "city",
       "legistar_url": "https://detroit.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/detroit",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
+      "has_events": true
+    },
+    {
+      "client_id": "oakland",
+      "name": "Oakland County",
+      "state": "MI",
+      "fips": "26125",
+      "entity_type": "county",
+      "legistar_url": "https://oakland.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/oakland",
+      "validated": "2026-06-06",
       "has_events": true
     },
     {
@@ -517,7 +572,7 @@
       "entity_type": "city",
       "legistar_url": "https://kansascity.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/kansascity",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -528,7 +583,7 @@
       "entity_type": "county",
       "legistar_url": "https://cumberlandcounty.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/cumberlandcounty",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -539,7 +594,7 @@
       "entity_type": "county",
       "legistar_url": "https://guilford.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/guilford",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -550,8 +605,30 @@
       "entity_type": "city",
       "legistar_url": "https://newark.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/newark",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
+    },
+    {
+      "client_id": "erie",
+      "name": "Erie County",
+      "state": "OH",
+      "fips": "39043",
+      "entity_type": "county",
+      "legistar_url": "https://erie.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/erie",
+      "validated": "2026-06-06",
+      "has_events": true
+    },
+    {
+      "client_id": "harrison",
+      "name": "Harrison County",
+      "state": "OH",
+      "fips": "39067",
+      "entity_type": "county",
+      "legistar_url": "https://harrison.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/harrison",
+      "validated": "2026-06-06",
+      "has_events": false
     },
     {
       "client_id": "brazoriacountytx",
@@ -561,7 +638,7 @@
       "entity_type": "county",
       "legistar_url": "https://brazoriacountytx.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/brazoriacountytx",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -572,7 +649,7 @@
       "entity_type": "county",
       "legistar_url": "https://carson.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/carson",
-      "validated": "2026-04-11",
+      "validated": "2026-06-07",
       "has_events": true
     },
     {
@@ -583,7 +660,7 @@
       "entity_type": "city",
       "legistar_url": "https://elpasotexas.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/elpasotexas",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -594,7 +671,7 @@
       "entity_type": "county",
       "legistar_url": "https://galvestoncountytx.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/galvestoncountytx",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -605,19 +682,8 @@
       "entity_type": "county",
       "legistar_url": "https://harriscountytx.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/harriscountytx",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
-    },
-    {
-      "client_id": "harrison",
-      "name": "Harrison County",
-      "state": "TX",
-      "fips": "48203",
-      "entity_type": "county",
-      "legistar_url": "https://harrison.legistar.com",
-      "api_url": "https://webapi.legistar.com/v1/harrison",
-      "validated": "2026-04-12",
-      "has_events": false
     },
     {
       "client_id": "lubbockcounty",
@@ -627,7 +693,7 @@
       "entity_type": "county",
       "legistar_url": "https://lubbockcounty.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/lubbockcounty",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -638,7 +704,7 @@
       "entity_type": "city",
       "legistar_url": "https://roundrock.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/roundrock",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -649,7 +715,7 @@
       "entity_type": "city",
       "legistar_url": "https://sanantonio.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/sanantonio",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -660,7 +726,62 @@
       "entity_type": "county",
       "legistar_url": "https://albemarle.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/albemarle",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
+      "has_events": true
+    },
+    {
+      "client_id": "alexandria",
+      "name": "Alexandria city",
+      "state": "VA",
+      "fips": "51510",
+      "entity_type": "county",
+      "legistar_url": "https://alexandria.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/alexandria",
+      "validated": "2026-06-10",
+      "has_events": true
+    },
+    {
+      "client_id": "hampton",
+      "name": "Hampton city",
+      "state": "VA",
+      "fips": "51650",
+      "entity_type": "county",
+      "legistar_url": "https://hampton.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/hampton",
+      "validated": "2026-06-10",
+      "has_events": true
+    },
+    {
+      "client_id": "lexington",
+      "name": "Lexington city",
+      "state": "VA",
+      "fips": "51678",
+      "entity_type": "county",
+      "legistar_url": "https://lexington.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/lexington",
+      "validated": "2026-06-10",
+      "has_events": false
+    },
+    {
+      "client_id": "mecklenburg",
+      "name": "Mecklenburg County",
+      "state": "VA",
+      "fips": "51117",
+      "entity_type": "county",
+      "legistar_url": "https://mecklenburg.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/mecklenburg",
+      "validated": "2026-06-09",
+      "has_events": true
+    },
+    {
+      "client_id": "petersburg",
+      "name": "Petersburg city",
+      "state": "VA",
+      "fips": "51730",
+      "entity_type": "county",
+      "legistar_url": "https://petersburg.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/petersburg",
+      "validated": "2026-06-10",
       "has_events": true
     },
     {
@@ -671,7 +792,7 @@
       "entity_type": "county",
       "legistar_url": "https://richmondva.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/richmondva",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
       "has_events": true
     },
     {
@@ -682,7 +803,29 @@
       "entity_type": "county",
       "legistar_url": "https://salem.legistar.com",
       "api_url": "https://webapi.legistar.com/v1/salem",
-      "validated": "2026-04-11",
+      "validated": "2026-06-05",
+      "has_events": true
+    },
+    {
+      "client_id": "snohomish",
+      "name": "Snohomish County",
+      "state": "WA",
+      "fips": "53061",
+      "entity_type": "county",
+      "legistar_url": "https://snohomish.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/snohomish",
+      "validated": "2026-06-10",
+      "has_events": true
+    },
+    {
+      "client_id": "whatcom",
+      "name": "Whatcom County",
+      "state": "WA",
+      "fips": "53073",
+      "entity_type": "county",
+      "legistar_url": "https://whatcom.legistar.com",
+      "api_url": "https://webapi.legistar.com/v1/whatcom",
+      "validated": "2026-06-10",
       "has_events": true
     }
   ]

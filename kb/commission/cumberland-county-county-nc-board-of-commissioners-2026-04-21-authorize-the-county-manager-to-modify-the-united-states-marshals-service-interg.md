@@ -6,12 +6,12 @@ county: 'Cumberland County'
 state: 'NC'
 fips: '37051'
 source: 'Legistar (Cumberland County)'
-signal_strength: 'moderate'
-notes: 'Matched: \bICE\b, immigration and customs enforcement'
+signal_strength: 'strong'
+notes: 'Matched: Immigration and Customs Enforcement.{0,30}(?:agreement|contract|detention)'
 tags:
 - commission-activity
 - nc
-- moderate
+- strong
 importance: 5
 ---
 
@@ -21,6 +21,6 @@ Meeting: Board of Commissioners
 Date: 2026-04-21
 Agenda Item: Authorize the County Manager to modify the United States Marshals Service Intergovernmental Agreement (IGA) No. 36-99-0088 to reflect the exclusion of Immigration and Customs Enforcement (ICE) detention at the Cumberland County Jail.
 
-Matched keywords: \bICE\b, immigration and customs enforcement
+Matched keywords: Immigration and Customs Enforcement.{0,30}(?:agreement|contract|detention)
 
 Full text:
