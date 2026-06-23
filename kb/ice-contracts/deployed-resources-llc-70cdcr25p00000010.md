@@ -1,14 +1,24 @@
 ---
 id: deployed-resources-llc-70cdcr25p00000010
-title: DEPLOYED RESOURCES LLC — 70CDCR25P00000010 (TX) $7,466,580
+title: 'DEPLOYED RESOURCES LLC — 70CDCR25P00000010 (TX) $7,466,580'
 type: ice-contract
+state: 'TX'
+contractor: 'DEPLOYED RESOURCES LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$7,466,580.00'
+contract_type: 'federal-contract'
+award_date: '2025-03-30'
+usaspending_id: '70CDCR25P00000010'
+source: 'USAspending.gov (award 70CDCR25P00000010)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS ORDER IS TO PROVIDE UNARMED GUARD SERVICES FOR 30 DAYS TO THE EL PASO ENHANCED HARDENED FACILITY IN SUPPORT OF THE EMERGENCY DECLARATION AT THE SOUTHWEST BORDER.'
 tags:
 - ice-contract
 - other
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

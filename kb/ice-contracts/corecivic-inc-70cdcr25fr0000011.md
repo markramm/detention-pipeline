@@ -1,12 +1,12 @@
 ---
 id: corecivic-inc-70cdcr25fr0000011
-title: 'CORECIVIC, INC. — 70CDCR25FR0000011 (CA) $114,347,554'
+title: 'CORECIVIC, INC. — 70CDCR25FR0000011 (CA) $114,347,543'
 type: ice-contract
 state: 'CA'
 contractor: 'CORECIVIC, INC.'
 contractor_type: 'private-prison'
 contract_class: 'detention-related'
-contract_value: '$114,347,553.96'
+contract_value: '$114,347,542.62'
 contract_type: 'federal-contract'
 award_date: '2024-12-20'
 usaspending_id: '70CDCR25FR0000011'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: CORECIVIC, INC.
 Award ID: 70CDCR25FR0000011
-Amount: $114,347,553.96
+Amount: $114,347,542.62
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: DETENTION SERVICES FOR SAN DIEGO AOR AT OTAY MESA

@@ -29,5 +29,5 @@ Amount: $495,027.36
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS ORDER PROVIDES INVESTIGATIVE SUPPORT EQUIPMENT FOR HOMELAND SECURITY INVESTIGATIONS AGENTS.
-Period: 2025-09-04 to 2026-05-29
+Period: 2025-09-04 to 2026-07-29
 Location: None, CO

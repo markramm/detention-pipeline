@@ -1,14 +1,24 @@
 ---
 id: concept-plus-llc-70ctd021fr0000128
-title: CONCEPT PLUS, LLC — 70CTD021FR0000128 (DC) $499,986
+title: 'CONCEPT PLUS, LLC — 70CTD021FR0000128 (DC) $499,986'
 type: ice-contract
+state: 'DC'
+contractor: 'CONCEPT PLUS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$499,985.59'
+contract_type: 'federal-contract'
+award_date: '2021-07-08'
+usaspending_id: '70CTD021FR0000128'
+source: 'USAspending.gov (award 70CTD021FR0000128)'
+signal_strength: 'weak'
+notes: 'ICE HAS A NEED FOR MEDIA/MEMORY SANITIZATION TECHNICLAL SUPPORT SEVICES FOR  OFFICES WITHIN THE WASHINGTON DC METRO AREA.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

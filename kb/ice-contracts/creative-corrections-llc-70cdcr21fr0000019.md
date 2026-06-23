@@ -29,5 +29,5 @@ Amount: $30,052,058.70
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: DETAINEE DEATH REVIEWS AND INSPECTIONS
-Period: 2021-03-18 to 2026-06-17
+Period: 2021-03-18 to 2026-08-17
 Location: None, MD
