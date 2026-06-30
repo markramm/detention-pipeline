@@ -1,0 +1,33 @@
+---
+id: palantir-technologies-inc-70ctd026fc0000018
+title: 'PALANTIR TECHNOLOGIES INC. — 70CTD026FC0000018 (VA) $45,848,617'
+type: ice-contract
+state: 'VA'
+contractor: 'PALANTIR TECHNOLOGIES INC.'
+contractor_type: 'technology'
+contract_class: 'detention-related'
+contract_value: '$45,848,616.80'
+contract_type: 'federal-contract'
+award_date: '2026-06-26'
+usaspending_id: '70CTD026FC0000018'
+source: 'USAspending.gov (award 70CTD026FC0000018)'
+signal_strength: 'strong'
+notes: 'THIS ORDER PROVIDES HOMELAND SECURITY INVESTIGATIONS SYSTEM MODERNIZATION FOR THE INVESTIGATIVE CASE MANAGEMENT AND INVESTIGATIVE ANALYTICS ON THE CASE MANAGEMENT AND ANALYTICS PLATFORM IN SUPPORT OF THE U.S. IMMIGRATIONS CUSTOMS ENFORCEMENT MISSION.'
+tags:
+- ice-contract
+- technology
+- detention-related
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: PALANTIR TECHNOLOGIES INC.
+Award ID: 70CTD026FC0000018
+Amount: $45,848,616.80
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS ORDER PROVIDES HOMELAND SECURITY INVESTIGATIONS SYSTEM MODERNIZATION FOR THE INVESTIGATIVE CASE MANAGEMENT AND INVESTIGATIVE ANALYTICS ON THE CASE MANAGEMENT AND ANALYTICS PLATFORM IN SUPPORT OF THE U.S. IMMIGRATIONS CUSTOMS ENFORCEMENT MISSION.
+Period: 2026-06-26 to 2027-06-25
+Location: None, VA

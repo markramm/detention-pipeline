@@ -1,12 +1,12 @@
 ---
 id: national-law-enforcement-telecommunication-system-nlets-inc-70ctd025p00000004
-title: 'NATIONAL LAW ENFORCEMENT TELECOMMUNICATION SYSTEM (NLETS), INC — 70CTD025P00000004 (AZ) $98,756'
+title: 'NATIONAL LAW ENFORCEMENT TELECOMMUNICATION SYSTEM (NLETS), INC — 70CTD025P00000004 (AZ) $219,349'
 type: ice-contract
 state: 'AZ'
 contractor: 'NATIONAL LAW ENFORCEMENT TELECOMMUNICATION SYSTEM (NLETS), INC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$98,755.90'
+contract_value: '$219,348.75'
 contract_type: 'federal-contract'
 award_date: '2025-08-01'
 usaspending_id: '70CTD025P00000004'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: NATIONAL LAW ENFORCEMENT TELECOMMUNICATION SYSTEM (NLETS), INC
 Award ID: 70CTD025P00000004
-Amount: $98,755.90
+Amount: $219,348.75
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROVIDES USER ACCESS FEES FOR THE NATIONAL LAW ENFORCEMENT NOTIFICATION SYSTEM (NLETS). THE CONTRACTOR SECURES THE COMMUNICATION NETWORK SERVICE FOR NLETS WHICH IS MISSION CRITICAL TO ICE AND THE LAW ENFORCEMENT SUPPORT CENTER.
-Period: 2025-08-01 to 2026-07-31
+Period: 2025-08-01 to 2027-07-31
 Location: None, AZ

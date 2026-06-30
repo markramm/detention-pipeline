@@ -29,5 +29,5 @@ Amount: $616,000.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THE PURPOSE OF THIS CONTRACT IS TO PROVIDE ICE HEALTH SERVICE CORPS WITH VACCINES PRODUCTS.
-Period: 2025-12-17 to 2026-06-16
+Period: 2025-12-17 to 2026-12-16
 Location: None, CA

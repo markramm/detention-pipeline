@@ -1,12 +1,12 @@
 ---
 id: schatz-publishing-group-llc-70cmsw24fr0000104
-title: 'SCHATZ PUBLISHING GROUP, LLC — 70CMSW24FR0000104 (DC) $787,622'
+title: 'SCHATZ PUBLISHING GROUP, LLC — 70CMSW24FR0000104 (DC) $916,361'
 type: ice-contract
 state: 'DC'
 contractor: 'SCHATZ PUBLISHING GROUP, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$787,622.34'
+contract_value: '$916,361.04'
 contract_type: 'federal-contract'
 award_date: '2024-09-16'
 usaspending_id: '70CMSW24FR0000104'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: SCHATZ PUBLISHING GROUP, LLC
 Award ID: 70CMSW24FR0000104
-Amount: $787,622.34
+Amount: $916,361.04
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: 3 PRINTING SPECIALISTS IN SUPPORT OF THE ICE MAIL AND PRINT UNIT (MPU)
