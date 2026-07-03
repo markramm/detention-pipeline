@@ -6,8 +6,8 @@ county: Bradford
 state: "FL"
 facility: bradford-county-douglas-building
 status: contested
-vote_tally: "3-2 (Jan 15, 2026) to advance proposal"
-outcome: "Ongoing. April 7, 2026 BOCC agenda includes both FDEP environmental monitoring agreement AND lease for 'temporary ICE detainment facility' — lease before studies complete."
+vote_tally: "3-2 (Jan 15, 2026) to advance proposal; lease declined/tabled April 16, 2026"
+outcome: "Paused as of April 16, 2026 — commissioners declined the sheriff's 5-year lease and ordered a new competitive-bid round for the Douglas Building. A competing non-ICE bid (OM Imports, 3-year lease at $50K/year) is already on record. County does not expect the matter back before the board 'at least for the rest of the year.' Sheriff's office calls it a 'bump in the road,' not termination — proposal is dormant, not dead."
 importance: 8
 tags:
 - igsa-model
@@ -19,7 +19,7 @@ tags:
 - county-commission-fight
 research_status: working
 fips: '12007'
-last_news_check: '2026-05-06'
+last_news_check: '2026-07-03'
 ---
 
 # Bradford County: The IGSA Blueprint
@@ -46,10 +46,17 @@ Unlike federal warehouse purchases (where the government buys property and bypas
 - **April 15-16, 2026:** Sheriff Gordon Smith adds to the BOCC agenda just 24 hours before the meeting: a **lease agreement** for the Douglas Building plus "Mandatory Operational Requirements and Compliance Standards" — including a "Duplex Submersible Pump Station" and "heavy-duty grinder pumps" indicating that "anticipated occupancy load requires a robust upgrade to the current waste management system to prevent municipal interference or environmental hazards"
 - **April 16, 2026:** Item **TABLED**. Four of five commissioners say the agenda-stuffing was rushed and they cannot vote on the proposal as presented; commissioners ask for all options for the Douglas Building to be considered, including alternatives that would turn the site into an industrial park instead. Strong community opposition at the meeting. Per WWALS Watershed Coalition (John S. Quarterman): "Bradford County should choose one of its other options for the site. And the county should do nothing with the site until FDEP returns results of its contamination examination."
 - **April 19 – May 5, 2026:** ICE issues federal non-disclosure directive to Florida 287(g) participating agencies (including all 67 Florida sheriffs under FL Statute 908.11) instructing them to withhold 287(g)-program-derived information from public-records requests. Bradford County Sheriff's Office is structurally subject to the directive given Florida's mandatory 287(g) regime. See [comms-discipline entry](/comms/fl-statewide-ice-287g-non-disclosure-directive-april-may-2026/).
+- **May 2, 2026:** Community-led "Community Conversation on ICE Detention Center" held at Bradford County Library in Starke (1:30-4:30pm) — opposition groups hold public information event with issue-area stations, independent of any commission action.
+- **June 18-25, 2026:** DHS/ICE transfers all detainees out of Florida's "Alligator Alcatraz" facility in the Everglades (officially closed by Gov. DeSantis June 25, after 11 months, ~20,000+ detainees processed). Some detainees relocated to Baker Correctional Institution ("Deportation Depot," Sanderson, FL, ~30 miles from Starke); others sent out of state (South Florida, California, Arizona, Louisiana, Texas). DeSantis frames the closure as a planned handoff now that "federal officials have the capacity" — i.e. permanent facilities like the still-pending Bradford proposal are the intended successor capacity, not a sign of reduced federal detention demand.
+- **Late June 2026:** Local reporting (The Independent Florida Alligator) frames renewed resident anxiety around the Alligator Alcatraz closure — asking whether a Bradford facility would replicate the conditions criticized at Alligator Alcatraz. Sheriff Gordon Smith responds that "much of the public concern...stems from misunderstandings." No new commission vote has occurred; the Douglas Building lease proposal remains tabled/unrevived as of this writing (July 2026).
 
 ## The April 16 Tabling — Reading the Vote
 
 Reading what happened on April 16: Sheriff Smith and his Sabot-aligned advisors stuffed the agenda 24 hours before the meeting, attempting to convert what had been a "report" into a binding lease vote. Four of five commissioners — including some of the original "yes" votes from the Jan 15 advance — said no, that's not how this works. **The 3-2 January advance vote did not survive contact with an attempted forced vote.** This is significant for the IGSA model: even where the consultant's pitch initially passes a commission, the operational mechanics of getting to a signed lease require the commission to vote *again* on specific terms — and at that second vote, the consensus that produced the initial advance can collapse.
+
+Commissioner Kenny Thompson's floor comment captures the mechanism precisely: "We are getting rushed into something that I can't vote on." The competing bid mattered procedurally too — OM Imports (a local industrial tenant) had already offered a 3-year, $50,000/year lease for the same warehouse, and commissioners could not evaluate the sheriff's ICE lease and the OM Imports lease simultaneously if they approved the sheriff's terms outright. Ordering a new competitive-bid process effectively forces the ICE proposal to compete against a mundane industrial-tenant offer in the open, rather than being fast-tracked as a sole-source deal.
+
+**Durability of the pause:** Commissioners indicated they don't expect the matter back before the board "at least for the rest of the year" (i.e., not before ~January 2027) — but the sheriff's office has characterized the April 16 outcome as a "bump in the road" rather than a termination, and Sheriff Smith has said the decision likely just delays rather than ends the project. Treat this as **dormant, not resolved** — the Alligator Alcatraz closure (June 25, 2026) removes DeSantis's stated rationale that state capacity was needed as an interim measure, and increases federal pressure for permanent IGSA-model replacement capacity of exactly the kind Bradford was offering.
 
 ## Florida's Mandatory 287(g) Regime
 
@@ -92,4 +99,10 @@ The Douglas Building site has VOC-contaminated groundwater monitored by FDEP for
 - [News4Jax: Bradford County commissioners postpone decision (April 16, 2026)](https://www.news4jax.com/news/local/2026/04/16/bradford-county-commissioners-to-decide-if-warehouse-will-convert-to-ice-detention-center/)
 - [First Coast News: Plan put on pause after commissioners' vote (April 16, 2026)](https://www.firstcoastnews.com/article/news/local/bradford-county-commissioners-pause-ice-detention-center-proposal/77-146848aa-ae33-4e0e-a4de-8ec208a14e30)
 - [First Coast News: Bradford County commissioners approve ICE detention facility proposal in 3-2 vote (Jan 15, 2026)](https://www.firstcoastnews.com/article/news/community/bradford-county-commissioners-approve-ice-detention-facility-proposal/77-2b1a089f-487c-4833-8854-d872ec92e244)
+- [Action News Jax: Plans for an ICE detention facility in Bradford County are on pause for the foreseeable future (April 17, 2026)](https://www.actionnewsjax.com/news/local/planned-immigrant-detention-facility-bradford-county-put-ice-foreseeable-future/OYAZWTYGOZCFBARKDBOJO2UYSQ/)
+- [WCJB: Bradford County commissioners choose not to advance sheriff's immigration detention center proposal (April 17, 2026)](https://www.wcjb.com/2026/04/17/bradford-county-commissioners-reject-sheriffs-immigration-detention-center-proposal/)
+- [Gainesville Iguana: Activists pack meeting to end Bradford Detention Center plan (April 2026)](https://gainesvilleiguana.org/2026/articles/activists-pack-meeting-to-end-bradford-detention-center-plan/)
+- [The Independent Florida Alligator: Amid Alligator Alcatraz closure, residents ask if an ICE center agrees 'everything is better in Bradford' (June 29, 2026)](https://www.alligator.org/article/2026/06/starke-detention-center)
+- [WUSF: Florida's 'Alligator Alcatraz' immigration detention center has closed, governor says (June 25, 2026)](https://www.wusf.org/politics-issues/2026-06-25/florida-alligator-alcatraz-immigration-detention-center-has-closed-governor-says)
+- [NPR: All detainees from immigration facility 'Alligator Alcatraz' have been transferred (June 18, 2026)](https://www.npr.org/2026/06/18/nx-s1-5862592/detainees-alligator-alcatraz-transferred)
 - See [FL statewide ICE 287(g) non-disclosure directive entry (May 2026)](/comms/fl-statewide-ice-287g-non-disclosure-directive-april-may-2026/)

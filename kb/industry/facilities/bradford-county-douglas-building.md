@@ -11,7 +11,7 @@ operator: "Bradford County Sheriff's Office (Sheriff Gordon Smith) / prime contr
 contract_type: proposed
 per_bed_day_rate: "$221-$269 depending on phase"
 annual_value: "$97M (Phase 1) → $170M (Phase 2) → $239M (Phase 3)"
-status: contested
+status: paused-dhs-review
 importance: 8
 tags:
 - igsa
@@ -23,6 +23,7 @@ tags:
 - community-opposition
 research_status: working
 fips: '12007'
+last_researched: "2026-07-03"
 ---
 
 # Bradford County ICE Detention Campus (Douglas Building)
@@ -63,6 +64,10 @@ The Douglas Building site has groundwater contaminated with volatile organic com
 - **February 28, 2026**: WUFT reports contamination levels
 - **March 3, 2026**: Sheriff's report to commission defending proposal
 - **April 7, 2026**: BOCC agenda: FDEP site access agreement AND sheriff's lease for "temporary ICE detainment facility"
+- **April 16, 2026**: Commissioners decline to approve the sheriff's 5-year lease; item tabled. A competing bid — OM Imports, offering a 3-year lease at $50,000/year for ordinary industrial/warehouse use — is on record and cannot be evaluated alongside a sole-source ICE lease. County orders a new competitive-bid round for the Douglas Building.
+- **May 2, 2026**: Community-led public information event ("Community Conversation on ICE Detention Center") at Bradford County Library, Starke.
+- **June 18-25, 2026**: Florida's "Alligator Alcatraz" Everglades detention facility fully evacuated and closed by Gov. DeSantis after 11 months; some detainees relocated to Baker CI ("Deportation Depot") ~30 miles from Starke, others sent out of state. DeSantis frames the closure as a handoff to permanent federal detention capacity — leaving open whether Bradford's IGSA proposal is meant as part of that successor capacity.
+- **As of July 2026**: Proposal remains paused/tabled, not withdrawn. County does not expect the item back before the board "at least for the rest of the year" per commissioners; Sheriff's office calls the pause a "bump in the road."
 
 ## Key Actors
 
@@ -77,3 +82,7 @@ The Douglas Building site has groundwater contaminated with volatile organic com
 - [WUFT: Contamination levels at proposed facility (Feb 28, 2026)](https://www.wuft.org/politics/2026-02-28/proposed-bradford-county-ice-detention-facility-shows-levels-of-contamination)
 - [News4Jax: Bradford County warehouse conversion (Jan 16, 2026)](https://www.news4jax.com/news/local/2026/01/16/bradford-county-plans-warehouse-conversion-to-ice-detention-center-despite-community-concerns/)
 - [WWALS: Site contamination before lease discussion (Apr 6, 2026)](https://wwals.net/2026/04/06/site-contamination-investigation-before-discussion-of-lease-as-ice-detention-facility-bradford-county-bocc-2026-04-06/)
+- [Action News Jax: Plans for an ICE detention facility in Bradford County are on pause for the foreseeable future (April 17, 2026)](https://www.actionnewsjax.com/news/local/planned-immigrant-detention-facility-bradford-county-put-ice-foreseeable-future/OYAZWTYGOZCFBARKDBOJO2UYSQ/)
+- [Gainesville Iguana: Activists pack meeting to end Bradford Detention Center plan (April 2026)](https://gainesvilleiguana.org/2026/articles/activists-pack-meeting-to-end-bradford-detention-center-plan/)
+- [The Independent Florida Alligator: Amid Alligator Alcatraz closure, residents ask if an ICE center agrees 'everything is better in Bradford' (June 29, 2026)](https://www.alligator.org/article/2026/06/starke-detention-center)
+- [WUSF: Florida's 'Alligator Alcatraz' immigration detention center has closed, governor says (June 25, 2026)](https://www.wusf.org/politics-issues/2026-06-25/florida-alligator-alcatraz-immigration-detention-center-has-closed-governor-says)

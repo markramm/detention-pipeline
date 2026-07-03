@@ -140,6 +140,10 @@
       "last_researched": "2026-06-02",
       "notes": "San Diego/Otay Mesa: no new development since 5/27 sweep; access lawsuit (county v. ICE/DHS over blocked health inspection) remains active from Mar2026; ADP ~1,500, ~82% no criminal conviction. CoreCivic."
     },
+    "06083": {
+      "last_researched": "2026-07-03",
+      "notes": "Board of Supervisors voted 4-1 (Apr 21 2026) to bar unauthorized ICE use of county property and explore zoning tools against detention siting. News-Press investigation found Sheriff's Office reported only 12 SB 54 transfers in 2025 vs. at least 99 actual ICE jail arrests (~8x undercount via unreported jail-lobby arrests). Heat score's CoreCivic $114.3M signal looks like a Kern County (California City) geocoding artifact, not Santa Barbara-specific."
+    },
     "06085": {
       "last_researched": "2026-06-02",
       "notes": "Santa Clara/Gilroy Holsclaw Rd: construction continues; ICE escalated denial (no plans in Gilroy) 6/1; no lawsuit filed yet, County Counsel LoPresti promises steps soon. status->contested."
@@ -180,9 +184,21 @@
       "last_researched": "2026-05-28",
       "notes": "DC buildout: overview note, DC Jail no-ICE facility, federalization/MPD-ICE county-fight"
     },
+    "12007": {
+      "last_researched": "2026-07-03",
+      "notes": "Douglas Building 3,000-bed IGSA remains paused, not dead \u2014 commissioners declined sheriff's lease Apr 16 2026, ordered new competitive bid (competing non-ICE bid from OM Imports on record); item unlikely back before board until 2027. Alligator Alcatraz's June 25 2026 closure and nearby detainee transfers to Baker CI (30mi away) are raising local fears Bradford is the intended successor site."
+    },
+    "12009": {
+      "last_researched": "2026-07-03",
+      "notes": "No prior KB coverage despite heat score 94. New entry: Sheriff Ivey's 287(g) buildout (\"Operation Shield\"), Sept 2025 sweep \"Operation One Way Ticket\" (354 identified, 150 removed), Feb 2026 student walkouts at three high schools, and a state reimbursement gap ($577K promised vs. only $21.5K disbursed per FL's own transparency portal)."
+    },
     "12011": {
       "last_researched": "2026-06-02",
       "notes": "Broward: no new developments since 5/27; BTC (GEO, Pompano) receiving some Alligator Alcatraz transfers but no fresh fight news."
+    },
+    "12031": {
+      "last_researched": "2026-07-03",
+      "notes": "No prior KB coverage despite heat score 88. New entries: Jacksonville's Ordinance 2025-0147-E (Mar 2025, 12-5) \u2014 possibly first US city ordinance locally criminalizing unauthorized-presence \u2014 layered on JSO's 2008 287(g) JEM; a live 2026 jail-siting fight where Council rejected (5-12) excluding historically redlined neighborhoods; and organized resistance (JIRA protests, Yaya Cardona reinstatement win)."
     },
     "12057": {
       "last_researched": "2026-04-10",
@@ -1215,6 +1231,30 @@
     "48201": {
       "last_researched": "2026-06-02",
       "notes": "Harris: Abbie Kamin named interim county attorney eff June 15, now owns SB8 287g decision + ICE-coordination guidelines. City/county still stalled post state funding pressure."
+    },
+    "48215": {
+      "last_researched": "2026-07-03",
+      "notes": "Corrected McAllen ICE warehouse entry: property was never purchased by DHS, remains privately owned by Centennial Park LLC and still for sale (contradicts prior claim of completed ~$66M acquisition). New: undocumented DHS-owned Edinburg ICE sub-office (since 2021, unmarked) surfaced by June 5 2026 protest. TX SB8 mandatory 287(g) applies (deadline Dec 1 2026)."
+    },
+    "48227": {
+      "last_researched": "2026-07-03",
+      "notes": "Big Spring Correctional Center (GEO, ~2,961 beds, former BOP/Webb AFB site) sits idle with no active client \u2014 named among GEO's ~6,000-bed/$300M idle inventory disclosed as ICE-reactivation-ready on Q1 2026 earnings call; city already has a 2022 MOU with GEO to reopen for ICE. Separately, federally-run FCI Big Spring (BOP, distinct facility) is closing permanently July 1 2026, cutting ~617 inmates and 200+ jobs."
+    },
+    "48253": {
+      "last_researched": "2026-07-03",
+      "notes": "Bluebonnet Detention Center (Anson, MTC, 1,000 beds, IGSA since summer 2024, ~993 avg daily pop) was a named site in an April 2025 SCOTUS emergency order blocking Alien Enemies Act removals of Venezuelan detainees (Thomas/Alito dissenting), after ACLU documented coerced English-only paperwork and unsubstantiated gang labeling. Separate congressional oversight push (Jul-Sep 2025) raised legal-access and conditions complaints."
+    },
+    "48255": {
+      "last_researched": "2026-07-03",
+      "notes": "Karnes County IPC (GEO, 1,328 beds) converted from adult-male to family detention Mar 2025 under a modified ~$79M/yr IGSA, reviving family detention at this site for the first time since 2019. A Vietnamese national died in custody July 2025; facility is named in active Flores Settlement litigation (filed June 2025) over inadequate child water/medical care."
+    },
+    "48303": {
+      "last_researched": "2026-07-03",
+      "notes": "Lubbock County Detention Center \u2014 recorded closed to migrant detention since 2019 \u2014 shows signs of reactivation: March 17 2026 ICE Office of Detention Oversight inspection. County's 2020 JEM 287(g) predates TX SB8's new statewide mandate. Documented traffic-stop-to-ICE-custody case and a measles case tied to West Texas Detention Facility outbreak."
+    },
+    "48339": {
+      "last_researched": "2026-07-03",
+      "notes": "Montgomery Processing Center (GEO, 1,314 beds) is one of eight facilities named in ICE/GEO's Detention Reengineering Initiative acquisition push; two in-custody deaths (Dec 2025-Jan 2026) across it and the county's other GEO facility, Joe Corley Processing Center. County's 287(g) JEM now locked in statewide by TX SB8 (effective Jan 1 2026)."
     },
     "48479": {
       "last_researched": "2026-05-27",
