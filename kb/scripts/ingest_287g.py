@@ -18,6 +18,7 @@ Usage:
 
 import argparse
 import csv
+import difflib
 import json
 import re
 import sys
@@ -29,6 +30,27 @@ SOURCE_URL = "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaborat
 
 # FIPS lookup
 FIPS_MAP = {}
+
+# state -> list of normalized county names (no "county"/"parish" suffix),
+# used for typo-tolerant fuzzy matching against misspelled source data.
+STATE_COUNTY_NAMES = {}
+
+# City/place name -> county FIPS, for agencies whose PPI source row has no
+# county filled in (mostly municipal police departments). Keyed by (state, place).
+PLACE_FIPS_MAP = {}
+
+# Suffixes stripped from an agency name to recover a place name for the
+# place-name fallback lookup. Order matters: longest/most-specific first.
+AGENCY_PLACE_SUFFIXES = [
+    " police services department",
+    " department of public safety",
+    " public safety",
+    " police services",
+    " police department",
+    " sheriff's office",
+    " sheriff’s office",
+    " airport police department",
+]
 
 # State abbreviation variations used by Prison Policy (e.g. "Ala." -> "AL")
 STATE_ABBR_NORMALIZE = {
@@ -90,39 +112,127 @@ def load_fips_map():
             ).strip().lower()
             FIPS_MAP[(state, normalized)] = fips
             FIPS_MAP[(state, county.lower())] = fips
+            STATE_COUNTY_NAMES.setdefault(state, []).append(normalized)
 
 
-def resolve_fips_from_county(state_abbr, county_name):
-    """Resolve FIPS from state abbreviation + county name."""
-    if not FIPS_MAP or not state_abbr or not county_name:
+def load_place_fips_map():
+    """Load city/place -> county FIPS lookup from the Census place-by-county
+    crosswalk (bundled in-repo). Used as a fallback when a 287(g) source row
+    has no county filled in but the agency name implies a specific city."""
+    global PLACE_FIPS_MAP
+    crosswalk_path = Path(__file__).parent.parent / "data" / "census_place_by_county_2020.txt"
+    if not crosswalk_path.exists():
+        return
+
+    with open(crosswalk_path) as f:
+        reader = csv.DictReader(f, delimiter="|")
+        for r in reader:
+            state = r["STATE"]
+            fips = r["STATEFP"] + r["COUNTYFP"]
+            place = r["PLACENAME"]
+            # PLACENAME looks like "Miami Springs city" / "Davie town" / "Hialeah city"
+            normalized = re.sub(
+                r"\s+(city|town|village|borough|CDP|municipality)$",
+                "", place, flags=re.IGNORECASE
+            ).strip().lower()
+            # Don't overwrite an existing entry — if a place name repeats across
+            # counties in the same state, keep the first (most common) match rather
+            # than silently picking whichever happens to sort last in the file.
+            PLACE_FIPS_MAP.setdefault((state, normalized), fips)
+
+
+def place_name_from_agency(agency):
+    """Recover a likely city/place name from a police-department-style agency
+    name, e.g. 'Miami Springs Police Department' -> 'miami springs'."""
+    name = agency.replace("\xa0", " ").strip().lower()
+    for suffix in AGENCY_PLACE_SUFFIXES:
+        if name.endswith(suffix):
+            return name[: -len(suffix)].strip()
+    return ""
+
+
+def fuzzy_match_county(state_abbr, county_clean):
+    """Typo-tolerant fallback: match a misspelled county name (e.g. 'Pop
+    County', 'Berrian County', 'Alleghany County') against the real county
+    names for that state. Conservative on purpose — high similarity cutoff,
+    single best match only — so it fixes obvious typos without guessing."""
+    candidates = STATE_COUNTY_NAMES.get(state_abbr)
+    if not candidates:
+        return ""
+    matches = difflib.get_close_matches(county_clean, candidates, n=1, cutoff=0.82)
+    if matches:
+        return FIPS_MAP.get((state_abbr, matches[0]), "")
+    return ""
+
+
+def resolve_fips_from_county(state_abbr, county_name, agency=""):
+    """Resolve FIPS from state abbreviation + county name, falling back to a
+    city/place-name lookup (derived from the agency name) when the source
+    row has no county filled in — common for municipal police departments
+    in Prison Policy Initiative's table — and finally a typo-tolerant fuzzy
+    match for misspelled county names (also common in that source table)."""
+    if not state_abbr:
         return ""
 
-    # Clean up non-breaking spaces and extra whitespace
-    county_clean = county_name.replace("\xa0", " ").strip().lower()
+    if county_name:
+        # Clean up non-breaking spaces and extra whitespace
+        county_clean = county_name.replace("\xa0", " ").strip().lower()
 
-    # Direct lookup
-    fips = FIPS_MAP.get((state_abbr, county_clean))
-    if fips:
-        return fips
-
-    # Strip "County" / "Parish" suffix and retry
-    for suffix in [" county", " parish", " borough"]:
-        if county_clean.endswith(suffix):
-            fips = FIPS_MAP.get((state_abbr, county_clean[:-len(suffix)]))
-            if fips:
-                return fips
-
-    # Try adding "county" suffix
-    fips = FIPS_MAP.get((state_abbr, county_clean + " county"))
-    if fips:
-        return fips
-
-    # Louisiana parishes
-    if state_abbr == "LA":
-        fips = FIPS_MAP.get((state_abbr, county_clean + " parish"))
+        # Direct lookup
+        fips = FIPS_MAP.get((state_abbr, county_clean))
         if fips:
             return fips
 
+        # Strip "County" / "Parish" suffix and retry
+        for suffix in [" county", " parish", " borough"]:
+            if county_clean.endswith(suffix):
+                fips = FIPS_MAP.get((state_abbr, county_clean[:-len(suffix)]))
+                if fips:
+                    return fips
+
+        # Try adding "county" suffix
+        fips = FIPS_MAP.get((state_abbr, county_clean + " county"))
+        if fips:
+            return fips
+
+        # Typo-tolerant fuzzy match against this state's real county names
+        # (e.g. "Pop County" -> "Pope", "Berrian" -> "Berrien"). Also strips
+        # near-miss spellings of "county" itself (e.g. "Conty", "Cnty").
+        stripped = re.sub(r"\s+(county|conty|cnty|parish|borough)$", "", county_clean).strip()
+        fips = fuzzy_match_county(state_abbr, stripped)
+        if fips:
+            return fips
+
+        # Louisiana parishes
+        if state_abbr == "LA":
+            fips = FIPS_MAP.get((state_abbr, county_clean + " parish"))
+            if fips:
+                return fips
+
+    # Fall back to a city/place-name match derived from the agency name.
+    # Only applies to municipal-style agencies (police/public-safety depts) —
+    # statewide agencies (DOC, State Police, National Guard, AG's office, etc.)
+    # have no matching place name and correctly fall through to unresolved,
+    # where they're propagated to the whole state at reduced weight instead
+    # of being incorrectly pinned to one county.
+    if agency and PLACE_FIPS_MAP:
+        place = place_name_from_agency(agency)
+        if place:
+            fips = PLACE_FIPS_MAP.get((state_abbr, place))
+            if fips:
+                return fips
+
+    return ""
+
+
+def county_name_from_fips(fips):
+    """Reverse lookup: FIPS -> canonical county name, for backfilling the
+    `county` field when it was resolved via the place-name fallback."""
+    if not fips or not FIPS_MAP:
+        return ""
+    for (_state, name), f in FIPS_MAP.items():
+        if f == fips and not name.endswith((" county", " parish", " borough")):
+            return name.title()
     return ""
 
 
@@ -285,7 +395,15 @@ def create_entry(raw, dry_run=False):
     model = raw["model"]
     signed_date = raw.get("signed_date", "")
 
-    fips = resolve_fips_from_county(state, county)
+    fips = resolve_fips_from_county(state, county, agency=agency)
+
+    # If the source row had no county but the place-name fallback resolved
+    # one, backfill county for the entry so frontmatter reflects it — not
+    # just an opaque FIPS code.
+    if fips and not county:
+        resolved_name = county_name_from_fips(fips)
+        if resolved_name:
+            county = resolved_name
 
     # Signal strength:
     # - County sheriff with JEM = strong (jail-level immigration screening)
@@ -349,6 +467,7 @@ def main():
             cache.unlink()
 
     load_fips_map()
+    load_place_fips_map()
 
     raw_entries = fetch_prison_policy_data()
 
