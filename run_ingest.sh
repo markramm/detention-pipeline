@@ -71,19 +71,24 @@ if should_run "legistar"; then
 fi
 
 # ── 2. 287(g) agreements ──
+# Note: ingest_287g.py scrapes Prison Policy Initiative HTML directly (no
+# date-windowed API), so it has no --days flag — don't pass $DAYS here.
 if should_run "287g" && [ "$SKIP_287G" = false ]; then
   echo "── 287(g) agreements ──"
-  python3 "$SCRIPTS_DIR/ingest_287g.py" --days "$DAYS" $DRY_RUN \
-    --output /tmp/287g_agreements.json || echo "  WARNING: 287(g) ingest failed"
-
-  if [ -z "$DRY_RUN" ] && [ -f /tmp/287g_agreements.json ]; then
-    COUNT=$(python3 -c "import json; print(len(json.load(open('/tmp/287g_agreements.json'))))" 2>/dev/null || echo 0)
-    if [ "$COUNT" -gt 0 ]; then
-      echo "  Importing $COUNT 287(g) agreements..."
-      kb import /tmp/287g_agreements.json -k "$KB_NAME" || echo "  WARNING: Import failed"
-    else
-      echo "  No new 287(g) agreements found"
+  python3 "$SCRIPTS_DIR/ingest_287g.py" $DRY_RUN --output /tmp/287g_agreements.json
+  INGEST_287G_STATUS=$?
+  if [ "$INGEST_287G_STATUS" -eq 0 ]; then
+    if [ -z "$DRY_RUN" ] && [ -f /tmp/287g_agreements.json ]; then
+      COUNT=$(python3 -c "import json; print(len(json.load(open('/tmp/287g_agreements.json'))))" 2>/dev/null || echo 0)
+      if [ "$COUNT" -gt 0 ]; then
+        echo "  Importing $COUNT 287(g) agreements..."
+        kb import /tmp/287g_agreements.json -k "$KB_NAME" || echo "  WARNING: Import failed"
+      else
+        echo "  No new 287(g) agreements found"
+      fi
     fi
+  else
+    echo "  ERROR: 287(g) ingest FAILED (exit $INGEST_287G_STATUS) — not the same as 'no new data', see output above" >&2
   fi
   echo ""
 else
