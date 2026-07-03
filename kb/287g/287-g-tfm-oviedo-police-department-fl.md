@@ -2,13 +2,16 @@
 id: 287-g-tfm-oviedo-police-department-fl
 title: '287(g) TFM: Oviedo Police Department (FL)'
 type: 287g-agreement
-state: 'FL'
-agency: 'Oviedo Police Department'
-model: 'TFM'
-signed_date: 'March 26, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed March 26, 2025'
+county: Seminole
+state: FL
+fips: '12117'
+agency: Oviedo Police Department
+model: TFM
+signed_date: March 26, 2025
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed March 26, 2025
 tags:
 - 287g
 - tfm

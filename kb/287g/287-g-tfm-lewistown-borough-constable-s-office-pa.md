@@ -2,14 +2,16 @@
 id: 287-g-tfm-lewistown-borough-constable-s-office-pa
 title: '287(g) TFM: Lewistown Borough Constable’s Office (PA)'
 type: 287g-agreement
-county: 'Miffin County'
-state: 'PA'
-agency: 'Lewistown Borough Constable’s Office'
-model: 'TFM'
-signed_date: 'January 26, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed January 26, 2026'
+county: Mifflin
+state: PA
+fips: '42087'
+agency: Lewistown Borough Constable’s Office
+model: TFM
+signed_date: January 26, 2026
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed January 26, 2026
 tags:
 - 287g
 - tfm

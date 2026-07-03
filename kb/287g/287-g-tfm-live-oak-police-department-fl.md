@@ -2,13 +2,16 @@
 id: 287-g-tfm-live-oak-police-department-fl
 title: '287(g) TFM: Live Oak Police Department (FL)'
 type: 287g-agreement
-state: 'FL'
-agency: 'Live Oak Police Department'
-model: 'TFM'
-signed_date: 'April 14, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed April 14, 2025'
+county: Suwannee
+state: FL
+fips: '12121'
+agency: Live Oak Police Department
+model: TFM
+signed_date: April 14, 2025
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed April 14, 2025
 tags:
 - 287g
 - tfm

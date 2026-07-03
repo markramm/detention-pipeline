@@ -2,13 +2,16 @@
 id: 287-g-tfm-sarasota-police-department-fl
 title: '287(g) TFM: Sarasota Police Department (FL)'
 type: 287g-agreement
-state: 'FL'
-agency: 'Sarasota Police Department'
-model: 'TFM'
-signed_date: 'May 16, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed May 16, 2025'
+county: Sarasota
+state: FL
+fips: '12115'
+agency: Sarasota Police Department
+model: TFM
+signed_date: May 16, 2025
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed May 16, 2025
 tags:
 - 287g
 - tfm

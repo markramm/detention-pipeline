@@ -2,13 +2,16 @@
 id: 287-g-tfm-casselberry-police-department-fl
 title: '287(g) TFM: Casselberry Police Department (FL)'
 type: 287g-agreement
-state: 'FL'
-agency: 'Casselberry Police Department'
-model: 'TFM'
-signed_date: 'July 2, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed July 2, 2025'
+county: Seminole
+state: FL
+fips: '12117'
+agency: Casselberry Police Department
+model: TFM
+signed_date: July 2, 2025
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed July 2, 2025
 tags:
 - 287g
 - tfm

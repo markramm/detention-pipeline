@@ -2,14 +2,16 @@
 id: 287-g-tfm-texarkana-police-department-ar
 title: '287(g) TFM: Texarkana Police Department (AR)'
 type: 287g-agreement
-county: 'Bowie County'
-state: 'AR'
-agency: 'Texarkana Police Department'
-model: 'TFM'
-signed_date: 'July 11, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed July 11, 2025'
+county: Miller
+state: AR
+fips: 05091
+agency: Texarkana Police Department
+model: TFM
+signed_date: July 11, 2025
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed July 11, 2025
 tags:
 - 287g
 - tfm

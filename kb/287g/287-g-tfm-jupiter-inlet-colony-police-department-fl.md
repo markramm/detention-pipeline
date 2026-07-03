@@ -2,13 +2,16 @@
 id: 287-g-tfm-jupiter-inlet-colony-police-department-fl
 title: '287(g) TFM: Jupiter Inlet Colony Police Department (FL)'
 type: 287g-agreement
-state: 'FL'
-agency: 'Jupiter Inlet Colony Police Department'
-model: 'TFM'
-signed_date: 'March 10, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed March 10, 2025'
+county: Palm Beach
+state: FL
+fips: '12099'
+agency: Jupiter Inlet Colony Police Department
+model: TFM
+signed_date: March 10, 2025
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed March 10, 2025
 tags:
 - 287g
 - tfm

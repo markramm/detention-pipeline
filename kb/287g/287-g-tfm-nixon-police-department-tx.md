@@ -2,13 +2,16 @@
 id: 287-g-tfm-nixon-police-department-tx
 title: '287(g) TFM: Nixon Police Department (TX)'
 type: 287g-agreement
-state: 'TX'
-agency: 'Nixon Police Department'
-model: 'TFM'
-signed_date: 'February 28, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed February 28, 2025'
+county: Gonzales
+state: TX
+fips: '48177'
+agency: Nixon Police Department
+model: TFM
+signed_date: February 28, 2025
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed February 28, 2025
 tags:
 - 287g
 - tfm

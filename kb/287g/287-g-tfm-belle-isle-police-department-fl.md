@@ -2,13 +2,16 @@
 id: 287-g-tfm-belle-isle-police-department-fl
 title: '287(g) TFM: Belle Isle Police Department (FL)'
 type: 287g-agreement
-state: 'FL'
-agency: 'Belle Isle Police Department'
-model: 'TFM'
-signed_date: 'April 24, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed April 24, 2025'
+county: Orange
+state: FL
+fips: '12095'
+agency: Belle Isle Police Department
+model: TFM
+signed_date: April 24, 2025
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed April 24, 2025
 tags:
 - 287g
 - tfm

@@ -2,13 +2,16 @@
 id: 287-g-tfm-gulfport-police-department-fl
 title: '287(g) TFM: Gulfport Police Department (FL)'
 type: 287g-agreement
-state: 'FL'
-agency: 'Gulfport Police Department'
-model: 'TFM'
-signed_date: 'February 28, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
-signal_strength: 'moderate'
-notes: 'TFM model agreement signed February 28, 2025'
+county: Pinellas
+state: FL
+fips: '12103'
+agency: Gulfport Police Department
+model: TFM
+signed_date: February 28, 2025
+source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
+  2026-02-17
+signal_strength: moderate
+notes: TFM model agreement signed February 28, 2025
 tags:
 - 287g
 - tfm

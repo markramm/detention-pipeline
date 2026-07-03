@@ -31,6 +31,11 @@ SOURCE_URL = "https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaborat
 # FIPS lookup
 FIPS_MAP = {}
 
+# fips -> original-cased county name (e.g. "St. Mary's", not "Autauga"
+# lowercased then re-titled), for backfilling `county` with correct
+# capitalization instead of a naive/broken .title() call.
+FIPS_TO_COUNTY_NAME = {}
+
 # state -> list of normalized county names (no "county"/"parish" suffix),
 # used for typo-tolerant fuzzy matching against misspelled source data.
 STATE_COUNTY_NAMES = {}
@@ -113,6 +118,13 @@ def load_fips_map():
             FIPS_MAP[(state, normalized)] = fips
             FIPS_MAP[(state, county.lower())] = fips
             STATE_COUNTY_NAMES.setdefault(state, []).append(normalized)
+            # Preserve Census's original casing (e.g. "St. Mary's County") for
+            # backfilling `county` correctly — normalized/lowercased names
+            # would need a naive .title() call that breaks on apostrophes.
+            FIPS_TO_COUNTY_NAME[fips] = re.sub(
+                r"\s+(County|Parish|Borough|Census Area|Municipality|city|City and Borough)$",
+                "", county
+            ).strip()
 
 
 def load_place_fips_map():
@@ -226,14 +238,10 @@ def resolve_fips_from_county(state_abbr, county_name, agency=""):
 
 
 def county_name_from_fips(fips):
-    """Reverse lookup: FIPS -> canonical county name, for backfilling the
-    `county` field when it was resolved via the place-name fallback."""
-    if not fips or not FIPS_MAP:
-        return ""
-    for (_state, name), f in FIPS_MAP.items():
-        if f == fips and not name.endswith((" county", " parish", " borough")):
-            return name.title()
-    return ""
+    """Reverse lookup: FIPS -> canonical, correctly-cased county name (e.g.
+    "St. Mary's", not the broken "St. Mary'S" a naive .title() call would
+    produce), for backfilling the `county` field."""
+    return FIPS_TO_COUNTY_NAME.get(fips, "")
 
 
 class TableExtractor(HTMLParser):
@@ -397,12 +405,13 @@ def create_entry(raw, dry_run=False):
 
     fips = resolve_fips_from_county(state, county, agency=agency)
 
-    # If the source row had no county but the place-name fallback resolved
-    # one, backfill county for the entry so frontmatter reflects it — not
-    # just an opaque FIPS code.
-    if fips and not county:
+    # If the source row had no county (place-name fallback) or a misspelled
+    # one (fuzzy-match fallback) but fips resolved anyway, backfill county
+    # with the canonical name — don't leave a source typo like "Pop County"
+    # or an opaque FIPS-only result sitting in the entry.
+    if fips:
         resolved_name = county_name_from_fips(fips)
-        if resolved_name:
+        if resolved_name and resolved_name.lower() not in county.lower():
             county = resolved_name
 
     # Signal strength:
