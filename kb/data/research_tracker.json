@@ -184,6 +184,10 @@
       "last_researched": "2026-05-28",
       "notes": "DC buildout: overview note, DC Jail no-ICE facility, federalization/MPD-ICE county-fight"
     },
+    "12003": {
+      "last_researched": "2026-07-03",
+      "notes": "Baker FL: two distinct facilities, previously conflated \u2014 state-run \"Deportation Depot\" (former Baker CI, GEO-managed, 1,300+ beds, opened Jul 2025) and separate sheriff-run Macclenny county jail (IGSA since 2008, extensive ACLU abuse record incl. Doe v. Rhoden, unresolved FDLE probe of Sheriff Rhoden). DeSantis named Deportation Depot the explicit successor when Alligator Alcatraz closed Jun 25 2026 \u2014 FL capacity consolidated here, not expanded via Bradford."
+    },
     "12007": {
       "last_researched": "2026-07-03",
       "notes": "Douglas Building 3,000-bed IGSA remains paused, not dead \u2014 commissioners declined sheriff's lease Apr 16 2026, ordered new competitive bid (competing non-ICE bid from OM Imports on record); item unlikely back before board until 2027. Alligator Alcatraz's June 25 2026 closure and nearby detainee transfers to Baker CI (30mi away) are raising local fears Bradford is the intended successor site."
@@ -200,9 +204,21 @@
       "last_researched": "2026-07-03",
       "notes": "No prior KB coverage despite heat score 88. New entries: Jacksonville's Ordinance 2025-0147-E (Mar 2025, 12-5) \u2014 possibly first US city ordinance locally criminalizing unauthorized-presence \u2014 layered on JSO's 2008 287(g) JEM; a live 2026 jail-siting fight where Council rejected (5-12) excluding historically redlined neighborhoods; and organized resistance (JIRA protests, Yaya Cardona reinstatement win)."
     },
+    "12043": {
+      "last_researched": "2026-07-03",
+      "notes": "Glades FL: expanded existing entry \u2014 Apr 2025 IGSA reinstatement after 3-yr ICE pause over unmet standards (DHS later called complaints \"unsubstantiated\"); 2nd in-custody death Mar 16 2026 (R. Perez Jimenez, 19); 2026 coalition report on toxic disinfectant overuse and a 2021 CO poisoning of nine. Three Fort Myers habeas rulings (Oct-Dec 2025) preceded and set up the 11th Cir.'s May 6 2026 pro-bond-hearing ruling \u2014 linked into bond-hearing-circuit-split-2026 note."
+    },
+    "12053": {
+      "last_researched": "2026-07-03",
+      "notes": "Hernando FL: full-stack 287(g) (WSO 2019 + JEM 2020 + TFM Feb 2025, all three models \u2014 unusual in FL), Operation Tidal Wave participant, $321K state reimbursement Jan 2026. Commission-activity heat signal is a false alarm \u2014 verified as roof/HVAC maintenance on existing jail, not new detention capacity; ice-contract signal traced to unrelated MO DLA false positive."
+    },
     "12057": {
       "last_researched": "2026-04-10",
       "notes": "Hillsborough FL \u2014 $320K detention request"
+    },
+    "12081": {
+      "last_researched": "2026-07-03",
+      "notes": "Manatee FL: dual 287(g) TFM agreements (Sheriff's Office upgraded Feb 2025, Palmetto PD since Oct 2024); DHS Secretary Noem held a national-showcase press conference at the Sheriff's Office Oct 2025. Apr 2026 nonprofit/community pushback forced Commissioner Ballard to withdraw a proposal requiring 86 county-funded nonprofits to verify client immigration status. Sheriff's Office states no deputies sent to/from Alligator Alcatraz."
     },
     "12085": {
       "last_researched": "2026-04-13",
@@ -1216,6 +1232,10 @@
       "last_researched": "2026-05-27",
       "notes": "Cameron/Port Isabel SPC facility created \u2014 ICE-owned ~1,200 beds (Ahtna service contract); Randall Gamboa medical-neglect death (deported in vegetative state, died Oct 26 2025); active SAM.gov expansion RFI."
     },
+    "48095": {
+      "last_researched": "2026-07-03",
+      "notes": "Concho TX (Eden Detention Center): CoreCivic-operated (heat-score signal notes mislabel it GEO Group), holds ICE + USMS detainees, reactivated 2019 via City of Eden/USMS intergovernmental agreement with ICE authorized to use capacity. No fresh 2025-2026 county-specific litigation or expansion beyond statewide SB8/habeas patterns; Nov 2023 OIDO inspection cited health-staffing and water-temperature violations."
+    },
     "48113": {
       "last_researched": "2026-06-02",
       "notes": "Dallas: Paxton SB8/287g enforcement letter to Sheriff Marian Brown (May 13, June 1 interim deadline disputed). New fight entry. Hutchins mega-warehouse still blocked."
@@ -1227,6 +1247,10 @@
     "48163": {
       "last_researched": "2026-05-27",
       "notes": "Frio/Pearsall STIPC facility created \u2014 GEO Group 1,904 beds; Kai Yin Wong death Oct 25 2025; documented conditions/medical/legal-access complaints; on ICE TX expansion list."
+    },
+    "48169": {
+      "last_researched": "2026-07-03",
+      "notes": "Garza TX (Dalby facility): heat score 74 largely artifact \u2014 igsa:4 is duplicate Vera records for one facility, ice-contract/anc-contract signals are unconfirmed statewide propagation. Real story: county's own 2025 bid selected CoreCivic to run Dalby as private ICE-adjacent facility, but State of TX preempted via HB 500 ($110M), TDCJ reopened it Feb 24 2026 as a state prison \u2014 closing the ICE pathway. 287(g) WSO (Jul 2025) likely SB8 mandatory compliance, not discretionary."
     },
     "48201": {
       "last_researched": "2026-06-02",
@@ -1248,6 +1272,10 @@
       "last_researched": "2026-07-03",
       "notes": "Karnes County IPC (GEO, 1,328 beds) converted from adult-male to family detention Mar 2025 under a modified ~$79M/yr IGSA, reviving family detention at this site for the first time since 2019. A Vietnamese national died in custody July 2025; facility is named in active Flores Settlement litigation (filed June 2025) over inadequate child water/medical care."
     },
+    "48283": {
+      "last_researched": "2026-07-03",
+      "notes": "La Salle TX: small, mature county-run IGSA facility (Encinal, ~200-254 beds since 2004), no evidence of expansion; high igsa:6 signal likely reflects two decades of continuous use, not buildout. Distinct from the much larger GEO Jena, LA facility of similar name (Khalil detention) \u2014 frequently confused. The 287g:8 signal (TX AG/DPS/National Guard + unrelated municipal PDs) is very likely a statewide SB8 attribution artifact, not county-specific escalation \u2014 possibly affecting most TX counties' scores."
+    },
     "48303": {
       "last_researched": "2026-07-03",
       "notes": "Lubbock County Detention Center \u2014 recorded closed to migrant detention since 2019 \u2014 shows signs of reactivation: March 17 2026 ICE Office of Detention Oversight inspection. County's 2020 JEM 287(g) predates TX SB8's new statewide mandate. Documented traffic-stop-to-ICE-custody case and a measles case tied to West Texas Detention Facility outbreak."
@@ -1256,9 +1284,21 @@
       "last_researched": "2026-07-03",
       "notes": "Montgomery Processing Center (GEO, 1,314 beds) is one of eight facilities named in ICE/GEO's Detention Reengineering Initiative acquisition push; two in-custody deaths (Dec 2025-Jan 2026) across it and the county's other GEO facility, Joe Corley Processing Center. County's 287(g) JEM now locked in statewide by TX SB8 (effective Jan 1 2026)."
     },
+    "48439": {
+      "last_researched": "2026-07-03",
+      "notes": "Tarrant TX: commissioners voted 3-2 (Feb 12 2026) to accept $140K state grant expanding sheriff's 287(g) under SB8 mandate despite 98% public opposition (2,541/2,676 survey respondents). Existing real-estate-trace signal (9449 Silver Creek Rd) is a false lead \u2014 confirmed Google data-center lease, not ICE; likely conflated with Majestic Realty Hutchins warehouse (Dallas County), which was pitched for ICE and blocked by owner Feb 2026."
+    },
+    "48471": {
+      "last_researched": "2026-07-03",
+      "notes": "Walker TX: heat score 73 driven mostly by genuine full-stack 287(g) sheriff's office (JEM 2020, WSO Apr 2025, TFM Sep 2025) plus a stale, unconfirmed 2017 20-bed ICE jail-lease application. No active ICE facility or buildout fight found. Two signal categories are methodology artifacts worth flagging to county_heat_score.py maintainer: igsa:2 misattributes TDCJ's Huntsville execution prison as ICE, and ice-contract/anc-contract are 100% state-propagated with no county-specific match."
+    },
     "48479": {
       "last_researched": "2026-05-27",
       "notes": "Webb/Laredo CoreCivic Webb County DC updated \u2014 initial-custody node in Randall Gamboa fatal removal pipeline (transferred to Port Isabel, died Oct 2025); ACLU FOIA shows Laredo contract expansion; SB8 287g deadline Dec 1 2026."
+    },
+    "48489": {
+      "last_researched": "2026-07-03",
+      "notes": "Willacy TX: two live facilities on separate sites \u2014 El Valle Detention Facility (MTC-operated ICE IGSA, ~922 ADP, rebuilt 2018 on site of the notorious \"Ritmo\" tent prison closed after 2015 riot) and Willacy County Regional Detention Center, which the county leased to Hidalgo County for 50 yrs/$59.8M (Oct 2022, LaSalle Corrections operates it as Hidalgo overflow). Flag: a Jul 2 2026 5th Cir. panel ruling on 90-day bond hearings appears to conflict with the circuit's Feb 6 2026 Buenrostro-Mendez ruling upholding indefinite no-bond detention \u2014 unreconciled, needs follow-up."
     },
     "48491": {
       "last_researched": "2026-05-27",

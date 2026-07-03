@@ -15,7 +15,7 @@ tags:
 - eighth-circuit
 - structural
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-07-03"
 ---
 
 # The 2026 Circuit Split on Bond Hearings
@@ -89,6 +89,19 @@ in order of decision:**
    6th, and 11th against the policy and the 5th and 8th for it, the split is mature;
    commentators expect a cert petition. Until SCOTUS resolves it, the map of who can
    be held indefinitely is drawn by circuit boundaries, not by any individual's facts.
+
+## District-Level Precursors: Fort Myers Division (M.D. Fla.)
+
+Before the Eleventh Circuit ruled in *Hernández Álvarez* (May 6, 2026), the Middle
+District of Florida's **Fort Myers Division** was already granting habeas relief on
+the same § 1225(b)-vs-§ 1226(a) theory to people detained at
+[[glades-county-fl-detention|Glades County Detention Center]]: **Hinojosa Garcia v.
+Noem** (Oct 31, 2025), **Vasquez Carcamo v. Noem** (Nov 7, 2025), and **Martinez
+Garcia v. Noem** / **Cetino v. Noem** (Dec 2025). These district rulings anticipated
+the circuit holding by five-plus months and illustrate how the split played out at
+ground level before the Eleventh Circuit made it binding — Fort Myers judges were
+already treating Glades detainees as bond-eligible while the Fifth and Eighth
+Circuits were going the other way.
 
 ## Open Questions / Research Gaps
 
