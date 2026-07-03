@@ -18,7 +18,7 @@ estimated_value: "$12 million (2023)"
 markup: "~500%"
 contract_value: "$313M base; up to $704M if extended through Feb 2029"
 fips: '04013'
-last_researched: "2026-06-02"
+last_researched: "2026-07-03"
 ---
 
 # Surprise AZ Warehouse — ICE Regional Processing Center
@@ -49,6 +49,8 @@ Capacity follows DHS's standard warehouse-conversion split: **~550 in legal fili
 
 - **~April 22, 2026**: A federal **stop-work order** was issued on the GardaWorld Surprise contract (modifications P00001 / P00002), halting conversion work — at least two days before the AG lawsuit (Project Saltbox).
 - **April 24, 2026**: Arizona AG Kris Mayes filed **Arizona v. Mullin** (D. Ariz.) to block the conversion, the **fourth state** in the multi-state NEPA challenge cluster (after MD, MI, NJ). Core claim: DHS/ICE skipped NEPA environmental review and the facility sits **across the street from Rinchem Co.'s 123,000 sq ft hazardous-chemical (semiconductor) storage**, an RMP-regulated site under the Clean Air Act, with no risk assessment for a captive population.
+
+**Update (Jul 1, 2026)**: Mayes and federal defendants filed a stipulated agreement (Jun 30) pausing all conversion work and barring any detainee housing pending completion of the NEPA environmental assessment — pending court approval. Separately, activist Jeremy Helfgot filed a petition (~Jun 21) to disincorporate the City of Surprise over council inaction; needs 70,000 signatures within 180 days to force a Maricopa County Board of Supervisors vote. See [[surprise-az-ban]].
 
 See [[surprise-az-ice-warehouse-fight]] for full litigation detail.
 

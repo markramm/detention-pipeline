@@ -6,7 +6,7 @@ county: "Maricopa"
 state: "AZ"
 facility: "Surprise ICE Warehouse — 13290 W. Sweetwater Road (400,000 sq ft, 550 contractual / up to 1,500 documented capacity)"
 status: litigation
-outcome: "Arizona AG Kris Mayes filed Arizona v. Mullin on April 24, 2026 — fourth state in the multi-state NEPA cluster after MD, NJ, MI. The $313M GardaWorld Federal Services contract for warehouse conversion had already been stopped via federal stop-work order at least two days before the lawsuit filing. Same NEPA argument as the Hurson Maryland precedent (April 15, 2026). Warehouse sits across from a facility storing thousands of gallons of hazardous chemicals subject to Risk Management Plan requirements under the Clean Air Act. Capacity numbers fit the documented pattern: 550 in legal filings, hundreds-to-1,500 documented as planned operational density."
+outcome: "Arizona AG Kris Mayes filed Arizona v. Mullin on April 24, 2026 — fourth state in the multi-state NEPA cluster after MD, NJ, MI. The $313M GardaWorld Federal Services contract for warehouse conversion had already been stopped via federal stop-work order at least two days before the lawsuit filing. Same NEPA argument as the Hurson Maryland precedent (April 15, 2026). Warehouse sits across from a facility storing thousands of gallons of hazardous chemicals subject to Risk Management Plan requirements under the Clean Air Act. Capacity numbers fit the documented pattern: 550 in legal filings, hundreds-to-1,500 documented as planned operational density. UPDATE (Jul 1, 2026): Mayes and federal defendants filed a stipulated agreement (Jun 30) pausing all conversion work and barring any detainee housing pending completion of the NEPA environmental assessment — first concrete check on the project since the stop-work order, pending court approval."
 importance: 9
 tags:
 - litigation
@@ -32,7 +32,7 @@ tags:
 research_status: working
 fips: '04013'
 case_number: 'Arizona v. Mullin (D. Ariz., April 24, 2026)'
-last_news_check: '2026-06-02'
+last_news_check: '2026-07-03'
 ---
 
 # Maricopa County, Arizona: Arizona AG Sues GardaWorld Conversion in Surprise
@@ -80,6 +80,8 @@ While the press release for *Arizona v. Mullin* did not explicitly cite the Hurs
 - **April 24, 2026**: AG Mayes files *Arizona v. Mullin* in U.S. District Court, D. Ariz.
 - **April 27, 2026**: Stop-work order publicly confirmed by AZPM reporting
 - **May 1, 2026**: Knepp / Project Saltbox documents the stop-work order and $313M contract halt as part of the broader April procurement decline (88%, $1.04B → $130M)
+- **~June 21, 2026**: Activist Jeremy Helfgot files a petition with the Maricopa County Board of Supervisors to disincorporate the City of Surprise, citing council inaction on the detention facility — see [[surprise-az-ban]]
+- **June 30, 2026 (filed) / July 1, 2026 (announced)**: Mayes and federal defendants file a stipulated agreement pausing all conversion work (construction, demolition, retrofitting) and barring any detainee housing at the facility pending completion of the required NEPA environmental assessment; requires court approval; AZ reserves the right to challenge the adequacy of the eventual review
 
 ## Cross-References
 
@@ -106,3 +108,6 @@ While the press release for *Arizona v. Mullin* did not explicitly cite the Hurs
 - [Human Rights Watch: Another Disturbing Surprise From ICE (April 9, 2026)](https://www.hrw.org/news/2026/04/09/another-disturbing-surprise-from-ice)
 - [Fox 10 Phoenix: $313M ICE detention facility planned for Arizona warehouse divides community](https://www.fox10phoenix.com/news/313m-ice-detention-facility-planned-arizona-warehouse-divides-community)
 - [KTAR: DHS to pay Surprise $300K for ICE detention center](https://ktar.com/immigration/dhs-surprise-300k-ice-center/5841938/)
+- [KJZZ: Surprise activists file petition to disincorporate city over safety concerns from detention center (Jun 21, 2026)](https://www.kjzz.org/politics/2026-06-21/surprise-activists-file-petition-to-disincorporate-city-over-safety-concerns-from-detention-center)
+- [KJZZ: Mayes, DHS agree to pause lawsuit over ICE detention facility in Surprise (Jul 1, 2026)](https://www.kjzz.org/politics/2026-07-01/mayes-dhs-agree-to-pause-lawsuit-over-ice-detention-facility-in-surprise)
+- [AZ AG: Attorney General Mayes Secures Stipulation Halting Conversion of Surprise Facility Into ICE Detention Center](https://www.azag.gov/press-release/attorney-general-mayes-secures-stipulation-halting-conversion-surprise-facility-ice)
