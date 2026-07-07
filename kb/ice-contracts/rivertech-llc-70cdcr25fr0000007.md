@@ -1,12 +1,12 @@
 ---
 id: rivertech-llc-70cdcr25fr0000007
-title: 'RIVERTECH LLC — 70CDCR25FR0000007 (CO) $4,150,531'
+title: 'RIVERTECH LLC — 70CDCR25FR0000007 (CO) $4,745,944'
 type: ice-contract
 state: 'CO'
 contractor: 'RIVERTECH LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$4,150,530.57'
+contract_value: '$4,745,944.24'
 contract_type: 'federal-contract'
 award_date: '2025-01-01'
 usaspending_id: '70CDCR25FR0000007'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: RIVERTECH LLC
 Award ID: 70CDCR25FR0000007
-Amount: $4,150,530.57
+Amount: $4,745,944.24
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: JUVENILE FAMILY MANAGEMENT DIVISION TECHNICAL ASSISTANCE SUPPORT

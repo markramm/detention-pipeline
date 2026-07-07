@@ -1,12 +1,12 @@
 ---
 id: fcn-inc-70cmsd24fr0000033
-title: 'FCN, INC. — 70CMSD24FR0000033 (DC) $561,801'
+title: 'FCN, INC. — 70CMSD24FR0000033 (DC) $842,701'
 type: ice-contract
 state: 'DC'
 contractor: 'FCN, INC.'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$561,800.80'
+contract_value: '$842,701.20'
 contract_type: 'federal-contract'
 award_date: '2024-04-26'
 usaspending_id: '70CMSD24FR0000033'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: FCN, INC.
 Award ID: 70CMSD24FR0000033
-Amount: $561,800.80
+Amount: $842,701.20
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: CISCO MERAKI EQUIPMENT ENTERPRISE AGREEMENT

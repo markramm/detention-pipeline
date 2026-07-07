@@ -1,14 +1,24 @@
 ---
 id: redhawk-it-solutions-llc-70ctd025fr0000030
-title: REDHAWK IT SOLUTIONS, LLC — 70CTD025FR0000030 (DC) $1,419,084
+title: 'REDHAWK IT SOLUTIONS, LLC — 70CTD025FR0000030 (DC) $1,419,084'
 type: ice-contract
+state: 'DC'
+contractor: 'REDHAWK IT SOLUTIONS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,419,083.52'
+contract_type: 'federal-contract'
+award_date: '2025-06-15'
+usaspending_id: '70CTD025FR0000030'
+source: 'USAspending.gov (award 70CTD025FR0000030)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ADOBE EXPERIENCE MANAGER ASSETS SOFTWARE CAPABILITIES, WITH MAINTENANCE AND PROFESSIONAL SERVICES SUPPORT, TO ALLOW THE ICE OFFICE OF PUBLIC AFFAIRS TO CONTINUE TO HAVE A CONTENT MANAGEMENT SOLUTION FOR DIGITAL MEDIA CAMPAIGNS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.
@@ -19,5 +29,5 @@ Amount: $1,419,083.52
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROVIDES ADOBE EXPERIENCE MANAGER ASSETS SOFTWARE CAPABILITIES, WITH MAINTENANCE AND PROFESSIONAL SERVICES SUPPORT, TO ALLOW THE ICE OFFICE OF PUBLIC AFFAIRS TO CONTINUE TO HAVE A CONTENT MANAGEMENT SOLUTION FOR DIGITAL MEDIA CAMPAIGNS.
-Period: 2025-06-15 to 2026-06-14
+Period: 2025-06-15 to 2026-07-14
 Location: None, DC

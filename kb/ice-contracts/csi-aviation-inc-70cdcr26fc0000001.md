@@ -1,12 +1,12 @@
 ---
 id: csi-aviation-inc-70cdcr26fc0000001
-title: 'CSI AVIATION, INC — 70CDCR26FC0000001 (TX) $718,111,233'
+title: 'CSI AVIATION, INC — 70CDCR26FC0000001 (TX) $837,608,822'
 type: ice-contract
 state: 'TX'
 contractor: 'CSI AVIATION, INC'
 contractor_type: 'air-operations'
 contract_class: 'detention-related'
-contract_value: '$718,111,233.00'
+contract_value: '$837,608,821.91'
 contract_type: 'federal-contract'
 award_date: '2025-11-01'
 usaspending_id: '70CDCR26FC0000001'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: CSI AVIATION, INC
 Award ID: 70CDCR26FC0000001
-Amount: $718,111,233.00
+Amount: $837,608,821.91
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS CALL ORDER OBTAINS DEDICATED AND ON-DEMAND CHARTERED FLIGHT SERVICES FOR ENFORCEMENT AND REMOVAL OPERATIONS UNDER THE ICE AIR PROGRAM. ICE AIR FACILITATES THE SAFE, SECURE, AND COST-EFFECTIVE TRANSPORTATION AND DEPORTATION OF ILLEGAL ALIENS.

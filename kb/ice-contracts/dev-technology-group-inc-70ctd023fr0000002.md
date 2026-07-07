@@ -1,12 +1,12 @@
 ---
 id: dev-technology-group-inc-70ctd023fr0000002
-title: 'DEV TECHNOLOGY GROUP INC — 70CTD023FR0000002 (DC) $3,617,305'
+title: 'DEV TECHNOLOGY GROUP INC — 70CTD023FR0000002 (DC) $3,806,537'
 type: ice-contract
 state: 'DC'
 contractor: 'DEV TECHNOLOGY GROUP INC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$3,617,305.17'
+contract_value: '$3,806,536.91'
 contract_type: 'federal-contract'
 award_date: '2022-12-15'
 usaspending_id: '70CTD023FR0000002'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: DEV TECHNOLOGY GROUP INC
 Award ID: 70CTD023FR0000002
-Amount: $3,617,305.17
+Amount: $3,806,536.91
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: WEB MANAGEMENT SERVICES (WMS) SHAREPOINT - COLLAB DOMAIN SWIFT

@@ -1,12 +1,12 @@
 ---
 id: deloitte-consulting-llp-70cmsd25fr0000022
-title: 'DELOITTE CONSULTING LLP — 70CMSD25FR0000022 (VA) $2,841,488'
+title: 'DELOITTE CONSULTING LLP — 70CMSD25FR0000022 (VA) $6,275,010'
 type: ice-contract
 state: 'VA'
 contractor: 'DELOITTE CONSULTING LLP'
 contractor_type: 'consulting'
 contract_class: 'other-ice'
-contract_value: '$2,841,487.80'
+contract_value: '$6,275,010.20'
 contract_type: 'federal-contract'
 award_date: '2025-03-30'
 usaspending_id: '70CMSD25FR0000022'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: DELOITTE CONSULTING LLP
 Award ID: 70CMSD25FR0000022
-Amount: $2,841,487.80
+Amount: $6,275,010.20
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THE PURPOSE OF THIS AWARD IS TO PROVIDE THE CYBER CRIMES CENTER (C3) WITH ADVERTISING OUTREACH MARKETING SERVICES FOR THE KNOW2PROTECT CAMPAIGN TO COMBAT ONLINE CHILD SEXUAL EXPLOITATION AND ABUSE (CSEA).

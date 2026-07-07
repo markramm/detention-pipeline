@@ -1,12 +1,12 @@
 ---
 id: envisage-technologies-llc-70cmsd25fr0000010
-title: 'ENVISAGE TECHNOLOGIES LLC — 70CMSD25FR0000010 (TX) $3,096,984'
+title: 'ENVISAGE TECHNOLOGIES LLC — 70CMSD25FR0000010 (TX) $8,824,681'
 type: ice-contract
 state: 'TX'
 contractor: 'ENVISAGE TECHNOLOGIES LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$3,096,983.87'
+contract_value: '$8,824,680.87'
 contract_type: 'federal-contract'
 award_date: '2025-05-01'
 usaspending_id: '70CMSD25FR0000010'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: ENVISAGE TECHNOLOGIES LLC
 Award ID: 70CMSD25FR0000010
-Amount: $3,096,983.87
+Amount: $8,824,680.87
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROVIDES IMMIGRATIONS AND CUSTOMS ENFORCEMENT PERSONNEL WITH A TRAINING MANAGEMENT SYSTEM THAT WILL BE UTILIZED TO MAINTAIN AND ADMINISTER ALL THE REQUIRED ICE TRAINING AND PROFESSIONAL COURSES FOR THE AGENCY TO MAINTAIN ACCREDITATION.

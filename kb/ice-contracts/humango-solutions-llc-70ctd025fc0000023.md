@@ -29,5 +29,5 @@ Amount: $18,795.94
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: PROVIDES THE PROCUREMENT & INSTALLATION OF VIDEO TELECONFERENCING EQUIPMENT FOR THE ENFORCEMENT & REMOVAL OPERATIONS SITE LOCATED IN CALIFORNIA CITY.
-Period: 2025-08-29 to 2026-03-27
+Period: 2025-08-29 to 2026-09-29
 Location: None, CA

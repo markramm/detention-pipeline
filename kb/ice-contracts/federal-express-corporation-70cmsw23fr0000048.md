@@ -1,12 +1,12 @@
 ---
 id: federal-express-corporation-70cmsw23fr0000048
-title: 'FEDERAL EXPRESS CORPORATION — 70CMSW23FR0000048 (GA) $2,402,368'
+title: 'FEDERAL EXPRESS CORPORATION — 70CMSW23FR0000048 (GA) $2,652,368'
 type: ice-contract
 state: 'GA'
 contractor: 'FEDERAL EXPRESS CORPORATION'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$2,402,367.55'
+contract_value: '$2,652,367.55'
 contract_type: 'federal-contract'
 award_date: '2023-04-01'
 usaspending_id: '70CMSW23FR0000048'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: FEDERAL EXPRESS CORPORATION
 Award ID: 70CMSW23FR0000048
-Amount: $2,402,367.55
+Amount: $2,652,367.55
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: SHIPPING SERVICES TO SUPPORT OFTP

@@ -1,12 +1,12 @@
 ---
 id: chenega-facilities-management-llc-70cmsw18fr0000045
-title: 'CHENEGA FACILITIES MANAGEMENT LLC — 70CMSW18FR0000045 (TX) $28,815,749'
+title: 'CHENEGA FACILITIES MANAGEMENT LLC — 70CMSW18FR0000045 (TX) $32,044,012'
 type: ice-contract
 state: 'TX'
 contractor: 'CHENEGA FACILITIES MANAGEMENT LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$28,815,748.54'
+contract_value: '$32,044,012.47'
 contract_type: 'federal-contract'
 award_date: '2018-05-30'
 usaspending_id: '70CMSW18FR0000045'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: CHENEGA FACILITIES MANAGEMENT LLC
 Award ID: 70CMSW18FR0000045
-Amount: $28,815,748.54
+Amount: $32,044,012.47
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: IGF::OT::IGF - OPERATION AND MAINTENANCE OF PORT ISABEL SPC

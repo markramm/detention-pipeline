@@ -1,12 +1,12 @@
 ---
 id: mvm-inc-70cdcr25fr0000026
-title: 'MVM, INC. — 70CDCR25FR0000026 (TX) $145,096,174'
+title: 'MVM, INC. — 70CDCR25FR0000026 (TX) $165,036,646'
 type: ice-contract
 state: 'TX'
 contractor: 'MVM, INC.'
 contractor_type: 'transport'
 contract_class: 'other-ice'
-contract_value: '$145,096,173.90'
+contract_value: '$165,036,645.52'
 contract_type: 'federal-contract'
 award_date: '2024-04-01'
 usaspending_id: '70CDCR25FR0000026'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: MVM, INC.
 Award ID: 70CDCR25FR0000026
-Amount: $145,096,173.90
+Amount: $165,036,645.52
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD ESTABLISHES A NEW TASK ORDER FOR THE NATIONWIDE TRANSPORTATION OF UNACCOMPANIED MINORS (UC) AND FAMILY UNITS (FAMU).
-Period: 2024-04-01 to 2026-01-31
+Period: 2024-04-01 to 2026-03-31
 Location: None, TX
