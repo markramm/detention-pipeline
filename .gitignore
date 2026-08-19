@@ -31,3 +31,6 @@ interview-ref/
 /hugo/static/network.json
 /hugo/static/timeline.json
 /hugo/static/county/
+
+# Claude Code runtime state (lockfiles, local session data)
+.claude/
