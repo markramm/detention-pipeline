@@ -13,7 +13,8 @@ Early-warning system for ICE detention facility expansion. Tracks signal converg
 ## Key Paths
 
 - `hugo/hugo.toml` — Hugo config (baseURL, taxonomies)
-- `hugo/layouts/` — all templates (baseof.html has the CSS and nav)
+- `hugo/layouts/` — all templates (baseof.html has the nav and pulls in the stylesheet)
+- `hugo/assets/css/main.css` — all CSS, incl. the `--signal-*` colors
 - `hugo/data/heat.json` — county heat scores (generated)
 - `hugo/data/timeline.json` — timeline events (generated)
 - `hugo/static/timeline.json` — copy for client-side fetch
@@ -23,9 +24,11 @@ Early-warning system for ICE detention facility expansion. Tracks signal converg
 
 ## Conventions
 
-- CSS is embedded in `baseof.html`, not external stylesheets
+- CSS lives in `hugo/assets/css/main.css`, pulled into `baseof.html` via Hugo's asset
+  pipeline (`resources.Get` → minify → fingerprint) — not inline, not an external stylesheet
 - D3.js visualizations load JSON from `/static/` via client-side fetch
-- Signal colors are defined as CSS variables `--signal-*` in baseof.html
+- Signal colors are defined as CSS variables `--signal-*` in `hugo/assets/css/main.css`,
+  and must match the `color:`/`css_var:` for that entry type in `kb/schema.yaml`
 - Entry frontmatter must include `entry_type`, `fips`, `state`, `county`
 - Pre-commit hooks validate entries via `kb/scripts/validate_entries.py`
 - Blog posts go in `hugo/content/blog/` with type `blog`

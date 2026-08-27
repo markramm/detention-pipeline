@@ -15,6 +15,7 @@
   --accent-hot: #e84545;
   --accent-warm: #d46a2f;
   --signal-igsa: #c93b3b;
+  --signal-federal-purchase: #8b3fa8;
   --signal-287g: #d46a2f;
   --signal-anc: #c49025;
   --signal-commission: #6a8a1a;
@@ -23,6 +24,7 @@
   --signal-comms: #5a4fa5;
   --signal-budget: #8a3fa5;
   --signal-realestate: #a53f7a;
+  --signal-fight: #2a8a5a;
   --signal-legislative: #4f5a6a;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }

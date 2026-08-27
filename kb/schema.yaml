@@ -60,6 +60,22 @@ entry_types:
     required_fields: [title]
     source_url_required: false
 
+  federal-purchase:
+    label: Federal Purchase
+    section: signals
+    subdirectory: null        # derived from facility entries; no directory of its own
+    color: "#8b3fa8"
+    css_var: "--signal-federal-purchase"
+    anchor: signal-federal-purchase
+    description: "ICE/DHS bought the site outright — a federally owned detention facility. Generates no county contract, so it is invisible to IGSA/287(g)/contract signals; scored on its own so a purchase in a county with no prior detention footprint still registers."
+    weight: 9
+    max_entries: 3
+    tier: 1
+    # Derived in county_heat_score.py from `contract_type: federal-purchase`
+    # on a facility entry — facilities keep `type: facility` for site routing.
+    required_fields: [title, state]
+    source_url_required: false
+
   287g-agreement:
     label: 287(g) Agreement
     section: signals
@@ -257,7 +273,15 @@ entry_types:
     section: fights
     subdirectory: null
     color: "#2a8a5a"
-    css_var: null
+    css_var: "--signal-fight"
+    anchor: signal-fight
+    description: "An organized local fight over ICE detention — a contract vote, a siting battle, a lawsuit. Scored by OUTCOME, not merely by existing: a live fight is active pipeline pressure, a fight already won means the threat was defeated."
+    weight: 5
+    max_entries: 3
+    tier: 3
+    # Weight is scaled by outcome in county_heat_score.py — see FIGHT_OUTCOME_*.
+    # A live fight scores the full 5; a lost fight 2 (ICE prevailed, county
+    # still exposed); a won/blocked fight 1 (proven target, threat defeated).
     required_fields: [title, state]
     source_url_required: false
 

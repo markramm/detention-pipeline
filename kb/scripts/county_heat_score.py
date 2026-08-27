@@ -8,15 +8,18 @@ prioritized list for targeting Legistar scans, LoopNet queries, and
 news monitoring.
 
 Scoring:
-  - Existing IGSA facility:        +2 per facility (base signal)
-  - ANC/ICE contract in county:    +5 per contract (money flowing)
-  - Job posting mentioning state:  +3 (active recruitment)
-  - Real estate trace:             +3 per property (physical infrastructure)
-  - Commission activity:           +4 (democratic process engaged)
-  - Comms discipline signal:       +3 (playbook in motion)
-  - Budget distress:               +4 (vulnerability indicator)
-  - Sheriff network:               +3 (recruitment channel)
-  - Legislative trace in state:    +1 (state-level context)
+  Per-signal weights and caps live in kb/schema.yaml — the single source of
+  truth. Do not duplicate the numbers here; they drift.
+
+  Two signals are not a straight `weight x count`:
+  - federal-purchase — derived in scan_kb() from `contract_type:
+    federal-purchase` on a facility entry. ICE/DHS buying a site outright
+    creates no county contract, so nothing else in the model detects it.
+  - county-fight — scaled by outcome (see FIGHT_OUTCOME_*): a live fight
+    scores full weight, a lost fight 40%, a won/blocked fight 20%.
+
+  A county also earns a diversity bonus for convergence: +10 per direct
+  signal type beyond two, and a further +15 at five or more.
 
 Usage:
     python county_heat_score.py                    # all counties
@@ -46,6 +49,37 @@ from schema import load_schema
 _SCHEMA = load_schema()
 WEIGHTS = _SCHEMA.weights()
 MAX_ENTRIES_PER_TYPE = _SCHEMA.max_entries()
+
+# A county fight is scored by OUTCOME, not merely by existing. This is an
+# early-warning tracker: a live fight is active pipeline pressure, while a
+# fight the community already won means the threat was defeated. Scoring
+# both the same would rank a county that beat ICE as hot as one facing an
+# imminent contract vote.
+#
+# `status` on county-fight entries is free text (23 distinct values today),
+# so these are explicit sets and anything unrecognized falls through to
+# "live" — the conservative default for a warning system. A new status
+# should never silently zero out a fight.
+FIGHT_OUTCOME_WON = {
+    # Community prevailed; the detention threat at this site was defeated.
+    "won", "blocked", "resolved", "dismissed", "dormant",
+}
+FIGHT_OUTCOME_LOST = {
+    # ICE prevailed. The fight is over but the county is now exposed —
+    # a facility is operating, so it stays warmer than a clean win.
+    "lost", "community-lost", "operational", "operational-despite-opposition",
+}
+FIGHT_OUTCOME_MULTIPLIER = {"won": 0.2, "lost": 0.4, "live": 1.0}
+
+
+def fight_outcome(status):
+    """Classify a county-fight `status` string as won / lost / live."""
+    s = (status or "").strip().strip('"\'').lower()
+    if s in FIGHT_OUTCOME_WON:
+        return "won"
+    if s in FIGHT_OUTCOME_LOST:
+        return "lost"
+    return "live"
 
 # FIPS to county name lookup
 FIPS_TO_COUNTY = {}
@@ -154,6 +188,16 @@ def scan_kb(kb_path, entry_type_override=None):
             if entry_type == "ice-contract" and contract_class != "detention-related":
                 continue
 
+            # A federally purchased site is its own tier-1 signal. ICE/DHS
+            # buying a building outright generates no IGSA, no 287(g), and no
+            # county contract, so a purchase in a county with no prior
+            # detention footprint would otherwise score as an unweighted
+            # `facility` (weight 1) and stay invisible. Derive the signal from
+            # the facility entry rather than retyping it — `type: facility`
+            # still drives Hugo's section routing.
+            if entry_type == "facility" and fields.get("contract_type", "") == "federal-purchase":
+                entry_type = "federal-purchase"
+
             # Try to resolve FIPS from county name if missing
             if not fips and county and state:
                 fips = resolve_county_to_fips(county, state)
@@ -164,6 +208,7 @@ def scan_kb(kb_path, entry_type_override=None):
                     "state": state,
                     "entry_type": entry_type,
                     "title": title,
+                    "status": fields.get("status", ""),
                 })
     return entries
 
@@ -171,7 +216,7 @@ def scan_kb(kb_path, entry_type_override=None):
 def score_counties(igsa_path, pipeline_path):
     """Score all counties by signal convergence."""
     # county_data[fips] = {signals: {type: [titles]}, propagated: {type: [titles]}, state: str, score: int}
-    county_data = defaultdict(lambda: {"signals": defaultdict(list), "propagated": defaultdict(list), "state": "", "score": 0})
+    county_data = defaultdict(lambda: {"signals": defaultdict(list), "propagated": defaultdict(list), "state": "", "score": 0, "fight_outcomes": []})
 
     # Scan IGSA holders
     for entry in scan_kb(igsa_path, entry_type_override="igsa"):
@@ -190,6 +235,12 @@ def score_counties(igsa_path, pipeline_path):
         if fips and fips != "00000":
             county_data[fips]["signals"][etype].append(entry["title"])
             county_data[fips]["state"] = state
+            if etype == "county-fight":
+                # Tracked parallel to the title list so heat_data.json's
+                # signal shape (title strings) stays unchanged.
+                county_data[fips]["fight_outcomes"].append(
+                    fight_outcome(entry.get("status"))
+                )
         elif state:
             # State-level signals — propagate to all counties in state at reduced weight
             for cfips, cdata in county_data.items():
@@ -207,7 +258,19 @@ def score_counties(igsa_path, pipeline_path):
             weight = WEIGHTS.get(signal_type, 1)
             cap = MAX_ENTRIES_PER_TYPE.get(signal_type, 5)
             capped_count = min(len(entries), cap)
-            score += weight * capped_count
+            if signal_type == "county-fight":
+                # Scale each fight by its outcome rather than counting them
+                # flat. Sorted so that when more fights exist than the cap
+                # allows, the live ones are the ones that count.
+                outcomes = sorted(
+                    data["fight_outcomes"],
+                    key=lambda o: -FIGHT_OUTCOME_MULTIPLIER[o],
+                )[:cap]
+                score += int(round(sum(
+                    weight * FIGHT_OUTCOME_MULTIPLIER[o] for o in outcomes
+                )))
+            else:
+                score += weight * capped_count
         # Score propagated (state-level) signals at reduced weight
         for signal_type, entries in data["propagated"].items():
             # Only count propagated signals for types not already present as direct
