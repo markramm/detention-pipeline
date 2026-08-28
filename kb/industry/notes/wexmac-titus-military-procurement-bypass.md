@@ -24,11 +24,13 @@ WEXMAC was originally designed for international military contracting. It has be
 
 ## Why This Matters
 
-Under WEXMAC, companies can be **"pre-qualified."** Once pre-qualified, the government can issue task orders **without going through any normal bidding process.** This means:
+> **⚠ TWO CLAIMS BELOW WERE WITHDRAWN ON 2026-08-28 — read the correction under this list before citing anything in it.** The original items 1 and 3 ("No competitive bidding" and "No GAO bid protest rights") are **false** and contradicted by the primary contracting record. They are struck through below rather than deleted, so the record of what this page said remains visible.
 
-1. No competitive bidding
+Under WEXMAC, companies can be **"pre-qualified."** Once pre-qualified, the government can issue task orders through a **streamlined** process that rides an existing Navy IDIQ rather than a new agency solicitation. What that actually does and does not bypass:
+
+1. ~~No competitive bidding~~ — **WITHDRAWN, FALSE.** Task orders were competed; see correction below.
 2. Far less transparency than normal federal contracting
-3. No GAO bid protest rights for competing contractors
+3. ~~No GAO bid protest rights for competing contractors~~ — **WITHDRAWN, FALSE.** Protest rights exist and were exercised; see correction below.
 4. Potentially no public disclosure requirements that apply to standard federal contracts
 5. Access to the full $45 billion pool
 
