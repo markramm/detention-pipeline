@@ -7,10 +7,10 @@ state: "MI"
 facility: romulus-mi-warehouse
 status: litigation
 vote_tally: "N/A — federal purchase, no local vote"
-outcome: "Litigation active; DHS paused all warehouse purchases Apr 1 under Mullin review of Noem-era contracts. No court ruling yet."
+outcome: "No preliminary injunction was ever entered in this case. On June 18, 2026, AG Nessel announced DHS/ICE will not convert the Romulus warehouse and intend to sell it; a June 23 court filing confirmed the sale intent. Case 2:26-cv-10968-JJCG-EAS remains formally open — Nessel stated it will stay open until a written agreement guarantees the property is never used for detention. Retreat via voluntary DHS withdrawal / sale-intent filing, not by adjudicated ruling."
 fips: "26163"
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-08-28"
+last_news_check: "2026-08-28"
 case_number: "2:26-cv-10968-JJCG-EAS"
 importance: 9
 tags:
@@ -68,12 +68,28 @@ The lawsuit alleges:
 - **May 11, 2026:** The **ACLU of Michigan, Michigan Immigrant Rights Center, and Detroit Justice Center** move to **join the lawsuit as parties**.
 - **May 21, 2026:** Preliminary-injunction motion **hearing held virtually** (rescheduled from late April) — first hearing with all three intervenor organizations appearing as parties. No ruling reported as of late May.
 - **June 2, 2026:** Still **no ruling** on the preliminary injunction; case remains under advisement. No new filings or developments in the May 28–June 2 window.
+- **June 18, 2026:** AG Nessel announces DHS/ICE will **not** convert the Romulus warehouse into a detention center and intend to sell the property — a voluntary DHS withdrawal, not an adjudicated preliminary-injunction ruling. No PI motion was ever decided on the merits in this case.
+- **June 23, 2026:** A federal court filing confirms the sale intent (widely reported: Detroit Free Press, WOODTV, WWMT, CBS News).
+- **As of the most recent status found (per cascade-research's 2026-08-27 injunction-docket-census pass):** Case **2:26-cv-10968-JJCG-EAS remains formally open** — Nessel says it stays open until a written agreement guarantees the property is never used for detention. No confirmed completed sale as of that pass.
+
+**Instrument correction (2026-08-28):** This case did **not** produce a preliminary injunction. It is documented on this page as "pending a preliminary-injunction ruling" through May/June 2026, and the record shows the PI motion was never decided — DHS mooted it by voluntarily announcing it would not proceed and would sell the property. This distinguishes Michigan from Maryland (PI granted and entered, Civil No. 26-733-BAH/1:26-cv-00733-BAH, D. Md., April 15, 2026 — confirmed by direct read of the signed memorandum opinion, ECF 43) and from Arizona (binding stipulated pause agreement, not a PI, *Arizona v. Mullin*, filed and court-approved June 30/July 1, 2026). See "Instrument distinctions across the four-state cluster" below.
 
 ## DHS Pause and Noem-Era Review
 
 The Romulus fight achieved something few local opponents have: the facility is now caught up in a **federal-level policy reversal**. Secretary Mullin's review of Noem-era contracts puts all 11 warehouses on hold. The original plan was a $38.3B initiative for 92,000 beds through 8 mega-centers and 16 regional processing centers. DHS stated: "as with any transition, we are reviewing agency policies and proposals."
 
-No court ruling has been issued on the Romulus lawsuit as of late May 2026. The case (2:26-cv-10968-JJCG-EAS) is pending a preliminary-injunction ruling in the Eastern District of Michigan, with a virtual motion hearing held May 21, 2026 (the ACLU of Michigan, MIRC, and Detroit Justice Center joined as parties May 11). The Hurson ruling in Maryland (April 15, 2026) on essentially the same NEPA argument is the most relevant out-of-circuit precedent.
+DHS/ICE announced June 18, 2026 that it would not proceed with the Romulus conversion and intended to sell the property, per AG Nessel; a June 23 court filing confirmed the sale intent. No preliminary-injunction ruling was ever issued in the case (2:26-cv-10968-JJCG-EAS, E.D. Mich.) — the May 21, 2026 virtual hearing (the ACLU of Michigan, MIRC, and Detroit Justice Center joined as parties May 11) was the last litigation activity found before DHS mooted its own motion by withdrawing. The Hurson ruling in Maryland (April 15, 2026) on essentially the same NEPA argument was the most relevant out-of-circuit precedent cited during the litigation, but Michigan's outcome was reached by voluntary agency retreat, not by the court applying that precedent to a ruling.
+
+## Instrument distinctions across the four-state cluster (verified 2026-08-28)
+
+Per Michael Wriston's May 6, 2026 Project Saltbox reporting on the Roxbury NJ case (https://www.projectsaltbox.com/p/new-jersey-town-of-roxbury-press), Michigan and Arizona had "parallel pending challenges" to the Maryland NEPA theory. As of the most recent status found for each, the four states resolved to four **different legal instruments**, not four preliminary injunctions:
+
+- **Maryland (Williamsport)** — **Preliminary injunction granted and entered**, April 15, 2026. *State of Maryland v. Mullin et al.*, Civil No. 26-733-BAH (D. Md.), Judge Brendan A. Hurson. Verified by direct read of the signed memorandum opinion (ECF 43, cases.justia.com/federal/district-courts/maryland/mddce/1:2026cv00733/600507/43/0.pdf): "the Court granted the State's motion for a PI and entered a PI on April 15, 2026." Enjoins construction/renovation for detention purposes at 16220 Wright Road, with narrow carve-outs (security cameras/lighting, fiberoptic alarm cable, HVAC repair, roof/wall leak repair, comms wiring, interior drywall).
+- **New Jersey (Roxbury)** — **Joint stipulation**, not a PI ruling. Filed May 12, 2026, mooting the scheduled injunction hearing before Judge Semper. DHS agreed to complete a full NEPA environmental assessment before construction. See [Roxbury fight](/fights/roxbury-nj-lawsuit/).
+- **Arizona (Surprise)** — **Binding stipulated pause agreement**, not a PI ruling. Filed June 30, 2026, announced July 1, in *Arizona v. Mullin* (D. Ariz., filed April 24, 2026). Pauses conversion work and bars detainee housing pending a NEPA environmental assessment. See [Surprise AZ fight](/fights/surprise-az-ice-warehouse-fight/).
+- **Michigan (Romulus)** — **Voluntary DHS withdrawal / sale-intent announcement**, not a PI ruling and not a stipulation. Announced June 18, 2026; case remains formally open pending a written no-future-detention-use guarantee.
+
+**Only Maryland reached an actual preliminary injunction on the merits.** The other three states each obtained a real, but legally distinct, form of relief — two negotiated stipulations pausing construction pending environmental review, and one unilateral agency retreat. The "each preliminary injunction strengthens the next state's case" framing (as sometimes summarized in secondary coverage of this cluster) should be read precisely: Maryland's PI and its "hard look"/categorical-exclusion reasoning is the precedent the other three cases *cited and leveraged* in negotiating their own (differently-shaped) outcomes — not that three more preliminary injunctions followed it.
 
 ## The Multi-State Pattern
 
@@ -102,6 +118,11 @@ The Michigan Senate is advancing bills (SB 508, SB 510) to limit ICE enforcement
 
 ## Sources
 
+- Michigan Advance: "ICE scraps plans for Romulus detention center, AG says" (Jun 18, 2026)
+- WOODTV.com: "Court filing confirms ICE will sell Romulus warehouse, abandon detention center plans" (Jun 23, 2026)
+- Detroit Free Press: "Feds tells court they will sell controversial Romulus immigration site" (Jun 23, 2026)
+- cascade-research `research-warehouse-conversion-injunction-census-and-disposition-trail-2026-08-27.md` — primary-source docket census for MD/AZ/NJ/MI, confirming Michigan case 2:26-cv-10968-JJCG-EAS remains formally open pending a written no-detention guarantee, no PI ever ruled on
+- Signed memorandum opinion, *State of Maryland v. Mullin et al.*, Civil No. 26-733-BAH (D. Md.), ECF 43, read directly at cases.justia.com/federal/district-courts/maryland/mddce/1:2026cv00733/600507/43/0.pdf (2026-08-28) — confirms PI granted and entered April 15, 2026
 - [Michigan Public: ICE confirms purchase (Feb 17, 2026)](https://www.michiganpublic.org/politics-government/2026-02-17/ice-confirms-purchase-of-detention-facility-in-southeast-michigan)
 - [Michigan AG: Nessel demands ICE halt plan (Feb 27, 2026)](https://www.michigan.gov/ag/news/press-releases/2026/02/27/ag-nessel-demands-ice-halt-plan-to-use-romulus-warehouse-as-mass-detention-facility)
 - [ClickOnDetroit: City and state sue (Mar 24, 2026)](https://www.clickondetroit.com/news/local/2026/03/24/romulus-michigan-and-state-sue-to-block-proposed-ice-detention-facility-in-warehouse/)
