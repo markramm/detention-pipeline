@@ -51,6 +51,12 @@
   {{- else -}}
     {{- $titleParts = $titleParts | append .Title -}}
   {{- end -}}
+{{- else if and (eq .Type "facilities") (not .IsPage) (.Params.facility_count) -}}
+  {{- /* /facilities/ index: 2,290 impressions, 2 clicks (0.1% CTR) before this
+         fix — a bare "Detention Facilities" title has no reason to beat a
+         generic search results page. Surface the tracked-count, the one
+         real aggregate figure this list page has in frontmatter. */ -}}
+  {{- $titleParts = $titleParts | append (printf "%v ICE Detention Facilities Tracked" .Params.facility_count) -}}
 {{- else -}}
   {{- if and .Title (ne .Title "Detention Pipeline") -}}{{- $titleParts = $titleParts | append .Title -}}{{- end -}}
 {{- end -}}

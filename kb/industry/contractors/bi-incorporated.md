@@ -1,6 +1,6 @@
 ---
 id: bi-incorporated
-title: "BI Incorporated"
+title: "BI Incorporated — $121M ICE Skip-Tracing Contract, GPS Monitors for 42,000+"
 type: contractor
 contractor_type: monitoring
 headquarters: "Boulder, Colorado"
