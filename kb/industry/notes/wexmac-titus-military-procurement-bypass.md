@@ -32,6 +32,8 @@ Under WEXMAC, companies can be **"pre-qualified."** Once pre-qualified, the gove
 4. Potentially no public disclosure requirements that apply to standard federal contracts
 5. Access to the full $45 billion pool
 
+> **CORRECTION — 2026-08-28 audit.** Items 1 and 3 above are contradicted by the primary contracting record and are withdrawn. Every WEXMAC-TITUS detention task order on the FPDS record was competed under multiple-award fair-opportunity procedures: GardaWorld/Surprise `70CDCR26FR0000043` — FULL AND OPEN COMPETITION, **6 offers**; KVG/Hagerstown `70CDCR26FR0000035` — FULL AND OPEN COMPETITION, **4 offers**; Acquisition Logistics/Fort Bliss `W9124J25FA075` — full and open after exclusion of sources (small-business set-aside), **11 offers**. GAO protest rights were exercised, not absent: Gemini Tech Services protested the Fort Bliss task order at GAO (July 28, 2025) and then at the Court of Federal Claims (No. 25-1337 C); the protest failed on the Army's CICA-override D&F, not on any lack of standing. What WEXMAC actually bypasses is the *agency solicitation step* (riding an existing Navy IDIQ), the open vendor pool (only ~140 pre-qualified primes may bid), the environmental review, and public solicitation transparency. Genuine no-bid detention awards in this thread run through other authorities — FAR 6.302-1, FAR 6.302-2, and SBIR Phase III — not through WEXMAC task orders.
+
 ## Scale and Expansion
 
 - **Original ceiling**: $10 billion (overseas military logistics)
