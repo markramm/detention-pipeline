@@ -162,7 +162,20 @@
   "description": "Early-warning system for ICE detention facility expansion"
 }
 </script>
+{{/*  ── Dataset markup on reference-database index pages ────────────────────
+       .IsPage is false for these (they're Hugo section/taxonomy list
+       pages, not single content pages), so the general gate above skips
+       them. That's the same gate that made /facilities/, /signals/ice-
+       contract/, and /signals/287g-agreement/ emit zero structured data
+       beyond the sitewide WebSite block -- these are exactly the
+       reference-database indexes Dataset Search should be crawling.
+       Widen the gate for these three specific URLs only; the .IsPage
+       gate for every other page on the site (12,800+) is unchanged.
+*/}}
+{{- $datasetIndexPaths := slice "/facilities/" "/signals/ice-contract/" "/signals/287g-agreement/" -}}
 {{ if and .IsPage (not .IsHome) }}
+{{ partial "schema-org.html" . }}
+{{ else if in $datasetIndexPaths .RelPermalink }}
 {{ partial "schema-org.html" . }}
 {{ end }}
 <!-- Privacy-friendly analytics by Plausible -->

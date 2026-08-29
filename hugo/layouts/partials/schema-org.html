@@ -17,8 +17,69 @@
 
 {{- $data := dict "@context" "https://schema.org" -}}
 
+{{- /* Reference-database index pages -> Dataset.
+       /facilities/, /signals/ice-contract/, /signals/287g-agreement/ are
+       Hugo section/single list pages (.IsPage is false or the section
+       branches below don't apply), so absent this branch they emit no
+       structured data beyond the sitewide WebSite block -- ship-dataset-
+       markup-for-google-dataset-search (cascade-research). Every field
+       below is computed from committed data already published at a live
+       URL; nothing here is invented. */ -}}
+{{- $datasetIndexPaths := slice "/facilities/" "/signals/ice-contract/" "/signals/287g-agreement/" -}}
+{{- if in $datasetIndexPaths .RelPermalink -}}
+  {{- $license := "https://creativecommons.org/licenses/by-sa/4.0/" -}}
+  {{- if eq .RelPermalink "/facilities/" -}}
+    {{- $count := .Params.facility_count -}}
+    {{- $data = merge $data (dict
+      "@type" "Dataset"
+      "name" "ICE Detention Facilities — Detention Pipeline"
+      "description" (printf "%v ICE detention facilities tracked by the Detention Pipeline early-warning system, sourced from the Vera Institute's facility inventory and cross-referenced against county-level signals." $count)
+      "url" .Permalink
+      "creator" (dict "@type" "Organization" "name" "The RAMM" "url" "https://theramm.substack.com")
+      "license" $license
+      "keywords" "ICE detention facilities, immigration detention, facility tracker"
+      "distribution" (dict
+        "@type" "DataDownload"
+        "encodingFormat" "application/json"
+        "contentUrl" (absURL "facilities_map.json")
+      )
+    ) -}}
+  {{- else -}}
+    {{- /* /signals/ice-contract/ and /signals/287g-agreement/: both are
+           rendered from site.RegularPages filtered by Params.entry_type,
+           the same query hugo/layouts/signals/single.html uses to build
+           the on-page table -- so the count here always matches what a
+           visitor sees. temporalCoverage is computed from the matching
+           events in the published timeline.json, not asserted. */ -}}
+    {{- $stype := .Params.signal_type -}}
+    {{- $entries := where site.RegularPages "Params.entry_type" $stype -}}
+    {{- $count := len $entries -}}
+    {{- $label := .Title -}}
+    {{- $timelineEvents := where (index site.Data.timeline "events") "type" $stype -}}
+    {{- $dates := slice -}}
+    {{- range $timelineEvents -}}{{- if .date -}}{{- $dates = $dates | append .date -}}{{- end -}}{{- end -}}
+    {{- $dates = sort $dates -}}
+    {{- $data = merge $data (dict
+      "@type" "Dataset"
+      "name" (printf "%s — Detention Pipeline Signals" $label)
+      "description" (printf "%v %s records tracked by the Detention Pipeline early-warning system, one row per agreement/award with source citation, county, and state." $count (lower $label))
+      "url" .Permalink
+      "creator" (dict "@type" "Organization" "name" "The RAMM" "url" "https://theramm.substack.com")
+      "license" $license
+      "keywords" (printf "%s, ICE detention, immigration enforcement" $label)
+      "distribution" (dict
+        "@type" "DataDownload"
+        "encodingFormat" "application/json"
+        "contentUrl" (absURL "timeline.json")
+      )
+    ) -}}
+    {{- if gt (len $dates) 0 -}}
+      {{- $data = merge $data (dict "temporalCoverage" (printf "%s/%s" (index $dates 0) (index $dates (sub (len $dates) 1)))) -}}
+    {{- end -}}
+  {{- end -}}
+
 {{- /* County pages -> Dataset + spatialCoverage Place */ -}}
-{{- if or (eq $section "county") (eq $type "county") -}}
+{{- else if or (eq $section "county") (eq $type "county") -}}
   {{- $county := $title -}}
   {{- $score := .Params.score | default 0 -}}
   {{- $types := .Params.signal_types | default 0 -}}
