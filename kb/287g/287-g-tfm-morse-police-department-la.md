@@ -2,16 +2,15 @@
 id: 287-g-tfm-morse-police-department-la
 title: '287(g) TFM: Morse Police Department (LA)'
 type: 287g-agreement
-county: Acadia
-state: LA
+county: 'Acadia'
+state: 'LA'
 fips: '22001'
-agency: Morse Police Department
-model: TFM
-signed_date: October 17, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed October 17, 2025
+agency: 'Morse Police Department'
+model: 'TFM'
+signed_date: 'October 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed October 17, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: October 17, 2025
-County: Arcadia County
+County: Acadia
 State: LA
-FIPS: unresolved
+FIPS: 22001
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

@@ -1,0 +1,26 @@
+---
+id: westchester-county-county-ny-budget-appropriations-2026-07-27-cba-rp02a-3248-ice-casino-improvements-ii
+title: 'Westchester County County NY — Budget & Appropriations 2026-07-27: CBA-RP02A-3248-Ice Casino Improvements II'
+type: commission-activity
+county: 'Westchester County'
+state: 'NY'
+fips: '36119'
+source: 'Legistar (Westchester County)'
+signal_strength: 'moderate'
+notes: 'Matched: \bICE\b'
+tags:
+- commission-activity
+- ny
+- moderate
+importance: 5
+---
+
+County commission agenda item matching detention pipeline keywords.
+
+Meeting: Budget & Appropriations
+Date: 2026-07-27
+Agenda Item: CBA-RP02A-3248-Ice Casino Improvements II
+
+Matched keywords: \bICE\b
+
+Full text:

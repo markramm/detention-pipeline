@@ -2,16 +2,15 @@
 id: 287-g-tfm-shalimar-police-department-fl
 title: '287(g) TFM: Shalimar Police Department (FL)'
 type: 287g-agreement
-county: Okaloosa
-state: FL
+county: 'Okaloosa'
+state: 'FL'
 fips: '12091'
-agency: Shalimar Police Department
-model: TFM
-signed_date: August 28, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed August 28, 2025
+agency: 'Shalimar Police Department'
+model: 'TFM'
+signed_date: 'August 28, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed August 28, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: August 28, 2025
-County: 
+County: Okaloosa
 State: FL
-FIPS: unresolved
+FIPS: 12091
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

@@ -2,16 +2,15 @@
 id: 287-g-tfm-dickinson-police-department-nd
 title: '287(g) TFM: Dickinson Police Department (ND)'
 type: 287g-agreement
-county: Stark
-state: ND
+county: 'Stark'
+state: 'ND'
 fips: '38089'
-agency: Dickinson Police Department
-model: TFM
-signed_date: March 7, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed March 7, 2025
+agency: 'Dickinson Police Department'
+model: 'TFM'
+signed_date: 'March 7, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed March 7, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: March 7, 2025
-County: 
+County: Stark
 State: ND
-FIPS: unresolved
+FIPS: 38089
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

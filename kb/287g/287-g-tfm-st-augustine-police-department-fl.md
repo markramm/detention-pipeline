@@ -2,16 +2,15 @@
 id: 287-g-tfm-st-augustine-police-department-fl
 title: '287(g) TFM: St. Augustine Police Department (FL)'
 type: 287g-agreement
-county: St. Johns
-state: FL
+county: 'St. Johns'
+state: 'FL'
 fips: '12109'
-agency: St. Augustine Police Department
-model: TFM
-signed_date: February 28, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed February 28, 2025
+agency: 'St. Augustine Police Department'
+model: 'TFM'
+signed_date: 'February 28, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed February 28, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: February 28, 2025
-County: 
+County: St. Johns
 State: FL
-FIPS: unresolved
+FIPS: 12109
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

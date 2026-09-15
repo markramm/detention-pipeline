@@ -2,16 +2,15 @@
 id: 287-g-tfm-naples-police-department-fl
 title: '287(g) TFM: Naples Police Department (FL)'
 type: 287g-agreement
-county: Collier
-state: FL
+county: 'Collier'
+state: 'FL'
 fips: '12021'
-agency: Naples Police Department
-model: TFM
-signed_date: March 3, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed March 3, 2025
+agency: 'Naples Police Department'
+model: 'TFM'
+signed_date: 'March 3, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed March 3, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: March 3, 2025
-County: 
+County: Collier
 State: FL
-FIPS: unresolved
+FIPS: 12021
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

@@ -1,12 +1,12 @@
 ---
 id: itc-federal-llc-70ctd022fr0000019
-title: 'ITC FEDERAL, LLC — 70CTD022FR0000019 (VA) $62,184,966'
+title: 'ITC FEDERAL, LLC — 70CTD022FR0000019 (VA) $80,928,817'
 type: ice-contract
 state: 'VA'
 contractor: 'ITC FEDERAL, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$62,184,966.02'
+contract_value: '$80,928,817.00'
 contract_type: 'federal-contract'
 award_date: '2022-01-30'
 usaspending_id: '70CTD022FR0000019'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: ITC FEDERAL, LLC
 Award ID: 70CTD022FR0000019
-Amount: $62,184,966.02
+Amount: $80,928,817.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: OPERATIONS AND SOLUTIONS DELIVERY SUPPORT (OSDSS)FOR ASB, IPSB AND AEB

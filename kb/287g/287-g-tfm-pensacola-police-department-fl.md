@@ -2,16 +2,15 @@
 id: 287-g-tfm-pensacola-police-department-fl
 title: '287(g) TFM: Pensacola Police Department (FL)'
 type: 287g-agreement
-county: Escambia
-state: FL
+county: 'Escambia'
+state: 'FL'
 fips: '12033'
-agency: Pensacola Police Department
-model: TFM
-signed_date: June 18, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed June 18, 2025
+agency: 'Pensacola Police Department'
+model: 'TFM'
+signed_date: 'June 18, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed June 18, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: June 18, 2025
-County: 
+County: Escambia
 State: FL
-FIPS: unresolved
+FIPS: 12033
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

@@ -2,16 +2,15 @@
 id: 287-g-tfm-fellsmere-police-department-fl
 title: '287(g) TFM: Fellsmere Police Department (FL)'
 type: 287g-agreement
-county: Indian River
-state: FL
+county: 'Indian River'
+state: 'FL'
 fips: '12061'
-agency: Fellsmere Police Department
-model: TFM
-signed_date: April 23, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed April 23, 2025
+agency: 'Fellsmere Police Department'
+model: 'TFM'
+signed_date: 'April 23, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed April 23, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: April 23, 2025
-County: 
+County: Indian River
 State: FL
-FIPS: unresolved
+FIPS: 12061
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

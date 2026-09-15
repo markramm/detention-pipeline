@@ -1,12 +1,12 @@
 ---
 id: the-geo-group-inc-70cdcr25fr0000004
-title: 'THE GEO GROUP, INC. — 70CDCR25FR0000004 (WA) $117,431,350'
+title: 'THE GEO GROUP, INC. — 70CDCR25FR0000004 (WA) $117,430,750'
 type: ice-contract
 state: 'WA'
 contractor: 'THE GEO GROUP, INC.'
 contractor_type: 'private-prison'
 contract_class: 'detention-related'
-contract_value: '$117,431,349.50'
+contract_value: '$117,430,749.50'
 contract_type: 'federal-contract'
 award_date: '2024-10-28'
 usaspending_id: '70CDCR25FR0000004'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: THE GEO GROUP, INC.
 Award ID: 70CDCR25FR0000004
-Amount: $117,431,349.50
+Amount: $117,430,749.50
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: NEW TASK ORDER FOR DETENTION AND TRANSPORTATION SERVICES AT TACOMA, WA FOR SEATTLE AOR

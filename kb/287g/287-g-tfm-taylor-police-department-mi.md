@@ -2,16 +2,15 @@
 id: 287-g-tfm-taylor-police-department-mi
 title: '287(g) TFM: Taylor Police Department (MI)'
 type: 287g-agreement
-county: Wayne
-state: MI
+county: 'Wayne'
+state: 'MI'
 fips: '26163'
-agency: Taylor Police Department
-model: TFM
-signed_date: April 28, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed April 28, 2025
+agency: 'Taylor Police Department'
+model: 'TFM'
+signed_date: 'April 28, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed April 28, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: April 28, 2025
-County: 
+County: Wayne
 State: MI
-FIPS: unresolved
+FIPS: 26163
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
