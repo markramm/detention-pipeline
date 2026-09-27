@@ -1,6 +1,6 @@
 ---
 id: ahtna-technical-services
-title: "Ahtna Technical Services — $800M in Sole-Source ICE Detention Contracts"
+title: "Ahtna Technical Services — Alaska Native Corp. Runs ICE Detention via 8(a) Contracts (Reported $800M)"
 type: contractor
 contractor_type: facility-operator
 headquarters: "Glennallen, Alaska"

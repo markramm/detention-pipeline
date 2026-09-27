@@ -10,7 +10,7 @@ state: NC
 capacity: "1,300-1,450 beds (rated; no operational/ADP figure independently confirmed as of 2026-08-31)"
 operator: "GEO Group (company-owned; single entity holds title, operates, and holds the federal contract — SEC 10-K FY2020, USAspending recipient UEI = parent UEI)"
 contract_type: federal-contract
-status: operational
+status: contracted
 opened: "2026-08-01 (task-order period-of-performance start; not independently confirmed as physical reopening/activation date)"
 importance: 8
 tags:
@@ -51,7 +51,7 @@ Rivers Correctional Facility sits on 257 acres in Winton, Hertford County (pop. 
 
 **Era distinction**: all of the above describes the BOP-era population (low-security adult male federal inmates, contract 2000/2001 through March 31, 2021) — a legally and functionally distinct population from the civil immigration detainees now housed under the 2026 ICE contract. No consequence (contract action) followed the 2016 findings at the time; the 2021 closure was driven by BOP capacity review and Biden's 2021 EO phasing out DOJ private-prison contracts, not by the OIG report.
 
-Federal prisoner litigation naming Rivers/GEO as defendant exists in E.D.N.C. dockets (six identified via CourtListener: Onley-Israel 5:16-ct-03008, Cline 5:14-ct-03221, Henry 5:14-ct-03172, Lopez-Diaz 5:15-hc-02056, Parker 5:15-hc-02093, Rice 5:06-ct-03045) — docket shells confirmed, underlying complaints not read (behind PACER), so no specific allegation is characterized here beyond the pattern of filings.
+Federal prisoner litigation naming Rivers/GEO as defendant exists in E.D.N.C. dockets (six suits identified via CourtListener, 2006–2016). The underlying complaints have not been reviewed, so no allegation is characterized here beyond the fact of the filings.
 
 ## Community Opposition
 
