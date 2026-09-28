@@ -41,7 +41,7 @@ jobs:
         run: pip install pyyaml pytest
 
       - name: Run unit tests
-        run: python3 -m pytest kb/scripts/tests/ -q
+        run: python3 -m pytest kb/scripts/tests/ hugo/tests/ -q
 
       - name: Setup Pages
         id: pages
@@ -64,6 +64,16 @@ jobs:
           python3 generate_network.py
           python3 scripts/generate_timeline.py
           cp data/timeline.json static/timeline.json
+
+      - name: Generate sitemap
+        # Sitemap index + per-section sitemaps with real lastmod, replacing
+        # Hugo's own flat sitemap.xml (disabled via disableKinds in
+        # hugo.toml). Must run after generate_content.py (reads content/)
+        # and before the Hugo build (writes into static/, which Hugo
+        # copies verbatim into publishDir).
+        run: |
+          cd hugo
+          python3 generate_sitemap.py
 
       - name: Build with Hugo
         env:

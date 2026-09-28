@@ -3,6 +3,13 @@ languageCode = "en-us"
 title = "Detention Pipeline"
 publishDir = "../docs"
 
+# Hugo's own flat sitemap.xml is disabled — generate_sitemap.py writes a
+# sitemap index + per-section sitemaps into static/ instead (real
+# per-page lastmod, split by section so Google can prioritize re-crawls).
+# Run it after generate_content.py and before `hugo build`. robots.txt
+# still points at /sitemap.xml, which is now the index file.
+disableKinds = ["sitemap"]
+
 [params]
   description = "Early-warning system for ICE detention facility expansion"
   repoURL = "https://github.com/markramm/detention-pipeline"
@@ -11,10 +18,6 @@ publishDir = "../docs"
 [taxonomies]
   signal = "signals"
   state = "states"
-
-[sitemap]
-  changefreq = "weekly"
-  priority = 0.5
 
 [markup]
   [markup.goldmark]

@@ -25,7 +25,11 @@
     <h1 class="serif" style="font-size:26px; font-weight:400; margin-bottom:8px;">{{ .Title }}</h1>
 
     <div style="display:flex; gap:16px; flex-wrap:wrap; margin-bottom:16px; font-size:12px; color:var(--text-dim);">
-      {{ with .Params.county }}<span>{{ . }}{{ with $.Params.state }}, {{ . }}{{ end }}</span>{{ end }}
+      {{ with .Params.county }}
+      <span>
+        {{ if $.Params.fips }}<a href="/county/{{ $.Params.fips }}/" style="color:inherit; text-decoration:none; border-bottom:1px dotted var(--text-dim);">{{ . }}{{ with $.Params.state }}, {{ . }}{{ end }}</a>{{ else }}{{ . }}{{ with $.Params.state }}, {{ . }}{{ end }}{{ end }}
+      </span>
+      {{ end }}
       {{ with .Params.fips }}<span class="mono">FIPS {{ . }}</span>{{ end }}
       {{ with .Params.aor }}<span>AOR: {{ . }}</span>{{ end }}
     </div>
@@ -50,7 +54,8 @@
 
     {{ with .Params.operator }}
     <div style="font-size:12.5px; color:var(--text-secondary); margin-bottom:4px;">
-      <strong style="color:var(--text-dim); font-size:10px; text-transform:uppercase; letter-spacing:0.04em;">Operator:</strong> {{ . }}
+      <strong style="color:var(--text-dim); font-size:10px; text-transform:uppercase; letter-spacing:0.04em;">Operator:</strong>
+      {{ if $.Params.operator_url }}<a href="{{ $.Params.operator_url }}" style="color:var(--accent-warm); text-decoration:none;">{{ . }}</a>{{ else }}{{ . }}{{ end }}
     </div>
     {{ end }}
     {{ with .Params.address }}
