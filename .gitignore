@@ -22,6 +22,7 @@ interview-ref/
 /hugo/data/signals.json
 /hugo/data/network.json
 /hugo/data/timeline.json
+/hugo/data/entity_link_report.json
 
 # Generated static payloads (heat map, facilities overlay, per-county JSON,
 # network/timeline copies). counties-albers-10m.json and fips_names.json
@@ -31,6 +32,10 @@ interview-ref/
 /hugo/static/network.json
 /hugo/static/timeline.json
 /hugo/static/county/
+
+# Generated sitemap index + per-section sitemaps (generate_sitemap.py).
+/hugo/static/sitemap.xml
+/hugo/static/sitemap-*.xml
 
 # Claude Code runtime state (lockfiles, local session data)
 .claude/

@@ -36,6 +36,13 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "kb" / "scripts"))
 from frontmatter import parse as parse_frontmatter_yaml
 from schema import load_schema
 
+from entity_links import (
+    build_facility_operator_hints,
+    build_org_index,
+    resolve_facility_links,
+    resolve_relative_md_links,
+)
+
 _SCHEMA = load_schema()
 
 # Mirror the historical dict shape for downstream code: only the subset of
@@ -199,6 +206,22 @@ def normalize_title(title):
 # Wikilink slug -> canonical URL mapping (built during page generation)
 _wikilink_urls = {}
 
+# Entity-link resolution report, populated during generate_all_pages() and
+# printed/exported by main(). See entity_links.py for the resolver itself.
+# Scope: organizations only (facility -> operator/contractor, facility ->
+# county). Never a person. A wrong association is worse than a missing
+# link, so anything not unambiguously resolved lands in the "unresolved"
+# lists below with a reason, not a guessed link.
+ENTITY_LINK_REPORT = {
+    "operator_resolved": 0,
+    "operator_resolved_by_source": {"operator_field": 0, "key_facilities": 0},
+    "operator_unresolved": [],  # [{"id", "title", "reason"}]
+    "county_resolved": 0,
+    "county_unresolved": [],  # [{"id", "title", "reason"}]
+    "md_links_rewritten": 0,
+    "md_links_unresolved": [],  # [{"entry_id", "text", "target"}]
+}
+
 def build_wikilink_map(parsed_entries):
     """Build a map of entry slugs to their canonical URLs."""
     for parsed in parsed_entries:
@@ -292,6 +315,23 @@ def generate_all_pages(parsed_entries, heat_data):
         with open(aliases_path) as f:
             slug_aliases = json.load(f)
         print(f"  Loaded slug-rename map: {len(slug_aliases)} entries with aliases")
+
+    # Entity-link resolution setup (organizations only — see entity_links.py).
+    # Needs one pass over parsed_entries before the per-entry loop below:
+    # the org/contractor index and the fips set a facility might link to
+    # both depend on the full entry list, not just entries seen so far.
+    facility_ids = {
+        p["fields"].get("id", p["md_file"].stem)
+        for p in parsed_entries
+        if p["fields"].get("type") in ("igsa", "facility")
+    }
+    org_index = build_org_index(parsed_entries, _wikilink_urls)
+    operator_hints = build_facility_operator_hints(parsed_entries, facility_ids)
+    all_fips = {
+        p["fields"].get("fips", "").strip()
+        for p in parsed_entries
+        if p["fields"].get("fips", "").strip()
+    }
 
     # Section directories
     for d in ["entry", "fights", "players/contractors", "players/people",
@@ -477,6 +517,35 @@ def generate_all_pages(parsed_entries, heat_data):
             fm["address"] = esc(fields.get("address", ""))
             fm["aor"] = esc(fields.get("aor", ""))
             fm["avg_daily_pop"] = fields.get("avg_daily_pop", "")
+
+            # Entity links — organizations only (facility -> operator/
+            # contractor, facility -> county). Unresolved cases are logged,
+            # never guessed. See entity_links.py.
+            link_result = resolve_facility_links(
+                entry_id, fields.get("operator", ""), fips,
+                org_index, operator_hints, all_fips,
+            )
+            if link_result.operator_url:
+                fm["operator_url"] = link_result.operator_url
+                if not fm["operator"]:
+                    # Operator field was blank on the facility's own record;
+                    # the org/contractor side supplied it (key_facilities).
+                    # Show the resolved organization's title, not the id.
+                    fm["operator"] = esc(link_result.operator_display)
+                ENTITY_LINK_REPORT["operator_resolved"] += 1
+                ENTITY_LINK_REPORT["operator_resolved_by_source"][link_result.operator_source] += 1
+            else:
+                ENTITY_LINK_REPORT["operator_unresolved"].append({
+                    "id": entry_id, "title": title,
+                    "reason": link_result.operator_unresolved_reason,
+                })
+            if link_result.county_url:
+                ENTITY_LINK_REPORT["county_resolved"] += 1
+            else:
+                ENTITY_LINK_REPORT["county_unresolved"].append({
+                    "id": entry_id, "title": title,
+                    "reason": link_result.county_unresolved_reason,
+                })
         else:
             # Default: entry page
             page_path = CONTENT_PATH / "entry" / f"{entry_id}.md"
@@ -493,6 +562,18 @@ def generate_all_pages(parsed_entries, heat_data):
             lines.pop(0)
         clean_body = "\n".join(lines)
         resolved_body = resolve_wikilinks(clean_body)
+        # Fix raw `.md`-relative markdown links left over from KB authoring
+        # (e.g. `[x](../facilities/foo.md)`) — same defect class as the
+        # wikilink fix above, just standard markdown-link syntax instead
+        # of [[slug]]. These 404 for readers and Google alike.
+        resolved_body, md_resolved_count, md_link_unresolved = resolve_relative_md_links(
+            resolved_body, _wikilink_urls
+        )
+        ENTITY_LINK_REPORT["md_links_rewritten"] += md_resolved_count
+        for link_text, target in md_link_unresolved:
+            ENTITY_LINK_REPORT["md_links_unresolved"].append({
+                "entry_id": entry_id, "text": link_text, "target": target,
+            })
 
         # If this entry's slug was renamed in commit 9de7df5a (the stable-slug
         # migration), emit Hugo aliases so the old URLs redirect to the new
@@ -940,6 +1021,22 @@ def main():
     print(f"  entry types: {sorted(entries_by_type.keys())}")
     for etype, elist in sorted(entries_by_type.items(), key=lambda x: -len(x[1])):
         print(f"    {etype}: {len(elist)}")
+
+    print("Entity links (organizations only — facility -> operator/contractor, facility -> county):")
+    r = ENTITY_LINK_REPORT
+    print(f"  operator/contractor links resolved: {r['operator_resolved']}"
+          f" (from operator field: {r['operator_resolved_by_source']['operator_field']},"
+          f" from key_facilities: {r['operator_resolved_by_source']['key_facilities']})")
+    print(f"  operator/contractor links unresolved (logged, no link emitted): {len(r['operator_unresolved'])}")
+    print(f"  county links resolved: {r['county_resolved']}")
+    print(f"  county links unresolved (logged, no link emitted): {len(r['county_unresolved'])}")
+    print(f"  raw .md-path links rewritten to canonical URLs: {r['md_links_rewritten']}")
+    if r["md_links_unresolved"]:
+        print(f"  raw .md-path links that could not be resolved: {len(r['md_links_unresolved'])}")
+    DATA_PATH.mkdir(parents=True, exist_ok=True)
+    with open(DATA_PATH / "entity_link_report.json", "w") as f:
+        json.dump(r, f, indent=2)
+    print(f"  wrote {DATA_PATH / 'entity_link_report.json'}")
 
     print("Generating county pages...")
     generate_county_pages(entries_by_fips, heat_data)
