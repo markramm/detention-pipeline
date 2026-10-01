@@ -52,4 +52,4 @@ Texas's transparency regime — the Texas Public Information Act (Government Cod
 
 Monique O. Madan, ["A Secret ICE Directive Is Testing the Limits of State Public-Records Law"](https://moniqueomadan.substack.com/p/a-secret-ice-directive-is-testing) (Two Can Be True / The Florida Trib, May 6, 2026).
 
-See also: [FL statewide directive entry](/comms/fl-statewide-ice-287g-non-disclosure-directive-april-may-2026/) (canonical record), [Miami-Dade Sheriff's Office directive entry](/comms/miami-dade-fl-ice-287g-non-disclosure-directive-april-may-2026/).
+See also: [FL statewide directive entry](/entry/fl-statewide-ice-287g-non-disclosure-directive-april-may-2026/) (canonical record), [Miami-Dade Sheriff's Office directive entry](/entry/miami-dade-fl-ice-287g-non-disclosure-directive-april-may-2026/).

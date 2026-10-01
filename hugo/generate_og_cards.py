@@ -462,11 +462,31 @@ def main():
             generated += 1
         print(f"  Generated {min(len(heat_data), args.top)} county cards")
 
+    # Fight and player cards from Hugo content
+    content_path = Path("content")
+
     # State cards
     if not args.type or args.type == "state":
         by_state = {}
         for c in heat_data:
             by_state.setdefault(c["state"], []).append(c)
+
+        # heat_data.json only has rows for real counties, so a state page
+        # generated for a non-standard code (e.g. "US", "CU", "AS" --
+        # federal-level, Guantanamo, American Samoa entries that aren't
+        # tied to a specific state/county) never appears above and its
+        # og:image 404s. generate_content.py writes a content/state/<abbr>.md
+        # for every state_abbr an entry references, standard or not, so walk
+        # those files too and make sure every one gets a card (possibly with
+        # zero counties -- generate_state_card handles an empty list fine).
+        state_content_dir = content_path / "state"
+        if state_content_dir.exists():
+            for md in sorted(state_content_dir.glob("*.md")):
+                if md.name == "_index.md":
+                    continue
+                fm = _parse_frontmatter(md.read_text())
+                if fm and fm.get("state_abbr"):
+                    by_state.setdefault(fm["state_abbr"], [])
 
         STATE_NAMES = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut","DE":"Delaware","FL":"Florida","GA":"Georgia","HI":"Hawaii","ID":"Idaho","IL":"Illinois","IN":"Indiana","IA":"Iowa","KS":"Kansas","KY":"Kentucky","LA":"Louisiana","ME":"Maine","MD":"Maryland","MA":"Massachusetts","MI":"Michigan","MN":"Minnesota","MS":"Mississippi","MO":"Missouri","MT":"Montana","NE":"Nebraska","NV":"Nevada","NH":"New Hampshire","NJ":"New Jersey","NM":"New Mexico","NY":"New York","NC":"North Carolina","ND":"North Dakota","OH":"Ohio","OK":"Oklahoma","OR":"Oregon","PA":"Pennsylvania","RI":"Rhode Island","SC":"South Carolina","SD":"South Dakota","TN":"Tennessee","TX":"Texas","UT":"Utah","VT":"Vermont","VA":"Virginia","WA":"Washington","WV":"West Virginia","WI":"Wisconsin","WY":"Wyoming"}
 
@@ -476,8 +496,6 @@ def main():
             generated += 1
         print(f"  Generated {len(by_state)} state cards")
 
-    # Fight and player cards from Hugo content
-    content_path = Path("content")
     if content_path.exists():
         if not args.type or args.type == "fight":
             for md in sorted(content_path.glob("fights/*.md")):
@@ -493,7 +511,17 @@ def main():
             print(f"  Generated fight cards")
 
         if not args.type or args.type == "player":
-            for subdir in ["players/contractors", "players/people", "organizations"]:
+            # Walk every players/* subdirectory that actually exists (not a
+            # fixed list) so a newly added category -- like players/money,
+            # added after this loop was written and never backfilled here --
+            # can't silently 404 its og:image again the same way.
+            player_subdirs = ["organizations"]
+            players_root = content_path / "players"
+            if players_root.exists():
+                player_subdirs += sorted(
+                    f"players/{p.name}" for p in players_root.iterdir() if p.is_dir()
+                )
+            for subdir in player_subdirs:
                 for md in sorted((content_path / subdir).glob("*.md")):
                     if md.name == "_index.md":
                         continue

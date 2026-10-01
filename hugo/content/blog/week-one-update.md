@@ -45,11 +45,11 @@ These are stories we found because someone's browsing told us where to look.
 
 ### Southern Oregon: Three Ways to Hollow Out Sanctuary Law
 
-A visitor read four southern Oregon county pages with extraordinary engagement. What we found: an [entire surveillance network](/notes/southern-oregon-ice-surveillance-network/) — the "Southern Oregon Analyst Group," an informal intelligence-sharing arrangement between crime analysts in Jackson, Josephine, Douglas, and Klamath counties that shared license plate reader data directly with ICE. In Jackson County, [DEA cannabis raids became the pretext](/fights/jackson-county-or-cannabis-raid-ice-pretext/) for 17 ICE arrests — a GEO Group transport bus was pre-staged before the raids began. ICE's Medford field office sits in a county-owned building leased through a private intermediary at $0.28 per square foot. Oregon has been a sanctuary state since 1987.
+A visitor read four southern Oregon county pages with extraordinary engagement. What we found: an [entire surveillance network](/entry/southern-oregon-ice-surveillance-network/) — the "Southern Oregon Analyst Group," an informal intelligence-sharing arrangement between crime analysts in Jackson, Josephine, Douglas, and Klamath counties that shared license plate reader data directly with ICE. In Jackson County, [DEA cannabis raids became the pretext](/fights/jackson-county-or-cannabis-raid-ice-pretext/) for 17 ICE arrests — a GEO Group transport bus was pre-staged before the raids began. ICE's Medford field office sits in a county-owned building leased through a private intermediary at $0.28 per square foot. Oregon has been a sanctuary state since 1987.
 
 ### Minnesota: Enforcement Spreads North
 
-Someone spent three minutes on Crow Wing County. Another systematically read seven Minnesota county pages. What they knew: ICE enforcement has spread from the Twin Cities into a [network of rural county jails](/notes/minnesota-rural-ice-enforcement-expansion-2025-2026/). Kandiyohi County quietly became [Minnesota's largest ICE detention site](/facilities/kandiyohi-county-jail-willmar-mn/) — 150 of 190 beds dedicated to ICE under a 22-year contract. Crow Wing County's sheriff signed [dual 287(g) agreements without board approval](/fights/crow-wing-mn-sheriff-unilateral-287g/). And detainees are being [transferred to Nebraska and Iowa](/notes/minnesota-ice-transfer-pipeline-nebraska/), hundreds of miles from attorneys.
+Someone spent three minutes on Crow Wing County. Another systematically read seven Minnesota county pages. What they knew: ICE enforcement has spread from the Twin Cities into a [network of rural county jails](/entry/minnesota-rural-ice-enforcement-expansion-2025-2026/). Kandiyohi County quietly became [Minnesota's largest ICE detention site](/facilities/kandiyohi-county-jail-willmar-mn/) — 150 of 190 beds dedicated to ICE under a 22-year contract. Crow Wing County's sheriff signed [dual 287(g) agreements without board approval](/fights/crow-wing-mn-sheriff-unilateral-287g/). And detainees are being [transferred to Nebraska and Iowa](/entry/minnesota-ice-transfer-pipeline-nebraska/), hundreds of miles from attorneys.
 
 ### Pima County, Arizona: The Sheriff Who Got Caught
 
@@ -61,7 +61,7 @@ Three visitors came from the Pittsburgh area. What we documented: ICE arrests [t
 
 ### Missouri Ozarks: Rural Jails Competing for ICE Contracts
 
-Someone in Ripley County, Missouri spent six minutes and forty-eight seconds on a county page with a heat score of 11. The adjacent counties told the story: Greene County Jail in Springfield [holds 233 ICE detainees](/facilities/greene-county-jail-springfield-mo/) — 96% on civil violations, no criminal charges — under a contract worth potentially $9 million a year. Ozark County signed at $110 per night plus $1.10 per mile for transport. [Rural jails across the Ozarks](/notes/missouri-ozarks-ice-corridor/) are competing for ICE contracts as an economic lifeline. The Marshall Project documented the pattern. Ripley County itself remains a mystery — flagged for a FOIA request.
+Someone in Ripley County, Missouri spent six minutes and forty-eight seconds on a county page with a heat score of 11. The adjacent counties told the story: Greene County Jail in Springfield [holds 233 ICE detainees](/facilities/greene-county-jail-springfield-mo/) — 96% on civil violations, no criminal charges — under a contract worth potentially $9 million a year. Ozark County signed at $110 per night plus $1.10 per mile for transport. [Rural jails across the Ozarks](/entry/missouri-ozarks-ice-corridor/) are competing for ICE contracts as an economic lifeline. The Marshall Project documented the pattern. Ripley County itself remains a mystery — flagged for a FOIA request.
 
 ---
 
@@ -73,7 +73,7 @@ Several states that were already documented got significantly deeper based on vi
 
 **Colorado** got deeper on two counties visitors studied intensely: the [DENHOLD hold room](/facilities/centennial-denhold-ice-hold-room-co/) — 1,400 people processed through a bedless office building, children as young as one — and Adams County's [multi-front fight](/fights/adams-county-co-ice-multi-front-fight/) where ICE retaliated against sanctuary compliance by refusing to transport detainees to court.
 
-**Kentucky** was refreshed after five visitors all bounced from the state page — they wanted county-level jail data we didn't have. The [overview](/notes/kentucky-ice-detention-overview-2025-2026/) now documents 1,041 average daily ICE detainees across 11 jails, 72% held on non-criminal violations, and the Oldham County open records victory.
+**Kentucky** was refreshed after five visitors all bounced from the state page — they wanted county-level jail data we didn't have. The [overview](/entry/kentucky-ice-detention-overview-2025-2026/) now documents 1,041 average daily ICE detainees across 11 jails, 72% held on non-criminal violations, and the Oldham County open records victory.
 
 **Ohio** was updated with findings from the ACLU's March 2026 "ICE in Ohio" report — someone was cross-referencing our data against it. New: [Franklin County courthouse arrests](/fights/franklin-county-oh-courthouse-arrests/) (20 people detained inside the courthouse) and Clermont County signing 287(g) for zero reimbursement.
 

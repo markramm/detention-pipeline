@@ -39,7 +39,7 @@ last_news_check: '2026-07-03'
 
 On **April 24, 2026**, Arizona Attorney General Kris Mayes filed *Arizona v. Mullin* in the U.S. District Court for the District of Arizona, seeking to block conversion of the **400,000-square-foot warehouse at 13290 W. Sweetwater Road in Surprise** into an ICE detention facility. Defendants are DHS Secretary Markwayne Mullin, ICE Acting Director Todd Lyons, ICE, and DHS.
 
-This is the **fourth state** in the multi-state NEPA challenge to DHS's warehouse-conversion strategy, after [Maryland (April 15 preliminary injunction granted)](/fights/washington-county-md-warehouse-fight/), [Michigan (case pending since March 24)](/fights/romulus-mi-warehouse/), and [New Jersey (May 12 preliminary-injunction hearing)](/fights/roxbury-nj-lawsuit/).
+This is the **fourth state** in the multi-state NEPA challenge to DHS's warehouse-conversion strategy, after [Maryland (April 15 preliminary injunction granted)](/fights/washington-county-md-warehouse-fight/), [Michigan (case pending since March 24)](/fights/romulus-mi-warehouse-fight/), and [New Jersey (May 12 preliminary-injunction hearing)](/fights/roxbury-nj-lawsuit/).
 
 **Note**: This fight is distinct from the [Pinal County 287(g) matter](/fights/pinal-county-az-rogue-attorney/) (Brad Miller / Pinal County Attorney). The Surprise warehouse is in Maricopa County and is a separate detention-conversion matter, filed by AG Mayes under NEPA.
 
@@ -86,10 +86,10 @@ While the press release for *Arizona v. Mullin* did not explicitly cite the Hurs
 ## Cross-References
 
 - **Maryland (Williamsport)** [/fights/washington-county-md-warehouse-fight/](/fights/washington-county-md-warehouse-fight/) — first preliminary injunction in this line; precedent
-- **Michigan (Romulus)** [/fights/romulus-mi-warehouse/](/fights/romulus-mi-warehouse/) — parallel pending NEPA case
+- **Michigan (Romulus)** [/fights/romulus-mi-warehouse-fight/](/fights/romulus-mi-warehouse-fight/) — parallel pending NEPA case
 - **New Jersey (Roxbury)** [/fights/roxbury-nj-lawsuit/](/fights/roxbury-nj-lawsuit/) — May 12 PI hearing
 - **Contractual Capacity vs. Operational Overcrowding** mechanism (cascade-research, May 6, 2026) — documents the 542/550-vs-1,500 cross-state pattern as DHS's standard warehouse-conversion design
-- **GardaWorld Federal Services** organization profile [/players/gardaworld-federal-services/](/players/gardaworld-federal-services/) — same contractor network associated with Camp East Montana (Fort Bliss) and now this AZ contract; same Canadian-parented network as KVG MD
+- **GardaWorld Federal Services** (no standalone industry-profile page yet; see its [$313M ICE contract award](/entry/gardaworld-federal-services-llc-70cdcr26fr0000043/)) — same contractor network associated with Camp East Montana (Fort Bliss) and now this AZ contract; same Canadian-parented network as KVG MD
 - **Mesa AROCC** (Arizona) — separate ICE facility in same state showing the operational-overcrowding pattern (777 in 203-capacity building)
 
 ## Sources
