@@ -40,7 +40,7 @@ jobs:
       - name: Install Python deps
         # Pillow renders the og:image social-preview cards (see
         # "Generate social-preview images" below).
-        run: pip install pyyaml pytest pillow
+        run: pip install pyyaml pytest pillow aiohttp
 
       - name: Run unit tests
         run: python3 -m pytest kb/scripts/tests/ hugo/tests/ -q
