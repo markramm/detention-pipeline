@@ -7,7 +7,7 @@ state: PA
 fips: "42033"
 facility: "Moshannon Valley Processing Center (GEO Group, 1,876 beds — largest ICE facility in Northeast)"
 status: contested
-outcome: "Clearfield County's five-year IGSA with GEO Group expires in 2026 (reported Sept/Nov), making the County Commissioners a pressure point to close the Northeast's largest ICE facility. Through spring 2026, an April hunger strike over medical neglect and spoiled food, three detainee deaths in three years (including the suicide of Chaofeng Ge, cited in a May 27 AP investigation), and sustained Indivisible protests have demanded non-renewal. At an April 28 commissioners meeting only Commissioner Dave Glass committed to voting against renewal; Commissioners Winters and Sobel backed GEO, citing ~$40M regional economic benefit. Reps. Summer Lee and Chris Deluzio made an unannounced facility visit May 28 calling for an overhaul."
+outcome: "Clearfield County's five-year IGSA with GEO Group expires in 2026 (reported Sept/Nov), making the County Commissioners a pressure point to close the Northeast's largest ICE facility. Through spring 2026, an April hunger strike over medical neglect and spoiled food, three detainee deaths in three years (including the suicide of Chaofeng Ge, cited in a May 27 AP investigation), and sustained Indivisible protests have demanded non-renewal. At an April 28 commissioners meeting only Commissioner Dave Glass committed to voting against renewal; Commissioners Winters and Sobel backed GEO, citing ~$40M regional economic benefit. Reps. Summer Lee and Chris Deluzio made an unannounced facility visit May 28 calling for an overhaul. On September 22, 2026 the commissioners voted 2-1 (Winters and Sobel for, Glass against) to extend the IGSA for six months, changing only the staffing plan and contracting officer."
 importance: 9
 tags:
 - moshannon-valley
@@ -22,7 +22,7 @@ tags:
 - pennsylvania
 - summer-lee
 research_status: working
-last_researched: "2026-06-02"
+last_researched: "2026-09-30"
 last_news_check: "2026-06-02"
 ---
 
@@ -56,6 +56,12 @@ Advocates held a May 27 press conference demanding the release of detainee Izzy 
 
 Returning from the May 28 visit, Deluzio reported Monday **June 1, 2026** that **1,417 people** were detained at Moshannon (none of them children), and that **1,100 (about 78%) were classified "low security"** — i.e., not accused of serious or violent crimes. Deluzio framed the data as "in sharp contrast with the Trump Administration's ongoing claims that ICE is targeting … the 'worst of the worst.'" Lee cited two recorded deaths at the facility since the prior year. Detainees raised concerns about food, healthcare, and pregnancy-related care. The lawmakers said translators and staff were **not permitted inside**; ICE stated it does "not provide interpreters or translation services for congressional delegations."
 
+### September 22, 2026 — Six-month extension, 2-1
+
+The commissioners voted **2-1** to extend the Moshannon IGSA for **six months**. **Tim Winters** and **John Sobel** voted yes; **Dave Glass** voted no. Dozens of protesters from across Pennsylvania attended. Per a copy of the extension obtained through a public-records request, it modifies the staffing plan and changes the contracting officer, and "all other terms and conditions remain unchanged." Sobel and Winters said rejecting the contract would cost the Philipsburg-Osceola Area School District tax revenue and would end whatever oversight the county has over the facility. The county's direct payment as middleman is about $200,000 a year.
+
+The extension came while ICE had an open alternative: its turn-key detention solicitation, RFP 70CDCR26R00000026 (proposals were due September 14), includes a Requirement C for the Philadelphia area of responsibility, and one of that requirement's attachments is titled **"Moshannon Enhanced Transportation."** It asks for additional GEO Transport (GTI) teams at hubs in Philadelphia, York, Pittsburgh, Williamsport, Pike County and Dover, Delaware, staged near arrest teams to act as a "mobile detention facility" until the vans are full. NPR reported the mobile-detention plan on September 23. No award had posted on SAM.gov as of September 29.
+
 ## Why This Fight Matters
 
 Unlike the Berks and Schuylkill warehouse fights — where the state has regulatory leverage — Moshannon is an existing, operating facility whose fate turns on a local renewal vote. If the Clearfield commissioners decline to renew, ICE loses its primary Northeast detention hub and the downstream destination of both the Pittsburgh and Philadelphia enforcement pipelines. The commissioners' 2-1 lean toward renewal, against organized opposition and a documented death/neglect record, makes this one of the most consequential county-level detention decisions in Pennsylvania for 2026.
@@ -71,4 +77,9 @@ Unlike the Berks and Schuylkill warehouse fights — where the state has regulat
 - [northcentralpa.com: Protesters demand closure of Moshannon Valley ICE facility](https://www.northcentralpa.com/news/protesters-demand-closure-of-moshannon-valley-ice-facility-in-philipsburg/article_9b2bae03-7a89-42f3-8fe4-90ddfef33ea1.html)
 - [WJAC: Protesters call to close Mo-Valley ICE detention center, demand contract end](https://wjactv.com/news/local/protests-begin-at-moshannon-valley-ice-center)
 - [WTAJ: Activists protest in Philipsburg for closure of ICE detention center](https://www.wtaj.com/news/local-news/activists-protest-in-philipsburg-for-the-closure-of-ice-detention-center/)
+- [Spotlight PA: Clearfield County extends Moshannon Valley contract (Sept 22, 2026)](https://www.spotlightpa.org/statecollege/2026/09/moshannon-valley-clearfield-county-pennsylvania-ice-immigration-detention/)
+- [WPSU: Clearfield County commissioners extend contract for ICE to run Moshannon Valley Processing Center (Sept 22, 2026)](https://radio.wpsu.org/2026-09-22/clearfield-county-commissioners-extend-contract-for-ice-to-run-moshannon-valley-processing-center)
+- [Pennsylvania Capital-Star: Amid opposition, Clearfield County commissioners approve ICE contract extension (Sept 22, 2026)](https://penncapital-star.com/civil-rights-social-justice/amid-opposition-clearfield-county-commissioners-approve-ice-contract-extension/)
+- [SAM.gov: RFP 70CDCR26R00000026, Turn-key Detention Facilities](https://sam.gov/opp/06d1f5210673483ab27eb9b276111055/view) — Attachment 10c1, "Moshannon Enhanced Transportation" ([file](https://sam.gov/api/prod/opps/v3/opportunities/resources/files/12b4e66b122e4ac98c302bcf57c37fbe/download))
+- [NPR: ICE is looking into 'mobile detention facilities' (Sept 23, 2026)](https://www.npr.org/2026/09/23/nx-s1-5976875/ice-mobile-detention-facilities-immigration)
 - [ABC27/Spotlight PA: County will make $1M in 5-year contracts with ICE](https://www.abc27.com/spotlight-pa/pennsylvania-county-will-make-1m-in-5-year-contracts-with-ice-moshannon-detention-center-operator/)
