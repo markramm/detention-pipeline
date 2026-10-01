@@ -32,15 +32,15 @@ Outside the scanner's portals: [Pierce County, WA](/fights/pierce-county-wa-dete
 
 Every weekly ingest from July 14 through September 29 silently rolled back: two USAspending contract IDs it re-pulled were already filed elsewhere in the knowledge base, so the validator rejected each batch. That's fixed, and this refresh adds 946 entries — 755 ICE contract awards (128 detention-related) and 191 commission agenda items.
 
-Two keyword bugs surfaced in the same pass and are now fixed. The scanner read "ICE" case-insensitively, counting National Ice Cream Day and an ice-rink contract as enforcement activity. A looser closed-session/real-estate rule, meant to catch quietly negotiated ICE facility deals, was matching ordinary municipal business with no detention content at all — it's what pushed Essex County, NJ above the map's 100-point "hot" threshold on a Newark community center's funding agreement. Tightening that rule removed 218 commission entries across the corpus that no longer qualify, which is why the commission-item count below nets lower than what this ingest added. We also moved two GEO Group/Valor Network contracts that had been miscategorized as Alaska Native Corporation awards into the ICE-contracts directory where they belong.
+Two keyword bugs surfaced in the same pass and are now fixed. The scanner read "ICE" case-insensitively, counting National Ice Cream Day and an ice-rink contract as enforcement activity. A looser closed-session/real-estate rule, meant to catch quietly negotiated ICE facility deals, was matching ordinary municipal business with no detention content at all — it had added a Newark community center's funding agreement to Essex County, NJ's score. Tightening that rule removed 218 commission entries across the corpus that no longer qualify, which is why the commission-item count below nets lower than what this ingest added. We also moved two GEO Group/Valor Network contracts that had been miscategorized as Alaska Native Corporation awards into the ICE-contracts directory where they belong.
 
 ## Numbers
 
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
 | Knowledge-base entries | 18,192 | 18,921 | +729 |
-| ICE contract records | 2,553 | 3,310 | +757 |
-| Commission agenda items | 621 | 594 | -27 (946 added, then 218 removed as false positives under the tightened keyword rule) |
+| ICE contract records | 2,553 | 3,310 | +757 (755 new, 2 moved from the ANC directory) |
+| Commission agenda items | 621 | 594 | -27 (191 added, then 218 removed as false positives under the tightened keyword rule) |
 | 287(g) agreements | 1,311 | 1,311 | — (source snapshot dated Feb. 17) |
 | Counties scored | 2,032 | 2,032 | — |
 | Highest heat score | 203 | 203 | — ([Broward](/county/12011/), FL: this ingest's +7 was offset by removing one of its weak-keyword commission entries) |
