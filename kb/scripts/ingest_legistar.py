@@ -263,6 +263,14 @@ FALSE_POSITIVES = [
 ]
 
 
+def _search(kw, text):
+    """Case-insensitive keyword search, except the agency acronym: the bare
+    ICE token must be upper case, or "Ice Cream Day", the Ice Age Trail and
+    ice-rink contracts become detention signals."""
+    kw = kw.replace(r"\bICE\b", r"(?-i:\bICE\b)")
+    return re.search(kw, text, re.IGNORECASE)
+
+
 def check_keywords(text):
     """Check text against keyword lists. Returns (signal_strength, matched_keywords)."""
     if not text:
@@ -276,13 +284,13 @@ def check_keywords(text):
     matched = []
 
     for kw in STRONG_KEYWORDS:
-        if re.search(kw, text, re.IGNORECASE):
+        if _search(kw, text):
             matched.append(kw)
     if matched:
         return "strong", matched
 
     for kw in MODERATE_KEYWORDS:
-        if re.search(kw, text, re.IGNORECASE):
+        if _search(kw, text):
             matched.append(kw)
     if matched:
         return "moderate", matched
@@ -290,13 +298,13 @@ def check_keywords(text):
     # Pro-immigrant / sanctuary governance — classified moderate (real fight
     # signal, distinct from enforcement procurement).
     for kw in SANCTUARY_KEYWORDS:
-        if re.search(kw, text, re.IGNORECASE):
+        if _search(kw, text):
             matched.append(kw)
     if matched:
         return "moderate", matched
 
     for kw in CLOSED_SESSION_KEYWORDS:
-        if re.search(kw, text, re.IGNORECASE):
+        if _search(kw, text):
             matched.append(kw)
     if matched:
         return "weak", matched
