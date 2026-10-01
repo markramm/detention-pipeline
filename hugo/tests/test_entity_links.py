@@ -166,6 +166,9 @@ def test_empty_operator_text_yields_no_link_with_reason():
 
 
 def test_key_facilities_hint_fills_a_blank_operator_field():
+    # The key_facilities reverse hint is only ever used when the
+    # facility's own operator field is empty -- see the Bradford
+    # regression test above for the non-empty, non-matching case.
     entries = [
         _entry("mtc", "contractor", title="Management & Training Corporation",
                key_facilities=["some-facility"]),
@@ -177,6 +180,35 @@ def test_key_facilities_hint_fills_a_blank_operator_field():
     )
     assert url == "/players/contractors/mtc/"
     assert source == "key_facilities"
+
+
+def test_nonmatching_operator_text_is_not_overridden_by_key_facilities_hint():
+    # Regression (Bradford County Douglas Building, 2026-09-30): the
+    # facility's own operator field is non-empty but names a sheriff's
+    # office with no organization/contractor entry, while an unrelated
+    # contractor (e.g. a program-management consultant) claims the
+    # facility in its key_facilities list. The record's own text must
+    # win over the reverse hint -- falling back here would link the
+    # rendered "Operator:" text to a consultant that isn't the operator.
+    entries = [
+        _entry("sabot-consulting", "contractor", title="Sabot Consulting",
+               key_facilities=["bradford-county-douglas-building"]),
+    ]
+    idx = build_org_index(entries, WIKILINK_URLS)
+    hints = build_facility_operator_hints(
+        entries, facility_ids={"bradford-county-douglas-building"}
+    )
+    url, entry_id, display, source, reason = resolve_facility_operator(
+        "bradford-county-douglas-building",
+        "Bradford County Sheriff's Office (Sheriff Gordon Smith) / "
+        "prime contractor TBD",
+        idx,
+        hints,
+    )
+    assert url == ""
+    assert entry_id == ""
+    assert source == ""
+    assert "does not match" in reason
 
 
 def test_key_facilities_hint_ignored_when_facility_id_does_not_exist():
