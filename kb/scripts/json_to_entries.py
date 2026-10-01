@@ -142,6 +142,55 @@ def render_frontmatter(entry):
     return lines, entry_id, entry_type
 
 
+# entry_id -> subdir, for every entry already in a signal directory. Built
+# lazily once per run. An ID must be unique across the whole KB (the
+# validator enforces it), so a CREATE whose ID already lives in another
+# directory is a duplicate record of the same award, not a new one: the
+# existing entry wins and the new one is skipped. Without this, two award
+# IDs re-emitted under kb/ice-contracts/ that already exist under kb/anc/
+# failed validation and rolled back every weekly ingest from 2026-07-14.
+_ID_DIRS = None
+
+
+def _id_dirs():
+    global _ID_DIRS
+    if _ID_DIRS is None:
+        _ID_DIRS = {}
+        for subdir in set(ENTRY_TYPE_TO_DIR.values()):
+            d = KB_ROOT / subdir
+            if d.is_dir():
+                for f in d.glob("*.md"):
+                    _ID_DIRS.setdefault(f.stem, subdir)
+    return _ID_DIRS
+
+
+# Keys this converter itself writes. An existing entry carrying any other
+# frontmatter key was enriched by hand (e.g. parent_idv, idv_ceiling from a
+# verified USAspending pull) and is left alone: the ingest source knows less
+# about that record than the entry does.
+_GENERATED_KEYS = set(FRONTMATTER_FIELDS) | {"id", "title", "type", "tags", "importance"}
+
+# Location keys the source may lack (USAspending gives ICE contracts a state,
+# not a county) but an earlier pass resolved. Kept on update when the new
+# record does not supply them, so a re-ingest cannot drop an entry out of
+# its county's heat score.
+_PRESERVE_IF_MISSING = ("county", "fips")
+
+
+def _existing_frontmatter(text):
+    if not text.startswith("---\n"):
+        return {}
+    end = text.find("\n---", 4)
+    if end < 0:
+        return {}
+    try:
+        import yaml
+        data = yaml.safe_load(text[4:end])
+    except Exception:
+        return {}
+    return data if isinstance(data, dict) else {}
+
+
 def write_entry(entry, dry_run=False, stats=None):
     entry_type = entry.get("entry_type") or entry.get("type") or "note"
     subdir = ENTRY_TYPE_TO_DIR.get(entry_type)
@@ -149,22 +198,49 @@ def write_entry(entry, dry_run=False, stats=None):
         print(f"  SKIP: unknown entry_type {entry_type!r}", file=sys.stderr)
         return None
 
+    _, entry_id, _ = render_frontmatter(entry)
+    out_dir = KB_ROOT / subdir
+    out_path = out_dir / f"{entry_id}.md"
+    existing = out_path.read_text(encoding="utf-8") if out_path.exists() else None
+
+    if existing is not None:
+        old_fm = _existing_frontmatter(existing)
+        if set(old_fm) - _GENERATED_KEYS:
+            if stats is not None:
+                stats["curated"] = stats.get("curated", 0) + 1
+            return out_path
+        # Read the raw scalar, not the YAML value: an unquoted FIPS like
+        # 05119 must keep its leading zero.
+        missing = {}
+        for k in _PRESERVE_IF_MISSING:
+            m = re.search(rf"^{k}:[ \t]*(.+?)[ \t]*$", existing.split("\n---", 1)[0], re.M)
+            raw = m.group(1).strip("'\"") if m else ""
+            if raw and entry.get(k) in (None, ""):
+                missing[k] = raw
+        if missing:
+            entry = {**entry, **missing}
+
     fm_lines, entry_id, _ = render_frontmatter(entry)
     body = entry.get("body", "").rstrip()
 
     content = "---\n" + "\n".join(fm_lines) + "\n---\n\n" + body + "\n"
 
-    out_dir = KB_ROOT / subdir
-    out_path = out_dir / f"{entry_id}.md"
-
     # Skip writes when the file exists with identical content. This keeps
     # re-ingest cheap (no mtime churn) and the CI diff small (only genuine
     # changes land in the weekly PR).
-    existing = out_path.read_text(encoding="utf-8") if out_path.exists() else None
     if existing == content:
         if stats is not None:
             stats["unchanged"] += 1
         return out_path
+
+    if existing is None:
+        other = _id_dirs().get(entry_id)
+        if other is not None and other != subdir:
+            if stats is not None:
+                stats["duplicate"] = stats.get("duplicate", 0) + 1
+            print(f"  DUPLICATE: {entry_id} already in {other}/, not creating in {subdir}/",
+                  file=sys.stderr)
+            return KB_ROOT / other / f"{entry_id}.md"
 
     status = "UPDATE" if existing is not None else "CREATE"
     if stats is not None:
@@ -185,7 +261,8 @@ def main():
     p.add_argument("--dry-run", action="store_true", help="Preview without writing")
     args = p.parse_args()
 
-    stats = {"created": 0, "updated": 0, "unchanged": 0, "unroutable": 0}
+    stats = {"created": 0, "updated": 0, "unchanged": 0, "unroutable": 0, "duplicate": 0,
+             "curated": 0}
     for json_file in args.files:
         path = Path(json_file)
         if not path.exists():
@@ -209,7 +286,9 @@ def main():
     total_touched = stats["created"] + stats["updated"]
     print(
         f"\n{stats['created']} created, {stats['updated']} updated, "
-        f"{stats['unchanged']} unchanged, {stats['unroutable']} unroutable "
+        f"{stats['unchanged']} unchanged, {stats['unroutable']} unroutable, "
+        f"{stats['duplicate']} skipped as cross-directory duplicates, "
+        f"{stats['curated']} hand-curated left as is "
         f"(touched {total_touched}/{total_touched + stats['unchanged']})"
     )
     return 0 if stats["unroutable"] == 0 else 1
