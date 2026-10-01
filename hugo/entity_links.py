@@ -194,9 +194,16 @@ def resolve_facility_operator(
         if len(candidates) > 1:
             return ("", "", "", "", f"ambiguous operator name '{operator_raw}' matches {len(candidates)} organizations: {', '.join(candidates)}")
         # Non-empty operator text with no organization/contractor entry
-        # for it: fall through to the key_facilities hint below rather
-        # than failing outright — the reverse mapping is the more
-        # authoritative source when it disagrees or fills a gap.
+        # for it: report unresolved rather than falling back to the
+        # key_facilities reverse hint (Mark, 2026-09-30). The hint is a
+        # contractor's own claim about which facilities it runs; letting
+        # it override what the facility record itself says can attach
+        # the wrong organization to the rendered "Operator:" text (e.g.
+        # linking a program-management consultant as if it were the
+        # operator). A wrong association is worse than a missing one, so
+        # the key_facilities fallback is reserved for when the facility
+        # has no operator text at all.
+        return ("", "", "", "", f"operator text '{operator_raw}' does not match any organization or contractor entry")
 
     hint_ids = operator_hints.get(facility_id, [])
     if len(hint_ids) == 1:
@@ -211,8 +218,8 @@ def resolve_facility_operator(
     if len(hint_ids) > 1:
         return ("", "", "", "", f"ambiguous: {len(hint_ids)} organizations claim this facility in key_facilities: {', '.join(hint_ids)}")
 
-    if operator_raw:
-        return ("", "", "", "", f"operator text '{operator_raw}' does not match any organization or contractor entry")
+    # operator_raw is always empty here -- a non-empty value already
+    # returned above, either resolved or with its own reason.
     return ("", "", "", "", "no operator data")
 
 
