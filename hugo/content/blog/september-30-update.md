@@ -5,7 +5,7 @@ layout: single
 date: 2026-09-30
 summary: "All five counties where DHS signed $7.3 billion in detention construction contracts on September 20 were already near the top of this map. The first data refresh since July adds 755 ICE contract records, including a $100 million GardaWorld contract to transport people arrested under 287(g) anywhere in Texas."
 author: "Mark Ramm"
-draft: true
+draft: false
 ---
 
 ## Notable Signals
@@ -16,7 +16,7 @@ draft: true
 
 **GAO on the first wave of spending.** [GAO-26-108663](https://www.gao.gov/products/gao-26-108663) (September 24): ICE bought 11 warehouses for about $1.07 billion and now plans to sell 7 of them, after more than $20 million in costs it can't recover. Florida was reimbursed through a $608 million FEMA grant at $249 per detainee per day, against ICE's $92 median. ICE says its strategic plan for the expansion will be done on August 31, 2027.
 
-**Moshannon.** On September 22, [Clearfield County](/fights/pa-clearfield-moshannon-valley-fight/) commissioners voted 2-1 to extend the Moshannon Valley IGSA six months ([Spotlight PA](https://www.spotlightpa.org/statecollege/2026/09/moshannon-valley-clearfield-county-pennsylvania-ice-immigration-detention/)). An attachment to ICE's Philadelphia-area detention RFP ([70CDCR26R00000026](https://sam.gov/opp/06d1f5210673483ab27eb9b276111055/view)), titled ["Moshannon Enhanced Transportation"](https://sam.gov/api/prod/opps/v3/opportunities/resources/files/12b4e66b122e4ac98c302bcf57c37fbe/download), asks for GEO Transport teams staged in Philadelphia, York, Pittsburgh, Williamsport, Pike County and Dover, DE, to act as a "mobile detention facility" until the vans are full ([NPR](https://www.npr.org/2026/09/23/nx-s1-5976875/ice-mobile-detention-facilities-immigration) first reported the van plan); nothing had been awarded as of September 29. The RAMM's deeper piece on the vote and the RFP, "The County Gets $200,000. Nobody Will Tell It What It's Giving Up." <!-- LINK: Clearfield RAMM piece URL, publishing Oct 1 -->, publishes October 1 on theramm.transparencycascade.org.
+**Moshannon.** On September 22, [Clearfield County](/fights/pa-clearfield-moshannon-valley-fight/) commissioners voted 2-1 to extend the Moshannon Valley IGSA six months ([Spotlight PA](https://www.spotlightpa.org/statecollege/2026/09/moshannon-valley-clearfield-county-pennsylvania-ice-immigration-detention/)). An attachment to ICE's Philadelphia-area detention RFP ([70CDCR26R00000026](https://sam.gov/opp/06d1f5210673483ab27eb9b276111055/view)), titled ["Moshannon Enhanced Transportation"](https://sam.gov/api/prod/opps/v3/opportunities/resources/files/12b4e66b122e4ac98c302bcf57c37fbe/download), asks for GEO Transport teams staged in Philadelphia, York, Pittsburgh, Williamsport, Pike County and Dover, DE, to act as a "mobile detention facility" until the vans are full ([NPR](https://www.npr.org/2026/09/23/nx-s1-5976875/ice-mobile-detention-facilities-immigration) first reported the van plan); nothing had been awarded as of September 29. The RAMM's deeper piece on the vote and the RFP, "The County Gets $200,000. Nobody Will Tell It What It's Giving Up." <!-- LINK: Clearfield RAMM piece URL, publishing Oct 1 -->, publishes October 1 on theramm.transparencycascade.org. The RAMM on what the county gets and what it gives up: [The County Gets $200,000. Nobody Will Tell It What It's Giving Up.](https://theramm.transparencycascade.org/p/the-county-gets-200000-nobody-will)
 
 ## Coverage Updates
 
