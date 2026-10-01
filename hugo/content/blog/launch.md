@@ -86,10 +86,7 @@ The timeline shows when the acceleration began — and it's not subtle. The 287(
 135 agreements to over 1,600 in fourteen months. The stacked bars break down by signal type. Filter
 by state, zoom to weekly or daily resolution.
 
-<div class="embed-viz">
-<iframe src="/timeline/" style="width:100%; height:480px; border:1px solid #2a2a35; border-radius:4px;" loading="lazy"></iframe>
-<p class="embed-caption">Signal accumulation over time — the 287(g) explosion is unmistakable. Filter by signal type, state, or time range. <a href="/timeline/">Open full screen →</a></p>
-</div>
+<p class="embed-caption">Signal accumulation over time — the 287(g) explosion is unmistakable. The full searchable event timeline, with filters by signal type, state, and time range, lives at our sister project <a href="https://capturecascade.org">capturecascade.org</a>.</p>
 
 ---
 
@@ -121,9 +118,9 @@ signal and a story.
 **If you're technical**, the whole thing is [on
 GitHub](https://github.com/markramm/detention-pipeline) under CC-BY-SA. The data layer is a public
 knowledge base maintained in git. Fork it, extend it, run your own instance, contribute upstream.
-The [resources page](https://detention-pipeline.transparencycascade.org/resources/) catalogs 39
-external tools, organizations, and data sources across eight categories — from bond funds to flight
-trackers to FOIA guides.
+Transparency Cascade Press's [resources hub](https://transparencycascade.org/resources/) rounds up
+the tools, public datasets, and protective guides — from bond funds to flight trackers to FOIA
+guides — that this investigation and its sister projects are built on.
 
 ---
 

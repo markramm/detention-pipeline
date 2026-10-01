@@ -41,7 +41,7 @@ Mass-detention buildout in 2026: ICE opened 152 new detention facilities across 
 - [Tactics](https://detention-pipeline.transparencycascade.org/tactics/): Counter-playbook for communities resisting detention-facility proposals.
 - [Fights](https://detention-pipeline.transparencycascade.org/fights/): Index of 120+ documented community fights against detention-facility expansion. What worked, what didn't, what's still active.
 - [Network](https://detention-pipeline.transparencycascade.org/network/): Interactive graph of relationships between facilities, contractors, and people.
-- [Timeline](https://detention-pipeline.transparencycascade.org/timeline/): Chronological event timeline.
+- [Timeline](https://capturecascade.org): Chronological event timeline (sister project, 4,000+ verified events).
 
 ## Source code & methodology
 
@@ -53,7 +53,7 @@ Mass-detention buildout in 2026: ICE opened 152 new detention facilities across 
 ## Optional
 
 - [Blog](https://detention-pipeline.transparencycascade.org/blog/): Site-side updates, methodology posts, and new-signal explainers.
-- [Resources](https://detention-pipeline.transparencycascade.org/resources/): Linked external resources for organizers and researchers.
+- [Resources](https://transparencycascade.org/resources/): Transparency Cascade Press resource hub — investigations index, research tools, and data-footprint guidance for organizers and researchers.
 
 ## License & attribution
 
