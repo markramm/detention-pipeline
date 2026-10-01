@@ -51,14 +51,24 @@ A **convergence bonus** rewards signal diversity: +10 per signal type beyond 2, 
 ## Site features
 
 - **Interactive heat map** — 1,988 counties scored, zoomable, with facility overlay
-- **Timeline visualization** — D3 stacked bar chart with multi-select filters, state filter, dynamic daily/weekly/monthly resolution
 - **Network visualization** — revolving door diagram + conflict-of-interest matrix with clickable node filtering
 - **Playbook & Counter-Playbook** — 10 consultant tactics + 9 counter-tactics from 13 documented fights
 - **FOIA request generator** — ready-to-send public records requests
 - **Coverage gaps dashboard** — where investigation is most needed
-- **Resources directory** — 39 external resources across 8 categories
 - **County dossiers** — per-county signal breakdown, research guide, corroboration CTAs
 - **Start Here** — 5-step action guide for communities facing a detention pitch
+
+The site's nav links out to two resources maintained elsewhere rather than
+duplicating them here:
+- **Timeline** — the full event timeline lives at
+  [capturecascade.org](https://capturecascade.org), the sister project's
+  4,000+-event verified timeline, rather than as a page on this site.
+- **Resources** — curated external tools, orgs, and data sources live on
+  Transparency Cascade Press's
+  [resources hub](https://transparencycascade.org/resources/). This site
+  does not maintain its own resources directory (it did, briefly, as a
+  39-link/8-category page; that content was retired in April 2026 and the
+  nav link now points to the TCP hub instead).
 
 ## Repository structure
 

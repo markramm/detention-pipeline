@@ -61,7 +61,7 @@ The timeline shows when the acceleration began — and it's not subtle. The 287(
 
 **If you're investigating the industry**, the [coverage gaps page](https://detention-pipeline.transparencycascade.org/coverage/) shows where the data is thinnest. Most counties have only automated signals. Local knowledge — a commission agenda item, a sheriff's conference attendance record, an unusual zoning application — is the difference between a signal and a story.
 
-**If you're technical**, the whole thing is [on GitHub](https://github.com/markramm/detention-pipeline) under CC-BY-SA. The data layer is a public knowledge base maintained in git. Fork it, extend it, run your own instance, contribute upstream. The [resources page](https://detention-pipeline.transparencycascade.org/resources/) catalogs 39 external tools, organizations, and data sources across eight categories — from bond funds to flight trackers to FOIA guides.
+**If you're technical**, the whole thing is [on GitHub](https://github.com/markramm/detention-pipeline) under CC-BY-SA. The data layer is a public knowledge base maintained in git. Fork it, extend it, run your own instance, contribute upstream. Transparency Cascade Press's [resources hub](https://transparencycascade.org/resources/) rounds up the tools, public datasets, and protective guides — from bond funds to flight trackers to FOIA guides — that this investigation and its sister projects are built on.
 
 ---
 
