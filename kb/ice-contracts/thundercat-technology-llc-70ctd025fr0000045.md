@@ -1,14 +1,24 @@
 ---
 id: thundercat-technology-llc-70ctd025fr0000045
-title: THUNDERCAT TECHNOLOGY, LLC — 70CTD025FR0000045 (AZ) $41,429
+title: 'THUNDERCAT TECHNOLOGY, LLC — 70CTD025FR0000045 (AZ) $41,429'
 type: ice-contract
+state: 'AZ'
+contractor: 'THUNDERCAT TECHNOLOGY, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$41,428.76'
+contract_type: 'federal-contract'
+award_date: '2025-07-18'
+usaspending_id: '70CTD025FR0000045'
+source: 'USAspending.gov (award 70CTD025FR0000045)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES JUNIPER FIREWALL MAINTENANCE LICENSE RENEWAL TO PROVIDE A COMPREHENSIVE NETWORK SECURITY SOLUTION. THESE FIREWALLS PROVIDE SECURE PORTALS WHICH ENABLES THE ICE USER COMMUNITY TO COMMUNICATE WITH EXTERNAL CUSTOMERS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - az
 importance: 5
-state: 'AZ'
 ---
 
 ICE contract award.

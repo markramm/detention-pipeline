@@ -2,16 +2,15 @@
 id: 287-g-tfm-marco-island-police-department-fl
 title: '287(g) TFM: Marco Island Police Department (FL)'
 type: 287g-agreement
-county: Collier
-state: FL
+county: 'Collier'
+state: 'FL'
 fips: '12021'
-agency: Marco Island Police Department
-model: TFM
-signed_date: April 24, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed April 24, 2025
+agency: 'Marco Island Police Department'
+model: 'TFM'
+signed_date: 'April 24, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed April 24, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: April 24, 2025
-County: 
+County: Collier
 State: FL
-FIPS: unresolved
+FIPS: 12021
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

@@ -1,0 +1,26 @@
+---
+id: cook-county-county-il-board-of-commissioners-2026-07-16-proposed-resolution-a-resolution-to-establish-a-designated-arts-authority-within
+title: 'Cook County County IL — Board of Commissioners 2026-07-16: PROPOSED RESOLUTION A RESOLUTION TO ESTABLISH A DESIGNATED ARTS AUTHORITY WITHIN'
+type: commission-activity
+county: 'Cook County'
+state: 'IL'
+fips: '17031'
+source: 'Legistar (Cook County)'
+signal_strength: 'weak'
+notes: 'Matched: economic development.*(?:facility|warehouse|federal)'
+tags:
+- commission-activity
+- il
+- weak
+importance: 5
+---
+
+County commission agenda item matching detention pipeline keywords.
+
+Meeting: Board of Commissioners
+Date: 2026-07-16
+Agenda Item: PROPOSED RESOLUTION A RESOLUTION TO ESTABLISH A DESIGNATED ARTS AUTHORITY WITHIN THE COOK COUNTY BUREAU OF ECONOMIC DEVELOPMENT WHEREAS, the Arts Alliance Illinois assessment of the suburban arts ecosystem finds that suburban communities lack the resources, infrastructure, and connectivity available within the City of Chicago for artists, cultural organizations, and creative workers; and WHEREAS, the report further documents notably limited government and philanthropic investment in the suburban creative sector; and WHEREAS, the assessment recommends continuation and expansion of Cook County Arts to ensure that suburban communities can access available resources, strengthen their organizational capacity, improve resource navigation, and integrate creative economy support into broader County initiatives; and WHEREAS, these initiatives carried out under Cook County Arts demonstrate BED’s capacity to design, implement, and administer arts and culture programming; and WHEREAS, Cook County has developed a strong foundation and regional reputation for coordinating and supporting arts programming, particularly within suburban Cook County, through the Bureau of Economic Development; and WHEREAS, recognizing both the County’s achievements and current fiscal constraints, the assessment recommends strategies that do not require additional County investment but would allow Cook County to serve as a thought leader, convener, and funder for the creative sector; and WHEREAS, the assessment identifies available state and federal funding streams that require a designated arts agency and that could provide resources for the County to regrant funds to suburban arts organizations and programs; and WHEREAS, the Illinois Arts Council (IAC) defines a local arts agency as a community-based organization or a city or county government agency that supports all the arts in a defined area of service and has governance that reflects community needs, planning and assessment, year-round management, and defined area services; and WHEREAS, designation as a local arts agency would allow Cook County to pursue state and federal arts funding, strengthen the creative economy, provide administrative support to BED, and enhance regional coordination with state, federal, and peer arts agencies; and WHEREAS, BED will continue to operate Cook County Arts as a programmatic unit within the Bureau to support artists, cultural organizations, creative workers, and community-based arts initiatives and integrate these activities into ongoing operations, unless otherwise reorganized by future ordinance; and WHEREAS, in carrying out these responsibilities, Cook County Arts shall operate in alignment with all County budgetary, procurement, compliance, and reporting requirements to ensure transparency, accountability, and consistency with County policies; and WHEREAS, for the purposes of administering arts programming, grantmaking and regranting activities shall be conducted as grants and subawards, while purchased services shall continue to be governed by the Cook County Procurement Code; and WHEREAS, through Cook County Arts, BED shall continue to advise the President and the Cook County Board of Commissioners on arts related policy, funding, and planning, and support intergovernmental and regional collaboration with municipalities, state agencies, federal programs, and other partners; and WHEREAS, Cook County Arts will engage communities equitably to ensure that arts resources and opportunities are accessible throughout suburban Cook County; and WHEREAS, BED shall coordinate with other County agencies that support arts activities, including Cook County Health and the Justice Advisory Council, and with external partners such as World Business Chicago, the Chicagoland Greater Economic Partnership, and the Chicago Metropolitan Agency for Planning (CMAP), which have shared commitments to the creative economy and capacity for research, data collection, and economic impact analysis; and WHEREAS, BED shall perform any additional functions necessary to advance the County’s arts and cultural objectives, as authorized by the Bureau of Economic Development; and NOW, THEREFORE, BE IT RESOLVED, that the Cook County Board of Commissioners hereby designates the Cook County Bureau of Economic Development as the County’s arts agency for the purpose of applying for, receiving, and administering state and federal arts funding; and BE IT FURTHER RESOLVED, that this resolution shall take effect immediately upon passage and approval.
+
+Matched keywords: economic development.*(?:facility|warehouse|federal)
+
+Full text:

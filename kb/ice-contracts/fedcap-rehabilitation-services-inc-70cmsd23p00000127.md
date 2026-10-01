@@ -1,12 +1,12 @@
 ---
 id: fedcap-rehabilitation-services-inc-70cmsd23p00000127
-title: 'FEDCAP REHABILITATION SERVICES, INC — 70CMSD23P00000127 (NY) $200,853'
+title: 'FEDCAP REHABILITATION SERVICES, INC — 70CMSD23P00000127 (NY) $269,743'
 type: ice-contract
 state: 'NY'
 contractor: 'FEDCAP REHABILITATION SERVICES, INC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$200,853.36'
+contract_value: '$269,742.84'
 contract_type: 'federal-contract'
 award_date: '2023-09-01'
 usaspending_id: '70CMSD23P00000127'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: FEDCAP REHABILITATION SERVICES, INC
 Award ID: 70CMSD23P00000127
-Amount: $200,853.36
+Amount: $269,742.84
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: RE-COMPETE THE NEW YORK COURIER SERVICE
-Period: 2023-09-01 to 2026-08-31
+Period: 2023-09-01 to 2027-08-31
 Location: None, NY

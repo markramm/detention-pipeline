@@ -1,14 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw25fc0000063
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FC0000063 (MI) $26,620
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FC0000063 (MI) $26,620'
 type: ice-contract
+state: 'MI'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$26,620.40'
+contract_type: 'federal-contract'
+award_date: '2025-07-11'
+usaspending_id: '70CMSW25FC0000063'
+source: 'USAspending.gov (award 70CMSW25FC0000063)'
+signal_strength: 'strong'
+notes: 'THIS AWARD PROVIDES AUTHORIZED RESTRAINTS FOR LAW ENFORCEMENT USE TO SUPPORT THE ICE- ENFORCEMENT AND REMOVAL OPERATIONS.'
 tags:
 - ice-contract
 - other
 - detention-related
 - mi
 importance: 5
-state: 'MI'
 ---
 
 ICE contract award.

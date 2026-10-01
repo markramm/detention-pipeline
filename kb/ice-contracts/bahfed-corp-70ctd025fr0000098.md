@@ -1,14 +1,24 @@
 ---
 id: bahfed-corp-70ctd025fr0000098
-title: BAHFED CORP — 70CTD025FR0000098 (DC) $30,747
+title: 'BAHFED CORP — 70CTD025FR0000098 (DC) $30,747'
 type: ice-contract
+state: 'DC'
+contractor: 'BAHFED CORP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$30,746.87'
+contract_type: 'federal-contract'
+award_date: '2025-09-19'
+usaspending_id: '70CTD025FR0000098'
+source: 'USAspending.gov (award 70CTD025FR0000098)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS CONTRACT IS TO PROVIDE CISCO IT EQUIPMENT FOR THE OFFICE OF THE CHIEF INFORMATION OFFICER (OCIO)'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

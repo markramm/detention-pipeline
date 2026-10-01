@@ -1,14 +1,24 @@
 ---
 id: price-modern-llc-70cmsw25fc0000096
-title: PRICE MODERN LLC — 70CMSW25FC0000096 (PR) $8,125
+title: 'PRICE MODERN LLC — 70CMSW25FC0000096 (PR) $8,125'
 type: ice-contract
+state: 'PR'
+contractor: 'PRICE MODERN LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$8,125.00'
+contract_type: 'federal-contract'
+award_date: '2025-07-31'
+usaspending_id: '70CMSW25FC0000096'
+source: 'USAspending.gov (award 70CMSW25FC0000096)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES FURNITURE DESIGN SERVICES FOR HOMELAND SECURITY INVESTIGATIONS IN SAN JUAN, PR.'
 tags:
 - ice-contract
 - other
 - other-ice
 - pr
 importance: 5
-state: 'PR'
 ---
 
 ICE contract award.

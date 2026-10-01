@@ -1,12 +1,12 @@
 ---
 id: corp-ten-international-70cmsd24p00000140
-title: 'CORP TEN INTERNATIONAL — 70CMSD24P00000140 (VA) $3,338,826'
+title: 'CORP TEN INTERNATIONAL — 70CMSD24P00000140 (VA) $5,368,821'
 type: ice-contract
 state: 'VA'
 contractor: 'CORP TEN INTERNATIONAL'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$3,338,826.04'
+contract_value: '$5,368,820.61'
 contract_type: 'federal-contract'
 award_date: '2024-09-29'
 usaspending_id: '70CMSD24P00000140'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: CORP TEN INTERNATIONAL
 Award ID: 70CMSD24P00000140
-Amount: $3,338,826.04
+Amount: $5,368,820.61
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: SATELITTE AND CELLUAR SERVICES.

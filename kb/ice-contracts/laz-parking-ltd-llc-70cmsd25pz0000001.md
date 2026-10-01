@@ -1,12 +1,12 @@
 ---
 id: laz-parking-ltd-llc-70cmsd25pz0000001
-title: 'LAZ PARKING LTD, LLC — 70CMSD25PZ0000001 (CT) $8,607'
+title: 'LAZ PARKING LTD, LLC — 70CMSD25PZ0000001 (CT) $17,730'
 type: ice-contract
 state: 'CT'
 contractor: 'LAZ PARKING LTD, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$8,607.48'
+contract_value: '$17,730.12'
 contract_type: 'federal-contract'
 award_date: '2025-09-01'
 usaspending_id: '70CMSD25PZ0000001'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: LAZ PARKING LTD, LLC
 Award ID: 70CMSD25PZ0000001
-Amount: $8,607.48
+Amount: $17,730.12
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD IS FOR THE LEASE OF FOUR (4) PARKING SPACES FOR SPECIAL AGENT IN CHARGE BOSTON NEW HAVEN OFFICE.
-Period: 2025-09-01 to 2026-08-31
+Period: 2025-09-01 to 2027-08-31
 Location: None, CT

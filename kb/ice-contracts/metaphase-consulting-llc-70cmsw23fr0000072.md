@@ -1,12 +1,12 @@
 ---
 id: metaphase-consulting-llc-70cmsw23fr0000072
-title: 'METAPHASE CONSULTING LLC — 70CMSW23FR0000072 (VA) $2,228,249'
+title: 'METAPHASE CONSULTING LLC — 70CMSW23FR0000072 (VA) $3,046,336'
 type: ice-contract
 state: 'VA'
 contractor: 'METAPHASE CONSULTING LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$2,228,249.24'
+contract_value: '$3,046,335.99'
 contract_type: 'federal-contract'
 award_date: '2023-06-30'
 usaspending_id: '70CMSW23FR0000072'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: METAPHASE CONSULTING LLC
 Award ID: 70CMSW23FR0000072
-Amount: $2,228,249.24
+Amount: $3,046,335.99
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: PERSONAL PROPERTY, MAIL AND PRINT SUPPORT SERVICES

@@ -2,16 +2,15 @@
 id: 287-g-tfm-green-cove-springs-police-department-fl
 title: '287(g) TFM: Green Cove Springs Police Department (FL)'
 type: 287g-agreement
-county: Clay
-state: FL
+county: 'Clay'
+state: 'FL'
 fips: '12019'
-agency: Green Cove Springs Police Department
-model: TFM
-signed_date: April 10, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed April 10, 2025
+agency: 'Green Cove Springs Police Department'
+model: 'TFM'
+signed_date: 'April 10, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed April 10, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: April 10, 2025
-County: 
+County: Clay
 State: FL
-FIPS: unresolved
+FIPS: 12019
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

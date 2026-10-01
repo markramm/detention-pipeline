@@ -1,12 +1,12 @@
 ---
 id: dignari-llc-70cdcr23fc0000007
-title: 'DIGNARI, LLC — 70CDCR23FC0000007 (DC) $6,781,323'
+title: 'DIGNARI, LLC — 70CDCR23FC0000007 (DC) $6,488,753'
 type: ice-contract
 state: 'DC'
 contractor: 'DIGNARI, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$6,781,323.36'
+contract_value: '$6,488,753.46'
 contract_type: 'federal-contract'
 award_date: '2023-09-12'
 usaspending_id: '70CDCR23FC0000007'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: DIGNARI, LLC
 Award ID: 70CDCR23FC0000007
-Amount: $6,781,323.36
+Amount: $6,488,753.46
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: NATIONAL DOCKET SUPPORT SERVICES

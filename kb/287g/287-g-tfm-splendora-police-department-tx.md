@@ -2,16 +2,15 @@
 id: 287-g-tfm-splendora-police-department-tx
 title: '287(g) TFM: Splendora Police Department (TX)'
 type: 287g-agreement
-county: Montgomery
-state: TX
+county: 'Montgomery'
+state: 'TX'
 fips: '48339'
-agency: Splendora Police Department
-model: TFM
-signed_date: June 13, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed June 13, 2025
+agency: 'Splendora Police Department'
+model: 'TFM'
+signed_date: 'June 13, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed June 13, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: June 13, 2025
-County: 
+County: Montgomery
 State: TX
-FIPS: unresolved
+FIPS: 48339
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

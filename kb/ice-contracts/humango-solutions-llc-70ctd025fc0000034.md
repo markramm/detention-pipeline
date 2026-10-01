@@ -29,5 +29,5 @@ Amount: $27,245.71
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: PROVIDES THE PROCUREMENT & INSTALLATION OF VIDEO TELECONFERENCING EQUIPMENT FOR THE ENFORCEMENT & REMOVAL OPERATIONS SITE LOCATED IN MILWAUKEE, WI.
-Period: 2025-09-19 to 2026-02-16
+Period: 2025-09-19 to 2026-10-21
 Location: None, WI

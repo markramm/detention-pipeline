@@ -29,5 +29,5 @@ Amount: $12,626,200.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THE CONTRACT IS FOR TECHNICAL INVESTIGATIVE EQUIPMENT UPGRADES TO BE UTILIZED BY HOMELAND SECURITY INVESTIGATIONS AGENTS NATIONWIDE.
-Period: 2025-09-30 to 2026-06-27
+Period: 2025-09-30 to 2027-06-27
 Location: None, VA

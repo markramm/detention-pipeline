@@ -2,16 +2,15 @@
 id: 287-g-tfm-quincy-police-department-fl
 title: '287(g) TFM: Quincy Police Department (FL)'
 type: 287g-agreement
-county: Gadsden
-state: FL
+county: 'Gadsden'
+state: 'FL'
 fips: '12039'
-agency: Quincy Police Department
-model: TFM
-signed_date: July 7, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed July 7, 2025
+agency: 'Quincy Police Department'
+model: 'TFM'
+signed_date: 'July 7, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed July 7, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: July 7, 2025
-County: 
+County: Gadsden
 State: FL
-FIPS: unresolved
+FIPS: 12039
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

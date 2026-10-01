@@ -1,11 +1,12 @@
 ---
 id: dell-federal-systems-l-p-70ctd026fc0000011
-title: 'DELL FEDERAL SYSTEMS L.P — 70CTD026FC0000011 (DC)'
+title: 'DELL FEDERAL SYSTEMS L.P — 70CTD026FC0000011 (DC) $27,780,624'
 type: ice-contract
 state: 'DC'
 contractor: 'DELL FEDERAL SYSTEMS L.P'
 contractor_type: 'other'
 contract_class: 'other-ice'
+contract_value: '$27,780,623.73'
 contract_type: 'federal-contract'
 award_date: '2026-04-24'
 usaspending_id: '70CTD026FC0000011'
@@ -24,7 +25,7 @@ ICE contract award.
 
 Recipient: DELL FEDERAL SYSTEMS L.P
 Award ID: 70CTD026FC0000011
-Amount: $0.00
+Amount: $27,780,623.73
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS CALL SUPPORTS THE U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT, OFFICE OF THE CHIEF INFORMATION OFFICER THROUGH THE PURCHASE OF THE MICROSOFT ENTERPRISE SOFTWARE LICENSES AND UNIFIED SPECIALIZED SUPPORT.  PAYMENT WILL BE MADE BASED ON RECEIPT OF A

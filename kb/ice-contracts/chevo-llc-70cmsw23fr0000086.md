@@ -1,12 +1,12 @@
 ---
 id: chevo-llc-70cmsw23fr0000086
-title: 'CHEVO LLC — 70CMSW23FR0000086 (DC) $6,948,929'
+title: 'CHEVO LLC — 70CMSW23FR0000086 (DC) $6,945,787'
 type: ice-contract
 state: 'DC'
 contractor: 'CHEVO LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$6,948,928.85'
+contract_value: '$6,945,787.23'
 contract_type: 'federal-contract'
 award_date: '2023-08-24'
 usaspending_id: '70CMSW23FR0000086'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: CHEVO LLC
 Award ID: 70CMSW23FR0000086
-Amount: $6,948,928.85
+Amount: $6,945,787.23
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: CONGESSIONAL BUDGET JUSTIFICATION SUPPORT SERVCES

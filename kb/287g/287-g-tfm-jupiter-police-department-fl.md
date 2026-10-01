@@ -2,16 +2,15 @@
 id: 287-g-tfm-jupiter-police-department-fl
 title: '287(g) TFM: Jupiter Police Department (FL)'
 type: 287g-agreement
-county: Palm Beach
-state: FL
+county: 'Palm Beach'
+state: 'FL'
 fips: '12099'
-agency: Jupiter Police Department
-model: TFM
-signed_date: March 26, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed March 26, 2025
+agency: 'Jupiter Police Department'
+model: 'TFM'
+signed_date: 'March 26, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed March 26, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: March 26, 2025
-County: 
+County: Palm Beach
 State: FL
-FIPS: unresolved
+FIPS: 12099
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

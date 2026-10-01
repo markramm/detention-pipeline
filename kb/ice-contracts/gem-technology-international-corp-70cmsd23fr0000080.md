@@ -1,12 +1,12 @@
 ---
 id: gem-technology-international-corp-70cmsd23fr0000080
-title: 'GEM TECHNOLOGY INTERNATIONAL, CORP — 70CMSD23FR0000080 (TX) $21,148,906'
+title: 'GEM TECHNOLOGY INTERNATIONAL, CORP — 70CMSD23FR0000080 (TX) $33,494,448'
 type: ice-contract
 state: 'TX'
 contractor: 'GEM TECHNOLOGY INTERNATIONAL, CORP'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$21,148,905.90'
+contract_value: '$33,494,447.97'
 contract_type: 'federal-contract'
 award_date: '2023-08-01'
 usaspending_id: '70CMSD23FR0000080'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: GEM TECHNOLOGY INTERNATIONAL, CORP
 Award ID: 70CMSD23FR0000080
-Amount: $21,148,905.90
+Amount: $33,494,447.97
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: PROGRAM AND ADMINISTRATIVE SUPPORT SERVICES
-Period: 2023-08-01 to 2026-07-31
+Period: 2023-08-01 to 2027-07-31
 Location: None, TX

@@ -1,14 +1,24 @@
 ---
 id: quantico-tactical-incorporated-70cmsw25fc0000061
-title: QUANTICO TACTICAL INCORPORATED — 70CMSW25FC0000061 (NC) $38,502
+title: 'QUANTICO TACTICAL INCORPORATED — 70CMSW25FC0000061 (NC) $38,502'
 type: ice-contract
+state: 'NC'
+contractor: 'QUANTICO TACTICAL INCORPORATED'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$38,502.46'
+contract_type: 'federal-contract'
+award_date: '2025-07-02'
+usaspending_id: '70CMSW25FC0000061'
+source: 'USAspending.gov (award 70CMSW25FC0000061)'
+signal_strength: 'strong'
+notes: 'THE AWARD PROVIDES HANDCUFFS, LEG RESTRAINTS AND BELLY CHAINS TO SUPPORT LAW ENFORCEMENT OPERATIONS FOR THE ICE- ENFORCEMENT AND REMOVAL OPERATIONS IN LOS ANGELS, CA.'
 tags:
 - ice-contract
 - other
 - detention-related
 - nc
 importance: 5
-state: 'NC'
 ---
 
 ICE contract award.

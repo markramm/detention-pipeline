@@ -2,16 +2,15 @@
 id: 287-g-tfm-windermere-police-department-fl
 title: '287(g) TFM: Windermere Police Department (FL)'
 type: 287g-agreement
-county: Orange
-state: FL
+county: 'Orange'
+state: 'FL'
 fips: '12095'
-agency: Windermere Police Department
-model: TFM
-signed_date: June 5, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed June 5, 2025
+agency: 'Windermere Police Department'
+model: 'TFM'
+signed_date: 'June 5, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed June 5, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: June 5, 2025
-County: 
+County: Orange
 State: FL
-FIPS: unresolved
+FIPS: 12095
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

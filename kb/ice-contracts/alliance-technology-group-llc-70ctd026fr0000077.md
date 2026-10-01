@@ -1,0 +1,33 @@
+---
+id: alliance-technology-group-llc-70ctd026fr0000077
+title: 'ALLIANCE TECHNOLOGY GROUP, LLC — 70CTD026FR0000077 (DC) $657,072'
+type: ice-contract
+state: 'DC'
+contractor: 'ALLIANCE TECHNOLOGY GROUP, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$657,071.90'
+contract_type: 'federal-contract'
+award_date: '2026-09-29'
+usaspending_id: '70CTD026FR0000077'
+source: 'USAspending.gov (award 70CTD026FR0000077)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS TASK ORDER AWARD IS TO PROVIDE ALL IHSC STAFFED FACILITIES WITH INTEGRATED TELEHEALTH DIGITAL INFORMATION AND COMMUNICATION TECHNOLOGIES TO MANAGE HEALTHCARE SERVICES REMOTELY. THIS TASK ORDER AWARD INCLUDES A 12-MONTH BASE PERIOD'
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: ALLIANCE TECHNOLOGY GROUP, LLC
+Award ID: 70CTD026FR0000077
+Amount: $657,071.90
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THE PURPOSE OF THIS TASK ORDER AWARD IS TO PROVIDE ALL IHSC STAFFED FACILITIES WITH INTEGRATED TELEHEALTH DIGITAL INFORMATION AND COMMUNICATION TECHNOLOGIES TO MANAGE HEALTHCARE SERVICES REMOTELY. THIS TASK ORDER AWARD INCLUDES A 12-MONTH BASE PERIOD
+Period: 2026-09-29 to 2027-09-28
+Location: None, DC

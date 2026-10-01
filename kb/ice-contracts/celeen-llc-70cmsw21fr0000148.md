@@ -1,12 +1,12 @@
 ---
 id: celeen-llc-70cmsw21fr0000148
-title: 'CELEEN LLC — 70CMSW21FR0000148 (FL) $8,441,210'
+title: 'CELEEN LLC — 70CMSW21FR0000148 (FL) $8,971,221'
 type: ice-contract
 state: 'FL'
 contractor: 'CELEEN LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$8,441,210.15'
+contract_value: '$8,971,221.05'
 contract_type: 'federal-contract'
 award_date: '2021-09-29'
 usaspending_id: '70CMSW21FR0000148'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: CELEEN LLC
 Award ID: 70CMSW21FR0000148
-Amount: $8,441,210.15
+Amount: $8,971,221.05
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: STRATEGIC SUPPORT SERVICES - OCFO
-Period: 2021-09-29 to 2026-09-29
+Period: 2021-09-29 to 2027-03-29
 Location: None, FL

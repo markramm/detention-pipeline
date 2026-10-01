@@ -1,12 +1,12 @@
 ---
 id: kci-acuity-llc-70ctd023fr0000017
-title: 'KCI-ACUITY, LLC — 70CTD023FR0000017 (DC) $12,053,440'
+title: 'KCI-ACUITY, LLC — 70CTD023FR0000017 (DC) $15,306,105'
 type: ice-contract
 state: 'DC'
 contractor: 'KCI-ACUITY, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$12,053,440.24'
+contract_value: '$15,306,104.78'
 contract_type: 'federal-contract'
 award_date: '2023-06-01'
 usaspending_id: '70CTD023FR0000017'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: KCI-ACUITY, LLC
 Award ID: 70CTD023FR0000017
-Amount: $12,053,440.24
+Amount: $15,306,104.78
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS CONTRACT IS FOR ICE DATA REPORTING SYSTEM (IDRS) SUPPORT FOR THE OFFICE OF THE CHIEF INFORMATION OFFICER (OCIO)

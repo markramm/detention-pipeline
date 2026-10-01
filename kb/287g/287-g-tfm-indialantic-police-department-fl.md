@@ -2,16 +2,15 @@
 id: 287-g-tfm-indialantic-police-department-fl
 title: '287(g) TFM: Indialantic Police Department (FL)'
 type: 287g-agreement
-county: Brevard
-state: FL
+county: 'Brevard'
+state: 'FL'
 fips: '12009'
-agency: Indialantic Police Department
-model: TFM
-signed_date: May 13, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed May 13, 2025
+agency: 'Indialantic Police Department'
+model: 'TFM'
+signed_date: 'May 13, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed May 13, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: May 13, 2025
-County: 
+County: Brevard
 State: FL
-FIPS: unresolved
+FIPS: 12009
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

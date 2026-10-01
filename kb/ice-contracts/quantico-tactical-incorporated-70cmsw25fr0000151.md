@@ -1,24 +1,26 @@
 ---
 id: quantico-tactical-incorporated-70cmsw25fr0000151
-title: QUANTICO TACTICAL INCORPORATED — 70CMSW25FR0000151 (NC) $9,999,966
+title: 'QUANTICO TACTICAL INCORPORATED — 70CMSW25FR0000151 (NC) $9,999,966'
 type: ice-contract
+county: 'HOKE'
+state: 'NC'
+fips: '37093'
+contractor: 'QUANTICO TACTICAL INCORPORATED'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$9,999,966.10'
+contract_type: 'federal-contract'
+award_date: '2025-09-30'
+usaspending_id: '70CMSW25FR0000151'
+source: 'USAspending.gov (award 70CMSW25FR0000151)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES FIREARMS AND MAGAZINES FOR IMMIGRATION AND CUSTOMS ENFORCEMENT, OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - nc
 importance: 5
-state: 'NC'
-county: 'HOKE'
-fips: '37093'
-contractor: 'QUANTICO TACTICAL INCORPORATED'
-contract_value: '$9,999,966.10'
-contract_type: 'federal-contract'
-award_date: '2025-09-30'
-usaspending_id: '70CMSW25FR0000151'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THIS AWARD PROCURES FIREARMS AND MAGAZINES FOR IMMIGRATION AND CUSTOMS ENFORCEMENT, OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 ---
 
 ICE contract award.

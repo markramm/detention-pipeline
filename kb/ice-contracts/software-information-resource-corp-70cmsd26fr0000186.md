@@ -1,0 +1,33 @@
+---
+id: software-information-resource-corp-70cmsd26fr0000186
+title: 'SOFTWARE INFORMATION RESOURCE CORP. — 70CMSD26FR0000186 (DC) $377,831'
+type: ice-contract
+state: 'DC'
+contractor: 'SOFTWARE INFORMATION RESOURCE CORP.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$377,830.80'
+contract_type: 'federal-contract'
+award_date: '2026-09-30'
+usaspending_id: '70CMSD26FR0000186'
+source: 'USAspending.gov (award 70CMSD26FR0000186)'
+signal_strength: 'weak'
+notes: 'THE CHIEF INFORMATION OFFICER HAS A REQUIREMENT FOR THE PROCUREMENT OF IBM COGNOS BUSINESS INTELLIGENCE ANALYTICS SOFTWARE FOR THE TECHNICAL EVALUATION AND COMMUNICATION SYSTEM MODERNIZATION PROGRAM AS PART OF THE AGILE INTEGRATION SOLUTION.'
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: SOFTWARE INFORMATION RESOURCE CORP.
+Award ID: 70CMSD26FR0000186
+Amount: $377,830.80
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THE CHIEF INFORMATION OFFICER HAS A REQUIREMENT FOR THE PROCUREMENT OF IBM COGNOS BUSINESS INTELLIGENCE ANALYTICS SOFTWARE FOR THE TECHNICAL EVALUATION AND COMMUNICATION SYSTEM MODERNIZATION PROGRAM AS PART OF THE AGILE INTEGRATION SOLUTION.
+Period: 2026-09-30 to 2027-09-29
+Location: None, DC

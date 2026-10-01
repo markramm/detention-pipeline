@@ -1,12 +1,12 @@
 ---
 id: per-geesh-teksol-jv-llc-70cmsw25c00000012
-title: 'PER-GEESH TEKSOL JV, LLC — 70CMSW25C00000012 (PR) $3,792,744'
+title: 'PER-GEESH TEKSOL JV, LLC — 70CMSW25C00000012 (PR) $7,232,253'
 type: ice-contract
 state: 'PR'
 contractor: 'PER-GEESH TEKSOL JV, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$3,792,744.00'
+contract_value: '$7,232,253.12'
 contract_type: 'federal-contract'
 award_date: '2025-08-18'
 usaspending_id: '70CMSW25C00000012'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: PER-GEESH TEKSOL JV, LLC
 Award ID: 70CMSW25C00000012
-Amount: $3,792,744.00
+Amount: $7,232,253.12
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS CONTRACT IS FOR OPERATIONS & MAINTENANCE SERVICES AT PUERTO RICO AND VIRGIN ISLAND LOCATIONS.

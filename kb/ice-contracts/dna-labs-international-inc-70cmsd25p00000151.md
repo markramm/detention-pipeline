@@ -1,14 +1,24 @@
 ---
 id: dna-labs-international-inc-70cmsd25p00000151
-title: DNA LABS INTERNATIONAL INC — 70CMSD25P00000151 (FL) $36,070
+title: 'DNA LABS INTERNATIONAL INC — 70CMSD25P00000151 (FL) $36,070'
 type: ice-contract
+state: 'FL'
+contractor: 'DNA LABS INTERNATIONAL INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$36,070.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-18'
+usaspending_id: '70CMSD25P00000151'
+source: 'USAspending.gov (award 70CMSD25P00000151)'
+signal_strength: 'weak'
+notes: 'THIS PURCHASE ORDER PROVIDES DNA ANALYSIS FOR HSI TO CONDUCT CRIMINAL INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

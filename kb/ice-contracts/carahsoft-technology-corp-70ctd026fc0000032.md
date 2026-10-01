@@ -1,0 +1,33 @@
+---
+id: carahsoft-technology-corp-70ctd026fc0000032
+title: 'CARAHSOFT TECHNOLOGY CORP — 70CTD026FC0000032 (DC) $11,132,892'
+type: ice-contract
+state: 'DC'
+contractor: 'CARAHSOFT TECHNOLOGY CORP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$11,132,892.29'
+contract_type: 'federal-contract'
+award_date: '2026-08-31'
+usaspending_id: '70CTD026FC0000032'
+source: 'USAspending.gov (award 70CTD026FC0000032)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES SERVICENOW LICENSES FOR THE ICE CORE ENGINE, SERVICE AND OPERATIONS MANAGEMENT, CUSTOMER SERVICE, PORTFOLIO STRATEGY, WORKFLOW DATA, INTERFACE MANAGEMENT, ARTIFICIAL INTELLIGENCE, AND SUPPORT FOR THE ENTERPRISE CLOUD ENVIRONMENT'
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: CARAHSOFT TECHNOLOGY CORP
+Award ID: 70CTD026FC0000032
+Amount: $11,132,892.29
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD PROVIDES SERVICENOW LICENSES FOR THE ICE CORE ENGINE, SERVICE AND OPERATIONS MANAGEMENT, CUSTOMER SERVICE, PORTFOLIO STRATEGY, WORKFLOW DATA, INTERFACE MANAGEMENT, ARTIFICIAL INTELLIGENCE, AND SUPPORT FOR THE ENTERPRISE CLOUD ENVIRONMENT
+Period: 2026-08-31 to 2027-08-10
+Location: None, DC

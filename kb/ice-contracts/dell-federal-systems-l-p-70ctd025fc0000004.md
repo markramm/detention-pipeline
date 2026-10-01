@@ -1,14 +1,24 @@
 ---
 id: dell-federal-systems-l-p-70ctd025fc0000004
-title: DELL FEDERAL SYSTEMS L.P — 70CTD025FC0000004 (DC) $910,140
+title: 'DELL FEDERAL SYSTEMS L.P — 70CTD025FC0000004 (DC) $910,140'
 type: ice-contract
+state: 'DC'
+contractor: 'DELL FEDERAL SYSTEMS L.P'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$910,140.00'
+contract_type: 'federal-contract'
+award_date: '2025-05-01'
+usaspending_id: '70CTD025FC0000004'
+source: 'USAspending.gov (award 70CTD025FC0000004)'
+signal_strength: 'weak'
+notes: 'THIS BPA CALL IS TO PURCHASE 2000 MICROSOFT LICENSES TO RECONILE OUTSTANDING LICENSE REQUIREMENTS FOR OFFICE 365, DEFENDER, AND EMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

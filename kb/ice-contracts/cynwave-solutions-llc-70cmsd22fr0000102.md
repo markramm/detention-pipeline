@@ -1,12 +1,12 @@
 ---
 id: cynwave-solutions-llc-70cmsd22fr0000102
-title: 'CYNWAVE SOLUTIONS, LLC — 70CMSD22FR0000102 (CA) $260,125'
+title: 'CYNWAVE SOLUTIONS, LLC — 70CMSD22FR0000102 (CA) $357,979'
 type: ice-contract
 state: 'CA'
 contractor: 'CYNWAVE SOLUTIONS, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$260,125.17'
+contract_value: '$357,978.93'
 contract_type: 'federal-contract'
 award_date: '2022-08-02'
 usaspending_id: '70CMSD22FR0000102'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: CYNWAVE SOLUTIONS, LLC
 Award ID: 70CMSD22FR0000102
-Amount: $260,125.17
+Amount: $357,978.93
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: COURIER SERVICES AT THE SAN FRANCISCO FIELD OFFICE
-Period: 2022-08-02 to 2026-08-01
+Period: 2022-08-02 to 2027-08-01
 Location: None, CA

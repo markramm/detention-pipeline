@@ -1,14 +1,24 @@
 ---
 id: blue-tech-inc-70cmsd25fr0000030
-title: BLUE TECH INC. — 70CMSD25FR0000030 (DC) $102,555
+title: 'BLUE TECH INC. — 70CMSD25FR0000030 (DC) $102,555'
 type: ice-contract
+state: 'DC'
+contractor: 'BLUE TECH INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$102,555.47'
+contract_type: 'federal-contract'
+award_date: '2025-05-01'
+usaspending_id: '70CMSD25FR0000030'
+source: 'USAspending.gov (award 70CMSD25FR0000030)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES REDHAT SOFTWARE WHICH IS REQUIRED TO SUPPORT SYSTEM INTEGRATION & SCALABILITY OF THE INVESTIGATIVE CASE MANAGEMENT (ICM) SYSTEM ENHANCING HOMELAND SECURITY INVESTIGATIONS ABILITY TO MANAGE & SUPPORT INVESTIGATIONS EFFICIEN'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

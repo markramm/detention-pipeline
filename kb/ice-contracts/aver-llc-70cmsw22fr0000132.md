@@ -1,12 +1,12 @@
 ---
 id: aver-llc-70cmsw22fr0000132
-title: 'AVER LLC — 70CMSW22FR0000132 (DC) $14,452,750'
+title: 'AVER LLC — 70CMSW22FR0000132 (DC) $19,066,091'
 type: ice-contract
 state: 'DC'
 contractor: 'AVER LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$14,452,749.61'
+contract_value: '$19,066,090.65'
 contract_type: 'federal-contract'
 award_date: '2022-09-30'
 usaspending_id: '70CMSW22FR0000132'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: AVER LLC
 Award ID: 70CMSW22FR0000132
-Amount: $14,452,749.61
+Amount: $19,066,090.65
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: FINANCIAL SYSTEMS MODERNIZATION (FSM) PROGRAM MANAGEMENT OFFICE (PMO) SUPPORT SERVICES
-Period: 2022-09-30 to 2026-09-29
+Period: 2022-09-30 to 2027-09-29
 Location: None, DC

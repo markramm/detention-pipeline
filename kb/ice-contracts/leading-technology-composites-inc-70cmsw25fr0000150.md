@@ -29,5 +29,5 @@ Amount: $5,194,181.43
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS DELIVERY ORDER PROCURES NEUTRAL BUOYANT BALLISTIC RIFLE PLATES TO SUPPORT ARMED AGENTS AND ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS (OFTP).
-Period: 2025-09-29 to 2027-01-31
+Period: 2025-09-29 to 2027-05-31
 Location: None, KS

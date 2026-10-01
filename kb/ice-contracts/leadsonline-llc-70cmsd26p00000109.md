@@ -1,0 +1,33 @@
+---
+id: leadsonline-llc-70cmsd26p00000109
+title: 'LEADSONLINE, LLC — 70CMSD26P00000109 (VA) $393,616'
+type: ice-contract
+state: 'VA'
+contractor: 'LEADSONLINE, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$393,616.00'
+contract_type: 'federal-contract'
+award_date: '2026-09-15'
+usaspending_id: '70CMSD26P00000109'
+source: 'USAspending.gov (award 70CMSD26P00000109)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ICE FORENSIC LABORATORY THE INTEGRATED BALLISTIC IDENTIFICATION SYSTEM USED TO LINK SHOOTING INCIDENTS FROM SEIZED FIREARMS & CASINGS SENT TO THE NATIONAL INTEGRATED BALLISTIC INFORMATION NETWORK FOR INVESTIGATIVE LEADS.'
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: LEADSONLINE, LLC
+Award ID: 70CMSD26P00000109
+Amount: $393,616.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD PROVIDES ICE FORENSIC LABORATORY THE INTEGRATED BALLISTIC IDENTIFICATION SYSTEM USED TO LINK SHOOTING INCIDENTS FROM SEIZED FIREARMS & CASINGS SENT TO THE NATIONAL INTEGRATED BALLISTIC INFORMATION NETWORK FOR INVESTIGATIVE LEADS.
+Period: 2026-09-15 to 2027-09-14
+Location: None, VA

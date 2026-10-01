@@ -1,24 +1,26 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw25p00000069
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW25P00000069 (FL) $6,999,510
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW25P00000069 (FL) $6,999,510'
 type: ice-contract
+county: 'PINELLAS'
+state: 'FL'
+fips: '12103'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$6,999,510.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-19'
+usaspending_id: '70CMSW25P00000069'
+source: 'USAspending.gov (award 70CMSW25P00000069)'
+signal_strength: 'weak'
+notes: 'THE AWARD PROVIDES MISSION CRITICAL LAW ENFORCEMENT EQUIPMENT FOR AGENTS AND TRAINING COURSES TO SUPPORT THE ICE - OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
-county: 'PINELLAS'
-fips: '12103'
-contractor: 'ATLANTIC DIVING SUPPLY, INC.'
-contract_value: '$6,999,510.00'
-contract_type: 'federal-contract'
-award_date: '2025-09-19'
-usaspending_id: '70CMSW25P00000069'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THE AWARD PROVIDES MISSION CRITICAL LAW ENFORCEMENT EQUIPMENT FOR AGENTS AND TRAINING COURSES TO SUPPORT THE ICE - OFFICE OF FIREARMS AND TACTICAL PROGRAMS.'
 ---
 
 ICE contract award.

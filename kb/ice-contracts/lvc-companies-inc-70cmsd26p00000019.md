@@ -29,5 +29,5 @@ Amount: $47,953.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS PURCHASE ORDER IS FOR THE PURCHASE AND INSTALLATION OF NEW AND REPLACEMENT SECURITY CAMERAS FOR HOMELAND SECURITY INVESTIGATIONS ST. PAUL.
-Period: 2026-02-12 to 2026-03-12
+Period: 2026-02-12 to 2026-05-20
 Location: None, MN

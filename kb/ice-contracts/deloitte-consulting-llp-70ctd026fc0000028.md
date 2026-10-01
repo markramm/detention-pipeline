@@ -1,0 +1,33 @@
+---
+id: deloitte-consulting-llp-70ctd026fc0000028
+title: 'DELOITTE CONSULTING LLP — 70CTD026FC0000028 (VA) $2,288,429'
+type: ice-contract
+state: 'VA'
+contractor: 'DELOITTE CONSULTING LLP'
+contractor_type: 'consulting'
+contract_class: 'other-ice'
+contract_value: '$2,288,428.80'
+contract_type: 'federal-contract'
+award_date: '2026-08-27'
+usaspending_id: '70CTD026FC0000028'
+source: 'USAspending.gov (award 70CTD026FC0000028)'
+signal_strength: 'weak'
+notes: 'THIS CALL ORDER IS TO PROVIDE INVESTIGATIVE CASE MANAGEMENT SERVICES FOR THE HOMELAND SECURITY INVESTIGATIONS IT PORTFOLIO.'
+tags:
+- ice-contract
+- consulting
+- other-ice
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: DELOITTE CONSULTING LLP
+Award ID: 70CTD026FC0000028
+Amount: $2,288,428.80
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS CALL ORDER IS TO PROVIDE INVESTIGATIVE CASE MANAGEMENT SERVICES FOR THE HOMELAND SECURITY INVESTIGATIONS IT PORTFOLIO.
+Period: 2026-08-27 to 2027-08-26
+Location: None, VA

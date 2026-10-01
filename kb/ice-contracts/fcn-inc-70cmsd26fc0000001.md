@@ -29,5 +29,5 @@ Amount: $98,340.14
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROVIDES LAPTOPS FOR THE OFFICE OF THE PRINCIPAL LEGAL ADVISOR.
-Period: 2025-11-21 to 2025-12-20
+Period: 2025-11-21 to 2025-12-21
 Location: None, MD

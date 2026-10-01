@@ -1,12 +1,12 @@
 ---
 id: techops-specialty-vehicles-llc-70cmsd24fr0000115
-title: 'TECHOPS SPECIALTY VEHICLES, LLC — 70CMSD24FR0000115 (MD) $1,644,130'
+title: 'TECHOPS SPECIALTY VEHICLES, LLC — 70CMSD24FR0000115 (MD) $2,400,647'
 type: ice-contract
 state: 'MD'
 contractor: 'TECHOPS SPECIALTY VEHICLES, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$1,644,129.63'
+contract_value: '$2,400,647.17'
 contract_type: 'federal-contract'
 award_date: '2024-09-30'
 usaspending_id: '70CMSD24FR0000115'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: TECHOPS SPECIALTY VEHICLES, LLC
 Award ID: 70CMSD24FR0000115
-Amount: $1,644,129.63
+Amount: $2,400,647.17
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: CELL SITE SIMULATOR VEHICLES
-Period: 2024-09-30 to 2026-09-29
+Period: 2024-09-30 to 2027-09-29
 Location: None, MD

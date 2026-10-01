@@ -1,12 +1,12 @@
 ---
 id: deloitte-consulting-llp-70cmsw22fr0000043
-title: 'DELOITTE CONSULTING LLP — 70CMSW22FR0000043 (VA) $9,834,850'
+title: 'DELOITTE CONSULTING LLP — 70CMSW22FR0000043 (VA) $12,663,920'
 type: ice-contract
 state: 'VA'
 contractor: 'DELOITTE CONSULTING LLP'
 contractor_type: 'consulting'
 contract_class: 'other-ice'
-contract_value: '$9,834,849.96'
+contract_value: '$12,663,920.20'
 contract_type: 'federal-contract'
 award_date: '2022-05-24'
 usaspending_id: '70CMSW22FR0000043'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: DELOITTE CONSULTING LLP
 Award ID: 70CMSW22FR0000043
-Amount: $9,834,849.96
+Amount: $12,663,920.20
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: FLEET MANAGEMENT SUPPORT SERVICES - OCFO

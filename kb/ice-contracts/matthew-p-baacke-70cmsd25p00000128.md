@@ -1,14 +1,24 @@
 ---
 id: matthew-p-baacke-70cmsd25p00000128
-title: MATTHEW P BAACKE — 70CMSD25P00000128 (VA) $35,950
+title: 'MATTHEW P BAACKE — 70CMSD25P00000128 (VA) $35,950'
 type: ice-contract
+state: 'VA'
+contractor: 'MATTHEW P BAACKE'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$35,950.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-08'
+usaspending_id: '70CMSD25P00000128'
+source: 'USAspending.gov (award 70CMSD25P00000128)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ICE HOMELAND SECURITY INVESTIGATIONS DC SPECIAL RESPONSE TEAM WITH INSTALLATION OF LAW ENFORCEMENT AND SAFETY EQUIPMENT ON A FLEET VEHICLE USED IN LAW ENFORCEMENT OPERATIONS AND INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.
