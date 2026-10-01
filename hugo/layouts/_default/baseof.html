@@ -203,12 +203,12 @@
       </div>
       <a href="/map/" {{ if hasPrefix .RelPermalink "/map" }}class="active"{{ end }}>Map</a>
       <div class="nav-group">
-        <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") (hasPrefix .RelPermalink "/timeline") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Explore</button>
+        <button class="nav-group-trigger {{ if or (hasPrefix .RelPermalink "/county") (hasPrefix .RelPermalink "/players") (hasPrefix .RelPermalink "/organizations") (hasPrefix .RelPermalink "/network") (hasPrefix .RelPermalink "/facilities") (hasPrefix .RelPermalink "/foia") (hasPrefix .RelPermalink "/signals") (hasPrefix .RelPermalink "/state") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Explore</button>
         <div class="nav-dropdown">
           <a href="/county/">Counties</a>
           <a href="/state/">By State</a>
           <a href="/signals/">By Signal Type</a>
-          <a href="/timeline/">Timeline</a>
+          <a href="https://capturecascade.org">Timeline</a>
           <a href="/players/">Players</a>
           <a href="/network/">Network</a>
           <a href="/facilities/">Facilities</a>
@@ -219,13 +219,13 @@
       <a href="/pipeline/" {{ if eq .RelPermalink "/pipeline/" }}class="active"{{ end }}>Pipeline</a>
       <a href="/tactics/" {{ if eq .RelPermalink "/tactics/" }}class="active"{{ end }}>Tactics</a>
       <div class="nav-group">
-        <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") (hasPrefix .RelPermalink "/resources") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Help Build</button>
+        <button class="nav-group-trigger {{ if or (eq .RelPermalink "/contribute/") (eq .RelPermalink "/coverage/") (eq .RelPermalink "/methodology/") }}active{{ end }}" aria-haspopup="true" aria-expanded="false">Help Build</button>
         <div class="nav-dropdown">
           <a href="/contribute/">Contribute</a>
           <a href="/coverage/">Coverage Gaps</a>
           <a href="/sources/">Data Sources</a>
           <a href="/develop/">Develop</a>
-          <a href="/resources/">Resources</a>
+          <a href="https://transparencycascade.org/resources/">Resources</a>
           <a href="/methodology/">Methodology</a>
         </div>
       </div>
@@ -242,7 +242,7 @@
   <a href="/county/" style="padding-left:12px;">Counties</a>
   <a href="/state/" style="padding-left:12px;">By State</a>
   <a href="/signals/" style="padding-left:12px;">By Signal Type</a>
-  <a href="/timeline/" style="padding-left:12px;">Timeline</a>
+  <a href="https://capturecascade.org" style="padding-left:12px;">Timeline</a>
   <a href="/players/" style="padding-left:12px;">Players</a>
   <a href="/network/" style="padding-left:12px;">Network</a>
   <a href="/facilities/" style="padding-left:12px;">Facilities</a>
@@ -255,7 +255,7 @@
   <a href="/coverage/" style="padding-left:12px;">Coverage Gaps</a>
   <a href="/sources/" style="padding-left:12px;">Data Sources</a>
   <a href="/develop/" style="padding-left:12px;">Develop</a>
-  <a href="/resources/" style="padding-left:12px;">Resources</a>
+  <a href="https://transparencycascade.org/resources/" style="padding-left:12px;">Resources</a>
   <a href="/methodology/" style="padding-left:12px;">Methodology</a>
   <a href="/the-investigation/" style="color:var(--accent-warm);">The Investigation</a>
   <a href="/blog/">Blog</a>
