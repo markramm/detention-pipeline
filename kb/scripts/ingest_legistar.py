@@ -103,6 +103,33 @@ CLOSED_SESSION_KEYWORDS = [
     r"warehouse.*(?:conversion|lease|purchase)",
 ]
 
+# These closed-session/real-estate phrasings are generic municipal business —
+# "economic development...federal" also matches a Newark Community Benefits
+# Agreement for a health clinic, because the unbounded `.*` let "economic
+# development" near the top of the item pair up with "federally subsidized
+# health care center" hundreds of characters later. Routine property
+# acquisitions, TIF deals and closed-session real estate come up constantly
+# and are not themselves a detention signal. Require an explicit
+# detention/ICE/federal-enforcement term to co-occur anywhere in the item
+# before a CLOSED_SESSION_KEYWORDS hit counts as a signal (corpus-validated
+# 2026-09-30 after this match pushed Essex County NJ past the 100-score
+# "hot" threshold on no real detention content).
+DETENTION_CONTEXT_KEYWORDS = [
+    r"\bICE\b", r"immigration and customs enforcement", r"immigration enforcement",
+    r"\bdetention\b", r"\bdetainee", r"deportation", r"\bERO\b",
+    r"department of homeland security", r"\bDHS\b",
+    r"removal operations", r"federal law enforcement",
+    r"\bIGSA\b", r"intergovernmental service agreement",
+    r"GEO Group", r"CoreCivic", r"GardaWorld", r"\bSabot\b",
+]
+
+
+def _has_detention_context(text):
+    """True if `text` independently signals ICE/detention, so a generic
+    closed-session or real-estate phrase is allowed to count as a weak
+    signal rather than flagging ordinary municipal business."""
+    return any(_search(kw, text) for kw in DETENTION_CONTEXT_KEYWORDS)
+
 # Portals to monitor — VALIDATED against Legistar API (2026-04-10)
 # Format: (legistar_client_id, entity_name, state, fips, api_mode)
 # api_mode: "events" (default) or "matters" (for portals with broken Events endpoint)
@@ -260,6 +287,12 @@ FALSE_POSITIVES = [
     r"ice machine",
     r"snow and ice removal",
     r"de-icing",
+    # Legistar clerks create bracketed placeholder/test agenda items ahead of
+    # real meetings (e.g. "[WKJ Test] Ordinance ... Free Ice Cream
+    # Initiative" on Sacramento County's portal, 2026-09). These describe
+    # fictional business for QA purposes and must never become a detention
+    # signal no matter what words land inside them.
+    r"\[[^\]]*\btest\b[^\]]*\]",
 ]
 
 
@@ -303,11 +336,12 @@ def check_keywords(text):
     if matched:
         return "moderate", matched
 
-    for kw in CLOSED_SESSION_KEYWORDS:
-        if _search(kw, text):
-            matched.append(kw)
-    if matched:
-        return "weak", matched
+    if _has_detention_context(text):
+        for kw in CLOSED_SESSION_KEYWORDS:
+            if _search(kw, text):
+                matched.append(kw)
+        if matched:
+            return "weak", matched
 
     return None, []
 

@@ -176,6 +176,37 @@ _GENERATED_KEYS = set(FRONTMATTER_FIELDS) | {"id", "title", "type", "tags", "imp
 # its county's heat score.
 _PRESERVE_IF_MISSING = ("county", "fips")
 
+# Fields worth carrying over when a cross-directory duplicate is resolved by
+# migrating the record, so neither copy's enrichment is lost.
+_MIGRATE_MERGE_FIELDS = (
+    "county", "fips", "contract_value", "award_date", "usaspending_id", "notes",
+)
+
+
+def _migrate_to_subdir(entry_id, old_dir, old_text, new_subdir, new_entry):
+    """Resolve a cross-directory duplicate by moving the record to
+    `new_subdir`: merge any `_MIGRATE_MERGE_FIELDS` the old copy has that the
+    new one lacks, write the new copy, and delete the old one. Returns the
+    new path."""
+    old_fields = _existing_frontmatter(old_text)
+    merged = dict(new_entry)
+    for key in _MIGRATE_MERGE_FIELDS:
+        if not merged.get(key) and old_fields.get(key):
+            merged[key] = old_fields[key]
+
+    fm_lines, _, _ = render_frontmatter(merged)
+    body = merged.get("body", "").rstrip()
+    content = "---\n" + "\n".join(fm_lines) + "\n---\n\n" + body + "\n"
+
+    new_dir = KB_ROOT / new_subdir
+    new_dir.mkdir(parents=True, exist_ok=True)
+    new_path = new_dir / f"{entry_id}.md"
+    new_path.write_text(content, encoding="utf-8")
+    (KB_ROOT / old_dir / f"{entry_id}.md").unlink()
+    if _ID_DIRS is not None:
+        _ID_DIRS[entry_id] = new_subdir
+    return new_path
+
 
 def _existing_frontmatter(text):
     if not text.startswith("---\n"):
@@ -236,6 +267,27 @@ def write_entry(entry, dry_run=False, stats=None):
     if existing is None:
         other = _id_dirs().get(entry_id)
         if other is not None and other != subdir:
+            # The April cleanup's convention: a contractor classified 'anc'
+            # (an Alaska Native Corporation) lives in anc/; every other
+            # contractor (private-prison, security, transport, 'other', ...)
+            # lives in ice-contracts/. A record ingested before that
+            # convention existed can still be sitting in anc/ under the
+            # wrong classification; when the new record identifies itself as
+            # a non-ANC contractor arriving in ice-contracts/, resolve
+            # toward ice-contracts/ instead of leaving it stuck wherever it
+            # happened to be created first.
+            contractor_type = entry.get("contractor_type")
+            if subdir == "ice-contracts" and other == "anc" and contractor_type not in (None, "", "anc"):
+                old_path = KB_ROOT / other / f"{entry_id}.md"
+                old_text = old_path.read_text(encoding="utf-8")
+                if stats is not None:
+                    stats["migrated"] = stats.get("migrated", 0) + 1
+                print(f"  MIGRATE: {entry_id} from {other}/ to {subdir}/ "
+                      f"(contractor_type={contractor_type!r})", file=sys.stderr)
+                if dry_run:
+                    return old_path
+                return _migrate_to_subdir(entry_id, other, old_text, subdir, entry)
+
             if stats is not None:
                 stats["duplicate"] = stats.get("duplicate", 0) + 1
             print(f"  DUPLICATE: {entry_id} already in {other}/, not creating in {subdir}/",
@@ -262,7 +314,7 @@ def main():
     args = p.parse_args()
 
     stats = {"created": 0, "updated": 0, "unchanged": 0, "unroutable": 0, "duplicate": 0,
-             "curated": 0}
+             "curated": 0, "migrated": 0}
     for json_file in args.files:
         path = Path(json_file)
         if not path.exists():
@@ -288,6 +340,7 @@ def main():
         f"\n{stats['created']} created, {stats['updated']} updated, "
         f"{stats['unchanged']} unchanged, {stats['unroutable']} unroutable, "
         f"{stats['duplicate']} skipped as cross-directory duplicates, "
+        f"{stats['migrated']} migrated to their correct directory, "
         f"{stats['curated']} hand-curated left as is "
         f"(touched {total_touched}/{total_touched + stats['unchanged']})"
     )
