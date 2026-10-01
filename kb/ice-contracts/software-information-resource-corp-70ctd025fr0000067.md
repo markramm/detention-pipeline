@@ -1,14 +1,24 @@
 ---
 id: software-information-resource-corp-70ctd025fr0000067
-title: SOFTWARE INFORMATION RESOURCE CORP. — 70CTD025FR0000067 (VA) $49,830
+title: 'SOFTWARE INFORMATION RESOURCE CORP. — 70CTD025FR0000067 (VA) $49,830'
 type: ice-contract
+state: 'VA'
+contractor: 'SOFTWARE INFORMATION RESOURCE CORP.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$49,830.00'
+contract_type: 'federal-contract'
+award_date: '2025-08-19'
+usaspending_id: '70CTD025FR0000067'
+source: 'USAspending.gov (award 70CTD025FR0000067)'
+signal_strength: 'weak'
+notes: 'AWARD IS TO PURCHASE CLOUDBEES CONTINUOUS INTEGRATION DELIVERY PLATFORM SOFTWARE AND MAINTENANCE SUPPORT TO STREAMLINE AND AUTOMATE SOFTWARE DELIVERY PROCESSES TO ALLOW CONTINUED INFRASTRUCTURE AUTOMATION FOR OFFICE OF CHIEF INFORMATION OFFICER'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

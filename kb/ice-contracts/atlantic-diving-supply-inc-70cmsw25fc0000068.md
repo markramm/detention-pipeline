@@ -1,14 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw25fc0000068
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FC0000068 (CA) $83,843
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FC0000068 (CA) $83,843'
 type: ice-contract
+state: 'CA'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$83,842.80'
+contract_type: 'federal-contract'
+award_date: '2025-07-11'
+usaspending_id: '70CMSW25FC0000068'
+source: 'USAspending.gov (award 70CMSW25FC0000068)'
+signal_strength: 'strong'
+notes: 'THIS AWARD PROVIDES AUTHORIZED RESTRAINTS FOR LAW ENFORCEMENT USE TO SUPPORT THE ICE- ENFORCEMENT AND REMOVAL OPERATIONS.'
 tags:
 - ice-contract
 - other
 - detention-related
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.

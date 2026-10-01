@@ -1,14 +1,24 @@
 ---
 id: bahfed-corp-70ctd025fr0000089
-title: BAHFED CORP — 70CTD025FR0000089 (DC) $125,090
+title: 'BAHFED CORP — 70CTD025FR0000089 (DC) $125,090'
 type: ice-contract
+state: 'DC'
+contractor: 'BAHFED CORP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$125,090.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-11'
+usaspending_id: '70CTD025FR0000089'
+source: 'USAspending.gov (award 70CTD025FR0000089)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS ORDER IS TO PURCHASE ADDITIONAL ADOBE ENTERPRISE LICENSE AGREEMENT (ELA) LICENSES AND SUPPORT TO COVER 1750 NEW HIRES.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

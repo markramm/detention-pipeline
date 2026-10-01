@@ -1,12 +1,12 @@
 ---
 id: instaff-solutions-llc-70cmsw25c00000009
-title: 'INSTAFF SOLUTIONS LLC — 70CMSW25C00000009 (DC) $2,037,598'
+title: 'INSTAFF SOLUTIONS LLC — 70CMSW25C00000009 (DC) $2,442,236'
 type: ice-contract
 state: 'DC'
 contractor: 'INSTAFF SOLUTIONS LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$2,037,598.29'
+contract_value: '$2,442,236.29'
 contract_type: 'federal-contract'
 award_date: '2025-06-01'
 usaspending_id: '70CMSW25C00000009'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: INSTAFF SOLUTIONS LLC
 Award ID: 70CMSW25C00000009
-Amount: $2,037,598.29
+Amount: $2,442,236.29
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THE PURPOSE OF THIS AWARD IS TO PROVIDE ICE HQ TRANSPORTATION SERVICES FOR THE OFFICE OF ASSET AND FACILITIES MANAGEMENT (OAFM).

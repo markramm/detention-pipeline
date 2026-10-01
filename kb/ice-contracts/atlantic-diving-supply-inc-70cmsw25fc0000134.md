@@ -1,22 +1,24 @@
 ---
 id: atlantic-diving-supply-inc-70cmsw25fc0000134
-title: ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FC0000134 (GA) $763,990
+title: 'ATLANTIC DIVING SUPPLY, INC. — 70CMSW25FC0000134 (GA) $763,990'
 type: ice-contract
+state: 'GA'
+contractor: 'ATLANTIC DIVING SUPPLY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$763,990.36'
+contract_type: 'federal-contract'
+award_date: '2025-09-30'
+usaspending_id: '70CMSW25FC0000134'
+source: 'USAspending.gov (award 70CMSW25FC0000134)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES MISSION CRITICAL LAW ENFORCEMENT EQUIPMENT FOR AGENTS IN THE FIELD TO SUPPORT THE OFFICE OF FIREARM AND TACTICAL PROGRAMS (OFTP).'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
-contractor: 'ATLANTIC DIVING SUPPLY, INC.'
-contract_value: '$763,990.36'
-contract_type: 'federal-contract'
-award_date: '2025-09-30'
-usaspending_id: '70CMSW25FC0000134'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'THIS AWARD PROVIDES MISSION CRITICAL LAW ENFORCEMENT EQUIPMENT FOR AGENTS IN THE FIELD TO SUPPORT THE OFFICE OF FIREARM AND TACTICAL PROGRAMS (OFTP).'
 ---
 
 ICE contract award.

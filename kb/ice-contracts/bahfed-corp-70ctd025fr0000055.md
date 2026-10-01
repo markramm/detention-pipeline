@@ -1,14 +1,24 @@
 ---
 id: bahfed-corp-70ctd025fr0000055
-title: BAHFED CORP — 70CTD025FR0000055 (DC) $2,086,914
+title: 'BAHFED CORP — 70CTD025FR0000055 (DC) $2,086,914'
 type: ice-contract
+state: 'DC'
+contractor: 'BAHFED CORP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$2,086,913.53'
+contract_type: 'federal-contract'
+award_date: '2025-09-13'
+usaspending_id: '70CTD025FR0000055'
+source: 'USAspending.gov (award 70CTD025FR0000055)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS AWARD IS TO PROVIDE ADOBE LICENSES AND SUPPORT MAINTENANCE ADVANCED DOCUMENT EDITING AND COLLABORATING TOOLS WHICH ARE DEPLOYED ACROSS U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT (ICE) ENTERPRISE-WIDE.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

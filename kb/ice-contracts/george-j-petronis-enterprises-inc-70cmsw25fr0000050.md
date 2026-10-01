@@ -1,14 +1,24 @@
 ---
 id: george-j-petronis-enterprises-inc-70cmsw25fr0000050
-title: GEORGE J. PETRONIS ENTERPRISES, INC. — 70CMSW25FR0000050 (GA) $405,630
+title: 'GEORGE J. PETRONIS ENTERPRISES, INC. — 70CMSW25FR0000050 (GA) $405,630'
 type: ice-contract
+state: 'GA'
+contractor: 'GEORGE J. PETRONIS ENTERPRISES, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$405,630.00'
+contract_type: 'federal-contract'
+award_date: '2025-06-13'
+usaspending_id: '70CMSW25FR0000050'
+source: 'USAspending.gov (award 70CMSW25FR0000050)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES FORCE ON FORCE (FOF) 9MM BLUE AND RED MARKING CARTRIDGES TO SUPPORT THE ICE- OFFICE OF FIREARMS AND TACTICAL PROGRAMS AT FORT BENNING, GA.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ga
 importance: 5
-state: 'GA'
 ---
 
 ICE contract award.

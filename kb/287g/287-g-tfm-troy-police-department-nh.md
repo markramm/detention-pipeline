@@ -2,16 +2,15 @@
 id: 287-g-tfm-troy-police-department-nh
 title: '287(g) TFM: Troy Police Department (NH)'
 type: 287g-agreement
-county: Cheshire
-state: NH
+county: 'Cheshire'
+state: 'NH'
 fips: '33005'
-agency: Troy Police Department
-model: TFM
-signed_date: March 17, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed March 17, 2025
+agency: 'Troy Police Department'
+model: 'TFM'
+signed_date: 'March 17, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed March 17, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: March 17, 2025
-County: 
+County: Cheshire
 State: NH
-FIPS: unresolved
+FIPS: 33005
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

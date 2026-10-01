@@ -2,16 +2,15 @@
 id: 287-g-tfm-atlantic-beach-police-department-fl
 title: '287(g) TFM: Atlantic Beach Police Department (FL)'
 type: 287g-agreement
-county: Duval
-state: FL
+county: 'Duval'
+state: 'FL'
 fips: '12031'
-agency: Atlantic Beach Police Department
-model: TFM
-signed_date: July 2, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed July 2, 2025
+agency: 'Atlantic Beach Police Department'
+model: 'TFM'
+signed_date: 'July 2, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed July 2, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: July 2, 2025
-County: 
+County: Duval
 State: FL
-FIPS: unresolved
+FIPS: 12031
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

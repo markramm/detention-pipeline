@@ -1,14 +1,24 @@
 ---
 id: new-tech-solutions-inc-70ctd025fr0000041
-title: NEW TECH SOLUTIONS, INC. — 70CTD025FR0000041 (VA) $83,147
+title: 'NEW TECH SOLUTIONS, INC. — 70CTD025FR0000041 (VA) $83,147'
 type: ice-contract
+state: 'VA'
+contractor: 'NEW TECH SOLUTIONS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$83,147.00'
+contract_type: 'federal-contract'
+award_date: '2025-07-18'
+usaspending_id: '70CTD025FR0000041'
+source: 'USAspending.gov (award 70CTD025FR0000041)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS AWARD IS TO PURCHASE DATABRICKS LICENSES TO PERFORM DATA ENGINEERING, DATA SCIENCE, MACHINE LEARNING AND ANALYTICAL TASKS ON MISSION CRITICAL DATA FOR U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT/HOMELAND SECURITY INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

@@ -2,16 +2,15 @@
 id: 287-g-tfm-new-berlin-marshal-s-office-tx
 title: '287(g) TFM: New Berlin Marshal’s Office (TX)'
 type: 287g-agreement
-county: Guadalupe Conty
-state: TX
+county: 'Guadalupe Conty'
+state: 'TX'
 fips: '48187'
-agency: New Berlin Marshal’s Office
-model: TFM
-signed_date: November 20, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed November 20, 2025
+agency: 'New Berlin Marshal’s Office'
+model: 'TFM'
+signed_date: 'November 20, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed November 20, 2025'
 tags:
 - 287g
 - tfm
@@ -25,6 +24,6 @@ Model: TFM
 Signed: November 20, 2025
 County: Guadalupe Conty
 State: TX
-FIPS: unresolved
+FIPS: 48187
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

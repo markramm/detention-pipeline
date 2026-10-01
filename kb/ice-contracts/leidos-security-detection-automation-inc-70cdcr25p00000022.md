@@ -1,14 +1,24 @@
 ---
 id: leidos-security-detection-automation-inc-70cdcr25p00000022
-title: LEIDOS SECURITY DETECTION & AUTOMATION, INC. — 70CDCR25P00000022 (MA) $8,000
+title: 'LEIDOS SECURITY DETECTION & AUTOMATION, INC. — 70CDCR25P00000022 (MA) $8,000'
 type: ice-contract
+state: 'MA'
+contractor: 'LEIDOS SECURITY DETECTION & AUTOMATION, INC.'
+contractor_type: 'technology'
+contract_class: 'detention-related'
+contract_value: '$8,000.00'
+contract_type: 'federal-contract'
+award_date: '2025-08-01'
+usaspending_id: '70CDCR25P00000022'
+source: 'USAspending.gov (award 70CDCR25P00000022)'
+signal_strength: 'strong'
+notes: 'THIS IS A PURCHASE ORDER OBLIGATES FUNDS FOR SERVICING AND MAINTENANCE OF THE BAGGAGE X-RAY MACHINE LOCATED AT KROME SERVICE PROCESSING CENTER IN MIAMI, FL, TO SUPPORT ENFORCEMENT AND REMOVAL OPERATIONS.'
 tags:
 - ice-contract
 - technology
 - detention-related
 - ma
 importance: 5
-state: 'MA'
 ---
 
 ICE contract award.

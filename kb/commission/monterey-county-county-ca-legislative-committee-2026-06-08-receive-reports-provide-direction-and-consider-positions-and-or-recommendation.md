@@ -19,7 +19,7 @@ County commission agenda item matching detention pipeline keywords.
 
 Meeting: Legislative Committee
 Date: 2026-06-08
-Agenda Item: Receive reports, provide direction, and consider positions and/or recommendations to the Board of Supervisors on: a. Federal Government Update Report i.	Congressional Overview ii. Executive Branch Updates 		 1. Administration Updates 		 2. Update on Proposed ICE Detention Facility in Gilroy 3. Executive Order Updates b. Appropriations Updates, including Community Project Funding Requests c. Advocacy i. HR 1 ii. Panetta CPF Audit iii. Executive Order Updates d. Federal Bill/Issues Track
+Agenda Item: Receive reports, provide direction, and consider positions and/or recommendations to the Board of Supervisors on: a. Federal Government Update Report i.	Congressional Overview ii. Executive Branch Updates 		 1. Administration Updates 2. Update on Proposed ICE Detention Facility in Gilroy 3. Executive Order Updates b. Appropriations Updates, including Community Project Funding Requests c. Advocacy i. HR 1 ii. Panetta CPF Audit iii. Executive Order Updates d. Federal Bill/Issues Track
 
 Matched keywords: \bICE\b detention, detention facility
 

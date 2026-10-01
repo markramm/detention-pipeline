@@ -1,12 +1,12 @@
 ---
 id: omniplex-world-services-corporation-70cmsd25fc0000009
-title: 'OMNIPLEX WORLD SERVICES CORPORATION — 70CMSD25FC0000009 (DC) $8,276,950'
+title: 'OMNIPLEX WORLD SERVICES CORPORATION — 70CMSD25FC0000009 (DC) $9,922,819'
 type: ice-contract
 state: 'DC'
 contractor: 'OMNIPLEX WORLD SERVICES CORPORATION'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$8,276,950.20'
+contract_value: '$9,922,818.70'
 contract_type: 'federal-contract'
 award_date: '2025-06-13'
 usaspending_id: '70CMSD25FC0000009'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: OMNIPLEX WORLD SERVICES CORPORATION
 Award ID: 70CMSD25FC0000009
-Amount: $8,276,950.20
+Amount: $9,922,818.70
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD FUNDS CALL FIVE UNDER BACKGROUND INVESTIGATION SERVICES II, WHICH SUPPORTS BACKGROUND INVESTIGATION SERVICES FOR INVESTIGATION REPORTS OF CONTRACTORS, AND FEDERAL EMPLOYEES TO THE OFFICE OF PROFESSIONAL RESPONSIBILITY.
-Period: 2025-06-13 to 2026-06-30
+Period: 2025-06-13 to 2027-02-28
 Location: None, DC

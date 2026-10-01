@@ -2,16 +2,15 @@
 id: 287-g-tfm-bunnell-police-department-fl
 title: '287(g) TFM: Bunnell Police Department (FL)'
 type: 287g-agreement
-county: Flagler
-state: FL
+county: 'Flagler'
+state: 'FL'
 fips: '12035'
-agency: Bunnell Police Department
-model: TFM
-signed_date: July 15, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed July 15, 2025
+agency: 'Bunnell Police Department'
+model: 'TFM'
+signed_date: 'July 15, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed July 15, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: July 15, 2025
-County: Flager County
+County: Flagler
 State: FL
-FIPS: unresolved
+FIPS: 12035
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

@@ -2,16 +2,15 @@
 id: 287-g-tfm-tampa-police-department-fl
 title: '287(g) TFM: Tampa Police Department (FL)'
 type: 287g-agreement
-county: Hillsborough
-state: FL
+county: 'Hillsborough'
+state: 'FL'
 fips: '12057'
-agency: Tampa Police Department
-model: TFM
-signed_date: February 28, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed February 28, 2025
+agency: 'Tampa Police Department'
+model: 'TFM'
+signed_date: 'February 28, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed February 28, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: February 28, 2025
-County: 
+County: Hillsborough
 State: FL
-FIPS: unresolved
+FIPS: 12057
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

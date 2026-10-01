@@ -1,14 +1,24 @@
 ---
 id: team-carney-inc-70cmsd25fc0000014
-title: TEAM CARNEY, INC. — 70CMSD25FC0000014 (VA) $1,915,941
+title: 'TEAM CARNEY, INC. — 70CMSD25FC0000014 (VA) $1,915,941'
 type: ice-contract
+state: 'VA'
+contractor: 'TEAM CARNEY, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,915,941.03'
+contract_type: 'federal-contract'
+award_date: '2025-09-23'
+usaspending_id: '70CMSD25FC0000014'
+source: 'USAspending.gov (award 70CMSD25FC0000014)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES THE OFFICE OF LEADERSHIP AND CAREER DEVELOPMENT WITH SERVICES FOR INSTRUCTIONAL SYSTEMS DESIGN MAINTAINING THE ICE TRAINING SYSTEM WHICH PROVIDES CURRICULUM MAINTENANCE AND DESIGN FOR LAW ENFORCEMENT AND OTHER TRAINING COURSES.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

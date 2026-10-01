@@ -1,24 +1,26 @@
 ---
 id: mbf-industries-inc-70cmsw24fr0000096
-title: MBF INDUSTRIES, INC. — 70CMSW24FR0000096 (FL) $910,274
+title: 'MBF INDUSTRIES, INC. — 70CMSW24FR0000096 (FL) $910,274'
 type: ice-contract
+county: 'SEMINOLE'
+state: 'FL'
+fips: '12117'
+contractor: 'MBF INDUSTRIES, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$910,273.92'
+contract_type: 'federal-contract'
+award_date: '2024-08-30'
+usaspending_id: '70CMSW24FR0000096'
+source: 'USAspending.gov (award 70CMSW24FR0000096)'
+signal_strength: 'weak'
+notes: 'MOBILE COMMAND VEHICLE TO SUPPORT LAW ENFORCEMENT OPERATIONS AND OFTP'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
-county: 'SEMINOLE'
-fips: '12117'
-contractor: 'MBF INDUSTRIES, INC.'
-contract_value: '$910,273.92'
-contract_type: 'federal-contract'
-award_date: '2024-08-30'
-usaspending_id: '70CMSW24FR0000096'
-source: 'USAspending.gov'
-signal_strength: 'strong'
-notes: 'MOBILE COMMAND VEHICLE TO SUPPORT LAW ENFORCEMENT OPERATIONS AND OFTP'
 ---
 
 ICE contract award.

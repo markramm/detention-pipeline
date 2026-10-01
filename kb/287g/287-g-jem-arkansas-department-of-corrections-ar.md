@@ -2,16 +2,15 @@
 id: 287-g-jem-arkansas-department-of-corrections-ar
 title: '287(g) JEM: Arkansas Department of Corrections (AR)'
 type: 287g-agreement
-county: Pulaski
-state: AR
-fips: 05119
-agency: Arkansas Department of Corrections
-model: JEM
-signed_date: December 2, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: strong
-notes: JEM model agreement signed December 2, 2025
+county: 'Pulaski'
+state: 'AR'
+fips: '05119'
+agency: 'Arkansas Department of Corrections'
+model: 'JEM'
+signed_date: 'December 2, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'strong'
+notes: 'JEM model agreement signed December 2, 2025'
 tags:
 - 287g
 - jem
@@ -23,8 +22,8 @@ importance: 5
 
 Model: JEM
 Signed: December 2, 2025
-County: Pulaksi County
+County: Pulaski
 State: AR
-FIPS: unresolved
+FIPS: 05119
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

@@ -1,14 +1,24 @@
 ---
 id: the-american-correctional-association-70cdcr25p00000014
-title: THE AMERICAN CORRECTIONAL ASSOCIATION — 70CDCR25P00000014 (TX) $20,550
+title: 'THE AMERICAN CORRECTIONAL ASSOCIATION — 70CDCR25P00000014 (TX) $20,550'
 type: ice-contract
+state: 'TX'
+contractor: 'THE AMERICAN CORRECTIONAL ASSOCIATION'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$20,550.00'
+contract_type: 'federal-contract'
+award_date: '2025-05-22'
+usaspending_id: '70CDCR25P00000014'
+source: 'USAspending.gov (award 70CDCR25P00000014)'
+signal_strength: 'strong'
+notes: 'THIS CONTRACT PROVIDES AMERICAN CORRECTIONAL ASSOCIATION (ACA) RE-ACCREDITATION SUPPORT AT THE PORT ISABEL DETENTION CENTER.'
 tags:
 - ice-contract
 - other
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

@@ -1,14 +1,24 @@
 ---
 id: humango-solutions-llc-70ctd025fc0000005
-title: HUMANGO SOLUTIONS, LLC — 70CTD025FC0000005 (TX) $93,980
+title: 'HUMANGO SOLUTIONS, LLC — 70CTD025FC0000005 (TX) $93,980'
 type: ice-contract
+state: 'TX'
+contractor: 'HUMANGO SOLUTIONS, LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$93,979.70'
+contract_type: 'federal-contract'
+award_date: '2025-06-12'
+usaspending_id: '70CTD025FC0000005'
+source: 'USAspending.gov (award 70CTD025FC0000005)'
+signal_strength: 'strong'
+notes: 'THIS AWARD PROVIDES THE PROCUREMENT & INSTALLATION OF VIDEO TELECONFERENCING EQUIPMENT FOR THE ENFORCEMENT & REMOVAL OPERATIONS SITE LOCATED IN DILLEY TX.'
 tags:
 - ice-contract
 - other
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

@@ -1,0 +1,33 @@
+---
+id: searchlight-cyber-llc-70cmsd26p00000140
+title: 'SEARCHLIGHT CYBER LLC — 70CMSD26P00000140 (VA) $1,690,000'
+type: ice-contract
+state: 'VA'
+contractor: 'SEARCHLIGHT CYBER LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,690,000.00'
+contract_type: 'federal-contract'
+award_date: '2026-09-30'
+usaspending_id: '70CMSD26P00000140'
+source: 'USAspending.gov (award 70CMSD26P00000140)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS ORDER IS TO SUPPORT THE DHS CYBER CRIMES CENTER THROUGH THE PROVISION OF SOFTWARE LICENSES AND ASSOCIATED SUPPORT SERVICES THAT PROVIDE ADVANCED DARK WEB INTELLIGENCE, MONITORING, ATTRIBUTION, AND INVESTIGATIVE ANALYSIS CAPABILITI'
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: SEARCHLIGHT CYBER LLC
+Award ID: 70CMSD26P00000140
+Amount: $1,690,000.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THE PURPOSE OF THIS ORDER IS TO SUPPORT THE DHS CYBER CRIMES CENTER THROUGH THE PROVISION OF SOFTWARE LICENSES AND ASSOCIATED SUPPORT SERVICES THAT PROVIDE ADVANCED DARK WEB INTELLIGENCE, MONITORING, ATTRIBUTION, AND INVESTIGATIVE ANALYSIS CAPABILITI
+Period: 2026-09-30 to 2027-09-29
+Location: None, VA

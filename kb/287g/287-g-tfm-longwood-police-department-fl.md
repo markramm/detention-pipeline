@@ -2,16 +2,15 @@
 id: 287-g-tfm-longwood-police-department-fl
 title: '287(g) TFM: Longwood Police Department (FL)'
 type: 287g-agreement
-county: Seminole
-state: FL
+county: 'Seminole'
+state: 'FL'
 fips: '12117'
-agency: Longwood Police Department
-model: TFM
-signed_date: April 14, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed April 14, 2025
+agency: 'Longwood Police Department'
+model: 'TFM'
+signed_date: 'April 14, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed April 14, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: April 14, 2025
-County: 
+County: Seminole
 State: FL
-FIPS: unresolved
+FIPS: 12117
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

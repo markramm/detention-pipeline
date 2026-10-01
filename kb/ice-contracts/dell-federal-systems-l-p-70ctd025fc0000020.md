@@ -1,14 +1,24 @@
 ---
 id: dell-federal-systems-l-p-70ctd025fc0000020
-title: DELL FEDERAL SYSTEMS L.P — 70CTD025FC0000020 (DC) $496,440
+title: 'DELL FEDERAL SYSTEMS L.P — 70CTD025FC0000020 (DC) $496,440'
 type: ice-contract
+state: 'DC'
+contractor: 'DELL FEDERAL SYSTEMS L.P'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$496,440.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-27'
+usaspending_id: '70CTD025FC0000020'
+source: 'USAspending.gov (award 70CTD025FC0000020)'
+signal_strength: 'weak'
+notes: 'THIS BPA CALL IS TO PURCHASE MICROSOFT LICENSE REQUIREMENTS FOR OFFICE 365, DEFENDER, AND EMS FOR THE OFFICE OF THE CHIEF INFORMATION OFFICER'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

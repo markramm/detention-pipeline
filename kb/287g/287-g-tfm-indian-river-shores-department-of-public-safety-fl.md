@@ -2,16 +2,15 @@
 id: 287-g-tfm-indian-river-shores-department-of-public-safety-fl
 title: '287(g) TFM: Indian River Shores Department of Public Safety (FL)'
 type: 287g-agreement
-county: Indian River
-state: FL
+county: 'Indian River'
+state: 'FL'
 fips: '12061'
-agency: Indian River Shores Department of Public Safety
-model: TFM
-signed_date: March 5, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed March 5, 2025
+agency: 'Indian River Shores Department of Public Safety'
+model: 'TFM'
+signed_date: 'March 5, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed March 5, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: March 5, 2025
-County: 
+County: Indian River
 State: FL
-FIPS: unresolved
+FIPS: 12061
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

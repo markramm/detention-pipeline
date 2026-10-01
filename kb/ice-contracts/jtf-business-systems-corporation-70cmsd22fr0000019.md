@@ -1,12 +1,12 @@
 ---
 id: jtf-business-systems-corporation-70cmsd22fr0000019
-title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD22FR0000019 (PR) $13,440'
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD22FR0000019 (PR) $16,800'
 type: ice-contract
 state: 'PR'
 contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$13,440.00'
+contract_value: '$16,800.00'
 contract_type: 'federal-contract'
 award_date: '2022-04-01'
 usaspending_id: '70CMSD22FR0000019'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: JTF BUSINESS SYSTEMS CORPORATION
 Award ID: 70CMSD22FR0000019
-Amount: $13,440.00
+Amount: $16,800.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: MULTI-FUNCTIONAL DEVICE (MFD) LEASE
-Period: 2022-04-01 to 2026-07-11
+Period: 2022-04-01 to 2027-07-11
 Location: None, PR

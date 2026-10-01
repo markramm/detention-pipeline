@@ -1,12 +1,12 @@
 ---
 id: jtf-business-systems-corporation-70cmsd24fc0000034
-title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD24FC0000034 (VA) $10,224'
+title: 'JTF BUSINESS SYSTEMS CORPORATION — 70CMSD24FC0000034 (VA) $15,336'
 type: ice-contract
 state: 'VA'
 contractor: 'JTF BUSINESS SYSTEMS CORPORATION'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$10,224.00'
+contract_value: '$15,336.00'
 contract_type: 'federal-contract'
 award_date: '2024-09-30'
 usaspending_id: '70CMSD24FC0000034'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: JTF BUSINESS SYSTEMS CORPORATION
 Award ID: 70CMSD24FC0000034
-Amount: $10,224.00
+Amount: $15,336.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: BPA FOR MULTI-FUNCTIONAL DEVICES
-Period: 2024-09-30 to 2026-09-29
+Period: 2024-09-30 to 2027-09-29
 Location: None, VA

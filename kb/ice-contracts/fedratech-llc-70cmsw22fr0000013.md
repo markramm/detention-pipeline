@@ -1,12 +1,12 @@
 ---
 id: fedratech-llc-70cmsw22fr0000013
-title: 'FEDRATECH LLC — 70CMSW22FR0000013 (DC) $3,482,575'
+title: 'FEDRATECH LLC — 70CMSW22FR0000013 (DC) $3,363,002'
 type: ice-contract
 state: 'DC'
 contractor: 'FEDRATECH LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$3,482,574.88'
+contract_value: '$3,363,002.12'
 contract_type: 'federal-contract'
 award_date: '2022-01-20'
 usaspending_id: '70CMSW22FR0000013'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: FEDRATECH LLC
 Award ID: 70CMSW22FR0000013
-Amount: $3,482,574.88
+Amount: $3,363,002.12
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: INFRASTRUCTURE SUPPORT AND DATA INCORPORATION SERVICES

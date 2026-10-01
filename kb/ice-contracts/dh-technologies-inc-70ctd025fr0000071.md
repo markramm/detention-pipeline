@@ -1,14 +1,24 @@
 ---
 id: dh-technologies-inc-70ctd025fr0000071
-title: DH TECHNOLOGIES, INC. — 70CTD025FR0000071 (DC) $40,498
+title: 'DH TECHNOLOGIES, INC. — 70CTD025FR0000071 (DC) $40,498'
 type: ice-contract
+state: 'DC'
+contractor: 'DH TECHNOLOGIES, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$40,498.01'
+contract_type: 'federal-contract'
+award_date: '2025-09-10'
+usaspending_id: '70CTD025FR0000071'
+source: 'USAspending.gov (award 70CTD025FR0000071)'
+signal_strength: 'weak'
+notes: 'THIS AWARD IS TO PROCURE CISCO CATALYST 9300 SWITCHES AND CISCO CATALYST 9120AX WIRELESS ACCESS POINT PRODUCTS FOR THE OFFICE OF THE CHIEF INFORMATION OFFICER (OCIO) / OPERATIONS (OPS) DIVISION TO IMPROVE NETWORK PERFORMANCE AND STABILITY.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

@@ -1,0 +1,33 @@
+---
+id: thundercat-technology-llc-70ctd026fr0000047
+title: 'THUNDERCAT TECHNOLOGY, LLC — 70CTD026FR0000047 (DC) $1,703,760'
+type: ice-contract
+state: 'DC'
+contractor: 'THUNDERCAT TECHNOLOGY, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$1,703,760.09'
+contract_type: 'federal-contract'
+award_date: '2026-08-13'
+usaspending_id: '70CTD026FR0000047'
+source: 'USAspending.gov (award 70CTD026FR0000047)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES UIPATH AUTOMATION PLATFORM LICENSES WHICH IS REQUIRED TO ALLOW USERS TO BUILD, DEPLOY, AND MANAGE ROBOTIC PROCESS AUTOMATIONS THAT EMULATE HUMAN ACTIONS WHEN INTERACTING WITH SYSTEMS AND INFRASTRUCTURES TO STREAMLINE WORKFLOWS.'
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: THUNDERCAT TECHNOLOGY, LLC
+Award ID: 70CTD026FR0000047
+Amount: $1,703,760.09
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD PROVIDES UIPATH AUTOMATION PLATFORM LICENSES WHICH IS REQUIRED TO ALLOW USERS TO BUILD, DEPLOY, AND MANAGE ROBOTIC PROCESS AUTOMATIONS THAT EMULATE HUMAN ACTIONS WHEN INTERACTING WITH SYSTEMS AND INFRASTRUCTURES TO STREAMLINE WORKFLOWS.
+Period: 2026-08-13 to 2027-07-01
+Location: None, DC

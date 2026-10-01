@@ -1,12 +1,12 @@
 ---
 id: crosstown-courier-service-inc-70cdcr22p00000028
-title: 'CROSSTOWN COURIER SERVICE INC — 70CDCR22P00000028 (MA) $652,282'
+title: 'CROSSTOWN COURIER SERVICE INC — 70CDCR22P00000028 (MA) $849,399'
 type: ice-contract
 state: 'MA'
 contractor: 'CROSSTOWN COURIER SERVICE INC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$652,281.79'
+contract_value: '$849,399.15'
 contract_type: 'federal-contract'
 award_date: '2022-08-23'
 usaspending_id: '70CDCR22P00000028'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: CROSSTOWN COURIER SERVICE INC
 Award ID: 70CDCR22P00000028
-Amount: $652,281.79
+Amount: $849,399.15
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: HARLINGEN COURIER SERVICES

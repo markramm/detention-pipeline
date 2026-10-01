@@ -1,0 +1,33 @@
+---
+id: swish-data-corporation-70ctd026fr0000087
+title: 'SWISH DATA CORPORATION — 70CTD026FR0000087 (DC) $564,602'
+type: ice-contract
+state: 'DC'
+contractor: 'SWISH DATA CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$564,602.00'
+contract_type: 'federal-contract'
+award_date: '2026-09-25'
+usaspending_id: '70CTD026FR0000087'
+source: 'USAspending.gov (award 70CTD026FR0000087)'
+signal_strength: 'weak'
+notes: 'AWARD PROVIDES SCHNEIDER ELECTRIC UNINTERRUPTIBLE POWER SUPPLY BATTERY BACKUP PRODUCTS FOR THE OFFICE OF THE CHIEF INFORMATION OFFICER TO HELP PROVIDE UNINTERRUPTED POWER TO NETWORK EQUIPMENT DURING POWER OUTAGES AND SUPPORT SYSTEM AVAILABILITY'
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: SWISH DATA CORPORATION
+Award ID: 70CTD026FR0000087
+Amount: $564,602.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: AWARD PROVIDES SCHNEIDER ELECTRIC UNINTERRUPTIBLE POWER SUPPLY BATTERY BACKUP PRODUCTS FOR THE OFFICE OF THE CHIEF INFORMATION OFFICER TO HELP PROVIDE UNINTERRUPTED POWER TO NETWORK EQUIPMENT DURING POWER OUTAGES AND SUPPORT SYSTEM AVAILABILITY
+Period: 2026-09-25 to 2026-12-24
+Location: None, DC

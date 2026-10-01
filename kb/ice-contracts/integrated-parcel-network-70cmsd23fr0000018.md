@@ -1,12 +1,12 @@
 ---
 id: integrated-parcel-network-70cmsd23fr0000018
-title: 'INTEGRATED PARCEL NETWORK — 70CMSD23FR0000018 (TX) $197,099'
+title: 'INTEGRATED PARCEL NETWORK — 70CMSD23FR0000018 (TX) $268,123'
 type: ice-contract
 state: 'TX'
 contractor: 'INTEGRATED PARCEL NETWORK'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$197,099.04'
+contract_value: '$268,123.44'
 contract_type: 'federal-contract'
 award_date: '2023-04-02'
 usaspending_id: '70CMSD23FR0000018'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: INTEGRATED PARCEL NETWORK
 Award ID: 70CMSD23FR0000018
-Amount: $197,099.04
+Amount: $268,123.44
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: SAN ANTONIO COURIER SERVICES

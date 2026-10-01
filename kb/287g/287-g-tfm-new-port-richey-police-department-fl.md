@@ -2,16 +2,15 @@
 id: 287-g-tfm-new-port-richey-police-department-fl
 title: '287(g) TFM: New Port Richey Police Department (FL)'
 type: 287g-agreement
-county: Pasco
-state: FL
+county: 'Pasco'
+state: 'FL'
 fips: '12101'
-agency: New Port Richey Police Department
-model: TFM
-signed_date: May 13, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed May 13, 2025
+agency: 'New Port Richey Police Department'
+model: 'TFM'
+signed_date: 'May 13, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed May 13, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: May 13, 2025
-County: 
+County: Pasco
 State: FL
-FIPS: unresolved
+FIPS: 12101
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

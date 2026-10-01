@@ -1,11 +1,12 @@
 ---
 id: countertrade-products-inc-70cmsd26fr0000039
-title: 'COUNTERTRADE PRODUCTS, INC. — 70CMSD26FR0000039 (DC)'
+title: 'COUNTERTRADE PRODUCTS, INC. — 70CMSD26FR0000039 (DC) $80,575'
 type: ice-contract
 state: 'DC'
 contractor: 'COUNTERTRADE PRODUCTS, INC.'
 contractor_type: 'other'
 contract_class: 'other-ice'
+contract_value: '$80,574.60'
 contract_type: 'federal-contract'
 award_date: '2026-05-01'
 usaspending_id: '70CMSD26FR0000039'
@@ -24,7 +25,7 @@ ICE contract award.
 
 Recipient: COUNTERTRADE PRODUCTS, INC.
 Award ID: 70CMSD26FR0000039
-Amount: $0.00
+Amount: $80,574.60
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROCURES RED HAT APPLICATION FOUNDATION SOFTWARE, WHICH SUPPORTS HOMELAND SECURITY INVESTIGATIONS WITH SYSTEM INTEGRATION AND SCALABILITY OF THE INVESTIGATIVE CASE MANAGEMENT SYSTEM.

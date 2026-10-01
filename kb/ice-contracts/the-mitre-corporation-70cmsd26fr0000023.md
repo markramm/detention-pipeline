@@ -1,11 +1,12 @@
 ---
 id: the-mitre-corporation-70cmsd26fr0000023
-title: 'THE MITRE CORPORATION — 70CMSD26FR0000023 (VA)'
+title: 'THE MITRE CORPORATION — 70CMSD26FR0000023 (VA) $2,700,000'
 type: ice-contract
 state: 'VA'
 contractor: 'THE MITRE CORPORATION'
 contractor_type: 'other'
 contract_class: 'other-ice'
+contract_value: '$2,700,000.00'
 contract_type: 'federal-contract'
 award_date: '2026-03-23'
 usaspending_id: '70CMSD26FR0000023'
@@ -24,7 +25,7 @@ ICE contract award.
 
 Recipient: THE MITRE CORPORATION
 Award ID: 70CMSD26FR0000023
-Amount: $0.00
+Amount: $2,700,000.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS TASK ORDER SUPPORTS ONGOING RESEARCH, DEVELOPMENT, INTEGRATION, AND IMPLEMENTATION OF NEW FORENSIC CAPABILITIES FOR DHS CYBER CRIMES CENTER'S CYBERCRIME EFFORTS.

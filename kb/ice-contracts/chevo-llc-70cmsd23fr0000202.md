@@ -1,12 +1,12 @@
 ---
 id: chevo-llc-70cmsd23fr0000202
-title: 'CHEVO LLC — 70CMSD23FR0000202 (MD) $9,955,815'
+title: 'CHEVO LLC — 70CMSD23FR0000202 (MD) $12,843,320'
 type: ice-contract
 state: 'MD'
 contractor: 'CHEVO LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$9,955,815.05'
+contract_value: '$12,843,319.87'
 contract_type: 'federal-contract'
 award_date: '2023-09-20'
 usaspending_id: '70CMSD23FR0000202'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: CHEVO LLC
 Award ID: 70CMSD23FR0000202
-Amount: $9,955,815.05
+Amount: $12,843,319.87
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: STUDENT AND EXCHANGE VISITOR PROGRAM (SEVP) FEE MANAGEMENT SUPPORT, PROFESSIONAL SERVICES
-Period: 2023-09-20 to 2026-09-19
+Period: 2023-09-20 to 2027-03-19
 Location: None, MD

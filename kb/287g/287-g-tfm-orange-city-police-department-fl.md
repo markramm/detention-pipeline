@@ -2,16 +2,15 @@
 id: 287-g-tfm-orange-city-police-department-fl
 title: '287(g) TFM: Orange City Police Department (FL)'
 type: 287g-agreement
-county: Volusia
-state: FL
+county: 'Volusia'
+state: 'FL'
 fips: '12127'
-agency: Orange City Police Department
-model: TFM
-signed_date: April 14, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed April 14, 2025
+agency: 'Orange City Police Department'
+model: 'TFM'
+signed_date: 'April 14, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed April 14, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: April 14, 2025
-County: 
+County: Volusia
 State: FL
-FIPS: unresolved
+FIPS: 12127
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

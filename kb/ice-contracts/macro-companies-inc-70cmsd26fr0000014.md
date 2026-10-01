@@ -1,12 +1,12 @@
 ---
 id: macro-companies-inc-70cmsd26fr0000014
-title: 'MACRO COMPANIES, INC. — 70CMSD26FR0000014 (MN) $40,701'
+title: 'MACRO COMPANIES, INC. — 70CMSD26FR0000014 (MN) $11,104'
 type: ice-contract
 state: 'MN'
 contractor: 'MACRO COMPANIES, INC.'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$40,700.80'
+contract_value: '$11,103.55'
 contract_type: 'federal-contract'
 award_date: '2026-01-30'
 usaspending_id: '70CMSD26FR0000014'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: MACRO COMPANIES, INC.
 Award ID: 70CMSD26FR0000014
-Amount: $40,700.80
+Amount: $11,103.55
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROVIDES HOMELAND SECURITY INVESTIGATIONS (HSI) ST. PAUL DIESEL FUEL FOR GENERATORS IN SUPPORT OF THE HSI IMMIGRATION ENFORCEMENT MISSION.

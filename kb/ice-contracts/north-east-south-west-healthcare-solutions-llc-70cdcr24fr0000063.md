@@ -1,12 +1,12 @@
 ---
 id: north-east-south-west-healthcare-solutions-llc-70cdcr24fr0000063
-title: 'NORTH EAST SOUTH WEST HEALTHCARE SOLUTIONS, LLC — 70CDCR24FR0000063 (TX) $16,465,998'
+title: 'NORTH EAST SOUTH WEST HEALTHCARE SOLUTIONS, LLC — 70CDCR24FR0000063 (TX) $18,581,925'
 type: ice-contract
 state: 'TX'
 contractor: 'NORTH EAST SOUTH WEST HEALTHCARE SOLUTIONS, LLC'
 contractor_type: 'other'
 contract_class: 'detention-related'
-contract_value: '$16,465,998.24'
+contract_value: '$18,581,924.90'
 contract_type: 'federal-contract'
 award_date: '2024-09-23'
 usaspending_id: '70CDCR24FR0000063'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: NORTH EAST SOUTH WEST HEALTHCARE SOLUTIONS, LLC
 Award ID: 70CDCR24FR0000063
-Amount: $16,465,998.24
+Amount: $18,581,924.90
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: MEDICAL STAFFING SERVICES FOR THE ICE HEALTH SERVICE CORPS (IHSC)

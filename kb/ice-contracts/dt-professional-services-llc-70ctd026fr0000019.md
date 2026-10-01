@@ -1,11 +1,12 @@
 ---
 id: dt-professional-services-llc-70ctd026fr0000019
-title: 'DT PROFESSIONAL SERVICES, LLC — 70CTD026FR0000019 (CA)'
+title: 'DT PROFESSIONAL SERVICES, LLC — 70CTD026FR0000019 (CA) $560,901'
 type: ice-contract
 state: 'CA'
 contractor: 'DT PROFESSIONAL SERVICES, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
+contract_value: '$560,900.80'
 contract_type: 'federal-contract'
 award_date: '2026-04-27'
 usaspending_id: '70CTD026FR0000019'
@@ -24,7 +25,7 @@ ICE contract award.
 
 Recipient: DT PROFESSIONAL SERVICES, LLC
 Award ID: 70CTD026FR0000019
-Amount: $0.00
+Amount: $560,900.80
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROVIDES IMMIGRATION AND CUSTOMS ENFORCEMENT (ICE) OFFICE OF PUBLIC AFFAIRS (OPA) WITH A CONTENT MANAGEMENT SOLUTION TO CENTRALIZE, MANAGE, RETIRE, AND MIGRATE DIGITAL ASSETS ACROSS ICE WEBSITES, SOCIAL MEDIA, AND NEWS AGENCIES.

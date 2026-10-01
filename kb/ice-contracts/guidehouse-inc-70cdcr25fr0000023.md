@@ -1,12 +1,12 @@
 ---
 id: guidehouse-inc-70cdcr25fr0000023
-title: 'GUIDEHOUSE INC. — 70CDCR25FR0000023 (DC) $4,716,085'
+title: 'GUIDEHOUSE INC. — 70CDCR25FR0000023 (DC) $7,558,460'
 type: ice-contract
 state: 'DC'
 contractor: 'GUIDEHOUSE INC.'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$4,716,085.09'
+contract_value: '$7,558,460.38'
 contract_type: 'federal-contract'
 award_date: '2025-02-28'
 usaspending_id: '70CDCR25FR0000023'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: GUIDEHOUSE INC.
 Award ID: 70CDCR25FR0000023
-Amount: $4,716,085.09
+Amount: $7,558,460.38
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THE PURPOSE OF THIS AWARD IS TO PROVIDE TRANSPORTATION ANALYSIS AND SUPPORT SERVICES FOR THE ICE TRANSPORTATION & REMOVAL PROGRAM (TRP).
-Period: 2025-02-28 to 2026-07-27
+Period: 2025-02-28 to 2027-02-27
 Location: None, DC

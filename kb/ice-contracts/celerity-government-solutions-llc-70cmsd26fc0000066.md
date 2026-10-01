@@ -1,0 +1,33 @@
+---
+id: celerity-government-solutions-llc-70cmsd26fc0000066
+title: 'CELERITY GOVERNMENT SOLUTIONS LLC — 70CMSD26FC0000066 (DC) $10,649,930'
+type: ice-contract
+state: 'DC'
+contractor: 'CELERITY GOVERNMENT SOLUTIONS LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$10,649,930.20'
+contract_type: 'federal-contract'
+award_date: '2026-09-30'
+usaspending_id: '70CMSD26FC0000066'
+source: 'USAspending.gov (award 70CMSD26FC0000066)'
+signal_strength: 'weak'
+notes: 'THIS AWARD FUNDS CALL ONE UNDER BACKGROUND INVESTIGATION SERVICES III, WHICH SUPPORTS BACKGROUND INVESTIGATION SERVICES FOR INVESTIGATION REPORTS OF CONTRACTORS, AND FEDERAL EMPLOYEES TO THE OFFICE OF PROFESSIONAL RESPONSIBILITY.'
+tags:
+- ice-contract
+- other
+- other-ice
+- dc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: CELERITY GOVERNMENT SOLUTIONS LLC
+Award ID: 70CMSD26FC0000066
+Amount: $10,649,930.20
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD FUNDS CALL ONE UNDER BACKGROUND INVESTIGATION SERVICES III, WHICH SUPPORTS BACKGROUND INVESTIGATION SERVICES FOR INVESTIGATION REPORTS OF CONTRACTORS, AND FEDERAL EMPLOYEES TO THE OFFICE OF PROFESSIONAL RESPONSIBILITY.
+Period: 2026-09-30 to 2027-09-29
+Location: None, DC

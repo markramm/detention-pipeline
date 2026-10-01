@@ -2,16 +2,15 @@
 id: 287-g-tfm-lynn-haven-police-department-fl
 title: '287(g) TFM: Lynn Haven Police Department (FL)'
 type: 287g-agreement
-county: Bay
-state: FL
+county: 'Bay'
+state: 'FL'
 fips: '12005'
-agency: Lynn Haven Police Department
-model: TFM
-signed_date: February 24, 2025
-source: Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of
-  2026-02-17
-signal_strength: moderate
-notes: TFM model agreement signed February 24, 2025
+agency: 'Lynn Haven Police Department'
+model: 'TFM'
+signed_date: 'February 24, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed February 24, 2025'
 tags:
 - 287g
 - tfm
@@ -23,8 +22,8 @@ importance: 5
 
 Model: TFM
 Signed: February 24, 2025
-County: 
+County: Bay
 State: FL
-FIPS: unresolved
+FIPS: 12005
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

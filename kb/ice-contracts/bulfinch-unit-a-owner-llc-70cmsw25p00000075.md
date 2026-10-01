@@ -1,14 +1,24 @@
 ---
 id: bulfinch-unit-a-owner-llc-70cmsw25p00000075
-title: BULFINCH UNIT A OWNER LLC — 70CMSW25P00000075 (MA) $29,125
+title: 'BULFINCH UNIT A OWNER LLC — 70CMSW25P00000075 (MA) $29,125'
 type: ice-contract
+state: 'MA'
+contractor: 'BULFINCH UNIT A OWNER LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$29,125.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-19'
+usaspending_id: '70CMSW25P00000075'
+source: 'USAspending.gov (award 70CMSW25P00000075)'
+signal_strength: 'weak'
+notes: 'THIS PURCHASE ORDER PAYS FOR UNAUTHORIZED PARKING SPOTS BY HSI AGENTS IN BOSTON, MA TO SUPPORT ICE- HOMELAND SECURITY INVESTIGATION (HSI).'
 tags:
 - ice-contract
 - other
 - other-ice
 - ma
 importance: 5
-state: 'MA'
 ---
 
 ICE contract award.
