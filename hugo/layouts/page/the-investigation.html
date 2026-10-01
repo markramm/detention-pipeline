@@ -8,7 +8,10 @@
     {{/* ── Header ── */}}
     <div style="display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-bottom:8px;">
       <h1 class="serif" style="font-size:32px; font-weight:400; letter-spacing:-0.02em;">Immigration Detention in 2026: The Investigation</h1>
-      <span class="mono dim" style="font-size:10px;">Updated May 2026</span>
+      {{/* Auto-derived from the timeline data's own generation date (hugo/data/timeline.json,
+           written by scripts/generate_timeline.py every build) rather than a hand-typed month,
+           so this badge can't go stale the way "Updated May 2026" did. */}}
+      <span class="mono dim" style="font-size:10px;">Updated{{ with .Site.Data.timeline.metadata.generated }} {{ (time.AsTime .).Format "January 2006" }}{{ end }}</span>
     </div>
     <p style="font-size:15px; color:var(--text-secondary); line-height:1.7; margin-bottom:14px; max-width:640px;">
       A continuous record of America's immigration-detention buildout in 2026 — the year ICE opened 152 new facilities
@@ -526,11 +529,17 @@
     <h2 id="inflection" class="mono dim" style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-top:48px; margin-bottom:6px; padding-bottom:8px; border-bottom:2px solid var(--border);">
       IX · The Inflection — Where We Are Now
     </h2>
+    {{/* Go's html/template silently drops literal HTML comments at parse time, so this
+         marker is emitted via an action instead, to actually survive into the rendered
+         page for Mark. Facts below ("as of May 2026") are tied to the single May piece
+         in this section — see the PR description's "For Mark" list. */}}
+    {{ print "<!-- STALE: from May 2026; Mark to update -->" | safeHTML }}
     <p style="font-size:14px; color:var(--text-secondary); line-height:1.7; margin-bottom:18px; max-width:640px;">
       The most recent pieces. The state of the buildout as of May 2026, and the open question of which way it
       is moving.
     </p>
 
+    {{ print "<!-- STALE: from May 2026; Mark to update -->" | safeHTML }}
     {{ partial "investigation-entry.html" (dict
       "title" "Detention Pipeline: The May Inflection"
       "url" "https://theramm.substack.com/p/detention-pipeline-the-may-inflection"

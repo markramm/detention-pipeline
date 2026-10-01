@@ -38,7 +38,9 @@ jobs:
           python-version: "3.12"
 
       - name: Install Python deps
-        run: pip install pyyaml pytest
+        # Pillow renders the og:image social-preview cards (see
+        # "Generate social-preview images" below).
+        run: pip install pyyaml pytest pillow
 
       - name: Run unit tests
         run: python3 -m pytest kb/scripts/tests/ hugo/tests/ -q
@@ -54,6 +56,20 @@ jobs:
         run: |
           cd hugo
           python3 generate_content.py
+
+      - name: Generate social-preview images
+        # og:image cards for every county/fight/player/state/blog page.
+        # Must run after generate_content.py (reads content/fights,
+        # content/players, content/blog) and before the Hugo build (writes
+        # into static/og/, which Hugo copies verbatim into publishDir).
+        # --top overrides the script's default of only the top 50 counties
+        # by score; without it most of the 2,032 county pages would still
+        # 404 on their og:image. Menlo/Helvetica aren't installed on the
+        # Ubuntu runner, so PIL falls back to its default bitmap font here
+        # (cards still render, just not with the local-build typography).
+        run: |
+          cd hugo
+          python3 generate_og_cards.py --top 9999
 
       - name: Generate visualization data
         # network.json and timeline.json are gitignored (generated), and the
