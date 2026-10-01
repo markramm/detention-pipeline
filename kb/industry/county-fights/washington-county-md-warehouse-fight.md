@@ -147,10 +147,10 @@ The four parallel cases (NJ, MI, AZ, plus this one as the precedent) are now all
 ## Cross-References
 
 - **Roxbury NJ fight**: [/fights/roxbury-nj-lawsuit](/fights/roxbury-nj-lawsuit/) — same 542/1,500 pattern; same NEPA argument; May 12, 2026 hearing pending (Judge Jamel K. Semper, D.N.J., Civil Action 26-02884)
-- **Romulus MI fight**: [/fights/romulus-mi-warehouse](/fights/romulus-mi-warehouse/) — parallel pending NEPA case (Case 2:26-cv-10968-JJCG-EAS); March 24 filing; DHS submitted 500-page response April 22-23
+- **Romulus MI fight**: [/fights/romulus-mi-warehouse-fight](/fights/romulus-mi-warehouse-fight/) — parallel pending NEPA case (Case 2:26-cv-10968-JJCG-EAS); March 24 filing; DHS submitted 500-page response April 22-23
 - **Surprise AZ fight**: [/fights/surprise-az-ice-warehouse-fight](/fights/surprise-az-ice-warehouse-fight/) — fourth state in the cluster; AG Mayes filed *Arizona v. Mullin* April 24, 2026; same 550/1,500 capacity split; GardaWorld $313M contract already stopped
 - **Tremont PA warehouse fight**: [/fights/pa-schuylkill-tremont-ice-warehouse](/fights/pa-schuylkill-tremont-ice-warehouse/) — different procedural vehicle (PA DEP orders, not NEPA litigation), but same warehouse-conversion-blocked outcome at much larger scale (7,500 beds planned at 1.3M sq ft Big Lots warehouse)
-- **KVG LLC industry profile**: [/players/kvg-llc](/players/kvg-llc/) — Williamsport contractor whose contract was stopped post-injunction
+- **KVG LLC** (no standalone industry-profile page yet; see its [ICE contract award](/entry/kvg-llc-70cdcr26fr0000035/)) — Williamsport contractor whose contract was stopped post-injunction
 - **Contractual Capacity vs. Operational Overcrowding** (cascade-research mechanism, May 6, 2026): the structural finding about ICE's contractual-capacity reporting that this case operationalizes
 
 ## Sources

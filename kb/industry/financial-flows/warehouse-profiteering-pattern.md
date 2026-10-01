@@ -72,7 +72,7 @@ On **March 30, 2026**, 54 Congressional Democrats launched an investigation (Ras
 - [[blue-owl-capital]] — Primary private equity profiteer
 - [[wexmac-titus-military-procurement-bypass]] — How the contracting bypasses normal oversight
 - Epstein network: Deutsche Bank's 40 Epstein accounts and $2.5B Trump loans
-- Cascade timeline: [[2026-03-12--ice-detention-expansion-38-billion-mega-centers]]
+- Cascade timeline: [ICE Reveals $38.3 Billion Detention Expansion Plan for 92,600-Bed Mega-Center Network (Capture Cascade Timeline, March 12, 2026)](https://capturecascade.org/event/2026-03-12--ice-detention-expansion-38-billion-mega-centers/)
 
 ## Sources
 

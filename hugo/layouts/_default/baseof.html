@@ -105,7 +105,9 @@
 <meta property="og:url" content="{{ .Permalink }}">
 {{- $ogImage := "/og/default.png" -}}
 {{- if eq .Type "county" -}}
-  {{- $ogImage = printf "/og/county-%s.png" .Params.fips -}}
+  {{- if .IsPage -}}
+    {{- $ogImage = printf "/og/county-%s.png" .Params.fips -}}
+  {{- end -}}
 {{- else if eq .Type "blog" -}}
   {{- if .IsPage -}}
     {{- if .Params.og_image -}}

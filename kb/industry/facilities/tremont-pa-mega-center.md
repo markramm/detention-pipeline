@@ -50,7 +50,7 @@ Pennsylvania hosts two facilities in the Detention Reengineering Initiative: thi
 
 The Tremont mega-center would be comparable in scale to the [[social-circle-ga-mega-center|Social Circle, GA]] and [[el-paso-tx-eastwind-mega-center|El Paso, TX]] mega-centers — among the largest jails of any kind in the country if completed as planned.
 
-Blue Owl's Tremont sale is not isolated — the firm also owned the [[durant-ok|Durant, OK]] warehouse that the Choctaw Nation purchased to block DHS acquisition.
+Blue Owl's Tremont sale is not isolated — the firm also owned the [[durant-ok-choctaw-nation|Durant, OK]] warehouse that the Choctaw Nation purchased to block DHS acquisition.
 
 ## Sources
 

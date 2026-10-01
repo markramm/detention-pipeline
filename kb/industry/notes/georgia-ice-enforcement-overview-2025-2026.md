@@ -43,9 +43,9 @@ Georgia has become one of the most aggressive ICE-enforcement states in the coun
 
 | Facility | County (FIPS) | Operator | Capacity | Note |
 |----------|---------------|----------|----------|------|
-| [[stewart-detention-center-ga\|Stewart]] | Stewart (13259) | CoreCivic | 2,000+ | 14 deaths since 2006; newest April 28, 2026 |
-| [[folkston-ipc-charlton-ga\|Folkston IPC + D. Ray James]] | Charlton (13049) | GEO Group | 3,000 (post-merger) | nation's largest after merger |
-| [[social-circle-ga-mega-center\|Social Circle mega-center]] | Walton (13297) | ICE (federal) | 7,500–10,000 | in litigation; city sued DHS May 14, 2026 |
+| [Stewart](/facilities/stewart-detention-center-ga/) | Stewart (13259) | CoreCivic | 2,000+ | 14 deaths since 2006; newest April 28, 2026 |
+| [Folkston IPC + D. Ray James](/facilities/folkston-ipc-charlton-ga/) | Charlton (13049) | GEO Group | 3,000 (post-merger) | nation's largest after merger |
+| [Social Circle mega-center](/facilities/social-circle-ga-mega-center/) | Walton (13297) | ICE (federal) | 7,500–10,000 | in litigation; city sued DHS May 14, 2026 |
 | Oakwood (proposed) | Hall (13139) | TBD | TBD | city council voted for stay |
 
 ## The Counter-Current: Eleventh Circuit Bond Hearings

@@ -62,4 +62,4 @@ This entry establishes the `federal-non-disclosure-directive` indicator type.
 
 Monique O. Madan, ["A Secret ICE Directive Is Testing the Limits of State Public-Records Law"](https://moniqueomadan.substack.com/p/a-secret-ice-directive-is-testing) (Two Can Be True / The Florida Trib, May 6, 2026). Madan obtained the memo from multiple South Florida law enforcement agencies on background due to retaliation fears.
 
-See also: [TX statewide directive entry](/comms/tx-statewide-ice-287g-non-disclosure-directive-april-may-2026/), [Miami-Dade Sheriff's Office directive entry](/comms/miami-dade-fl-ice-287g-non-disclosure-directive-april-may-2026/).
+See also: [TX statewide directive entry](/entry/tx-statewide-ice-287g-non-disclosure-directive-april-may-2026/), [Miami-Dade Sheriff's Office directive entry](/entry/miami-dade-fl-ice-287g-non-disclosure-directive-april-may-2026/).
