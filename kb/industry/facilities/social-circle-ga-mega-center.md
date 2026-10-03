@@ -32,7 +32,7 @@ ICE purchased a warehouse in Social Circle, Georgia — approximately 50 miles e
 - **Facility size**: ~1 million sq ft
 - **Facility type**: Large-scale mega-center (one of 8)
 - **Target completion**: By October 2026
-- **Sewage demand**: 1,001,683 gallons/day (per DHS documents)
+- **Sewage demand**: 1,001,683 gallons/day (DHS figure, per the [Warnock/Ossoff letter, Mar 24, 2026](https://www.warnock.senate.gov/newsroom/press-releases/warnock-exposes-ices-lack-of-transparency-on-detention-center-in-social-circle/)); the city's separate permit to draw river water is 1 million gallons/day (GPB)
 
 ## Financial Details (More Perfect Union, April 2026)
 
@@ -73,6 +73,7 @@ The City of Social Circle **sued DHS and ICE** in the **U.S. District Court for 
 
 - [How ICE plans for a detention warehouse pushed a Georgia town to fight back — CNN](https://www.cnn.com/2026/03/16/politics/ice-detention-warehouses-georgia)
 - [Social Circle puts ICE warehouse plan on ice with water meter lock — GPB](https://www.gpb.org/news/2026/03/17/social-circle-puts-ice-warehouse-plan-on-ice-water-meter-lock)
+- [Warnock Exposes ICE's Lack of Transparency on Detention Center in Social Circle — Sen. Warnock (Mar 24, 2026)](https://www.warnock.senate.gov/newsroom/press-releases/warnock-exposes-ices-lack-of-transparency-on-detention-center-in-social-circle/)
 - [Georgia town blocks massive immigration center over water and sewer concerns — Georgia Recorder](https://georgiarecorder.com/briefs/georgia-town-blocks-massive-immigration-center-over-concerns-about-water-and-sewer-capacity/)
 - [ICE bought a warehouse in Social Circle, Ga. The city wishes it hadn't — GPB](https://www.gpb.org/news/2026/02/13/ice-bought-warehouse-in-social-circle-ga-the-city-wishes-it-hadnt)
 - [ICE 'mega center' in Social Circle part of $38.3 billion strategy, DHS tells city — WSB-TV (May 2026)](https://www.wsbtv.com/news/local/walton-county/ice-mega-center-facility-social-circle-part-383-billion-strategy-dhs-tells-city/O7GTDFNPXVEQLLYBAKTI3H5NRU/)
