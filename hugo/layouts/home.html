@@ -108,7 +108,7 @@
           <div class="mono" style="font-size:13px; letter-spacing:0.1em; text-transform:uppercase; color:var(--signal-commission); margin-bottom:10px; font-weight:500;">For Researchers</div>
           <div style="font-size:22px; font-weight:600; color:var(--text-primary); margin-bottom:10px; line-height:1.3;">County-level data on the detention expansion.</div>
           <div style="font-size:16px; color:var(--text-secondary); line-height:1.6; margin-bottom:16px;">
-            {{ .Params.total_counties | default 1988 }} counties scored by signal convergence. IGSA contracts, 287(g) agreements, USAspending data, budget distress indicators. Open data, CC-BY-SA licensed, with full methodology documentation.
+            {{ .Params.total_scored | default .Params.total_counties }} counties scored by signal convergence. IGSA contracts, 287(g) agreements, USAspending data, budget distress indicators. Open data, CC-BY-SA licensed, with full methodology documentation.
           </div>
           <div style="font-size:16px; color:var(--signal-commission); font-weight:600;">Browse county data &rarr;</div>
         </a>
@@ -125,7 +125,7 @@
       <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:16px;">
         <a href="/map/" class="card" style="border-left:4px solid var(--accent); text-decoration:none; padding:24px 26px;">
           <div style="font-size:19px; font-weight:600; margin-bottom:6px; color:var(--text-primary);">Heat Map</div>
-          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6;">{{ .Params.total_counties | default 1988 }} counties scored by signal convergence. Interactive, zoomable, with facility overlay.</div>
+          <div style="font-size:16px; color:var(--text-secondary); line-height:1.6;">{{ .Params.total_scored | default .Params.total_counties }} counties scored by signal convergence. Interactive, zoomable, with facility overlay.</div>
         </a>
         <a href="/tactics/" class="card" style="border-left:4px solid var(--accent-warm); text-decoration:none; padding:24px 26px;">
           <div style="font-size:19px; font-weight:600; margin-bottom:6px; color:var(--text-primary);">Playbook &amp; Counter-Playbook</div>

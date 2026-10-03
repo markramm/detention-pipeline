@@ -1,0 +1,16 @@
+{{- /* Count county fights by outcome bucket. Returns a dict:
+       total, won, lit, lost, active. Used by fights/list.html and
+       page/start.html so the two pages can't disagree. */ -}}
+{{- $fights := where site.RegularPages "Params.entry_type" "county-fight" -}}
+{{- $wonStatuses := slice "won" "blocked" "paused" "paused-dhs-review" "preemptive-defense" "pre-proposal-opposition" -}}
+{{- $litStatuses := slice "litigation" "active-litigation" "active-litigation-at-risk" -}}
+{{- $lostStatuses := slice "lost" "community-lost" "operational-despite-opposition" -}}
+{{- $won := 0 }}{{ $lit := 0 }}{{ $lost := 0 }}{{ $active := 0 -}}
+{{- range $fights -}}
+  {{- $s := .Params.status | default "active" -}}
+  {{- if in $wonStatuses $s }}{{ $won = add $won 1 -}}
+  {{- else if in $litStatuses $s }}{{ $lit = add $lit 1 -}}
+  {{- else if in $lostStatuses $s }}{{ $lost = add $lost 1 -}}
+  {{- else }}{{ $active = add $active 1 }}{{ end -}}
+{{- end -}}
+{{- return (dict "fights" $fights "total" (len $fights) "won" $won "lit" $lit "lost" $lost "active" $active "wonStatuses" $wonStatuses "litStatuses" $litStatuses "lostStatuses" $lostStatuses) -}}

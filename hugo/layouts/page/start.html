@@ -70,12 +70,13 @@
         <h2 style="font-size:18px; font-weight:500; margin:0;">Learn from fights that won</h2>
       </div>
       <p style="font-size:14px; color:var(--text-secondary); line-height:1.65; margin:8px 0 12px; padding-left:40px;">
-        Of 13 documented fights, at least 7 have blocked or paused detention proposals.
+        {{- $fc := partial "fight-counts.html" . }}
+        Of {{ $fc.total }} documented fights, {{ $fc.won }} are counted as won or blocked.
         The tactics that worked: pressuring the seller, denying water/sewer infrastructure,
         state AG lawsuits, environmental challenges, and acting fast.
       </p>
       <div style="padding-left:40px; display:flex; flex-wrap:wrap; gap:6px;">
-        <a href="/fights/" class="btn" style="background:#2a8a5a; border-color:#2a8a5a; color:white;">All 13 fights &rarr;</a>
+        <a href="/fights/" class="btn" style="background:#2a8a5a; border-color:#2a8a5a; color:white;">All {{ $fc.total }} fights &rarr;</a>
       </div>
       <div style="padding-left:40px; margin-top:10px; font-size:12px; color:var(--text-dim); line-height:1.6;">
         Key wins:

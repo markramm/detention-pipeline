@@ -28,7 +28,7 @@
     </ol>
 
     <div style="padding:16px 20px; background:var(--bg-content-alt); border-radius:5px; border:1px solid var(--border); margin-bottom:24px;">
-      <h3 style="font-size:13px; font-weight:600; margin-bottom:8px;">Worked example: Broward County, FL (Score: 129)</h3>
+      <h3 style="font-size:13px; font-weight:600; margin-bottom:8px;">Worked example: Broward County, FL, earlier snapshot (Score: 122)</h3>
       <div style="font-size:13px; color:var(--text-secondary); line-height:1.8;">
         <div style="display:grid; grid-template-columns:1fr auto auto; gap:4px 16px; margin-bottom:8px;">
           <span>IGSA facilities: 2 entries × weight 10 (cap 5)</span><span class="mono">=</span><span class="mono" style="text-align:right;">20</span>
@@ -44,8 +44,9 @@
           <span style="font-weight:600;">Total</span><span class="mono">=</span><span class="mono" style="text-align:right; font-weight:600;">122</span>
         </div>
         <p style="margin-top:8px; font-size:12px; color:var(--text-dim);">
-          Note: Actual score may vary slightly as the heat score script counts all entries with matching FIPS,
-          including entries that may have been added since this example was written.
+          This example uses Broward's signals at an earlier date to show the arithmetic. Its score today is
+          {{ with index (where site.Data.heat "fips" "12011") 0 }}<span class="mono">{{ .score }}</span>{{ end }}, because entries have been added since.
+          The scorer also adds state-level entries (those with no county) to every county in the state at 25% weight, for signal types the county doesn't already have; those don't count toward the convergence bonus.
           <a href="/county/12011/" style="color:var(--accent-warm);">View Broward County →</a>
         </p>
       </div>
@@ -62,6 +63,7 @@
       <tbody>
         <tr id="signal-igsa"><td><span class="signal-dot" style="background:var(--signal-igsa)"></span> <a href="/signals/igsa/">IGSA Facility</a></td><td class="mono">10</td><td class="mono">5</td><td>Existing Intergovernmental Service Agreement for ICE detention</td></tr>
         <tr id="signal-anc"><td><span class="signal-dot" style="background:var(--signal-anc)"></span> <a href="/signals/anc-contract/">ANC Contract</a></td><td class="mono">8</td><td class="mono">3</td><td>Alaska Native Corporation federal contract in detention/security</td></tr>
+        <tr id="signal-ice-contract"><td><span class="signal-dot" style="background:var(--signal-anc)"></span> ICE Contract</td><td class="mono">8</td><td class="mono">3</td><td>ICE contract award from USAspending (detention, transportation, facility services)</td></tr>
         <tr id="signal-federal-purchase"><td><span class="signal-dot" style="background:var(--signal-federal-purchase)"></span> Federal Purchase</td><td class="mono">9</td><td class="mono">3</td><td>ICE/DHS bought the site outright — federal ownership, so no county contract exists to detect</td></tr>
         <tr id="signal-287g"><td><span class="signal-dot" style="background:var(--signal-287g)"></span> <a href="/signals/287g-agreement/">287(g) Agreement</a></td><td class="mono">7</td><td class="mono">3</td><td>Local law enforcement deputized for immigration enforcement</td></tr>
         <tr id="signal-commission"><td><span class="signal-dot" style="background:var(--signal-commission)"></span> <a href="/signals/commission-activity/">Commission Activity</a></td><td class="mono">7</td><td class="mono">5</td><td>County commission agenda item, vote, or hearing on detention</td></tr>
@@ -118,13 +120,16 @@
         <tr><th>Source</th><th>Data</th><th>Accessed</th><th>Count</th></tr>
       </thead>
       <tbody>
-        <tr><td><a href="https://www.vera.org/publications/ice-detention-trends" style="color:var(--accent-warm)">Vera Institute of Justice</a></td><td>IGSA facilities, FIPS-coded</td><td>Mar 2026</td><td class="mono">459</td></tr>
-        <tr><td><a href="https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/" style="color:var(--accent-warm)">Prison Policy Initiative</a></td><td>287(g) agreements, compiled from ICE data</td><td>Feb 17, 2026</td><td class="mono">1,311</td></tr>
-        <tr><td><a href="https://www.usaspending.gov" style="color:var(--accent-warm)">USAspending.gov</a></td><td>ANC subsidiary federal contracts (API)</td><td>Apr 2026</td><td class="mono">244</td></tr>
-        <tr><td><a href="https://webapi.legistar.com" style="color:var(--accent-warm)">Legistar API</a></td><td>County commission agendas and minutes</td><td>Ongoing</td><td class="mono">3</td></tr>
-        <tr><td><a href="https://www.ers.usda.gov/data-products/county-typology-codes/" style="color:var(--accent-warm)">USDA ERS</a></td><td>County typology and economic distress indicators</td><td>Mar 2026</td><td class="mono">34</td></tr>
-        <tr><td>Public career pages, LinkedIn</td><td>Detention consultant job postings</td><td>Ongoing</td><td class="mono">6</td></tr>
-        <tr><td>Local news, FOIA, court records</td><td>Commission activity, sheriff networks, comms patterns</td><td>Ongoing</td><td class="mono">7</td></tr>
+        {{ $n := dict }}
+        {{ range slice "igsa" "287g-agreement" "anc-contract" "ice-contract" "commission-activity" "budget-distress" "job-posting" }}{{ $n = merge $n (dict . (len (where site.RegularPages "Params.entry_type" .))) }}{{ end }}
+        <tr><td><a href="https://github.com/vera-institute/ice-detention-trends" style="color:var(--accent-warm)">Vera Institute of Justice</a></td><td>ICE detention facilities (full facility dataset, not only IGSAs), FIPS-coded &middot; <span class="mono">ingest_vera_facilities.py</span></td><td>One-time import</td><td class="mono">{{ lang.FormatNumber 0 (index $n "igsa") }}</td></tr>
+        <tr><td><a href="https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/" style="color:var(--accent-warm)">Prison Policy Initiative</a></td><td>287(g) agreements, compiled from ICE data (source snapshot Feb 17, 2026) &middot; <span class="mono">ingest_287g.py</span></td><td>Weekly ingest</td><td class="mono">{{ lang.FormatNumber 0 (index $n "287g-agreement") }}</td></tr>
+        <tr><td><a href="https://api.usaspending.gov" style="color:var(--accent-warm)">USAspending.gov API</a></td><td>All ICE contract awards &middot; <span class="mono">ingest_ice_contracts.py</span></td><td>Weekly ingest</td><td class="mono">{{ lang.FormatNumber 0 (index $n "ice-contract") }}</td></tr>
+        <tr><td><a href="https://api.usaspending.gov" style="color:var(--accent-warm)">USAspending.gov API</a></td><td>Alaska Native Corporation contracts &middot; <span class="mono">ingest_usaspending.py</span></td><td>Manual runs</td><td class="mono">{{ lang.FormatNumber 0 (index $n "anc-contract") }}</td></tr>
+        <tr><td><a href="https://webapi.legistar.com" style="color:var(--accent-warm)">Legistar API</a></td><td>County commission agenda items matching detention keywords &middot; <span class="mono">ingest_legistar.py</span></td><td>Weekly ingest</td><td class="mono">{{ lang.FormatNumber 0 (index $n "commission-activity") }}</td></tr>
+        <tr><td><a href="https://www.ers.usda.gov/data-products/county-typology-codes/" style="color:var(--accent-warm)">USDA ERS</a>, Census SAIPE/ACS, BLS LAUS</td><td>County economic distress indicators &middot; <span class="mono">ingest_budget_distress.py</span></td><td>Weekly ingest</td><td class="mono">{{ lang.FormatNumber 0 (index $n "budget-distress") }}</td></tr>
+        <tr><td>Public career pages</td><td>Detention consultant job postings &middot; <span class="mono">ingest_jobs.py</span></td><td>Weekly ingest</td><td class="mono">{{ lang.FormatNumber 0 (index $n "job-posting") }}</td></tr>
+        <tr><td>Local news, public records, court filings</td><td>County fights, facilities, sheriff networks, comms patterns, players (hand-researched)</td><td>Ongoing</td><td class="mono">&mdash;</td></tr>
         <tr><td><a href="https://theramm.substack.com/p/the-detention-architecture-an-investigation" style="color:var(--accent-warm)">The RAMM</a></td><td>Investigative reporting on detention pipeline — contractor profiles, revolving door, warehouse purchases</td><td>Ongoing</td><td class="mono">&mdash;</td></tr>
         <tr><td><a href="https://www.census.gov/geographies/reference-files/2020/demo/popest/2020-fips.html" style="color:var(--accent-warm)">U.S. Census Bureau</a></td><td>County FIPS codes (2020)</td><td>2020</td><td class="mono">3,235</td></tr>
       </tbody>
