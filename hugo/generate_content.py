@@ -939,6 +939,10 @@ def generate_static_pages():
     STATIC_DESCRIPTIONS = {
         "the-investigation": "Original journalism by Mark Ramm on the 2026 immigration-detention buildout — the year ICE opened 152 new facilities across 39 states and custody deaths reached an annual record pace. Paired with the Detention Pipeline data infrastructure on this site as a single integrated investigation.",
     }
+    # /about/ has no page of its own; Start Here is the site's introduction.
+    STATIC_ALIASES = {
+        "start": ["/about/"],
+    }
     for name, layout in [
         ("methodology", "methodology"),
         ("contribute", "contribute"),
@@ -960,6 +964,9 @@ def generate_static_pages():
                 f.write(f'summary: "{summary}"\n')
             if description:
                 f.write(f'description: "{description}"\n')
+            aliases = STATIC_ALIASES.get(name)
+            if aliases:
+                f.write("aliases:\n" + "".join(f'- "{a}"\n' for a in aliases))
             f.write('---\n')
 
 
@@ -1083,6 +1090,7 @@ def main():
 title: "Detention Pipeline"
 type: home
 total_counties: {len(entries_by_fips)}
+total_scored: {len(heat_data)}
 total_entries: {len(all_entries)}
 total_states: {len(entries_by_state)}
 total_facilities: {len(entries_by_type.get('igsa', [])) + len(entries_by_type.get('facility', []))}

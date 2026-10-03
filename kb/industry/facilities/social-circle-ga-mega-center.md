@@ -53,9 +53,9 @@ Social Circle City Manager Eric Taylor confirmed the city has placed a **lock on
 
 The Social Circle facility alone would be nearly **triple the size of [[camp-east-montana-fort-bliss|Camp East Montana]]** (Fort Bliss). Combined with seven other planned mega-centers, ICE aims to create unprecedented federal detention capacity by end of FY2026.
 
-## The $38.3 Billion National Strategy (DHS disclosure, May 2026)
+## The $38.3 Billion National Strategy (DHS disclosure, by Feb 23, 2026)
 
-After the April 2026 pause appeared to die down, DHS resumed the project and told Social Circle officials the facility is part of a **$38.3 billion national detention strategy**, funded through the 2025 One Big Beautiful Bill Act. The plan:
+By Feb. 23, 2026 ([WSB-TV](https://www.wsbtv.com/news/local/walton-county/ice-mega-center-facility-social-circle-part-383-billion-strategy-dhs-tells-city/O7GTDFNPXVEQLLYBAKTI3H5NRU/)), DHS had told Social Circle officials the facility is part of a **$38.3 billion national detention strategy**, funded through the 2025 One Big Beautiful Bill Act. The plan:
 
 - Consolidate hundreds of scattered facilities into **~34 detention centers**, including **8 large "mega centers"**
 - "Strategically increase bed capacity to **92,600 beds**," with all facilities **operational by November 2026** (end of FY2026)
@@ -76,6 +76,8 @@ The City of Social Circle **sued DHS and ICE** in the **U.S. District Court for 
 - [Warnock Exposes ICE's Lack of Transparency on Detention Center in Social Circle — Sen. Warnock (Mar 24, 2026)](https://www.warnock.senate.gov/newsroom/press-releases/warnock-exposes-ices-lack-of-transparency-on-detention-center-in-social-circle/)
 - [Georgia town blocks massive immigration center over water and sewer concerns — Georgia Recorder](https://georgiarecorder.com/briefs/georgia-town-blocks-massive-immigration-center-over-concerns-about-water-and-sewer-capacity/)
 - [ICE bought a warehouse in Social Circle, Ga. The city wishes it hadn't — GPB](https://www.gpb.org/news/2026/02/13/ice-bought-warehouse-in-social-circle-ga-the-city-wishes-it-hadnt)
-- [ICE 'mega center' in Social Circle part of $38.3 billion strategy, DHS tells city — WSB-TV (May 2026)](https://www.wsbtv.com/news/local/walton-county/ice-mega-center-facility-social-circle-part-383-billion-strategy-dhs-tells-city/O7GTDFNPXVEQLLYBAKTI3H5NRU/)
+- [ICE 'mega center' in Social Circle part of $38.3 billion strategy, DHS tells city — WSB-TV (Feb 23, 2026)](https://www.wsbtv.com/news/local/walton-county/ice-mega-center-facility-social-circle-part-383-billion-strategy-dhs-tells-city/O7GTDFNPXVEQLLYBAKTI3H5NRU/)
 - [Social Circle sues ICE, DHS over proposed 10,000-bed detention center — CBS Atlanta (May 14, 2026)](https://www.cbsnews.com/atlanta/news/social-circle-sues-ice-dhs-over-proposed-10000-bed-immigration-detention-center-in-georgia/)
 - [Georgia town sues feds, alleges illegal advancement of ICE detention center — Davis Vanguard (May 2026)](https://davisvanguard.org/2026/05/social-circle-sues-ice/)
+
+*Correction, Oct. 3, 2026:* An earlier version of this page dated DHS's disclosure of the $38.3 billion national strategy to May 2026 and said DHS "resumed the project" after the April pause. [WSB-TV](https://www.wsbtv.com/news/local/walton-county/ice-mega-center-facility-social-circle-part-383-billion-strategy-dhs-tells-city/O7GTDFNPXVEQLLYBAKTI3H5NRU/) reported the disclosure on Feb. 23, 2026, before the pause.
