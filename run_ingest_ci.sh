@@ -16,6 +16,10 @@
 #   ./run_ingest_ci.sh --only legistar
 #   ./run_ingest_ci.sh --days 30
 #   ./run_ingest_ci.sh --no-rollback
+#   ./run_ingest_ci.sh --from-staged DIR   # convert DIR/*.json; fetch nothing
+#
+# Environment (tests): DP_STAGE_DIR (default /tmp/dp_ingest),
+# DP_SKIP_UNIT_TESTS=1 skips the pre-flight pytest run.
 
 set -u
 cd "$(dirname "$0")"
@@ -23,6 +27,7 @@ cd "$(dirname "$0")"
 ONLY=""
 DAYS=180
 ROLLBACK=true
+FROM_STAGED=""
 FAIL_COUNT=0
 
 while [[ $# -gt 0 ]]; do
@@ -30,6 +35,7 @@ while [[ $# -gt 0 ]]; do
     --only) ONLY="$2"; shift 2 ;;
     --days) DAYS="$2"; shift 2 ;;
     --no-rollback) ROLLBACK=false; shift ;;
+    --from-staged) FROM_STAGED="$2"; shift 2 ;;
     *) echo "Unknown option: $1"; exit 2 ;;
   esac
 done
@@ -57,16 +63,18 @@ rollback_kb() {
 }
 
 SCRIPTS_DIR="kb/scripts"
-STAGE_DIR="/tmp/dp_ingest"
+STAGE_DIR="${DP_STAGE_DIR:-/tmp/dp_ingest}"
 mkdir -p "$STAGE_DIR"
 rm -f "$STAGE_DIR"/*.json  # start each run with clean staging
 
-echo "── Running unit tests ──"
-if ! python3 -m pytest "$SCRIPTS_DIR/tests/" -q; then
-  echo "  FAIL: unit tests failed — aborting before any ingest runs." >&2
-  exit 1
+if [ "${DP_SKIP_UNIT_TESTS:-}" != 1 ]; then
+  echo "── Running unit tests ──"
+  if ! python3 -m pytest "$SCRIPTS_DIR/tests/" -q; then
+    echo "  FAIL: unit tests failed — aborting before any ingest runs." >&2
+    exit 1
+  fi
+  echo ""
 fi
-echo ""
 
 echo "═══════════════════════════════════════════"
 echo "  Detention Pipeline — CI Ingestion"
@@ -107,6 +115,12 @@ run_ingest() {
 # Only legistar and usaspending (ICE contracts) support --days. 287g scrapes
 # a full Prison Policy list and has no lookback. Jobs + budget are seed /
 # typology data with no time dimension.
+if [ -n "$FROM_STAGED" ]; then
+  echo "── Using staged JSON from $FROM_STAGED (no fetch) ──"
+  cp "$FROM_STAGED"/*.json "$STAGE_DIR"/ 2>/dev/null || true
+  ONLY="__staged__"
+fi
+
 should_run legistar    && run_ingest legistar    "$SCRIPTS_DIR/ingest_legistar.py" --days "$DAYS"
 should_run 287g        && run_ingest 287g        "$SCRIPTS_DIR/ingest_287g.py"
 should_run usaspending && run_ingest usaspending "$SCRIPTS_DIR/ingest_ice_contracts.py" --days "$DAYS"
