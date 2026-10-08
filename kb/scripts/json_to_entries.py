@@ -222,7 +222,18 @@ def _existing_frontmatter(text):
     return data if isinstance(data, dict) else {}
 
 
-def write_entry(entry, dry_run=False, stats=None):
+def _record(manifest, path, status, source, removed=None):
+    """Note a file this run wrote, so the ingest gate can tell the batch's
+    files (and where each came from) from the rest of the KB."""
+    if manifest is None:
+        return
+    rec = {"path": str(Path(path).relative_to(KB_ROOT)), "status": status, "source": source}
+    if removed is not None:
+        rec["removed"] = str(Path(removed).relative_to(KB_ROOT))
+    manifest.append(rec)
+
+
+def write_entry(entry, dry_run=False, stats=None, manifest=None, source=None):
     entry_type = entry.get("entry_type") or entry.get("type") or "note"
     subdir = ENTRY_TYPE_TO_DIR.get(entry_type)
     if not subdir:
@@ -286,7 +297,9 @@ def write_entry(entry, dry_run=False, stats=None):
                       f"(contractor_type={contractor_type!r})", file=sys.stderr)
                 if dry_run:
                     return old_path
-                return _migrate_to_subdir(entry_id, other, old_text, subdir, entry)
+                new_path = _migrate_to_subdir(entry_id, other, old_text, subdir, entry)
+                _record(manifest, new_path, "migrated", source, removed=old_path)
+                return new_path
 
             if stats is not None:
                 stats["duplicate"] = stats.get("duplicate", 0) + 1
@@ -304,6 +317,7 @@ def write_entry(entry, dry_run=False, stats=None):
 
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path.write_text(content, encoding="utf-8")
+    _record(manifest, out_path, "created" if existing is None else "updated", source)
     return out_path
 
 
@@ -311,7 +325,10 @@ def main():
     p = argparse.ArgumentParser(description="Convert staged ingest JSON to KB entries")
     p.add_argument("files", nargs="+", help="JSON files produced by ingest scripts")
     p.add_argument("--dry-run", action="store_true", help="Preview without writing")
+    p.add_argument("--manifest", help="Write a JSON list of the files this run wrote "
+                   "(path relative to kb/, status, source) for the ingest gate")
     args = p.parse_args()
+    manifest = []
 
     stats = {"created": 0, "updated": 0, "unchanged": 0, "unroutable": 0, "duplicate": 0,
              "curated": 0, "migrated": 0}
@@ -331,9 +348,13 @@ def main():
 
         print(f"── {path.name}: {len(entries)} entries ──")
         for entry in entries:
-            result = write_entry(entry, dry_run=args.dry_run, stats=stats)
+            result = write_entry(entry, dry_run=args.dry_run, stats=stats,
+                                 manifest=manifest, source=path.stem)
             if result is None:
                 stats["unroutable"] += 1
+
+    if args.manifest:
+        Path(args.manifest).write_text(json.dumps(manifest, indent=1), encoding="utf-8")
 
     total_touched = stats["created"] + stats["updated"]
     print(

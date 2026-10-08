@@ -112,6 +112,54 @@ def fix_entry(filepath, fields, text):
     return text, fixes
 
 
+def default_files(kb_path=None):
+    """Every entry file under kb/ that a full scan covers."""
+    kb_path = Path(kb_path) if kb_path else KB_PATH
+    files = sorted(kb_path.rglob("*.md"))
+    # Exclude non-entry files
+    return [f for f in files if f.name != "kb.yaml" and "/scripts/" not in str(f)]
+
+
+def _rel(filepath, kb_path):
+    return filepath.relative_to(kb_path) if filepath.is_relative_to(kb_path) else filepath
+
+
+def scan(files=None, kb_path=None):
+    """Validate `files` (default: the whole KB). Yields
+    (filepath, fields, text, [(severity, message), ...]) for every entry
+    file with frontmatter, in scan order. The duplicate-ID check depends on
+    that order: the second file to carry an ID is the one flagged, and its
+    message names the first ("also in <path relative to kb/>")."""
+    kb_path = Path(kb_path) if kb_path else KB_PATH
+    if files is None:
+        files = default_files(kb_path)
+    ids_seen = {}
+    for filepath in files:
+        fields, text = parse_frontmatter(filepath)
+        if fields is None:
+            continue
+        entry_id = fields.get("id", filepath.stem)
+        if entry_id in ids_seen:
+            errors = [("ERROR", f"duplicate ID (also in {ids_seen[entry_id]})")]
+        else:
+            ids_seen[entry_id] = str(_rel(filepath, kb_path))
+            errors = validate_entry(filepath, fields)
+        yield filepath, fields, text, errors
+
+
+def error_records(kb_path=None):
+    """Every ERROR in a full scan, as sorted [path-relative-to-kb, message]
+    pairs. The ingest gate compares two of these (before and after a batch)
+    to tell the batch's errors from the ones already on HEAD."""
+    kb_path = Path(kb_path) if kb_path else KB_PATH
+    out = []
+    for filepath, _fields, _text, errors in scan(kb_path=kb_path):
+        for severity, msg in errors:
+            if severity == "ERROR":
+                out.append([str(_rel(filepath, kb_path)), msg])
+    return sorted(out)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Validate KB entries")
     parser.add_argument("--strict", action="store_true", help="Exit 1 on any error")
@@ -123,30 +171,15 @@ def main():
     if args.files:
         files = [Path(f) for f in args.files if f.endswith(".md")]
     else:
-        files = sorted(KB_PATH.rglob("*.md"))
-        # Exclude non-entry files
-        files = [f for f in files if f.name != "kb.yaml" and "/scripts/" not in str(f)]
+        files = default_files()
 
     total = 0
     error_count = 0
     warn_count = 0
     fixed_count = 0
-    ids_seen = {}
 
-    for filepath in files:
-        fields, text = parse_frontmatter(filepath)
-        if fields is None:
-            continue
-
+    for filepath, fields, text, errors in scan(files):
         total += 1
-        entry_id = fields.get("id", filepath.stem)
-
-        # Check for duplicate IDs
-        if entry_id in ids_seen:
-            errors = [("ERROR", f"duplicate ID (also in {ids_seen[entry_id]})")]
-        else:
-            ids_seen[entry_id] = str(filepath.relative_to(KB_PATH)) if filepath.is_relative_to(KB_PATH) else str(filepath)
-            errors = validate_entry(filepath, fields)
 
         if errors:
             for severity, msg in errors:
@@ -155,8 +188,7 @@ def main():
                 else:
                     warn_count += 1
                 if not args.quiet or severity == "ERROR":
-                    rel = filepath.relative_to(KB_PATH) if filepath.is_relative_to(KB_PATH) else filepath
-                    print(f"  [{severity}] {rel}: {msg}", flush=True)
+                    print(f"  [{severity}] {_rel(filepath, KB_PATH)}: {msg}", flush=True)
 
         # Auto-fix
         if args.fix and fields:
@@ -165,8 +197,7 @@ def main():
                 filepath.write_text(new_text, encoding="utf-8")
                 fixed_count += 1
                 for fix in fixes:
-                    rel = filepath.relative_to(KB_PATH) if filepath.is_relative_to(KB_PATH) else filepath
-                    print(f"  [FIXED] {rel}: {fix}", flush=True)
+                    print(f"  [FIXED] {_rel(filepath, KB_PATH)}: {fix}", flush=True)
 
     print(f"\nValidated {total} entries: {error_count} errors, {warn_count} warnings"
           + (f", {fixed_count} fixed" if args.fix else ""), flush=True)
