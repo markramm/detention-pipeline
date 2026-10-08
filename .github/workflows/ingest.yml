@@ -55,12 +55,24 @@ jobs:
       - name: Run ingest
         id: ingest
         continue-on-error: true
+        env:
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           DAYS="${{ github.event.inputs.days || '180' }}"
           ONLY="${{ github.event.inputs.only || '' }}"
           ARGS="--days $DAYS"
           [ -n "$ONLY" ] && ARGS="$ARGS --only $ONLY"
           ./run_ingest_ci.sh $ARGS
+
+      # Quarantined entries (failed validation, kept out of kb/) and the
+      # per-source logs, for a human to fix or drop.
+      - name: Upload ingest report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ingest-quarantine
+          path: /tmp/dp_ingest_report/
+          if-no-files-found: ignore
 
       - name: Generate diff summary
         run: |
@@ -78,6 +90,11 @@ jobs:
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+          Q=0
+          if [ -f /tmp/dp_ingest_report/status.json ]; then
+            Q="$(python3 -c "import json; print(json.load(open('/tmp/dp_ingest_report/status.json'))['quarantined'])")"
+          fi
+          echo "quarantined=$Q" >> "$GITHUB_OUTPUT"
 
       - name: Open PR
         if: steps.check.outputs.changed == 'true'
@@ -96,12 +113,20 @@ jobs:
           git commit -m "Weekly ingest $(date -u +%Y-%m-%d)"
           git push -u origin "$BRANCH"
 
+          # The runner's report says which sources failed or lost part of
+          # their data, and lists every quarantined entry with its error.
           {
-            if [ "$INGEST_OUTCOME" != "success" ]; then
-              echo "> ⚠️ One or more ingest sources failed — see [run logs]($RUN_URL)."
-              echo ""
+            if [ -f /tmp/dp_ingest_report/report.md ]; then
+              cat /tmp/dp_ingest_report/report.md
+            elif [ "$INGEST_OUTCOME" != "success" ]; then
+              echo "> The ingest step failed before writing its report — see [run logs]($RUN_URL)."
             fi
+            echo ""
+            echo "---"
+            echo ""
             cat /tmp/ingest_summary.md
+            echo ""
+            echo "[Run logs]($RUN_URL)"
           } > /tmp/pr_body.md
 
           # Create the PR first; only add the label as a best-effort follow-up so a
@@ -114,15 +139,22 @@ jobs:
           gh pr edit "$BRANCH" --add-label "ingest" || \
             echo "::warning::could not add 'ingest' label — continuing"
 
-      - name: Open issue on full failure
-        if: steps.ingest.outcome != 'success' && steps.check.outputs.changed == 'false'
+      # No PR: say why, truthfully. "All sources failed" only when every
+      # source did (the runner's status.json decides); otherwise the issue
+      # names what failed, what stopped the run, or what was quarantined.
+      - name: Open issue when nothing landed
+        if: steps.check.outputs.changed == 'false' && (steps.ingest.outcome != 'success' || steps.check.outputs.quarantined != '0')
         env:
           GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          gh issue create \
-            --title "Weekly ingest failed $(date -u +%Y-%m-%d)" \
-            --body "All ingest sources failed and produced no changes. See [run logs](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})." \
-            --label "ingest,bug" || \
-            gh issue create \
-              --title "Weekly ingest failed $(date -u +%Y-%m-%d)" \
-              --body "All ingest sources failed and produced no changes. See [run logs](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})."
+          STATUS=/tmp/dp_ingest_report/status.json
+          if [ -f "$STATUS" ]; then
+            TITLE="$(python3 -c "import json; print(json.load(open('$STATUS'))['issue_title'])")"
+            { cat /tmp/dp_ingest_report/report.md; echo ""; echo "[Run logs]($RUN_URL)"; } > /tmp/issue_body.md
+          else
+            TITLE="Weekly ingest failed $(date -u +%Y-%m-%d): no report written"
+            echo "The ingest step failed before writing its report. See [run logs]($RUN_URL)." > /tmp/issue_body.md
+          fi
+          gh issue create --title "$TITLE" --body-file /tmp/issue_body.md --label "ingest,bug" || \
+            gh issue create --title "$TITLE" --body-file /tmp/issue_body.md
