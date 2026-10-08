@@ -1,11 +1,11 @@
 ---
 id: 287-g-jem-wharton-county-sheriff-s-office-tx
-title: '287(g) JEM: Wharton County Sheriff’s Office (TX)'
+title: '287(g) JEM: Wharton County Sheriff‚Äôs Office (TX)'
 type: 287g-agreement
 county: 'Wharton County'
 state: 'TX'
 fips: '48481'
-agency: 'Wharton County Sheriff’s Office'
+agency: 'Wharton County Sheriff‚Äôs Office'
 model: 'JEM'
 signed_date: 'June 9, 2020'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Wharton County Sheriff’s Office.
+287(g) agreement between ICE and Wharton County Sheriff‚Äôs Office.
 
 Model: JEM
 Signed: June 9, 2020

@@ -1,11 +1,11 @@
 ---
 id: 287-g-tfm-grayson-county-sheriff-s-office-ky
-title: '287(g) TFM: Grayson County Sheriff’s Office (KY)'
+title: '287(g) TFM: Grayson County Sheriff‚Äôs Office (KY)'
 type: 287g-agreement
 county: 'Grayson County'
 state: 'KY'
 fips: '21085'
-agency: 'Grayson County Sheriff’s Office'
+agency: 'Grayson County Sheriff‚Äôs Office'
 model: 'TFM'
 signed_date: 'March 5, 2025'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Grayson County Sheriff’s Office.
+287(g) agreement between ICE and Grayson County Sheriff‚Äôs Office.
 
 Model: TFM
 Signed: March 5, 2025

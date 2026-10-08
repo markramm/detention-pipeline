@@ -1,11 +1,11 @@
 ---
 id: 287-g-jem-laramie-county-sheriff-s-office-wy
-title: '287(g) JEM: Laramie County Sheriff’s Office (WY)'
+title: '287(g) JEM: Laramie County Sheriff‚Äôs Office (WY)'
 type: 287g-agreement
 county: 'Laramie County'
 state: 'WY'
 fips: '56021'
-agency: 'Laramie County Sheriff’s Office'
+agency: 'Laramie County Sheriff‚Äôs Office'
 model: 'JEM'
 signed_date: 'May 20, 2025'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Laramie County Sheriff’s Office.
+287(g) agreement between ICE and Laramie County Sheriff‚Äôs Office.
 
 Model: JEM
 Signed: May 20, 2025

@@ -1,11 +1,11 @@
 ---
 id: 287-g-jem-walker-county-sheriff-s-department-tx
-title: '287(g) JEM: Walker County Sheriff’s Department (TX)'
+title: '287(g) JEM: Walker County Sheriff‚Äôs Department (TX)'
 type: 287g-agreement
 county: 'Walker County'
 state: 'TX'
 fips: '48471'
-agency: 'Walker County Sheriff’s Department'
+agency: 'Walker County Sheriff‚Äôs Department'
 model: 'JEM'
 signed_date: 'June 9, 2020'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Walker County Sheriff’s Department.
+287(g) agreement between ICE and Walker County Sheriff‚Äôs Department.
 
 Model: JEM
 Signed: June 9, 2020

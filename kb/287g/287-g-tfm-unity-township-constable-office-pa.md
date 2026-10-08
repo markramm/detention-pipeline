@@ -1,0 +1,29 @@
+---
+id: 287-g-tfm-unity-township-constable-office-pa
+title: '287(g) TFM: Unity Township Constable Office (PA)'
+type: 287g-agreement
+county: 'Westmoreland County'
+state: 'PA'
+fips: '42129'
+agency: 'Unity Township Constable Office'
+model: 'TFM'
+signed_date: 'July 15, 2025'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+signal_strength: 'moderate'
+notes: 'TFM model agreement signed July 15, 2025'
+tags:
+- 287g
+- tfm
+- pa
+importance: 5
+---
+
+287(g) agreement between ICE and Unity Township Constable Office.
+
+Model: TFM
+Signed: July 15, 2025
+County: Westmoreland County
+State: PA
+FIPS: 42129
+
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.

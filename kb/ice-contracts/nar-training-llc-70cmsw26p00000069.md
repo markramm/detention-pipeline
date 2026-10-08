@@ -1,0 +1,33 @@
+---
+id: nar-training-llc-70cmsw26p00000069
+title: 'NAR TRAINING LLC — 70CMSW26P00000069 (GA) $10,250'
+type: ice-contract
+state: 'GA'
+contractor: 'NAR TRAINING LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$10,250.00'
+contract_type: 'federal-contract'
+award_date: '2026-09-29'
+usaspending_id: '70CMSW26P00000069'
+source: 'USAspending.gov (award 70CMSW26P00000069)'
+signal_strength: 'weak'
+notes: 'THIS CONTRACT AWARD IS TO PURCHASE UNAUTHORIZED LAW ENFORCEMENT SPECIALIZED TACTICAL MEDICAL TRAINING FOR LAW ENFORCEMENT OFFICER FOR THE OFFICE OF FIREARMS AND TACTICAL PROGRAM IN SUPPORT OF HOMELAND SECURITY INVESTIGATION AND ENFORCEMENT REMOVAL OP'
+tags:
+- ice-contract
+- other
+- other-ice
+- ga
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: NAR TRAINING LLC
+Award ID: 70CMSW26P00000069
+Amount: $10,250.00
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS CONTRACT AWARD IS TO PURCHASE UNAUTHORIZED LAW ENFORCEMENT SPECIALIZED TACTICAL MEDICAL TRAINING FOR LAW ENFORCEMENT OFFICER FOR THE OFFICE OF FIREARMS AND TACTICAL PROGRAM IN SUPPORT OF HOMELAND SECURITY INVESTIGATION AND ENFORCEMENT REMOVAL OP
+Period: 2026-09-29 to 2026-10-28
+Location: None, GA

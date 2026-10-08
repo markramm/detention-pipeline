@@ -1,11 +1,11 @@
 ---
 id: 287-g-jem-montgomery-county-sheriff-s-office-tx
-title: '287(g) JEM: Montgomery County Sheriff’s Office (TX)'
+title: '287(g) JEM: Montgomery County Sheriff‚Äôs Office (TX)'
 type: 287g-agreement
 county: 'Montgomery County'
 state: 'TX'
 fips: '48339'
-agency: 'Montgomery County Sheriff’s Office'
+agency: 'Montgomery County Sheriff‚Äôs Office'
 model: 'JEM'
 signed_date: 'June 9, 2020'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Montgomery County Sheriff’s Office.
+287(g) agreement between ICE and Montgomery County Sheriff‚Äôs Office.
 
 Model: JEM
 Signed: June 9, 2020
