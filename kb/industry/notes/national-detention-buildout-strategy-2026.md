@@ -34,7 +34,7 @@ The strategy was made public when **New Hampshire Gov. Kelly Ayotte released the
 internal ICE documents in February 2026** (first reported by the *Boston Globe*),
 and has since been tracked site-by-site by **[[project-salt-box]]**, the Baltimore
 volunteer research group documenting ICE warehouse acquisitions and overpayments.
-DHS independently **confirmed** the strategy in May 2026 when it told the City of
+DHS independently **confirmed** the strategy by Feb. 23, 2026, when it told the City of
 Social Circle, Georgia that the planned 7,500–10,000-bed mega-center there is one
 piece of it — making Social Circle a second, on-the-record source for the $38.3B /
 92,600-bed framing rather than the sole one.
@@ -93,8 +93,7 @@ This note is the connective tissue for findings filed under individual states:
   this same review applied site-by-site: [[surprise-az-warehouse]],
   [[romulus-mi-warehouse]], [[merrimack-nh-warehouse]], [[chester-ny-warehouse-proposal]],
   [[williamsport-md-warehouse]], [[hagerstown-md-warehouse]], and the SLC mega-center.
-  The pause is a review of *this buildout*, not a cancellation of it — Social Circle
-  shows DHS resuming a paused project once review cleared.
+  The pause is a review of *this buildout*, not a cancellation of it.
 - **The "Plan B" pivot (May 2026).** As warehouse purchases stalled — under the DHS
   review and a wave of property-owner refusals (see below) — reporting (Axios, May 7,
   2026) shows ICE pivoting from buying mega-warehouses toward two faster routes:
@@ -162,10 +161,12 @@ This note is the connective tissue for findings filed under individual states:
 - [Project Salt Box — ICE Warehouse Purchase Tracker (interactive map, ongoing)](https://www.projectsaltbox.com/)
 - [ICE launches $38.3 billion detention expansion: 92,600 new beds — Fox News (2026)](https://www.foxnews.com/us/ice-ramps-up-deportation-push-92600-new-beds-38-3b-expansion)
 - [MAP: All 23 industrial warehouses ICE wants to turn into detention 'death camps' — Courier (2026)](https://couriernewsroom.com/news/map-ice-detention-warehouse/)
-- [ICE 'mega center' in Social Circle part of $38.3 billion strategy, DHS tells city — WSB-TV (May 2026)](https://www.wsbtv.com/news/local/walton-county/ice-mega-center-facility-social-circle-part-383-billion-strategy-dhs-tells-city/O7GTDFNPXVEQLLYBAKTI3H5NRU/)
+- [ICE 'mega center' in Social Circle part of $38.3 billion strategy, DHS tells city — WSB-TV (Feb 23, 2026)](https://www.wsbtv.com/news/local/walton-county/ice-mega-center-facility-social-circle-part-383-billion-strategy-dhs-tells-city/O7GTDFNPXVEQLLYBAKTI3H5NRU/)
 - [Social Circle puts ICE warehouse plan on ice with water meter lock — GPB (Mar 17, 2026)](https://www.gpb.org/news/2026/03/17/social-circle-puts-ice-warehouse-plan-on-ice-water-meter-lock)
 - [Mayor says ICE is planning 'mega center' with capacity for 10,000 at Salt Lake City warehouse — Utah News Dispatch (Mar 30, 2026)](https://utahnewsdispatch.com/2026/03/30/ice-planning-mega-center-with-capacity-for-up-to-10000-at-salt-lake-city-warehouse/)
 - [Uncertainty swirls around Salt Lake City ICE warehouse amid DHS review — Utah News Dispatch (Apr 8, 2026)](https://utahnewsdispatch.com/2026/04/08/uncertainty-around-salt-lake-city-ice-warehouse-detention-center/)
 - [Immigration Officials Plan to Spend $38.3 Billion to Boost Detention Capacity to 92,000 Beds — US News/AP (Feb 13, 2026)](https://www.usnews.com/news/us/articles/2026-02-13/immigration-officials-plan-to-spend-38-3-billion-to-boost-detention-capacity-to-92-000-beds)
 - [How ICE's Budget Boom Is Changing Immigration Detention — Brennan Center for Justice (2026)](https://www.brennancenter.org/our-work/research-reports/how-ices-budget-boom-changing-immigration-detention)
 - [ICE's Warehouse Purchases Herald New Model for Immigration Detention — American Immigration Council (2026)](https://www.americanimmigrationcouncil.org/blog/ice-buys-warehouses-immigration-detention/)
+
+*Correction, Oct. 3, 2026:* An earlier version of this note dated DHS's confirmation of the strategy to Social Circle to May 2026 and cited Social Circle as DHS resuming a paused project. [WSB-TV](https://www.wsbtv.com/news/local/walton-county/ice-mega-center-facility-social-circle-part-383-billion-strategy-dhs-tells-city/O7GTDFNPXVEQLLYBAKTI3H5NRU/) reported it on Feb. 23, 2026, before the April pause.
