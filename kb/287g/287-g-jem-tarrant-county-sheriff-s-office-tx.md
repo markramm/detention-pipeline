@@ -1,11 +1,11 @@
 ---
 id: 287-g-jem-tarrant-county-sheriff-s-office-tx
-title: '287(g) JEM: Tarrant County Sheriff’s Office (TX)'
+title: '287(g) JEM: Tarrant County Sheriff‚Äôs Office (TX)'
 type: 287g-agreement
 county: 'Tarrant County'
 state: 'TX'
 fips: '48439'
-agency: 'Tarrant County Sheriff’s Office'
+agency: 'Tarrant County Sheriff‚Äôs Office'
 model: 'JEM'
 signed_date: 'June 16, 2020'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Tarrant County Sheriff’s Office.
+287(g) agreement between ICE and Tarrant County Sheriff‚Äôs Office.
 
 Model: JEM
 Signed: June 16, 2020

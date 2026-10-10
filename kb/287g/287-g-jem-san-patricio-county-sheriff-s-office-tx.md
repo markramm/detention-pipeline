@@ -1,11 +1,11 @@
 ---
 id: 287-g-jem-san-patricio-county-sheriff-s-office-tx
-title: '287(g) JEM: San Patricio County Sheriff’s Office (TX)'
+title: '287(g) JEM: San Patricio County Sheriff‚Äôs Office (TX)'
 type: 287g-agreement
 county: 'San Patricio County'
 state: 'TX'
 fips: '48409'
-agency: 'San Patricio County Sheriff’s Office'
+agency: 'San Patricio County Sheriff‚Äôs Office'
 model: 'JEM'
 signed_date: 'September 3, 2020'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and San Patricio County Sheriff’s Office.
+287(g) agreement between ICE and San Patricio County Sheriff‚Äôs Office.
 
 Model: JEM
 Signed: September 3, 2020

@@ -1,11 +1,11 @@
 ---
 id: 287-g-wso-jackson-county-sheriff-s-office-ks
-title: '287(g) WSO: Jackson County Sheriff’s Office (KS)'
+title: '287(g) WSO: Jackson County Sheriff‚Äôs Office (KS)'
 type: 287g-agreement
 county: 'Jackson County'
 state: 'KS'
 fips: '20085'
-agency: 'Jackson County Sheriff’s Office'
+agency: 'Jackson County Sheriff‚Äôs Office'
 model: 'WSO'
 signed_date: 'July 23, 2020'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Jackson County Sheriff’s Office.
+287(g) agreement between ICE and Jackson County Sheriff‚Äôs Office.
 
 Model: WSO
 Signed: July 23, 2020

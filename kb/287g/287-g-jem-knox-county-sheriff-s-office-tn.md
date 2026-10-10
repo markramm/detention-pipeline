@@ -1,11 +1,11 @@
 ---
 id: 287-g-jem-knox-county-sheriff-s-office-tn
-title: '287(g) JEM: Knox County Sheriff’s Office (TN)'
+title: '287(g) JEM: Knox County Sheriff‚Äôs Office (TN)'
 type: 287g-agreement
 county: 'Knox County'
 state: 'TN'
 fips: '47093'
-agency: 'Knox County Sheriff’s Office'
+agency: 'Knox County Sheriff‚Äôs Office'
 model: 'JEM'
 signed_date: 'June 8, 2020'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Knox County Sheriff’s Office.
+287(g) agreement between ICE and Knox County Sheriff‚Äôs Office.
 
 Model: JEM
 Signed: June 8, 2020

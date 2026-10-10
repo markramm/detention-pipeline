@@ -1,0 +1,33 @@
+---
+id: swish-data-corporation-70ctd026fr0000092
+title: 'SWISH DATA CORPORATION — 70CTD026FR0000092 (VA) $4,665,461'
+type: ice-contract
+state: 'VA'
+contractor: 'SWISH DATA CORPORATION'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$4,665,460.60'
+contract_type: 'federal-contract'
+award_date: '2026-09-29'
+usaspending_id: '70CTD026FR0000092'
+source: 'USAspending.gov (award 70CTD026FR0000092)'
+signal_strength: 'weak'
+notes: 'THIS AWARD IS TO PROCURE CISCO CATALYST SWITCHES AND SCHNEIDER ELECTRIC UNINTERRUPTED POWER SUPPLY BATTERY BACKUP PRODUCTS FOR THE OFFICE OF THE CHIEF INFORMATION OFFICER/OPERATIONS DIVISION TO IMPROVE NETWORK PERFORMANCE AND STABILITY'
+tags:
+- ice-contract
+- other
+- other-ice
+- va
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: SWISH DATA CORPORATION
+Award ID: 70CTD026FR0000092
+Amount: $4,665,460.60
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THIS AWARD IS TO PROCURE CISCO CATALYST SWITCHES AND SCHNEIDER ELECTRIC UNINTERRUPTED POWER SUPPLY BATTERY BACKUP PRODUCTS FOR THE OFFICE OF THE CHIEF INFORMATION OFFICER/OPERATIONS DIVISION TO IMPROVE NETWORK PERFORMANCE AND STABILITY
+Period: 2026-09-29 to 2026-12-28
+Location: None, VA
