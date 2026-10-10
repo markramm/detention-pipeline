@@ -1,11 +1,11 @@
 ---
 id: 287-g-wso-victoria-county-sheriff-s-office-tx
-title: '287(g) WSO: Victoria County Sheriff’s Office (TX)'
+title: '287(g) WSO: Victoria County Sheriff‚Äôs Office (TX)'
 type: 287g-agreement
 county: 'Victoria County'
 state: 'TX'
 fips: '48469'
-agency: 'Victoria County Sheriff’s Office'
+agency: 'Victoria County Sheriff‚Äôs Office'
 model: 'WSO'
 signed_date: 'February 26, 2025'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Victoria County Sheriff’s Office.
+287(g) agreement between ICE and Victoria County Sheriff‚Äôs Office.
 
 Model: WSO
 Signed: February 26, 2025

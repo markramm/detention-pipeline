@@ -29,5 +29,5 @@ Amount: $90,000.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: ICE COMMUNICATIONS SERVICE (ICS), WHICH PROVIDES TELEPHONE SERVICES FOR ICE DETAINEES, INCLUDING PRO BONO CALLS AND ACCESS TO THE PRO BONO PLATFORM.
-Period: 2026-09-15 to 2027-09-14
+Period: 2026-09-15 to 2027-07-31
 Location: None, AL

@@ -1,11 +1,11 @@
 ---
 id: 287-g-jem-smith-county-sheriff-s-office-tx
-title: '287(g) JEM: Smith County Sheriff’s Office (TX)'
+title: '287(g) JEM: Smith County Sheriff‚Äôs Office (TX)'
 type: 287g-agreement
 county: 'Smith County'
 state: 'TX'
 fips: '48423'
-agency: 'Smith County Sheriff’s Office'
+agency: 'Smith County Sheriff‚Äôs Office'
 model: 'JEM'
 signed_date: 'June 9, 2020'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Smith County Sheriff’s Office.
+287(g) agreement between ICE and Smith County Sheriff‚Äôs Office.
 
 Model: JEM
 Signed: June 9, 2020

@@ -1,12 +1,12 @@
 ---
 id: western-door-federal-llc-70cmsw24fr0000044
-title: 'WESTERN DOOR FEDERAL, LLC — 70CMSW24FR0000044 (VA) $3,817,098'
+title: 'WESTERN DOOR FEDERAL, LLC — 70CMSW24FR0000044 (VA) $3,924,432'
 type: ice-contract
 state: 'VA'
 contractor: 'WESTERN DOOR FEDERAL, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$3,817,098.08'
+contract_value: '$3,924,431.55'
 contract_type: 'federal-contract'
 award_date: '2024-06-04'
 usaspending_id: '70CMSW24FR0000044'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: WESTERN DOOR FEDERAL, LLC
 Award ID: 70CMSW24FR0000044
-Amount: $3,817,098.08
+Amount: $3,924,431.55
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: FREEDOM OF INFORMATION ACT (FOIA) SUPPORT SERVICES

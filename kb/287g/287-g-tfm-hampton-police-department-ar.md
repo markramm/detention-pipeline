@@ -2,7 +2,7 @@
 id: 287-g-tfm-hampton-police-department-ar
 title: '287(g) TFM: Hampton Police Department (AR)'
 type: 287g-agreement
-county: 'Calhoun'
+county: 'Calhoun County'
 state: 'AR'
 fips: '05013'
 agency: 'Hampton Police Department'
@@ -22,7 +22,7 @@ importance: 5
 
 Model: TFM
 Signed: June 30, 2025
-County: Calhoun
+County: Calhoun County
 State: AR
 FIPS: 05013
 

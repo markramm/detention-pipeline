@@ -1,11 +1,11 @@
 ---
 id: 287-g-wso-waller-county-sheriff-s-office-tx
-title: '287(g) WSO: Waller County Sheriff’s Office (TX)'
+title: '287(g) WSO: Waller County Sheriff‚Äôs Office (TX)'
 type: 287g-agreement
 county: 'Waller County'
 state: 'TX'
 fips: '48473'
-agency: 'Waller County Sheriff’s Office'
+agency: 'Waller County Sheriff‚Äôs Office'
 model: 'WSO'
 signed_date: 'February 12, 2020'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Waller County Sheriff’s Office.
+287(g) agreement between ICE and Waller County Sheriff‚Äôs Office.
 
 Model: WSO
 Signed: February 12, 2020

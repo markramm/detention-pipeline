@@ -7,10 +7,10 @@ state: 'TX'
 fips: '48419'
 agency: 'Tenaha Police Department'
 model: 'TFM'
-signed_date: 'January 7, 2025'
+signed_date: 'January 7, 2026'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
 signal_strength: 'moderate'
-notes: 'TFM model agreement signed January 7, 2025'
+notes: 'TFM model agreement signed January 7, 2026'
 tags:
 - 287g
 - tfm
@@ -21,7 +21,7 @@ importance: 5
 287(g) agreement between ICE and Tenaha Police Department.
 
 Model: TFM
-Signed: January 7, 2025
+Signed: January 7, 2026
 County: Shelby County
 State: TX
 FIPS: 48419

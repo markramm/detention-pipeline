@@ -29,5 +29,5 @@ Amount: $99,000.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS IS A PURCHASE ORDER TO PROCURE DETAINEE MEALS TO SUPPORT ICE- ENFORCEMENT REMOVAL AND OPERATIONS IN THE ST. PAUL, MN AREA OF RESPONSIBILITY (AOR)
-Period: 2026-06-29 to 2026-09-30
+Period: 2026-06-29 to 2026-12-31
 Location: None, NE

@@ -1,11 +1,11 @@
 ---
 id: 287-g-tfm-lavaca-county-sheriff-s-office-tx
-title: '287(g) TFM: Lavaca County Sheriff’s Office (TX)'
+title: '287(g) TFM: Lavaca County Sheriff‚Äôs Office (TX)'
 type: 287g-agreement
 county: 'Lavaca County'
 state: 'TX'
 fips: '48285'
-agency: 'Lavaca County Sheriff’s Office'
+agency: 'Lavaca County Sheriff‚Äôs Office'
 model: 'TFM'
 signed_date: 'September 9, 2025'
 source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
@@ -18,7 +18,7 @@ tags:
 importance: 5
 ---
 
-287(g) agreement between ICE and Lavaca County Sheriff’s Office.
+287(g) agreement between ICE and Lavaca County Sheriff‚Äôs Office.
 
 Model: TFM
 Signed: September 9, 2025
