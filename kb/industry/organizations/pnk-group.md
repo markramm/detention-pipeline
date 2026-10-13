@@ -16,8 +16,6 @@ tags:
 - industrial-real-estate
 - sberbank
 - icij-offshore-leaks
-- roscongress
-- putin-chocolate
 - warren-raskin-target
 research_status: enriched
 ---
@@ -26,13 +24,11 @@ research_status: enriched
 
 ## Overview
 
-PNK Group is a Russia-founded industrial real estate developer that sold the Social Circle, Georgia warehouse to DHS for **$128.6 million** — a property it bought for **$29.4 million** less than 3 years earlier. The **~$99 million profit** flowed to a company founded in Saint Petersburg by a man who got his start selling Putin-themed chocolate bars, who appeared at Roscongress events alongside Putin, whose company partnered with sanctioned Sberbank, and who appears in the ICIJ Offshore Leaks database.
+PNK Group is a Russia-founded industrial real estate developer that sold the Social Circle, Georgia warehouse to DHS for **$128.6 million** — a property it bought for **$29.4 million** less than 3 years earlier. The **~$99 million profit** flowed to a company founded in Saint Petersburg whose Russian business partnered with sanctioned Sberbank.
 
 ## Founder: Andrey Sharkov
 
 - Founded PNK Group in **2004 in Saint Petersburg, Russia**
-- Started with **Shokobox**, a candy company that produced novelty chocolate bars featuring Putin hugging puppies ("dobry"/kind bar) and Putin nursing a deer ("nezhny"/caring bar)
-- **Roscongress Foundation speaker** — listed as General Director of Shokobox LLC. Roscongress is established by decree of the Russian President and organizes the St. Petersburg International Economic Forum.
 - **ICIJ Offshore Leaks Database**: Sharkov appears as node 20494 — an "officer" in offshore entity records. Specific entity details require direct database lookup at offshoreleaks.icij.org/nodes/20494.
 - Claims he is **no longer a Russian citizen** (February 2025 sworn deposition). Lives in New York "most of the time," splits the rest between Monaco and Moscow.
 - In **2023**, Sharkov "recalled the brand from Russia" — formally separating the US/EU PNK Group from the Russian PNK Group entity. **This is the same year he bought the Social Circle property.**
@@ -76,7 +72,7 @@ PNK Group had a documented business partnership with **Sberbank Asset Management
 ## Sanctions Status
 
 - Neither PNK Group nor Andrey Sharkov appear on the OFAC SDN list (based on search — direct OFAC tool verification recommended)
-- However: documented partnership with **sanctioned Sberbank**, appearance in **ICIJ Offshore Leaks**, and participation in **Roscongress** events warrant continued scrutiny
+- However: the documented partnership with **sanctioned Sberbank** warrants continued scrutiny
 - Foreign nationals are **prohibited** from making US political contributions (52 U.S.C. 30121) — Sharkov's citizenship status at time of any donations is relevant
 
 ## Key Investigative Threads
@@ -94,10 +90,12 @@ PNK Group had a documented business partnership with **Sberbank Asset Management
 - [GPB News: ICE bought a warehouse in Social Circle](https://www.gpb.org/news/2026/02/13/ice-bought-warehouse-in-social-circle-ga-the-city-wishes-it-hadnt)
 - [The Real Deal: The industrial owners selling to ICE](https://therealdeal.com/national/2026/02/19/the-industrial-owners-selling-to-ice/)
 - [WhoWhatWhy: #DHSProfitMachine](https://whowhatwhy.org/editors-picks/saturday-hashtag-dhsprofitmachine/)
-- [Moscow Times: Putin chocolate bars](https://www.themoscowtimes.com/2014/11/26/russian-candymaker-hopes-putin-chocolate-bars-are-recipe-for-success-a41731)
 - [ICIJ Offshore Leaks: Sharkov Andrey](https://offshoreleaks.icij.org/nodes/20494)
-- [Roscongress: Andrei Sharkov speaker profile](https://roscongress.org/en/speakers/sharkov-andrey/)
 - [Sberbank AM-PNK agreement](https://www.marketscreener.com/quote/stock/SBERBANK-OF-RUSSIA-6494829/news/Sberbank-of-Russia-Asset-Management-and-PNK-group-sign-agreement-to-buy-developer-s-industrial-p-30961706/)
 - [More Perfect Union: Banks Benefiting from ICE Warehouse Craze](https://substack.perfectunion.us/p/the-worlds-biggest-banks-may-be-benefiting)
 - [AJC: Two Georgia warehouses](https://www.ajc.com/news/2026/03/ice-spent-200-million-on-two-georgia-warehouses-did-the-feds-overpay/)
 - [Warren/Raskin investigation](https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers)
+
+## Corrections
+
+- **2026-10-13:** An earlier version of this page said PNK Group's founder started with Shokobox, a Russian candy company, and spoke at Roscongress as its director. That is a different person with the same name. Those statements and their sources have been removed.
