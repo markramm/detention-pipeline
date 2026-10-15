@@ -4,7 +4,9 @@ Ingest 287(g) agreement data from Prison Policy Initiative.
 
 Primary source: prisonpolicy.org appendix table of 287(g) agreements,
 which includes agency, county, state, and per-model signing dates.
-As of Feb 2026 this has 1,200+ entries with county already broken out.
+PPI replaces the table in place; each entry is labelled with the
+"current as of" date the page gives for Appendix Table 1 (read on every
+run; the ingest stops if the page has none).
 
 287(g) agreements indicate local law enforcement willingness to cooperate
 with ICE — a signal that the jurisdiction is receptive to detention expansion.
@@ -22,6 +24,8 @@ import difflib
 import json
 import re
 import sys
+from datetime import datetime
+from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.request import Request, urlopen
@@ -296,8 +300,60 @@ class TableExtractor(HTMLParser):
             self.current_cell += data
 
 
+class AsOfDateNotFound(ValueError):
+    """The source page gives no usable "current as of" date for Table 1."""
+
+
+_DATE = r"([A-Z][a-z]+\.? \d{1,2}, \d{4})"
+
+
+def _to_iso(text):
+    text = text.replace(".", "")
+    for fmt in ("%B %d, %Y", "%b %d, %Y"):
+        try:
+            return datetime.strptime(text, fmt).date().isoformat()
+        except ValueError:
+            pass
+    raise AsOfDateNotFound(f"unparseable date {text!r}")
+
+
+def parse_as_of_date(html):
+    """Return the ISO date PPI gives for Appendix Table 1 (287(g) agreements).
+
+    The page states it twice: "This information is current as of <date>."
+    just before Table 1, and "...a 287(g) agreement as of <date>, see
+    Appendix Table 1." in the introduction. Table 2 (jails) has its own,
+    later "current as of" line, so only text before the first <table> is
+    read. Raise AsOfDateNotFound if neither is there or they disagree;
+    never fall back to a remembered date.
+    """
+    head = html.split("<table", 1)[0]
+    text = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", head))).replace("\xa0", " ")
+    text = re.sub(r"\s+", " ", text)
+    current = re.findall(r"current as of " + _DATE, text, flags=re.IGNORECASE)
+    intro = re.findall(_DATE + r",? see Appendix Table 1", text)
+    dates = {_to_iso(d) for d in current[-1:] + intro}
+    if not dates:
+        raise AsOfDateNotFound(
+            "no 'current as of <date>' before Appendix Table 1 on the source page; "
+            "the page layout may have changed. Not labelling entries with a guessed date."
+        )
+    if len(dates) > 1:
+        raise AsOfDateNotFound(f"source page gives conflicting dates for Table 1: {sorted(dates)}")
+    return dates.pop()
+
+
+def human_date(iso):
+    """'2026-09-30' -> 'September 30, 2026'."""
+    d = datetime.strptime(iso, "%Y-%m-%d")
+    return f"{d:%B} {d.day}, {d.year}"
+
+
 def fetch_prison_policy_data():
-    """Fetch and parse 287(g) data from Prison Policy Initiative."""
+    """Fetch and parse 287(g) data from Prison Policy Initiative.
+
+    Returns (entries, as_of) where as_of is the ISO date the page gives
+    for Appendix Table 1."""
     # Check for cached HTML first
     cache_path = Path("/tmp/prisonpolicy_287g.html")
     if cache_path.exists():
@@ -318,6 +374,9 @@ def fetch_prison_policy_data():
             print(f"Error fetching: {e}", file=sys.stderr)
             sys.exit(1)
 
+    as_of = parse_as_of_date(html)
+    print(f"  Source data current as of {as_of}")
+
     parser = TableExtractor()
     parser.feed(html)
 
@@ -329,7 +388,7 @@ def fetch_prison_policy_data():
     # Structure: row[0] has sub-headers (Agency, County, State, TFM date, WSO date, JEM date)
     # The actual headers span two rows in the HTML
     if not parser.tables:
-        return []
+        return [], as_of
 
     headers, rows = parser.tables[0]
 
@@ -392,11 +451,13 @@ def fetch_prison_policy_data():
                 "signed_date": signed_date,
             })
 
-    return entries
+    return entries, as_of
 
 
-def create_entry(raw, dry_run=False):
-    """Create a detention-pipeline-research entry from a 287(g) record."""
+def create_entry(raw, as_of, dry_run=False):
+    """Create a detention-pipeline-research entry from a 287(g) record.
+
+    as_of is the ISO date the source page gives for its data."""
     agency = raw["agency"]
     county = raw["county"]
     state = raw["state"]
@@ -441,7 +502,7 @@ def create_entry(raw, dry_run=False):
             f"State: {state}\n"
             f"FIPS: {fips or 'unresolved'}\n\n"
             f"Source: Prison Policy Initiative appendix table, "
-            f"compiled from ICE data as of Feb 17, 2026."
+            f"compiled from ICE data as of {human_date(as_of)}."
         ),
         "county": county,
         "state": state,
@@ -449,7 +510,7 @@ def create_entry(raw, dry_run=False):
         "agency": agency,
         "model": model,
         "signed_date": signed_date,
-        "source": "Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17",
+        "source": f"Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of {as_of}",
         "signal_strength": signal,
         "notes": f"{model} model agreement signed {signed_date}" if signed_date else f"{model} model agreement",
         "tags": ["287g", model.lower(), state.lower() if state else "unknown"],
@@ -478,7 +539,11 @@ def main():
     load_fips_map()
     load_place_fips_map()
 
-    raw_entries = fetch_prison_policy_data()
+    try:
+        raw_entries, as_of = fetch_prison_policy_data()
+    except AsOfDateNotFound as e:
+        print(f"ERROR: {e}", file=sys.stderr)
+        sys.exit(1)
 
     if not raw_entries:
         print("No entries found. Check the URL or try again.", file=sys.stderr)
@@ -496,7 +561,7 @@ def main():
         if args.state and raw["state"] != args.state.upper():
             continue
 
-        entry = create_entry(raw, dry_run=args.dry_run)
+        entry = create_entry(raw, as_of, dry_run=args.dry_run)
 
         # Deduplicate by agency+model
         dedup_key = (entry["agency"], entry["model"])
