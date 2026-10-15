@@ -22,8 +22,8 @@ tags:
   - 287g
   - texas
 research_status: working
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-10-14"
+last_news_check: "2026-10-14"
 ---
 
 # Harris County TX: Houston ICE Ordinance Gutted Under State Pressure
@@ -63,6 +63,10 @@ Harris County — the county government, distinct from the City of Houston — f
 - **CMs Kamin, Thomas, Pollard, Salinas** — four dissenting votes against gutting the measure
 - **ACLU of Texas** — characterized council vote as capitulation
 
+## Update (October 2026)
+
+No Harris County 287(g) agreement was confirmed in sources fetched. A February 2026 law-firm post states "Harris County does not currently have a 287(g) agreement." The Texas Tribune (May 13, 2026) reported "sheriffs in El Paso, Bexar and Harris counties have started negotiating or finalized an agreement with ICE" but "Information for El Paso and Harris counties was not yet available." Dec 1, 2026 SB8 deadline remains; in the Dallas dispute Paxton opened an investigation in May and Dallas Sheriff Brown replied the law gives her until Dec. 1.
+
 ## Sources
 
 - [Houston Public Media: Council revises HPD-ICE policy after governor threat (Apr 22, 2026)](https://www.houstonpublicmedia.org/articles/news/city-of-houston/2026/04/22/549776/ice-houston-police-policy-revised-city-council-whitmire-abbott/)
@@ -73,3 +77,5 @@ Harris County — the county government, distinct from the City of Houston — f
 - [KSAT: Houston council approves gutting policy limiting ICE cooperation (Apr 22, 2026)](https://www.ksat.com/news/local/2026/04/22/houston-city-council-approves-gutting-policy-limiting-ice-cooperation-civil-rights-groups-say/)
 - [Democracy Now: Houston City Council votes to gut ordinance (Apr 23, 2026)](https://www.democracynow.org/2026/4/23/headlines/houston_city_council_votes_to_gut_an_ordinance_limiting_police_cooperation_with_ice)
 - [Houston Public Media: Harris County commissioner directs county attorney to develop ICE coordination guidelines (Apr 17, 2026)](https://www.houstonpublicmedia.org/articles/news/harris-county/2026/04/17/549357/harris-county-commissioner-directs-county-attorney-to-develop-ice-coordination-guidelines/)
+- [Texas Tribune: Paxton demands Dallas County sheriff enter ICE agreement (May 13, 2026)](https://www.texastribune.org/2026/05/13/texas-ice-agreement-paxton-dallas-county-sheriff-investigation/)
+- [Chris Hammond Law: Which Houston-area counties have signed agreements (Feb 19, 2026)](https://chrishammondlaw.com/blog/which-houston-area-counties-have-signed-agreements-to-cooperate-with-ice/)

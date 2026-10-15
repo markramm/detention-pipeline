@@ -22,7 +22,7 @@ tags:
 - operation-midway-blitz
 - broadview-6
 research_status: working
-last_researched: "2026-06-02"
+last_researched: "2026-10-14"
 ---
 
 # Broadview ICE Facility
@@ -74,6 +74,10 @@ Judge Robert Gettleman issued a 15-point temporary restraining order requiring I
 
 Six activists (Democratic officeholders/candidates) indicted on federal felony conspiracy for Sept 26, 2025 protest at facility. Selective prosecution alleged — 6 of 50-100 protesters charged. Two charges dismissed March 2026; felony conspiracy count dropped April 29; **all remaining charges dismissed May 21, 2026 by Judge April Perry over gross grand jury misconduct** — trial canceled, lead AUSA fired, U.S. Attorney ordered grand jury reforms. See `il-cook-broadview-six-federal-prosecution`.
 
+## Update (October 2026)
+
+Illinois House Bill 5024, which bars the federal government from operating a new immigration detention center within 1,500 feet of schools, day care centers, cemeteries, public parks, public housing, private residences and places of worship, was signed into law. Sen. Kimberly Lightford's office, in a release dated August 10, 2026, states: "House Bill 5024 was signed into law Friday." House Speaker Welch's office (release dated August 21, 2026) calls it "now law." The law is aimed at new facilities; it is not described in the fetched releases as reaching Broadview. No change to Broadview's operation or status was found in searches for June-October 2026.
+
 ## Sources
 
 - [WBEZ: Broadview as de facto detention (Oct 2025)](https://www.wbez.org/immigration/2025/10/01/broadview-immigration-processing-center-detention-ice-dhs)
@@ -87,3 +91,5 @@ Six activists (Democratic officeholders/candidates) indicted on federal felony c
 - [Catholic World Report: Agreement allows daily pastoral access at Illinois ICE facility (May 19, 2026)](https://www.catholicworldreport.com/2026/05/19/agreement-allows-daily-pastoral-access-at-illinois-ice-facility-faith-leaders-say/)
 - [Chicago Sun-Times: Illinois Legislature bans new immigration detention centers near homes and schools (June 1, 2026)](https://chicago.suntimes.com/immigration/2026/06/01/illinois-legislature-bans-immigration-detention-centers-homes-schools)
 - [Capitol News Illinois: 'Broadview 6' trial canceled as prosecutors acknowledge misconduct before grand jury (May 2026)](https://capitolnewsillinois.com/news/broadview-6-trial-canceled-as-prosecutors-acknowledge-misconduct-before-grand-jury/)
+- [Sen. Lightford: law barring federal immigration detention centers near schools, homes and churches (Aug 10, 2026)](https://senatorlightford.com/news/827-lightford-leads-law-barring-federal-immigration-detention-centers-near-schools-homes-and-churches)
+- [Speaker Welch: new law stopping detention centers in residential areas (Aug 21, 2026)](https://www.emanuelchriswelch.com/recent-press/2026/8/21/welch-stands-up-for-broadview-with-new-law-stopping-trump-detention-centers-in-residential-areas)

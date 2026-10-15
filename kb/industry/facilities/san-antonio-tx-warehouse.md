@@ -14,7 +14,7 @@ status: under-construction
 importance: 8
 tags: [warehouse-conversion, detention-reengineering, regional-processing-center, texas, san-antonio, community-opposition, legal-challenge, east-side]
 research_status: working
-last_researched: "2026-04-12"
+last_researched: "2026-10-14"
 ---
 
 # San Antonio TX East Side Warehouse — ICE Processing Center
@@ -125,6 +125,13 @@ Commissioner Calvert raised concerns that "up to ten-thousand people may be hous
 
 The San Antonio fight mirrors opposition in other warehouse-conversion cities. See: [[howard-county-md-elkridge-blocked]], [[okc-warehouse-blocked]], [[washington-county-md-warehouse-fight]].
 
+## Update (October 2026)
+
+- On Oct 2, 2026 Mayor Gina Ortiz Jones said: "I support legal action to halt all activities related to renovating the Eastside facility"; a Sept. 30 deadline for a federal response to city information requests passed without one (TPR). The City Attorney is reviewing options; no lawsuit announced.
+- TPR: ICE bought the warehouse at 542 S.E. Loop 410 for $66 million in January; planned capacity 1,000 to 1,500 people; GardaWorld awarded roughly $17 million to renovate and provide services.
+- Five council members called for a special session and said they support "litigation avenues." Commissioner Tommy Calvert organized an Oct 3 march and acknowledged a legal challenge could slow but not necessarily stop the opening.
+- The Texas Tribune (Aug 11) noted DHS "has not publicly addressed what it intends to do with the building" while cancelling the Socorro warehouses. SA Report (Feb 13) had cited an expected Nov. 30, 2026 operational date; TPR gives no current opening date.
+
 ## Sources
 
 - [ICE confirms purchase of East Side warehouse — KSAT (Feb 5, 2026)](https://www.ksat.com/news/local/2026/02/05/ice-purchases-east-side-facility-to-hold-immigrant-detainees-agency-confirms/)
@@ -147,3 +154,6 @@ The San Antonio fight mirrors opposition in other warehouse-conversion cities. S
 - [Trinity students protest ICE at City Hall — Trinitonian (Apr 9, 2026)](https://trinitonian.com/2026/04/09/trinity-students-protest-ice-at-san-antonio-city-hall/)
 - [SA students hold anti-ICE press conference on Presidents Day — TPR (Feb 16, 2026)](https://www.tpr.org/news/2026-02-16/san-antonio-students-hold-anti-ice-press-conference-and-march-on-presidents-day)
 - [States push against immigration detention plans — Fortune (Apr 9, 2026)](https://fortune.com/2026/04/09/dhs-ice-immigration-states-warehouses-converted-detention-centers/)
+- [TPR: San Antonio mayor backs legal action to halt East Side ICE facility (Oct 2, 2026)](https://www.tpr.org/border-immigration/2026-10-02/san-antonio-mayor-backs-legal-action-to-halt-east-side-ice-facility)
+- [SA Report: Federal documents show ICE detention facility in San Antonio will be open by November (Feb 13, 2026)](https://sanantonioreport.org/federal-documents-show-ice-detention-facility-in-san-antonio-will-be-open-by-november/)
+- [Texas Tribune: DHS to sell El Paso-area warehouses (Aug 11, 2026)](https://www.texastribune.org/2026/08/11/texas-ice-immigrant-detention-warehouse-socorro-el-paso/)

@@ -25,7 +25,7 @@ tags:
 - pinal-county-cluster
 research_status: working
 fips: '04021'
-last_news_check: '2026-06-02'
+last_news_check: "2026-10-14"
 ---
 
 # Pinal County: When the County Attorney Goes Rogue
@@ -91,6 +91,12 @@ Having a Brady-listed officer as the point of contact for a 287(g) agreement cre
 
 If a county attorney can unilaterally sign ICE agreements over the objections of elected supervisors, it creates a template for expanding detention infrastructure without democratic accountability. This is a different vector than the [[sabot-consulting|Sabot Consulting]] sheriff-recruitment model but achieves the same end: local government resources deployed for federal immigration enforcement without a transparent public process.
 
+## Update (October 2026)
+
+- **No appeal found; sheriff's agreement separate.** No reporting of a notice of appeal or new County Attorney agreement after the May 15, 2026 judgment was found (searches only; no court record checked).
+- **Florence expansion.** A $1.2 billion GardaWorld Federal Services award to expand ICE's Florence facilities was reported Sep 22-25, 2026, sourced to Project Salt Box and not yet on USAspending.gov. See [[florence-service-processing-center-pinal-az]].
+- **Measles at Florence.** Tucson.com (Jul 8, 2026): federal officials confirmed "seven active cases of measles at an Arizona immigration detention center," the Florence Detention Center, among 16 cases in Pinal County.
+
 ## Sources
 
 - [AZ Mirror: Pinal County supervisors declare ICE partnership illegal and void (Jan 21, 2026)](https://azmirror.com/2026/01/21/pinal-county-supervisors-declare-their-county-attorneys-ice-partnership-illegal-and-void/)
@@ -116,3 +122,5 @@ If a county attorney can unilaterally sign ICE agreements over the objections of
 - [AZPM: 'Determined to be void:' Judge rules against Pinal County Attorney contract with ICE (May 28, 2026)](https://news.azpm.org/p/azpmnews/2026/5/28/229921-determined-to-be-void-judge-rules-against-pinal-county-attorney-contract-with-ice/)
 - [AZ Free News: Judge Rules Pinal County Attorney Violated Law In ICE Agreement (May 2026)](https://azfreenews.com/2026/05/judge-rules-pinal-county-attorney-violated-law-in-ice-agreement/)
 - [Supervisors Authorize Civil Action to Void or Enjoin County Attorney's 287(g) Agreement (Pinal County newsflash)](https://www.pinal.gov/m/newsflash/home/detail/2199)
+- [Copper Courier: Is ICE planning a $1.2B detention expansion in Arizona? What we know (Sep 25, 2026)](https://coppercourier.com/news/immigration/ice-detention-expansion-florence-arizona/)
+- [Arizona Daily Star: Measles outbreak confirmed at Arizona immigration detention center (Jul 8, 2026)](https://tucson.com/news/local/border/article_da781d44-2860-431e-98ec-d245778d931e.html)

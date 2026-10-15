@@ -6,10 +6,10 @@ county: "Miami-Dade"
 state: FL
 fips: "12086"
 facility: "Everglades Detention Facility ('Alligator Alcatraz'), Dade-Collier Training and Transition Airport, Big Cypress National Preserve"
-status: active-litigation
-outcome: "Facility is CLOSING. The wind-down became a confirmed shutdown the week of May 26, 2026: companies operating the site were formally notified (Tuesday May 26) that it is being shut down, with the last detainee to leave in June 2026 and a 2-3 week 'demobilization' (removing fencing, trailers, structures) to follow, after which the site reverts to a small pilot-training airport. Population: ICE data showed ~1,500 in April; Rep. Frost's May 26 oversight visit and a May 29 WFLX report cite 655 currently held, while closure-notification reporting (NYT/CBS/NBC, citing vendors) references the 'remaining ~1,400' to be removed in coming weeks. Detainees are transferred (not released) both in-state (Baker 'Deportation Depot,' Krome, BTC, Glades) and out-of-state — ACLU attorney Amy Godshall (May 29) says people are being sent to California City, CA and Fort Bliss, TX. Total operating cost now estimated near $1 billion. DeSantis maintains it was 'always temporary.' The proposed 'Panhandle Pokey' third facility (Panama City) was abandoned — DHS told the Tampa Bay Times May 22, 2026 it is 'no longer being proposed.' Legally: 11th Circuit ruled April 21, 2026 that NEPA does not apply because Florida (not the federal government) controls the facility, invalidating the preliminary injunction that had halted operations. Environmental/tribal NEPA litigation continues before Judge Kathleen Williams; ACLU class action (H.C.R. v. Noem) won a March 27, 2026 legal-access order."
+status: closed
+outcome: "UPDATE Oct 2026: facility CLOSED (announced June 25, 2026; zero detainees; demobilization complete per state declaration as of July 18; site returned to Miami-Dade Aug 2026; legal-access class suit dismissed as moot Aug 2026). Earlier (June 2) status: Facility is CLOSING. The wind-down became a confirmed shutdown the week of May 26, 2026: companies operating the site were formally notified (Tuesday May 26) that it is being shut down, with the last detainee to leave in June 2026 and a 2-3 week 'demobilization' (removing fencing, trailers, structures) to follow, after which the site reverts to a small pilot-training airport. Population: ICE data showed ~1,500 in April; Rep. Frost's May 26 oversight visit and a May 29 WFLX report cite 655 currently held, while closure-notification reporting (NYT/CBS/NBC, citing vendors) references the 'remaining ~1,400' to be removed in coming weeks. Detainees are transferred (not released) both in-state (Baker 'Deportation Depot,' Krome, BTC, Glades) and out-of-state — ACLU attorney Amy Godshall (May 29) says people are being sent to California City, CA and Fort Bliss, TX. Total operating cost now estimated near $1 billion. DeSantis maintains it was 'always temporary.' The proposed 'Panhandle Pokey' third facility (Panama City) was abandoned — DHS told the Tampa Bay Times May 22, 2026 it is 'no longer being proposed.' Legally: 11th Circuit ruled April 21, 2026 that NEPA does not apply because Florida (not the federal government) controls the facility, invalidating the preliminary injunction that had halted operations. Environmental/tribal NEPA litigation continues before Judge Kathleen Williams; ACLU class action (H.C.R. v. Noem) won a March 27, 2026 legal-access order."
 importance: 10
-last_news_check: "2026-06-02"
+last_news_check: "2026-10-14"
 tags:
   - alligator-alcatraz
   - everglades
@@ -25,7 +25,7 @@ tags:
   - miami-dade
   - florida
 research_status: working
-last_researched: "2026-06-02"
+last_researched: "2026-10-14"
 last_news_check: "2026-06-02"
 ---
 
@@ -100,6 +100,18 @@ While the 11th Circuit handed environmental plaintiffs a setback, detainees won 
 - **11th U.S. Circuit Court of Appeals** — ruled 2-1 April 21, 2026 against preliminary injunction
 - **ACLU / ACLU of Florida / Community Justice Project / National Immigrant Justice Center** — H.C.R. v. Noem counsel
 
+## Update (October 2026)
+
+**Closure confirmed and the site returned to the county.** On June 25, 2026 DeSantis held a news conference at the site and said it held "zero detainees"; he said "The detainees that were here are still in federal custody. The demobilization efforts here at this facility are underway." Lawyers said clients were moved earlier in June to "other facilities in South Florida, California, Arizona, Louisiana and Texas" (WFLX, Jun 25). Amnesty International lists Krome North among the destinations. DeSantis said about 21,000 people had been deported from the facility since it opened.
+
+A state declaration reported by Aviation Pros (Jul 28) states that "as of July 18, the demobilization of the site had been complete." The state returned the Dade-Collier airport to Miami-Dade County after inspections on August 11 (FOX 13, Aug 13); the county is reviewing options that include selling or transferring parts of the property for "permanent conservation and ecological restoration," and has not yet presented recommendations to the Board of County Commissioners.
+
+**Litigation.** A federal judge in Fort Myers dismissed the detainee legal-access class complaint without prejudice as moot after the federal and state governments provided evidence the facility was closed and all detainees removed (Mealey's, Aug 28; the report does not name the judge or case). The status of the Judge Williams NEPA case was not found.
+
+**DHS OIG report.** DHS's Office of Inspector General released a report on the "Florida Soft-Sided Facility" around September 11, 2026 (WUSF, Sep 15). It states inspectors visited unannounced in January 2026, found 79 detainees held for up to 2 hours at a time in 18-square-foot metal cages, and that the facility provided about 29 square feet per detainee against a 75 square-foot minimum.
+
+**Pipeline significance.** The state-run soft-sided model in the Everglades ended after about a year; its population was redistributed to existing federal and contract sites (Krome and out-of-state facilities), not released. Miami-Dade now decides the future of the site.
+
 ## Sources
 
 - [Center for Biological Diversity: Fight Continues Despite Legal Setback (Apr 21, 2026)](https://biologicaldiversity.org/w/news/press-releases/fight-continues-against-everglades-immigration-facility-despite-temporary-legal-setback-2026-04-21/)
@@ -123,3 +135,9 @@ While the 11th Circuit handed environmental plaintiffs a setback, detainees won 
 - [WFLX: Detainee population dropping — where are they going? California City, Fort Bliss (May 29, 2026)](https://www.wflx.com/2026/05/29/detainee-population-alligator-alcatraz-is-dropping-where-are-they-going/)
 - [NBC6 Miami: Detainees to move out by June, facility to shut down (May 2026)](https://www.nbcmiami.com/news/local/alligator-alcatraz-immigation-detention-center-closure/3808365/)
 - [Wikipedia: Alligator Alcatraz](https://en.wikipedia.org/wiki/Alligator_Alcatraz)
+- [WFLX: DeSantis announces Alligator Alcatraz has 'zero detainees' (Jun 25, 2026)](https://www.wflx.com/2026/06/25/gov-ron-desantis-holds-news-conference-alligator-alcatraz/)
+- [Amnesty International Canada: USA, "Alligator Alcatraz" finally shut down (Jun 30, 2026)](https://amnesty.ca/urgent-actions/usa-alligator-alcatraz-finally-shut-down/)
+- [Aviation Pros: Alligator Alcatraz era formally ends as Miami-Dade takes back remote airport (Jul 28, 2026)](https://www.aviationpros.com/airport-business/airport-infrastructure-operations/news/55393438/alligator-alcatraz-era-formally-ends-as-miami-dade-takes-back-remote-airport)
+- [FOX 13: Alligator Alcatraz site given back to Miami-Dade County (Aug 13, 2026)](https://www.fox13news.com/news/alligator-alcatraz-site-given-back-miami-dade-county)
+- [Mealey's: Federal judge deems class suit over Alligator Alcatraz moot due to closure (Aug 28, 2026)](https://www.mealeys.com/mealeys/articles/2518966)
+- [WUSF: Lawmakers react to report on substandard conditions at Alligator Alcatraz (Sep 15, 2026)](https://www.wusf.org/politics-issues/2026-09-15/lawmakers-react-to-new-report-outlining-substandard-conditions-for-detainees-alligator-alcatraz)

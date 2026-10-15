@@ -9,7 +9,7 @@ status: litigation
 vote_tally: "N/A — federal purchase, no local vote"
 outcome: "No preliminary injunction was ever entered in this case. On June 18, 2026, AG Nessel announced DHS/ICE will not convert the Romulus warehouse and intend to sell it; a June 23 court filing confirmed the sale intent. Case 2:26-cv-10968-JJCG-EAS remains formally open — Nessel stated it will stay open until a written agreement guarantees the property is never used for detention. Retreat via voluntary DHS withdrawal / sale-intent filing, not by adjudicated ruling."
 fips: "26163"
-last_researched: "2026-08-28"
+last_researched: "2026-10-14"
 last_news_check: "2026-08-28"
 case_number: "2:26-cv-10968-JJCG-EAS"
 importance: 9
@@ -116,6 +116,10 @@ Governor Whitmer's silence while AG Nessel fights has drawn coverage. This split
 
 The Michigan Senate is advancing bills (SB 508, SB 510) to limit ICE enforcement in protected locations and require body cameras. Passed committee on party lines March 25, 2026. Faces Republican opposition in the House.
 
+## Update (October 2026)
+
+A Sinclair national-desk report published June 18, 2026 (okcfox.com) (citing the New York Times) states that ICE "plans to transfer the seven warehouses it purchased for more than $700 million" -- the Romulus warehouse is one of the purchases the sale-or-transfer decision was reported to cover (the KUTV text itself does not name Romulus; the Michigan link rests on the AG's June 18 announcement already cited above). Searches in October 2026 found no ruling on the preliminary-injunction motion and no report of a completed sale or dismissal of case 2:26-cv-10968.
+
 ## Sources
 
 - Michigan Advance: "ICE scraps plans for Romulus detention center, AG says" (Jun 18, 2026)
@@ -140,3 +144,4 @@ The Michigan Senate is advancing bills (SB 508, SB 510) to limit ICE enforcement
 - [Hundreds protest in Romulus against warehouse conversion — Michigan Advance (Apr 25, 2026)](https://michiganadvance.com/2026/04/25/hundreds-protest-in-romulus-against-proposal-to-convert-warehouse-into-ice-detention-center/)
 - [Protesters march against ICE plans — Detroit News (Apr 25, 2026)](https://www.detroitnews.com/story/news/local/wayne-county/2026/04/25/romulus-ice-detention-center-march-protest-gilchrist-immigration/89795933007/)
 - [Opponents rally at federal courthouse as hearing moves online (intervenors join May 11; hearing May 21) — Project Saltbox (May 18, 2026)](https://www.projectsaltbox.com/p/opponents-of-romulus-detention-facility)
+- [OKC Fox / Sinclair: ICE plans to sell warehouse facilities in Salt Lake City and six other cities (Jun 18, 2026)](https://okcfox.com/news/nation-world/ice-plans-to-sell-warehouse-facilities-in-salt-lake-six-other-cities-according-to-report)

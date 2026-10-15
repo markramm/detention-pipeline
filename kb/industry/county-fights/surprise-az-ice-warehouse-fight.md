@@ -32,7 +32,7 @@ tags:
 research_status: working
 fips: '04013'
 case_number: 'Arizona v. Mullin (D. Ariz., April 24, 2026)'
-last_news_check: '2026-07-03'
+last_news_check: "2026-10-14"
 ---
 
 # Maricopa County, Arizona: Arizona AG Sues GardaWorld Conversion in Surprise
@@ -92,6 +92,12 @@ While the press release for *Arizona v. Mullin* did not explicitly cite the Hurs
 - **GardaWorld Federal Services** (no standalone industry-profile page yet; see its [$313M ICE contract award](/entry/gardaworld-federal-services-llc-70cdcr26fr0000043/)) — same contractor network associated with Camp East Montana (Fort Bliss) and now this AZ contract; same Canadian-parented network as KVG MD
 - **Mesa AROCC** (Arizona) — separate ICE facility in same state showing the operational-overcrowding pattern (777 in 203-capacity building)
 
+## Update (October 2026)
+
+- **Paused, review slow (Sep 4, 2026).** KJZZ reports Mayes "agreed to pause the litigation in July after DHS said it would conduct required environmental reviews before housing any person at the Surprise facility." DHS's first status filing reports only an introductory meeting with its environmental-review contractor, and "Defendants will continue to provide status reports every sixty days as required by the Court's Order." The filing does not name the contractor; city of Surprise staff "met with a GardaWorld representative who is seeking information for the DHS National Environmental Policy Act environmental assessment." KJZZ states "The environmental review remains ongoing."
+- **Stop-work order was lifted.** Project Saltbox (May 21, 2026) reports that after ICE issued the stop-work order "A day before the state announced its lawsuit," "Two weeks later, the agency lifted that order," and GardaWorld job postings followed ("we are currently building a pipeline for this role, with an expected start date of later this year").
+- **GardaWorld gets a second Arizona contract.** Reporting from Sep 22-25, 2026 attributes a $1.2 billion GardaWorld Federal Services award for Florence (Pinal County) to Project Salt Box; KJZZ notes it is "the same company that was to retrofit the Surprise warehouse." See [[florence-service-processing-center-pinal-az]]. On Oct 6, 2026 Reps. Stanton, Ansari and Grijalva wrote to GardaWorld's president asking about its qualifications "to manage both projects," its role in the Surprise environmental review, and the structural and code assessments for the Surprise warehouse (KTAR, Oct 13, 2026).
+
 ## Sources
 
 - [AZ AG Press Release: Mayes Sues to Block Proposed ICE Detention Facility in Surprise (April 24, 2026)](https://www.azag.gov/press-release/attorney-general-mayes-sues-block-proposed-ice-detention-facility-surprise)
@@ -111,3 +117,7 @@ While the press release for *Arizona v. Mullin* did not explicitly cite the Hurs
 - [KJZZ: Surprise activists file petition to disincorporate city over safety concerns from detention center (Jun 21, 2026)](https://www.kjzz.org/politics/2026-06-21/surprise-activists-file-petition-to-disincorporate-city-over-safety-concerns-from-detention-center)
 - [KJZZ: Mayes, DHS agree to pause lawsuit over ICE detention facility in Surprise (Jul 1, 2026)](https://www.kjzz.org/politics/2026-07-01/mayes-dhs-agree-to-pause-lawsuit-over-ice-detention-facility-in-surprise)
 - [AZ AG: Attorney General Mayes Secures Stipulation Halting Conversion of Surprise Facility Into ICE Detention Center](https://www.azag.gov/press-release/attorney-general-mayes-secures-stipulation-halting-conversion-surprise-facility-ice)
+- [KJZZ: ICE detention center in Surprise still paused as environmental review makes slow progress (Sep 4, 2026)](https://www.kjzz.org/politics/2026-09-04/ice-detention-center-in-surprise-still-paused-as-environmental-review-makes-slow-progress)
+- [Project Saltbox: GardaWorld Accelerates Hiring at Surprise Warehouse Despite Pending State Lawsuit (May 21, 2026)](https://www.projectsaltbox.com/p/gardaworld-accelerates-hiring-at)
+- [KJZZ: ICE has a billion-dollar plan to expand detention in Arizona on federal land (Sep 24, 2026)](https://www.kjzz.org/the-show/2026-09-24/ice-has-a-billion-dollar-plan-to-expand-detention-in-arizona-on-federal-land)
+- [KTAR: AZ Dems question $1.2B contract to expand Florence immigration detention facilities (Oct 13, 2026)](https://ktar.com/immigration/az-democrats-answers-florence-immigration-detention-facilities-expansion-contract)

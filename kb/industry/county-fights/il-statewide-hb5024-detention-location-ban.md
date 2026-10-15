@@ -6,8 +6,8 @@ county: "Statewide"
 state: IL
 fips: "17000"
 facility: "N/A (policy fight)"
-status: passed-awaiting-signature
-outcome: "PASSED THE LEGISLATURE. In the early hours of Monday, June 1, 2026, the Illinois Senate passed HB 5024 (party-line, Democrats for / Republicans against), completing legislative passage and sending the bill to Gov. Pritzker's desk. Senate sponsor: Sen. Kimberly Lightford (D), who represents parts of Broadview ('residents in the village of Broadview woke up to chaos at their doorstep'). The bill bans new federal immigration detention facilities within 1,500 feet of homes, apartment complexes, schools, daycare centers/homes, parks, forest preserves, cemeteries, public housing, or places of worship — 'regardless of address.' NOT retroactive — would not close Broadview. As of June 2, 2026, Pritzker had not yet signed; he is expected to. Federal preemption challenge considered likely by Republican opponents."
+status: won
+outcome: "SIGNED INTO LAW (Oct 2026 update): Sen. Lightford's office release dated Monday, Aug 10, 2026 states 'House Bill 5024 was signed into law Friday.' Earlier: PASSED THE LEGISLATURE. In the early hours of Monday, June 1, 2026, the Illinois Senate passed HB 5024 (party-line, Democrats for / Republicans against), completing legislative passage and sending the bill to Gov. Pritzker's desk. Senate sponsor: Sen. Kimberly Lightford (D), who represents parts of Broadview ('residents in the village of Broadview woke up to chaos at their doorstep'). The bill bans new federal immigration detention facilities within 1,500 feet of homes, apartment complexes, schools, daycare centers/homes, parks, forest preserves, cemeteries, public housing, or places of worship — 'regardless of address.' NOT retroactive — would not close Broadview. As of June 2, 2026, Pritzker had not yet signed; he is expected to. Federal preemption challenge considered likely by Republican opponents."
 importance: 6
 tags:
   - legislation
@@ -19,8 +19,8 @@ tags:
   - preemption
   - speaker-welch
 research_status: working
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-10-14"
+last_news_check: "2026-10-14"
 ---
 
 # Illinois Statewide: HB 5024 Federal Detention Location Ban
@@ -55,6 +55,10 @@ HB 5024 would layer a physical location barrier on top of the existing cooperati
 - **Republican opposition**: GOP lawmakers have argued the bill would draw federal legal challenges; critics cite potential Commerce Clause or Supremacy Clause preemption
 - **Federal preemption risk**: The core legal vulnerability — courts have sometimes held that states cannot use local land-use law to effectively nullify federal detention authority
 
+## Update (October 2026)
+
+HB 5024 is law. A release from Sen. Kimberly Lightford's office dated Monday, August 10, 2026 states: "House Bill 5024 was signed into law Friday." The release says the law "prohibits the federal government from operating a new immigration detention center within 1,500 feet of certain locations." House Speaker Welch's office, in a release dated August 21, 2026, calls it "now law." The public act number, effective date and any legal challenge were not verified (the ILGA bill-status page could not be fetched).
+
 ## Sources
 
 - [The Fulcrum: Illinois House votes to ban new immigration detention centers near homes, schools, and parks](https://thefulcrum.us/governance-legislation/illinois-bill-restricts-new-immigration-detention-centers)
@@ -65,3 +69,5 @@ HB 5024 would layer a physical location barrier on top of the existing cooperati
 - [Daily Northwestern: Illinois is trying to restrict construction of ICE detention centers (May 6, 2026)](https://dailynorthwestern.com/2026/05/06/city/illinois-is-trying-to-restrict-the-construction-of-ice-detention-centers-advocates-say-its-a-good-first-step/)
 - [Chicago Sun-Times: Illinois Legislature bans new immigration detention centers near homes and schools (June 1, 2026)](https://chicago.suntimes.com/immigration/2026/06/01/illinois-legislature-bans-immigration-detention-centers-homes-schools)
 - [WBEZ: Illinois Legislature bans new immigration detention centers near homes and schools (June 2, 2026)](https://www.wbez.org/immigration/2026/06/02/illinois-legislature-bans-immigration-detention-centers-homes-schools)
+- [Sen. Lightford: law barring federal immigration detention centers near schools, homes and churches (Aug 10, 2026)](https://senatorlightford.com/news/827-lightford-leads-law-barring-federal-immigration-detention-centers-near-schools-homes-and-churches)
+- [Speaker Welch: new law stopping detention centers in residential areas (Aug 21, 2026)](https://www.emanuelchriswelch.com/recent-press/2026/8/21/welch-stands-up-for-broadview-with-new-law-stopping-trump-detention-centers-in-residential-areas)

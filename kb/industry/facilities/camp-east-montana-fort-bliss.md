@@ -14,6 +14,7 @@ importance: 9
 tags: [military-base, tent-facility, el-paso, texas, deaths-in-custody, tuberculosis, conditions-abuse, operator-change]
 research_status: stub
 fips: '48141'
+last_researched: "2026-10-14"
 ---
 
 # Camp East Montana — Fort Bliss ICE Tent Detention Camp
@@ -50,9 +51,14 @@ In March 2026, reports emerged that ICE is **replacing the operator** of Camp Ea
 
 The $1.2 billion Army contract to build this facility drew PBS investigation into the mystery surrounding its approval. Camp East Montana operates alongside the planned [[el-paso-tx-eastwind-mega-center|El Paso Eastwind mega-center]] (8,500 beds), making the El Paso region the epicenter of ICE detention.
 
+## Update (October 2026)
+
+On Jul 28, 2026 KFOX reported ICE plans to extend operator Amentum Services' no-bid contract "through Sept. 30, 2027, at a potential additional cost to taxpayers of $776 million," beyond the $452 million initial contract awarded in March. The facility remains open. No ruling was found on the class action filed May 30, 2026 (W.D. Tex.).
+
 ## Sources
 
 - [New Detention Camp at Fort Bliss Marks Dangerous Expansion — ACLU](https://www.aclu.org/news/immigrants-rights/new-detention-camp-at-fort-bliss-marks-dangerous-expansion-of-militarized-immigration-enforcement)
 - [ICE detention deaths are on a record pace. One Texas facility bears the brunt — NPR](https://www.npr.org/2026/04/03/nx-s1-5754749/ice-detention-deaths-are-on-a-record-pace-one-texas-facility-bears-the-brunt)
 - [Mystery surrounds $1.2 billion Army contract to build huge detention tent camp — PBS](https://www.pbs.org/newshour/politics/mystery-surrounds-1-2-billion-army-contract-to-build-huge-detention-tent-camp-in-texas-desert)
 - [Camp East Montana ICE detention camp to remain open under new operator — El Paso Matters](https://elpasomatters.org/2026/03/12/ice-replacing-camp-east-montana-detention-center-operator-contract-washington-post/)
+- [KFOX: ICE extends no-bid contract for Camp East Montana (Jul 28, 2026)](https://kfoxtv.com/news/local/ice-extends-no-bid-contract-for-camp-east-montana-rejecting-calls-for-closure)

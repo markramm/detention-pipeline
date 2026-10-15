@@ -21,7 +21,7 @@ tags:
 - federal-takeover-threat
 - commission-activity
 research_status: working
-last_researched: "2026-06-02"
+last_researched: "2026-10-14"
 ---
 
 # Oklahoma County: New Jail Financing Crisis Meets Enforcement Surge
@@ -87,6 +87,10 @@ in a state that is aggressively expanding immigration-detention capacity and 287
 deputization. The financing crisis creates precisely the fiscal incentive — and the
 governance vacuum — that makes county jails candidates for federal detention contracts.
 
+## Update (October 2026)
+
+The Criminal Justice Authority was still operating in July 2026: a Govly summary of its "Criminal Justice Authority Regular Meeting 07/13/2026" lists municipal jail services agreements with several cities at a standardized daily rate, a Benchmark contract for inmate services, acceptance of FY25-26 audited financials noting "a deficiency in cash reconciliations," and a trunk radio agreement with the City of Oklahoma City. The summary does not mention ICE, immigration or federal contracts. No evidence of completed dissolution was found. The October 14, 2026 citizens advisory board agenda could not be located on a fetchable page.
+
 ## Sources
 
 - [Bond Buyer: Oklahoma County jail cost soars to $835 million](https://www.bondbuyer.com/news/oklahoma-county-jail-cost-soars-to-835-million)
@@ -96,3 +100,4 @@ governance vacuum — that makes county jails candidates for federal detention c
 - [NonDoc: DA Behenna, Sheriff Johnson spar over jail transportation](https://nondoc.com/2026/05/11/da-vicki-behenna-sheriff-tommie-johnson-spar-over-ok-county-jail-transportation-issue/) (May 11, 2026)
 - [NonDoc: Lowe seeks state audit of OK County jail trust](https://nondoc.com/2026/03/02/lowe-seeks-state-audit-of-ok-county-jail-trust-other-commissioners-leery/) (Mar 2, 2026)
 - [News9: Proposed sales tax could prevent property tax spike for new jail](https://www.news9.com/oklahoma-city-news/proposed-sales-tax-could-prevent-property-tax-spike-for-new-oklahoma-county-jail)
+- [Govly: Criminal Justice Authority Regular Meeting (Jul 13, 2026)](https://app.govly.com/public/meetings/47861)
