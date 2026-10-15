@@ -8,7 +8,7 @@ fips: '05009'
 agency: 'Boone County Sheriff’s Office'
 model: 'WSO'
 signed_date: 'April 5, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'WSO model agreement signed April 5, 2026'
 tags:
@@ -26,4 +26,4 @@ County: Boone County
 State: AR
 FIPS: 05009
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

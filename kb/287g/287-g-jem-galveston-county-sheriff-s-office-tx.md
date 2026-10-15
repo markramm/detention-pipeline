@@ -8,7 +8,7 @@ fips: '48167'
 agency: 'Galveston County Sheriff‚Äôs Office'
 model: 'JEM'
 signed_date: 'June 8, 2020'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'JEM model agreement signed June 8, 2020'
 tags:
@@ -26,4 +26,4 @@ County: Galveston County
 State: TX
 FIPS: 48167
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

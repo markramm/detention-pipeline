@@ -8,7 +8,7 @@ fips: '01045'
 agency: 'Level Plains Police Department'
 model: 'TFM'
 signed_date: 'June 18, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'moderate'
 notes: 'TFM model agreement signed June 18, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Dale
 State: AL
 FIPS: 01045
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

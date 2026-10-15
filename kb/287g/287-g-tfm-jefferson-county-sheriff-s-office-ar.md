@@ -8,7 +8,7 @@ fips: '05069'
 agency: 'Jefferson County Sheriff’s Office'
 model: 'TFM'
 signed_date: 'September 10, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'TFM model agreement signed September 10, 2026'
 tags:
@@ -26,4 +26,4 @@ County: Jefferson County
 State: AR
 FIPS: 05069
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

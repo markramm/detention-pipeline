@@ -8,7 +8,7 @@ fips: '51079'
 agency: 'Greene County Sheriff’s Office'
 model: 'TFM'
 signed_date: 'May 8, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'TFM model agreement signed May 8, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Greene County
 State: VA
 FIPS: 51079
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

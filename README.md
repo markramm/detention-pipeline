@@ -40,7 +40,7 @@ A **convergence bonus** rewards signal diversity: +10 per signal type beyond 2, 
 | Source | Signal type | Count | Notes |
 |--------|------------|-------|-------|
 | [Vera Institute of Justice](https://www.vera.org) | IGSA Facilities | 1,189 | Full facility dataset with operators, bed counts, status |
-| [Prison Policy Initiative](https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/) | 287(g) Agreements | 1,311 | All three models: TFM, JEM, WSO |
+| [Prison Policy Initiative](https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/) | 287(g) Agreements | 2,467 | All three models: TFM, JEM, WSO |
 | [USAspending.gov](https://www.usaspending.gov) | ANC Contracts | 244 | Alaska Native Corp sole-source contracts |
 | [USAspending.gov](https://www.usaspending.gov) | ICE Contracts | 2,430 | All ICE/ERO contract awards |
 | [USDA ERS](https://www.ers.usda.gov) | Budget Distress | 1,090 | County typology codes + specific shortfall data |
@@ -87,7 +87,7 @@ detention-pipeline/
 ├── kb/                        # Knowledge base source (markdown + YAML frontmatter)
 │   ├── kb.yaml                # Schema: entry types, fields, validation rules
 │   ├── county_heat_scores.csv # Pre-computed heat scores with Legistar client IDs
-│   ├── 287g/                  # 287(g) agreements (1,311 entries)
+│   ├── 287g/                  # 287(g) agreements (2,467 entries)
 │   ├── anc/                   # Alaska Native Corporation contracts (244 entries)
 │   ├── budget/                # County budget distress indicators (1,090 entries)
 │   ├── commission/            # County commission activity

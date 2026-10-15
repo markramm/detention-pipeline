@@ -8,7 +8,7 @@ fips: '47141'
 agency: 'Putnam County Sheriff’s Office'
 model: 'JEM'
 signed_date: 'February 24, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'JEM model agreement signed February 24, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Putnam County
 State: TN
 FIPS: 47141
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

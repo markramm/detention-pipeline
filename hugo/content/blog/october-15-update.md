@@ -5,7 +5,7 @@ layout: single
 date: 2026-10-15
 summary: "DHS is selling its three Socorro warehouses, while San Antonio's mayor now backs legal action against the one warehouse still being renovated. Alligator Alcatraz is closed, and the 287(g) layer now reflects ICE data through September 30, which puts Oklahoma County in the top 20."
 author: "Mark Ramm"
-draft: true
+draft: false
 ---
 
 ## What Changed
@@ -20,7 +20,7 @@ draft: true
 
 ## Notable Signals
 
-**The 287(g) layer is current to September 30.** Prison Policy Initiative updated its [table of local 287(g) agreements](https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/) in October to ICE data "current as of September 30, 2026." The October 10 refresh added 1,156 agreements to the map. Two top counties moved:
+**The 287(g) layer is current to September 30.** Prison Policy Initiative updated its [table of local 287(g) agreements](https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/) in October to ICE data "current as of September 30, 2026." The October 10 refresh added 1,156 agreements to the map. Seventy-six of the map's 2,467 entries come from PPI's February 17 table and are not in the September one; they stay on the map, labeled with the February date. Two top counties moved:
 
 - [Oklahoma County, OK](/county/40109/) rose from 118 to 152 and entered the top 20. The Valley Brook police department (signed June 12) and the Warr Acres police department (signed September 4) are the county's first agreements on the map held by agencies inside the county.
 - [Harris County, TX](/county/48201/) rose from 156 to 168 on the Southside Place police department's agreement. We found no confirmed agreement for the Harris County Sheriff's Office.

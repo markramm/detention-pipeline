@@ -8,7 +8,7 @@ fips: '48463'
 agency: 'Uvalde County Sheriff’s Office'
 model: 'JEM'
 signed_date: 'November 14, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'JEM model agreement signed November 14, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Uvalde County
 State: TX
 FIPS: 48463
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

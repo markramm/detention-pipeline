@@ -8,7 +8,7 @@ fips: '22003'
 agency: 'Ward 5 Marshal’s Office'
 model: 'TFM'
 signed_date: 'December 15, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'moderate'
 notes: 'TFM model agreement signed December 15, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Allen Parish
 State: LA
 FIPS: 22003
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

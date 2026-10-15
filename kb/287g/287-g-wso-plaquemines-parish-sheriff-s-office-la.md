@@ -8,7 +8,7 @@ fips: '22075'
 agency: 'Plaquemines Parish Sheriff’s Office'
 model: 'WSO'
 signed_date: 'May 28, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'WSO model agreement signed May 28, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Plaquemines Parish
 State: LA
 FIPS: 22075
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.
