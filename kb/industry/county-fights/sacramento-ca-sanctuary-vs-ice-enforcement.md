@@ -18,8 +18,8 @@ tags:
 - city-council
 - state-capital
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: "2026-05-06"
+last_researched: "2026-10-14"
+last_news_check: "2026-10-14"
 fips: '06067'
 ---
 
@@ -99,6 +99,12 @@ Sacramento represents one of the clearest sanctuary-vs-enforcement battlegrounds
 - County: Sacramento County, CA (FIPS 06067)
 - Heatmap score: 85 (93rd percentile)
 
+## Update (October 2026)
+
+- **City-property resolution adopted (Apr 28, 2026).** California Globe (Apr 29, 2026): the council "passed a resolution Tuesday to uphold existing city policy. It directs the City Manager to develop a policy banning ICE and other federal officials from using city properties for 'civil immigration-enforcement activities.'" The article gives no vote count. It is a directive to staff, not an ordinance; no adopted policy text was found.
+- **Courthouse-arrest injunction widened to nationwide (Jun 2026).** Mission Local (Jun 24, 2026): Judge Casey Pitts (N.D. Cal.) ruled ICE can no longer arrest immigrants at hearings "anywhere in the country" and cannot "detain them for over 12 hours in short-term holding cells," expanding a December order limited to Northern California. The article does not mention Sacramento.
+- **No Sacramento-specific change found** for the Moss Building or Rio Cosumnes since April; searches for summer 2026 returned nothing local.
+
 ## Sources
 
 - [Matsui demands entry to Moss Building (matsui.house.gov)](https://matsui.house.gov/media/press-releases/matsui-demands-entry-ice-facilities-moss-federal-building-conduct)
@@ -114,3 +120,5 @@ Sacramento represents one of the clearest sanctuary-vs-enforcement battlegrounds
 - [Sacramento considers banning ICE operations on city-owned property (CBS Sacramento, Feb 2026)](https://www.cbsnews.com/sacramento/news/sacramento-considers-banning-ice-city-property/)
 - [After US Judge Blocks California's ICE Mask Ban, Wiener Says He Will Make It Enforceable (KQED, Feb 2026)](https://www.kqed.org/news/12072927/after-us-judge-blocks-californias-ice-mask-ban-scott-wiener-says-he-will-make-it-enforceable)
 - [That California Ban on Masked ICE Agents Just Got Struck Down (SFist, Apr 22, 2026)](https://sfist.com/2026/04/22/that-california-ban-on-masked-ice-agents-just-got-struck-down/)
+- [California Globe: Sacramento passes useless resolution to ban immigration enforcement on city-owned properties (Apr 29, 2026)](https://californiaglobe.com/uncategorized/sacramento-passes-useless-resolution-to-ban-immigration-enforcement-on-city-owned-properties/)
+- [Mission Local: Federal judge in California bans ICE from arresting immigrants at courthouses (Jun 24, 2026)](https://missionlocal.org/2026/06/judge-ice-courthouse-arrest-detention-lawsuit/)

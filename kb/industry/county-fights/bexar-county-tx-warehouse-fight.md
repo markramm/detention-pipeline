@@ -11,8 +11,8 @@ outcome: "Project on legal pause as of late April 2026 — NEPA litigation follo
 importance: 8
 tags: [warehouse-conversion, commissioners-court, community-opposition, legal-challenge, environmental-law, nepa, moratorium, student-protest, texas, san-antonio, east-side, hurson-precedent, trump-v-casa, jurisdictional-limits, moving-forward]
 research_status: working
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-10-14"
+last_news_check: "2026-10-14"
 ---
 
 # Bexar County: Broad Coalition Fights East Side ICE Warehouse
@@ -87,6 +87,10 @@ By mid-May 2026 the local "pause" narrative had collapsed. ICE confirmed the Oak
 - County resolution is non-binding; commissioners acknowledged limited direct authority.
 - Legal challenges focus on environmental review and procurement irregularities as the most viable avenues.
 
+## Update (October 2026)
+
+Oct 2, 2026: Mayor Gina Ortiz Jones backed legal action to halt renovation of the East Side facility after a Sept. 30 deadline for a federal response passed; Commissioner Tommy Calvert said "We are the last city and county to sue in the nation and the only city with an ICE facility moving forward" (TPR). Five council members support "litigation avenues"; no suit filed in the source. Context: DHS cancelled the Socorro (El Paso) warehouses Aug 11 but has not addressed San Antonio (Texas Tribune).
+
 ## Sources
 
 - [ICE protesters pack Bexar County Commissioners Court — TPR (Mar 10, 2026)](https://www.tpr.org/news/2026-03-10/ice-protesters-pack-bexar-county-commissioners-court)
@@ -108,3 +112,5 @@ By mid-May 2026 the local "pause" narrative had collapsed. ICE confirmed the Oak
 - [Can a zoning change stop the East Side ICE detention center? (TPR, Apr 19, 2026)](https://www.tpr.org/podcast/the-source/2026-04-19/can-a-zoning-change-stop-the-east-side-ice-detention-center)
 - [San Antonio ICE warehouse still moving forward, despite earlier claim (SA Current, May 15, 2026)](https://www.sacurrent.com/news/san-antonio-news/san-antonio-ice-warehouse-still-moving-forward-despite-earlier-claim/)
 - [ICE planning to add more San Antonio office space as workforce dramatically increases (The Real Deal, May 28, 2026)](https://therealdeal.com/texas/2026/05/28/ice-planning-to-add-more-san-antonio-office-space/)
+- [TPR: San Antonio mayor backs legal action to halt East Side ICE facility (Oct 2, 2026)](https://www.tpr.org/border-immigration/2026-10-02/san-antonio-mayor-backs-legal-action-to-halt-east-side-ice-facility)
+- [Texas Tribune: DHS to sell El Paso-area warehouses (Aug 11, 2026)](https://www.texastribune.org/2026/08/11/texas-ice-immigrant-detention-warehouse-socorro-el-paso/)

@@ -19,8 +19,8 @@ tags:
 - overcrowding
 - sanctuary-of-the-south
 research_status: working
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-10-14"
+last_news_check: "2026-10-14"
 ---
 
 # Miami-Dade FL: Krome Led the Country in Use of Force
@@ -39,9 +39,15 @@ Leaked ICE incident data published by *Reason* on **May 22, 2026** shows the **K
 
 Krome has faced sustained 2025-2026 reporting on **severe overcrowding** (rooms of 60-80 men with barely room to lie down), detainees forming **"SOS" and "libre"** with their bodies in the rec yard, and **deaths in custody** — including a Ukrainian man who died after allegedly falling ill at Krome without adequate care, prompting a planned wrongful-death suit. Attorney **Katie Blankenship** (Sanctuary of the South) is involved in several lawsuits challenging South Florida detention conditions. Miami Democrats have demanded facility tours.
 
+## Update (October 2026)
+
+After Alligator Alcatraz closed (announced June 25, 2026), Amnesty International states "Most people detained at 'Alligator Alcatraz' were transferred to other immigration detention centres," including Krome North (Amnesty, Jun 30). WUSF (Sep 15) reports "DHS also released a report about the Krome Detention Center" alongside the September OIG report on Alligator Alcatraz; the fetched text says inspectors found Krome 25 percent over capacity and out of compliance in several areas. The exact report date, inspection dates and findings were not verified from the OIG document itself. See [[fl-miami-dade-alligator-alcatraz]].
+
 ## Sources
 
 - [Reason: A Florida detention center was the harshest in the country, then ICE stopped tracking details on use of force (May 22, 2026)](https://reason.com/2026/05/22/a-florida-detention-center-was-the-harshest-in-the-country-then-ice-stopped-tracking-details-on-use-of-force/)
 - [WPTV: Immigration attorneys detail 'inhumane' conditions at Krome](https://www.wptv.com/wptv-investigates/immigration-attorneys-detail-inhumane-conditions-at-ices-krome-detention-center)
 - [CBS Miami: Detainees signal 'SOS' at Krome amid overcrowding allegations](https://www.cbsnews.com/miami/news/krome-detention-center-sos-immigration-miami-dade/)
 - [Miami Times: Miami Dems demand Krome tour amid reports of 'inhumane' conditions](https://www.miamitimesonline.com/news/local/miami-dems-demand-krome-detention-center-tour-amid-reports-of-inhumane-conditions/article_ad3196bb-4600-4464-a6b1-6b7840240740.html)
+- [Amnesty International Canada: USA, "Alligator Alcatraz" finally shut down (Jun 30, 2026)](https://amnesty.ca/urgent-actions/usa-alligator-alcatraz-finally-shut-down/)
+- [WUSF: Lawmakers react to report on substandard conditions at Alligator Alcatraz (Sep 15, 2026)](https://www.wusf.org/politics-issues/2026-09-15/lawmakers-react-to-new-report-outlining-substandard-conditions-for-detainees-alligator-alcatraz)

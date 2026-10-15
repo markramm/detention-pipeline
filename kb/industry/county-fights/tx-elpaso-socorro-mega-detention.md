@@ -27,8 +27,8 @@ tags:
   - aclu
   - measles-outbreak
 research_status: working
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-10-14"
+last_news_check: "2026-10-14"
 ---
 
 # El Paso TX: Camp East Montana Deaths + Socorro Mega-Warehouse Complex
@@ -124,6 +124,12 @@ The lawsuit seeks immediate processing of the records and an order preventing IC
 - **Socorro Mayor Rudy Cruz Jr.** — raised water and infrastructure objections publicly
 - **El Paso County Medical Examiner** — ruled Lunas Campos death a homicide, cause: asphyxia by neck/torso compression
 
+## Update (October 2026)
+
+- **Socorro warehouses cancelled (Aug 11, 2026):** Escobar announced DHS will transfer the three Socorro warehouses to GSA for sale; they "will no longer be used by the federal government for detention purposes" (Texas Tribune). Bisnow: ICE paid $123M for three buildings totaling 826K SF. No fetched source gives a reason for the reversal.
+- **Camp East Montana contract (Jul 28, 2026):** ICE plans to extend the no-bid contract of operator Amentum Services through Sept. 30, 2027, at a potential additional cost of $776 million on top of a $452 million initial award (KFOX). Reported March 2026 closure plans (Washington Post, internal ICE document) did not occur; DHS said then no decision had been made.
+- **Class action:** no ruling found in sources checked since the May 30 filing (W.D. Tex.).
+
 ## Sources
 
 - [Texas Tribune: ICE sued over "inhumane" conditions at Camp East Montana (May 30, 2026)](https://www.texastribune.org/2026/05/30/texas-ice-camp-east-montana-conditions-lawsuit/)
@@ -146,3 +152,6 @@ The lawsuit seeks immediate processing of the records and an order preventing IC
 - [KVIA: El Paso City Council votes to prevent ICE detention (Apr 13, 2026)](https://kvia.com/news/top-stories/2026/04/13/city-of-el-paso-to-discuss-take-action-to-prevent-ice-detention-centers-within-city-limits/)
 - [Public Citizen: Billion Dollar Collapse — Acquisition Logistics](https://www.citizen.org/article/billion-dollar-collapse/)
 - [Democracy Now: ICE custody deaths skyrocket (Apr 21, 2026)](https://www.democracynow.org/2026/4/21/ice_custody_deaths_ghandehari_detention_watch)
+- [Texas Tribune: DHS to sell El Paso-area warehouses (Aug 11, 2026)](https://www.texastribune.org/2026/08/11/texas-ice-immigrant-detention-warehouse-socorro-el-paso/)
+- [Bisnow: ICE to sell three El Paso warehouses (Aug 13, 2026)](https://www.bisnow.com/news/national/industrial/ice-to-sell-three-el-paso-warehouses-after-detention-center-conversion-plan-dissolves)
+- [KFOX: ICE extends no-bid contract for Camp East Montana (Jul 28, 2026)](https://kfoxtv.com/news/local/ice-extends-no-bid-contract-for-camp-east-montana-rejecting-calls-for-closure)

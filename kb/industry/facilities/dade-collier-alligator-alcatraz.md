@@ -13,8 +13,8 @@ status: closed
 importance: 10
 tags: [florida, desantis, alligator-alcatraz, everglades, state-operated, environmental-lawsuit, deaths-in-custody, conditions-abuse, black-site, trump-tour, closing-2026]
 research_status: stub
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-10-14"
+last_news_check: "2026-10-14"
 ---
 
 # Alligator Alcatraz — South Florida Detention Facility (Dade-Collier)
@@ -57,6 +57,10 @@ Detainees have described harrowing conditions:
 
 Alligator Alcatraz represents the state-operated detention model (see also [[camp-blanding-fl]]) — Florida building and running facilities under a DeSantis-Trump partnership, bypassing federal procurement and oversight systems. It is the most symbolically potent facility in the entire detention expansion, combining environmental destruction, documented abuse, legal black holes, and political spectacle (Trump toured the facility).
 
+## Update (October 2026)
+
+Closed. DeSantis said June 25, 2026 the facility held "zero detainees" (WFLX). A state declaration reported by Aviation Pros states "as of July 18, the demobilization of the site had been complete"; the state returned the airport to Miami-Dade County after August 11 inspections (FOX 13, Aug 13). A DHS OIG report released in September 2026 describes January 2026 findings of 18-square-foot metal cages and about 29 square feet of space per detainee against a 75 square-foot minimum (WUSF, Sep 15). See [[fl-miami-dade-alligator-alcatraz]].
+
 ## Sources
 
 - [First immigration detainees arrive at 'Alligator Alcatraz' — PBS](https://www.pbs.gov/newshour/nation/first-immigration-detainees-arrive-at-alligator-alcatraz-in-florida-everglades)
@@ -68,3 +72,7 @@ Alligator Alcatraz represents the state-operated detention model (see also [[cam
 - [CBS Miami: Facility to close as soon as June, vendors notified (May 2026)](https://www.cbsnews.com/miami/news/florida-alligator-alcatraz-closure-june-2026/)
 - [Florida Phoenix: 'Wound down and shut down' (May 27, 2026)](https://floridaphoenix.com/2026/05/27/wound-down-and-shut-down-florida-congressman-says-alligator-alcatraz-coming-to-an-end/)
 - [WFLX: Where are detainees going? California City, Fort Bliss (May 29, 2026)](https://www.wflx.com/2026/05/29/detainee-population-alligator-alcatraz-is-dropping-where-are-they-going/)
+- [WFLX: DeSantis announces Alligator Alcatraz has 'zero detainees' (Jun 25, 2026)](https://www.wflx.com/2026/06/25/gov-ron-desantis-holds-news-conference-alligator-alcatraz/)
+- [Aviation Pros: Alligator Alcatraz era formally ends as Miami-Dade takes back remote airport (Jul 28, 2026)](https://www.aviationpros.com/airport-business/airport-infrastructure-operations/news/55393438/alligator-alcatraz-era-formally-ends-as-miami-dade-takes-back-remote-airport)
+- [FOX 13: Alligator Alcatraz site given back to Miami-Dade County (Aug 13, 2026)](https://www.fox13news.com/news/alligator-alcatraz-site-given-back-miami-dade-county)
+- [WUSF: Lawmakers react to report on substandard conditions at Alligator Alcatraz (Sep 15, 2026)](https://www.wusf.org/politics-issues/2026-09-15/lawmakers-react-to-new-report-outlining-substandard-conditions-for-detainees-alligator-alcatraz)

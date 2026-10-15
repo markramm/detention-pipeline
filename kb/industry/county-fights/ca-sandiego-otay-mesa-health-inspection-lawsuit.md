@@ -28,8 +28,8 @@ tags:
   - lawson-remer
   - aguirre
 research_status: working
-last_researched: "2026-05-06"
-last_news_check: "2026-05-06"
+last_researched: "2026-10-14"
+last_news_check: "2026-10-14"
 ---
 
 # San Diego County CA: County Government Sues ICE Over Blocked Otay Mesa Inspection — Plus Multi-Front Sanctuary Conflict
@@ -131,6 +131,14 @@ The surrounding sanctuary-policy-erosion pattern (CLEAR ordinance vs. continued 
 - **California City CoreCivic conditions** (sister fight entry; same operator, similar conditions reporting)
 - **CoreCivic** organization profile — see industry section
 
+## Update (October 2026)
+
+- **Preliminary injunction (June 3, 2026).** Courthouse News reports U.S. District Judge James Simmons "granted the county's motion"; the order states "Defendants shall provide access to the facility sufficient for plaintiff to perform the health and safety inspection," under the Board of State and Community Corrections Title 15 minimum standards, with detainee-interview access at least equal to what the state Department of Justice received under AB 103. NBC San Diego (Jun 4, 2026): the facility "must allow San Diego County to conduct a health inspection of the Otay Mesa Detention Center by June 17," by "a team of up to four subject-matter experts – but not the supervisors themselves."
+- **Inspection done; findings.** KPBS (Sep 17, 2026): the county held an eight-hour inspection in June; conditions were "generally within recommended state standards for detention facilities," while an August county report faulted the facility for poor transparency about detainee health.
+- **Tuberculosis reporting dispute (Sep 17, 2026).** The county said the facility "waited three weeks to report the possible case, instead of the single day required by California law," and "issued the detention facility a notice of noncompliance and warned that continued violations may lead to professional licensing actions." Earlier TB cases were "discovered through a facility vendor that provides medical testing services."
+- **Case status.** No final judgment; "County attorneys are preparing for an Early Neutral Evaluation in federal court in early October" (KPBS).
+- **Ownership change.** NBC San Diego (Jul 6, 2026): CoreCivic "sold two of its California detention facilities to the federal government" (Otay Mesa and California City) for $1.5 billion in total; CoreCivic continues to manage both under existing ICE contracts. See [[otay-mesa-dc-san-diego-ca]].
+
 ## Sources
 
 ### Federal lawsuit
@@ -169,3 +177,9 @@ The surrounding sanctuary-policy-erosion pattern (CLEAR ordinance vs. continued 
 - [ICE: Otay Mesa Detention Center](https://www.ice.gov/detain/detention-facilities/otay-mesa-detention-center)
 - [CoreCivic: Otay Mesa Detention Center](https://www.corecivic.com/facilities/otay-mesa-detention-center)
 - [Vera Institute / GitHub: ICE detention trends](https://github.com/vera-institute/ice-detention-trends)
+
+### October 2026 update sources
+- [Courthouse News: San Diego-area ICE facility must allow health inspections (Jun 2026)](https://www.courthousenews.com/san-diego-area-ice-facility-must-allow-health-inspections/)
+- [NBC San Diego: Judge rules San Diego County can inspect Otay Mesa Detention Center (Jun 4, 2026)](https://www.nbcsandiego.com/news/local/judge-rules-san-diego-county-can-inspect-otay-mesa-detention-center/4033135/)
+- [KPBS: San Diego County threatens licensing action after Otay Mesa Detention Center conceals suspected TB case (Sep 17, 2026)](https://www.kpbs.org/news/health/2026/09/17/san-diego-county-threatens-licensing-action-after-otay-mesa-detention-center-conceals-suspected-tb-case)
+- [NBC San Diego: CoreCivic sells Otay Mesa Detention Center for billion-dollar deal (Jul 6, 2026)](https://www.nbcsandiego.com/news/local/corecivic-sells-otay-mesa-detention-center-for-billion-dollar-deal/4045434/)
