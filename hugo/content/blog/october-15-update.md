@@ -1,8 +1,8 @@
 ---
-title: "Pipeline Update: October 14, 2026"
+title: "Pipeline Update: October 15, 2026"
 type: blog
 layout: single
-date: 2026-10-14
+date: 2026-10-15
 summary: "DHS is selling its three Socorro warehouses, while San Antonio's mayor now backs legal action against the one warehouse still being renovated. Alligator Alcatraz is closed, and the 287(g) layer now reflects ICE data through September 30, which puts Oklahoma County in the top 20."
 author: "Mark Ramm"
 draft: true
