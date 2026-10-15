@@ -8,7 +8,7 @@ fips: '32003'
 agency: 'Las Vegas Metropolitan Police Department'
 model: 'WSO'
 signed_date: 'June 16, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'moderate'
 notes: 'WSO model agreement signed June 16, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Clark County
 State: NV
 FIPS: 32003
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

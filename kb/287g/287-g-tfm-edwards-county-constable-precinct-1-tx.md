@@ -8,7 +8,7 @@ fips: '48137'
 agency: 'Edwards County Constable Precinct 1'
 model: 'TFM'
 signed_date: 'May 21, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'moderate'
 notes: 'TFM model agreement signed May 21, 2026'
 tags:
@@ -26,4 +26,4 @@ County: Edwards County
 State: TX
 FIPS: 48137
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

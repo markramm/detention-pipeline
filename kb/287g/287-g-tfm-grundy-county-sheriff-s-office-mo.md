@@ -8,7 +8,7 @@ fips: '29079'
 agency: 'Grundy County Sheriff’s Office'
 model: 'TFM'
 signed_date: 'January 26, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'TFM model agreement signed January 26, 2026'
 tags:
@@ -26,4 +26,4 @@ County: Grundy County
 State: MO
 FIPS: 29079
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

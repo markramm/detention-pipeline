@@ -8,7 +8,7 @@ fips: '39023'
 agency: 'Tremont City Police Department'
 model: 'TFM'
 signed_date: 'August 12, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'moderate'
 notes: 'TFM model agreement signed August 12, 2026'
 tags:
@@ -26,4 +26,4 @@ County: Clark County
 State: OH
 FIPS: 39023
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

@@ -8,7 +8,7 @@ fips: '40101'
 agency: 'Muskogee County Sheriff’s Office'
 model: 'WSO'
 signed_date: 'April 16, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'WSO model agreement signed April 16, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Muskogee County
 State: OK
 FIPS: 40101
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

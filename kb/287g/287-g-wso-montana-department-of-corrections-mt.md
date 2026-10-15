@@ -8,7 +8,7 @@ fips: '30049'
 agency: 'Montana Department of Corrections'
 model: 'WSO'
 signed_date: 'August 25, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'moderate'
 notes: 'WSO model agreement signed August 25, 2026'
 tags:
@@ -26,4 +26,4 @@ County: Lewis and Clark County
 State: MT
 FIPS: 30049
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

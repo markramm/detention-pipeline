@@ -8,7 +8,7 @@ fips: '18113'
 agency: 'Noble County Sheriff’s Office'
 model: 'WSO'
 signed_date: 'March 26, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'WSO model agreement signed March 26, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Noble County
 State: IN
 FIPS: 18113
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

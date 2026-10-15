@@ -8,7 +8,7 @@ fips: '13115'
 agency: 'Floyd County Sheriff’s Office'
 model: 'JEM'
 signed_date: 'June 10, 2020'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'JEM model agreement signed June 10, 2020'
 tags:
@@ -26,4 +26,4 @@ County: Floyd County
 State: GA
 FIPS: 13115
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

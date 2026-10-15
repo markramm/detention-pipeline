@@ -8,7 +8,7 @@ fips: '37183'
 agency: 'North Carolina Department of Adult Correction'
 model: 'WSO'
 signed_date: 'September 29, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'moderate'
 notes: 'WSO model agreement signed September 29, 2026'
 tags:
@@ -26,4 +26,4 @@ County: Wake County
 State: NC
 FIPS: 37183
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

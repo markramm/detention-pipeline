@@ -8,7 +8,7 @@ fips: '45083'
 agency: 'Duncan Police Department'
 model: 'TFM'
 signed_date: 'June 11, 2025'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'moderate'
 notes: 'TFM model agreement signed June 11, 2025'
 tags:
@@ -26,4 +26,4 @@ County: Spartanburg
 State: SC
 FIPS: 45083
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

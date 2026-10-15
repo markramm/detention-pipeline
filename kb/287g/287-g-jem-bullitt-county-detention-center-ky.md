@@ -27,3 +27,4 @@ State: KY
 FIPS: 21029
 
 Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Not listed in PPI's updated table (current as of September 30, 2026).

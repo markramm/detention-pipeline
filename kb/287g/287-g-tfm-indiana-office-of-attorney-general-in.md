@@ -8,7 +8,7 @@ fips: '18097'
 agency: 'Indiana Office of Attorney General'
 model: 'TFM'
 signed_date: 'September 25, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'moderate'
 notes: 'TFM model agreement signed September 25, 2026'
 tags:
@@ -26,4 +26,4 @@ County: Marion County
 State: IN
 FIPS: 18097
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.

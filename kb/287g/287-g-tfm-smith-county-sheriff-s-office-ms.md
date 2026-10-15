@@ -8,7 +8,7 @@ fips: '28129'
 agency: 'Smith County Sheriff’s Office'
 model: 'TFM'
 signed_date: 'April 21, 2026'
-source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-02-17'
+source: 'Prison Policy Initiative (prisonpolicy.org), compiled from ICE data, as of 2026-09-30'
 signal_strength: 'strong'
 notes: 'TFM model agreement signed April 21, 2026'
 tags:
@@ -26,4 +26,4 @@ County: Smith County
 State: MS
 FIPS: 28129
 
-Source: Prison Policy Initiative appendix table, compiled from ICE data as of Feb 17, 2026.
+Source: Prison Policy Initiative appendix table, compiled from ICE data as of September 30, 2026.
