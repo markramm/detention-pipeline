@@ -94,7 +94,7 @@ If a county attorney can unilaterally sign ICE agreements over the objections of
 ## Update (October 2026)
 
 - **No appeal found; sheriff's agreement separate.** No reporting of a notice of appeal or new County Attorney agreement after the May 15, 2026 judgment was found (searches only; no court record checked).
-- **Florence expansion.** A $1.2 billion GardaWorld Federal Services award to expand ICE's Florence facilities was reported Sep 22-25, 2026, sourced to Project Salt Box and not yet on USAspending.gov. See [[florence-service-processing-center-pinal-az]].
+- **Florence expansion.** On Sep 20, 2026 ICE signed a construction IDIQ with GardaWorld Federal Services for Florence, first reported Sep 22-25 from Project Salt Box. USAspending lists it as [70CMSW26D00000014](https://www.usaspending.gov/award/CONT_IDV_70CMSW26D00000014_7012): a $1.2 billion ceiling, of which $10,000 has been obligated (one guaranteed-minimum task order, Sep 22). The ceiling is the most ICE may order, not money spent. See [[florence-service-processing-center-pinal-az]].
 - **Measles at Florence.** Tucson.com (Jul 8, 2026): federal officials confirmed "seven active cases of measles at an Arizona immigration detention center," the Florence Detention Center, among 16 cases in Pinal County.
 
 ## Sources
