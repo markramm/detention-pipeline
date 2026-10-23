@@ -114,7 +114,7 @@ Across all 11 warehouse sellers:
 |--------|-----------|-------|--------|-------------------------------------|
 | Rockefeller (Mitsubishi) | Surprise AZ | $70M | 483% | 5 (McGranahan/GSA, Shapiro/Commerce, Berkowitz/DOD) |
 | Fundrise (Goldman refi) | Williamsport MD | $102.4M | 33% | 3 direct + 206 Goldman results |
-| **PNK Group** | Social Circle GA | $128.6M | 333% | 0 (Russia-founded, not in disclosures) |
+| **PNK Group** | Social Circle GA | $128.6M | n/a (the $29.8M county assessment, as of Jan 1, 2025, predates the building's completion) | 0 (Russia-founded, not in disclosures) |
 | **Blue Owl** | Tremont PA | $119.5M | ~100% | **33** (Trump, Phelan/SecNav, Rogers/Navy, Gould/OCC) |
 | Flint Development | Socorro TX | $122.8M | 55% | 0 |
 | PCCP | Upper Bern PA | $87.4M | 52% | 0 |

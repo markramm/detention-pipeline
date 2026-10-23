@@ -28,12 +28,14 @@ Michael Wriston, a Project Salt Box researcher, explained their methodology: "In
 
 | Location | DHS Price | Prior Valuation | Markup |
 |----------|-----------|----------------|--------|
-| Social Circle, GA | $129M | $29M | 333% |
+| Social Circle, GA | $129M | $29M (county assessment as of Jan 1, 2025; building not complete, no certificate of occupancy) | 333% (Salt Box's figure; not like-for-like, see note) |
 | Surprise, AZ | $70M | $12M (2023) | ~500% |
 | Socorro, TX | $123M | $11M | ~1000% |
 | Tremont, PA | $119M | ~$60M est. | ~200% |
 | Roxbury, NJ | $129.3M | market value | 137% over |
 | Salt Lake City, UT | $145M | ~$95M est. | 50%+ over |
+
+*Note on Social Circle:* the Walton County assessment was set as of January 1, 2025. The county's chief appraiser told the AJC (Mar 23, 2026) the figure was low because the building "was not complete and a certificate of occupancy was not issued" at the time, so comparing it with the February 2026 sale price of a finished building is not like-for-like. The 333% is Project Salt Box's figure, reported by More Perfect Union.
 
 ### Tools
 

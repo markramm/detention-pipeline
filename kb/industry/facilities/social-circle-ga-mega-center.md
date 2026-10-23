@@ -14,9 +14,8 @@ importance: 9
 tags: [warehouse-conversion, detention-reengineering, mega-center, georgia, water-crisis, community-opposition, infrastructure-limits]
 research_status: working
 last_researched: "2026-06-02"
-purchase_price: "$129 million"
-estimated_value: "$29 million"
-markup: "333%"
+purchase_price: "$128,555,500"
+assessed_value: "$29,786,800 (county assessment as of Jan 1, 2025; building not complete, no certificate of occupancy)"
 fips: '13297'
 ---
 
@@ -24,22 +23,26 @@ fips: '13297'
 
 ## Overview
 
-ICE purchased a warehouse in Social Circle, Georgia — approximately 50 miles east of Atlanta — as one of eight planned **mega detention centers** with capacity for **7,500-10,000 detainees**. The facility spans roughly **one million square feet**. The planned capacity would be approximately **twice the town's existing population**.
+DHS purchased a warehouse in Social Circle, Georgia — approximately 50 miles east of Atlanta — as one of eight planned **mega detention centers** with capacity for **7,500-10,000 detainees**. The facility spans roughly **one million square feet**. The planned capacity would be approximately **twice the town's existing population**.
 
 ## Key Details
 
 - **Planned capacity**: 7,500-10,000 beds
 - **Facility size**: ~1 million sq ft
 - **Facility type**: Large-scale mega-center (one of 8)
-- **Target completion**: By October 2026
+- **Target completion** (DHS plan, since dropped): By October 2026
 - **Sewage demand**: 1,001,683 gallons/day (per DHS documents)
 
 ## Financial Details (More Perfect Union, April 2026)
 
-- **Purchase price**: $129 million
-- **Prior valuation**: $29 million
-- **Markup**: 333% overpayment (per Project Salt Box)
-- This is one of the most extreme documented overpayments in the ICE warehouse program
+- **Purchase price**: $128,555,500 (about $128.6M), paid on or around Feb 3, 2026 (deed consideration per Covington News, Feb 10, 2026)
+- **County assessment**: $29,786,800 as of January 1, 2025. According to the county's chief appraiser, the building "was not complete and a certificate of occupancy was not issued" at the time of that assessment (AJC, Mar 23, 2026). The assessment and the sale price describe different states of the property, so the gap between them is not a like-for-like markup.
+- **Seller's land purchase**: PNK S1 LLC bought the vacant land for $29,392,500 in 2023 and built the warehouse. Construction cost is undisclosed. See [[pnk-group]].
+- Project Salt Box and More Perfect Union (April 2026) put the markup at 333%, comparing the sale price to a roughly $29 million prior valuation; that comparison inherits the timing problem above.
+
+## Status: plan dropped (June 2026)
+
+On June 18, 2026 CBS News Atlanta reported that Homeland Security had cancelled the plan for an ICE detention facility in Social Circle, according to city leaders; the city said Rep. Collins notified it that DHS "is no longer pursuing an ICE detention facility within the City of Social Circle." There is no evidence the building was ever converted or used. The sections below describe the plan as it stood through early June 2026.
 
 ## Infrastructure Crisis
 
