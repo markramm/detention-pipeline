@@ -31,7 +31,7 @@ Here is what the wave looked like across six sites with confirmed federal purcha
 | [Upper Bern, PA](/fights/pa-berks-upper-bern-ice-warehouse/) | Feb 2, 2026 | $87.4M | 518,140 | 1,500 | PCCP LLC | DEP orders; EHB appeal |
 | [Socorro, TX](/fights/tx-elpaso-socorro-mega-detention/) | Jan 17, 2026 | $123M | ~888,000 (3 bldgs) | 8,500 | El Paso Logistics II LLC (Delaware) | FOIA lawsuit; zoning fight |
 | [McAllen, TX](/fights/tx-hidalgo-mcallen-ice-warehouse/) | Early 2026 | $66M+ | 640,000 | 500 | — | Mullin pause |
-| [Social Circle, GA](/fights/social-circle-ga-water-shutoff/) | Jan 2026 | $128.5M | — | 7,500–10,000 | — | Water locked; Mullin pause |
+| [Social Circle, GA](/fights/social-circle-ga-water-shutoff/) | Feb 2026 | $128.6M | — | 7,500–10,000 | — | Water locked; Mullin pause; plan dropped Jun 2026 |
 | [Salt Lake City, UT](/fights/salt-lake-city-ut-mega-center-fight/) | Mar 12, 2026 | $145.4M | 833,000 | 7,500–10,000 | R-REEF CPIF (Delaware) | Water restricted; Mullin pause |
 | [Romulus, MI](/fights/romulus-mi-warehouse-fight/) | Feb 2026 | $34.7M | — | 500 | — | AG + city lawsuit; Mullin pause |
 
@@ -71,7 +71,7 @@ Governor Josh Shapiro's administration framed the orders deliberately — not as
 
 The infrastructure problem wasn't limited to Pennsylvania.
 
-In **Social Circle, Georgia**, where DHS purchased a warehouse in January 2026 for **$128.5 million** with plans for up to 10,000 beds, the city locked the water meter on **March 17, 2026**. The math: the facility's projected sewage demand was approximately 1 million gallons per day. The city's entire wastewater treatment capacity was 660,000 gallons per day. There was no engineering solution the city was obligated to provide.
+In **Social Circle, Georgia**, where DHS purchased a warehouse in February 2026 for **$128.6 million** with plans for up to 10,000 beds, the city locked the water meter on **March 17, 2026**. The math: the facility's projected sewage demand was approximately 1 million gallons per day. The city's entire wastewater treatment capacity was 660,000 gallons per day. There was no engineering solution the city was obligated to provide.
 
 In **Socorro, Texas**, the three-building Eastwind Logistics Center complex purchased by DHS for **$123 million** sits within the service area of the **Lower Valley Water District**, which serves approximately 21,000 customers across a region that already lacks adequate water and sewer infrastructure for existing residents. Socorro Mayor Rudy Cruz Jr. put it plainly: "We in the city of Socorro have many residents who still don't have adequate water or sewer systems and now [DHS] is planning to put 8,500 people — plus all the contractors and staff — in our water system?" State Rep. **Vincent Perez** invoked the 2023 **Ciudad Juárez detention center fire** that killed 40 people as a cautionary example of what happens when large facilities lack adequate water pressure for fire suppression.
 
