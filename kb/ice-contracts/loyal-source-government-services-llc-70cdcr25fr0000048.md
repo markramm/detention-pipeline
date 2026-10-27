@@ -1,14 +1,24 @@
 ---
 id: loyal-source-government-services-llc-70cdcr25fr0000048
-title: LOYAL SOURCE GOVERNMENT SERVICES LLC — 70CDCR25FR0000048 (FL) $250
+title: 'LOYAL SOURCE GOVERNMENT SERVICES LLC — 70CDCR25FR0000048 (FL) $250'
 type: ice-contract
+state: 'FL'
+contractor: 'LOYAL SOURCE GOVERNMENT SERVICES LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$250.00'
+contract_type: 'federal-contract'
+award_date: '2025-05-17'
+usaspending_id: '70CDCR25FR0000048'
+source: 'USAspending.gov (award 70CDCR25FR0000048)'
+signal_strength: 'strong'
+notes: 'THIS IS A TASK ORDER FOR THE MINIMUM OBLIGATION UNDER THE MULTIPLE-AWARD STRATEGIC SOURCING VEHICLE COVERING MEDICAL RELATED SERVICES FOR ALIENS IN IMMIGRATION AND CUSTOMS ENFORCEMENT CUSTODY IN RESPONSE TO THE BORDER EMERGENCY.'
 tags:
 - ice-contract
 - other
 - detention-related
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.

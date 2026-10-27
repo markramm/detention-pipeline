@@ -1,0 +1,33 @@
+---
+id: global-consulting-international-incorporated-70cmsd27fr0000001
+title: 'GLOBAL CONSULTING INTERNATIONAL, INCORPORATED — 70CMSD27FR0000001 (UT) $469,704'
+type: ice-contract
+state: 'UT'
+contractor: 'GLOBAL CONSULTING INTERNATIONAL, INCORPORATED'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$469,703.50'
+contract_type: 'federal-contract'
+award_date: '2026-10-30'
+usaspending_id: '70CMSD27FR0000001'
+source: 'USAspending.gov (award 70CMSD27FR0000001)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS CONTRACT IS TO SUPPORT THE OFFICE OF THE PRINCIPAL LEGAL ADVISOR THROUGH REGULATORY AFFAIRS SUPPORT SERVICES TO PROVIDE SPECIALIZED LABOR CATEGORIES SPECIFICALLY FOR REGULATORY SUPPORT AND ANALYSIS.'
+tags:
+- ice-contract
+- other
+- other-ice
+- ut
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: GLOBAL CONSULTING INTERNATIONAL, INCORPORATED
+Award ID: 70CMSD27FR0000001
+Amount: $469,703.50
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THE PURPOSE OF THIS CONTRACT IS TO SUPPORT THE OFFICE OF THE PRINCIPAL LEGAL ADVISOR THROUGH REGULATORY AFFAIRS SUPPORT SERVICES TO PROVIDE SPECIALIZED LABOR CATEGORIES SPECIFICALLY FOR REGULATORY SUPPORT AND ANALYSIS.
+Period: 2026-10-30 to 2027-10-29
+Location: None, UT
