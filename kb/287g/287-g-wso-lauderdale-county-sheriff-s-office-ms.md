@@ -1,0 +1,33 @@
+---
+id: 287-g-wso-lauderdale-county-sheriff-s-office-ms
+title: '287(g) WSO: Lauderdale County Sheriff''s Office (MS)'
+type: 287g-agreement
+county: 'Lauderdale County'
+state: 'MS'
+fips: '28075'
+agency: 'Lauderdale County Sheriff''s Office'
+agency_type: 'County'
+model: 'WSO'
+signed_date: 'July 31, 2025'
+source: 'ICE 287(g) participating agencies roster (ice.gov/identify-and-arrest/287g), as of 2026-10-28'
+source_kind: 'ice-live'
+source_as_of: '2026-10-28'
+source_url: 'https://www.ice.gov/identify-and-arrest/287g'
+signal_strength: 'strong'
+notes: 'WSO model agreement signed July 31, 2025'
+tags:
+- 287g
+- wso
+- ms
+importance: 5
+---
+
+287(g) agreement between ICE and Lauderdale County Sheriff's Office.
+
+Model: WSO
+Signed: July 31, 2025
+County: Lauderdale County
+State: MS
+FIPS: 28075
+
+Source: ICE 287(g) participating agencies roster, as of October 28, 2026 2:04 pm.

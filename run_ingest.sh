@@ -6,6 +6,7 @@
 # Usage:
 #   ./run_ingest.sh              # run everything
 #   ./run_ingest.sh --skip-287g  # skip 287(g) (already fully ingested)
+#   ./run_ingest.sh --287g-source ppi  # 287(g) from the frozen Prison Policy table (default: ice)
 #   ./run_ingest.sh --only legistar  # run only one source
 #   ./run_ingest.sh --dry-run    # preview without importing
 #   ./run_ingest.sh --no-build   # ingest only, skip site rebuild
@@ -19,10 +20,12 @@ ONLY=""
 DRY_RUN=""
 NO_BUILD=false
 DAYS=180
+SOURCE_287G=ice
 
 while [[ $# -gt 0 ]]; do
   case $1 in
     --skip-287g) SKIP_287G=true; shift ;;
+    --287g-source) SOURCE_287G="$2"; shift 2 ;;
     --only) ONLY="$2"; shift 2 ;;
     --dry-run) DRY_RUN="--dry-run"; shift ;;
     --no-build) NO_BUILD=true; shift ;;
@@ -71,11 +74,13 @@ if should_run "legistar"; then
 fi
 
 # ── 2. 287(g) agreements ──
-# Note: ingest_287g.py scrapes Prison Policy Initiative HTML directly (no
-# date-windowed API), so it has no --days flag — don't pass $DAYS here.
+# ingest_287g.py reads ICE's live participating-agencies roster (link
+# discovered from ice.gov/identify-and-arrest/287g on every run); --source ppi
+# reads the frozen Prison Policy Initiative table instead. Neither has a
+# date window, so no --days flag — don't pass $DAYS here.
 if should_run "287g" && [ "$SKIP_287G" = false ]; then
   echo "── 287(g) agreements ──"
-  python3 "$SCRIPTS_DIR/ingest_287g.py" $DRY_RUN --output /tmp/287g_agreements.json
+  python3 "$SCRIPTS_DIR/ingest_287g.py" --source "$SOURCE_287G" $DRY_RUN --output /tmp/287g_agreements.json
   INGEST_287G_STATUS=$?
   if [ "$INGEST_287G_STATUS" -eq 0 ]; then
     if [ -z "$DRY_RUN" ] && [ -f /tmp/287g_agreements.json ]; then
