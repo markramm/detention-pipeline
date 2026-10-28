@@ -6,7 +6,7 @@ Early-warning system for ICE detention facility expansion. Tracks signal converg
 
 - **Hugo static site** at `hugo/` — builds and deploys via GitHub Actions on push to main
 - **Knowledge base** at `kb/` — markdown entries with YAML frontmatter, organized by signal type
-- **Ingestion scripts** at `kb/scripts/` — pull data from USAspending, Vera, Prison Policy Initiative, Legistar, etc.
+- **Ingestion scripts** at `kb/scripts/` — pull data from USAspending, Vera, ICE (287(g) roster; Prison Policy Initiative kept as history), Legistar, etc.
 - **Build pipeline** — `run_ingest.sh` (data) → `county_heat_score.py` (scoring) → `hugo` (site)
 - **Site URL**: https://detention-pipeline.transparencycascade.org/
 

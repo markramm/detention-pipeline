@@ -37,7 +37,8 @@ FRONTMATTER_FIELDS = [
     "address", "sqft", "owner", "owner_type", "property_type", "status",
     "sheriff_name", "conference", "indicator_type", "speaker",
     "bill_number", "bill_title", "sponsor", "effect",
-    "source", "source_url", "signal_strength", "notes",
+    "source", "source_kind", "source_as_of", "ppi_as_of", "source_url",
+    "signal_strength", "notes",
 ]
 
 # Pyrite's max slug length — entries previously imported through Pyrite
