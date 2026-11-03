@@ -1,14 +1,24 @@
 ---
 id: kinro-manufacturing-llc-70cdcr25p00000037
-title: KINRO MANUFACTURING LLC — 70CDCR25P00000037 (MD) $233,460
+title: 'KINRO MANUFACTURING LLC — 70CDCR25P00000037 (MD) $233,460'
 type: ice-contract
+state: 'MD'
+contractor: 'KINRO MANUFACTURING LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$233,460.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-19'
+usaspending_id: '70CDCR25P00000037'
+source: 'USAspending.gov (award 70CDCR25P00000037)'
+signal_strength: 'strong'
+notes: 'THIS PURCHASE ORDER IS TO PROVIDE MEAL READY TO EAT (MRES) FOR BALTIMORE AOR DETAINEES.'
 tags:
 - ice-contract
 - other
 - detention-related
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

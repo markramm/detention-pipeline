@@ -1,12 +1,12 @@
 ---
 id: gap-solutions-inc-70cmsd24fr0000047
-title: 'GAP SOLUTIONS, INC. — 70CMSD24FR0000047 (VA) $39,333,596'
+title: 'GAP SOLUTIONS, INC. — 70CMSD24FR0000047 (VA) $39,333,555'
 type: ice-contract
 state: 'VA'
 contractor: 'GAP SOLUTIONS, INC.'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$39,333,595.99'
+contract_value: '$39,333,554.84'
 contract_type: 'federal-contract'
 award_date: '2024-07-08'
 usaspending_id: '70CMSD24FR0000047'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: GAP SOLUTIONS, INC.
 Award ID: 70CMSD24FR0000047
-Amount: $39,333,595.99
+Amount: $39,333,554.84
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: PROCURE HUMAN RESOURCES SUPPORT SERVICES TO ASSIST ICE OFFICE OF HUMAN CAPITAL (OHC)

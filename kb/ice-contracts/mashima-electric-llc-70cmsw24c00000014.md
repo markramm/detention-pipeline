@@ -1,14 +1,24 @@
 ---
 id: mashima-electric-llc-70cmsw24c00000014
-title: MASHIMA ELECTRIC LLC — 70CMSW24C00000014 (HI) $88,438
+title: 'MASHIMA ELECTRIC LLC — 70CMSW24C00000014 (HI) $88,438'
 type: ice-contract
+state: 'HI'
+contractor: 'MASHIMA ELECTRIC LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$88,438.09'
+contract_type: 'federal-contract'
+award_date: '2024-07-19'
+usaspending_id: '70CMSW24C00000014'
+source: 'USAspending.gov (award 70CMSW24C00000014)'
+signal_strength: 'weak'
+notes: 'EXTERIOR LIGHTING UPGRADE AT THE HONOLULU (HNL) INSTITUTIONAL REMOVAL PROGRAM (IRP)'
 tags:
 - ice-contract
 - other
 - other-ice
 - hi
 importance: 5
-state: 'HI'
 ---
 
 ICE contract award.

@@ -1,12 +1,12 @@
 ---
 id: low-kountry-ink-mobile-notary-llc-70cdcr25fr0000098
-title: 'LOW KOUNTRY INK MOBILE NOTARY LLC — 70CDCR25FR0000098 (CA) $226,959'
+title: 'LOW KOUNTRY INK MOBILE NOTARY LLC — 70CDCR25FR0000098 (CA) $244,685'
 type: ice-contract
 state: 'CA'
 contractor: 'LOW KOUNTRY INK MOBILE NOTARY LLC'
 contractor_type: 'other'
 contract_class: 'detention-related'
-contract_value: '$226,959.27'
+contract_value: '$244,685.23'
 contract_type: 'federal-contract'
 award_date: '2025-09-01'
 usaspending_id: '70CDCR25FR0000098'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: LOW KOUNTRY INK MOBILE NOTARY LLC
 Award ID: 70CDCR25FR0000098
-Amount: $226,959.27
+Amount: $244,685.23
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS DELIVERY ORDER IS ISSUED TO PROVIDE AND DELIVER MEALS TO ICE DETAINEES WITHIN THE SAN DIEGO AREA OF RESPONSIBILITY.
