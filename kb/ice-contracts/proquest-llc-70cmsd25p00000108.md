@@ -1,14 +1,24 @@
 ---
 id: proquest-llc-70cmsd25p00000108
-title: PROQUEST LLC — 70CMSD25P00000108 (TX) $58,363
+title: 'PROQUEST LLC — 70CMSD25P00000108 (TX) $58,363'
 type: ice-contract
+state: 'TX'
+contractor: 'PROQUEST LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$58,362.77'
+contract_type: 'federal-contract'
+award_date: '2025-08-21'
+usaspending_id: '70CMSD25P00000108'
+source: 'USAspending.gov (award 70CMSD25P00000108)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES THE ICE-OFFICE OF PRINCIPAL LEGAL ADVISOR WITH SUBSCRIPTION SERVICES TO DIGITAL CONTENT COLLECTIONS, INCLUDING DISSERTATIONS, THESIS, EBOOKS, JOURNALS, AND NEWSPAPERS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

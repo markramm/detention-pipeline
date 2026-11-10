@@ -29,5 +29,5 @@ Amount: $663,304.04
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROCURES FURNITURE, DESIGN, INSTALLATION, AND ASSOCIATED SERVICES FOR THE OFFICE OF PRINCIPAL LEGAL ADVISOR (OPLA).
-Period: 2026-07-10 to 2026-10-30
+Period: 2026-07-10 to 2027-04-30
 Location: None, MD

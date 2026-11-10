@@ -1,12 +1,12 @@
 ---
 id: steampunk-inc-70ctd023fr0000053
-title: 'STEAMPUNK, INC. — 70CTD023FR0000053 (DC) $146,933,355'
+title: 'STEAMPUNK, INC. — 70CTD023FR0000053 (DC) $147,089,625'
 type: ice-contract
 state: 'DC'
 contractor: 'STEAMPUNK, INC.'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$146,933,354.53'
+contract_value: '$147,089,624.66'
 contract_type: 'federal-contract'
 award_date: '2023-07-20'
 usaspending_id: '70CTD023FR0000053'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: STEAMPUNK, INC.
 Award ID: 70CTD023FR0000053
-Amount: $146,933,354.53
+Amount: $147,089,624.66
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD IS FOR SECURITY ASSURANCE SUPPORT SERVICES (SASS) II

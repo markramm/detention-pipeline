@@ -1,14 +1,24 @@
 ---
 id: genesis-one-three-llc-70cmsd25p00000086
-title: GENESIS ONE THREE, LLC — 70CMSD25P00000086 (CO) $11,408
+title: 'GENESIS ONE THREE, LLC — 70CMSD25P00000086 (CO) $11,408'
 type: ice-contract
+state: 'CO'
+contractor: 'GENESIS ONE THREE, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$11,408.00'
+contract_type: 'federal-contract'
+award_date: '2025-08-18'
+usaspending_id: '70CMSD25P00000086'
+source: 'USAspending.gov (award 70CMSD25P00000086)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ELECTRICAL SERVICES REQUIRED TO BUILD OUT ADDITIONAL CUBICAL WORKSPACE TO SUPPORT NEW HIRES FOR ICE HOMELAND SECURITY INVESTIGATIONS DENVER ROCKY MOUNTAIN TRAINING CENTER.'
 tags:
 - ice-contract
 - other
 - other-ice
 - co
 importance: 5
-state: 'CO'
 ---
 
 ICE contract award.

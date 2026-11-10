@@ -29,5 +29,5 @@ Amount: $2,595.60
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THE PURPOSE OF THIS CONTRACT IS FOR CLEANING SERVICES FOR THE MONTGOMERY OFFICE.
-Period: 2025-09-01 to 2026-08-31
+Period: 2025-09-01 to 2026-09-30
 Location: None, FL

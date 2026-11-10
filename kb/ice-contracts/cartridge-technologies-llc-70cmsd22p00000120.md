@@ -1,12 +1,12 @@
 ---
 id: cartridge-technologies-llc-70cmsd22p00000120
-title: 'CARTRIDGE TECHNOLOGIES, LLC — 70CMSD22P00000120 (TX) $12,658'
+title: 'CARTRIDGE TECHNOLOGIES, LLC — 70CMSD22P00000120 (TX) $15,822'
 type: ice-contract
 state: 'TX'
 contractor: 'CARTRIDGE TECHNOLOGIES, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$12,657.60'
+contract_value: '$15,822.00'
 contract_type: 'federal-contract'
 award_date: '2022-09-30'
 usaspending_id: '70CMSD22P00000120'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: CARTRIDGE TECHNOLOGIES, LLC
 Award ID: 70CMSD22P00000120
-Amount: $12,657.60
+Amount: $15,822.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: MFD LEASE
-Period: 2022-09-30 to 2026-12-14
+Period: 2022-09-30 to 2027-12-14
 Location: None, TX
