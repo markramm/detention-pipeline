@@ -200,7 +200,9 @@ MONITORED_COUNTIES = [
 
     # Illinois (2 portals)
     ("cook-county", "Cook County", "IL", "17031", "events"),    # County-level
-    ("chicago", "Chicago", "IL", "17031", "events"),
+    # ("chicago", ...) skipped 2026-11-12: webapi.legistar.com/v1/chicago returns HTTP 500
+    # "LegistarConnectionString setting is not set up in InSite" every week since Oct 20.
+    # Chicago is not served by the Legistar Web API; Cook County (above) still covers FIPS 17031.
 
     # North Carolina (2 portals)
     ("guilford", "Guilford County", "NC", "37081", "events"),
