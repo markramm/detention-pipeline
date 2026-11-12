@@ -1,14 +1,24 @@
 ---
 id: prime-masonry-llc-70cmsw25c00000017
-title: PRIME MASONRY, LLC — 70CMSW25C00000017 (TX) $102,500
+title: 'PRIME MASONRY, LLC — 70CMSW25C00000017 (TX) $102,500'
 type: ice-contract
+state: 'TX'
+contractor: 'PRIME MASONRY, LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$102,500.01'
+contract_type: 'federal-contract'
+award_date: '2025-08-22'
+usaspending_id: '70CMSW25C00000017'
+source: 'USAspending.gov (award 70CMSW25C00000017)'
+signal_strength: 'strong'
+notes: 'THE PURPOSE OF THIS AWARD IS TO REPLACE THE BUILDING 8 TRAINING ROOM HVAC, INSULATION, AND OVERHEAD DOORS AT THE PORT ISABEL DETENTION CENTER'
 tags:
 - ice-contract
 - other
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

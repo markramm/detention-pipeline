@@ -1,14 +1,24 @@
 ---
 id: az-tech-fire-and-security-llc-70cmsd25p00000035
-title: AZ-TECH FIRE AND SECURITY LLC — 70CMSD25P00000035 (TX) $5,294
+title: 'AZ-TECH FIRE AND SECURITY LLC — 70CMSD25P00000035 (TX) $5,294'
 type: ice-contract
+state: 'TX'
+contractor: 'AZ-TECH FIRE AND SECURITY LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$5,294.00'
+contract_type: 'federal-contract'
+award_date: '2025-05-15'
+usaspending_id: '70CMSD25P00000035'
+source: 'USAspending.gov (award 70CMSD25P00000035)'
+signal_strength: 'weak'
+notes: 'THIS AWARD IS FOR THE PURCHASE AND INSTALLATION OF AIPHONES VIDEO INTERCOM PHONE AND DOOR CAMERA SECURITY SYSTEMS TO PREVENT UNAUTHORIZED ACCESS TO THE HOUSTON OFFICE FOR THE OFFICE OF THE PRINCIPAL LEGAL ADVISOR.'
 tags:
 - ice-contract
 - other
 - other-ice
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

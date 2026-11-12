@@ -1,14 +1,24 @@
 ---
 id: foster-freeman-usa-inc-70cmsd25p00000066
-title: FOSTER & FREEMAN USA INC — 70CMSD25P00000066 (VA) $99,408
+title: 'FOSTER & FREEMAN USA INC — 70CMSD25P00000066 (VA) $99,408'
 type: ice-contract
+state: 'VA'
+contractor: 'FOSTER & FREEMAN USA INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$99,408.44'
+contract_type: 'federal-contract'
+award_date: '2025-07-25'
+usaspending_id: '70CMSD25P00000066'
+source: 'USAspending.gov (award 70CMSD25P00000066)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES AN UPGRADED VIDEO SPECTRAL COMPARATOR 9000, REQUIRED TO CONDUCT DETAILED COMPARATIVE EXAMINATIONS OF DOCUMENTS VALIDITY TO SUPPORT FORENSIC FINDING FOR ICE HOMELAND SECURITY INVESTIGATIONS FORENSIC LABORATORY.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

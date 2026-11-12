@@ -29,5 +29,5 @@ Amount: $76,500.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD IS TO LEASE EIGHT-FIVE PARKING SPACES IN RESTON, VIRGINIA FOR THE HOMELAND SECURITY TASK FORCE.
-Period: 2026-06-04 to 2026-06-04
+Period: 2026-06-04 to 2027-06-03
 Location: None, DC

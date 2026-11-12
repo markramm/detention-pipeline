@@ -1,12 +1,12 @@
 ---
 id: stella-jv-llc-70cmsd26fr0000001
-title: 'STELLA JV, LLC — 70CMSD26FR0000001 (TX) $8,942,684'
+title: 'STELLA JV, LLC — 70CMSD26FR0000001 (TX) $15,569,420'
 type: ice-contract
 state: 'TX'
 contractor: 'STELLA JV, LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$8,942,684.06'
+contract_value: '$15,569,420.34'
 contract_type: 'federal-contract'
 award_date: '2025-11-07'
 usaspending_id: '70CMSD26FR0000001'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: STELLA JV, LLC
 Award ID: 70CMSD26FR0000001
-Amount: $8,942,684.06
+Amount: $15,569,420.34
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THE PURPOSE OF THIS TASK ORDER IS TO PROCURE A PERSONNEL SECURITY ADJUDICATOR SUPPORT PLATFORM, WHICH WILL ASSIST US IMMIGRATION AND CUSTOMS ENFORCEMENT'S OFFICE OF PROFESSIONAL RESPONSIBILITY WITH PERSONNEL SECURITY ADJUDICATION PROCESSES.
-Period: 2025-11-07 to 2026-11-06
+Period: 2025-11-07 to 2027-11-06
 Location: None, TX

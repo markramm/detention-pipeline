@@ -1,14 +1,23 @@
 ---
 id: iron-mountain-information-management-llc-70cmsw25fc0000060
-title: IRON MOUNTAIN INFORMATION MANAGEMENT LLC — 70CMSW25FC0000060 (VT)
+title: 'IRON MOUNTAIN INFORMATION MANAGEMENT LLC — 70CMSW25FC0000060 (VT)'
 type: ice-contract
+state: 'VT'
+contractor: 'IRON MOUNTAIN INFORMATION MANAGEMENT LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_type: 'federal-contract'
+award_date: '2025-08-11'
+usaspending_id: '70CMSW25FC0000060'
+source: 'USAspending.gov (award 70CMSW25FC0000060)'
+signal_strength: 'weak'
+notes: 'THIS BPA CALL PROCURES MAILROOM SUPPORT SERVICES, TO INCLUDE SORTING, ROUTING AND PROCESSING OF MAIL, FOR THE BURLINGTON FINANCIAL OFFICE, WILLISTON, VT.'
 tags:
 - ice-contract
 - other
 - other-ice
 - vt
 importance: 5
-state: 'VT'
 ---
 
 ICE contract award.
