@@ -111,6 +111,7 @@ Marana is a test of whether coordinated local opposition — from county supervi
 
 - **AG finds county policy lawful (reported May 6, 2026):** Arizona AG Kris Mayes determined that Pima County's Feb. 17 resolution does not conflict with state law, so it remains in effect; the resolution bars federal immigration agents from using county property for operations and requires judicial warrants for entry for immigration enforcement. This answered the Republican senators' April complaint. Sen. John Kavanagh said Mayes "just gave them cover to keep doing it" (KJZZ, May 6, 2026; the article does not give the determination's date).
 - **MTC-ICE contract signed (Sept. 29, 2026, reported Sept. 30):** Management Training Corporation and ICE signed a contract to operate the Marana facility, with reopening planned within 60 days of signing. AZFamily reported operations expected to hold 500 people with a maximum of 775, 338 full-time employees and job applications open. MTC said a 1,300-bed capacity is not part of its proposal to DHS or ICE (AZFamily, Sept. 30, 2026).
+- **Town license review (Oct. 28 letter, reported Nov. 10, 2026):** Marana's license inspector asked MTC to explain a gap between state records of three sexual-misconduct allegations at the prison in 2022-2023 and its 2023 PREA audit, which recorded none, as part of review of MTC's Oct. 1 business license application; the assistant town manager said no final determination had been made (The Intercept/LOOKOUT, Nov. 10, 2026). See [[marana-ice-detention-center-az]].
 - **Status as of Nov. 12, 2026:** no report of a first detainee arrival or opening date was found.
 
 ## Sources
@@ -128,4 +129,5 @@ Marana is a test of whether coordinated local opposition — from county supervi
 - [KOLD: Proposed ICE detention facility in Marana faces pushback (Mar 11, 2026)](https://www.kold.com/2026/03/11/proposed-ice-detention-facility-marana-faces-pushback-politicians-local-groups/)
 - [Cronkite News: A new ICE detention center in Marana raises fears (Apr 3, 2026)](https://cronkitenews.azpbs.org/2026/04/03/a-new-ice-detention-center-in-marana-raises-fears-among-residents-people-shouldnt-have-to-live-like-this/)
 - [KJZZ: Pima County can restrict ICE activity on its property, Arizona AG says (May 6, 2026)](https://www.kjzz.org/politics/2026-05-06/pima-county-can-restrict-ice-activity-on-its-property-arizona-ag-says)
+- [The Intercept / LOOKOUT: Arizona town's probe on sex abuse claims could block prison firm building new ICE camp (Nov 10, 2026)](https://theintercept.com/2026/11/10/arizona-ice-camp-mtc-sexual-abuse/)
 - [AZFamily: Contract signed to open new Marana ICE facility (Sept. 30, 2026)](https://azfamily.com/2026/10/01/contract-signed-open-new-marana-ice-facility)

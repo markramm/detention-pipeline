@@ -1,6 +1,6 @@
 ---
 id: big-spring-correctional-center-howard-tx
-title: "Big Spring Correctional Center (GEO Group) — four idle units flagged for ICE reactivation"
+title: "Big Spring Correctional Center (GEO Group) — City of Big Spring signs 10-year ICE IGSA for 2,329-bed complex"
 type: facility
 facility_type: private-prison
 location: "Big Spring, TX (former Webb Air Force Base)"
@@ -9,12 +9,12 @@ fips: "48227"
 state: TX
 capacity: "2,961 beds (Airpark 564 + Cedar Hill 924 + Flightline 1,452 + Interstate 417 combined capacity as listed by GEO/Vera; unit-level figures vary by source)"
 operator: "GEO Group"
-contract_type: pending
-status: paused-dhs-review
+contract_type: igsa
+status: operational
 importance: 8
-tags: [geo-group, idle-capacity, igsa, texas, webb-afb, former-bop, expansion-inventory, reactivation-candidate]
+tags: [geo-group, igsa-signed, city-pass-through, idle-capacity, igsa, texas, webb-afb, former-bop, expansion-inventory, reactivation-candidate]
 research_status: working
-last_researched: "2026-07-03"
+last_researched: "2026-11-12"
 ---
 
 # Big Spring Correctional Center (GEO Group)
@@ -37,6 +37,13 @@ In August 2022, the Big Spring City Council approved a memorandum of understandi
 - **National context**: Named implicitly among GEO's ~6,000 idle beds / $300M revenue-if-filled inventory disclosed on the Q1 2026 earnings call; GEO CEO George Zoley has also floated selling idle facilities to ICE outright with GEO retained as long-term operator, though no Big Spring-specific sale has been confirmed
 - **Adjacent signal**: The same county also carries a 287(g) WSO agreement (Howard County Sheriff's Office, signed October 17, 2025) and Texas SB8's statewide mandatory-287(g) requirement (effective Jan 1, 2026) — meaning the county has both idle bed capacity and an ICE-cooperative sheriff's office simultaneously, a strong convergence pattern.
 
+## Update (November 12, 2026): ICE agreement through the City of Big Spring
+
+- **Council vote (reported Oct 29, 2026):** The Big Spring City Council, in a special session, voted unanimously to approve a 10-year intergovernmental agreement with the federal government to reopen the Flightline and Cedar Hill facilities as immigration detention. Local-news coverage carried by Yahoo News described it as a "$2.5 billion contract" in two phases, the first valued at $170 million, plus $55 million in city-managed funds to rebuild runways and taxiways at McMahon-Wrinkle Airport. That $2.5 billion figure comes from the news report only; no ICE or city document giving it was opened. GEO pledged up to 1,200 local jobs. GEO representatives said stays would typically be capped at one month, with up to 150 women held in a separate area. Council member Daniel Moreno (District 6) said he would hold GEO to its promises.
+- **GEO announcement (announced Nov 2, 2026):** GEO said the City of Big Spring "has entered into a 10-year intergovernmental service agreement with U.S. Immigration and Customs Enforcement" for a federal immigration processing center at the 2,329-bed complex, made up of the 1,404-bed Flightline Facility and the 925-bed Cedar Hill Facility. GEO provides support services including exclusive use of the facility by ICE, security, maintenance, food services, recreation, medical care and transportation. GEO expects approximately $200 million in annual revenue in the first full year of operations. The Yahoo report gives a start date of Nov 1 and an end of October 2036.
+- **Structure:** ICE contracts with the city and GEO supplies services, the pass-through IGSA structure. This replaces the "pending" status above. Whether detainees have arrived was not found. Idle-bed figures in the earlier sections (2,961 total, 1,452 and 924 units) differ from the 1,404 and 925 in GEO's release.
+- Not opened: the IGSA itself, the council agenda packet and ICE's own announcement.
+
 ## Sources
 
 - [GEO Group — Cedar Hill Facility page (idle, 924 beds)](https://www.geogroup.com/facilities/big-spring-correctional-facility/)
@@ -45,3 +52,5 @@ In August 2022, the Big Spring City Council approved a memorandum of understandi
 - [GEO Group Q1 2026 Earnings Call Transcript — The Motley Fool (May 6, 2026)](https://www.fool.com/earnings/call-transcripts/2026/05/06/geo-group-geo-q1-2026-earnings-transcript/)
 - [GEO Group Reports Record $254M Profit After New ICE Contracts — Prison Legal News (March 2026)](https://www.prisonlegalnews.org/news/2026/mar/1/private-prison-firm-geo-group-reports-record-254-million-profit-after-new-ice-contracts/)
 - [Big Spring Correctional Center — Wikipedia (background/history, unit addresses and original capacities)](https://en.wikipedia.org/wiki/Big_Spring_Correctional_Center)
+- [The GEO Group Announces Contract for Big Spring Complex in Texas Totaling 2,329 Beds (Business Wire via Nasdaq, Nov 2, 2026)](https://www.nasdaq.com/press-release/geo-group-announces-contract-big-spring-complex-texas-totaling-2329-beds-2026-11-02)
+- [Big Spring City Council Approves 10-Year Agreement to Reopen Facilities as ICE Detention Centers (Yahoo News, Oct 29, 2026)](https://www.yahoo.com/news/us/articles/big-spring-city-council-approves-041653420.html)

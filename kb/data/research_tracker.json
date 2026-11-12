@@ -62,11 +62,11 @@
     },
     "04019": {
       "last_researched": "2026-11-12",
-      "notes": "Pima/Marana: AG Mayes upheld county policy May 2026; MTC-ICE contract Sept 29 2026; not yet open per sources."
+      "notes": "Marana: MTC-ICE contract signed Sept 29 (775 beds, >$355M SAM.gov); town license review/PREA letter Oct 28; no opening reported by Nov 12"
     },
     "04021": {
-      "last_researched": "2026-10-14",
-      "notes": "Pinal: GardaWorld construction IDIQ for Florence (USAspending 70CMSW26D00000014, signed Sep 20: $1.2B ceiling, $10K obligated); measles at a Florence facility (Jul). New Florence SPC entry."
+      "last_researched": "2026-11-12",
+      "notes": "Rogue 287(g) void ruling re-verified via KJZZ/AZPM; no appeal found through Nov 12 (dockets not checked)"
     },
     "05007": {
       "last_researched": "2026-04-13",
@@ -933,8 +933,8 @@
       "notes": "Monmouth \u2014 heatmap signals, no county-specific 2025-2026 news. Score 34."
     },
     "34027": {
-      "last_researched": "2026-06-05",
-      "notes": "Morris/Roxbury: no change since May 12 NEPA stipulation; no EA published, no 7-day notice; status paused-dhs-review."
+      "last_researched": "2026-11-12",
+      "notes": "Roxbury: DHS parking-lot processing of 14 (Oct 13); NJ told court DHS decided to pursue detention center after $31.8M SK2 order (Nov 6); ECF 52 joint status due Nov 17"
     },
     "34029": {
       "last_researched": "2026-04-12",
@@ -1015,6 +1015,10 @@
     "36081": {
       "last_researched": "2026-04-12",
       "notes": "Queens \u2014 NYC AOR hub, 1200+ arrested first 8 weeks 2026, 76% no criminal history"
+    },
+    "36083": {
+      "last_researched": "2026-11-12",
+      "notes": "Bourgault v. Hochul PI denied Nov 4 (capacity to sue); state Art. 78 suit vs Rensselaer sheriff filed Aug 27"
     },
     "36101": {
       "last_researched": "2026-04-12",
@@ -1117,8 +1121,8 @@
       "notes": "Williams \u2014 CCNO regional jail (5 counties), 96 ICE beds, $117/day, 8-2 board vote, Lucas County dissent. Score N/A (not in heatmap)."
     },
     "40109": {
-      "last_researched": "2026-10-14",
-      "notes": "Oklahoma Co: jail trust (CJA) still operating at 7/13 meeting, no ICE item; ingest added 10/14-10/15 agenda items (CJA advisory board detention-center presentation/tours, jail-bond appropriation). Agendas not fetched."
+      "last_researched": "2026-11-12",
+      "notes": "Oct 12-Nov 10 agendas read: no ICE/287(g)/IGSA item; CJA still operating, MGT cost-of-incarceration contract (Hubbard)"
     },
     "40143": {
       "last_researched": "2026-04-12",
@@ -1241,8 +1245,12 @@
       "notes": "Wilson \u2014 16,000-bed Lebanon mega-center blocked by Republican revolt Feb 2026, deal killed by Blackburn"
     },
     "48029": {
-      "last_researched": "2026-10-14",
-      "notes": "Bexar: Mayor Jones backs legal action to halt East Side ICE facility (TPR 10/2) after 9/30 federal non-response; no suit filed; $66M bldg, 1,000-1,500 beds, ~$17M GardaWorld contract."
+      "last_researched": "2026-11-12",
+      "notes": "City sued DHS/ICE NEPA Oct 13 (5:26-cv-06542); injunction in abeyance, status due Nov 30; mayor says DHS agreed to EA (Nov 9)"
+    },
+    "48039": {
+      "last_researched": "2026-11-12",
+      "notes": "Commissioners Court Nov 10 consent 5-0: 287(g) Task Force MOA with Sheriff's Office (WSO MOA signed Aug 2025 already)"
     },
     "48061": {
       "last_researched": "2026-05-27",
@@ -1277,8 +1285,8 @@
       "notes": "Corrected McAllen ICE warehouse entry: property was never purchased by DHS, remains privately owned by Centennial Park LLC and still for sale (contradicts prior claim of completed ~$66M acquisition). New: undocumented DHS-owned Edinburg ICE sub-office (since 2021, unmarked) surfaced by June 5 2026 protest. TX SB8 mandatory 287(g) applies (deadline Dec 1 2026)."
     },
     "48227": {
-      "last_researched": "2026-07-03",
-      "notes": "Big Spring Correctional Center (GEO, ~2,961 beds, former BOP/Webb AFB site) sits idle with no active client \u2014 named among GEO's ~6,000-bed/$300M idle inventory disclosed as ICE-reactivation-ready on Q1 2026 earnings call; city already has a 2022 MOU with GEO to reopen for ICE. Separately, federally-run FCI Big Spring (BOP, distinct facility) is closing permanently July 1 2026, cutting ~617 inmates and 200+ jobs."
+      "last_researched": "2026-11-12",
+      "notes": "GEO Big Spring 2,329 beds, City of Big Spring 10-yr ICE IGSA, council voted unanimously Oct 28-29, announced Nov 2, ~$200M/yr"
     },
     "48253": {
       "last_researched": "2026-07-03",
@@ -1293,8 +1301,8 @@
       "notes": "La Salle TX: small, mature county-run IGSA facility (Encinal, ~200-254 beds since 2004), no evidence of expansion; high igsa:6 signal likely reflects two decades of continuous use, not buildout. Distinct from the much larger GEO Jena, LA facility of similar name (Khalil detention) \u2014 frequently confused. The 287g:8 signal (TX AG/DPS/National Guard + unrelated municipal PDs) is very likely a statewide SB8 attribution artifact, not county-specific escalation \u2014 possibly affecting most TX counties' scores."
     },
     "48303": {
-      "last_researched": "2026-07-03",
-      "notes": "Lubbock County Detention Center \u2014 recorded closed to migrant detention since 2019 \u2014 shows signs of reactivation: March 17 2026 ICE Office of Detention Oversight inspection. County's 2020 JEM 287(g) predates TX SB8's new statewide mandate. Documented traffic-stop-to-ICE-custody case and a measles case tied to West Texas Detention Facility outbreak."
+      "last_researched": "2026-11-12",
+      "notes": "Nov 9: three 287(g) Task Force MOAs for Constable Pcts 1, 2, 4 passed; sheriff JEM since 2020"
     },
     "48339": {
       "last_researched": "2026-07-03",
@@ -1401,8 +1409,8 @@
       "notes": "Pend Oreille WA \u2014 Sheriff Blakeslee testified on immigration law conflicts, minimal specific enforcement data"
     },
     "53053": {
-      "last_researched": "2026-06-02",
-      "notes": "NWIPC Tacoma: PI ruling on DOH inspections pending; SCOTUS cert pending (25-828); standards downgrade + 1,635-bed bump in 69M bridge contract through Oct 27 2026."
+      "last_researched": "2026-11-12",
+      "notes": "NWIPC: 10-yr ~$1.5B GEO contract signed Oct 28, single offer; USAO WDWA Oct 26 letter confirmed via dockets; Nov 7 habeas releases"
     },
     "53067": {
       "last_researched": "2026-04-13",
@@ -1461,8 +1469,8 @@
       "notes": "Park WY \u2014 No specific ICE activity found in 2025-2026 research beyond general WHP statewide 287(g) coverage"
     },
     "56037": {
-      "last_researched": "2026-05-28",
-      "notes": "Sweetwater: per diem $61.57->$120; >$1M projected FY; $167.5K stipends + $370.6K housing since Oct."
+      "last_researched": "2026-11-12",
+      "notes": "Commission retroactively ratified sheriff's 287(g) agreements early July 2026 (ACLU/WyoFile); resolution itself not opened"
     },
     "56039": {
       "last_researched": "2026-05-28",

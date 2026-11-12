@@ -11,7 +11,7 @@ capacity: "1,575 beds"
 operator: "GEO Group"
 contract_type: private-contract
 per_bed_day_rate: "$235 (est. from $69M/6mo extension)"
-annual_value: "$69M (6-month extension Mar-Oct 2026); ~$70M/yr historically"
+annual_value: "$69M (7-month sole-source extension Mar 28-Oct 27, 2026); new 10-year contract signed Oct 28, 2026 valued at about $1.5B (ceiling, no funds committed at signing)"
 status: operational
 opened: "2004 (current facility)"
 importance: 10
@@ -29,7 +29,7 @@ tags:
 - sanctuary-state-conflict
 - expansion-proposed
 research_status: working
-last_researched: "2026-06-02"
+last_researched: "2026-11-12"
 ---
 
 # Northwest ICE Processing Center — GEO Group's Pacific Northwest Hub
@@ -164,3 +164,23 @@ ICE activity in Eastern WA up ~190% (Jan–Mar YoY); advocates report ~20 Yakima
 - [Feds Urge 9th Circ. To Pause Immigration Bond Ruling (Law360)](https://www.law360.com/articles/2459362/feds-urge-9th-circ-to-pause-immigration-bond-ruling)
 - [ICE arrests surge in Eastern Washington / Yakima Valley (KING5)](https://www.king5.com/article/news/community/facing-race/washington-immigration/ice-arrests-surge-in-eastern-washington-as-advocates-report-growing-fear-in-yakima-valley/281-8cbb0ba6-fa44-44e2-a2a1-355dcc2b33b6)
 - [ICE deportation flights surge at Seattle Boeing Field (VisaVerge)](https://www.visaverge.com/news/seattle-becomes-boeing-field-hub-as-ice-flies-hundreds-for-fast-deportation/)
+
+## Update (2026-11-12)
+
+### New 10-year contract (signed Oct 28, 2026)
+- **Award (signed Oct 28, 2026, as reported Oct 29):** Project Salt Box, citing SAM.gov procurement records, reported that ICE's detention compliance and removals office signed a contract on Oct 28, 2026, worth about **$1.5 billion**, for GEO to keep operating the facility for up to 10 years, with orders allowed through Oct 27, 2036. The contract covers detention, security, health care and transportation. ICE received **one offer**. No money was committed at signing; funds are committed by separate orders. It followed a sole-source agreement that ran Mar 28 to Oct 27, 2026, under which USAspending.gov showed $63.2 million obligated.
+- **Capacity:** Salt Box gives 1,575 beds; KUOW (Oct 29, 2026) cites 1,635 beds "according to federal records," matching the figure the March bridge contract is reported to have set.
+- **Link to the August solicitation (Salt Box's assessment, not ICE's statement):** Salt Box said the award is "highly likely" to stem from ICE's Aug 28, 2026 solicitation for four turnkey detention centers, one of them a 1,500-bed site near Seattle that lists Tacoma as its historical location, but the Tacoma record has no solicitation number and ICE has not said so. That solicitation included a clause that state law would not apply to a contractor's work where it would regulate that work; whether the Tacoma contract carries it is unclear. The Seattle Times, per Salt Box and local coverage, reported the contract does not make clear whether GEO will keep owning the facility; that article could not be opened.
+- **Reaction:** KUOW noted the renewal comes despite detainee reports of sickness, inconsistent medical care and poor water quality, and while GEO continues to bar state health inspectors. GEO's capacity figure and the board's inspection fight are covered above.
+
+### Habeas releases and the U.S. Attorney's letter (Oct 26 to Nov 9, 2026)
+- **Letter (signed Oct 26, 2026):** Acting U.S. Attorney Charles Neil Floyd (W.D. Wash.) wrote to Chief Judge David Estudillo that the office "does not have the available resources, at this juncture, to continue entering AUSA appearances in every one of the dozens of" immigration habeas petitions filed each week, and that in many cases it "will no longer assume responsibility for providing a defense." If the office files no notice of appearance within seven court days of a standard scheduling order, the court "may assume" no response is coming and may rule on the petitioner's papers. Release orders can be emailed by the court directly to the Northwest ICE Processing Center. The letter became public as an exhibit to a Nov 7 order. CNN (Nov 10, 2026) reported the letter and said the district has had about 2,000 such cases, per ProPublica.
+- **Releases ordered (Nov 7, 2026):** Judge Tiffany M. Cartwright granted the habeas petition of B.S. (*Singh v. Blanche*, 2:26-cv-04143, W.D. Wash.), ordering release within one day; the petition was filed Oct 27, and the government's response had not been due until Nov 12. On Nov 9 the government filed a status report on his release (ECF 5). Judge Kymberly K. Evanson granted the unopposed petition of A.E.C.G. (*Contreras Garcia v. Facility Administrator, Northwest ICE Processing Center*, 2:26-cv-04156), who filed without a lawyer, ordering release no later than Nov 8; no respondent had appeared after the Oct 28 scheduling order. CNN quotes Evanson: "The Government's failure to oppose the petition constitutes forfeiture of the arguments it could have made."
+- The release actually occurring was not verified from a docket for Contreras Garcia; the Singh status report is on the docket, its text was not read.
+
+### Update Sources (2026-11-12)
+- [Project Salt Box: GEO Group gets $1.5 billion contract to keep running Tacoma immigration detention center (Oct 29, 2026)](https://www.projectsaltbox.com/p/geo-group-gets-15-billion-contract)
+- [KUOW: Feds approve $1.5 billion contract for GEO Group to continue running Tacoma ICE lockup (Oct 29, 2026)](https://www.kuow.org/immigration/2026-10-29/feds-approve-1-5-billion-contract-for-geo-group-to-continue-running-tacoma-ice-center)
+- [CNN: Justice Department prosecutors in Washington can't keep up with all the cases of immigrants suing for their release (Nov 10, 2026)](https://www.cnn.com/2026/11/10/politics/justice-department-prosecutors-cant-keep-up-immigrants-habeas)
+- [Order granting writ, Singh v. Blanche, 2:26-cv-04143-TMC, ECF 4 with Exhibit A (USAO letter, Oct 26, 2026) (W.D. Wash., Nov 7, 2026)](https://storage.courtlistener.com/recap/gov.uscourts.wawd.370859/gov.uscourts.wawd.370859.4.1.pdf)
+- [Order granting unopposed habeas petition, Contreras Garcia v. Facility Administrator, 2:26-cv-04156-KKE, ECF 6 (W.D. Wash., Nov 7, 2026)](https://storage.courtlistener.com/recap/gov.uscourts.wawd.370890/gov.uscourts.wawd.370890.6.0.pdf)

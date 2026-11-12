@@ -6,13 +6,13 @@ county: Bexar
 state: TX
 fips: "48029"
 facility: "San Antonio East Side Warehouse — ICE Processing Center"
-status: active
-outcome: "Project on legal pause as of late April 2026 — NEPA litigation following Maryland federal judge precedent; San Antonio City Council passed 9-2 zoning restrictions Apr 17; ~100 protested April 25 at facility; County passed 4-1 opposition; original 8-2 moratorium vote held. UPDATE (reported May 15, 2026): the 'pause' is effectively over — ICE confirms the Oakmont 410 warehouse is still moving forward, with the Washington Post reporting an early-2027 operational target. The Maryland NEPA injunction does NOT bind Texas because Trump v. CASA (2025) made such injunctions jurisdictional (Fifth vs. Fourth Circuit); Commissioner Calvert says the county must build its own NEPA-plus legal case. Separately (May 28, 2026), ICE is moving to add San Antonio office space as its workforce expands."
+status: litigation
+outcome: "UPDATE (Nov 12, 2026): City of San Antonio sued DHS/ICE under NEPA and the APA on Oct 13, 2026 (City of San Antonio v. Mullin, 5:26-cv-06542, W.D. Tex.); on Oct 22 the court put the injunction request in abeyance with a status update due Nov 30, and on Nov 9 Mayor Ortiz Jones said DHS agreed to do an environmental review (terms not in the record). Earlier: Project on legal pause as of late April 2026 — NEPA litigation following Maryland federal judge precedent; San Antonio City Council passed 9-2 zoning restrictions Apr 17; ~100 protested April 25 at facility; County passed 4-1 opposition; original 8-2 moratorium vote held. UPDATE (reported May 15, 2026): the 'pause' is effectively over — ICE confirms the Oakmont 410 warehouse is still moving forward, with the Washington Post reporting an early-2027 operational target. The Maryland NEPA injunction does NOT bind Texas because Trump v. CASA (2025) made such injunctions jurisdictional (Fifth vs. Fourth Circuit); Commissioner Calvert says the county must build its own NEPA-plus legal case. Separately (May 28, 2026), ICE is moving to add San Antonio office space as its workforce expands."
 importance: 8
 tags: [warehouse-conversion, commissioners-court, community-opposition, legal-challenge, environmental-law, nepa, moratorium, student-protest, texas, san-antonio, east-side, hurson-precedent, trump-v-casa, jurisdictional-limits, moving-forward]
 research_status: working
-last_researched: "2026-10-14"
-last_news_check: "2026-10-14"
+last_researched: "2026-11-12"
+last_news_check: "2026-11-12"
 ---
 
 # Bexar County: Broad Coalition Fights East Side ICE Warehouse
@@ -91,6 +91,14 @@ By mid-May 2026 the local "pause" narrative had collapsed. ICE confirmed the Oak
 
 Oct 2, 2026: Mayor Gina Ortiz Jones backed legal action to halt renovation of the East Side facility after a Sept. 30 deadline for a federal response passed; Commissioner Tommy Calvert said "We are the last city and county to sue in the nation and the only city with an ICE facility moving forward" (TPR). Five council members support "litigation avenues"; no suit filed in the source. Context: DHS cancelled the Socorro (El Paso) warehouses Aug 11 but has not addressed San Antonio (Texas Tribune).
 
+## Update (November 12, 2026): City sues under NEPA; injunction request on hold
+
+- **Oct 2, 2026 (reported):** Mayor Gina Ortiz Jones backed legal action (see above).
+- **Oct 13, 2026 (filed):** The City of San Antonio filed *City of San Antonio v. Mullin*, No. 5:26-cv-06542, in the Western District of Texas against the DHS Secretary, DHS, ICE and the acting ICE director (David Venturella). The complaint pleads the National Environmental Policy Act and the Administrative Procedure Act. It describes a 640,000-square-foot warehouse that DHS and ICE confirmed buying on or about Feb 5, 2026, to be converted into a facility of as many as 1,500 beds, and says city officials sent five letters to defendants in 2026 seeking information. It asks the court to declare the decision to purchase, convert, maintain and operate the facility contrary to law, to vacate it, and to enjoin the conversion. The case is assigned to Judge Jason K. Pulliam (magistrate judge Henry J. Bemporad).
+- **Oct 16, 2026 (ordered):** The court ordered the city to file any injunction request as a separate motion under Local Rule CV-65 by Oct 26 (ECF 12).
+- **Oct 22, 2026 (filed, ordered):** The city filed an unopposed motion to vacate that order, stating the parties were "negotiating a stipulation that would obviate the need for immediate emergency relief." Judge Pulliam granted it by text order the same day, holding the request for injunctive relief in abeyance and ordering a status update by **noon on Nov 30, 2026**. Defendants' counsel appeared Oct 21 (ECF 13); the summons was returned executed Oct 27 (ECF 15). No other substantive filing appears on the docket as of Nov 9, 2026.
+- **Nov 9, 2026 (reported):** On Texas Public Radio's The Source, Mayor Jones said "DHS has said that they will comply and do an environmental review, and so that was the whole crux of the case." The San Antonio Report noted that court filings do not give the terms of any agreement and that it is unclear whether federal officials agreed to suspend renovations while the review is done. DHS did not respond to the paper's requests for comment. Jones said the city could take more legal action if DHS does not follow through. No stipulation or order had been filed on the docket as of Nov 12, 2026.
+
 ## Sources
 
 - [ICE protesters pack Bexar County Commissioners Court — TPR (Mar 10, 2026)](https://www.tpr.org/news/2026-03-10/ice-protesters-pack-bexar-county-commissioners-court)
@@ -114,3 +122,6 @@ Oct 2, 2026: Mayor Gina Ortiz Jones backed legal action to halt renovation of th
 - [ICE planning to add more San Antonio office space as workforce dramatically increases (The Real Deal, May 28, 2026)](https://therealdeal.com/texas/2026/05/28/ice-planning-to-add-more-san-antonio-office-space/)
 - [TPR: San Antonio mayor backs legal action to halt East Side ICE facility (Oct 2, 2026)](https://www.tpr.org/border-immigration/2026-10-02/san-antonio-mayor-backs-legal-action-to-halt-east-side-ice-facility)
 - [Texas Tribune: DHS to sell El Paso-area warehouses (Aug 11, 2026)](https://www.texastribune.org/2026/08/11/texas-ice-immigrant-detention-warehouse-socorro-el-paso/)
+- [CourtListener docket: City of San Antonio v. Mullin, 5:26-cv-06542 (W.D. Tex.)](https://www.courtlistener.com/docket/74952112/city-of-san-antonio-v-mullin/)
+- [Complaint, ECF 1, City of San Antonio v. Mullin (filed Oct 13, 2026)](https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172938659/gov.uscourts.txwd.1172938659.1.0.pdf)
+- [San Antonio Report: Mayor says feds agree to environmental review of planned ICE detention facility (Nov 9, 2026)](https://sanantonioreport.org/mayor-jones-dhs-environmental-review-ice-detention-lawsuit-san-antonio/)
