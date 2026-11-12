@@ -67,7 +67,7 @@ This is a governance crisis, not just an immigration fight. A county attorney by
 
 ## The Outcome and Why It Matters
 
-This is a **win for democratic accountability**. The court did not rule on immigration policy; it ruled on **structure** — that a single elected county officer cannot unilaterally pull county personnel and resources into federal immigration enforcement over the objection of the elected Board. The "not a political subdivision" holding is the load-bearing finding: it forecloses the workaround of routing 287(g) authority through a county attorney's office rather than the sheriff or the board. If Miller does not appeal (none filed as of May 28), the precedent in Arizona is that rogue-officer 287(g) deals are void from inception.
+This is a **win for democratic accountability**. The court did not rule on immigration policy; it ruled on **structure** — that a single elected county officer cannot unilaterally pull county personnel and resources into federal immigration enforcement over the objection of the elected Board. As reported, the ruling forecloses routing 287(g) authority through a county attorney's office rather than the sheriff or the board. No appeal was found as of Nov. 12, 2026 (dockets not checked).
 
 ## The Brady List Investigator
 
