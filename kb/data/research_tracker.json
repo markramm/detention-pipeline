@@ -1,8 +1,8 @@
 {
   "counties": {
     "01003": {
-      "last_researched": "2026-05-28",
-      "notes": "Baldwin construction-raid litigation advanced: standing ruling May 20, PI hearing May 27, 2026; plaintiff detained 3rd time May 2."
+      "last_researched": "2026-11-12",
+      "notes": "Baldwin AL: PI granted as stay of 3 DHS policies Sept 21 2026; class conditionally certified; trial Feb 2028."
     },
     "01055": {
       "last_researched": "2026-05-28",
@@ -29,8 +29,8 @@
       "notes": "Aleutians West AK \u2014 No specific ICE enforcement activity found in 2025-2026 research"
     },
     "02020": {
-      "last_researched": "2026-05-28",
-      "notes": "Anchorage Muni: Hiland Mountain (Eagle River) now a 2nd ICE-use facility alongside Anchorage Correctional Complex; pregnant-detainee case + pepper-ball use-of-force revealed."
+      "last_researched": "2026-11-12",
+      "notes": "Anchorage pregnant detainee: D. Alaska denied petition Oct 30 2026; judgment Nov 2; status resolved."
     },
     "02090": {
       "last_researched": "2026-04-13",
@@ -62,7 +62,7 @@
     },
     "04019": {
       "last_researched": "2026-11-12",
-      "notes": "Pima: board declined removal, AG perjury referral May 12; ACLU records judgment Jul 30 ($72,984.44)."
+      "notes": "Pima/Marana: AG Mayes upheld county policy May 2026; MTC-ICE contract Sept 29 2026; not yet open per sources."
     },
     "04021": {
       "last_researched": "2026-10-14",
@@ -158,11 +158,11 @@
     },
     "09003": {
       "last_researched": "2026-11-12",
-      "notes": "CT: DOJ v. Connecticut mask-law suit PI/MTD under advisement since Sep 3; Meriden courthouse clash Sep 23."
+      "notes": "CT mask/ID law: PI hearing Sept 3 2026; no ruling on docket through Oct 29 2026."
     },
     "09009": {
-      "last_researched": "2026-05-28",
-      "notes": "CT buildout"
+      "last_researched": "2026-11-12",
+      "notes": "CT/New Haven DOJ suit: motions to dismiss briefed Sept 2026; no ruling through Nov 12 2026."
     },
     "09015": {
       "last_researched": "2026-04-12",
@@ -273,8 +273,8 @@
       "notes": "Bonneville ID \u2014 287(g) WSO model signed 7/11/2025, heatmap score 37"
     },
     "16027": {
-      "last_researched": "2026-04-13",
-      "notes": "Canyon ID \u2014 Dale G Haile Detention Center IGSA (523 beds, $54/night, 30+ year contract), Wilder racetrack mass raid Oct 2025 (200+ officers, 400 detained, 105 arrested, ~75 deported), ACLU class-action Rodriguez v Porter filed Feb 2026, Sheriff Donahue opposes mandatory 287(g)"
+      "last_researched": "2026-11-12",
+      "notes": "Canyon ID Rodriguez v. Porter: MTDs briefed Sept-Oct 2026; hearing docketed Nov 5; no ruling."
     },
     "16031": {
       "last_researched": "2026-04-13",
@@ -645,8 +645,8 @@
       "notes": "Crow Wing MN -- Dual 287(g) TFM+WSO signed Mar 2025 by Sheriff Klang without board approval, IGSA since Nov 2025, 30-50 ICE detainees, $102/day, 286 beds, AG opinion says illegal, community demanding board discussion"
     },
     "27047": {
-      "last_researched": "2026-05-28",
-      "notes": "Freeborn: Jan 16 287(g) preliminary injunction still in effect, no new substantive ruling; case in procedural posture (removal/recusal). Statewide ban bill HF3060/SF2973 not enacted."
+      "last_researched": "2026-11-12",
+      "notes": "Freeborn MN: remanded to state court May 22 2026; Jan 16 injunction not confirmed in any source."
     },
     "27053": {
       "last_researched": "2026-06-05",
@@ -721,8 +721,8 @@
       "notes": "Tallahatchie MS (Tutwiler) -- confirmed spring 2026 as 2nd active CoreCivic ICE facility in MS (up to 252 ICE beds); plausible transfer dest amid Adams decline."
     },
     "29077": {
-      "last_researched": "2026-06-05",
-      "notes": "Greene/Springfield: no new local action; 8th Cir bond-hearing ruling now lengthens stays for 96%-civil-detainee jail. SPD/sheriff still decline 287g."
+      "last_researched": "2026-11-12",
+      "notes": "Springfield/Greene MO: Nixa joined 287(g) Aug 11 2026; Sheriff Arnott resigning, interim Aug 2026; MO count 95."
     },
     "29095": {
       "last_researched": "2026-06-05",
@@ -829,24 +829,24 @@
       "notes": "Lincoln County (North Platte) continues as ICE holding/MN-transfer site; no new 2026-specific development found this pass."
     },
     "31145": {
-      "last_researched": "2026-05-28",
-      "notes": "Red Willow/McCook: Schimek lawsuit dismissed Mar 27, appealed Apr 23; sheriff signed 287(g) MOUs, county board pushback May 12; facility operational, committed thru Sept 2027."
+      "last_researched": "2026-11-12",
+      "notes": "Red Willow NE: no new developments found since May 2026 (Appleseed appeal apparently pending; ACLU-NE 287(g) list of Nov 4 2026 does not show Red Willow)."
     },
     "31153": {
       "last_researched": "2026-04-13",
       "notes": "Sarpy NE \u2014 County jail IGSA, 21 guaranteed ICE beds at $100/day, Minnesota transfer point"
     },
     "31165": {
-      "last_researched": "2026-05-28",
-      "notes": "Sioux County task force 287(g) MOA signed Sept 9, 2025 (Sheriff McCumbers)."
+      "last_researched": "2026-11-12",
+      "notes": "Sioux/Banner NE: ACLU-NE list (updated Nov 4 2026) still shows Sioux and Banner task force; Brown absent."
     },
     "31183": {
       "last_researched": "2026-04-13",
       "notes": "Wheeler NE \u2014 287(g) task force model (most aggressive), approved May 2025, ~800 pop, no jail, highway corridor enforcement on US-281"
     },
     "32003": {
-      "last_researched": "2026-06-05",
-      "notes": "Clark: Jacobo-Ramirez class action restored bond hearings statewide (new entry); AB376 287(g) appeal still pending, no NV Supreme Court ruling."
+      "last_researched": "2026-11-12",
+      "notes": "Clark NV: ACLU 287(g) appeal (NSC 92479) still pending, no ruling found; Jacobo-Ramirez: discovery, 9th Cir Rodriguez Vazquez Jul 30 2026, notice order modified Nov 6 2026."
     },
     "32005": {
       "last_researched": "2026-04-13",
@@ -993,12 +993,12 @@
       "notes": "Batavia Buffalo Federal Detention 745+ detainees over 650 capacity; govt announced no expansion plans as of early 2026."
     },
     "36059": {
-      "last_researched": "2026-05-28",
-      "notes": "Nassau Supreme Court upheld 287(g) agreement; NYCLU appealed May 26 2026; FY27 budget 287(g) ban likely voids agreement."
+      "last_researched": "2026-11-12",
+      "notes": "Nassau NY: Blakeman yielded to state 287(g) ban Aug 26 2026; sheriffs' federal suit; NYCLU appeal status unknown."
     },
     "36061": {
-      "last_researched": "2026-06-02",
-      "notes": "26 Federal Plaza ruling still pending as of June 2; Kaplan needs weeks, weighing shutdown remedy + class expansion."
+      "last_researched": "2026-11-12",
+      "notes": "26 Fed Plaza: permanent class injunction (Sept 24/Oct 2 2026); govt motion to alter judgment pending."
     },
     "36063": {
       "last_researched": "2026-04-12",
@@ -1093,8 +1093,8 @@
       "notes": "Franklin/Columbus: no new courthouse-arrest or city-county developments in window; added Lopez-Campos downstream bond lever. Detainees held downstream in Butler/Mahoning (6th Cir)."
     },
     "39055": {
-      "last_researched": "2026-04-12",
-      "notes": "Geauga \u2014 Original ICE site, ~50/day, secret contract, ACLU Ohio Supreme Court lawsuit."
+      "last_researched": "2026-11-12",
+      "notes": "Geauga OH: no developments after Apr 2026 Ohio Supreme Court ruling found; no edit."
     },
     "39099": {
       "last_researched": "2026-06-02",
@@ -1153,8 +1153,8 @@
       "notes": "Allegheny: no material change found since 6/2 (searches only; nothing dated Jun-Oct 2026)."
     },
     "42011": {
-      "last_researched": "2026-06-02",
-      "notes": "Berks/Upper Bern warehouse: EHB DEP-DHS settlement talk by June 8 2026; May 14 township deal, Transwestern pays $82,390 for deficiencies. Site still occupancy-blocked."
+      "last_researched": "2026-11-12",
+      "notes": "Berks PA Upper Bern: ICE said not detention use and withdrew EHB appeal Jul 22 2026; status won."
     },
     "42033": {
       "last_researched": "2026-06-02",
@@ -1165,8 +1165,8 @@
       "notes": "Philadelphia ICE-Out: no change since May 28 \u2014 6/7 bills signed May 7, mask ban law unsigned, all effective July."
     },
     "42107": {
-      "last_researched": "2026-06-02",
-      "notes": "Schuylkill/Tremont mega-center (7,500 beds): EHB DEP-DHS settlement talk by June 8 2026; occupancy still blocked."
+      "last_researched": "2026-11-12",
+      "notes": "Schuylkill PA Tremont: ICE said not detention use and withdrew EHB appeal Jul 22 2026; status won."
     },
     "44007": {
       "last_researched": "2026-05-28",
@@ -1253,8 +1253,8 @@
       "notes": "Concho TX (Eden Detention Center): CoreCivic-operated (heat-score signal notes mislabel it GEO Group), holds ICE + USMS detainees, reactivated 2019 via City of Eden/USMS intergovernmental agreement with ICE authorized to use capacity. No fresh 2025-2026 county-specific litigation or expansion beyond statewide SB8/habeas patterns; Nov 2023 OIDO inspection cited health-staffing and water-temperature violations."
     },
     "48113": {
-      "last_researched": "2026-06-02",
-      "notes": "Dallas: Paxton SB8/287g enforcement letter to Sheriff Marian Brown (May 13, June 1 interim deadline disputed). New fight entry. Hutchins mega-warehouse still blocked."
+      "last_researched": "2026-11-12",
+      "notes": "Dallas TX Paxton/SB8: 3 searches, nothing after May-June 2026 found; no edit."
     },
     "48141": {
       "last_researched": "2026-10-14",
@@ -1325,8 +1325,8 @@
       "notes": "Davis \u2014 3 ANC contracts, regional jail network node"
     },
     "49035": {
-      "last_researched": "2026-05-28",
-      "notes": "Salt Lake County: mega-center paused under DHS review, litigation forming; ICE courthouse arrests at Matheson w/ bailiff assist, Sheriff Rosie Rivera raised complaints."
+      "last_researched": "2026-11-12",
+      "notes": "Salt Lake City: DHS abandoned conversion (Jul 17 2026); warehouse listed for sale; suit stayed to Jan 2027; status won."
     },
     "49049": {
       "last_researched": "2026-04-12",
@@ -1429,12 +1429,12 @@
       "notes": "Dodge/WI: state Supreme Court stayed Voces v. sheriffs Jul 6 pending federal appeal; no ruling yet."
     },
     "55079": {
-      "last_researched": "2026-05-28",
-      "notes": "WI buildout"
+      "last_researched": "2026-11-12",
+      "notes": "Milwaukee/Dugan: sentenced $5,000 fine Jul 8 2026; 7th Cir. appeal 26-2440 briefing, reply due Nov 19."
     },
     "55133": {
-      "last_researched": "2026-05-28",
-      "notes": "WI buildout"
+      "last_researched": "2026-11-12",
+      "notes": "Waukesha WI: Ollinger won GOP sheriff primary Aug 11 2026, unopposed in Nov."
     },
     "56005": {
       "last_researched": "2026-04-13",

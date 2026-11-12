@@ -5,8 +5,8 @@ type: county-fight
 county: Salt Lake
 state: "UT"
 facility: salt-lake-city-ut-mega-center
-status: paused-dhs-review
-outcome: "DHS paused conversion plans (Mar 24). City deployed water + sewage infrastructure weapons. County Mayor sent letter urging DHS to abandon. Status uncertain as of Apr 8, 2026."
+status: won
+outcome: "DHS told the city and county on July 17, 2026 that it no longer intends to convert the warehouse into a detention center and plans to dispose of it; in an Oct. 18, 2026 joint status report the government said the property is being listed for sale. The city and county lawsuit (filed June 8, 2026) is stayed, not dismissed."
 importance: 9
 tags:
 - mega-center
@@ -16,8 +16,8 @@ tags:
 - protest
 - mayor-opposition
 research_status: working
-last_news_check: 2026-04-29
-last_researched: "2026-05-28"
+last_news_check: 2026-11-12
+last_researched: "2026-11-12"
 fips: '49035'
 ---
 
@@ -71,3 +71,17 @@ Unlike Kansas City (where the seller could be pressured), the $145.4M purchase i
 - **Litigation forming.** A team of Utah attorneys led by **McConkie** is investigating a lawsuit to halt the SLC center and is **forming a nonprofit to serve as the litigation vehicle.** Strategy is explicitly deterrence: convey that ICE will "be tied up in litigation" if it proceeds. **ACLU of Utah** (Menlove) says it is "exploring all of our options." [KSL: Utah lawyers mull lawsuit to halt SLC detention center (May 2026)](https://www.ksl.com/article/51501075/utah-lawyers-mull-lawsuit-to-halt-salt-lake-city-immigrant-detention-center-plans)
 - **DHS review still unresolved; "Plan B" pivot.** No construction has begun. Nationally, ICE is shifting toward buying/leasing **CoreCivic and GEO Group "turnkey" facilities** rather than the mega-warehouse model after backlash — CoreCivic (≈¼ of ICE beds) and GEO are both in talks to sell space to ICE. ICE is also exploring **temporary detention at military bases in California, New York and Utah.** This means the SLC mega-warehouse plan may be downsized or superseded even if not formally cancelled. [Axios: ICE targets Plan B after backlash to mega-jails (May 7, 2026)](https://www.axios.com/2026/05/07/ice-immigrant-detention-private-contractors)
 - See also [[salt-lake-city-ice-megacenter-nevada-pipeline]] and [[national-detention-buildout-strategy-2026]] for the multi-state context.
+
+## Later Developments
+
+- **City and county sue (filed June 8, 2026):** Salt Lake City and Salt Lake County sued DHS and ICE in the U.S. District Court for the District of Utah, *Salt Lake City Corporation v. Mullin*, No. 2:26-cv-00528 (filing date per the court docket).
+- **DHS abandons conversion (reported July 17, 2026):** per a court filing reported Aug. 20, DHS attorneys told the plaintiffs on July 17 that DHS "no longer intend to convert" the warehouse at 6020 W. 300 South into a detention facility and would instead declare it excess property for disposal by the General Services Administration (Utah Public Radio, Aug. 20, 2026).
+- **Stay (ruled Aug. 20, 2026):** the court granted a joint stipulated motion filed Aug. 19 to stay the case for 60 days (docket entries 27-28).
+- **Joint status report (filed Oct. 18, 2026):** the parties told the court defendants "do not intend to proceed with plans to convert it into a detention center," have taken steps toward selling it, and that it is listed on the Cushman & Wakefield website as soon available for purchase. They asked to continue the stay and file another report Jan. 18, 2027; the court acted on the stay motion Oct. 19, 2026 (docket entry 31; the order text was not reviewed).
+- **Status as of Nov. 12, 2026:** warehouse unsold per the sources reviewed; lawsuit stayed.
+
+## Sources (later developments)
+
+- [Utah Public Radio: ICE is selling the Utah warehouse it originally planned to use as a detention center (Aug. 20, 2026)](https://www.upr.org/politics/2026-08-20/ice-slc-warehouse-immigration-detention-center-cancelled-sold)
+- [Joint Status Report, Salt Lake City Corporation v. Mullin (D. Utah, Oct. 18, 2026, PDF)](https://storage.courtlistener.com/recap/gov.uscourts.utd.164877/gov.uscourts.utd.164877.29.0.pdf)
+- [CourtListener docket: Salt Lake City Corporation v. Mullin, 2:26-cv-00528 (D. Utah)](https://www.courtlistener.com/docket/73456083/salt-lake-city-corporation-v-mullin/)

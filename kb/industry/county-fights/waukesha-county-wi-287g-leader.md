@@ -19,7 +19,7 @@ tags:
   - waukesha-county
   - wisconsin
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-11-12"
 ---
 
 # Waukesha County, WI: 287(g) Regional Leader
@@ -39,6 +39,11 @@ Waukesha County — Wisconsin's highest-heat county on the detention-pipeline ma
 
 Waukesha demonstrates how a single early-adopter sheriff's office can anchor a statewide diffusion of 287(g) authority, and the dual-model setup maximizes the county's enforcement reach — both inside the jail and on the street. With every major sheriff candidate endorsing it, the program is politically entrenched regardless of the Supreme Court's detainer ruling.
 
+## Later Developments
+
+- **Sheriff primary (voted Aug. 11, 2026):** Capt. Nick Ollinger won the Republican primary for Waukesha County sheriff over County Board Supervisor John Gscheidmeier (FOX6, Aug. 11, 2026). TMJ4 reported Ollinger received about 65% to Gscheidmeier's 34% and will be the only candidate on the November ballot; the winner takes office in January. This narrows the "three candidates" noted above to two Republican finalists. Neither article mentions 287(g); the earlier report that all candidates support continuing the program is unchanged and was not re-checked for Ollinger specifically.
+- **Wisconsin context (reported Oct. 7, 2026):** Urban Milwaukee reported that 287(g) is an issue in the Sauk and Winnebago county sheriff races, where Democratic candidates promise to end the agreements; Waukesha is not discussed.
+
 ## Sources
 
 - [What are 287(g) agreements? Wisconsin sheriff's departments strengthen cooperation with ICE — Spectrum News 1 (Feb 5 2026)](https://spectrumnews1.com/wi/milwaukee/news/2026/02/05/ice--agreements--wisconsin--sheriffs--department)
@@ -46,3 +51,6 @@ Waukesha demonstrates how a single early-adopter sheriff's office can anchor a s
 - [Waukesha County Sheriff Applies to 287(g) Program — ACLU of Wisconsin](https://www.aclu-wi.org/news/waukesha-county-sheriff-applies-287g-program/)
 - [Three more Wisconsin county sheriffs agree to work with ICE — Wisconsin Examiner (Feb 28 2026)](https://wisconsinexaminer.com/briefs/three-more-wisconsin-county-sheriffs-agree-to-work-with-ice/)
 - [ACLU of Wisconsin condemns new 287(g) agreements (Washington, Winnebago)](https://www.aclu-wi.org/press-releases/aclu-wisconsin-condemns-new-287g-agreements-between-ice-and-washington-winnebago/)
+- [FOX6: Waukesha County sheriff race, Ollinger wins Republican primary (Aug. 11, 2026)](https://fox6now.com/news/waukesha-county-sheriff-primary-gscheidmeier-ollinger)
+- [TMJ4: Waukesha County sheriff primary winner Nick Ollinger will run unopposed in November election](https://www.tmj4.com/news/local-news/in-your-community/waukesha-county/waukesha-county-sheriff-primary-winner-nick-ollinger-will-run-unopposed-in-november-election)
+- [Urban Milwaukee: Two Wisconsin sheriff races raise issue of ICE arrests (Oct. 7, 2026)](https://urbanmilwaukee.com/2026/10/07/two-wisconsin-sheriff-races-raise-issue-of-ice-arrests/)

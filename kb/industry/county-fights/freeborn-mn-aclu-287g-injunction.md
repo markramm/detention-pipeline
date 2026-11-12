@@ -18,8 +18,8 @@ tags:
 - minnesota
 - resistance-legal
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: 2026-05-28
+last_researched: "2026-11-12"
+last_news_check: 2026-11-12
 ---
 
 # Freeborn County, Minnesota: ACLU 287(g) Injunction
@@ -67,3 +67,17 @@ Post-injunction procedural developments:
 - **No new substantive ruling** in the Freeborn taxpayer suit found as of late May 2026. The January 16 preliminary injunction blocking 287(g) enforcement appears to remain in effect; the case sits in procedural posture (removal petition, judicial recusals).
 - **Statewide 287(g) ban bill (HF 3060 / SF 2973) did not become law** during the 2026 session — searches of Gov. Walz's 2026 bill-signing record turn up no enacted 287(g) restriction. The legal-prong (Freeborn template) and executive-prong (AG Ellison's Dec 2025 opinion that sheriffs cannot enter 287(g) agreements without county-board approval) remain the active levers; the legislative ban stalled.
 - Minnesota still has **eight 287(g) counties** (Freeborn, Crow Wing, Cass, Itasca, Jackson, Kandiyohi, Mille Lacs, Sherburne). Freeborn remains the bellwether for whether the taxpayer-standing theory can unwind them.
+
+## Later Developments
+
+- **Removal (filed Jan. 20, 2026):** the county, sheriff's office and Sheriff Ryan Shea removed the case from Freeborn County District Court (No. 24-CV-25-2086) to the U.S. District Court for the District of Minnesota (No. 26-cv-468), asserting federal-question jurisdiction (docket entry 1).
+- **Remanded (ruled May 22, 2026):** Judge Laura M. Provinzino granted plaintiffs' motion to remand to state court, holding the complaint raises no federal-law issue for removal purposes; the request for attorneys' fees was denied. The order does not decide whether the 287(g) agreement is lawful.
+- **Source check on the January 16 injunction:** the May 22 order's background section, the ACLU-MN case page (last updated Dec. 19, 2025) and the federal docket do not mention a preliminary injunction. The January 16, 2026 injunction stated above could not be confirmed from these sources and needs verification against the state-court record.
+- **Status as of Nov. 12, 2026:** the federal docket shows no activity after the May 22 remand. No state-court ruling after remand was found.
+
+## Sources (later developments)
+
+- [Order Granting Motion to Remand, Corey-Gruenes v. County of Freeborn, 26-cv-468 (D. Minn., May 22, 2026, PDF)](https://www.aclu-mn.org/app/uploads/2025/12/2026.05.22-D.Minn-26-468-Corey-Gruenes-et-al-v-Freeborn-Co-Order-granting-remand-to-state-court.pdf)
+- [CourtListener docket: Corey-Gruenes v. County of Freeborn, 0:26-cv-00468 (D. Minn.)](https://www.courtlistener.com/docket/72164135/corey-gruenes-v-county-of-freeborn-the/)
+- [ACLU-MN case page: Freeborn 287(g)](https://www.aclu-mn.org/cases/freeborn287g/)
+

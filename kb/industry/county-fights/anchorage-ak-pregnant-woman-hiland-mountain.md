@@ -6,12 +6,12 @@ county: "Anchorage"
 state: AK
 fips: "02020"
 facility: "Hiland Mountain Correctional Center (Eagle River)"
-status: litigation
-outcome: "Federal court ordered temporary release; ICE's own guidance restricts detaining pregnant women; case ongoing in Alaska federal court, no guarantee against re-detention"
+status: resolved
+outcome: "A TRO barred her transfer out of Alaska and ICE released her to supervised release March 23, 2026. On Oct. 30, 2026 the District of Alaska denied her petition, holding ICE's pregnancy directive is not binding; judgment entered Nov. 2, 2026."
 importance: 7
 tags: [pregnant-detainee, hiland-mountain, eagle-river, due-process, womens-prison, court-ordered-release, ice-guidelines, anchorage]
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-11-12"
 ---
 
 # Anchorage, AK — Pregnant Woman Detained at Hiland Mountain Correctional Center
@@ -39,8 +39,18 @@ Key facts:
 
 Per Alaska DOC, three women were detained by ICE in Alaska in 2026. The case surfaced in an April 21, 2026 ADN/Alaska Public investigation reporting at least **47 ICE arrests in Alaska through April 2026** — roughly one every two days.
 
+## Later Developments
+
+Items below come from the court docket and order in *Mendoza Santiago v. Hermosillo*, No. 3:26-cv-00132 (D. Alaska, Judge Aaron Christian Peterson).
+
+- **Release and injunction (per the Oct. 30 order):** the court granted a TRO barring ICE from transferring her outside the District of Alaska; she was released from custody onto supervised release on March 23, 2026. On March 26 the TRO was converted to a preliminary injunction by agreement of the parties; it expired April 24, 2026. The order describes the release as ICE's action following the TRO, not a court order to release.
+- **Petition denied (ruled Oct. 30, 2026):** Judge Peterson denied the APA and habeas petition, holding that ICE Directive 11032.4 (pregnant, postpartum and nursing individuals) is not binding agency guidance, so her detention was not unlawful, and that it did not violate due process. He rejected the government's argument that the petition was moot because she had been released, noting ICE could re-detain her.
+- **Judgment (entered Nov. 2, 2026)** per the docket. The docket shows no notice of appeal as of its last check.
+
 ## Sources
 
 - [ADN: So far in 2026, ICE has arrested at least 47 people in Alaska. One was a pregnant woman (Apr 21, 2026)](https://www.adn.com/alaska-news/2026/04/21/so-far-in-2026-ice-has-arrested-at-least-47-people-in-alaska-one-was-a-pregnant-woman/)
 - [Alaska Public: So far in 2026, ICE has arrested at least 47 people in Alaska. One was pregnant (Apr 23, 2026)](https://alaskapublic.org/news/2026-04-23/so-far-in-2026-ice-has-arrested-at-least-47-people-in-alaska-one-was-pregnant)
 - [Alaska DOC: Hiland Mountain Correctional Center](https://doc.alaska.gov/institutions/hiland-mountain)
+- [Order Denying Petition, Mendoza Santiago v. Hermosillo (D. Alaska, Oct. 30, 2026, PDF)](https://storage.courtlistener.com/recap/gov.uscourts.akd.78777/gov.uscourts.akd.78777.32.0.pdf)
+- [CourtListener docket: Santiago v. Hermosillo, 3:26-cv-00132 (D. Alaska)](https://www.courtlistener.com/docket/72527467/santiago-v-hermosillo/)
