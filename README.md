@@ -40,7 +40,7 @@ A **convergence bonus** rewards signal diversity: +10 per signal type beyond 2, 
 | Source | Signal type | Count | Notes |
 |--------|------------|-------|-------|
 | [Vera Institute of Justice](https://www.vera.org) | IGSA Facilities | 1,189 | Full facility dataset with operators, bed counts, status |
-| [Prison Policy Initiative](https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/) | 287(g) Agreements | 2,467 | All three models: TFM, JEM, WSO |
+| [ICE 287(g) participating agencies](https://www.ice.gov/identify-and-arrest/287g) | 287(g) Agreements | 2,812 | Live ICE roster (2,725 current, as of Oct 28, 2026) plus 87 earlier [Prison Policy Initiative](https://www.prisonpolicy.org/blog/2026/02/23/ice_county_collaboration/) entries ICE no longer lists, kept as history and flagged `status: not-on-ice-roster-as-of <date>`. All three models: TFM, JEM, WSO |
 | [USAspending.gov](https://www.usaspending.gov) | ANC Contracts | 244 | Alaska Native Corp sole-source contracts |
 | [USAspending.gov](https://www.usaspending.gov) | ICE Contracts | 2,430 | All ICE/ERO contract awards |
 | [USDA ERS](https://www.ers.usda.gov) | Budget Distress | 1,090 | County typology codes + specific shortfall data |
@@ -140,7 +140,8 @@ cd hugo && hugo server
 # Or run individual scripts:
 cd kb/scripts
 
-# 287(g) agreements from Prison Policy Initiative
+# 287(g) agreements from ICE's live participating-agencies roster
+# (--source ppi reads the frozen Prison Policy Initiative table instead)
 python3 ingest_287g.py
 
 # ANC contracts from USAspending.gov
