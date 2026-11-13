@@ -14,7 +14,7 @@ status: operational
 importance: 8
 tags: [geo-group, igsa-signed, city-pass-through, idle-capacity, igsa, texas, webb-afb, former-bop, expansion-inventory, reactivation-candidate]
 research_status: working
-last_researched: "2026-11-12"
+last_researched: "2026-11-13"
 ---
 
 # Big Spring Correctional Center (GEO Group)
@@ -39,9 +39,9 @@ In August 2022, the Big Spring City Council approved a memorandum of understandi
 
 ## Update (November 12, 2026): ICE agreement through the City of Big Spring
 
-- **Council vote (reported Oct 29, 2026):** The Big Spring City Council, in a special session, voted unanimously to approve a 10-year intergovernmental agreement with the federal government to reopen the Flightline and Cedar Hill facilities as immigration detention. Local-news coverage carried by Yahoo News described it as a "$2.5 billion contract" in two phases, the first valued at $170 million, plus $55 million in city-managed funds to rebuild runways and taxiways at McMahon-Wrinkle Airport. That $2.5 billion figure comes from the news report only; no ICE or city document giving it was opened. GEO pledged up to 1,200 local jobs. GEO representatives said stays would typically be capped at one month, with up to 150 women held in a separate area. Council member Daniel Moreno (District 6) said he would hold GEO to its promises.
+- **Council vote (reported Oct 29, 2026):** The Big Spring City Council, in a special session, voted unanimously to approve a 10-year intergovernmental agreement with the federal government to reopen the Flightline and Cedar Hill facilities as immigration detention. Local-news coverage carried by Yahoo News described it as a "$2.5 billion contract" in two phases, the first valued at $170 million, plus $55 million in city-managed funds to rebuild runways and taxiways at McMahon-Wrinkle Airport. The Yahoo News article (byline Lucero Corona, published Oct 29, 2026) states the $2.5 billion, $170 million and $55 million figures and the Nov 1, 2026 start; it does not cite where the numbers come from. GEO's Nov 2 release gives no contract total, only the roughly $200 million first-year revenue estimate. No ICE or city document giving the $2.5 billion total was found (council agenda packet, minutes and Big Spring Herald coverage not located), so treat it as a single-source news figure. GEO pledged up to 1,200 local jobs. GEO representatives said stays would typically be capped at one month, with up to 150 women held in a separate area. Council member Daniel Moreno (District 6) said he would hold GEO to its promises.
 - **GEO announcement (announced Nov 2, 2026):** GEO said the City of Big Spring "has entered into a 10-year intergovernmental service agreement with U.S. Immigration and Customs Enforcement" for a federal immigration processing center at the 2,329-bed complex, made up of the 1,404-bed Flightline Facility and the 925-bed Cedar Hill Facility. GEO provides support services including exclusive use of the facility by ICE, security, maintenance, food services, recreation, medical care and transportation. GEO expects approximately $200 million in annual revenue in the first full year of operations. The Yahoo report gives a start date of Nov 1 and an end of October 2036.
-- **Structure:** ICE contracts with the city and GEO supplies services, the pass-through IGSA structure. This replaces the "pending" status above. Whether detainees have arrived was not found. Idle-bed figures in the earlier sections (2,961 total, 1,452 and 924 units) differ from the 1,404 and 925 in GEO's release.
+- **Structure:** ICE contracts with the city and GEO supplies services, the pass-through IGSA structure. This replaces the "pending" status above. Whether detainees have arrived was not found as of Nov 13, 2026: no report of a first arrival or opening date was located in news searches. Idle-bed figures in the earlier sections (2,961 total, 1,452 and 924 units) differ from the 1,404 and 925 in GEO's release.
 - Not opened: the IGSA itself, the council agenda packet and ICE's own announcement.
 
 ## Sources

@@ -25,15 +25,15 @@ tags:
 - pinal-county-cluster
 research_status: working
 fips: '04021'
-last_news_check: "2026-11-12"
-last_researched: "2026-11-12"
+last_news_check: "2026-11-13"
+last_researched: "2026-11-13"
 ---
 
 # Pinal County: When the County Attorney Goes Rogue
 
 ## The Fight
 
-Pinal County Attorney **Brad Miller** unilaterally signed a 287(g) agreement (AZPM, citing court documents, says he signed it in August 2025; AZ Family says he announced it in December 2025) with ICE that went beyond the existing jail-based program, effectively turning his office's 10 investigators into ICE support staff. **He did this without informing or getting approval from the Pinal County Board of Supervisors.**
+Pinal County Attorney **Brad Miller** unilaterally signed a 287(g) agreement (a memorandum of agreement dated Aug. 28, 2025, per InMaricopa; AZPM, citing court documents, says "last August"; Miller's office told ABC15 it has had the authority "since December") with ICE that went beyond the existing jail-based program, effectively turning his office's 10 investigators into ICE support staff. **He did this without informing or getting approval from the Pinal County Board of Supervisors.**
 
 ## Why This Fight Matters
 
@@ -43,7 +43,7 @@ This is a governance crisis, not just an immigration fight. A county attorney by
 
 - **~2008**: Pinal County Sheriff's Office signs 287(g) jail-based agreement with ICE (still in effect under Sheriff Teeple)
 - **January 2025**: Miller hires Richard "Hank" Mueller as chief of investigations ($93K/year) — Mueller is on Arizona's **Brady list** for ethical issues
-- **June 2025 (date unverified; AZPM, citing court documents, says August 2025)**: Miller signs 287(g) Task Force Model agreement with ICE **without Board of Supervisors approval**, listing Mueller as the office's ICE liaison
+- **August 28, 2025 (agreement date; InMaricopa, citing the county's legal opinion; AZPM, citing court documents, says "last August")**: Miller signs 287(g) Task Force Model agreement with ICE **without Board of Supervisors approval**, listing Mueller as the office's ICE liaison
 - **January 21, 2026**: Board of Supervisors **unanimously** declares the agreement "illegal and void"
 - **January 26, 2026**: Miller **ignores** the Board's order (AZ Mirror, Tucson Sentinel)
 - **January 30, 2026**: Board votes to **sue Miller** in Pinal County Superior Court
@@ -100,9 +100,10 @@ If a county attorney can unilaterally sign ICE agreements over the objections of
 
 ## Update (November 12, 2026): ruling re-checked against news reports; appeal status
 
-- **What the court did (May 15, 2026, from the bench):** KJZZ reported that Judge Michael Gordon, ruling at the hearing, said "The county attorney has exceeded his authority and is intruding upon authorities authorized and provided to the sheriff." He found the 287(g) agreement "no different from a contract," denied Miller's motion to dismiss and permanently enjoined Miller's office from engaging in the scope of work in the agreement. The board's lawyer told the court "Those are sheriff duties, they're not county attorney investigator duties." Miller's lawyer argued the county attorney and board are independent elected bodies, that the 287(g) agreement is not a contract needing board approval, and that "There have been no arrests or detentions by the Pinal County Attorney's Office to date." Miller's lawyer asked for a stay, which Gordon said he would address later; Miller's office said he was "strongly considering an appeal" (KJZZ, May 15, 2026). The AZ Mirror report on the ruling could not be opened (Cloudflare block), and the "not a political subdivision" holding described above is not in the KJZZ, AZPM or AZ Family reports opened; treat that phrasing as unconfirmed.
+- **What the court did (May 15, 2026, from the bench):** KJZZ reported that Judge Michael Gordon, ruling at the hearing, said "The county attorney has exceeded his authority and is intruding upon authorities authorized and provided to the sheriff." He found the 287(g) agreement "no different from a contract," denied Miller's motion to dismiss and permanently enjoined Miller's office from engaging in the scope of work in the agreement. The board's lawyer told the court "Those are sheriff duties, they're not county attorney investigator duties." Miller's lawyer argued the county attorney and board are independent elected bodies, that the 287(g) agreement is not a contract needing board approval, and that "There have been no arrests or detentions by the Pinal County Attorney's Office to date." Miller's lawyer asked for a stay, which Gordon said he would address later; Miller's office said he was "strongly considering an appeal" (KJZZ, May 15, 2026). The AZ Mirror May 15 report could not be opened on Nov 13, 2026 (Cloudflare security check on both curl and a fresh Chrome session; not bypassed), and its States Newsroom republication gave the same check. The "not a political subdivision" holding is not in the KJZZ, AZPM, AZ Family or InMaricopa (May 15) reports opened; treat it as unconfirmed and do not state it.
 - **Appeal and sheriff's agreement (AZPM, May 28, 2026):** The board's outside lawyer said Miller had not filed an appeal and the judgment was final and in force. Sheriff Ross Teeple said his deputies "work with and share information with ICE on a daily basis and that will continue"; AZPM reported the Sheriff's Office has held a Jail Enforcement Model 287(g) agreement since 2009 and lists eight Arizona agencies with active agreements.
-- **Since May 28:** Searches on Nov 12, 2026 found no report of an appeal, a stay ruling or a new county-attorney ICE agreement. The Maricopa County Superior Court docket (CV2026-008061) and the Arizona appellate dockets were not checked, so an appeal cannot be ruled out.
+- **Signing date (checked Nov 13, 2026):** InMaricopa reports the dispute stems from an "Aug. 28" memorandum of agreement signed by Miller's office (in coverage of the county's legal opinion), and AZPM (May 28, 2026) says Miller signed "last August without the Board's knowledge or approval." The "June 2025" in earlier versions of this page has no source. ABC15 quotes Miller's statement that "Since December" the office has asked the Board for legal authority supporting its claim the agreement is void, and the office says it has had authority "since December"; that is a statement about its position, not the signing date.
+- **Since May 28:** Searches on Nov 12 and Nov 13, 2026 found no report of an appeal, a stay ruling or a new county-attorney ICE agreement. The Maricopa County Superior Court docket (CV2026-008061) and the Arizona appellate dockets were not checked, so an appeal cannot be ruled out.
 
 ## Sources
 
@@ -131,4 +132,6 @@ If a county attorney can unilaterally sign ICE agreements over the objections of
 - [Supervisors Authorize Civil Action to Void or Enjoin County Attorney's 287(g) Agreement (Pinal County newsflash)](https://www.pinal.gov/m/newsflash/home/detail/2199)
 - [Copper Courier: Is ICE planning a $1.2B detention expansion in Arizona? What we know (Sep 25, 2026)](https://coppercourier.com/news/immigration/ice-detention-expansion-florence-arizona/)
 - [Arizona Daily Star: Measles outbreak confirmed at Arizona immigration detention center (Jul 8, 2026)](https://tucson.com/news/local/border/article_da781d44-2860-431e-98ec-d245778d931e.html)
+- [InMaricopa: Brad Miller's ICE agreement declared void by county legal opinion (Aug. 28 agreement date)](https://inmaricopa.com/brad-millers-ice-agreement-declared-void-by-county-legal-opinion/)
+- [InMaricopa: Pinal County supervisors win legal fight over Miller's ICE agreement (May 15, 2026)](https://inmaricopa.com/pinal-county-supervisors-win-legal-fight-over-millers-ice-agreement/)
 - [KJZZ: Pinal County attorney overstepped by entering ICE agreement, judge rules (May 15, 2026), re-read Nov 12, 2026](https://www.kjzz.org/politics/2026-05-15/pinal-county-attorney-overstepped-by-entering-ice-agreement-judge-rules)

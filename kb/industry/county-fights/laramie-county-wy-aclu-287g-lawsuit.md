@@ -6,8 +6,8 @@ county: Laramie
 state: WY
 fips: "56021"
 facility: "Laramie County Detention Center / Sheriff's 287(g) agreements (Cheyenne)"
-status: dismissed
-outcome: "ACLU of Wyoming filed suit May 27, 2026 in Laramie County District Court seeking to void all three 287(g) agreements as ultra vires. District Judge Robin Cooley dismissed the case (reported Aug 31, 2026) on standing grounds without deciding whether the sheriff had authority to sign the agreements."
+status: litigation
+outcome: "ACLU of Wyoming filed suit May 27, 2026 in Laramie County District Court seeking to void all three 287(g) agreements as ultra vires. District Judge Robin Cooley dismissed the case by order dated Aug 25, 2026 on standing grounds without deciding whether the sheriff had authority to sign the agreements. The ACLU of Wyoming filed a notice of appeal to the Wyoming Supreme Court on Sept 23, 2026 (appeal pending as of the ACLU case page update of Oct 15, 2026)."
 importance: 6
 tags:
 - 287g
@@ -19,7 +19,7 @@ tags:
 - sheriff-kozak
 - community-opposition
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-11-13"
 ---
 
 # Laramie County WY — ACLU 287(g) Lawsuit Against Sheriff Kozak
@@ -44,7 +44,9 @@ On **May 27, 2026**, the **ACLU of Wyoming** filed a lawsuit in **Laramie County
 
 ## Later Developments
 
-- **August 31, 2026 (reported)**: Laramie County District Judge Robin Cooley dismissed the suit; WyoFile reports the order came "Tuesday," most likely August 25, which is an inference from the publication date. She dismissed the first two counts (sheriff exceeded his authority by signing without commissioner approval; incurring county expenses without written approval) because plaintiffs' injuries from immigration enforcement were not connected to defending the commissioners' authority, and dismissed the Administrative Procedure Act count for lack of standing. The order says the "underlying question" of whether the sheriff may sign these agreements without commissioner approval "remain[s] unresolved," and notes the commissioners are not a party ([WyoFile](https://wyofile.com/judge-dismisses-lawsuit-challenging-laramie-county-sheriffs-287g-agreements-with-ice/)). The article reports no ACLU response or appeal. Note the article gives the filing date as May 26; this page uses May 27 per the earlier sources.
+- **August 25, 2026 (order date)**: Laramie County District Judge Robin Cooley dismissed the suit. The ACLU of Wyoming case page lists "Order Granting Defendants' Motion to Dismiss Plaintiff's Case" dated Aug 25, 2026 (case no. 2026-CV-0204232); Cowboy State Daily (Aug 27, 2026) and WyoFile reported it as "Tuesday." She dismissed the first two counts (sheriff exceeded his authority by signing without commissioner approval; incurring county expenses without written approval) because plaintiffs' injuries from immigration enforcement were not connected to defending the commissioners' authority, and dismissed the Administrative Procedure Act count for lack of standing. The order says the "underlying question" of whether the sheriff may sign these agreements without commissioner approval "remain[s] unresolved," and notes the commissioners are not a party ([WyoFile](https://wyofile.com/judge-dismisses-lawsuit-challenging-laramie-county-sheriffs-287g-agreements-with-ice/)). The WyoFile dismissal article reported no ACLU response. The ACLU case page lists the complaint as filed May 26, 2026 and press reports dated it May 27; this page uses May 27 per the press reports.
+- **September 9, 2026 (appeal announced)**: WyoFile reported the ACLU will appeal to the Wyoming Supreme Court; Executive Director Libby Skarin said "we intend to seek an appeal at the Wyoming Supreme Court," and a spokesperson said the timing was undetermined. WyoFile also reported the ACLU may sue other Wyoming agencies with 287(g) contracts depending on this case's outcome.
+- **September 23, 2026 (notice of appeal filed)**: The ACLU of Wyoming case page lists a "Notice of Appeal" dated Sep 23, 2026 and states the group appealed the dismissal to the Wyoming Supreme Court in September 2026. The Wyoming Supreme Court docket, briefing schedule and any ruling were not checked.
 
 ## Context
 
@@ -56,6 +58,9 @@ If the procedural theory prevails, it would not just unwind Laramie County's agr
 
 ## Sources
 
+- [ACLU of Wyoming case page: Juntos et al. v. Kozak (latest update Oct 15, 2026)](https://www.aclu-wy.org/cases/juntos-et-al-v-kozak/)
+- [WyoFile: ACLU to appeal immigration case against Laramie County sheriff to Wyoming Supreme Court (Sep 9, 2026)](https://wyofile.com/aclu-to-appeal-immigration-case-against-laramie-county-sheriff-to-wyoming-supreme-court/)
+- [Cowboy State Daily: Judge Dismisses ACLU Immigration Case Against Sheriff Kozak (Aug 27, 2026)](https://cowboystatedaily.com/2026/08/27/judge-dismisses-aclu-immigration-case-against-sheriff-kozak/)
 - [Cowboy State Daily: Church, barbershop and ACLU suing Laramie County Sheriff over ICE agreements (May 27, 2026)](https://cowboystatedaily.com/2026/05/27/church-barbershop-and-aclu-suing-laramie-county-sheriff-over-ice-agreements/)
 - [WY Public Media: Wyoming's ACLU sues Laramie County Sheriff's Office over ICE agreements (May 27, 2026)](https://www.wyomingpublicmedia.org/politics-government/2026-05-27/wyomings-aclu-sues-laramie-county-sheriffs-office-over-ice-agreements)
 - [ACLU of Wyoming: ACLU files challenge to Laramie County's illegal ICE agreements](https://www.aclu-wy.org/press-releases/aclu-of-wyoming-files-challenge-to-laramie-countys-illegal-ice-agreements/)

@@ -27,7 +27,7 @@ Someone is systematically browsing county pages across Minnesota with extraordin
 | County | City | FIPS | Capacity | 287(g) | Notes |
 |--------|------|------|----------|--------|-------|
 | Crow Wing | Brainerd | 27035 | 286 beds | TFM + WSO | Dual model, 30-50 ICE at any time |
-| Freeborn | Albert Lea | 27047 | 138 beds | WSO (enjoined) | ACLU injunction Jan 2026 |
+| Freeborn | Albert Lea | 27047 | 138 beds | WSO | ACLU suit dismissed as not ripe (reported Nov 2026) |
 | Kandiyohi | Willmar | 27067 | 190 beds | WSO (untrained) | 22-year IGSA, ~150 ICE beds |
 | Sherburne | Elk River | 27141 | Large | Pending (on hold) | 19-year IGSA, 131 avg daily |
 | Nobles | Worthington | 27105 | Small | None | IGSA only, meatpacking town |

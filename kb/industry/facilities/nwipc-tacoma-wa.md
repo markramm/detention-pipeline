@@ -29,7 +29,7 @@ tags:
 - sanctuary-state-conflict
 - expansion-proposed
 research_status: working
-last_researched: "2026-11-12"
+last_researched: "2026-11-13"
 ---
 
 # Northwest ICE Processing Center — GEO Group's Pacific Northwest Hub
@@ -171,6 +171,7 @@ ICE activity in Eastern WA up ~190% (Jan–Mar YoY); advocates report ~20 Yakima
 - **Award (signed Oct 28, 2026, as reported Oct 29):** Project Salt Box, citing SAM.gov procurement records, reported that ICE's detention compliance and removals office signed a contract on Oct 28, 2026, worth about **$1.5 billion**, for GEO to keep operating the facility for up to 10 years, with orders allowed through Oct 27, 2036. The contract covers detention, security, health care and transportation. ICE received **one offer**. No money was committed at signing; funds are committed by separate orders. It followed a sole-source agreement that ran Mar 28 to Oct 27, 2026, under which USAspending.gov showed $63.2 million obligated.
 - **Capacity:** Salt Box gives 1,575 beds; KUOW (Oct 29, 2026) cites 1,635 beds "according to federal records," matching the figure the March bridge contract is reported to have set.
 - **Link to the August solicitation (Salt Box's assessment, not ICE's statement):** Salt Box said the award is "highly likely" to stem from ICE's Aug 28, 2026 solicitation for four turnkey detention centers, one of them a 1,500-bed site near Seattle that lists Tacoma as its historical location, but the Tacoma record has no solicitation number and ICE has not said so. That solicitation included a clause that state law would not apply to a contractor's work where it would regulate that work; whether the Tacoma contract carries it is unclear. The Seattle Times, per Salt Box and local coverage, reported the contract does not make clear whether GEO will keep owning the facility; that article could not be opened.
+- **GEO announcement and congressional visit (Oct 29, 2026, FOX 13 Seattle):** GEO announced a 10-year ICE contract running through Oct. 27, 2036 for the 1,635-bed facility, expected to generate about $140 million in annual revenue, covering security, maintenance, food services, recreation access, medical care and transportation. The same day U.S. Reps. Pramila Jayapal and Emily Randall toured the facility without cameras and spoke with two detainees; FOX 13 reports they called for an investigation of the deal, citing lack of transparency, a reported single-bid process and possible limits on state oversight. The Seattle Times report on the award (cited by the requester) could not be opened (site blocked automated access), so its additional details, including any reported liability terms and Rep. Jayapal's remarks on the facility's purchase, are not stated here.
 - **Reaction:** KUOW noted the renewal comes despite detainee reports of sickness, inconsistent medical care and poor water quality, and while GEO continues to bar state health inspectors. GEO's capacity figure and the board's inspection fight are covered above.
 
 ### Habeas releases and the U.S. Attorney's letter (Oct 26 to Nov 9, 2026)
@@ -180,6 +181,7 @@ ICE activity in Eastern WA up ~190% (Jan–Mar YoY); advocates report ~20 Yakima
 
 ### Update Sources (2026-11-12)
 - [Project Salt Box: GEO Group gets $1.5 billion contract to keep running Tacoma immigration detention center (Oct 29, 2026)](https://www.projectsaltbox.com/p/geo-group-gets-15-billion-contract)
+- [FOX 13 Seattle: GEO Group gets 10-year contract for Tacoma, WA ICE detention center (Oct 29, 2026)](https://www.fox13seattle.com/news/geo-group-contract-tacoma-ice-detention-center)
 - [KUOW: Feds approve $1.5 billion contract for GEO Group to continue running Tacoma ICE lockup (Oct 29, 2026)](https://www.kuow.org/immigration/2026-10-29/feds-approve-1-5-billion-contract-for-geo-group-to-continue-running-tacoma-ice-center)
 - [CNN: Justice Department prosecutors in Washington can't keep up with all the cases of immigrants suing for their release (Nov 10, 2026)](https://www.cnn.com/2026/11/10/politics/justice-department-prosecutors-cant-keep-up-immigrants-habeas)
 - [Order granting writ, Singh v. Blanche, 2:26-cv-04143-TMC, ECF 4 with Exhibit A (USAO letter, Oct 26, 2026) (W.D. Wash., Nov 7, 2026)](https://storage.courtlistener.com/recap/gov.uscourts.wawd.370859/gov.uscourts.wawd.370859.4.1.pdf)
