@@ -21,8 +21,8 @@ tags:
 - inspector-general
 - we-are-all-minneapolis
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-11-12"
+last_news_check: "2026-11-12"
 ---
 
 # Connecticut: DOJ's Second Suit — Mask Ban and ICE ID Law
@@ -48,6 +48,13 @@ The mask/ID law is part of a newer wave of state laws (vs. the older detainer-re
 - **AG William Tong** — vowed "vigorous" defense; defendant
 - **U.S. DOJ** — plaintiff in both CT suits
 
+## Later Developments
+
+- **Docket date (docketed May 15, 2026):** the court docket for *United States v. State of Connecticut*, No. 3:26-cv-00758 (D. Conn., Judge Vernon D. Oliver), shows the complaint docketed on May 15, 2026 (the news reports above date the filing May 18).
+- **Intervention denied (ruled Aug. 27, 2026):** Judge Oliver denied a motion to intervene (docket entry 58). The would-be intervenor filed a notice of appeal on Sept. 21, 2026 (entry 72).
+- **Preliminary-injunction hearing (held Sept. 3, 2026 per the court transcript entry):** DOJ asked Oliver to block the law's mask and ID provisions; the state asked him to dismiss the suit, citing the Tenth Amendment. Oliver said he would rule "in not too long a time" (News12, published Sept. 4, 2026).
+- **Status as of Nov. 12, 2026:** the docket shows no ruling on the injunction or the motion to dismiss through its latest entry of Oct. 29, 2026. DOJ filed a notice of supplemental authority on Oct. 27, 2026 (entry 79).
+
 ## Sources
 
 - [CT Mirror: Lamont signs ICE bill, defying Trump administration (May 4, 2026)](https://ctmirror.org/2026/05/04/ice-bill-lamont-signing-ceremony/)
@@ -56,3 +63,5 @@ The mask/ID law is part of a newer wave of state laws (vs. the older detainer-re
 - [CT News Junkie: Tong vows "vigorous" defense after feds file suit (May 18, 2026)](https://ctnewsjunkie.com/2026/05/18/tong-vows-vigorous-defense-of-ice-law-after-feds-file-lawsuit/)
 - [DOJ complaint (D. Conn.)](https://www.justice.gov/opa/media/1441011/dl)
 - [Governing: Connecticut Moves to Curb ICE Powers With New Law](https://www.governing.com/policy/connecticut-moves-to-curb-ice-powers-with-new-law)
+- [News12: CT bans ICE agents from wearing face masks, now a judge is deciding whether to block the law (Sept. 4, 2026)](https://hudsonvalley.news12.com/ct-bans-ice-agents-from-wearing-face-masks-now-a-judge-is-deciding-whether-to-block-the-law)
+- [CourtListener docket: United States v. State of Connecticut, 3:26-cv-00758 (D. Conn.)](https://www.courtlistener.com/docket/73347313/united-states-v-state-of-connecticut/)

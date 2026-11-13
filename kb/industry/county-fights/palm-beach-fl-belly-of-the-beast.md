@@ -65,6 +65,10 @@ Palm Beach operates as a "spoke" in ICE's hub-and-spoke model: local jails make 
 
 **Faith community**: Leaders report families afraid to assemble in churches.
 
+## Later Developments
+
+- **July 6-10, 2026 (operation dates; reported July 22)**: A joint enforcement operation in Palm Beach County involving ICE, Border Patrol, Florida Highway Patrol's Criminal Alien Apprehension Team, HSI and PBSO resulted in 309 arrests, per CBS12. FDLE Commissioner Mark Glass said, "This operation demonstrates how effective law enforcement can be when agencies work together." ([CBS12](https://cbs12.com/news/local/309-arrested-florida-immigration-enforcement-operation-ice-immigration-arrests-illegal-immigration-287g-program-florida-state-board-of-immigration-enforcement-palm-beach-county-sheriffs-office-homeland-security-investigations-florida-news))
+
 ## Transparency Concerns
 
 PBSO has **declined to provide comprehensive data** on immigration enforcement and claims no internal statistics are maintained. The redaction of DIO names and refusal to provide enforcement statistics are red flags.
@@ -76,3 +80,4 @@ PBSO has **declined to provide comprehensive data** on immigration enforcement a
 - [CBS12: Palm Beach at center of enforcement push](https://cbs12.com/news/local/palm-beach-county-at-the-center-of-floridas-rapid-immigration-enforcement-push)
 - [WLRN: ICE kidnapped a community member — Lake Worth protests (Dec 11, 2025)](https://www.wlrn.org/immigration/2025-12-11/ice-immigration-deportation-arrests-lake-worth-florida)
 - [WPTV: Community advocates challenge PBSO claims](https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/community-advocates-challenge-pbsos-immigration-claims-at-west-palm-beach-protest)
+- [CBS12: 309 arrested in 5-day Palm Beach County immigration enforcement operation (July 22, 2026)](https://cbs12.com/news/local/309-arrested-florida-immigration-enforcement-operation-ice-immigration-arrests-illegal-immigration-287g-program-florida-state-board-of-immigration-enforcement-palm-beach-county-sheriffs-office-homeland-security-investigations-florida-news)

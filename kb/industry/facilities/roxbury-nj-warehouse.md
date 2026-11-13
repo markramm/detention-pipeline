@@ -18,7 +18,7 @@ markup: "137% over value"
 prior_owner: "Goldman Sachs (former majority owner)"
 planned_staff: "~1,000"
 fips: '34027'
-last_researched: "2026-06-05"
+last_researched: "2026-11-12"
 ---
 
 # Roxbury NJ Warehouse — ICE Regional Processing Center
@@ -59,9 +59,19 @@ The facility has sparked **bipartisan backlash** in New Jersey, described by cri
 
 Key organizers include **Tom Kelleher** (Mount Olive/Roxbury Visibility Brigade) and **William Angus** (No ICE Northern Jersey Alliance). The entire NJ Democratic congressional delegation mobilized against the facility. See [[roxbury-nj-lawsuit]] for full legal fight details.
 
+## Developments since June 2026 (checked Nov 12, 2026)
+
+- **Parking-lot processing (reported Oct 13, 2026):** NPR reported on Oct 8, 2026 that neighbors said ICE had used the warehouse as a detention site over the summer; DHS did not answer NPR's question about holding people there. On Oct 13, 2026 NPR updated the story: a DHS official, in a statement forwarded by the office of Rep. Analilia Mejia (D-N.J.), confirmed that ICE officers used the warehouse parking lot to initially process 14 detainees on two occasions in September. DHS told Mejia it used the site to protect officer safety and that no detained immigrants were brought inside the facility. Mejia said the use was "potentially in violation of a court order." NPR attributes to attorney Andrew Mergen the view that the administration is using the space "in furtherance of detention" while not building a facility.
+- **Contract and decision (filed Nov 6, 2026):** In a status report (ECF 51), New Jersey and Roxbury Township told the court that, after public reporting of a $31.8 million contract to convert the site, DHS counsel advised them "for the first time" that DHS had decided to pursue a detention facility at Roxbury. DHS counsel could not confirm the report but said "money has been obligated for maintenance, design of ICE's preferred alternative, and the NEPA analysis of that design." Project Salt Box reported the order went to SK2 LLC on Nov 5, 2026 (award record 70CDCR27FR0000002); the SAM.gov record describes the work as renovation of an ICE-owned structure "in San Antonio, TX" with a Newark place of performance, and Salt Box's source said the order covers Roxbury. ICE declined comment, citing the case.
+- **Court response (Nov 10, 2026):** Judge Semper ordered the parties to submit a joint status report by Nov 17, 2026 proposing a schedule, including any amended complaint and renewed preliminary-injunction motion. See [[roxbury-nj-lawsuit]].
+
 ## Sources
 
 - [ICE buys warehouse for migrant detention, Roxbury officials say — New Jersey Monitor](https://newjerseymonitor.com/2026/02/20/ice-warehouse-migrant-detention-roxbury/)
 - [Governor Sherrill, AG Davenport, Roxbury Township Sue ICE, DHS — NJ.gov](https://nj.gov/governor/news/2026/approved/20260320a.shtml)
 - ['An agency out of control': Planned ICE detention processing warehouse in Roxbury sparks bipartisan backlash — Jersey Vindicator](https://jerseyvindicator.org/2026/02/04/an-agency-out-of-control-planned-ice-detention-processing-warehouse-in-roxbury-sparks-bipartisan-backlash/)
 - [Feds agree to delay opening of planned Roxbury ICE jail — New Jersey Monitor (May 12, 2026)](https://newjerseymonitor.com/2026/05/12/roxbury-ice-jail-court/)
+- [NPR via KUNC: ICE has quietly used this warehouse as a detention facility all summer, neighbors say (Oct 8, 2026; updated Oct 13 and Oct 15)](https://www.kunc.org/npr-news/2026-10-08/ice-has-quietly-used-this-warehouse-as-a-detention-facility-all-summer-neighbors-say)
+- [Plaintiffs' Status Report, New Jersey v. ICE, D.N.J. 2:26-cv-02884, ECF 51 (filed Nov 6, 2026)](https://www.projectsaltbox.com/api/v1/file/3d3ae24b-5248-4184-9b79-b61537a6fd27.pdf)
+- [Project Salt Box: ICE to pay $32 million for Roxbury, N.J. warehouse conversion (Nov 6, 2026)](https://www.projectsaltbox.com/p/scoop-ice-to-pay-32-million-for-roxbury)
+- [CourtListener docket, ECF 52 text order (Nov 10, 2026)](https://www.courtlistener.com/docket/72520349/state-of-new-jersey-v-united-states-immigration-and-customs-enforcement/)

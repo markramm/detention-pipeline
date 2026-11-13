@@ -36,6 +36,11 @@ ICE has made a series of arrests at and around Connecticut courthouses in 2026, 
 - **May 18, 2026 — Hartford (Hartford County, 09003):** ICE arrested **Alejandro Josue Cervantes-Mencia** on Lafayette Street, between the Superior Court building and the offices of Community Partners in Action. About five agents — several masked and without clear identification — used a white Dodge Durango. Cervantes-Mencia had pending drug charges and a 2022 removal order. The masked, unidentified arrest directly implicated CT's new mask/ID law (signed May 4, 2026).
 - **May 2026 uptick:** advocates report a spike in street/courthouse arrests across **Bridgeport** (Fairfield County, 09001; including two outside the courthouse), **New Haven** (~10 in May), **North Haven**, and **Hartford**.
 
+## Later Developments
+
+- **May 15, 2026 (filed)**: The U.S. Justice Department sues Connecticut over its mask/ID law, *United States v. State of Connecticut*, No. 3:26-cv-00758 (D. Conn., Judge Vernon D. Oliver). On August 27 (ruled) the court denied a motion to intervene; on September 3 (held) it heard the government's motion for a preliminary injunction and the state's motion to dismiss and took both under advisement. The docket shows no ruling on either through October 29, 2026 ([CourtListener docket](https://www.courtlistener.com/docket/73347313/united-states-v-state-of-connecticut/))
+- **September 23, 2026 (reported)**: At the Meriden courthouse, a rapid-response activist team confronted masked ICE agents, and ICE took at least one man into custody. A Judicial Branch official said Judicial Marshal Services received a warrant before the arrest and that the branch was reviewing the warrant and video. Per CT Mirror, one activist was pepper-sprayed by an agent and another was pushed to the ground by a courthouse security staffer and taken to a hospital; ICE did not respond to a request for comment. House Speaker Matt Ritter said he planned to contact the attorney general's office about the state's options. The law's "protected areas" provision takes effect October 1 ([CT Mirror](https://ctmirror.org/2026/09/23/ct-activists-ice-clash-meriden-courthouse/))
+
 ## Where They Go
 
 People arrested are processed at the **Hartford ICE field office** (450 Main St.) and, because of the TRUST Act, **transferred out of state** into the Boston AOR network (Plymouth County MA, Strafford County NH, Wyatt RI, Cumberland County ME). See facility entry: hartford-ice-field-office-ct.
@@ -52,3 +57,5 @@ Courthouse arrests are the friction point where ICE tactics meet CT's sanctuary 
 - [WFSB: ICE arrests Honduran man in Hartford with pending drug charges (May 21, 2026)](https://www.wfsb.com/2026/05/21/ice-arrests-honduran-man-hartford-with-pending-drug-charges/)
 - [CT Mirror: ICE officers wearing masks in CT — is it legal? (May 22, 2026)](https://ctmirror.org/2026/05/22/ice-officers-masks-ct-illegal/)
 - [NBC Connecticut: ICE provides more info about dramatic arrest outside Hartford courthouse](https://www.nbcconnecticut.com/investigations/ice-provides-more-info-dramatic-arrest-outside-hartford-courthouse/3639977/)
+- [CT Mirror: Activists, ICE clash at Meriden courthouse (Sept 23, 2026)](https://ctmirror.org/2026/09/23/ct-activists-ice-clash-meriden-courthouse/)
+- [CourtListener docket: United States v. State of Connecticut, No. 3:26-cv-00758 (D. Conn.), entries through Oct 29, 2026](https://www.courtlistener.com/docket/73347313/united-states-v-state-of-connecticut/)

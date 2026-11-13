@@ -1,6 +1,6 @@
 ---
 id: freeborn-county-jail-albert-lea-mn
-title: "Freeborn County Jail — Albert Lea MN, ACLU Injunction Won Jan 2026"
+title: "Freeborn County Jail — Albert Lea MN, ACLU 287(g) Suit Dismissed as Not Ripe"
 type: facility
 facility_type: county-jail
 location: "411 South Broadway Avenue, Albert Lea, MN 56007"
@@ -10,7 +10,7 @@ state: MN
 capacity: "138 beds"
 operator: "Freeborn County Sheriff"
 contract_type: igsa
-status: operational-under-injunction
+status: operational
 per_diem: ""
 importance: 8
 tags:
@@ -32,7 +32,7 @@ last_researched: "2026-04-13"
 
 The Freeborn County Adult Detention Center in Albert Lea is a 138-bed facility that has held ICE detainees under an IGSA for years. In March 2025, the sheriff unilaterally signed a 287(g) WSO agreement. On **December 18, 2025**, the ACLU of Minnesota and Maslon LLP filed suit on behalf of four Freeborn County taxpayers, challenging the agreement as illegal under state law.
 
-On **January 16, 2026**, the court granted a **preliminary injunction** — the first successful legal challenge to a 287(g) agreement in Minnesota.
+Correction (2026-11-13): an earlier version of this site reported a January 16, 2026 preliminary injunction; no court record or report opened on 2026-11-13 confirms one. In November 2026 a state judge dismissed the taxpayer suit as not ripe, without deciding whether the agreement is lawful (ABC 6, reported Nov. 2, 2026: https://www.kaaltv.com/news/top-news/judge-dismisses-lawsuit-challenging-freeborn-countys-ice-agreement/).
 
 ## Why This Facility Matters
 
@@ -40,12 +40,12 @@ Freeborn County is the **test case** for the legal strategy against 287(g) agree
 
 The county is also USDA-classified as budget-distressed (population loss, non-metro), fitting the pattern of fiscally vulnerable rural counties that see ICE detention revenue as economic development.
 
-The injunction does not terminate the underlying IGSA for holding ICE detainees — it specifically blocks the 287(g) enforcement component that allows jail staff to serve ICE warrants on inmates.
+The suit challenged only the 287(g) agreement, not the IGSA for holding ICE detainees.
 
 ## Key Facts
 
 - **IGSA**: Active (longstanding, one of three MN jails)
-- **287(g) WSO**: Signed March 26, 2025; **enjoined January 16, 2026**
+- **287(g) WSO**: Signed March 26, 2025; ACLU-MN taxpayer suit dismissed as not ripe (reported Nov. 2, 2026)
 - **Capacity**: 138 beds
 - **Average daily pop**: 41 ICE detainees (Vera Institute historical)
 - **Staffing**: 5 sergeants, 30 line staff, 2 programmers, 1 ICE contract administrator

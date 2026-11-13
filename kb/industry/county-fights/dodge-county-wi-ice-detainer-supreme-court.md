@@ -50,6 +50,11 @@ The ACLU argues:
 
 If the Supreme Court agrees, the ruling would bind all 72 Wisconsin county sheriffs — including Dodge County — and could void ICE transport agreements that depend on county detention authority.
 
+## Developments After May 2026
+
+- **Late December 2025 (filed)**: The five sheriffs tried to move the case to federal court. **May 2026 (ruled)**: a federal district judge ruled against them, finding they waited too long to start removal. The sheriffs' attorneys appealed that ruling (WPR)
+- **July 6, 2026 (ordered)**: The Wisconsin Supreme Court stayed the state case to give the federal appeal time to play out first. The stay pauses the lawsuit but does not halt the use of immigration detainers. The mid-2026 ruling this page anticipated has not issued ([WPR](https://www.wpr.org/news/wisconsin-supreme-court-stays-case-challenging-ice-detainers))
+
 ## Why Dodge County Is the Linchpin
 
 While Dodge County is not a named defendant in the Voces de la Frontera case, its separate IGSA is structurally dependent on the same legal authority being challenged. The agreement specifically includes:
@@ -70,3 +75,4 @@ The Wisconsin Supreme Court case is one of the first state supreme court origina
 - [TMJ4: Wisconsin Supreme Court to decide whether local jails can hold immigrants for ICE](https://www.tmj4.com/news/state-capitol/wisconsin-supreme-court-to-decide-whether-local-jails-can-hold-immigrants-for-ice)
 - [NBC News: Wisconsin Supreme Court to decide if it's legal for local jails to hold immigrants for ICE](https://www.nbcnews.com/news/us-news/wisconsin-supreme-court-decide-legal-local-jails-hold-immigrants-ice-rcna247356)
 - [Wisconsin Watch: Wisconsin Supreme Court to weigh sheriffs' cooperation with ICE (December 2025)](https://wisconsinwatch.org/2025/12/wisconsin-supreme-court-to-weigh-sheriffs-cooperation-with-ice/)
+- [WPR: Wisconsin Supreme Court stays case challenging ICE detainers (July 6, 2026)](https://www.wpr.org/news/wisconsin-supreme-court-stays-case-challenging-ice-detainers)

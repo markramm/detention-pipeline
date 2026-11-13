@@ -20,8 +20,8 @@ tags:
 - us-citizens-detained
 - idaho
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: 2026-05-28
+last_researched: "2026-11-12"
+last_news_check: 2026-11-12
 ---
 
 # Canyon County: Wilder Racetrack Mass Raid and ACLU Lawsuit
@@ -91,3 +91,19 @@ No significant new developments found since April 13, 2026. Rodriguez v. Porter 
 No new docket activity surfaced in May 2026 web searches; Rodriguez v. Porter remains in early litigation. National ACLU case page (Rodriguez et al. v. Porter et al.) confirms counsel team (ACLU of Idaho + CLRP + Wendy Olson/Stoel Rives) and the named-defendant roster (FBI/ICE agents, Canyon County Sheriff Donahue, Caldwell Chief Ingram, Nampa Chief Huff, ISP Director Gardiner, cities of Caldwell and Nampa, Canyon County). Note the same ISP Director Bill Gardiner is the official who, in a separate thread, oversaw the ISP-to-ICE transport program that handed pre-conviction detainees to ICE during a "leadership transition." Continuing to monitor.
 
 - [Rodriguez et al. v. Porter et al. — national ACLU case page](https://www.aclu.org/cases/rodriguez-et-al-v-porter-et-al)
+
+## Later Developments
+
+Items below come from the court docket for *Rodriguez v. Porter*, No. 1:26-cv-00075 (D. Idaho, Judge Amanda K. Brailsford), and the ACLU press release.
+
+- **Motions to dismiss filed (June 23, 2026):** the federal defendants, Canyon County and Sheriff Donahue, ISP Director Gardiner, and the cities of Caldwell and Nampa with their police chiefs each filed separate motions to dismiss (Dkt. 38-41). The cities' motion is brought under Rule 12(b)(2).
+- **Pseudonyms (ordered June 12, 2026):** the court granted plaintiffs' unopposed motion to proceed under pseudonyms for two plaintiffs (Dkt. 37).
+- **Opposition filed (Sept. 8, 2026):** plaintiffs filed a consolidated response to all four motions. In a press release the same day the ACLU said defendants characterize the operation as a "routine execution of warrants for five people accused of non-violent unlicensed gambling," and that the complaint relies on post-Civil War civil rights statutes.
+- **Replies (filed Oct. 13-14, 2026)** (Dkt. 48-51). The motions were marked ripe on Oct. 14-15.
+- **Hearing (docketed Nov. 5, 2026):** the docket shows a "Hearing" entry on Nov. 5 (Dkt. 52) with no description of its subject or outcome. The docket shows no ruling on the motions to dismiss as of Nov. 5, 2026.
+
+## Sources (later developments)
+
+- [CourtListener docket: Rodriguez v. Porter, 1:26-cv-00075 (D. Idaho)](https://www.courtlistener.com/docket/72256071/rodriguez-v-porter/)
+- [ACLU: ACLU Urges Court to Allow Lawsuit Challenging Violent Idaho Immigration Raid to Proceed (Sept. 8, 2026)](https://www.aclu.org/press-releases/aclu-urges-court-to-allow-lawsuit-challenging-violent-idaho-immigration-raid-to-proceed)
+

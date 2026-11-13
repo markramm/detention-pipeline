@@ -36,7 +36,7 @@ On **December 12, 2025**, AG Keith Ellison issued a formal legal opinion finding
 
 ## Front 2: ACLU Injunction (Judicial)
 
-On **December 18, 2025**, the ACLU-MN and Maslon LLP sued Freeborn County on behalf of four taxpayers. On **January 16, 2026**, the court granted a preliminary injunction — the first successful judicial challenge to a 287(g) in Minnesota.
+On **December 18, 2025**, the ACLU-MN and Maslon LLP sued Freeborn County on behalf of four taxpayers. Correction (2026-11-13): an earlier version of this site reported a January 16, 2026 preliminary injunction; no court record or report opened on 2026-11-13 confirms one. In November 2026 a state judge dismissed the taxpayer suit as not ripe, without deciding whether the agreement is lawful (ABC 6, reported Nov. 2, 2026: https://www.kaaltv.com/news/top-news/judge-dismisses-lawsuit-challenging-freeborn-countys-ice-agreement/).
 
 The taxpayer-standing theory is replicable in every remaining 287(g) county.
 

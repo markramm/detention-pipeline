@@ -42,7 +42,7 @@ On **January 23, 2026**, an estimated **50,000-75,000 people** marched through *
 
 - **MIRAC** (Minnesota Immigrant Rights Action Committee) — shifted to direct action, raised $750K+ for impacted families, lobbying for statewide 287(g) ban
 - **ICOM** (Minnesota Interfaith Coalition on Immigration) — Accompanying Immigrants in Detention program
-- **ACLU-MN** — won Freeborn County 287(g) injunction, litigation strategy
+- **ACLU-MN** — sued Freeborn County over its 287(g) agreement (dismissed as not ripe, reported Nov. 2026), litigation strategy
 - **UMN Graduate Labor Union, AFSCME Local 3800** — part of organizing coalition
 
 ## Sources

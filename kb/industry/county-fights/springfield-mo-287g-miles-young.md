@@ -20,7 +20,7 @@ tags:
 - ozarks-corridor
 - law-enforcement-backlash
 research_status: working
-last_researched: "2026-06-05"
+last_researched: "2026-11-12"
 ---
 
 # Springfield MO: Miles Young Case and the Mandatory 287(g) Push
@@ -94,6 +94,12 @@ This is the same pattern seen in:
 3. **Community organizing:** Is there any organized resistance in Springfield, or has the Miles Young case foreclosed that space?
 4. **Law enforcement backlash:** Which Missouri agencies are resisting 287(g) and why?
 
+## Later Developments
+
+- **Missouri 287(g) count (as of August 2026):** KCTV5 reported 95 Missouri agencies, including the Missouri State Highway Patrol, with 287(g) agreements (KCTV5, Aug. 3, 2026). The article does not say whether Greene County or Springfield are among them; this page's finding that both declined dates from April-May 2026.
+- **Nixa votes to join (voted Aug. 11, 2026, inferred from "Tuesday" in an Aug. 12 article):** the Nixa City Council voted 5-1 to join the 287(g) Task Force Model; a resident opposed it, citing families she said were held in Greene County Jail with legal status or pending cases (KY3, Aug. 12, 2026). Springfield is not mentioned in the article.
+- **Greene County sheriff leaving (reported Aug. 17, 2026):** Sheriff Jim Arnott is resigning after confirmation as U.S. Marshal; the county commission was to take up his resignation Aug. 18, and Capt. Jason Johnson was named interim sheriff through midnight Dec. 31, 2026. The article does not mention 287(g) or ICE (KY3, Aug. 17, 2026). No change in the sheriff's office's 287(g) position was found.
+
 ## Sources
 
 - [KY3: Lawmakers urge ICE agreements after Springfield shooting (2026/04/11)](https://www.ky3.com/)
@@ -105,3 +111,6 @@ This is the same pattern seen in:
 - [KY3: Lawmakers urge ICE agreement after Springfield shooting (2026/04/11)](https://www.ky3.com/2026/04/11/missouri-lawmakers-urge-local-law-enforcement-enter-ice-agreement-after-shooting-15-year-old-springfield/)
 - [OzarksFirst: Greene County explains housing of ICE inmates / Springfield PD declines 287(g)](https://www.ozarksfirst.com/news/immigration-status-springfield-shooting/)
 - [ICE: Greene County Jail facility page](https://www.ice.gov/detain/detention-facilities/greene-county-jail)
+- [KCTV5: Law enforcement across Kansas, Missouri gaining new powers to aid ICE enforcement (Aug. 3, 2026)](https://kctv5.com/2026/08/03/local-law-enforcement-across-kansas-missouri-gaining-new-powers-aid-ice-enforcement)
+- [KY3: Nixa City Council votes to join ICE enforcement program (Aug. 12, 2026)](https://www.ky3.com/2026/08/12/nixa-city-council-votes-join-ice-enforcement-program/)
+- [KY3: Greene County Sheriff Jim Arnott to formally resign after U.S. Marshal confirmation; interim sheriff appointed (Aug. 17, 2026)](https://www.ky3.com/2026/08/17/greene-county-sheriff-jim-arnott-formally-resign-after-us-marshal-confirmation-interim-sheriff-appointed/)

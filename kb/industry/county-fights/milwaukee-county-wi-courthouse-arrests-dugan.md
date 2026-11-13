@@ -19,7 +19,7 @@ tags:
   - milwaukee-county
   - wisconsin
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-11-12"
 ---
 
 # Milwaukee County, WI: Courthouse ICE Arrests and the Hannah Dugan Prosecution
@@ -44,6 +44,12 @@ Milwaukee became a national test case for two linked ICE tactics: **arresting im
 
 The Dugan prosecution is one of the most aggressive federal moves against a sitting state judicial officer over immigration cooperation, and her appeal could set binding precedent on whether ICE may operate inside courthouses nationwide. Milwaukee also illustrates how a single DHS field office becomes a high-volume arrest engine independent of any detention buildout.
 
+## Later Developments
+
+- **Sentenced (July 8, 2026):** U.S. District Judge Lynn Adelman sentenced Dugan to a $5,000 fine, with no prison and no probation. Prosecutors had sought imprisonment; her attorney Jason Luczak said she would appeal to the Seventh Circuit (Urban Milwaukee, July 8, 2026).
+- **Appeal docketed (July 9, 2026):** *United States v. Dugan*, No. 26-2440 (7th Cir.). Paul D. Clement entered an appearance for Dugan on July 21, 2026.
+- **Briefing (docket entries):** Dugan's opening brief was filed Sept. 8, 2026; the government's brief was filed Oct. 29, 2026; Dugan's reply is due Nov. 19, 2026. The docket shows no oral-argument date or decision as of its last entry, Oct. 29, 2026.
+
 ## Sources
 
 - [Milwaukee judge found guilty on obstruction charge — CBS News (Dec 2025)](https://www.cbsnews.com/news/milwaukee-judge-hannah-dugan-found-guilty-obstruction-charge-migrant/)
@@ -52,3 +58,5 @@ The Dugan prosecution is one of the most aggressive federal moves against a sitt
 - [Dugan challenges ICE's authority in courthouse arrest — Wisconsin Law Journal (Feb 4 2026)](https://wislawjournal.com/2026/02/04/dugan-challenges-ices-authority-in-courthouse-arrest/)
 - [ICE makes fourth courthouse arrest in Milwaukee — Wisconsin Examiner](https://wisconsinexaminer.com/briefs/ice-makes-fourth-courthouse-arrest-in-milwaukee/)
 - [Steady arrests, shifting targets: ICE activity across Wisconsin — Wisconsin Watch (Apr 2026)](https://wisconsinwatch.org/2026/04/wisconsin-ice-immigration-customs-enforcement-activity-arrests-shifting-targets-latest-data/)
+- [Urban Milwaukee: Dugan sentenced to $5,000 fine, will appeal conviction (July 8, 2026)](https://urbanmilwaukee.com/2026/07/08/dugan-sentenced-to-5000-fine-will-appeal-conviction/)
+- [CourtListener docket: United States v. Hannah Dugan, No. 26-2440 (7th Cir.)](https://www.courtlistener.com/docket/73607182/united-states-v-hannah-dugan/)

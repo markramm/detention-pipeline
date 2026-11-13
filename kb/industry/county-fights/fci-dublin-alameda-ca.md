@@ -38,6 +38,8 @@ In early 2025, reports emerged that ICE was considering reopening FCI Dublin as 
 - **March 2026**: Lawmakers push for answers on future of site ([Pleasanton Weekly](https://www.pleasantonweekly.com/regional-politics/2026/03/04/lawmakers-push-for-answers-from-feds-on-future-of-fci-dublin-site/))
 - **April 9, 2026**: Alameda County Board of Supervisors unanimously passes resolution opposing reopening
 - **Community petition**: ICE Out of Dublin campaign active on Action Network
+- **May 5, 2026 (news conference; report reported May 6)**: The Bureau of Prisons released a 2,731-page environmental impact report on the site. It recommends the BOP permanently deactivate and close the prison. An attorney with the California Collaborative for Immigrant Justice said at a news conference that this would let GSA transfer the site to DHS. Public comment closed June 1 ([Pleasanton Weekly](https://www.pleasantonweekly.com/dublin/2026/05/06/new-report-could-mark-first-step-toward-reopening-fci-dublin-as-immigrant-detention-center/))
+- **September 2, 2026 (dated)**: BOP Director William K. Marshall III signs a nine-page final report concluding FCI Dublin should be deactivated permanently. About 7,500 comments were submitted, which the BOP described as "near unanimous in their opposition" to reuse for incarceration. The property goes to GSA; the report says further GSA action is outside its scope. DHS has told KTVU it has no plans to convert the site to ICE detention (reported September 17, 2026) ([KTVU](https://www.ktvu.com/news/bop-acknowledges-7-5k-people-want-demolish-fci-dublin-prison))
 
 ## Why It Matters
 
@@ -45,6 +47,8 @@ This is a textbook **preemptive community fight** — opposition organized befor
 
 ## Sources
 
+- [Pleasanton Weekly — New report could mark first step toward reopening (May 6, 2026)](https://www.pleasantonweekly.com/dublin/2026/05/06/new-report-could-mark-first-step-toward-reopening-fci-dublin-as-immigrant-detention-center/)
+- [KTVU — BOP acknowledges 7.5K people want to demolish FCI Dublin (Sep 17, 2026)](https://www.ktvu.com/news/bop-acknowledges-7-5k-people-want-demolish-fci-dublin-prison)
 - [Davis Vanguard — Alameda County opposes reopening](https://davisvanguard.org/2026/04/fci-dublin-closure-resolution-alameda/)
 - [Berkeleyside — County leaders oppose ICE jail](https://www.berkeleyside.org/2026/04/08/fci-dublin-ice-detention-alameda-board-of-supervisors-resolution)
 - [Oaklandside — County leaders oppose](https://oaklandside.org/2026/04/08/fci-dublin-ice-detention-alameda-board-of-supervisors-resolution/)
