@@ -6,7 +6,7 @@ county: Lubbock
 state: TX
 fips: "48303"
 facility: "Lubbock County Constable Precincts 1, 2 and 4 (no detention facility at issue)"
-status: lost
+status: adopted
 outcome: "On Nov 9, 2026 (voted) the Lubbock County Commissioners Court approved three separate items authorizing the County Judge to sign 287(g) Task Force Model MOAs with ICE for Constable Precincts 1, 2 and 4. Mover and seconder are recorded; a roll-call tally was not found. The Sheriff's Office has held a Jail Enforcement Model agreement since June 8, 2020."
 importance: 5
 tags:

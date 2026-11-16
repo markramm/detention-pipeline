@@ -6,7 +6,7 @@ county: Brazoria
 state: TX
 fips: "48039"
 facility: "Brazoria County Sheriff's Office (no detention facility at issue)"
-status: lost
+status: adopted
 outcome: "On Nov 10, 2026 (voted) the Brazoria County Commissioners Court approved, 5-0 on the consent agenda, a Memorandum of Agreement with ICE submitted by the Sheriff's Office. The attached form is the 287(g) Task Force Model. No opposition recorded in the minutes. The county already held a Warrant Service Officer MOA signed Aug 7, 2025."
 importance: 5
 tags:

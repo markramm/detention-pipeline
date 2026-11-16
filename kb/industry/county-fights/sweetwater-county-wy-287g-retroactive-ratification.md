@@ -6,7 +6,7 @@ county: Sweetwater
 state: WY
 fips: "56037"
 facility: "Sweetwater County Detention Center, Rock Springs"
-status: lost
+status: adopted
 outcome: "In early July 2026 (voted, per ACLU of Wyoming and WyoFile) the Sweetwater County Commission passed a resolution retroactively ratifying all ICE agreements former Sheriff John Grossnickle signed since 2020. The commission's own resolution and vote were not found. The related Laramie County suit over the same authority question was dismissed Aug 31, 2026 without deciding it."
 importance: 5
 tags:
