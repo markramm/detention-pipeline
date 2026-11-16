@@ -36,9 +36,14 @@ Incoming Gov. Abigail Spanberger moved within days of taking office (late Januar
 - **Local stance:** Augusta County officials emphasized they oppose using the former prison as an ICE facility.
 - **Why it matters:** This is the clearest example in Virginia of the prison-repurposing pipeline — a closed state prison nearly converted to ICE detention via a midnight executive directive, blocked only by a gubernatorial transition. It pairs with the Hanover warehouse block ([[hanover-va-terminated]]) and a similar proposal in Stafford County as the live VA facility-siting fights.
 
+## Later Developments
+
+- **March 31, 2026 (reported)**: A Department of General Services spokesperson confirmed to WMRA that the former prison is under contract to be sold. Buyer and price are not being disclosed until the sale is final, and the report does not say whether Moxie Asset Group remains the buyer or whether the contract follows Spanberger's review ([WMRA](https://www.wmra.org/2026-03-31/former-augusta-county-prison-site-under-contract-for-sale-highlighting-scale-of-land-owned-by-doc)). No closing or buyer announcement was found as of November 12, 2026.
+
 ## Sources
 
 - [Cardinal News: Spanberger rescinds Youngkin directive to sell Augusta Correctional Center](https://cardinalnews.org/2026/01/30/spanberger-rescinds-youngkin-directive-to-sell-augusta-correctional-center-unclear-if-move-linked-to-ice-interest/)
 - [Virginia Mercury: As ICE seeks to expand footprint in Va., Youngkin's final-day prison sale draws scrutiny](https://virginiamercury.com/2026/02/03/as-ice-seeks-to-expand-footprint-in-va-youngkins-final-day-prison-sale-directive-draws-scrutiny/)
 - [WVTF: Spanberger undoes one of Youngkin's last actions — a would-be ICE facility](https://www.wvtf.org/news/2026-01-29/spanberger-undoes-one-of-youngkins-last-actions-it-involves-a-would-be-ice-facility)
 - [ACLU: FOIA litigation reveals ICE considering seven new detention centers](https://www.aclu.org/press-releases/aclu-foia-litigation-reveals-ice-actively-considering-opening-six-new-immigration-detention-centers)
+- [WMRA: Former Augusta County prison site under contract for sale (March 31, 2026)](https://www.wmra.org/2026-03-31/former-augusta-county-prison-site-under-contract-for-sale-highlighting-scale-of-land-owned-by-doc)

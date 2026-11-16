@@ -6,7 +6,7 @@ county: Morris
 state: "NJ"
 facility: roxbury-nj-warehouse
 status: litigation
-outcome: "May 12, 2026: parties reached a joint stipulation that mooted the injunction hearing before Judge Semper — DHS agreed to complete a full NEPA environmental assessment before any construction, halting the rushed timeline. ICE may do limited work only (fence, CCTV, fire-alarm/sprinkler monitoring, custodial/grounds). After the assessment ICE decides whether to proceed and must give Roxbury/state 7 days' notice; parties then meet on next steps. A win on timing for NJ; outcome on the facility itself deferred to post-review."
+outcome: "Nov 6, 2026 (filed): New Jersey and Roxbury told the court DHS counsel said DHS had decided to pursue a detention facility at the site, after a reported $31.8M conversion order; on Nov 10 the judge ordered a joint schedule proposal by Nov 17 (amended complaint and renewed injunction motion contemplated). Earlier, May 12, 2026: parties reached a joint stipulation that mooted the injunction hearing before Judge Semper — DHS agreed to complete a full NEPA environmental assessment before any construction, halting the rushed timeline. ICE may do limited work only (fence, CCTV, fire-alarm/sprinkler monitoring, custodial/grounds). After the assessment ICE decides whether to proceed and must give Roxbury/state 7 days' notice; parties then meet on next steps. A win on timing for NJ; outcome on the facility itself deferred to post-review."
 importance: 9
 tags:
 - litigation
@@ -21,8 +21,8 @@ tags:
 - iwrnn
 research_status: working
 fips: '34027'
-last_news_check: '2026-06-05'
-last_researched: "2026-06-05"
+last_news_check: '2026-11-12'
+last_researched: "2026-11-12"
 case_number: '26-02884 (JKS) (JBC)'
 ---
 
@@ -44,6 +44,11 @@ ICE purchased a 470,000 sq ft warehouse in Roxbury Township, Morris County for *
 - **May 6, 2026**: NJ Solicitor General Shankar Duraiswamy files reply memorandum in support of preliminary injunction motion alongside Naima Drecker-Waxman declaration. Plaintiffs request emergency two-hour depositions of DHS officials DeGregorio and Byers before the May 12 hearing, characterizing DHS's account as having "zig-zagged over the past two months." DHS opposes depositions. Plaintiffs offer to drop the injunction motion if DHS commits in writing to defer all construction — including interior demolition — pending completion of environmental review. Brief flags DHS declarations describing work as "_mainly_ drywall demolition" as language signaling "undisclosed additional activity." Township engineer's declaration: local water system would be overwhelmed "even if the facility had no staff and only 323 detainees."
 - **May 12, 2026**: Rather than a contested injunction ruling, the parties filed a **joint stipulation** before Judge Semper that **mooted the hearing**. DHS agreed to **complete a full NEPA environmental assessment before any construction**, ending the rushed "operational in 90 days" timeline. ICE may perform only limited work in the interim — installing fencing and CCTV, monitoring fire alarms/sprinklers, and limited custodial/grounds maintenance. After the assessment concludes, ICE will decide whether to proceed and must notify Roxbury and state officials **7 days** in advance; the parties then reconvene to determine next steps, including whether further litigation is needed.
 - **June 5, 2026 (sweep)**: No change since the May 12 stipulation. No NEPA environmental assessment had been published and no 7-day notice-to-proceed had been filed. Construction remains halted pending the DHS review (which DHS conceded "can take months"). Facility status set to **paused-dhs-review**. The NJ flashpoint that escalated in this window was Delaney Hall (Newark), not Roxbury — see [[newark-nj-delaney-hall-fight]].
+
+- **June 29 to Sept 15, 2026 (docket)**: Per the plaintiffs' Nov 6 status report, DHS told the court after the stipulation that it had decided not to pursue a detention center at Roxbury, recanted two weeks later (not yet decided), and in later status reports said it had made no decision and had no timetable. Docket: State status report ECF 42 (June 29), defendants' notice ECF 44 (July 10), status reports ECF 45 (July 17), ECF 46 (July 20), ECF 50 (Sept 15). On Aug 13, 2026 Netcong Heights LLC filed motions to intervene (ECF 48, 49).
+- **September 2026 (reported)**: DHS later told Rep. Mejia that on two occasions in September ICE officers used the warehouse parking lot to initially process 14 detainees; NPR reported this Oct 13, 2026 after its Oct 8 story citing neighbors. DHS said no detainees were taken inside. Mejia called it "potentially in violation of a court order." (NPR via KUNC, linked below.)
+- **November 5-6, 2026**: Project Salt Box reported a $31.8 million order to SK2 LLC to renovate the Roxbury warehouse into a processing and detention center (reported Nov 6). The same day (filed Nov 6, ECF 51) New Jersey and Roxbury told the court DHS counsel had advised them "for the first time" that DHS had decided to proceed with pursuing a detention facility; counsel could not confirm the contract but said "money has been obligated for maintenance, design of ICE's preferred alternative, and the NEPA analysis of that design." Plaintiffs asked DHS for a copy of the contract and wrote that a conversion contract "raises significant concerns" about compliance with the May 12 order.
+- **November 10, 2026 (order)**: Judge Semper's text order (ECF 52) directed the parties to confer and file a joint status report by **Nov 17, 2026** proposing a schedule for future proceedings, including any amended complaint and renewed motion for preliminary injunction.
 
 ## The DHS Account Inconsistency
 
@@ -101,3 +106,7 @@ The legal-filing number understates what the facility is likely to actually hold
 - [CBS Baltimore: Judge blocks new Maryland ICE detention facility (April 15, 2026)](https://www.cbsnews.com/baltimore/news/maryland-immigration-ice-facility-work-paused-judge/) (Hurson ruling, 542/1,500 capacity gap, "four toilets" quote)
 - [Maryland Matters: Hundreds rally as judge blocks detention center construction (April 15, 2026)](https://marylandmatters.org/2026/04/15/hundreds-rally-against-ice-as-judge-agrees-to-block-detention-center-construction/) (community-organizing context for the MD ruling)
 - [Em Knepp / Project Saltbox: Follow the Money — April 2026 ICE Spending (May 3, 2026)](https://www.projectsaltbox.com/p/follow-the-money-april-2026-ice-spending) (April spending dropped 88% to $130M; KVG MD + GardaWorld AZ stop-work orders documented)
+- [NPR via KUNC: ICE has quietly used this warehouse as a detention facility all summer, neighbors say (Oct 8, 2026; updated Oct 13)](https://www.kunc.org/npr-news/2026-10-08/ice-has-quietly-used-this-warehouse-as-a-detention-facility-all-summer-neighbors-say)
+- [Plaintiffs' Status Report, ECF 51, D.N.J. 2:26-cv-02884 (filed Nov 6, 2026)](https://www.projectsaltbox.com/api/v1/file/3d3ae24b-5248-4184-9b79-b61537a6fd27.pdf)
+- [Project Salt Box: ICE to pay $32 million for Roxbury, N.J. warehouse conversion (Nov 6, 2026)](https://www.projectsaltbox.com/p/scoop-ice-to-pay-32-million-for-roxbury)
+- [CourtListener docket 72520349 (ECF 42-52)](https://www.courtlistener.com/docket/72520349/state-of-new-jersey-v-united-states-immigration-and-customs-enforcement/)

@@ -20,8 +20,8 @@ tags:
   - bipartisan-response
   - counter-legislation
 research_status: working
-last_researched: "2026-05-01"
-last_news_check: "2026-05-01"
+last_researched: "2026-11-12"
+last_news_check: "2026-11-12"
 ---
 
 # Connecticut / New Haven: DOJ Attacks the Trust Act
@@ -62,6 +62,16 @@ On the legislative front, **Senate Bill 397** — banning federal agents from we
 
 Connecticut is the first New England state to be named directly in a federal Supremacy Clause lawsuit over sanctuary policy. The case sets a template for DOJ's attack on state-level detainer refusal laws across the country — laws modeled on Connecticut's Trust Act exist in at least a dozen states. The Cheshire student case, running in parallel, demonstrated how abstract legal fights over "sanctuary" touch specific families and how bipartisan outrage over individual cases can harden political will to defend those policies.
 
+## Later Developments
+
+All items below come from the court docket for *United States v. State of Connecticut*, No. 3:26-cv-00568 (D. Conn., Judge Alvin W. Thompson). The docket shows the complaint docketed April 13, 2026 (the page above and CT Mirror date the suit April 14).
+
+- **Motions to dismiss filed July 6, 2026:** the City of New Haven and Mayor Elicker (entry 29) and the State, Gov. Lamont and AG Tong (entry 31) each moved to dismiss.
+- **Intervention denied (ruled Sept. 1, 2026):** Thompson denied a motion to intervene (entry 79). On Oct. 7, 2026 he ordered the clerk not to docket further filings from the denied intervenor (entry 92).
+- **Briefing on the motions (filed Sept. 24 and Sept. 29, 2026):** New Haven filed a reply on Sept. 24 (entry 89); the State defendants filed a paper on Sept. 29 captioned a response to their own motion to dismiss (entry 90).
+- **Supplemental authority:** the court granted New Haven's motion for leave to file a notice of supplemental authority on Oct. 22, 2026 (entry 95).
+- **Status as of Nov. 12, 2026:** the docket, last updated with a Nov. 12 motion by a New Haven lawyer to withdraw (entry 97), shows no ruling on either motion to dismiss.
+
 ## Sources
 
 - [CT Mirror: DOJ sues CT and New Haven (April 14, 2026)](https://ctmirror.org/2026/04/14/us-doj-sues-connecticut-new-haven-sanctuary-policies/)
@@ -72,3 +82,4 @@ Connecticut is the first New England state to be named directly in a federal Sup
 - [CT Public: Officials call for Rihan's release (April 10, 2026)](https://www.ctpublic.org/news/2026-04-10/ct-officials-call-for-release-of-cheshire-teen-detained-by-ice)
 - [Shelton Herald: CT Senate passes ICE oversight bill](https://www.sheltonherald.com/politics/article/ct-ice-oversight-bill-immigration-enforce-senate-22205617.php)
 - [CT.gov: Q&A on the DOJ lawsuit against CT](https://portal.ct.gov/sots/press-releases/2026-press-releases/questions-and-answers-about-the-lawsuit-filed-by-the-department-of-justice-against-ct)
+- [CourtListener docket: United States v. State of Connecticut, 3:26-cv-00568 (D. Conn.)](https://www.courtlistener.com/docket/73183416/united-states-v-state-of-connecticut/)

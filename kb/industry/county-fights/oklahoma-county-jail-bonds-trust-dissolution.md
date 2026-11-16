@@ -21,7 +21,7 @@ tags:
 - federal-takeover-threat
 - commission-activity
 research_status: working
-last_researched: "2026-10-14"
+last_researched: "2026-11-12"
 ---
 
 # Oklahoma County: New Jail Financing Crisis Meets Enforcement Surge
@@ -91,6 +91,17 @@ governance vacuum — that makes county jails candidates for federal detention c
 
 The Criminal Justice Authority was still operating in July 2026: a Govly summary of its "Criminal Justice Authority Regular Meeting 07/13/2026" lists municipal jail services agreements with several cities at a standardized daily rate, a Benchmark contract for inmate services, acceptance of FY25-26 audited financials noting "a deficiency in cash reconciliations," and a trunk radio agreement with the City of Oklahoma City. The summary does not mention ICE, immigration or federal contracts. No evidence of completed dissolution was found. The October 14, 2026 citizens advisory board agenda could not be located on a fetchable page.
 
+## Update (November 12, 2026): Oct 20 to Nov 10 agenda items, no ICE item found
+
+The county's Legistar record for Oct 12 to Nov 10, 2026 was read item by item for ICE, immigration, 287(g), IGSA, U.S. Marshals or federal-detainee language. None of the Oklahoma County bodies listed one. What the items show:
+
+- **Criminal Justice Authority still operating (Nov 9, 2026, voted):** The Authority met, approved its Oct 12 minutes, received the jail administrator's operations and finance reports, and approved a Justice Reinvestment Initiative grant application to the Bureau of Justice Assistance for behavioral-health screening, treatment and inmate monitoring. It approved a memorandum of understanding with Medical Justice Alliance, Inc. for record review and expert opinions supporting petitions to release people from custody for medical care. A motion to table the competing sets of Authority bylaws is recorded. It went into executive session on Estate of Doyle v. OCCJA, CIV-25-384-SLP. Dissolution, recommended by the Budget Board on Mar 18, 2026, had not taken effect.
+- **MGT Consulting contract (Nov 9, 2026, voted):** The item, requested by Chairman Jim Holman, was to "approve contract with MGT Consulting to determine the actual cost of incarceration at the Oklahoma County Detention Center for purposes of judicial declaration as required by Hubbard v. State, 45 P.3d 96 (Okl.Cr. 2002)." The record shows it as passed. The attachment is a master services agreement dated Oct 29, 2025 with one-year renewable terms; prices and scope sit in separate statements of work, which were not attached. The purpose is a per-detainee cost finding under state law, not a federal rate.
+- **New jail and Behavioral Care Center (Oct 20, 2026):** The Citizens Bond Oversight Advisory Board took updates from Flintco on Phase 1 of the Adult Detention Center and on the Behavioral Care Center, with a phase 1 log, change-order log and financials attached. No action was taken on the items. On Oct 15, 2026 the Budget Board listed appropriations of miscellaneous receipts for September 2026: up to $651,337.85 to Jail Bonds 2025 Fund 2035 and up to $49,933.85 to Capital Projects New Jail Fund 2080.
+- **Citizens advisory board (Oct 14 and Nov 10, 2026):** The agenda titles are detention-center presentations and focus-group scheduling; no text was available.
+
+The ICE status above is unchanged: no federal bed, 287(g) or IGSA item has appeared for the Oklahoma County Detention Center.
+
 ## Sources
 
 - [Bond Buyer: Oklahoma County jail cost soars to $835 million](https://www.bondbuyer.com/news/oklahoma-county-jail-cost-soars-to-835-million)
@@ -101,3 +112,7 @@ The Criminal Justice Authority was still operating in July 2026: a Govly summary
 - [NonDoc: Lowe seeks state audit of OK County jail trust](https://nondoc.com/2026/03/02/lowe-seeks-state-audit-of-ok-county-jail-trust-other-commissioners-leery/) (Mar 2, 2026)
 - [News9: Proposed sales tax could prevent property tax spike for new jail](https://www.news9.com/oklahoma-city-news/proposed-sales-tax-could-prevent-property-tax-spike-for-new-oklahoma-county-jail)
 - [Govly: Criminal Justice Authority Regular Meeting (Jul 13, 2026)](https://app.govly.com/public/meetings/47861)
+- [Oklahoma County Criminal Justice Authority agenda, Nov 9, 2026 (PDF)](https://oklahomacounty.legistar1.com/oklahomacounty/meetings/2026/11/5617_A_Criminal_Justice_Authority_26-11-09_Regular_Meeting_Agenda.pdf)
+- [MGT Consulting master services agreement, attached to the Nov 9, 2026 item (PDF)](https://oklahomacounty.legistar1.com/oklahomacounty/attachments/413eee14-14ed-49bf-b5aa-d21ee5c00970.pdf)
+- [Citizens Bond Oversight Advisory Board agenda, Oct 20, 2026 (PDF)](https://oklahomacounty.legistar1.com/oklahomacounty/meetings/2026/10/5693_A_Citizens_Bond_Oversight_Advisory_Board_26-10-20_Regular_Meeting_Agenda.pdf)
+- [Budget Board agenda, Oct 15, 2026 (PDF)](https://oklahomacounty.legistar1.com/oklahomacounty/meetings/2026/10/5672_A_Budget_Board_26-10-15_Regular_Meeting_Agenda.pdf)

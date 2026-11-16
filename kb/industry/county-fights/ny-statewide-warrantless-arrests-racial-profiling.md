@@ -29,14 +29,19 @@ last_news_check: "2026-05-01"
 
 ## The Fight
 
-Between October 2025 and April 2026, ICE and CBP agents conducted a surge of immigration arrests across New York — sweeping up **collateral** detainees (people who were not the stated targets of any enforcement action) along with intended targets. On **April 8, 2026**, the Legal Aid Society, NYCLU, Make the Road New York, and Covington & Burling LLP filed a federal class action in the Eastern District of New York challenging what they describe as a policy and practice of stopping New Yorkers based solely on perceived race and ethnicity, without the individualized reasonable suspicion required by law, and making warrantless arrests without the probable cause the statute demands. The case is *NYCLU v. ICE and CBP*, EDNY.
+Between October 2025 and April 2026, ICE and CBP agents conducted a surge of immigration arrests across New York — sweeping up **collateral** detainees (people who were not the stated targets of any enforcement action) along with intended targets. On **April 8, 2026**, the Legal Aid Society, NYCLU, Make the Road New York, and Covington & Burling LLP filed a federal class action in the Eastern District of New York challenging what they describe as a policy and practice of stopping New Yorkers based solely on perceived race and ethnicity, without the individualized reasonable suspicion required by law, and making warrantless arrests without the probable cause the statute demands. The case is *NYCLU v. ICE and CBP*, EDNY (docketed as *Benitez v. U.S. Department of Homeland Security*, No. 2:26-cv-02082).
 
 ## Timeline
 
 - **2025-10 to 2026-03**: ICE and CBP conduct hundreds of stops and arrests across greater New York; legal organizations document cases of people stopped while working, running errands, or driving — with agents providing no articulable basis beyond apparent Latino identity
 - **2026-04-08**: Legal Aid Society, NYCLU, Make the Road NY, and Covington & Burling file class action in EDNY on behalf of eight named Latino plaintiffs and the Workers' Center of Central New York; named defendants are DHS, ICE, and CBP
 - **2026-04-09**: NYCLU issues press release; The City, Documented NY, and wire services cover the filing
-- **2026 (ongoing)**: Case in early stages; plaintiffs seeking class certification and injunctive relief to bar suspicionless stops
+- **2026-05-18 (ruled, separate case)**: In *Sanchez Alfaro v. Mullin*, No. 26-CV-0766 (E.D.N.Y.), Judge Gary R. Brown enjoined ICE from making civil immigration arrests in the Eastern District of New York without first obtaining a valid arrest warrant, except where an officer has reason to believe the person is likely to escape (as quoted in the court's October 21 order in this case)
+- **2026-05-29 (filed)**: Defendants move to dismiss for lack of jurisdiction and oppose the preliminary injunction (Dkt. 50). **2026-06-22 (ordered)**: Judge Sanket J. Bulsara holds the class certification and preliminary injunction motions in abeyance pending expedited discovery
+- **2026-09-14 (filed)**: Both sides file supplemental memoranda on the motions for preliminary relief, provisional class certification and to dismiss (Dkt. 89, 90). **2026-09-30 (ruled)**: Magistrate Judge James M. Wicks denies Defendants' motion to stay (Dkt. 100)
+- **2026-10-19 (held)**: Settlement conference before Judge Wicks; case not resolved
+- **2026-10-21 (ordered)**: Judge Bulsara directs both sides to file letters by November 4 on how the *Sanchez Alfaro* injunction affects the relief sought
+- **2026-11-09 (ruled)**: After a hearing on Defendants' November 4 letter (Dkt. 111), Judge Bulsara found prima facie Rule 11 violations. He barred the Assistant U.S. Attorney who signed from further appearances, required all future filings to be signed by the Chief of the Civil Division of the U.S. Attorney's Office for the E.D.N.Y. or higher, ordered the office to show cause by November 16 why sanctions should not be imposed, and warned that if future misrepresentation is confirmed the court will enter default judgment for Plaintiffs with only remedies left to decide. The docket text does not state the nature of the misstatements
 
 ## Geographic Pattern of Incidents
 
@@ -77,3 +82,4 @@ The complaint alleges agents routinely ignore both standards — stopping people
 - [Documented NY: A surge in the shadows (Apr 9, 2026)](https://documentedny.com/2026/04/09/ice-racial-profiling-lawsuit-nyc/) — Immigrant community impact analysis
 - [Queens Daily Eagle: DHS sued for illegal stops in New York (Apr 10, 2026)](https://queenseagle.com/all/2026/4/10/department-of-homeland-security-sued-for-illegal-stops-and-arrests-in-new-york) — Local coverage with geographic detail
 - [The Haitian Times: Warrantless ICE arrests and racial profiling in NY (Apr 19, 2026)](https://haitiantimes.com/2026/04/19/ice-lawsuit-racial-profiling-new-york/) — Coverage with Haitian community context
+- [CourtListener docket: Benitez v. U.S. Department of Homeland Security, No. 2:26-cv-02082 (E.D.N.Y.), entries through Nov 12, 2026](https://www.courtlistener.com/docket/73165998/benitez-v-us-department-of-homeland-security/)

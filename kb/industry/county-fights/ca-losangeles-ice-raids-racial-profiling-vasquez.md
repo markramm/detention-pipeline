@@ -67,6 +67,11 @@ A parallel injunction sought by the **LA Press Club** — covering First Amendme
 - **2026-04**: ICE arrests Isaac Villegas at scheduled check-in — apparent retaliation for lawsuit participation
 - **2026-04**: U.S. District Judge Michelle Williams orders Villegas' immediate release
 - **2026-04 (late)**: ICE re-detains Villegas, transfers to Adelanto; additional habeas proceedings
+- **2026-07-27 (filed)**: Stop/Arrest Plaintiffs file a motion for a preliminary injunction against detentive stops based on appearance as Latino or Latino and working-class (Dkt. 632)
+- **2026-10-23 (ruled)**: Judge Maame Ewusi-Mensah Frimpong partially grants the preliminary injunction and class certification, and grants the cities' joinder (Dkt. 807, 808). The order, as described in her November 2 ruling, finds Plaintiffs showed an officially sanctioned policy of stopping people for immigration enforcement based on appearance, and enjoins reliance on "racial stereotyping" or "solely on apparent status as low-income or working-class and Latino" in developing reasonable suspicion for detentive stops within the district. The caption is now *Vasquez Perdomo v. Mullin* (the City of Los Angeles and other cities are intervenor-plaintiffs)
+- **2026-10-28 (filed)**: Defendants appeal to the Ninth Circuit (Dkt. 820; No. 26-7277) and apply for a stay (Dkt. 821)
+- **2026-11-02 (ruled)**: District court denies the stay of the injunction and of all proceedings (Dkt. 840)
+- **2026-11-06 (ordered; docketed Nov 11)**: A Ninth Circuit panel (Gould, Berzon, Sung) temporarily administratively stays the October 23 preliminary injunction "in accord with the positions of" both sides and sets briefing on the stay motion (responses due Nov 11, reply Nov 16) (Dkt. 850)
 
 ## Key Actors
 
@@ -92,3 +97,6 @@ This case is not about a detention facility — it's about whether ICE can profi
 - [Public Counsel: Court Prohibits Federal Government from Racial Profiling, Denying Access to Counsel](https://publiccounsel.org/press-releases/breaking-court-prohibits-federal-government-from-racial-profiling-denying-access-to-counsel-in-immigration-raids-2/)
 - [ACLU-SDIC: U.S. Supreme Court Grants Stay in L.A. Raids Case](https://www.aclu-sdic.org/press-releases/us-supreme-court-grants-stay-la-raids-case/)
 - [ImmDef: Vasquez Perdomo v. Noem — case tracking](https://www.immdef.org/litigation-and-advocacy/vasquez-perdomo-v-noem)
+- [CourtListener docket: Vasquez Perdomo v. Mullin, No. 2:25-cv-05605 (C.D. Cal.), entries through Nov 11, 2026](https://www.courtlistener.com/docket/70594806/pedro-vasquez-perdomo-v-markwayne-mullin/)
+- [C.D. Cal. minute order denying stay, Dkt. 840 (Nov 2, 2026)](https://storage.courtlistener.com/recap/gov.uscourts.cacd.975351/gov.uscourts.cacd.975351.840.0.pdf)
+- [Ninth Circuit order, No. 26-7277 (filed Nov 6, 2026), Dkt. 850](https://storage.courtlistener.com/recap/gov.uscourts.cacd.975351/gov.uscourts.cacd.975351.850.0.pdf)

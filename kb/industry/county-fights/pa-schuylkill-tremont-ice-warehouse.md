@@ -6,8 +6,8 @@ county: "Schuylkill"
 state: PA
 fips: "42107"
 facility: "Former Big Lots Warehouse, 50 Rausch Creek Road, Tremont Township (7,500 beds planned — largest proposed in US)"
-status: paused
-outcome: "DHS purchased the 1.3-million sq ft former Big Lots distribution warehouse in Tremont Township on January 29, 2026 for $119.5M, planning a 7,500-bed detention facility — the largest proposed in the United States. PA DEP's March 5, 2026 orders block water and sewer connection and prohibit occupancy. The facility would require 800,000 gallons of water per day — double the local system's entire capacity, enough to drain the community reservoir in a single day. ICE and DHS appealed to the PA Environmental Hearing Board on April 8; both PA sites are in a single consolidated proceeding with a discovery/negotiation schedule running through November 4, 2026."
+status: won
+outcome: "ICE confirmed in writing in July 2026 it will not use the warehouse for detention and withdrew its EHB appeal (reported July 23, 2026); DEP orders remain in place. Earlier: DHS purchased the 1.3-million sq ft former Big Lots distribution warehouse in Tremont Township on January 29, 2026 for $119.5M, planning a 7,500-bed detention facility — the largest proposed in the United States. PA DEP's March 5, 2026 orders block water and sewer connection and prohibit occupancy. The facility would require 800,000 gallons of water per day — double the local system's entire capacity, enough to drain the community reservoir in a single day. ICE and DHS appealed to the PA Environmental Hearing Board on April 8; both PA sites are in a single consolidated proceeding with a discovery/negotiation schedule running through November 4, 2026."
 importance: 10
 tags:
   - dep-orders
@@ -22,8 +22,8 @@ tags:
   - mega-facility
   - big-lots
 research_status: working
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-11-12"
+last_news_check: "2026-11-12"
 ---
 
 # Schuylkill County, PA: The Tremont Township Mega-Facility Fight
@@ -73,6 +73,13 @@ The Tremont facility, if built, would be the largest ICE detention center in Ame
 
 The Schuylkill fight also reveals a **partisan split within Pennsylvania's Republican delegation**: while Gov. Shapiro's administration uses every available regulatory lever, Rep. Meuser negotiated cooperatively with DHS. The Environmental Hearing Board proceeding now determines whether state environmental law is a real barrier or a delay tactic — and that outcome will reverberate across every other warehouse conversion DHS is attempting nationwide.
 
+## Later Developments
+
+- **ICE letters to DEP (reported July 22, 2026):** per the Pennsylvania Capital-Star (via WITF, July 23, 2026), ICE confirmed in writing, the week before, that it would not use the Upper Bern and Tremont warehouses as detention centers; Gov. Shapiro's media team released the letters on Wednesday, which the article's timing places on July 22 (an inference from "late Wednesday").
+- **Appeal withdrawn (filed July 22, 2026, inferred):** ICE dropped its Environmental Hearing Board appeal of the DEP orders in a one-sentence filing posted to the board's docket the same evening.
+- **DEP orders remain:** a statement from the Shapiro administration said the orders "will remain in place" even though DHS confirmed the warehouses will not be used for detention.
+- **Warehouses' status:** the article does not confirm a sale or any new use; it says the properties no longer generate tax revenue and that DHS properties do not qualify for payments in lieu of taxes. Tremont had been planned for up to 7,500 detainees.
+
 ## Sources
 
 - [WVIA: Feds buy Schuylkill County warehouse expected to house detainees (February 2, 2026)](https://www.wvia.org/news/local/2026-02-02/feds-buy-schuylkill-county-warehouse-expected-to-house-immigrant-detainees)
@@ -86,3 +93,4 @@ The Schuylkill fight also reveals a **partisan split within Pennsylvania's Repub
 - [Coal Region Canary: Rep. Meuser issues statement on DHS commitments (March 27, 2026)](https://coalregioncanary.com/2026/03/27/us-rep-dan-meuser-update-dhs-ice-detention-centers-schuylkill-berks-county/)
 - [Times News Online: ICE challenges state order barring Schuylkill center (April 14, 2026)](https://www.tnonline.com/20260414/ice-challenges-state-order-barring-schuylkill-center/)
 - [Skooku News: DHS Purchase of Former Big Lots Warehouse — Split County Reaction](https://www.skooknews.com/2026/02/dhs-purchase-of-former-big-lots.html)
+- [Pennsylvania Capital-Star / WITF: ICE withdraws appeal of Pa. environmental directives tied to warehouse purchases (July 23, 2026)](https://www.witf.org/2026/07/23/ice-withdraws-appeal-of-pa-environmental-directives-tied-to-warehouse-purchases/)

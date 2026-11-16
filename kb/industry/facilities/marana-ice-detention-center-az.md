@@ -7,11 +7,11 @@ location: "Marana Community Correctional Treatment Facility, Marana, AZ (Pima Co
 county: "Pima"
 state: 'AZ'
 fips: "04019"
-capacity: "513 (procurement order seeks 775)"
+capacity: "775 beds (per MTC, Sept 30, 2026); 513 at state-prison size"
 operator: "Management & Training Corporation (MTC)"
 contract_type: "sole-source ICE contract (2-year term)"
 per_bed_day_rate: "unknown"
-annual_value: "unknown (MTC purchased facility for $15M in July 2025)"
+annual_value: "SAM.gov entry: more than $355M contract plus a delivery order of more than $25M (reported Oct 8, 2026); MTC purchased facility for $15M in July 2025"
 status: proposed
 opened: "Target November 30, 2026"
 importance: 8
@@ -26,7 +26,7 @@ tags:
 - community-opposition
 - congressional-opposition
 research_status: working
-last_researched: 2026-06-02
+last_researched: 2026-11-12
 ---
 
 # Marana ICE Detention Center — MTC's Former State Prison Conversion
@@ -92,6 +92,12 @@ Immigration attorney Daniela Ugaz of Pima Resists I.C.E. stated: "There is no wa
 
 **Note (May 2026)**: As of late May 2026 MTC says no final contract has been signed and a "formal process" remains; the Nov. 30, 2026 activation target and 775-bed ceiling are unchanged. No new litigation specific to Marana; opposition continues via resolutions and protests (see fight entry).
 
+## Update (November 12, 2026): contract signed, not yet reported open
+
+- **Contract (signed Sept 29, 2026):** MTC said in a statement that it signed a contract with ICE on Sept. 29, 2026 to operate the Marana facility, expected to open within 60 days and to hold 775 beds with about 338 full-time employees (AZ Luminaria, Sept 30, 2026; AZPM, updated Oct 8, 2026). AZPM reported a SAM.gov entry describing a contract of more than $355 million for "comprehensive housing, transportation and medical services" and a delivery order of more than $25 million; many contract details remain unclear. MTC had told AZPM on Sept 17 it had no update to provide. The 775 figure replaces the earlier 513 and the Nov 30 "target" above.
+- **Town business license (Oct 28, 2026, letter; reported Nov 10):** MTC applied on Oct 1, 2026 for a Marana business license to "Operate Marana Detention Facility." In an Oct 28 letter, Marana's license inspector asked MTC for a written explanation of an "apparent inconsistency" between state records, which reference three allegations of sexual misconduct at the prison in 2022 and 2023, and the facility's PREA audit certified in December 2023, which recorded none. The letter says the town is looking into whether MTC "made a material false statement," which the town code lists as a ground for denial. The assistant town manager told LOOKOUT and The Intercept the application "remains under review, and no final determination has been made." MTC did not respond to the outlets' requests. A license is one of the few local levers (LOOKOUT/The Intercept, Nov 10, 2026).
+- **Opened?** No report of a first detainee arrival or an opening date was found as of Nov 12, 2026. The 60-day window from Sept 29 ends about Nov 28.
+
 ## Sources
 
 - [AZ Mirror: ICE plans to reopen Marana private prison as 513-bed immigration detention center (Feb 27, 2026)](https://azmirror.com/2026/02/27/ice-plans-to-reopen-marana-private-prison-as-513-bed-immigration-detention-center/)
@@ -106,3 +112,6 @@ Immigration attorney Daniela Ugaz of Pima Resists I.C.E. stated: "There is no wa
 - [AZ Governor: ADCRR to save $15 million by ending private prison contract (Nov 2023)](https://azgovernor.gov/office-arizona-governor/news/2023/11/adcrr-save-15-million-ending-private-prison-contract-marana)
 - [Rep. Grijalva: Demand transparency on potential immigration detention facility in Marana](https://grijalva.house.gov/media/press-releases/grijalva-stanton-ansari-demand-transparency-on-potential-immigration-detention-facility-in-marana)
 - [KTAR: ICE bids to reopen Marana prison as immigration facility](https://ktar.com/immigration/ice-reopen-marana-prison-detention/5828713/)
+- [AZ Luminaria: MTC says it will open ICE detention center in Marana within 60 days (Sept 30, 2026)](https://azluminaria.org/2026/09/30/mtc-says-it-will-open-ice-detention-center-in-marana-within-60-days/)
+- [AZPM: Prison firm signs contract with ICE for Marana detention facility (Sept 30, 2026; updated Oct 8)](https://news.azpm.org/p/news-articles/2026/9/30/231392-prison-firm-signs-contract-with-ice-for-marana-facility/)
+- [The Intercept / LOOKOUT: Arizona town's probe on sex abuse claims could block prison firm building new ICE camp (Nov 10, 2026)](https://theintercept.com/2026/11/10/arizona-ice-camp-mtc-sexual-abuse/)

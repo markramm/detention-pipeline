@@ -35,7 +35,7 @@ The facility sits in the high desert of eastern Kern County, roughly 100 miles n
 
 ## The Fight
 
-On **November 12, 2025**, the ACLU filed **Gomez Ruiz et al. v. ICE** (N.D. Cal.) on behalf of seven detained people. The case alleged systematic violations of the First Amendment, Fifth Amendment, and the Rehabilitation Act, documenting:
+On **November 12, 2025**, the ACLU filed **Gomez Ruiz et al. v. ICE** (N.D. Cal.; later transferred to E.D. Cal.) on behalf of seven detained people. The case alleged systematic violations of the First Amendment, Fifth Amendment, and the Rehabilitation Act, documenting:
 
 - **Medical neglect** of people with cancer, heart disease, diabetes, and other serious conditions — including failure to provide prescribed medications or specialist referrals
 - **Excessive solitary confinement** and frequent lockdowns leaving people with no programming or human contact
@@ -60,6 +60,12 @@ On **February 11, 2026**, the U.S. District Court for the Northern District of C
 - **2026-02-11**: District court grants preliminary injunction; provisional class certification for 1,000+ detainees
 - **2026-02**: ACLU files motion seeking emergency medical care for named plaintiffs with life-threatening conditions
 - **2026 (ongoing)**: Compliance monitoring underway; CoreCivic/ICE contesting scope
+- **2026-04-03 (filed)**: Case now docketed in the Eastern District of California as *Ruiz v. U.S. Immigration & Customs Enforcement*, No. 1:26-cv-02546 (Judge Jennifer L. Thurston; Magistrate Judge Christopher D. Baker). The February orders were entered before the transfer
+- **2026-05-26 (filed)**: CoreCivic files a notice of appeal to the Ninth Circuit of orders at Dkt. 111 and 112 (docketed as No. 26-3344)
+- **2026-07-27 (filed)**: Plaintiffs file the external monitor's report with the court (Dkt. 166). On July 28 the court ordered comments on the draft report be handled per the schedule it later adopted (Dkt. 167, 176)
+- **2026-08-21 (filed)**: Defendants (ICE/DHS officials) file objections to the monitor's report (Dkt. 180)
+- **2026-10-26 (filed)**: Plaintiffs file a motion to enforce the court's order on constitutionally adequate health care (Dkt. 188)
+- **2026-11-05 (ruled)**: Court denies Defendants' ex parte application to hold briefing on the motion to enforce until after the court rules on their objections to the monitor's report (Dkt. 195). On November 6 the court approved a stipulation resetting the schedule: Defendants' opposition due November 16, Plaintiffs' reply due December 4, hearing reset (Dkt. 198)
 
 ## Key Actors
 
@@ -85,3 +91,4 @@ The preliminary injunction is notable precisely because courts almost never issu
 - [Prison Law Office: California City case page](https://prisonlaw.com/california-city)
 - [ACLU: Inside California City — detainees describe medical neglect](https://www.aclu.org/news/immigrants-rights/inside-an-ice-detention-center-detained-people-describe-severe-medical-neglect-harrowing-conditions)
 - [Truthout: ACLU Suit Targets "Dire" Conditions at CoreCivic-Run ICE Jail in California](https://truthout.org/articles/aclu-suit-targets-dire-conditions-at-corecivic-run-ice-jail-in-california/)
+- [CourtListener docket: Ruiz v. U.S. Immigration & Customs Enforcement, No. 1:26-cv-02546 (E.D. Cal.), entries through Nov 12, 2026](https://www.courtlistener.com/docket/73143936/ruiz-v-us-immigration-customs-enforcement/)

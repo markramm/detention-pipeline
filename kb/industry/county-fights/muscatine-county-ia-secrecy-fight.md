@@ -10,7 +10,7 @@ outcome: "Iowa Freedom of Information Council sued Muscatine County in district 
 importance: 7
 tags: [iowa, transparency, secrecy-clause, igsa, public-records, ethics, muscatine, accountability-darkness, madan-pattern]
 research_status: working
-last_researched: "2026-04-13"
+last_researched: "2026-11-13"
 last_news_check: '2026-05-06'
 fips: '19139'
 ---
@@ -37,6 +37,13 @@ Muscatine County's ICE contract contains an extraordinary confidentiality clause
 - **March 20, 2026**: Federal judge criticizes ICE for "illegally keeping man" in Muscatine jail
 - **April 2026**: Iowa-wide ICE litigation expands; more detainees held in Iowa jails sue the federal government; Iowa State Patrol's "Operation ICE Wall" triggers additional litigation
 
+## Detainee Litigation Against the Muscatine Jail (added Nov 13, 2026)
+
+These federal habeas suits name the Muscatine County sheriff as a respondent because the jail holds the detainees. They concern the length and basis of detention, not the contract secrecy dispute above.
+
+- **Mutasim Ibrahim Abdoulrahman Nour (Sudan).** Per Iowa Capital Dispatch (June 22-23, 2026, via Little Village): he alleges ICE apprehended him on July 7, 2024, he was held at the Freeborn County Detention Center in Albert Lea, MN, and was moved without warning to the Muscatine County Jail in December 2025; he had been in federal custody 23 months without a bond hearing. His lawyers sued June 17, 2026 (per the July 8 article), citing a 2004 ICE memorandum favoring release of people granted protection relief (the Accardi doctrine). Iowa Capital Dispatch (July 8, 2026, via KCRG and KTIV): Chief Judge Stephanie Rose of the S.D. Iowa dismissed the suit, finding the memorandum has no force of law and that he "admits he is an applicant for admission... subject to mandatory detention." The articles do not say whether he has since been released; his DHS appeal was pending at the Board of Immigration Appeals.
+- **Two Togolese asylum seekers (A.J.B.G., 23, and K.D., 47).** Per Iowa Capital Dispatch (Oct 21, 2026, via Yahoo News): each sued in federal court against Sheriff Quinn Riess and federal officials. Both say they were released by Border Patrol in January 2025 and arrested by ICE in August 2026 at check-ins (one at the Cedar Rapids office), then held at the Muscatine County Jail. One seeks a bond hearing with the burden on the government; the other seeks restoration of his January 2025 release conditions. Chief Judge Rose ordered federal officials to respond on K.D.'s detention by Oct. 26, 2026. No later ruling was found.
+
 ## Why It Matters
 
 This is a textbook example of how ICE uses contractual secrecy to prevent public oversight of detention conditions. The gag clause raises serious First Amendment and state public records law questions. The ethics complaint and resignation of the county attorney suggest the arrangement may have been legally problematic from the start. Neighboring Polk County — which has held ICE detainees for years — keeps its contract publicly available, undermining the federal-law-bars-disclosure claim that Muscatine asserted.
@@ -51,6 +58,10 @@ This is a textbook example of how ICE uses contractual secrecy to prevent public
 The mechanism now spans federal, state, and local levels and all three branches of government plus state-judicial precedent; Muscatine adds **state-court litigation by a press-freedom coalition (Iowa FOIC + The Gazette)** as a new resistance modality, alongside the conflicted-county-attorney ethics dimension that distinguishes it from Geauga OH (records affidavit / temporal scoping) and Bradford FL (agenda-stuffing).
 
 ## Sources
+
+- [After 23 months in ICE custody, Sudanese man seeks release from Muscatine County Jail — Iowa Capital Dispatch via Little Village (June 23, 2026)](https://littlevillagemag.com/sudanese-man-two-years-muscatine-county-jail/)
+- [Judge dismisses lawsuit by Sudanese man jailed for two years by ICE — Iowa Capital Dispatch via KCRG (July 8, 2026)](https://www.kcrg.com/2026/07/08/judge-dismisses-lawsuit-by-sudanese-man-jailed-two-years-by-ice/)
+- [Asylum-seekers from West Africa seek release from Muscatine County Jail — Iowa Capital Dispatch via Yahoo News (Oct 21, 2026)](https://www.yahoo.com/news/us/articles/asylum-seekers-west-africa-seek-193846206.html)
 
 - [Muscatine County's agreement to jail ICE detainees remains secret](https://iowacapitaldispatch.com/2026/02/20/muscatine-countys-agreement-to-jail-ice-detainees-remains-secret/) — Iowa Capital Dispatch
 - [Muscatine County now says 'federal law' bars disclosure of contract with ICE](https://iowacapitaldispatch.com/2026/03/03/muscatine-county-now-says-federal-law-bars-disclosure-of-contract-with-ice/) — Iowa Capital Dispatch

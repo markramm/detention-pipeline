@@ -10,7 +10,7 @@ outcome: "Ohio Supreme Court ruled for sheriff Apr 2 2026 on date-range technica
 importance: 7
 tags: [aclu, transparency, secret-contract, ohio-supreme-court, foia, accountability-darkness]
 research_status: working
-last_researched: "2026-06-02"
+last_researched: "2026-11-13"
 last_news_check: '2026-06-02'
 fips: '39055'
 ---
@@ -29,13 +29,13 @@ Geauga County has refused to release its contract with ICE to house immigration 
 - **August 2025**: Ohio Supreme Court agreed to hear the case, ordered evidence and briefs
 - **April 2, 2026**: Ohio Supreme Court ruled per curiam for Sheriff Scott Hildenbrand. The sheriff's office submitted a records-clerk affidavit stating it had executed NO contracts with DHS, ICE, or U.S. Marshals during June 1 2024 – March 3 2025. The same affidavit acknowledged a U.S. Marshals contract executed March 20 2024 / effective April 1 2024 — just outside the requested window. The court held Rosnick "has not established by clear and convincing evidence that the sheriff's office possesses records responsive to her public-records request that it has failed to produce."
 - **ACLU response (Apr 2026)**: "Although we're disappointed with this outcome, it's critical to note that the court did not find the requested contracts to be exempt from public records requests."
-- **Operational facts (Apr 2026)**: Geauga Safety Center holds ~37 ICE detainees daily (capacity 182); county received ~$1.2 million in past year at $100/detainee/day; one of six Ohio jails contracting with ICE
+- **Operational facts (Apr 12, 2025 phone interview, not 2026)**: Sheriff Hildenbrand told the Geauga County Maple Leaf (Apr 12, 2025) that 37 ICE detainees were then held at the jail and the county had received roughly $1.2 million in the past year for housing ICE detainees; in a January 2025 interview he said ICE pays $100 per detainee per day. These are 2025 figures; no 2026 count or revenue figure was found. The "capacity 182" and "one of six Ohio jails" statements in earlier versions are not in that article and were removed pending a source.
 - **Forum**: Ohio Supreme Court (writ of mandamus denied)
 - **Significance**: Test case for transparency of ICE detention agreements nationally — the door remains open for a re-filed records request scoped to dates that capture the actually-existing contracts (e.g., the March 2024 USMS contract, or any ICE IGSA in force during 2025-2026 operations)
 
 ## Cross-reference: Accountability-Darkness Mechanism
 
-This fight is a textbook local-layer instance of the **accountability-darkness-as-detention-precondition** mechanism (see `cascade-research/mechanisms/accountability-darkness-as-detention-precondition.md`). The *substance* of the contract was never adjudicated; the sheriff prevailed by submitting a sworn affidavit narrowly true within a 9-month window while admitting a contract existed 11 days before that window opened. The county is operationally housing 37 ICE detainees daily and collecting ~$1.2M/yr — yet the public is told there is no responsive record to disclose.
+This fight is a textbook local-layer instance of the **accountability-darkness-as-detention-precondition** mechanism (see `cascade-research/mechanisms/accountability-darkness-as-detention-precondition.md`). The *substance* of the contract was never adjudicated; the sheriff prevailed by submitting a sworn affidavit narrowly true within a 9-month window while admitting a contract existed 11 days before that window opened. As of April 2025 the sheriff reported 37 ICE detainees held and roughly $1.2M received in the prior year — yet the public is told there is no responsive record to disclose.
 
 This parallels:
 - **Federal layer**: Madan FL/TX disclosure-suppression directive
@@ -55,6 +55,8 @@ The Geauga pattern adds a distinct sub-tactic: *temporal scoping* — using the 
 - [Geauga County sued to release contract for ICE detainees - Ohio Capital Journal (May 20, 2025)](https://ohiocapitaljournal.com/2025/05/20/ohios-geauga-county-sued-to-release-contract-for-ice-detainees/)
 - [Geauga County continues its fight to keep ICE contract secret - Ohio Capital Journal (Jun 20, 2025)](https://ohiocapitaljournal.com/2025/06/20/ohios-geauga-county-continues-its-fight-to-keep-ice-contract-secret/)
 - [Court will hear lawsuit over ICE records request against Geauga County Sheriff's Office - Ideastream Public Media (Aug 21, 2025)](https://www.ideastream.org/law-justice/2025-08-21/court-will-hear-lawsuit-over-ice-records-request-against-geauga-county-sheriffs-office)
+- [Anti-ICE Demonstrators Protest Outside Geauga Jail - Geauga County Maple Leaf (Apr 12, 2025)](https://www.geaugamapleleaf.com/news/anti-ice-demonstrators-protest-outside-geauga-jail/)
+- [20 Arrested in ICE Raids Held at Geauga Jail - Geauga County Maple Leaf (Jan 27, 2025)](https://www.geaugamapleleaf.com/news/20-arrested-in-ice-raids-held-at-geauga-jail/)
 - [Ohio Supreme Court Sides with Geauga Sheriff in Records Case - Geauga County Maple Leaf (Apr 2026)](https://www.geaugamapleleaf.com/news/ohio-supreme-court-sides-with-geauga-sheriff-in-records-case/)
 - [Ohio Supreme Court rules in sheriff's favor in ACLU case - Chagrin Valley Today (Apr 2026)](https://www.chagrinvalleytoday.com/communities/article_a0f0ad1c-a3af-4cd3-995d-617f7ab18efd.html)
 - [State ex Rel. Rosnick v. Geauga County Sheriff - ACLU of Ohio case page](https://www.acluohio.org/cases/state-ex-rel-rosnick-v-geauga-county-sheriff/)

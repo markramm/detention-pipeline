@@ -19,8 +19,8 @@ tags:
 - latino-justice-prldef
 - blakeman
 research_status: working
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-11-12"
+last_news_check: "2026-11-12"
 ---
 
 # Nassau County, NY: The First New York 287(g) Lawsuit
@@ -77,3 +77,15 @@ This case connects directly to Gov. Hochul's **Local Cops, Local Crimes Act** (s
 - [Long Island Press: NYCLU appeals State Supreme Court decision on ICE agreement (May 26, 2026)](https://www.longislandpress.com/2026/05/26/appeal-made-against-county-partnership-with-ice/) — Court ruled for county; NYCLU appeal
 - [NY Focus: Local police in Westchester, Long Island routinely help ICE make arrests (Apr 16, 2026)](https://nysfocus.com/2026/04/16/police-ice-arrests-nassau-westchester) — Informal cooperation documentation
 - [THE CITY: Outside NYC's sanctuary city, local police routinely collude with ICE (Apr 16, 2026)](https://www.thecity.nyc/2026/04/16/long-island-nassau-ice-collusion-hochul/) — Tip-off patterns
+
+## Later Developments
+
+- **Nassau yields to the state ban (reported Aug. 26, 2026):** WRVO reported that County Executive Bruce Blakeman gave way to the new state law that ends the county's formal 287(g) partnership, while saying police would still be told to cooperate with ICE "whenever possible." The article says the ban was enacted in May and took effect the week of Aug. 26 without giving an exact date.
+- **Sheriffs' challenge:** Rensselaer County Sheriff Kyle Bourgault is lead plaintiff in a federal suit by 15 county sheriffs, represented by the group FAIR, challenging the law's constitutionality; Blakeman said he would join it. Gov. Hochul and AG Letitia James called the suit a "frivolous waste of taxpayer dollars." WRVO also reported that earlier in August a federal judge issued a preliminary ruling rejecting a separate Trump administration challenge to the ban.
+- **AG letters (Aug. 25, 2026):** per WRVO, James sent Nassau and Rensselaer counties letters demanding documents on their compliance with the law.
+- **NYCLU appeal:** no report of a ruling or filing after the May 26, 2026 notice of appeal was found.
+
+## Sources (later developments)
+
+- [WRVO: Blakeman bows to NY law limiting cooperation with ICE (Aug. 26, 2026)](https://www.wrvo.org/2026-08-26/blakeman-bows-to-ny-law-limiting-cooperation-with-ice)
+

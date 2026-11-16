@@ -6,7 +6,7 @@ county: Baldwin
 state: AL
 facility: "Baldwin County Jail, Bay Minette; construction sites across county"
 status: litigation
-outcome: "Class-action Garcia Venegas v. Homan (1:25-cv-00397, S.D. Ala.) filed Sep 2025 by Institute for Justice. Plaintiff detained a THIRD time May 2, 2026. Chief Judge Beaverstock (Trump appointee) ruled May 20, 2026 that Venegas has STANDING, denying DHS's motion to dismiss. Preliminary-injunction hearing held May 27, 2026 in Mobile with live testimony from Venegas and HSI Acting ASAC Philip Lavoie; ruling pending. Raids continue."
+outcome: "Class-action Garcia Venegas v. Homan (1:25-cv-00397, S.D. Ala.) filed Sep 2025 by Institute for Justice. Plaintiff detained a THIRD time May 2, 2026. Chief Judge Beaverstock (Trump appointee) ruled May 20, 2026 that Venegas has STANDING, denying DHS's motion to dismiss. Preliminary-injunction hearing held May 27, 2026. On Sept. 21, 2026 Beaverstock granted the motion to the extent of temporarily staying three challenged DHS policies (warrantless entry, preemptive detention, continued detention) and denied it otherwise; the same day he conditionally certified the class. Case set for bench trial in February 2028."
 importance: 8
 tags:
 - baldwin-county
@@ -18,8 +18,8 @@ tags:
 - class-action
 - alabama
 research_status: working
-last_researched: "2026-05-28"
-last_news_check: "2026-05-28"
+last_researched: "2026-11-12"
+last_news_check: "2026-11-12"
 fips: '01003'
 ---
 
@@ -72,6 +72,16 @@ Fortune reported that Alabama builders are "rethinking deportations" as raids ca
 
 Baldwin County is a test case for the limits of warrantless workplace immigration enforcement. The Garcia Venegas lawsuit — brought by the Institute for Justice, a libertarian-leaning public interest firm — has potential to set Fourth Amendment precedent applicable nationwide. When even right-leaning legal organizations are challenging ICE tactics, the constitutional overreach is extreme. The racial profiling component (detaining all Latino workers regardless of citizenship) adds an equal protection dimension.
 
+## Later Developments
+
+Items below come from orders and entries on the court docket, *Venegas v. Homan*, No. 1:25-cv-00397 (S.D. Ala.).
+
+- **Preliminary-injunction ruling (ruled Sept. 21, 2026):** Chief Judge Beaverstock found Venegas likely to succeed on the merits against three alleged DHS policies and, under 5 U.S.C. 705, temporarily stayed them instead of enjoining them: the Warrantless Entry Policy (raiding private construction sites without a warrant or consent), the Preemptive Detention Policy (detaining workers without particularized suspicion) and the Continued Detention Policy (continuing to detain workers after they show evidence of citizenship or lawful presence). The order says a stay is a less drastic remedy than an injunction; the motion was denied in other respects. The government had argued the policies do not exist.
+- **Class and APA claims (ruled Sept. 21, 2026):** a separate order granted conditional class certification in part and denied the government's partial motion to dismiss the APA claims.
+- **Amended complaint (filed Oct. 13, 2026):** Venegas filed an amended class complaint adding defendants; three newly named defendants were served Oct. 27, 2026, answers due Dec. 28, 2026.
+- **Motion to reconsider (filed Oct. 19, 2026):** the government moved to reconsider or clarify the Sept. 21 orders; Venegas opposed on Nov. 2, 2026. The docket shows no ruling as of Nov. 9, 2026.
+- **Schedule (ordered Oct. 30, 2026):** discovery cutoff June 30, 2027; dispositive motions due July 30, 2027; bench trial in February 2028.
+
 ## Sources
 - [Alabama Construction Site Raids (Institute for Justice)](https://ij.org/case/alabama-construction-site-raids/)
 - [U.S. citizen wrongfully detained twice sues (PBS News, Oct 1 2025)](https://www.pbs.org/newshour/nation/u-s-citizen-wrongfully-detained-twice-in-alabama-workplace-raids-sues-immigration-authorities)
@@ -88,3 +98,5 @@ Baldwin County is a test case for the limits of warrantless workplace immigratio
 - ['I don't feel free': US citizen testifies about repeated immigration detentions (Courthouse News, May 27, 2026)](https://www.courthousenews.com/i-dont-feel-free-us-citizen-testifies-about-repeated-immigration-detentions/)
 - [How ICE Agents Detained One US Citizen Three Times (Newsweek, May 2026)](https://www.newsweek.com/how-ice-agents-detained-one-us-citizen-three-times-11928213)
 - [Venegas v. Homan 1:25-cv-00397 (S.D. Ala.) docket (Civil Rights Litigation Clearinghouse)](https://clearinghouse.net/case/47021/)
+- [Order on Motion for Preliminary Injunction, Venegas v. Homan (S.D. Ala., Sept. 21, 2026, PDF)](https://storage.courtlistener.com/recap/gov.uscourts.alsd.76579/gov.uscourts.alsd.76579.106.0.pdf)
+- [CourtListener docket: Venegas v. Homan, 1:25-cv-00397 (S.D. Ala.)](https://www.courtlistener.com/docket/71498589/venegas-v-homan/)

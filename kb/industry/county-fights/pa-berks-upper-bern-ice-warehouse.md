@@ -6,8 +6,8 @@ county: "Berks"
 state: PA
 fips: "42011"
 facility: "Upper Bern Township Warehouse, 3501 Mountain Road (1,500 beds planned)"
-status: paused
-outcome: "DHS purchased a 518,140 sq ft warehouse in Upper Bern Township on February 2, 2026 for $87.4M, planning a 1,500-bed immigration processing facility. PA DEP issued administrative orders on March 5, 2026, barring DHS from occupying the site or connecting to water or sewer until it demonstrates compliance with state environmental law — the proposed facility would spike sewage from 8,000 to 100,000 gallons per day against a 155,000-gpd plant. ICE filed an appeal April 8 with the Pennsylvania Environmental Hearing Board; Judge Bernard Labuskes Jr. assigned; discovery and settlement negotiations run through November 2026, with contested resolution potentially taking years."
+status: won
+outcome: "ICE confirmed in writing in July 2026 it will not use the warehouse for detention and withdrew its EHB appeal (reported July 23, 2026); DEP orders remain in place. Earlier: DHS purchased a 518,140 sq ft warehouse in Upper Bern Township on February 2, 2026 for $87.4M, planning a 1,500-bed immigration processing facility. PA DEP issued administrative orders on March 5, 2026, barring DHS from occupying the site or connecting to water or sewer until it demonstrates compliance with state environmental law — the proposed facility would spike sewage from 8,000 to 100,000 gallons per day against a 155,000-gpd plant. ICE filed an appeal April 8 with the Pennsylvania Environmental Hearing Board; Judge Bernard Labuskes Jr. assigned; discovery and settlement negotiations run through November 2026, with contested resolution potentially taking years."
 importance: 9
 tags:
   - dep-orders
@@ -21,8 +21,8 @@ tags:
   - pennsylvania
   - shapiro
 research_status: working
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-11-12"
+last_news_check: "2026-11-12"
 ---
 
 # Berks County, PA: The Upper Bern Warehouse Fight
@@ -68,6 +68,13 @@ Former DEP Secretary David Hess — who noted he had "never seen an administrati
 
 The Upper Bern case established the Shapiro administration's primary weapon against the warehouse conversion strategy: PA's environmental regulatory apparatus. DEP's move is unusual — it is not a legal challenge to federal authority but a state regulatory assertion that federal facilities must comply with state environmental law. The administration's leverage is the sewer and water hook-up permits that local authorities control. DHS cannot occupy the warehouse without them. Whether that leverage survives a federal sovereignty challenge in the Environmental Hearing Board — or beyond — is now the central question.
 
+## Later Developments
+
+- **ICE letters to DEP (reported July 22, 2026):** per the Pennsylvania Capital-Star (via WITF, July 23, 2026), ICE confirmed in writing, the week before, that it would not use the Upper Bern and Tremont warehouses as detention centers; Gov. Shapiro's media team released the letters on Wednesday, which the article's timing places on July 22 (an inference from "late Wednesday").
+- **Appeal withdrawn (filed July 22, 2026, inferred):** ICE dropped its Environmental Hearing Board appeal of the DEP orders in a one-sentence filing posted to the board's docket the same evening.
+- **DEP orders remain:** a statement from the Shapiro administration said the orders "will remain in place" even though DHS confirmed the warehouses will not be used for detention.
+- **Warehouses' status:** the article does not confirm a sale or any new use; it says the properties no longer generate tax revenue and that DHS properties do not qualify for payments in lieu of taxes. Upper Bern was planned for 1,500 people.
+
 ## Sources
 
 - [Spotlight PA: ICE buys $87M warehouse in Berks County (February 2026)](https://www.spotlightpa.org/berks/2026/02/ice-warehouse-berks-county-purchase-federal-government/)
@@ -80,3 +87,4 @@ The Upper Bern case established the Shapiro administration's primary weapon agai
 - [Spotlight PA: Berks ICE site unresolved construction deficiencies (March 2026)](https://www.spotlightpa.org/berks/2026/03/ice-warehouse-problems-federal-government/)
 - [Spotlight PA: Developers will pay PA township over ICE warehouse deficiencies — $82,390 (May 27, 2026)](https://www.spotlightpa.org/berks/2026/05/ice-warehouse-upper-bern-local-government/)
 - [WITF: ICE warehouse developer to pay $82K to resolve deficiencies (May 27, 2026)](https://www.witf.org/2026/05/27/ice-warehouse-developer-to-pay-82k-to-resolve-deficiencies/)
+- [Pennsylvania Capital-Star / WITF: ICE withdraws appeal of Pa. environmental directives tied to warehouse purchases (July 23, 2026)](https://www.witf.org/2026/07/23/ice-withdraws-appeal-of-pa-environmental-directives-tied-to-warehouse-purchases/)

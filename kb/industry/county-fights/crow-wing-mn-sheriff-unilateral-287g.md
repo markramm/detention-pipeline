@@ -38,7 +38,7 @@ Residents have packed board meetings demanding transparency and discussion. The 
 
 ## Timeline Update (May 2026 scan)
 
-- **January 16, 2026** — Court granted ACLU-MN's preliminary injunction against Freeborn County's 287(g) agreement. Crow Wing publicly indicated no change in approach despite the precedent.
+- **November 2026 (reported Nov. 2)** — The ACLU-MN Freeborn County suit is dismissed as not ripe (https://www.kaaltv.com/news/top-news/judge-dismisses-lawsuit-challenging-freeborn-countys-ice-agreement/). (Correction 2026-11-13: an earlier version of this site reported a January 16, 2026 preliminary injunction; no court record or report opened on 2026-11-13 confirms one.)
 - **January 28, 2026** — KAXE: Northern MN counties (including Crow Wing) issued public clarifications of how they cooperate with ICE in response to AG Ellison's December 12, 2025 opinion. Crow Wing did not rescind.
 - **February 13, 2026** — KAXE: Sheriff Klang publicly defended ICE's use of duplicate license plates during Brainerd-area enforcement operations.
 - **Early 2026** — Crow Wing County Sheriff's Office assisted DHS Homeland Security Investigations with four arrests at El Potro Mexican Restaurant in downtown Brainerd (per Star Tribune). Klang reported holding approximately 60 detainees apprehended in the Twin Cities area in his 287-bed jail since December 1, 2025.
@@ -50,7 +50,7 @@ Residents have packed board meetings demanding transparency and discussion. The 
 
 Crow Wing is the most aggressive 287(g) county in Minnesota — the only one with **both** TFM and WSO models. The TFM is especially significant because it allows deputies to enforce immigration law outside the jail, in the community. This makes Crow Wing not just a detention site but an active enforcement partner.
 
-The unilateral signing pattern — sheriff acts first, board deals with it later — is the same dynamic seen in Freeborn, Kandiyohi, Cass, and Itasca counties. The AG opinion creates a legal basis to challenge all of them, and the ACLU's Freeborn injunction (January 2026) provides the judicial precedent.
+The unilateral signing pattern — sheriff acts first, board deals with it later — is the same dynamic seen in Freeborn, Kandiyohi, Cass, and Itasca counties. The AG opinion creates a legal basis to challenge all of them, and the ACLU's Freeborn suit tested it in court (dismissed as not ripe, reported Nov. 2026).
 
 The 3-minute engagement time from the site visitor suggests someone deeply interested in this specific dynamic — likely a local organizer, journalist, or attorney.
 
@@ -60,7 +60,7 @@ Crow Wing MN appears to be a third instance of a recurring structural pattern: a
 
 - **Pinal County, AZ** — County Attorney Brad Miller signed 287(g) on his own authority; Board of Supervisors unanimously declared it illegal and void (and sued). See `/fights/pinal-county-az-rogue-attorney/`.
 - **Hamilton County, TN** — Sheriff signed 287(g); both county commission and Chattanooga city council concluded they have NO legal authority over the elected sheriff's decision. Locked in by Tennessee HB2219 (governance-capture-via-elected-sheriff-independence).
-- **Crow Wing County, MN** — Sheriff Klang signed both TFM and WSO unilaterally; AG Ellison's December 2025 opinion says only the board can do this; board has refused to act either way; residents and a sibling injunction (Freeborn) provide pressure but no formal board response as of May 2026.
+- **Crow Wing County, MN** — Sheriff Klang signed both TFM and WSO unilaterally; AG Ellison's December 2025 opinion says only the board can do this; board has refused to act either way; residents and the AG opinion provide pressure but no formal board response as of May 2026.
 
 The MN variant sits between the AZ and TN variants: unlike Pinal AZ, the Crow Wing board has not sued; unlike Hamilton TN, the AG opinion explicitly says the board *does* have legal authority — it is choosing not to use it. This is the 3+ instances criterion for spinning up a separate mechanism entry. **Flag for the conductor.**
 

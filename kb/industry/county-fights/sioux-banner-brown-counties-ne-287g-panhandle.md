@@ -19,7 +19,7 @@ tags:
 - banner-county
 - nebraska
 research_status: working
-last_researched: "2026-05-28"
+last_researched: "2026-11-12"
 ---
 
 # Sioux, Banner & Brown Counties NE — 287(g) Panhandle Expansion
@@ -53,9 +53,14 @@ The expansion tracks a new reimbursement regime: full reimbursement of each trai
 
 These are among the least-populated counties in Nebraska, with few immigrant residents and no detention capacity — task-force authority functions mainly as highway/patrol enforcement reach across the western Great Plains. Brown County's signup-then-withdrawal is a rare documented case of a county reversing a 287(g) commitment after discovering it could not operationally sustain it, a counterpoint to the prevailing expansion narrative.
 
+## Later Developments
+
+- **ACLU of Nebraska list (page updated Nov. 4, 2026):** the ACLU of Nebraska's Stop 287(g) page lists 16 Nebraska agencies with 287(g) agreements, including the Sioux County Sheriff's Office and the Banner County Sheriff's Office, both under the Task Force model. Brown County does not appear on the list, consistent with its withdrawal. The page gives no agreement start dates. Other listed agencies include the Nebraska State Patrol (Task Force) and the Nebraska Department of Correctional Services (Jail Enforcement). This is an advocacy-group list, not an ICE record.
+
 ## Sources
 
 - [ICE: Sioux County Sheriff's Office Task Force Model MOA (Sept 9, 2025, PDF)](https://www.ice.gov/doclib/287gMOA/SiouxCoSheriffsOfficeNE_TFM_MOA_09092025.pdf)
 - [Omaha Daily Record / KCUR: ICE partnerships spread in the Midwest, incentives rise](https://omahadailyrecord.com/content/ice-partnerships-spread-midwest-incentives-rise-and-civil-rights-concerns-deepen)
 - [KCUR: ICE offers incentives to Midwest police, raising civil rights worries](https://www.kcur.org/news/2025-09-22/ice-police-midwest-immigration-raids-civil-rights)
 - [ACLU of Nebraska: Stop 287(g)](https://www.aclunebraska.org/campaigns-initiatives/stop-287g/)
+- [ACLU of Nebraska: Stop 287(g) (page updated Nov. 4, 2026)](https://www.aclunebraska.org/campaigns-initiatives/stop-287g/)

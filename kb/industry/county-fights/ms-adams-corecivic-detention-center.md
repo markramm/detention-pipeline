@@ -68,6 +68,10 @@ A Department of Homeland Security inspection in 2021 found deficiencies includin
 
 The American Civil Liberties Union has called for the facility's **immediate closure**, citing the Rodriguez homicide ruling and ongoing documentation of preventable deaths and inadequate medical care across the ICE detention system. An ACLU investigation found that 95% of in-custody deaths were "preventable or possibly preventable if ICE had provided clinically appropriate medical care."
 
+## Later Developments
+
+- **August 23, 2026 (reported)**: Mississippi Today (republished by OurTupelo) reported that about 100 detainees protested over the weekend against conditions and meals, according to detainees interviewed. Staff had posted signs saying hot food and hot water would be unavailable "until further notice." Detainees said a special response team in riot gear broke up the protest and used spray; accounts differ on whether it was pepper spray or tear gas. Nearly 70 detainees had petitioned the warden about three weeks earlier to end triple-occupancy in two-person cells and floor beds. CoreCivic did not respond to requests for comment before publication; the article carries no ICE response. Details rest on detainee accounts ([OurTupelo republication of Mississippi Today](https://ourtupelo.com/approximately-100-detainees-protest-inside-corecivic-owned-natchez-ice-facility-after-hot-food-and-hot-water-are-halted/))
+
 ## Facility History
 
 ### 2012 Uprising
@@ -120,3 +124,4 @@ CoreCivic has owned the facility since 2007, opened it under a Bureau of Prisons
 - [DeSoto County News: Mississippi's Adams County ICE Facility Under Scrutiny](https://desotocountynews.com/mississippi-news/mississippis-adams-county-ice-facility-under-scrutiny/)
 - [ICE Detainee Death Report: FRANCISCO Rodriguez, Delvin](https://www.ice.gov/doclib/foia/reports/ddr_FRANCISCORodriguezDelvin.pdf)
 - [Wikipedia: Adams County Correctional Center](https://en.wikipedia.org/wiki/Adams_County_Correctional_Center)
+- [OurTupelo (republishing Mississippi Today): Approximately 100 detainees protest inside CoreCivic-owned Natchez ICE facility (August 23, 2026)](https://ourtupelo.com/approximately-100-detainees-protest-inside-corecivic-owned-natchez-ice-facility-after-hot-food-and-hot-water-are-halted/)

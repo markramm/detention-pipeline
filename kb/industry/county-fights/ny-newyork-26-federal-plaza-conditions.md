@@ -7,7 +7,7 @@ state: NY
 fips: "36061"
 facility: "26 Federal Plaza ICE Processing Center, Manhattan"
 status: active-litigation
-outcome: "Bench trial in Barco-Mercado v. Noem held May 27, 2026 before Judge Lewis Kaplan (SDNY); Kaplan raised the possibility of barring ICE from using the 26 Federal Plaza holding cells at all rather than merely capping capacity. Internal ICE communications surfaced at trial showed staff calling conditions 'insane.' No final ruling as of May 28, 2026 — Kaplan signaled he may request additional evidence. Separately, on May 19, 2026 Judge P. Kevin Castel barred ICE from making non-criminal arrests inside the three NYC immigration courts (26 Federal Plaza, 290 Broadway, 201 Varick), reversing his own 2025 order after DOJ admitted ICE lacked authority for courthouse enforcement."
+outcome: "Judge Kaplan converted the 2025 preliminary injunction into a permanent class-wide injunction (case terminated on the docket Sept. 24, 2026; amended final judgment Oct. 2, 2026) setting 50 sq. ft. per person occupancy caps, bedding, temperature, lighting, cleaning, meals and confidential phone access in all 26 Federal Plaza hold rooms. Government moved Oct. 22, 2026 to alter the judgment (pending as of Nov. 10). Separately, on May 19, 2026 Judge P. Kevin Castel barred ICE from most non-criminal arrests inside the three NYC immigration courts."
 importance: 9
 tags:
 - conditions-abuse
@@ -20,8 +20,8 @@ tags:
 - dan-goldman
 - kaplan
 research_status: working
-last_researched: "2026-06-02"
-last_news_check: "2026-06-02"
+last_researched: "2026-11-12"
+last_news_check: "2026-11-12"
 ---
 
 # 26 Federal Plaza, Manhattan: The Secret Floors Fight
@@ -83,3 +83,15 @@ Documented conditions inside 26 Federal Plaza:
 - [Gothamist: Trial reveals ICE knew about 'insane' crowding (May 2026)](https://gothamist.com/news/federal-trial-reveals-ice-knew-about-insane-crowding-in-nyc-holding-cells) — Internal communications
 - [amNewYork: Judge bars ICE from arresting immigrants at court-ordered hearings (May 2026)](https://www.amny.com/news/judge-bars-ice-arrests-immigrants-federal-plaza/) — Castel ruling
 - [NYIC: ICE flouts court ruling at 26 Federal Plaza (May 2026)](https://www.nyic.org/2026/05/ice-flaunts-court-ruling-at-26-federal-plaza/) — Advocate response to continued arrests
+
+## Later Developments
+
+Items below come from the court docket, *Barco Mercado v. Mullin* (formerly *v. Noem*), No. 1:25-cv-06568 (S.D.N.Y., Judge Lewis A. Kaplan).
+
+- **Permanent injunction (opinion and class certification dated Sept. 24, 2026 per the docket; amended final judgment entered Oct. 2, 2026):** the amended judgment, which recites an opinion of "even date" and certification of a Rule 23(b)(2) class, enjoins defendants to ensure that no detainee at 26 Federal Plaza (including the fifth, ninth and tenth floors) is held in a hold room with less than 50 sq. ft. per person (capped at 11, 1, 1 and 9 people in the four tenth-floor rooms and 2, 1, 1 and 1 in the four ninth-floor rooms); without a bedding mat, pillow and blanket for overnight stays; outside 68-74 degrees Fahrenheit; without lights dimmed from 9 p.m. to 7 a.m.; uncleaned fewer than three times a day; without soap, paper towels, toilet paper, oral hygiene and (for women) feminine hygiene products; or without three meals a day with bottled water. It also requires confidential, unmonitored, free phone calls to counsel (docket entry 191).
+- **Government motion to alter the judgment (filed Oct. 22, 2026):** defendants moved to alter the judgment (entry 192), with part of the supporting papers filed under seal; on Oct. 27 Kaplan granted sealing for 30 days and ordered the government to explain by Nov. 10 why light dimmers cannot be installed. Plaintiffs opposed Nov. 5; the government filed unsealed declarations Nov. 10 (entries 204-210). The docket shows no ruling as of Nov. 10, 2026.
+
+## Sources (later developments)
+
+- [CourtListener docket: Barco Mercado v. Mullin, 1:25-cv-06568 (S.D.N.Y.)](https://www.courtlistener.com/docket/71065570/barco-mercado-v-mullin/)
+- [Amended Final Judgment of Permanent Injunction, Barco Mercado v. Mullin (S.D.N.Y., Oct. 2, 2026, PDF)](https://storage.courtlistener.com/recap/gov.uscourts.nysd.647291/gov.uscourts.nysd.647291.191.0.pdf)

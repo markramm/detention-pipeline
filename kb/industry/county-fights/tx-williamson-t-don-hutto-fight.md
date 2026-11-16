@@ -21,8 +21,8 @@ tags:
   - texas
   - mega-detention
 research_status: working
-last_researched: "2026-05-27"
-last_news_check: "2026-05-27"
+last_researched: "2026-11-13"
+last_news_check: "2026-11-13"
 ---
 
 # Williamson County TX: T. Don Hutto Detention Center Fight
@@ -46,6 +46,7 @@ Hutto demonstrates the limit of county-level opposition: terminating an IGSA doe
 - **2018**: Williamson County Commissioners vote 4-1 to terminate the county's ICE/CoreCivic IGSA
 - **Jan 31, 2019**: County contract ends; ICE announces a direct short-term contract extension with CoreCivic to keep Hutto open
 - **2019**: Grassroots Leadership pursues litigation to obtain the ICE-CoreCivic contract and shine light on the arrangement
+- **Aug 6, 2020 (CoreCivic investor call; reported Aug 10, 2020 by Detention Watch Network)**: CoreCivic said it had signed a 10-year contract renewal with ICE for T. Don Hutto, so the direct ICE-CoreCivic arrangement is not a short-term extension. DWN described it as awarded after opposition from more than 45 organizations and Texas Representatives. The contract document itself was not opened.
 - **2025-2026**: Facility operational and listed "in use"; now houses adult men; appears on ICE's Texas detention expansion planning lists
 
 ## Key Actors
@@ -59,8 +60,14 @@ Hutto demonstrates the limit of county-level opposition: terminating an IGSA doe
 
 Williamson County (pop. >100k) is subject to **Texas SB 8**, which requires counties over 100,000 to enter 287(g) agreements with ICE by **Dec 1, 2026**, with the state attorney general empowered to sue non-compliant sheriffs. This layers a state mandate on top of the existing federal detention footprint at Hutto.
 
+## Update (November 13, 2026): items checked
+
+- **Texas Observer "three new 10-year contracts":** The Observer piece describing ICE pursuing three new 10-year private Texas contracts that could include Hutto (South Texas Detention Complex, Hutto, Houston Processing Center) could not be opened (site blocked automated access). Detention Watch Network's Aug 10, 2020 release, which was opened, reports the Hutto and South Texas awards in August 2020, so that solicitation appears to date from 2020, not 2026. It is not evidence of a new 2026 Hutto contract and has not been added as one.
+- **Guardian investigation (Oct 31, 2026):** A Davis Vanguard report, found in search results, attributes to the Guardian an Oct 31, 2026 investigation based on handwritten testimony from men held at Hutto. Neither the Guardian article nor the Davis Vanguard page could be opened (403 and security check), so no allegation or figure from it is stated here. Pending: open the Guardian article.
+
 ## Sources
 
+- [Detention Watch Network: Two notorious Texas detention centers receive new 10-year ICE contracts (Aug 10, 2020)](https://www.detentionwatchnetwork.org/pressroom/releases/2020/two-notorious-texas-detention-centers-receive-new-10-year-ice-contracts)
 - [Grassroots Leadership: Williamson County pulled out of contract — so why are the doors still open?](https://www.grassrootsleadership.org/press-releases/williamson-county-pulled-out-of-contract-with-t-don-hutto-detention-center-so-why-are-the-doors-still-open)
 - [KXAN: Williamson County agreement with ICE detention center ends Thursday](https://www.kxan.com/news/local/williamson-county/williamson-county-agreement-with-ice-detention-center-ends-thursday/)
 - [KXAN: Grassroots Leadership files lawsuit against ICE, T. Don Hutto Residential Center](https://www.kxan.com/news/local/williamson-county/grassroots-leadership-files-lawsuit-against-ice-t-don-hutto-residential-center/)
