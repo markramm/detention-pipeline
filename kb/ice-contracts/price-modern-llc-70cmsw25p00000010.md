@@ -1,14 +1,24 @@
 ---
 id: price-modern-llc-70cmsw25p00000010
-title: PRICE MODERN LLC — 70CMSW25P00000010 (TX) $32,553
+title: 'PRICE MODERN LLC — 70CMSW25P00000010 (TX) $32,553'
 type: ice-contract
+state: 'TX'
+contractor: 'PRICE MODERN LLC'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$32,553.00'
+contract_type: 'federal-contract'
+award_date: '2025-05-20'
+usaspending_id: '70CMSW25P00000010'
+source: 'USAspending.gov (award 70CMSW25P00000010)'
+signal_strength: 'strong'
+notes: 'THIS AWARD IS TO PROVIDE FUNDING FOR AN OUTSTANDING INVOICE FOR STORAGE FEES INCURRED AGAINST BPA-CALL 70CMSW24FC0000048 FOR IMMIGRATION AND CUSTOMS ENFORCEMENT (ICE); ENFORCEMENT AND REMOVAL (ERO) OFFICE LOCATED IN TX.'
 tags:
 - ice-contract
 - other
 - detention-related
 - tx
 importance: 5
-state: 'TX'
 ---
 
 ICE contract award.

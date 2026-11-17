@@ -1,14 +1,24 @@
 ---
 id: regency-consulting-inc-70cmsd25fr0000027
-title: REGENCY CONSULTING INC — 70CMSD25FR0000027 (IA) $39,138
+title: 'REGENCY CONSULTING INC — 70CMSD25FR0000027 (IA) $39,138'
 type: ice-contract
+state: 'IA'
+contractor: 'REGENCY CONSULTING INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$39,137.88'
+contract_type: 'federal-contract'
+award_date: '2025-05-02'
+usaspending_id: '70CMSD25FR0000027'
+source: 'USAspending.gov (award 70CMSD25FR0000027)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES POWER DISTRIBUTION UNITS AND UNINTERRUPTIBLE POWER SUPPLIES, WHICH ARE REQUIRED FOR COMMUNICATION FOR THE COMMISSION ON ACCREDITATION FOR LAW ENFORCEMENT AGENCIES, INC. NETWORK FOR HOMELAND SECURITY INVESTIGATIONS, CYBER AND OPERA'
 tags:
 - ice-contract
 - other
 - other-ice
 - ia
 importance: 5
-state: 'IA'
 ---
 
 ICE contract award.

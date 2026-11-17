@@ -1,12 +1,12 @@
 ---
 id: ricoh-usa-inc-70cmsd22fr0000127
-title: 'RICOH USA INC — 70CMSD22FR0000127 (CO) $17,268'
+title: 'RICOH USA INC — 70CMSD22FR0000127 (CO) $21,584'
 type: ice-contract
 state: 'CO'
 contractor: 'RICOH USA INC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$17,267.52'
+contract_value: '$21,584.40'
 contract_type: 'federal-contract'
 award_date: '2022-08-23'
 usaspending_id: '70CMSD22FR0000127'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: RICOH USA INC
 Award ID: 70CMSD22FR0000127
-Amount: $17,267.52
+Amount: $21,584.40
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: LEASE OF MFDS
-Period: 2022-08-23 to 2026-12-04
+Period: 2022-08-23 to 2027-12-04
 Location: None, CO
