@@ -1,14 +1,24 @@
 ---
 id: cellebrite-inc-70cmsd25p00000141
-title: CELLEBRITE INC — 70CMSD25P00000141 (VA) $11,112,194
+title: 'CELLEBRITE INC — 70CMSD25P00000141 (VA) $11,112,194'
 type: ice-contract
+state: 'VA'
+contractor: 'CELLEBRITE INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$11,112,194.40'
+contract_type: 'federal-contract'
+award_date: '2025-09-30'
+usaspending_id: '70CMSD25P00000141'
+source: 'USAspending.gov (award 70CMSD25P00000141)'
+signal_strength: 'weak'
+notes: 'THIS CONTRACT PROVIDES CELLEBRITE PRODUCTS AND SERVICES FOR HOMELAND SECURITY INVESTIGATIONS TO CONDUCT MOBILE FORENSICS INVESTIGATIONS. THESE TOOLS SUPPORT INVESTIGATIONS AND OPERATIONS REQUIRING ADVANCED DIGITAL FORENSIC CAPABILITIES'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

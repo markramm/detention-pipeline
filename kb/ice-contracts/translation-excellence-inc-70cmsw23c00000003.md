@@ -1,14 +1,24 @@
 ---
 id: translation-excellence-inc-70cmsw23c00000003
-title: TRANSLATION EXCELLENCE INC. — 70CMSW23C00000003 (CO) $1,297,522
+title: 'TRANSLATION EXCELLENCE INC. — 70CMSW23C00000003 (CO) $1,297,522'
 type: ice-contract
+state: 'CO'
+contractor: 'TRANSLATION EXCELLENCE INC.'
+contractor_type: 'other'
+contract_class: 'detention-related'
+contract_value: '$1,297,521.64'
+contract_type: 'federal-contract'
+award_date: '2023-02-26'
+usaspending_id: '70CMSW23C00000003'
+source: 'USAspending.gov (award 70CMSW23C00000003)'
+signal_strength: 'strong'
+notes: 'SPANISH INSTRUCTION-ESTABLISH A CONTRACT TO PROVIDE ICE/ERO DEPORTATION OFFICERS WITH SPANISH INSTRUCTION/TRANSLATION SERVICES'
 tags:
 - ice-contract
 - other
 - detention-related
 - co
 importance: 5
-state: 'CO'
 ---
 
 ICE contract award.

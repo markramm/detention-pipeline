@@ -1,14 +1,24 @@
 ---
 id: advanced-healthstyles-fitness-equipment-inc-70cmsw25fr0000146
-title: ADVANCED HEALTHSTYLES FITNESS EQUIPMENT, INC. — 70CMSW25FR0000146 (CO) $86,199
+title: 'ADVANCED HEALTHSTYLES FITNESS EQUIPMENT, INC. — 70CMSW25FR0000146 (CO) $86,199'
 type: ice-contract
+state: 'CO'
+contractor: 'ADVANCED HEALTHSTYLES FITNESS EQUIPMENT, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$86,199.48'
+contract_type: 'federal-contract'
+award_date: '2025-09-26'
+usaspending_id: '70CMSW25FR0000146'
+source: 'USAspending.gov (award 70CMSW25FR0000146)'
+signal_strength: 'weak'
+notes: 'THIS DELIVERY ORDER PROCURES VARIOUS FITNESS EQUIPMENT FOR AN ICE OFFICE IN CO TO SUPPORT ICE- OFFICE OF FACILITIES AND ASSET MANAGEMENT.'
 tags:
 - ice-contract
 - other
 - other-ice
 - co
 importance: 5
-state: 'CO'
 ---
 
 ICE contract award.

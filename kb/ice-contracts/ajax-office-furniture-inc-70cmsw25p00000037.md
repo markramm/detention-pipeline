@@ -1,14 +1,24 @@
 ---
 id: ajax-office-furniture-inc-70cmsw25p00000037
-title: AJAX OFFICE FURNITURE, INC — 70CMSW25P00000037 (FL) $55,747
+title: 'AJAX OFFICE FURNITURE, INC — 70CMSW25P00000037 (FL) $55,747'
 type: ice-contract
+state: 'FL'
+contractor: 'AJAX OFFICE FURNITURE, INC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$55,747.00'
+contract_type: 'federal-contract'
+award_date: '2025-07-29'
+usaspending_id: '70CMSW25P00000037'
+source: 'USAspending.gov (award 70CMSW25P00000037)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES PARTITION WALLS TO CREATE OFFICE SPACE FOR HOMELAND SECURITY INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - fl
 importance: 5
-state: 'FL'
 ---
 
 ICE contract award.
