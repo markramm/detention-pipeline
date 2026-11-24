@@ -1,12 +1,12 @@
 ---
 id: old-harbor-solutions-llc-70cmsw23c00000029
-title: 'OLD HARBOR SOLUTIONS LLC — 70CMSW23C00000029 (GA) $6,915,945'
+title: 'OLD HARBOR SOLUTIONS LLC — 70CMSW23C00000029 (GA) $6,951,870'
 type: ice-contract
 state: 'GA'
 contractor: 'OLD HARBOR SOLUTIONS LLC'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$6,915,944.95'
+contract_value: '$6,951,869.77'
 contract_type: 'federal-contract'
 award_date: '2023-09-25'
 usaspending_id: '70CMSW23C00000029'
@@ -25,7 +25,7 @@ ICE contract award.
 
 Recipient: OLD HARBOR SOLUTIONS LLC
 Award ID: 70CMSW23C00000029
-Amount: $6,915,944.95
+Amount: $6,951,869.77
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: FORT MOORE TRAINING SUPPORT SERVICES, OFTP, SDU

@@ -29,5 +29,5 @@ Amount: $1,501,315.02
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS AWARD PROVIDES IT EQUIPMENT, SPECIFICALLY COMPATIBLE USB-C HUBS, PORTABLE MONITORS, AND SCANNERS, TO SUPPORT OPLA ATTORNEYS IN THE FIELD.
-Period: 2026-02-11 to 2026-03-11
+Period: 2026-02-11 to 2026-03-17
 Location: None, TX

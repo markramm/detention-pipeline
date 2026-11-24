@@ -1,14 +1,24 @@
 ---
 id: software-information-resource-corp-70cmsd25fr0000037
-title: SOFTWARE INFORMATION RESOURCE CORP. — 70CMSD25FR0000037 (VA) $25,242
+title: 'SOFTWARE INFORMATION RESOURCE CORP. — 70CMSD25FR0000037 (VA) $25,242'
 type: ice-contract
+state: 'VA'
+contractor: 'SOFTWARE INFORMATION RESOURCE CORP.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$25,242.00'
+contract_type: 'federal-contract'
+award_date: '2025-06-01'
+usaspending_id: '70CMSD25FR0000037'
+source: 'USAspending.gov (award 70CMSD25FR0000037)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES FOR PASSWARE & X-WAYS WINHEX LICENSES FOR PASSWORD DECRYPTION AND IMAGE SEARCHING TO SUPPORT THE COMPUTER FORENSICS PROGRAM AT THE CYBER CRIMES CENTER.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.
