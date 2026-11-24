@@ -1,14 +1,24 @@
 ---
 id: govsmart-inc-70cmsd25fr0000042
-title: GOVSMART, INC. — 70CMSD25FR0000042 (VA) $52,214
+title: 'GOVSMART, INC. — 70CMSD25FR0000042 (VA) $52,214'
 type: ice-contract
+state: 'VA'
+contractor: 'GOVSMART, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$52,214.27'
+contract_type: 'federal-contract'
+award_date: '2025-06-09'
+usaspending_id: '70CMSD25FR0000042'
+source: 'USAspending.gov (award 70CMSD25FR0000042)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROCURES SPLUNK ENTERPRISE SOFTWARE LICENSES, WHICH SUPPORTS HOMELAND SECURITY INVESTIGATION WITH LOGGING DATA AGGREGATION, PERFORMING ANALYSIS, AND CONDUCTING SECURITY SCANS OF ICE NETWORK.'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

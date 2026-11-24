@@ -1,14 +1,24 @@
 ---
 id: sayari-analytics-llc-70cmsd25p00000150
-title: SAYARI ANALYTICS, LLC — 70CMSD25P00000150 (DC) $45,856
+title: 'SAYARI ANALYTICS, LLC — 70CMSD25P00000150 (DC) $45,856'
 type: ice-contract
+state: 'DC'
+contractor: 'SAYARI ANALYTICS, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$45,856.00'
+contract_type: 'federal-contract'
+award_date: '2025-09-30'
+usaspending_id: '70CMSD25P00000150'
+source: 'USAspending.gov (award 70CMSD25P00000150)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES ICE HOMELAND SECURITY INVESTIGATIONS CYBER CRIMES OFFICE WITH SOFTWARE LICENSES FOR USE IN SUPPORT OF ONGOING LAW ENFORCEMENT INVESTIGATIONS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - dc
 importance: 5
-state: 'DC'
 ---
 
 ICE contract award.

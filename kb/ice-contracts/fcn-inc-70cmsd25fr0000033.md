@@ -1,14 +1,24 @@
 ---
 id: fcn-inc-70cmsd25fr0000033
-title: FCN, INC. — 70CMSD25FR0000033 (MD) $18,000
+title: 'FCN, INC. — 70CMSD25FR0000033 (MD) $18,000'
 type: ice-contract
+state: 'MD'
+contractor: 'FCN, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$18,000.00'
+contract_type: 'federal-contract'
+award_date: '2025-05-13'
+usaspending_id: '70CMSD25FR0000033'
+source: 'USAspending.gov (award 70CMSD25FR0000033)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS AWARD IS TO PROCURE PRINTERS TO SUPPORT ADMINISTRATIVE NEEDS OF THE OFFICES OF ICE STUDENT EXCHANGE VISITOR PROGRAM.'
 tags:
 - ice-contract
 - other
 - other-ice
 - md
 importance: 5
-state: 'MD'
 ---
 
 ICE contract award.

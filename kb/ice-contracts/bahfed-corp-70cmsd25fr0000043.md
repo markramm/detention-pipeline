@@ -1,14 +1,24 @@
 ---
 id: bahfed-corp-70cmsd25fr0000043
-title: BAHFED CORP — 70CMSD25FR0000043 (OR) $131,287
+title: 'BAHFED CORP — 70CMSD25FR0000043 (OR) $131,287'
 type: ice-contract
+state: 'OR'
+contractor: 'BAHFED CORP'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$131,286.80'
+contract_type: 'federal-contract'
+award_date: '2025-06-15'
+usaspending_id: '70CMSD25FR0000043'
+source: 'USAspending.gov (award 70CMSD25FR0000043)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES LICENSES AND SUPPORT SERVICES REQUIRED FOR CRIMINAL INVESTIGATIONS INVOLVING UNMANNED AIRCRAFT SYSTEMS FOR ICE CYBER CRIMES CENTER.'
 tags:
 - ice-contract
 - other
 - other-ice
 - or
 importance: 5
-state: 'OR'
 ---
 
 ICE contract award.

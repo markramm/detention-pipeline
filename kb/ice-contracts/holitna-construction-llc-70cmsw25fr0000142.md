@@ -1,14 +1,24 @@
 ---
 id: holitna-construction-llc-70cmsw25fr0000142
-title: HOLITNA CONSTRUCTION, LLC — 70CMSW25FR0000142 (AK) $28,901
+title: 'HOLITNA CONSTRUCTION, LLC — 70CMSW25FR0000142 (AK) $28,901'
 type: ice-contract
+state: 'AK'
+contractor: 'HOLITNA CONSTRUCTION, LLC'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$28,900.52'
+contract_type: 'federal-contract'
+award_date: '2025-09-26'
+usaspending_id: '70CMSW25FR0000142'
+source: 'USAspending.gov (award 70CMSW25FR0000142)'
+signal_strength: 'weak'
+notes: 'THIS DELIVERY ORDER IS FOR THE PURCHASE AND INSTALL OF A FULL LITE GLASS DOOR FOR PCN DEPUTY DIRECTOR AT ICE HQ.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ak
 importance: 5
-state: 'AK'
 ---
 
 ICE contract award.

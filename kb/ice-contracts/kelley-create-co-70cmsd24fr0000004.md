@@ -1,12 +1,12 @@
 ---
 id: kelley-create-co-70cmsd24fr0000004
-title: 'KELLEY CREATE CO — 70CMSD24FR0000004 (CA) $7,088'
+title: 'KELLEY CREATE CO — 70CMSD24FR0000004 (CA) $9,451'
 type: ice-contract
 state: 'CA'
 contractor: 'KELLEY CREATE CO'
 contractor_type: 'other'
 contract_class: 'other-ice'
-contract_value: '$7,088.40'
+contract_value: '$9,451.20'
 contract_type: 'federal-contract'
 award_date: '2024-03-01'
 usaspending_id: '70CMSD24FR0000004'
@@ -25,9 +25,9 @@ ICE contract award.
 
 Recipient: KELLEY CREATE CO
 Award ID: 70CMSD24FR0000004
-Amount: $7,088.40
+Amount: $9,451.20
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: LEASE A NEW COPIER FOR CONCORD, CA (FACILITIES)
-Period: 2024-03-01 to 2027-03-24
+Period: 2024-03-01 to 2028-03-24
 Location: None, CA

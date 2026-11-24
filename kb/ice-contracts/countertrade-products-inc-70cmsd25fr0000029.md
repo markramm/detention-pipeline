@@ -1,14 +1,24 @@
 ---
 id: countertrade-products-inc-70cmsd25fr0000029
-title: COUNTERTRADE PRODUCTS, INC. — 70CMSD25FR0000029 (VA) $128,524
+title: 'COUNTERTRADE PRODUCTS, INC. — 70CMSD25FR0000029 (VA) $128,524'
 type: ice-contract
+state: 'VA'
+contractor: 'COUNTERTRADE PRODUCTS, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$128,523.77'
+contract_type: 'federal-contract'
+award_date: '2025-06-26'
+usaspending_id: '70CMSD25FR0000029'
+source: 'USAspending.gov (award 70CMSD25FR0000029)'
+signal_strength: 'weak'
+notes: 'THIS AWARD PROVIDES MANAGEENGINE SOFTWARE, WHICH IS REQUIRED TO ENHANCE NETWORK SECURITY, SIMPLIFY INFORMATION TECHNOLOGY (IT) ADMINISTRATION & SUPPORT CYBERSECURITY COMPLIANCE WITHIN HOMELAND SECURITY INVESTIGATIONS'' EXISTING IT INFRASTRUCT'
 tags:
 - ice-contract
 - other
 - other-ice
 - va
 importance: 5
-state: 'VA'
 ---
 
 ICE contract award.

@@ -29,5 +29,5 @@ Amount: $1,235,350.00
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THIS ORDER PROVIDES SMALL UNMANNED AIRCRAFT SYSTEMS FOR SUPPORT IN HOMELAND SECURITY OPERATIONS AND INVESTIGATIONS.
-Period: 2026-08-31 to 2027-02-28
+Period: 2026-08-31 to 2027-05-31
 Location: None, VA

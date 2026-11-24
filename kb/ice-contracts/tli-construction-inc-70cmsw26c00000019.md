@@ -29,5 +29,5 @@ Amount: $2,539,539.90
 Agency: Department of Homeland Security
 Sub-Agency: U.S. Immigration and Customs Enforcement
 Description: THE PURPOSE OF THIS TASK ORDER IS TO PROCURE DESIGN BUILD SERVICES FOR LED LIGHTING AND OCCUPANCY SENSOR UPGRADE PROJECT, BATAVIA NY.
-Period: 2026-09-25 to 2027-04-13
+Period: 2026-09-25 to 2027-10-24
 Location: None, NY

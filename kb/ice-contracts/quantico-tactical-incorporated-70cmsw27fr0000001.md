@@ -1,0 +1,33 @@
+---
+id: quantico-tactical-incorporated-70cmsw27fr0000001
+title: 'QUANTICO TACTICAL INCORPORATED — 70CMSW27FR0000001 (NC) $110,210'
+type: ice-contract
+state: 'NC'
+contractor: 'QUANTICO TACTICAL INCORPORATED'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$110,209.94'
+contract_type: 'federal-contract'
+award_date: '2026-11-06'
+usaspending_id: '70CMSW27FR0000001'
+source: 'USAspending.gov (award 70CMSW27FR0000001)'
+signal_strength: 'weak'
+notes: 'THE AWARD PROVIDES LESS-LETHAL WEAPON OPTIONS TO SUPPORT INITIAL QUALIFICATION, REFRESHER TRAINING, AND SCENARIO-BASED EXERCISES FOR AUTHORIZED PERSONNEL ON THE SAFE HANDLING OF DEPLOYMENT FOR THE OFFICE OF FIREARMS AND TACTICAL PROGRAMS'
+tags:
+- ice-contract
+- other
+- other-ice
+- nc
+importance: 5
+---
+
+ICE contract award.
+
+Recipient: QUANTICO TACTICAL INCORPORATED
+Award ID: 70CMSW27FR0000001
+Amount: $110,209.94
+Agency: Department of Homeland Security
+Sub-Agency: U.S. Immigration and Customs Enforcement
+Description: THE AWARD PROVIDES LESS-LETHAL WEAPON OPTIONS TO SUPPORT INITIAL QUALIFICATION, REFRESHER TRAINING, AND SCENARIO-BASED EXERCISES FOR AUTHORIZED PERSONNEL ON THE SAFE HANDLING OF DEPLOYMENT FOR THE OFFICE OF FIREARMS AND TACTICAL PROGRAMS
+Period: 2026-11-06 to 2027-01-05
+Location: None, NC

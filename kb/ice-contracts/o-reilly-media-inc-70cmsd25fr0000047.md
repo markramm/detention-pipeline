@@ -1,14 +1,24 @@
 ---
 id: o-reilly-media-inc-70cmsd25fr0000047
-title: O'REILLY MEDIA, INC. — 70CMSD25FR0000047 (CA) $74,153
+title: 'O''REILLY MEDIA, INC. — 70CMSD25FR0000047 (CA) $74,153'
 type: ice-contract
+state: 'CA'
+contractor: 'O''REILLY MEDIA, INC.'
+contractor_type: 'other'
+contract_class: 'other-ice'
+contract_value: '$74,153.10'
+contract_type: 'federal-contract'
+award_date: '2025-08-03'
+usaspending_id: '70CMSD25FR0000047'
+source: 'USAspending.gov (award 70CMSD25FR0000047)'
+signal_strength: 'weak'
+notes: 'THE PURPOSE OF THIS DELIVERY ORDER IS TO PROCURE LEARNING PLATFORM SUBSCRIPTIONS TO SUPPORT ACCESS TO SPECIALIZED BOOKS, TRAINING, AND EXAMS, WHICH ARE UTILIZED BY HOMELAND SECURITY INVESTIGATIONS TRAINING PROGRAMS.'
 tags:
 - ice-contract
 - other
 - other-ice
 - ca
 importance: 5
-state: 'CA'
 ---
 
 ICE contract award.
